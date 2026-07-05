@@ -4,19 +4,23 @@ import os
 import random
 import re
 import sys
+import xml.etree.ElementTree as ET
 from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import List, Tuple
+from urllib.parse import urlparse
 
-import feedparser
 import requests
 import trafilatura
 from bs4 import BeautifulSoup
 
 
+# Yahoo RSS often returns HTTP 403 from cloud runners, so the defaults below
+# use feeds that worked reliably in Claude Code Routine cloud runs.
 DEFAULT_RSS_FEEDS = [
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "https://www.theguardian.com/world/rss",
+    "https://feeds.npr.org/1001/rss.xml",
     "https://feeds.arstechnica.com/arstechnica/index",
 ]
 
@@ -26,12 +30,68 @@ class Article:
     title: str
     url: str
     text: str
-    source: str = "Yahoo"
+    source: str = "Unknown"
     date: str = ""
 
 
 def split_env_list(value: str) -> List[str]:
     return [x.strip() for x in value.split(",") if x.strip()]
+
+
+def http_get(url: str) -> requests.Response:
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (compatible; DailyEnglishReader/2.0; "
+            "+https://github.com/YossefM1/daily-english-reader)"
+        ),
+        "Accept": "application/rss+xml, application/xml, text/xml, text/html;q=0.9, */*;q=0.8",
+    }
+    response = requests.get(url, headers=headers, timeout=30)
+    response.raise_for_status()
+    return response
+
+
+def strip_xml_ns(tag: str) -> str:
+    return tag.split("}", 1)[-1] if "}" in tag else tag
+
+
+def child_text(element: ET.Element, names: List[str]) -> str:
+    for child in list(element):
+        if strip_xml_ns(child.tag).lower() in names:
+            return (child.text or "").strip()
+    return ""
+
+
+def parse_rss_links(xml_text: str) -> List[Tuple[str, str]]:
+    """
+    Minimal RSS/Atom parser using only Python stdlib.
+    This avoids feedparser and its sgmllib3k dependency, which failed to build
+    in the Claude Routine Debian environment.
+    """
+    root = ET.fromstring(xml_text)
+    entries: List[Tuple[str, str]] = []
+
+    for elem in root.iter():
+        tag = strip_xml_ns(elem.tag).lower()
+
+        if tag == "item":  # RSS
+            title = child_text(elem, ["title"])
+            link = child_text(elem, ["link"])
+            if title and link:
+                entries.append((title, link))
+
+        elif tag == "entry":  # Atom
+            title = child_text(elem, ["title"])
+            link = ""
+            for child in list(elem):
+                if strip_xml_ns(child.tag).lower() == "link":
+                    link = child.attrib.get("href", "").strip()
+                    if link:
+                        break
+            if title and link:
+                entries.append((title, link))
+
+    return entries
 
 
 def choose_article_url() -> str:
@@ -42,18 +102,21 @@ def choose_article_url() -> str:
     feeds = split_env_list(os.getenv("RSS_FEEDS", "")) or DEFAULT_RSS_FEEDS
     entries: List[Tuple[str, str]] = []
 
+    errors = []
     for feed_url in feeds:
-        parsed = feedparser.parse(feed_url)
-        for entry in parsed.entries[:15]:
-            link = getattr(entry, "link", "")
-            title = getattr(entry, "title", "")
-            if link and title:
-                entries.append((title, link))
+        try:
+            response = http_get(feed_url)
+            feed_entries = parse_rss_links(response.text)
+            entries.extend(feed_entries[:12])
+            print(f"Feed OK: {feed_url} ({len(feed_entries)} entries)")
+        except Exception as exc:
+            errors.append(f"{feed_url}: {exc}")
+            print(f"Feed failed: {feed_url}: {exc}", file=sys.stderr)
 
     if not entries:
-        raise RuntimeError("No article links found. Set ARTICLE_URL or RSS_FEEDS.")
+        raise RuntimeError("No article links found. Feed errors:\n" + "\n".join(errors))
 
-    return random.choice(entries[:10])[1]
+    return random.choice(entries[:20])[1]
 
 
 def normalize_text(text: str) -> str:
@@ -61,6 +124,21 @@ def normalize_text(text: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"[ \t]+", " ", text)
     return text.strip()
+
+
+def source_from_url(url: str) -> str:
+    host = urlparse(url).netloc.lower().replace("www.", "")
+    if "bbc" in host:
+        return "BBC"
+    if "guardian" in host:
+        return "The Guardian"
+    if "npr" in host:
+        return "NPR"
+    if "arstechnica" in host:
+        return "Ars Technica"
+    if "yahoo" in host:
+        return "Yahoo"
+    return host or "Unknown"
 
 
 def extract_article(url: str) -> Article:
@@ -78,10 +156,10 @@ def extract_article(url: str) -> Article:
             data = json.loads(extracted_json)
             title = data.get("title") or "Daily English Article"
             text = normalize_text(data.get("text") or "")
-            source = data.get("sitename") or "Yahoo"
+            source = data.get("sitename") or source_from_url(url)
             date = data.get("date") or ""
 
-            if len(text.split()) >= 250:
+            if len(text.split()) >= 180:
                 return Article(
                     title=title.strip(),
                     url=url,
@@ -90,11 +168,8 @@ def extract_article(url: str) -> Article:
                     date=date,
                 )
 
-    headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; DailyEnglishReader/1.0; personal educational use)"
-    }
-    response = requests.get(url, headers=headers, timeout=25)
-    response.raise_for_status()
+    # Fallback extraction if trafilatura fails.
+    response = http_get(url)
 
     soup = BeautifulSoup(response.text, "html.parser")
     for tag in soup(["script", "style", "nav", "footer", "aside", "form"]):
@@ -109,7 +184,7 @@ def extract_article(url: str) -> Article:
             "Could not extract enough article text. Try another ARTICLE_URL or RSS_FEEDS source."
         )
 
-    return Article(title=title.strip(), url=url, text=text, source="Yahoo")
+    return Article(title=title.strip(), url=url, text=text, source=source_from_url(url))
 
 
 def trim_article(text: str) -> str:
@@ -141,6 +216,7 @@ def main() -> None:
     print(f"Saved article to {out_path}")
     print(f"Title: {article.title}")
     print(f"URL: {article.url}")
+    print(f"Source: {article.source}")
     print(f"Words: {len(article.text.split())}")
 
 

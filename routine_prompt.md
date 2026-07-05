@@ -5,11 +5,23 @@ Create and publish one polished English-learning HTML page based on one current 
 
 Follow the repository instructions in `CLAUDE.md` exactly.
 
+Important:
+- Do not use email or SMTP.
+- Do not use Claude API.
+- Use a Python virtual environment.
+- Do not use feedparser.
+- Push the generated `docs/index.html` to `main`, not only to a temporary Claude branch.
+
 Execution steps:
+
 1. From the repository root, run:
+   python -m venv .venv
+   . .venv/bin/activate
+   python -m pip install --upgrade pip setuptools wheel
    python -m pip install -r requirements.txt
 
 2. Run:
+   . .venv/bin/activate
    python src/fetch_article.py
 
 3. Open and read:
@@ -39,19 +51,26 @@ Vocabulary rules:
 - Hebrew should be natural and useful for an Israeli Hebrew speaker.
 - Add niqqud in the Hebrew pronunciation where possible.
 
-5. Run:
+5. Validate `data/vocabulary.json`:
+   - It must be valid JSON.
+   - It must contain 18–35 words.
+   - Every `word` should appear in the article text.
+
+6. Run:
+   . .venv/bin/activate
    python src/build_html.py
 
-6. Commit and push the generated page:
+7. Commit and push the generated page to `main`:
    git config user.name "Claude Routine"
    git config user.email "claude-routine@example.com"
    git add docs/index.html
    git commit -m "Update daily English article" || echo "No changes to commit"
-   git push
+   git push origin HEAD:main
 
-Success means `docs/index.html` was updated in GitHub.
+Success means `docs/index.html` was updated in GitHub on the `main` branch.
+
 At the end, report only:
 - article title
 - original URL
 - number of vocabulary words
-- whether docs/index.html was updated successfully
+- whether docs/index.html was updated successfully on main

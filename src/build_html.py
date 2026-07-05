@@ -14,7 +14,7 @@ class Article:
     title: str
     url: str
     text: str
-    source: str = "Yahoo"
+    source: str = "Unknown"
     date: str = ""
 
 
@@ -24,7 +24,7 @@ def load_article(path: Path) -> Article:
         title=str(data.get("title", "Daily English Article")),
         url=str(data.get("url", "")),
         text=str(data.get("text", "")),
-        source=str(data.get("source", "Yahoo")),
+        source=str(data.get("source", "Unknown")),
         date=str(data.get("date", "")),
     )
 

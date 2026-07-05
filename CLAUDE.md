@@ -23,19 +23,31 @@ docs/index.html
 
 This allows the page to be served by GitHub Pages.
 
+## Important implementation notes
+
+- Do not use email or SMTP in this version.
+- Do not use Claude API in this version.
+- Use a Python virtual environment for dependency installation.
+- `feedparser` is intentionally not used, because its `sgmllib3k` dependency failed to build in Claude's Debian cloud environment.
+- Yahoo RSS is intentionally not in the default feeds because Yahoo returned HTTP 403 from Claude's cloud environment.
+
 ## Routine run steps
 
 Run these commands from the repository root.
 
-### 1. Install dependencies
+### 1. Prepare Python environment
 
 ```bash
+python -m venv .venv
+. .venv/bin/activate
+python -m pip install --upgrade pip setuptools wheel
 python -m pip install -r requirements.txt
 ```
 
 ### 2. Fetch article
 
 ```bash
+. .venv/bin/activate
 python src/fetch_article.py
 ```
 
@@ -88,6 +100,7 @@ Vocabulary selection rules:
 ### 5. Build HTML page
 
 ```bash
+. .venv/bin/activate
 python src/build_html.py
 ```
 
@@ -98,23 +111,17 @@ docs/index.html
 data/daily_article.html
 ```
 
-### 6. Commit and push the generated page
-
-After `docs/index.html` is created, commit and push it:
+### 6. Commit and push the generated page to main
 
 ```bash
 git config user.name "Claude Routine"
 git config user.email "claude-routine@example.com"
 git add docs/index.html
 git commit -m "Update daily English article" || echo "No changes to commit"
-git push
+git push origin HEAD:main
 ```
 
-## Required environment variables
-
-No email variables are required in this version.
-
-Optional environment variables:
+## Optional environment variables
 
 ```text
 ARTICLE_URL
@@ -127,7 +134,7 @@ DOCS_DIR
 Useful defaults:
 
 ```text
-RSS_FEEDS=https://feeds.bbci.co.uk/news/world/rss.xml,https://www.theguardian.com/world/rss,https://feeds.arstechnica.com/arstechnica/index
+RSS_FEEDS=https://feeds.bbci.co.uk/news/world/rss.xml,https://www.theguardian.com/world/rss,https://feeds.npr.org/1001/rss.xml,https://feeds.arstechnica.com/arstechnica/index
 MAX_ARTICLE_CHARS=12000
 OUTPUT_DIR=data
 DOCS_DIR=docs
@@ -139,5 +146,5 @@ A successful run means:
 1. `data/article.json` exists.
 2. `data/vocabulary.json` exists and contains valid JSON.
 3. `docs/index.html` exists.
-4. `docs/index.html` was committed and pushed to GitHub.
+4. `docs/index.html` was committed and pushed to `main`.
 5. The final response in the routine session briefly reports the article title, source URL, number of vocabulary words, and that the HTML page was updated.
