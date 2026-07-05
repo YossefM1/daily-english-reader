@@ -1,27 +1,15 @@
 \
+import html
+import json
 import os
 import re
-import json
-import html
-import random
 import smtplib
 import ssl
 import sys
 from dataclasses import dataclass
 from email.message import EmailMessage
-from typing import List, Dict, Any, Optional
-
-import requests
-import feedparser
-import trafilatura
-from bs4 import BeautifulSoup
-from anthropic import Anthropic
-
-
-DEFAULT_RSS_FEEDS = [
-    "https://news.yahoo.com/rss",
-    "https://www.yahoo.com/news/rss/finance",
-]
+from pathlib import Path
+from typing import Any, Dict, List, Optional
 
 
 @dataclass
@@ -40,162 +28,42 @@ def env_required(name: str) -> str:
     return value
 
 
-def split_env_list(value: str) -> List[str]:
-    return [x.strip() for x in value.split(",") if x.strip()]
-
-
-def choose_article_url() -> str:
-    explicit = os.getenv("ARTICLE_URL", "").strip()
-    if explicit:
-        return explicit
-
-    feeds = split_env_list(os.getenv("RSS_FEEDS", "")) or DEFAULT_RSS_FEEDS
-
-    entries = []
-    for feed_url in feeds:
-        parsed = feedparser.parse(feed_url)
-        for entry in parsed.entries[:12]:
-            link = getattr(entry, "link", "")
-            title = getattr(entry, "title", "")
-            if link and title:
-                entries.append((title, link))
-
-    if not entries:
-        raise RuntimeError("No article links found. Set ARTICLE_URL or RSS_FEEDS.")
-
-    # Random among recent items keeps the morning article varied.
-    return random.choice(entries[:10])[1]
-
-
-def extract_article(url: str) -> Article:
-    downloaded = trafilatura.fetch_url(url)
-
-    if downloaded:
-        extracted_json = trafilatura.extract(
-            downloaded,
-            output_format="json",
-            include_comments=False,
-            include_tables=False,
-            with_metadata=True,
-        )
-        if extracted_json:
-            data = json.loads(extracted_json)
-            title = data.get("title") or "Daily English Article"
-            text = data.get("text") or ""
-            source = data.get("sitename") or "Yahoo"
-            date = data.get("date") or ""
-            if len(text.split()) >= 250:
-                return Article(title=title.strip(), url=url, text=text.strip(), source=source, date=date)
-
-    # Fallback extraction if trafilatura fails.
-    headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; DailyEnglishReader/1.0; personal educational use)"
-    }
-    response = requests.get(url, headers=headers, timeout=20)
-    response.raise_for_status()
-
-    soup = BeautifulSoup(response.text, "html.parser")
-    for tag in soup(["script", "style", "nav", "footer", "aside"]):
-        tag.decompose()
-
-    title = soup.title.get_text(" ", strip=True) if soup.title else "Daily English Article"
-    paragraphs = [p.get_text(" ", strip=True) for p in soup.find_all("p")]
-    text = "\n\n".join(p for p in paragraphs if len(p.split()) > 8)
-
-    if len(text.split()) < 150:
-        raise RuntimeError(
-            "Could not extract enough article text. Try another ARTICLE_URL or RSS_FEEDS source."
-        )
-
-    return Article(title=title.strip(), url=url, text=text.strip(), source="Yahoo")
-
-
-def trim_article(text: str) -> str:
-    max_chars = int(os.getenv("MAX_ARTICLE_CHARS", "12000") or "12000")
-    if len(text) <= max_chars:
-        return text
-    trimmed = text[:max_chars]
-    last_period = trimmed.rfind(".")
-    if last_period > 1000:
-        trimmed = trimmed[: last_period + 1]
-    return trimmed + "\n\n[Article shortened for email/API size.]"
-
-
-def extract_json_array(raw: str) -> List[Dict[str, Any]]:
-    raw = raw.strip()
-    try:
-        parsed = json.loads(raw)
-    except json.JSONDecodeError:
-        match = re.search(r"\[[\s\S]*\]", raw)
-        if not match:
-            raise
-        parsed = json.loads(match.group(0))
-
-    if isinstance(parsed, dict) and "words" in parsed:
-        parsed = parsed["words"]
-
-    if not isinstance(parsed, list):
-        raise ValueError("Claude output was not a JSON list.")
-
-    return parsed
-
-
-def analyze_vocabulary(article_text: str) -> List[Dict[str, Any]]:
-    api_key = env_required("ANTHROPIC_API_KEY")
-    model = os.getenv("CLAUDE_MODEL", "").strip() or "claude-sonnet-5"
-
-    client = Anthropic(api_key=api_key)
-
-    prompt = f"""
-You are helping a Hebrew speaker improve English reading.
-
-Given the English article below, identify useful vocabulary words for learning.
-Select only intermediate and advanced words, approximately B1, B2, C1, and C2.
-Do not select:
-- very basic words
-- names of people, places, companies, products, or organizations
-- dates, numbers, abbreviations
-- words that appear only once but are not useful for general English
-
-Prefer 18-35 useful words.
-
-For each selected word, return:
-- word: the exact word as it appears in the article
-- lemma: the base form
-- level: one of B1, B2, C1, C2
-- hebrew: Hebrew translation
-- explanation_hebrew: short Hebrew explanation
-- pronunciation_hebrew: approximate pronunciation in Hebrew letters with niqqud where possible
-- example: one short English example sentence
-
-Return only a valid JSON array. No markdown. No comments.
-
-Article:
-<<<
-{article_text}
->>>
-""".strip()
-
-    response = client.messages.create(
-        model=model,
-        max_tokens=5000,
-        temperature=0.2,
-        messages=[{"role": "user", "content": prompt}],
+def load_article(path: Path) -> Article:
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return Article(
+        title=str(data.get("title", "Daily English Article")),
+        url=str(data.get("url", "")),
+        text=str(data.get("text", "")),
+        source=str(data.get("source", "Yahoo")),
+        date=str(data.get("date", "")),
     )
 
-    raw = response.content[0].text
-    vocab = extract_json_array(raw)
 
-    cleaned = []
+def load_vocabulary(path: Path) -> List[Dict[str, Any]]:
+    vocab = json.loads(path.read_text(encoding="utf-8"))
+
+    if isinstance(vocab, dict) and "words" in vocab:
+        vocab = vocab["words"]
+
+    if not isinstance(vocab, list):
+        raise RuntimeError("vocabulary.json must contain a JSON list or an object with a 'words' list.")
+
+    cleaned: List[Dict[str, Any]] = []
     seen = set()
+
     for item in vocab:
+        if not isinstance(item, dict):
+            continue
+
         word = str(item.get("word", "")).strip()
         if not word:
             continue
+
         key = word.lower()
         if key in seen:
             continue
         seen.add(key)
+
         cleaned.append({
             "word": word,
             "lemma": str(item.get("lemma", "")).strip(),
@@ -206,19 +74,24 @@ Article:
             "example": str(item.get("example", "")).strip(),
         })
 
-    return cleaned[:40]
+    if len(cleaned) < 5:
+        raise RuntimeError("vocabulary.json contains too few vocabulary items.")
+
+    return cleaned[:45]
 
 
 def make_highlight_pattern(vocab: List[Dict[str, Any]]) -> Optional[re.Pattern]:
     words = []
     for item in vocab:
         w = item["word"].strip()
-        # Keep only normal word-ish terms for stable highlighting.
         if re.match(r"^[A-Za-z][A-Za-z'’-]{2,}$", w):
             words.append(re.escape(w))
+
     words = sorted(set(words), key=len, reverse=True)
+
     if not words:
         return None
+
     return re.compile(r"\b(" + "|".join(words) + r")\b", re.IGNORECASE)
 
 
@@ -232,6 +105,7 @@ def highlight_text(text: str, vocab: List[Dict[str, Any]]) -> str:
     def highlight_paragraph(paragraph: str) -> str:
         result = []
         pos = 0
+
         for match in pattern.finditer(paragraph):
             result.append(html.escape(paragraph[pos:match.start()]))
             word = match.group(0)
@@ -241,6 +115,7 @@ def highlight_text(text: str, vocab: List[Dict[str, Any]]) -> str:
                 f'<span class="vocab-highlight" title="{level}">{html.escape(word)}</span>'
             )
             pos = match.end()
+
         result.append(html.escape(paragraph[pos:]))
         return "".join(result)
 
@@ -250,6 +125,7 @@ def highlight_text(text: str, vocab: List[Dict[str, Any]]) -> str:
 
 def build_vocab_sidebar(vocab: List[Dict[str, Any]]) -> str:
     cards = []
+
     for item in vocab:
         cards.append(f"""
         <div class="word-card">
@@ -263,6 +139,7 @@ def build_vocab_sidebar(vocab: List[Dict[str, Any]]) -> str:
           <div class="example">{html.escape(item.get("example", ""))}</div>
         </div>
         """)
+
     return "\n".join(cards)
 
 
@@ -435,7 +312,7 @@ def build_html_email(article: Article, vocab: List[Dict[str, Any]]) -> str:
     </div>
 
     <div class="footer">
-      Generated for private English-learning use. Please keep the original source link.
+      Generated for private English-learning use. Original source link is included above.
     </div>
   </div>
 </body>
@@ -461,24 +338,36 @@ def send_email(subject: str, html_body: str, text_body: str) -> None:
     context = ssl.create_default_context()
 
     if smtp_port == 465:
-        with smtplib.SMTP_SSL(smtp_host, smtp_port, context=context) as server:
+        with smtplib.SMTP_SSL(smtp_host, smtp_port, context=context, timeout=30) as server:
             server.login(smtp_username, smtp_password)
             server.send_message(msg)
     else:
-        with smtplib.SMTP(smtp_host, smtp_port) as server:
+        with smtplib.SMTP(smtp_host, smtp_port, timeout=30) as server:
             server.starttls(context=context)
             server.login(smtp_username, smtp_password)
             server.send_message(msg)
 
 
 def main() -> None:
-    url = choose_article_url()
-    article = extract_article(url)
-    article.text = trim_article(article.text)
+    data_dir = Path(os.getenv("OUTPUT_DIR", "data"))
+    article_path = data_dir / "article.json"
+    vocab_path = data_dir / "vocabulary.json"
 
-    vocab = analyze_vocabulary(article.text)
+    if not article_path.exists():
+        raise RuntimeError(f"Missing {article_path}. Run fetch_article.py first.")
+
+    if not vocab_path.exists():
+        raise RuntimeError(f"Missing {vocab_path}. Claude Routine must create it before sending.")
+
+    article = load_article(article_path)
+    vocab = load_vocabulary(vocab_path)
 
     html_email = build_html_email(article, vocab)
+
+    # Also save a local copy as an artifact in the routine run.
+    out_html = data_dir / "daily_article.html"
+    out_html.write_text(html_email, encoding="utf-8")
+
     text_email = (
         f"{article.title}\n\n"
         f"Original article: {article.url}\n\n"
@@ -492,11 +381,12 @@ def main() -> None:
     print(f"Sent article: {article.title}")
     print(f"URL: {article.url}")
     print(f"Vocabulary words: {len(vocab)}")
+    print(f"Saved HTML copy to: {out_html}")
 
 
 if __name__ == "__main__":
     try:
         main()
     except Exception as exc:
-        print(f"ERROR: {exc}", file=sys.stderr)
+        print(f"ERROR in build_and_send.py: {exc}", file=sys.stderr)
         raise
