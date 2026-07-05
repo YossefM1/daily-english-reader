@@ -127,7 +127,7 @@ DOCS_DIR
 Useful defaults:
 
 ```text
-RSS_FEEDS=https://news.yahoo.com/rss,https://www.yahoo.com/news/rss/finance
+RSS_FEEDS=https://feeds.bbci.co.uk/news/world/rss.xml,https://www.theguardian.com/world/rss,https://feeds.arstechnica.com/arstechnica/index
 MAX_ARTICLE_CHARS=12000
 OUTPUT_DIR=data
 DOCS_DIR=docs
