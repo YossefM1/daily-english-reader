@@ -15,8 +15,9 @@ from bs4 import BeautifulSoup
 
 
 DEFAULT_RSS_FEEDS = [
-    "https://news.yahoo.com/rss",
-    "https://www.yahoo.com/news/rss/finance",
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://www.theguardian.com/world/rss",
+    "https://feeds.arstechnica.com/arstechnica/index",
 ]
 
 
