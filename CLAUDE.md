@@ -4,9 +4,9 @@ This repository is designed to be run by Claude Code Routines.
 
 ## Goal
 
-Every morning, create and send one polished English-learning article email for a Hebrew speaker.
+Every morning, create one polished English-learning HTML page for a Hebrew speaker.
 
-The email must contain:
+The generated page must contain:
 - the English article text as extracted from a current article
 - intermediate and advanced vocabulary highlighted in gray inside the article
 - a Hebrew vocabulary sidebar
@@ -14,6 +14,14 @@ The email must contain:
 - approximate English pronunciation written in Hebrew letters with niqqud where possible
 - short Hebrew explanation
 - short English example sentence
+
+The final page must be written to:
+
+```text
+docs/index.html
+```
+
+This allows the page to be served by GitHub Pages.
 
 ## Routine run steps
 
@@ -40,18 +48,6 @@ data/article.json
 ### 3. Read the article
 
 Read `data/article.json`.
-
-It contains:
-
-```json
-{
-  "title": "...",
-  "url": "...",
-  "text": "...",
-  "source": "...",
-  "date": "..."
-}
-```
 
 ### 4. Create vocabulary file
 
@@ -89,41 +85,34 @@ Vocabulary selection rules:
 - Hebrew should be clear and natural for an Israeli Hebrew speaker.
 - `pronunciation_hebrew` is an approximate guide, not IPA. Use niqqud where possible.
 
-### 5. Build and send the email
+### 5. Build HTML page
 
 ```bash
-python src/build_and_send.py
+python src/build_html.py
 ```
 
-This reads:
-- `data/article.json`
-- `data/vocabulary.json`
+This creates:
 
-Then it:
-- builds `data/daily_article.html`
-- sends the HTML email through SMTP
+```text
+docs/index.html
+data/daily_article.html
+```
+
+### 6. Commit and push the generated page
+
+After `docs/index.html` is created, commit and push it:
+
+```bash
+git config user.name "Claude Routine"
+git config user.email "claude-routine@example.com"
+git add docs/index.html
+git commit -m "Update daily English article" || echo "No changes to commit"
+git push
+```
 
 ## Required environment variables
 
-The routine environment must include:
-
-```text
-EMAIL_FROM
-EMAIL_TO
-SMTP_HOST
-SMTP_PORT
-SMTP_USERNAME
-SMTP_PASSWORD
-```
-
-Recommended Gmail values:
-
-```text
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_USERNAME=<your gmail address>
-SMTP_PASSWORD=<Gmail App Password, not the regular Gmail password>
-```
+No email variables are required in this version.
 
 Optional environment variables:
 
@@ -132,6 +121,7 @@ ARTICLE_URL
 RSS_FEEDS
 MAX_ARTICLE_CHARS
 OUTPUT_DIR
+DOCS_DIR
 ```
 
 Useful defaults:
@@ -140,6 +130,7 @@ Useful defaults:
 RSS_FEEDS=https://news.yahoo.com/rss,https://www.yahoo.com/news/rss/finance
 MAX_ARTICLE_CHARS=12000
 OUTPUT_DIR=data
+DOCS_DIR=docs
 ```
 
 ## Success criteria
@@ -147,6 +138,6 @@ OUTPUT_DIR=data
 A successful run means:
 1. `data/article.json` exists.
 2. `data/vocabulary.json` exists and contains valid JSON.
-3. `data/daily_article.html` exists.
-4. The email is sent to `EMAIL_TO`.
-5. The final response in the routine session briefly reports the article title, source URL, and number of vocabulary words.
+3. `docs/index.html` exists.
+4. `docs/index.html` was committed and pushed to GitHub.
+5. The final response in the routine session briefly reports the article title, source URL, number of vocabulary words, and that the HTML page was updated.

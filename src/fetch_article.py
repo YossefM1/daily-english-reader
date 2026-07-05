@@ -34,14 +34,6 @@ def split_env_list(value: str) -> List[str]:
 
 
 def choose_article_url() -> str:
-    """
-    Choose an article URL.
-
-    Priority:
-    1. ARTICLE_URL environment variable, for testing a specific article.
-    2. RSS_FEEDS environment variable, comma-separated.
-    3. DEFAULT_RSS_FEEDS.
-    """
     explicit = os.getenv("ARTICLE_URL", "").strip()
     if explicit:
         return explicit
@@ -60,7 +52,6 @@ def choose_article_url() -> str:
     if not entries:
         raise RuntimeError("No article links found. Set ARTICLE_URL or RSS_FEEDS.")
 
-    # Choose one recent item, but not always the top one.
     return random.choice(entries[:10])[1]
 
 
@@ -98,7 +89,6 @@ def extract_article(url: str) -> Article:
                     date=date,
                 )
 
-    # Fallback extraction if trafilatura fails.
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; DailyEnglishReader/1.0; personal educational use)"
     }

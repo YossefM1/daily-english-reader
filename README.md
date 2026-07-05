@@ -1,72 +1,58 @@
-# Daily English Reader — Claude Code Routine Version
+# Daily English Reader — HTML-only Claude Code Routine
 
-This repo is intended to run with **Claude Code Routines**, not with Claude API.
+This repo is intended to run with **Claude Code Routines**.
 
 Every morning, the routine:
 1. Fetches one English article.
 2. Claude reads the article and creates a vocabulary file.
-3. Python builds a polished HTML email.
-4. Python sends the email to you.
+3. Python builds a polished HTML page.
+4. The routine commits and pushes the generated page to GitHub.
 
-The final email includes:
-- the article in English
-- intermediate/advanced words highlighted in gray
-- a Hebrew vocabulary sidebar
-- Hebrew translation
-- pronunciation in Hebrew letters with niqqud where possible
-- short Hebrew explanation
-- example sentence in English
+The final page is:
+
+```text
+docs/index.html
+```
+
+If GitHub Pages is enabled for this repo, the reading page is available at:
+
+```text
+https://YossefM1.github.io/daily-english-reader/
+```
 
 ## Files
 
 ```text
 src/fetch_article.py
-src/build_and_send.py
+src/build_html.py
 CLAUDE.md
 routine_prompt.md
 requirements.txt
+docs/index.html
 ```
 
 ## Important
 
-This version does **not** require `ANTHROPIC_API_KEY`.
+This version does **not** use:
+- Claude API
+- Anthropic API key
+- Gmail
+- SMTP
+- App Password
 
-Claude Code Routine itself performs the language analysis and writes:
+Email sending can be added later.
 
-```text
-data/vocabulary.json
-```
+## Routine environment variables
 
-## Required routine environment variables
+No secret variables are required.
 
-Set these in the Claude Code Routine environment:
-
-```text
-EMAIL_FROM
-EMAIL_TO
-SMTP_HOST
-SMTP_PORT
-SMTP_USERNAME
-SMTP_PASSWORD
-```
-
-For Gmail:
-
-```text
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_USERNAME=your Gmail address
-SMTP_PASSWORD=your Gmail App Password
-```
-
-`SMTP_PASSWORD` must be a Gmail App Password, not your normal Gmail password.
-
-## Optional variables
+Recommended variables:
 
 ```text
 RSS_FEEDS=https://news.yahoo.com/rss,https://www.yahoo.com/news/rss/finance
 MAX_ARTICLE_CHARS=12000
 OUTPUT_DIR=data
+DOCS_DIR=docs
 ```
 
 For testing one fixed article:
@@ -77,9 +63,29 @@ ARTICLE_URL=https://...
 
 Remove `ARTICLE_URL` when you want the routine to choose from RSS automatically.
 
-## Local test, without sending email
+## GitHub Pages setup
 
-You can run:
+In GitHub:
+
+```text
+Repository → Settings → Pages
+```
+
+Set:
+
+```text
+Source: Deploy from a branch
+Branch: main
+Folder: /docs
+```
+
+Then the page should be available at:
+
+```text
+https://YossefM1.github.io/daily-english-reader/
+```
+
+## Local test
 
 ```bash
 python -m pip install -r requirements.txt
@@ -89,9 +95,5 @@ python src/fetch_article.py
 Then create `data/vocabulary.json` manually or by Claude, and run:
 
 ```bash
-python src/build_and_send.py
+python src/build_html.py
 ```
-
-## GitHub Actions
-
-The previous GitHub Actions workflow is disabled because this project is now intended to run through Claude Code Routines.

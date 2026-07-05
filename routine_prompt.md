@@ -1,7 +1,7 @@
 You are running the daily English reader routine from the GitHub repository `YossefM1/daily-english-reader`.
 
 Goal:
-Send me one polished English-learning email based on one current English article.
+Create and publish one polished English-learning HTML page based on one current English article.
 
 Follow the repository instructions in `CLAUDE.md` exactly.
 
@@ -40,11 +40,18 @@ Vocabulary rules:
 - Add niqqud in the Hebrew pronunciation where possible.
 
 5. Run:
-   python src/build_and_send.py
+   python src/build_html.py
 
-Success means the HTML email was sent.
+6. Commit and push the generated page:
+   git config user.name "Claude Routine"
+   git config user.email "claude-routine@example.com"
+   git add docs/index.html
+   git commit -m "Update daily English article" || echo "No changes to commit"
+   git push
+
+Success means `docs/index.html` was updated in GitHub.
 At the end, report only:
 - article title
 - original URL
 - number of vocabulary words
-- whether the email was sent successfully
+- whether docs/index.html was updated successfully
