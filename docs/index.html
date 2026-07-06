@@ -1,662 +1,157 @@
-<!doctype html>
-<html lang="en" dir="ltr">
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>A global hub for fake luxury goods, Vietnam tries to clean up its black market  - BBC News</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily English Reader</title>
   <style>
-    :root {
-      --bg: #f5f5f2;
-      --paper: #ffffff;
-      --line: #e6e2d9;
-      --text: #222;
-      --muted: #666;
-      --highlight: #e1e1dd;
-    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      margin: 0;
-      padding: 0;
-      background: var(--bg);
-      color: var(--text);
-      font-family: Georgia, 'Times New Roman', serif;
-      line-height: 1.7;
-    }
-    .container {
-      max-width: 1180px;
-      margin: 0 auto;
-      padding: 24px;
-    }
-    .header {
-      background: var(--paper);
-      border-radius: 18px;
-      padding: 26px 30px;
-      margin-bottom: 18px;
-      border: 1px solid var(--line);
-    }
-    h1 {
-      margin: 0 0 12px 0;
-      font-size: 31px;
-      line-height: 1.25;
-    }
-    .meta {
-      color: var(--muted);
-      font-size: 14px;
       font-family: Arial, sans-serif;
-    }
-    .layout {
-      display: grid;
-      grid-template-columns: minmax(0, 2.2fr) minmax(300px, 0.9fr);
-      gap: 18px;
-      align-items: start;
-    }
-    .article {
-      background: var(--paper);
-      border-radius: 18px;
-      padding: 34px;
-      border: 1px solid var(--line);
-      font-size: 20px;
-    }
-    .article p {
-      margin: 0 0 1.15em 0;
-    }
-    .vocab-highlight {
-      background: var(--highlight);
-      border-radius: 5px;
-      padding: 0 4px;
-      box-decoration-break: clone;
-      -webkit-box-decoration-break: clone;
-    }
-    .sidebar {
-      background: var(--paper);
-      border-radius: 18px;
-      padding: 22px;
-      border: 1px solid var(--line);
-      font-family: Arial, sans-serif;
-      direction: rtl;
-      position: sticky;
-      top: 18px;
-      max-height: calc(100vh - 36px);
-      overflow: auto;
-    }
-    .sidebar h2 {
-      margin: 0 0 16px 0;
-      font-size: 20px;
-    }
-    .word-card {
-      border-top: 1px solid #eee;
-      padding: 14px 0;
-    }
-    .word-card:first-of-type {
-      border-top: 0;
-    }
-    .word-row {
-      direction: ltr;
-      display: flex;
-      justify-content: space-between;
-      gap: 10px;
-      align-items: baseline;
-    }
-    .word {
-      font-weight: 700;
-      font-size: 18px;
+      background: #f0f4f8;
       color: #222;
+      min-height: 100vh;
+      padding: 24px 16px 48px;
     }
-    .level {
-      font-size: 12px;
-      background: #eee;
-      border-radius: 999px;
-      padding: 2px 8px;
-      color: #444;
-    }
-    .hebrew {
-      font-weight: 700;
-      margin-top: 6px;
-    }
-    .pronunciation {
-      color: #555;
-      font-size: 15px;
-      margin-top: 4px;
-    }
-    .explanation {
-      color: #333;
-      font-size: 14px;
-      margin-top: 6px;
-    }
-    .example {
-      direction: ltr;
-      color: #666;
-      font-size: 13px;
-      margin-top: 8px;
-      font-style: italic;
-    }
-    .footer {
-      color: #777;
-      font-size: 12px;
-      font-family: Arial, sans-serif;
-      margin-top: 16px;
+    header {
       text-align: center;
+      margin-bottom: 32px;
     }
-    a {
-      color: #444;
+    header h1 { font-size: 28px; color: #1a5276; }
+    header p { color: #555; margin-top: 6px; font-size: 15px; direction: ltr; }
+    .card {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      padding: 20px 24px;
+      max-width: 700px;
+      margin: 0 auto 24px auto;
     }
-    @media (max-width: 900px) {
-      .layout {
-        display: block;
-      }
-      .sidebar {
-        position: static;
-        max-height: none;
-        margin-top: 18px;
-      }
-      .article {
-        font-size: 18px;
-        padding: 24px;
-      }
+    .card h2 { font-size: 18px; color: #1a5276; margin-bottom: 12px; }
+    #article-title { font-size: 17px; font-weight: bold; direction: ltr; }
+    #article-meta { color: #777; font-size: 13px; direction: ltr; margin: 4px 0 14px; }
+    .open-btn {
+      display: inline-block;
+      background: #1a5276;
+      color: #fff;
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      font-size: 14px;
     }
+    .open-btn:hover { background: #154360; }
+    .vocab-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: 12px;
+    }
+    @media (max-width: 480px) { .vocab-grid { grid-template-columns: 1fr; } }
+    .vcard {
+      border: 1px solid #dde;
+      border-radius: 6px;
+      padding: 10px 12px;
+      background: #fafbff;
+    }
+    .vcard .vword { font-weight: bold; color: #1a5276; direction: ltr; font-size: 15px; }
+    .vcard .vlevel {
+      display: inline-block;
+      background: #e8f4fd;
+      color: #1a5276;
+      border-radius: 4px;
+      font-size: 11px;
+      padding: 1px 5px;
+      margin-right: 4px;
+    }
+    .vcard .vheb { direction: rtl; font-size: 14px; margin-top: 4px; }
+    .vcard .vpronun { direction: rtl; color: #666; font-size: 12px; }
+    .install-steps { direction: ltr; }
+    .install-steps ol { padding-right: 0; padding-left: 20px; }
+    .install-steps li { margin-bottom: 8px; font-size: 14px; }
+    .install-steps code {
+      background: #eef2f7;
+      padding: 1px 5px;
+      border-radius: 3px;
+      font-size: 13px;
+    }
+    a { color: #1a5276; }
+    #loading { color: #888; font-size: 14px; direction: ltr; }
   </style>
 </head>
 <body>
-  <div class="container">
-    <div class="header">
-      <h1>A global hub for fake luxury goods, Vietnam tries to clean up its black market  - BBC News</h1>
-      <div class="meta">
-        Source: BBC
-        
-        | <a href="https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&amp;at_campaign=rss">Original article</a>
-      </div>
-    </div>
+  <header>
+    <h1>📘 Daily English Reader</h1>
+    <p>Read today's article on the original site — with Hebrew vocabulary overlay</p>
+  </header>
 
-    <div class="layout">
-      <main class="article">
-        <p>Bags from French designer label Louis Vuitton are among the most popular in the fake designer market</p>
-<p>When Vietnam&#x27;s police raided a pair of <span class="vocab-highlight" title="C1">nondescript</span> warehouses in outer Ho Chi Minh City earlier this year, they discovered more than 23,000 pairs of slippers bearing the logos of Nike, Adidas, Crocs and Gucci.</p>
-<p>Except those brands had nothing to do with the warehouses. The slippers were all <span class="vocab-highlight" title="B2">counterfeits</span>.</p>
-<p>The raid, which led to the <span class="vocab-highlight" title="C1">seizure</span> of goods worth VND 2bn (Â£57,559; $76,053), was part of a <span class="vocab-highlight" title="B2">crackdown</span> on a black-market industry that has <span class="vocab-highlight" title="B2">thrived</span> in the public eye for decades.</p>
-<p>Just 30km away, at a flea market in Ho Chi Minh&#x27;s tourist district, the same models of counterfeit slippers â imitations of those retailing for as much as $900 overseas â are being sold for $57 a pair.</p>
-<p>Displayed alongside them is a <span class="vocab-highlight" title="C2">cornucopia</span> of other fakes: &quot;Chanel&quot; handbags, &quot;Prada&quot; t-shirts and &quot;Rolex&quot; watches lining the racks.</p>
-<p>Widely recognised as a global hub for cheap <span class="vocab-highlight" title="C1">knockoffs</span> of luxury goods, Vietnam is home to some of the biggest fake designer markets in the world.</p>
-<p>Now, under <span class="vocab-highlight" title="C1">mounting</span> international pressure, authorities are on a <span class="vocab-highlight" title="C1">crusade</span> to rid the country of that reputation.</p>
-<p>On 7 May, the government launched a nationwide <span class="vocab-highlight" title="B2">crackdown</span> on products and practices that <span class="vocab-highlight" title="B2">violate</span> intellectual property rights, including counterfeit goods, online piracy and trademark <span class="vocab-highlight" title="C1">infringements</span>.</p>
-<p>This is not new: authorities in Vietnam <span class="vocab-highlight" title="C2">perennially</span> and publicly bust bootleg vendors to show that they are doing something about the country&#x27;s <span class="vocab-highlight" title="C2">ubiquitous</span> shadow economies.</p>
-<p>The US government has branded Vietnam the world&#x27;s worst offender on IP rights</p>
-<p>&quot;Enforcement has become stricter,&quot; says Thanh Truc, a clothes vendor at a popular street market in Ho Chi Minh&#x27;s Saigon Square, who spoke on the condition that she is referred to by a pseudonym.</p>
-<p>She has just sold a <span class="vocab-highlight" title="B2">replica</span> of a Loewe t-shirt, which usually retails at $500, for $17.</p>
-<p>&quot;Every now and then the authorities launch anti-counterfeit raids, but they usually focus on higher-value items such as luxury handbags or suitcases,&quot; she explains. &quot;The market inspectors would come with camera crews, they&#x27;d <span class="vocab-highlight" title="C1">confiscate</span> goods from some shops, and then things gradually returned to normal.&quot;</p>
-<p>This <span class="vocab-highlight" title="B2">crackdown</span> is being fuelled by international forces â most notably, US President Donald Trump&#x27;s trade war against countries thought to be harming America&#x27;s interests.</p>
-<p>In April, a report from the Office of the United States Trade Representative identified Vietnam as a &quot;priority foreign country&quot; due to its &quot;persistent failure to resolve long-standing concerns about IP protection and enforcement&quot; â the first time in 13 years that a nation has been hit with that <span class="vocab-highlight" title="C1">designation</span>.</p>
-<p>It also branded Vietnam the world&#x27;s worst offender on IP rights.</p>
-<p>Jailed Vietnamese tycoon&#x27;s Birkin bags sell for more than $550K</p>
-<p>Facing the threat of fresh <span class="vocab-highlight" title="B2">tariffs</span>, Vietnamese authorities <span class="vocab-highlight" title="B2">pledged</span> to increase IP violation busts by at least 20% in May compared to the same period last year.</p>
-<p>One major battlefront was Saigon Square, where Thanh Truc works, and neighbouring Ben Thanh Market - <span class="vocab-highlight" title="C1">sprawling</span> <span class="vocab-highlight" title="C1">bazaars</span> that are known to be among Vietnam&#x27;s biggest hubs for counterfeit goods.</p>
-<p>In mid-May, after a series of surprise inspections, authorities confiscated counterfeit goods from the markets and issued fines totalling more than $19,000.</p>
-<p>Yet local vendors, who have long since adapted to unwanted police attention, remain <span class="vocab-highlight" title="C2">unfazed</span>.</p>
-<p>&quot;Usually, before inspectors arrive, someone here blows a whistle to warn everyone,&quot; Thanh Truc explains. Even after the recent raid blitz, she adds, &quot;business is still continuing&quot;.</p>
-<p>&quot;Some stores display fewer logo-branded items, but they still have stock in the back.&quot;</p>
-<p>The supply chain for most of Vietnam&#x27;s <span class="vocab-highlight" title="B2">counterfeits</span> can be traced back across its northern border into China, where they are manufactured. Vietnamese wholesalers will select, buy and import products in bulk that they think can be easily sold in their local market, then distribute these to smaller businesses.</p>
-<p>Such <span class="vocab-highlight" title="C1">proximity</span> to China has proven favourable for Vietnam&#x27;s booming <span class="vocab-highlight" title="B2">counterfeits</span> industry. So has the fact that even <span class="vocab-highlight" title="C1">prestigious</span> European brands often rely on Asian manufacturing. Whether it&#x27;s leather that&#x27;s pre-cut in China or stitching that&#x27;s done in Vietnam, these materials and expertise are almost certainly <span class="vocab-highlight" title="C1">channelled</span> into the region&#x27;s black market.</p>
-<p>It&#x27;s a tap that has proven difficult to turn off â but the Vietnamese government has <span class="vocab-highlight" title="C2">heralded</span> their recent sting operations as a success. In the last three weeks of May authorities reportedly handled more than 1,400 IP infringement cases.</p>
-<p>While several market stalls have shuttered their operations, for others it&#x27;s business as usual</p>
-<p>The US, however, has continued to tighten the screws.</p>
-<p>In late May it launched an investigation to determine whether Vietnam&#x27;s failure to stamp out IP violations was &quot;unreasonable&quot; and problematic for US commerce.</p>
-<p>On 10 June, police in Thanh Hoa province <span class="vocab-highlight" title="C1">dismantled</span> a ring that manufactured and sold more than 10,000 counterfeit jewellery items. The fakes imitated brands like Bvlgari, Cartier, Louis Vuitton, and Tiffany &amp; Co, and generated an estimated $1.14m in <span class="vocab-highlight" title="C1">illicit</span> profits for the counterfeit <span class="vocab-highlight" title="C1">syndicate</span>.</p>
-<p>Market stalls in Ho Chi Minh City and Hanoi have been shut, while police have stormed warehouses, clothing outlets and sneaker stores.</p>
-<p>Locals, however, are divided by the <span class="vocab-highlight" title="B2">crackdown</span>. And while it appears to be forcing some vendors out of business, others are hoping for a <span class="vocab-highlight" title="C2">boon</span>.</p>
-<p>Huong Thi Nguyen designs, makes and sells her own clothing across multiple stores in Ho Chi Minh City and Da Lat. The way she sees it, not only does the counterfeit industry <span class="vocab-highlight" title="B2">violate</span> the IP rights of designers like herself, it also &quot;makes Vietnam&#x27;s retail market chaotic and turns it into something of a joke&quot;.</p>
-<p>She says customers are willing to spend $75 on a fake designer dress which appears <span class="vocab-highlight" title="B2">authentic</span>, but complain when charged half that for a custom piece â &quot;even when it&#x27;s made with quality fabric and good tailoring&quot;.</p>
-<p>&quot;Vietnam has no shortage of highly skilled tailors and hand embroiderers, but many of them are <span class="vocab-highlight" title="B2">overlooked</span> and do not receive the income they deserve,&quot; she says. &quot;Quite a few eventually end up working in factories producing counterfeit goods.&quot;</p>
-<p>Now that those counterfeit sellers are being forced to close, she is preparing to invest more in her business and raise prices.</p>
-<p>&quot;I feel more confident operating in a business environment that is cleaner, more <span class="vocab-highlight" title="B2">transparent</span>, and fairer,&quot; she says. &quot;This isn&#x27;t really about winners and losers. It&#x27;s about restoring fairness and putting right and wrong, genuine and fake, back into their proper place.&quot;</p>
-<p>Vietnam police regularly bust bootleg vendors, but the market has proven hard to extinguish</p>
-<p>Huy, an office worker in Da Nang, is a devoted buyer of counterfeit clothes â most commonly soccer shirts and shoes.</p>
-<p>&quot;Arresting the vendors does not solve the problem,&quot; he says. &quot;If counterfeit goods cannot be completely stamped out, and I can still easily buy them, I will maintain my old habits.&quot;</p>
-<p>Huy tells the BBC he prefers fakes because they&#x27;re &quot;cheap, convenient and easy to buy&quot;.</p>
-<p>Customers like him make up a sizeable market in Vietnam, where 60% of the population lives in rural areas and the average income is just $225 per month. In this way, the government&#x27;s <span class="vocab-highlight" title="B2">crackdown</span> on affordable <span class="vocab-highlight" title="C1">knockoffs</span> threatens to lock many local customers out of the market.</p>
-<p>Thi Thanh Huong Tran, an associate professor at SKEMA Business School who grew up in Vietnam and studies ethical consumption, reaffirms this point: the strength of the country&#x27;s counterfeit market is underpinned by economic realities.</p>
-<p>&quot;Even though [Vietnamese people] know it&#x27;s fake... in a context where they don&#x27;t have the money to afford the real thing, for them it&#x27;s the most suitable option they have,&quot; she says.</p>
-<p>&quot;And it makes them feel happy, so [they think] &#x27;why not?&#x27;&quot;</p>
-<p>Since there is &quot;no overlap&quot; between consumers of luxury goods and those who buy fake ripoffs, Thi Thanh Huong Tran suggests, the potential revenue loss for international luxury brands is <span class="vocab-highlight" title="C1">negligible</span>.</p>
-<p>&quot;Even without the counterfeit products the customer with low income will not buy the product from the <span class="vocab-highlight" title="B2">authentic</span> brand anyway, because they cannot afford it,&quot; she says.</p>
-<p>&quot;And they cannot see why they have to pay that much money to buy just a bag.&quot;</p>
-<p>Many Vietnamese locals can&#x27;t afford or access <span class="vocab-highlight" title="B2">authentic</span> designer clothing</p>
-<p>Thanh Truc says she sells mostly to foreigners, and some of the most <span class="vocab-highlight" title="C1">notorious</span> hubs for fakes are in tourist hotspots.</p>
-<p>Thi Thanh Huong Tran and others suggest, however, that authorities have slim chance of <span class="vocab-highlight" title="C2">eradicating</span> Vietnam&#x27;s counterfeit market.</p>
-<p>Manufacturers and sellers are already finding ways around IP laws, including by changing the product design or brand name â from Nike to Mike, for example.</p>
-<p>The trick, she explains, is getting as close as possible to the line without crossing it: sufficiently changing the design to evade legal liability, while still retaining enough of the original aesthetic, quality and brand association to appeal to consumers.</p>
-<p>Such innovations have long protected vendors from authorities. And even if the government&#x27;s <span class="vocab-highlight" title="B2">crackdown</span> makes it more difficult, those whose livelihoods depend upon the industry will find new ways to ensure it survives.</p>
-<p>&quot;You cannot eliminate it,&quot; Thi Thanh Huong Tran says.</p>
-<p>&quot;Whatever regulation or actions the government will take, they will find a way to go around it and continue â because the demand of the customers is always there... And if there is the demand, of course, there will be the seller.&quot;</p>
-<p>Channel migrants: The real reason so many are fleeing Vietnam for the UK</p>
-<p>Trump&#x27;s <span class="vocab-highlight" title="B2">tariffs</span> are a huge blow to Vietnam&#x27;s economic ambitions</p>
-      </main>
-
-      <aside class="sidebar">
-        <h2>מילון לכתבה</h2>
-        
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">nondescript</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">חסר ייחוד, אפרורי</div>
-          <div class="pronunciation">נוֹן־דֶּסְקְרִיפְּט</div>
-          <div class="explanation">משהו רגיל ולא בולט שקשה לתאר או לזכור</div>
-          <div class="example">They rented a nondescript office with no sign on the door.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">counterfeits</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">זיופים, מוצרים מזויפים</div>
-          <div class="pronunciation">קַאוּנְטֶרְפִיטְס</div>
-          <div class="explanation">מוצרים מזויפים שנעשו כדי להיראות כמו המקור</div>
-          <div class="example">The police seized thousands of counterfeits at the border.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">seizure</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">תפיסה, החרמה</div>
-          <div class="pronunciation">סִיזְ&#x27;ר</div>
-          <div class="explanation">לקיחה של רכוש בכוח על ידי הרשויות</div>
-          <div class="example">The drug seizure was one of the largest ever recorded.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">crackdown</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">מבצע אכיפה, דיכוי</div>
-          <div class="pronunciation">קְרָאק־דַאוּן</div>
-          <div class="explanation">פעולה נמרצת של הרשויות נגד פעילות אסורה</div>
-          <div class="example">The government launched a crackdown on tax evasion.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">thrived</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">שגשג, פרח</div>
-          <div class="pronunciation">תְרַייְבְד</div>
-          <div class="explanation">התפתח והצליח מאוד</div>
-          <div class="example">The small business thrived after moving downtown.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">cornucopia</span>
-            <span class="level">C2</span>
-          </div>
-          <div class="hebrew">שפע רב, קרן שפע</div>
-          <div class="pronunciation">קוֹרְנְיוּ־קוֹפְּיָה</div>
-          <div class="explanation">כמות גדולה ומגוונת מאוד של דברים</div>
-          <div class="example">The market offered a cornucopia of fresh fruit.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">knockoffs</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">חיקויים זולים</div>
-          <div class="pronunciation">נוֹק־אוֹפְס</div>
-          <div class="explanation">העתקים זולים של מוצרים ממותגים</div>
-          <div class="example">She bought cheap knockoffs instead of the real brand.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">mounting</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">הולך וגובר, מתגבר</div>
-          <div class="pronunciation">מַאוּנְטִינְג</div>
-          <div class="explanation">משהו שהולך וגדל בהדרגה, בדרך כלל לחץ או דאגה</div>
-          <div class="example">There is mounting pressure to lower the prices.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">crusade</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">מסע צלב, מאבק נחוש</div>
-          <div class="pronunciation">קְרוּ־סֵייְד</div>
-          <div class="explanation">מאמץ ארוך ונחוש לשנות משהו שנתפס כלא צודק</div>
-          <div class="example">He led a crusade against corruption in the city.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">violate</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">להפר, לעבור על</div>
-          <div class="pronunciation">וַוייְ־אוֹ־לֵייְט</div>
-          <div class="explanation">לא לקיים חוק, כלל או הסכם</div>
-          <div class="example">Copying the design would violate their patent.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">infringements</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">הפרות (של זכויות)</div>
-          <div class="pronunciation">אִינְ־פְרִינְגְ&#x27;־מֶנְטְס</div>
-          <div class="explanation">מעשים שמפרים חוק או זכות, במיוחד זכויות יוצרים</div>
-          <div class="example">The company was fined for copyright infringements.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">perennially</span>
-            <span class="level">C2</span>
-          </div>
-          <div class="hebrew">באופן קבוע, שוב ושוב</div>
-          <div class="pronunciation">פֶּ־רֶנְ־יָה־לִי</div>
-          <div class="explanation">משהו שקורה כל הזמן או חוזר על עצמו לאורך שנים</div>
-          <div class="example">The team is perennially short of money.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">ubiquitous</span>
-            <span class="level">C2</span>
-          </div>
-          <div class="hebrew">נמצא בכל מקום, נפוץ מאוד</div>
-          <div class="pronunciation">יוּ־בִּיקְ־וִוי־טֶס</div>
-          <div class="explanation">משהו שאפשר למצוא בכל מקום</div>
-          <div class="example">Smartphones have become ubiquitous in daily life.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">replica</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">העתק, שכפול</div>
-          <div class="pronunciation">רֶפְּ־לִי־קָה</div>
-          <div class="explanation">עותק מדויק של חפץ מקורי</div>
-          <div class="example">The museum displayed a replica of the ancient crown.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">confiscate</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">להחרים, לתפוס</div>
-          <div class="pronunciation">קוֹנְ־פִיס־קֵייְט</div>
-          <div class="explanation">לקחת רכוש מאדם בסמכות רשמית</div>
-          <div class="example">Officers may confiscate any illegal goods they find.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">designation</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">הגדרה, תיוג רשמי</div>
-          <div class="pronunciation">דֶּ־זִיג־נֵיי־שֶׁן</div>
-          <div class="explanation">כינוי או מעמד רשמי שניתן למישהו או משהו</div>
-          <div class="example">The area was given the designation of a nature reserve.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">tariffs</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">מכסים, מסי יבוא</div>
-          <div class="pronunciation">טַ־רִיפְס</div>
-          <div class="explanation">מסים שמטילים על סחורות שמיובאות ממדינה אחרת</div>
-          <div class="example">The new tariffs made imported cars more expensive.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">pledged</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">התחייב, הבטיח</div>
-          <div class="pronunciation">פְּלֶגְ&#x27;ד</div>
-          <div class="explanation">הבטיח באופן רשמי לעשות משהו</div>
-          <div class="example">The minister pledged to reduce unemployment.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">sprawling</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">משתרע, נפרש על שטח גדול</div>
-          <div class="pronunciation">סְפְּרוֹ־לִינְג</div>
-          <div class="explanation">משהו גדול שמתפרש על שטח נרחב וללא סדר</div>
-          <div class="example">They live in a sprawling house on the edge of town.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">bazaars</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">שווקים, בזארים</div>
-          <div class="pronunciation">בָּה־זַארְז</div>
-          <div class="explanation">שווקים גדולים עם דוכנים רבים, נפוצים באסיה</div>
-          <div class="example">The old city is full of busy bazaars.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">unfazed</span>
-            <span class="level">C2</span>
-          </div>
-          <div class="hebrew">לא מוטרד, אדיש</div>
-          <div class="pronunciation">אַן־פֵייְזְד</div>
-          <div class="explanation">לא מודאג או מבולבל למרות מצב קשה</div>
-          <div class="example">She stayed unfazed by the harsh criticism.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">proximity</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">קרבה</div>
-          <div class="pronunciation">פְּרוֹקְ־סִי־מִי־טִי</div>
-          <div class="explanation">המצב של להיות קרוב למשהו במרחק</div>
-          <div class="example">The hotel&#x27;s proximity to the beach was a big advantage.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">prestigious</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">יוקרתי, מכובד</div>
-          <div class="pronunciation">פְּרֶס־טִי־גְ&#x27;ס</div>
-          <div class="explanation">בעל מוניטין גבוה וכבוד רב</div>
-          <div class="example">She won a prestigious award for her research.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">channelled</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">הופנה, הוזרם</div>
-          <div class="pronunciation">צֶ&#x27;א־נֶלְד</div>
-          <div class="explanation">כוון או הועבר לכיוון או מטרה מסוימת</div>
-          <div class="example">The funds were channelled into new schools.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">heralded</span>
-            <span class="level">C2</span>
-          </div>
-          <div class="hebrew">בישר, הכריז בהתלהבות</div>
-          <div class="pronunciation">הֶ־רַלְ־דֶד</div>
-          <div class="explanation">הכריז על משהו כחשוב או כהצלחה גדולה</div>
-          <div class="example">The discovery was heralded as a major breakthrough.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">dismantled</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">פירק, חיסל</div>
-          <div class="pronunciation">דִיס־מַאנְ־טֶלְד</div>
-          <div class="explanation">פירק לחלקים או חיסל ארגון או מערכת</div>
-          <div class="example">The police dismantled the smuggling network.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">illicit</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">בלתי חוקי, אסור</div>
-          <div class="pronunciation">אִי־לִי־סִיט</div>
-          <div class="explanation">אסור על פי חוק או על פי כללים חברתיים</div>
-          <div class="example">They made huge profits from illicit trade.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">syndicate</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">ארגון (פשע), קרטל</div>
-          <div class="pronunciation">סִינְ־דִי־קֶט</div>
-          <div class="explanation">קבוצה מאורגנת של אנשים, לרוב לפעילות עסקית או פלילית</div>
-          <div class="example">A crime syndicate controlled the illegal market.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">boon</span>
-            <span class="level">C2</span>
-          </div>
-          <div class="hebrew">ברכה, יתרון גדול</div>
-          <div class="pronunciation">בּוּן</div>
-          <div class="explanation">דבר שמביא תועלת או עזרה רבה</div>
-          <div class="example">The new road was a boon for local shops.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">authentic</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">אותנטי, מקורי, אמיתי</div>
-          <div class="pronunciation">אוֹ־תֶנְ־טִיק</div>
-          <div class="explanation">אמיתי ולא מזויף</div>
-          <div class="example">It is hard to tell the fake bag from the authentic one.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">overlooked</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">הוזנח, לא זכה לתשומת לב</div>
-          <div class="pronunciation">אוֹ־וֶר־לוּקְט</div>
-          <div class="explanation">לא קיבל את תשומת הלב או ההערכה הראויה</div>
-          <div class="example">Her talent was overlooked for many years.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">transparent</span>
-            <span class="level">B2</span>
-          </div>
-          <div class="hebrew">שקוף, גלוי</div>
-          <div class="pronunciation">טְרַנְס־פֶּ־רֶנְט</div>
-          <div class="explanation">פתוח וברור, ללא הסתרה</div>
-          <div class="example">The company promised a more transparent hiring process.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">negligible</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">זניח, חסר חשיבות</div>
-          <div class="pronunciation">נֶגְ־לִי־גְ&#x27;ה־בֶּל</div>
-          <div class="explanation">קטן כל כך שאפשר להתעלם ממנו</div>
-          <div class="example">The cost difference was negligible.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">notorious</span>
-            <span class="level">C1</span>
-          </div>
-          <div class="hebrew">ידוע לשמצה</div>
-          <div class="pronunciation">נוֹ־טוֹ־רִי־אֶס</div>
-          <div class="explanation">מפורסם בגלל משהו שלילי</div>
-          <div class="example">The district is notorious for selling fakes.</div>
-        </div>
-        
-
-        <div class="word-card">
-          <div class="word-row">
-            <span class="word">eradicating</span>
-            <span class="level">C2</span>
-          </div>
-          <div class="hebrew">מיגור, ביעור</div>
-          <div class="pronunciation">אִי־רַ־דִי־קֵיי־טִינְג</div>
-          <div class="explanation">לחסל משהו לחלוטין כך שלא יישאר ממנו כלום</div>
-          <div class="example">The program aims at eradicating poverty.</div>
-        </div>
-        
-      </aside>
-    </div>
-
-    <div class="footer">
-      Generated for private English-learning use. Original source link is included above.
+  <div class="card">
+    <h2>מאמר היום</h2>
+    <div id="loading">Loading today's article…</div>
+    <div id="article-info" style="display:none">
+      <div id="article-title"></div>
+      <div id="article-meta"></div>
+      <a id="article-link" class="open-btn" href="#" target="_blank" rel="noopener">
+        פתח מאמר מקורי ↗
+      </a>
     </div>
   </div>
+
+  <div class="card">
+    <h2>אוצר מילים (10 ראשונות)</h2>
+    <div id="vocab-grid" class="vocab-grid">
+      <div id="loading2" style="color:#888;font-size:14px;direction:ltr">Loading…</div>
+    </div>
+  </div>
+
+  <div class="card install-steps">
+    <h2 style="direction:rtl">איך מתקינים את הסקריפט</h2>
+    <ol>
+      <li>Install the <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener">Tampermonkey</a> browser extension.</li>
+      <li>Open the userscript:
+        <a href="userscript/daily-english-reader.user.js" target="_blank">daily-english-reader.user.js</a>
+      </li>
+      <li>Tampermonkey will prompt you to install — click <strong>Install</strong>.</li>
+      <li>Visit today's article link above. The vocabulary sidebar will appear automatically.</li>
+    </ol>
+    <p style="margin-top:12px;font-size:13px;color:#555;direction:ltr">
+      The overlay runs entirely in your browser. The original article page, images, and layout stay intact.
+    </p>
+  </div>
+
+  <script>
+    (async () => {
+      try {
+        const resp = await fetch('data/latest.json');
+        if (!resp.ok) throw new Error('not found');
+        const data = await resp.json();
+
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('article-info').style.display = 'block';
+        document.getElementById('article-title').textContent = data.title || '';
+        document.getElementById('article-meta').textContent =
+          `${data.source || ''} · ${data.date || ''} · ${data.word_count || ''} words`;
+        const link = document.getElementById('article-link');
+        link.href = data.url || '#';
+
+        const grid = document.getElementById('vocab-grid');
+        grid.innerHTML = '';
+        const preview = (data.words || []).slice(0, 10);
+        for (const w of preview) {
+          const card = document.createElement('div');
+          card.className = 'vcard';
+          card.innerHTML = `
+            <div><span class="vword">${w.word}</span><span class="vlevel">${w.level}</span></div>
+            <div class="vheb">${w.hebrew}</div>
+            <div class="vpronun">${w.pronunciation_hebrew}</div>
+          `;
+          grid.appendChild(card);
+        }
+        if (!preview.length) grid.textContent = 'No vocabulary loaded yet.';
+      } catch {
+        document.getElementById('loading').textContent = 'Could not load today\'s article. Run the routine first.';
+        document.getElementById('loading2').textContent = '';
+      }
+    })();
+  </script>
 </body>
 </html>

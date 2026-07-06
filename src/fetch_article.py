@@ -32,6 +32,7 @@ class Article:
     text: str
     source: str = "Unknown"
     date: str = ""
+    word_count: int = 0
 
 
 def split_env_list(value: str) -> List[str]:
@@ -206,6 +207,7 @@ def main() -> None:
     url = choose_article_url()
     article = extract_article(url)
     article.text = trim_article(article.text)
+    article.word_count = len(article.text.split())
 
     out_path = output_dir / "article.json"
     out_path.write_text(

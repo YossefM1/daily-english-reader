@@ -1,96 +1,152 @@
-# Daily English Reader — HTML-only Claude Code Routine v2
+# Daily English Reader
 
-This repo is intended to run with **Claude Code Routines**.
+A daily English vocabulary learning tool for Hebrew speakers.
 
-Every morning, the routine:
-1. Fetches one English article.
-2. Claude reads the article and creates a vocabulary file.
-3. Python builds a polished HTML page.
-4. The routine commits and pushes the generated page to `main`.
+Every morning, a Claude Code Routine picks one current article from a major news source and publishes Hebrew vocabulary metadata to GitHub Pages. A Tampermonkey browser userscript loads that metadata and injects a vocabulary overlay directly on the original article page.
 
-The final page is:
+**The original article stays on the original website — layout, images, videos, and embedded media are untouched.**
 
-```text
-docs/index.html
+## Dashboard
+
+[https://YossefM1.github.io/daily-english-reader/](https://YossefM1.github.io/daily-english-reader/)
+
+## Architecture
+
+```
+Claude Code Routine (runs in the cloud each morning)
+  └─ src/fetch_article.py   → picks article from RSS, extracts text
+  └─ Claude creates         → data/vocabulary.json  (18–35 Hebrew-annotated words)
+  └─ src/build_latest_json.py → writes docs/data/latest.json + archive JSON
+  └─ git push               → publishes metadata to GitHub Pages
+
+Browser (your machine)
+  └─ Tampermonkey userscript
+       └─ loads latest.json from GitHub Pages
+       └─ checks if current page URL = today's article URL
+       └─ highlights vocabulary words in gray
+       └─ injects a collapsible Hebrew vocabulary sidebar
 ```
 
-If GitHub Pages is enabled for this repo, the reading page is available at:
+## What gets published to GitHub Pages
 
-```text
-https://YossefM1.github.io/daily-english-reader/
+Only vocabulary metadata — never the full article text:
+
+```json
+{
+  "date": "2026-07-06",
+  "title": "Article title",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/...",
+  "word_count": 420,
+  "generated_at": "2026-07-06T06:00:00Z",
+  "words": [
+    {
+      "word": "escalate",
+      "lemma": "escalate",
+      "level": "B2",
+      "hebrew": "להסלים / להחמיר",
+      "explanation_hebrew": "כאשר מצב הופך רציני או חמור יותר.",
+      "pronunciation_hebrew": "אֶסְקֵלֵייט",
+      "example": "Tensions continued to escalate throughout the week."
+    }
+  ]
+}
 ```
 
-## v2 fixes
+## How to use each morning
 
-This version fixes two problems found in the first successful routine run:
+1. The routine runs automatically (or you trigger it manually).
+2. Open the dashboard: [https://YossefM1.github.io/daily-english-reader/](https://YossefM1.github.io/daily-english-reader/)
+3. Click **"פתח מאמר מקורי ↗"** to open today's article on the original site.
+4. The Tampermonkey userscript activates automatically and shows the Hebrew vocabulary sidebar.
 
-1. Removed `feedparser`, because its `sgmllib3k` dependency failed in the Claude Routine Debian environment.
-2. Removed Yahoo RSS from defaults, because Yahoo returned HTTP 403 from the Claude cloud runner.
-3. Updated the routine instructions to use a Python virtual environment.
-4. Updated the push command to push generated `docs/index.html` to `main`.
+## How to install the userscript
 
-## Files
+1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser (Chrome, Firefox, Edge, Safari).
+2. Open the raw userscript URL:  
+   [https://YossefM1.github.io/daily-english-reader/userscript/daily-english-reader.user.js](https://YossefM1.github.io/daily-english-reader/userscript/daily-english-reader.user.js)
+3. Tampermonkey will detect it and show an **Install** prompt — click Install.
+4. The script runs automatically on BBC, Guardian, NPR, and Ars Technica pages.
 
-```text
-src/fetch_article.py
-src/build_html.py
-CLAUDE.md
-routine_prompt.md
-requirements.txt
-docs/index.html
+The userscript:
+- Highlights vocabulary words in gray inside the article text.
+- Shows a collapsible sidebar on the right with Hebrew translation, pronunciation, explanation, and English example sentence for each word.
+- Clicking a highlighted word scrolls to its card in the sidebar.
+- If the current page does not match today's article, a brief notice appears and disappears.
+
+## How to run the Claude Routine manually
+
+Paste the contents of `routine_prompt.md` into a Claude Code Routine session pointed at this repository. The routine will:
+
+1. Set up the Python virtual environment.
+2. Run `src/fetch_article.py` to pick and extract an article.
+3. Create `data/vocabulary.json` with 18–35 annotated words.
+4. Run `src/build_latest_json.py` to build the metadata JSON files.
+5. Commit and push `docs/data/latest.json` and the archive file to `main`.
+
+## Repository structure
+
 ```
-
-## Important
-
-This version does **not** use:
-- Claude API
-- Anthropic API key
-- Gmail
-- SMTP
-- App Password
-- feedparser
-
-Email sending can be added later.
-
-## Routine environment variables
-
-No secret variables are required.
-
-Recommended variables:
-
-```text
-RSS_FEEDS=https://feeds.bbci.co.uk/news/world/rss.xml,https://www.theguardian.com/world/rss,https://feeds.npr.org/1001/rss.xml,https://feeds.arstechnica.com/arstechnica/index
-MAX_ARTICLE_CHARS=12000
-OUTPUT_DIR=data
-DOCS_DIR=docs
+daily-english-reader/
+├─ CLAUDE.md                      ← routine instructions
+├─ README.md
+├─ requirements.txt
+├─ routine_prompt.md              ← paste this into Claude Routine
+├─ src/
+│  ├─ fetch_article.py            ← fetches and extracts article text
+│  └─ build_latest_json.py        ← builds metadata JSON for GitHub Pages
+├─ docs/
+│  ├─ index.html                  ← GitHub Pages dashboard
+│  └─ data/
+│     ├─ latest.json              ← today's vocabulary metadata
+│     └─ archive/
+│        └─ YYYY-MM-DD.json       ← one file per day
+├─ userscript/
+│  └─ daily-english-reader.user.js
+└─ data/
+   └─ .gitkeep                    ← article.json and vocabulary.json are gitignored
 ```
-
-For testing one fixed article:
-
-```text
-ARTICLE_URL=https://...
-```
-
-Remove `ARTICLE_URL` when you want the routine to choose from RSS automatically.
 
 ## GitHub Pages setup
 
-In GitHub:
+In your repository settings:
 
-```text
-Repository → Settings → Pages
+```
+Settings → Pages → Source: Deploy from a branch
+Branch: main  |  Folder: /docs
 ```
 
-Set:
+## Supported sources
 
-```text
-Source: Deploy from a branch
-Branch: main
-Folder: /docs
-```
+- BBC World News — `https://feeds.bbci.co.uk/news/world/rss.xml`
+- The Guardian World — `https://www.theguardian.com/world/rss`
+- NPR — `https://feeds.npr.org/1001/rss.xml`
+- Ars Technica — `https://feeds.arstechnica.com/arstechnica/index`
 
-Then the page should be available at:
+Yahoo RSS is excluded because it returned HTTP 403 from the Claude cloud runner.
 
-```text
-https://YossefM1.github.io/daily-english-reader/
-```
+## Environment variables (optional)
+
+| Variable | Default | Description |
+|---|---|---|
+| `ARTICLE_URL` | _(none)_ | Skip RSS and use a specific article URL |
+| `RSS_FEEDS` | BBC, Guardian, NPR, Ars Technica | Comma-separated feed URLs |
+| `MAX_ARTICLE_CHARS` | `12000` | Trim extracted text to this length |
+| `OUTPUT_DIR` | `data` | Directory for intermediate files |
+| `DOCS_DIR` | `docs` | Directory for GitHub Pages output |
+
+## Known limitations
+
+- Single-word vocabulary items only in v1 (multi-word phrases coming later).
+- One article per day.
+- No notification when the new article is ready.
+- Highlighting may occasionally match a word in the wrong context.
+
+## Roadmap
+
+- Email notification when the new article is ready.
+- Multi-word expression support in the highlighter.
+- Hover cards instead of a fixed sidebar.
+- Multiple articles per day / per topic.
+- Spaced-repetition tracking across days.
+- Mobile-friendly sidebar layout.

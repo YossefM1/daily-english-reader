@@ -1,36 +1,42 @@
 You are running the daily English reader routine from the GitHub repository `YossefM1/daily-english-reader`.
 
-Goal:
-Create and publish one polished English-learning HTML page based on one current English article.
+## Goal
 
-Follow the repository instructions in `CLAUDE.md` exactly.
+Publish today's English vocabulary metadata to GitHub Pages so the browser userscript can display a Hebrew learning overlay on the original article.
 
-Important:
-- Do not use email or SMTP.
-- Do not use Claude API.
-- Use a Python virtual environment.
-- Do not use feedparser.
-- Push the generated `docs/index.html` to `main`, not only to a temporary Claude branch.
+**Do NOT generate a standalone article page.**  
+**Do NOT publish the full article text.**  
+**Only generate `docs/data/latest.json` and `docs/data/archive/YYYY-MM-DD.json`.**
 
-Execution steps:
+The actual reading experience happens on the original news website. The Tampermonkey userscript handles the overlay. Your job is only to publish the vocabulary metadata.
 
-1. From the repository root, run:
-   python -m venv .venv
-   . .venv/bin/activate
-   python -m pip install --upgrade pip setuptools wheel
-   python -m pip install -r requirements.txt
+## Steps
 
-2. Run:
-   . .venv/bin/activate
-   python src/fetch_article.py
+### 1. Set up the Python environment
 
-3. Open and read:
-   data/article.json
+```bash
+python -m venv .venv
+. .venv/bin/activate
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install -r requirements.txt
+```
 
-4. Based on the article text, create:
-   data/vocabulary.json
+### 2. Fetch the article
 
-Use exactly this JSON schema:
+```bash
+. .venv/bin/activate
+python src/fetch_article.py
+```
+
+### 3. Read the article
+
+Open and read `data/article.json`.
+
+### 4. Create vocabulary
+
+Create `data/vocabulary.json` with this exact schema:
+
+```json
 [
   {
     "word": "exact word from the article",
@@ -42,35 +48,57 @@ Use exactly this JSON schema:
     "example": "short English example sentence"
   }
 ]
+```
 
-Vocabulary rules:
+Rules:
 - Select 18–35 words.
-- Choose intermediate and advanced words only.
-- Avoid names, places, companies, dates, numbers, and very basic words.
-- The `word` must appear exactly in the article so the Python highlighter can mark it.
-- Hebrew should be natural and useful for an Israeli Hebrew speaker.
-- Add niqqud in the Hebrew pronunciation where possible.
+- B1/B2/C1/C2 only — no basic words.
+- Avoid names, companies, places, organizations, dates, numbers, abbreviations.
+- Prefer single-token words (not multi-word phrases).
+- `word` must match an exact visible surface form from the article text.
+- Hebrew must be natural and useful for an Israeli Hebrew speaker.
+- `pronunciation_hebrew` should use Hebrew letters with niqqud where possible.
 
-5. Validate `data/vocabulary.json`:
-   - It must be valid JSON.
-   - It must contain 18–35 words.
-   - Every `word` should appear in the article text.
+Validate: at least 18 words, all required fields present, all words appear in the article.
 
-6. Run:
-   . .venv/bin/activate
-   python src/build_html.py
+### 5. Build metadata JSON
 
-7. Commit and push the generated page to `main`:
-   git config user.name "Claude Routine"
-   git config user.email "claude-routine@example.com"
-   git add docs/index.html
-   git commit -m "Update daily English article" || echo "No changes to commit"
-   git push origin HEAD:main
+```bash
+. .venv/bin/activate
+python src/build_latest_json.py
+```
 
-Success means `docs/index.html` was updated in GitHub on the `main` branch.
+This writes:
+- `docs/data/latest.json`
+- `docs/data/archive/YYYY-MM-DD.json`
 
-At the end, report only:
-- article title
-- original URL
-- number of vocabulary words
-- whether docs/index.html was updated successfully on main
+These files do NOT contain the full article text.
+
+### 6. Commit and push to main
+
+```bash
+git config user.name "Claude"
+git config user.email "noreply@anthropic.com"
+git add docs/data/latest.json docs/data/archive/ docs/index.html userscript/daily-english-reader.user.js CLAUDE.md routine_prompt.md src/ requirements.txt README.md
+git commit -m "Update daily English reader metadata" || echo "No changes to commit"
+git push origin HEAD:main
+```
+
+**Do not force-push. Do not rewrite history. Push to `main` only.**
+
+## Constraints
+
+- Do not use Claude API or Anthropic API key.
+- Do not use Gmail, SMTP, or any email service.
+- Do not use feedparser.
+- Do not publish `data/article.json` or `data/vocabulary.json` directly.
+- Do not overwrite `docs/index.html` unless there is a dashboard improvement to make.
+- Do not overwrite `userscript/daily-english-reader.user.js` unless there is a bug fix.
+
+## Final report
+
+After a successful run, report only:
+- Article title
+- Original article URL
+- Number of vocabulary words
+- Confirmation that `docs/data/latest.json` was pushed to `main`
