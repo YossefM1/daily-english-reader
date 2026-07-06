@@ -152,10 +152,20 @@ OUTPUT_DIR        – default data
 DOCS_DIR          – default docs
 ```
 
-Stable default feeds:
+Current test mode: **BBC only**. The routine selects articles from BBC World
+News exclusively:
 
 ```text
-RSS_FEEDS=https://feeds.bbci.co.uk/news/world/rss.xml,https://www.theguardian.com/world/rss,https://feeds.npr.org/1001/rss.xml,https://feeds.arstechnica.com/arstechnica/index
+RSS_FEEDS=https://feeds.bbci.co.uk/news/world/rss.xml
+```
+
+Other stable feeds (temporarily disabled during BBC test mode — re-add to
+`RSS_FEEDS` to re-enable):
+
+```text
+https://www.theguardian.com/world/rss
+https://feeds.npr.org/1001/rss.xml
+https://feeds.arstechnica.com/arstechnica/index
 ```
 
 ## Success criteria

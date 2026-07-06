@@ -2,6 +2,8 @@
 
 A daily English vocabulary learning tool for Hebrew speakers.
 
+> **Current test mode: BBC only.** The routine currently selects articles from **BBC World News exclusively** (`https://feeds.bbci.co.uk/news/world/rss.xml`). The Guardian, NPR, and Ars Technica sources are temporarily disabled and the userscript is optimized for BBC pages.
+
 Every morning, a Claude Code Routine picks one current article from a major news source and publishes Hebrew vocabulary metadata to GitHub Pages. A Tampermonkey browser userscript loads that metadata and injects a vocabulary overlay directly on the original article page.
 
 **The original article stays on the original website — layout, images, videos, and embedded media are untouched.**
@@ -66,7 +68,7 @@ Only vocabulary metadata — never the full article text:
 2. Open the raw userscript URL:  
    [https://YossefM1.github.io/daily-english-reader/userscript/daily-english-reader.user.js](https://YossefM1.github.io/daily-english-reader/userscript/daily-english-reader.user.js)
 3. Tampermonkey will detect it and show an **Install** prompt — click Install.
-4. The script runs automatically on BBC, Guardian, NPR, and Ars Technica pages.
+4. **Test mode:** the script runs automatically on BBC News pages (`bbc.co.uk/news/*` and `bbc.com/news/*`, with or without `www`). Other sources are disabled for now.
 
 The userscript:
 - Highlights vocabulary words in gray inside the article text.
@@ -118,7 +120,12 @@ Branch: main  |  Folder: /docs
 
 ## Supported sources
 
+**Current test mode: BBC only.** The routine uses a single feed:
+
 - BBC World News — `https://feeds.bbci.co.uk/news/world/rss.xml`
+
+The following sources are temporarily disabled during BBC test mode (re-enable by setting `RSS_FEEDS`):
+
 - The Guardian World — `https://www.theguardian.com/world/rss`
 - NPR — `https://feeds.npr.org/1001/rss.xml`
 - Ars Technica — `https://feeds.arstechnica.com/arstechnica/index`
@@ -130,7 +137,7 @@ Yahoo RSS is excluded because it returned HTTP 403 from the Claude cloud runner.
 | Variable | Default | Description |
 |---|---|---|
 | `ARTICLE_URL` | _(none)_ | Skip RSS and use a specific article URL |
-| `RSS_FEEDS` | BBC, Guardian, NPR, Ars Technica | Comma-separated feed URLs |
+| `RSS_FEEDS` | BBC World News only (test mode) | Comma-separated feed URLs |
 | `MAX_ARTICLE_CHARS` | `12000` | Trim extracted text to this length |
 | `OUTPUT_DIR` | `data` | Directory for intermediate files |
 | `DOCS_DIR` | `docs` | Directory for GitHub Pages output |

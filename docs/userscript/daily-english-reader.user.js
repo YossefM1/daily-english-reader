@@ -1,18 +1,13 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.0.3
-// @description  Highlights vocabulary and shows Hebrew sidebar on today's article
+// @version      1.0.4
+// @description  Highlights vocabulary and shows Hebrew sidebar on today's article (BBC test mode)
 // @author       YossefM1
 // @match        https://www.bbc.co.uk/news/*
 // @match        https://bbc.co.uk/news/*
 // @match        https://www.bbc.com/news/*
 // @match        https://bbc.com/news/*
-// @match        https://www.theguardian.com/*
-// @match        https://theguardian.com/*
-// @match        https://www.npr.org/*
-// @match        https://npr.org/*
-// @match        https://arstechnica.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_registerMenuCommand
 // @connect      yossefm1.github.io
@@ -267,13 +262,16 @@
   }
 
   // ── URL matching ─────────────────────────────────────────────────────────────
-  // Compare only origin + pathname. Ignore query strings, hashes, trailing slash.
-  // Treat www and non-www as equivalent.
+  // Compare only host + pathname. Ignore query strings, hashes, trailing slash.
+  // Treat www and non-www as equivalent, and (BBC test mode) treat bbc.com and
+  // bbc.co.uk as the same site since BBC serves identical article paths on both.
 
   function normalizeUrl(u) {
     try {
       const url = new URL(u);
-      const host = url.hostname.replace(/^www\./i, '');
+      let host = url.hostname.replace(/^www\./i, '');
+      // BBC test mode: unify bbc.com and bbc.co.uk to one canonical host.
+      if (host === 'bbc.com' || host === 'bbc.co.uk') host = 'bbc.co.uk';
       let path = url.pathname.replace(/\/+$/, '');
       if (path === '') path = '/';
       return url.protocol + '//' + host + path;

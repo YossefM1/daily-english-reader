@@ -15,13 +15,11 @@ import trafilatura
 from bs4 import BeautifulSoup
 
 
-# Yahoo RSS often returns HTTP 403 from cloud runners, so the defaults below
-# use feeds that worked reliably in Claude Code Routine cloud runs.
+# BBC-only test mode: the routine currently selects articles from BBC World
+# News exclusively. Guardian, NPR and Ars Technica feeds are intentionally
+# disabled for now (they can be re-added via RSS_FEEDS when test mode ends).
 DEFAULT_RSS_FEEDS = [
     "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "https://www.theguardian.com/world/rss",
-    "https://feeds.npr.org/1001/rss.xml",
-    "https://feeds.arstechnica.com/arstechnica/index",
 ]
 
 
