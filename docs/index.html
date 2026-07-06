@@ -15,59 +15,122 @@
     }
     header {
       text-align: center;
-      margin-bottom: 32px;
+      margin-bottom: 28px;
     }
     header h1 { font-size: 28px; color: #1a5276; }
     header p { color: #555; margin-top: 6px; font-size: 15px; direction: ltr; }
-    .card {
-      background: #fff;
-      border-radius: 10px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-      padding: 20px 24px;
-      max-width: 700px;
-      margin: 0 auto 24px auto;
+    .wrap { max-width: 1080px; margin: 0 auto; }
+    .section-title {
+      max-width: 1080px;
+      margin: 0 auto 14px auto;
+      color: #1a5276;
+      font-size: 20px;
+      direction: rtl;
     }
-    .card h2 { font-size: 18px; color: #1a5276; margin-bottom: 12px; }
-    #article-title { font-size: 17px; font-weight: bold; direction: ltr; }
-    #article-meta { color: #777; font-size: 13px; direction: ltr; margin: 4px 0 14px; }
+    .levels {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+      margin-bottom: 32px;
+    }
+    @media (max-width: 900px) { .levels { grid-template-columns: 1fr; } }
+    .lvl-card {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      border-top: 5px solid #1a5276;
+    }
+    .lvl-card.lvl-A { border-top-color: #2e8b57; }
+    .lvl-card.lvl-B { border-top-color: #1a5276; }
+    .lvl-card.lvl-C { border-top-color: #8e44ad; }
+    .lvl-badge {
+      display: inline-block;
+      align-self: flex-start;
+      font-size: 13px;
+      font-weight: bold;
+      color: #fff;
+      background: #1a5276;
+      border-radius: 6px;
+      padding: 4px 10px;
+      margin-bottom: 10px;
+      direction: ltr;
+    }
+    .lvl-A .lvl-badge { background: #2e8b57; }
+    .lvl-B .lvl-badge { background: #1a5276; }
+    .lvl-C .lvl-badge { background: #8e44ad; }
+    .lvl-title { font-size: 17px; font-weight: bold; direction: ltr; line-height: 1.4; }
+    .lvl-meta { color: #777; font-size: 13px; direction: ltr; margin: 6px 0 10px; }
+    .lvl-reason {
+      direction: rtl;
+      font-size: 14px;
+      line-height: 1.5;
+      color: #444;
+      background: #f6f8fb;
+      border-radius: 8px;
+      padding: 8px 10px;
+      margin-bottom: 12px;
+    }
+    .lvl-counts {
+      display: flex;
+      gap: 8px;
+      direction: ltr;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    .lvl-counts span {
+      background: #e8f4fd;
+      color: #1a5276;
+      border-radius: 6px;
+      font-size: 12.5px;
+      padding: 3px 9px;
+    }
+    .lvl-preview {
+      direction: rtl;
+      margin-bottom: 14px;
+      border-top: 1px solid #eee;
+      padding-top: 10px;
+    }
+    .lvl-preview .pv-title { font-size: 12.5px; color: #888; margin-bottom: 6px; }
+    .lvl-preview ul { list-style: none; }
+    .lvl-preview li {
+      font-size: 14px;
+      line-height: 1.5;
+      margin-bottom: 3px;
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+    }
+    .lvl-preview .pv-en { direction: ltr; color: #1a5276; font-weight: 600; }
+    .lvl-preview .pv-he { direction: rtl; color: #333; }
     .open-btn {
       display: inline-block;
       background: #1a5276;
       color: #fff;
       text-decoration: none;
-      padding: 10px 20px;
-      border-radius: 6px;
+      text-align: center;
+      padding: 11px 18px;
+      border-radius: 8px;
       font-size: 14px;
+      margin-top: auto;
     }
-    .open-btn:hover { background: #154360; }
-    .vocab-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 10px;
-      margin-top: 12px;
+    .lvl-A .open-btn { background: #2e8b57; }
+    .lvl-C .open-btn { background: #8e44ad; }
+    .open-btn:hover { filter: brightness(0.92); }
+    .card {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      padding: 20px 24px;
+      max-width: 1080px;
+      margin: 0 auto 24px auto;
     }
-    @media (max-width: 480px) { .vocab-grid { grid-template-columns: 1fr; } }
-    .vcard {
-      border: 1px solid #dde;
-      border-radius: 6px;
-      padding: 10px 12px;
-      background: #fafbff;
-    }
-    .vcard .vword { font-weight: bold; color: #1a5276; direction: ltr; font-size: 15px; }
-    .vcard .vlevel {
-      display: inline-block;
-      background: #e8f4fd;
-      color: #1a5276;
-      border-radius: 4px;
-      font-size: 11px;
-      padding: 1px 5px;
-      margin-right: 4px;
-    }
-    .vcard .vheb { direction: rtl; font-size: 14px; margin-top: 4px; }
-    .vcard .vpronun { direction: rtl; color: #666; font-size: 12px; }
+    .card h2 { font-size: 18px; color: #1a5276; margin-bottom: 12px; direction: rtl; }
     .install-steps { direction: ltr; }
     .install-steps ol { padding-right: 0; padding-left: 20px; }
-    .install-steps li { margin-bottom: 8px; font-size: 14px; }
+    .install-steps li { margin-bottom: 8px; font-size: 14px; line-height: 1.5; }
     .install-steps code {
       background: #eef2f7;
       padding: 1px 5px;
@@ -75,44 +138,31 @@
       font-size: 13px;
     }
     a { color: #1a5276; }
-    #loading { color: #888; font-size: 14px; direction: ltr; }
+    #loading { color: #888; font-size: 14px; direction: ltr; text-align: center; }
+    #load-error {
+      display: none;
+      color: #a12626;
+      font-size: 14px;
+      direction: ltr;
+      text-align: center;
+      max-width: 1080px;
+      margin: 0 auto 24px;
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>📘 Daily English Reader</h1>
-    <p>Read today's article on the original site — with Hebrew vocabulary overlay</p>
+    <p>Read today's articles on the original BBC site — with a Hebrew vocabulary overlay</p>
     <p style="margin-top:8px;font-size:13px;color:#1a5276;font-weight:bold;direction:ltr">
-      Test mode: BBC only — today's article is selected from BBC World News.
+      BBC-only mode · 3 reading levels every day: A (easier) · B (intermediate) · C (advanced)
     </p>
   </header>
 
-  <div class="card">
-    <h2>מאמר היום</h2>
-    <div id="loading">Loading today's article…</div>
-    <div id="article-info" style="display:none">
-      <div id="article-title"></div>
-      <div id="article-meta"></div>
-      <a id="article-link" class="open-btn" href="#" target="_blank" rel="noopener">
-        פתח מאמר מקורי ↗
-      </a>
-    </div>
-  </div>
-
-  <div class="card">
-    <h2>אוצר מילים (15 מילים)</h2>
-    <div id="vocab-grid" class="vocab-grid">
-      <div id="loading2" style="color:#888;font-size:14px;direction:ltr">Loading…</div>
-    </div>
-  </div>
-
-  <div class="card">
-    <h2>חידון (Quiz)</h2>
-    <div id="quiz-preview" style="direction:rtl;font-size:14px;color:#444">Loading…</div>
-    <p style="margin-top:10px;font-size:13px;color:#555;direction:rtl">
-      החידון זמין בתוך הסרגל הצדדי של הסקריפט, בלשונית <strong>Quiz</strong>, ישירות על עמוד המאמר ב-BBC.
-    </p>
-  </div>
+  <div class="section-title">בחר מאמר לפי רמת קושי</div>
+  <div id="loading">Loading today's articles…</div>
+  <div id="load-error"></div>
+  <div id="levels" class="levels" style="display:none"></div>
 
   <div class="card install-steps">
     <h2 style="direction:rtl">איך מתקינים ומשתמשים</h2>
@@ -122,57 +172,114 @@
         <a href="userscript/daily-english-reader.user.js" target="_blank">daily-english-reader.user.js</a>
         — Tampermonkey will prompt you to install; click <strong>Install</strong> (or <strong>Update</strong>).
       </li>
-      <li>Run the routine (or wait for the scheduled run) so today's <code>latest.json</code> is published.</li>
-      <li>Open today's BBC article using the button above.</li>
+      <li>Pick a level above (A / B / C) and click <strong>Open BBC article</strong> to open it on the original BBC site.</li>
+      <li>The userscript detects which of the 3 selected articles you opened, highlights the vocabulary, and shows the Hebrew sidebar.</li>
       <li>Use the <strong>Words</strong> and <strong>Quiz</strong> tabs in the sidebar to study and test yourself.</li>
     </ol>
     <p style="margin-top:12px;font-size:13px;color:#555;direction:ltr">
       The overlay runs entirely in your browser. The original article page, images, and layout stay intact.
+      No full article text is published by this site — only vocabulary and quiz metadata.
     </p>
   </div>
 
   <script>
+    const LEVEL_ORDER = { A: 0, B: 1, C: 2 };
+
+    function esc(s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, c => (
+        { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
+      ));
+    }
+
+    async function fetchJson(url) {
+      const resp = await fetch(url, { cache: 'no-store' });
+      if (!resp.ok) throw new Error('HTTP ' + resp.status + ' for ' + url);
+      return resp.json();
+    }
+
+    function buildCard(article) {
+      const id = (article.id || '').toUpperCase();
+      const card = document.createElement('div');
+      card.className = 'lvl-card lvl-' + id;
+
+      card.innerHTML = `
+        <span class="lvl-badge">${esc(article.level_label || ('Level ' + id))}</span>
+        <div class="lvl-title">${esc(article.title)}</div>
+        <div class="lvl-meta">${esc(article.source || 'BBC')} · ${esc(article.word_count || 0)} words</div>
+        <div class="lvl-reason">${esc(article.difficulty_reason || '')}</div>
+        <div class="lvl-counts">
+          <span>${esc(article.vocabulary_count || 0)} מילים</span>
+          <span>${esc(article.quiz_count || 0)} שאלות חידון</span>
+        </div>
+        <div class="lvl-preview" data-preview></div>
+        <a class="open-btn" href="${esc(article.url)}" target="_blank" rel="noopener">Open BBC article ↗</a>
+      `;
+
+      // Best-effort vocabulary preview from the per-article data file.
+      if (article.data_url) {
+        fetchJson(article.data_url)
+          .then(full => {
+            const words = Array.isArray(full.words) ? full.words.slice(0, 6) : [];
+            const box = card.querySelector('[data-preview]');
+            if (!box || !words.length) { if (box) box.remove(); return; }
+            box.innerHTML =
+              '<div class="pv-title">דוגמאות מאוצר המילים</div><ul>' +
+              words.map(w =>
+                `<li><span class="pv-en">${esc(w.word)}</span><span class="pv-he">${esc(w.hebrew)}</span></li>`
+              ).join('') +
+              '</ul>';
+          })
+          .catch(() => {
+            const box = card.querySelector('[data-preview]');
+            if (box) box.remove();
+          });
+      }
+
+      return card;
+    }
+
+    function renderArticles(articles) {
+      const sorted = [...articles].sort(
+        (a, b) => (LEVEL_ORDER[(a.id || '').toUpperCase()] ?? 9) - (LEVEL_ORDER[(b.id || '').toUpperCase()] ?? 9)
+      );
+      const grid = document.getElementById('levels');
+      grid.innerHTML = '';
+      for (const a of sorted) grid.appendChild(buildCard(a));
+      document.getElementById('loading').style.display = 'none';
+      grid.style.display = 'grid';
+    }
+
     (async () => {
+      // Preferred: today.json (3 daily articles). Fallback: latest.json (single B article).
       try {
-        const resp = await fetch('data/latest.json');
-        if (!resp.ok) throw new Error('not found');
-        const data = await resp.json();
-
-        document.getElementById('loading').style.display = 'none';
-        document.getElementById('article-info').style.display = 'block';
-        document.getElementById('article-title').textContent = data.title || '';
-        document.getElementById('article-meta').textContent =
-          `${data.source || ''} · ${data.date || ''} · ${data.word_count || ''} words`;
-        const link = document.getElementById('article-link');
-        link.href = data.url || '#';
-
-        const grid = document.getElementById('vocab-grid');
-        grid.innerHTML = '';
-        const words = data.words || [];
-        for (const w of words) {
-          const card = document.createElement('div');
-          card.className = 'vcard';
-          card.innerHTML = `
-            <div><span class="vword">${w.word}</span><span class="vlevel">${w.level}</span></div>
-            <div class="vheb">${w.hebrew}</div>
-            <div class="vpronun">${w.pronunciation_hebrew}</div>
-          `;
-          grid.appendChild(card);
+        const today = await fetchJson('data/today.json');
+        if (Array.isArray(today.articles) && today.articles.length) {
+          renderArticles(today.articles);
+          return;
         }
-        if (!words.length) grid.textContent = 'No vocabulary loaded yet.';
-
-        const quizPreview = document.getElementById('quiz-preview');
-        const quizCount = Array.isArray(data.quiz) ? data.quiz.length : 0;
-        if (quizCount > 0) {
-          quizPreview.textContent = `זמינות ${quizCount} שאלות חידון עבור המאמר של היום.`;
-        } else {
-          quizPreview.textContent = 'אין חידון זמין למאמר זה עדיין.';
+        throw new Error('today.json has no articles');
+      } catch (e1) {
+        try {
+          const latest = await fetchJson('data/latest.json');
+          renderArticles([{
+            id: 'B',
+            level: 'B',
+            level_label: latest.level_label || 'B — Intermediate English',
+            title: latest.title,
+            source: latest.source,
+            url: latest.url,
+            word_count: latest.word_count,
+            difficulty_reason: 'Default recommended article (backward-compatible latest.json).',
+            data_url: 'data/latest.json',
+            vocabulary_count: Array.isArray(latest.words) ? latest.words.length : 0,
+            quiz_count: Array.isArray(latest.quiz) ? latest.quiz.length : 0,
+          }]);
+        } catch (e2) {
+          document.getElementById('loading').style.display = 'none';
+          const err = document.getElementById('load-error');
+          err.style.display = 'block';
+          err.textContent = "Could not load today's articles yet. Run the routine to publish today.json.";
         }
-      } catch {
-        document.getElementById('loading').textContent = 'Could not load today\'s article. Run the routine first.';
-        document.getElementById('loading2').textContent = '';
-        const quizPreview = document.getElementById('quiz-preview');
-        if (quizPreview) quizPreview.textContent = '';
       }
     })();
   </script>
