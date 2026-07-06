@@ -95,14 +95,14 @@ daily-english-reader/
 ├─ src/
 │  ├─ fetch_article.py            ← fetches and extracts article text
 │  └─ build_latest_json.py        ← builds metadata JSON for GitHub Pages
-├─ docs/
+├─ docs/                          ← served by GitHub Pages (site root)
 │  ├─ index.html                  ← GitHub Pages dashboard
+│  ├─ userscript/
+│  │  └─ daily-english-reader.user.js   ← installable userscript
 │  └─ data/
 │     ├─ latest.json              ← today's vocabulary metadata
 │     └─ archive/
 │        └─ YYYY-MM-DD.json       ← one file per day
-├─ userscript/
-│  └─ daily-english-reader.user.js
 └─ data/
    └─ .gitkeep                    ← article.json and vocabulary.json are gitignored
 ```

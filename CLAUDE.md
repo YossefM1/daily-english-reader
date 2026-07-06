@@ -135,7 +135,7 @@ docs/data/archive/YYYY-MM-DD.json
 ```bash
 git config user.name "Claude"
 git config user.email "noreply@anthropic.com"
-git add docs/data/latest.json docs/data/archive/ docs/index.html userscript/daily-english-reader.user.js CLAUDE.md routine_prompt.md src/ requirements.txt README.md
+git add docs/data/latest.json docs/data/archive/ docs/index.html docs/userscript/daily-english-reader.user.js CLAUDE.md routine_prompt.md src/ requirements.txt README.md
 git commit -m "Update daily English reader metadata" || echo "No changes to commit"
 git push origin HEAD:main
 ```
