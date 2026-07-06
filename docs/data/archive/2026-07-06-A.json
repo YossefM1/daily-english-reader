@@ -7,8 +7,8 @@
   "source": "BBC",
   "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo",
   "word_count": 470,
-  "generated_at": "2026-07-06T19:42:06.482756+00:00",
-  "difficulty_reason": "Shorter article (≈470 words) about a single court case, with a clear chronological structure and mostly B1/B2 vocabulary.",
+  "generated_at": "2026-07-06T20:23:31.700063+00:00",
+  "difficulty_reason": "סיפור קצר וישיר עם משפט אחד; משפטים קצרים ואוצר מילים ברמת B1/B2, עם מעט מונחים משפטיים.",
   "settings": {
     "source_mode": "BBC-only",
     "vocabulary_count": 15,
@@ -16,169 +16,169 @@
   },
   "words": [
     {
-      "word": "guilty",
-      "lemma": "guilty",
-      "level": "B1",
-      "hebrew": "אָשֵׁם",
-      "explanation_hebrew": "נמצא אחראי לביצוע עבירה",
-      "pronunciation_hebrew": "גִּילְטִי",
-      "example": "The court found him guilty of theft."
+      "word": "intelligence",
+      "lemma": "intelligence",
+      "level": "B2",
+      "hebrew": "מוֹדִיעִין",
+      "explanation_hebrew": "שֵׁירוּת שֶׁאוֹסֵף מֵידָע סוֹדִי לְמַטָּרוֹת בִּיטָּחוֹן",
+      "pronunciation_hebrew": "אִינְטֶלִיגֶ'נְס",
+      "example": "He worked for military intelligence."
     },
     {
       "word": "torture",
       "lemma": "torture",
       "level": "B2",
-      "hebrew": "עינויים",
-      "explanation_hebrew": "גרימת כאב קשה לאדם בכוונה",
+      "hebrew": "עִינּוּי",
+      "explanation_hebrew": "גְּרִימַת כְּאֵב חָמוּר בְּכַוָּונָה כְּדֵי לְהַעֲנִישׁ אוֹ לְהוֹצִיא מֵידָע",
       "pronunciation_hebrew": "טוֹרְצֶ'ר",
-      "example": "The prisoners described months of torture."
+      "example": "The prisoners were subjected to torture."
     },
     {
       "word": "abuse",
       "lemma": "abuse",
       "level": "B2",
-      "hebrew": "התעללות",
-      "explanation_hebrew": "פגיעה או יחס אכזרי כלפי מישהו",
-      "pronunciation_hebrew": "אֶבְּיוּז",
-      "example": "He was accused of the abuse of prisoners."
+      "hebrew": "הִתְעַלְּלוּת",
+      "explanation_hebrew": "יַחַס אַכְזָרִי וּפוֹגְעָנִי כְּלַפֵּי מִישֶׁהוּ",
+      "pronunciation_hebrew": "אֲבְּיוּס",
+      "example": "He was accused of abuse of power."
+    },
+    {
+      "word": "opponents",
+      "lemma": "opponent",
+      "level": "B2",
+      "hebrew": "מִתְנַגְּדִים",
+      "explanation_hebrew": "אֲנָשִׁים הַמִּתְנַגְּדִים לְמִישֶׁהוּ אוֹ לְמַשֶּׁהוּ",
+      "pronunciation_hebrew": "אוֹפּוֹנֶנְטְס",
+      "example": "Political opponents were arrested."
+    },
+    {
+      "word": "jurisdiction",
+      "lemma": "jurisdiction",
+      "level": "C1",
+      "hebrew": "סַמְכוּת שִׁיפּוּטִית",
+      "explanation_hebrew": "הַסַּמְכוּת הַחוּקִית שֶׁל בֵּית מִשְׁפָּט לָדוּן בְּעִנְיָין",
+      "pronunciation_hebrew": "גֶ'רִיסְדִיקְשֶׁן",
+      "example": "The court has jurisdiction over the case."
     },
     {
       "word": "uprising",
       "lemma": "uprising",
       "level": "B2",
-      "hebrew": "התקוממות",
-      "explanation_hebrew": "מרד המוני נגד השלטון",
-      "pronunciation_hebrew": "אַפְּרַייזִינְג",
-      "example": "The uprising against the leader began in 2011."
+      "hebrew": "הִתְקוֹמְמוּת",
+      "explanation_hebrew": "מֶרֶד שֶׁל הָעָם נֶגֶד הַשִּׁלְטוֹן",
+      "pronunciation_hebrew": "אַפְּרַיְזִינְג",
+      "example": "The uprising began in 2011."
     },
     {
-      "word": "jurisdiction",
-      "lemma": "jurisdiction",
+      "word": "minority",
+      "lemma": "minority",
       "level": "B2",
-      "hebrew": "סמכות שיפוט",
-      "explanation_hebrew": "הזכות החוקית לדון ולהכריע בעניין",
-      "pronunciation_hebrew": "ג'וּרִיסְדִיקְשֶׁן",
-      "example": "The court claimed jurisdiction over the case."
+      "hebrew": "מִיעוּט",
+      "explanation_hebrew": "קְבוּצָה קְטַנָּה בְּתוֹךְ אוּכְלוּסִיָּיה גְּדוֹלָה יוֹתֵר",
+      "pronunciation_hebrew": "מַיְנוֹרִיטִי",
+      "example": "They belong to a religious minority."
+    },
+    {
+      "word": "coercion",
+      "lemma": "coercion",
+      "level": "C1",
+      "hebrew": "כְּפִיָּיה",
+      "explanation_hebrew": "הַכְרָחָה שֶׁל מִישֶׁהוּ לַעֲשׂוֹת מַשֶּׁהוּ בְּכוֹחַ אוֹ בְּאִיּוּמִים",
+      "pronunciation_hebrew": "קוֹאֶרְשֶׁן",
+      "example": "The confession was obtained by coercion."
     },
     {
       "word": "sentenced",
       "lemma": "sentence",
-      "level": "B1",
-      "hebrew": "נִדּוֹן",
-      "explanation_hebrew": "נגזר עליו עונש בבית משפט",
+      "level": "B2",
+      "hebrew": "נִידּוֹן לְעוֹנֶשׁ",
+      "explanation_hebrew": "קִיבֵּל עוֹנֶשׁ רִשְׁמִי מִבֵּית מִשְׁפָּט",
       "pronunciation_hebrew": "סֶנְטֶנְסְט",
-      "example": "They were sentenced to eight years in prison."
-    },
-    {
-      "word": "prosecutors",
-      "lemma": "prosecutor",
-      "level": "B2",
-      "hebrew": "תּוֹבְעִים",
-      "explanation_hebrew": "עורכי הדין המייצגים את המדינה בבית משפט",
-      "pronunciation_hebrew": "פְּרוֹסִיקְיוּטוֹרְז",
-      "example": "Prosecutors said the men ordered the abuse."
-    },
-    {
-      "word": "denied",
-      "lemma": "deny",
-      "level": "B1",
-      "hebrew": "הִכְחִישׁוּ",
-      "explanation_hebrew": "טענו שדבר אינו נכון",
-      "pronunciation_hebrew": "דִּינַייד",
-      "example": "Both men denied the charges against them."
-    },
-    {
-      "word": "obliged",
-      "lemma": "oblige",
-      "level": "B2",
-      "hebrew": "נֶאֱלַץ",
-      "explanation_hebrew": "חויב לעשות דבר מה",
-      "pronunciation_hebrew": "אוֹבְּלַייגְ'ד",
-      "example": "He said he was obliged to follow orders."
-    },
-    {
-      "word": "suppress",
-      "lemma": "suppress",
-      "level": "B2",
-      "hebrew": "לְדַכֵּא",
-      "explanation_hebrew": "למנוע בכוח מחאה או פעילות",
-      "pronunciation_hebrew": "סַפְּרֶס",
-      "example": "The regime tried to suppress the protests."
-    },
-    {
-      "word": "intimidate",
-      "lemma": "intimidate",
-      "level": "B2",
-      "hebrew": "לְהַפְחִיד",
-      "explanation_hebrew": "להטיל פחד כדי לשלוט במישהו",
-      "pronunciation_hebrew": "אִינְטִימִידֵייט",
-      "example": "The torture was used to intimidate the population."
-    },
-    {
-      "word": "testify",
-      "lemma": "testify",
-      "level": "B2",
-      "hebrew": "לְהָעִיד",
-      "explanation_hebrew": "למסור עדות בבית משפט",
-      "pronunciation_hebrew": "טֶסְטִיפַיי",
-      "example": "Victims travelled to testify at the trial."
-    },
-    {
-      "word": "trauma",
-      "lemma": "trauma",
-      "level": "B2",
-      "hebrew": "טְרָאוּמָה",
-      "explanation_hebrew": "פגיעה נפשית קשה ומתמשכת",
-      "pronunciation_hebrew": "טְרַאוּמָה",
-      "example": "Many victims suffered lasting trauma."
+      "example": "He was sentenced to five years in prison."
     },
     {
       "word": "asylum",
       "lemma": "asylum",
       "level": "B2",
       "hebrew": "מִקְלָט מְדִינִי",
-      "explanation_hebrew": "הגנה שמעניקה מדינה לפליט",
-      "pronunciation_hebrew": "אַסַיילֶם",
-      "example": "The two men applied for asylum in Austria."
+      "explanation_hebrew": "הֲגָנָה שֶׁמְּדִינָה נוֹתֶנֶת לְמִי שֶׁבָּרַח מֵאַרְצוֹ",
+      "pronunciation_hebrew": "אַסַיְלֶם",
+      "example": "They applied for asylum abroad."
     },
     {
-      "word": "appeal",
-      "lemma": "appeal",
+      "word": "denied",
+      "lemma": "deny",
+      "level": "B1",
+      "hebrew": "הִכְחִישׁ",
+      "explanation_hebrew": "אָמַר שֶׁמַּשֶּׁהוּ אֵינוֹ נָכוֹן",
+      "pronunciation_hebrew": "דִּינַיְד",
+      "example": "She denied all the charges."
+    },
+    {
+      "word": "obliged",
+      "lemma": "oblige",
       "level": "B2",
-      "hebrew": "עִרְעוּר",
-      "explanation_hebrew": "בקשה לבחון מחדש החלטת בית משפט",
-      "pronunciation_hebrew": "אַפִּיל",
-      "example": "They have the right to appeal the verdict."
+      "hebrew": "נֶאֱלַץ",
+      "explanation_hebrew": "הָיָה חַיָּיב לַעֲשׂוֹת מַשֶּׁהוּ בִּגְלַל חוֹק אוֹ מַצָּב",
+      "pronunciation_hebrew": "אוֹבְּלַיְגְ'ד",
+      "example": "He felt obliged to help them."
+    },
+    {
+      "word": "suppress",
+      "lemma": "suppress",
+      "level": "C1",
+      "hebrew": "לְדַכֵּא",
+      "explanation_hebrew": "לַעֲצוֹר אוֹ לִמְנוֹעַ מַשֶּׁהוּ בְּכוֹחַ",
+      "pronunciation_hebrew": "סַפְּרֶס",
+      "example": "The government tried to suppress the protests."
+    },
+    {
+      "word": "intimidate",
+      "lemma": "intimidate",
+      "level": "B2",
+      "hebrew": "לְהַפְחִיד",
+      "explanation_hebrew": "לִגְרוֹם לְמִישֶׁהוּ לְפַחֵד כְּדֵי לִשְׁלוֹט בּוֹ",
+      "pronunciation_hebrew": "אִינְטִימִידֵייְט",
+      "example": "They tried to intimidate the witnesses."
+    },
+    {
+      "word": "testify",
+      "lemma": "testify",
+      "level": "C1",
+      "hebrew": "לְהָעִיד",
+      "explanation_hebrew": "לָתֵת עֵדוּת רִשְׁמִית בְּבֵית מִשְׁפָּט",
+      "pronunciation_hebrew": "טֶסְטִיפַיי",
+      "example": "She agreed to testify in court."
     }
   ],
   "quiz": [
     {
       "id": "A-q1",
-      "word": "guilty",
+      "word": "intelligence",
       "type": "english_to_hebrew",
-      "question": "What does “guilty” mean?",
+      "question": "What does “intelligence” mean?",
       "options": [
-        "התעללות",
-        "אָשֵׁם",
-        "התקוממות",
-        "עינויים"
+        "הִתְעַלְּלוּת",
+        "מוֹדִיעִין",
+        "מִתְנַגְּדִים",
+        "עִינּוּי"
       ],
-      "correct_answer": "אָשֵׁם",
-      "explanation_hebrew": "“guilty” = אָשֵׁם. נמצא אחראי לביצוע עבירה."
+      "correct_answer": "מוֹדִיעִין",
+      "explanation_hebrew": "“intelligence” פירושו מוֹדִיעִין."
     },
     {
       "id": "A-q2",
       "word": "torture",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “עינויים”?",
+      "question": "איזו מילה באנגלית פירושה “עִינּוּי”?",
       "options": [
-        "guilty",
-        "uprising",
         "torture",
-        "abuse"
+        "jurisdiction",
+        "abuse",
+        "opponents"
       ],
       "correct_answer": "torture",
-      "explanation_hebrew": "עינויים = “torture”. גרימת כאב קשה לאדם בכוונה."
+      "explanation_hebrew": "המילה “torture” פירושה עִינּוּי."
     },
     {
       "id": "A-q3",
@@ -186,27 +186,27 @@
       "type": "english_to_hebrew",
       "question": "What does “abuse” mean?",
       "options": [
-        "עינויים",
-        "התקוממות",
-        "התעללות",
-        "אָשֵׁם"
+        "הִתְעַלְּלוּת",
+        "הִתְקוֹמְמוּת",
+        "מִתְנַגְּדִים",
+        "סַמְכוּת שִׁיפּוּטִית"
       ],
-      "correct_answer": "התעללות",
-      "explanation_hebrew": "“abuse” = התעללות. פגיעה או יחס אכזרי כלפי מישהו."
+      "correct_answer": "הִתְעַלְּלוּת",
+      "explanation_hebrew": "“abuse” פירושו הִתְעַלְּלוּת."
     },
     {
       "id": "A-q4",
-      "word": "uprising",
+      "word": "opponents",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “התקוממות”?",
+      "question": "איזו מילה באנגלית פירושה “מִתְנַגְּדִים”?",
       "options": [
+        "jurisdiction",
         "uprising",
-        "guilty",
-        "abuse",
-        "torture"
+        "opponents",
+        "minority"
       ],
-      "correct_answer": "uprising",
-      "explanation_hebrew": "התקוממות = “uprising”. מרד המוני נגד השלטון."
+      "correct_answer": "opponents",
+      "explanation_hebrew": "המילה “opponents” פירושה מִתְנַגְּדִים."
     },
     {
       "id": "A-q5",
@@ -214,153 +214,153 @@
       "type": "english_to_hebrew",
       "question": "What does “jurisdiction” mean?",
       "options": [
-        "סמכות שיפוט",
-        "התעללות",
-        "עינויים",
-        "אָשֵׁם"
+        "סַמְכוּת שִׁיפּוּטִית",
+        "כְּפִיָּיה",
+        "מִיעוּט",
+        "הִתְקוֹמְמוּת"
       ],
-      "correct_answer": "סמכות שיפוט",
-      "explanation_hebrew": "“jurisdiction” = סמכות שיפוט. הזכות החוקית לדון ולהכריע בעניין."
+      "correct_answer": "סַמְכוּת שִׁיפּוּטִית",
+      "explanation_hebrew": "“jurisdiction” פירושו סַמְכוּת שִׁיפּוּטִית."
     },
     {
       "id": "A-q6",
-      "word": "sentenced",
+      "word": "uprising",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “נִדּוֹן”?",
+      "question": "איזו מילה באנגלית פירושה “הִתְקוֹמְמוּת”?",
       "options": [
-        "guilty",
-        "torture",
-        "sentenced",
-        "abuse"
+        "uprising",
+        "coercion",
+        "minority",
+        "sentenced"
       ],
-      "correct_answer": "sentenced",
-      "explanation_hebrew": "נִדּוֹן = “sentenced”. נגזר עליו עונש בבית משפט."
+      "correct_answer": "uprising",
+      "explanation_hebrew": "המילה “uprising” פירושה הִתְקוֹמְמוּת."
     },
     {
       "id": "A-q7",
-      "word": "prosecutors",
+      "word": "minority",
       "type": "english_to_hebrew",
-      "question": "What does “prosecutors” mean?",
+      "question": "What does “minority” mean?",
       "options": [
-        "תּוֹבְעִים",
-        "אָשֵׁם",
-        "התעללות",
-        "עינויים"
+        "כְּפִיָּיה",
+        "נִידּוֹן לְעוֹנֶשׁ",
+        "מִקְלָט מְדִינִי",
+        "מִיעוּט"
       ],
-      "correct_answer": "תּוֹבְעִים",
-      "explanation_hebrew": "“prosecutors” = תּוֹבְעִים. עורכי הדין המייצגים את המדינה בבית משפט."
+      "correct_answer": "מִיעוּט",
+      "explanation_hebrew": "“minority” פירושו מִיעוּט."
     },
     {
       "id": "A-q8",
-      "word": "denied",
+      "word": "coercion",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “הִכְחִישׁוּ”?",
+      "question": "איזו מילה באנגלית פירושה “כְּפִיָּיה”?",
       "options": [
-        "torture",
         "denied",
-        "abuse",
-        "guilty"
+        "sentenced",
+        "coercion",
+        "asylum"
       ],
-      "correct_answer": "denied",
-      "explanation_hebrew": "הִכְחִישׁוּ = “denied”. טענו שדבר אינו נכון."
+      "correct_answer": "coercion",
+      "explanation_hebrew": "המילה “coercion” פירושה כְּפִיָּיה."
     },
     {
       "id": "A-q9",
-      "word": "obliged",
+      "word": "sentenced",
       "type": "english_to_hebrew",
-      "question": "What does “obliged” mean?",
+      "question": "What does “sentenced” mean?",
       "options": [
-        "אָשֵׁם",
-        "עינויים",
-        "נֶאֱלַץ",
-        "התעללות"
+        "מִקְלָט מְדִינִי",
+        "הִכְחִישׁ",
+        "נִידּוֹן לְעוֹנֶשׁ",
+        "נֶאֱלַץ"
       ],
-      "correct_answer": "נֶאֱלַץ",
-      "explanation_hebrew": "“obliged” = נֶאֱלַץ. חויב לעשות דבר מה."
+      "correct_answer": "נִידּוֹן לְעוֹנֶשׁ",
+      "explanation_hebrew": "“sentenced” פירושו נִידּוֹן לְעוֹנֶשׁ."
     },
     {
       "id": "A-q10",
-      "word": "suppress",
-      "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “לְדַכֵּא”?",
-      "options": [
-        "suppress",
-        "abuse",
-        "torture",
-        "guilty"
-      ],
-      "correct_answer": "suppress",
-      "explanation_hebrew": "לְדַכֵּא = “suppress”. למנוע בכוח מחאה או פעילות."
-    },
-    {
-      "id": "A-q11",
-      "word": "intimidate",
-      "type": "english_to_hebrew",
-      "question": "What does “intimidate” mean?",
-      "options": [
-        "לְהַפְחִיד",
-        "התעללות",
-        "אָשֵׁם",
-        "עינויים"
-      ],
-      "correct_answer": "לְהַפְחִיד",
-      "explanation_hebrew": "“intimidate” = לְהַפְחִיד. להטיל פחד כדי לשלוט במישהו."
-    },
-    {
-      "id": "A-q12",
-      "word": "testify",
-      "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “לְהָעִיד”?",
-      "options": [
-        "torture",
-        "testify",
-        "guilty",
-        "abuse"
-      ],
-      "correct_answer": "testify",
-      "explanation_hebrew": "לְהָעִיד = “testify”. למסור עדות בבית משפט."
-    },
-    {
-      "id": "A-q13",
-      "word": "trauma",
-      "type": "english_to_hebrew",
-      "question": "What does “trauma” mean?",
-      "options": [
-        "התעללות",
-        "אָשֵׁם",
-        "עינויים",
-        "טְרָאוּמָה"
-      ],
-      "correct_answer": "טְרָאוּמָה",
-      "explanation_hebrew": "“trauma” = טְרָאוּמָה. פגיעה נפשית קשה ומתמשכת."
-    },
-    {
-      "id": "A-q14",
       "word": "asylum",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “מִקְלָט מְדִינִי”?",
+      "question": "איזו מילה באנגלית פירושה “מִקְלָט מְדִינִי”?",
       "options": [
-        "torture",
-        "guilty",
-        "abuse",
+        "denied",
+        "suppress",
+        "obliged",
         "asylum"
       ],
       "correct_answer": "asylum",
-      "explanation_hebrew": "מִקְלָט מְדִינִי = “asylum”. הגנה שמעניקה מדינה לפליט."
+      "explanation_hebrew": "המילה “asylum” פירושה מִקְלָט מְדִינִי."
+    },
+    {
+      "id": "A-q11",
+      "word": "denied",
+      "type": "english_to_hebrew",
+      "question": "What does “denied” mean?",
+      "options": [
+        "נֶאֱלַץ",
+        "לְהַפְחִיד",
+        "לְדַכֵּא",
+        "הִכְחִישׁ"
+      ],
+      "correct_answer": "הִכְחִישׁ",
+      "explanation_hebrew": "“denied” פירושו הִכְחִישׁ."
+    },
+    {
+      "id": "A-q12",
+      "word": "obliged",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נֶאֱלַץ”?",
+      "options": [
+        "testify",
+        "suppress",
+        "intimidate",
+        "obliged"
+      ],
+      "correct_answer": "obliged",
+      "explanation_hebrew": "המילה “obliged” פירושה נֶאֱלַץ."
+    },
+    {
+      "id": "A-q13",
+      "word": "suppress",
+      "type": "english_to_hebrew",
+      "question": "What does “suppress” mean?",
+      "options": [
+        "מוֹדִיעִין",
+        "לְהַפְחִיד",
+        "לְהָעִיד",
+        "לְדַכֵּא"
+      ],
+      "correct_answer": "לְדַכֵּא",
+      "explanation_hebrew": "“suppress” פירושו לְדַכֵּא."
+    },
+    {
+      "id": "A-q14",
+      "word": "intimidate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהַפְחִיד”?",
+      "options": [
+        "intelligence",
+        "intimidate",
+        "torture",
+        "testify"
+      ],
+      "correct_answer": "intimidate",
+      "explanation_hebrew": "המילה “intimidate” פירושה לְהַפְחִיד."
     },
     {
       "id": "A-q15",
-      "word": "appeal",
+      "word": "testify",
       "type": "english_to_hebrew",
-      "question": "What does “appeal” mean?",
+      "question": "What does “testify” mean?",
       "options": [
-        "עינויים",
-        "עִרְעוּר",
-        "התעללות",
-        "אָשֵׁם"
+        "לְהָעִיד",
+        "מוֹדִיעִין",
+        "הִתְעַלְּלוּת",
+        "עִינּוּי"
       ],
-      "correct_answer": "עִרְעוּר",
-      "explanation_hebrew": "“appeal” = עִרְעוּר. בקשה לבחון מחדש החלטת בית משפט."
+      "correct_answer": "לְהָעִיד",
+      "explanation_hebrew": "“testify” פירושו לְהָעִיד."
     }
   ]
 }
