@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.0.2
+// @version      1.0.3
 // @description  Highlights vocabulary and shows Hebrew sidebar on today's article
 // @author       YossefM1
 // @match        https://www.bbc.co.uk/news/*
@@ -14,13 +14,29 @@
 // @match        https://npr.org/*
 // @match        https://arstechnica.com/*
 // @grant        GM_xmlhttpRequest
+// @grant        GM_registerMenuCommand
 // @connect      yossefm1.github.io
 // @connect      raw.githubusercontent.com
-// @run-at       document-idle
+// @run-at       document-start
 // ==/UserScript==
 
 (function () {
   'use strict';
+
+  // ── Absolute boot diagnostics (must run before anything else) ────────────────
+  console.log('[Daily English Reader] BOOT');
+  createStatusPill('Daily Reader: BOOT');
+
+  // Tampermonkey menu command for manually forcing a visible pill.
+  try {
+    if (typeof GM_registerMenuCommand !== 'undefined') {
+      GM_registerMenuCommand('Daily Reader test pill', () =>
+        createStatusPill('Daily Reader: manual test')
+      );
+    }
+  } catch (e) {
+    console.error('[Daily English Reader] menu command registration failed:', e);
+  }
 
   const LOG_PREFIX = '[Daily English Reader]';
 
@@ -36,7 +52,7 @@
     'img', 'video', 'picture', 'audio', 'canvas', 'iframe', 'object', 'embed',
   ]);
 
-  // Ids/classes of elements we inject and must never re-process.
+  // Ids of elements we inject and must never re-process.
   const INJECTED_IDS = new Set([
     'der-sidebar', 'der-toggle-btn', 'der-status-pill',
   ]);
@@ -46,20 +62,16 @@
   }
 
   // ── Status pill ───────────────────────────────────────────────────────────────
+  // Hoisted function declaration so it can run at the very top of the IIFE.
+  // Works even before <body> exists: falls back to <html> and is relocated to
+  // <body> after DOMContentLoaded.
 
-  function ensureBody(cb) {
-    if (document.body) { cb(); return; }
-    const obs = new MutationObserver(() => {
-      if (document.body) { obs.disconnect(); cb(); }
-    });
-    obs.observe(document.documentElement, { childList: true });
-  }
-
-  function getPill() {
+  function createStatusPill(text) {
     let pill = document.getElementById('der-status-pill');
     if (!pill) {
       pill = document.createElement('div');
       pill.id = 'der-status-pill';
+      pill.setAttribute('data-der', 'true');
       pill.style.cssText = [
         'position:fixed',
         'bottom:24px',
@@ -76,16 +88,31 @@
         'pointer-events:none',
         'direction:ltr',
       ].join(';');
-      document.body.appendChild(pill);
+      (document.body || document.documentElement).appendChild(pill);
+
+      // If we had to attach to <html>, move it into <body> once that exists.
+      if (!document.body) {
+        document.addEventListener('DOMContentLoaded', () => {
+          const p = document.getElementById('der-status-pill');
+          if (p && document.body && p.parentElement !== document.body) {
+            document.body.appendChild(p);
+          }
+        }, { once: true });
+      }
     }
+    if (typeof text === 'string') pill.textContent = text;
     return pill;
   }
 
-  function setPill(text) {
-    ensureBody(() => {
-      const pill = getPill();
-      pill.textContent = 'Daily Reader: ' + text;
-    });
+  // Convenience wrapper that adds the standard "Daily Reader: " prefix.
+  function setPill(shortText) {
+    return createStatusPill('Daily Reader: ' + shortText);
+  }
+
+  // Run a callback once the DOM (body) is available.
+  function whenDomReady(cb) {
+    if (document.body) { cb(); return; }
+    document.addEventListener('DOMContentLoaded', cb, { once: true });
   }
 
   // ── CSS ─────────────────────────────────────────────────────────────────────
@@ -94,6 +121,7 @@
     if (document.getElementById('der-style')) return;
     const style = document.createElement('style');
     style.id = 'der-style';
+    style.setAttribute('data-der', 'true');
     style.textContent = `
       .der-highlight {
         background: #d0d0d0;
@@ -235,16 +263,16 @@
         margin-top: -2px;
       }
     `;
-    document.head.appendChild(style);
+    (document.head || document.documentElement).appendChild(style);
   }
 
   // ── URL matching ─────────────────────────────────────────────────────────────
   // Compare only origin + pathname. Ignore query strings, hashes, trailing slash.
+  // Treat www and non-www as equivalent.
 
   function normalizeUrl(u) {
     try {
       const url = new URL(u);
-      // Treat www and non-www as equivalent by dropping a leading "www.".
       const host = url.hostname.replace(/^www\./i, '');
       let path = url.pathname.replace(/\/+$/, '');
       if (path === '') path = '/';
@@ -271,6 +299,7 @@
     let el = node.parentElement;
     while (el) {
       if (el.id && INJECTED_IDS.has(el.id)) return true;
+      if (el.dataset && el.dataset.der === 'true') return true;
       if (el.classList && el.classList.contains('der-highlight')) return true;
       el = el.parentElement;
     }
@@ -299,6 +328,7 @@
       }
       const span = document.createElement('span');
       span.className = 'der-highlight';
+      span.setAttribute('data-der', 'true');
       span.textContent = m[0];
       const entry = wordMap.get(m[0].toLowerCase());
       if (entry) {
@@ -338,6 +368,7 @@
   function buildCard(entry) {
     const card = document.createElement('div');
     card.className = 'der-card';
+    card.setAttribute('data-der', 'true');
     card.id = `der-card-${entry.word.replace(/\s+/g, '-')}`;
     card.innerHTML = `
       <div>
@@ -369,6 +400,7 @@
     const words = data.words || [];
     const sidebar = document.createElement('div');
     sidebar.id = 'der-sidebar';
+    sidebar.setAttribute('data-der', 'true');
 
     const closeBtn = document.createElement('button');
     closeBtn.id = 'der-close-btn';
@@ -419,6 +451,7 @@
     if (!document.getElementById('der-toggle-btn')) {
       const toggleBtn = document.createElement('button');
       toggleBtn.id = 'der-toggle-btn';
+      toggleBtn.setAttribute('data-der', 'true');
       toggleBtn.textContent = '📘 Vocabulary';
       toggleBtn.addEventListener('click', () => {
         const sidebar = document.getElementById('der-sidebar');
@@ -508,30 +541,32 @@
       return;
     }
 
-    // URL matches: always show the button + sidebar, even with zero highlights.
-    insertUI(data);
+    // URL matches: always show the button + sidebar once the DOM is ready,
+    // even with zero highlights.
+    whenDomReady(() => {
+      insertUI(data);
 
-    const wordMap = new Map(data.words.map(w => [w.word.toLowerCase(), w]));
-    const wordList = [...wordMap.keys()];
+      const wordMap = new Map(data.words.map(w => [w.word.toLowerCase(), w]));
+      const wordList = [...wordMap.keys()];
 
-    function runHighlight() {
-      if (wordList.length === 0) return 0;
-      const regex = buildHighlightRegex(wordList);
-      return walkAndHighlight(document.body, regex, wordMap);
-    }
+      function runHighlight() {
+        if (wordList.length === 0) return 0;
+        const regex = buildHighlightRegex(wordList);
+        return walkAndHighlight(document.body, regex, wordMap);
+      }
 
-    // Run now (page is at document-idle) and again after 1500ms to catch
-    // late-rendered content.
-    let total = runHighlight();
-    log('number of highlights inserted:', total);
-    setPill('active — ' + total + ' highlights');
-
-    setTimeout(() => {
-      const more = runHighlight();
-      total += more;
+      let total = runHighlight();
       log('number of highlights inserted:', total);
       setPill('active — ' + total + ' highlights');
-    }, 1500);
+
+      // Re-run after 1500ms to catch late-rendered content.
+      setTimeout(() => {
+        const more = runHighlight();
+        total += more;
+        log('number of highlights inserted:', total);
+        setPill('active — ' + total + ' highlights');
+      }, 1500);
+    });
   }
 
   try {
