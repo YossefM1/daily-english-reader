@@ -2,7 +2,7 @@ You are running the daily English reader routine from the GitHub repository `Yos
 
 ## Goal
 
-Publish today's English vocabulary metadata to GitHub Pages so the browser userscript can display a Hebrew learning overlay on the original article.
+Publish today's English vocabulary and quiz metadata to GitHub Pages so the browser userscript can display a Hebrew learning overlay (Words + Quiz tabs) on the original article.
 
 **Do NOT generate a standalone article page.**  
 **Do NOT publish the full article text.**  
@@ -34,32 +34,54 @@ Open and read `data/article.json`.
 
 ### 4. Create vocabulary
 
-Create `data/vocabulary.json` with this exact schema:
+Create `data/vocabulary.json` with this exact schema (both a vocabulary list
+and a quiz):
 
 ```json
-[
-  {
-    "word": "exact word from the article",
-    "lemma": "base form",
-    "level": "B1/B2/C1/C2",
-    "hebrew": "Hebrew translation",
-    "explanation_hebrew": "short Hebrew explanation",
-    "pronunciation_hebrew": "approximate pronunciation in Hebrew letters with niqqud",
-    "example": "short English example sentence"
-  }
-]
+{
+  "words": [
+    {
+      "word": "exact word from the article",
+      "lemma": "base form",
+      "level": "B1/B2/C1/C2",
+      "hebrew": "Hebrew translation",
+      "explanation_hebrew": "short Hebrew explanation",
+      "pronunciation_hebrew": "approximate pronunciation in Hebrew letters with niqqud",
+      "example": "short English example sentence"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "word": "same word as one of the vocabulary items",
+      "type": "english_to_hebrew",
+      "question": "What does “word” mean?",
+      "options": ["correct", "wrong1", "wrong2", "wrong3"],
+      "correct_answer": "correct",
+      "explanation_hebrew": "short Hebrew explanation of the answer"
+    }
+  ]
+}
 ```
 
-Rules:
-- Select 18–35 words.
-- B1/B2/C1/C2 only — no basic words.
+Vocabulary rules:
+- Exactly 15 words.
+- B1/B2/C1/C2 only — no basic words. Prefer B1/B2/C1; C2 should not dominate.
 - Avoid names, companies, places, organizations, dates, numbers, abbreviations.
 - Prefer single-token words (not multi-word phrases).
 - `word` must match an exact visible surface form from the article text.
 - Hebrew must be natural and useful for an Israeli Hebrew speaker.
 - `pronunciation_hebrew` should use Hebrew letters with niqqud where possible.
 
-Validate: at least 18 words, all required fields present, all words appear in the article.
+Quiz rules:
+- Exactly 15 quiz questions. Prefer one question per vocabulary word.
+- Use mostly `english_to_hebrew` and `hebrew_to_english` question types.
+- Exactly 4 `options` per question; `correct_answer` must be one of them.
+- Every quiz `word` must exist in the `words` list. Give each a unique `id`.
+- Keep options plausible but not confusingly identical.
+
+Validate: exactly 15 words and exactly 15 quiz questions, all required fields
+present, all words appear in the article. `build_latest_json.py` enforces this.
 
 ### 5. Build metadata JSON
 
@@ -101,4 +123,5 @@ After a successful run, report only:
 - Article title
 - Original article URL
 - Number of vocabulary words
+- Number of quiz questions
 - Confirmation that `docs/data/latest.json` was pushed to `main`

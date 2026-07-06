@@ -100,21 +100,31 @@
   </div>
 
   <div class="card">
-    <h2>אוצר מילים (10 ראשונות)</h2>
+    <h2>אוצר מילים (15 מילים)</h2>
     <div id="vocab-grid" class="vocab-grid">
       <div id="loading2" style="color:#888;font-size:14px;direction:ltr">Loading…</div>
     </div>
   </div>
 
+  <div class="card">
+    <h2>חידון (Quiz)</h2>
+    <div id="quiz-preview" style="direction:rtl;font-size:14px;color:#444">Loading…</div>
+    <p style="margin-top:10px;font-size:13px;color:#555;direction:rtl">
+      החידון זמין בתוך הסרגל הצדדי של הסקריפט, בלשונית <strong>Quiz</strong>, ישירות על עמוד המאמר ב-BBC.
+    </p>
+  </div>
+
   <div class="card install-steps">
-    <h2 style="direction:rtl">איך מתקינים את הסקריפט</h2>
+    <h2 style="direction:rtl">איך מתקינים ומשתמשים</h2>
     <ol>
       <li>Install the <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener">Tampermonkey</a> browser extension.</li>
-      <li>Open the userscript:
+      <li>Install / update the userscript:
         <a href="userscript/daily-english-reader.user.js" target="_blank">daily-english-reader.user.js</a>
+        — Tampermonkey will prompt you to install; click <strong>Install</strong> (or <strong>Update</strong>).
       </li>
-      <li>Tampermonkey will prompt you to install — click <strong>Install</strong>.</li>
-      <li>Visit today's article link above. The vocabulary sidebar will appear automatically.</li>
+      <li>Run the routine (or wait for the scheduled run) so today's <code>latest.json</code> is published.</li>
+      <li>Open today's BBC article using the button above.</li>
+      <li>Use the <strong>Words</strong> and <strong>Quiz</strong> tabs in the sidebar to study and test yourself.</li>
     </ol>
     <p style="margin-top:12px;font-size:13px;color:#555;direction:ltr">
       The overlay runs entirely in your browser. The original article page, images, and layout stay intact.
@@ -138,8 +148,8 @@
 
         const grid = document.getElementById('vocab-grid');
         grid.innerHTML = '';
-        const preview = (data.words || []).slice(0, 10);
-        for (const w of preview) {
+        const words = data.words || [];
+        for (const w of words) {
           const card = document.createElement('div');
           card.className = 'vcard';
           card.innerHTML = `
@@ -149,10 +159,20 @@
           `;
           grid.appendChild(card);
         }
-        if (!preview.length) grid.textContent = 'No vocabulary loaded yet.';
+        if (!words.length) grid.textContent = 'No vocabulary loaded yet.';
+
+        const quizPreview = document.getElementById('quiz-preview');
+        const quizCount = Array.isArray(data.quiz) ? data.quiz.length : 0;
+        if (quizCount > 0) {
+          quizPreview.textContent = `זמינות ${quizCount} שאלות חידון עבור המאמר של היום.`;
+        } else {
+          quizPreview.textContent = 'אין חידון זמין למאמר זה עדיין.';
+        }
       } catch {
         document.getElementById('loading').textContent = 'Could not load today\'s article. Run the routine first.';
         document.getElementById('loading2').textContent = '';
+        const quizPreview = document.getElementById('quiz-preview');
+        if (quizPreview) quizPreview.textContent = '';
       }
     })();
   </script>
