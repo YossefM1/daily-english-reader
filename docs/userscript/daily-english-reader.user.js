@@ -1,13 +1,17 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.0.1
+// @version      1.0.2
 // @description  Highlights vocabulary and shows Hebrew sidebar on today's article
 // @author       YossefM1
 // @match        https://www.bbc.co.uk/news/*
+// @match        https://bbc.co.uk/news/*
 // @match        https://www.bbc.com/news/*
+// @match        https://bbc.com/news/*
 // @match        https://www.theguardian.com/*
+// @match        https://theguardian.com/*
 // @match        https://www.npr.org/*
+// @match        https://npr.org/*
 // @match        https://arstechnica.com/*
 // @grant        GM_xmlhttpRequest
 // @connect      yossefm1.github.io
@@ -240,9 +244,11 @@
   function normalizeUrl(u) {
     try {
       const url = new URL(u);
+      // Treat www and non-www as equivalent by dropping a leading "www.".
+      const host = url.hostname.replace(/^www\./i, '');
       let path = url.pathname.replace(/\/+$/, '');
       if (path === '') path = '/';
-      return url.origin + path;
+      return url.protocol + '//' + host + path;
     } catch {
       return String(u || '');
     }
