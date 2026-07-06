@@ -6,180 +6,289 @@
   <title>Daily English Reader</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --ink: #1a2733;
+      --muted: #6b7785;
+      --line: #e6ebf1;
+      --bg: #eef2f7;
+      --card: #ffffff;
+      --brand: #1a5276;
+      --a: #2e8b57;
+      --b: #1a5276;
+      --c: #7d3c98;
+    }
     body {
-      font-family: Arial, sans-serif;
-      background: #f0f4f8;
-      color: #222;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
       min-height: 100vh;
-      padding: 24px 16px 48px;
+      -webkit-font-smoothing: antialiased;
     }
-    header {
-      text-align: center;
-      margin-bottom: 28px;
+
+    /* Centered page shell — content never spans the full browser width. */
+    .page-shell {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 40px 28px 56px;
     }
-    header h1 { font-size: 28px; color: #1a5276; }
-    header p { color: #555; margin-top: 6px; font-size: 15px; direction: ltr; }
-    .wrap { max-width: 1080px; margin: 0 auto; }
+
+    /* ── Header ─────────────────────────────────────────────── */
+    header { text-align: center; margin-bottom: 36px; }
+    header h1 { font-size: 30px; color: var(--brand); letter-spacing: 0.2px; }
+    header .subtitle {
+      color: var(--muted);
+      margin-top: 8px;
+      font-size: 15px;
+      direction: ltr;
+    }
+    header .mode {
+      display: inline-block;
+      margin-top: 12px;
+      font-size: 12.5px;
+      font-weight: 600;
+      color: var(--brand);
+      background: #e8f1f8;
+      border: 1px solid #d6e4f0;
+      border-radius: 999px;
+      padding: 5px 14px;
+      direction: ltr;
+    }
+
     .section-title {
-      max-width: 1080px;
-      margin: 0 auto 14px auto;
-      color: #1a5276;
-      font-size: 20px;
+      text-align: center;
+      color: var(--ink);
+      font-size: 19px;
+      font-weight: 700;
+      margin-bottom: 22px;
       direction: rtl;
     }
-    .levels {
+
+    /* ── Article grid ───────────────────────────────────────── */
+    .article-grid {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 18px;
-      margin-bottom: 32px;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 24px;
+      align-items: stretch;
+      margin-bottom: 44px;
     }
-    @media (max-width: 900px) { .levels { grid-template-columns: 1fr; } }
+    @media (max-width: 1050px) {
+      .article-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 720px) {
+      .article-grid { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+      .page-shell { padding: 28px 18px 40px; }
+    }
+
     .lvl-card {
-      background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
-      padding: 18px 20px;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 4px 14px rgba(20, 40, 70, 0.06);
+      padding: 20px 22px 22px;
       display: flex;
       flex-direction: column;
-      border-top: 5px solid #1a5276;
+      min-height: 440px;
+      border-top: 4px solid var(--brand);
+      transition: box-shadow 0.15s ease, transform 0.15s ease;
     }
-    .lvl-card.lvl-A { border-top-color: #2e8b57; }
-    .lvl-card.lvl-B { border-top-color: #1a5276; }
-    .lvl-card.lvl-C { border-top-color: #8e44ad; }
+    .lvl-card:hover {
+      box-shadow: 0 8px 22px rgba(20, 40, 70, 0.10);
+      transform: translateY(-2px);
+    }
+    .lvl-card.lvl-A { border-top-color: var(--a); }
+    .lvl-card.lvl-B { border-top-color: var(--b); }
+    .lvl-card.lvl-C { border-top-color: var(--c); }
+
     .lvl-badge {
       display: inline-block;
       align-self: flex-start;
-      font-size: 13px;
-      font-weight: bold;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.3px;
       color: #fff;
-      background: #1a5276;
-      border-radius: 6px;
-      padding: 4px 10px;
-      margin-bottom: 10px;
+      background: var(--brand);
+      border-radius: 999px;
+      padding: 4px 12px;
+      margin-bottom: 14px;
       direction: ltr;
     }
-    .lvl-A .lvl-badge { background: #2e8b57; }
-    .lvl-B .lvl-badge { background: #1a5276; }
-    .lvl-C .lvl-badge { background: #8e44ad; }
-    .lvl-title { font-size: 17px; font-weight: bold; direction: ltr; line-height: 1.4; }
-    .lvl-meta { color: #777; font-size: 13px; direction: ltr; margin: 6px 0 10px; }
+    .lvl-A .lvl-badge { background: var(--a); }
+    .lvl-B .lvl-badge { background: var(--b); }
+    .lvl-C .lvl-badge { background: var(--c); }
+
+    .lvl-title {
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--ink);
+      direction: ltr;
+      text-align: left;
+      /* Reserve room for up to ~2 lines so cards line up neatly. */
+      min-height: 46px;
+    }
+    .lvl-meta {
+      color: var(--muted);
+      font-size: 12.5px;
+      direction: ltr;
+      text-align: left;
+      margin: 6px 0 12px;
+    }
     .lvl-reason {
-      direction: rtl;
-      font-size: 14px;
-      line-height: 1.5;
-      color: #444;
+      /* difficulty_reason is English → keep it LTR to avoid misplaced punctuation. */
+      direction: ltr;
+      text-align: left;
+      font-size: 13.5px;
+      line-height: 1.55;
+      color: #4a5766;
       background: #f6f8fb;
-      border-radius: 8px;
-      padding: 8px 10px;
-      margin-bottom: 12px;
+      border: 1px solid #eef1f6;
+      border-radius: 10px;
+      padding: 10px 12px;
+      margin-bottom: 14px;
     }
     .lvl-counts {
       display: flex;
       gap: 8px;
-      direction: ltr;
+      direction: rtl;
       margin-bottom: 12px;
       flex-wrap: wrap;
     }
     .lvl-counts span {
-      background: #e8f4fd;
-      color: #1a5276;
-      border-radius: 6px;
-      font-size: 12.5px;
-      padding: 3px 9px;
+      background: #eef4fb;
+      color: var(--brand);
+      border-radius: 8px;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 10px;
+      direction: rtl;
     }
+
     .lvl-preview {
       direction: rtl;
-      margin-bottom: 14px;
-      border-top: 1px solid #eee;
-      padding-top: 10px;
+      margin-bottom: 18px;
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
     }
-    .lvl-preview .pv-title { font-size: 12.5px; color: #888; margin-bottom: 6px; }
+    .lvl-preview .pv-title {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
     .lvl-preview ul { list-style: none; }
     .lvl-preview li {
-      font-size: 14px;
-      line-height: 1.5;
-      margin-bottom: 3px;
-      display: flex;
-      justify-content: space-between;
-      gap: 8px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: baseline;
+      gap: 10px;
+      font-size: 13.5px;
+      line-height: 1.7;
+      padding: 2px 0;
     }
-    .lvl-preview .pv-en { direction: ltr; color: #1a5276; font-weight: 600; }
-    .lvl-preview .pv-he { direction: rtl; color: #333; }
+    .lvl-preview li + li { border-top: 1px dashed #eef1f6; }
+    .lvl-preview .pv-en {
+      direction: ltr;
+      text-align: left;
+      color: var(--brand);
+      font-weight: 600;
+    }
+    .lvl-preview .pv-he {
+      direction: rtl;
+      text-align: right;
+      color: #3a4653;
+    }
+
     .open-btn {
-      display: inline-block;
-      background: #1a5276;
+      display: block;
+      width: 100%;
+      margin-top: auto;
+      background: var(--brand);
       color: #fff;
       text-decoration: none;
       text-align: center;
-      padding: 11px 18px;
-      border-radius: 8px;
-      font-size: 14px;
-      margin-top: auto;
-    }
-    .lvl-A .open-btn { background: #2e8b57; }
-    .lvl-C .open-btn { background: #8e44ad; }
-    .open-btn:hover { filter: brightness(0.92); }
-    .card {
-      background: #fff;
+      padding: 12px 18px;
       border-radius: 10px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-      padding: 20px 24px;
-      max-width: 1080px;
-      margin: 0 auto 24px auto;
+      font-size: 14px;
+      font-weight: 600;
+      direction: ltr;
     }
-    .card h2 { font-size: 18px; color: #1a5276; margin-bottom: 12px; direction: rtl; }
+    .lvl-A .open-btn { background: var(--a); }
+    .lvl-B .open-btn { background: var(--b); }
+    .lvl-C .open-btn { background: var(--c); }
+    .open-btn:hover { filter: brightness(0.94); }
+
+    /* ── Install / help card ────────────────────────────────── */
+    .help-card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 4px 14px rgba(20, 40, 70, 0.05);
+      padding: 22px 26px;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    .help-card h2 {
+      font-size: 17px;
+      color: var(--brand);
+      margin-bottom: 14px;
+      direction: rtl;
+      text-align: center;
+    }
     .install-steps { direction: ltr; }
-    .install-steps ol { padding-right: 0; padding-left: 20px; }
-    .install-steps li { margin-bottom: 8px; font-size: 14px; line-height: 1.5; }
-    .install-steps code {
-      background: #eef2f7;
-      padding: 1px 5px;
-      border-radius: 3px;
-      font-size: 13px;
+    .install-steps ol { padding-left: 20px; padding-right: 0; }
+    .install-steps li { margin-bottom: 7px; font-size: 13.5px; line-height: 1.55; color: #3a4653; }
+    .install-note {
+      margin-top: 14px;
+      font-size: 12.5px;
+      color: var(--muted);
+      line-height: 1.55;
+      direction: ltr;
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
     }
-    a { color: #1a5276; }
-    #loading { color: #888; font-size: 14px; direction: ltr; text-align: center; }
+    a { color: var(--brand); }
+
+    #loading { color: var(--muted); font-size: 14px; direction: ltr; text-align: center; padding: 24px 0; }
     #load-error {
       display: none;
       color: #a12626;
       font-size: 14px;
       direction: ltr;
       text-align: center;
-      max-width: 1080px;
-      margin: 0 auto 24px;
+      padding: 20px 0;
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>📘 Daily English Reader</h1>
-    <p>Read today's articles on the original BBC site — with a Hebrew vocabulary overlay</p>
-    <p style="margin-top:8px;font-size:13px;color:#1a5276;font-weight:bold;direction:ltr">
-      BBC-only mode · 3 reading levels every day: A (easier) · B (intermediate) · C (advanced)
-    </p>
-  </header>
+  <div class="page-shell">
+    <header>
+      <h1>📘 Daily English Reader</h1>
+      <div class="subtitle">Read today's articles on the original BBC site — with a Hebrew vocabulary overlay</div>
+      <div class="mode">BBC-only mode · 3 reading levels every day: A (easier) · B (intermediate) · C (advanced)</div>
+    </header>
 
-  <div class="section-title">בחר מאמר לפי רמת קושי</div>
-  <div id="loading">Loading today's articles…</div>
-  <div id="load-error"></div>
-  <div id="levels" class="levels" style="display:none"></div>
+    <div class="section-title">בחר מאמר לפי רמת קושי</div>
+    <div id="loading">Loading today's articles…</div>
+    <div id="load-error"></div>
+    <div id="levels" class="article-grid" style="display:none"></div>
 
-  <div class="card install-steps">
-    <h2 style="direction:rtl">איך מתקינים ומשתמשים</h2>
-    <ol>
-      <li>Install the <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener">Tampermonkey</a> browser extension.</li>
-      <li>Install / update the userscript:
-        <a href="userscript/daily-english-reader.user.js" target="_blank">daily-english-reader.user.js</a>
-        — Tampermonkey will prompt you to install; click <strong>Install</strong> (or <strong>Update</strong>).
-      </li>
-      <li>Pick a level above (A / B / C) and click <strong>Open BBC article</strong> to open it on the original BBC site.</li>
-      <li>The userscript detects which of the 3 selected articles you opened, highlights the vocabulary, and shows the Hebrew sidebar.</li>
-      <li>Use the <strong>Words</strong> and <strong>Quiz</strong> tabs in the sidebar to study and test yourself.</li>
-    </ol>
-    <p style="margin-top:12px;font-size:13px;color:#555;direction:ltr">
-      The overlay runs entirely in your browser. The original article page, images, and layout stay intact.
-      No full article text is published by this site — only vocabulary and quiz metadata.
-    </p>
+    <div class="help-card install-steps">
+      <h2>איך מתקינים ומשתמשים</h2>
+      <ol>
+        <li>Install the <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener">Tampermonkey</a> browser extension.</li>
+        <li>Install / update the userscript:
+          <a href="userscript/daily-english-reader.user.js" target="_blank">daily-english-reader.user.js</a>
+          — Tampermonkey will prompt you to install; click <strong>Install</strong> (or <strong>Update</strong>).
+        </li>
+        <li>Pick a level above (A / B / C) and click <strong>Open BBC article</strong> to open it on the original BBC site.</li>
+        <li>The userscript detects which of the 3 selected articles you opened, highlights the vocabulary, and shows the Hebrew sidebar.</li>
+        <li>Use the <strong>Words</strong> and <strong>Quiz</strong> tabs in the sidebar to study and test yourself.</li>
+      </ol>
+      <div class="install-note">
+        The overlay runs entirely in your browser. The original article page, images, and layout stay intact.
+        No full article text is published by this site — only vocabulary and quiz metadata.
+      </div>
+    </div>
   </div>
 
   <script>
