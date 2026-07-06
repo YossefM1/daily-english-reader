@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.1.0
-// @description  Highlights vocabulary and shows a Hebrew sidebar with Words + Quiz tabs on today's article (BBC test mode)
+// @version      1.2.0
+// @description  Highlights vocabulary and shows a Hebrew sidebar with Words + Quiz tabs on today's selected BBC article (A/B/C levels)
 // @author       YossefM1
 // @match        https://bbc.com/news
 // @match        https://www.bbc.com/news
@@ -39,12 +39,23 @@
 
   const LOG_PREFIX = '[Daily English Reader]';
 
-  const PRIMARY_JSON_URL =
-    'https://YossefM1.github.io/daily-english-reader/data/latest.json';
-  const FALLBACK_JSON_URL =
-    'https://raw.githubusercontent.com/YossefM1/daily-english-reader/main/docs/data/latest.json';
+  // Data sources. Each base exposes today.json (the 3-article index) and
+  // latest.json (backward-compat single article). articleBase is used to
+  // resolve each article's relative data_url ("data/articles/YYYY-MM-DD-A.json").
+  const SITE_BASES = [
+    {
+      today: 'https://YossefM1.github.io/daily-english-reader/data/today.json',
+      latest: 'https://YossefM1.github.io/daily-english-reader/data/latest.json',
+      articleBase: 'https://YossefM1.github.io/daily-english-reader/',
+    },
+    {
+      today: 'https://raw.githubusercontent.com/YossefM1/daily-english-reader/main/docs/data/today.json',
+      latest: 'https://raw.githubusercontent.com/YossefM1/daily-english-reader/main/docs/data/latest.json',
+      articleBase: 'https://raw.githubusercontent.com/YossefM1/daily-english-reader/main/docs/',
+    },
+  ];
 
-  // localStorage key prefix for saved quiz results (keyed by article date).
+  // localStorage key prefix for saved quiz results (keyed by article date + id).
   const QUIZ_STORE_PREFIX = 'dailyEnglishReader.quiz.';
 
   // Tags whose text we must never touch, plus media/embeds.
@@ -118,6 +129,9 @@
   }
 
   // ── CSS ─────────────────────────────────────────────────────────────────────
+  // Typography tuned for readability: slightly larger English + Hebrew text,
+  // clearly legible niqqud in the pronunciation line, comfortable line-height,
+  // and only medium weight (never heavy bold) on translation/explanation.
 
   function injectCSS() {
     if (document.getElementById('der-style')) return;
@@ -154,28 +168,41 @@
         position: fixed;
         top: 0;
         right: 0;
-        width: 340px;
+        width: 360px;
+        max-width: 92vw;
         height: 100vh;
         overflow-y: auto;
         background: #fafafa;
         border-left: 2px solid #1a5276;
         z-index: 2147483645;
-        padding: 16px 12px 80px 12px;
+        padding: 16px 14px 80px 14px;
         font-family: Arial, sans-serif;
-        font-size: 14px;
+        font-size: 15px;
+        line-height: 1.55;
         box-shadow: -4px 0 16px rgba(0,0,0,0.15);
         display: none;
         box-sizing: border-box;
       }
       #der-sidebar.der-open { display: block; }
       #der-sidebar h2 {
-        font-size: 16px;
+        font-size: 17px;
         color: #1a5276;
         margin: 0 0 4px 0;
         font-family: Arial, sans-serif;
       }
+      #der-sidebar .der-level-label {
+        direction: ltr;
+        font-size: 13px;
+        font-weight: 600;
+        color: #1a5276;
+        background: #e8f4fd;
+        border-radius: 6px;
+        padding: 3px 9px;
+        display: inline-block;
+        margin-bottom: 8px;
+      }
       #der-sidebar .der-meta {
-        font-size: 12px;
+        font-size: 12.5px;
         color: #666;
         margin-bottom: 14px;
         direction: ltr;
@@ -194,7 +221,7 @@
         direction: rtl;
         text-align: right;
         color: #777;
-        font-size: 13px;
+        font-size: 14px;
         margin: 8px 0;
       }
       /* Tabs */
@@ -219,7 +246,7 @@
         background: #1a5276;
         color: #fff;
         border-color: #1a5276;
-        font-weight: bold;
+        font-weight: 600;
       }
       .der-panel { display: none; }
       .der-panel.der-panel-active { display: block; }
@@ -228,14 +255,15 @@
         border: 1px solid #ddd;
         border-radius: 6px;
         margin-bottom: 10px;
-        padding: 10px 12px;
+        padding: 11px 13px;
       }
       .der-card .der-word {
-        font-weight: bold;
-        font-size: 15px;
+        font-weight: 600;
+        font-size: 17px;
         color: #1a5276;
         direction: ltr;
         display: inline-block;
+        letter-spacing: 0.2px;
       }
       .der-card .der-level {
         display: inline-block;
@@ -248,36 +276,42 @@
         vertical-align: middle;
       }
       .der-card .der-hebrew {
-        font-size: 15px;
-        font-weight: bold;
+        font-size: 16px;
+        font-weight: 500;
         direction: rtl;
         text-align: right;
-        margin: 4px 0 2px 0;
+        line-height: 1.5;
+        margin: 6px 0 3px 0;
         color: #222;
       }
       .der-card .der-pronun {
         direction: rtl;
         text-align: right;
-        color: #555;
-        font-size: 13px;
-        margin-bottom: 2px;
+        color: #4a4a4a;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.6;
+        margin-bottom: 3px;
       }
       .der-card .der-explain {
         direction: rtl;
         text-align: right;
         color: #444;
-        font-size: 13px;
-        margin-bottom: 4px;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 1.5;
+        margin-bottom: 6px;
       }
       .der-card .der-example {
         direction: ltr;
         text-align: left;
         color: #555;
-        font-size: 12px;
+        font-size: 13px;
+        line-height: 1.5;
         font-style: italic;
         border-top: 1px solid #eee;
-        padding-top: 4px;
-        margin-top: 4px;
+        padding-top: 5px;
+        margin-top: 5px;
       }
       /* Quiz */
       .der-quiz-progress {
@@ -290,8 +324,9 @@
       .der-quiz-question {
         direction: ltr;
         text-align: left;
-        font-size: 15px;
-        font-weight: bold;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 1.5;
         color: #222;
         margin-bottom: 12px;
       }
@@ -305,7 +340,9 @@
         border: 1px solid #cdd8e3;
         border-radius: 6px;
         padding: 10px 12px;
-        font-size: 14px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
         font-family: Arial, sans-serif;
         cursor: pointer;
         text-align: right;
@@ -317,22 +354,23 @@
         background: #e3f6e6;
         border-color: #3aa657;
         color: #1e6b34;
-        font-weight: bold;
+        font-weight: 600;
       }
       .der-quiz-option.der-wrong {
         background: #fbe6e6;
         border-color: #d05757;
         color: #a12626;
-        font-weight: bold;
+        font-weight: 600;
       }
       .der-quiz-feedback {
         margin-top: 12px;
         direction: rtl;
         text-align: right;
-        font-size: 13px;
+        font-size: 14px;
+        line-height: 1.5;
         color: #444;
       }
-      .der-quiz-feedback .der-feedback-mark { font-weight: bold; }
+      .der-quiz-feedback .der-feedback-mark { font-weight: 600; }
       .der-quiz-feedback .der-feedback-mark.der-ok { color: #1e6b34; }
       .der-quiz-feedback .der-feedback-mark.der-no { color: #a12626; }
       .der-quiz-next, .der-quiz-restart {
@@ -342,7 +380,7 @@
         border: none;
         border-radius: 6px;
         padding: 10px 16px;
-        font-size: 14px;
+        font-size: 15px;
         font-family: Arial, sans-serif;
         cursor: pointer;
         width: 100%;
@@ -354,7 +392,7 @@
       }
       .der-quiz-score .der-score-big {
         font-size: 22px;
-        font-weight: bold;
+        font-weight: 600;
         color: #1a5276;
         margin-bottom: 8px;
       }
@@ -371,7 +409,7 @@
         border-radius: 5px;
         padding: 6px 10px;
         margin-bottom: 6px;
-        font-size: 13px;
+        font-size: 14px;
       }
       #der-close-btn {
         float: right;
@@ -562,13 +600,16 @@
     const wrongWords = [];
 
     function storageKey() {
-      return QUIZ_STORE_PREFIX + (data.date || normalizeUrl(data.url));
+      const idPart = data.id ? '.' + data.id : '';
+      return QUIZ_STORE_PREFIX + (data.date || normalizeUrl(data.url)) + idPart;
     }
 
     function saveResult() {
       try {
         const record = {
           date: data.date || '',
+          id: data.id || '',
+          level: data.level || '',
           url: data.url || '',
           score,
           total,
@@ -709,10 +750,21 @@
     closeBtn.textContent = '✕';
     closeBtn.addEventListener('click', () => sidebar.classList.remove('der-open'));
 
-    const h2 = el('h2', { text: '📘 Daily English Reader' });
+    // Title shows the selected level, e.g. "Daily English Reader — Level A".
+    const levelSuffix = data.level ? ` — Level ${data.level}` : '';
+    const h2 = el('h2', { text: `📘 Daily English Reader${levelSuffix}` });
+
+    sidebar.appendChild(closeBtn);
+    sidebar.appendChild(h2);
+
+    // Full level label badge (e.g. "A — Easier English"), when available.
+    if (data.level_label) {
+      sidebar.appendChild(el('div', { className: 'der-level-label', text: data.level_label }));
+    }
 
     const meta = el('div', { className: 'der-meta' });
     meta.textContent = `${data.source || ''} · ${data.date || ''} · ${words.length} מילים · ${quizCount} שאלות`;
+    sidebar.appendChild(meta);
 
     const link = document.createElement('a');
     link.className = 'der-article-link';
@@ -721,10 +773,6 @@
     link.textContent = 'פתח מאמר מקורי ↗';
     link.target = '_blank';
     link.rel = 'noopener';
-
-    sidebar.appendChild(closeBtn);
-    sidebar.appendChild(h2);
-    sidebar.appendChild(meta);
     sidebar.appendChild(link);
 
     // Tabs
@@ -798,20 +846,79 @@
     });
   }
 
-  async function loadVocabulary() {
-    const sources = [PRIMARY_JSON_URL, FALLBACK_JSON_URL];
+  function resolveDataUrl(articleBase, dataUrl) {
+    try {
+      return new URL(dataUrl, articleBase).href;
+    } catch {
+      return articleBase.replace(/\/$/, '') + '/' + String(dataUrl || '').replace(/^\//, '');
+    }
+  }
+
+  // Multi-level loading:
+  //  1. Load today.json (3-article index) — try each base in order.
+  //  2. Match the current page URL against the 3 selected article URLs.
+  //  3. On a match, load that article's per-level data file (data_url).
+  //  4. If today.json is unavailable everywhere, fall back to latest.json
+  //     (backward compatibility) and match against it directly.
+  // Returns { status, data? }. status is 'match' | 'no-match' | 'error'.
+  async function loadForCurrentUrl(currentNorm) {
+    let todayLoadedAnywhere = false;
     let lastErr;
-    for (const url of sources) {
+
+    for (const base of SITE_BASES) {
+      let today;
       try {
-        const data = await fetchJson(url);
-        log('latest.json loaded from', url);
-        return data;
+        today = await fetchJson(base.today);
       } catch (e) {
         lastErr = e;
-        log('source failed', url, '-', e.message);
+        log('today.json failed at', base.today, '-', e.message);
+        continue;
+      }
+      todayLoadedAnywhere = true;
+      const articles = Array.isArray(today.articles) ? today.articles : [];
+      log('today.json loaded:', articles.length, 'articles from', base.today);
+
+      const match = articles.find(a => normalizeUrl(a.url) === currentNorm);
+      if (!match) {
+        // today.json is authoritative; latest.json is a subset (level B) of it,
+        // so a miss here is a genuine "not today's selected article".
+        log('current URL not among the 3 selected articles');
+        return { status: 'no-match' };
+      }
+
+      log('matched selected article:', match.id, match.level, match.url);
+      const dataUrl = resolveDataUrl(base.articleBase, match.data_url);
+      try {
+        const article = await fetchJson(dataUrl);
+        // Ensure level fields are present even if the per-article file omits them.
+        article.level = article.level || match.level || match.id;
+        article.level_label = article.level_label || match.level_label || '';
+        return { status: 'match', data: article };
+      } catch (e) {
+        lastErr = e;
+        log('failed to load article data_url', dataUrl, '-', e.message);
+        return { status: 'error', error: e };
       }
     }
-    throw lastErr || new Error('all sources failed');
+
+    // today.json unavailable everywhere → backward-compat latest.json fallback.
+    if (!todayLoadedAnywhere) {
+      for (const base of SITE_BASES) {
+        try {
+          const latest = await fetchJson(base.latest);
+          log('fell back to latest.json from', base.latest);
+          if (normalizeUrl(latest.url) === currentNorm) {
+            return { status: 'match', data: latest };
+          }
+          return { status: 'no-match' };
+        } catch (e) {
+          lastErr = e;
+          log('latest.json failed at', base.latest, '-', e.message);
+        }
+      }
+    }
+
+    return { status: 'error', error: lastErr || new Error('all sources failed') };
   }
 
   // ── Main ─────────────────────────────────────────────────────────────────────
@@ -825,34 +932,37 @@
     log('normalized current URL:', currentNorm);
 
     setPill('loading vocabulary');
-    let data;
+    let result;
     try {
-      data = await loadVocabulary();
+      result = await loadForCurrentUrl(currentNorm);
     } catch (e) {
       setPill('failed to load vocabulary');
       log('failed to load vocabulary:', e.message);
       return;
     }
 
+    if (result.status === 'error') {
+      setPill('failed to load vocabulary');
+      log('failed to load vocabulary:', result.error && result.error.message);
+      return;
+    }
+
+    if (result.status === 'no-match') {
+      setPill("not today's selected article");
+      return;
+    }
+
+    const data = result.data;
     if (!data || !Array.isArray(data.words)) {
       setPill('failed to load vocabulary');
-      log('latest.json missing "words" array');
+      log('article data missing "words" array');
       return;
     }
 
-    log('latest.json article URL:', data.url);
-    const latestNorm = normalizeUrl(data.url);
-    log('normalized latest URL:', latestNorm);
-
-    const matched = currentNorm === latestNorm;
-    log('URL matched:', matched);
+    const levelTag = data.level ? ` · Level ${data.level}` : '';
+    log('article URL:', data.url, 'level:', data.level);
     log('number of vocabulary words:', data.words.length);
     log('number of quiz questions:', Array.isArray(data.quiz) ? data.quiz.length : 0);
-
-    if (!matched) {
-      setPill("not today's article");
-      return;
-    }
 
     // URL matches: always show the button + sidebar once the DOM is ready,
     // even with zero highlights.
@@ -870,14 +980,14 @@
 
       let total = runHighlight();
       log('number of highlights inserted:', total);
-      setPill('active — ' + total + ' highlights');
+      setPill('active — ' + total + ' highlights' + levelTag);
 
       // Re-run after 1500ms to catch late-rendered content.
       setTimeout(() => {
         const more = runHighlight();
         total += more;
         log('number of highlights inserted:', total);
-        setPill('active — ' + total + ' highlights');
+        setPill('active — ' + total + ' highlights' + levelTag);
       }, 1500);
     });
   }
