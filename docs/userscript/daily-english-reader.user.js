@@ -1,9 +1,13 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.0.4
+// @version      1.0.5
 // @description  Highlights vocabulary and shows Hebrew sidebar on today's article (BBC test mode)
 // @author       YossefM1
+// @match        https://bbc.com/news
+// @match        https://www.bbc.com/news
+// @match        https://bbc.co.uk/news
+// @match        https://www.bbc.co.uk/news
 // @match        https://www.bbc.co.uk/news/*
 // @match        https://bbc.co.uk/news/*
 // @match        https://www.bbc.com/news/*
