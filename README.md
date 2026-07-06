@@ -4,7 +4,7 @@ A daily English vocabulary learning tool for Hebrew speakers.
 
 > **Current test mode: BBC only.** The routine currently selects articles from **BBC World News exclusively** (`https://feeds.bbci.co.uk/news/world/rss.xml`). The Guardian, NPR, and Ars Technica sources are temporarily disabled and the userscript is optimized for BBC pages.
 
-Every morning, a Claude Code Routine picks one current article from a major news source and publishes Hebrew vocabulary metadata to GitHub Pages. A Tampermonkey browser userscript loads that metadata and injects a vocabulary overlay directly on the original article page.
+Every morning, a Claude Code Routine picks one current article from a major news source and publishes Hebrew vocabulary **and quiz** metadata to GitHub Pages. A Tampermonkey browser userscript loads that metadata and injects a learning overlay directly on the original article page, with two tabs: **Words** and **Quiz**.
 
 **The original article stays on the original website — layout, images, videos, and embedded media are untouched.**
 
@@ -17,7 +17,7 @@ Every morning, a Claude Code Routine picks one current article from a major news
 ```
 Claude Code Routine (runs in the cloud each morning)
   └─ src/fetch_article.py   → picks article from RSS, extracts text
-  └─ Claude creates         → data/vocabulary.json  (18–35 Hebrew-annotated words)
+  └─ Claude creates         → data/vocabulary.json  (15 words + 15 quiz questions)
   └─ src/build_latest_json.py → writes docs/data/latest.json + archive JSON
   └─ git push               → publishes metadata to GitHub Pages
 
@@ -26,7 +26,7 @@ Browser (your machine)
        └─ loads latest.json from GitHub Pages
        └─ checks if current page URL = today's article URL
        └─ highlights vocabulary words in gray
-       └─ injects a collapsible Hebrew vocabulary sidebar
+       └─ injects a collapsible Hebrew sidebar with Words + Quiz tabs
 ```
 
 ## What gets published to GitHub Pages
@@ -41,6 +41,12 @@ Only vocabulary metadata — never the full article text:
   "url": "https://www.bbc.co.uk/news/...",
   "word_count": 420,
   "generated_at": "2026-07-06T06:00:00Z",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 15,
+    "level_mode": "B1-C1",
+    "quiz_enabled": true
+  },
   "words": [
     {
       "word": "escalate",
@@ -51,9 +57,23 @@ Only vocabulary metadata — never the full article text:
       "pronunciation_hebrew": "אֶסְקֵלֵייט",
       "example": "Tensions continued to escalate throughout the week."
     }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "word": "escalate",
+      "type": "english_to_hebrew",
+      "question": "What does “escalate” mean?",
+      "options": ["להסלים / להחמיר", "לְהַרְגִּיעַ", "לְאַחְסֵן", "לְפַרְסֵם"],
+      "correct_answer": "להסלים / להחמיר",
+      "explanation_hebrew": "“escalate” פירושו להסלים — כשמצב הופך חמור יותר."
+    }
   ]
 }
 ```
+
+The dataset always contains **exactly 15 vocabulary words** and **exactly 15
+quiz questions**. `latest.json` never includes the full article text.
 
 ## How to use each morning
 
@@ -72,8 +92,11 @@ Only vocabulary metadata — never the full article text:
 
 The userscript:
 - Highlights vocabulary words in gray inside the article text.
-- Shows a collapsible sidebar on the right with Hebrew translation, pronunciation, explanation, and English example sentence for each word.
-- Clicking a highlighted word scrolls to its card in the sidebar.
+- Shows a collapsible sidebar on the right with two tabs:
+  - **Words** — Hebrew translation, pronunciation, explanation, and English example sentence for each of the 15 words.
+  - **Quiz** — 15 multiple-choice questions, one at a time. Each answer is marked correct/incorrect, shows the correct answer and a Hebrew explanation, then a **Next** button. At the end it shows your score (X/15), the list of words you missed, and a **Restart** button.
+- Clicking a highlighted word scrolls to its card in the Words tab.
+- Your latest quiz result is saved locally in the browser (`localStorage`, keyed by article date) — no login required.
 - If the current page does not match today's article, a brief notice appears and disappears.
 
 ## How to run the Claude Routine manually
@@ -82,8 +105,8 @@ Paste the contents of `routine_prompt.md` into a Claude Code Routine session poi
 
 1. Set up the Python virtual environment.
 2. Run `src/fetch_article.py` to pick and extract an article.
-3. Create `data/vocabulary.json` with 18–35 annotated words.
-4. Run `src/build_latest_json.py` to build the metadata JSON files.
+3. Create `data/vocabulary.json` with exactly 15 annotated words and 15 quiz questions.
+4. Run `src/build_latest_json.py` to validate and build the metadata JSON files.
 5. Commit and push `docs/data/latest.json` and the archive file to `main`.
 
 ## Repository structure
@@ -151,9 +174,10 @@ Yahoo RSS is excluded because it returned HTTP 403 from the Claude cloud runner.
 
 ## Roadmap
 
-- Email notification when the new article is ready.
+- ✅ Basic quiz system (Words + Quiz tabs, local score saving).
 - Multi-word expression support in the highlighter.
 - Hover cards instead of a fixed sidebar.
 - Multiple articles per day / per topic.
 - Spaced-repetition tracking across days.
+- Cross-day score history / review dashboard.
 - Mobile-friendly sidebar layout.

@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.0.5
-// @description  Highlights vocabulary and shows Hebrew sidebar on today's article (BBC test mode)
+// @version      1.1.0
+// @description  Highlights vocabulary and shows a Hebrew sidebar with Words + Quiz tabs on today's article (BBC test mode)
 // @author       YossefM1
 // @match        https://bbc.com/news
 // @match        https://www.bbc.com/news
@@ -43,6 +43,9 @@
     'https://YossefM1.github.io/daily-english-reader/data/latest.json';
   const FALLBACK_JSON_URL =
     'https://raw.githubusercontent.com/YossefM1/daily-english-reader/main/docs/data/latest.json';
+
+  // localStorage key prefix for saved quiz results (keyed by article date).
+  const QUIZ_STORE_PREFIX = 'dailyEnglishReader.quiz.';
 
   // Tags whose text we must never touch, plus media/embeds.
   const SKIP_TAGS = new Set([
@@ -194,6 +197,32 @@
         font-size: 13px;
         margin: 8px 0;
       }
+      /* Tabs */
+      .der-tabs {
+        display: flex;
+        gap: 6px;
+        margin-bottom: 14px;
+      }
+      .der-tab {
+        flex: 1;
+        background: #e8eef4;
+        color: #1a5276;
+        border: 1px solid #cdd8e3;
+        border-radius: 6px;
+        padding: 8px 6px;
+        font-size: 14px;
+        font-family: Arial, sans-serif;
+        cursor: pointer;
+        text-align: center;
+      }
+      .der-tab.der-tab-active {
+        background: #1a5276;
+        color: #fff;
+        border-color: #1a5276;
+        font-weight: bold;
+      }
+      .der-panel { display: none; }
+      .der-panel.der-panel-active { display: block; }
       .der-card {
         background: #fff;
         border: 1px solid #ddd;
@@ -249,6 +278,100 @@
         border-top: 1px solid #eee;
         padding-top: 4px;
         margin-top: 4px;
+      }
+      /* Quiz */
+      .der-quiz-progress {
+        direction: rtl;
+        text-align: right;
+        color: #666;
+        font-size: 13px;
+        margin-bottom: 8px;
+      }
+      .der-quiz-question {
+        direction: ltr;
+        text-align: left;
+        font-size: 15px;
+        font-weight: bold;
+        color: #222;
+        margin-bottom: 12px;
+      }
+      .der-quiz-options {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+      .der-quiz-option {
+        background: #fff;
+        border: 1px solid #cdd8e3;
+        border-radius: 6px;
+        padding: 10px 12px;
+        font-size: 14px;
+        font-family: Arial, sans-serif;
+        cursor: pointer;
+        text-align: right;
+        direction: rtl;
+      }
+      .der-quiz-option:hover:not(:disabled) { background: #eef4fa; }
+      .der-quiz-option:disabled { cursor: default; }
+      .der-quiz-option.der-correct {
+        background: #e3f6e6;
+        border-color: #3aa657;
+        color: #1e6b34;
+        font-weight: bold;
+      }
+      .der-quiz-option.der-wrong {
+        background: #fbe6e6;
+        border-color: #d05757;
+        color: #a12626;
+        font-weight: bold;
+      }
+      .der-quiz-feedback {
+        margin-top: 12px;
+        direction: rtl;
+        text-align: right;
+        font-size: 13px;
+        color: #444;
+      }
+      .der-quiz-feedback .der-feedback-mark { font-weight: bold; }
+      .der-quiz-feedback .der-feedback-mark.der-ok { color: #1e6b34; }
+      .der-quiz-feedback .der-feedback-mark.der-no { color: #a12626; }
+      .der-quiz-next, .der-quiz-restart {
+        margin-top: 14px;
+        background: #1a5276;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        padding: 10px 16px;
+        font-size: 14px;
+        font-family: Arial, sans-serif;
+        cursor: pointer;
+        width: 100%;
+      }
+      .der-quiz-next:hover, .der-quiz-restart:hover { background: #154360; }
+      .der-quiz-score {
+        direction: rtl;
+        text-align: right;
+      }
+      .der-quiz-score .der-score-big {
+        font-size: 22px;
+        font-weight: bold;
+        color: #1a5276;
+        margin-bottom: 8px;
+      }
+      .der-quiz-score .der-wrong-list {
+        margin: 8px 0;
+        padding: 0;
+        list-style: none;
+      }
+      .der-quiz-score .der-wrong-list li {
+        direction: ltr;
+        text-align: left;
+        background: #fff;
+        border: 1px solid #eed;
+        border-radius: 5px;
+        padding: 6px 10px;
+        margin-bottom: 6px;
+        font-size: 13px;
       }
       #der-close-btn {
         float: right;
@@ -365,7 +488,18 @@
     return count;
   }
 
-  // ── Sidebar ──────────────────────────────────────────────────────────────────
+  // ── Small DOM helper ───────────────────────────────────────────────────────────
+
+  function el(tag, opts = {}) {
+    const node = document.createElement(tag);
+    node.setAttribute('data-der', 'true');
+    if (opts.className) node.className = opts.className;
+    if (opts.id) node.id = opts.id;
+    if (typeof opts.text === 'string') node.textContent = opts.text;
+    return node;
+  }
+
+  // ── Words tab ──────────────────────────────────────────────────────────────────
 
   function buildCard(entry) {
     const card = document.createElement('div');
@@ -386,38 +520,203 @@
   }
 
   function scrollToCard(word) {
-    const id = `der-card-${word.replace(/\s+/g, '-')}`;
-    const card = document.getElementById(id);
-    if (!card) return;
     const sidebar = document.getElementById('der-sidebar');
     if (sidebar && !sidebar.classList.contains('der-open')) {
       sidebar.classList.add('der-open');
     }
+    // A clicked highlight always refers to a vocabulary word → switch to Words.
+    activateTab('words');
+    const id = `der-card-${word.replace(/\s+/g, '-')}`;
+    const card = document.getElementById(id);
+    if (!card) return;
     card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     card.style.outline = '2px solid #1a5276';
     setTimeout(() => { card.style.outline = ''; }, 1500);
   }
 
+  function buildWordsPanel(words) {
+    const panel = el('div', { className: 'der-panel der-panel-active', id: 'der-panel-words' });
+    if (words.length === 0) {
+      panel.appendChild(el('div', { className: 'der-empty', text: 'אין מילים זמינות למאמר זה.' }));
+      return panel;
+    }
+    for (const entry of words) panel.appendChild(buildCard(entry));
+    return panel;
+  }
+
+  // ── Quiz tab ───────────────────────────────────────────────────────────────────
+
+  // Simple one-question-at-a-time quiz with local score persistence.
+  function buildQuizPanel(data) {
+    const panel = el('div', { className: 'der-panel', id: 'der-panel-quiz' });
+    const quiz = Array.isArray(data.quiz) ? data.quiz : [];
+
+    if (quiz.length === 0) {
+      panel.appendChild(el('div', { className: 'der-empty', text: 'אין חידון זמין למאמר זה.' }));
+      return panel;
+    }
+
+    const total = quiz.length;
+    let current = 0;
+    let score = 0;
+    const wrongWords = [];
+
+    function storageKey() {
+      return QUIZ_STORE_PREFIX + (data.date || normalizeUrl(data.url));
+    }
+
+    function saveResult() {
+      try {
+        const record = {
+          date: data.date || '',
+          url: data.url || '',
+          score,
+          total,
+          wrong_words: wrongWords.slice(),
+        };
+        localStorage.setItem(storageKey(), JSON.stringify(record));
+        log('quiz result saved', record);
+      } catch (e) {
+        log('quiz result save failed:', e.message);
+      }
+    }
+
+    function clear() { panel.textContent = ''; }
+
+    function renderQuestion() {
+      clear();
+      const q = quiz[current];
+
+      panel.appendChild(el('div', {
+        className: 'der-quiz-progress',
+        text: `שאלה ${current + 1} מתוך ${total}`,
+      }));
+      panel.appendChild(el('div', { className: 'der-quiz-question', text: q.question || '' }));
+
+      const optionsWrap = el('div', { className: 'der-quiz-options' });
+      const buttons = [];
+      for (const opt of (q.options || [])) {
+        const btn = el('button', { className: 'der-quiz-option', text: opt });
+        btn.type = 'button';
+        btn.addEventListener('click', () => onAnswer(opt, q, buttons));
+        optionsWrap.appendChild(btn);
+        buttons.push(btn);
+      }
+      panel.appendChild(optionsWrap);
+    }
+
+    function onAnswer(chosen, q, buttons) {
+      const correct = q.correct_answer;
+      const isRight = chosen === correct;
+      if (isRight) {
+        score += 1;
+      } else {
+        wrongWords.push(q.word);
+      }
+
+      for (const btn of buttons) {
+        btn.disabled = true;
+        if (btn.textContent === correct) btn.classList.add('der-correct');
+        else if (btn.textContent === chosen) btn.classList.add('der-wrong');
+      }
+
+      const feedback = el('div', { className: 'der-quiz-feedback' });
+      const mark = el('span', {
+        className: 'der-feedback-mark ' + (isRight ? 'der-ok' : 'der-no'),
+        text: isRight ? '✓ נכון! ' : '✗ לא נכון. ',
+      });
+      feedback.appendChild(mark);
+      if (!isRight) {
+        feedback.appendChild(el('span', { text: `התשובה הנכונה: ${correct}. ` }));
+      }
+      if (q.explanation_hebrew) {
+        const exp = el('div', { text: q.explanation_hebrew });
+        exp.style.marginTop = '6px';
+        feedback.appendChild(exp);
+      }
+      panel.appendChild(feedback);
+
+      const nextBtn = el('button', {
+        className: 'der-quiz-next',
+        text: current + 1 < total ? 'שאלה הבאה ←' : 'סיום וצפייה בתוצאה',
+      });
+      nextBtn.type = 'button';
+      nextBtn.addEventListener('click', () => {
+        current += 1;
+        if (current < total) renderQuestion();
+        else renderScore();
+      });
+      panel.appendChild(nextBtn);
+    }
+
+    function renderScore() {
+      clear();
+      saveResult();
+
+      const box = el('div', { className: 'der-quiz-score' });
+      box.appendChild(el('div', { className: 'der-score-big', text: `ניקוד: ${score}/${total}` }));
+
+      if (wrongWords.length) {
+        box.appendChild(el('div', { text: 'מילים לחזרה:' }));
+        const list = el('ul', { className: 'der-wrong-list' });
+        for (const w of wrongWords) list.appendChild(el('li', { text: w }));
+        box.appendChild(list);
+      } else {
+        box.appendChild(el('div', { text: 'כל הכבוד! כל התשובות נכונות 🎉' }));
+      }
+      panel.appendChild(box);
+
+      const restart = el('button', { className: 'der-quiz-restart', text: 'התחל חידון מחדש ↺' });
+      restart.type = 'button';
+      restart.addEventListener('click', () => {
+        current = 0;
+        score = 0;
+        wrongWords.length = 0;
+        renderQuestion();
+      });
+      panel.appendChild(restart);
+    }
+
+    renderQuestion();
+    return panel;
+  }
+
+  // ── Tabs ────────────────────────────────────────────────────────────────────────
+
+  function activateTab(name) {
+    const sidebar = document.getElementById('der-sidebar');
+    if (!sidebar) return;
+    for (const tab of sidebar.querySelectorAll('.der-tab')) {
+      tab.classList.toggle('der-tab-active', tab.dataset.tab === name);
+    }
+    for (const panel of sidebar.querySelectorAll('.der-panel')) {
+      panel.classList.toggle('der-panel-active', panel.dataset.panel === name);
+    }
+  }
+
+  // ── Sidebar ──────────────────────────────────────────────────────────────────
+
   function buildSidebar(data) {
     const words = data.words || [];
+    const quizCount = Array.isArray(data.quiz) ? data.quiz.length : 0;
     const sidebar = document.createElement('div');
     sidebar.id = 'der-sidebar';
     sidebar.setAttribute('data-der', 'true');
 
     const closeBtn = document.createElement('button');
     closeBtn.id = 'der-close-btn';
+    closeBtn.setAttribute('data-der', 'true');
     closeBtn.textContent = '✕';
     closeBtn.addEventListener('click', () => sidebar.classList.remove('der-open'));
 
-    const h2 = document.createElement('h2');
-    h2.textContent = '📘 Daily English Reader';
+    const h2 = el('h2', { text: '📘 Daily English Reader' });
 
-    const meta = document.createElement('div');
-    meta.className = 'der-meta';
-    meta.textContent = `${data.source || ''} · ${data.date || ''} · ${words.length} מילים`;
+    const meta = el('div', { className: 'der-meta' });
+    meta.textContent = `${data.source || ''} · ${data.date || ''} · ${words.length} מילים · ${quizCount} שאלות`;
 
     const link = document.createElement('a');
     link.className = 'der-article-link';
+    link.setAttribute('data-der', 'true');
     link.href = data.url;
     link.textContent = 'פתח מאמר מקורי ↗';
     link.target = '_blank';
@@ -428,16 +727,27 @@
     sidebar.appendChild(meta);
     sidebar.appendChild(link);
 
-    if (words.length === 0) {
-      const empty = document.createElement('div');
-      empty.className = 'der-empty';
-      empty.textContent = 'אין מילים זמינות למאמר זה.';
-      sidebar.appendChild(empty);
-    }
+    // Tabs
+    const tabs = el('div', { className: 'der-tabs' });
+    const wordsTab = el('button', { className: 'der-tab der-tab-active', text: `Words (${words.length})` });
+    wordsTab.type = 'button';
+    wordsTab.dataset.tab = 'words';
+    wordsTab.addEventListener('click', () => activateTab('words'));
+    const quizTab = el('button', { className: 'der-tab', text: `Quiz (${quizCount})` });
+    quizTab.type = 'button';
+    quizTab.dataset.tab = 'quiz';
+    quizTab.addEventListener('click', () => activateTab('quiz'));
+    tabs.appendChild(wordsTab);
+    tabs.appendChild(quizTab);
+    sidebar.appendChild(tabs);
 
-    for (const entry of words) {
-      sidebar.appendChild(buildCard(entry));
-    }
+    // Panels
+    const wordsPanel = buildWordsPanel(words);
+    wordsPanel.dataset.panel = 'words';
+    const quizPanel = buildQuizPanel(data);
+    quizPanel.dataset.panel = 'quiz';
+    sidebar.appendChild(wordsPanel);
+    sidebar.appendChild(quizPanel);
 
     return sidebar;
   }
@@ -537,6 +847,7 @@
     const matched = currentNorm === latestNorm;
     log('URL matched:', matched);
     log('number of vocabulary words:', data.words.length);
+    log('number of quiz questions:', Array.isArray(data.quiz) ? data.quiz.length : 0);
 
     if (!matched) {
       setPill("not today's article");

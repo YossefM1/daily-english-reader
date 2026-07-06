@@ -20,7 +20,7 @@ Browser (Tampermonkey userscript)
   → loads latest.json from GitHub Pages
   → checks if the current URL matches today's article URL
   → highlights vocabulary words in gray
-  → injects a Hebrew vocabulary sidebar
+  → injects a Hebrew sidebar with two tabs: Words and Quiz
 ```
 
 ## Important implementation notes
@@ -85,31 +85,55 @@ Create:
 data/vocabulary.json
 ```
 
-The file must be valid JSON. Use exactly this schema:
+The file must be valid JSON. It now contains **both** a vocabulary list and a
+quiz. Use exactly this schema:
 
 ```json
-[
-  {
-    "word": "exact word from the article",
-    "lemma": "base form",
-    "level": "B1/B2/C1/C2",
-    "hebrew": "Hebrew translation",
-    "explanation_hebrew": "short Hebrew explanation",
-    "pronunciation_hebrew": "approximate pronunciation in Hebrew letters with niqqud",
-    "example": "short English example sentence"
-  }
-]
+{
+  "words": [
+    {
+      "word": "exact word from the article",
+      "lemma": "base form",
+      "level": "B1/B2/C1/C2",
+      "hebrew": "Hebrew translation",
+      "explanation_hebrew": "short Hebrew explanation",
+      "pronunciation_hebrew": "approximate pronunciation in Hebrew letters with niqqud",
+      "example": "short English example sentence"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "word": "same word as one of the vocabulary items",
+      "type": "english_to_hebrew",
+      "question": "What does “word” mean?",
+      "options": ["correct", "wrong1", "wrong2", "wrong3"],
+      "correct_answer": "correct",
+      "explanation_hebrew": "short Hebrew explanation of the answer"
+    }
+  ]
+}
 ```
 
 Vocabulary selection rules:
-- Select 18–35 useful words.
+- Select **exactly 15** useful words.
 - Select only intermediate and advanced vocabulary: B1, B2, C1, C2.
+- Prefer useful B1/B2/C1 words. C2 words are allowed but should not dominate.
 - Do not select names of people, places, companies, products, or organizations.
 - Do not select dates, numbers, abbreviations, or very basic words.
 - Prefer single-token words (single word, not phrases) — they are easier for the highlighter.
 - The `word` field must match the exact surface form appearing in the article text.
 - Hebrew should be clear and natural for an Israeli Hebrew speaker.
 - `pronunciation_hebrew` is an approximate phonetic guide using Hebrew letters with niqqud, not IPA.
+
+Quiz rules:
+- Create **exactly 15** quiz questions. Prefer one question per vocabulary word.
+- Use mostly `english_to_hebrew` and `hebrew_to_english` question types for now.
+- Every quiz item must have exactly 4 `options`.
+- `correct_answer` must be one of the 4 `options`.
+- Every quiz `word` must exist in the `words` list.
+- Give each quiz a unique `id` (`q1`, `q2`, …).
+- Keep all options plausible but not confusingly identical.
 
 `data/vocabulary.json` is gitignored and must NOT be pushed directly.  
 It is only used as input for `build_latest_json.py`.
@@ -128,7 +152,12 @@ docs/data/latest.json
 docs/data/archive/YYYY-MM-DD.json
 ```
 
-`latest.json` contains metadata and vocabulary only. It does NOT include the full article text.
+`latest.json` contains metadata, vocabulary, and quiz only. It does NOT include the full article text.
+
+The build script validates the input and will fail unless there are **exactly
+15 words** and **exactly 15 quiz questions**, each quiz has 4 options, each
+`correct_answer` is among its options, and each quiz `word` exists in the
+`words` list.
 
 ### 6. Commit and push
 
@@ -172,7 +201,7 @@ https://feeds.arstechnica.com/arstechnica/index
 
 A successful run means:
 1. `data/article.json` was created (internal use only, not pushed).
-2. `data/vocabulary.json` was created and contains 18–35 valid words (not pushed directly).
+2. `data/vocabulary.json` was created with exactly 15 words and exactly 15 quiz questions (not pushed directly).
 3. `docs/data/latest.json` was written and pushed to `main`.
 4. `docs/data/archive/YYYY-MM-DD.json` was written and pushed to `main`.
-5. The final response reports: article title, source URL, number of vocabulary words, and confirmation that latest.json was pushed.
+5. The final response reports: article title, source URL, number of vocabulary words, number of quiz questions, and confirmation that latest.json was pushed.
