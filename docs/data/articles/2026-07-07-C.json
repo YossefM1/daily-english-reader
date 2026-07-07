@@ -1,0 +1,366 @@
+{
+  "date": "2026-07-07",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Artificial intelligence: Yann LeCun works on more flexible AI",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o",
+  "word_count": 1165,
+  "generated_at": "2026-07-07T02:20:00.679971+00:00",
+  "difficulty_reason": "Dense, analytical technology feature with abstract concepts, quotations and complex sentences; B2/C1/C2 vocabulary and some prior knowledge of AI make it the most demanding.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 15,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "tackle",
+      "lemma": "tackle",
+      "level": "B2",
+      "hebrew": "להתמודד עם, לטפל ב",
+      "explanation_hebrew": "לנסות לפתור בעיה קשה.",
+      "pronunciation_hebrew": "טַאקְל",
+      "example": "The team is trying to tackle a hard problem."
+    },
+    {
+      "word": "chores",
+      "lemma": "chore",
+      "level": "B2",
+      "hebrew": "מטלות בית",
+      "explanation_hebrew": "עבודות בית שגרתיות ולא מלהיבות.",
+      "pronunciation_hebrew": "צ'וֹרְז",
+      "example": "Washing dishes is one of my daily chores."
+    },
+    {
+      "word": "regurgitate",
+      "lemma": "regurgitate",
+      "level": "C2",
+      "hebrew": "לפלוט מחדש, לשנן ולחזור",
+      "explanation_hebrew": "לחזור על מידע בלי הבנה אמיתית.",
+      "pronunciation_hebrew": "רִיגֶרְגִ'יטֵייט",
+      "example": "A student who only regurgitates facts has not learned."
+    },
+    {
+      "word": "underlying",
+      "lemma": "underlying",
+      "level": "C1",
+      "hebrew": "בסיסי, שבבסיס",
+      "explanation_hebrew": "נמצא מתחת לפני השטח, לא גלוי מיד.",
+      "pronunciation_hebrew": "אַנְדֶּרְלַאיִינְג",
+      "example": "There is an underlying cause to the problem."
+    },
+    {
+      "word": "bewildering",
+      "lemma": "bewildering",
+      "level": "C1",
+      "hebrew": "מבלבל, מתעתע",
+      "explanation_hebrew": "כה מורכב עד שקשה להבין.",
+      "pronunciation_hebrew": "בִּיוִילְדֶרִינְג",
+      "example": "The choices were bewildering."
+    },
+    {
+      "word": "array",
+      "lemma": "array",
+      "level": "C1",
+      "hebrew": "מגוון, מערך",
+      "explanation_hebrew": "אוסף גדול ומגוון של דברים.",
+      "pronunciation_hebrew": "אֶרֵיי",
+      "example": "The shop offers a wide array of products."
+    },
+    {
+      "word": "outcomes",
+      "lemma": "outcome",
+      "level": "B2",
+      "hebrew": "תוצאות",
+      "explanation_hebrew": "התוצאות של פעולה או תהליך.",
+      "pronunciation_hebrew": "אַאוּטְקַמְז",
+      "example": "There are many possible outcomes."
+    },
+    {
+      "word": "topple",
+      "lemma": "topple",
+      "level": "C1",
+      "hebrew": "להתמוטט, ליפול",
+      "explanation_hebrew": "ליפול או להפיל ממצב זקוף.",
+      "pronunciation_hebrew": "טוֹפְּל",
+      "example": "The tower began to topple over."
+    },
+    {
+      "word": "plausible",
+      "lemma": "plausible",
+      "level": "C1",
+      "hebrew": "סביר, מתקבל על הדעת",
+      "explanation_hebrew": "נשמע נכון או אפשרי.",
+      "pronunciation_hebrew": "פְּלוֹזִיבְּל",
+      "example": "That is a plausible explanation."
+    },
+    {
+      "word": "reasoning",
+      "lemma": "reasoning",
+      "level": "C1",
+      "hebrew": "היגיון, הסקה",
+      "explanation_hebrew": "תהליך של חשיבה הגיונית להגיע למסקנה.",
+      "pronunciation_hebrew": "רִיזָנִינְג",
+      "example": "Her reasoning was clear and logical."
+    },
+    {
+      "word": "abstractions",
+      "lemma": "abstraction",
+      "level": "C1",
+      "hebrew": "הפשטות",
+      "explanation_hebrew": "רעיונות כלליים שאינם קשורים לחפץ ממשי.",
+      "pronunciation_hebrew": "אַבְּסְטְרַקְשַׁנְז",
+      "example": "Maths deals with abstractions."
+    },
+    {
+      "word": "assess",
+      "lemma": "assess",
+      "level": "B2",
+      "hebrew": "להעריך, לאמוד",
+      "explanation_hebrew": "לשפוט או להעריך את הערך או המצב של משהו.",
+      "pronunciation_hebrew": "אַסֶס",
+      "example": "Doctors assess the patient's condition."
+    },
+    {
+      "word": "feats",
+      "lemma": "feat",
+      "level": "C1",
+      "hebrew": "הישגים, מעללים",
+      "explanation_hebrew": "פעולות מרשימות שדורשות מיומנות או כוח.",
+      "pronunciation_hebrew": "פִיטְס",
+      "example": "The robots perform impressive feats."
+    },
+    {
+      "word": "insight",
+      "lemma": "insight",
+      "level": "C1",
+      "hebrew": "תובנה",
+      "explanation_hebrew": "הבנה עמוקה של משהו.",
+      "pronunciation_hebrew": "אִינְסַאיְט",
+      "example": "The study gave us new insight into the brain."
+    },
+    {
+      "word": "refining",
+      "lemma": "refine",
+      "level": "C1",
+      "hebrew": "לשכלל, לזקק, לשפר",
+      "explanation_hebrew": "לשפר משהו בהדרגה על ידי שינויים קטנים.",
+      "pronunciation_hebrew": "רִיפַאיְנִינְג",
+      "example": "They spent months refining the design."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "tackle",
+      "type": "english_to_hebrew",
+      "question": "What does “tackle” mean?",
+      "options": [
+        "להימנע מ",
+        "לחזור על",
+        "לשכוח",
+        "להתמודד עם, לטפל ב"
+      ],
+      "correct_answer": "להתמודד עם, לטפל ב",
+      "explanation_hebrew": "tackle פירושו לנסות לפתור בעיה קשה."
+    },
+    {
+      "id": "C-q2",
+      "word": "chores",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: ‏\"מטלות בית\"?",
+      "options": [
+        "holidays",
+        "hobbies",
+        "chores",
+        "rewards"
+      ],
+      "correct_answer": "chores",
+      "explanation_hebrew": "chores הן עבודות בית שגרתיות."
+    },
+    {
+      "id": "C-q3",
+      "word": "regurgitate",
+      "type": "english_to_hebrew",
+      "question": "What does “regurgitate” mean?",
+      "options": [
+        "להמציא רעיון חדש",
+        "לנתח לעומק",
+        "לשכוח לגמרי",
+        "לפלוט מחדש, לשנן ולחזור"
+      ],
+      "correct_answer": "לפלוט מחדש, לשנן ולחזור",
+      "explanation_hebrew": "regurgitate פירושו לחזור על מידע ללא הבנה."
+    },
+    {
+      "id": "C-q4",
+      "word": "underlying",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: ‏\"בסיסי, שבבסיס\"?",
+      "options": [
+        "temporary",
+        "external",
+        "obvious",
+        "underlying"
+      ],
+      "correct_answer": "underlying",
+      "explanation_hebrew": "underlying פירושו נמצא בבסיס ולא גלוי מיד."
+    },
+    {
+      "id": "C-q5",
+      "word": "bewildering",
+      "type": "english_to_hebrew",
+      "question": "What does “bewildering” mean?",
+      "options": [
+        "מבלבל, מתעתע",
+        "משעמם",
+        "קטן",
+        "ברור מאוד"
+      ],
+      "correct_answer": "מבלבל, מתעתע",
+      "explanation_hebrew": "bewildering פירושו מורכב עד שקשה להבין."
+    },
+    {
+      "id": "C-q6",
+      "word": "array",
+      "type": "english_to_hebrew",
+      "question": "What does “array” mean?",
+      "options": [
+        "טעות",
+        "מגוון, מערך",
+        "שקט",
+        "מחסור"
+      ],
+      "correct_answer": "מגוון, מערך",
+      "explanation_hebrew": "array פירושו אוסף גדול ומגוון של דברים."
+    },
+    {
+      "id": "C-q7",
+      "word": "outcomes",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: ‏\"תוצאות\"?",
+      "options": [
+        "questions",
+        "delays",
+        "outcomes",
+        "reasons"
+      ],
+      "correct_answer": "outcomes",
+      "explanation_hebrew": "outcomes הן התוצאות של פעולה או תהליך."
+    },
+    {
+      "id": "C-q8",
+      "word": "topple",
+      "type": "english_to_hebrew",
+      "question": "What does “topple” mean?",
+      "options": [
+        "לזרוח",
+        "לעמוד יציב",
+        "לטפס",
+        "להתמוטט, ליפול"
+      ],
+      "correct_answer": "להתמוטט, ליפול",
+      "explanation_hebrew": "topple פירושו ליפול ממצב זקוף."
+    },
+    {
+      "id": "C-q9",
+      "word": "plausible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: ‏\"סביר, מתקבל על הדעת\"?",
+      "options": [
+        "impossible",
+        "strange",
+        "plausible",
+        "false"
+      ],
+      "correct_answer": "plausible",
+      "explanation_hebrew": "plausible פירושו נשמע נכון או אפשרי."
+    },
+    {
+      "id": "C-q10",
+      "word": "reasoning",
+      "type": "english_to_hebrew",
+      "question": "What does “reasoning” mean?",
+      "options": [
+        "זיכרון",
+        "רגש",
+        "ניחוש אקראי",
+        "היגיון, הסקה"
+      ],
+      "correct_answer": "היגיון, הסקה",
+      "explanation_hebrew": "reasoning הוא תהליך של חשיבה הגיונית."
+    },
+    {
+      "id": "C-q11",
+      "word": "abstractions",
+      "type": "english_to_hebrew",
+      "question": "What does “abstractions” mean?",
+      "options": [
+        "הפשטות",
+        "חפצים ממשיים",
+        "מספרים",
+        "תמונות"
+      ],
+      "correct_answer": "הפשטות",
+      "explanation_hebrew": "abstractions הן רעיונות כלליים ולא חפצים ממשיים."
+    },
+    {
+      "id": "C-q12",
+      "word": "assess",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: ‏\"להעריך, לאמוד\"?",
+      "options": [
+        "repeat",
+        "ignore",
+        "destroy",
+        "assess"
+      ],
+      "correct_answer": "assess",
+      "explanation_hebrew": "assess פירושו לשפוט או להעריך מצב."
+    },
+    {
+      "id": "C-q13",
+      "word": "feats",
+      "type": "english_to_hebrew",
+      "question": "What does “feats” mean?",
+      "options": [
+        "שאלות",
+        "חוקים",
+        "הישגים, מעללים",
+        "כישלונות"
+      ],
+      "correct_answer": "הישגים, מעללים",
+      "explanation_hebrew": "feats הם פעולות מרשימות הדורשות מיומנות."
+    },
+    {
+      "id": "C-q14",
+      "word": "insight",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: ‏\"תובנה\"?",
+      "options": [
+        "insight",
+        "noise",
+        "surface",
+        "guess"
+      ],
+      "correct_answer": "insight",
+      "explanation_hebrew": "insight היא הבנה עמוקה של משהו."
+    },
+    {
+      "id": "C-q15",
+      "word": "refining",
+      "type": "english_to_hebrew",
+      "question": "What does “refining” mean?",
+      "options": [
+        "להעתיק",
+        "להאט",
+        "להרוס",
+        "לשכלל, לזקק, לשפר"
+      ],
+      "correct_answer": "לשכלל, לזקק, לשפר",
+      "explanation_hebrew": "refining פירושו לשפר משהו בהדרגה."
+    }
+  ]
+}
