@@ -141,36 +141,40 @@ def source_from_url(url: str) -> str:
 
 
 def extract_article(url: str) -> Article:
-    downloaded = trafilatura.fetch_url(url)
-
-    if downloaded:
-        extracted_json = trafilatura.extract(
-            downloaded,
-            output_format="json",
-            include_comments=False,
-            include_tables=False,
-            with_metadata=True,
-        )
-        if extracted_json:
-            data = json.loads(extracted_json)
-            title = data.get("title") or "Daily English Article"
-            text = normalize_text(data.get("text") or "")
-            source = data.get("sitename") or source_from_url(url)
-            date = data.get("date") or ""
-
-            if len(text.split()) >= 180:
-                return Article(
-                    title=title.strip(),
-                    url=url,
-                    text=text,
-                    source=source,
-                    date=date,
-                )
-
-    # Fallback extraction if trafilatura fails.
+    # Download the page ourselves via requests (http_get), which respects the
+    # HTTPS_PROXY / agent-proxy configuration of the Claude Routine cloud
+    # environment. trafilatura.fetch_url() uses its own downloader that does NOT
+    # route through that proxy here, so it hangs until timeout and returns
+    # nothing (~30s wasted per article). We keep trafilatura only for its
+    # high-quality extraction, feeding it the HTML we already fetched.
     response = http_get(url)
+    html = response.text
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    extracted_json = trafilatura.extract(
+        html,
+        output_format="json",
+        include_comments=False,
+        include_tables=False,
+        with_metadata=True,
+    )
+    if extracted_json:
+        data = json.loads(extracted_json)
+        title = data.get("title") or "Daily English Article"
+        text = normalize_text(data.get("text") or "")
+        source = data.get("sitename") or source_from_url(url)
+        date = data.get("date") or ""
+
+        if len(text.split()) >= 180:
+            return Article(
+                title=title.strip(),
+                url=url,
+                text=text,
+                source=source,
+                date=date,
+            )
+
+    # Fallback extraction if trafilatura could not find enough text.
+    soup = BeautifulSoup(html, "html.parser")
     for tag in soup(["script", "style", "nav", "footer", "aside", "form"]):
         tag.decompose()
 

@@ -7,8 +7,8 @@
   "source": "BBC",
   "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o",
   "word_count": 902,
-  "generated_at": "2026-07-06T19:42:06.482756+00:00",
-  "difficulty_reason": "Longer article (≈902 words) on a complex geopolitical event, with dense C1/C2 vocabulary and several interwoven threads.",
+  "generated_at": "2026-07-06T20:23:31.700063+00:00",
+  "difficulty_reason": "כתיבה צפופה עם הקשר פוליטי, דיפלומטי והיסטורי; משפטים מורכבים ואוצר מילים B2/C1/C2, הדורש רקע רחב על איראן והאזור.",
   "settings": {
     "source_mode": "BBC-only",
     "vocabulary_count": 15,
@@ -18,137 +18,137 @@
     {
       "word": "procession",
       "lemma": "procession",
-      "level": "C1",
+      "level": "B2",
       "hebrew": "תַּהֲלוּכָה",
-      "explanation_hebrew": "תנועה מסודרת של קהל, לרוב בטקס",
+      "explanation_hebrew": "קְבוּצַת אֲנָשִׁים הַצּוֹעֶדֶת יַחַד בְּסֵדֶר, לְעִיתִּים בְּטֶקֶס",
       "pronunciation_hebrew": "פְּרוֹסֶשֶׁן",
-      "example": "Huge crowds joined the funeral procession."
+      "example": "Thousands joined the funeral procession."
     },
     {
       "word": "mourners",
       "lemma": "mourner",
-      "level": "C1",
+      "level": "B2",
       "hebrew": "מִתְאַבְּלִים",
-      "explanation_hebrew": "אנשים המתאבלים על מת",
+      "explanation_hebrew": "אֲנָשִׁים הַמִּתְאַבְּלִים עַל מוֹתוֹ שֶׁל מִישֶׁהוּ",
       "pronunciation_hebrew": "מוֹרְנֶרְז",
-      "example": "Thousands of mourners filled the streets."
+      "example": "The mourners gathered in the square."
     },
     {
-      "word": "spectacle",
-      "lemma": "spectacle",
-      "level": "C1",
-      "hebrew": "מַחֲזֵה רַאֲוָה",
-      "explanation_hebrew": "מראה מרשים שנועד להתבוננות",
-      "pronunciation_hebrew": "סְפֶּקְטַקֶל",
-      "example": "It was the spectacle Iran wanted the world to see."
+      "word": "coffin",
+      "lemma": "coffin",
+      "level": "B2",
+      "hebrew": "אֲרוֹן קְבוּרָה",
+      "explanation_hebrew": "הַתֵּיבָה שֶׁבָּהּ קוֹבְרִים אָדָם שֶׁמֵּת",
+      "pronunciation_hebrew": "קוֹפִין",
+      "example": "They carried the coffin through the streets."
     },
     {
       "word": "vengeance",
       "lemma": "vengeance",
       "level": "C1",
       "hebrew": "נְקָמָה",
-      "explanation_hebrew": "גמול על פגיעה או עוול",
-      "pronunciation_hebrew": "וֶנְגְ'נְס",
-      "example": "The red banners were symbolising vengeance."
+      "explanation_hebrew": "פְּגִיעָה בְּמִישֶׁהוּ כִּגְמוּל עַל עָוֶול שֶׁעָשָׂה",
+      "pronunciation_hebrew": "וֶנְגֶ'נְס",
+      "example": "They swore vengeance for the attack."
     },
     {
       "word": "placards",
       "lemma": "placard",
       "level": "C1",
       "hebrew": "שְׁלָטִים",
-      "explanation_hebrew": "שלטי מחאה או הכרזה",
+      "explanation_hebrew": "לוּחוֹת אוֹ כְּרָזוֹת שֶׁנּוֹשְׂאִים בְּהַפְגָּנָה",
       "pronunciation_hebrew": "פְּלַאקַארְדְז",
-      "example": "People held placards saying \"We must rise\"."
+      "example": "Protesters held placards in the air."
     },
     {
       "word": "eliminated",
       "lemma": "eliminate",
-      "level": "C1",
-      "hebrew": "חֻסַּל",
-      "explanation_hebrew": "הוסר או הומת לחלוטין",
+      "level": "B2",
+      "hebrew": "חוּסַּל",
+      "explanation_hebrew": "הוּסַר אוֹ נֶהֱרַג בְּאוֹפֶן מוּחְלָט",
       "pronunciation_hebrew": "אִילִימִינֵייטֶד",
-      "example": "The minister said the leader was eliminated."
+      "example": "The target was eliminated in the strike."
+    },
+    {
+      "word": "existence",
+      "lemma": "existence",
+      "level": "B2",
+      "hebrew": "קִיּוּם",
+      "explanation_hebrew": "עֶצֶם הֱיוֹתוֹ שֶׁל מַשֶּׁהוּ קַיָּים בַּמְּצִיאוּת",
+      "pronunciation_hebrew": "אֶגְזִיסְטֶנְס",
+      "example": "The threat endangered the country's existence."
+    },
+    {
+      "word": "pursue",
+      "lemma": "pursue",
+      "level": "B2",
+      "hebrew": "לַחְתּוֹר לְ",
+      "explanation_hebrew": "לְנַסּוֹת לְהַשִּׂיג מַטָּרָה לְאוֹרֶךְ זְמַן",
+      "pronunciation_hebrew": "פֶּרְסוּ",
+      "example": "She decided to pursue a career in law."
+    },
+    {
+      "word": "maintained",
+      "lemma": "maintain",
+      "level": "B2",
+      "hebrew": "שָׁמַר עַל",
+      "explanation_hebrew": "הִמְשִׁיךְ לְהַחְזִיק אוֹ לִשְׁמוֹר מַשֶּׁהוּ בְּמַצָּב מְסוּיָּים",
+      "pronunciation_hebrew": "מֵיינְטֵיינְד",
+      "example": "He maintained control over the army."
     },
     {
       "word": "suppressed",
       "lemma": "suppress",
       "level": "C1",
-      "hebrew": "דִּכֵּא",
-      "explanation_hebrew": "מנע בכוח התנגדות או מחאה",
+      "hebrew": "דִּיכֵּא",
+      "explanation_hebrew": "עָצַר אוֹ מָנַע מַשֶּׁהוּ בְּכוֹחַ",
       "pronunciation_hebrew": "סַפְּרֶסְט",
-      "example": "He suppressed domestic challenges, sometimes violently."
+      "example": "The regime suppressed the protests."
     },
     {
       "word": "confrontation",
       "lemma": "confrontation",
-      "level": "B2",
-      "hebrew": "עִמּוּת",
-      "explanation_hebrew": "עימות או התנגשות בין צדדים",
+      "level": "C1",
+      "hebrew": "עִימּוּת",
+      "explanation_hebrew": "מַצָּב שֶׁל עֵימוּת אוֹ סִכְסוּךְ בֵּין צְדָדִים",
       "pronunciation_hebrew": "קוֹנְפְרוֹנְטֵיישֶׁן",
-      "example": "He took hard-line stances in the confrontation with the US."
+      "example": "The confrontation lasted for months."
     },
     {
       "word": "establishment",
       "lemma": "establishment",
       "level": "C1",
       "hebrew": "מִמְסָד",
-      "explanation_hebrew": "קבוצת בעלי הכוח והשלטון",
-      "pronunciation_hebrew": "אִסְטַבְּלִישְׁמֶנְט",
-      "example": "The ruling establishment wanted a show of strength."
+      "explanation_hebrew": "הַקְּבוּצָה הַשּׁוֹלֶטֶת אוֹ הַמְּמוּסֶּדֶת בְּחֶבְרָה",
+      "pronunciation_hebrew": "אִיסְטַבְּלִישְׁמֶנְט",
+      "example": "He criticised the political establishment."
     },
     {
       "word": "crackdown",
       "lemma": "crackdown",
       "level": "C1",
-      "hebrew": "מַהֲלַךְ דִּכּוּי",
-      "explanation_hebrew": "פעולה תקיפה נגד מחאה או פשיעה",
+      "hebrew": "דִּיכּוּי חָרִיף",
+      "explanation_hebrew": "פְּעוּלָה נוֹקְשָׁה שֶׁל הַשִּׁלְטוֹן נֶגֶד קְבוּצָה אוֹ פְּעִילוּת",
       "pronunciation_hebrew": "קְרַאקְדַאוּן",
-      "example": "Thousands were killed in a crackdown by security forces."
+      "example": "The police launched a crackdown on crime."
     },
     {
       "word": "referendum",
       "lemma": "referendum",
       "level": "C1",
-      "hebrew": "מִשְׁאַל עַם",
-      "explanation_hebrew": "הצבעה ציבורית על שאלה מרכזית",
+      "hebrew": "מִשְׁאַל עָם",
+      "explanation_hebrew": "הַצְבָּעָה שֶׁל כְּלַל הַצִּיבּוּר עַל שְׁאֵלָה מְסוּיֶּמֶת",
       "pronunciation_hebrew": "רֶפֶרֶנְדוּם",
-      "example": "He said the turnout was like another referendum."
-    },
-    {
-      "word": "truce",
-      "lemma": "truce",
-      "level": "C1",
-      "hebrew": "הֲפוּגָה",
-      "explanation_hebrew": "הסכם זמני להפסקת לחימה",
-      "pronunciation_hebrew": "טְרוּס",
-      "example": "The deal covered a permanent truce."
+      "example": "The country held a referendum on the law."
     },
     {
       "word": "sanctions",
       "lemma": "sanction",
-      "level": "C1",
-      "hebrew": "עִצּוּמִים",
-      "explanation_hebrew": "צעדי ענישה כלכליים נגד מדינה",
-      "pronunciation_hebrew": "סַנְקְשֶׁנְז",
-      "example": "The final deal covers US sanctions on Iran."
-    },
-    {
-      "word": "clerical",
-      "lemma": "clerical",
-      "level": "C2",
-      "hebrew": "דָּתִי-כְּמוּרְתִּי",
-      "explanation_hebrew": "הקשור לאנשי הדת ומוסדותיהם",
-      "pronunciation_hebrew": "קְלֶרִיקָל",
-      "example": "Qom is the centre of Iran's clerical establishment."
-    },
-    {
-      "word": "succeeded",
-      "lemma": "succeed",
       "level": "B2",
-      "hebrew": "יָרַשׁ תַּפְקִיד",
-      "explanation_hebrew": "בא במקום מישהו בתפקיד",
-      "pronunciation_hebrew": "סַקְסִידֶד",
-      "example": "The son who succeeded him did not appear."
+      "hebrew": "סַנְקְצִיּוֹת",
+      "explanation_hebrew": "עוֹנָשִׁים כַּלְכָּלִיִּים אוֹ מְדִינִיִּים נֶגֶד מְדִינָה",
+      "pronunciation_hebrew": "סַנְקְשֶׁנְז",
+      "example": "New sanctions were imposed on the country."
     }
   ],
   "quiz": [
@@ -160,53 +160,53 @@
       "options": [
         "תַּהֲלוּכָה",
         "מִתְאַבְּלִים",
-        "מַחֲזֵה רַאֲוָה",
+        "אֲרוֹן קְבוּרָה",
         "נְקָמָה"
       ],
       "correct_answer": "תַּהֲלוּכָה",
-      "explanation_hebrew": "“procession” = תַּהֲלוּכָה. תנועה מסודרת של קהל, לרוב בטקס."
+      "explanation_hebrew": "“procession” פירושו תַּהֲלוּכָה."
     },
     {
       "id": "C-q2",
       "word": "mourners",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “מִתְאַבְּלִים”?",
+      "question": "איזו מילה באנגלית פירושה “מִתְאַבְּלִים”?",
       "options": [
-        "mourners",
-        "spectacle",
+        "coffin",
         "vengeance",
-        "procession"
+        "placards",
+        "mourners"
       ],
       "correct_answer": "mourners",
-      "explanation_hebrew": "מִתְאַבְּלִים = “mourners”. אנשים המתאבלים על מת."
+      "explanation_hebrew": "המילה “mourners” פירושה מִתְאַבְּלִים."
     },
     {
       "id": "C-q3",
-      "word": "spectacle",
+      "word": "coffin",
       "type": "english_to_hebrew",
-      "question": "What does “spectacle” mean?",
+      "question": "What does “coffin” mean?",
       "options": [
-        "מַחֲזֵה רַאֲוָה",
         "נְקָמָה",
-        "תַּהֲלוּכָה",
-        "מִתְאַבְּלִים"
+        "חוּסַּל",
+        "שְׁלָטִים",
+        "אֲרוֹן קְבוּרָה"
       ],
-      "correct_answer": "מַחֲזֵה רַאֲוָה",
-      "explanation_hebrew": "“spectacle” = מַחֲזֵה רַאֲוָה. מראה מרשים שנועד להתבוננות."
+      "correct_answer": "אֲרוֹן קְבוּרָה",
+      "explanation_hebrew": "“coffin” פירושו אֲרוֹן קְבוּרָה."
     },
     {
       "id": "C-q4",
       "word": "vengeance",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “נְקָמָה”?",
+      "question": "איזו מילה באנגלית פירושה “נְקָמָה”?",
       "options": [
-        "mourners",
-        "spectacle",
+        "existence",
         "vengeance",
-        "procession"
+        "placards",
+        "eliminated"
       ],
       "correct_answer": "vengeance",
-      "explanation_hebrew": "נְקָמָה = “vengeance”. גמול על פגיעה או עוול."
+      "explanation_hebrew": "המילה “vengeance” פירושה נְקָמָה."
     },
     {
       "id": "C-q5",
@@ -214,153 +214,153 @@
       "type": "english_to_hebrew",
       "question": "What does “placards” mean?",
       "options": [
-        "תַּהֲלוּכָה",
-        "מִתְאַבְּלִים",
-        "מַחֲזֵה רַאֲוָה",
+        "חוּסַּל",
+        "קִיּוּם",
+        "לַחְתּוֹר לְ",
         "שְׁלָטִים"
       ],
       "correct_answer": "שְׁלָטִים",
-      "explanation_hebrew": "“placards” = שְׁלָטִים. שלטי מחאה או הכרזה."
+      "explanation_hebrew": "“placards” פירושו שְׁלָטִים."
     },
     {
       "id": "C-q6",
       "word": "eliminated",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “חֻסַּל”?",
+      "question": "איזו מילה באנגלית פירושה “חוּסַּל”?",
       "options": [
-        "mourners",
-        "procession",
-        "spectacle",
-        "eliminated"
+        "pursue",
+        "eliminated",
+        "maintained",
+        "existence"
       ],
       "correct_answer": "eliminated",
-      "explanation_hebrew": "חֻסַּל = “eliminated”. הוסר או הומת לחלוטין."
+      "explanation_hebrew": "המילה “eliminated” פירושה חוּסַּל."
     },
     {
       "id": "C-q7",
-      "word": "suppressed",
+      "word": "existence",
       "type": "english_to_hebrew",
-      "question": "What does “suppressed” mean?",
+      "question": "What does “existence” mean?",
       "options": [
-        "מִתְאַבְּלִים",
-        "תַּהֲלוּכָה",
-        "דִּכֵּא",
-        "מַחֲזֵה רַאֲוָה"
+        "קִיּוּם",
+        "שָׁמַר עַל",
+        "לַחְתּוֹר לְ",
+        "דִּיכֵּא"
       ],
-      "correct_answer": "דִּכֵּא",
-      "explanation_hebrew": "“suppressed” = דִּכֵּא. מנע בכוח התנגדות או מחאה."
+      "correct_answer": "קִיּוּם",
+      "explanation_hebrew": "“existence” פירושו קִיּוּם."
     },
     {
       "id": "C-q8",
-      "word": "confrontation",
+      "word": "pursue",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “עִמּוּת”?",
+      "question": "איזו מילה באנגלית פירושה “לַחְתּוֹר לְ”?",
       "options": [
-        "mourners",
         "confrontation",
-        "spectacle",
-        "procession"
+        "maintained",
+        "pursue",
+        "suppressed"
       ],
-      "correct_answer": "confrontation",
-      "explanation_hebrew": "עִמּוּת = “confrontation”. עימות או התנגשות בין צדדים."
+      "correct_answer": "pursue",
+      "explanation_hebrew": "המילה “pursue” פירושה לַחְתּוֹר לְ."
     },
     {
       "id": "C-q9",
-      "word": "establishment",
+      "word": "maintained",
       "type": "english_to_hebrew",
-      "question": "What does “establishment” mean?",
+      "question": "What does “maintained” mean?",
       "options": [
+        "שָׁמַר עַל",
+        "עִימּוּת",
         "מִמְסָד",
-        "מִתְאַבְּלִים",
-        "מַחֲזֵה רַאֲוָה",
-        "תַּהֲלוּכָה"
+        "דִּיכֵּא"
       ],
-      "correct_answer": "מִמְסָד",
-      "explanation_hebrew": "“establishment” = מִמְסָד. קבוצת בעלי הכוח והשלטון."
+      "correct_answer": "שָׁמַר עַל",
+      "explanation_hebrew": "“maintained” פירושו שָׁמַר עַל."
     },
     {
       "id": "C-q10",
-      "word": "crackdown",
+      "word": "suppressed",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “מַהֲלַךְ דִּכּוּי”?",
+      "question": "איזו מילה באנגלית פירושה “דִּיכֵּא”?",
       "options": [
-        "procession",
-        "spectacle",
+        "suppressed",
         "crackdown",
-        "mourners"
+        "confrontation",
+        "establishment"
       ],
-      "correct_answer": "crackdown",
-      "explanation_hebrew": "מַהֲלַךְ דִּכּוּי = “crackdown”. פעולה תקיפה נגד מחאה או פשיעה."
+      "correct_answer": "suppressed",
+      "explanation_hebrew": "המילה “suppressed” פירושה דִּיכֵּא."
     },
     {
       "id": "C-q11",
-      "word": "referendum",
+      "word": "confrontation",
       "type": "english_to_hebrew",
-      "question": "What does “referendum” mean?",
+      "question": "What does “confrontation” mean?",
       "options": [
-        "מִשְׁאַל עַם",
-        "מַחֲזֵה רַאֲוָה",
-        "תַּהֲלוּכָה",
-        "מִתְאַבְּלִים"
+        "מִמְסָד",
+        "מִשְׁאַל עָם",
+        "דִּיכּוּי חָרִיף",
+        "עִימּוּת"
       ],
-      "correct_answer": "מִשְׁאַל עַם",
-      "explanation_hebrew": "“referendum” = מִשְׁאַל עַם. הצבעה ציבורית על שאלה מרכזית."
+      "correct_answer": "עִימּוּת",
+      "explanation_hebrew": "“confrontation” פירושו עִימּוּת."
     },
     {
       "id": "C-q12",
-      "word": "truce",
+      "word": "establishment",
       "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “הֲפוּגָה”?",
+      "question": "איזו מילה באנגלית פירושה “מִמְסָד”?",
       "options": [
-        "spectacle",
-        "procession",
-        "truce",
-        "mourners"
+        "establishment",
+        "referendum",
+        "crackdown",
+        "sanctions"
       ],
-      "correct_answer": "truce",
-      "explanation_hebrew": "הֲפוּגָה = “truce”. הסכם זמני להפסקת לחימה."
+      "correct_answer": "establishment",
+      "explanation_hebrew": "המילה “establishment” פירושה מִמְסָד."
     },
     {
       "id": "C-q13",
+      "word": "crackdown",
+      "type": "english_to_hebrew",
+      "question": "What does “crackdown” mean?",
+      "options": [
+        "תַּהֲלוּכָה",
+        "מִשְׁאַל עָם",
+        "דִּיכּוּי חָרִיף",
+        "סַנְקְצִיּוֹת"
+      ],
+      "correct_answer": "דִּיכּוּי חָרִיף",
+      "explanation_hebrew": "“crackdown” פירושו דִּיכּוּי חָרִיף."
+    },
+    {
+      "id": "C-q14",
+      "word": "referendum",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מִשְׁאַל עָם”?",
+      "options": [
+        "referendum",
+        "procession",
+        "mourners",
+        "sanctions"
+      ],
+      "correct_answer": "referendum",
+      "explanation_hebrew": "המילה “referendum” פירושה מִשְׁאַל עָם."
+    },
+    {
+      "id": "C-q15",
       "word": "sanctions",
       "type": "english_to_hebrew",
       "question": "What does “sanctions” mean?",
       "options": [
-        "מַחֲזֵה רַאֲוָה",
-        "תַּהֲלוּכָה",
-        "עִצּוּמִים",
-        "מִתְאַבְּלִים"
-      ],
-      "correct_answer": "עִצּוּמִים",
-      "explanation_hebrew": "“sanctions” = עִצּוּמִים. צעדי ענישה כלכליים נגד מדינה."
-    },
-    {
-      "id": "C-q14",
-      "word": "clerical",
-      "type": "hebrew_to_english",
-      "question": "איך אומרים באנגלית “דָּתִי-כְּמוּרְתִּי”?",
-      "options": [
-        "procession",
-        "mourners",
-        "spectacle",
-        "clerical"
-      ],
-      "correct_answer": "clerical",
-      "explanation_hebrew": "דָּתִי-כְּמוּרְתִּי = “clerical”. הקשור לאנשי הדת ומוסדותיהם."
-    },
-    {
-      "id": "C-q15",
-      "word": "succeeded",
-      "type": "english_to_hebrew",
-      "question": "What does “succeeded” mean?",
-      "options": [
+        "סַנְקְצִיּוֹת",
         "מִתְאַבְּלִים",
         "תַּהֲלוּכָה",
-        "יָרַשׁ תַּפְקִיד",
-        "מַחֲזֵה רַאֲוָה"
+        "אֲרוֹן קְבוּרָה"
       ],
-      "correct_answer": "יָרַשׁ תַּפְקִיד",
-      "explanation_hebrew": "“succeeded” = יָרַשׁ תַּפְקִיד. בא במקום מישהו בתפקיד."
+      "correct_answer": "סַנְקְצִיּוֹת",
+      "explanation_hebrew": "“sanctions” פירושו סַנְקְצִיּוֹת."
     }
   ]
 }
