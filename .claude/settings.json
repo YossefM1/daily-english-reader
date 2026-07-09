@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(python -m venv .venv)",
+      "Bash(python -m pip install *)",
+      "Bash(python src/fetch_articles.py)",
+      "Bash(python src/build_today_json.py)",
+
+      "Bash(git config *)",
+      "Bash(git status *)",
+      "Bash(git diff *)",
+      "Bash(git log *)",
+      "Bash(git branch *)",
+      "Bash(git branch --show-current)",
+
+      "Bash(git add docs/data/today.json docs/data/articles/ docs/data/latest.json docs/data/archive/)",
+      "Bash(git commit -m *)",
+
+      "Bash(git fetch origin)",
+      "Bash(git push origin *)",
+
+      "Bash(git switch main)",
+      "Bash(git checkout main)",
+      "Bash(git pull --ff-only origin main)",
+      "Bash(git merge --ff-only *)",
+      "Bash(git push origin main)",
+
+      "Bash(WORKING_BRANCH=*)",
+      "Bash(echo *)"
+    ],
+    "deny": [
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git reset --hard*)",
+      "Bash(git rebase *)",
+      "Bash(git rm *)"
+    ]
+  }
+}
