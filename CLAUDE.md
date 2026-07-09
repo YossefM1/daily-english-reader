@@ -8,15 +8,36 @@ It only saves vocabulary + quiz metadata to GitHub Pages.
 The actual reading happens on the original BBC website, with a Tampermonkey
 userscript adding the Hebrew overlay (Words + Quiz tabs).
 
+## Publishing authorization
+
+Claude Code is explicitly authorized to publish the Daily English Reader daily
+content to `main` after all generation and verification checks pass.
+
+This authorization applies every day and does not require asking the user again.
+
+Claude Code may:
+
+- commit the generated daily metadata files;
+- push the working branch;
+- fast-forward merge the working branch into `main`;
+- push `main` to `origin`.
+
+Claude Code must use only a fast-forward merge. Never force-push, never rewrite
+history, and never merge if verification failed, if conflicts exist, or if
+`main` has diverged.
+
+If the merge is not fast-forward, if there are conflicts, if `main` has changed
+unexpectedly, or if GitHub rejects the push, stop and report the problem.
+
 ## Architecture
 
-```
+```text
 Claude Code Routine (cloud)
   → fetches MANY BBC article candidates from several BBC RSS feeds
   → Claude selects 3 articles by difficulty:
-        A — Easier English      (prefer 300–600 words)
+        A — Easier English       (prefer 300–600 words)
         B — Intermediate English (prefer 500–900 words, default level)
-        C — Advanced English    (prefer 800–1400 words)
+        C — Advanced English     (prefer 800–1400 words)
   → Claude creates 15 vocabulary words + 15 quiz questions per article
   → saves data/learning_articles.json (internal, gitignored)
   → build_today_json.py writes public metadata to docs/data/
@@ -40,6 +61,7 @@ Browser (Tampermonkey userscript)
 - Yahoo RSS is excluded because it returned HTTP 403 from the cloud runner.
 - Keep **BBC-only** mode for now.
 - Use a Python virtual environment for all dependency installation.
+- `data/candidates.json` and `data/learning_articles.json` are internal only and must not be committed or published.
 
 ## Routine run steps
 
@@ -166,26 +188,24 @@ Schema:
 ```
 
 Per-article vocabulary rules (apply to **each** of the 3 articles):
+
 - Exactly **15** words.
 - Levels B1/B2/C1/C2 (A-level article may lean B1/B2; C-level may include C2).
 - No names of people, places, companies, products, or organizations.
 - No dates, numbers, abbreviations, or very basic words.
 - Prefer single-token words (easier for the highlighter).
-- The `word` field must match the exact surface form appearing in that
-  article's text.
+- The `word` field must match the exact surface form appearing in that article's text.
 - Hebrew should be natural for an Israeli Hebrew speaker.
-- `pronunciation_hebrew` is an approximate phonetic guide using Hebrew letters
-  with niqqud, not IPA.
+- `pronunciation_hebrew` is an approximate phonetic guide using Hebrew letters with niqqud, not IPA.
 
 Per-article quiz rules (apply to **each** of the 3 articles):
+
 - Exactly **15** quiz questions. Prefer one question per vocabulary word.
 - Use mostly `english_to_hebrew` and `hebrew_to_english` types.
-- Exactly 4 `options`; `correct_answer` must be one of them; options must be
-  distinct.
+- Exactly 4 `options`; `correct_answer` must be one of them; options must be distinct.
 - Every quiz `word` must exist in that article's `words` list.
 - Give each quiz a unique `id`, prefixed by the article id (`A-q1`, `B-q1`, …).
-- You do NOT need to pre-shuffle option order — the build script shuffles
-  options deterministically and enforces a spread of correct-answer positions.
+- You do NOT need to pre-shuffle option order — the build script shuffles options deterministically and enforces a spread of correct-answer positions.
 
 `data/learning_articles.json` is gitignored and must NOT be pushed. It is only
 input for `build_today_json.py`.
@@ -224,72 +244,58 @@ output).
 
 None of the published files contain the full article text.
 
-### 6. Commit and push
+### 6. Verify generated output before publishing
+
+Before committing, verify all of the following:
+
+- `docs/data/today.json` exists and contains exactly 3 articles: A, B, and C.
+- Each public per-article JSON contains exactly 15 vocabulary words and 15 quiz questions.
+- No public JSON file contains a `text` field or full article body.
+- All vocabulary surface forms appear in the corresponding article text from `data/candidates.json`.
+- `data/candidates.json` and `data/learning_articles.json` remain untracked/gitignored.
+
+Suggested checks:
+
+```bash
+git status --short
+python src/build_today_json.py
+```
+
+### 7. Commit, merge to `main`, and push
+
+Use this publishing flow every day after verification passes.
 
 ```bash
 git config user.name "Claude"
 git config user.email "noreply@anthropic.com"
-git add docs/data/today.json docs/data/articles/ docs/data/latest.json docs/data/archive/ \
-        docs/index.html docs/userscript/daily-english-reader.user.js \
-        CLAUDE.md routine_prompt.md src/ requirements.txt README.md
+
+WORKING_BRANCH="$(git branch --show-current)"
+
+# Commit only the public generated metadata files.
+git add docs/data/today.json docs/data/articles/ docs/data/latest.json docs/data/archive/
 git commit -m "Update daily English reader metadata" || echo "No changes to commit"
-git push origin HEAD:main
+
+# Push the working branch first, if it is not main.
+if [ "$WORKING_BRANCH" != "main" ]; then
+  git push origin "$WORKING_BRANCH"
+fi
+
+# Publish to main using fast-forward only.
+git fetch origin
+git switch main
+git pull --ff-only origin main
+
+if [ "$WORKING_BRANCH" != "main" ]; then
+  git merge --ff-only "$WORKING_BRANCH"
+fi
+
+git push origin main
 ```
 
-Do NOT force-push. Do NOT rewrite history.
+Do NOT use `git push --force`.
+Do NOT use `git push --force-with-lease`.
+Do NOT rewrite history.
+Do NOT merge with a merge commit.
+Do NOT manually resolve conflicts during the routine.
 
-## Legacy single-article flow (kept for compatibility)
-
-The original single-article scripts still exist:
-`src/fetch_article.py` → `data/article.json`, and `src/build_latest_json.py`
-(reads `data/vocabulary.json` → writes `docs/data/latest.json`). The new
-multi-level flow above supersedes them, but they remain valid and are not
-required for the daily routine.
-
-## Optional environment variables
-
-```text
-ARTICLE_URL          – (legacy single-article) override RSS with a specific URL
-RSS_FEEDS            – comma-separated RSS feed URLs (default: 6 BBC section feeds)
-LINKS_PER_FEED       – how many links to consider per feed (default 5)
-MAX_CANDIDATES       – max successfully-extracted candidates to keep (default 18)
-MIN_CANDIDATE_WORDS  – minimum words for a usable candidate (default 150)
-MAX_CANDIDATE_CHARS  – cap on stored candidate text (default 20000)
-MAX_ARTICLE_CHARS    – (legacy) default 12000
-OUTPUT_DIR           – default data
-DOCS_DIR             – default docs
-```
-
-Current test mode: **BBC only**. Default candidate feeds:
-
-```text
-https://feeds.bbci.co.uk/news/world/rss.xml
-https://feeds.bbci.co.uk/news/technology/rss.xml
-https://feeds.bbci.co.uk/news/business/rss.xml
-https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
-https://feeds.bbci.co.uk/news/health/rss.xml
-https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
-```
-
-Other stable feeds (disabled during BBC test mode — set `RSS_FEEDS` to re-enable):
-
-```text
-https://www.theguardian.com/world/rss
-https://feeds.npr.org/1001/rss.xml
-https://feeds.arstechnica.com/arstechnica/index
-```
-
-## Success criteria
-
-A successful run means:
-1. `data/candidates.json` was created (internal use only, not pushed).
-2. `data/learning_articles.json` was created with exactly 3 articles (A/B/C),
-   each with exactly 15 words and 15 quiz questions (not pushed).
-3. `docs/data/today.json` and the three `docs/data/articles/YYYY-MM-DD-*.json`
-   files were written and pushed to `main`.
-4. `docs/data/latest.json` (B-level compatibility copy) and the three
-   `docs/data/archive/YYYY-MM-DD-*.json` files were written and pushed.
-5. No full article text was published.
-6. The final response reports: the 3 article titles + BBC URLs + levels, the
-   vocabulary and quiz counts per article, and confirmation that `today.json`
-   was pushed.
+If any command fails, stop and report the exact failure.
