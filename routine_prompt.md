@@ -15,6 +15,25 @@ userscript handles the overlay. Your job is only to publish the metadata.
 
 If this prompt conflicts with `CLAUDE.md`, follow `CLAUDE.md`.
 
+## BBC-only source restriction (hard rule)
+
+This project is **BBC-only**. The Tampermonkey overlay runs on BBC article
+pages only, so a non-BBC article will silently show no vocabulary overlay.
+
+- **Guardian, NPR, Ars Technica, Yahoo, and every other non-BBC source are
+  forbidden.** They must never appear in `data/candidates.json`,
+  `data/learning_articles.json`, or any public `docs/data/*.json` file.
+- Every selected article URL (A, B, and C) must have one of these hostnames:
+  `bbc.com`, `www.bbc.com`, `bbc.co.uk`, `www.bbc.co.uk`.
+- Any ambient `RSS_FEEDS` environment variable that lists non-BBC feeds must be
+  ignored/overridden. `src/fetch_articles.py` drops non-BBC feeds and non-BBC
+  candidate URLs automatically and warns about them, but you must still verify.
+- If fewer than 3 BBC candidates are available, **fetch more BBC candidates**
+  (add BBC feeds / raise `LINKS_PER_FEED`) or **fail clearly**. Never fill any
+  of A/B/C with a non-BBC article to make up the count.
+- `src/build_today_json.py` fails the build if any public URL is not BBC, so a
+  non-BBC selection cannot be published — do not try to work around it.
+
 ## Steps
 
 ### 1. Set up the Python environment
@@ -42,7 +61,9 @@ Open and read `data/candidates.json`.
 
 ### 4. Select 3 articles and create `data/learning_articles.json`
 
-Pick **3 different BBC articles**, one per level:
+Pick **3 different BBC articles**, one per level. Every URL must be a BBC
+hostname (`bbc.com` / `www.bbc.com` / `bbc.co.uk` / `www.bbc.co.uk`) — no
+Guardian, NPR, Ars Technica, or any other source:
 
 - **A — Easier English**: prefer 300–600 words, clear topic, simpler structure; vocabulary mostly A2/B1/B2 (choose useful B1/B2 words).
 - **B — Intermediate English** (default): prefer 500–900 words; vocabulary mostly B1/B2/C1.
@@ -140,6 +161,10 @@ git push origin HEAD:main
 
 ## Constraints
 
+- **BBC-only:** Guardian, NPR, Ars Technica, Yahoo and all other non-BBC
+  sources are forbidden. Every A/B/C URL must be a `bbc.com` / `bbc.co.uk`
+  hostname. Never fill A/B/C with a non-BBC article; fetch more BBC candidates
+  or fail clearly instead.
 - Do not use Claude API or Anthropic API key.
 - Do not use Gmail, SMTP, or any email service.
 - Do not use feedparser.

@@ -35,6 +35,7 @@ from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List
+from urllib.parse import urlparse
 
 EXPECTED_ARTICLE_COUNT = 3
 EXPECTED_IDS = ["A", "B", "C"]
@@ -64,6 +65,23 @@ MAX_PER_POSITION = 7
 
 # The default recommended level; latest.json mirrors this one for compatibility.
 DEFAULT_LEVEL = "B"
+
+# ── Strict BBC-only guard ─────────────────────────────────────────────────────
+# The project is BBC-only and the Tampermonkey overlay supports BBC pages only.
+# Any non-BBC article URL (Guardian, NPR, Ars Technica, Yahoo, …) must abort the
+# build BEFORE any public JSON is written.
+BBC_ARTICLE_HOSTS = {"bbc.com", "www.bbc.com", "bbc.co.uk", "www.bbc.co.uk"}
+
+
+def assert_bbc_url(url: str, context: str) -> None:
+    """Raise if url's hostname is not on the strict BBC allow-list."""
+    host = urlparse(str(url)).netloc.lower()
+    if host not in BBC_ARTICLE_HOSTS:
+        raise ValueError(
+            f"Non-BBC URL in {context}: {url!r} (host {host!r}). "
+            f"BBC-only mode forbids Guardian, NPR, Ars Technica and all other "
+            f"non-BBC sources. Allowed hosts: {sorted(BBC_ARTICLE_HOSTS)}."
+        )
 
 
 def load_json(path: Path):
@@ -147,6 +165,9 @@ def validate_article(article: dict, expected_id: str) -> None:
     for field in ("title", "url", "level"):
         if not str(article.get(field, "")).strip():
             raise ValueError(f"Article {expected_id} missing required field: {field!r}")
+
+    # BBC-only: reject the whole build if this article's URL is not BBC.
+    assert_bbc_url(article["url"], f"article {expected_id}")
 
     words = article.get("words")
     quiz = article.get("quiz")
@@ -319,16 +340,25 @@ def main() -> None:
                 f"Article {a['id']} quiz distribution still invalid after shuffle: {counts}"
             )
 
-    # Build and write per-article public + archive files.
+    # Build per-article payloads and re-validate every URL as BBC-only BEFORE
+    # writing anything to disk (defense in depth on top of validate_article).
     article_payloads = {}
     for a in articles:
         payload = build_article_payload(a, date, generated_at)
+        assert_bbc_url(payload["url"], f"articles/{date}-{a['id']}.json")
         article_payloads[a["id"]] = payload
+
+    # today.json index — verify each entry URL before it is written.
+    today = build_today_index(articles, date, generated_at)
+    for entry in today["articles"]:
+        assert_bbc_url(entry["url"], "today.json")
+
+    # Now that all URLs are confirmed BBC, write the per-article + archive files.
+    for a in articles:
+        payload = article_payloads[a["id"]]
         write_json(articles_dir / f"{date}-{a['id']}.json", payload)
         write_json(archive_dir / f"{date}-{a['id']}.json", payload)
 
-    # today.json index.
-    today = build_today_index(articles, date, generated_at)
     write_json(data_dir / "today.json", today)
 
     # latest.json backward-compatibility copy of the default (B) level.
@@ -341,6 +371,7 @@ def main() -> None:
         "level_mode": "B1-C1",
         "quiz_enabled": True,
     }
+    assert_bbc_url(latest["url"], "latest.json")
     write_json(data_dir / "latest.json", latest)
 
     print("\nSummary:")

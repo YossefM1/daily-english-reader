@@ -44,6 +44,54 @@ DEFAULT_BBC_FEEDS = [
     "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
 ]
 
+# ── Strict BBC-only guard ─────────────────────────────────────────────────────
+# The project is BBC-only. The Tampermonkey overlay supports BBC pages only, so
+# non-BBC articles (Guardian, NPR, Ars Technica, Yahoo, …) MUST NEVER become
+# candidates. Enforce this by URL hostname, not by feed name or trust.
+#
+# Published article URLs must have exactly one of these hostnames:
+BBC_ARTICLE_HOSTS = {"bbc.com", "www.bbc.com", "bbc.co.uk", "www.bbc.co.uk"}
+# BBC feeds are served from feeds.bbci.co.uk (a BBC-owned domain); article links
+# they contain resolve to the bbc.com / bbc.co.uk hosts above.
+BBC_FEED_HOST_SUFFIXES = ("bbci.co.uk", "bbc.co.uk", "bbc.com")
+
+
+def host_of(url: str) -> str:
+    return urlparse(url).netloc.lower()
+
+
+def is_bbc_article_url(url: str) -> bool:
+    """True only for the strict BBC article hostname allow-list."""
+    return host_of(url) in BBC_ARTICLE_HOSTS
+
+
+def is_bbc_feed(feed_url: str) -> bool:
+    """True if a feed lives on a BBC-owned domain (feeds.bbci.co.uk etc.)."""
+    host = host_of(feed_url)
+    return any(host == s or host.endswith("." + s) for s in BBC_FEED_HOST_SUFFIXES)
+
+
+def resolve_feeds() -> List[str]:
+    """Return the BBC-only feed list, ignoring any non-BBC ambient RSS_FEEDS.
+
+    In BBC-only mode we NEVER honour a non-BBC feed, even if it is set in the
+    RSS_FEEDS environment variable. To guarantee enough topic/length variety for
+    A/B/C selection, we ALWAYS use the full DEFAULT_BBC_FEEDS set and merge in
+    any *extra* BBC feeds found in RSS_FEEDS. Non-BBC feeds are dropped with a
+    warning and can never narrow or replace the default BBC set.
+    """
+    feeds: List[str] = list(DEFAULT_BBC_FEEDS)
+    for f in split_env_list(os.getenv("RSS_FEEDS", "")):
+        if is_bbc_feed(f):
+            if f not in feeds:
+                feeds.append(f)
+        else:
+            print(
+                f"WARNING: ignoring non-BBC feed from RSS_FEEDS (BBC-only mode): {f}",
+                file=sys.stderr,
+            )
+    return feeds
+
 # How many links to consider per feed, and how many successful candidates to
 # collect before stopping. Tunable via environment variables.
 LINKS_PER_FEED = int(os.getenv("LINKS_PER_FEED", "5") or "5")
@@ -110,6 +158,15 @@ def build_candidates(records: List[Dict[str, str]]) -> List[Dict[str, object]]:
             break
 
         url = rec["url"]
+        # Strict BBC-only gate: reject any candidate whose article URL is not a
+        # BBC hostname, regardless of which feed it came from.
+        if not is_bbc_article_url(url):
+            print(
+                f"WARNING: rejecting non-BBC candidate URL (BBC-only mode): "
+                f"{url} (host {host_of(url)!r})",
+                file=sys.stderr,
+            )
+            continue
         try:
             article = extract_article(url)
         except Exception as exc:  # noqa: BLE001 — skip unextractable articles
@@ -143,13 +200,26 @@ def main() -> None:
     output_dir = Path(os.getenv("OUTPUT_DIR", "data"))
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    feeds = split_env_list(os.getenv("RSS_FEEDS", "")) or DEFAULT_BBC_FEEDS
+    feeds = resolve_feeds()
 
     records = collect_feed_links(feeds)
     candidates = build_candidates(records)
 
     if not candidates:
         raise RuntimeError("No usable candidates extracted from any feed.")
+
+    # Final defensive sweep: absolutely no non-BBC URL may survive into
+    # candidates.json (the build step and the userscript both assume BBC-only).
+    non_bbc = [c for c in candidates if not is_bbc_article_url(c["url"])]
+    if non_bbc:
+        for c in non_bbc:
+            print(
+                f"WARNING: dropping non-BBC candidate before save: {c['url']}",
+                file=sys.stderr,
+            )
+        candidates = [c for c in candidates if is_bbc_article_url(c["url"])]
+    if not candidates:
+        raise RuntimeError("No BBC candidates available after strict BBC-only filtering.")
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),

@@ -51,6 +51,24 @@ Browser (Tampermonkey userscript)
   → injects a Hebrew sidebar with Words + Quiz tabs and the selected level
 ```
 
+## BBC-only source rule (hard requirement)
+
+This project is **BBC-only**. The Tampermonkey overlay only runs on BBC article
+pages, so any non-BBC article silently shows no vocabulary/quiz overlay.
+
+- **Guardian, NPR, Ars Technica, Yahoo, and every other non-BBC source are
+  forbidden.** They must never appear in `data/candidates.json`,
+  `data/learning_articles.json`, or any public `docs/data/*.json` file.
+- Every published article URL (A, B, and C) must have exactly one of these
+  hostnames: `bbc.com`, `www.bbc.com`, `bbc.co.uk`, `www.bbc.co.uk`.
+- Any ambient `RSS_FEEDS` environment variable listing non-BBC feeds is ignored
+  and overridden in BBC-only mode. `src/fetch_articles.py` drops non-BBC feeds
+  and non-BBC candidate URLs (with a printed warning); `src/build_today_json.py`
+  fails the build if any public URL is not BBC. Do not work around these guards.
+- If fewer than 3 BBC candidates are available, **fetch more BBC candidates**
+  (add BBC feeds, raise `LINKS_PER_FEED`) or **fail the run clearly**. It is
+  never acceptable to fill A/B/C with a non-BBC article to reach three.
+
 ## Important implementation notes
 
 - Do NOT generate a standalone article HTML page.
