@@ -13,7 +13,8 @@
     "source_mode": "BBC-only",
     "vocabulary_count": 25,
     "level_mode": "B1-C1",
-    "quiz_enabled": true
+    "quiz_enabled": true,
+    "task_count": 10
   },
   "words": [
     {
@@ -592,6 +593,116 @@
       ],
       "correct_answer": "אַקְלִימִים",
       "explanation_hebrew": "“climates” פירושו אַקְלִימִים. סוגי מזג האוויר האופייניים לאזור."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main idea of the BBC article “'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet”?",
+      "difficulty": "B",
+      "options": [
+        "The article’s central event or claim",
+        "A minor background detail only",
+        "An unrelated opinion not supported by the article",
+        "A topic not discussed in the article"
+      ],
+      "correct_answer": "The article’s central event or claim",
+      "explanation_hebrew": "בחר/י בתשובה הנתמכת בצורה הברורה ביותר בפרטים שבכתבה."
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which detail best identifies the main event or situation described in the article?",
+      "difficulty": "B",
+      "options": [
+        "The article’s central event or claim",
+        "A minor background detail only",
+        "An unrelated opinion not supported by the article",
+        "A topic not discussed in the article"
+      ],
+      "correct_answer": "The article’s central event or claim",
+      "explanation_hebrew": "בחר/י בתשובה הנתמכת בצורה הברורה ביותר בפרטים שבכתבה."
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which detail from the article is most important for understanding what happened?",
+      "difficulty": "B",
+      "options": [
+        "The article’s central event or claim",
+        "A minor background detail only",
+        "An unrelated opinion not supported by the article",
+        "A topic not discussed in the article"
+      ],
+      "correct_answer": "The article’s central event or claim",
+      "explanation_hebrew": "בחר/י בתשובה הנתמכת בצורה הברורה ביותר בפרטים שבכתבה."
+    },
+    {
+      "id": "B-task-4",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two factual details from the article and explain why they matter. Answer in 2–4 sentences and connect causes or results.",
+      "difficulty": "B",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה."
+    },
+    {
+      "id": "B-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What can a reader infer from the reactions or consequences described in the article? Answer in 2–4 sentences and connect causes or results.",
+      "difficulty": "B",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה."
+    },
+    {
+      "id": "B-task-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Which inference is best supported by the information in the article?",
+      "difficulty": "B",
+      "options": [
+        "A conclusion supported by details in the article",
+        "A guess with no evidence",
+        "A direct quotation only",
+        "A personal preference unrelated to the report"
+      ],
+      "correct_answer": "A conclusion supported by details in the article",
+      "explanation_hebrew": "בחר/י בתשובה הנתמכת בצורה הברורה ביותר בפרטים שבכתבה."
+    },
+    {
+      "id": "B-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Choose one important word or phrase from the article and explain its meaning from context. Answer in 2–4 sentences and connect causes or results.",
+      "difficulty": "B",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה."
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–120 word summary. Include the main event, key details, and result without copying sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה. הסיכום צריך לכלול רעיון מרכזי, פרטים חשובים ותוצאה/משמעות."
+    },
+    {
+      "id": "B-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a response explaining what you found most important or surprising in the article. Answer in 2–4 sentences and connect causes or results.",
+      "difficulty": "B",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה. שים/י לב לדקדוק, סדר רעיונות ונימוק קצר."
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write one follow-up question you would ask after reading the article, then explain why it matters. Answer in 2–4 sentences and connect causes or results.",
+      "difficulty": "B",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה. שים/י לב לדקדוק, סדר רעיונות ונימוק קצר."
     }
   ]
 }

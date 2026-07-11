@@ -12,7 +12,8 @@
   "settings": {
     "source_mode": "BBC-only",
     "vocabulary_count": 25,
-    "quiz_enabled": true
+    "quiz_enabled": true,
+    "task_count": 10
   },
   "words": [
     {
@@ -591,6 +592,116 @@
       ],
       "correct_answer": "חָשַׂף, גילה",
       "explanation_hebrew": "“revealed” פירושו חָשַׂף, גילה. הראה או הפך לגלוי דבר שהיה נסתר."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main idea of the BBC article “New dinosaur species as long as cricket pitch discovered in Thailand”?",
+      "difficulty": "A",
+      "options": [
+        "The article’s central event or claim",
+        "A minor background detail only",
+        "An unrelated opinion not supported by the article",
+        "A topic not discussed in the article"
+      ],
+      "correct_answer": "The article’s central event or claim",
+      "explanation_hebrew": "בחר/י בתשובה הנתמכת בצורה הברורה ביותר בפרטים שבכתבה."
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which detail best identifies the main event or situation described in the article?",
+      "difficulty": "A",
+      "options": [
+        "The article’s central event or claim",
+        "A minor background detail only",
+        "An unrelated opinion not supported by the article",
+        "A topic not discussed in the article"
+      ],
+      "correct_answer": "The article’s central event or claim",
+      "explanation_hebrew": "בחר/י בתשובה הנתמכת בצורה הברורה ביותר בפרטים שבכתבה."
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which detail from the article is most important for understanding what happened?",
+      "difficulty": "A",
+      "options": [
+        "The article’s central event or claim",
+        "A minor background detail only",
+        "An unrelated opinion not supported by the article",
+        "A topic not discussed in the article"
+      ],
+      "correct_answer": "The article’s central event or claim",
+      "explanation_hebrew": "בחר/י בתשובה הנתמכת בצורה הברורה ביותר בפרטים שבכתבה."
+    },
+    {
+      "id": "A-task-4",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two factual details from the article and explain why they matter. Answer in 1–3 simple sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה."
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What can a reader infer from the reactions or consequences described in the article? Answer in 1–3 simple sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה."
+    },
+    {
+      "id": "A-task-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Which inference is best supported by the information in the article?",
+      "difficulty": "A",
+      "options": [
+        "A conclusion supported by details in the article",
+        "A guess with no evidence",
+        "A direct quotation only",
+        "A personal preference unrelated to the report"
+      ],
+      "correct_answer": "A conclusion supported by details in the article",
+      "explanation_hebrew": "בחר/י בתשובה הנתמכת בצורה הברורה ביותר בפרטים שבכתבה."
+    },
+    {
+      "id": "A-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Choose one important word or phrase from the article and explain its meaning from context. Answer in 1–3 simple sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה."
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 50–80 word summary. Include the main event, key details, and result without copying sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה. הסיכום צריך לכלול רעיון מרכזי, פרטים חשובים ותוצאה/משמעות."
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a response explaining what you found most important or surprising in the article. Answer in 1–3 simple sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה. שים/י לב לדקדוק, סדר רעיונות ונימוק קצר."
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write one follow-up question you would ask after reading the article, then explain why it matters. Answer in 1–3 simple sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים מהכתבה, לא להעתיק טקסט מלא, ולהיות כתובה באנגלית ברורה. שים/י לב לדקדוק, סדר רעיונות ונימוק קצר."
     }
   ]
 }

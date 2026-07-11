@@ -38,7 +38,7 @@ Claude Code Routine (cloud)
         A — Easier English       (prefer 300–600 words)
         B — Intermediate English (prefer 500–900 words, default level)
         C — Advanced English     (prefer 800–1400 words)
-  → Claude creates 25 vocabulary words + 25 quiz questions per article
+  → Claude creates 25 vocabulary words + 25 quiz questions + 10 reading-comprehension tasks per article
   → saves data/learning_articles.json (internal, gitignored)
   → build_today_json.py writes public metadata to docs/data/
 
@@ -317,3 +317,14 @@ Do NOT merge with a merge commit.
 Do NOT manually resolve conflicts during the routine.
 
 If any command fails, stop and report the exact failure.
+
+
+## Adaptive reading-comprehension tasks
+
+The daily routine must read `config/learning_focus.json` before generating `data/learning_articles.json`. The file contains `preferred_level` (`A`, `B`, or `C`) and `question_focus` (`balanced`, `main_idea`, `factual_details`, `inference`, `vocabulary_context`, `summary`, or `written_expression`). The selected focus affects the next daily run only; it must not rewrite already-published questions.
+
+For each selected BBC article, generate exactly 10 reading-comprehension `tasks` and keep all public output metadata-only (never publish full article text). Balanced mode uses: 1 main idea, 3 factual detail, 2 inference, 1 vocabulary-in-context, 1 summary, and 2 written-expression tasks. Focused modes may shift the mix, but must keep at least one main-idea task and one summary task. Level A tasks are direct and short; Level B tasks mix details, causes, and consequences; Level C tasks are analytical, evidence-based, and context-aware.
+
+The daily routine may update only daily data files during normal content generation: `docs/data/today.json`, `docs/data/articles/YYYY-MM-DD-{A,B,C}.json`, `docs/data/latest.json`, and archive copies. It must not modify `docs/index.html`, `docs/tasks.html`, the userscript, workflows, or source code during a daily content run.
+
+The Reading Tasks page stores answers only in browser `localStorage` and exports an assessment package by copying text and opening the user's own ChatGPT account. No OpenAI API, Claude API, GitHub token, or secret is used in client-side JavaScript. The owner can request the next focus through a GitHub issue titled `[Reader Focus] YYYY-MM-DD`; `.github/workflows/apply-reader-focus.yml` applies it only when the issue actor is `YossefM1` and the JSON validates.
