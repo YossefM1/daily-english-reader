@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-11",
+  "article_id": "C",
+  "article_title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+  "article_url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "balanced",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly analysing about Jordan Bardella?",
+      "options": [
+        "How Bardella became France’s youngest president after winning an election",
+        "How Bardella left National Rally to join President Macron’s party",
+        "How Marine Le Pen’s renewed presidential path pushes Bardella back into a supporting role",
+        "How Le Pen retired permanently and named Bardella as her replacement"
+      ],
+      "correct_answer": "How Marine Le Pen’s renewed presidential path pushes Bardella back into a supporting role",
+      "explanation_hebrew": "הכתבה מנתחת כיצד חזרתה של לה פן למרכז הזירה דוחקת את ברדלה לתפקיד משני.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What event changed Bardella’s immediate political prospects, according to the article?",
+      "options": [
+        "A referendum abolished the French presidency",
+        "Bardella lost his seat in the European Parliament",
+        "National Rally voted to dissolve itself before 2027",
+        "A court development left Marine Le Pen able to pursue the 2027 presidency"
+      ],
+      "correct_answer": "A court development left Marine Le Pen able to pursue the 2027 presidency",
+      "explanation_hebrew": "המפנה הוא התפתחות משפטית שאפשרה ללה פן להמשיך לכוון לנשיאות 2027.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which role is Bardella more likely to occupy if Le Pen leads the presidential campaign?",
+      "options": [
+        "A deputy or possible prime-ministerial figure behind Le Pen",
+        "The official candidate of the Socialist Party",
+        "An independent judge in Le Pen’s appeal",
+        "The head of a BBC election desk"
+      ],
+      "correct_answer": "A deputy or possible prime-ministerial figure behind Le Pen",
+      "explanation_hebrew": "הכתבה מציגה את ברדלה כמי שחוזר לצללים או לתפקיד משני/בכיר תחת לה פן.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two facts from the article that show Bardella had been preparing for a larger role. Answer in 3–6 sentences.",
+      "rubric_hebrew": "התשובה צריכה להביא שתי עובדות מהכתבה ולהסביר כיצד הן מצביעות על שאיפה פוליטית רחבה יותר.",
+      "expected_points": [
+        "He had been viewed as a possible replacement or successor",
+        "He cultivated a national/profile-building image",
+        "His recent activity suggested readiness for a presidential-level role"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What tension inside National Rally can be inferred from Bardella returning to a secondary position? Answer in 3–6 sentences and use evidence from the article.",
+      "rubric_hebrew": "התשובה צריכה להסביר מתח בין נאמנות ללה פן לבין שאיפות הדור הבא במפלגה.",
+      "expected_points": [
+        "Le Pen remains dominant",
+        "Bardella represents a younger alternative",
+        "Supporters may have expected him to step forward",
+        "Party unity may require him to accept a lesser role"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article frame Bardella as returning “to the shadows”?",
+      "options": [
+        "Because he has stopped participating in French politics altogether",
+        "Because his public ambitions are constrained while Le Pen retakes the spotlight",
+        "Because he is moving from politics into fossil research",
+        "Because he has become the leader of a secret court investigation"
+      ],
+      "correct_answer": "Because his public ambitions are constrained while Le Pen retakes the spotlight",
+      "explanation_hebrew": "הביטוי מדגיש שהבמה חוזרת ללה פן וברדלה נדרש להמתין.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "In this political article, what does “deputy” imply about Bardella’s relationship to Le Pen? Answer in 3–6 sentences.",
+      "rubric_hebrew": "התשובה צריכה להסביר שהמילה מציינת תפקיד בכיר אך משני, עם תלות במנהיגה המרכזית.",
+      "expected_points": [
+        "He is senior in the movement",
+        "He is subordinate or second to Le Pen",
+        "His prospects depend partly on her choices and legal/political position"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 120–170 word summary of the article, focusing on political consequences rather than biography alone.",
+      "rubric_hebrew": "הסיכום צריך לכלול את המצב המשפטי/פוליטי של לה פן, השפעתו על ברדלה, והמשמעות למפלגת האיחוד הלאומי.",
+      "expected_points": [
+        "Le Pen’s path to 2027",
+        "Bardella’s delayed ambitions",
+        "Internal party consequences",
+        "Possible supporting or prime-ministerial role",
+        "Broader far-right strategy/context"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–6 sentences evaluating whether Bardella benefits or loses from waiting behind Le Pen. Support both sides briefly.",
+      "rubric_hebrew": "התשובה צריכה להציג טיעון מאוזן, עם יתרון אפשרי וחיסרון אפשרי המבוססים על הכתבה.",
+      "expected_points": [
+        "Potential benefit: time, loyalty, experience, future role",
+        "Potential cost: lost momentum or autonomy",
+        "Evidence-based conclusion"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write one analytical question the article leaves open about National Rally’s future, and explain why that question matters.",
+      "rubric_hebrew": "התשובה צריכה לנסח שאלה פוליטית עמוקה ולהסביר את חשיבותה להמשך המפלגה או הבחירות.",
+      "expected_points": [
+        "Question about leadership, unity, strategy, or succession",
+        "Explanation of political significance",
+        "Connection to Le Pen-Bardella relationship"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

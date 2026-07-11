@@ -10,8 +10,8 @@ reading levels every day (A / B / C)**.
 
 Every day, a Claude Code Routine fetches many BBC article candidates and selects
 **three** by difficulty — A (easier), B (intermediate), C (advanced). For each,
-it publishes Hebrew vocabulary, a quiz, and reading-comprehension tasks as metadata to GitHub Pages. A
-Tampermonkey userscript loads that metadata and injects a learning overlay
+it publishes Hebrew vocabulary and a quiz as metadata to GitHub Pages. A later Codex task run publishes separate reading-comprehension task metadata. The
+Tampermonkey userscript loads the vocabulary and quiz metadata and injects a learning overlay
 directly on whichever of the three BBC articles you open, with two tabs:
 **Words** and **Quiz**.
 
@@ -35,7 +35,11 @@ Claude Code Routine (runs in the cloud each day)
   └─ src/fetch_articles.py    → fetches MANY BBC candidates → data/candidates.json
   └─ Claude selects A/B/C      → data/learning_articles.json (25 words + 25 quiz each)
   └─ src/build_today_json.py   → writes docs/data/today.json + per-article + latest.json + archive
-  └─ git push                  → publishes metadata to GitHub Pages
+  └─ git push                  → publishes article/vocabulary/quiz metadata to GitHub Pages
+
+Codex Task Run (after Claude)
+  └─ reads today.json + BBC article URLs + private learner profile
+  └─ writes docs/data/tasks/task-index.json + YYYY-MM-DD-{A,B,C}.json
 
 Browser (your machine)
   └─ Tampermonkey userscript
@@ -260,12 +264,15 @@ RSS parsing uses the Python standard library — **feedparser is not used** (its
 - Mobile-friendly sidebar layout.
 
 
-## Adaptive reading-comprehension tasks
+## Reading-comprehension tasks
 
-The daily routine must read `config/learning_focus.json` before generating `data/learning_articles.json`. The file contains `preferred_level` (`A`, `B`, or `C`) and `question_focus` (`balanced`, `main_idea`, `factual_details`, `inference`, `vocabulary_context`, `summary`, or `written_expression`). The selected focus affects the next daily run only; it must not rewrite already-published questions.
+Reading-comprehension tasks are published separately from Claude's article/vocabulary/quiz metadata. Claude selects BBC-only A/B/C articles and generates 25 vocabulary words plus 25 vocabulary quiz questions per article. A later Codex task-generation run reads the already-published BBC article URLs, uses the private learner profile when available, and writes only task metadata to `docs/data/tasks/`.
 
-For each selected BBC article, generate exactly 10 reading-comprehension `tasks` and keep all public output metadata-only (never publish full article text). Balanced mode uses: 1 main idea, 3 factual detail, 2 inference, 1 vocabulary-in-context, 1 summary, and 2 written-expression tasks. Focused modes may shift the mix, but must keep at least one main-idea task and one summary task. Level A tasks are direct and short; Level B tasks mix details, causes, and consequences; Level C tasks are analytical, evidence-based, and context-aware.
+Current public task files:
 
-The daily routine may update only daily data files during normal content generation: `docs/data/today.json`, `docs/data/articles/YYYY-MM-DD-{A,B,C}.json`, `docs/data/latest.json`, and archive copies. It must not modify `docs/index.html`, `docs/tasks.html`, the userscript, workflows, or source code during a daily content run.
+- `docs/data/tasks/task-index.json` — task index for the selected A/B/C articles.
+- `docs/data/tasks/YYYY-MM-DD-A.json`, `-B.json`, `-C.json` — ten article-specific tasks per article.
 
-The Reading Tasks page stores answers only in browser `localStorage` and exports an assessment package by copying text and opening the user's own ChatGPT account. No OpenAI API, Claude API, GitHub token, or secret is used in client-side JavaScript. The owner can request the next focus through a GitHub issue titled `[Reader Focus] YYYY-MM-DD`; `.github/workflows/apply-reader-focus.yml` applies it only when the issue actor is `YossefM1` and the JSON validates.
+The real learner profile is not committed to this public repository. Only schemas and examples are included under `schemas/` and `examples/`. Manual focus in `config/learning_focus.json` is an override only, not the learner profile. Priority is: recent manual override, private learner profile, then default `A` / `balanced` with low confidence.
+
+The Reading Tasks page stores answers and pasted assessment JSON in browser `localStorage`. It can copy a structured prompt for the user's own ChatGPT account and can download validated assessment JSON, but it does not call the OpenAI API, Claude API, GitHub API, or send answers/assessments to GitHub automatically.

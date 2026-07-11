@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-11",
+  "article_id": "A",
+  "article_title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+  "article_url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "balanced",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where were the dinosaur fossils described in the article discovered?",
+      "options": [
+        "In north-eastern Thailand",
+        "In southern France",
+        "In western Australia",
+        "In northern Canada"
+      ],
+      "correct_answer": "In north-eastern Thailand",
+      "explanation_hebrew": "הכתבה עוסקת במאובנים שהתגלו בצפון־מזרח תאילנד.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What kind of dinosaur does the article describe?",
+      "options": [
+        "A small feathered meat-eating dinosaur",
+        "A giant long-necked plant-eating dinosaur",
+        "A sea reptile with flippers",
+        "A flying reptile with a long beak"
+      ],
+      "correct_answer": "A giant long-necked plant-eating dinosaur",
+      "explanation_hebrew": "הדינוזאור מתואר כסאורופוד ענק בעל צוואר ארוך ואוכל צמחים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main point of the dinosaur article?",
+      "options": [
+        "A museum in Thailand opened a new cricket exhibition",
+        "Researchers proved dinosaurs first evolved in Europe",
+        "Scientists identified a new giant dinosaur species from fossils found in Thailand",
+        "A Thai village banned fossil digging near a pond"
+      ],
+      "correct_answer": "Scientists identified a new giant dinosaur species from fossils found in Thailand",
+      "explanation_hebrew": "הרעיון המרכזי הוא זיהוי מין חדש של דינוזאור ענק על סמך מאובנים מתאילנד.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two details that show why the fossil discovery is important. Answer in 1–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה לציין שני פרטים ממשיים מן הכתבה ולהסביר בקצרה את חשיבותם.",
+      "expected_points": [
+        "The dinosaur was very large/about the length of a cricket pitch",
+        "It was a newly identified species",
+        "It adds evidence about dinosaurs in Thailand or Southeast Asia"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might scientists be careful before naming a new dinosaur species from fossils? Answer in 1–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה להסביר בזהירות שמדענים צריכים ראיות אנטומיות מספיקות ולא רק רושם כללי.",
+      "expected_points": [
+        "Fossils can be incomplete",
+        "Scientists compare bone features with known species",
+        "A new name needs evidence that the animal is distinct"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What can readers infer from the article’s focus on the dinosaur’s size?",
+      "options": [
+        "The dinosaur was probably kept in a modern Thai zoo",
+        "The fossils were found during a cricket match",
+        "Scientists already had a complete skeleton from Canada",
+        "The discovery may be important for understanding large dinosaurs in the region"
+      ],
+      "correct_answer": "The discovery may be important for understanding large dinosaurs in the region",
+      "explanation_hebrew": "הדגשת הגודל מראה שהממצא עשוי להיות חשוב להבנת דינוזאורים גדולים באזור.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "In this article, what does “fossils” mean, and how do the fossils help scientists? Answer in 1–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה להסביר את משמעות המילה בהקשר ולחבר אותה לתפקיד המאובנים במחקר.",
+      "expected_points": [
+        "Fossils are preserved remains or traces of ancient life",
+        "They provide evidence about the dinosaur’s body",
+        "They help identify or compare the species"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 50–80 word summary of the article without copying sentences.",
+      "rubric_hebrew": "הסיכום צריך לכלול את הממצא, המקום, סוג הדינוזאור ולמה הוא חשוב.",
+      "expected_points": [
+        "New dinosaur species",
+        "Thailand/north-eastern Thailand",
+        "Large long-necked dinosaur",
+        "Scientific importance of fossil evidence"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 1–3 sentences explaining what you found most interesting about this discovery.",
+      "rubric_hebrew": "התשובה צריכה להיות באנגלית ברורה, עם סיבה אחת לפחות שמבוססת על הכתבה.",
+      "expected_points": [
+        "Clear opinion",
+        "Reason connected to dinosaur size, location, or scientific discovery"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write one question you would ask the scientists about the dinosaur, and explain why the answer would matter.",
+      "rubric_hebrew": "התשובה צריכה לכלול שאלה רלוונטית והסבר קצר לחשיבותה.",
+      "expected_points": [
+        "Relevant follow-up question",
+        "Explanation of why it matters for understanding the dinosaur or discovery"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}

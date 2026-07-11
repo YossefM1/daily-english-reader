@@ -41,7 +41,6 @@ EXPECTED_ARTICLE_COUNT = 3
 EXPECTED_IDS = ["A", "B", "C"]
 EXPECTED_WORD_COUNT = 25
 EXPECTED_QUIZ_COUNT = 25
-EXPECTED_TASK_COUNT = 10
 QUIZ_OPTION_COUNT = 4
 
 LEVEL_LABELS = {
@@ -59,13 +58,6 @@ REQUIRED_QUIZ_FIELDS = {
     "id", "word", "type", "question",
     "options", "correct_answer", "explanation_hebrew",
 }
-
-ALLOWED_TASK_CATEGORIES = {
-    "main_idea", "factual_details", "inference",
-    "vocabulary_context", "summary", "written_expression",
-}
-ALLOWED_TASK_TYPES = {"multiple_choice", "short_answer", "summary", "written_response"}
-REQUIRED_TASK_FIELDS = {"id", "category", "type", "prompt", "difficulty"}
 
 # Distribution rules for correct-answer positions within one article's quiz.
 # With 25 questions the correct answer should span all 4 option positions, with
@@ -181,13 +173,10 @@ def validate_article(article: dict, expected_id: str) -> None:
 
     words = article.get("words")
     quiz = article.get("quiz")
-    tasks = article.get("tasks")
     if not isinstance(words, list):
         raise ValueError(f"Article {expected_id} 'words' must be a JSON array")
     if not isinstance(quiz, list):
         raise ValueError(f"Article {expected_id} 'quiz' must be a JSON array")
-    if not isinstance(tasks, list):
-        raise ValueError(f"Article {expected_id} 'tasks' must be a JSON array")
 
     if len(words) != EXPECTED_WORD_COUNT:
         raise ValueError(
@@ -197,11 +186,6 @@ def validate_article(article: dict, expected_id: str) -> None:
         raise ValueError(
             f"Article {expected_id} has {len(quiz)} quiz questions "
             f"(need exactly {EXPECTED_QUIZ_COUNT})"
-        )
-    if len(tasks) != EXPECTED_TASK_COUNT:
-        raise ValueError(
-            f"Article {expected_id} has {len(tasks)} reading tasks "
-            f"(need exactly {EXPECTED_TASK_COUNT})"
         )
 
     word_set = set()
@@ -242,41 +226,6 @@ def validate_article(article: dict, expected_id: str) -> None:
                 f"Article {expected_id} quiz {qid} word {q['word']!r} is not in that "
                 f"article's words list"
             )
-
-    seen_task_ids = set()
-    for i, task in enumerate(tasks):
-        if not isinstance(task, dict):
-            raise ValueError(f"Article {expected_id} task #{i} must be a JSON object")
-        missing = REQUIRED_TASK_FIELDS - set(task.keys())
-        if missing:
-            raise ValueError(f"Article {expected_id} task #{i} missing fields: {sorted(missing)}")
-        extra_text_fields = {"text", "article_text", "full_text", "content", "body"} & set(task.keys())
-        if extra_text_fields:
-            raise ValueError(f"Article {expected_id} task {task.get('id')} must not publish article text fields: {sorted(extra_text_fields)}")
-        tid = task["id"]
-        if tid in seen_task_ids:
-            raise ValueError(f"Article {expected_id} task #{i} has duplicate id: {tid!r}")
-        seen_task_ids.add(tid)
-        if task["category"] not in ALLOWED_TASK_CATEGORIES:
-            raise ValueError(f"Article {expected_id} task {tid} has invalid category: {task['category']!r}")
-        if task["type"] not in ALLOWED_TASK_TYPES:
-            raise ValueError(f"Article {expected_id} task {tid} has invalid type: {task['type']!r}")
-        if task["difficulty"] != expected_id:
-            raise ValueError(f"Article {expected_id} task {tid} difficulty must be {expected_id!r}")
-        if not str(task.get("prompt", "")).strip():
-            raise ValueError(f"Article {expected_id} task {tid} prompt is required")
-        if task["type"] == "multiple_choice":
-            options = task.get("options")
-            if not isinstance(options, list) or len(options) != QUIZ_OPTION_COUNT:
-                raise ValueError(f"Article {expected_id} task {tid} must have exactly {QUIZ_OPTION_COUNT} options")
-            if len(set(options)) != QUIZ_OPTION_COUNT:
-                raise ValueError(f"Article {expected_id} task {tid} has duplicate options")
-            if task.get("correct_answer") not in options:
-                raise ValueError(f"Article {expected_id} task {tid} correct_answer is not one of its options")
-            if not str(task.get("explanation_hebrew", "")).strip():
-                raise ValueError(f"Article {expected_id} task {tid} needs explanation_hebrew")
-        elif not str(task.get("rubric_hebrew", "")).strip():
-            raise ValueError(f"Article {expected_id} task {tid} needs rubric_hebrew")
 
 
 def validate_and_index(raw: dict) -> List[dict]:
@@ -326,11 +275,9 @@ def build_article_payload(article: dict, date: str, generated_at: str) -> dict:
             "source_mode": "BBC-only",
             "vocabulary_count": EXPECTED_WORD_COUNT,
             "quiz_enabled": True,
-            "task_count": EXPECTED_TASK_COUNT,
         },
         "words": article["words"],
         "quiz": article["quiz"],
-        "tasks": article["tasks"],
     }
 
 
@@ -351,7 +298,6 @@ def build_today_index(articles: List[dict], date: str, generated_at: str) -> dic
                 "data_url": f"data/articles/{date}-{aid}.json",
                 "vocabulary_count": len(a["words"]),
                 "quiz_count": len(a["quiz"]),
-                "task_count": len(a["tasks"]),
             }
         )
     return {

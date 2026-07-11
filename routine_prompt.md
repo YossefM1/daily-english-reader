@@ -181,12 +181,10 @@ After a successful run, report only:
   pushed to `main`.
 
 
-## Adaptive reading-comprehension tasks
+## Separation from Codex reading-task generation
 
-The daily routine must read `config/learning_focus.json` before generating `data/learning_articles.json`. The file contains `preferred_level` (`A`, `B`, or `C`) and `question_focus` (`balanced`, `main_idea`, `factual_details`, `inference`, `vocabulary_context`, `summary`, or `written_expression`). The selected focus affects the next daily run only; it must not rewrite already-published questions.
+Claude Code Routine responsibilities end after publishing BBC-only article metadata, 25 vocabulary words, and 25 vocabulary quiz questions per A/B/C article. Claude must not generate reading-comprehension tasks and must not update any learner profile.
 
-For each selected BBC article, generate exactly 10 reading-comprehension `tasks` and keep all public output metadata-only (never publish full article text). Balanced mode uses: 1 main idea, 3 factual detail, 2 inference, 1 vocabulary-in-context, 1 summary, and 2 written-expression tasks. Focused modes may shift the mix, but must keep at least one main-idea task and one summary task. Level A tasks are direct and short; Level B tasks mix details, causes, and consequences; Level C tasks are analytical, evidence-based, and context-aware.
+Reading-comprehension tasks are generated later by a separate Codex workflow after Claude's daily files are published. That Codex workflow may read the original BBC article text, private learner profile data, and assessment results, then publish separate task metadata under `docs/data/tasks/`.
 
-The daily routine may update only daily data files during normal content generation: `docs/data/today.json`, `docs/data/articles/YYYY-MM-DD-{A,B,C}.json`, `docs/data/latest.json`, and archive copies. It must not modify `docs/index.html`, `docs/tasks.html`, the userscript, workflows, or source code during a daily content run.
-
-The Reading Tasks page stores answers only in browser `localStorage` and exports an assessment package by copying text and opening the user's own ChatGPT account. No OpenAI API, Claude API, GitHub token, or secret is used in client-side JavaScript. The owner can request the next focus through a GitHub issue titled `[Reader Focus] YYYY-MM-DD`; `.github/workflows/apply-reader-focus.yml` applies it only when the issue actor is `YossefM1` and the JSON validates.
+During a normal Claude daily run, do not modify `docs/tasks.html`, `docs/data/tasks/`, learner-profile schemas/examples, workflows, userscript files, or source code.

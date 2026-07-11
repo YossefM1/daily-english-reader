@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Daily English Reader assessment result",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["session_date", "article_id", "article_level", "scores", "strengths", "areas_to_improve", "grammar_focus", "words_to_review", "recommended_level", "recommended_focus", "next_session_advice"],
+  "properties": {
+    "session_date": { "type": "string" },
+    "article_id": { "enum": ["A", "B", "C"] },
+    "article_level": { "enum": ["A", "B", "C"] },
+    "scores": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["main_idea", "factual_details", "inference", "vocabulary_context", "summary", "written_expression"],
+      "properties": {
+        "main_idea": { "type": "number", "minimum": 0, "maximum": 100 },
+        "factual_details": { "type": "number", "minimum": 0, "maximum": 100 },
+        "inference": { "type": "number", "minimum": 0, "maximum": 100 },
+        "vocabulary_context": { "type": "number", "minimum": 0, "maximum": 100 },
+        "summary": { "type": "number", "minimum": 0, "maximum": 100 },
+        "written_expression": { "type": "number", "minimum": 0, "maximum": 100 }
+      }
+    },
+    "strengths": { "type": "array", "items": { "type": "string" } },
+    "areas_to_improve": { "type": "array", "items": { "type": "string" } },
+    "grammar_focus": { "type": "array", "items": { "type": "string" } },
+    "words_to_review": { "type": "array", "items": { "type": "string" } },
+    "recommended_level": { "enum": ["A", "B", "C"] },
+    "recommended_focus": { "enum": ["balanced", "main_idea", "factual_details", "inference", "vocabulary_context", "summary", "written_expression"] },
+    "next_session_advice": { "type": "string" }
+  }
+}
