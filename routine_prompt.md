@@ -179,3 +179,12 @@ After a successful run, report only:
 - For each level A/B/C: article title, BBC URL, vocabulary count, quiz count.
 - Confirmation that `docs/data/today.json` (and per-article + latest.json) was
   pushed to `main`.
+
+
+## Separation from Codex reading-task generation
+
+Claude Code Routine responsibilities end after publishing BBC-only article metadata, 25 vocabulary words, and 25 vocabulary quiz questions per A/B/C article. Claude must not generate reading-comprehension tasks and must not update any learner profile.
+
+Reading-comprehension tasks are generated later by a separate Codex workflow after Claude's daily files are published. That Codex workflow may read the original BBC article text, private learner profile data, and assessment results, then publish separate task metadata under `docs/data/tasks/`.
+
+During a normal Claude daily run, do not modify `docs/tasks.html`, `docs/data/tasks/`, learner-profile schemas/examples, workflows, userscript files, or source code.

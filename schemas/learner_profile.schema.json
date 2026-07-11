@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Daily English Reader learner profile",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["profile_version", "recommended_level", "confidence", "skills", "grammar_focus", "words_to_review", "recent_sessions", "last_updated"],
+  "properties": {
+    "profile_version": { "type": "integer", "minimum": 1 },
+    "recommended_level": { "enum": ["A", "B", "C"] },
+    "confidence": { "enum": ["low", "medium", "high"] },
+    "skills": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["main_idea", "factual_details", "inference", "vocabulary_context", "summary", "written_expression"],
+      "properties": {
+        "main_idea": { "$ref": "#/$defs/skill" },
+        "factual_details": { "$ref": "#/$defs/skill" },
+        "inference": { "$ref": "#/$defs/skill" },
+        "vocabulary_context": { "$ref": "#/$defs/skill" },
+        "summary": { "$ref": "#/$defs/skill" },
+        "written_expression": { "$ref": "#/$defs/skill" }
+      }
+    },
+    "grammar_focus": { "type": "array", "items": { "type": "string" } },
+    "words_to_review": { "type": "array", "items": { "type": "string" } },
+    "recent_sessions": { "type": "array", "items": { "$ref": "#/$defs/session" } },
+    "last_updated": { "type": ["string", "null"], "format": "date-time" }
+  },
+  "$defs": {
+    "skill": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["score", "evidence_count", "trend"],
+      "properties": {
+        "score": { "type": ["number", "null"], "minimum": 0, "maximum": 100 },
+        "evidence_count": { "type": "integer", "minimum": 0 },
+        "trend": { "enum": ["unknown", "improving", "stable", "declining"] }
+      }
+    },
+    "session": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["date", "article_id", "article_level", "recommended_focus"],
+      "properties": {
+        "date": { "type": "string" },
+        "article_id": { "enum": ["A", "B", "C"] },
+        "article_level": { "enum": ["A", "B", "C"] },
+        "recommended_focus": { "enum": ["balanced", "main_idea", "factual_details", "inference", "vocabulary_context", "summary", "written_expression"] }
+      }
+    }
+  }
+}
