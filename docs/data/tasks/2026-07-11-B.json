@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-11",
+  "article_id": "B",
+  "article_title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+  "article_url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "balanced",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What problem is the article mainly warning readers about?",
+      "options": [
+        "A shortage of engineers who install central air systems",
+        "Misleading online adverts for cheap portable air conditioners",
+        "A new BBC test of expensive household refrigerators",
+        "A government ban on all portable cooling devices"
+      ],
+      "correct_answer": "Misleading online adverts for cheap portable air conditioners",
+      "explanation_hebrew": "הכתבה מזהירה מפני פרסומות מטעות למזגנים ניידים זולים ברשת.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What claim appears in the suspicious adverts discussed in the article?",
+      "options": [
+        "That the devices must be installed by a licensed plumber",
+        "That the devices are powered only by rooftop solar panels",
+        "That the devices can cool a space in about 90 seconds",
+        "That the devices were designed for industrial freezers"
+      ],
+      "correct_answer": "That the devices can cool a space in about 90 seconds",
+      "explanation_hebrew": "הכותרת והדיווח מתמקדים בטענה של קירור בתוך 90 שניות.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which organization is described as challenging or scrutinising these adverts?",
+      "options": [
+        "The World Health Organization",
+        "The British Museum",
+        "The International Cricket Council",
+        "The Advertising Standards Authority"
+      ],
+      "correct_answer": "The Advertising Standards Authority",
+      "explanation_hebrew": "הכתבה מזכירה את רשות תקני הפרסום כגורם שבוחן פרסומות מטעות.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two warning signs that an online portable-air-conditioner advert may be unreliable. Answer in 2–4 sentences.",
+      "rubric_hebrew": "התשובה צריכה לציין סימני אזהרה מהכתבה ולחבר אותם לסיכון לצרכן.",
+      "expected_points": [
+        "Very dramatic cooling claims",
+        "Fake or suspicious reviews",
+        "AI/generic images or unclear business details",
+        "Prices far below genuine units"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do heatwaves make this kind of advert more effective? Answer in 2–4 sentences.",
+      "rubric_hebrew": "התשובה צריכה להסביר קשר סיבה־תוצאה בין חום, לחץ צרכני והבטחות שיווקיות.",
+      "expected_points": [
+        "People urgently want cooling",
+        "Urgency reduces careful checking",
+        "Cheap fast solutions look attractive"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What is the best conclusion to draw about very cheap devices advertised as powerful air conditioners?",
+      "options": [
+        "They should be checked carefully because the claims may not match the product",
+        "They are always safer than buying from established retailers",
+        "They usually cool whole homes better than real air conditioners",
+        "They are approved automatically if many social media users share them"
+      ],
+      "correct_answer": "They should be checked carefully because the claims may not match the product",
+      "explanation_hebrew": "המסקנה הנתמכת היא שצריך לבדוק בזהירות טענות זולות ומוגזמות.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "In the article, what does “fake” suggest about the portable air conditioners or adverts? Answer in 2–4 sentences.",
+      "rubric_hebrew": "התשובה צריכה להסביר שהמילה מצביעה על מצג מטעה, לא בהכרח רק על מוצר שלא קיים.",
+      "expected_points": [
+        "Claims are misleading",
+        "Product may not perform as advertised",
+        "Consumers may be deceived by presentation or reviews"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–120 word summary of the article.",
+      "rubric_hebrew": "הסיכום צריך לכלול את הפרסומות, הטענות, הסיבה שהן בעייתיות, ומה צרכנים צריכים לבדוק.",
+      "expected_points": [
+        "Online adverts for portable AC units",
+        "90-second cooling or similar claims",
+        "Regulatory/consumer concern",
+        "Fake reviews or misleading presentation",
+        "Advice to verify before buying"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 2–4 sentences advising a friend who is about to buy one of these devices online.",
+      "rubric_hebrew": "התשובה צריכה לתת עצה מעשית באנגלית ולנמק אותה בעזרת הכתבה.",
+      "expected_points": [
+        "Check independent reviews",
+        "Verify seller/contact details",
+        "Be cautious about unrealistic claims",
+        "Compare with reputable retailers"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Paraphrase this idea in your own words: consumers should be sceptical of ads promising instant cooling for a very low price.",
+      "rubric_hebrew": "התשובה צריכה לשמור על המשמעות אך להשתמש בניסוח אנגלי מקורי וברור.",
+      "expected_points": [
+        "Same meaning retained",
+        "Clear paraphrase",
+        "Mentions scepticism, instant cooling claims, and unusually low price"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}

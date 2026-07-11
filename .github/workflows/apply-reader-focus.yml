@@ -1,0 +1,47 @@
+name: Apply Reader Focus
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  apply-focus:
+    if: github.actor == 'YossefM1' && startsWith(github.event.issue.title, '[Reader Focus]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Write issue body to file
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: printf '%s' "$ISSUE_BODY" > /tmp/reader-focus-issue.md
+      - name: Validate and apply focus
+        id: apply
+        continue-on-error: true
+        run: python scripts/apply_focus_issue.py --body-file /tmp/reader-focus-issue.md
+      - name: Comment on validation failure
+        if: steps.apply.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue comment "${{ github.event.issue.number }}" --body "Could not apply reader focus. Please check that the issue contains only preferred_level (A/B/C) and a valid question_focus in a fenced JSON block."
+      - name: Stop after validation failure
+        if: steps.apply.outcome == 'failure'
+        run: exit 1
+      - name: Commit and push focus
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/learning_focus.json docs/data/learning_focus.json
+          git commit -m "Apply reader focus from issue #${{ github.event.issue.number }}" || exit 0
+          git push origin HEAD:main
+      - name: Comment and close issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment "${{ github.event.issue.number }}" --body "Reader focus was applied for the next daily routine."
+          gh issue close "${{ github.event.issue.number }}" --comment "Closing after applying reader focus."

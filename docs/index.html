@@ -41,6 +41,10 @@
       font-size: 15px;
       direction: ltr;
     }
+    .top-nav { display: flex; justify-content: center; gap: 10px; margin-bottom: 22px; direction: ltr; }
+    .top-nav a { text-decoration: none; color: var(--brand); background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 8px 16px; font-weight: 700; font-size: 14px; }
+    .top-nav a.active { background: var(--brand); color: #fff; }
+
     header .mode {
       display: inline-block;
       margin-top: 12px;
@@ -261,6 +265,10 @@
 </head>
 <body>
   <div class="page-shell">
+    <nav class="top-nav" aria-label="Primary">
+      <a class="active" href="./index.html">Articles</a>
+      <a href="./tasks.html">Reading Tasks</a>
+    </nav>
     <header>
       <h1>📘 Daily English Reader</h1>
       <div class="subtitle">Read today's articles on the original BBC site — with a Hebrew vocabulary overlay</div>
