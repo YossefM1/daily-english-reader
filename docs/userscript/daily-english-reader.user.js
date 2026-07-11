@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.2.0
-// @description  Highlights vocabulary and shows a Hebrew sidebar with Words + Quiz tabs on today's selected BBC article (A/B/C levels)
+// @version      1.3.0
+// @description  Highlights vocabulary on today's selected BBC article (A/B/C levels); floating Vocabulary button toggles a Hebrew Words+Quiz sidebar, and clicking a highlighted word shows a small popup when the sidebar is closed
 // @author       YossefM1
 // @match        https://bbc.com/news
 // @match        https://www.bbc.com/news
@@ -67,7 +67,7 @@
 
   // Ids of elements we inject and must never re-process.
   const INJECTED_IDS = new Set([
-    'der-sidebar', 'der-toggle-btn', 'der-status-pill',
+    'der-sidebar', 'der-toggle-btn', 'der-status-pill', 'der-popup',
   ]);
 
   function log(...args) {
@@ -164,6 +164,83 @@
         font-family: Arial, sans-serif;
       }
       #der-toggle-btn:hover { background: #154360; }
+      #der-toggle-btn.der-active {
+        background: #0e2f42;
+        box-shadow: inset 0 0 0 2px #7fb2d6, 0 2px 8px rgba(0,0,0,0.3);
+      }
+      /* ── Word popup (sidebar-closed click) ── */
+      #der-popup {
+        position: fixed;
+        z-index: 2147483647;
+        width: 300px;
+        max-width: 92vw;
+        background: #fff;
+        border: 1px solid #d7dde3;
+        border-radius: 10px;
+        box-shadow: 0 6px 24px rgba(0,0,0,0.22);
+        padding: 12px 14px;
+        font-family: Arial, sans-serif;
+        box-sizing: border-box;
+      }
+      #der-popup .der-popup-head {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        direction: ltr;
+      }
+      #der-popup .der-popup-word {
+        font-size: 17px;
+        font-weight: 500;
+        color: #1a5276;
+        direction: ltr;
+        letter-spacing: 0.2px;
+      }
+      #der-popup .der-popup-level {
+        display: inline-block;
+        background: #e8f4fd;
+        color: #1a5276;
+        border-radius: 4px;
+        font-size: 11px;
+        padding: 1px 6px;
+      }
+      #der-popup .der-popup-hebrew {
+        font-size: 16px;
+        font-weight: 500;
+        direction: rtl;
+        text-align: right;
+        line-height: 1.5;
+        color: #222;
+        margin: 8px 0 4px 0;
+      }
+      #der-popup .der-popup-pronun {
+        direction: rtl;
+        text-align: right;
+        color: #333;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 1.7;
+        margin-bottom: 5px;
+      }
+      #der-popup .der-popup-explain {
+        direction: rtl;
+        text-align: right;
+        color: #444;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.55;
+        margin-bottom: 6px;
+      }
+      #der-popup .der-popup-example {
+        direction: ltr;
+        text-align: left;
+        color: #555;
+        font-size: 14px;
+        line-height: 1.5;
+        font-style: italic;
+        border-top: 1px solid #eee;
+        padding-top: 6px;
+        margin-top: 4px;
+      }
       #der-sidebar {
         position: fixed;
         top: 0;
@@ -496,7 +573,10 @@
       const entry = wordMap.get(m[0].toLowerCase());
       if (entry) {
         span.dataset.word = entry.word;
-        span.addEventListener('click', () => scrollToCard(entry.word));
+        span.addEventListener('click', (ev) => {
+          ev.stopPropagation();
+          onHighlightClick(span, entry);
+        });
       }
       frag.appendChild(span);
       last = m.index + m[0].length;
@@ -557,11 +637,9 @@
     return card;
   }
 
+  // Focus the matching card inside the (already open) sidebar. This does NOT
+  // open the sidebar itself — the sidebar only opens via the Vocabulary button.
   function scrollToCard(word) {
-    const sidebar = document.getElementById('der-sidebar');
-    if (sidebar && !sidebar.classList.contains('der-open')) {
-      sidebar.classList.add('der-open');
-    }
     // A clicked highlight always refers to a vocabulary word → switch to Words.
     activateTab('words');
     const id = `der-card-${word.replace(/\s+/g, '-')}`;
@@ -570,6 +648,94 @@
     card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     card.style.outline = '2px solid #1a5276';
     setTimeout(() => { card.style.outline = ''; }, 1500);
+  }
+
+  // ── Word popup (shown when the sidebar is closed) ────────────────────────────
+  // Exactly one popup may exist. It carries the same fields as a sidebar card.
+
+  let popupEl = null;      // the currently open popup element, or null
+  let popupAnchor = null;  // the highlight span the open popup belongs to
+
+  function closePopup() {
+    if (popupEl && popupEl.parentNode) popupEl.parentNode.removeChild(popupEl);
+    popupEl = null;
+    popupAnchor = null;
+  }
+
+  function buildPopup(entry) {
+    const box = document.createElement('div');
+    box.id = 'der-popup';
+    box.setAttribute('data-der', 'true');
+    box.innerHTML = `
+      <div class="der-popup-head">
+        <span class="der-popup-word">${entry.word}</span>
+        <span class="der-popup-level">${entry.level || ''}</span>
+      </div>
+      <div class="der-popup-hebrew">${entry.hebrew || ''}</div>
+      <div class="der-popup-pronun">${entry.pronunciation_hebrew || ''}</div>
+      <div class="der-popup-explain">${entry.explanation_hebrew || ''}</div>
+      <div class="der-popup-example">"${entry.example || ''}"</div>
+    `;
+    return box;
+  }
+
+  // Place the popup near the anchored word: above it when there is room,
+  // otherwise below, and clamped to stay inside the viewport horizontally.
+  function positionPopup(box, anchor) {
+    const rect = anchor.getBoundingClientRect();
+    const margin = 8;
+    const pw = box.offsetWidth;
+    const ph = box.offsetHeight;
+    const vw = document.documentElement.clientWidth;
+    const vh = document.documentElement.clientHeight;
+
+    let left = rect.left + rect.width / 2 - pw / 2;
+    left = Math.max(margin, Math.min(left, vw - pw - margin));
+
+    let top;
+    if (rect.top >= ph + margin) {
+      top = rect.top - ph - margin;            // enough room above → place above
+    } else {
+      top = rect.bottom + margin;              // otherwise place below
+      if (top + ph + margin > vh) {
+        top = Math.max(margin, vh - ph - margin);
+      }
+    }
+    box.style.left = Math.round(left) + 'px';
+    box.style.top = Math.round(top) + 'px';
+  }
+
+  function showPopup(anchor, entry) {
+    closePopup();
+    const box = buildPopup(entry);
+    box.style.visibility = 'hidden';   // measure before showing to avoid a flash
+    document.body.appendChild(box);
+    positionPopup(box, anchor);
+    box.style.visibility = 'visible';
+    popupEl = box;
+    popupAnchor = anchor;
+  }
+
+  // Click behavior on a highlighted word:
+  //  - sidebar OPEN  → focus the word's card in the list (no popup).
+  //  - sidebar CLOSED → toggle a popup next to the word:
+  //      same word again    → close it;
+  //      a different word    → close the old popup and open a new one.
+  function onHighlightClick(anchor, entry) {
+    const sidebar = document.getElementById('der-sidebar');
+    const sidebarOpen = sidebar && sidebar.classList.contains('der-open');
+
+    if (sidebarOpen) {
+      closePopup();
+      scrollToCard(entry.word);
+      return;
+    }
+
+    if (popupEl && popupAnchor === anchor) {
+      closePopup();
+      return;
+    }
+    showPopup(anchor, entry);
   }
 
   function buildWordsPanel(words) {
@@ -748,7 +914,10 @@
     closeBtn.id = 'der-close-btn';
     closeBtn.setAttribute('data-der', 'true');
     closeBtn.textContent = '✕';
-    closeBtn.addEventListener('click', () => sidebar.classList.remove('der-open'));
+    closeBtn.addEventListener('click', () => {
+      sidebar.classList.remove('der-open');
+      syncToggleState();
+    });
 
     // Title shows the selected level, e.g. "Daily English Reader — Level A".
     const levelSuffix = data.level ? ` — Level ${data.level}` : '';
@@ -800,22 +969,58 @@
     return sidebar;
   }
 
+  // Sync the toggle button's active state to whether the sidebar is open.
+  function syncToggleState() {
+    const sidebar = document.getElementById('der-sidebar');
+    const btn = document.getElementById('der-toggle-btn');
+    if (!btn) return;
+    const open = !!(sidebar && sidebar.classList.contains('der-open'));
+    btn.classList.toggle('der-active', open);
+  }
+
+  // Global listeners (attached once): close the popup on outside-click or Escape.
+  let globalPopupListenersAttached = false;
+  function attachGlobalPopupListeners() {
+    if (globalPopupListenersAttached) return;
+    globalPopupListenersAttached = true;
+
+    document.addEventListener('click', (ev) => {
+      if (!popupEl) return;
+      const t = ev.target;
+      // Clicks inside the popup, or on a highlighted word (handled separately),
+      // must NOT close the popup here.
+      if (t.closest && (t.closest('#der-popup') || t.closest('.der-highlight'))) return;
+      closePopup();
+    });
+
+    document.addEventListener('keydown', (ev) => {
+      if (ev.key === 'Escape' && popupEl) closePopup();
+    });
+  }
+
   // Insert the toggle button + sidebar. Idempotent.
   function insertUI(data) {
     injectCSS();
+    attachGlobalPopupListeners();
 
     if (!document.getElementById('der-sidebar')) {
       document.body.appendChild(buildSidebar(data));
     }
 
     if (!document.getElementById('der-toggle-btn')) {
+      const wordCount = Array.isArray(data.words) ? data.words.length : 0;
       const toggleBtn = document.createElement('button');
       toggleBtn.id = 'der-toggle-btn';
       toggleBtn.setAttribute('data-der', 'true');
-      toggleBtn.textContent = '📘 Vocabulary';
+      toggleBtn.type = 'button';
+      toggleBtn.textContent = `📘 Vocabulary (${wordCount})`;
       toggleBtn.addEventListener('click', () => {
         const sidebar = document.getElementById('der-sidebar');
-        if (sidebar) sidebar.classList.toggle('der-open');
+        if (!sidebar) return;
+        // Opening/closing the full sidebar always dismisses any word popup.
+        closePopup();
+        sidebar.classList.toggle('der-open');
+        syncToggleState();
       });
       document.body.appendChild(toggleBtn);
     }

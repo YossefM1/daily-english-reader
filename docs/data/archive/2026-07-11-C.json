@@ -7,11 +7,11 @@
   "source": "BBC",
   "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
   "word_count": 1335,
-  "generated_at": "2026-07-11T09:08:30.999771+00:00",
+  "generated_at": "2026-07-11T09:33:55.220896+00:00",
   "difficulty_reason": "Analytical political profile with long, layered sentences and dense French-politics background; B2/C1/C2 vocabulary and prior context needed.",
   "settings": {
     "source_mode": "BBC-only",
-    "vocabulary_count": 15,
+    "vocabulary_count": 25,
     "quiz_enabled": true
   },
   "words": [
@@ -149,6 +149,96 @@
       "explanation_hebrew": "משתנה ללא היגיון או צפיוּת",
       "pronunciation_hebrew": "אֶרָטִיק",
       "example": "His behaviour was erratic and unpredictable."
+    },
+    {
+      "word": "affluent",
+      "lemma": "affluent",
+      "level": "C1",
+      "hebrew": "אָמִיד, עשיר",
+      "explanation_hebrew": "בעל אמצעים כלכליים רבים",
+      "pronunciation_hebrew": "אַפְלוּאֶנְט",
+      "example": "He grew up in an affluent town."
+    },
+    {
+      "word": "narrative",
+      "lemma": "narrative",
+      "level": "C1",
+      "hebrew": "נַרָטִיב, סיפור מסגרת",
+      "explanation_hebrew": "סיפור או גרסה המעצבים תפיסה",
+      "pronunciation_hebrew": "נַרַטִיב",
+      "example": "He built a narrative of humble origins."
+    },
+    {
+      "word": "rhetoric",
+      "lemma": "rhetoric",
+      "level": "C1",
+      "hebrew": "רֵטוֹרִיקָה, מליצה",
+      "explanation_hebrew": "שימוש בשפה כדי לשכנע ולהרשים",
+      "pronunciation_hebrew": "רֶטוֹרִיק",
+      "example": "His speech was full of populist rhetoric."
+    },
+    {
+      "word": "entrepreneurs",
+      "lemma": "entrepreneur",
+      "level": "B2",
+      "hebrew": "יַזָּמִים",
+      "explanation_hebrew": "אנשים המקימים ומנהלים עסקים",
+      "pronunciation_hebrew": "אַנְטְרֶפְּרֶנֶרְז",
+      "example": "He promised to help entrepreneurs grow."
+    },
+    {
+      "word": "deterrence",
+      "lemma": "deterrence",
+      "level": "C1",
+      "hebrew": "הַרְתָּעָה",
+      "explanation_hebrew": "מניעת פעולה עוינת מתוך פחד מתגובה",
+      "pronunciation_hebrew": "דִיטֶרֶנְס",
+      "example": "Nuclear deterrence aims to prevent war."
+    },
+    {
+      "word": "betrayal",
+      "lemma": "betrayal",
+      "level": "B2",
+      "hebrew": "בְּגִידָה",
+      "explanation_hebrew": "הפרת אמון או נאמנות כלפי מישהו",
+      "pronunciation_hebrew": "בִּיטְרֵייאַל",
+      "example": "He called the plan a national betrayal."
+    },
+    {
+      "word": "delicate",
+      "lemma": "delicate",
+      "level": "B2",
+      "hebrew": "עָדִין, רגיש",
+      "explanation_hebrew": "הדורש טיפול זהיר ומיומן",
+      "pronunciation_hebrew": "דֶלִיקַט",
+      "example": "He performed a delicate balancing act."
+    },
+    {
+      "word": "poised",
+      "lemma": "poised",
+      "level": "C1",
+      "hebrew": "עָרוּךְ, מוכן",
+      "explanation_hebrew": "מוכן ומצוי במצב לפעולה מיידית",
+      "pronunciation_hebrew": "פּוֹיְזְד",
+      "example": "She was poised to take power."
+    },
+    {
+      "word": "fringe",
+      "lemma": "fringe",
+      "level": "C1",
+      "hebrew": "שׁוּלִי, קיצוני",
+      "explanation_hebrew": "נמצא בשולי הזרם המרכזי",
+      "pronunciation_hebrew": "פְרִינְג'",
+      "example": "The party began as a fringe movement."
+    },
+    {
+      "word": "respectable",
+      "lemma": "respectable",
+      "level": "B2",
+      "hebrew": "מְכוּבָּד, ראוי לכבוד",
+      "explanation_hebrew": "הזוכה לכבוד ולהערכה חברתית",
+      "pronunciation_hebrew": "רִיסְפֶּקְטַבֶּל",
+      "example": "He made the party a respectable force."
     }
   ],
   "quiz": [
@@ -361,6 +451,146 @@
       ],
       "correct_answer": "הַפַכְפָּךְ, לא יציב",
       "explanation_hebrew": "“erratic” פירושו הַפַכְפָּךְ, לא יציב. משתנה ללא היגיון או צפיוּת."
+    },
+    {
+      "id": "C-q16",
+      "word": "affluent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “אָמִיד, עשיר”?",
+      "options": [
+        "modest",
+        "needy",
+        "affluent",
+        "poor"
+      ],
+      "correct_answer": "affluent",
+      "explanation_hebrew": "המילה affluent משמעה אָמִיד, עשיר. בעל אמצעים כלכליים רבים."
+    },
+    {
+      "id": "C-q17",
+      "word": "narrative",
+      "type": "english_to_hebrew",
+      "question": "What does “narrative” mean?",
+      "options": [
+        "הוכחה",
+        "עובדה",
+        "נתון",
+        "נַרָטִיב, סיפור מסגרת"
+      ],
+      "correct_answer": "נַרָטִיב, סיפור מסגרת",
+      "explanation_hebrew": "“narrative” פירושו נַרָטִיב, סיפור מסגרת. סיפור או גרסה המעצבים תפיסה."
+    },
+    {
+      "id": "C-q18",
+      "word": "rhetoric",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “רֵטוֹרִיקָה, מליצה”?",
+      "options": [
+        "rhetoric",
+        "action",
+        "silence",
+        "proof"
+      ],
+      "correct_answer": "rhetoric",
+      "explanation_hebrew": "המילה rhetoric משמעה רֵטוֹרִיקָה, מליצה. שימוש בשפה כדי לשכנע ולהרשים."
+    },
+    {
+      "id": "C-q19",
+      "word": "entrepreneurs",
+      "type": "english_to_hebrew",
+      "question": "What does “entrepreneurs” mean?",
+      "options": [
+        "פקידים",
+        "עובדים",
+        "לקוחות",
+        "יַזָּמִים"
+      ],
+      "correct_answer": "יַזָּמִים",
+      "explanation_hebrew": "“entrepreneurs” פירושו יַזָּמִים. אנשים המקימים ומנהלים עסקים."
+    },
+    {
+      "id": "C-q20",
+      "word": "deterrence",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “הַרְתָּעָה”?",
+      "options": [
+        "attack",
+        "invitation",
+        "deterrence",
+        "reward"
+      ],
+      "correct_answer": "deterrence",
+      "explanation_hebrew": "המילה deterrence משמעה הַרְתָּעָה. מניעת פעולה עוינת מתוך פחד מתגובה."
+    },
+    {
+      "id": "C-q21",
+      "word": "betrayal",
+      "type": "english_to_hebrew",
+      "question": "What does “betrayal” mean?",
+      "options": [
+        "הגנה",
+        "נאמנות",
+        "תמיכה",
+        "בְּגִידָה"
+      ],
+      "correct_answer": "בְּגִידָה",
+      "explanation_hebrew": "“betrayal” פירושו בְּגִידָה. הפרת אמון או נאמנות כלפי מישהו."
+    },
+    {
+      "id": "C-q22",
+      "word": "delicate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “עָדִין, רגיש”?",
+      "options": [
+        "delicate",
+        "rough",
+        "safe",
+        "simple"
+      ],
+      "correct_answer": "delicate",
+      "explanation_hebrew": "המילה delicate משמעה עָדִין, רגיש. הדורש טיפול זהיר ומיומן."
+    },
+    {
+      "id": "C-q23",
+      "word": "poised",
+      "type": "english_to_hebrew",
+      "question": "What does “poised” mean?",
+      "options": [
+        "עייף",
+        "עָרוּךְ, מוכן",
+        "מבולבל",
+        "מהסס"
+      ],
+      "correct_answer": "עָרוּךְ, מוכן",
+      "explanation_hebrew": "“poised” פירושו עָרוּךְ, מוכן. מוכן ומצוי במצב לפעולה מיידית."
+    },
+    {
+      "id": "C-q24",
+      "word": "fringe",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “שׁוּלִי, קיצוני”?",
+      "options": [
+        "central",
+        "fringe",
+        "popular",
+        "mainstream"
+      ],
+      "correct_answer": "fringe",
+      "explanation_hebrew": "המילה fringe משמעה שׁוּלִי, קיצוני. נמצא בשולי הזרם המרכזי."
+    },
+    {
+      "id": "C-q25",
+      "word": "respectable",
+      "type": "english_to_hebrew",
+      "question": "What does “respectable” mean?",
+      "options": [
+        "שנוא",
+        "מְכוּבָּד, ראוי לכבוד",
+        "מפוקפק",
+        "מבייש"
+      ],
+      "correct_answer": "מְכוּבָּד, ראוי לכבוד",
+      "explanation_hebrew": "“respectable” פירושו מְכוּבָּד, ראוי לכבוד. הזוכה לכבוד ולהערכה חברתית."
     }
   ]
 }

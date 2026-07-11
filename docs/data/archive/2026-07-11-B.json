@@ -7,11 +7,11 @@
   "source": "BBC",
   "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
   "word_count": 664,
-  "generated_at": "2026-07-11T09:08:30.999771+00:00",
+  "generated_at": "2026-07-11T09:33:55.220896+00:00",
   "difficulty_reason": "Clear consumer-affairs report with moderate sentence complexity and some technical detail; useful B1/B2/C1 vocabulary and only light background knowledge needed.",
   "settings": {
     "source_mode": "BBC-only",
-    "vocabulary_count": 15,
+    "vocabulary_count": 25,
     "quiz_enabled": true
   },
   "words": [
@@ -149,6 +149,96 @@
       "explanation_hebrew": "פתח או צינור שדרכו יוצא אוויר או גז",
       "pronunciation_hebrew": "אֶגְזוֹסְט",
       "example": "Real units remove heat through an exhaust hose."
+    },
+    {
+      "word": "adverts",
+      "lemma": "advert",
+      "level": "B2",
+      "hebrew": "פִּרְסוֹמוֹת",
+      "explanation_hebrew": "מודעות שמטרתן לקדם מכירת מוצר",
+      "pronunciation_hebrew": "אַדְוֶרְטְס",
+      "example": "Online adverts promised amazing results."
+    },
+    {
+      "word": "emerged",
+      "lemma": "emerge",
+      "level": "B2",
+      "hebrew": "צָץ, הופיע",
+      "explanation_hebrew": "הופיע או הגיח לאור לראשונה",
+      "pronunciation_hebrew": "אִימֶרְגְ'ד",
+      "example": "New adverts emerged on social media."
+    },
+    {
+      "word": "platforms",
+      "lemma": "platform",
+      "level": "B2",
+      "hebrew": "פְּלַטְפוֹרְמוֹת, במות",
+      "explanation_hebrew": "שירותים מקוונים שבהם מפרסמים תוכן",
+      "pronunciation_hebrew": "פְּלַטְפוֹרְמְז",
+      "example": "The ads appeared on several platforms."
+    },
+    {
+      "word": "devices",
+      "lemma": "device",
+      "level": "B2",
+      "hebrew": "מַכְשִׁירִים",
+      "explanation_hebrew": "פריטים טכניים המבצעים פעולה",
+      "pronunciation_hebrew": "דִיוַויסֶז",
+      "example": "He tested several cooling devices."
+    },
+    {
+      "word": "performance",
+      "lemma": "performance",
+      "level": "B2",
+      "hebrew": "בִּיצוּעִים, ביצוע",
+      "explanation_hebrew": "מידת ההצלחה של דבר בפעולתו",
+      "pronunciation_hebrew": "פֶּרְפוֹרְמַנְס",
+      "example": "The fan's performance was poor."
+    },
+    {
+      "word": "dramatic",
+      "lemma": "dramatic",
+      "level": "B2",
+      "hebrew": "דְּרָמָטִי, קיצוני",
+      "explanation_hebrew": "מרשים או קיצוני בצורה בולטת",
+      "pronunciation_hebrew": "דְּרַמַטִיק",
+      "example": "They promised a dramatic drop in heat."
+    },
+    {
+      "word": "inconsistent",
+      "lemma": "inconsistent",
+      "level": "B2",
+      "hebrew": "לֹא עִקְבִי",
+      "explanation_hebrew": "חסר אחידות או קביעות",
+      "pronunciation_hebrew": "אִינְקוֹנְסִיסְטֶנְט",
+      "example": "The branding was inconsistent and odd."
+    },
+    {
+      "word": "enforcement",
+      "lemma": "enforcement",
+      "level": "C1",
+      "hebrew": "אַכְיפָה",
+      "explanation_hebrew": "הפעלת חוקים או כללים בפועל",
+      "pronunciation_hebrew": "אֶנְפוֹרְסְמֶנְט",
+      "example": "Enforcement alone cannot stop the ads."
+    },
+    {
+      "word": "retailer",
+      "lemma": "retailer",
+      "level": "B2",
+      "hebrew": "קִמְעוֹנַאי, מוכר",
+      "explanation_hebrew": "עסק המוכר מוצרים ישירות ללקוחות",
+      "pronunciation_hebrew": "רִיטֵיילֶר",
+      "example": "Research the retailer before you buy."
+    },
+    {
+      "word": "climates",
+      "lemma": "climate",
+      "level": "B2",
+      "hebrew": "אַקְלִימִים",
+      "explanation_hebrew": "סוגי מזג האוויר האופייניים לאזור",
+      "pronunciation_hebrew": "קְלַיְמַטְס",
+      "example": "Swamp coolers work in dry climates."
     }
   ],
   "quiz": [
@@ -361,6 +451,146 @@
       ],
       "correct_answer": "פְּלִיטָה, צינור פליטה",
       "explanation_hebrew": "“exhaust” פירושו פְּלִיטָה, צינור פליטה. פתח או צינור שדרכו יוצא אוויר או גז."
+    },
+    {
+      "id": "B-q16",
+      "word": "adverts",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “פִּרְסוֹמוֹת”?",
+      "options": [
+        "adverts",
+        "news",
+        "articles",
+        "reports"
+      ],
+      "correct_answer": "adverts",
+      "explanation_hebrew": "המילה adverts משמעה פִּרְסוֹמוֹת. מודעות שמטרתן לקדם מכירת מוצר."
+    },
+    {
+      "id": "B-q17",
+      "word": "emerged",
+      "type": "english_to_hebrew",
+      "question": "What does “emerged” mean?",
+      "options": [
+        "נעלם",
+        "הסתתר",
+        "צָץ, הופיע",
+        "שקע"
+      ],
+      "correct_answer": "צָץ, הופיע",
+      "explanation_hebrew": "“emerged” פירושו צָץ, הופיע. הופיע או הגיח לאור לראשונה."
+    },
+    {
+      "id": "B-q18",
+      "word": "platforms",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “פְּלַטְפוֹרְמוֹת, במות”?",
+      "options": [
+        "platforms",
+        "letters",
+        "warehouses",
+        "shops"
+      ],
+      "correct_answer": "platforms",
+      "explanation_hebrew": "המילה platforms משמעה פְּלַטְפוֹרְמוֹת, במות. שירותים מקוונים שבהם מפרסמים תוכן."
+    },
+    {
+      "id": "B-q19",
+      "word": "devices",
+      "type": "english_to_hebrew",
+      "question": "What does “devices” mean?",
+      "options": [
+        "רהיטים",
+        "מזון",
+        "מַכְשִׁירִים",
+        "בגדים"
+      ],
+      "correct_answer": "מַכְשִׁירִים",
+      "explanation_hebrew": "“devices” פירושו מַכְשִׁירִים. פריטים טכניים המבצעים פעולה."
+    },
+    {
+      "id": "B-q20",
+      "word": "performance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “בִּיצוּעִים, ביצוע”?",
+      "options": [
+        "performance",
+        "size",
+        "price",
+        "color"
+      ],
+      "correct_answer": "performance",
+      "explanation_hebrew": "המילה performance משמעה בִּיצוּעִים, ביצוע. מידת ההצלחה של דבר בפעולתו."
+    },
+    {
+      "id": "B-q21",
+      "word": "dramatic",
+      "type": "english_to_hebrew",
+      "question": "What does “dramatic” mean?",
+      "options": [
+        "דְּרָמָטִי, קיצוני",
+        "איטי",
+        "רגיל",
+        "זעום"
+      ],
+      "correct_answer": "דְּרָמָטִי, קיצוני",
+      "explanation_hebrew": "“dramatic” פירושו דְּרָמָטִי, קיצוני. מרשים או קיצוני בצורה בולטת."
+    },
+    {
+      "id": "B-q22",
+      "word": "inconsistent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “לֹא עִקְבִי”?",
+      "options": [
+        "uniform",
+        "inconsistent",
+        "stable",
+        "steady"
+      ],
+      "correct_answer": "inconsistent",
+      "explanation_hebrew": "המילה inconsistent משמעה לֹא עִקְבִי. חסר אחידות או קביעות."
+    },
+    {
+      "id": "B-q23",
+      "word": "enforcement",
+      "type": "english_to_hebrew",
+      "question": "What does “enforcement” mean?",
+      "options": [
+        "אַכְיפָה",
+        "היתר",
+        "התעלמות",
+        "עידוד"
+      ],
+      "correct_answer": "אַכְיפָה",
+      "explanation_hebrew": "“enforcement” פירושו אַכְיפָה. הפעלת חוקים או כללים בפועל."
+    },
+    {
+      "id": "B-q24",
+      "word": "retailer",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “קִמְעוֹנַאי, מוכר”?",
+      "options": [
+        "courier",
+        "maker",
+        "retailer",
+        "buyer"
+      ],
+      "correct_answer": "retailer",
+      "explanation_hebrew": "המילה retailer משמעה קִמְעוֹנַאי, מוכר. עסק המוכר מוצרים ישירות ללקוחות."
+    },
+    {
+      "id": "B-q25",
+      "word": "climates",
+      "type": "english_to_hebrew",
+      "question": "What does “climates” mean?",
+      "options": [
+        "ערים",
+        "אַקְלִימִים",
+        "בניינים",
+        "עונות"
+      ],
+      "correct_answer": "אַקְלִימִים",
+      "explanation_hebrew": "“climates” פירושו אַקְלִימִים. סוגי מזג האוויר האופייניים לאזור."
     }
   ]
 }

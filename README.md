@@ -33,7 +33,7 @@ preview, and an **Open BBC article** button.
 ```
 Claude Code Routine (runs in the cloud each day)
   └─ src/fetch_articles.py    → fetches MANY BBC candidates → data/candidates.json
-  └─ Claude selects A/B/C      → data/learning_articles.json (15 words + 15 quiz each)
+  └─ Claude selects A/B/C      → data/learning_articles.json (25 words + 25 quiz each)
   └─ src/build_today_json.py   → writes docs/data/today.json + per-article + latest.json + archive
   └─ git push                  → publishes metadata to GitHub Pages
 
@@ -68,8 +68,8 @@ Only vocabulary + quiz metadata — never the full article text.
       "word_count": 450,
       "difficulty_reason": "Shorter article, simpler vocabulary, clearer structure.",
       "data_url": "data/articles/2026-07-06-A.json",
-      "vocabulary_count": 15,
-      "quiz_count": 15
+      "vocabulary_count": 25,
+      "quiz_count": 25
     }
   ]
 }
@@ -90,7 +90,7 @@ metadata, with `words` and `quiz` arrays (no article text):
   "word_count": 450,
   "generated_at": "2026-07-06T06:00:00Z",
   "difficulty_reason": "...",
-  "settings": { "source_mode": "BBC-only", "vocabulary_count": 15, "quiz_enabled": true },
+  "settings": { "source_mode": "BBC-only", "vocabulary_count": 25, "quiz_enabled": true },
   "words": [
     {
       "word": "escalate",
@@ -116,7 +116,7 @@ metadata, with `words` and `quiz` arrays (no article text):
 }
 ```
 
-Each article always contains **exactly 15 vocabulary words** and **exactly 15
+Each article always contains **exactly 25 vocabulary words** and **exactly 25
 quiz questions**. `docs/data/latest.json` is kept for backward compatibility and
 mirrors the **B-level** (default) article. Archive copies are written to
 `docs/data/archive/YYYY-MM-DD-{A,B,C}.json`.
@@ -125,7 +125,7 @@ mirrors the **B-level** (default) article. Archive copies are written to
 
 The build script shuffles each quiz question's four options **deterministically**
 (seed = date + article id + quiz id + article URL) so the correct answer is not
-always the first option. Within each article's 15 questions it enforces that the
+always the first option. Within each article's 25 questions it enforces that the
 correct answer appears in **at least 3 different positions**, **never all in the
 first position**, and **no single position holds more than 7** correct answers.
 If the input violates these rules, options are reshuffled deterministically —
@@ -152,8 +152,8 @@ The userscript:
 - Loads `today.json` and matches the current page against the 3 selected article URLs.
 - Highlights vocabulary words in gray inside the article text.
 - Shows a collapsible sidebar on the right with the selected **level** near the title and two tabs:
-  - **Words** — Hebrew translation, pronunciation (with niqqud), explanation, and an English example for each of the 15 words.
-  - **Quiz** — 15 multiple-choice questions, one at a time, with correct/incorrect marking, the correct answer, a Hebrew explanation, and a final score with the words you missed.
+  - **Words** — Hebrew translation, pronunciation (with niqqud), explanation, and an English example for each of the 25 words.
+  - **Quiz** — 25 multiple-choice questions, one at a time, with correct/incorrect marking, the correct answer, a Hebrew explanation, and a final score with the words you missed.
 - Clicking a highlighted word scrolls to its card in the Words tab.
 - Your latest quiz result is saved locally (`localStorage`, keyed by date + level) — no login.
 - If the current page is not one of today's 3 selected articles, the status pill shows **"not today's selected article"**.
@@ -166,8 +166,8 @@ pointed at this repository. The routine will:
 
 1. Set up the Python virtual environment.
 2. Run `src/fetch_articles.py` to fetch many BBC candidates.
-3. Select 3 articles (A/B/C) and create `data/learning_articles.json` with 15
-   words + 15 quiz questions each.
+3. Select 3 articles (A/B/C) and create `data/learning_articles.json` with 25
+   words + 25 quiz questions each.
 4. Run `src/build_today_json.py` to validate, shuffle quiz options, and build
    the metadata JSON files.
 5. Commit and push the public files to `main`.

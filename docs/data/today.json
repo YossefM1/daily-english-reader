@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-11T09:08:30.999771+00:00",
+  "generated_at": "2026-07-11T09:33:55.220896+00:00",
   "source_mode": "BBC-only",
   "articles": [
     {
@@ -13,8 +13,8 @@
       "word_count": 392,
       "difficulty_reason": "Short, direct science story with one clear discovery and simple sentence structure; mostly B1/B2 vocabulary and little background knowledge needed.",
       "data_url": "data/articles/2026-07-11-A.json",
-      "vocabulary_count": 15,
-      "quiz_count": 15
+      "vocabulary_count": 25,
+      "quiz_count": 25
     },
     {
       "id": "B",
@@ -26,8 +26,8 @@
       "word_count": 664,
       "difficulty_reason": "Clear consumer-affairs report with moderate sentence complexity and some technical detail; useful B1/B2/C1 vocabulary and only light background knowledge needed.",
       "data_url": "data/articles/2026-07-11-B.json",
-      "vocabulary_count": 15,
-      "quiz_count": 15
+      "vocabulary_count": 25,
+      "quiz_count": 25
     },
     {
       "id": "C",
@@ -39,8 +39,8 @@
       "word_count": 1335,
       "difficulty_reason": "Analytical political profile with long, layered sentences and dense French-politics background; B2/C1/C2 vocabulary and prior context needed.",
       "data_url": "data/articles/2026-07-11-C.json",
-      "vocabulary_count": 15,
-      "quiz_count": 15
+      "vocabulary_count": 25,
+      "quiz_count": 25
     }
   ]
 }

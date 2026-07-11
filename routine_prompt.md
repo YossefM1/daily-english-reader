@@ -115,7 +115,7 @@ Create `data/learning_articles.json` with this exact schema:
 ```
 
 Rules for **each** of the 3 articles:
-- Exactly 15 words and exactly 15 quiz questions.
+- Exactly 25 words and exactly 25 quiz questions.
 - Vocabulary: B1/B2/C1/C2 only, no basic words; no names, places,
   organizations, dates, numbers, abbreviations; prefer single-token words; the
   `word` must be an exact surface form from that article's text.
@@ -134,7 +134,7 @@ Rules for **each** of the 3 articles:
 python src/build_today_json.py
 ```
 
-This validates the 3 articles (15 words + 15 quiz each, 4 options, correct
+This validates the 3 articles (25 words + 25 quiz each, 4 options, correct
 answer present, quiz words valid), deterministically shuffles quiz options,
 enforces the correct-answer position spread, and writes:
 

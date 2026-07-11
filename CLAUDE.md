@@ -38,7 +38,7 @@ Claude Code Routine (cloud)
         A — Easier English       (prefer 300–600 words)
         B — Intermediate English (prefer 500–900 words, default level)
         C — Advanced English     (prefer 800–1400 words)
-  → Claude creates 15 vocabulary words + 15 quiz questions per article
+  → Claude creates 25 vocabulary words + 25 quiz questions per article
   → saves data/learning_articles.json (internal, gitignored)
   → build_today_json.py writes public metadata to docs/data/
 
@@ -207,7 +207,7 @@ Schema:
 
 Per-article vocabulary rules (apply to **each** of the 3 articles):
 
-- Exactly **15** words.
+- Exactly **25** words.
 - Levels B1/B2/C1/C2 (A-level article may lean B1/B2; C-level may include C2).
 - No names of people, places, companies, products, or organizations.
 - No dates, numbers, abbreviations, or very basic words.
@@ -218,7 +218,7 @@ Per-article vocabulary rules (apply to **each** of the 3 articles):
 
 Per-article quiz rules (apply to **each** of the 3 articles):
 
-- Exactly **15** quiz questions. Prefer one question per vocabulary word.
+- Exactly **25** quiz questions. Prefer one question per vocabulary word.
 - Use mostly `english_to_hebrew` and `hebrew_to_english` types.
 - Exactly 4 `options`; `correct_answer` must be one of them; options must be distinct.
 - Every quiz `word` must exist in that article's `words` list.
@@ -249,15 +249,15 @@ docs/data/archive/YYYY-MM-DD-C.json
 ```
 
 The build script **fails** unless there are exactly 3 articles (ids A, B, C),
-each with exactly 15 words and 15 quiz questions, each quiz has 4 distinct
+each with exactly 25 words and 25 quiz questions, each quiz has 4 distinct
 options, each `correct_answer` is among its options, and each quiz `word`
 exists in that article's `words` list.
 
 It then **shuffles quiz options deterministically** (seed = date + article id +
-quiz id + article url) and enforces that, within each article's 15 questions,
-the correct answer appears in at least 3 different positions, never all in the
-first position, and no single position holds more than 7 correct answers. If
-the input violates this, it reshuffles deterministically (same input → same
+quiz id + article url) and enforces that, within each article's 25 questions,
+the correct answer appears in all 4 option positions, never all in the first
+position, and no single position holds more than 10 correct answers. If the
+input violates this, it reshuffles deterministically (same input → same
 output).
 
 None of the published files contain the full article text.
@@ -267,7 +267,7 @@ None of the published files contain the full article text.
 Before committing, verify all of the following:
 
 - `docs/data/today.json` exists and contains exactly 3 articles: A, B, and C.
-- Each public per-article JSON contains exactly 15 vocabulary words and 15 quiz questions.
+- Each public per-article JSON contains exactly 25 vocabulary words and 25 quiz questions.
 - No public JSON file contains a `text` field or full article body.
 - All vocabulary surface forms appear in the corresponding article text from `data/candidates.json`.
 - `data/candidates.json` and `data/learning_articles.json` remain untracked/gitignored.

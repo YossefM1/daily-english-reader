@@ -5,8 +5,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # Exact-count expectations for the quiz upgrade.
-EXPECTED_WORD_COUNT = 15
-EXPECTED_QUIZ_COUNT = 15
+EXPECTED_WORD_COUNT = 25
+EXPECTED_QUIZ_COUNT = 25
 QUIZ_OPTION_COUNT = 4
 
 REQUIRED_WORD_FIELDS = {

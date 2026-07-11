@@ -7,11 +7,11 @@
   "source": "BBC",
   "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
   "word_count": 392,
-  "generated_at": "2026-07-11T09:08:30.999771+00:00",
+  "generated_at": "2026-07-11T09:33:55.220896+00:00",
   "difficulty_reason": "Short, direct science story with one clear discovery and simple sentence structure; mostly B1/B2 vocabulary and little background knowledge needed.",
   "settings": {
     "source_mode": "BBC-only",
-    "vocabulary_count": 15,
+    "vocabulary_count": 25,
     "quiz_enabled": true
   },
   "words": [
@@ -149,6 +149,96 @@
       "explanation_hebrew": "האופן שבו דברים מסודרים יחד",
       "pronunciation_hebrew": "אֲרֵיינְגְ'מֶנְט",
       "example": "The bones had an unusual arrangement."
+    },
+    {
+      "word": "discovery",
+      "lemma": "discovery",
+      "level": "B2",
+      "hebrew": "תַּגְלִית, גילוי",
+      "explanation_hebrew": "דבר חדש שנמצא או נחשף לראשונה",
+      "pronunciation_hebrew": "דִיסְקַבֶרִי",
+      "example": "The discovery surprised the scientists."
+    },
+    {
+      "word": "species",
+      "lemma": "species",
+      "level": "B2",
+      "hebrew": "מִין (ביולוגי)",
+      "explanation_hebrew": "קבוצת יצורים בעלי תכונות משותפות",
+      "pronunciation_hebrew": "סְפִּישִיז",
+      "example": "This species lives only in Africa."
+    },
+    {
+      "word": "measured",
+      "lemma": "measure",
+      "level": "B2",
+      "hebrew": "נִמְדַּד",
+      "explanation_hebrew": "נבדק גודלו או אורכו במספרים",
+      "pronunciation_hebrew": "מֶזֶ'רְד",
+      "example": "The dinosaur measured 20 metres long."
+    },
+    {
+      "word": "roughly",
+      "lemma": "roughly",
+      "level": "B2",
+      "hebrew": "בְּעֵרֶךְ, בקירוב",
+      "explanation_hebrew": "באופן משוער ולא מדויק",
+      "pronunciation_hebrew": "רַאפְלִי",
+      "example": "The trip takes roughly two hours."
+    },
+    {
+      "word": "collection",
+      "lemma": "collection",
+      "level": "B2",
+      "hebrew": "אֹסֶף",
+      "explanation_hebrew": "קבוצת פריטים שנאספו יחד",
+      "pronunciation_hebrew": "קוֹלֶקְשֶן",
+      "example": "The museum has a large fossil collection."
+    },
+    {
+      "word": "identified",
+      "lemma": "identify",
+      "level": "B2",
+      "hebrew": "זוּהָה",
+      "explanation_hebrew": "נמצא ונקבע מהו או מיהו",
+      "pronunciation_hebrew": "אַיְדֶנְטִיפַיְד",
+      "example": "Experts identified the ancient bone."
+    },
+    {
+      "word": "contained",
+      "lemma": "contain",
+      "level": "B2",
+      "hebrew": "הֵכִיל, כלל",
+      "explanation_hebrew": "החזיק בתוכו דבר מסוים",
+      "pronunciation_hebrew": "קוֹנְטֵיינְד",
+      "example": "The site contained many fossils."
+    },
+    {
+      "word": "belonged",
+      "lemma": "belong",
+      "level": "B2",
+      "hebrew": "הִשְׁתַּיֵּךְ, שייך",
+      "explanation_hebrew": "היה חלק מקבוצה או שייך למישהו",
+      "pronunciation_hebrew": "בִּילוֹנְגְד",
+      "example": "The bone belonged to a rare family."
+    },
+    {
+      "word": "unique",
+      "lemma": "unique",
+      "level": "B2",
+      "hebrew": "יִיחוּדִי, מיוחד במינו",
+      "explanation_hebrew": "היחיד מסוגו, שאין דומה לו",
+      "pronunciation_hebrew": "יוּנִיק",
+      "example": "Each fossil has a unique shape."
+    },
+    {
+      "word": "revealed",
+      "lemma": "reveal",
+      "level": "B2",
+      "hebrew": "חָשַׂף, גילה",
+      "explanation_hebrew": "הראה או הפך לגלוי דבר שהיה נסתר",
+      "pronunciation_hebrew": "רִיוִילְד",
+      "example": "The scan revealed a hidden structure."
     }
   ],
   "quiz": [
@@ -361,6 +451,146 @@
       ],
       "correct_answer": "סִידּוּר, מבנה",
       "explanation_hebrew": "“arrangement” פירושו סִידּוּר, מבנה. האופן שבו דברים מסודרים יחד."
+    },
+    {
+      "id": "A-q16",
+      "word": "discovery",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “תַּגְלִית, גילוי”?",
+      "options": [
+        "cover",
+        "secret",
+        "loss",
+        "discovery"
+      ],
+      "correct_answer": "discovery",
+      "explanation_hebrew": "המילה discovery משמעה תַּגְלִית, גילוי. דבר חדש שנמצא או נחשף לראשונה."
+    },
+    {
+      "id": "A-q17",
+      "word": "species",
+      "type": "english_to_hebrew",
+      "question": "What does “species” mean?",
+      "options": [
+        "מִין (ביולוגי)",
+        "מחלה",
+        "סלע",
+        "עונה"
+      ],
+      "correct_answer": "מִין (ביולוגי)",
+      "explanation_hebrew": "“species” פירושו מִין (ביולוגי). קבוצת יצורים בעלי תכונות משותפות."
+    },
+    {
+      "id": "A-q18",
+      "word": "measured",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “נִמְדַּד”?",
+      "options": [
+        "hidden",
+        "erased",
+        "guessed",
+        "measured"
+      ],
+      "correct_answer": "measured",
+      "explanation_hebrew": "המילה measured משמעה נִמְדַּד. נבדק גודלו או אורכו במספרים."
+    },
+    {
+      "id": "A-q19",
+      "word": "roughly",
+      "type": "english_to_hebrew",
+      "question": "What does “roughly” mean?",
+      "options": [
+        "לעולם",
+        "לחלוטין",
+        "בְּעֵרֶךְ, בקירוב",
+        "בדיוק"
+      ],
+      "correct_answer": "בְּעֵרֶךְ, בקירוב",
+      "explanation_hebrew": "“roughly” פירושו בְּעֵרֶךְ, בקירוב. באופן משוער ולא מדויק."
+    },
+    {
+      "id": "A-q20",
+      "word": "collection",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “אֹסֶף”?",
+      "options": [
+        "empty",
+        "collection",
+        "single",
+        "waste"
+      ],
+      "correct_answer": "collection",
+      "explanation_hebrew": "המילה collection משמעה אֹסֶף. קבוצת פריטים שנאספו יחד."
+    },
+    {
+      "id": "A-q21",
+      "word": "identified",
+      "type": "english_to_hebrew",
+      "question": "What does “identified” mean?",
+      "options": [
+        "הוסתר",
+        "זוּהָה",
+        "הושמד",
+        "נשכח"
+      ],
+      "correct_answer": "זוּהָה",
+      "explanation_hebrew": "“identified” פירושו זוּהָה. נמצא ונקבע מהו או מיהו."
+    },
+    {
+      "id": "A-q22",
+      "word": "contained",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “הֵכִיל, כלל”?",
+      "options": [
+        "contained",
+        "released",
+        "emptied",
+        "excluded"
+      ],
+      "correct_answer": "contained",
+      "explanation_hebrew": "המילה contained משמעה הֵכִיל, כלל. החזיק בתוכו דבר מסוים."
+    },
+    {
+      "id": "A-q23",
+      "word": "belonged",
+      "type": "english_to_hebrew",
+      "question": "What does “belonged” mean?",
+      "options": [
+        "נמכר",
+        "הִשְׁתַּיֵּךְ, שייך",
+        "ננטש",
+        "הושאל"
+      ],
+      "correct_answer": "הִשְׁתַּיֵּךְ, שייך",
+      "explanation_hebrew": "“belonged” פירושו הִשְׁתַּיֵּךְ, שייך. היה חלק מקבוצה או שייך למישהו."
+    },
+    {
+      "id": "A-q24",
+      "word": "unique",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “יִיחוּדִי, מיוחד במינו”?",
+      "options": [
+        "ordinary",
+        "common",
+        "identical",
+        "unique"
+      ],
+      "correct_answer": "unique",
+      "explanation_hebrew": "המילה unique משמעה יִיחוּדִי, מיוחד במינו. היחיד מסוגו, שאין דומה לו."
+    },
+    {
+      "id": "A-q25",
+      "word": "revealed",
+      "type": "english_to_hebrew",
+      "question": "What does “revealed” mean?",
+      "options": [
+        "חָשַׂף, גילה",
+        "הסתיר",
+        "טשטש",
+        "העלים"
+      ],
+      "correct_answer": "חָשַׂף, גילה",
+      "explanation_hebrew": "“revealed” פירושו חָשַׂף, גילה. הראה או הפך לגלוי דבר שהיה נסתר."
     }
   ]
 }

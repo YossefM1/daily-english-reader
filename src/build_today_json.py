@@ -15,15 +15,15 @@ GitHub Pages metadata:
 
 None of these public files contain the full article text.
 
-Validation is strict: exactly 3 articles with ids A/B/C, exactly 15 words and
-15 quiz questions per article, 4 options per quiz, correct_answer among the
+Validation is strict: exactly 3 articles with ids A/B/C, exactly 25 words and
+25 quiz questions per article, 4 options per quiz, correct_answer among the
 options, and every quiz word present in that article's words list.
 
 Quiz options are shuffled DETERMINISTICALLY (seeded by date + article id +
 quiz id + article url) so the correct answer is not always the first option,
-and the distribution of correct-answer positions across each article's 15
-questions is enforced. This is idempotent: the same input always yields the
-same output.
+and the distribution of correct-answer positions across each article's 25
+questions is enforced (spanning all 4 positions, at most 10 in any one). This
+is idempotent: the same input always yields the same output.
 """
 
 import hashlib
@@ -39,8 +39,8 @@ from urllib.parse import urlparse
 
 EXPECTED_ARTICLE_COUNT = 3
 EXPECTED_IDS = ["A", "B", "C"]
-EXPECTED_WORD_COUNT = 15
-EXPECTED_QUIZ_COUNT = 15
+EXPECTED_WORD_COUNT = 25
+EXPECTED_QUIZ_COUNT = 25
 QUIZ_OPTION_COUNT = 4
 
 LEVEL_LABELS = {
@@ -60,8 +60,10 @@ REQUIRED_QUIZ_FIELDS = {
 }
 
 # Distribution rules for correct-answer positions within one article's quiz.
-MIN_DISTINCT_POSITIONS = 3
-MAX_PER_POSITION = 7
+# With 25 questions the correct answer should span all 4 option positions, with
+# no single position dominating (never all in one; at most 10 in any one slot).
+MIN_DISTINCT_POSITIONS = 4
+MAX_PER_POSITION = 10
 
 # The default recommended level; latest.json mirrors this one for compatibility.
 DEFAULT_LEVEL = "B"
