@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-12",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "China's second typhoon in a week makes landfall",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+  "word_count": 457,
+  "generated_at": "2026-07-12T02:11:38.462502+00:00",
+  "difficulty_reason": "Short, direct disaster report with clear chronological structure, mostly B1/B2 vocabulary and very little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "powerful",
+      "lemma": "powerful",
+      "level": "B1",
+      "hebrew": "עוצמתי",
+      "explanation_hebrew": "חזק מאוד, בעל כוח רב",
+      "pronunciation_hebrew": "פַּאוּ-אֶר-פוּל",
+      "example": "The storm was very powerful and destroyed many homes."
+    },
+    {
+      "word": "landfall",
+      "lemma": "landfall",
+      "level": "B2",
+      "hebrew": "נחיתה ליבשה",
+      "explanation_hebrew": "הרגע שבו סופה מגיעה מהים אל היבשה",
+      "pronunciation_hebrew": "לֶנְד-פוֹל",
+      "example": "The hurricane made landfall near the coast at night."
+    },
+    {
+      "word": "evacuated",
+      "lemma": "evacuate",
+      "level": "B1",
+      "hebrew": "פּוּנוּ / הותפנו",
+      "explanation_hebrew": "הוצאו ממקום מסוכן למקום בטוח",
+      "pronunciation_hebrew": "אִי-וָה-קְיוּ-אֵי-טֶד",
+      "example": "Thousands of people were evacuated before the flood."
+    },
+    {
+      "word": "storm",
+      "lemma": "storm",
+      "level": "B1",
+      "hebrew": "סערה",
+      "explanation_hebrew": "מזג אוויר סוער עם רוח וגשם חזקים",
+      "pronunciation_hebrew": "סְטוֹרְם",
+      "example": "The storm brought heavy rain and strong winds."
+    },
+    {
+      "word": "coastal",
+      "lemma": "coastal",
+      "level": "B2",
+      "hebrew": "חופי",
+      "explanation_hebrew": "הקשור לאזור לחוף הים",
+      "pronunciation_hebrew": "קוֹאֶס-טַל",
+      "example": "Many coastal towns were flooded by the sea."
+    },
+    {
+      "word": "ashore",
+      "lemma": "ashore",
+      "level": "B2",
+      "hebrew": "אל החוף",
+      "explanation_hebrew": "אל היבשה מכיוון הים",
+      "pronunciation_hebrew": "אַ-שוֹר",
+      "example": "The waves pushed the boat ashore."
+    },
+    {
+      "word": "remote",
+      "lemma": "remote",
+      "level": "B2",
+      "hebrew": "מרוחק / נידח",
+      "explanation_hebrew": "רחוק מאוד ממקומות מיושבים",
+      "pronunciation_hebrew": "רִי-מוֹאוּט",
+      "example": "They live in a remote village in the mountains."
+    },
+    {
+      "word": "rainfall",
+      "lemma": "rainfall",
+      "level": "B1",
+      "hebrew": "כמות משקעים / גשם",
+      "explanation_hebrew": "כמות הגשם שיורדת באזור מסוים",
+      "pronunciation_hebrew": "רֵיְן-פוֹל",
+      "example": "Heavy rainfall caused the river to overflow."
+    },
+    {
+      "word": "triggered",
+      "lemma": "trigger",
+      "level": "B2",
+      "hebrew": "גרם / הפעיל",
+      "explanation_hebrew": "גרם למשהו לקרות",
+      "pronunciation_hebrew": "טְרִי-גֶרְד",
+      "example": "The heavy rain triggered a dangerous landslide."
+    },
+    {
+      "word": "weakened",
+      "lemma": "weaken",
+      "level": "B2",
+      "hebrew": "נחלש",
+      "explanation_hebrew": "הפך חלש יותר",
+      "pronunciation_hebrew": "וִיק-אֶנְד",
+      "example": "The storm weakened as it moved over land."
+    },
+    {
+      "word": "severe",
+      "lemma": "severe",
+      "level": "B2",
+      "hebrew": "חמור / קשה",
+      "explanation_hebrew": "רציני מאוד או קשה מאוד",
+      "pronunciation_hebrew": "סִי-וִיר",
+      "example": "The country faced a severe shortage of water."
+    },
+    {
+      "word": "moisture",
+      "lemma": "moisture",
+      "level": "B2",
+      "hebrew": "לחות",
+      "explanation_hebrew": "כמות קטנה של מים באוויר או בחומר",
+      "pronunciation_hebrew": "מוֹיְס-צֶ'ר",
+      "example": "There was a lot of moisture in the warm air."
+    },
+    {
+      "word": "forecast",
+      "lemma": "forecast",
+      "level": "B2",
+      "hebrew": "תחזית",
+      "explanation_hebrew": "חיזוי של מה שיקרה, במיוחד במזג האוויר",
+      "pronunciation_hebrew": "פוֹר-קַאסְט",
+      "example": "The weather forecast warned of heavy snow."
+    },
+    {
+      "word": "diminish",
+      "lemma": "diminish",
+      "level": "C1",
+      "hebrew": "להיחלש / להצטמצם",
+      "explanation_hebrew": "להיעשות קטן או חלש יותר",
+      "pronunciation_hebrew": "דִּי-מִי-נִישׁ",
+      "example": "The pain began to diminish after a few days."
+    },
+    {
+      "word": "intensity",
+      "lemma": "intensity",
+      "level": "C1",
+      "hebrew": "עוצמה",
+      "explanation_hebrew": "מידת החוזק של משהו",
+      "pronunciation_hebrew": "אִין-טֶן-סִי-טִי",
+      "example": "The intensity of the fire made it hard to control."
+    },
+    {
+      "word": "suspended",
+      "lemma": "suspend",
+      "level": "B2",
+      "hebrew": "הושעה / הופסק זמנית",
+      "explanation_hebrew": "הופסק באופן זמני",
+      "pronunciation_hebrew": "סַסְ-פֶּנ-דֶד",
+      "example": "Classes were suspended because of the snow."
+    },
+    {
+      "word": "cancelled",
+      "lemma": "cancel",
+      "level": "B1",
+      "hebrew": "בוטל",
+      "explanation_hebrew": "הוחלט שלא יתקיים",
+      "pronunciation_hebrew": "קֶן-סֶלְד",
+      "example": "The flight was cancelled due to the storm."
+    },
+    {
+      "word": "residents",
+      "lemma": "resident",
+      "level": "B1",
+      "hebrew": "תושבים",
+      "explanation_hebrew": "אנשים שגרים במקום מסוים",
+      "pronunciation_hebrew": "רֶ-זִי-דֶנְטְס",
+      "example": "Local residents were asked to stay indoors."
+    },
+    {
+      "word": "battering",
+      "lemma": "batter",
+      "level": "C1",
+      "hebrew": "חובט / מכה בעוצמה",
+      "explanation_hebrew": "מכה שוב ושוב בכוח רב",
+      "pronunciation_hebrew": "בֶּ-טֶ-רִינְג",
+      "example": "Huge waves were battering the harbour wall."
+    },
+    {
+      "word": "injured",
+      "lemma": "injure",
+      "level": "B1",
+      "hebrew": "נפצע",
+      "explanation_hebrew": "נגרם לו נזק גופני",
+      "pronunciation_hebrew": "אִינ-גֶ'רְד",
+      "example": "Several people were injured in the accident."
+    },
+    {
+      "word": "danger",
+      "lemma": "danger",
+      "level": "B1",
+      "hebrew": "סכנה",
+      "explanation_hebrew": "מצב שבו עלול לקרות נזק",
+      "pronunciation_hebrew": "דֵּיְן-גֶ'ר",
+      "example": "The swimmers were in real danger from the waves."
+    },
+    {
+      "word": "devastation",
+      "lemma": "devastation",
+      "level": "C1",
+      "hebrew": "הרס / חורבן",
+      "explanation_hebrew": "נזק רב מאוד וגורף",
+      "pronunciation_hebrew": "דֶ-וַה-סְטֵיְ-שֶׁן",
+      "example": "The earthquake left a scene of total devastation."
+    },
+    {
+      "word": "livestock",
+      "lemma": "livestock",
+      "level": "B2",
+      "hebrew": "בעלי חיים משקיים",
+      "explanation_hebrew": "חיות שמגדלים בחווה כמו פרות וכבשים",
+      "pronunciation_hebrew": "לַיְב-סְטוֹק",
+      "example": "The flood killed much of the farmer's livestock."
+    },
+    {
+      "word": "agriculture",
+      "lemma": "agriculture",
+      "level": "B2",
+      "hebrew": "חקלאות",
+      "explanation_hebrew": "גידול צמחים ובעלי חיים למזון",
+      "pronunciation_hebrew": "אַ-גְרִי-קַל-צֶ'ר",
+      "example": "Farming and agriculture are vital to the region."
+    },
+    {
+      "word": "reeling",
+      "lemma": "reel",
+      "level": "C1",
+      "hebrew": "מזועזע / מתנודד",
+      "explanation_hebrew": "נמצא במצב של הלם או חוסר יציבות",
+      "pronunciation_hebrew": "רִי-לִינְג",
+      "example": "The town is still reeling from the disaster."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "powerful",
+      "type": "english_to_hebrew",
+      "question": "What does “powerful” mean?",
+      "options": [
+        "נחיתה ליבשה",
+        "עוצמתי",
+        "פּוּנוּ / הותפנו",
+        "סערה"
+      ],
+      "correct_answer": "עוצמתי",
+      "explanation_hebrew": "“powerful” פירושו עוצמתי – חזק מאוד, בעל כוח רב"
+    },
+    {
+      "id": "A-q2",
+      "word": "landfall",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “נחיתה ליבשה”?",
+      "options": [
+        "coastal",
+        "storm",
+        "landfall",
+        "evacuated"
+      ],
+      "correct_answer": "landfall",
+      "explanation_hebrew": "המילה “landfall” פירושה נחיתה ליבשה – הרגע שבו סופה מגיעה מהים אל היבשה"
+    },
+    {
+      "id": "A-q3",
+      "word": "evacuated",
+      "type": "english_to_hebrew",
+      "question": "What does “evacuated” mean?",
+      "options": [
+        "חופי",
+        "סערה",
+        "אל החוף",
+        "פּוּנוּ / הותפנו"
+      ],
+      "correct_answer": "פּוּנוּ / הותפנו",
+      "explanation_hebrew": "“evacuated” פירושו פּוּנוּ / הותפנו – הוצאו ממקום מסוכן למקום בטוח"
+    },
+    {
+      "id": "A-q4",
+      "word": "storm",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “סערה”?",
+      "options": [
+        "coastal",
+        "storm",
+        "ashore",
+        "remote"
+      ],
+      "correct_answer": "storm",
+      "explanation_hebrew": "המילה “storm” פירושה סערה – מזג אוויר סוער עם רוח וגשם חזקים"
+    },
+    {
+      "id": "A-q5",
+      "word": "coastal",
+      "type": "english_to_hebrew",
+      "question": "What does “coastal” mean?",
+      "options": [
+        "מרוחק / נידח",
+        "כמות משקעים / גשם",
+        "חופי",
+        "אל החוף"
+      ],
+      "correct_answer": "חופי",
+      "explanation_hebrew": "“coastal” פירושו חופי – הקשור לאזור לחוף הים"
+    },
+    {
+      "id": "A-q6",
+      "word": "ashore",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “אל החוף”?",
+      "options": [
+        "ashore",
+        "remote",
+        "rainfall",
+        "triggered"
+      ],
+      "correct_answer": "ashore",
+      "explanation_hebrew": "המילה “ashore” פירושה אל החוף – אל היבשה מכיוון הים"
+    },
+    {
+      "id": "A-q7",
+      "word": "remote",
+      "type": "english_to_hebrew",
+      "question": "What does “remote” mean?",
+      "options": [
+        "גרם / הפעיל",
+        "מרוחק / נידח",
+        "כמות משקעים / גשם",
+        "נחלש"
+      ],
+      "correct_answer": "מרוחק / נידח",
+      "explanation_hebrew": "“remote” פירושו מרוחק / נידח – רחוק מאוד ממקומות מיושבים"
+    },
+    {
+      "id": "A-q8",
+      "word": "rainfall",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “כמות משקעים / גשם”?",
+      "options": [
+        "weakened",
+        "rainfall",
+        "severe",
+        "triggered"
+      ],
+      "correct_answer": "rainfall",
+      "explanation_hebrew": "המילה “rainfall” פירושה כמות משקעים / גשם – כמות הגשם שיורדת באזור מסוים"
+    },
+    {
+      "id": "A-q9",
+      "word": "triggered",
+      "type": "english_to_hebrew",
+      "question": "What does “triggered” mean?",
+      "options": [
+        "נחלש",
+        "חמור / קשה",
+        "גרם / הפעיל",
+        "לחות"
+      ],
+      "correct_answer": "גרם / הפעיל",
+      "explanation_hebrew": "“triggered” פירושו גרם / הפעיל – גרם למשהו לקרות"
+    },
+    {
+      "id": "A-q10",
+      "word": "weakened",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “נחלש”?",
+      "options": [
+        "forecast",
+        "moisture",
+        "severe",
+        "weakened"
+      ],
+      "correct_answer": "weakened",
+      "explanation_hebrew": "המילה “weakened” פירושה נחלש – הפך חלש יותר"
+    },
+    {
+      "id": "A-q11",
+      "word": "severe",
+      "type": "english_to_hebrew",
+      "question": "What does “severe” mean?",
+      "options": [
+        "להיחלש / להצטמצם",
+        "חמור / קשה",
+        "תחזית",
+        "לחות"
+      ],
+      "correct_answer": "חמור / קשה",
+      "explanation_hebrew": "“severe” פירושו חמור / קשה – רציני מאוד או קשה מאוד"
+    },
+    {
+      "id": "A-q12",
+      "word": "moisture",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “לחות”?",
+      "options": [
+        "diminish",
+        "forecast",
+        "intensity",
+        "moisture"
+      ],
+      "correct_answer": "moisture",
+      "explanation_hebrew": "המילה “moisture” פירושה לחות – כמות קטנה של מים באוויר או בחומר"
+    },
+    {
+      "id": "A-q13",
+      "word": "forecast",
+      "type": "english_to_hebrew",
+      "question": "What does “forecast” mean?",
+      "options": [
+        "להיחלש / להצטמצם",
+        "תחזית",
+        "עוצמה",
+        "הושעה / הופסק זמנית"
+      ],
+      "correct_answer": "תחזית",
+      "explanation_hebrew": "“forecast” פירושו תחזית – חיזוי של מה שיקרה, במיוחד במזג האוויר"
+    },
+    {
+      "id": "A-q14",
+      "word": "diminish",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “להיחלש / להצטמצם”?",
+      "options": [
+        "suspended",
+        "diminish",
+        "cancelled",
+        "intensity"
+      ],
+      "correct_answer": "diminish",
+      "explanation_hebrew": "המילה “diminish” פירושה להיחלש / להצטמצם – להיעשות קטן או חלש יותר"
+    },
+    {
+      "id": "A-q15",
+      "word": "intensity",
+      "type": "english_to_hebrew",
+      "question": "What does “intensity” mean?",
+      "options": [
+        "עוצמה",
+        "תושבים",
+        "בוטל",
+        "הושעה / הופסק זמנית"
+      ],
+      "correct_answer": "עוצמה",
+      "explanation_hebrew": "“intensity” פירושו עוצמה – מידת החוזק של משהו"
+    },
+    {
+      "id": "A-q16",
+      "word": "suspended",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “הושעה / הופסק זמנית”?",
+      "options": [
+        "suspended",
+        "residents",
+        "cancelled",
+        "battering"
+      ],
+      "correct_answer": "suspended",
+      "explanation_hebrew": "המילה “suspended” פירושה הושעה / הופסק זמנית – הופסק באופן זמני"
+    },
+    {
+      "id": "A-q17",
+      "word": "cancelled",
+      "type": "english_to_hebrew",
+      "question": "What does “cancelled” mean?",
+      "options": [
+        "בוטל",
+        "תושבים",
+        "חובט / מכה בעוצמה",
+        "נפצע"
+      ],
+      "correct_answer": "בוטל",
+      "explanation_hebrew": "“cancelled” פירושו בוטל – הוחלט שלא יתקיים"
+    },
+    {
+      "id": "A-q18",
+      "word": "residents",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “תושבים”?",
+      "options": [
+        "battering",
+        "residents",
+        "injured",
+        "danger"
+      ],
+      "correct_answer": "residents",
+      "explanation_hebrew": "המילה “residents” פירושה תושבים – אנשים שגרים במקום מסוים"
+    },
+    {
+      "id": "A-q19",
+      "word": "battering",
+      "type": "english_to_hebrew",
+      "question": "What does “battering” mean?",
+      "options": [
+        "הרס / חורבן",
+        "סכנה",
+        "נפצע",
+        "חובט / מכה בעוצמה"
+      ],
+      "correct_answer": "חובט / מכה בעוצמה",
+      "explanation_hebrew": "“battering” פירושו חובט / מכה בעוצמה – מכה שוב ושוב בכוח רב"
+    },
+    {
+      "id": "A-q20",
+      "word": "injured",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “נפצע”?",
+      "options": [
+        "livestock",
+        "danger",
+        "injured",
+        "devastation"
+      ],
+      "correct_answer": "injured",
+      "explanation_hebrew": "המילה “injured” פירושה נפצע – נגרם לו נזק גופני"
+    },
+    {
+      "id": "A-q21",
+      "word": "danger",
+      "type": "english_to_hebrew",
+      "question": "What does “danger” mean?",
+      "options": [
+        "בעלי חיים משקיים",
+        "הרס / חורבן",
+        "סכנה",
+        "חקלאות"
+      ],
+      "correct_answer": "סכנה",
+      "explanation_hebrew": "“danger” פירושו סכנה – מצב שבו עלול לקרות נזק"
+    },
+    {
+      "id": "A-q22",
+      "word": "devastation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “הרס / חורבן”?",
+      "options": [
+        "devastation",
+        "reeling",
+        "livestock",
+        "agriculture"
+      ],
+      "correct_answer": "devastation",
+      "explanation_hebrew": "המילה “devastation” פירושה הרס / חורבן – נזק רב מאוד וגורף"
+    },
+    {
+      "id": "A-q23",
+      "word": "livestock",
+      "type": "english_to_hebrew",
+      "question": "What does “livestock” mean?",
+      "options": [
+        "עוצמתי",
+        "בעלי חיים משקיים",
+        "חקלאות",
+        "מזועזע / מתנודד"
+      ],
+      "correct_answer": "בעלי חיים משקיים",
+      "explanation_hebrew": "“livestock” פירושו בעלי חיים משקיים – חיות שמגדלים בחווה כמו פרות וכבשים"
+    },
+    {
+      "id": "A-q24",
+      "word": "agriculture",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות “חקלאות”?",
+      "options": [
+        "landfall",
+        "powerful",
+        "agriculture",
+        "reeling"
+      ],
+      "correct_answer": "agriculture",
+      "explanation_hebrew": "המילה “agriculture” פירושה חקלאות – גידול צמחים ובעלי חיים למזון"
+    },
+    {
+      "id": "A-q25",
+      "word": "reeling",
+      "type": "english_to_hebrew",
+      "question": "What does “reeling” mean?",
+      "options": [
+        "עוצמתי",
+        "פּוּנוּ / הותפנו",
+        "נחיתה ליבשה",
+        "מזועזע / מתנודד"
+      ],
+      "correct_answer": "מזועזע / מתנודד",
+      "explanation_hebrew": "“reeling” פירושו מזועזע / מתנודד – נמצא במצב של הלם או חוסר יציבות"
+    }
+  ]
+}
