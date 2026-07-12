@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-12",
+  "article_id": "B",
+  "article_title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+  "article_url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "balanced",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What problem does the article investigate?",
+      "options": [
+        "Fake online adverts for small portable air conditioners",
+        "A shortage of winter heaters in supermarkets",
+        "A new law banning all fans in the UK",
+        "NASA selling official home air conditioners"
+      ],
+      "correct_answer": "Fake online adverts for small portable air conditioners",
+      "explanation_hebrew": "הכתבה בודקת פרסומות מטעות למכשירים קטנים שמוצגים כמזגנים ניידים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What cooling promise appears in the headline and adverts?",
+      "options": [
+        "Cool a room in 90 seconds",
+        "Freeze food for 90 days",
+        "Heat a house in 90 minutes",
+        "Cut humidity to zero in 90 hours"
+      ],
+      "correct_answer": "Cool a room in 90 seconds",
+      "explanation_hebrew": "הטענה הבולטת היא קירור מהיר מאוד תוך 90 שניות.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which platforms are mentioned as places where these adverts spread?",
+      "options": [
+        "Facebook and YouTube",
+        "Only printed newspapers",
+        "Cinema screens and radio only",
+        "School websites and library catalogues"
+      ],
+      "correct_answer": "Facebook and YouTube",
+      "explanation_hebrew": "הפרסומות הופצו ברשתות ופלטפורמות כמו Facebook ו-YouTube.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What price range did the BBC report for many of these devices?",
+      "options": [
+        "£5–£10",
+        "£20–£30",
+        "£70–£120",
+        "£500–£900"
+      ],
+      "correct_answer": "£70–£120",
+      "explanation_hebrew": "הכתבה מציינת שמכשירים כאלה נמכרו לעיתים במחיר של כ-70 עד 120 ליש״ט.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why are consumers more likely to notice or buy these products during heatwaves? Answer in 2–4 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "High temperatures increase demand for cooling products",
+        "Trusted fans or air conditioners can sell out",
+        "Urgency makes exaggerated adverts more tempting",
+        "Consumers may not check claims carefully when uncomfortable"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain what “misleading adverts” means in this article, using two details from the report. Answer in 2–4 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "The adverts create a false impression about cooling power",
+        "Examples include dramatic 90-second claims or NASA-style backstories",
+        "Fake reviews/testimonials or inconsistent branding can mislead buyers"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Stuart Matthews taking a product apart matter to the story?",
+      "options": [
+        "It shows the inside was too simple to match the advert’s claims",
+        "It proves all expensive air conditioners are fake",
+        "It shows cardboard fins are standard in real air conditioners",
+        "It confirms NASA built the device for homes"
+      ],
+      "correct_answer": "It shows the inside was too simple to match the advert’s claims",
+      "explanation_hebrew": "פירוק המכשיר מדגים פער בין ההבטחות לבין הרכיבים הפשוטים בפועל.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–120 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Fake portable air-conditioner adverts spread online",
+        "Claims include very rapid cooling and impressive backstories",
+        "Examples include weak components, water tanks, fake reviews, or exaggerated testimonials",
+        "The ASA warns consumers to be sceptical and report suspicious adverts"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What red flags should a reader look for before buying a “portable air conditioner” from an online advert? Answer in 2–4 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Unrealistic cooling claims",
+        "Overly positive or fake-looking reviews",
+        "Grand backstories such as former NASA engineers",
+        "Inconsistent branding, AI-style errors, or unclear seller details"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short consumer warning based on the article. Include one specific claim and one practical action.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Mentions a specific claim such as cooling in 90 seconds",
+        "Advises checking trusted sellers, reviews, specifications, or reporting to the ASA",
+        "Uses clear consumer-protection language"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
