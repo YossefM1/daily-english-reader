@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-12",
+  "article_id": "C",
+  "article_title": "Will Trump Accounts deliver for American children?",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "balanced",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What question does the article mainly examine?",
+      "options": [
+        "Whether Trump Accounts will meaningfully help American children build savings",
+        "Whether the US will abolish all child savings accounts",
+        "Whether children should be paid wages by schools",
+        "Whether banks will stop offering retirement accounts"
+      ],
+      "correct_answer": "Whether Trump Accounts will meaningfully help American children build savings",
+      "explanation_hebrew": "הכתבה בוחנת אם התוכנית החדשה באמת תועיל לילדים בארה״ב.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What initial government contribution is associated with qualifying babies?",
+      "options": [
+        "$100",
+        "$500",
+        "$1,000",
+        "$10,000"
+      ],
+      "correct_answer": "$1,000",
+      "explanation_hebrew": "אחד מפרטי המפתח הוא מענק התחלתי של 1,000 דולר לתינוקות זכאים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which children are described as qualifying for the initial contribution?",
+      "options": [
+        "Babies born in specified qualifying years",
+        "Only children already working full time",
+        "Only teenagers with credit cards",
+        "Only children living outside the US"
+      ],
+      "correct_answer": "Babies born in specified qualifying years",
+      "explanation_hebrew": "התוכנית מכוונת לתינוקות שנולדו בשנים/בתנאים המזכים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are some sceptics worried that lower-income families could lose out?",
+      "options": [
+        "Families with less spare money may be less able to add contributions over time",
+        "Lower-income families are banned from opening accounts",
+        "The accounts can only buy luxury goods",
+        "The government contribution is paid only to millionaires"
+      ],
+      "correct_answer": "Families with less spare money may be less able to add contributions over time",
+      "explanation_hebrew": "החשש הוא שהטבה המבוססת על חיסכון והשקעה תועיל יותר למי שיכול להוסיף כסף.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How does the White House framing differ from the concerns raised by critics? Answer in 3–6 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "White House presents the accounts as a stake in the American dream",
+        "Critics focus on unequal ability to contribute and benefit",
+        "Answer contrasts optimistic rhetoric with practical distributional concerns",
+        "Mentions savings, investment exposure, or lower-income families"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe two rules or limits connected to the accounts, such as contributions or withdrawals. Answer in 3–6 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Parents or others can contribute money",
+        "Withdrawals are limited or can face tax/penalties if early",
+        "Money may be directed toward uses such as education, expenses, or retirement",
+        "The details make the scheme more complicated than a simple cash gift"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article compare the scheme with traditional savings or investment accounts?",
+      "options": [
+        "To judge whether the new accounts add something useful beyond existing options",
+        "To argue that children should never invest",
+        "To show that all families already have identical savings habits",
+        "To explain why banks cannot hold children’s money"
+      ],
+      "correct_answer": "To judge whether the new accounts add something useful beyond existing options",
+      "explanation_hebrew": "ההשוואה עוזרת לבחון אם מדובר בחידוש משמעותי או בעיקר במיתוג של כלי חיסכון מוכר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 120–170 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Explains what Trump Accounts are",
+        "Includes the $1,000 contribution and qualifying children",
+        "Mentions possible extra contributions and investment growth",
+        "Presents both supporters’ hopes and critics’ concerns",
+        "Discusses unequal benefits, complexity, or limits on withdrawals"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What kinds of evidence would help determine whether Trump Accounts succeed over time? Answer in 3–6 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Participation rates across income groups",
+        "Average contributions beyond the initial subsidy",
+        "Long-term account balances and investment outcomes",
+        "How often withdrawals are used for education, expenses, or retirement",
+        "Whether the programme narrows or widens wealth gaps"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a 3–6 sentence evaluation of one likely consequence of the scheme for American children.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "States a clear judgment or likely consequence",
+        "Uses article details such as subsidy, eligibility, contributions, penalties, or inequality",
+        "Acknowledges at least one limitation or counterargument"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

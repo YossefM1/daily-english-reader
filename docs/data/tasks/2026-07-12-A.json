@@ -1,0 +1,154 @@
+{
+  "date": "2026-07-12",
+  "article_id": "A",
+  "article_title": "China's second typhoon in a week makes landfall",
+  "article_url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "balanced",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which Chinese province was the main focus of the typhoon landfall report?",
+      "options": [
+        "Guangdong province",
+        "Zhejiang province",
+        "Sichuan province",
+        "Hainan province"
+      ],
+      "correct_answer": "Zhejiang province",
+      "explanation_hebrew": "הכתבה מדגישה את מחוז ג׳ג׳יאנג במזרח סין, שבו פונו כמעט שני מיליון אנשים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many people were evacuated in eastern Zhejiang before or during the storm?",
+      "options": [
+        "About 20,000 people",
+        "Nearly 200,000 people",
+        "Nearly two million people",
+        "More than 20 million people"
+      ],
+      "correct_answer": "Nearly two million people",
+      "explanation_hebrew": "הפרט המרכזי בכתבה הוא פינוי כמעט שני מיליון אנשים באזור ג׳ג׳יאנג.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main event reported in the article?",
+      "options": [
+        "A powerful typhoon made landfall in China for the second time in a week",
+        "China opened a new airport after a week of delays",
+        "A drought ended after several months in northern China",
+        "Scientists named a new weather satellite over Zhejiang"
+      ],
+      "correct_answer": "A powerful typhoon made landfall in China for the second time in a week",
+      "explanation_hebrew": "הרעיון המרכזי הוא שסין נפגעה מטייפון חזק נוסף בתוך שבוע.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What danger had an earlier typhoon already triggered?",
+      "options": [
+        "Wildfires in western forests",
+        "Landslides and flood damage",
+        "A nationwide electricity strike",
+        "A volcanic eruption near Shanghai"
+      ],
+      "correct_answer": "Landslides and flood damage",
+      "explanation_hebrew": "הכתבה מזכירה שטייפון קודם גרם למפולות בוץ ולנזקים משיטפונות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did officials evacuate so many residents before the typhoon moved inland? Answer in 1–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "The storm was powerful and reached land from the sea",
+        "Coastal residents faced danger from wind, rain, flooding, or landslides",
+        "Evacuation reduces injuries and deaths before conditions worsen"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "In this report, what does “landfall” mean, and why is it important? Answer in 1–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Landfall means the typhoon came ashore from the sea",
+        "It marks when coastal communities are hit directly",
+        "It helps explain why evacuations and transport disruptions were needed"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What does the phrase “second typhoon in a week” suggest about the situation in China?",
+      "options": [
+        "The country had repeated severe weather in a short time",
+        "The first typhoon missed China completely",
+        "The second storm was only a small rain shower",
+        "The article is about two storms many years apart"
+      ],
+      "correct_answer": "The country had repeated severe weather in a short time",
+      "explanation_hebrew": "הביטוי מראה שרצף הסופות יצר מצב מתמשך ומסוכן.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 50–80 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "A typhoon made landfall in China",
+        "It was the second typhoon in a week",
+        "Nearly two million people were evacuated in eastern Zhejiang",
+        "Mention risks such as strong wind, heavy rain, flooding, or landslides"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 1–3 sentences explaining which detail best shows the scale of the emergency.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Clear choice of one detail from the report",
+        "Explanation tied to evacuations, repeated typhoons, landfall, or previous damage"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write one safety question you would ask local officials after reading the article, and explain why it matters.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "A relevant question about evacuations, shelters, warnings, transport, flooding, or landslides",
+        "A short explanation of how the answer would protect residents"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
