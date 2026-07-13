@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-13",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o",
+  "word_count": 1111,
+  "generated_at": "2026-07-13T02:11:43.312770+00:00",
+  "difficulty_reason": "A dense business-analysis feature with longer sentences, figurative language and B2/C1/C2 vocabulary; some market and retail background knowledge helps.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "bargains",
+      "lemma": "bargain",
+      "level": "B2",
+      "hebrew": "מציאות",
+      "explanation_hebrew": "קניות במחיר נמוך במיוחד",
+      "pronunciation_hebrew": "בַּארגֶ'ינז",
+      "example": "She loves hunting for bargains."
+    },
+    {
+      "word": "reputation",
+      "lemma": "reputation",
+      "level": "B2",
+      "hebrew": "מוניטין",
+      "explanation_hebrew": "הדעה הכללית על מישהו או משהו",
+      "pronunciation_hebrew": "רֶפְּיוּטֵיישֶן",
+      "example": "The shop has a reputation for low prices."
+    },
+    {
+      "word": "inexpensive",
+      "lemma": "inexpensive",
+      "level": "B2",
+      "hebrew": "זול",
+      "explanation_hebrew": "שאינו עולה הרבה",
+      "pronunciation_hebrew": "אִינאִיקספֶּנסִיב",
+      "example": "They sell inexpensive but good food."
+    },
+    {
+      "word": "marvelling",
+      "lemma": "marvel",
+      "level": "C1",
+      "hebrew": "משתאה, מתפעל",
+      "explanation_hebrew": "מסתכל בהתפעלות ובהפתעה",
+      "pronunciation_hebrew": "מַארוֶלִינג",
+      "example": "She stood marvelling at the prices."
+    },
+    {
+      "word": "unassuming",
+      "lemma": "unassuming",
+      "level": "C1",
+      "hebrew": "צנוע, לא בולט",
+      "explanation_hebrew": "לא מרשים או מושך תשומת לב",
+      "pronunciation_hebrew": "אַנאַסְיוּמִינג",
+      "example": "The unassuming shop hid a great store."
+    },
+    {
+      "word": "tucked",
+      "lemma": "tuck",
+      "level": "B2",
+      "hebrew": "מוסתר, מוטמן",
+      "explanation_hebrew": "ממוקם במקום נסתר",
+      "pronunciation_hebrew": "טַאקְט",
+      "example": "The store is tucked away underground."
+    },
+    {
+      "word": "omits",
+      "lemma": "omit",
+      "level": "C1",
+      "hebrew": "משמיט",
+      "explanation_hebrew": "משאיר בחוץ, לא כולל",
+      "pronunciation_hebrew": "אוֹמִיטס",
+      "example": "The guide omits the cheaper shop."
+    },
+    {
+      "word": "curated",
+      "lemma": "curate",
+      "level": "C1",
+      "hebrew": "נבחר בקפידה",
+      "explanation_hebrew": "נאסף ואורגן בקפידה",
+      "pronunciation_hebrew": "קְיוּרֵייטֶד",
+      "example": "A carefully curated list of shops."
+    },
+    {
+      "word": "grocer",
+      "lemma": "grocer",
+      "level": "B2",
+      "hebrew": "חנווני, מכולת",
+      "explanation_hebrew": "מי שמוכר מזון",
+      "pronunciation_hebrew": "גרוֹסֶר",
+      "example": "The German grocer opened a new store."
+    },
+    {
+      "word": "bustling",
+      "lemma": "bustling",
+      "level": "C1",
+      "hebrew": "שוקק",
+      "explanation_hebrew": "מלא תנועה ופעילות",
+      "pronunciation_hebrew": "בַּאסלִינג",
+      "example": "The market was a bustling place."
+    },
+    {
+      "word": "expansion",
+      "lemma": "expansion",
+      "level": "B2",
+      "hebrew": "התרחבות",
+      "explanation_hebrew": "גדילה או הגדלה",
+      "pronunciation_hebrew": "אִיקספַּנשֶן",
+      "example": "The chain announced a big expansion."
+    },
+    {
+      "word": "footprint",
+      "lemma": "footprint",
+      "level": "C1",
+      "hebrew": "טביעת רגל, נוכחות",
+      "explanation_hebrew": "היקף הנוכחות של חברה",
+      "pronunciation_hebrew": "פוּטפּרִינט",
+      "example": "It grew its retail footprint fast."
+    },
+    {
+      "word": "insurgency",
+      "lemma": "insurgency",
+      "level": "C2",
+      "hebrew": "מרד, התקוממות",
+      "explanation_hebrew": "מאבק חזק נגד גורם שולט",
+      "pronunciation_hebrew": "אִינסֶרגֶ'נסִי",
+      "example": "The brand led a market insurgency."
+    },
+    {
+      "word": "automation",
+      "lemma": "automation",
+      "level": "C1",
+      "hebrew": "אוטומציה",
+      "explanation_hebrew": "שימוש במכונות במקום עבודת אדם",
+      "pronunciation_hebrew": "אוֹטוֹמֵיישֶן",
+      "example": "The warehouse relies on automation."
+    },
+    {
+      "word": "swathes",
+      "lemma": "swathe",
+      "level": "C2",
+      "hebrew": "נתחים גדולים",
+      "explanation_hebrew": "חלקים רחבים של משהו",
+      "pronunciation_hebrew": "סְווֵיית'ז",
+      "example": "It won swathes of the market."
+    },
+    {
+      "word": "gradually",
+      "lemma": "gradually",
+      "level": "B2",
+      "hebrew": "בהדרגה",
+      "explanation_hebrew": "לאט לאט, צעד אחר צעד",
+      "pronunciation_hebrew": "גרַדג'וּאַלִי",
+      "example": "They gradually took customers."
+    },
+    {
+      "word": "commanding",
+      "lemma": "command",
+      "level": "C1",
+      "hebrew": "מחזיק, שולט ב-",
+      "explanation_hebrew": "מחזיק בנתח או בשליטה",
+      "pronunciation_hebrew": "קוֹמַאנדִינג",
+      "example": "It is commanding a large market share."
+    },
+    {
+      "word": "perceptions",
+      "lemma": "perception",
+      "level": "C1",
+      "hebrew": "תפיסות",
+      "explanation_hebrew": "הדרך שבה אנשים תופסים משהו",
+      "pronunciation_hebrew": "פֶּרסֶפּשֶנז",
+      "example": "Perceptions of the brand improved."
+    },
+    {
+      "word": "ascent",
+      "lemma": "ascent",
+      "level": "C1",
+      "hebrew": "עלייה, טיפוס",
+      "explanation_hebrew": "תהליך של עלייה למעלה",
+      "pronunciation_hebrew": "אַסֶנט",
+      "example": "The crisis fuelled its ascent."
+    },
+    {
+      "word": "persistent",
+      "lemma": "persistent",
+      "level": "B2",
+      "hebrew": "מתמשך, עקשני",
+      "explanation_hebrew": "שממשיך לאורך זמן",
+      "pronunciation_hebrew": "פֶּרסִיסטֶנט",
+      "example": "Persistent inflation hurt families."
+    },
+    {
+      "word": "conventional",
+      "lemma": "conventional",
+      "level": "B2",
+      "hebrew": "מקובל, רגיל",
+      "explanation_hebrew": "הנעשה בדרך הרגילה",
+      "pronunciation_hebrew": "קוֹנוֶנשֶנָל",
+      "example": "They left the conventional grocery store."
+    },
+    {
+      "word": "reliance",
+      "lemma": "reliance",
+      "level": "C1",
+      "hebrew": "הסתמכות",
+      "explanation_hebrew": "תלות במשהו",
+      "pronunciation_hebrew": "רִילַאיאֶנס",
+      "example": "Its reliance on own brands is high."
+    },
+    {
+      "word": "overheads",
+      "lemma": "overhead",
+      "level": "C1",
+      "hebrew": "הוצאות תקורה",
+      "explanation_hebrew": "עלויות קבועות של עסק",
+      "pronunciation_hebrew": "אוֹבֶרהֶדז",
+      "example": "Low overheads keep prices down."
+    },
+    {
+      "word": "congestion",
+      "lemma": "congestion",
+      "level": "B2",
+      "hebrew": "עומס, פקק",
+      "explanation_hebrew": "צפיפות תנועה או תעבורה",
+      "pronunciation_hebrew": "קוֹנגֶ'סצֶ'ן",
+      "example": "Trucks arrive at night to avoid congestion."
+    },
+    {
+      "word": "constraints",
+      "lemma": "constraint",
+      "level": "C1",
+      "hebrew": "מגבלות",
+      "explanation_hebrew": "דברים שמגבילים אפשרויות",
+      "pronunciation_hebrew": "קוֹנסטרֵיינטס",
+      "example": "Structural constraints limit its growth."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "bargains",
+      "type": "english_to_hebrew",
+      "question": "What does “bargains” mean?",
+      "options": [
+        "זול",
+        "מציאות",
+        "משתאה, מתפעל",
+        "מוניטין"
+      ],
+      "correct_answer": "מציאות",
+      "explanation_hebrew": "“bargains” פירושו מציאות."
+    },
+    {
+      "id": "C-q2",
+      "word": "reputation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוניטין”?",
+      "options": [
+        "unassuming",
+        "marvelling",
+        "inexpensive",
+        "reputation"
+      ],
+      "correct_answer": "reputation",
+      "explanation_hebrew": "המילה “מוניטין” באנגלית היא “reputation”."
+    },
+    {
+      "id": "C-q3",
+      "word": "inexpensive",
+      "type": "english_to_hebrew",
+      "question": "What does “inexpensive” mean?",
+      "options": [
+        "צנוע, לא בולט",
+        "זול",
+        "מוסתר, מוטמן",
+        "משתאה, מתפעל"
+      ],
+      "correct_answer": "זול",
+      "explanation_hebrew": "“inexpensive” פירושו זול."
+    },
+    {
+      "id": "C-q4",
+      "word": "marvelling",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “משתאה, מתפעל”?",
+      "options": [
+        "omits",
+        "tucked",
+        "marvelling",
+        "unassuming"
+      ],
+      "correct_answer": "marvelling",
+      "explanation_hebrew": "המילה “משתאה, מתפעל” באנגלית היא “marvelling”."
+    },
+    {
+      "id": "C-q5",
+      "word": "unassuming",
+      "type": "english_to_hebrew",
+      "question": "What does “unassuming” mean?",
+      "options": [
+        "צנוע, לא בולט",
+        "נבחר בקפידה",
+        "מוסתר, מוטמן",
+        "משמיט"
+      ],
+      "correct_answer": "צנוע, לא בולט",
+      "explanation_hebrew": "“unassuming” פירושו צנוע, לא בולט."
+    },
+    {
+      "id": "C-q6",
+      "word": "tucked",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוסתר, מוטמן”?",
+      "options": [
+        "curated",
+        "grocer",
+        "omits",
+        "tucked"
+      ],
+      "correct_answer": "tucked",
+      "explanation_hebrew": "המילה “מוסתר, מוטמן” באנגלית היא “tucked”."
+    },
+    {
+      "id": "C-q7",
+      "word": "omits",
+      "type": "english_to_hebrew",
+      "question": "What does “omits” mean?",
+      "options": [
+        "נבחר בקפידה",
+        "שוקק",
+        "חנווני, מכולת",
+        "משמיט"
+      ],
+      "correct_answer": "משמיט",
+      "explanation_hebrew": "“omits” פירושו משמיט."
+    },
+    {
+      "id": "C-q8",
+      "word": "curated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נבחר בקפידה”?",
+      "options": [
+        "expansion",
+        "curated",
+        "bustling",
+        "grocer"
+      ],
+      "correct_answer": "curated",
+      "explanation_hebrew": "המילה “נבחר בקפידה” באנגלית היא “curated”."
+    },
+    {
+      "id": "C-q9",
+      "word": "grocer",
+      "type": "english_to_hebrew",
+      "question": "What does “grocer” mean?",
+      "options": [
+        "חנווני, מכולת",
+        "טביעת רגל, נוכחות",
+        "שוקק",
+        "התרחבות"
+      ],
+      "correct_answer": "חנווני, מכולת",
+      "explanation_hebrew": "“grocer” פירושו חנווני, מכולת."
+    },
+    {
+      "id": "C-q10",
+      "word": "bustling",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שוקק”?",
+      "options": [
+        "insurgency",
+        "bustling",
+        "footprint",
+        "expansion"
+      ],
+      "correct_answer": "bustling",
+      "explanation_hebrew": "המילה “שוקק” באנגלית היא “bustling”."
+    },
+    {
+      "id": "C-q11",
+      "word": "expansion",
+      "type": "english_to_hebrew",
+      "question": "What does “expansion” mean?",
+      "options": [
+        "טביעת רגל, נוכחות",
+        "מרד, התקוממות",
+        "אוטומציה",
+        "התרחבות"
+      ],
+      "correct_answer": "התרחבות",
+      "explanation_hebrew": "“expansion” פירושו התרחבות."
+    },
+    {
+      "id": "C-q12",
+      "word": "footprint",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “טביעת רגל, נוכחות”?",
+      "options": [
+        "swathes",
+        "automation",
+        "insurgency",
+        "footprint"
+      ],
+      "correct_answer": "footprint",
+      "explanation_hebrew": "המילה “טביעת רגל, נוכחות” באנגלית היא “footprint”."
+    },
+    {
+      "id": "C-q13",
+      "word": "insurgency",
+      "type": "english_to_hebrew",
+      "question": "What does “insurgency” mean?",
+      "options": [
+        "בהדרגה",
+        "אוטומציה",
+        "נתחים גדולים",
+        "מרד, התקוממות"
+      ],
+      "correct_answer": "מרד, התקוממות",
+      "explanation_hebrew": "“insurgency” פירושו מרד, התקוממות."
+    },
+    {
+      "id": "C-q14",
+      "word": "automation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אוטומציה”?",
+      "options": [
+        "automation",
+        "commanding",
+        "swathes",
+        "gradually"
+      ],
+      "correct_answer": "automation",
+      "explanation_hebrew": "המילה “אוטומציה” באנגלית היא “automation”."
+    },
+    {
+      "id": "C-q15",
+      "word": "swathes",
+      "type": "english_to_hebrew",
+      "question": "What does “swathes” mean?",
+      "options": [
+        "בהדרגה",
+        "תפיסות",
+        "נתחים גדולים",
+        "מחזיק, שולט ב-"
+      ],
+      "correct_answer": "נתחים גדולים",
+      "explanation_hebrew": "“swathes” פירושו נתחים גדולים."
+    },
+    {
+      "id": "C-q16",
+      "word": "gradually",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בהדרגה”?",
+      "options": [
+        "ascent",
+        "gradually",
+        "commanding",
+        "perceptions"
+      ],
+      "correct_answer": "gradually",
+      "explanation_hebrew": "המילה “בהדרגה” באנגלית היא “gradually”."
+    },
+    {
+      "id": "C-q17",
+      "word": "commanding",
+      "type": "english_to_hebrew",
+      "question": "What does “commanding” mean?",
+      "options": [
+        "מחזיק, שולט ב-",
+        "תפיסות",
+        "עלייה, טיפוס",
+        "מתמשך, עקשני"
+      ],
+      "correct_answer": "מחזיק, שולט ב-",
+      "explanation_hebrew": "“commanding” פירושו מחזיק, שולט ב-."
+    },
+    {
+      "id": "C-q18",
+      "word": "perceptions",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תפיסות”?",
+      "options": [
+        "perceptions",
+        "ascent",
+        "persistent",
+        "conventional"
+      ],
+      "correct_answer": "perceptions",
+      "explanation_hebrew": "המילה “תפיסות” באנגלית היא “perceptions”."
+    },
+    {
+      "id": "C-q19",
+      "word": "ascent",
+      "type": "english_to_hebrew",
+      "question": "What does “ascent” mean?",
+      "options": [
+        "עלייה, טיפוס",
+        "מתמשך, עקשני",
+        "הסתמכות",
+        "מקובל, רגיל"
+      ],
+      "correct_answer": "עלייה, טיפוס",
+      "explanation_hebrew": "“ascent” פירושו עלייה, טיפוס."
+    },
+    {
+      "id": "C-q20",
+      "word": "persistent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מתמשך, עקשני”?",
+      "options": [
+        "overheads",
+        "conventional",
+        "reliance",
+        "persistent"
+      ],
+      "correct_answer": "persistent",
+      "explanation_hebrew": "המילה “מתמשך, עקשני” באנגלית היא “persistent”."
+    },
+    {
+      "id": "C-q21",
+      "word": "conventional",
+      "type": "english_to_hebrew",
+      "question": "What does “conventional” mean?",
+      "options": [
+        "מקובל, רגיל",
+        "הוצאות תקורה",
+        "הסתמכות",
+        "עומס, פקק"
+      ],
+      "correct_answer": "מקובל, רגיל",
+      "explanation_hebrew": "“conventional” פירושו מקובל, רגיל."
+    },
+    {
+      "id": "C-q22",
+      "word": "reliance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הסתמכות”?",
+      "options": [
+        "reliance",
+        "congestion",
+        "constraints",
+        "overheads"
+      ],
+      "correct_answer": "reliance",
+      "explanation_hebrew": "המילה “הסתמכות” באנגלית היא “reliance”."
+    },
+    {
+      "id": "C-q23",
+      "word": "overheads",
+      "type": "english_to_hebrew",
+      "question": "What does “overheads” mean?",
+      "options": [
+        "מציאות",
+        "הוצאות תקורה",
+        "מגבלות",
+        "עומס, פקק"
+      ],
+      "correct_answer": "הוצאות תקורה",
+      "explanation_hebrew": "“overheads” פירושו הוצאות תקורה."
+    },
+    {
+      "id": "C-q24",
+      "word": "congestion",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עומס, פקק”?",
+      "options": [
+        "reputation",
+        "congestion",
+        "bargains",
+        "constraints"
+      ],
+      "correct_answer": "congestion",
+      "explanation_hebrew": "המילה “עומס, פקק” באנגלית היא “congestion”."
+    },
+    {
+      "id": "C-q25",
+      "word": "constraints",
+      "type": "english_to_hebrew",
+      "question": "What does “constraints” mean?",
+      "options": [
+        "מגבלות",
+        "מציאות",
+        "זול",
+        "מוניטין"
+      ],
+      "correct_answer": "מגבלות",
+      "explanation_hebrew": "“constraints” פירושו מגבלות."
+    }
+  ]
+}
