@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-14",
+  "article_id": "C",
+  "article_title": "The secretive crypto firm backed by Farage's biggest donor",
+  "article_url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which cryptocurrency business is central to the article?",
+      "options": ["Coinbase and its US exchange", "Tether and the companies linked to its stablecoin operations", "A British central-bank digital currency project", "A small Bitcoin mining cooperative in Wales"],
+      "correct_answer": "Tether and the companies linked to its stablecoin operations",
+      "explanation_hebrew": "הכתבה מתמקדת ב-Tether ובחברות ובאנשים הקשורים לפעילות ה-stablecoin שלה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who is the political donor discussed in connection with the crypto firm?",
+      "options": ["Richard Tice", "George Cottrell", "Christopher Harborne", "Arron Banks"],
+      "correct_answer": "Christopher Harborne",
+      "explanation_hebrew": "הדמות המרכזית היא כריסטופר הארבורן, התורם הגדול המזוהה עם נייג'ל פאראג' ו-Reform UK.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly investigating?",
+      "options": ["How to buy stablecoins safely", "The opaque links among a major crypto company, its ownership, and a powerful political donor", "Why Britain has banned all cryptocurrency donations", "How central banks set interest rates"],
+      "correct_answer": "The opaque links among a major crypto company, its ownership, and a powerful political donor",
+      "explanation_hebrew": "עיקר הכתבה הוא חקירת הקשרים הלא שקופים בין חברת קריפטו גדולה, מבנה הבעלות שלה ותורם פוליטי מרכזי.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why is Tether often described as a “stablecoin”?",
+      "options": ["Its value is intended to track a conventional currency such as the US dollar", "It can never be transferred between countries", "Its price is fixed by the British Parliament", "It is backed only by physical gold stored in London"],
+      "correct_answer": "Its value is intended to track a conventional currency such as the US dollar",
+      "explanation_hebrew": "Stablecoin נועד לשמור על ערך הצמוד למטבע רגיל, בדרך כלל הדולר האמריקאי.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does limited public information about ownership and offshore structures matter in this story? Answer in 2–4 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Opacity makes it harder to know who controls or benefits from the business", "It complicates scrutiny of financial and political influence", "The firm's scale means transparency has wider public importance"],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "In this article, what does “conduit” suggest when used about moving money or value? Answer in 1–2 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["It means a channel or mechanism through which funds or value pass", "It emphasizes the firm's role in connecting conventional finance and crypto markets"],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article connect the firm's growth with political debate about cryptocurrency?",
+      "options": ["Because the firm writes all UK election laws", "Because growing crypto wealth can create influence while regulation and disclosure remain contested", "Because every cryptocurrency company must donate to a political party", "Because stablecoins are used only by government departments"],
+      "correct_answer": "Because growing crypto wealth can create influence while regulation and disclosure remain contested",
+      "explanation_hebrew": "הכתבה מצביעה על כך שעושר והשפעה מעולם הקריפטו עשויים להשפיע פוליטית בזמן שהפיקוח והשקיפות עדיין שנויים במחלוקת.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–110 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Identify the crypto firm and its stablecoin role", "Explain Christopher Harborne's connection to the company and to Farage or Reform UK", "Mention the secrecy or complexity surrounding ownership and offshore arrangements", "State why the links raise questions about transparency, regulation, and political influence"],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 2–4 sentences explaining the strongest reason for greater transparency in the relationship between major donors and financial companies.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Give a clear reason related to accountability, conflicts of interest, or public trust", "Connect the reasoning to the scale of the company or donor's political influence"],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "summary",
+      "type": "written_response",
+      "prompt": "Write a three-sentence structured summary: one sentence on the company, one on the donor, and one on the public-interest concern.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Describe Tether or the relevant crypto business and its role", "Describe Harborne's business and political connections", "Explain concerns about opacity, regulation, or influence"],
+      "difficulty": "C"
+    }
+  ]
+}
