@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-14",
+  "article_id": "B",
+  "article_title": "'There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
+  "article_url": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the deadly fire take place?",
+      "options": ["At a hotel in Chiang Mai", "At a bar in Bangkok", "At a market in Phuket", "At a theatre in Pattaya"],
+      "correct_answer": "At a bar in Bangkok",
+      "explanation_hebrew": "השריפה התרחשה בבר בבנגקוק.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What made escape especially difficult for people inside?",
+      "options": ["The building had no electricity before the fire", "Smoke, flames, panic, and possible obstructions near exits", "Floodwater entered the building", "The doors were locked for a private concert"],
+      "correct_answer": "Smoke, flames, panic, and possible obstructions near exits",
+      "explanation_hebrew": "העשן, הלהבות, הבהלה והחשד לחסימות ביציאות הקשו מאוד על הבריחה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What possible cause did the initial assessment identify?",
+      "options": ["A gas leak in the kitchen", "Fireworks used by the band", "An electrical short circuit in a ceiling air conditioner", "A cigarette dropped outside the entrance"],
+      "correct_answer": "An electrical short circuit in a ceiling air conditioner",
+      "explanation_hebrew": "הערכה ראשונית הצביעה על קצר חשמלי במזגן תקרה כגורם אפשרי.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Which statement best captures the article's main idea?",
+      "options": ["Bangkok plans to close all music venues", "Survivors describe a fast-moving bar fire that caused heavy loss of life and raised safety questions", "A musician organised a charity concert after a small accident", "Firefighters tested new equipment in a crowded district"],
+      "correct_answer": "Survivors describe a fast-moving bar fire that caused heavy loss of life and raised safety questions",
+      "explanation_hebrew": "הכתבה משלבת עדויות ניצולים עם תיאור האסון והשאלות שעלו לגבי בטיחות המקום.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do the witnesses' personal stories make the scale of the disaster clearer? Answer in 2–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["They show how quickly ordinary celebrations became life-threatening", "They reveal individual losses, injuries, and failed rescue attempts", "They make the death toll and safety failures more concrete"],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "What does “futile” mean when describing attempts to rescue people or fight the fire? Answer in 1–2 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["The attempts had little or no chance of success", "Conditions such as heat, smoke, or flames made the efforts ineffective"],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are investigators examining exits, wiring, and flammable materials?",
+      "options": ["To decide how to rebuild the bar's stage", "To determine whether preventable safety failures worsened the fire", "To identify which band was performing", "To calculate the value of lost personal belongings"],
+      "correct_answer": "To determine whether preventable safety failures worsened the fire",
+      "explanation_hebrew": "החקירה בודקת אם ליקויי בטיחות שניתן היה למנוע תרמו להיקף האסון.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 60–90 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["A deadly fire swept through a crowded Bangkok bar", "Survivors described rapid flames, smoke, panic, and difficulty escaping", "Many people were killed or injured", "Authorities are investigating the cause and possible safety violations"],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 2–3 sentences explaining which safety issue in the article should receive the most urgent attention and why.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Choose an issue such as accessible exits, electrical wiring, fire extinguishers, or flammable materials", "Explain how addressing it could reduce deaths and injuries"],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "summary",
+      "type": "written_response",
+      "prompt": "Write a two-sentence summary: the first sentence should describe what happened, and the second should explain the main question raised by the article.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Describe the deadly Bangkok bar fire and its human impact", "Identify the question of whether safety failures made the disaster worse"],
+      "difficulty": "B"
+    }
+  ]
+}
