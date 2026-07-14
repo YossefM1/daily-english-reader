@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-14",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "The secretive crypto firm backed by Farage's biggest donor",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o",
+  "word_count": 1276,
+  "generated_at": "2026-07-14T02:12:29.354494+00:00",
+  "difficulty_reason": "ניתוח פוליטי-כלכלי צפוף מידע עם משפטים מורכבים, אוצר מילים B2/C1/C2 ודורש ידע רקע פיננסי ופוליטי.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "secretive",
+      "lemma": "secretive",
+      "level": "C1",
+      "hebrew": "חשאי / סודי",
+      "explanation_hebrew": "נוטה להסתיר מידע",
+      "pronunciation_hebrew": "סִיקְרִטִיב",
+      "example": "The company is very secretive about its plans."
+    },
+    {
+      "word": "haven",
+      "lemma": "haven",
+      "level": "C1",
+      "hebrew": "מקלט / מפלט בטוח",
+      "explanation_hebrew": "מקום בטוח לשמור בו ערך",
+      "pronunciation_hebrew": "הֵייבֶן",
+      "example": "Gold is seen as a safe haven."
+    },
+    {
+      "word": "precious",
+      "lemma": "precious",
+      "level": "B2",
+      "hebrew": "יקר ערך",
+      "explanation_hebrew": "בעל ערך רב",
+      "pronunciation_hebrew": "פְּרֶשֶס",
+      "example": "Water is a precious resource."
+    },
+    {
+      "word": "conduit",
+      "lemma": "conduit",
+      "level": "C2",
+      "hebrew": "צינור / אמצעי מעבר",
+      "explanation_hebrew": "אמצעי להעברת דבר ממקום למקום",
+      "pronunciation_hebrew": "קוֹנְדוּאִיט",
+      "example": "The bank acts as a conduit for funds."
+    },
+    {
+      "word": "volatile",
+      "lemma": "volatile",
+      "level": "C1",
+      "hebrew": "תנודתי / הפכפך",
+      "explanation_hebrew": "משתנה בחדות ובלי צפיות",
+      "pronunciation_hebrew": "ווֹלַטַייל",
+      "example": "Oil prices are very volatile."
+    },
+    {
+      "word": "conventional",
+      "lemma": "conventional",
+      "level": "B2",
+      "hebrew": "מקובל / קונבנציונלי",
+      "explanation_hebrew": "רגיל ומקובל, לא חדשני",
+      "pronunciation_hebrew": "קוֹנְוֶנְשֶנַל",
+      "example": "They prefer conventional banking."
+    },
+    {
+      "word": "offshore",
+      "lemma": "offshore",
+      "level": "C1",
+      "hebrew": "חוץ-גבולי / מעבר לים",
+      "explanation_hebrew": "הנמצא מחוץ למדינה, לרוב לצורכי מס",
+      "pronunciation_hebrew": "אוֹפְשוֹר",
+      "example": "The money was kept in an offshore account."
+    },
+    {
+      "word": "inadvertently",
+      "lemma": "inadvertently",
+      "level": "C2",
+      "hebrew": "בשוגג / שלא במתכוון",
+      "explanation_hebrew": "בלי כוונה",
+      "pronunciation_hebrew": "אִינַדְוֶרְטֶנְטְלִי",
+      "example": "He inadvertently deleted the file."
+    },
+    {
+      "word": "entangled",
+      "lemma": "entangle",
+      "level": "C1",
+      "hebrew": "סבוך / מעורב",
+      "explanation_hebrew": "מסתבך במצב מורכב",
+      "pronunciation_hebrew": "אִינְטָאנְגְלְד",
+      "example": "She got entangled in a legal dispute."
+    },
+    {
+      "word": "undisclosed",
+      "lemma": "undisclosed",
+      "level": "C1",
+      "hebrew": "חסוי / לא מפורסם",
+      "explanation_hebrew": "שלא נחשף לציבור",
+      "pronunciation_hebrew": "אַנְדִיסְקְלוֹזְד",
+      "example": "The deal was sold for an undisclosed sum."
+    },
+    {
+      "word": "parliamentary",
+      "lemma": "parliamentary",
+      "level": "C1",
+      "hebrew": "פרלמנטרי",
+      "explanation_hebrew": "הקשור לפרלמנט",
+      "pronunciation_hebrew": "פַּרְלַמֶנְטַרִי",
+      "example": "There was a parliamentary inquiry."
+    },
+    {
+      "word": "resigned",
+      "lemma": "resign",
+      "level": "B2",
+      "hebrew": "התפטר",
+      "explanation_hebrew": "עזב תפקיד מרצונו",
+      "pronunciation_hebrew": "רִיזַיינְד",
+      "example": "The minister resigned last week."
+    },
+    {
+      "word": "intervention",
+      "lemma": "intervention",
+      "level": "B2",
+      "hebrew": "התערבות",
+      "explanation_hebrew": "פעולה כדי לשנות מצב",
+      "pronunciation_hebrew": "אִינְטֶרְוֶנְשֶן",
+      "example": "The crisis required government intervention."
+    },
+    {
+      "word": "discount",
+      "lemma": "discount",
+      "level": "C1",
+      "hebrew": "לזלזל / להמעיט בערך",
+      "explanation_hebrew": "להתייחס למשהו כלא חשוב או לא אמין",
+      "pronunciation_hebrew": "דִיסְקַאונְט",
+      "example": "He learned to discount idle gossip."
+    },
+    {
+      "word": "speculation",
+      "lemma": "speculation",
+      "level": "C1",
+      "hebrew": "השערות / ספקולציה",
+      "explanation_hebrew": "ניחושים בלי ודאות",
+      "pronunciation_hebrew": "סְפֶּקְיוּלֵיישֶן",
+      "example": "There was speculation about a merger."
+    },
+    {
+      "word": "lobbying",
+      "lemma": "lobby",
+      "level": "C1",
+      "hebrew": "שדלנות / לובי",
+      "explanation_hebrew": "ניסיון להשפיע על מקבלי החלטות",
+      "pronunciation_hebrew": "לוֹבִּיִּינְג",
+      "example": "The group is lobbying for new laws."
+    },
+    {
+      "word": "embracing",
+      "lemma": "embrace",
+      "level": "B2",
+      "hebrew": "מאמץ (רעיון)",
+      "explanation_hebrew": "מקבל בברכה ובחום",
+      "pronunciation_hebrew": "אִמְבְּרֵייסִינְג",
+      "example": "The city is embracing new technology."
+    },
+    {
+      "word": "urging",
+      "lemma": "urge",
+      "level": "B2",
+      "hebrew": "דוחק / קורא בתוקף",
+      "explanation_hebrew": "מבקש בתקיפות",
+      "pronunciation_hebrew": "אֶרְגִ'ינְג",
+      "example": "She is urging people to vote."
+    },
+    {
+      "word": "consistent",
+      "lemma": "consistent",
+      "level": "B2",
+      "hebrew": "עקבי / תואם",
+      "explanation_hebrew": "שאינו סותר, מתאים לאורך זמן",
+      "pronunciation_hebrew": "קוֹנְסִיסְטֶנְט",
+      "example": "His story was consistent with the facts."
+    },
+    {
+      "word": "fleeting",
+      "lemma": "fleeting",
+      "level": "C2",
+      "hebrew": "חולף / רגעי",
+      "explanation_hebrew": "נמשך זמן קצר מאוד",
+      "pronunciation_hebrew": "פְלִיטִינְג",
+      "example": "She gave it only a fleeting glance."
+    },
+    {
+      "word": "legitimising",
+      "lemma": "legitimise",
+      "level": "C2",
+      "hebrew": "מעניק לגיטימציה",
+      "explanation_hebrew": "הופך למקובל וחוקי",
+      "pronunciation_hebrew": "לֶגִ'יטִימַייזִינְג",
+      "example": "The law is legitimising the practice."
+    },
+    {
+      "word": "surged",
+      "lemma": "surge",
+      "level": "C1",
+      "hebrew": "זינק / עלה בחדות",
+      "explanation_hebrew": "עלה במהירות רבה",
+      "pronunciation_hebrew": "סֶרְגְ'ד",
+      "example": "Sales surged after the ad."
+    },
+    {
+      "word": "demonstrably",
+      "lemma": "demonstrably",
+      "level": "C2",
+      "hebrew": "באופן מוכח",
+      "explanation_hebrew": "בצורה שאפשר להוכיח",
+      "pronunciation_hebrew": "דֶמוֹנְסְטְרַבְּלִי",
+      "example": "The claim is demonstrably false."
+    },
+    {
+      "word": "crystallised",
+      "lemma": "crystallise",
+      "level": "C2",
+      "hebrew": "התגבש / הובהר",
+      "explanation_hebrew": "נעשה ברור ומוגדר",
+      "pronunciation_hebrew": "קְרִיסְטַלַייזְד",
+      "example": "The plan crystallised over time."
+    },
+    {
+      "word": "prospects",
+      "lemma": "prospect",
+      "level": "C1",
+      "hebrew": "סיכויים / תחזית",
+      "explanation_hebrew": "הסיכויים או האפשרויות לעתיד",
+      "pronunciation_hebrew": "פְּרוֹסְפֶּקְטְס",
+      "example": "The job has good prospects."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "secretive",
+      "type": "english_to_hebrew",
+      "question": "What does “secretive” mean?",
+      "options": [
+        "לזלזל / להמעיט בערך",
+        "מקלט / מפלט בטוח",
+        "בשוגג / שלא במתכוון",
+        "חשאי / סודי"
+      ],
+      "correct_answer": "חשאי / סודי",
+      "explanation_hebrew": "“secretive” פירושו חשאי / סודי."
+    },
+    {
+      "id": "C-q2",
+      "word": "haven",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מקלט / מפלט בטוח”?",
+      "options": [
+        "precious",
+        "entangled",
+        "haven",
+        "speculation"
+      ],
+      "correct_answer": "haven",
+      "explanation_hebrew": "המילה “מקלט / מפלט בטוח” באנגלית היא “haven”."
+    },
+    {
+      "id": "C-q3",
+      "word": "precious",
+      "type": "english_to_hebrew",
+      "question": "What does “precious” mean?",
+      "options": [
+        "חסוי / לא מפורסם",
+        "שדלנות / לובי",
+        "יקר ערך",
+        "צינור / אמצעי מעבר"
+      ],
+      "correct_answer": "יקר ערך",
+      "explanation_hebrew": "“precious” פירושו יקר ערך."
+    },
+    {
+      "id": "C-q4",
+      "word": "conduit",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “צינור / אמצעי מעבר”?",
+      "options": [
+        "volatile",
+        "parliamentary",
+        "conduit",
+        "embracing"
+      ],
+      "correct_answer": "conduit",
+      "explanation_hebrew": "המילה “צינור / אמצעי מעבר” באנגלית היא “conduit”."
+    },
+    {
+      "id": "C-q5",
+      "word": "volatile",
+      "type": "english_to_hebrew",
+      "question": "What does “volatile” mean?",
+      "options": [
+        "תנודתי / הפכפך",
+        "התפטר",
+        "מקובל / קונבנציונלי",
+        "דוחק / קורא בתוקף"
+      ],
+      "correct_answer": "תנודתי / הפכפך",
+      "explanation_hebrew": "“volatile” פירושו תנודתי / הפכפך."
+    },
+    {
+      "id": "C-q6",
+      "word": "conventional",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מקובל / קונבנציונלי”?",
+      "options": [
+        "conventional",
+        "consistent",
+        "intervention",
+        "offshore"
+      ],
+      "correct_answer": "conventional",
+      "explanation_hebrew": "המילה “מקובל / קונבנציונלי” באנגלית היא “conventional”."
+    },
+    {
+      "id": "C-q7",
+      "word": "offshore",
+      "type": "english_to_hebrew",
+      "question": "What does “offshore” mean?",
+      "options": [
+        "בשוגג / שלא במתכוון",
+        "חוץ-גבולי / מעבר לים",
+        "חולף / רגעי",
+        "לזלזל / להמעיט בערך"
+      ],
+      "correct_answer": "חוץ-גבולי / מעבר לים",
+      "explanation_hebrew": "“offshore” פירושו חוץ-גבולי / מעבר לים."
+    },
+    {
+      "id": "C-q8",
+      "word": "inadvertently",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בשוגג / שלא במתכוון”?",
+      "options": [
+        "inadvertently",
+        "speculation",
+        "legitimising",
+        "entangled"
+      ],
+      "correct_answer": "inadvertently",
+      "explanation_hebrew": "המילה “בשוגג / שלא במתכוון” באנגלית היא “inadvertently”."
+    },
+    {
+      "id": "C-q9",
+      "word": "entangled",
+      "type": "english_to_hebrew",
+      "question": "What does “entangled” mean?",
+      "options": [
+        "שדלנות / לובי",
+        "חסוי / לא מפורסם",
+        "סבוך / מעורב",
+        "זינק / עלה בחדות"
+      ],
+      "correct_answer": "סבוך / מעורב",
+      "explanation_hebrew": "“entangled” פירושו סבוך / מעורב."
+    },
+    {
+      "id": "C-q10",
+      "word": "undisclosed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חסוי / לא מפורסם”?",
+      "options": [
+        "undisclosed",
+        "embracing",
+        "parliamentary",
+        "demonstrably"
+      ],
+      "correct_answer": "undisclosed",
+      "explanation_hebrew": "המילה “חסוי / לא מפורסם” באנגלית היא “undisclosed”."
+    },
+    {
+      "id": "C-q11",
+      "word": "parliamentary",
+      "type": "english_to_hebrew",
+      "question": "What does “parliamentary” mean?",
+      "options": [
+        "דוחק / קורא בתוקף",
+        "פרלמנטרי",
+        "התפטר",
+        "התגבש / הובהר"
+      ],
+      "correct_answer": "פרלמנטרי",
+      "explanation_hebrew": "“parliamentary” פירושו פרלמנטרי."
+    },
+    {
+      "id": "C-q12",
+      "word": "resigned",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התפטר”?",
+      "options": [
+        "consistent",
+        "resigned",
+        "intervention",
+        "prospects"
+      ],
+      "correct_answer": "resigned",
+      "explanation_hebrew": "המילה “התפטר” באנגלית היא “resigned”."
+    },
+    {
+      "id": "C-q13",
+      "word": "intervention",
+      "type": "english_to_hebrew",
+      "question": "What does “intervention” mean?",
+      "options": [
+        "חולף / רגעי",
+        "התערבות",
+        "חשאי / סודי",
+        "לזלזל / להמעיט בערך"
+      ],
+      "correct_answer": "התערבות",
+      "explanation_hebrew": "“intervention” פירושו התערבות."
+    },
+    {
+      "id": "C-q14",
+      "word": "discount",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לזלזל / להמעיט בערך”?",
+      "options": [
+        "haven",
+        "legitimising",
+        "speculation",
+        "discount"
+      ],
+      "correct_answer": "discount",
+      "explanation_hebrew": "המילה “לזלזל / להמעיט בערך” באנגלית היא “discount”."
+    },
+    {
+      "id": "C-q15",
+      "word": "speculation",
+      "type": "english_to_hebrew",
+      "question": "What does “speculation” mean?",
+      "options": [
+        "יקר ערך",
+        "שדלנות / לובי",
+        "זינק / עלה בחדות",
+        "השערות / ספקולציה"
+      ],
+      "correct_answer": "השערות / ספקולציה",
+      "explanation_hebrew": "“speculation” פירושו השערות / ספקולציה."
+    },
+    {
+      "id": "C-q16",
+      "word": "lobbying",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שדלנות / לובי”?",
+      "options": [
+        "lobbying",
+        "embracing",
+        "conduit",
+        "demonstrably"
+      ],
+      "correct_answer": "lobbying",
+      "explanation_hebrew": "המילה “שדלנות / לובי” באנגלית היא “lobbying”."
+    },
+    {
+      "id": "C-q17",
+      "word": "embracing",
+      "type": "english_to_hebrew",
+      "question": "What does “embracing” mean?",
+      "options": [
+        "תנודתי / הפכפך",
+        "מאמץ (רעיון)",
+        "דוחק / קורא בתוקף",
+        "התגבש / הובהר"
+      ],
+      "correct_answer": "מאמץ (רעיון)",
+      "explanation_hebrew": "“embracing” פירושו מאמץ (רעיון)."
+    },
+    {
+      "id": "C-q18",
+      "word": "urging",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דוחק / קורא בתוקף”?",
+      "options": [
+        "urging",
+        "prospects",
+        "conventional",
+        "consistent"
+      ],
+      "correct_answer": "urging",
+      "explanation_hebrew": "המילה “דוחק / קורא בתוקף” באנגלית היא “urging”."
+    },
+    {
+      "id": "C-q19",
+      "word": "consistent",
+      "type": "english_to_hebrew",
+      "question": "What does “consistent” mean?",
+      "options": [
+        "עקבי / תואם",
+        "חולף / רגעי",
+        "חוץ-גבולי / מעבר לים",
+        "חשאי / סודי"
+      ],
+      "correct_answer": "עקבי / תואם",
+      "explanation_hebrew": "“consistent” פירושו עקבי / תואם."
+    },
+    {
+      "id": "C-q20",
+      "word": "fleeting",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חולף / רגעי”?",
+      "options": [
+        "fleeting",
+        "inadvertently",
+        "haven",
+        "legitimising"
+      ],
+      "correct_answer": "fleeting",
+      "explanation_hebrew": "המילה “חולף / רגעי” באנגלית היא “fleeting”."
+    },
+    {
+      "id": "C-q21",
+      "word": "legitimising",
+      "type": "english_to_hebrew",
+      "question": "What does “legitimising” mean?",
+      "options": [
+        "מעניק לגיטימציה",
+        "זינק / עלה בחדות",
+        "סבוך / מעורב",
+        "יקר ערך"
+      ],
+      "correct_answer": "מעניק לגיטימציה",
+      "explanation_hebrew": "“legitimising” פירושו מעניק לגיטימציה."
+    },
+    {
+      "id": "C-q22",
+      "word": "surged",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זינק / עלה בחדות”?",
+      "options": [
+        "undisclosed",
+        "demonstrably",
+        "surged",
+        "conduit"
+      ],
+      "correct_answer": "surged",
+      "explanation_hebrew": "המילה “זינק / עלה בחדות” באנגלית היא “surged”."
+    },
+    {
+      "id": "C-q23",
+      "word": "demonstrably",
+      "type": "english_to_hebrew",
+      "question": "What does “demonstrably” mean?",
+      "options": [
+        "תנודתי / הפכפך",
+        "באופן מוכח",
+        "התגבש / הובהר",
+        "פרלמנטרי"
+      ],
+      "correct_answer": "באופן מוכח",
+      "explanation_hebrew": "“demonstrably” פירושו באופן מוכח."
+    },
+    {
+      "id": "C-q24",
+      "word": "crystallised",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התגבש / הובהר”?",
+      "options": [
+        "resigned",
+        "crystallised",
+        "prospects",
+        "conventional"
+      ],
+      "correct_answer": "crystallised",
+      "explanation_hebrew": "המילה “התגבש / הובהר” באנגלית היא “crystallised”."
+    },
+    {
+      "id": "C-q25",
+      "word": "prospects",
+      "type": "english_to_hebrew",
+      "question": "What does “prospects” mean?",
+      "options": [
+        "התערבות",
+        "סיכויים / תחזית",
+        "חוץ-גבולי / מעבר לים",
+        "חשאי / סודי"
+      ],
+      "correct_answer": "סיכויים / תחזית",
+      "explanation_hebrew": "“prospects” פירושו סיכויים / תחזית."
+    }
+  ]
+}
