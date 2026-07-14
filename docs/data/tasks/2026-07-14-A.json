@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-14",
+  "article_id": "A",
+  "article_title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
+  "article_url": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the bison attack happen?",
+      "options": ["Yosemite National Park", "Yellowstone National Park", "Grand Canyon National Park", "Glacier National Park"],
+      "correct_answer": "Yellowstone National Park",
+      "explanation_hebrew": "האירוע התרחש בפארק הלאומי ילוסטון.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who was the injured man visiting the park with?",
+      "options": ["His grandson", "A group of park rangers", "His brother", "A television crew"],
+      "correct_answer": "His grandson",
+      "explanation_hebrew": "הסב טייל בפארק יחד עם נכדו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the bison do to the grandfather?",
+      "options": ["It chased him into a lake", "It blocked his car", "It knocked him several metres into the air", "It followed him back to the campground"],
+      "correct_answer": "It knocked him several metres into the air",
+      "explanation_hebrew": "הביזון נגח באיש והעיף אותו כמה מטרים באוויר.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "options": ["A new wildlife photography competition", "A serious bison attack and the safety lessons from it", "A plan to move Yellowstone's bison", "A history of tourism in Wyoming"],
+      "correct_answer": "A serious bison attack and the safety lessons from it",
+      "explanation_hebrew": "הכתבה מתארת תקיפת ביזון חמורה ומדגישה את הסכנה שבחיות בר בלתי צפויות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why should visitors keep a large distance from bison even when the animals appear calm? Answer in 1–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Bison are large and powerful", "Their behaviour can change quickly or become unpredictable", "Distance reduces the chance of injury"],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "In the article, what does “agitated” suggest about the bison's behaviour? Answer in 1–2 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["The animal was disturbed, tense, or restless", "It was more likely to charge or act dangerously"],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did witnesses and other visitors intervene after the man was knocked down?",
+      "options": ["They wanted to photograph the bison more closely", "They were trying to scare the bison away and help the injured man", "They wanted to guide the bison toward a road", "They were searching for the man's camera"],
+      "correct_answer": "They were trying to scare the bison away and help the injured man",
+      "explanation_hebrew": "העדים ניסו להרחיק את הביזון כדי שניתן יהיה לסייע לאיש הפצוע.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 50–80 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["A grandfather was attacked by a bison in Yellowstone", "He was visiting with his grandson", "The bison tossed him into the air and seriously injured him", "Witnesses helped and the event reinforces wildlife safety advice"],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 1–3 sentences explaining which detail best shows how dangerous the incident was.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Choose a concrete detail such as the height of the toss, the animal's size, or the man's injuries", "Explain why that detail shows the seriousness of the attack"],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "summary",
+      "type": "written_response",
+      "prompt": "Write a one-sentence headline-style summary that includes both the event and its main safety message.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Mention the bison attack in Yellowstone", "Mention the need to keep distance from unpredictable wildlife"],
+      "difficulty": "A"
+    }
+  ]
+}
