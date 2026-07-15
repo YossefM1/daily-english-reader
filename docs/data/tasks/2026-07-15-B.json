@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-15",
+  "article_id": "B",
+  "article_title": "Heating oil customers to get compensation after cancelled orders and price hikes",
+  "article_url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why are some heating-oil customers receiving compensation?",
+      "options": [
+        "Their existing orders were cancelled and replacement prices were much higher",
+        "They ordered the wrong type of boiler",
+        "They received more oil than they paid for",
+        "They changed their home address without telling suppliers"
+      ],
+      "correct_answer": "Their existing orders were cancelled and replacement prices were much higher",
+      "explanation_hebrew": "חלק מהלקוחות נאלצו להתמודד עם ביטול הזמנות קיימות והצעות חדשות במחירים גבוהים בהרבה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "About how many customers were reported to be affected by the compensation scheme?",
+      "options": ["About 170", "About 1,700", "About 17,000", "About 170,000"],
+      "correct_answer": "About 1,700",
+      "explanation_hebrew": "הדיווח מציין שכ־1,700 לקוחות צפויים לקבל פיצוי.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was the maximum compensation mentioned for an affected customer?",
+      "options": ["Up to £35", "Up to £150", "Up to £350", "Up to £3,500"],
+      "correct_answer": "Up to £350",
+      "explanation_hebrew": "הפיצוי יכול להגיע עד 350 ליש״ט ללקוח שנפגע.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which organisation investigated the suppliers' behaviour?",
+      "options": ["The Bank of England", "The National Health Service", "The Met Office", "The Competition and Markets Authority"],
+      "correct_answer": "The Competition and Markets Authority",
+      "explanation_hebrew": "רשות התחרות והשווקים הבריטית, CMA, בדקה את התנהלות הספקים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why were cancelled orders especially serious for households that rely on heating oil? Answer in 2–4 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Many affected homes depend on delivered oil for heating or hot water", "Customers faced either higher replacement prices or a period without oil", "Rural or vulnerable households may have limited alternatives"],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How can a sharp rise in wholesale prices create problems for both suppliers and customers? Answer in 2–4 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Suppliers face higher replacement costs", "Customers expect already agreed orders to be honoured", "Cancelling and repricing orders transfers risk to customers and can appear unfair"],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What broader weakness did the investigation highlight?",
+      "options": ["Heating-oil customers have fewer formal protections than many other energy consumers", "The UK produces no heating oil at all", "Every supplier made unusually large profits", "Rural households are legally forbidden to change suppliers"],
+      "correct_answer": "Heating-oil customers have fewer formal protections than many other energy consumers",
+      "explanation_hebrew": "החקירה הדגישה את המחסור בהגנות צרכניות מסודרות בשוק שמן ההסקה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–120 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Around 1,700 customers are expected to receive compensation of up to £350", "Orders were cancelled during a rapid price increase and some replacement orders cost much more", "The CMA investigated suppliers and sought redress", "The case prompted calls for stronger regulation and consumer protection"],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 2–4 sentences explaining one rule that could protect customers when a supplier wants to cancel a paid or agreed order.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Propose a clear rule such as mandatory notice, automatic compensation, honouring agreed prices, or independent dispute resolution", "Explain how the rule would reduce unfairness or uncertainty"],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "summary",
+      "type": "written_response",
+      "prompt": "Write a two-sentence conclusion that connects the compensation decision with the call for future regulation.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["The compensation addresses harm already suffered", "New regulation would aim to prevent similar harm and provide clearer standards"],
+      "difficulty": "B"
+    }
+  ]
+}
