@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-15",
+  "article_id": "C",
+  "article_title": "Trump retreat over Hormuz tolls suggests struggle to end Iran war",
+  "article_url": "https://www.bbc.co.uk/news/articles/crele3r8j19o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which proposal did President Trump retreat from?",
+      "options": ["A 20% toll on cargo passing through the Strait of Hormuz", "A ban on all investment from Gulf states", "A plan to close every American port", "A tax on domestic airline tickets"],
+      "correct_answer": "A 20% toll on cargo passing through the Strait of Hormuz",
+      "explanation_hebrew": "טראמפ נסוג מהצעה לגבות היטל של 20% על מטענים העוברים במצר הורמוז.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What reason did Trump give for changing course?",
+      "options": ["A court had already removed him from office", "Productive conversations with Middle Eastern leaders", "The Strait had permanently dried up", "Congress had unanimously ended the war"],
+      "correct_answer": "Productive conversations with Middle Eastern leaders",
+      "explanation_hebrew": "הוא קשר את השינוי לשיחות שתיאר כפוריות עם מנהיגים במזרח התיכון.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could the original toll proposal have weakened the US diplomatic position?",
+      "options": ["It reduced the physical width of the strait", "It guaranteed immediate support from every Gulf ally", "It resembled the kind of toll demand the US opposed when associated with Iran", "It removed all costs from international shipping"],
+      "correct_answer": "It resembled the kind of toll demand the US opposed when associated with Iran",
+      "explanation_hebrew": "הדרישה האמריקאית יצרה סתירה מול ההתנגדות לגביית תשלום דומה מצד איראן.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What does the surprise reportedly expressed by Gulf officials suggest?",
+      "options": ["The proposal had been fully coordinated for months", "The Gulf states had already left the region", "The toll was a routine technical change with no political effect", "Important allies may not have been consulted before the announcement"],
+      "correct_answer": "Important allies may not have been consulted before the announcement",
+      "explanation_hebrew": "ההפתעה מצביעה על תיאום מוגבל עם שותפות אזוריות לפני ההכרזה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might a rapid policy reversal be interpreted as evidence that ending the war is difficult? Answer in 3–6 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["The administration must balance military aims, shipping security, international law, and allied interests", "A proposal can create new diplomatic or economic costs", "Reversal shows that a simple public demand may not survive regional consultation or practical scrutiny"],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "In this context, what does “retreat” mean, and why is the word politically significant? Answer in 3–5 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["It means backing away from or abandoning a previously announced position", "The term implies pressure, miscalculation, or reduced confidence", "It frames the change as more than a neutral technical adjustment"],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Which alternative approach was emphasised after the toll proposal was dropped?",
+      "options": ["A complete end to all regional diplomacy", "The closure of the Strait to every commercial vessel", "Trade and investment arrangements with Gulf partners", "Replacing maritime transport with rail across the ocean"],
+      "correct_answer": "Trade and investment arrangements with Gulf partners",
+      "explanation_hebrew": "לאחר הנסיגה הודגשו שיחות על מסחר והשקעות עם מדינות המפרץ.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 120–170 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Trump backed away from a proposed 20% Hormuz cargo toll", "The reversal followed talks with Middle Eastern leaders and a shift toward trade or investment arrangements", "The original idea raised legal, diplomatic, and alliance concerns", "The episode illustrates the difficulty of combining military pressure with a credible path to ending the Iran war"],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–6 sentences evaluating whether the reversal should be viewed mainly as pragmatic diplomacy or as policy inconsistency.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["State a clear position or balanced judgement", "Use evidence such as allied surprise, legal concerns, regional talks, or the change toward investment agreements", "Acknowledge at least one reasonable counterargument"],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "summary",
+      "type": "written_response",
+      "prompt": "Write a three-sentence analytical conclusion explaining what the episode reveals about coalition management during war.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": ["Military and economic proposals affect allies as well as adversaries", "Lack of consultation can weaken credibility or unity", "Successful war termination requires coordination, legal legitimacy, and an acceptable political settlement"],
+      "difficulty": "C"
+    }
+  ]
+}
