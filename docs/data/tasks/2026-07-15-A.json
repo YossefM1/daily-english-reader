@@ -1,0 +1,155 @@
+{
+  "date": "2026-07-15",
+  "article_id": "A",
+  "article_title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+  "article_url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main subject of the article?",
+      "options": [
+        "A winter storm bringing snow across the UK",
+        "A long spell of strong sunshine and temperatures around or above 30C",
+        "A report about falling household energy prices",
+        "A guide to travelling during heavy rain"
+      ],
+      "correct_answer": "A long spell of strong sunshine and temperatures around or above 30C",
+      "explanation_hebrew": "הכתבה עוסקת בגל חום מתמשך בבריטניה, עם הרבה שמש וטמפרטורות סביב 30 מעלות ומעלה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which weather system helps keep skies clear and temperatures high?",
+      "options": [
+        "Persistent high pressure",
+        "A deep low-pressure system",
+        "A strong Atlantic storm",
+        "A cold polar front"
+      ],
+      "correct_answer": "Persistent high pressure",
+      "explanation_hebrew": "לחץ אוויר גבוה ומתמשך מעכב היווצרות עננים ותומך במזג אוויר יבש וחם.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where can cloud remain longer even when inland areas become sunny?",
+      "options": [
+        "Only over central London",
+        "Inside underground stations",
+        "Near some coastal areas",
+        "Across every inland valley"
+      ],
+      "correct_answer": "Near some coastal areas",
+      "explanation_hebrew": "הכתבה מסבירה שעננות יכולה להישאר סמוך לחופים בעוד שבפנים הארץ השמיים מתבהרים מהר יותר.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “consecutive” mean when describing hot days?",
+      "options": [
+        "Days separated by several cold weeks",
+        "Days measured in different countries",
+        "Days with exactly the same wind speed",
+        "Days that come one after another without a break"
+      ],
+      "correct_answer": "Days that come one after another without a break",
+      "explanation_hebrew": "המילה consecutive מתארת ימים רצופים שמגיעים בזה אחר זה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does persistent high pressure usually produce more sunshine? Answer in 1–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "High pressure suppresses or inhibits cloud formation",
+        "With fewer clouds, more sunshine reaches the ground",
+        "Clearer skies can help daytime temperatures rise"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "How may conditions differ between inland areas and some coasts during this hot spell? Answer in 1–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Inland areas may become sunnier and hotter",
+        "Cloud or cooler air may linger near some coasts",
+        "The difference is linked to wind direction and local coastal effects"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What is likely to happen as the easterly wind becomes weaker?",
+      "options": [
+        "A major snowstorm will begin immediately",
+        "The heat may spread more widely across the UK",
+        "Temperatures will fall below freezing everywhere",
+        "The high-pressure system will turn into a hurricane"
+      ],
+      "correct_answer": "The heat may spread more widely across the UK",
+      "explanation_hebrew": "כאשר הרוח המזרחית נחלשת, האוויר החם יכול להתפשט באופן רחב יותר.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 50–80 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "The UK is experiencing persistent sunshine and repeated temperatures near or above 30C",
+        "High pressure is limiting cloud formation",
+        "Coastal and inland conditions can differ",
+        "The hot and dry spell may continue or intensify before conditions change"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 1–3 sentences explaining why several consecutive hot days can be more difficult than one isolated hot day.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Heat accumulates and gives people, homes, soil, and water systems less time to cool",
+        "Long duration can increase health, drought, or water-supply pressures",
+        "The explanation should connect duration with impact"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "summary",
+      "type": "written_response",
+      "prompt": "Write a one-sentence headline-style summary that mentions both the cause and the result of the hot spell.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Mention persistent high pressure",
+        "Mention widespread sunshine and temperatures around or above 30C"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
