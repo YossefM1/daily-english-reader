@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-15",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Trump retreat over Hormuz tolls suggests struggle to end Iran war",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o",
+  "word_count": 1353,
+  "generated_at": "2026-07-15T02:11:31.760775+00:00",
+  "difficulty_reason": "Dense, analytical geopolitical piece with long complex sentences and B2/C1/C2 diplomatic vocabulary; substantial background on Middle East politics needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "retreat",
+      "lemma": "retreat",
+      "level": "C1",
+      "hebrew": "נסיגה",
+      "explanation_hebrew": "חזרה לאחור ממצב או מעמדה",
+      "pronunciation_hebrew": "רִיטְרִיט",
+      "example": "His retreat over the fee surprised many."
+    },
+    {
+      "word": "unorthodox",
+      "lemma": "unorthodox",
+      "level": "C1",
+      "hebrew": "לא שגרתי",
+      "explanation_hebrew": "שונה מהדרך המקובלת",
+      "pronunciation_hebrew": "אַנאוֹרְתוֹדוֹקְס",
+      "example": "He searched for unorthodox ways out."
+    },
+    {
+      "word": "resumption",
+      "lemma": "resumption",
+      "level": "C1",
+      "hebrew": "חידוש, התחדשות",
+      "explanation_hebrew": "התחלה מחדש של פעילות שנפסקה",
+      "pronunciation_hebrew": "רִיזַמְפְּשֶׁן",
+      "example": "He announced a resumption of the blockade."
+    },
+    {
+      "word": "blockade",
+      "lemma": "blockade",
+      "level": "C1",
+      "hebrew": "מצור, חסימה",
+      "explanation_hebrew": "חסימה של מעבר סחורות או ספינות",
+      "pronunciation_hebrew": "בְּלוֹקֵייד",
+      "example": "The naval blockade stopped Iranian shipping."
+    },
+    {
+      "word": "vessels",
+      "lemma": "vessel",
+      "level": "C1",
+      "hebrew": "כלי שיט",
+      "explanation_hebrew": "ספינות",
+      "pronunciation_hebrew": "וֶסֶלְז",
+      "example": "All vessels had to pay a fee."
+    },
+    {
+      "word": "reimburse",
+      "lemma": "reimburse",
+      "level": "C1",
+      "hebrew": "להחזיר הוצאות",
+      "explanation_hebrew": "להחזיר כסף שהוצא",
+      "pronunciation_hebrew": "רִיאִימְבֶּרְס",
+      "example": "The fee would reimburse the US for costs."
+    },
+    {
+      "word": "volatile",
+      "lemma": "volatile",
+      "level": "C1",
+      "hebrew": "נפיץ, לא יציב",
+      "explanation_hebrew": "שעלול להשתנות או להתלקח פתאום",
+      "pronunciation_hebrew": "ווֹלָטַייל",
+      "example": "The region is a volatile part of the world."
+    },
+    {
+      "word": "abrupt",
+      "lemma": "abrupt",
+      "level": "C1",
+      "hebrew": "פתאומי, חד",
+      "explanation_hebrew": "שקורה במהירות ובאופן לא צפוי",
+      "pronunciation_hebrew": "אַבְּרַפְּט",
+      "example": "The abrupt about-face confused observers."
+    },
+    {
+      "word": "reluctant",
+      "lemma": "reluctant",
+      "level": "B2",
+      "hebrew": "מהסס, לא מעוניין",
+      "explanation_hebrew": "לא מוכן לעשות משהו בקלות",
+      "pronunciation_hebrew": "רִילַקְטַנְט",
+      "example": "He may be reluctant to escalate the war."
+    },
+    {
+      "word": "escalate",
+      "lemma": "escalate",
+      "level": "C1",
+      "hebrew": "להסלים, להחריף",
+      "explanation_hebrew": "להפוך חמור או אינטנסיבי יותר",
+      "pronunciation_hebrew": "אֶסְקָלֵייט",
+      "example": "Neither side wants to escalate the conflict."
+    },
+    {
+      "word": "prospect",
+      "lemma": "prospect",
+      "level": "B2",
+      "hebrew": "סיכוי, אפשרות עתידית",
+      "explanation_hebrew": "דבר שעשוי לקרות בעתיד",
+      "pronunciation_hebrew": "פְּרוֹסְפֶּקְט",
+      "example": "The prospect of peace remains distant."
+    },
+    {
+      "word": "attrition",
+      "lemma": "attrition",
+      "level": "C2",
+      "hebrew": "שחיקה, התשה",
+      "explanation_hebrew": "החלשה הדרגתית של הצד השני",
+      "pronunciation_hebrew": "אַטְרִישֶׁן",
+      "example": "It became a war of attrition."
+    },
+    {
+      "word": "flurry",
+      "lemma": "flurry",
+      "level": "C1",
+      "hebrew": "מטח, שפע פתאומי",
+      "explanation_hebrew": "פרץ מהיר של פעילות",
+      "pronunciation_hebrew": "פְלַארִי",
+      "example": "A flurry of strikes hit targets in Iran."
+    },
+    {
+      "word": "standstill",
+      "lemma": "standstill",
+      "level": "C1",
+      "hebrew": "עצירה מוחלטת",
+      "explanation_hebrew": "מצב שבו כלום לא זז",
+      "pronunciation_hebrew": "סְטַנְדְסְטִיל",
+      "example": "Traffic ground to a standstill."
+    },
+    {
+      "word": "hostilities",
+      "lemma": "hostility",
+      "level": "C1",
+      "hebrew": "מעשי איבה, לחימה",
+      "explanation_hebrew": "פעולות מלחמתיות בין צדדים",
+      "pronunciation_hebrew": "הוֹסְטִילִיטִיז",
+      "example": "A resumption of hostilities pushed prices up."
+    },
+    {
+      "word": "degraded",
+      "lemma": "degrade",
+      "level": "C1",
+      "hebrew": "נחלש, נפגם",
+      "explanation_hebrew": "הורדה ברמה או ביכולת",
+      "pronunciation_hebrew": "דִיגְרֵיידֶד",
+      "example": "Iran's defence capabilities were degraded."
+    },
+    {
+      "word": "palatable",
+      "lemma": "palatable",
+      "level": "C2",
+      "hebrew": "נסבל, מקובל",
+      "explanation_hebrew": "קל יותר לקבל או להסכים לו",
+      "pronunciation_hebrew": "פָּלָטַבְּל",
+      "example": "The fee made the commitment more palatable."
+    },
+    {
+      "word": "vague",
+      "lemma": "vague",
+      "level": "B2",
+      "hebrew": "מעורפל",
+      "explanation_hebrew": "לא ברור או לא מוגדר",
+      "pronunciation_hebrew": "וֵייג",
+      "example": "The agreement was intentionally vague."
+    },
+    {
+      "word": "dissuade",
+      "lemma": "dissuade",
+      "level": "C2",
+      "hebrew": "להניא, לשכנע לא",
+      "explanation_hebrew": "לשכנע מישהו לא לעשות משהו",
+      "pronunciation_hebrew": "דִיסְווֵייד",
+      "example": "The warnings failed to dissuade Iran."
+    },
+    {
+      "word": "sovereignty",
+      "lemma": "sovereignty",
+      "level": "C1",
+      "hebrew": "ריבונות",
+      "explanation_hebrew": "שלטון עצמאי של מדינה על שטחה",
+      "pronunciation_hebrew": "סוֹבְרִינְטִי",
+      "example": "They could not defend their sovereignty."
+    },
+    {
+      "word": "leverage",
+      "lemma": "leverage",
+      "level": "C1",
+      "hebrew": "מנוף לחץ, יתרון",
+      "explanation_hebrew": "כוח להשפיע על תוצאה",
+      "pronunciation_hebrew": "לֶבֶרִג'",
+      "example": "His leverage over Iran may be diminished."
+    },
+    {
+      "word": "diminished",
+      "lemma": "diminish",
+      "level": "C1",
+      "hebrew": "הצטמצם, פחת",
+      "explanation_hebrew": "נעשה קטן או חלש יותר",
+      "pronunciation_hebrew": "דִּימִינִישְׁט",
+      "example": "The president's leverage may be diminished."
+    },
+    {
+      "word": "fortified",
+      "lemma": "fortify",
+      "level": "C1",
+      "hebrew": "מבוצר",
+      "explanation_hebrew": "מוגן היטב מפני התקפה",
+      "pronunciation_hebrew": "פוֹרְטִיפַייד",
+      "example": "The target is a heavily fortified site."
+    },
+    {
+      "word": "quagmire",
+      "lemma": "quagmire",
+      "level": "C2",
+      "hebrew": "בוץ טובעני, מלכוד",
+      "explanation_hebrew": "מצב קשה שאין ממנו מוצא קל",
+      "pronunciation_hebrew": "קְווֹגְמַאייר",
+      "example": "The Vietnam War became a quagmire."
+    },
+    {
+      "word": "looming",
+      "lemma": "loom",
+      "level": "C1",
+      "hebrew": "מתקרב ומאיים",
+      "explanation_hebrew": "דבר לא נעים שקרוב לקרות",
+      "pronunciation_hebrew": "לוּמִינְג",
+      "example": "With further conflict looming, peace seems far."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "retreat",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “retreat”?",
+      "options": [
+        "מצור, חסימה",
+        "חידוש, התחדשות",
+        "לא שגרתי",
+        "נסיגה"
+      ],
+      "correct_answer": "נסיגה",
+      "explanation_hebrew": "“retreat” פירושה נסיגה."
+    },
+    {
+      "id": "C-q2",
+      "word": "unorthodox",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: לא שגרתי?",
+      "options": [
+        "unorthodox",
+        "blockade",
+        "vessels",
+        "resumption"
+      ],
+      "correct_answer": "unorthodox",
+      "explanation_hebrew": "התשובה היא “unorthodox”, שפירושה לא שגרתי."
+    },
+    {
+      "id": "C-q3",
+      "word": "resumption",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “resumption”?",
+      "options": [
+        "כלי שיט",
+        "להחזיר הוצאות",
+        "מצור, חסימה",
+        "חידוש, התחדשות"
+      ],
+      "correct_answer": "חידוש, התחדשות",
+      "explanation_hebrew": "“resumption” פירושה חידוש, התחדשות."
+    },
+    {
+      "id": "C-q4",
+      "word": "blockade",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: מצור, חסימה?",
+      "options": [
+        "volatile",
+        "blockade",
+        "vessels",
+        "reimburse"
+      ],
+      "correct_answer": "blockade",
+      "explanation_hebrew": "התשובה היא “blockade”, שפירושה מצור, חסימה."
+    },
+    {
+      "id": "C-q5",
+      "word": "vessels",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “vessels”?",
+      "options": [
+        "פתאומי, חד",
+        "להחזיר הוצאות",
+        "כלי שיט",
+        "נפיץ, לא יציב"
+      ],
+      "correct_answer": "כלי שיט",
+      "explanation_hebrew": "“vessels” פירושה כלי שיט."
+    },
+    {
+      "id": "C-q6",
+      "word": "reimburse",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: להחזיר הוצאות?",
+      "options": [
+        "reluctant",
+        "volatile",
+        "abrupt",
+        "reimburse"
+      ],
+      "correct_answer": "reimburse",
+      "explanation_hebrew": "התשובה היא “reimburse”, שפירושה להחזיר הוצאות."
+    },
+    {
+      "id": "C-q7",
+      "word": "volatile",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “volatile”?",
+      "options": [
+        "פתאומי, חד",
+        "להסלים, להחריף",
+        "מהסס, לא מעוניין",
+        "נפיץ, לא יציב"
+      ],
+      "correct_answer": "נפיץ, לא יציב",
+      "explanation_hebrew": "“volatile” פירושה נפיץ, לא יציב."
+    },
+    {
+      "id": "C-q8",
+      "word": "abrupt",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: פתאומי, חד?",
+      "options": [
+        "prospect",
+        "reluctant",
+        "abrupt",
+        "escalate"
+      ],
+      "correct_answer": "abrupt",
+      "explanation_hebrew": "התשובה היא “abrupt”, שפירושה פתאומי, חד."
+    },
+    {
+      "id": "C-q9",
+      "word": "reluctant",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “reluctant”?",
+      "options": [
+        "להסלים, להחריף",
+        "מהסס, לא מעוניין",
+        "שחיקה, התשה",
+        "סיכוי, אפשרות עתידית"
+      ],
+      "correct_answer": "מהסס, לא מעוניין",
+      "explanation_hebrew": "“reluctant” פירושה מהסס, לא מעוניין."
+    },
+    {
+      "id": "C-q10",
+      "word": "escalate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: להסלים, להחריף?",
+      "options": [
+        "flurry",
+        "attrition",
+        "escalate",
+        "prospect"
+      ],
+      "correct_answer": "escalate",
+      "explanation_hebrew": "התשובה היא “escalate”, שפירושה להסלים, להחריף."
+    },
+    {
+      "id": "C-q11",
+      "word": "prospect",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “prospect”?",
+      "options": [
+        "שחיקה, התשה",
+        "עצירה מוחלטת",
+        "מטח, שפע פתאומי",
+        "סיכוי, אפשרות עתידית"
+      ],
+      "correct_answer": "סיכוי, אפשרות עתידית",
+      "explanation_hebrew": "“prospect” פירושה סיכוי, אפשרות עתידית."
+    },
+    {
+      "id": "C-q12",
+      "word": "attrition",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: שחיקה, התשה?",
+      "options": [
+        "attrition",
+        "hostilities",
+        "standstill",
+        "flurry"
+      ],
+      "correct_answer": "attrition",
+      "explanation_hebrew": "התשובה היא “attrition”, שפירושה שחיקה, התשה."
+    },
+    {
+      "id": "C-q13",
+      "word": "flurry",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “flurry”?",
+      "options": [
+        "מעשי איבה, לחימה",
+        "מטח, שפע פתאומי",
+        "עצירה מוחלטת",
+        "נחלש, נפגם"
+      ],
+      "correct_answer": "מטח, שפע פתאומי",
+      "explanation_hebrew": "“flurry” פירושה מטח, שפע פתאומי."
+    },
+    {
+      "id": "C-q14",
+      "word": "standstill",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: עצירה מוחלטת?",
+      "options": [
+        "palatable",
+        "standstill",
+        "degraded",
+        "hostilities"
+      ],
+      "correct_answer": "standstill",
+      "explanation_hebrew": "התשובה היא “standstill”, שפירושה עצירה מוחלטת."
+    },
+    {
+      "id": "C-q15",
+      "word": "hostilities",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “hostilities”?",
+      "options": [
+        "נחלש, נפגם",
+        "נסבל, מקובל",
+        "מעורפל",
+        "מעשי איבה, לחימה"
+      ],
+      "correct_answer": "מעשי איבה, לחימה",
+      "explanation_hebrew": "“hostilities” פירושה מעשי איבה, לחימה."
+    },
+    {
+      "id": "C-q16",
+      "word": "degraded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: נחלש, נפגם?",
+      "options": [
+        "vague",
+        "dissuade",
+        "degraded",
+        "palatable"
+      ],
+      "correct_answer": "degraded",
+      "explanation_hebrew": "התשובה היא “degraded”, שפירושה נחלש, נפגם."
+    },
+    {
+      "id": "C-q17",
+      "word": "palatable",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “palatable”?",
+      "options": [
+        "מעורפל",
+        "נסבל, מקובל",
+        "להניא, לשכנע לא",
+        "ריבונות"
+      ],
+      "correct_answer": "נסבל, מקובל",
+      "explanation_hebrew": "“palatable” פירושה נסבל, מקובל."
+    },
+    {
+      "id": "C-q18",
+      "word": "vague",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: מעורפל?",
+      "options": [
+        "leverage",
+        "vague",
+        "sovereignty",
+        "dissuade"
+      ],
+      "correct_answer": "vague",
+      "explanation_hebrew": "התשובה היא “vague”, שפירושה מעורפל."
+    },
+    {
+      "id": "C-q19",
+      "word": "dissuade",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “dissuade”?",
+      "options": [
+        "ריבונות",
+        "להניא, לשכנע לא",
+        "מנוף לחץ, יתרון",
+        "הצטמצם, פחת"
+      ],
+      "correct_answer": "להניא, לשכנע לא",
+      "explanation_hebrew": "“dissuade” פירושה להניא, לשכנע לא."
+    },
+    {
+      "id": "C-q20",
+      "word": "sovereignty",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: ריבונות?",
+      "options": [
+        "sovereignty",
+        "fortified",
+        "leverage",
+        "diminished"
+      ],
+      "correct_answer": "sovereignty",
+      "explanation_hebrew": "התשובה היא “sovereignty”, שפירושה ריבונות."
+    },
+    {
+      "id": "C-q21",
+      "word": "leverage",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “leverage”?",
+      "options": [
+        "מבוצר",
+        "בוץ טובעני, מלכוד",
+        "מנוף לחץ, יתרון",
+        "הצטמצם, פחת"
+      ],
+      "correct_answer": "מנוף לחץ, יתרון",
+      "explanation_hebrew": "“leverage” פירושה מנוף לחץ, יתרון."
+    },
+    {
+      "id": "C-q22",
+      "word": "diminished",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: הצטמצם, פחת?",
+      "options": [
+        "looming",
+        "fortified",
+        "quagmire",
+        "diminished"
+      ],
+      "correct_answer": "diminished",
+      "explanation_hebrew": "התשובה היא “diminished”, שפירושה הצטמצם, פחת."
+    },
+    {
+      "id": "C-q23",
+      "word": "fortified",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “fortified”?",
+      "options": [
+        "בוץ טובעני, מלכוד",
+        "מבוצר",
+        "מתקרב ומאיים",
+        "נסיגה"
+      ],
+      "correct_answer": "מבוצר",
+      "explanation_hebrew": "“fortified” פירושה מבוצר."
+    },
+    {
+      "id": "C-q24",
+      "word": "quagmire",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה לפירוש: בוץ טובעני, מלכוד?",
+      "options": [
+        "retreat",
+        "quagmire",
+        "looming",
+        "unorthodox"
+      ],
+      "correct_answer": "quagmire",
+      "explanation_hebrew": "התשובה היא “quagmire”, שפירושה בוץ טובעני, מלכוד."
+    },
+    {
+      "id": "C-q25",
+      "word": "looming",
+      "type": "english_to_hebrew",
+      "question": "מה פירוש המילה “looming”?",
+      "options": [
+        "מתקרב ומאיים",
+        "לא שגרתי",
+        "חידוש, התחדשות",
+        "נסיגה"
+      ],
+      "correct_answer": "מתקרב ומאיים",
+      "explanation_hebrew": "“looming” פירושה מתקרב ומאיים."
+    }
+  ]
+}
