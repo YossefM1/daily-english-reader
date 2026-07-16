@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-16",
+  "article_id": "B",
+  "article_title": "French MPs approve assisted-dying law with strict rules after years of argument",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main development reported in the article?",
+      "options": [
+        "French MPs approved an assisted-dying law with strict conditions",
+        "French MPs banned all forms of palliative care",
+        "France ended parliamentary debate on healthcare funding",
+        "Doctors were given unrestricted power to end any patient's life"
+      ],
+      "correct_answer": "French MPs approved an assisted-dying law with strict conditions",
+      "explanation_hebrew": "הכתבה מדווחת שחברי הפרלמנט בצרפת אישרו חוק סיוע במוות תחת תנאים מחמירים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which patients are central to the law described in the article?",
+      "options": [
+        "People with minor temporary illnesses",
+        "People seeking routine surgery",
+        "People with incurable or terminal conditions and unbearable suffering",
+        "People who want to avoid seeing a physician"
+      ],
+      "correct_answer": "People with incurable or terminal conditions and unbearable suffering",
+      "explanation_hebrew": "החוק מתמקד במטופלים עם מחלה חשוכת מרפא או סופנית וסבל בלתי נסבל.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does 'palliative care' mean in this context?",
+      "options": [
+        "Treatment designed mainly to relieve suffering rather than cure the illness",
+        "A criminal penalty for doctors",
+        "A parliamentary voting procedure",
+        "A test used to verify a person's identity"
+      ],
+      "correct_answer": "Treatment designed mainly to relieve suffering rather than cure the illness",
+      "explanation_hebrew": "טיפול פליאטיבי נועד להקל על סבל ותסמינים, ולא בהכרח לרפא את המחלה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why are physicians and verification procedures mentioned?",
+      "options": [
+        "To make the process faster than ordinary treatment",
+        "To ensure eligibility and safeguards are checked before the procedure",
+        "To remove all legal responsibility from parliament",
+        "To replace every form of end-of-life care"
+      ],
+      "correct_answer": "To ensure eligibility and safeguards are checked before the procedure",
+      "explanation_hebrew": "הרופאים והאימות נועדו לבדוק שהמטופל עומד בתנאים ושכל אמצעי ההגנה מתקיימים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What does the long and contentious debate suggest about the issue?",
+      "options": [
+        "It is a simple technical change with no moral questions",
+        "It has broad agreement from every political and medical group",
+        "It raises difficult ethical, legal, and medical concerns",
+        "It concerns only the price of medicine"
+      ],
+      "correct_answer": "It raises difficult ethical, legal, and medical concerns",
+      "explanation_hebrew": "ויכוח ממושך ושנוי במחלוקת מצביע על שאלות מוסריות, משפטיות ורפואיות מורכבות.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "summary",
+      "type": "multiple_choice",
+      "prompt": "Which statement best summarizes the balance the law tries to create?",
+      "options": [
+        "It permits assisted dying in limited cases while imposing strict safeguards",
+        "It gives every adult an automatic right to lethal medication",
+        "It rejects all end-of-life choices and medical support",
+        "It replaces parliament with decisions made only by hospitals"
+      ],
+      "correct_answer": "It permits assisted dying in limited cases while imposing strict safeguards",
+      "explanation_hebrew": "החוק מנסה לאפשר סיוע במוות במקרים מוגבלים, תוך שמירה על תנאים ובקרות מחמירים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List two eligibility conditions or safeguards described or implied by the law.",
+      "rubric_hebrew": "יש לציין שני תנאים, למשל מחלה חשוכת מרפא או סופנית, סבל מתמשך ובלתי נסבל, אימות רפואי או הליך מבוקר.",
+      "expected_points": [
+        "Mentions an incurable or terminal medical condition",
+        "Mentions constant or unbearable suffering",
+        "Mentions physician verification or another formal safeguard"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might some supporters of assisted dying still have reservations about the legislation?",
+      "rubric_hebrew": "יש להסביר שתומכים עשויים לחשוש מהיקף החוק, מאופן היישום או מהגנה מספקת על מטופלים פגיעים.",
+      "expected_points": [
+        "Recognizes that support for the principle does not remove concern about implementation",
+        "Mentions safeguards, eligibility limits, or protection of vulnerable patients"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 3-sentence summary covering the parliamentary decision, who may qualify, and why the subject remains controversial.",
+      "rubric_hebrew": "הסיכום צריך לכלול את אישור החוק, את קבוצת המטופלים הרלוונטית ואת המחלוקת הציבורית והפוליטית.",
+      "expected_points": [
+        "States that French MPs approved the law",
+        "Identifies the limited medical circumstances involved",
+        "Explains that ethical, medical, or political disagreement remains"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph explaining why strict legal safeguards are important in assisted-dying legislation.",
+      "rubric_hebrew": "יש להציג באופן מאוזן את האוטונומיה של המטופל לצד הצורך באימות, פיקוח והגנה מפני לחץ או שימוש לרעה.",
+      "expected_points": [
+        "Mentions patient autonomy or relief of suffering",
+        "Explains the need for medical and legal verification",
+        "Mentions protection against coercion, error, or misuse"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
