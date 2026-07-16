@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-16",
+  "article_id": "A",
+  "article_title": "New monkey species with orange lips found 'hiding' in DRC forest",
+  "article_url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main subject of the article?",
+      "options": [
+        "A newly confirmed monkey species found in a forest in the Democratic Republic of Congo",
+        "A plan to build a large zoo in Europe",
+        "A study of fish living in a tropical river",
+        "A campaign to move monkeys into cities"
+      ],
+      "correct_answer": "A newly confirmed monkey species found in a forest in the Democratic Republic of Congo",
+      "explanation_hebrew": "הכתבה עוסקת במין קוף חדש שאושר ונמצא ביער ברפובליקה הדמוקרטית של קונגו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which physical feature is highlighted in the headline?",
+      "options": [
+        "A blue tail",
+        "Orange lips",
+        "White wings",
+        "A silver horn"
+      ],
+      "correct_answer": "Orange lips",
+      "explanation_hebrew": "הכותרת מדגישה שלקוף יש שפתיים כתומות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where was the animal found?",
+      "options": [
+        "In a desert reserve",
+        "On a small island",
+        "In a DRC forest",
+        "Inside a city park"
+      ],
+      "correct_answer": "In a DRC forest",
+      "explanation_hebrew": "המין נמצא ביער ברפובליקה הדמוקרטית של קונגו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article's context, what does 'canopy' mean?",
+      "options": [
+        "The muddy ground below the trees",
+        "A river crossing the forest",
+        "A group of scientists",
+        "The upper layer of leaves and branches in a forest"
+      ],
+      "correct_answer": "The upper layer of leaves and branches in a forest",
+      "explanation_hebrew": "canopy היא חופת העצים — שכבת העלים והענפים העליונה של היער.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why may the monkey have remained unknown to science for a long time?",
+      "options": [
+        "It lived only in open farmland",
+        "It was easy to see beside roads",
+        "It lived secretly in dense forest habitat",
+        "It had already been kept in every major zoo"
+      ],
+      "correct_answer": "It lived secretly in dense forest habitat",
+      "explanation_hebrew": "מהמילים dense, habitat ו-secretive ניתן להסיק שהקוף חי בסביבה צפופה וקשה לצפייה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "summary",
+      "type": "multiple_choice",
+      "prompt": "Which sentence best summarizes why the discovery matters?",
+      "options": [
+        "It proves that all monkeys live in the same habitat",
+        "It adds to knowledge of primate diversity and the forest ecosystem",
+        "It shows that tropical forests contain no threatened animals",
+        "It explains how to train wild monkeys"
+      ],
+      "correct_answer": "It adds to knowledge of primate diversity and the forest ecosystem",
+      "explanation_hebrew": "הגילוי מרחיב את הידע על מגוון הפרימטים ועל המערכת האקולוגית של היער.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two kinds of evidence or observation that helped researchers identify the monkey as a distinct species.",
+      "rubric_hebrew": "יש לציין שתי נקודות נתמכות, כגון תצפיות או צילומים, סימנים חיצוניים ייחודיים ובדיקה גנטית.",
+      "expected_points": [
+        "Mentions sightings, photographs, or direct observation",
+        "Mentions distinctive physical markings or orange lips",
+        "Mentions genetic evidence or confirmation"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why a blurry sighting alone would not be enough to confirm a new species.",
+      "rubric_hebrew": "התשובה צריכה להסביר שתמונה מטושטשת אינה מספקת פרטים ברורים ושנדרש שילוב של ראיות נוספות.",
+      "expected_points": [
+        "A blurry image may not show distinctive features clearly",
+        "Researchers need stronger evidence such as repeated observations or genetic analysis"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 2-3 sentence summary of the discovery, including where the monkey was found and why it is scientifically important.",
+      "rubric_hebrew": "הסיכום צריך לכלול את גילוי המין, מיקומו ביער בקונגו וחשיבותו להבנת מגוון המינים.",
+      "expected_points": [
+        "Identifies the animal as a newly confirmed monkey species",
+        "States that it was found in a forest in the DRC",
+        "Explains its importance for understanding biodiversity or primates"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining why protecting dense forest habitats can help scientists discover and conserve rare species.",
+      "rubric_hebrew": "יש לקשור בין הגנת היער, הישרדות בעלי חיים נדירים, המשך מחקר ושמירה על המערכת האקולוגית.",
+      "expected_points": [
+        "Connects habitat protection with survival of rare species",
+        "Explains that intact forests allow further scientific study",
+        "Uses at least one article-related term such as habitat, diversity, or ecosystem"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
