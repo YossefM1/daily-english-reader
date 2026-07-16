@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-16",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+  "word_count": 499,
+  "generated_at": "2026-07-16T02:13:01.316001+00:00",
+  "difficulty_reason": "Short wildlife story with a clear narrative and short sentences; mostly B1/B2 vocabulary and very little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "striking",
+      "lemma": "striking",
+      "level": "B2",
+      "hebrew": "בּוֹלֵט / מַרְשִׁים",
+      "explanation_hebrew": "משהו שמושך תשומת לב בגלל מראה יוצא דופן",
+      "pronunciation_hebrew": "סְטְרַייְקִינְג",
+      "example": "She wore a striking red dress to the party."
+    },
+    {
+      "word": "confirmed",
+      "lemma": "confirm",
+      "level": "B1",
+      "hebrew": "אֻשַּׁר",
+      "explanation_hebrew": "נקבע כנכון או ודאי",
+      "pronunciation_hebrew": "קוֹנְפֶרְמְד",
+      "example": "The lab confirmed that the sample was safe."
+    },
+    {
+      "word": "primate",
+      "lemma": "primate",
+      "level": "B2",
+      "hebrew": "פְּרִימָט / יונק על",
+      "explanation_hebrew": "קבוצת בעלי החיים הכוללת קופים ובני אדם",
+      "pronunciation_hebrew": "פְּרַייְמֵייְט",
+      "example": "Gorillas are the largest primate in the world."
+    },
+    {
+      "word": "spotted",
+      "lemma": "spot",
+      "level": "B1",
+      "hebrew": "הֻבְחַן / נִרְאָה",
+      "explanation_hebrew": "נראה או זוהה במקרה",
+      "pronunciation_hebrew": "סְפּוֹטִיד",
+      "example": "A guard spotted the intruder near the gate."
+    },
+    {
+      "word": "canopy",
+      "lemma": "canopy",
+      "level": "B2",
+      "hebrew": "חוֹפַת עֵצִים",
+      "explanation_hebrew": "שכבת העלים והענפים העליונה של יער",
+      "pronunciation_hebrew": "קֶנוֹפִּי",
+      "example": "Sunlight barely reaches the forest floor beneath the canopy."
+    },
+    {
+      "word": "dense",
+      "lemma": "dense",
+      "level": "B2",
+      "hebrew": "צָפוּף / סָמִיךְ",
+      "explanation_hebrew": "דחוס מאוד עם מעט מקום פנוי",
+      "pronunciation_hebrew": "דֶנְס",
+      "example": "The hikers got lost in the dense fog."
+    },
+    {
+      "word": "tropical",
+      "lemma": "tropical",
+      "level": "B1",
+      "hebrew": "טְרוֹפִּי",
+      "explanation_hebrew": "קשור לאזורים חמים ולחים ליד קו המשווה",
+      "pronunciation_hebrew": "טְרוֹפִּיקַל",
+      "example": "We spent our holiday on a tropical island."
+    },
+    {
+      "word": "blurry",
+      "lemma": "blurry",
+      "level": "B2",
+      "hebrew": "מְטֻשְׁטָשׁ",
+      "explanation_hebrew": "לא ברור, מעורפל למראה",
+      "pronunciation_hebrew": "בְּלַארִי",
+      "example": "The old photo was too blurry to recognise anyone."
+    },
+    {
+      "word": "sighting",
+      "lemma": "sighting",
+      "level": "B2",
+      "hebrew": "תַּצְפִּית / הִבָּחֲנוּת",
+      "explanation_hebrew": "מקרה שבו רואים משהו נדיר",
+      "pronunciation_hebrew": "סַייְטִינְג",
+      "example": "There was a rare sighting of a wolf near the town."
+    },
+    {
+      "word": "previously",
+      "lemma": "previously",
+      "level": "B1",
+      "hebrew": "בְּעָבָר / קֹדֶם לָכֵן",
+      "explanation_hebrew": "בזמן קודם, לפני עכשיו",
+      "pronunciation_hebrew": "פְּרִיוִיאַסְלִי",
+      "example": "She had previously worked as a teacher."
+    },
+    {
+      "word": "genetic",
+      "lemma": "genetic",
+      "level": "B2",
+      "hebrew": "גֶּנֵטִי",
+      "explanation_hebrew": "קשור לגנים ולתורשה",
+      "pronunciation_hebrew": "גֶ'נֶטִיק",
+      "example": "Doctors ran a genetic test on the family."
+    },
+    {
+      "word": "evolved",
+      "lemma": "evolve",
+      "level": "B2",
+      "hebrew": "הִתְפַּתֵּחַ / הִתְאַבֵּל בְּאֶבוֹלוּצְיָה",
+      "explanation_hebrew": "השתנה בהדרגה לאורך זמן",
+      "pronunciation_hebrew": "אִיווֹלְבְד",
+      "example": "Birds evolved from ancient reptiles."
+    },
+    {
+      "word": "distinct",
+      "lemma": "distinct",
+      "level": "B2",
+      "hebrew": "נִבְדָּל / מוּבְחָן",
+      "explanation_hebrew": "שונה בבירור מדברים אחרים",
+      "pronunciation_hebrew": "דִיסְטִינְקְט",
+      "example": "The two languages are clearly distinct."
+    },
+    {
+      "word": "interviewed",
+      "lemma": "interview",
+      "level": "B1",
+      "hebrew": "רֻאַיֵּן",
+      "explanation_hebrew": "נשאל שאלות בראיון",
+      "pronunciation_hebrew": "אִינְטֶרְוְיוּד",
+      "example": "The reporter interviewed dozens of witnesses."
+    },
+    {
+      "word": "diversity",
+      "lemma": "diversity",
+      "level": "B2",
+      "hebrew": "גִּוּוּן / מְגֻוָּנוּת",
+      "explanation_hebrew": "קיומם של סוגים רבים ושונים",
+      "pronunciation_hebrew": "דַייְוֶרְסִיטִי",
+      "example": "The region is famous for its wildlife diversity."
+    },
+    {
+      "word": "herbivores",
+      "lemma": "herbivore",
+      "level": "C1",
+      "hebrew": "אוֹכְלֵי עֵשֶׂב / צִמְחוֹנִיִּים",
+      "explanation_hebrew": "בעלי חיים הניזונים מצמחים בלבד",
+      "pronunciation_hebrew": "הֶרְבִּיווֹרְס",
+      "example": "Cows and deer are herbivores."
+    },
+    {
+      "word": "ecosystem",
+      "lemma": "ecosystem",
+      "level": "B2",
+      "hebrew": "מַעֲרֶכֶת אֶקוֹלוֹגִית",
+      "explanation_hebrew": "קהילת יצורים והסביבה שבה הם חיים",
+      "pronunciation_hebrew": "אֶקוֹסִיסְטֶם",
+      "example": "Pollution can damage a whole ecosystem."
+    },
+    {
+      "word": "germination",
+      "lemma": "germination",
+      "level": "C1",
+      "hebrew": "נְבִיטָה",
+      "explanation_hebrew": "התהליך שבו זרע מתחיל לצמוח",
+      "pronunciation_hebrew": "גֶ'רְמִינֵיישְׁן",
+      "example": "Warm soil speeds up seed germination."
+    },
+    {
+      "word": "speculates",
+      "lemma": "speculate",
+      "level": "C1",
+      "hebrew": "מְשַׁעֵר / מַשְׁעִיר",
+      "explanation_hebrew": "מנחש או משער בלי ודאות מלאה",
+      "pronunciation_hebrew": "סְפֶּקְיוּלֵייְטְס",
+      "example": "The author speculates about life on other planets."
+    },
+    {
+      "word": "markings",
+      "lemma": "marking",
+      "level": "B2",
+      "hebrew": "סִימָנִים / כְּתָמִים",
+      "explanation_hebrew": "דוגמאות של צבע או קווים על גוף בעל חיים",
+      "pronunciation_hebrew": "מַארְקִינְגְז",
+      "example": "The cat had unusual black markings on its back."
+    },
+    {
+      "word": "distinctive",
+      "lemma": "distinctive",
+      "level": "B2",
+      "hebrew": "יִחוּדִי / אוֹפְיָינִי",
+      "explanation_hebrew": "קל לזיהוי בגלל תכונה מיוחדת",
+      "pronunciation_hebrew": "דִיסְטִינְקְטִיב",
+      "example": "The bird has a distinctive orange beak."
+    },
+    {
+      "word": "restricted",
+      "lemma": "restrict",
+      "level": "B2",
+      "hebrew": "מֻגְבָּל",
+      "explanation_hebrew": "מוגבל לגבול או לכמות מסוימת",
+      "pronunciation_hebrew": "רִיסְטְרִיקְטִיד",
+      "example": "Access to the lab is restricted to staff."
+    },
+    {
+      "word": "habitat",
+      "lemma": "habitat",
+      "level": "B1",
+      "hebrew": "בֵּית גִּדּוּל / מוֹשָׁב טִבְעִי",
+      "explanation_hebrew": "הסביבה הטבעית שבה חי בעל חיים",
+      "pronunciation_hebrew": "הַבִּיטָט",
+      "example": "Deforestation destroys the habitat of many animals."
+    },
+    {
+      "word": "hunted",
+      "lemma": "hunt",
+      "level": "B1",
+      "hebrew": "נִצּוֹד / צָד",
+      "explanation_hebrew": "נרדף כדי להיתפס או להיהרג",
+      "pronunciation_hebrew": "הַאנְטִיד",
+      "example": "These animals are hunted for their fur."
+    },
+    {
+      "word": "secretive",
+      "lemma": "secretive",
+      "level": "B2",
+      "hebrew": "חֲשָׁאִי / מִסְתַּתֵּר",
+      "explanation_hebrew": "נוטה להסתיר ולהתחבא",
+      "pronunciation_hebrew": "סִיקְרֶטִיב",
+      "example": "He was very secretive about his plans."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "striking",
+      "type": "english_to_hebrew",
+      "question": "What does “striking” mean?",
+      "options": [
+        "בּוֹלֵט / מַרְשִׁים",
+        "מְשַׁעֲמֵם",
+        "רָגִיל",
+        "זָעִיר"
+      ],
+      "correct_answer": "בּוֹלֵט / מַרְשִׁים",
+      "explanation_hebrew": "“striking” בעברית: בּוֹלֵט / מַרְשִׁים."
+    },
+    {
+      "id": "A-q2",
+      "word": "confirmed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “אֻשַּׁר”?",
+      "options": [
+        "doubted",
+        "confirmed",
+        "denied",
+        "cancelled"
+      ],
+      "correct_answer": "confirmed",
+      "explanation_hebrew": "המילה הנכונה היא “confirmed” (אֻשַּׁר)."
+    },
+    {
+      "id": "A-q3",
+      "word": "primate",
+      "type": "english_to_hebrew",
+      "question": "What does “primate” mean?",
+      "options": [
+        "צִפּוֹר",
+        "זוֹחֵל",
+        "פְּרִימָט / יונק על",
+        "דָּג"
+      ],
+      "correct_answer": "פְּרִימָט / יונק על",
+      "explanation_hebrew": "“primate” בעברית: פְּרִימָט / יונק על."
+    },
+    {
+      "id": "A-q4",
+      "word": "spotted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “הֻבְחַן / נִרְאָה”?",
+      "options": [
+        "ignored",
+        "lost",
+        "hidden",
+        "spotted"
+      ],
+      "correct_answer": "spotted",
+      "explanation_hebrew": "המילה הנכונה היא “spotted” (הֻבְחַן / נִרְאָה)."
+    },
+    {
+      "id": "A-q5",
+      "word": "canopy",
+      "type": "english_to_hebrew",
+      "question": "What does “canopy” mean?",
+      "options": [
+        "שֹׁרֶשׁ",
+        "חוֹפַת עֵצִים",
+        "נָהָר",
+        "מְעָרָה"
+      ],
+      "correct_answer": "חוֹפַת עֵצִים",
+      "explanation_hebrew": "“canopy” בעברית: חוֹפַת עֵצִים."
+    },
+    {
+      "id": "A-q6",
+      "word": "dense",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “צָפוּף / סָמִיךְ”?",
+      "options": [
+        "dense",
+        "thin",
+        "empty",
+        "open"
+      ],
+      "correct_answer": "dense",
+      "explanation_hebrew": "המילה הנכונה היא “dense” (צָפוּף / סָמִיךְ)."
+    },
+    {
+      "id": "A-q7",
+      "word": "tropical",
+      "type": "english_to_hebrew",
+      "question": "What does “tropical” mean?",
+      "options": [
+        "טְרוֹפִּי",
+        "קוֹטְבִי",
+        "עִירוֹנִי",
+        "מִדְבָּרִי"
+      ],
+      "correct_answer": "טְרוֹפִּי",
+      "explanation_hebrew": "“tropical” בעברית: טְרוֹפִּי."
+    },
+    {
+      "id": "A-q8",
+      "word": "blurry",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “מְטֻשְׁטָשׁ”?",
+      "options": [
+        "blurry",
+        "bright",
+        "sharp",
+        "loud"
+      ],
+      "correct_answer": "blurry",
+      "explanation_hebrew": "המילה הנכונה היא “blurry” (מְטֻשְׁטָשׁ)."
+    },
+    {
+      "id": "A-q9",
+      "word": "sighting",
+      "type": "english_to_hebrew",
+      "question": "What does “sighting” mean?",
+      "options": [
+        "טַעֲמָה",
+        "נְגִיעָה",
+        "תַּצְפִּית / הִבָּחֲנוּת",
+        "שְׁמִיעָה"
+      ],
+      "correct_answer": "תַּצְפִּית / הִבָּחֲנוּת",
+      "explanation_hebrew": "“sighting” בעברית: תַּצְפִּית / הִבָּחֲנוּת."
+    },
+    {
+      "id": "A-q10",
+      "word": "previously",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “בְּעָבָר / קֹדֶם לָכֵן”?",
+      "options": [
+        "never",
+        "previously",
+        "afterwards",
+        "soon"
+      ],
+      "correct_answer": "previously",
+      "explanation_hebrew": "המילה הנכונה היא “previously” (בְּעָבָר / קֹדֶם לָכֵן)."
+    },
+    {
+      "id": "A-q11",
+      "word": "genetic",
+      "type": "english_to_hebrew",
+      "question": "What does “genetic” mean?",
+      "options": [
+        "מוּזִיקָלִי",
+        "גֶּנֵטִי",
+        "כִּימִי",
+        "חַשְׁמַלִּי"
+      ],
+      "correct_answer": "גֶּנֵטִי",
+      "explanation_hebrew": "“genetic” בעברית: גֶּנֵטִי."
+    },
+    {
+      "id": "A-q12",
+      "word": "evolved",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “הִתְפַּתֵּחַ / הִתְאַבֵּל בְּאֶבוֹלוּצְיָה”?",
+      "options": [
+        "evolved",
+        "repeated",
+        "vanished",
+        "froze"
+      ],
+      "correct_answer": "evolved",
+      "explanation_hebrew": "המילה הנכונה היא “evolved” (הִתְפַּתֵּחַ / הִתְאַבֵּל בְּאֶבוֹלוּצְיָה)."
+    },
+    {
+      "id": "A-q13",
+      "word": "distinct",
+      "type": "english_to_hebrew",
+      "question": "What does “distinct” mean?",
+      "options": [
+        "מְעֻרְפָּל",
+        "זֵהֶה",
+        "נִבְדָּל / מוּבְחָן",
+        "שָׁבִיר"
+      ],
+      "correct_answer": "נִבְדָּל / מוּבְחָן",
+      "explanation_hebrew": "“distinct” בעברית: נִבְדָּל / מוּבְחָן."
+    },
+    {
+      "id": "A-q14",
+      "word": "interviewed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “רֻאַיֵּן”?",
+      "options": [
+        "fired",
+        "paid",
+        "interviewed",
+        "hired"
+      ],
+      "correct_answer": "interviewed",
+      "explanation_hebrew": "המילה הנכונה היא “interviewed” (רֻאַיֵּן)."
+    },
+    {
+      "id": "A-q15",
+      "word": "diversity",
+      "type": "english_to_hebrew",
+      "question": "What does “diversity” mean?",
+      "options": [
+        "מַחְסוֹר",
+        "גִּוּוּן / מְגֻוָּנוּת",
+        "שֶׁקֶט",
+        "אַחְדוּת"
+      ],
+      "correct_answer": "גִּוּוּן / מְגֻוָּנוּת",
+      "explanation_hebrew": "“diversity” בעברית: גִּוּוּן / מְגֻוָּנוּת."
+    },
+    {
+      "id": "A-q16",
+      "word": "herbivores",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “אוֹכְלֵי עֵשֶׂב / צִמְחוֹנִיִּים”?",
+      "options": [
+        "predators",
+        "herbivores",
+        "insects",
+        "fish"
+      ],
+      "correct_answer": "herbivores",
+      "explanation_hebrew": "המילה הנכונה היא “herbivores” (אוֹכְלֵי עֵשֶׂב / צִמְחוֹנִיִּים)."
+    },
+    {
+      "id": "A-q17",
+      "word": "ecosystem",
+      "type": "english_to_hebrew",
+      "question": "What does “ecosystem” mean?",
+      "options": [
+        "מִסְמָךְ",
+        "בִּנְיָן",
+        "מְכוֹנָה",
+        "מַעֲרֶכֶת אֶקוֹלוֹגִית"
+      ],
+      "correct_answer": "מַעֲרֶכֶת אֶקוֹלוֹגִית",
+      "explanation_hebrew": "“ecosystem” בעברית: מַעֲרֶכֶת אֶקוֹלוֹגִית."
+    },
+    {
+      "id": "A-q18",
+      "word": "germination",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “נְבִיטָה”?",
+      "options": [
+        "decay",
+        "germination",
+        "freezing",
+        "harvest"
+      ],
+      "correct_answer": "germination",
+      "explanation_hebrew": "המילה הנכונה היא “germination” (נְבִיטָה)."
+    },
+    {
+      "id": "A-q19",
+      "word": "speculates",
+      "type": "english_to_hebrew",
+      "question": "What does “speculates” mean?",
+      "options": [
+        "מוֹכִיחַ",
+        "מוֹדֵד",
+        "מְשַׁעֵר / מַשְׁעִיר",
+        "מְשַׁלֵּם"
+      ],
+      "correct_answer": "מְשַׁעֵר / מַשְׁעִיר",
+      "explanation_hebrew": "“speculates” בעברית: מְשַׁעֵר / מַשְׁעִיר."
+    },
+    {
+      "id": "A-q20",
+      "word": "markings",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “סִימָנִים / כְּתָמִים”?",
+      "options": [
+        "voices",
+        "smells",
+        "markings",
+        "sounds"
+      ],
+      "correct_answer": "markings",
+      "explanation_hebrew": "המילה הנכונה היא “markings” (סִימָנִים / כְּתָמִים)."
+    },
+    {
+      "id": "A-q21",
+      "word": "distinctive",
+      "type": "english_to_hebrew",
+      "question": "What does “distinctive” mean?",
+      "options": [
+        "יִחוּדִי / אוֹפְיָינִי",
+        "זוֹל",
+        "רָגִיל",
+        "נָעְלָם"
+      ],
+      "correct_answer": "יִחוּדִי / אוֹפְיָינִי",
+      "explanation_hebrew": "“distinctive” בעברית: יִחוּדִי / אוֹפְיָינִי."
+    },
+    {
+      "id": "A-q22",
+      "word": "restricted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “מֻגְבָּל”?",
+      "options": [
+        "free",
+        "restricted",
+        "unlimited",
+        "public"
+      ],
+      "correct_answer": "restricted",
+      "explanation_hebrew": "המילה הנכונה היא “restricted” (מֻגְבָּל)."
+    },
+    {
+      "id": "A-q23",
+      "word": "habitat",
+      "type": "english_to_hebrew",
+      "question": "What does “habitat” mean?",
+      "options": [
+        "כֶּסֶף",
+        "אֹכֶל",
+        "מִשְׂחָק",
+        "בֵּית גִּדּוּל / מוֹשָׁב טִבְעִי"
+      ],
+      "correct_answer": "בֵּית גִּדּוּל / מוֹשָׁב טִבְעִי",
+      "explanation_hebrew": "“habitat” בעברית: בֵּית גִּדּוּל / מוֹשָׁב טִבְעִי."
+    },
+    {
+      "id": "A-q24",
+      "word": "hunted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית משמעותה “נִצּוֹד / צָד”?",
+      "options": [
+        "tamed",
+        "hunted",
+        "protected",
+        "fed"
+      ],
+      "correct_answer": "hunted",
+      "explanation_hebrew": "המילה הנכונה היא “hunted” (נִצּוֹד / צָד)."
+    },
+    {
+      "id": "A-q25",
+      "word": "secretive",
+      "type": "english_to_hebrew",
+      "question": "What does “secretive” mean?",
+      "options": [
+        "חֲשָׁאִי / מִסְתַּתֵּר",
+        "נָדִיב",
+        "גָּלוּי",
+        "רוֹעֵשׁ"
+      ],
+      "correct_answer": "חֲשָׁאִי / מִסְתַּתֵּר",
+      "explanation_hebrew": "“secretive” בעברית: חֲשָׁאִי / מִסְתַּתֵּר."
+    }
+  ]
+}
