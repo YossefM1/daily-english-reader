@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-16",
+  "article_id": "C",
+  "article_title": "More people around the world now favour China over the US, Pew study suggests",
+  "article_url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central finding discussed in the article?",
+      "options": [
+        "Global views of China have improved relative to views of the United States",
+        "Every country now has identical views of China and the United States",
+        "The survey found that foreign policy no longer affects public opinion",
+        "Most respondents refused to compare the two powers"
+      ],
+      "correct_answer": "Global views of China have improved relative to views of the United States",
+      "explanation_hebrew": "הממצא המרכזי הוא שעמדות כלפי סין השתפרו יחסית לעמדות כלפי ארצות הברית במדינות שנבדקו.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which organisation conducted the study mentioned in the headline?",
+      "options": [
+        "The World Bank",
+        "Pew Research Center",
+        "The United Nations Security Council",
+        "The International Monetary Fund"
+      ],
+      "correct_answer": "Pew Research Center",
+      "explanation_hebrew": "הכותרת מציינת שמדובר במחקר של Pew.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In polling, what are 'respondents'?",
+      "options": [
+        "Officials who design foreign policy",
+        "Journalists who publish the results",
+        "People who answer the survey questions",
+        "Countries excluded from the research"
+      ],
+      "correct_answer": "People who answer the survey questions",
+      "explanation_hebrew": "respondents הם הנשאלים או המשיבים לסקר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why might the article use a median when comparing countries?",
+      "options": [
+        "To focus only on the largest country",
+        "To identify the middle value across a set of country results",
+        "To remove all differences between respondents",
+        "To predict the exact result of the next election"
+      ],
+      "correct_answer": "To identify the middle value across a set of country results",
+      "explanation_hebrew": "חציון הוא הערך האמצעי, ולכן הוא מסכם אוסף תוצאות בלי להיות מושפע מדי מערכים קיצוניים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What does the presence of large swings and volatility suggest about international perceptions?",
+      "options": [
+        "They are fixed permanently by geography",
+        "They can change in response to leaders, events, and political rhetoric",
+        "They depend only on the size of a country's population",
+        "They are unaffected by foreign policy"
+      ],
+      "correct_answer": "They can change in response to leaders, events, and political rhetoric",
+      "explanation_hebrew": "תנודות וחוסר יציבות מצביעים על כך שעמדות הציבור יכולות להשתנות בעקבות אירועים, מנהיגים ורטוריקה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "summary",
+      "type": "multiple_choice",
+      "prompt": "Which statement best captures the article's broader message?",
+      "options": [
+        "China has replaced the United States in every measurable area",
+        "Public opinion is uniform across all regions",
+        "The reputational gap between China and the US has narrowed, but views remain complex and uneven",
+        "Polling can prove which political system is objectively best"
+      ],
+      "correct_answer": "The reputational gap between China and the US has narrowed, but views remain complex and uneven",
+      "explanation_hebrew": "הפער התדמיתי הצטמצם, אך העמדות אינן אחידות והן משתנות בין מדינות והקשרים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two factors discussed in the article that can shape perceptions of China or the United States.",
+      "rubric_hebrew": "יש לציין שני גורמים רלוונטיים, כגון מדיניות חוץ, התנהגות מנהיגים, רטוריקה, התערבות במדינות אחרות או שימוש באמצעי כפייה.",
+      "expected_points": [
+        "Mentions foreign policy or interference in other countries",
+        "Mentions political leadership, rhetoric, or international conduct",
+        "May mention assertive, expansive, or coercive behaviour"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why a rise in favourable views of China does not necessarily mean respondents approve of every aspect of China's government or foreign policy.",
+      "rubric_hebrew": "יש להבחין בין השוואה יחסית לבין תמיכה מלאה, ולהסביר שאנשים יכולים להעדיף מדינה אחת ובו בזמן לבקר מאפיינים סמכותניים או כופים שלה.",
+      "expected_points": [
+        "Distinguishes relative preference from complete approval",
+        "Notes that respondents may still criticise authoritarian or coercive policies",
+        "Recognizes that views can differ by issue and country"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 3-4 sentence summary of the Pew study's reported trend and the cautions needed when interpreting it.",
+      "rubric_hebrew": "הסיכום צריך לתאר את השיפור היחסי בעמדות כלפי סין, את ההשוואה לארה״ב ואת העובדה שהנתונים משתנים בין מדינות ואינם מעידים על תמיכה מוחלטת.",
+      "expected_points": [
+        "States that favourable views of China rose relative to the US",
+        "Attributes the finding to a Pew survey",
+        "Notes variation across countries or respondents",
+        "Avoids presenting the result as universal or permanent"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short analytical paragraph on how a country can burnish its international image without changing its political system.",
+      "rubric_hebrew": "יש להציג טענה מנומקת ולדון בכלים כגון דיפלומטיה, מסחר, סיוע, מסרים ציבוריים והתנהגות צפויה, לצד מגבלות הנובעות ממדיניות סמכותנית או כופה.",
+      "expected_points": [
+        "Explains at least two ways a country can improve its image",
+        "Connects image-building to diplomacy, economic ties, aid, or rhetoric",
+        "Acknowledges that coercive or authoritarian actions can limit reputational gains"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}
