@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-17",
+  "article_id": "C",
+  "article_title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+  "article_url": "https://www.bbc.co.uk/news/articles/cdx76069n3do",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main issue examined in the article?",
+      "options": [
+        "Public anger and political consequences after President Zelensky removed a popular defence minister",
+        "A new peace treaty ending the war in Ukraine",
+        "A decision to close Ukraine's defence ministry",
+        "A protest against higher steel prices"
+      ],
+      "correct_answer": "Public anger and political consequences after President Zelensky removed a popular defence minister",
+      "explanation_hebrew": "הכתבה בוחנת את הכעס הציבורי וההשלכות הפוליטיות לאחר הדחת שר הגנה פופולרי.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did some Ukrainians respond to the minister's removal?",
+      "options": [
+        "They organised protests and chanted slogans",
+        "They celebrated the closure of the ministry",
+        "They demanded an end to all military procurement",
+        "They left the country immediately"
+      ],
+      "correct_answer": "They organised protests and chanted slogans",
+      "explanation_hebrew": "חלק מהאוקראינים יצאו להפגנות וקראו סיסמאות נגד ההחלטה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which achievement was the former minister credited with?",
+      "options": [
+        "Ending the invasion through mediation",
+        "Energising the defence ministry and pushing procurement and anti-corruption efforts",
+        "Nationalising the country's steel industry",
+        "Replacing the armed forces with volunteers"
+      ],
+      "correct_answer": "Energising the defence ministry and pushing procurement and anti-corruption efforts",
+      "explanation_hebrew": "השר לשעבר זכה להערכה על הזרמת מרץ למשרד, קידום הרכש והמאבק בשחיתות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does 'reshuffle' mean?",
+      "options": [
+        "A military retreat",
+        "A reorganisation in which senior government roles are changed",
+        "A public vote on a new constitution",
+        "A financial payment to a dismissed official"
+      ],
+      "correct_answer": "A reorganisation in which senior government roles are changed",
+      "explanation_hebrew": "reshuffle הוא שינוי בהרכב הממשלה והחלפת בעלי תפקידים בכירים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the removal create unusually strong criticism?",
+      "options": [
+        "The minister was popular and was seen as experienced and effective during wartime",
+        "The public had never heard of the minister",
+        "The decision immediately ended foreign military support",
+        "The minister had opposed all defence spending"
+      ],
+      "correct_answer": "The minister was popular and was seen as experienced and effective during wartime",
+      "explanation_hebrew": "הביקורת הייתה חזקה משום שהשר היה פופולרי ונחשב מנוסה ויעיל בזמן מלחמה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "summary",
+      "type": "multiple_choice",
+      "prompt": "Which sentence best captures the article's broader tension?",
+      "options": [
+        "Zelensky's authority to reshuffle his government collided with public concern about wartime leadership and defence reform",
+        "Ukraine's protests were mainly about weather conditions",
+        "The defence ministry had no role in the war effort",
+        "The reshuffle was welcomed without criticism by soldiers and civilians"
+      ],
+      "correct_answer": "Zelensky's authority to reshuffle his government collided with public concern about wartime leadership and defence reform",
+      "explanation_hebrew": "המתח המרכזי הוא בין סמכות הנשיא לשנות את הממשלה לבין דאגה ציבורית להנהגה ולרפורמות בזמן מלחמה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List two reasons supporters valued the removed defence minister.",
+      "rubric_hebrew": "יש לציין שתי סיבות מהכתבה, כגון ניסיון, פעילות מתחילת הפלישה, קידום רכש, מאבק בשחיתות או מתן אנרגיה למשרד.",
+      "expected_points": [
+        "He had substantial wartime or defence experience",
+        "He was active from the beginning of the invasion",
+        "He promoted defence procurement or reform",
+        "He was credited with energising the ministry or fighting corruption"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might senior officers resign after the minister's dismissal?",
+      "rubric_hebrew": "יש להסביר שהתפטרות יכולה לבטא מחאה, נאמנות לשר או חשש שההדחה תפגע ברפורמות ובמאמץ המלחמתי.",
+      "expected_points": [
+        "They may have wanted to protest the decision",
+        "They may have trusted the minister's leadership",
+        "They may have feared damage to reforms, procurement or the war effort"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 3-sentence summary of the removal, the public reaction and the political significance.",
+      "rubric_hebrew": "הסיכום צריך לכלול את הדחת השר, ההפגנות והביקורת, ואת משמעות האירוע להנהגה ולמאמץ המלחמתי.",
+      "expected_points": [
+        "States that Zelensky removed a popular defence minister",
+        "Mentions protests, anger or resignations",
+        "Explains the tension over wartime leadership, reform or presidential authority"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph discussing whether wartime leaders should explain major personnel changes more fully to the public.",
+      "rubric_hebrew": "יש להציג עמדה מנומקת ולהתייחס לצורך באמון ציבורי, ביטחון, שקיפות ורציפות ניהולית בזמן מלחמה.",
+      "expected_points": [
+        "States a clear position",
+        "Discusses public trust or transparency",
+        "Recognises security or leadership constraints during wartime",
+        "Connects the argument to the minister's removal"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}
