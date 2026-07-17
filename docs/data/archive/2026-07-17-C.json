@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-17",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do",
+  "word_count": 1010,
+  "generated_at": "2026-07-17T02:11:28.541236+00:00",
+  "difficulty_reason": "Dense political and military analysis with many quoted sources and background on the war; complex sentences and B2/C1/C2 vocabulary.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "removal",
+      "lemma": "removal",
+      "level": "B2",
+      "hebrew": "הדחה / הסרה",
+      "explanation_hebrew": "הוצאה של מישהו מתפקידו",
+      "pronunciation_hebrew": "רִימוּבַל",
+      "example": "The removal of the minister angered many people."
+    },
+    {
+      "word": "outburst",
+      "lemma": "outburst",
+      "level": "C1",
+      "hebrew": "התפרצות",
+      "explanation_hebrew": "ביטוי פתאומי וחזק של רגש",
+      "pronunciation_hebrew": "אַאוּטְבֶּרְסְט",
+      "example": "The decision caused an outburst of anger."
+    },
+    {
+      "word": "chanting",
+      "lemma": "chant",
+      "level": "B2",
+      "hebrew": "קריאה בקצב",
+      "explanation_hebrew": "אמירת מילים שוב ושוב בקול",
+      "pronunciation_hebrew": "צַ'אנְטִינְג",
+      "example": "The crowd was chanting slogans in the square."
+    },
+    {
+      "word": "sabotaging",
+      "lemma": "sabotage",
+      "level": "C1",
+      "hebrew": "חבלה",
+      "explanation_hebrew": "פגיעה מכוונת כדי למנוע הצלחה",
+      "pronunciation_hebrew": "סַאבּוֹטַאזִ'ינְג",
+      "example": "They held signs against sabotaging the war effort."
+    },
+    {
+      "word": "tenure",
+      "lemma": "tenure",
+      "level": "C1",
+      "hebrew": "כהונה",
+      "explanation_hebrew": "תקופת הזמן שבה מישהו מכהן בתפקיד",
+      "pronunciation_hebrew": "טֶנְיוּר",
+      "example": "His tenure as minister lasted only a few months."
+    },
+    {
+      "word": "unprecedented",
+      "lemma": "unprecedented",
+      "level": "C1",
+      "hebrew": "חסר תקדים",
+      "explanation_hebrew": "משהו שלא קרה מעולם קודם",
+      "pronunciation_hebrew": "אַנְפְּרֶסֶדֶנְטֶד",
+      "example": "He had unprecedented experience in this field."
+    },
+    {
+      "word": "systemic",
+      "lemma": "systemic",
+      "level": "C1",
+      "hebrew": "מערכתי",
+      "explanation_hebrew": "הקשור לכלל המערכת ולא לחלק בודד",
+      "pronunciation_hebrew": "סִיסְטֶמִיק",
+      "example": "The conflict between them was described as systemic."
+    },
+    {
+      "word": "mediation",
+      "lemma": "mediation",
+      "level": "C1",
+      "hebrew": "תיווך",
+      "explanation_hebrew": "עזרה ליישב סכסוך בין צדדים",
+      "pronunciation_hebrew": "מֶדִיאֵיישַן",
+      "example": "They could only work together with his mediation."
+    },
+    {
+      "word": "asymmetrically",
+      "lemma": "asymmetrically",
+      "level": "C2",
+      "hebrew": "באופן א-סימטרי",
+      "explanation_hebrew": "בדרך לא שוויונית או לא צפויה",
+      "pronunciation_hebrew": "אֵייסִימֶטְרִיקְלִי",
+      "example": "He wanted to defeat the enemy asymmetrically."
+    },
+    {
+      "word": "curt",
+      "lemma": "curt",
+      "level": "C2",
+      "hebrew": "קצר וחד / יבש",
+      "explanation_hebrew": "קצר ולא מנומס במיוחד",
+      "pronunciation_hebrew": "קֶרְט",
+      "example": "He replied in a curt message on Telegram."
+    },
+    {
+      "word": "mounted",
+      "lemma": "mount",
+      "level": "B2",
+      "hebrew": "ארגן / הוביל",
+      "explanation_hebrew": "יזם והוציא לפועל פעולה",
+      "pronunciation_hebrew": "מַאוּנְטֶד",
+      "example": "He was proud of the defence they mounted in 2022."
+    },
+    {
+      "word": "credited",
+      "lemma": "credit",
+      "level": "B2",
+      "hebrew": "זקף לזכות",
+      "explanation_hebrew": "ייחס למישהו הצלחה או הישג",
+      "pronunciation_hebrew": "קְרֶדִיטֶד",
+      "example": "He is credited with energising the ministry."
+    },
+    {
+      "word": "energising",
+      "lemma": "energise",
+      "level": "C1",
+      "hebrew": "הזרמת מרץ",
+      "explanation_hebrew": "נתן כוח ומוטיבציה",
+      "pronunciation_hebrew": "אֶנֶרְגַ'ייזִינְג",
+      "example": "He was praised for energising the whole team."
+    },
+    {
+      "word": "corruption",
+      "lemma": "corruption",
+      "level": "B2",
+      "hebrew": "שחיתות",
+      "explanation_hebrew": "שימוש לרעה בכוח לתועלת אישית",
+      "pronunciation_hebrew": "קוֹרַפְּשַן",
+      "example": "He led a drive against corruption in the ministry."
+    },
+    {
+      "word": "reshuffle",
+      "lemma": "reshuffle",
+      "level": "C1",
+      "hebrew": "שינוי הרכב / רה-ארגון",
+      "explanation_hebrew": "החלפת תפקידים בין אנשים בממשלה",
+      "pronunciation_hebrew": "רִישַׁאפֶל",
+      "example": "The reshuffle changed several senior posts."
+    },
+    {
+      "word": "resigned",
+      "lemma": "resign",
+      "level": "B2",
+      "hebrew": "התפטר",
+      "explanation_hebrew": "עזב תפקיד מרצונו",
+      "pronunciation_hebrew": "רִיזַאיְנְד",
+      "example": "The prime minister resigned earlier this week."
+    },
+    {
+      "word": "antagonise",
+      "lemma": "antagonise",
+      "level": "C2",
+      "hebrew": "להכעיס / ליצור עוינות",
+      "explanation_hebrew": "לגרום למישהו לכעוס או להתנגד",
+      "pronunciation_hebrew": "אַנְטַגוֹנַייז",
+      "example": "He said he did not want to antagonise the president."
+    },
+    {
+      "word": "conscience",
+      "lemma": "conscience",
+      "level": "C1",
+      "hebrew": "מצפון",
+      "explanation_hebrew": "התחושה הפנימית של נכון ולא נכון",
+      "pronunciation_hebrew": "קוֹנְשֶׁנְס",
+      "example": "He said he was acting according to his conscience."
+    },
+    {
+      "word": "bureaucracy",
+      "lemma": "bureaucracy",
+      "level": "C1",
+      "hebrew": "ביורוקרטיה",
+      "explanation_hebrew": "נהלים מסובכים ואיטיים במוסדות",
+      "pronunciation_hebrew": "בְּיוּרוֹקְרַסִי",
+      "example": "Many see the ministry as stuck in bureaucracy."
+    },
+    {
+      "word": "invasion",
+      "lemma": "invasion",
+      "level": "B2",
+      "hebrew": "פלישה",
+      "explanation_hebrew": "כניסה בכוח של צבא למדינה אחרת",
+      "pronunciation_hebrew": "אִינְבֵייזַ'ן",
+      "example": "He was active from the start of the invasion."
+    },
+    {
+      "word": "procurement",
+      "lemma": "procurement",
+      "level": "C2",
+      "hebrew": "רכש",
+      "explanation_hebrew": "תהליך קניית ציוד ושירותים",
+      "pronunciation_hebrew": "פְּרוֹקְיוּרְמֶנְט",
+      "example": "His focus on procurement continued as minister."
+    },
+    {
+      "word": "dismissal",
+      "lemma": "dismissal",
+      "level": "C1",
+      "hebrew": "פיטורין",
+      "explanation_hebrew": "הוצאה של מישהו מתפקידו",
+      "pronunciation_hebrew": "דִיסְמִיסַל",
+      "example": "After his dismissal he listed his achievements."
+    },
+    {
+      "word": "renowned",
+      "lemma": "renowned",
+      "level": "C1",
+      "hebrew": "נודע / מפורסם",
+      "explanation_hebrew": "ידוע ומוערך מאוד",
+      "pronunciation_hebrew": "רִינַאוּנְד",
+      "example": "A renowned commander resigned in protest."
+    },
+    {
+      "word": "bemoaned",
+      "lemma": "bemoan",
+      "level": "C2",
+      "hebrew": "קונן / התלונן",
+      "explanation_hebrew": "הביע צער או אכזבה על משהו",
+      "pronunciation_hebrew": "בִּימוֹנְד",
+      "example": "He bemoaned the delays that blocked reform."
+    },
+    {
+      "word": "sacking",
+      "lemma": "sacking",
+      "level": "B2",
+      "hebrew": "פיטורים",
+      "explanation_hebrew": "הוצאה מהעבודה",
+      "pronunciation_hebrew": "סַאקִינְג",
+      "example": "Officers resigned in protest at his sacking."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "removal",
+      "type": "english_to_hebrew",
+      "question": "What does “removal” mean?",
+      "options": [
+        "הדחה / הסרה",
+        "התפרצות",
+        "חבלה",
+        "קריאה בקצב"
+      ],
+      "correct_answer": "הדחה / הסרה",
+      "explanation_hebrew": "“removal” פירושו הדחה / הסרה."
+    },
+    {
+      "id": "C-q2",
+      "word": "outburst",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “התפרצות”?",
+      "options": [
+        "outburst",
+        "sabotaging",
+        "removal",
+        "chanting"
+      ],
+      "correct_answer": "outburst",
+      "explanation_hebrew": "המילה “outburst” פירושה התפרצות."
+    },
+    {
+      "id": "C-q3",
+      "word": "chanting",
+      "type": "english_to_hebrew",
+      "question": "What does “chanting” mean?",
+      "options": [
+        "התפרצות",
+        "הדחה / הסרה",
+        "חבלה",
+        "קריאה בקצב"
+      ],
+      "correct_answer": "קריאה בקצב",
+      "explanation_hebrew": "“chanting” פירושו קריאה בקצב."
+    },
+    {
+      "id": "C-q4",
+      "word": "sabotaging",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “חבלה”?",
+      "options": [
+        "removal",
+        "sabotaging",
+        "chanting",
+        "outburst"
+      ],
+      "correct_answer": "sabotaging",
+      "explanation_hebrew": "המילה “sabotaging” פירושה חבלה."
+    },
+    {
+      "id": "C-q5",
+      "word": "tenure",
+      "type": "english_to_hebrew",
+      "question": "What does “tenure” mean?",
+      "options": [
+        "קריאה בקצב",
+        "התפרצות",
+        "הדחה / הסרה",
+        "כהונה"
+      ],
+      "correct_answer": "כהונה",
+      "explanation_hebrew": "“tenure” פירושו כהונה."
+    },
+    {
+      "id": "C-q6",
+      "word": "unprecedented",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “חסר תקדים”?",
+      "options": [
+        "unprecedented",
+        "removal",
+        "outburst",
+        "chanting"
+      ],
+      "correct_answer": "unprecedented",
+      "explanation_hebrew": "המילה “unprecedented” פירושה חסר תקדים."
+    },
+    {
+      "id": "C-q7",
+      "word": "systemic",
+      "type": "english_to_hebrew",
+      "question": "What does “systemic” mean?",
+      "options": [
+        "קריאה בקצב",
+        "התפרצות",
+        "הדחה / הסרה",
+        "מערכתי"
+      ],
+      "correct_answer": "מערכתי",
+      "explanation_hebrew": "“systemic” פירושו מערכתי."
+    },
+    {
+      "id": "C-q8",
+      "word": "mediation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “תיווך”?",
+      "options": [
+        "mediation",
+        "removal",
+        "outburst",
+        "chanting"
+      ],
+      "correct_answer": "mediation",
+      "explanation_hebrew": "המילה “mediation” פירושה תיווך."
+    },
+    {
+      "id": "C-q9",
+      "word": "asymmetrically",
+      "type": "english_to_hebrew",
+      "question": "What does “asymmetrically” mean?",
+      "options": [
+        "התפרצות",
+        "באופן א-סימטרי",
+        "הדחה / הסרה",
+        "קריאה בקצב"
+      ],
+      "correct_answer": "באופן א-סימטרי",
+      "explanation_hebrew": "“asymmetrically” פירושו באופן א-סימטרי."
+    },
+    {
+      "id": "C-q10",
+      "word": "curt",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “קצר וחד / יבש”?",
+      "options": [
+        "chanting",
+        "outburst",
+        "curt",
+        "removal"
+      ],
+      "correct_answer": "curt",
+      "explanation_hebrew": "המילה “curt” פירושה קצר וחד / יבש."
+    },
+    {
+      "id": "C-q11",
+      "word": "mounted",
+      "type": "english_to_hebrew",
+      "question": "What does “mounted” mean?",
+      "options": [
+        "הדחה / הסרה",
+        "ארגן / הוביל",
+        "קריאה בקצב",
+        "התפרצות"
+      ],
+      "correct_answer": "ארגן / הוביל",
+      "explanation_hebrew": "“mounted” פירושו ארגן / הוביל."
+    },
+    {
+      "id": "C-q12",
+      "word": "credited",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “זקף לזכות”?",
+      "options": [
+        "outburst",
+        "credited",
+        "removal",
+        "chanting"
+      ],
+      "correct_answer": "credited",
+      "explanation_hebrew": "המילה “credited” פירושה זקף לזכות."
+    },
+    {
+      "id": "C-q13",
+      "word": "energising",
+      "type": "english_to_hebrew",
+      "question": "What does “energising” mean?",
+      "options": [
+        "הזרמת מרץ",
+        "קריאה בקצב",
+        "הדחה / הסרה",
+        "התפרצות"
+      ],
+      "correct_answer": "הזרמת מרץ",
+      "explanation_hebrew": "“energising” פירושו הזרמת מרץ."
+    },
+    {
+      "id": "C-q14",
+      "word": "corruption",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “שחיתות”?",
+      "options": [
+        "corruption",
+        "outburst",
+        "removal",
+        "chanting"
+      ],
+      "correct_answer": "corruption",
+      "explanation_hebrew": "המילה “corruption” פירושה שחיתות."
+    },
+    {
+      "id": "C-q15",
+      "word": "reshuffle",
+      "type": "english_to_hebrew",
+      "question": "What does “reshuffle” mean?",
+      "options": [
+        "שינוי הרכב / רה-ארגון",
+        "התפרצות",
+        "קריאה בקצב",
+        "הדחה / הסרה"
+      ],
+      "correct_answer": "שינוי הרכב / רה-ארגון",
+      "explanation_hebrew": "“reshuffle” פירושו שינוי הרכב / רה-ארגון."
+    },
+    {
+      "id": "C-q16",
+      "word": "resigned",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “התפטר”?",
+      "options": [
+        "resigned",
+        "removal",
+        "chanting",
+        "outburst"
+      ],
+      "correct_answer": "resigned",
+      "explanation_hebrew": "המילה “resigned” פירושה התפטר."
+    },
+    {
+      "id": "C-q17",
+      "word": "antagonise",
+      "type": "english_to_hebrew",
+      "question": "What does “antagonise” mean?",
+      "options": [
+        "הדחה / הסרה",
+        "להכעיס / ליצור עוינות",
+        "קריאה בקצב",
+        "התפרצות"
+      ],
+      "correct_answer": "להכעיס / ליצור עוינות",
+      "explanation_hebrew": "“antagonise” פירושו להכעיס / ליצור עוינות."
+    },
+    {
+      "id": "C-q18",
+      "word": "conscience",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “מצפון”?",
+      "options": [
+        "removal",
+        "chanting",
+        "conscience",
+        "outburst"
+      ],
+      "correct_answer": "conscience",
+      "explanation_hebrew": "המילה “conscience” פירושה מצפון."
+    },
+    {
+      "id": "C-q19",
+      "word": "bureaucracy",
+      "type": "english_to_hebrew",
+      "question": "What does “bureaucracy” mean?",
+      "options": [
+        "התפרצות",
+        "ביורוקרטיה",
+        "קריאה בקצב",
+        "הדחה / הסרה"
+      ],
+      "correct_answer": "ביורוקרטיה",
+      "explanation_hebrew": "“bureaucracy” פירושו ביורוקרטיה."
+    },
+    {
+      "id": "C-q20",
+      "word": "invasion",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “פלישה”?",
+      "options": [
+        "outburst",
+        "chanting",
+        "removal",
+        "invasion"
+      ],
+      "correct_answer": "invasion",
+      "explanation_hebrew": "המילה “invasion” פירושה פלישה."
+    },
+    {
+      "id": "C-q21",
+      "word": "procurement",
+      "type": "english_to_hebrew",
+      "question": "What does “procurement” mean?",
+      "options": [
+        "הדחה / הסרה",
+        "התפרצות",
+        "קריאה בקצב",
+        "רכש"
+      ],
+      "correct_answer": "רכש",
+      "explanation_hebrew": "“procurement” פירושו רכש."
+    },
+    {
+      "id": "C-q22",
+      "word": "dismissal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “פיטורין”?",
+      "options": [
+        "chanting",
+        "outburst",
+        "dismissal",
+        "removal"
+      ],
+      "correct_answer": "dismissal",
+      "explanation_hebrew": "המילה “dismissal” פירושה פיטורין."
+    },
+    {
+      "id": "C-q23",
+      "word": "renowned",
+      "type": "english_to_hebrew",
+      "question": "What does “renowned” mean?",
+      "options": [
+        "נודע / מפורסם",
+        "קריאה בקצב",
+        "הדחה / הסרה",
+        "התפרצות"
+      ],
+      "correct_answer": "נודע / מפורסם",
+      "explanation_hebrew": "“renowned” פירושו נודע / מפורסם."
+    },
+    {
+      "id": "C-q24",
+      "word": "bemoaned",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “קונן / התלונן”?",
+      "options": [
+        "bemoaned",
+        "removal",
+        "chanting",
+        "outburst"
+      ],
+      "correct_answer": "bemoaned",
+      "explanation_hebrew": "המילה “bemoaned” פירושה קונן / התלונן."
+    },
+    {
+      "id": "C-q25",
+      "word": "sacking",
+      "type": "english_to_hebrew",
+      "question": "What does “sacking” mean?",
+      "options": [
+        "קריאה בקצב",
+        "התפרצות",
+        "הדחה / הסרה",
+        "פיטורים"
+      ],
+      "correct_answer": "פיטורים",
+      "explanation_hebrew": "“sacking” פירושו פיטורים."
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-17",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "At least one dead in Texas floods ravaging same area as Camp Mystic",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo",
+  "word_count": 488,
+  "generated_at": "2026-07-17T02:11:28.541236+00:00",
+  "difficulty_reason": "Short, direct disaster report with a clear timeline and simple sentences; mostly B1/B2 vocabulary and little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "flooding",
+      "lemma": "flood",
+      "level": "B1",
+      "hebrew": "הצפה",
+      "explanation_hebrew": "כמות גדולה של מים שמכסה יבשה",
+      "pronunciation_hebrew": "פְלַאדִינְג",
+      "example": "The flooding damaged many homes near the river."
+    },
+    {
+      "word": "deadly",
+      "lemma": "deadly",
+      "level": "B2",
+      "hebrew": "קטלני",
+      "explanation_hebrew": "משהו שעלול לגרום למוות",
+      "pronunciation_hebrew": "דֶּדְלִי",
+      "example": "The storm was deadly and destroyed the village."
+    },
+    {
+      "word": "ravage",
+      "lemma": "ravage",
+      "level": "C1",
+      "hebrew": "להחריב",
+      "explanation_hebrew": "לגרום נזק חמור וקשה",
+      "pronunciation_hebrew": "רָאבִידְג'",
+      "example": "Fires can ravage huge areas of forest."
+    },
+    {
+      "word": "torrential",
+      "lemma": "torrential",
+      "level": "C1",
+      "hebrew": "סוחף / עז מאוד",
+      "explanation_hebrew": "גשם חזק מאוד שיורד בכמות גדולה",
+      "pronunciation_hebrew": "טוֹרֶנְשַל",
+      "example": "Torrential rain flooded the streets in minutes."
+    },
+    {
+      "word": "evacuate",
+      "lemma": "evacuate",
+      "level": "B2",
+      "hebrew": "לפנות",
+      "explanation_hebrew": "להוציא אנשים ממקום מסוכן",
+      "pronunciation_hebrew": "אִיוָואקְיוּאֵייט",
+      "example": "Officials told residents to evacuate before the flood."
+    },
+    {
+      "word": "rescues",
+      "lemma": "rescue",
+      "level": "B1",
+      "hebrew": "חילוצים",
+      "explanation_hebrew": "פעולות של הצלת אנשים מסכנה",
+      "pronunciation_hebrew": "רֶסְקְיוּז",
+      "example": "The team carried out many rescues during the night."
+    },
+    {
+      "word": "surge",
+      "lemma": "surge",
+      "level": "B2",
+      "hebrew": "לגאות / זרם פתאומי",
+      "explanation_hebrew": "לעלות או לזרום בכוח פתאומי",
+      "pronunciation_hebrew": "סֶרְדְג'",
+      "example": "The river will surge after the heavy rain."
+    },
+    {
+      "word": "urgent",
+      "lemma": "urgent",
+      "level": "B1",
+      "hebrew": "דחוף",
+      "explanation_hebrew": "משהו שדורש טיפול מיידי",
+      "pronunciation_hebrew": "אֶרְגֶ'נְט",
+      "example": "They sent an urgent warning to everyone nearby."
+    },
+    {
+      "word": "urging",
+      "lemma": "urge",
+      "level": "B2",
+      "hebrew": "דוחק / קורא בתוקף",
+      "explanation_hebrew": "להמריץ מישהו לעשות משהו במהירות",
+      "pronunciation_hebrew": "אֶרְגִ'ינְג",
+      "example": "Police were urging people to leave at once."
+    },
+    {
+      "word": "rising",
+      "lemma": "rise",
+      "level": "B1",
+      "hebrew": "עולה",
+      "explanation_hebrew": "נעשה גבוה יותר",
+      "pronunciation_hebrew": "רָייזִינְג",
+      "example": "The rising water reached the windows of the cars."
+    },
+    {
+      "word": "span",
+      "lemma": "span",
+      "level": "B2",
+      "hebrew": "פרק זמן / טווח",
+      "explanation_hebrew": "משך זמן מסוים",
+      "pronunciation_hebrew": "סְפַּאן",
+      "example": "The river rose sharply in a four-hour span."
+    },
+    {
+      "word": "impacted",
+      "lemma": "impact",
+      "level": "B2",
+      "hebrew": "השפיע / פגע",
+      "explanation_hebrew": "גרם השפעה או נזק",
+      "pronunciation_hebrew": "אִימְפַּקְטֶד",
+      "example": "The floods impacted several counties in Texas."
+    },
+    {
+      "word": "drifted",
+      "lemma": "drift",
+      "level": "B2",
+      "hebrew": "נסחף",
+      "explanation_hebrew": "נע לאט עם הזרם או הרוח",
+      "pronunciation_hebrew": "דְרִיפְטֶד",
+      "example": "A group of deer drifted with the current."
+    },
+    {
+      "word": "current",
+      "lemma": "current",
+      "level": "B1",
+      "hebrew": "זרם",
+      "explanation_hebrew": "תנועת המים בכיוון מסוים",
+      "pronunciation_hebrew": "קַארֶנְט",
+      "example": "The strong current pulled them downstream."
+    },
+    {
+      "word": "stretching",
+      "lemma": "stretch",
+      "level": "B1",
+      "hebrew": "מותח / נמתח",
+      "explanation_hebrew": "להאריך את הגוף או להתמתח",
+      "pronunciation_hebrew": "סְטְרֶצִ'ינְג",
+      "example": "The animals were stretching to keep their heads up."
+    },
+    {
+      "word": "waded",
+      "lemma": "wade",
+      "level": "B2",
+      "hebrew": "בסס / צעד במים",
+      "explanation_hebrew": "הלך דרך מים רדודים",
+      "pronunciation_hebrew": "וֵויְדֶד",
+      "example": "Rescuers waded back to dry land with the children."
+    },
+    {
+      "word": "splatter",
+      "lemma": "splatter",
+      "level": "C1",
+      "hebrew": "להתיז",
+      "explanation_hebrew": "להתפזר בטיפות על משטח",
+      "pronunciation_hebrew": "סְפְּלַאטֶר",
+      "example": "The rain continued to splatter the parked cars."
+    },
+    {
+      "word": "submerged",
+      "lemma": "submerge",
+      "level": "C1",
+      "hebrew": "טבוע מתחת למים",
+      "explanation_hebrew": "מכוסה לגמרי או חלקית במים",
+      "pronunciation_hebrew": "סַבְמֶרְדְג'ד",
+      "example": "The cars were half-submerged in the brown water."
+    },
+    {
+      "word": "shelter",
+      "lemma": "shelter",
+      "level": "B1",
+      "hebrew": "מחסה",
+      "explanation_hebrew": "מקום בטוח מפני סכנה או מזג אוויר",
+      "pronunciation_hebrew": "שֶׁלְטֶר",
+      "example": "The neighbours took shelter in his apartment."
+    },
+    {
+      "word": "forceful",
+      "lemma": "forceful",
+      "level": "B2",
+      "hebrew": "עוצמתי / חזק",
+      "explanation_hebrew": "מלא כוח",
+      "pronunciation_hebrew": "פוֹרְסְפוּל",
+      "example": "The forceful currents swept people away."
+    },
+    {
+      "word": "swept",
+      "lemma": "sweep",
+      "level": "B2",
+      "hebrew": "סחף / טאטא",
+      "explanation_hebrew": "הזיז בכוח בבת אחת",
+      "pronunciation_hebrew": "סְוֶּפְט",
+      "example": "Several campers were swept away by the water."
+    },
+    {
+      "word": "bankruptcy",
+      "lemma": "bankruptcy",
+      "level": "C1",
+      "hebrew": "פשיטת רגל",
+      "explanation_hebrew": "מצב שבו עסק אינו יכול לשלם את חובותיו",
+      "pronunciation_hebrew": "בַּנְקְרַפְּטְסִי",
+      "example": "The camp filed for bankruptcy earlier this year."
+    },
+    {
+      "word": "residential",
+      "lemma": "residential",
+      "level": "B2",
+      "hebrew": "מגורים",
+      "explanation_hebrew": "אזור שבו אנשים גרים",
+      "pronunciation_hebrew": "רֶזִידֶנְשַל",
+      "example": "The storm hit a quiet residential area."
+    },
+    {
+      "word": "constant",
+      "lemma": "constant",
+      "level": "B1",
+      "hebrew": "קבוע / מתמיד",
+      "explanation_hebrew": "משהו שקורה כל הזמן",
+      "pronunciation_hebrew": "קוֹנְסְטַנְט",
+      "example": "The service gave constant updates all day."
+    },
+    {
+      "word": "threat",
+      "lemma": "threat",
+      "level": "B1",
+      "hebrew": "איום / סכנה",
+      "explanation_hebrew": "סימן לסכנה אפשרית",
+      "pronunciation_hebrew": "תְרֶט",
+      "example": "The service warned of an urgent threat to life."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "flooding",
+      "type": "english_to_hebrew",
+      "question": "What does “flooding” mean?",
+      "options": [
+        "הצפה",
+        "להחריב",
+        "סוחף / עז מאוד",
+        "קטלני"
+      ],
+      "correct_answer": "הצפה",
+      "explanation_hebrew": "“flooding” פירושו הצפה."
+    },
+    {
+      "id": "A-q2",
+      "word": "deadly",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “קטלני”?",
+      "options": [
+        "ravage",
+        "flooding",
+        "torrential",
+        "deadly"
+      ],
+      "correct_answer": "deadly",
+      "explanation_hebrew": "המילה “deadly” פירושה קטלני."
+    },
+    {
+      "id": "A-q3",
+      "word": "ravage",
+      "type": "english_to_hebrew",
+      "question": "What does “ravage” mean?",
+      "options": [
+        "להחריב",
+        "סוחף / עז מאוד",
+        "הצפה",
+        "קטלני"
+      ],
+      "correct_answer": "להחריב",
+      "explanation_hebrew": "“ravage” פירושו להחריב."
+    },
+    {
+      "id": "A-q4",
+      "word": "torrential",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “סוחף / עז מאוד”?",
+      "options": [
+        "ravage",
+        "flooding",
+        "deadly",
+        "torrential"
+      ],
+      "correct_answer": "torrential",
+      "explanation_hebrew": "המילה “torrential” פירושה סוחף / עז מאוד."
+    },
+    {
+      "id": "A-q5",
+      "word": "evacuate",
+      "type": "english_to_hebrew",
+      "question": "What does “evacuate” mean?",
+      "options": [
+        "להחריב",
+        "לפנות",
+        "קטלני",
+        "הצפה"
+      ],
+      "correct_answer": "לפנות",
+      "explanation_hebrew": "“evacuate” פירושו לפנות."
+    },
+    {
+      "id": "A-q6",
+      "word": "rescues",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “חילוצים”?",
+      "options": [
+        "ravage",
+        "deadly",
+        "rescues",
+        "flooding"
+      ],
+      "correct_answer": "rescues",
+      "explanation_hebrew": "המילה “rescues” פירושה חילוצים."
+    },
+    {
+      "id": "A-q7",
+      "word": "surge",
+      "type": "english_to_hebrew",
+      "question": "What does “surge” mean?",
+      "options": [
+        "לגאות / זרם פתאומי",
+        "להחריב",
+        "הצפה",
+        "קטלני"
+      ],
+      "correct_answer": "לגאות / זרם פתאומי",
+      "explanation_hebrew": "“surge” פירושו לגאות / זרם פתאומי."
+    },
+    {
+      "id": "A-q8",
+      "word": "urgent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “דחוף”?",
+      "options": [
+        "deadly",
+        "flooding",
+        "ravage",
+        "urgent"
+      ],
+      "correct_answer": "urgent",
+      "explanation_hebrew": "המילה “urgent” פירושה דחוף."
+    },
+    {
+      "id": "A-q9",
+      "word": "urging",
+      "type": "english_to_hebrew",
+      "question": "What does “urging” mean?",
+      "options": [
+        "להחריב",
+        "דוחק / קורא בתוקף",
+        "הצפה",
+        "קטלני"
+      ],
+      "correct_answer": "דוחק / קורא בתוקף",
+      "explanation_hebrew": "“urging” פירושו דוחק / קורא בתוקף."
+    },
+    {
+      "id": "A-q10",
+      "word": "rising",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “עולה”?",
+      "options": [
+        "deadly",
+        "rising",
+        "flooding",
+        "ravage"
+      ],
+      "correct_answer": "rising",
+      "explanation_hebrew": "המילה “rising” פירושה עולה."
+    },
+    {
+      "id": "A-q11",
+      "word": "span",
+      "type": "english_to_hebrew",
+      "question": "What does “span” mean?",
+      "options": [
+        "קטלני",
+        "פרק זמן / טווח",
+        "להחריב",
+        "הצפה"
+      ],
+      "correct_answer": "פרק זמן / טווח",
+      "explanation_hebrew": "“span” פירושו פרק זמן / טווח."
+    },
+    {
+      "id": "A-q12",
+      "word": "impacted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “השפיע / פגע”?",
+      "options": [
+        "ravage",
+        "deadly",
+        "flooding",
+        "impacted"
+      ],
+      "correct_answer": "impacted",
+      "explanation_hebrew": "המילה “impacted” פירושה השפיע / פגע."
+    },
+    {
+      "id": "A-q13",
+      "word": "drifted",
+      "type": "english_to_hebrew",
+      "question": "What does “drifted” mean?",
+      "options": [
+        "להחריב",
+        "נסחף",
+        "הצפה",
+        "קטלני"
+      ],
+      "correct_answer": "נסחף",
+      "explanation_hebrew": "“drifted” פירושו נסחף."
+    },
+    {
+      "id": "A-q14",
+      "word": "current",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “זרם”?",
+      "options": [
+        "current",
+        "ravage",
+        "flooding",
+        "deadly"
+      ],
+      "correct_answer": "current",
+      "explanation_hebrew": "המילה “current” פירושה זרם."
+    },
+    {
+      "id": "A-q15",
+      "word": "stretching",
+      "type": "english_to_hebrew",
+      "question": "What does “stretching” mean?",
+      "options": [
+        "להחריב",
+        "מותח / נמתח",
+        "קטלני",
+        "הצפה"
+      ],
+      "correct_answer": "מותח / נמתח",
+      "explanation_hebrew": "“stretching” פירושו מותח / נמתח."
+    },
+    {
+      "id": "A-q16",
+      "word": "waded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “בסס / צעד במים”?",
+      "options": [
+        "ravage",
+        "waded",
+        "deadly",
+        "flooding"
+      ],
+      "correct_answer": "waded",
+      "explanation_hebrew": "המילה “waded” פירושה בסס / צעד במים."
+    },
+    {
+      "id": "A-q17",
+      "word": "splatter",
+      "type": "english_to_hebrew",
+      "question": "What does “splatter” mean?",
+      "options": [
+        "הצפה",
+        "קטלני",
+        "להתיז",
+        "להחריב"
+      ],
+      "correct_answer": "להתיז",
+      "explanation_hebrew": "“splatter” פירושו להתיז."
+    },
+    {
+      "id": "A-q18",
+      "word": "submerged",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “טבוע מתחת למים”?",
+      "options": [
+        "submerged",
+        "flooding",
+        "deadly",
+        "ravage"
+      ],
+      "correct_answer": "submerged",
+      "explanation_hebrew": "המילה “submerged” פירושה טבוע מתחת למים."
+    },
+    {
+      "id": "A-q19",
+      "word": "shelter",
+      "type": "english_to_hebrew",
+      "question": "What does “shelter” mean?",
+      "options": [
+        "הצפה",
+        "קטלני",
+        "להחריב",
+        "מחסה"
+      ],
+      "correct_answer": "מחסה",
+      "explanation_hebrew": "“shelter” פירושו מחסה."
+    },
+    {
+      "id": "A-q20",
+      "word": "forceful",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “עוצמתי / חזק”?",
+      "options": [
+        "forceful",
+        "flooding",
+        "ravage",
+        "deadly"
+      ],
+      "correct_answer": "forceful",
+      "explanation_hebrew": "המילה “forceful” פירושה עוצמתי / חזק."
+    },
+    {
+      "id": "A-q21",
+      "word": "swept",
+      "type": "english_to_hebrew",
+      "question": "What does “swept” mean?",
+      "options": [
+        "הצפה",
+        "קטלני",
+        "להחריב",
+        "סחף / טאטא"
+      ],
+      "correct_answer": "סחף / טאטא",
+      "explanation_hebrew": "“swept” פירושו סחף / טאטא."
+    },
+    {
+      "id": "A-q22",
+      "word": "bankruptcy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “פשיטת רגל”?",
+      "options": [
+        "flooding",
+        "deadly",
+        "ravage",
+        "bankruptcy"
+      ],
+      "correct_answer": "bankruptcy",
+      "explanation_hebrew": "המילה “bankruptcy” פירושה פשיטת רגל."
+    },
+    {
+      "id": "A-q23",
+      "word": "residential",
+      "type": "english_to_hebrew",
+      "question": "What does “residential” mean?",
+      "options": [
+        "להחריב",
+        "קטלני",
+        "הצפה",
+        "מגורים"
+      ],
+      "correct_answer": "מגורים",
+      "explanation_hebrew": "“residential” פירושו מגורים."
+    },
+    {
+      "id": "A-q24",
+      "word": "constant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “קבוע / מתמיד”?",
+      "options": [
+        "flooding",
+        "deadly",
+        "constant",
+        "ravage"
+      ],
+      "correct_answer": "constant",
+      "explanation_hebrew": "המילה “constant” פירושה קבוע / מתמיד."
+    },
+    {
+      "id": "A-q25",
+      "word": "threat",
+      "type": "english_to_hebrew",
+      "question": "What does “threat” mean?",
+      "options": [
+        "להחריב",
+        "הצפה",
+        "איום / סכנה",
+        "קטלני"
+      ],
+      "correct_answer": "איום / סכנה",
+      "explanation_hebrew": "“threat” פירושו איום / סכנה."
+    }
+  ]
+}
