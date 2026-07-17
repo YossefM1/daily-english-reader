@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-17",
+  "article_id": "B",
+  "article_title": "British Steel taken into public ownership to protect 'vital' UK supply",
+  "article_url": "https://www.bbc.co.uk/news/articles/c5y680w62wno",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main development reported in the article?",
+      "options": [
+        "British Steel was taken into public ownership to protect domestic steelmaking capability",
+        "The UK decided to stop using steel in rail projects",
+        "A private company opened a new steel plant in France",
+        "Parliament banned the recycling of scrap metal"
+      ],
+      "correct_answer": "British Steel was taken into public ownership to protect domestic steelmaking capability",
+      "explanation_hebrew": "ההתפתחות המרכזית היא העברת British Steel לבעלות ציבורית כדי להגן על יכולת ייצור הפלדה בבריטניה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does the government describe the steel supply as 'vital'?",
+      "options": [
+        "It is needed only for decorative products",
+        "It supports national industry, infrastructure and supply security",
+        "It is mainly exported for luxury goods",
+        "It replaces all imported energy"
+      ],
+      "correct_answer": "It supports national industry, infrastructure and supply security",
+      "explanation_hebrew": "הפלדה נחשבת חיונית לתעשייה, לתשתיות ולביטחון האספקה הלאומי.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What could happen if the blast furnaces stopped and later had to restart?",
+      "options": [
+        "Restarting could be financially prohibitive",
+        "They would automatically produce more steel",
+        "The furnaces would convert into recycling plants",
+        "The owner would no longer need compensation"
+      ],
+      "correct_answer": "Restarting could be financially prohibitive",
+      "explanation_hebrew": "הכתבה מסבירה שהפעלה מחדש של הכבשנים עלולה להיות יקרה מדי מבחינה כלכלית.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does 'nationalisation' mean in this article?",
+      "options": [
+        "Closing a company permanently",
+        "Moving a privately owned business into state ownership",
+        "Selling a state company to foreign investors",
+        "Reducing the number of workers"
+      ],
+      "correct_answer": "Moving a privately owned business into state ownership",
+      "explanation_hebrew": "nationalisation פירושה העברת עסק פרטי לבעלות המדינה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why was an abrupt closure seen as especially disruptive?",
+      "options": [
+        "It could threaten jobs, regional activity and industries that depend on British steel",
+        "It would make imported steel cheaper immediately",
+        "It would increase the output of the rail industry",
+        "It would allow blast furnaces to run continuously"
+      ],
+      "correct_answer": "It could threaten jobs, regional activity and industries that depend on British steel",
+      "explanation_hebrew": "סגירה פתאומית הייתה עלולה לפגוע במשרות, בכלכלה האזורית ובתעשיות התלויות בפלדה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "summary",
+      "type": "multiple_choice",
+      "prompt": "Which statement best summarizes the government's reasoning?",
+      "options": [
+        "Public ownership was chosen to preserve a strategic steel capability and avoid dependence on imports",
+        "The government wanted to end all steel production in Britain",
+        "The main goal was to replace steel with plastic",
+        "The decision was made only to increase compensation for investors"
+      ],
+      "correct_answer": "Public ownership was chosen to preserve a strategic steel capability and avoid dependence on imports",
+      "explanation_hebrew": "הממשלה ביקשה לשמר יכולת אסטרטגית ולמנוע תלות מוגברת ביבוא.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two reasons given for keeping steel production in the UK.",
+      "rubric_hebrew": "יש לציין שתי סיבות, כגון שמירת משרות, אספקה מקומית, תשתיות, תעשיית הרכבות או הפחתת תלות ביבוא.",
+      "expected_points": [
+        "Protects jobs and the regional economy",
+        "Preserves domestic steelmaking capability",
+        "Supports infrastructure or industries such as rail",
+        "Reduces reliance on imported steel"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why blast furnaces are difficult to shut down temporarily.",
+      "rubric_hebrew": "יש להסביר שהם מיועדים לפעול ברציפות ושעצירה והפעלה מחדש עלולות להיות מורכבות ויקרות מאוד.",
+      "expected_points": [
+        "Blast furnaces are designed to run continuously",
+        "A shutdown can damage operations or require major refurbishment",
+        "Restarting can be extremely expensive"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 2-3 sentence summary explaining what happened to British Steel and why.",
+      "rubric_hebrew": "הסיכום צריך לציין את המעבר לבעלות ציבורית ואת הסיבות המרכזיות: שמירת יכולת ייצור, משרות, תשתיות והפחתת תלות ביבוא.",
+      "expected_points": [
+        "States that British Steel was taken into public ownership",
+        "Explains that the move protects a vital domestic capability",
+        "Mentions jobs, infrastructure, supply security or import dependence"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph presenting one argument for and one possible concern about nationalising a major industrial company.",
+      "rubric_hebrew": "יש להציג יתרון אפשרי אחד, כגון הגנת משרות או אספקה אסטרטגית, ולצדו חשש כגון עלות לציבור, פיצוי או יעילות.",
+      "expected_points": [
+        "Presents a clear argument in favour of public ownership",
+        "Presents a realistic concern or cost",
+        "Connects both points to the British Steel case"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
