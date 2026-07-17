@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-17",
+  "article_id": "A",
+  "article_title": "At least one dead in Texas floods ravaging same area as Camp Mystic",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main subject of the article?",
+      "options": [
+        "A new flood emergency in Texas that caused at least one death and prompted rescues",
+        "A drought forcing farms across Texas to close",
+        "A plan to rebuild Camp Mystic as a theme park",
+        "A study of winter storms in northern Europe"
+      ],
+      "correct_answer": "A new flood emergency in Texas that caused at least one death and prompted rescues",
+      "explanation_hebrew": "הכתבה עוסקת בהצפות חדשות בטקסס שגרמו לפחות למוות אחד והובילו לפעולות חילוץ.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which area is identified in the headline as being struck again?",
+      "options": [
+        "The neighbourhood around a steelworks",
+        "The same area affected by the Camp Mystic disaster",
+        "A coastal resort in Florida",
+        "A mountain region in California"
+      ],
+      "correct_answer": "The same area affected by the Camp Mystic disaster",
+      "explanation_hebrew": "הכותרת מציינת שההצפות פגעו שוב באזור שבו נמצא Camp Mystic.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What weather condition triggered the emergency?",
+      "options": [
+        "Several days of freezing temperatures",
+        "Torrential rain and rapidly rising water",
+        "A long period without rain",
+        "Strong winds carrying desert dust"
+      ],
+      "correct_answer": "Torrential rain and rapidly rising water",
+      "explanation_hebrew": "האירוע נגרם מגשם עז מאוד ומעלייה מהירה של מפלס המים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article's context, what does 'evacuate' mean?",
+      "options": [
+        "To measure the depth of a river",
+        "To move people away from a dangerous place",
+        "To repair a damaged road",
+        "To report the weather on television"
+      ],
+      "correct_answer": "To move people away from a dangerous place",
+      "explanation_hebrew": "בהקשר של הכתבה, evacuate פירושו לפנות אנשים ממקום מסוכן.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why were residents urged to act quickly?",
+      "options": [
+        "The floodwater and currents could rise suddenly and threaten lives",
+        "The authorities wanted roads empty for a festival",
+        "The rain was expected to improve farming conditions",
+        "The river was being opened for swimming"
+      ],
+      "correct_answer": "The floodwater and currents could rise suddenly and threaten lives",
+      "explanation_hebrew": "נדרש לפעול במהירות משום שהמים והזרמים עלולים לעלות בפתאומיות ולסכן חיים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "summary",
+      "type": "multiple_choice",
+      "prompt": "Which sentence best summarizes the article?",
+      "options": [
+        "Texas officials described a new deadly flood emergency, carried out rescues and warned people near rising water to seek safety",
+        "A summer tourism campaign brought more visitors to Texas camps",
+        "Scientists discovered why all rivers in Texas are becoming smaller",
+        "Camp Mystic reopened after completing major renovations"
+      ],
+      "correct_answer": "Texas officials described a new deadly flood emergency, carried out rescues and warned people near rising water to seek safety",
+      "explanation_hebrew": "זהו הסיכום המדויק: מצב חירום קטלני, חילוצים ואזהרות מפני מים עולים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two details showing that the flooding was dangerous.",
+      "rubric_hebrew": "יש לציין שתי עובדות מהכתבה המעידות על הסכנה, כגון מוות, מים עולים, זרמים חזקים, פינוי או חילוצים.",
+      "expected_points": [
+        "At least one person died",
+        "Water rose rapidly or strong currents developed",
+        "Residents were urged to evacuate or seek shelter",
+        "Emergency crews carried out rescues"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can a river rising over only a few hours be especially dangerous?",
+      "rubric_hebrew": "יש להסביר שהשינוי המהיר משאיר מעט זמן להיערכות ועלול ללכוד אנשים, כלי רכב או בעלי חיים.",
+      "expected_points": [
+        "A rapid rise gives residents little time to react",
+        "People, vehicles or animals can become trapped or swept away",
+        "Warnings and evacuations become urgent"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 2-3 sentence summary of the flood emergency, including the location, the main danger and the emergency response.",
+      "rubric_hebrew": "הסיכום צריך לכלול את טקסס והאזור של Camp Mystic, את הגשם והמים העולים, וכן אזהרות, פינוי או חילוצים.",
+      "expected_points": [
+        "Identifies Texas and the Camp Mystic area",
+        "Mentions torrential rain, flooding or rapidly rising water",
+        "Mentions at least one death and/or emergency rescues and warnings"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short safety message for residents during a flash-flood warning, using information from the article.",
+      "rubric_hebrew": "יש לנסח הודעת בטיחות ברורה הכוללת התרחקות ממים זורמים, ציות להוראות פינוי ופנייה למחסה בטוח.",
+      "expected_points": [
+        "Advises people not to enter or drive through floodwater",
+        "Tells residents to follow evacuation or emergency instructions",
+        "Uses clear and urgent language"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
