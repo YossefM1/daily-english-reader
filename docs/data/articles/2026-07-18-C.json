@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-18",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Teen hackers jailed after live streaming cyber attack on TfL",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o",
+  "word_count": 1124,
+  "generated_at": "2026-07-18T02:11:55.348305+00:00",
+  "difficulty_reason": "Longer, information-dense report with legal and cyber-crime terminology, many named actors and dates, and complex sentences; B2/C1/C2 vocabulary and notable background knowledge required.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "crippled",
+      "lemma": "cripple",
+      "level": "C1",
+      "hebrew": "שִׁתֵּק",
+      "explanation_hebrew": "פגע קשות, גרם לשיתוק",
+      "pronunciation_hebrew": "קְרִיפְּלְד",
+      "example": "The attack crippled the network."
+    },
+    {
+      "word": "sentenced",
+      "lemma": "sentence",
+      "level": "B2",
+      "hebrew": "נִדּוֹן",
+      "explanation_hebrew": "קיבל עונש בבית משפט",
+      "pronunciation_hebrew": "סֶנְטֶנְסְט",
+      "example": "He was sentenced to five years."
+    },
+    {
+      "word": "collective",
+      "lemma": "collective",
+      "level": "B2",
+      "hebrew": "קוֹלֶקְטִיב",
+      "explanation_hebrew": "קבוצה הפועלת יחד",
+      "pronunciation_hebrew": "קוֹלֶקְטִיב",
+      "example": "They joined a crime collective."
+    },
+    {
+      "word": "disrupted",
+      "lemma": "disrupt",
+      "level": "B2",
+      "hebrew": "שִׁבֵּשׁ",
+      "explanation_hebrew": "שיבש את הפעילות הרגילה",
+      "pronunciation_hebrew": "דִיסְרַפְּטֶד",
+      "example": "The hack disrupted services."
+    },
+    {
+      "word": "boasting",
+      "lemma": "boast",
+      "level": "B2",
+      "hebrew": "מִתְרַבְרֵב",
+      "explanation_hebrew": "מתגאה בהתרברבות",
+      "pronunciation_hebrew": "בּוֹאסְטִינְג",
+      "example": "They were boasting about the crime."
+    },
+    {
+      "word": "impersonating",
+      "lemma": "impersonate",
+      "level": "C1",
+      "hebrew": "מִתְחַזֶּה",
+      "explanation_hebrew": "מעמיד פנים שהוא מישהו אחר",
+      "pronunciation_hebrew": "אִימְפֶּרְסוֹנֵייטִינְג",
+      "example": "He was impersonating an employee."
+    },
+    {
+      "word": "spree",
+      "lemma": "spree",
+      "level": "C1",
+      "hebrew": "רְצֶף מַעֲשִׂים",
+      "explanation_hebrew": "רצף פעולות אינטנסיבי",
+      "pronunciation_hebrew": "סְפְּרִי",
+      "example": "They went on a hacking spree."
+    },
+    {
+      "word": "tricking",
+      "lemma": "trick",
+      "level": "B1",
+      "hebrew": "מְרַמֶּה",
+      "explanation_hebrew": "מרמה כדי להשיג משהו",
+      "pronunciation_hebrew": "טְרִיקִינְג",
+      "example": "They got in by tricking a worker."
+    },
+    {
+      "word": "breach",
+      "lemma": "breach",
+      "level": "C1",
+      "hebrew": "פִּרְצָה",
+      "explanation_hebrew": "חדירה או פרצת אבטחה",
+      "pronunciation_hebrew": "בְּרִיץ'",
+      "example": "The data breach exposed millions."
+    },
+    {
+      "word": "disruption",
+      "lemma": "disruption",
+      "level": "B2",
+      "hebrew": "שִׁבּוּשׁ",
+      "explanation_hebrew": "פגיעה בפעילות הסדירה",
+      "pronunciation_hebrew": "דִיסְרַפְּשֶׁן",
+      "example": "The attack caused disruption."
+    },
+    {
+      "word": "inoperable",
+      "lemma": "inoperable",
+      "level": "C1",
+      "hebrew": "מֻשְׁבָּת",
+      "explanation_hebrew": "לא יכול לפעול",
+      "pronunciation_hebrew": "אִינוֹפֶּרֶבְּל",
+      "example": "Systems became inoperable."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פָּגִיעַ",
+      "explanation_hebrew": "חשוף לפגיעה",
+      "pronunciation_hebrew": "וַלְנֶרֶבְּל",
+      "example": "The service helps vulnerable people."
+    },
+    {
+      "word": "unsupervised",
+      "lemma": "unsupervised",
+      "level": "B2",
+      "hebrew": "לְלֹא הַשְׁגָּחָה",
+      "explanation_hebrew": "בלי פיקוח",
+      "pronunciation_hebrew": "אַנְסוּפֶּרְוַואיזְד",
+      "example": "They spent hours online unsupervised."
+    },
+    {
+      "word": "mitigating",
+      "lemma": "mitigate",
+      "level": "C1",
+      "hebrew": "מְקֵל",
+      "explanation_hebrew": "מפחית את חומרת העונש",
+      "pronunciation_hebrew": "מִיטִיגֵייטִינְג",
+      "example": "The judge noted mitigating factors."
+    },
+    {
+      "word": "custody",
+      "lemma": "custody",
+      "level": "C1",
+      "hebrew": "מַעֲצָר",
+      "explanation_hebrew": "החזקה במעצר",
+      "pronunciation_hebrew": "קַסְטֶדִי",
+      "example": "He was taken into custody."
+    },
+    {
+      "word": "seized",
+      "lemma": "seize",
+      "level": "B2",
+      "hebrew": "הֶחֱרִים",
+      "explanation_hebrew": "לקח בכוח או החרים",
+      "pronunciation_hebrew": "סִיזְד",
+      "example": "Police seized the money."
+    },
+    {
+      "word": "accumulated",
+      "lemma": "accumulate",
+      "level": "C1",
+      "hebrew": "צָבַר",
+      "explanation_hebrew": "אסף בהדרגה כמות גדולה",
+      "pronunciation_hebrew": "אַקְיוּמְיוּלֵייטֶד",
+      "example": "They accumulated a fortune."
+    },
+    {
+      "word": "ransomed",
+      "lemma": "ransom",
+      "level": "C1",
+      "hebrew": "נִסְחַט בְּכֹפֶר",
+      "explanation_hebrew": "הושג תמורת כופר",
+      "pronunciation_hebrew": "רַנְסֶמְד",
+      "example": "The stolen data was ransomed."
+    },
+    {
+      "word": "notoriety",
+      "lemma": "notoriety",
+      "level": "C1",
+      "hebrew": "שֵׁם רַע",
+      "explanation_hebrew": "פרסום בגלל דבר רע",
+      "pronunciation_hebrew": "נוֹטוֹרַייאֶטִי",
+      "example": "He sought online notoriety."
+    },
+    {
+      "word": "juvenile",
+      "lemma": "juvenile",
+      "level": "C1",
+      "hebrew": "קָטִין",
+      "explanation_hebrew": "מתחת לגיל הבגרות",
+      "pronunciation_hebrew": "גּ'וּבֶנַייל",
+      "example": "He offended while still a juvenile."
+    },
+    {
+      "word": "convictions",
+      "lemma": "conviction",
+      "level": "B2",
+      "hebrew": "הַרְשָׁעוֹת",
+      "explanation_hebrew": "פסקי דין של אשמה",
+      "pronunciation_hebrew": "קוֹנְבִיקְשֶׁנְז",
+      "example": "He had many previous convictions."
+    },
+    {
+      "word": "harassment",
+      "lemma": "harassment",
+      "level": "B2",
+      "hebrew": "הַטְרָדָה",
+      "explanation_hebrew": "הצקה מכוונת ומטרידה",
+      "pronunciation_hebrew": "הָרַסְמֶנְט",
+      "example": "He was charged with harassment."
+    },
+    {
+      "word": "groomed",
+      "lemma": "groom",
+      "level": "C2",
+      "hebrew": "טֻפַּח לְרָעָה",
+      "explanation_hebrew": "הוכן בהדרגה לפעולה שלילית",
+      "pronunciation_hebrew": "גְּרוּמְד",
+      "example": "The teen was groomed by criminals."
+    },
+    {
+      "word": "contraband",
+      "lemma": "contraband",
+      "level": "C2",
+      "hebrew": "סְחוֹרָה אֲסוּרָה",
+      "explanation_hebrew": "פריטים אסורים",
+      "pronunciation_hebrew": "קוֹנְטְרֶבַּנְד",
+      "example": "They were found with contraband phones."
+    },
+    {
+      "word": "degraded",
+      "lemma": "degrade",
+      "level": "C1",
+      "hebrew": "נֶחְלַשׁ",
+      "explanation_hebrew": "נחלש או ירד באיכות",
+      "pronunciation_hebrew": "דִיגְרֵיידֶד",
+      "example": "The group was heavily degraded."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "crippled",
+      "type": "english_to_hebrew",
+      "question": "What does “crippled” mean?",
+      "options": [
+        "נִדּוֹן",
+        "שִׁבֵּשׁ",
+        "שִׁתֵּק",
+        "קוֹלֶקְטִיב"
+      ],
+      "correct_answer": "שִׁתֵּק",
+      "explanation_hebrew": "הפירוש של המילה “crippled” הוא שִׁתֵּק."
+    },
+    {
+      "id": "C-q2",
+      "word": "sentenced",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִדּוֹן”?",
+      "options": [
+        "collective",
+        "boasting",
+        "disrupted",
+        "sentenced"
+      ],
+      "correct_answer": "sentenced",
+      "explanation_hebrew": "המילה “sentenced” פירושה נִדּוֹן."
+    },
+    {
+      "id": "C-q3",
+      "word": "collective",
+      "type": "english_to_hebrew",
+      "question": "What does “collective” mean?",
+      "options": [
+        "מִתְרַבְרֵב",
+        "מִתְחַזֶּה",
+        "שִׁבֵּשׁ",
+        "קוֹלֶקְטִיב"
+      ],
+      "correct_answer": "קוֹלֶקְטִיב",
+      "explanation_hebrew": "הפירוש של המילה “collective” הוא קוֹלֶקְטִיב."
+    },
+    {
+      "id": "C-q4",
+      "word": "disrupted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שִׁבֵּשׁ”?",
+      "options": [
+        "spree",
+        "impersonating",
+        "disrupted",
+        "boasting"
+      ],
+      "correct_answer": "disrupted",
+      "explanation_hebrew": "המילה “disrupted” פירושה שִׁבֵּשׁ."
+    },
+    {
+      "id": "C-q5",
+      "word": "boasting",
+      "type": "english_to_hebrew",
+      "question": "What does “boasting” mean?",
+      "options": [
+        "רְצֶף מַעֲשִׂים",
+        "מְרַמֶּה",
+        "מִתְחַזֶּה",
+        "מִתְרַבְרֵב"
+      ],
+      "correct_answer": "מִתְרַבְרֵב",
+      "explanation_hebrew": "הפירוש של המילה “boasting” הוא מִתְרַבְרֵב."
+    },
+    {
+      "id": "C-q6",
+      "word": "impersonating",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מִתְחַזֶּה”?",
+      "options": [
+        "spree",
+        "tricking",
+        "breach",
+        "impersonating"
+      ],
+      "correct_answer": "impersonating",
+      "explanation_hebrew": "המילה “impersonating” פירושה מִתְחַזֶּה."
+    },
+    {
+      "id": "C-q7",
+      "word": "spree",
+      "type": "english_to_hebrew",
+      "question": "What does “spree” mean?",
+      "options": [
+        "מְרַמֶּה",
+        "פִּרְצָה",
+        "שִׁבּוּשׁ",
+        "רְצֶף מַעֲשִׂים"
+      ],
+      "correct_answer": "רְצֶף מַעֲשִׂים",
+      "explanation_hebrew": "הפירוש של המילה “spree” הוא רְצֶף מַעֲשִׂים."
+    },
+    {
+      "id": "C-q8",
+      "word": "tricking",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְרַמֶּה”?",
+      "options": [
+        "inoperable",
+        "disruption",
+        "breach",
+        "tricking"
+      ],
+      "correct_answer": "tricking",
+      "explanation_hebrew": "המילה “tricking” פירושה מְרַמֶּה."
+    },
+    {
+      "id": "C-q9",
+      "word": "breach",
+      "type": "english_to_hebrew",
+      "question": "What does “breach” mean?",
+      "options": [
+        "שִׁבּוּשׁ",
+        "מֻשְׁבָּת",
+        "פָּגִיעַ",
+        "פִּרְצָה"
+      ],
+      "correct_answer": "פִּרְצָה",
+      "explanation_hebrew": "הפירוש של המילה “breach” הוא פִּרְצָה."
+    },
+    {
+      "id": "C-q10",
+      "word": "disruption",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שִׁבּוּשׁ”?",
+      "options": [
+        "vulnerable",
+        "disruption",
+        "unsupervised",
+        "inoperable"
+      ],
+      "correct_answer": "disruption",
+      "explanation_hebrew": "המילה “disruption” פירושה שִׁבּוּשׁ."
+    },
+    {
+      "id": "C-q11",
+      "word": "inoperable",
+      "type": "english_to_hebrew",
+      "question": "What does “inoperable” mean?",
+      "options": [
+        "מֻשְׁבָּת",
+        "לְלֹא הַשְׁגָּחָה",
+        "מְקֵל",
+        "פָּגִיעַ"
+      ],
+      "correct_answer": "מֻשְׁבָּת",
+      "explanation_hebrew": "הפירוש של המילה “inoperable” הוא מֻשְׁבָּת."
+    },
+    {
+      "id": "C-q12",
+      "word": "vulnerable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פָּגִיעַ”?",
+      "options": [
+        "unsupervised",
+        "vulnerable",
+        "custody",
+        "mitigating"
+      ],
+      "correct_answer": "vulnerable",
+      "explanation_hebrew": "המילה “vulnerable” פירושה פָּגִיעַ."
+    },
+    {
+      "id": "C-q13",
+      "word": "unsupervised",
+      "type": "english_to_hebrew",
+      "question": "What does “unsupervised” mean?",
+      "options": [
+        "לְלֹא הַשְׁגָּחָה",
+        "מְקֵל",
+        "מַעֲצָר",
+        "הֶחֱרִים"
+      ],
+      "correct_answer": "לְלֹא הַשְׁגָּחָה",
+      "explanation_hebrew": "הפירוש של המילה “unsupervised” הוא לְלֹא הַשְׁגָּחָה."
+    },
+    {
+      "id": "C-q14",
+      "word": "mitigating",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְקֵל”?",
+      "options": [
+        "mitigating",
+        "custody",
+        "seized",
+        "accumulated"
+      ],
+      "correct_answer": "mitigating",
+      "explanation_hebrew": "המילה “mitigating” פירושה מְקֵל."
+    },
+    {
+      "id": "C-q15",
+      "word": "custody",
+      "type": "english_to_hebrew",
+      "question": "What does “custody” mean?",
+      "options": [
+        "נִסְחַט בְּכֹפֶר",
+        "צָבַר",
+        "הֶחֱרִים",
+        "מַעֲצָר"
+      ],
+      "correct_answer": "מַעֲצָר",
+      "explanation_hebrew": "הפירוש של המילה “custody” הוא מַעֲצָר."
+    },
+    {
+      "id": "C-q16",
+      "word": "seized",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הֶחֱרִים”?",
+      "options": [
+        "notoriety",
+        "seized",
+        "accumulated",
+        "ransomed"
+      ],
+      "correct_answer": "seized",
+      "explanation_hebrew": "המילה “seized” פירושה הֶחֱרִים."
+    },
+    {
+      "id": "C-q17",
+      "word": "accumulated",
+      "type": "english_to_hebrew",
+      "question": "What does “accumulated” mean?",
+      "options": [
+        "שֵׁם רַע",
+        "נִסְחַט בְּכֹפֶר",
+        "צָבַר",
+        "קָטִין"
+      ],
+      "correct_answer": "צָבַר",
+      "explanation_hebrew": "הפירוש של המילה “accumulated” הוא צָבַר."
+    },
+    {
+      "id": "C-q18",
+      "word": "ransomed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִסְחַט בְּכֹפֶר”?",
+      "options": [
+        "ransomed",
+        "notoriety",
+        "convictions",
+        "juvenile"
+      ],
+      "correct_answer": "ransomed",
+      "explanation_hebrew": "המילה “ransomed” פירושה נִסְחַט בְּכֹפֶר."
+    },
+    {
+      "id": "C-q19",
+      "word": "notoriety",
+      "type": "english_to_hebrew",
+      "question": "What does “notoriety” mean?",
+      "options": [
+        "שֵׁם רַע",
+        "הַטְרָדָה",
+        "קָטִין",
+        "הַרְשָׁעוֹת"
+      ],
+      "correct_answer": "שֵׁם רַע",
+      "explanation_hebrew": "הפירוש של המילה “notoriety” הוא שֵׁם רַע."
+    },
+    {
+      "id": "C-q20",
+      "word": "juvenile",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קָטִין”?",
+      "options": [
+        "juvenile",
+        "convictions",
+        "harassment",
+        "groomed"
+      ],
+      "correct_answer": "juvenile",
+      "explanation_hebrew": "המילה “juvenile” פירושה קָטִין."
+    },
+    {
+      "id": "C-q21",
+      "word": "convictions",
+      "type": "english_to_hebrew",
+      "question": "What does “convictions” mean?",
+      "options": [
+        "טֻפַּח לְרָעָה",
+        "הַרְשָׁעוֹת",
+        "הַטְרָדָה",
+        "סְחוֹרָה אֲסוּרָה"
+      ],
+      "correct_answer": "הַרְשָׁעוֹת",
+      "explanation_hebrew": "הפירוש של המילה “convictions” הוא הַרְשָׁעוֹת."
+    },
+    {
+      "id": "C-q22",
+      "word": "harassment",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַטְרָדָה”?",
+      "options": [
+        "degraded",
+        "harassment",
+        "contraband",
+        "groomed"
+      ],
+      "correct_answer": "harassment",
+      "explanation_hebrew": "המילה “harassment” פירושה הַטְרָדָה."
+    },
+    {
+      "id": "C-q23",
+      "word": "groomed",
+      "type": "english_to_hebrew",
+      "question": "What does “groomed” mean?",
+      "options": [
+        "שִׁתֵּק",
+        "טֻפַּח לְרָעָה",
+        "נֶחְלַשׁ",
+        "סְחוֹרָה אֲסוּרָה"
+      ],
+      "correct_answer": "טֻפַּח לְרָעָה",
+      "explanation_hebrew": "הפירוש של המילה “groomed” הוא טֻפַּח לְרָעָה."
+    },
+    {
+      "id": "C-q24",
+      "word": "contraband",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סְחוֹרָה אֲסוּרָה”?",
+      "options": [
+        "degraded",
+        "sentenced",
+        "contraband",
+        "crippled"
+      ],
+      "correct_answer": "contraband",
+      "explanation_hebrew": "המילה “contraband” פירושה סְחוֹרָה אֲסוּרָה."
+    },
+    {
+      "id": "C-q25",
+      "word": "degraded",
+      "type": "english_to_hebrew",
+      "question": "What does “degraded” mean?",
+      "options": [
+        "נִדּוֹן",
+        "קוֹלֶקְטִיב",
+        "שִׁתֵּק",
+        "נֶחְלַשׁ"
+      ],
+      "correct_answer": "נֶחְלַשׁ",
+      "explanation_hebrew": "הפירוש של המילה “degraded” הוא נֶחְלַשׁ."
+    }
+  ]
+}
