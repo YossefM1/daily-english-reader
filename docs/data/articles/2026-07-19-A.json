@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-19",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Brewdog founder faces data complaints over efforts to buy back firm",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno",
+  "word_count": 480,
+  "generated_at": "2026-07-19T02:10:37.894312+00:00",
+  "difficulty_reason": "Short, direct business report with a clear single story and mostly B1/B2 vocabulary; needs little background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "founder",
+      "lemma": "founder",
+      "level": "B2",
+      "hebrew": "מייסד",
+      "explanation_hebrew": "אדם שהקים חברה או ארגון",
+      "pronunciation_hebrew": "פָאוּנְדֶר",
+      "example": "She is the founder of a small software company."
+    },
+    {
+      "word": "complaints",
+      "lemma": "complaint",
+      "level": "B1",
+      "hebrew": "תלונות",
+      "explanation_hebrew": "הבעות אי-שביעות רצון על משהו",
+      "pronunciation_hebrew": "קוֹמְפְּלֵיינְטְס",
+      "example": "The company received many complaints from customers."
+    },
+    {
+      "word": "efforts",
+      "lemma": "effort",
+      "level": "B1",
+      "hebrew": "מאמצים",
+      "explanation_hebrew": "ניסיונות ופעולות להשגת מטרה",
+      "pronunciation_hebrew": "אֶפוֹרְטְס",
+      "example": "His efforts to fix the problem finally worked."
+    },
+    {
+      "word": "watchdog",
+      "lemma": "watchdog",
+      "level": "B2",
+      "hebrew": "גוף פיקוח",
+      "explanation_hebrew": "ארגון שמפקח על התנהלות תקינה",
+      "pronunciation_hebrew": "ווֹצְ'דוֹג",
+      "example": "The financial watchdog investigated the bank."
+    },
+    {
+      "word": "reportedly",
+      "lemma": "reportedly",
+      "level": "B2",
+      "hebrew": "לפי הדיווחים",
+      "explanation_hebrew": "על פי מה שנמסר או דווח",
+      "pronunciation_hebrew": "רִיפּוֹרְטֶדְלִי",
+      "example": "He reportedly left the country last week."
+    },
+    {
+      "word": "shareholders",
+      "lemma": "shareholder",
+      "level": "B2",
+      "hebrew": "בעלי מניות",
+      "explanation_hebrew": "אנשים שמחזיקים מניות בחברה",
+      "pronunciation_hebrew": "שֶׁאֲרְהוֹלְדֶרְס",
+      "example": "The shareholders voted against the deal."
+    },
+    {
+      "word": "brewer",
+      "lemma": "brewer",
+      "level": "B2",
+      "hebrew": "מבשלת בירה",
+      "explanation_hebrew": "חברה או אדם שמייצרים בירה",
+      "pronunciation_hebrew": "בְּרוּאֶר",
+      "example": "The local brewer sells beer across the country."
+    },
+    {
+      "word": "assessing",
+      "lemma": "assess",
+      "level": "B2",
+      "hebrew": "בוחן/מעריך",
+      "explanation_hebrew": "בודק ומעריך מצב או מידע",
+      "pronunciation_hebrew": "אֲסֶסִינְג",
+      "example": "The team is assessing the damage after the storm."
+    },
+    {
+      "word": "collapsed",
+      "lemma": "collapse",
+      "level": "B2",
+      "hebrew": "קרס",
+      "explanation_hebrew": "נפל או התמוטט לחלוטין",
+      "pronunciation_hebrew": "קוֹלַאפְּסְט",
+      "example": "The business collapsed after losing its main client."
+    },
+    {
+      "word": "debts",
+      "lemma": "debt",
+      "level": "B1",
+      "hebrew": "חובות",
+      "explanation_hebrew": "כספים שחייבים להחזיר",
+      "pronunciation_hebrew": "דֶטְס",
+      "example": "The family struggled to pay off its debts."
+    },
+    {
+      "word": "administration",
+      "lemma": "administration",
+      "level": "C1",
+      "hebrew": "כינוס נכסים/ניהול",
+      "explanation_hebrew": "הליך משפטי לניהול חברה בקשיים",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵיישֶׁן",
+      "example": "The firm went into administration after heavy losses."
+    },
+    {
+      "word": "takeover",
+      "lemma": "takeover",
+      "level": "B2",
+      "hebrew": "השתלטות/רכישה",
+      "explanation_hebrew": "רכישת שליטה בחברה אחרת",
+      "pronunciation_hebrew": "טֵייקְאוֹבֶר",
+      "example": "The takeover made the company much larger."
+    },
+    {
+      "word": "rendered",
+      "lemma": "render",
+      "level": "C1",
+      "hebrew": "הפך ל/גרם ל",
+      "explanation_hebrew": "גרם למשהו להיות במצב מסוים",
+      "pronunciation_hebrew": "רֶנְדֶרְד",
+      "example": "The injury rendered him unable to play."
+    },
+    {
+      "word": "worthless",
+      "lemma": "worthless",
+      "level": "B2",
+      "hebrew": "חסר ערך",
+      "explanation_hebrew": "ללא כל ערך כספי או שימושי",
+      "pronunciation_hebrew": "וֶורְתְלֶס",
+      "example": "The old shares became worthless overnight."
+    },
+    {
+      "word": "breweries",
+      "lemma": "brewery",
+      "level": "B2",
+      "hebrew": "מבשלות בירה",
+      "explanation_hebrew": "מפעלים לייצור בירה",
+      "pronunciation_hebrew": "בְּרוּאֶרִיז",
+      "example": "The company owns several breweries in Europe."
+    },
+    {
+      "word": "acquired",
+      "lemma": "acquire",
+      "level": "B2",
+      "hebrew": "רכש",
+      "explanation_hebrew": "השיג בעלות על משהו",
+      "pronunciation_hebrew": "אַקְווַאיֶרְד",
+      "example": "The bank acquired a smaller rival last year."
+    },
+    {
+      "word": "tabled",
+      "lemma": "table",
+      "level": "C1",
+      "hebrew": "הגיש (הצעה)",
+      "explanation_hebrew": "העלה הצעה רשמית לדיון",
+      "pronunciation_hebrew": "טֵייבֶּלְד",
+      "example": "He tabled a new proposal at the meeting."
+    },
+    {
+      "word": "claiming",
+      "lemma": "claim",
+      "level": "B1",
+      "hebrew": "טוען",
+      "explanation_hebrew": "אומר שמשהו נכון בלי הוכחה מלאה",
+      "pronunciation_hebrew": "קְלֵיימִינְג",
+      "example": "She is claiming that the payment was late."
+    },
+    {
+      "word": "concerns",
+      "lemma": "concern",
+      "level": "B1",
+      "hebrew": "חששות",
+      "explanation_hebrew": "דאגות לגבי משהו",
+      "pronunciation_hebrew": "קוֹנְסֶרְנְס",
+      "example": "There are concerns about the safety of the bridge."
+    },
+    {
+      "word": "breach",
+      "lemma": "breach",
+      "level": "C1",
+      "hebrew": "הפרה",
+      "explanation_hebrew": "אי-קיום של חוק או כלל",
+      "pronunciation_hebrew": "בְּרִיץ'",
+      "example": "The leak was a serious breach of privacy."
+    },
+    {
+      "word": "overseen",
+      "lemma": "oversee",
+      "level": "C1",
+      "hebrew": "מפוקח/מנוהל",
+      "explanation_hebrew": "נמצא תחת פיקוח או אחריות",
+      "pronunciation_hebrew": "אוֹבֶרְסִין",
+      "example": "The project is overseen by a senior manager."
+    },
+    {
+      "word": "incident",
+      "lemma": "incident",
+      "level": "B2",
+      "hebrew": "אירוע/תקרית",
+      "explanation_hebrew": "מקרה מסוים, לרוב לא נעים",
+      "pronunciation_hebrew": "אִינְסִידֶנְט",
+      "example": "Police are investigating the incident."
+    },
+    {
+      "word": "reject",
+      "lemma": "reject",
+      "level": "B2",
+      "hebrew": "לדחות",
+      "explanation_hebrew": "לסרב לקבל משהו",
+      "pronunciation_hebrew": "רִיגֶ'קְט",
+      "example": "The board decided to reject the offer."
+    },
+    {
+      "word": "stressed",
+      "lemma": "stress",
+      "level": "B2",
+      "hebrew": "הדגיש",
+      "explanation_hebrew": "הבליט את חשיבותו של דבר",
+      "pronunciation_hebrew": "סְטְרֶסְט",
+      "example": "The manager stressed the need for teamwork."
+    },
+    {
+      "word": "explicitly",
+      "lemma": "explicitly",
+      "level": "C1",
+      "hebrew": "במפורש",
+      "explanation_hebrew": "בצורה ברורה ומפורשת",
+      "pronunciation_hebrew": "אִיקְסְפְּלִיסִיטְלִי",
+      "example": "She explicitly agreed to the terms."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "founder",
+      "type": "english_to_hebrew",
+      "question": "What does “founder” mean?",
+      "options": [
+        "מייסד",
+        "גוף פיקוח",
+        "מאמצים",
+        "תלונות"
+      ],
+      "correct_answer": "מייסד",
+      "explanation_hebrew": "“founder” פירושו מייסד – אדם שהקים חברה או ארגון."
+    },
+    {
+      "id": "A-q2",
+      "word": "complaints",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תלונות”?",
+      "options": [
+        "complaints",
+        "efforts",
+        "reportedly",
+        "watchdog"
+      ],
+      "correct_answer": "complaints",
+      "explanation_hebrew": "המילה “complaints” פירושה תלונות – הבעות אי-שביעות רצון על משהו."
+    },
+    {
+      "id": "A-q3",
+      "word": "efforts",
+      "type": "english_to_hebrew",
+      "question": "What does “efforts” mean?",
+      "options": [
+        "מאמצים",
+        "גוף פיקוח",
+        "לפי הדיווחים",
+        "בעלי מניות"
+      ],
+      "correct_answer": "מאמצים",
+      "explanation_hebrew": "“efforts” פירושו מאמצים – ניסיונות ופעולות להשגת מטרה."
+    },
+    {
+      "id": "A-q4",
+      "word": "watchdog",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גוף פיקוח”?",
+      "options": [
+        "reportedly",
+        "watchdog",
+        "shareholders",
+        "brewer"
+      ],
+      "correct_answer": "watchdog",
+      "explanation_hebrew": "המילה “watchdog” פירושה גוף פיקוח – ארגון שמפקח על התנהלות תקינה."
+    },
+    {
+      "id": "A-q5",
+      "word": "reportedly",
+      "type": "english_to_hebrew",
+      "question": "What does “reportedly” mean?",
+      "options": [
+        "בעלי מניות",
+        "לפי הדיווחים",
+        "מבשלת בירה",
+        "בוחן/מעריך"
+      ],
+      "correct_answer": "לפי הדיווחים",
+      "explanation_hebrew": "“reportedly” פירושו לפי הדיווחים – על פי מה שנמסר או דווח."
+    },
+    {
+      "id": "A-q6",
+      "word": "shareholders",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בעלי מניות”?",
+      "options": [
+        "collapsed",
+        "assessing",
+        "brewer",
+        "shareholders"
+      ],
+      "correct_answer": "shareholders",
+      "explanation_hebrew": "המילה “shareholders” פירושה בעלי מניות – אנשים שמחזיקים מניות בחברה."
+    },
+    {
+      "id": "A-q7",
+      "word": "brewer",
+      "type": "english_to_hebrew",
+      "question": "What does “brewer” mean?",
+      "options": [
+        "בוחן/מעריך",
+        "מבשלת בירה",
+        "קרס",
+        "חובות"
+      ],
+      "correct_answer": "מבשלת בירה",
+      "explanation_hebrew": "“brewer” פירושו מבשלת בירה – חברה או אדם שמייצרים בירה."
+    },
+    {
+      "id": "A-q8",
+      "word": "assessing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בוחן/מעריך”?",
+      "options": [
+        "debts",
+        "assessing",
+        "collapsed",
+        "administration"
+      ],
+      "correct_answer": "assessing",
+      "explanation_hebrew": "המילה “assessing” פירושה בוחן/מעריך – בודק ומעריך מצב או מידע."
+    },
+    {
+      "id": "A-q9",
+      "word": "collapsed",
+      "type": "english_to_hebrew",
+      "question": "What does “collapsed” mean?",
+      "options": [
+        "קרס",
+        "השתלטות/רכישה",
+        "כינוס נכסים/ניהול",
+        "חובות"
+      ],
+      "correct_answer": "קרס",
+      "explanation_hebrew": "“collapsed” פירושו קרס – נפל או התמוטט לחלוטין."
+    },
+    {
+      "id": "A-q10",
+      "word": "debts",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חובות”?",
+      "options": [
+        "administration",
+        "rendered",
+        "takeover",
+        "debts"
+      ],
+      "correct_answer": "debts",
+      "explanation_hebrew": "המילה “debts” פירושה חובות – כספים שחייבים להחזיר."
+    },
+    {
+      "id": "A-q11",
+      "word": "administration",
+      "type": "english_to_hebrew",
+      "question": "What does “administration” mean?",
+      "options": [
+        "הפך ל/גרם ל",
+        "כינוס נכסים/ניהול",
+        "חסר ערך",
+        "השתלטות/רכישה"
+      ],
+      "correct_answer": "כינוס נכסים/ניהול",
+      "explanation_hebrew": "“administration” פירושו כינוס נכסים/ניהול – הליך משפטי לניהול חברה בקשיים."
+    },
+    {
+      "id": "A-q12",
+      "word": "takeover",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “השתלטות/רכישה”?",
+      "options": [
+        "breweries",
+        "rendered",
+        "takeover",
+        "worthless"
+      ],
+      "correct_answer": "takeover",
+      "explanation_hebrew": "המילה “takeover” פירושה השתלטות/רכישה – רכישת שליטה בחברה אחרת."
+    },
+    {
+      "id": "A-q13",
+      "word": "rendered",
+      "type": "english_to_hebrew",
+      "question": "What does “rendered” mean?",
+      "options": [
+        "מבשלות בירה",
+        "הפך ל/גרם ל",
+        "חסר ערך",
+        "רכש"
+      ],
+      "correct_answer": "הפך ל/גרם ל",
+      "explanation_hebrew": "“rendered” פירושו הפך ל/גרם ל – גרם למשהו להיות במצב מסוים."
+    },
+    {
+      "id": "A-q14",
+      "word": "worthless",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חסר ערך”?",
+      "options": [
+        "acquired",
+        "breweries",
+        "worthless",
+        "tabled"
+      ],
+      "correct_answer": "worthless",
+      "explanation_hebrew": "המילה “worthless” פירושה חסר ערך – ללא כל ערך כספי או שימושי."
+    },
+    {
+      "id": "A-q15",
+      "word": "breweries",
+      "type": "english_to_hebrew",
+      "question": "What does “breweries” mean?",
+      "options": [
+        "רכש",
+        "טוען",
+        "מבשלות בירה",
+        "הגיש (הצעה)"
+      ],
+      "correct_answer": "מבשלות בירה",
+      "explanation_hebrew": "“breweries” פירושו מבשלות בירה – מפעלים לייצור בירה."
+    },
+    {
+      "id": "A-q16",
+      "word": "acquired",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רכש”?",
+      "options": [
+        "concerns",
+        "claiming",
+        "tabled",
+        "acquired"
+      ],
+      "correct_answer": "acquired",
+      "explanation_hebrew": "המילה “acquired” פירושה רכש – השיג בעלות על משהו."
+    },
+    {
+      "id": "A-q17",
+      "word": "tabled",
+      "type": "english_to_hebrew",
+      "question": "What does “tabled” mean?",
+      "options": [
+        "חששות",
+        "טוען",
+        "הפרה",
+        "הגיש (הצעה)"
+      ],
+      "correct_answer": "הגיש (הצעה)",
+      "explanation_hebrew": "“tabled” פירושו הגיש (הצעה) – העלה הצעה רשמית לדיון."
+    },
+    {
+      "id": "A-q18",
+      "word": "claiming",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “טוען”?",
+      "options": [
+        "overseen",
+        "concerns",
+        "claiming",
+        "breach"
+      ],
+      "correct_answer": "claiming",
+      "explanation_hebrew": "המילה “claiming” פירושה טוען – אומר שמשהו נכון בלי הוכחה מלאה."
+    },
+    {
+      "id": "A-q19",
+      "word": "concerns",
+      "type": "english_to_hebrew",
+      "question": "What does “concerns” mean?",
+      "options": [
+        "חששות",
+        "מפוקח/מנוהל",
+        "הפרה",
+        "אירוע/תקרית"
+      ],
+      "correct_answer": "חששות",
+      "explanation_hebrew": "“concerns” פירושו חששות – דאגות לגבי משהו."
+    },
+    {
+      "id": "A-q20",
+      "word": "breach",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הפרה”?",
+      "options": [
+        "breach",
+        "incident",
+        "overseen",
+        "reject"
+      ],
+      "correct_answer": "breach",
+      "explanation_hebrew": "המילה “breach” פירושה הפרה – אי-קיום של חוק או כלל."
+    },
+    {
+      "id": "A-q21",
+      "word": "overseen",
+      "type": "english_to_hebrew",
+      "question": "What does “overseen” mean?",
+      "options": [
+        "אירוע/תקרית",
+        "לדחות",
+        "מפוקח/מנוהל",
+        "הדגיש"
+      ],
+      "correct_answer": "מפוקח/מנוהל",
+      "explanation_hebrew": "“overseen” פירושו מפוקח/מנוהל – נמצא תחת פיקוח או אחריות."
+    },
+    {
+      "id": "A-q22",
+      "word": "incident",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אירוע/תקרית”?",
+      "options": [
+        "reject",
+        "explicitly",
+        "incident",
+        "stressed"
+      ],
+      "correct_answer": "incident",
+      "explanation_hebrew": "המילה “incident” פירושה אירוע/תקרית – מקרה מסוים, לרוב לא נעים."
+    },
+    {
+      "id": "A-q23",
+      "word": "reject",
+      "type": "english_to_hebrew",
+      "question": "What does “reject” mean?",
+      "options": [
+        "במפורש",
+        "לדחות",
+        "מייסד",
+        "הדגיש"
+      ],
+      "correct_answer": "לדחות",
+      "explanation_hebrew": "“reject” פירושו לדחות – לסרב לקבל משהו."
+    },
+    {
+      "id": "A-q24",
+      "word": "stressed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הדגיש”?",
+      "options": [
+        "founder",
+        "stressed",
+        "explicitly",
+        "complaints"
+      ],
+      "correct_answer": "stressed",
+      "explanation_hebrew": "המילה “stressed” פירושה הדגיש – הבליט את חשיבותו של דבר."
+    },
+    {
+      "id": "A-q25",
+      "word": "explicitly",
+      "type": "english_to_hebrew",
+      "question": "What does “explicitly” mean?",
+      "options": [
+        "תלונות",
+        "מייסד",
+        "מאמצים",
+        "במפורש"
+      ],
+      "correct_answer": "במפורש",
+      "explanation_hebrew": "“explicitly” פירושו במפורש – בצורה ברורה ומפורשת."
+    }
+  ]
+}

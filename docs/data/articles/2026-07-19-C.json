@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-19",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Five headaches Andy Burnham will have to deal with as PM",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo",
+  "word_count": 1493,
+  "generated_at": "2026-07-19T02:10:37.894312+00:00",
+  "difficulty_reason": "Long, dense policy analysis with complex sentences and B2/C1/C2 political and economic vocabulary; assumes background on UK politics and public finance.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "inherit",
+      "lemma": "inherit",
+      "level": "B2",
+      "hebrew": "לרשת",
+      "explanation_hebrew": "לקבל משהו ממי שקדם לך",
+      "pronunciation_hebrew": "אִינְהֶרִיט",
+      "example": "The new leader will inherit many problems."
+    },
+    {
+      "word": "formidable",
+      "lemma": "formidable",
+      "level": "C1",
+      "hebrew": "אדיר/מאיים",
+      "explanation_hebrew": "גדול או קשה בצורה מרשימה",
+      "pronunciation_hebrew": "פוֹרְמִידַבֶּל",
+      "example": "They faced a formidable challenge."
+    },
+    {
+      "word": "successive",
+      "lemma": "successive",
+      "level": "C1",
+      "hebrew": "רצופים/עוקבים",
+      "explanation_hebrew": "באים זה אחר זה ברצף",
+      "pronunciation_hebrew": "סַקְסֶסִיב",
+      "example": "Successive governments failed to solve it."
+    },
+    {
+      "word": "welfare",
+      "lemma": "welfare",
+      "level": "B2",
+      "hebrew": "רווחה",
+      "explanation_hebrew": "תמיכה ציבורית ברווחת האזרחים",
+      "pronunciation_hebrew": "וֶלְפֶר",
+      "example": "The welfare system supports people in need."
+    },
+    {
+      "word": "disability",
+      "lemma": "disability",
+      "level": "B2",
+      "hebrew": "מוגבלות",
+      "explanation_hebrew": "מצב גופני או נפשי שמגביל תפקוד",
+      "pronunciation_hebrew": "דִיסֶבִּילִיטִי",
+      "example": "The benefit helps people with a disability."
+    },
+    {
+      "word": "projected",
+      "lemma": "project",
+      "level": "C1",
+      "hebrew": "צפוי/חזוי",
+      "explanation_hebrew": "מוערך שיקרה על פי תחזית",
+      "pronunciation_hebrew": "פְּרוֹגֶ'קְטֶד",
+      "example": "Costs are projected to rise next year."
+    },
+    {
+      "word": "eligibility",
+      "lemma": "eligibility",
+      "level": "C1",
+      "hebrew": "זכאות",
+      "explanation_hebrew": "עמידה בתנאים לקבלת משהו",
+      "pronunciation_hebrew": "אֶלִיגִ'יבִּילִיטִי",
+      "example": "They tightened the eligibility for the benefit."
+    },
+    {
+      "word": "revolt",
+      "lemma": "revolt",
+      "level": "C1",
+      "hebrew": "מרד/התקוממות",
+      "explanation_hebrew": "התנגדות מאורגנת לסמכות",
+      "pronunciation_hebrew": "רִיווֹלְט",
+      "example": "The plan led to a revolt among lawmakers."
+    },
+    {
+      "word": "interim",
+      "lemma": "interim",
+      "level": "C1",
+      "hebrew": "ביניים/זמני",
+      "explanation_hebrew": "זמני, עד לפתרון סופי",
+      "pronunciation_hebrew": "אִינְטֶרִים",
+      "example": "An interim report was published this week."
+    },
+    {
+      "word": "speculation",
+      "lemma": "speculation",
+      "level": "C1",
+      "hebrew": "השערות/ספקולציה",
+      "explanation_hebrew": "ניחושים לגבי מה שעשוי לקרות",
+      "pronunciation_hebrew": "סְפֶּקְיוּלֵיישֶׁן",
+      "example": "There is speculation about a new tax."
+    },
+    {
+      "word": "backlash",
+      "lemma": "backlash",
+      "level": "C1",
+      "hebrew": "תגובת נגד",
+      "explanation_hebrew": "התנגדות חריפה למהלך או רעיון",
+      "pronunciation_hebrew": "בַּקְלַאשׁ",
+      "example": "The decision caused a public backlash."
+    },
+    {
+      "word": "crude",
+      "lemma": "crude",
+      "level": "C1",
+      "hebrew": "גס/גולמי",
+      "explanation_hebrew": "פשוט וגס, ללא עידון",
+      "pronunciation_hebrew": "קְרוּד",
+      "example": "He rejected the idea of crude spending cuts."
+    },
+    {
+      "word": "outcry",
+      "lemma": "outcry",
+      "level": "C1",
+      "hebrew": "זעקה ציבורית",
+      "explanation_hebrew": "מחאה קולנית של רבים",
+      "pronunciation_hebrew": "אַאוּטְקְרַיי",
+      "example": "The plan sparked a public outcry."
+    },
+    {
+      "word": "procurement",
+      "lemma": "procurement",
+      "level": "C1",
+      "hebrew": "רכש",
+      "explanation_hebrew": "תהליך רכישת מוצרים או שירותים",
+      "pronunciation_hebrew": "פְּרוֹקְיוּרְמֶנְט",
+      "example": "Defence procurement is often very slow."
+    },
+    {
+      "word": "wasteful",
+      "lemma": "wasteful",
+      "level": "B2",
+      "hebrew": "בזבזני",
+      "explanation_hebrew": "משתמש במשאבים בצורה לא יעילה",
+      "pronunciation_hebrew": "וֵויסְטְפוּל",
+      "example": "The process was wasteful and expensive."
+    },
+    {
+      "word": "perceived",
+      "lemma": "perceive",
+      "level": "C1",
+      "hebrew": "נתפס/מובן",
+      "explanation_hebrew": "נראה או מובן בדרך מסוימת",
+      "pronunciation_hebrew": "פֶּרְסִיבְד",
+      "example": "The system is perceived as unfair."
+    },
+    {
+      "word": "underfunded",
+      "lemma": "underfunded",
+      "level": "C1",
+      "hebrew": "מתוקצב בחסר",
+      "explanation_hebrew": "מקבל פחות מימון מהנדרש",
+      "pronunciation_hebrew": "אַנְדֶרְפַאנְדֶד",
+      "example": "The service is badly underfunded."
+    },
+    {
+      "word": "abandoned",
+      "lemma": "abandon",
+      "level": "B2",
+      "hebrew": "ננטש",
+      "explanation_hebrew": "עזבו או ויתרו עליו",
+      "pronunciation_hebrew": "אַבַּנְדֶנְד",
+      "example": "The plan was abandoned after the election."
+    },
+    {
+      "word": "commissioned",
+      "lemma": "commission",
+      "level": "C1",
+      "hebrew": "הזמין (עבודה)",
+      "explanation_hebrew": "ביקש רשמית להכין דבר מה",
+      "pronunciation_hebrew": "קוֹמִישֶׁנְד",
+      "example": "The government commissioned a new report."
+    },
+    {
+      "word": "controversial",
+      "lemma": "controversial",
+      "level": "B2",
+      "hebrew": "שנוי במחלוקת",
+      "explanation_hebrew": "מעורר ויכוח וחילוקי דעות",
+      "pronunciation_hebrew": "קוֹנְטְרוֹבֶרְשֶׁל",
+      "example": "It was a controversial decision."
+    },
+    {
+      "word": "pledged",
+      "lemma": "pledge",
+      "level": "B2",
+      "hebrew": "התחייב",
+      "explanation_hebrew": "הבטיח באופן רשמי לעשות משהו",
+      "pronunciation_hebrew": "פְּלֶגְ'ד",
+      "example": "The party pledged to build more homes."
+    },
+    {
+      "word": "levy",
+      "lemma": "levy",
+      "level": "C1",
+      "hebrew": "היטל",
+      "explanation_hebrew": "מס או תשלום חובה",
+      "pronunciation_hebrew": "לֶבִי",
+      "example": "A new levy was placed on large estates."
+    },
+    {
+      "word": "subsidies",
+      "lemma": "subsidy",
+      "level": "C1",
+      "hebrew": "סובסידיות",
+      "explanation_hebrew": "תמיכה כספית מהמדינה",
+      "pronunciation_hebrew": "סַאבְּסִידִיז",
+      "example": "Farmers receive government subsidies."
+    },
+    {
+      "word": "fiscal",
+      "lemma": "fiscal",
+      "level": "C1",
+      "hebrew": "פיסקלי/תקציבי",
+      "explanation_hebrew": "הקשור לכספי הממשלה ולמיסוי",
+      "pronunciation_hebrew": "פִיסְקַל",
+      "example": "The government must follow its fiscal rules."
+    },
+    {
+      "word": "vocational",
+      "lemma": "vocational",
+      "level": "C1",
+      "hebrew": "מקצועי (הכשרה)",
+      "explanation_hebrew": "הקשור להכשרה למקצוע מעשי",
+      "pronunciation_hebrew": "ווֹקֵיישֶׁנַל",
+      "example": "He chose a vocational course over university."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "inherit",
+      "type": "english_to_hebrew",
+      "question": "What does “inherit” mean?",
+      "options": [
+        "לרשת",
+        "רווחה",
+        "רצופים/עוקבים",
+        "אדיר/מאיים"
+      ],
+      "correct_answer": "לרשת",
+      "explanation_hebrew": "“inherit” פירושו לרשת – לקבל משהו ממי שקדם לך."
+    },
+    {
+      "id": "C-q2",
+      "word": "formidable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אדיר/מאיים”?",
+      "options": [
+        "welfare",
+        "disability",
+        "formidable",
+        "successive"
+      ],
+      "correct_answer": "formidable",
+      "explanation_hebrew": "המילה “formidable” פירושה אדיר/מאיים – גדול או קשה בצורה מרשימה."
+    },
+    {
+      "id": "C-q3",
+      "word": "successive",
+      "type": "english_to_hebrew",
+      "question": "What does “successive” mean?",
+      "options": [
+        "רצופים/עוקבים",
+        "צפוי/חזוי",
+        "מוגבלות",
+        "רווחה"
+      ],
+      "correct_answer": "רצופים/עוקבים",
+      "explanation_hebrew": "“successive” פירושו רצופים/עוקבים – באים זה אחר זה ברצף."
+    },
+    {
+      "id": "C-q4",
+      "word": "welfare",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רווחה”?",
+      "options": [
+        "welfare",
+        "projected",
+        "disability",
+        "eligibility"
+      ],
+      "correct_answer": "welfare",
+      "explanation_hebrew": "המילה “welfare” פירושה רווחה – תמיכה ציבורית ברווחת האזרחים."
+    },
+    {
+      "id": "C-q5",
+      "word": "disability",
+      "type": "english_to_hebrew",
+      "question": "What does “disability” mean?",
+      "options": [
+        "מרד/התקוממות",
+        "זכאות",
+        "מוגבלות",
+        "צפוי/חזוי"
+      ],
+      "correct_answer": "מוגבלות",
+      "explanation_hebrew": "“disability” פירושו מוגבלות – מצב גופני או נפשי שמגביל תפקוד."
+    },
+    {
+      "id": "C-q6",
+      "word": "projected",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “צפוי/חזוי”?",
+      "options": [
+        "interim",
+        "revolt",
+        "eligibility",
+        "projected"
+      ],
+      "correct_answer": "projected",
+      "explanation_hebrew": "המילה “projected” פירושה צפוי/חזוי – מוערך שיקרה על פי תחזית."
+    },
+    {
+      "id": "C-q7",
+      "word": "eligibility",
+      "type": "english_to_hebrew",
+      "question": "What does “eligibility” mean?",
+      "options": [
+        "ביניים/זמני",
+        "השערות/ספקולציה",
+        "מרד/התקוממות",
+        "זכאות"
+      ],
+      "correct_answer": "זכאות",
+      "explanation_hebrew": "“eligibility” פירושו זכאות – עמידה בתנאים לקבלת משהו."
+    },
+    {
+      "id": "C-q8",
+      "word": "revolt",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מרד/התקוממות”?",
+      "options": [
+        "speculation",
+        "revolt",
+        "interim",
+        "backlash"
+      ],
+      "correct_answer": "revolt",
+      "explanation_hebrew": "המילה “revolt” פירושה מרד/התקוממות – התנגדות מאורגנת לסמכות."
+    },
+    {
+      "id": "C-q9",
+      "word": "interim",
+      "type": "english_to_hebrew",
+      "question": "What does “interim” mean?",
+      "options": [
+        "ביניים/זמני",
+        "השערות/ספקולציה",
+        "גס/גולמי",
+        "תגובת נגד"
+      ],
+      "correct_answer": "ביניים/זמני",
+      "explanation_hebrew": "“interim” פירושו ביניים/זמני – זמני, עד לפתרון סופי."
+    },
+    {
+      "id": "C-q10",
+      "word": "speculation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “השערות/ספקולציה”?",
+      "options": [
+        "outcry",
+        "crude",
+        "speculation",
+        "backlash"
+      ],
+      "correct_answer": "speculation",
+      "explanation_hebrew": "המילה “speculation” פירושה השערות/ספקולציה – ניחושים לגבי מה שעשוי לקרות."
+    },
+    {
+      "id": "C-q11",
+      "word": "backlash",
+      "type": "english_to_hebrew",
+      "question": "What does “backlash” mean?",
+      "options": [
+        "זעקה ציבורית",
+        "תגובת נגד",
+        "רכש",
+        "גס/גולמי"
+      ],
+      "correct_answer": "תגובת נגד",
+      "explanation_hebrew": "“backlash” פירושו תגובת נגד – התנגדות חריפה למהלך או רעיון."
+    },
+    {
+      "id": "C-q12",
+      "word": "crude",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גס/גולמי”?",
+      "options": [
+        "outcry",
+        "wasteful",
+        "crude",
+        "procurement"
+      ],
+      "correct_answer": "crude",
+      "explanation_hebrew": "המילה “crude” פירושה גס/גולמי – פשוט וגס, ללא עידון."
+    },
+    {
+      "id": "C-q13",
+      "word": "outcry",
+      "type": "english_to_hebrew",
+      "question": "What does “outcry” mean?",
+      "options": [
+        "נתפס/מובן",
+        "זעקה ציבורית",
+        "בזבזני",
+        "רכש"
+      ],
+      "correct_answer": "זעקה ציבורית",
+      "explanation_hebrew": "“outcry” פירושו זעקה ציבורית – מחאה קולנית של רבים."
+    },
+    {
+      "id": "C-q14",
+      "word": "procurement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רכש”?",
+      "options": [
+        "wasteful",
+        "underfunded",
+        "perceived",
+        "procurement"
+      ],
+      "correct_answer": "procurement",
+      "explanation_hebrew": "המילה “procurement” פירושה רכש – תהליך רכישת מוצרים או שירותים."
+    },
+    {
+      "id": "C-q15",
+      "word": "wasteful",
+      "type": "english_to_hebrew",
+      "question": "What does “wasteful” mean?",
+      "options": [
+        "נתפס/מובן",
+        "מתוקצב בחסר",
+        "ננטש",
+        "בזבזני"
+      ],
+      "correct_answer": "בזבזני",
+      "explanation_hebrew": "“wasteful” פירושו בזבזני – משתמש במשאבים בצורה לא יעילה."
+    },
+    {
+      "id": "C-q16",
+      "word": "perceived",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נתפס/מובן”?",
+      "options": [
+        "perceived",
+        "abandoned",
+        "underfunded",
+        "commissioned"
+      ],
+      "correct_answer": "perceived",
+      "explanation_hebrew": "המילה “perceived” פירושה נתפס/מובן – נראה או מובן בדרך מסוימת."
+    },
+    {
+      "id": "C-q17",
+      "word": "underfunded",
+      "type": "english_to_hebrew",
+      "question": "What does “underfunded” mean?",
+      "options": [
+        "הזמין (עבודה)",
+        "ננטש",
+        "מתוקצב בחסר",
+        "שנוי במחלוקת"
+      ],
+      "correct_answer": "מתוקצב בחסר",
+      "explanation_hebrew": "“underfunded” פירושו מתוקצב בחסר – מקבל פחות מימון מהנדרש."
+    },
+    {
+      "id": "C-q18",
+      "word": "abandoned",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ננטש”?",
+      "options": [
+        "abandoned",
+        "commissioned",
+        "pledged",
+        "controversial"
+      ],
+      "correct_answer": "abandoned",
+      "explanation_hebrew": "המילה “abandoned” פירושה ננטש – עזבו או ויתרו עליו."
+    },
+    {
+      "id": "C-q19",
+      "word": "commissioned",
+      "type": "english_to_hebrew",
+      "question": "What does “commissioned” mean?",
+      "options": [
+        "התחייב",
+        "היטל",
+        "שנוי במחלוקת",
+        "הזמין (עבודה)"
+      ],
+      "correct_answer": "הזמין (עבודה)",
+      "explanation_hebrew": "“commissioned” פירושו הזמין (עבודה) – ביקש רשמית להכין דבר מה."
+    },
+    {
+      "id": "C-q20",
+      "word": "controversial",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שנוי במחלוקת”?",
+      "options": [
+        "pledged",
+        "controversial",
+        "levy",
+        "subsidies"
+      ],
+      "correct_answer": "controversial",
+      "explanation_hebrew": "המילה “controversial” פירושה שנוי במחלוקת – מעורר ויכוח וחילוקי דעות."
+    },
+    {
+      "id": "C-q21",
+      "word": "pledged",
+      "type": "english_to_hebrew",
+      "question": "What does “pledged” mean?",
+      "options": [
+        "פיסקלי/תקציבי",
+        "היטל",
+        "התחייב",
+        "סובסידיות"
+      ],
+      "correct_answer": "התחייב",
+      "explanation_hebrew": "“pledged” פירושו התחייב – הבטיח באופן רשמי לעשות משהו."
+    },
+    {
+      "id": "C-q22",
+      "word": "levy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “היטל”?",
+      "options": [
+        "subsidies",
+        "fiscal",
+        "vocational",
+        "levy"
+      ],
+      "correct_answer": "levy",
+      "explanation_hebrew": "המילה “levy” פירושה היטל – מס או תשלום חובה."
+    },
+    {
+      "id": "C-q23",
+      "word": "subsidies",
+      "type": "english_to_hebrew",
+      "question": "What does “subsidies” mean?",
+      "options": [
+        "לרשת",
+        "סובסידיות",
+        "מקצועי (הכשרה)",
+        "פיסקלי/תקציבי"
+      ],
+      "correct_answer": "סובסידיות",
+      "explanation_hebrew": "“subsidies” פירושו סובסידיות – תמיכה כספית מהמדינה."
+    },
+    {
+      "id": "C-q24",
+      "word": "fiscal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פיסקלי/תקציבי”?",
+      "options": [
+        "fiscal",
+        "inherit",
+        "formidable",
+        "vocational"
+      ],
+      "correct_answer": "fiscal",
+      "explanation_hebrew": "המילה “fiscal” פירושה פיסקלי/תקציבי – הקשור לכספי הממשלה ולמיסוי."
+    },
+    {
+      "id": "C-q25",
+      "word": "vocational",
+      "type": "english_to_hebrew",
+      "question": "What does “vocational” mean?",
+      "options": [
+        "מקצועי (הכשרה)",
+        "אדיר/מאיים",
+        "רצופים/עוקבים",
+        "לרשת"
+      ],
+      "correct_answer": "מקצועי (הכשרה)",
+      "explanation_hebrew": "“vocational” פירושו מקצועי (הכשרה) – הקשור להכשרה למקצוע מעשי."
+    }
+  ]
+}
