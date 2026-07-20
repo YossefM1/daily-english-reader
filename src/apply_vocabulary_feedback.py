@@ -11,7 +11,7 @@ from pathlib import Path
 from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
-BANK_PATH = ROOT / "config" / "vocabulary_core_words.json"
+BANK_DIR = ROOT / "config"
 PROFILE_PATH = ROOT / "docs" / "data" / "vocabulary" / "learner-profile.json"
 
 
@@ -52,8 +52,14 @@ def main(event_path: str) -> None:
     if set(known) & set(review):
         raise ValueError("A word cannot be both known and review")
 
-    bank = read_json(BANK_PATH, {})
-    valid_ids = {str(w.get("id")) for w in bank.get("words", [])}
+    bank_words: list[dict[str, Any]] = []
+    for bank_path in sorted(BANK_DIR.glob("vocabulary_core_words*.json")):
+        bank = read_json(bank_path, {})
+        part = bank.get("words", []) if isinstance(bank, dict) else []
+        if not isinstance(part, list):
+            raise ValueError(f"Invalid words array in {bank_path}")
+        bank_words.extend(part)
+    valid_ids = {str(w.get("id")) for w in bank_words}
     invalid = sorted((set(known) | set(review)) - valid_ids)
     if invalid:
         raise ValueError("Unknown word IDs: " + ", ".join(invalid))
