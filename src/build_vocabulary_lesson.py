@@ -1,0 +1,160 @@
+#!/usr/bin/env python3
+"""Build the adaptive daily core-vocabulary lesson for GitHub Pages."""
+
+from __future__ import annotations
+
+import hashlib
+import json
+import os
+from datetime import date, datetime, timezone
+from pathlib import Path
+from typing import Any
+
+ROOT = Path(__file__).resolve().parents[1]
+BANK_PATH = ROOT / "config" / "vocabulary_core_words.json"
+PROFILE_PATH = ROOT / "docs" / "data" / "vocabulary" / "learner-profile.json"
+TODAY_PATH = ROOT / "docs" / "data" / "vocabulary" / "today.json"
+ARCHIVE_DIR = ROOT / "docs" / "data" / "vocabulary" / "archive"
+ARTICLE_TODAY_PATH = ROOT / "docs" / "data" / "today.json"
+LESSON_SIZE = int(os.environ.get("VOCABULARY_LESSON_SIZE", "15"))
+MAX_REVIEW = int(os.environ.get("VOCABULARY_MAX_REVIEW", "5"))
+
+
+def read_json(path: Path, default: Any) -> Any:
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        return default
+
+
+def lesson_date() -> str:
+    explicit = os.environ.get("VOCABULARY_DATE", "").strip()
+    if explicit:
+        date.fromisoformat(explicit)
+        return explicit
+    article_today = read_json(ARTICLE_TODAY_PATH, {})
+    candidate = article_today.get("date") if isinstance(article_today, dict) else None
+    if candidate:
+        date.fromisoformat(candidate)
+        return candidate
+    return datetime.now(timezone.utc).date().isoformat()
+
+
+def stable_rank(day: str, word_id: str) -> str:
+    return hashlib.sha256(f"{day}:{word_id}".encode("utf-8")).hexdigest()
+
+
+def profile_entry(profile_words: dict[str, Any], word_id: str) -> dict[str, Any]:
+    value = profile_words.get(word_id, {})
+    return value if isinstance(value, dict) else {}
+
+
+def main() -> None:
+    bank = read_json(BANK_PATH, {})
+    words = bank.get("words", []) if isinstance(bank, dict) else []
+    if not isinstance(words, list) or not words:
+        raise SystemExit(f"No vocabulary words found in {BANK_PATH}")
+    if len({w.get('id') for w in words}) != len(words):
+        raise SystemExit("Vocabulary word IDs must be unique")
+
+    profile = read_json(
+        PROFILE_PATH,
+        {"version": 1, "updated_at": None, "feedback_sessions": 0, "processed_issue_numbers": [], "words": {}},
+    )
+    if not isinstance(profile, dict):
+        raise SystemExit("Learner profile must be a JSON object")
+    profile_words = profile.setdefault("words", {})
+    if not isinstance(profile_words, dict):
+        raise SystemExit("Learner profile words must be an object")
+
+    day = lesson_date()
+    due: list[dict[str, Any]] = []
+    unseen: list[dict[str, Any]] = []
+    learning_not_due: list[dict[str, Any]] = []
+
+    for word in words:
+        word_id = str(word.get("id", ""))
+        entry = profile_entry(profile_words, word_id)
+        status = entry.get("status")
+        if status == "known":
+            continue
+        if not entry:
+            unseen.append(word)
+            continue
+        next_review = str(entry.get("next_review") or "9999-12-31")
+        wrapped = {**word, "_profile": entry}
+        if next_review <= day:
+            due.append(wrapped)
+        else:
+            learning_not_due.append(wrapped)
+
+    due.sort(key=lambda w: (str(w.get("_profile", {}).get("next_review") or ""), str(w.get("word"))))
+    unseen.sort(key=lambda w: stable_rank(day, str(w.get("id"))))
+    learning_not_due.sort(
+        key=lambda w: (str(w.get("_profile", {}).get("next_review") or "9999-12-31"), stable_rank(day, str(w.get("id"))))
+    )
+
+    selected: list[tuple[dict[str, Any], str]] = []
+    for word in due[: min(MAX_REVIEW, LESSON_SIZE)]:
+        selected.append((word, "review"))
+    for word in unseen:
+        if len(selected) >= LESSON_SIZE:
+            break
+        selected.append((word, "new"))
+    for word in due[min(MAX_REVIEW, LESSON_SIZE) :]:
+        if len(selected) >= LESSON_SIZE:
+            break
+        selected.append((word, "review"))
+    for word in learning_not_due:
+        if len(selected) >= LESSON_SIZE:
+            break
+        selected.append((word, "review"))
+
+    published_words = []
+    for position, (word, reason) in enumerate(selected, start=1):
+        clean = {k: v for k, v in word.items() if not k.startswith("_")}
+        clean["reason"] = reason
+        clean["position"] = position
+        published_words.append(clean)
+
+    known_count = sum(1 for wid in {str(w.get('id')) for w in words} if profile_entry(profile_words, wid).get("status") == "known")
+    learning_count = sum(
+        1
+        for wid in {str(w.get('id')) for w in words}
+        if profile_entry(profile_words, wid) and profile_entry(profile_words, wid).get("status") != "known"
+    )
+    now = datetime.now(timezone.utc).isoformat()
+    output = {
+        "version": 1,
+        "date": day,
+        "generated_at": now,
+        "track": "Essential English 3000",
+        "lesson_size": len(published_words),
+        "selection": {
+            "new_count": sum(1 for w in published_words if w["reason"] == "new"),
+            "review_count": sum(1 for w in published_words if w["reason"] == "review"),
+            "rule": "Known words are excluded; due review words are prioritized; remaining places use unseen core words.",
+        },
+        "profile_summary": {
+            "bank_size": len(words),
+            "known_count": known_count,
+            "learning_count": learning_count,
+            "remaining_count": max(0, len(words) - known_count),
+            "profile_updated_at": profile.get("updated_at"),
+        },
+        "words": published_words,
+    }
+
+    TODAY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    rendered = json.dumps(output, ensure_ascii=False, indent=2) + "\n"
+    TODAY_PATH.write_text(rendered, encoding="utf-8")
+    (ARCHIVE_DIR / f"{day}.json").write_text(rendered, encoding="utf-8")
+    print(
+        f"Built vocabulary lesson {day}: {len(published_words)} words "
+        f"({output['selection']['new_count']} new, {output['selection']['review_count']} review)."
+    )
+
+
+if __name__ == "__main__":
+    main()
