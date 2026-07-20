@@ -11,7 +11,7 @@ from pathlib import Path
 from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
-BANK_PATH = ROOT / "config" / "vocabulary_core_words.json"
+BANK_DIR = ROOT / "config"
 PROFILE_PATH = ROOT / "docs" / "data" / "vocabulary" / "learner-profile.json"
 TODAY_PATH = ROOT / "docs" / "data" / "vocabulary" / "today.json"
 ARCHIVE_DIR = ROOT / "docs" / "data" / "vocabulary" / "archive"
@@ -50,10 +50,16 @@ def profile_entry(profile_words: dict[str, Any], word_id: str) -> dict[str, Any]
 
 
 def main() -> None:
-    bank = read_json(BANK_PATH, {})
-    words = bank.get("words", []) if isinstance(bank, dict) else []
-    if not isinstance(words, list) or not words:
-        raise SystemExit(f"No vocabulary words found in {BANK_PATH}")
+    bank_files = sorted(BANK_DIR.glob("vocabulary_core_words*.json"))
+    words: list[dict[str, Any]] = []
+    for bank_path in bank_files:
+        bank = read_json(bank_path, {})
+        part = bank.get("words", []) if isinstance(bank, dict) else []
+        if not isinstance(part, list):
+            raise SystemExit(f"Invalid words array in {bank_path}")
+        words.extend(part)
+    if not words:
+        raise SystemExit(f"No vocabulary words found in {BANK_DIR}")
     if len({w.get('id') for w in words}) != len(words):
         raise SystemExit("Vocabulary word IDs must be unique")
 
