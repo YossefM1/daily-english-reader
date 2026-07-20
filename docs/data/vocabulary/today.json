@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T21:42:48.162032+00:00",
+  "generated_at": "2026-07-20T21:45:15.312068+00:00",
   "track": "Essential English 3000",
   "lesson_size": 15,
   "selection": {
@@ -11,10 +11,10 @@
   },
   "profile_summary": {
     "bank_size": 113,
-    "known_count": 13,
+    "known_count": 23,
     "learning_count": 0,
-    "remaining_count": 100,
-    "profile_updated_at": "2026-07-20T21:42:48.097017+00:00"
+    "remaining_count": 90,
+    "profile_updated_at": "2026-07-20T21:45:15.261737+00:00"
   },
   "words": [
     {
@@ -42,18 +42,6 @@
       "position": 2
     },
     {
-      "id": "core-0053",
-      "word": "understand",
-      "part_of_speech": "verb",
-      "level": "A2",
-      "hebrew": "להבין",
-      "pronunciation_hebrew": "אַנְדֶרְסְטַנְד",
-      "explanation_hebrew": "לתפוס את המשמעות של רעיון או מידע.",
-      "example": "I understand the concept more clearly now.",
-      "reason": "new",
-      "position": 3
-    },
-    {
       "id": "core-0047",
       "word": "significant",
       "part_of_speech": "adjective",
@@ -63,19 +51,7 @@
       "explanation_hebrew": "חשוב או גדול מספיק כדי להיות מורגש.",
       "example": "The experiment showed a significant improvement.",
       "reason": "new",
-      "position": 4
-    },
-    {
-      "id": "core-0050",
-      "word": "suggest",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "להציע / לרמוז",
-      "pronunciation_hebrew": "סַגֶ'סט",
-      "explanation_hebrew": "להעלות רעיון או להראות בעקיפין אפשרות.",
-      "example": "I suggest reviewing these words tomorrow.",
-      "reason": "new",
-      "position": 5
+      "position": 3
     },
     {
       "id": "core-0044",
@@ -87,103 +63,7 @@
       "explanation_hebrew": "להראות קשר בין דברים או להתייחס לנושא.",
       "example": "The questions relate to the article.",
       "reason": "new",
-      "position": 6
-    },
-    {
-      "id": "core-0036",
-      "word": "prevent",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "למנוע",
-      "pronunciation_hebrew": "פְּרִיוֶנְט",
-      "explanation_hebrew": "לעצור דבר לפני שהוא קורה.",
-      "example": "Regular checks can prevent serious failures.",
-      "reason": "new",
-      "position": 7
-    },
-    {
-      "id": "core-0006",
-      "word": "avoid",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "להימנע",
-      "pronunciation_hebrew": "אַווֹיד",
-      "explanation_hebrew": "להתרחק מפעולה או מצב שאיננו רצוי.",
-      "example": "Try to avoid checking your phone while studying.",
-      "reason": "new",
-      "position": 8
-    },
-    {
-      "id": "core-0091",
-      "word": "average",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "ממוצע",
-      "pronunciation_hebrew": "אַוֶורִיג'",
-      "explanation_hebrew": "ערך שמייצג קבוצה של מספרים.",
-      "example": "The average score increased this week.",
-      "reason": "new",
-      "position": 9
-    },
-    {
-      "id": "core-0022",
-      "word": "evidence",
-      "part_of_speech": "noun",
-      "level": "B2",
-      "hebrew": "ראיה / עדות",
-      "pronunciation_hebrew": "אֶוִידֶנְס",
-      "explanation_hebrew": "מידע שמראה שטענה מסוימת נכונה או שגויה.",
-      "example": "The report provides evidence for the claim.",
-      "reason": "new",
-      "position": 10
-    },
-    {
-      "id": "core-0033",
-      "word": "opportunity",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "הזדמנות",
-      "pronunciation_hebrew": "אוֹפֶּרְטוּנִיטִי",
-      "explanation_hebrew": "מצב שמאפשר לעשות משהו מועיל או רצוי.",
-      "example": "The conference is a good opportunity to meet researchers.",
-      "reason": "new",
-      "position": 11
-    },
-    {
-      "id": "core-0058",
-      "word": "possible",
-      "part_of_speech": "adjective",
-      "level": "A2",
-      "hebrew": "אפשרי",
-      "pronunciation_hebrew": "פּוֹסִיבְּל",
-      "explanation_hebrew": "דבר שיכול לקרות או להתבצע.",
-      "example": "Is it possible to finish today?",
-      "reason": "new",
-      "position": 12
-    },
-    {
-      "id": "core-0113",
-      "word": "standard",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "תקן / רמה מקובלת",
-      "pronunciation_hebrew": "סְטַנְדֶרְד",
-      "explanation_hebrew": "כלל או רמה המשמשים להשוואה.",
-      "example": "The equipment meets the required standard.",
-      "reason": "new",
-      "position": 13
-    },
-    {
-      "id": "core-0005",
-      "word": "approach",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "גישה / שיטה",
-      "pronunciation_hebrew": "אַפְּרוֹוץ'",
-      "explanation_hebrew": "דרך מסוימת להתמודד עם נושא או בעיה.",
-      "example": "We need a different approach to the problem.",
-      "reason": "new",
-      "position": 14
+      "position": 4
     },
     {
       "id": "core-0035",
@@ -194,6 +74,126 @@
       "pronunciation_hebrew": "פֶּרְפוֹרְם",
       "explanation_hebrew": "לעשות פעולה או להראות רמת ביצוע.",
       "example": "The system performed well under heavy load.",
+      "reason": "new",
+      "position": 5
+    },
+    {
+      "id": "core-0096",
+      "word": "context",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "הקשר",
+      "pronunciation_hebrew": "קוֹנְטֶקְסְט",
+      "explanation_hebrew": "המידע סביב מילה או אירוע שעוזר להבין אותו.",
+      "example": "The context makes the meaning clear.",
+      "reason": "new",
+      "position": 6
+    },
+    {
+      "id": "core-0063",
+      "word": "maintain",
+      "part_of_speech": "verb",
+      "level": "B2",
+      "hebrew": "לשמור / לתחזק",
+      "pronunciation_hebrew": "מֵיינְטֵיין",
+      "explanation_hebrew": "להחזיק דבר במצב טוב או להמשיך מצב קיים.",
+      "example": "It is important to maintain a steady speed.",
+      "reason": "new",
+      "position": 7
+    },
+    {
+      "id": "core-0075",
+      "word": "indicate",
+      "part_of_speech": "verb",
+      "level": "B2",
+      "hebrew": "להצביע על",
+      "pronunciation_hebrew": "אִינְדִיקֵייט",
+      "explanation_hebrew": "להראות או לרמוז על מידע מסוים.",
+      "example": "The results indicate a clear trend.",
+      "reason": "new",
+      "position": 8
+    },
+    {
+      "id": "core-0046",
+      "word": "result",
+      "part_of_speech": "noun",
+      "level": "A2",
+      "hebrew": "תוצאה",
+      "pronunciation_hebrew": "רִיזַלְט",
+      "explanation_hebrew": "מה שמתקבל בסוף פעולה או תהליך.",
+      "example": "The final result was better than expected.",
+      "reason": "new",
+      "position": 9
+    },
+    {
+      "id": "core-0087",
+      "word": "accurate",
+      "part_of_speech": "adjective",
+      "level": "B1",
+      "hebrew": "מדויק",
+      "pronunciation_hebrew": "אַקְיוּרֶט",
+      "explanation_hebrew": "נכון ומדויק ללא טעויות משמעותיות.",
+      "example": "We need an accurate measurement.",
+      "reason": "new",
+      "position": 10
+    },
+    {
+      "id": "core-0023",
+      "word": "experience",
+      "part_of_speech": "noun",
+      "level": "A2",
+      "hebrew": "ניסיון / חוויה",
+      "pronunciation_hebrew": "אִקְסְפִּירִיאֶנְס",
+      "explanation_hebrew": "ידע שנרכש מעשייה או אירוע שעוברים.",
+      "example": "Teaching gave her valuable experience.",
+      "reason": "new",
+      "position": 11
+    },
+    {
+      "id": "core-0032",
+      "word": "occur",
+      "part_of_speech": "verb",
+      "level": "B2",
+      "hebrew": "להתרחש",
+      "pronunciation_hebrew": "אֶקֶר",
+      "explanation_hebrew": "לקרות, בדרך כלל בהקשר רשמי יותר.",
+      "example": "The fault occurred during the experiment.",
+      "reason": "new",
+      "position": 12
+    },
+    {
+      "id": "core-0049",
+      "word": "solution",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "פתרון",
+      "pronunciation_hebrew": "סְלוּשֶן",
+      "explanation_hebrew": "תשובה או דרך לטפל בבעיה.",
+      "example": "We found a practical solution.",
+      "reason": "new",
+      "position": 13
+    },
+    {
+      "id": "core-0105",
+      "word": "obtain",
+      "part_of_speech": "verb",
+      "level": "B2",
+      "hebrew": "להשיג / לקבל",
+      "pronunciation_hebrew": "אַבְטֵיין",
+      "explanation_hebrew": "לקבל דבר באמצעות מאמץ או תהליך רשמי.",
+      "example": "We obtained similar results in both tests.",
+      "reason": "new",
+      "position": 14
+    },
+    {
+      "id": "core-0104",
+      "word": "normal",
+      "part_of_speech": "adjective",
+      "level": "A2",
+      "hebrew": "רגיל / תקין",
+      "pronunciation_hebrew": "נוֹרְמַל",
+      "explanation_hebrew": "מקובל או צפוי במצב רגיל.",
+      "example": "The temperature returned to its normal value.",
       "reason": "new",
       "position": 15
     }
