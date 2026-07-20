@@ -44,6 +44,8 @@ def main(event_path: str) -> None:
     issue = event.get("issue", {}) if isinstance(event, dict) else {}
     issue_number = int(issue.get("number") or event.get("number") or 0)
     payload = extract_payload(str(issue.get("body") or ""))
+    if payload.get("kind") != "vocabulary_feedback" or payload.get("version") != 1:
+        raise ValueError("Unsupported vocabulary feedback payload")
 
     session_date = str(payload.get("date") or "")
     date.fromisoformat(session_date)
@@ -51,6 +53,8 @@ def main(event_path: str) -> None:
     review = unique_strings(payload.get("review"), "review")
     if set(known) & set(review):
         raise ValueError("A word cannot be both known and review")
+    if len(known) + len(review) > 100:
+        raise ValueError("Feedback contains too many words")
 
     bank_words: list[dict[str, Any]] = []
     for bank_path in sorted(BANK_DIR.glob("vocabulary_core_words*.json")):
