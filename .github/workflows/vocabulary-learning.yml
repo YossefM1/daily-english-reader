@@ -38,6 +38,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data/vocabulary/today.json docs/data/vocabulary/archive/
           git commit -m "Update daily vocabulary lesson"
+          git pull --rebase origin main
           git push
 
   apply-owner-feedback:
@@ -66,6 +67,7 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add docs/data/vocabulary/
             git commit -m "Apply vocabulary learning feedback"
+            git pull --rebase origin main
             git push
           fi
       - name: Confirm and close feedback issue
