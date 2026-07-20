@@ -1,0 +1,79 @@
+name: Adaptive vocabulary learning
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: adaptive-vocabulary-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build-daily-lesson:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build adaptive vocabulary lesson
+        run: python src/build_vocabulary_lesson.py
+      - name: Commit lesson when changed
+        run: |
+          if git diff --quiet -- docs/data/vocabulary/; then
+            echo "Vocabulary lesson is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/vocabulary/today.json docs/data/vocabulary/archive/
+          git commit -m "Update daily vocabulary lesson"
+          git pull --rebase origin main
+          git push
+
+  apply-owner-feedback:
+    if: >-
+      github.event_name == 'issues' &&
+      startsWith(github.event.issue.title, '[Vocabulary Feedback]') &&
+      github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Apply feedback to learner profile
+        run: python src/apply_vocabulary_feedback.py "$GITHUB_EVENT_PATH"
+      - name: Rebuild current lesson
+        run: python src/build_vocabulary_lesson.py
+      - name: Commit profile and refreshed lesson
+        run: |
+          if git diff --quiet -- docs/data/vocabulary/; then
+            echo "No vocabulary changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/data/vocabulary/
+            git commit -m "Apply vocabulary learning feedback"
+            git pull --rebase origin main
+            git push
+          fi
+      - name: Confirm and close feedback issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "Vocabulary progress was saved and the adaptive lesson was rebuilt."
+          gh issue close "$ISSUE_NUMBER" --reason completed
