@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-20",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "How and when to see the 2026 Perseid meteor shower",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/weather/articles/c7vg667m4y5o",
+  "word_count": 416,
+  "generated_at": "2026-07-20T02:14:29.605432+00:00",
+  "difficulty_reason": "Short, direct science story with clear structure and low background knowledge; mostly B1/B2 vocabulary.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "spectacular",
+      "lemma": "spectacular",
+      "level": "B2",
+      "hebrew": "מרהיב",
+      "explanation_hebrew": "מרשים ויפה מאוד",
+      "pronunciation_hebrew": "סְפֶּקְטָקְיוּלָר",
+      "example": "The fireworks were a spectacular sight."
+    },
+    {
+      "word": "occurs",
+      "lemma": "occur",
+      "level": "B1",
+      "hebrew": "מתרחש",
+      "explanation_hebrew": "קורה, מתקיים",
+      "pronunciation_hebrew": "אוֹקֶרְז",
+      "example": "The event occurs once a year."
+    },
+    {
+      "word": "debris",
+      "lemma": "debris",
+      "level": "B2",
+      "hebrew": "שברים",
+      "explanation_hebrew": "חלקיקים שנשארים אחרי משהו",
+      "pronunciation_hebrew": "דֶּבְּרִי",
+      "example": "The storm left debris on the road."
+    },
+    {
+      "word": "particles",
+      "lemma": "particle",
+      "level": "B2",
+      "hebrew": "חלקיקים",
+      "explanation_hebrew": "חלקים קטנים מאוד של חומר",
+      "pronunciation_hebrew": "פַּארְטִיקְלְז",
+      "example": "Dust particles floated in the air."
+    },
+    {
+      "word": "vaporise",
+      "lemma": "vaporise",
+      "level": "C1",
+      "hebrew": "להתאדות",
+      "explanation_hebrew": "להפוך לגז ולהיעלם",
+      "pronunciation_hebrew": "וֵייפֶּרַייז",
+      "example": "The water will vaporise in the heat."
+    },
+    {
+      "word": "visible",
+      "lemma": "visible",
+      "level": "B1",
+      "hebrew": "נראה לעין",
+      "explanation_hebrew": "שאפשר לראות אותו",
+      "pronunciation_hebrew": "וִיזִיבְּל",
+      "example": "The stars are visible at night."
+    },
+    {
+      "word": "streaks",
+      "lemma": "streak",
+      "level": "B2",
+      "hebrew": "פסים",
+      "explanation_hebrew": "קווים דקים וארוכים",
+      "pronunciation_hebrew": "סְטְרִיקְס",
+      "example": "There were streaks of light in the sky."
+    },
+    {
+      "word": "dense",
+      "lemma": "dense",
+      "level": "B2",
+      "hebrew": "צפוף",
+      "explanation_hebrew": "מלא בחומר, דחוס",
+      "pronunciation_hebrew": "דֶּנְס",
+      "example": "The forest was very dense."
+    },
+    {
+      "word": "active",
+      "lemma": "active",
+      "level": "B1",
+      "hebrew": "פעיל",
+      "explanation_hebrew": "עושה הרבה, לא שקט",
+      "pronunciation_hebrew": "אַקְטִיב",
+      "example": "She stays active every day."
+    },
+    {
+      "word": "originate",
+      "lemma": "originate",
+      "level": "B2",
+      "hebrew": "לנבוע",
+      "explanation_hebrew": "להתחיל ממקום מסוים",
+      "pronunciation_hebrew": "אוֹרִיגִ'ינֵייט",
+      "example": "The river originates in the mountains."
+    },
+    {
+      "word": "constellation",
+      "lemma": "constellation",
+      "level": "B2",
+      "hebrew": "קבוצת כוכבים",
+      "explanation_hebrew": "קבוצה של כוכבים בשמיים",
+      "pronunciation_hebrew": "קוֹנְסְטֶלֵיישְן",
+      "example": "Orion is a famous constellation."
+    },
+    {
+      "word": "hemisphere",
+      "lemma": "hemisphere",
+      "level": "B2",
+      "hebrew": "חצי כדור",
+      "explanation_hebrew": "חצי מכדור הארץ",
+      "pronunciation_hebrew": "הֶמִיסְפִיר",
+      "example": "Australia is in the southern hemisphere."
+    },
+    {
+      "word": "dependent",
+      "lemma": "dependent",
+      "level": "B2",
+      "hebrew": "תלוי",
+      "explanation_hebrew": "מסתמך על משהו אחר",
+      "pronunciation_hebrew": "דִּיפֶּנְדֶנְט",
+      "example": "Success is dependent on hard work."
+    },
+    {
+      "word": "unobstructed",
+      "lemma": "unobstructed",
+      "level": "C1",
+      "hebrew": "לא חסום",
+      "explanation_hebrew": "בלי מכשולים שחוסמים את המבט",
+      "pronunciation_hebrew": "אַנְאוֹבְּסְטְרַקְטֶד",
+      "example": "We had an unobstructed view of the sea."
+    },
+    {
+      "word": "telescope",
+      "lemma": "telescope",
+      "level": "B1",
+      "hebrew": "טלסקופ",
+      "explanation_hebrew": "מכשיר לראיית עצמים רחוקים",
+      "pronunciation_hebrew": "טֶלֶסְקוֹפּ",
+      "example": "He looked at the moon through a telescope."
+    },
+    {
+      "word": "binoculars",
+      "lemma": "binoculars",
+      "level": "B2",
+      "hebrew": "משקפת",
+      "explanation_hebrew": "מכשיר עם שתי עדשות לראייה למרחק",
+      "pronunciation_hebrew": "בַּינוֹקְיוּלַרְז",
+      "example": "She watched the birds with binoculars."
+    },
+    {
+      "word": "pollution",
+      "lemma": "pollution",
+      "level": "B1",
+      "hebrew": "זיהום",
+      "explanation_hebrew": "לכלוך של האוויר, המים או האדמה",
+      "pronunciation_hebrew": "פֶּלוּשְן",
+      "example": "Light pollution hides the stars."
+    },
+    {
+      "word": "adapt",
+      "lemma": "adapt",
+      "level": "B2",
+      "hebrew": "להסתגל",
+      "explanation_hebrew": "להתרגל למצב חדש",
+      "pronunciation_hebrew": "אַדַּפְּט",
+      "example": "Your eyes adapt to the dark."
+    },
+    {
+      "word": "dominate",
+      "lemma": "dominate",
+      "level": "B2",
+      "hebrew": "לשלוט",
+      "explanation_hebrew": "להיות הכוח החזק ביותר",
+      "pronunciation_hebrew": "דּוֹמִינֵייט",
+      "example": "High pressure will dominate the weather."
+    },
+    {
+      "word": "settled",
+      "lemma": "settle",
+      "level": "B2",
+      "hebrew": "יציב",
+      "explanation_hebrew": "רגוע ויציב, בלי שינויים",
+      "pronunciation_hebrew": "סֶטְלְד",
+      "example": "The weather was calm and settled."
+    },
+    {
+      "word": "reducing",
+      "lemma": "reduce",
+      "level": "B1",
+      "hebrew": "מפחית",
+      "explanation_hebrew": "הופך למעט יותר",
+      "pronunciation_hebrew": "רִידְיוּסִינְג",
+      "example": "Clouds are reducing our view."
+    },
+    {
+      "word": "eases",
+      "lemma": "ease",
+      "level": "B2",
+      "hebrew": "נחלש",
+      "explanation_hebrew": "נעשה חלש או קל יותר",
+      "pronunciation_hebrew": "אִיזֶס",
+      "example": "The wind eases in the evening."
+    },
+    {
+      "word": "atmosphere",
+      "lemma": "atmosphere",
+      "level": "B2",
+      "hebrew": "אטמוספרה",
+      "explanation_hebrew": "שכבת האוויר סביב כדור הארץ",
+      "pronunciation_hebrew": "אַטְמוֹסְפִיר",
+      "example": "Meteors burn in the atmosphere."
+    },
+    {
+      "word": "asteroid",
+      "lemma": "asteroid",
+      "level": "B2",
+      "hebrew": "אסטרואיד",
+      "explanation_hebrew": "גוף סלע קטן בחלל",
+      "pronunciation_hebrew": "אַסְטֶרוֹיד",
+      "example": "An asteroid passed near Earth."
+    },
+    {
+      "word": "peak",
+      "lemma": "peak",
+      "level": "B2",
+      "hebrew": "שיא",
+      "explanation_hebrew": "הנקודה הגבוהה או החזקה ביותר",
+      "pronunciation_hebrew": "פִּיק",
+      "example": "The show reaches its peak in August."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "spectacular",
+      "type": "english_to_hebrew",
+      "question": "What does “spectacular” mean?",
+      "options": [
+        "מרהיב",
+        "מתרחש",
+        "חלקיקים",
+        "שברים"
+      ],
+      "correct_answer": "מרהיב",
+      "explanation_hebrew": "“spectacular” פירושו מרהיב."
+    },
+    {
+      "id": "A-q2",
+      "word": "occurs",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מתרחש”?",
+      "options": [
+        "vaporise",
+        "debris",
+        "occurs",
+        "particles"
+      ],
+      "correct_answer": "occurs",
+      "explanation_hebrew": "המילה “occurs” פירושה מתרחש."
+    },
+    {
+      "id": "A-q3",
+      "word": "debris",
+      "type": "english_to_hebrew",
+      "question": "What does “debris” mean?",
+      "options": [
+        "חלקיקים",
+        "שברים",
+        "נראה לעין",
+        "להתאדות"
+      ],
+      "correct_answer": "שברים",
+      "explanation_hebrew": "“debris” פירושו שברים."
+    },
+    {
+      "id": "A-q4",
+      "word": "particles",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חלקיקים”?",
+      "options": [
+        "vaporise",
+        "particles",
+        "visible",
+        "streaks"
+      ],
+      "correct_answer": "particles",
+      "explanation_hebrew": "המילה “particles” פירושה חלקיקים."
+    },
+    {
+      "id": "A-q5",
+      "word": "vaporise",
+      "type": "english_to_hebrew",
+      "question": "What does “vaporise” mean?",
+      "options": [
+        "פסים",
+        "נראה לעין",
+        "צפוף",
+        "להתאדות"
+      ],
+      "correct_answer": "להתאדות",
+      "explanation_hebrew": "“vaporise” פירושו להתאדות."
+    },
+    {
+      "id": "A-q6",
+      "word": "visible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נראה לעין”?",
+      "options": [
+        "active",
+        "streaks",
+        "visible",
+        "dense"
+      ],
+      "correct_answer": "visible",
+      "explanation_hebrew": "המילה “visible” פירושה נראה לעין."
+    },
+    {
+      "id": "A-q7",
+      "word": "streaks",
+      "type": "english_to_hebrew",
+      "question": "What does “streaks” mean?",
+      "options": [
+        "פסים",
+        "לנבוע",
+        "פעיל",
+        "צפוף"
+      ],
+      "correct_answer": "פסים",
+      "explanation_hebrew": "“streaks” פירושו פסים."
+    },
+    {
+      "id": "A-q8",
+      "word": "dense",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “צפוף”?",
+      "options": [
+        "constellation",
+        "active",
+        "originate",
+        "dense"
+      ],
+      "correct_answer": "dense",
+      "explanation_hebrew": "המילה “dense” פירושה צפוף."
+    },
+    {
+      "id": "A-q9",
+      "word": "active",
+      "type": "english_to_hebrew",
+      "question": "What does “active” mean?",
+      "options": [
+        "פעיל",
+        "חצי כדור",
+        "קבוצת כוכבים",
+        "לנבוע"
+      ],
+      "correct_answer": "פעיל",
+      "explanation_hebrew": "“active” פירושו פעיל."
+    },
+    {
+      "id": "A-q10",
+      "word": "originate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לנבוע”?",
+      "options": [
+        "originate",
+        "hemisphere",
+        "constellation",
+        "dependent"
+      ],
+      "correct_answer": "originate",
+      "explanation_hebrew": "המילה “originate” פירושה לנבוע."
+    },
+    {
+      "id": "A-q11",
+      "word": "constellation",
+      "type": "english_to_hebrew",
+      "question": "What does “constellation” mean?",
+      "options": [
+        "לא חסום",
+        "קבוצת כוכבים",
+        "תלוי",
+        "חצי כדור"
+      ],
+      "correct_answer": "קבוצת כוכבים",
+      "explanation_hebrew": "“constellation” פירושו קבוצת כוכבים."
+    },
+    {
+      "id": "A-q12",
+      "word": "hemisphere",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חצי כדור”?",
+      "options": [
+        "dependent",
+        "telescope",
+        "unobstructed",
+        "hemisphere"
+      ],
+      "correct_answer": "hemisphere",
+      "explanation_hebrew": "המילה “hemisphere” פירושה חצי כדור."
+    },
+    {
+      "id": "A-q13",
+      "word": "dependent",
+      "type": "english_to_hebrew",
+      "question": "What does “dependent” mean?",
+      "options": [
+        "לא חסום",
+        "תלוי",
+        "משקפת",
+        "טלסקופ"
+      ],
+      "correct_answer": "תלוי",
+      "explanation_hebrew": "“dependent” פירושו תלוי."
+    },
+    {
+      "id": "A-q14",
+      "word": "unobstructed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לא חסום”?",
+      "options": [
+        "binoculars",
+        "pollution",
+        "unobstructed",
+        "telescope"
+      ],
+      "correct_answer": "unobstructed",
+      "explanation_hebrew": "המילה “unobstructed” פירושה לא חסום."
+    },
+    {
+      "id": "A-q15",
+      "word": "telescope",
+      "type": "english_to_hebrew",
+      "question": "What does “telescope” mean?",
+      "options": [
+        "זיהום",
+        "טלסקופ",
+        "להסתגל",
+        "משקפת"
+      ],
+      "correct_answer": "טלסקופ",
+      "explanation_hebrew": "“telescope” פירושו טלסקופ."
+    },
+    {
+      "id": "A-q16",
+      "word": "binoculars",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “משקפת”?",
+      "options": [
+        "binoculars",
+        "pollution",
+        "adapt",
+        "dominate"
+      ],
+      "correct_answer": "binoculars",
+      "explanation_hebrew": "המילה “binoculars” פירושה משקפת."
+    },
+    {
+      "id": "A-q17",
+      "word": "pollution",
+      "type": "english_to_hebrew",
+      "question": "What does “pollution” mean?",
+      "options": [
+        "להסתגל",
+        "לשלוט",
+        "יציב",
+        "זיהום"
+      ],
+      "correct_answer": "זיהום",
+      "explanation_hebrew": "“pollution” פירושו זיהום."
+    },
+    {
+      "id": "A-q18",
+      "word": "adapt",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “להסתגל”?",
+      "options": [
+        "settled",
+        "reducing",
+        "adapt",
+        "dominate"
+      ],
+      "correct_answer": "adapt",
+      "explanation_hebrew": "המילה “adapt” פירושה להסתגל."
+    },
+    {
+      "id": "A-q19",
+      "word": "dominate",
+      "type": "english_to_hebrew",
+      "question": "What does “dominate” mean?",
+      "options": [
+        "יציב",
+        "נחלש",
+        "לשלוט",
+        "מפחית"
+      ],
+      "correct_answer": "לשלוט",
+      "explanation_hebrew": "“dominate” פירושו לשלוט."
+    },
+    {
+      "id": "A-q20",
+      "word": "settled",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יציב”?",
+      "options": [
+        "eases",
+        "reducing",
+        "settled",
+        "atmosphere"
+      ],
+      "correct_answer": "settled",
+      "explanation_hebrew": "המילה “settled” פירושה יציב."
+    },
+    {
+      "id": "A-q21",
+      "word": "reducing",
+      "type": "english_to_hebrew",
+      "question": "What does “reducing” mean?",
+      "options": [
+        "אטמוספרה",
+        "אסטרואיד",
+        "נחלש",
+        "מפחית"
+      ],
+      "correct_answer": "מפחית",
+      "explanation_hebrew": "“reducing” פירושו מפחית."
+    },
+    {
+      "id": "A-q22",
+      "word": "eases",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נחלש”?",
+      "options": [
+        "asteroid",
+        "atmosphere",
+        "eases",
+        "peak"
+      ],
+      "correct_answer": "eases",
+      "explanation_hebrew": "המילה “eases” פירושה נחלש."
+    },
+    {
+      "id": "A-q23",
+      "word": "atmosphere",
+      "type": "english_to_hebrew",
+      "question": "What does “atmosphere” mean?",
+      "options": [
+        "שיא",
+        "אטמוספרה",
+        "אסטרואיד",
+        "מרהיב"
+      ],
+      "correct_answer": "אטמוספרה",
+      "explanation_hebrew": "“atmosphere” פירושו אטמוספרה."
+    },
+    {
+      "id": "A-q24",
+      "word": "asteroid",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אסטרואיד”?",
+      "options": [
+        "asteroid",
+        "spectacular",
+        "occurs",
+        "peak"
+      ],
+      "correct_answer": "asteroid",
+      "explanation_hebrew": "המילה “asteroid” פירושה אסטרואיד."
+    },
+    {
+      "id": "A-q25",
+      "word": "peak",
+      "type": "english_to_hebrew",
+      "question": "What does “peak” mean?",
+      "options": [
+        "מרהיב",
+        "מתרחש",
+        "שיא",
+        "שברים"
+      ],
+      "correct_answer": "שיא",
+      "explanation_hebrew": "“peak” פירושו שיא."
+    }
+  ]
+}
