@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T21:45:15.312068+00:00",
+  "generated_at": "2026-07-20T21:49:19.563808+00:00",
   "track": "Essential English 3000",
   "lesson_size": 15,
   "selection": {
@@ -11,10 +11,10 @@
   },
   "profile_summary": {
     "bank_size": 113,
-    "known_count": 23,
+    "known_count": 31,
     "learning_count": 0,
-    "remaining_count": 90,
-    "profile_updated_at": "2026-07-20T21:45:15.261737+00:00"
+    "remaining_count": 82,
+    "profile_updated_at": "2026-07-20T21:49:19.509600+00:00"
   },
   "words": [
     {
@@ -42,18 +42,6 @@
       "position": 2
     },
     {
-      "id": "core-0047",
-      "word": "significant",
-      "part_of_speech": "adjective",
-      "level": "B2",
-      "hebrew": "משמעותי",
-      "pronunciation_hebrew": "סִיגְנִיפִיקֶנְט",
-      "explanation_hebrew": "חשוב או גדול מספיק כדי להיות מורגש.",
-      "example": "The experiment showed a significant improvement.",
-      "reason": "new",
-      "position": 3
-    },
-    {
       "id": "core-0044",
       "word": "relate",
       "part_of_speech": "verb",
@@ -63,7 +51,7 @@
       "explanation_hebrew": "להראות קשר בין דברים או להתייחס לנושא.",
       "example": "The questions relate to the article.",
       "reason": "new",
-      "position": 4
+      "position": 3
     },
     {
       "id": "core-0035",
@@ -75,7 +63,7 @@
       "explanation_hebrew": "לעשות פעולה או להראות רמת ביצוע.",
       "example": "The system performed well under heavy load.",
       "reason": "new",
-      "position": 5
+      "position": 4
     },
     {
       "id": "core-0096",
@@ -87,19 +75,7 @@
       "explanation_hebrew": "המידע סביב מילה או אירוע שעוזר להבין אותו.",
       "example": "The context makes the meaning clear.",
       "reason": "new",
-      "position": 6
-    },
-    {
-      "id": "core-0063",
-      "word": "maintain",
-      "part_of_speech": "verb",
-      "level": "B2",
-      "hebrew": "לשמור / לתחזק",
-      "pronunciation_hebrew": "מֵיינְטֵיין",
-      "explanation_hebrew": "להחזיק דבר במצב טוב או להמשיך מצב קיים.",
-      "example": "It is important to maintain a steady speed.",
-      "reason": "new",
-      "position": 7
+      "position": 5
     },
     {
       "id": "core-0075",
@@ -111,43 +87,7 @@
       "explanation_hebrew": "להראות או לרמוז על מידע מסוים.",
       "example": "The results indicate a clear trend.",
       "reason": "new",
-      "position": 8
-    },
-    {
-      "id": "core-0046",
-      "word": "result",
-      "part_of_speech": "noun",
-      "level": "A2",
-      "hebrew": "תוצאה",
-      "pronunciation_hebrew": "רִיזַלְט",
-      "explanation_hebrew": "מה שמתקבל בסוף פעולה או תהליך.",
-      "example": "The final result was better than expected.",
-      "reason": "new",
-      "position": 9
-    },
-    {
-      "id": "core-0087",
-      "word": "accurate",
-      "part_of_speech": "adjective",
-      "level": "B1",
-      "hebrew": "מדויק",
-      "pronunciation_hebrew": "אַקְיוּרֶט",
-      "explanation_hebrew": "נכון ומדויק ללא טעויות משמעותיות.",
-      "example": "We need an accurate measurement.",
-      "reason": "new",
-      "position": 10
-    },
-    {
-      "id": "core-0023",
-      "word": "experience",
-      "part_of_speech": "noun",
-      "level": "A2",
-      "hebrew": "ניסיון / חוויה",
-      "pronunciation_hebrew": "אִקְסְפִּירִיאֶנְס",
-      "explanation_hebrew": "ידע שנרכש מעשייה או אירוע שעוברים.",
-      "example": "Teaching gave her valuable experience.",
-      "reason": "new",
-      "position": 11
+      "position": 6
     },
     {
       "id": "core-0032",
@@ -159,41 +99,101 @@
       "explanation_hebrew": "לקרות, בדרך כלל בהקשר רשמי יותר.",
       "example": "The fault occurred during the experiment.",
       "reason": "new",
+      "position": 7
+    },
+    {
+      "id": "core-0014",
+      "word": "create",
+      "part_of_speech": "verb",
+      "level": "A2",
+      "hebrew": "ליצור",
+      "pronunciation_hebrew": "קְרִיאֵייט",
+      "explanation_hebrew": "להכין או להביא דבר חדש לעולם.",
+      "example": "The team created a simple solution.",
+      "reason": "new",
+      "position": 8
+    },
+    {
+      "id": "core-0027",
+      "word": "increase",
+      "part_of_speech": "verb",
+      "level": "B1",
+      "hebrew": "להגדיל / לעלות",
+      "pronunciation_hebrew": "אִינְקְרִיס",
+      "explanation_hebrew": "להפוך כמות או רמה לגדולה יותר.",
+      "example": "The new method may increase efficiency.",
+      "reason": "new",
+      "position": 9
+    },
+    {
+      "id": "core-0068",
+      "word": "assume",
+      "part_of_speech": "verb",
+      "level": "B2",
+      "hebrew": "להניח",
+      "pronunciation_hebrew": "אַסוּם",
+      "explanation_hebrew": "לקבל דבר כנכון ללא הוכחה מלאה.",
+      "example": "Let us assume that the resistance is constant.",
+      "reason": "new",
+      "position": 10
+    },
+    {
+      "id": "core-0064",
+      "word": "determine",
+      "part_of_speech": "verb",
+      "level": "B2",
+      "hebrew": "לקבוע / לברר",
+      "pronunciation_hebrew": "דִיטֶרְמִין",
+      "explanation_hebrew": "לגלות או להחליט מהי התוצאה המדויקת.",
+      "example": "The test will determine whether the system is stable.",
+      "reason": "new",
+      "position": 11
+    },
+    {
+      "id": "core-0060",
+      "word": "remain",
+      "part_of_speech": "verb",
+      "level": "B1",
+      "hebrew": "להישאר",
+      "pronunciation_hebrew": "רִימֵיין",
+      "explanation_hebrew": "להמשיך להיות באותו מצב או מקום.",
+      "example": "Several questions remain unanswered.",
+      "reason": "new",
       "position": 12
     },
     {
-      "id": "core-0049",
-      "word": "solution",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "פתרון",
-      "pronunciation_hebrew": "סְלוּשֶן",
-      "explanation_hebrew": "תשובה או דרך לטפל בבעיה.",
-      "example": "We found a practical solution.",
+      "id": "core-0092",
+      "word": "complex",
+      "part_of_speech": "adjective",
+      "level": "B2",
+      "hebrew": "מורכב",
+      "pronunciation_hebrew": "קוֹמְפְּלֶקְס",
+      "explanation_hebrew": "בנוי מחלקים רבים וקשה להבנה.",
+      "example": "The model becomes more complex at high frequencies.",
       "reason": "new",
       "position": 13
     },
     {
-      "id": "core-0105",
-      "word": "obtain",
-      "part_of_speech": "verb",
-      "level": "B2",
-      "hebrew": "להשיג / לקבל",
-      "pronunciation_hebrew": "אַבְטֵיין",
-      "explanation_hebrew": "לקבל דבר באמצעות מאמץ או תהליך רשמי.",
-      "example": "We obtained similar results in both tests.",
+      "id": "core-0018",
+      "word": "effort",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "מאמץ",
+      "pronunciation_hebrew": "אֶפֶרְט",
+      "explanation_hebrew": "השקעת כוח וזמן כדי להשיג דבר מה.",
+      "example": "Your effort will improve your English.",
       "reason": "new",
       "position": 14
     },
     {
-      "id": "core-0104",
-      "word": "normal",
-      "part_of_speech": "adjective",
-      "level": "A2",
-      "hebrew": "רגיל / תקין",
-      "pronunciation_hebrew": "נוֹרְמַל",
-      "explanation_hebrew": "מקובל או צפוי במצב רגיל.",
-      "example": "The temperature returned to its normal value.",
+      "id": "core-0039",
+      "word": "purpose",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "מטרה / תכלית",
+      "pronunciation_hebrew": "פֶּרְפֶּס",
+      "explanation_hebrew": "הסיבה שבגללה דבר נעשה או קיים.",
+      "example": "The purpose of this exercise is to build confidence.",
       "reason": "new",
       "position": 15
     }
