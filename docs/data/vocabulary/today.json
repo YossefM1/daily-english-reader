@@ -1,20 +1,31 @@
 {
-  "version": 1,
+  "version": 2,
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T18:10:27.561428+00:00",
+  "generated_at": "2026-07-21T19:02:06.583581+00:00",
   "track": "Essential English 3000",
-  "lesson_size": 15,
+  "lesson_size": 10,
+  "method": {
+    "name": "Manual known-word override + active retrieval + contextual production + spaced review",
+    "steps": [
+      "manual_known_override",
+      "study",
+      "productive_recall",
+      "context_cloze",
+      "sentence_production"
+    ],
+    "mastery_threshold": 5
+  },
   "selection": {
-    "new_count": 15,
+    "new_count": 10,
     "review_count": 0,
-    "rule": "Known words are excluded; due review words are prioritized; remaining places use unseen core words."
+    "rule": "Manually known words are excluded; due review words are prioritized; remaining places use unseen core words."
   },
   "profile_summary": {
     "bank_size": 113,
-    "known_count": 76,
+    "known_count": 81,
     "learning_count": 0,
-    "remaining_count": 37,
-    "profile_updated_at": "2026-07-21T18:10:27.471172+00:00"
+    "remaining_count": 32,
+    "profile_updated_at": "2026-07-21T19:02:06.527839+00:00"
   },
   "words": [
     {
@@ -27,7 +38,12 @@
       "explanation_hebrew": "לשלוט במשימה או להצליח לבצע דבר קשה.",
       "example": "She managed to finish the work on time.",
       "reason": "new",
-      "position": 1
+      "position": 1,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     },
     {
       "id": "core-0099",
@@ -39,7 +55,12 @@
       "explanation_hebrew": "חלק או יכולת בולטים של מוצר או מערכת.",
       "example": "The app includes a useful review feature.",
       "reason": "new",
-      "position": 2
+      "position": 2,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     },
     {
       "id": "core-0096",
@@ -51,7 +72,12 @@
       "explanation_hebrew": "המידע סביב מילה או אירוע שעוזר להבין אותו.",
       "example": "The context makes the meaning clear.",
       "reason": "new",
-      "position": 3
+      "position": 3,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     },
     {
       "id": "core-0109",
@@ -63,7 +89,12 @@
       "explanation_hebrew": "ניתן לסמוך עליו שיפעל או יספק מידע נכון.",
       "example": "We need a reliable data source.",
       "reason": "new",
-      "position": 4
+      "position": 4,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     },
     {
       "id": "core-0044",
@@ -75,7 +106,12 @@
       "explanation_hebrew": "להראות קשר בין דברים או להתייחס לנושא.",
       "example": "The questions relate to the article.",
       "reason": "new",
-      "position": 5
+      "position": 5,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     },
     {
       "id": "core-0032",
@@ -87,7 +123,12 @@
       "explanation_hebrew": "לקרות, בדרך כלל בהקשר רשמי יותר.",
       "example": "The fault occurred during the experiment.",
       "reason": "new",
-      "position": 6
+      "position": 6,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     },
     {
       "id": "core-0019",
@@ -99,7 +140,12 @@
       "explanation_hebrew": "לתת תמיכה או ביטחון כדי שמישהו יעשה משהו.",
       "example": "Good teachers encourage students to ask questions.",
       "reason": "new",
-      "position": 7
+      "position": 7,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     },
     {
       "id": "core-0086",
@@ -111,19 +157,12 @@
       "explanation_hebrew": "כמה סוגים שונים של דברים.",
       "example": "The course covers various engineering topics.",
       "reason": "new",
-      "position": 8
-    },
-    {
-      "id": "core-0037",
-      "word": "process",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "תהליך",
-      "pronunciation_hebrew": "פְּרוֹסֶס",
-      "explanation_hebrew": "סדרה של שלבים שמובילה לתוצאה.",
-      "example": "Learning a language is a gradual process.",
-      "reason": "new",
-      "position": 9
+      "position": 8,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     },
     {
       "id": "core-0095",
@@ -135,7 +174,12 @@
       "explanation_hebrew": "נשאר באותה רמה או פועל לפי אותו עיקרון.",
       "example": "The results are consistent with the theory.",
       "reason": "new",
-      "position": 10
+      "position": 9,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     },
     {
       "id": "core-0008",
@@ -147,55 +191,12 @@
       "explanation_hebrew": "להביא לכך שמשהו יקרה.",
       "example": "Heavy rain can cause delays.",
       "reason": "new",
-      "position": 11
-    },
-    {
-      "id": "core-0031",
-      "word": "measure",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "למדוד",
-      "pronunciation_hebrew": "מֶזֶ'ר",
-      "explanation_hebrew": "לבדוק גודל, כמות או רמה.",
-      "example": "The device measures voltage and current.",
-      "reason": "new",
-      "position": 12
-    },
-    {
-      "id": "core-0083",
-      "word": "specific",
-      "part_of_speech": "adjective",
-      "level": "B1",
-      "hebrew": "מסוים / ספציפי",
-      "pronunciation_hebrew": "סְפֶּסִיפִיק",
-      "explanation_hebrew": "מוגדר ומדויק, ולא כללי.",
-      "example": "Please give a specific example.",
-      "reason": "new",
-      "position": 13
-    },
-    {
-      "id": "core-0102",
-      "word": "independent",
-      "part_of_speech": "adjective",
-      "level": "B1",
-      "hebrew": "עצמאי / בלתי תלוי",
-      "pronunciation_hebrew": "אִינְדִיפֶּנְדֶנְט",
-      "explanation_hebrew": "אינו נשען על אדם או גורם אחר.",
-      "example": "The two measurements are independent.",
-      "reason": "new",
-      "position": 14
-    },
-    {
-      "id": "core-0075",
-      "word": "indicate",
-      "part_of_speech": "verb",
-      "level": "B2",
-      "hebrew": "להצביע על",
-      "pronunciation_hebrew": "אִינְדִיקֵייט",
-      "explanation_hebrew": "להראות או לרמוז על מידע מסוים.",
-      "example": "The results indicate a clear trend.",
-      "reason": "new",
-      "position": 15
+      "position": 10,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
     }
   ]
 }
