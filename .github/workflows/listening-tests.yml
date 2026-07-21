@@ -1,0 +1,54 @@
+name: Listening lab checks
+
+on:
+  pull_request:
+    paths:
+      - "docs/index.html"
+      - "docs/listening.html"
+      - "docs/data/listening/**"
+      - "config/listening_library.json"
+      - "src/build_listening_lesson.py"
+      - "src/apply_listening_feedback.py"
+      - "tests/test_listening_learning.py"
+      - ".github/workflows/listening-*.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Validate JSON data
+        run: |
+          python -m json.tool config/listening_library.json >/dev/null
+          python -m json.tool docs/data/listening/library.json >/dev/null
+          python -m json.tool docs/data/listening/today.json >/dev/null
+          python -m json.tool docs/data/listening/profile.json >/dev/null
+      - name: Compile Python
+        run: python -m py_compile src/build_listening_lesson.py src/apply_listening_feedback.py
+      - name: Run listening tests
+        run: python -m unittest tests/test_listening_learning.py -v
+      - name: Check page JavaScript syntax
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+          for path in ['docs/index.html', 'docs/listening.html']:
+              html = Path(path).read_text(encoding='utf-8')
+              scripts = re.findall(r'<script>(.*?)</script>', html, flags=re.S | re.I)
+              if not scripts:
+                  raise SystemExit(f'No inline script in {path}')
+              target = Path('/tmp') / (Path(path).stem + '.js')
+              target.write_text('\n'.join(scripts), encoding='utf-8')
+          PY
+          node --check /tmp/index.js
+          node --check /tmp/listening.js

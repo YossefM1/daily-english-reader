@@ -6,90 +6,34 @@
   <title>Daily English Reader</title>
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-    :root{--ink:#192735;--muted:#6b7887;--line:#e1e8ef;--bg:#eef3f8;--card:#fff;--brand:#1a5276;--a:#2e8b57;--b:#1a5276;--c:#7d3c98;--shadow:0 10px 30px rgba(20,40,70,.07)}
+    :root{--ink:#192735;--muted:#6b7887;--line:#e1e8ef;--bg:#eef3f8;--card:#fff;--brand:#1a5276;--a:#2e8b57;--b:#1a5276;--c:#7d3c98;--listen:#b05c18;--shadow:0 10px 30px rgba(20,40,70,.07)}
     body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:radial-gradient(circle at top left,#dcecf7 0,transparent 30%),var(--bg);color:var(--ink);min-height:100vh;-webkit-font-smoothing:antialiased}
-    .page-shell{max-width:1220px;margin:0 auto;padding:36px 26px 58px}
-    .top-nav{display:flex;justify-content:center;gap:10px;margin-bottom:24px;direction:ltr;flex-wrap:wrap}
-    .top-nav a{text-decoration:none;color:var(--brand);background:#fff;border:1px solid var(--line);border-radius:999px;padding:9px 17px;font-weight:750;font-size:14px;box-shadow:0 3px 10px rgba(20,45,75,.04)}
-    .top-nav a.active{background:var(--brand);color:#fff;border-color:var(--brand)}
-    header{text-align:center;margin-bottom:30px}
-    header h1{font-size:clamp(30px,5vw,42px);color:var(--brand);letter-spacing:-.5px}
-    .subtitle{color:var(--muted);margin-top:9px;font-size:15px;direction:ltr;line-height:1.5}
-    .mode{display:inline-block;margin-top:13px;font-size:12.5px;font-weight:700;color:var(--brand);background:#e8f1f8;border:1px solid #d6e4f0;border-radius:999px;padding:6px 14px;direction:ltr}
-    .vocab-banner{display:grid;grid-template-columns:1fr auto;gap:20px;align-items:center;background:linear-gradient(135deg,#123f60,#2578a7);color:#fff;border-radius:20px;padding:24px 26px;margin:0 auto 34px;box-shadow:0 16px 38px rgba(22,74,108,.18);overflow:hidden;position:relative}
-    .vocab-banner::after{content:"ABC";position:absolute;left:24px;bottom:-22px;font-size:92px;font-weight:900;color:rgba(255,255,255,.06);direction:ltr;letter-spacing:-8px}
-    .vocab-copy{position:relative;z-index:1}.vocab-copy h2{font-size:22px;margin-bottom:7px}.vocab-copy p{color:#e5f3fc;line-height:1.6;font-size:14px;max-width:690px}
-    .vocab-btn{position:relative;z-index:1;text-decoration:none;background:#fff;color:var(--brand);font-weight:850;border-radius:12px;padding:13px 18px;white-space:nowrap;box-shadow:0 6px 18px rgba(0,0,0,.12);direction:ltr}
-    .section-title{text-align:center;font-size:20px;font-weight:800;margin-bottom:20px}
-    .article-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;align-items:stretch;margin-bottom:38px}
-    .lvl-card{background:var(--card);border:1px solid var(--line);border-radius:17px;box-shadow:var(--shadow);padding:20px 21px 22px;display:flex;flex-direction:column;min-height:430px;border-top:4px solid var(--brand);transition:transform .16s ease,box-shadow .16s ease}
-    .lvl-card:hover{transform:translateY(-3px);box-shadow:0 15px 35px rgba(20,40,70,.11)}
-    .lvl-card.lvl-A{border-top-color:var(--a)}.lvl-card.lvl-B{border-top-color:var(--b)}.lvl-card.lvl-C{border-top-color:var(--c)}
-    .lvl-badge{display:inline-block;align-self:flex-start;color:#fff;background:var(--brand);border-radius:999px;padding:5px 11px;font-size:11.5px;font-weight:850;direction:ltr;margin-bottom:13px}
-    .lvl-A .lvl-badge{background:var(--a)}.lvl-B .lvl-badge{background:var(--b)}.lvl-C .lvl-badge{background:var(--c)}
-    .lvl-title{direction:ltr;text-align:left;font-size:18px;font-weight:800;line-height:1.38;min-height:50px}
-    .lvl-meta{direction:ltr;text-align:left;color:var(--muted);font-size:12.5px;margin:7px 0 12px}
-    .lvl-reason{direction:ltr;text-align:left;background:#f6f8fb;border:1px solid #edf1f5;border-radius:11px;padding:10px 11px;color:#4b5968;font-size:13px;line-height:1.55;margin-bottom:13px}
-    .lvl-counts{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:11px}.lvl-counts span{background:#edf4fa;color:var(--brand);border-radius:8px;padding:5px 9px;font-size:11.5px;font-weight:750}
-    .lvl-preview{border-top:1px solid var(--line);padding-top:11px;margin-bottom:16px}.pv-title{font-size:12px;color:var(--muted);font-weight:700;margin-bottom:7px}.lvl-preview ul{list-style:none}.lvl-preview li{display:grid;grid-template-columns:1fr auto;gap:9px;padding:3px 0;font-size:13px;line-height:1.5}.lvl-preview li+li{border-top:1px dashed #edf1f5}.pv-en{direction:ltr;text-align:left;color:var(--brand);font-weight:750}.pv-he{direction:rtl;text-align:right;color:#3f4d5b}
-    .open-btn{display:block;width:100%;margin-top:auto;text-decoration:none;text-align:center;background:var(--brand);color:#fff;border-radius:11px;padding:12px 15px;font-size:14px;font-weight:800;direction:ltr}.lvl-A .open-btn{background:var(--a)}.lvl-B .open-btn{background:var(--b)}.lvl-C .open-btn{background:var(--c)}
-    .help-card{background:#fff;border:1px solid var(--line);border-radius:17px;box-shadow:var(--shadow);padding:22px 25px;max-width:880px;margin:0 auto}.help-card h2{text-align:center;color:var(--brand);font-size:18px;margin-bottom:13px}.help-card ol{direction:ltr;padding-left:21px}.help-card li{margin-bottom:7px;color:#40505e;font-size:13.5px;line-height:1.55}.install-note{direction:ltr;color:var(--muted);font-size:12.5px;border-top:1px solid var(--line);padding-top:11px;margin-top:13px;line-height:1.55}.help-card a{color:var(--brand)}
-    #loading,#load-error{text-align:center;padding:30px;color:var(--muted);direction:ltr}#load-error{display:none;color:#a13a32}
-    @media(max-width:980px){.article-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-    @media(max-width:700px){.page-shell{padding:25px 15px 42px}.article-grid{grid-template-columns:1fr;gap:16px}.vocab-banner{grid-template-columns:1fr;padding:22px}.vocab-btn{text-align:center}.lvl-card{min-height:0}.top-nav a{padding:8px 12px;font-size:13px}}
+    .page-shell{max-width:1220px;margin:0 auto;padding:36px 26px 58px}.top-nav{display:flex;justify-content:center;gap:10px;margin-bottom:24px;direction:ltr;flex-wrap:wrap}.top-nav a{text-decoration:none;color:var(--brand);background:#fff;border:1px solid var(--line);border-radius:999px;padding:9px 15px;font-weight:750;font-size:13.5px;box-shadow:0 3px 10px rgba(20,45,75,.04)}.top-nav a.active{background:var(--brand);color:#fff;border-color:var(--brand)}
+    header{text-align:center;margin-bottom:25px}header h1{font-size:clamp(30px,5vw,42px);color:var(--brand);letter-spacing:-.5px}.subtitle{color:var(--muted);margin-top:9px;font-size:15px;direction:ltr;line-height:1.5}.mode{display:inline-block;margin-top:13px;font-size:12.5px;font-weight:700;color:var(--brand);background:#e8f1f8;border:1px solid #d6e4f0;border-radius:999px;padding:6px 14px;direction:ltr}
+    .hub-title{text-align:center;font-size:20px;font-weight:850;margin-bottom:14px}.learning-hub{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px;margin-bottom:34px}.hub-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);transition:transform .16s,box-shadow .16s;border-top:4px solid var(--brand);min-height:155px;display:flex;flex-direction:column}.hub-card:hover{transform:translateY(-3px);box-shadow:0 15px 35px rgba(20,40,70,.11)}.hub-card.read{border-top-color:var(--a)}.hub-card.tasks{border-top-color:var(--b)}.hub-card.vocab{border-top-color:var(--c)}.hub-card.listen{border-top-color:var(--listen)}.hub-icon{font-size:27px;margin-bottom:9px}.hub-card h2{font-size:17px;margin-bottom:6px}.hub-card p{font-size:12.5px;color:var(--muted);line-height:1.55}.hub-open{margin-top:auto;padding-top:10px;font-weight:850;font-size:12px;direction:ltr;color:var(--brand)}
+    .section-title{text-align:center;font-size:20px;font-weight:800;margin-bottom:20px}.article-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;align-items:stretch;margin-bottom:38px}.lvl-card{background:var(--card);border:1px solid var(--line);border-radius:17px;box-shadow:var(--shadow);padding:20px 21px 22px;display:flex;flex-direction:column;min-height:430px;border-top:4px solid var(--brand);transition:transform .16s ease,box-shadow .16s ease}.lvl-card:hover{transform:translateY(-3px);box-shadow:0 15px 35px rgba(20,40,70,.11)}.lvl-card.lvl-A{border-top-color:var(--a)}.lvl-card.lvl-B{border-top-color:var(--b)}.lvl-card.lvl-C{border-top-color:var(--c)}.lvl-badge{display:inline-block;align-self:flex-start;color:#fff;background:var(--brand);border-radius:999px;padding:5px 11px;font-size:11.5px;font-weight:850;direction:ltr;margin-bottom:13px}.lvl-A .lvl-badge{background:var(--a)}.lvl-B .lvl-badge{background:var(--b)}.lvl-C .lvl-badge{background:var(--c)}.lvl-title{direction:ltr;text-align:left;font-size:18px;font-weight:800;line-height:1.38;min-height:50px}.lvl-meta{direction:ltr;text-align:left;color:var(--muted);font-size:12.5px;margin:7px 0 12px}.lvl-reason{direction:ltr;text-align:left;background:#f6f8fb;border:1px solid #edf1f5;border-radius:11px;padding:10px 11px;color:#4b5968;font-size:13px;line-height:1.55;margin-bottom:13px}.lvl-counts{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:11px}.lvl-counts span{background:#edf4fa;color:var(--brand);border-radius:8px;padding:5px 9px;font-size:11.5px;font-weight:750}.lvl-preview{border-top:1px solid var(--line);padding-top:11px;margin-bottom:16px}.pv-title{font-size:12px;color:var(--muted);font-weight:700;margin-bottom:7px}.lvl-preview ul{list-style:none}.lvl-preview li{display:grid;grid-template-columns:1fr auto;gap:9px;padding:3px 0;font-size:13px;line-height:1.5}.lvl-preview li+li{border-top:1px dashed #edf1f5}.pv-en{direction:ltr;text-align:left;color:var(--brand);font-weight:750}.pv-he{direction:rtl;text-align:right;color:#3f4d5b}.open-btn{display:block;width:100%;margin-top:auto;text-decoration:none;text-align:center;background:var(--brand);color:#fff;border-radius:11px;padding:12px 15px;font-size:14px;font-weight:800;direction:ltr}.lvl-A .open-btn{background:var(--a)}.lvl-B .open-btn{background:var(--b)}.lvl-C .open-btn{background:var(--c)}
+    .help-card{background:#fff;border:1px solid var(--line);border-radius:17px;box-shadow:var(--shadow);padding:22px 25px;max-width:900px;margin:0 auto}.help-card h2{text-align:center;color:var(--brand);font-size:18px;margin-bottom:13px}.help-card p{color:#40505e;font-size:13.5px;line-height:1.65}.help-card a{color:var(--brand)}#loading,#load-error{text-align:center;padding:30px;color:var(--muted);direction:ltr}#load-error{display:none;color:#a13a32}
+    @media(max-width:1000px){.learning-hub{grid-template-columns:repeat(2,minmax(0,1fr))}.article-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media(max-width:700px){.page-shell{padding:25px 15px 42px}.learning-hub,.article-grid{grid-template-columns:1fr;gap:13px}.hub-card{min-height:0}.lvl-card{min-height:0}.top-nav a{padding:8px 11px;font-size:12.5px}}
   </style>
 </head>
 <body>
   <div class="page-shell">
-    <nav class="top-nav" aria-label="Primary">
-      <a class="active" href="./index.html">Articles</a>
-      <a href="./tasks.html">Reading Tasks</a>
-      <a href="./vocabulary.html">Essential Vocabulary</a>
-    </nav>
-
-    <header>
-      <h1>📘 Daily English Reader</h1>
-      <div class="subtitle">Read today's articles on the original BBC site — with a Hebrew vocabulary overlay</div>
-      <div class="mode">BBC-only mode · 3 reading levels every day: A (easier) · B (intermediate) · C (advanced)</div>
-    </header>
-
-    <section class="vocab-banner">
-      <div class="vocab-copy">
-        <h2>🧠 מסלול אוצר מילים אישי חדש</h2>
-        <p>למד מילים חיוניות מתוך מסלול Essential English 3000. סמן מילים ידועות בלייק, קבל משפטי דוגמה, וחזק אוטומטית רק את המילים שעדיין דורשות תרגול.</p>
-      </div>
-      <a class="vocab-btn" href="./vocabulary.html">Open vocabulary lesson →</a>
+    <nav class="top-nav" aria-label="Primary"><a class="active" href="./index.html">Articles</a><a href="./tasks.html">Reading Tasks</a><a href="./vocabulary.html">Essential Vocabulary</a><a href="./listening.html">Listening & Viewing</a></nav>
+    <header><h1>📘 Daily English Reader</h1><div class="subtitle">A daily English learning hub for reading, vocabulary, comprehension and listening</div><div class="mode">BBC reading · adaptive vocabulary · active listening & viewing</div></header>
+    <div class="hub-title">בחר את סוג האימון</div>
+    <section class="learning-hub">
+      <a class="hub-card read" href="#dailyArticles"><div class="hub-icon">📰</div><h2>קריאת כתבות</h2><p>בחר כתבת BBC ברמת A, B או C וקרא באתר המקורי עם שכבת אוצר מילים.</p><div class="hub-open">Choose an article ↓</div></a>
+      <a class="hub-card tasks" href="./tasks.html"><div class="hub-icon">✍️</div><h2>משימות על הקריאה</h2><p>בדוק רעיון מרכזי, פרטים, הסקה, סיכום והבעה באנגלית על בסיס הכתבה היומית.</p><div class="hub-open">Open reading tasks →</div></a>
+      <a class="hub-card vocab" href="./vocabulary.html"><div class="hub-icon">🧠</div><h2>אוצר מילים פעיל</h2><p>שליפה מהזיכרון, השלמת משפט, יצירת משפט וחזרות אדפטיביות. לייק מוציא מילה ידועה.</p><div class="hub-open">Open vocabulary lab →</div></a>
+      <a class="hub-card listen" href="./listening.html"><div class="hub-icon">🎧</div><h2>שמיעה וצפייה</h2><p>צפה בקטע רשמי, ענה על שאלות הבנה, בצע Shadowing והקלט את עצמך להשוואה.</p><div class="hub-open">Open listening lab →</div></a>
     </section>
-
-    <div class="section-title">בחר מאמר לפי רמת קושי</div>
-    <div id="loading">Loading today's articles…</div>
-    <div id="load-error"></div>
-    <div id="levels" class="article-grid" style="display:none"></div>
-
-    <section class="help-card">
-      <h2>איך מתקינים ומשתמשים</h2>
-      <ol>
-        <li>Install the <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener">Tampermonkey</a> browser extension.</li>
-        <li>Install or update the <a href="userscript/daily-english-reader.user.js" target="_blank">Daily English Reader userscript</a>.</li>
-        <li>Choose level A, B, or C and open the original BBC article.</li>
-        <li>The userscript highlights vocabulary and opens the Hebrew Words + Quiz overlay.</li>
-        <li>Use <a href="./tasks.html">Reading Tasks</a> for comprehension practice and <a href="./vocabulary.html">Essential Vocabulary</a> for the adaptive 3000-word track.</li>
-      </ol>
-      <div class="install-note">The original BBC article, images, videos, and layout stay intact. This site publishes learning metadata only and never republishes the full article text.</div>
-    </section>
+    <div class="section-title" id="dailyArticles">בחר מאמר לפי רמת קושי</div><div id="loading">Loading today's articles…</div><div id="load-error"></div><div id="levels" class="article-grid" style="display:none"></div>
+    <section class="help-card"><h2>איך עובדים עם האתר?</h2><p>התחל בקריאה או בצפייה לפי הזמן והעניין שלך. משימות הקריאה בודקות הבנה של הכתבות; מסלול אוצר המילים מנהל מילים לאורך זמן; ומעבדת השמיעה משלבת צפייה ללא כתוביות, מבחן הבנה, צפייה חוזרת ו־Shadowing. הכתבות והסרטונים נשארים אצל המקורות הרשמיים ואינם מועתקים לאתר.</p></section>
   </div>
-
   <script>
-    const LEVEL_ORDER={A:0,B:1,C:2};
-    function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-    async function fetchJson(url){const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}
-    function buildCard(article){
-      const id=String(article.id||'').toUpperCase();
-      const card=document.createElement('article');card.className=`lvl-card lvl-${id}`;
-      card.innerHTML=`<span class="lvl-badge">${esc(article.level_label||`Level ${id}`)}</span><div class="lvl-title">${esc(article.title)}</div><div class="lvl-meta">${esc(article.source||'BBC')} · ${esc(article.word_count||0)} words</div><div class="lvl-reason">${esc(article.difficulty_reason||'')}</div><div class="lvl-counts"><span>${esc(article.vocabulary_count||0)} מילים</span><span>${esc(article.quiz_count||0)} שאלות חידון</span></div><div class="lvl-preview" data-preview></div><a class="open-btn" href="${esc(article.url)}" target="_blank" rel="noopener">Open BBC article ↗</a>`;
-      if(article.data_url){fetchJson(article.data_url).then(full=>{const words=Array.isArray(full.words)?full.words.slice(0,6):[];const box=card.querySelector('[data-preview]');if(!box||!words.length){box?.remove();return}box.innerHTML='<div class="pv-title">דוגמאות מאוצר המילים</div><ul>'+words.map(w=>`<li><span class="pv-en">${esc(w.word)}</span><span class="pv-he">${esc(w.hebrew)}</span></li>`).join('')+'</ul>'}).catch(()=>card.querySelector('[data-preview]')?.remove())}
-      return card;
-    }
+    const LEVEL_ORDER={A:0,B:1,C:2};function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}async function fetchJson(url){const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}
+    function buildCard(article){const id=String(article.id||'').toUpperCase();const card=document.createElement('article');card.className=`lvl-card lvl-${id}`;card.innerHTML=`<span class="lvl-badge">${esc(article.level_label||`Level ${id}`)}</span><div class="lvl-title">${esc(article.title)}</div><div class="lvl-meta">${esc(article.source||'BBC')} · ${esc(article.word_count||0)} words</div><div class="lvl-reason">${esc(article.difficulty_reason||'')}</div><div class="lvl-counts"><span>${esc(article.vocabulary_count||0)} מילים</span><span>${esc(article.quiz_count||0)} שאלות חידון</span></div><div class="lvl-preview" data-preview></div><a class="open-btn" href="${esc(article.url)}" target="_blank" rel="noopener">Open BBC article ↗</a>`;if(article.data_url){fetchJson(article.data_url).then(full=>{const words=Array.isArray(full.words)?full.words.slice(0,6):[];const box=card.querySelector('[data-preview]');if(!box||!words.length){box?.remove();return}box.innerHTML='<div class="pv-title">דוגמאות מאוצר המילים</div><ul>'+words.map(w=>`<li><span class="pv-en">${esc(w.word)}</span><span class="pv-he">${esc(w.hebrew)}</span></li>`).join('')+'</ul>'}).catch(()=>card.querySelector('[data-preview]')?.remove())}return card}
     function renderArticles(articles){const sorted=[...articles].sort((a,b)=>(LEVEL_ORDER[String(a.id||'').toUpperCase()]??9)-(LEVEL_ORDER[String(b.id||'').toUpperCase()]??9));const grid=document.getElementById('levels');grid.innerHTML='';sorted.forEach(a=>grid.appendChild(buildCard(a)));document.getElementById('loading').style.display='none';grid.style.display='grid'}
     (async()=>{try{const today=await fetchJson('data/today.json');if(!Array.isArray(today.articles)||!today.articles.length)throw new Error('today.json has no articles');renderArticles(today.articles)}catch(e1){try{const latest=await fetchJson('data/latest.json');renderArticles([{id:'B',level_label:latest.level_label||'B — Intermediate English',title:latest.title,source:latest.source,url:latest.url,word_count:latest.word_count,difficulty_reason:'Default recommended article.',data_url:'data/latest.json',vocabulary_count:Array.isArray(latest.words)?latest.words.length:0,quiz_count:Array.isArray(latest.quiz)?latest.quiz.length:0}])}catch(e2){document.getElementById('loading').style.display='none';const err=document.getElementById('load-error');err.style.display='block';err.textContent="Could not load today's articles yet."}}})();
   </script>
