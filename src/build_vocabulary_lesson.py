@@ -81,13 +81,24 @@ def main() -> None:
     for word in words:
         word_id = str(word.get("id", ""))
         entry = profile_entry(profile_words, word_id)
-        if entry.get("status") == "known":
+        verified_known = (
+            entry.get("status") == "known"
+            and int(entry.get("mastery", 0)) >= 5
+            and int(entry.get("successful_sessions", 0)) >= 2
+        )
+        if verified_known:
             continue
         if not entry:
             unseen.append(word)
             continue
-        next_review = str(entry.get("next_review") or "9999-12-31")
-        wrapped = {**word, "_profile": entry}
+        legacy_self_marked = entry.get("status") == "known" and not verified_known
+        effective_entry = {**entry}
+        if legacy_self_marked:
+            effective_entry["status"] = "learning"
+            effective_entry["next_review"] = day
+            effective_entry["verification_required"] = True
+        next_review = str(effective_entry.get("next_review") or "9999-12-31")
+        wrapped = {**word, "_profile": effective_entry}
         if next_review <= day:
             due.append(wrapped)
         else:
@@ -134,6 +145,7 @@ def main() -> None:
             "mastery": int(entry.get("mastery", 0)),
             "times_seen": int(entry.get("times_seen", 0)),
             "last_score": entry.get("last_score"),
+            "verification_required": bool(entry.get("verification_required")),
         }
         published_words.append(clean)
 
