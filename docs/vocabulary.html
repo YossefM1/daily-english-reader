@@ -3,310 +3,98 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Daily English Reader — Essential Vocabulary</title>
+  <title>Daily English Reader — Active Vocabulary Lab</title>
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-    :root{--ink:#172533;--muted:#687787;--line:#dfe7ef;--bg:#eef3f8;--card:#fff;--brand:#1a5276;--brand-soft:#e8f1f8;--green:#247a52;--green-soft:#e8f6ef;--amber:#a05a08;--amber-soft:#fff3df;--shadow:0 12px 32px rgba(20,45,75,.08)}
-    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:radial-gradient(circle at top right,#daeaf6 0,transparent 34%),var(--bg);color:var(--ink);min-height:100vh;-webkit-font-smoothing:antialiased}
-    button{font:inherit}
-    .page-shell{max-width:1180px;margin:0 auto;padding:34px 24px 64px}
-    .top-nav{display:flex;justify-content:center;gap:10px;margin-bottom:24px;direction:ltr;flex-wrap:wrap}
-    .top-nav a{text-decoration:none;color:var(--brand);background:#fff;border:1px solid var(--line);border-radius:999px;padding:9px 17px;font-weight:750;font-size:14px;box-shadow:0 3px 10px rgba(20,45,75,.04)}
-    .top-nav a.active{background:var(--brand);color:#fff;border-color:var(--brand)}
-    .hero{background:linear-gradient(135deg,#123f60,#2675a5);border-radius:24px;padding:32px;color:#fff;box-shadow:0 18px 45px rgba(22,74,108,.2);position:relative;overflow:hidden;margin-bottom:22px}
-    .hero::after{content:"ABC";position:absolute;left:28px;bottom:-22px;font-size:104px;font-weight:900;letter-spacing:-10px;color:rgba(255,255,255,.07);direction:ltr}
-    .hero-content{position:relative;z-index:1;max-width:760px}
-    .eyebrow{display:inline-flex;gap:7px;align-items:center;background:rgba(255,255,255,.13);border:1px solid rgba(255,255,255,.22);border-radius:999px;padding:6px 12px;font-size:12px;font-weight:800;direction:ltr;margin-bottom:14px}
-    h1{font-size:clamp(29px,5vw,45px);line-height:1.08;margin-bottom:12px}
-    .hero p{font-size:16px;line-height:1.7;color:#e8f5ff;max-width:680px}
-    .hero-date{margin-top:16px;font-size:13px;font-weight:750;color:#d5edfb;direction:ltr}
-    .stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}
-    .stat{background:rgba(255,255,255,.96);border:1px solid var(--line);border-radius:16px;padding:16px;box-shadow:0 5px 16px rgba(20,45,75,.05)}
-    .stat strong{display:block;font-size:25px;color:var(--brand);direction:ltr;text-align:center}
-    .stat span{display:block;text-align:center;color:var(--muted);font-size:12px;margin-top:4px;font-weight:700}
-    .toolbar{background:#fff;border:1px solid var(--line);border-radius:18px;padding:14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;box-shadow:var(--shadow);margin-bottom:20px;position:sticky;top:8px;z-index:10}
-    .btn{border:0;border-radius:11px;padding:11px 14px;font-weight:800;cursor:pointer;transition:transform .15s ease,filter .15s ease;text-decoration:none}
-    .btn:hover{transform:translateY(-1px);filter:brightness(.97)}
-    .btn-primary{background:var(--brand);color:#fff}
-    .btn-soft{background:var(--brand-soft);color:var(--brand)}
-    .btn-danger{background:#fff2f1;color:#a13b32}
-    .toolbar-status{margin-inline-start:auto;min-width:190px}
-    .progress-label{font-size:12px;color:var(--muted);font-weight:750;margin-bottom:6px;display:flex;justify-content:space-between;direction:rtl}
-    .progress-track{height:8px;border-radius:999px;background:#edf1f5;overflow:hidden}
-    .progress-fill{height:100%;width:0;background:linear-gradient(90deg,#2e8b57,#44a978);transition:width .25s ease}
-    .notice{display:none;background:#fff;border:1px solid var(--line);border-radius:14px;padding:12px 15px;margin-bottom:16px;line-height:1.55;font-size:13px;box-shadow:0 4px 12px rgba(20,45,75,.04)}
-    .notice.show{display:block}.notice.good{border-color:#bce1cc;background:#f0fbf5;color:#205f42}.notice.warn{border-color:#f0d2a9;background:#fff9ef;color:#80500d}.notice.bad{border-color:#efc3be;background:#fff6f5;color:#8e3028}
-    .section-head{display:flex;align-items:end;justify-content:space-between;gap:14px;margin:22px 2px 14px}
-    .section-head h2{font-size:22px}.section-head p{color:var(--muted);font-size:13px;line-height:1.5}
-    .word-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:start}
-    .word-card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:0 7px 20px rgba(20,45,75,.055);transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease;position:relative;overflow:hidden}
-    .word-card:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(20,45,75,.09)}
-    .word-card.known{border-color:#8fd0ad;background:linear-gradient(180deg,#fff,#f3fbf6)}
-    .word-card.review{border-color:#e8bd7e;background:linear-gradient(180deg,#fff,#fff9ef)}
-    .card-top{display:flex;align-items:center;justify-content:space-between;gap:10px;direction:ltr}
-    .reason{font-size:11px;font-weight:850;border-radius:999px;padding:5px 9px;text-transform:uppercase;letter-spacing:.3px;background:#edf4fa;color:var(--brand)}
-    .reason.review{background:var(--amber-soft);color:var(--amber)}
-    .audio{width:35px;height:35px;border:1px solid var(--line);background:#fff;border-radius:50%;cursor:pointer;font-size:16px}
-    .word-main{direction:ltr;text-align:left;margin:16px 0 12px}
-    .word-main h3{font-size:30px;line-height:1;color:var(--brand);letter-spacing:-.4px}
-    .word-meta{color:var(--muted);font-size:12px;margin-top:8px;text-transform:uppercase;font-weight:750;letter-spacing:.35px}
-    .pronunciation{direction:rtl;text-align:right;color:#36495a;font-size:17px;font-weight:750;background:#f6f8fb;border-radius:10px;padding:8px 10px;margin-bottom:10px}
-    .details{display:none;border-top:1px solid var(--line);padding-top:12px;margin-top:10px}
-    .details.open{display:block;animation:fade .18s ease}
-    @keyframes fade{from{opacity:0;transform:translateY(-3px)}to{opacity:1;transform:translateY(0)}}
-    .translation{font-size:18px;font-weight:850;color:#243747;margin-bottom:7px}
-    .explanation{color:#526273;line-height:1.55;font-size:13.5px;margin-bottom:11px}
-    .example{direction:ltr;text-align:left;background:#f4f7fa;border-right:4px solid #84aecb;border-radius:10px;padding:11px 12px;color:#25394b;line-height:1.55;font-size:14px;font-style:italic}
-    .card-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:14px;direction:ltr}
-    .card-actions button{border-radius:10px;padding:10px 8px;border:1px solid var(--line);font-weight:800;cursor:pointer;background:#fff}
-    .know-btn{color:var(--green)}.review-btn{color:var(--amber)}
-    .word-card.known .know-btn{background:var(--green);color:#fff;border-color:var(--green)}
-    .word-card.review .review-btn{background:var(--amber);color:#fff;border-color:var(--amber)}
-    .reveal-btn{width:100%;border:0;background:var(--brand-soft);color:var(--brand);border-radius:10px;padding:9px;font-weight:800;cursor:pointer;margin-top:3px}
-    .empty{grid-column:1/-1;background:#fff;border:1px solid var(--line);border-radius:18px;padding:38px;text-align:center;color:var(--muted)}
-    .sync-help{margin-top:22px;background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px 20px;box-shadow:0 5px 16px rgba(20,45,75,.04)}
-    .sync-help h2{font-size:17px;color:var(--brand);margin-bottom:7px}.sync-help p{color:#526273;line-height:1.65;font-size:13.5px}.sync-help code{direction:ltr;background:#edf3f8;border-radius:5px;padding:2px 5px}
-    .loading{text-align:center;padding:46px;color:var(--muted);font-weight:700;direction:ltr}
-    @media(max-width:950px){.word-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
-    @media(max-width:640px){.page-shell{padding:24px 14px 46px}.hero{padding:25px 20px;border-radius:20px}.word-grid{grid-template-columns:1fr}.stats{gap:8px}.stat{padding:13px 8px}.toolbar{position:static}.toolbar-status{width:100%;margin-inline-start:0}.section-head{display:block}.section-head p{margin-top:5px}.btn{flex:1}.top-nav{gap:7px}.top-nav a{padding:8px 12px;font-size:13px}}
+    :root{--ink:#172533;--muted:#667787;--line:#dfe7ef;--bg:#edf3f8;--card:#fff;--brand:#185679;--brand2:#2b85b6;--green:#247a52;--green-soft:#e9f7ef;--amber:#a75c08;--amber-soft:#fff3df;--red:#a33b32;--red-soft:#fff1ef;--purple:#7251a1;--purple-soft:#f2edfa;--shadow:0 15px 38px rgba(20,45,75,.09)}
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:radial-gradient(circle at top right,#d8ebf7 0,transparent 34%),var(--bg);color:var(--ink);min-height:100vh;-webkit-font-smoothing:antialiased}
+    button,input,textarea{font:inherit}button{cursor:pointer}.page-shell{max-width:1120px;margin:0 auto;padding:32px 22px 64px}
+    .top-nav{display:flex;justify-content:center;gap:10px;margin-bottom:24px;direction:ltr;flex-wrap:wrap}.top-nav a{text-decoration:none;color:var(--brand);background:#fff;border:1px solid var(--line);border-radius:999px;padding:9px 17px;font-weight:760;font-size:14px;box-shadow:0 3px 10px rgba(20,45,75,.04)}.top-nav a.active{background:var(--brand);color:#fff;border-color:var(--brand)}
+    .hero{background:linear-gradient(135deg,#123f60,#277eae);border-radius:25px;padding:32px;color:#fff;box-shadow:0 19px 46px rgba(22,74,108,.2);position:relative;overflow:hidden}.hero::after{content:"RECALL";position:absolute;left:20px;bottom:-20px;font-size:92px;font-weight:950;letter-spacing:-6px;color:rgba(255,255,255,.06);direction:ltr}.hero-content{position:relative;z-index:1;max-width:780px}.eyebrow{display:inline-flex;gap:7px;align-items:center;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.23);border-radius:999px;padding:6px 12px;font-size:12px;font-weight:850;direction:ltr;margin-bottom:14px}h1{font-size:clamp(29px,5vw,45px);line-height:1.08;margin-bottom:12px}.hero p{font-size:16px;line-height:1.72;color:#e8f6ff;max-width:730px}.hero-date{margin-top:16px;font-size:13px;font-weight:760;color:#d5edfb;direction:ltr}
+    .stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}.stat{background:rgba(255,255,255,.97);border:1px solid var(--line);border-radius:16px;padding:16px;box-shadow:0 5px 16px rgba(20,45,75,.05)}.stat strong{display:block;font-size:25px;color:var(--brand);direction:ltr;text-align:center}.stat span{display:block;text-align:center;color:var(--muted);font-size:12px;margin-top:4px;font-weight:720}
+    .evidence{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-bottom:19px}.principle{background:#fff;border:1px solid var(--line);border-radius:14px;padding:13px;box-shadow:0 4px 12px rgba(20,45,75,.04)}.principle b{display:block;color:var(--brand);font-size:13px;margin-bottom:4px}.principle span{font-size:12px;line-height:1.5;color:var(--muted)}
+    .dashboard{background:#fff;border:1px solid var(--line);border-radius:20px;padding:18px;box-shadow:var(--shadow);margin-bottom:20px}.dashboard-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.btn{border:0;border-radius:12px;padding:12px 16px;font-weight:830;transition:transform .15s ease,filter .15s ease}.btn:hover{transform:translateY(-1px);filter:brightness(.97)}.btn-primary{background:var(--brand);color:#fff}.btn-soft{background:#e9f2f8;color:var(--brand)}.btn-danger{background:var(--red-soft);color:var(--red)}.btn-green{background:var(--green);color:#fff}.dashboard-progress{margin-inline-start:auto;min-width:220px}.progress-label{font-size:12px;color:var(--muted);font-weight:760;margin-bottom:6px;display:flex;justify-content:space-between}.progress-track{height:9px;border-radius:999px;background:#edf1f5;overflow:hidden}.progress-fill{height:100%;width:0;background:linear-gradient(90deg,#2d8a5b,#48aa78);transition:width .25s ease}
+    .notice{display:none;border-radius:14px;padding:12px 15px;margin-bottom:16px;line-height:1.55;font-size:13px;box-shadow:0 4px 12px rgba(20,45,75,.04)}.notice.show{display:block}.notice.good{border:1px solid #bce1cc;background:#f0fbf5;color:#205f42}.notice.warn{border:1px solid #f0d2a9;background:#fff9ef;color:#80500d}.notice.bad{border:1px solid #efc3be;background:#fff6f5;color:#8e3028}
+    .practice{display:none;background:#fff;border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);overflow:hidden;margin-bottom:22px}.practice.show{display:block}.practice-head{padding:18px 20px;border-bottom:1px solid var(--line);background:linear-gradient(180deg,#fbfdff,#f5f9fc)}.phase-row{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;direction:ltr}.phase-pill{border-radius:999px;padding:8px 7px;text-align:center;font-size:11px;font-weight:830;background:#e9eef3;color:#74818d}.phase-pill.active{background:var(--brand);color:#fff}.phase-pill.done{background:var(--green-soft);color:var(--green)}.practice-meta{display:flex;justify-content:space-between;gap:10px;margin-top:13px;color:var(--muted);font-size:12px;font-weight:730;direction:ltr}.practice-body{padding:clamp(22px,5vw,42px);min-height:470px;display:flex;align-items:center;justify-content:center}.exercise{width:min(720px,100%);text-align:center}.step-kicker{font-size:12px;font-weight:850;color:var(--brand);letter-spacing:.5px;text-transform:uppercase;direction:ltr;margin-bottom:10px}.prompt-title{font-size:clamp(25px,5vw,39px);line-height:1.22;margin-bottom:10px}.prompt-sub{color:var(--muted);line-height:1.65;margin:0 auto 20px;max-width:620px}.word-display{direction:ltr;font-size:clamp(39px,8vw,67px);font-weight:900;color:var(--brand);letter-spacing:-1.5px}.word-meta{direction:ltr;color:var(--muted);font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;margin:9px 0 14px}.pronounce-row{display:flex;justify-content:center;align-items:center;gap:9px;margin-bottom:15px}.pronunciation{font-size:18px;font-weight:800;background:#f2f6f9;border-radius:10px;padding:8px 12px}.audio{width:40px;height:40px;border-radius:50%;border:1px solid var(--line);background:#fff}.meaning{font-size:21px;font-weight:850;color:#263b4b;margin-bottom:8px}.explanation{color:#526373;line-height:1.6;margin-bottom:15px}.example{direction:ltr;text-align:left;background:#f3f7fa;border-left:4px solid #76a9c9;border-radius:11px;padding:13px 15px;line-height:1.65;font-size:16px;font-style:italic;margin-bottom:20px}.input-wrap{max-width:570px;margin:0 auto}.answer-input,.sentence-input{width:100%;border:2px solid #cfdbe5;border-radius:13px;padding:14px 15px;background:#fff;direction:ltr;text-align:left;outline:none;transition:border-color .15s,box-shadow .15s}.answer-input{font-size:22px;text-align:center}.sentence-input{min-height:120px;resize:vertical;font-size:16px;line-height:1.6}.answer-input:focus,.sentence-input:focus{border-color:#5d9fc4;box-shadow:0 0 0 4px rgba(53,129,170,.11)}.hint-box{display:none;margin:12px auto 0;max-width:570px;border-radius:11px;padding:10px 12px;background:var(--amber-soft);color:#7f510f;font-weight:780;direction:ltr}.hint-box.show{display:block}.feedback{display:none;margin:14px auto 0;max-width:570px;border-radius:12px;padding:12px 14px;line-height:1.55}.feedback.show{display:block}.feedback.good{background:var(--green-soft);color:#205f42;border:1px solid #b9dfca}.feedback.bad{background:var(--red-soft);color:#8a3028;border:1px solid #efc0bb}.feedback.info{background:#edf5fa;color:#245b78;border:1px solid #c7dfec}.action-row{display:flex;justify-content:center;gap:9px;flex-wrap:wrap;margin-top:18px}.small-note{font-size:12px;color:var(--muted);line-height:1.55;margin-top:12px}.confidence-row{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;max-width:600px;margin:18px auto 0;direction:ltr}.confidence-row button{border:1px solid var(--line);background:#fff;border-radius:12px;padding:12px 8px;font-weight:800}.confidence-row button.selected{background:var(--purple-soft);border-color:#b8a3d4;color:var(--purple)}
+    .summary-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;text-align:right;margin-top:18px}.summary-item{border:1px solid var(--line);border-radius:13px;padding:12px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.summary-word{direction:ltr;font-weight:850;color:var(--brand)}.score{direction:ltr;font-weight:900;border-radius:999px;padding:5px 9px;background:#edf3f7}.score.strong{background:var(--green-soft);color:var(--green)}.score.mid{background:var(--amber-soft);color:var(--amber)}.score.low{background:var(--red-soft);color:var(--red)}
+    .library-head{display:flex;justify-content:space-between;align-items:end;gap:12px;margin:25px 2px 13px}.library-head h2{font-size:21px}.library-head p{font-size:13px;color:var(--muted);line-height:1.5}.word-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.word-card{background:#fff;border:1px solid var(--line);border-radius:17px;padding:16px;box-shadow:0 6px 18px rgba(20,45,75,.05)}.card-top{display:flex;justify-content:space-between;align-items:center;direction:ltr}.reason{font-size:10px;font-weight:850;text-transform:uppercase;border-radius:999px;padding:5px 8px;background:#edf4fa;color:var(--brand)}.reason.review{background:var(--amber-soft);color:var(--amber)}.mini-score{font-size:11px;font-weight:850;color:var(--muted)}.card-word{direction:ltr;text-align:left;font-size:28px;color:var(--brand);font-weight:900;margin:13px 0 4px}.card-meaning{font-weight:800;margin-bottom:8px}.card-example{direction:ltr;text-align:left;color:#536474;line-height:1.5;font-size:13px}.empty{grid-column:1/-1;background:#fff;border:1px solid var(--line);border-radius:18px;padding:38px;text-align:center;color:var(--muted)}
+    .sync-help{margin-top:22px;background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px 20px;box-shadow:0 5px 16px rgba(20,45,75,.04)}.sync-help h2{font-size:17px;color:var(--brand);margin-bottom:7px}.sync-help p{color:#526273;line-height:1.65;font-size:13.5px}.sync-help code{direction:ltr;background:#edf3f8;border-radius:5px;padding:2px 5px}.loading{text-align:center;padding:46px;color:var(--muted);font-weight:700;direction:ltr}
+    @media(max-width:900px){.evidence{grid-template-columns:repeat(2,minmax(0,1fr))}.word-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media(max-width:640px){.page-shell{padding:23px 13px 45px}.hero{padding:25px 20px}.evidence,.word-grid,.summary-grid{grid-template-columns:1fr}.phase-pill{font-size:9px;padding:7px 3px}.practice-body{padding:22px 15px;min-height:430px}.dashboard-progress{width:100%;margin-inline-start:0}.btn{flex:1}.confidence-row{grid-template-columns:1fr}.library-head{display:block}.library-head p{margin-top:5px}.top-nav{gap:7px}.top-nav a{padding:8px 12px;font-size:13px}}
   </style>
 </head>
 <body>
   <div class="page-shell">
-    <nav class="top-nav" aria-label="Primary">
-      <a href="./index.html">Articles</a>
-      <a href="./tasks.html">Reading Tasks</a>
-      <a class="active" href="./vocabulary.html">Essential Vocabulary</a>
-    </nav>
+    <nav class="top-nav" aria-label="Primary"><a href="./index.html">Articles</a><a href="./tasks.html">Reading Tasks</a><a class="active" href="./vocabulary.html">Essential Vocabulary</a></nav>
 
-    <header class="hero">
-      <div class="hero-content">
-        <div class="eyebrow">ESSENTIAL ENGLISH 3000 · ADAPTIVE TRACK</div>
-        <h1>אוצר המילים היומי שלך</h1>
-        <p>מילים שימושיות באנגלית עם תרגום, הגייה ומשפט דוגמה. סמן 👍 למילה שאתה כבר יודע או 🔁 למילה שדורשת חיזוק — והשיעור הבא יתאים את עצמו.</p>
-        <div class="hero-date" id="lessonDate">Loading lesson…</div>
-      </div>
-    </header>
+    <header class="hero"><div class="hero-content"><div class="eyebrow">ACTIVE RETRIEVAL · CONTEXT · SPACED REVIEW</div><h1>מעבדת אוצר המילים שלך</h1><p>לא רק לראות מילה וללחוץ “אני יודע”. בכל שיעור תשלוף את המילה מהזיכרון, תשלים אותה בתוך משפט ותיצור משפט משלך. ההצלחה בפועל קובעת מתי המילה תחזור.</p><div class="hero-date" id="lessonDate">Loading lesson…</div></div></header>
 
-    <section class="stats" aria-label="Vocabulary statistics">
-      <div class="stat"><strong id="lessonCount">—</strong><span>מילים בשיעור</span></div>
-      <div class="stat"><strong id="knownCount">—</strong><span>ידועות במאגר</span></div>
-      <div class="stat"><strong id="remainingCount">—</strong><span>נותרו במסלול הנוכחי</span></div>
-      <div class="stat"><strong id="pendingCount">0</strong><span>שינויים לסנכרון</span></div>
-    </section>
+    <section class="stats"><div class="stat"><strong id="lessonCount">—</strong><span>מילים בשיעור העמוק</span></div><div class="stat"><strong id="knownCount">—</strong><span>מילים שנרכשו</span></div><div class="stat"><strong id="remainingCount">—</strong><span>נותרו במסלול</span></div><div class="stat"><strong id="sessionScore">0%</strong><span>הצלחה בשיעור הנוכחי</span></div></section>
 
-    <div class="toolbar">
-      <button class="btn btn-soft" id="revealAllBtn">הצג את כל הפירושים</button>
-      <button class="btn btn-primary" id="syncBtn">סנכרון ההתקדמות ל־GitHub</button>
-      <button class="btn btn-danger" id="resetBtn">איפוס סימוני היום</button>
-      <div class="toolbar-status">
-        <div class="progress-label"><span>התקדמות בשיעור</span><span id="progressText">0 / 0</span></div>
-        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
-      </div>
-    </div>
+    <section class="evidence"><div class="principle"><b>1. שליפה מהזיכרון</b><span>כותבים את המילה לפני שרואים את התשובה.</span></div><div class="principle"><b>2. משוב מיידי</b><span>טעות הופכת מיד להזדמנות תיקון עם רמז מדורג.</span></div><div class="principle"><b>3. שימוש בהקשר</b><span>משלימים את המילה בתוך משפט ולא לומדים אותה מבודדת.</span></div><div class="principle"><b>4. יצירה פעילה</b><span>בונים משפט אישי כדי לתרגל תחביר ושימוש אמיתי.</span></div></section>
+
+    <section class="dashboard"><div class="dashboard-row"><button class="btn btn-primary" id="startBtn">התחל שיעור פעיל</button><button class="btn btn-soft" id="syncBtn">סנכרון תוצאות ל־GitHub</button><button class="btn btn-danger" id="resetBtn">איפוס השיעור</button><div class="dashboard-progress"><div class="progress-label"><span>התקדמות</span><span id="progressText">0 / 0</span></div><div class="progress-track"><div class="progress-fill" id="progressFill"></div></div></div></div></section>
 
     <div class="notice" id="notice"></div>
 
-    <div class="section-head">
-      <div><h2>המילים להיום</h2><p id="selectionNote">מילים חדשות וחזרות שנבחרו לפי פרופיל הלמידה.</p></div>
-      <p>הסימון נשמר מיד במכשיר. הסנכרון ל־GitHub מעדכן את המאגר לשיעורים הבאים.</p>
-    </div>
+    <section class="practice" id="practice"><div class="practice-head"><div class="phase-row" id="phaseRow"></div><div class="practice-meta"><span id="phaseName">Study</span><span id="itemCounter">1 / 1</span></div></div><div class="practice-body" id="practiceBody"></div></section>
 
+    <div class="library-head"><div><h2>המילים שנבחרו להיום</h2><p id="selectionNote">מילים חדשות וחזרות שנבחרו לפי פרופיל הלמידה.</p></div><p>הכרטיסים משמשים לעיון. הציון נקבע רק מתוך השיעור הפעיל.</p></div>
     <main class="word-grid" id="wordGrid"><div class="loading">Loading vocabulary lesson…</div></main>
 
-    <section class="sync-help">
-      <h2>כיצד השמירה ל־GitHub עובדת?</h2>
-      <p>מטעמי אבטחה האתר אינו מחזיק סיסמה או Token של GitHub. הסימונים נשמרים מיד בדפדפן. בלחיצה על <strong>סנכרון ההתקדמות</strong> ייפתח Issue מוכן בחשבון שלך; לאחר לחיצה על <strong>Submit new issue</strong>, GitHub Action מעדכן אוטומטית את <code>learner-profile.json</code>, סוגר את ה־Issue ובונה מחדש את השיעור.</p>
-    </section>
+    <section class="sync-help"><h2>שמירה והתאמה ליום הבא</h2><p>התשובות והמשפטים האישיים נשמרים רק בדפדפן. בסנכרון נשלחים ל־GitHub רק מזהה המילה, ציון 0–4, מספר ניסיונות ותחושת קושי — לא המשפט שכתבת. מילה עוברת למצב “נרכשה” רק אחרי הצלחה גבוהה ביותר משיעור אחד.</p></section>
   </div>
 
   <script>
-    const REPO = 'YossefM1/daily-english-reader';
-    let lesson = null;
-    let choices = {};
-    let allRevealed = false;
+    const REPO='YossefM1/daily-english-reader';
+    const PHASES=['learn','recall','context','production','summary'];
+    const PHASE_LABELS={learn:'היכרות',recall:'שליפה',context:'הקשר',production:'יצירה',summary:'סיכום'};
+    let lesson=null;
+    let session=null;
 
-    function esc(value) {
-      return String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-    }
+    function esc(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+    function normalize(v){return String(v??'').trim().toLowerCase().replace(/[.,!?;:'"()]/g,'').replace(/\s+/g,' ')}
+    function regexEscape(v){return String(v).replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
+    function wordById(id){return lesson.words.find(w=>w.id===id)}
+    function resultFor(id){session.results[id]??={recall:{attempts:0,correct:false,hint:false,resolved:false,points:0},context:{attempts:0,correct:false,resolved:false,points:0},production:{text:'',complete:false},confidence:'',score:0};return session.results[id]}
+    function storageKey(){return `dailyEnglishReader.vocabulary.active.${lesson.date}`}
+    function save(){localStorage.setItem(storageKey(),JSON.stringify(session));updateDashboard()}
+    async function fetchJson(url){const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}
+    function showNotice(text,type='good'){const box=document.getElementById('notice');box.textContent=text;box.className=`notice show ${type}`;clearTimeout(showNotice.timer);showNotice.timer=setTimeout(()=>box.className='notice',5500)}
+    function speak(word){if(!('speechSynthesis'in window)){showNotice('הקראה קולית אינה נתמכת בדפדפן הזה.','warn');return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(word);u.lang='en-US';u.rate=.82;speechSynthesis.speak(u)}
+    function hash(text){let h=2166136261;for(const ch of text){h^=ch.charCodeAt(0);h=Math.imul(h,16777619)}return h>>>0}
+    function phaseOrder(phase){return [...lesson.words].sort((a,b)=>hash(`${lesson.date}:${phase}:${a.id}`)-hash(`${lesson.date}:${phase}:${b.id}`)).map(w=>w.id)}
+    function initialSession(){return{version:2,date:lesson.date,phase:'learn',index:0,orders:{learn:lesson.words.map(w=>w.id),recall:phaseOrder('recall'),context:phaseOrder('context'),production:phaseOrder('production')},results:{},started_at:new Date().toISOString(),completed_at:null}}
+    function loadSession(){try{const saved=JSON.parse(localStorage.getItem(storageKey())||'null');session=saved&&saved.version===2&&saved.date===lesson.date?saved:initialSession()}catch{session=initialSession()}lesson.words.forEach(w=>resultFor(w.id))}
+    function phaseItems(){return session.phase==='summary'?[]:(session.orders[session.phase]||lesson.words.map(w=>w.id))}
+    function currentWord(){const ids=phaseItems();return wordById(ids[session.index])}
+    function phaseIndex(){return PHASES.indexOf(session.phase)}
+    function completedWords(){return lesson.words.filter(w=>{const r=resultFor(w.id);return r.production.complete&&r.confidence}).length}
+    function totalScore(){return lesson.words.reduce((s,w)=>s+Number(resultFor(w.id).score||0),0)}
+    function updateDashboard(){if(!lesson||!session)return;const total=lesson.words.length;const done=completedWords();document.getElementById('progressText').textContent=`${done} / ${total}`;document.getElementById('progressFill').style.width=total?`${Math.round(done/total*100)}%`:'0%';document.getElementById('sessionScore').textContent=total?`${Math.round(totalScore()/(total*4)*100)}%`:'0%';document.getElementById('startBtn').textContent=session.phase==='summary'?'פתח סיכום':(session.started_at?'המשך שיעור פעיל':'התחל שיעור פעיל');renderLibrary()}
+    function updatePhaseHeader(){document.getElementById('phaseRow').innerHTML=PHASES.map((p,i)=>`<div class="phase-pill ${i<phaseIndex()?'done':i===phaseIndex()?'active':''}">${esc(PHASE_LABELS[p])}</div>`).join('');const ids=phaseItems();document.getElementById('phaseName').textContent=PHASE_LABELS[session.phase];document.getElementById('itemCounter').textContent=session.phase==='summary'?`${lesson.words.length} words`:`${session.index+1} / ${ids.length}`}
+    function recalc(id){const r=resultFor(id);r.score=Number(r.recall.points||0)+Number(r.context.points||0)+(r.production.complete?1:0)}
+    function advance(){const ids=phaseItems();if(session.index+1<ids.length){session.index+=1}else{const next=PHASES[phaseIndex()+1]||'summary';session.phase=next;session.index=0;if(next==='summary')session.completed_at=new Date().toISOString()}save();renderPractice()}
+    function feedbackHtml(kind,text){return `<div class="feedback show ${kind}">${esc(text)}</div>`}
+    function hintFor(word,level){const w=word.word;if(level<=1)return `${w[0]}${' _'.repeat(Math.max(0,w.length-1))} · ${w.length} letters`;const shown=Math.min(3,Math.max(2,Math.ceil(w.length/2)));return `${w.slice(0,shown)}${' _'.repeat(Math.max(0,w.length-shown))}`}
+    function cloze(word){const re=new RegExp(`\\b${regexEscape(word.word)}\\b`,'i');return re.test(word.example)?word.example.replace(re,'_____'):`Write a natural sentence with “_____”.`}
+    function includesWordFamily(sentence,word){const tokens=normalize(sentence).split(/\s+/);const base=normalize(word);const stems=[base,base.endsWith('e')?base.slice(0,-1):base];return tokens.some(t=>stems.some(s=>t===base||t===`${base}s`||t===`${base}es`||t===`${base}ed`||t===`${base}ing`||t===`${s}ed`||t===`${s}ing`))}
 
-    async function fetchJson(url) {
-      const response = await fetch(url, { cache: 'no-store' });
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      return response.json();
-    }
-
-    function storageKey() {
-      return `dailyEnglishReader.vocabulary.${lesson.date}`;
-    }
-
-    function loadChoices() {
-      try {
-        const saved = JSON.parse(localStorage.getItem(storageKey()) || '{}');
-        choices = saved.choices && typeof saved.choices === 'object' ? saved.choices : {};
-      } catch {
-        choices = {};
-      }
-    }
-
-    function saveChoices() {
-      localStorage.setItem(storageKey(), JSON.stringify({
-        date: lesson.date,
-        choices,
-        updated_at: new Date().toISOString()
-      }));
-      updateProgress();
-    }
-
-    function showNotice(text, type = 'good') {
-      const box = document.getElementById('notice');
-      box.textContent = text;
-      box.className = `notice show ${type}`;
-      window.clearTimeout(showNotice.timer);
-      showNotice.timer = window.setTimeout(() => { box.className = 'notice'; }, 5500);
-    }
-
-    function speak(word) {
-      if (!('speechSynthesis' in window)) {
-        showNotice('הקראה קולית אינה נתמכת בדפדפן הזה.', 'warn');
-        return;
-      }
-      speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(word);
-      utterance.lang = 'en-US';
-      utterance.rate = 0.82;
-      speechSynthesis.speak(utterance);
-    }
-
-    function setChoice(wordId, value) {
-      if (choices[wordId] === value) delete choices[wordId];
-      else choices[wordId] = value;
-      saveChoices();
-      renderCards();
-    }
-
-    function updateProgress() {
-      if (!lesson) return;
-      const total = lesson.words.length;
-      const done = lesson.words.filter(w => choices[w.id] === 'known' || choices[w.id] === 'review').length;
-      document.getElementById('progressText').textContent = `${done} / ${total}`;
-      document.getElementById('progressFill').style.width = total ? `${Math.round(done / total * 100)}%` : '0%';
-      document.getElementById('pendingCount').textContent = done;
-    }
-
-    function renderCards() {
-      const grid = document.getElementById('wordGrid');
-      if (!lesson.words.length) {
-        grid.innerHTML = '<div class="empty">אין כרגע מילים זמינות. הוסף מילים נוספות למאגר הליבה.</div>';
-        return;
-      }
-      grid.innerHTML = lesson.words.map(word => {
-        const state = choices[word.id] || '';
-        const reasonLabel = word.reason === 'review' ? 'Review' : 'New word';
-        return `
-          <article class="word-card ${esc(state)}" data-word-id="${esc(word.id)}">
-            <div class="card-top">
-              <span class="reason ${word.reason === 'review' ? 'review' : ''}">${reasonLabel}</span>
-              <button class="audio" data-speak="${esc(word.word)}" aria-label="Pronounce ${esc(word.word)}" title="השמעה">🔊</button>
-            </div>
-            <div class="word-main">
-              <h3>${esc(word.word)}</h3>
-              <div class="word-meta">${esc(word.part_of_speech)} · ${esc(word.level)}</div>
-            </div>
-            <div class="pronunciation">${esc(word.pronunciation_hebrew)}</div>
-            <button class="reveal-btn" data-reveal>${allRevealed ? 'הסתר פירוש ודוגמה' : 'הצג פירוש ומשפט דוגמה'}</button>
-            <div class="details ${allRevealed ? 'open' : ''}" data-details>
-              <div class="translation">${esc(word.hebrew)}</div>
-              <div class="explanation">${esc(word.explanation_hebrew)}</div>
-              <div class="example">${esc(word.example)}</div>
-            </div>
-            <div class="card-actions">
-              <button class="know-btn" data-choice="known">👍 אני יודע</button>
-              <button class="review-btn" data-choice="review">🔁 צריך חיזוק</button>
-            </div>
-          </article>`;
-      }).join('');
-
-      grid.querySelectorAll('[data-speak]').forEach(button => {
-        button.addEventListener('click', () => speak(button.dataset.speak));
-      });
-      grid.querySelectorAll('[data-reveal]').forEach(button => {
-        button.addEventListener('click', () => {
-          const details = button.nextElementSibling;
-          const open = details.classList.toggle('open');
-          button.textContent = open ? 'הסתר פירוש ודוגמה' : 'הצג פירוש ומשפט דוגמה';
-        });
-      });
-      grid.querySelectorAll('[data-choice]').forEach(button => {
-        button.addEventListener('click', () => {
-          const card = button.closest('[data-word-id]');
-          setChoice(card.dataset.wordId, button.dataset.choice);
-        });
-      });
-      updateProgress();
-    }
-
-    function syncToGitHub() {
-      const known = lesson.words.filter(w => choices[w.id] === 'known').map(w => w.id);
-      const review = lesson.words.filter(w => choices[w.id] === 'review').map(w => w.id);
-      if (!known.length && !review.length) {
-        showNotice('עדיין לא סימנת מילים לשמירה.', 'warn');
-        return;
-      }
-      const payload = {
-        kind: 'vocabulary_feedback',
-        version: 1,
-        date: lesson.date,
-        known,
-        review
-      };
-      const body = [
-        'Vocabulary progress submitted from the Essential Vocabulary page.',
-        'Only word IDs and learning status are included — no answers or personal notes.',
-        '',
-        '```json',
-        JSON.stringify(payload, null, 2),
-        '```'
-      ].join('\n');
-      const title = `[Vocabulary Feedback] ${lesson.date}`;
-      const url = `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
-      window.open(url, '_blank', 'noopener');
-      showNotice('נפתח Issue מוכן. יש ללחוץ שם על Submit new issue כדי להשלים את הסנכרון.', 'good');
-    }
-
-    function resetToday() {
-      if (!confirm('למחוק את כל סימוני המילים של היום מהמכשיר הזה?')) return;
-      choices = {};
-      localStorage.removeItem(storageKey());
-      renderCards();
-      showNotice('סימוני היום אופסו.', 'good');
-    }
-
-    async function init() {
-      try {
-        lesson = await fetchJson('data/vocabulary/today.json');
-        if (!Array.isArray(lesson.words)) throw new Error('Invalid lesson data');
-        loadChoices();
-        document.getElementById('lessonDate').textContent = `${lesson.track || 'Essential English 3000'} · ${lesson.date}`;
-        document.getElementById('lessonCount').textContent = lesson.words.length;
-        document.getElementById('knownCount').textContent = lesson.profile_summary?.known_count ?? 0;
-        document.getElementById('remainingCount').textContent = lesson.profile_summary?.remaining_count ?? '—';
-        document.getElementById('selectionNote').textContent = `${lesson.selection?.new_count ?? 0} מילים חדשות · ${lesson.selection?.review_count ?? 0} מילים לחזרה`;
-        renderCards();
-      } catch (error) {
-        document.getElementById('wordGrid').innerHTML = `<div class="empty">לא ניתן לטעון את שיעור אוצר המילים: ${esc(error.message)}</div>`;
-        showNotice('קובץ השיעור היומי עדיין לא נבנה.', 'bad');
-      }
-    }
-
-    document.getElementById('revealAllBtn').addEventListener('click', () => {
-      allRevealed = !allRevealed;
-      document.getElementById('revealAllBtn').textContent = allRevealed ? 'הסתר את כל הפירושים' : 'הצג את כל הפירושים';
-      renderCards();
-    });
-    document.getElementById('syncBtn').addEventListener('click', syncToGitHub);
-    document.getElementById('resetBtn').addEventListener('click', resetToday);
-    init();
+    function renderPractice(){document.getElementById('practice').classList.add('show');updatePhaseHeader();if(session.phase==='summary'){renderSummary();return}const word=currentWord();if(!word){session.phase='summary';session.index=0;save();renderSummary();return}if(session.phase==='learn')renderLearn(word);if(session.phase==='recall')renderRecall(word);if(session.phase==='context')renderContext(word);if(session.phase==='production')renderProduction(word);document.getElementById('practice').scrollIntoView({behavior:'smooth',block:'start'})}
+    function renderLearn(word){document.getElementById('practiceBody').innerHTML=`<div class="exercise"><div class="step-kicker">${word.reason==='review'?'Review refresh':'First encounter'}</div><div class="word-display">${esc(word.word)}</div><div class="word-meta">${esc(word.part_of_speech)} · ${esc(word.level)}</div><div class="pronounce-row"><span class="pronunciation">${esc(word.pronunciation_hebrew)}</span><button class="audio" id="speakBtn">🔊</button></div><div class="meaning">${esc(word.hebrew)}</div><div class="explanation">${esc(word.explanation_hebrew)}</div><div class="example">${esc(word.example)}</div><div class="action-row"><button class="btn btn-primary" id="nextBtn">הבנתי — למילה הבאה</button></div><div class="small-note">בשלב הבא התשובה תוסתר ותצטרך לשלוף את המילה מהזיכרון.</div></div>`;document.getElementById('speakBtn').onclick=()=>speak(word.word);document.getElementById('nextBtn').onclick=advance}
+    function renderRecall(word){const r=resultFor(word.id);const resolved=r.recall.resolved;document.getElementById('practiceBody').innerHTML=`<div class="exercise"><div class="step-kicker">Productive recall</div><div class="prompt-title">כתוב את המילה באנגלית</div><div class="meaning">${esc(word.hebrew)}</div><div class="prompt-sub">${esc(word.explanation_hebrew)}</div><div class="input-wrap"><input class="answer-input" id="answerInput" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="Type the English word" ${resolved?'disabled':''}/><div class="hint-box ${r.recall.hint?'show':''}" id="hintBox">${r.recall.hint?esc(hintFor(word,r.recall.hint_level||1)):''}</div><div id="feedback">${resolved?feedbackHtml(r.recall.correct?'good':'info',r.recall.correct?`נכון — ${word.word}`:`התשובה היא ${word.word}`):''}</div></div><div class="action-row">${resolved?'<button class="btn btn-primary" id="nextBtn">המשך</button>':'<button class="btn btn-primary" id="checkBtn">בדיקה</button><button class="btn btn-soft" id="hintBtn">רמז מדורג</button><button class="btn btn-danger" id="revealBtn">גלה תשובה</button>'}</div><div class="small-note">תשובה נכונה בניסיון ראשון שווה 2 נקודות. תשובה לאחר רמז שווה נקודה אחת.</div></div>`;
+      if(resolved){document.getElementById('nextBtn').onclick=advance;return}const input=document.getElementById('answerInput');input.focus();const check=()=>{r.recall.attempts+=1;if(normalize(input.value)===normalize(word.word)){r.recall.correct=true;r.recall.resolved=true;r.recall.points=r.recall.attempts===1&&!r.recall.hint?2:1;recalc(word.id);save();renderRecall(word)}else{document.getElementById('feedback').innerHTML=feedbackHtml('bad','עדיין לא. נסה להיזכר לפני בקשת רמז.');input.select();save()}};document.getElementById('checkBtn').onclick=check;input.onkeydown=e=>{if(e.key==='Enter')check()};document.getElementById('hintBtn').onclick=()=>{r.recall.hint=true;r.recall.hint_level=Math.min(2,Number(r.recall.hint_level||0)+1);save();renderRecall(word)};document.getElementById('revealBtn').onclick=()=>{r.recall.resolved=true;r.recall.correct=false;r.recall.points=0;recalc(word.id);save();renderRecall(word)}}
+    function renderContext(word){const r=resultFor(word.id);const resolved=r.context.resolved;document.getElementById('practiceBody').innerHTML=`<div class="exercise"><div class="step-kicker">Context retrieval</div><div class="prompt-title">השלם את המילה החסרה</div><div class="example">${esc(cloze(word))}</div><div class="input-wrap"><input class="answer-input" id="answerInput" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="Type the missing word" ${resolved?'disabled':''}/><div id="feedback">${resolved?feedbackHtml(r.context.correct?'good':'info',r.context.correct?`נכון — המשפט משתמש ב־${word.word}`:`המילה המתאימה היא ${word.word}`):''}</div></div><div class="action-row">${resolved?'<button class="btn btn-primary" id="nextBtn">המשך</button>':'<button class="btn btn-primary" id="checkBtn">בדיקה</button><button class="btn btn-danger" id="revealBtn">גלה תשובה</button>'}</div><div class="small-note">שליפה מתוך משפט מחזקת גם את המשמעות וגם את דפוס השימוש.</div></div>`;
+      if(resolved){document.getElementById('nextBtn').onclick=advance;return}const input=document.getElementById('answerInput');input.focus();const check=()=>{r.context.attempts+=1;if(normalize(input.value)===normalize(word.word)){r.context.correct=true;r.context.resolved=true;r.context.points=1;recalc(word.id);save();renderContext(word)}else{document.getElementById('feedback').innerHTML=feedbackHtml('bad','לא מתאים עדיין. קרא שוב את כל המשפט ונסה לפי ההקשר.');input.select();save()}};document.getElementById('checkBtn').onclick=check;input.onkeydown=e=>{if(e.key==='Enter')check()};document.getElementById('revealBtn').onclick=()=>{r.context.resolved=true;r.context.correct=false;r.context.points=0;recalc(word.id);save();renderContext(word)}}
+    function productionPrompt(pos){if(pos==='verb')return 'כתוב משפט על פעולה, תכנון או תהליך שמשתמש במילה.';if(pos==='adjective')return 'תאר אדם, מצב או דבר בעזרת המילה.';if(pos==='noun')return 'כתוב משפט שבו שם העצם ממלא תפקיד טבעי.';return 'כתוב משפט טבעי באנגלית שמשתמש במילה.'}
+    function renderProduction(word){const r=resultFor(word.id);const validated=r.production.complete;document.getElementById('practiceBody').innerHTML=`<div class="exercise"><div class="step-kicker">Generative use</div><div class="prompt-title">צור משפט משלך עם <span dir="ltr">${esc(word.word)}</span></div><div class="prompt-sub">${esc(productionPrompt(word.part_of_speech))} המשפט נשמר רק במכשיר שלך.</div><div class="input-wrap"><textarea class="sentence-input" id="sentenceInput" placeholder="Write your own sentence in English…">${esc(r.production.text||'')}</textarea><div id="feedback">${validated?feedbackHtml('good','המשפט כולל את המילה ובנוי באורך שמאפשר הקשר אמיתי.'):''}</div>${validated?`<div class="example" style="margin-top:12px"><b>Model sentence:</b> ${esc(word.example)}</div>`:''}</div><div class="action-row">${validated?'':'<button class="btn btn-primary" id="checkBtn">בדיקת מבנה בסיסית</button>'}</div>${validated?`<div class="confidence-row"><button data-confidence="easy" class="${r.confidence==='easy'?'selected':''}">😌 קל — ידעתי היטב</button><button data-confidence="hard" class="${r.confidence==='hard'?'selected':''}">🤔 קשה — הצלחתי במאמץ</button><button data-confidence="again" class="${r.confidence==='again'?'selected':''}">🔁 לחזור בקרוב</button></div><div class="action-row"><button class="btn btn-primary" id="nextBtn" ${r.confidence?'':'disabled'}>המשך</button></div>`:''}<div class="small-note">הבדיקה האוטומטית בודקת שהמילה מופיעה ושיש לפחות 5 מילים. היא אינה מחליפה בדיקת דקדוק מלאה.</div></div>`;
+      const textarea=document.getElementById('sentenceInput');textarea.oninput=()=>{r.production.text=textarea.value;save()};if(!validated){document.getElementById('checkBtn').onclick=()=>{const text=textarea.value.trim();const issues=[];if(!includesWordFamily(text,word.word))issues.push('המילה עצמה אינה מופיעה במשפט');if(text.split(/\s+/).filter(Boolean).length<5)issues.push('המשפט קצר מדי — כתוב לפחות 5 מילים');if(issues.length){document.getElementById('feedback').innerHTML=feedbackHtml('bad',issues.join('. '));return}r.production.text=text;r.production.complete=true;recalc(word.id);save();renderProduction(word)};return}document.querySelectorAll('[data-confidence]').forEach(btn=>btn.onclick=()=>{r.confidence=btn.dataset.confidence;save();renderProduction(word)});document.getElementById('nextBtn').onclick=advance}
+    function renderSummary(){updatePhaseHeader();const rows=lesson.words.map(w=>{const r=resultFor(w.id);const cls=r.score>=4?'strong':r.score>=2?'mid':'low';return `<div class="summary-item"><span class="summary-word">${esc(w.word)}</span><span class="score ${cls}">${r.score}/4 · ${esc(r.confidence||'not rated')}</span></div>`}).join('');document.getElementById('practiceBody').innerHTML=`<div class="exercise"><div class="step-kicker">Session complete</div><div class="prompt-title">סיימת שיעור למידה פעיל</div><div class="prompt-sub">הציון משלב שליפה, שימוש בהקשר ויצירת משפט. הסנכרון ישתמש בתוצאה כדי לקבוע את מרווח החזרה הבא.</div><div class="summary-grid">${rows}</div><div class="action-row"><button class="btn btn-green" id="syncSummaryBtn">סנכרון התוצאות ל־GitHub</button><button class="btn btn-soft" id="closeBtn">סגור סיכום</button></div></div>`;document.getElementById('syncSummaryBtn').onclick=syncToGitHub;document.getElementById('closeBtn').onclick=()=>document.getElementById('practice').classList.remove('show')}
+    function renderLibrary(){if(!lesson||!session)return;const grid=document.getElementById('wordGrid');grid.innerHTML=lesson.words.map(w=>{const r=resultFor(w.id);return `<article class="word-card"><div class="card-top"><span class="reason ${w.reason==='review'?'review':''}">${w.reason==='review'?'Review':'New'}</span><span class="mini-score">${r.production.complete?`${r.score}/4`:'not completed'}</span></div><div class="card-word">${esc(w.word)}</div><div class="card-meaning">${esc(w.hebrew)}</div><div class="card-example">${esc(w.example)}</div></article>`}).join('')||'<div class="empty">אין מילים זמינות.</div>'}
+    function syncToGitHub(){const completed=lesson.words.filter(w=>{const r=resultFor(w.id);return r.production.complete&&r.confidence});if(!completed.length){showNotice('יש להשלים לפחות מילה אחת בשיעור הפעיל לפני הסנכרון.','warn');return}const results=completed.map(w=>{const r=resultFor(w.id);return{id:w.id,score:r.score,confidence:r.confidence,recall_attempts:r.recall.attempts,recall_correct:r.recall.correct,recall_hint:r.recall.hint,context_attempts:r.context.attempts,context_correct:r.context.correct,production_complete:r.production.complete}});const payload={kind:'vocabulary_feedback',version:2,date:lesson.date,results};const body=['Active vocabulary results from the Essential Vocabulary page.','No written sentences or personal notes are included.','','```json',JSON.stringify(payload,null,2),'```'].join('\n');const title=`[Vocabulary Feedback] ${lesson.date}`;window.open(`https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`,'_blank','noopener');showNotice('נפתח Issue מוכן. לחץ שם Submit new issue כדי לעדכן את פרופיל הלמידה.','good')}
+    function resetSession(){if(!confirm('לאפס את כל התרגול והתשובות של השיעור הנוכחי?'))return;session=initialSession();lesson.words.forEach(w=>resultFor(w.id));save();document.getElementById('practice').classList.remove('show');showNotice('השיעור אופס.','good')}
+    async function init(){try{lesson=await fetchJson('data/vocabulary/today.json');if(!Array.isArray(lesson.words))throw new Error('Invalid lesson data');loadSession();document.getElementById('lessonDate').textContent=`${lesson.track||'Essential English 3000'} · ${lesson.date}`;document.getElementById('lessonCount').textContent=lesson.words.length;document.getElementById('knownCount').textContent=lesson.profile_summary?.known_count??0;document.getElementById('remainingCount').textContent=lesson.profile_summary?.remaining_count??'—';document.getElementById('selectionNote').textContent=`${lesson.selection?.new_count??0} מילים חדשות · ${lesson.selection?.review_count??0} מילים לחזרה`;updateDashboard()}catch(e){document.getElementById('wordGrid').innerHTML=`<div class="empty">לא ניתן לטעון את שיעור אוצר המילים: ${esc(e.message)}</div>`;showNotice('קובץ השיעור היומי עדיין לא נבנה.','bad')}}
+    document.getElementById('startBtn').onclick=renderPractice;document.getElementById('syncBtn').onclick=syncToGitHub;document.getElementById('resetBtn').onclick=resetSession;init();
   </script>
 </body>
 </html>
