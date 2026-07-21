@@ -1,0 +1,79 @@
+name: Listening and viewing learning
+
+on:
+  schedule:
+    - cron: "50 4 * * *"
+  workflow_dispatch:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: listening-learning-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build-daily-listening:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build listening lesson
+        run: python src/build_listening_lesson.py
+      - name: Commit listening data when changed
+        run: |
+          if git diff --quiet -- docs/data/listening/; then
+            echo "Listening lesson is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/listening/library.json docs/data/listening/today.json
+          git commit -m "Update daily listening lesson"
+          git pull --rebase origin main
+          git push
+
+  apply-owner-feedback:
+    if: >-
+      github.event_name == 'issues' &&
+      startsWith(github.event.issue.title, '[Listening Feedback]') &&
+      github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Apply listening feedback
+        run: python src/apply_listening_feedback.py "$GITHUB_EVENT_PATH"
+      - name: Select the next suitable lesson
+        run: python src/build_listening_lesson.py
+      - name: Commit progress and refreshed lesson
+        run: |
+          if git diff --quiet -- docs/data/listening/; then
+            echo "No listening changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/data/listening/
+            git commit -m "Apply listening comprehension feedback"
+            git pull --rebase origin main
+            git push
+          fi
+      - name: Confirm and close feedback issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "Listening progress was saved and the next suitable lesson was selected."
+          gh issue close "$ISSUE_NUMBER" --reason completed
