@@ -81,24 +81,14 @@ def main() -> None:
     for word in words:
         word_id = str(word.get("id", ""))
         entry = profile_entry(profile_words, word_id)
-        verified_known = (
-            entry.get("status") == "known"
-            and int(entry.get("mastery", 0)) >= 5
-            and int(entry.get("successful_sessions", 0)) >= 2
-        )
-        if verified_known:
+        # A manual like is authoritative. Any word marked known stays out of the learning path.
+        if entry.get("status") == "known":
             continue
         if not entry:
             unseen.append(word)
             continue
-        legacy_self_marked = entry.get("status") == "known" and not verified_known
-        effective_entry = {**entry}
-        if legacy_self_marked:
-            effective_entry["status"] = "learning"
-            effective_entry["next_review"] = day
-            effective_entry["verification_required"] = True
-        next_review = str(effective_entry.get("next_review") or "9999-12-31")
-        wrapped = {**word, "_profile": effective_entry}
+        next_review = str(entry.get("next_review") or "9999-12-31")
+        wrapped = {**word, "_profile": entry}
         if next_review <= day:
             due.append(wrapped)
         else:
@@ -145,7 +135,6 @@ def main() -> None:
             "mastery": int(entry.get("mastery", 0)),
             "times_seen": int(entry.get("times_seen", 0)),
             "last_score": entry.get("last_score"),
-            "verification_required": bool(entry.get("verification_required")),
         }
         published_words.append(clean)
 
@@ -164,14 +153,14 @@ def main() -> None:
         "track": "Essential English 3000",
         "lesson_size": len(published_words),
         "method": {
-            "name": "Active retrieval + contextual production + spaced review",
-            "steps": ["study", "productive_recall", "context_cloze", "sentence_production"],
+            "name": "Manual known-word override + active retrieval + contextual production + spaced review",
+            "steps": ["manual_known_override", "study", "productive_recall", "context_cloze", "sentence_production"],
             "mastery_threshold": 5,
         },
         "selection": {
             "new_count": sum(1 for w in published_words if w["reason"] == "new"),
             "review_count": sum(1 for w in published_words if w["reason"] == "review"),
-            "rule": "Due review words are prioritized; remaining places use unseen core words; mastered words are excluded.",
+            "rule": "Manually known words are excluded; due review words are prioritized; remaining places use unseen core words.",
         },
         "profile_summary": {
             "bank_size": len(words),
