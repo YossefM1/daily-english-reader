@@ -1,0 +1,42 @@
+name: Vocabulary learning checks
+
+on:
+  pull_request:
+    paths:
+      - "docs/vocabulary.html"
+      - "src/build_vocabulary_lesson.py"
+      - "src/apply_vocabulary_feedback.py"
+      - "tests/test_vocabulary_learning.py"
+      - ".github/workflows/vocabulary-tests.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Compile Python
+        run: python -m py_compile src/build_vocabulary_lesson.py src/apply_vocabulary_feedback.py
+      - name: Run vocabulary tests
+        run: python -m unittest tests/test_vocabulary_learning.py -v
+      - name: Check page JavaScript syntax
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+          html = Path('docs/vocabulary.html').read_text(encoding='utf-8')
+          scripts = re.findall(r'<script>(.*?)</script>', html, flags=re.S | re.I)
+          if not scripts:
+              raise SystemExit('No inline script found')
+          Path('/tmp/vocabulary.js').write_text('\n'.join(scripts), encoding='utf-8')
+          PY
+          node --check /tmp/vocabulary.js
