@@ -60,6 +60,8 @@ def apply_v1(words: dict[str, Any], payload: dict[str, Any], session_date: str) 
             "last_seen": session_date,
             "next_review": None,
             "times_seen": int(previous.get("times_seen", 0)) + 1,
+            "successful_sessions": max(2, int(previous.get("successful_sessions", 0))),
+            "known_source": "manual_like",
         }
 
     tomorrow = (date.fromisoformat(session_date) + timedelta(days=1)).isoformat()
@@ -77,8 +79,10 @@ def apply_v1(words: dict[str, Any], payload: dict[str, Any], session_date: str) 
 
 
 def validate_results(value: Any) -> list[dict[str, Any]]:
-    if not isinstance(value, list) or not value:
-        raise ValueError("results must be a non-empty array")
+    if value is None:
+        return []
+    if not isinstance(value, list):
+        raise ValueError("results must be an array")
     if len(value) > 100:
         raise ValueError("Feedback contains too many results")
     seen: set[str] = set()
@@ -126,6 +130,25 @@ def review_days(score: int, confidence: str, mastery: int) -> int:
     return days
 
 
+def apply_manual_known(words: dict[str, Any], known_ids: list[str], session_date: str) -> int:
+    for word_id in known_ids:
+        previous = words.get(word_id, {}) if isinstance(words.get(word_id), dict) else {}
+        words[word_id] = {
+            **previous,
+            "status": "known",
+            "mastery": 5,
+            "last_seen": session_date,
+            "next_review": None,
+            "times_seen": int(previous.get("times_seen", 0)) + 1,
+            "successful_sessions": max(2, int(previous.get("successful_sessions", 0))),
+            "last_score": 4,
+            "best_score": max(4, int(previous.get("best_score", 0))),
+            "last_confidence": "easy",
+            "known_source": "manual_like",
+        }
+    return len(known_ids)
+
+
 def apply_v2(words: dict[str, Any], results: list[dict[str, Any]], session_date: str) -> tuple[int, int]:
     mastered = 0
     learning = 0
@@ -167,6 +190,7 @@ def apply_v2(words: dict[str, Any], results: list[dict[str, Any]], session_date:
             "last_score": score,
             "best_score": max(int(previous.get("best_score", 0)), score),
             "last_confidence": confidence,
+            "known_source": "adaptive_mastery" if is_known else previous.get("known_source"),
             "last_result": {
                 "recall_attempts": result["recall_attempts"],
                 "recall_correct": result["recall_correct"],
@@ -217,13 +241,21 @@ def main(event_path: str) -> None:
         invalid = sorted(ids - valid_ids)
         if invalid:
             raise ValueError("Unknown word IDs: " + ", ".join(invalid))
-        mastered, learning = apply_v1(words, payload, session_date)
+        manually_known, learning = apply_v1(words, payload, session_date)
+        adaptively_mastered = 0
     else:
+        manual_known = unique_strings(payload.get("manual_known"), "manual_known")
         results = validate_results(payload.get("results"))
-        invalid = sorted({item["id"] for item in results} - valid_ids)
+        result_ids = {item["id"] for item in results}
+        if set(manual_known) & result_ids:
+            raise ValueError("A word cannot be both manually known and actively scored")
+        if not manual_known and not results:
+            raise ValueError("Feedback must contain manual_known or results")
+        invalid = sorted((set(manual_known) | result_ids) - valid_ids)
         if invalid:
             raise ValueError("Unknown word IDs: " + ", ".join(invalid))
-        mastered, learning = apply_v2(words, results, session_date)
+        manually_known = apply_manual_known(words, manual_known, session_date)
+        adaptively_mastered, learning = apply_v2(words, results, session_date)
 
     profile["version"] = 2
     profile["updated_at"] = datetime.now(timezone.utc).isoformat()
@@ -234,7 +266,10 @@ def main(event_path: str) -> None:
 
     PROFILE_PATH.parent.mkdir(parents=True, exist_ok=True)
     PROFILE_PATH.write_text(json.dumps(profile, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Applied feedback: {mastered} mastered, {learning} scheduled for review.")
+    print(
+        f"Applied feedback: {manually_known} manually known, "
+        f"{adaptively_mastered} adaptively mastered, {learning} scheduled for review."
+    )
 
 
 if __name__ == "__main__":
