@@ -1,0 +1,153 @@
+{
+  "date": "2026-07-21",
+  "article_id": "A",
+  "article_title": "Thousands of websites taken down for illegal World Cup streams",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main subject of the article?",
+      "options": [
+        "A new official World Cup streaming service",
+        "A crackdown on websites showing illegal World Cup streams",
+        "A fall in global interest in football",
+        "A change to the tournament's broadcasting schedule"
+      ],
+      "correct_answer": "A crackdown on websites showing illegal World Cup streams",
+      "explanation_hebrew": "הכתבה עוסקת בפעולת אכיפה רחבה נגד אתרים ששידרו משחקי מונדיאל ללא אישור.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "About how many illegal streaming sites were shut down in the United States during the tournament?",
+      "options": [
+        "Fewer than 100",
+        "About 500",
+        "More than 1,000",
+        "More than 10,000"
+      ],
+      "correct_answer": "More than 1,000",
+      "explanation_hebrew": "לפי הכתבה, יותר מאלף אתרי סטרימינג בלתי חוקיים הוסרו בארצות הברית.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which other country blocked a similar number of illegal streaming sites?",
+      "options": [
+        "Colombia",
+        "Canada",
+        "Spain",
+        "Brazil"
+      ],
+      "correct_answer": "Colombia",
+      "explanation_hebrew": "הכתבה מציינת שבקולומביה נחסם מספר דומה של אתרים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does the word “domains” refer to?",
+      "options": [
+        "Football stadiums",
+        "Government departments",
+        "Broadcasting companies",
+        "Internet addresses used by websites"
+      ],
+      "correct_answer": "Internet addresses used by websites",
+      "explanation_hebrew": "בהקשר הכתבה, domains הם שמות המתחם או הכתובות של האתרים שנחסמו או הוחרמו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do authorities seize or block the domains used for illegal sports streams? Answer in 1–3 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "To stop viewers reaching unauthorised broadcasts",
+        "To protect broadcasting rights and intellectual property",
+        "To make it harder for the same operation to continue"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article connect piracy with organised crime?",
+      "options": [
+        "Illegal streaming can produce money for criminal groups",
+        "All football fans belong to criminal organisations",
+        "Official broadcasters refuse to show the tournament",
+        "Pirated streams are always filmed inside stadiums"
+      ],
+      "correct_answer": "Illegal streaming can produce money for criminal groups",
+      "explanation_hebrew": "הכתבה מסבירה שפיראטיות יכולה להזין ולממן פעילות של קבוצות פליליות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What two actions were taken against the illegal websites? Answer in 1–2 sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Some websites or domains were blocked",
+        "Some domains were seized or taken under official control"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 50–80 word summary of the article without copying sentences.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "More than 1,000 sites were shut down in the US",
+        "A similar number were blocked in Colombia",
+        "The sites offered unauthorised World Cup streams",
+        "The crackdown aimed to protect rights and combat piracy"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 1–3 sentences explaining which detail best shows the scale of the crackdown.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Choose a concrete detail such as the number of sites in the US or Colombia",
+        "Explain why that number shows the operation was large"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "summary",
+      "type": "written_response",
+      "prompt": "Write a one-sentence headline-style summary that includes both the action and its purpose.",
+      "rubric_hebrew": "התשובה צריכה להתבסס על פרטים אמיתיים מן הכתבה, להיות ברורה, ולא להעתיק משפטים שלמים.",
+      "expected_points": [
+        "Mention that thousands of illegal streaming sites were blocked or seized",
+        "Mention protecting broadcasts, intellectual property, or fighting piracy"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
