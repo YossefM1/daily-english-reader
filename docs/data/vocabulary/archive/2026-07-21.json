@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T10:25:49.996101+00:00",
+  "generated_at": "2026-07-21T16:11:35.374279+00:00",
   "track": "Essential English 3000",
   "lesson_size": 15,
   "selection": {
@@ -11,10 +11,10 @@
   },
   "profile_summary": {
     "bank_size": 113,
-    "known_count": 60,
+    "known_count": 68,
     "learning_count": 0,
-    "remaining_count": 53,
-    "profile_updated_at": "2026-07-21T10:25:49.901354+00:00"
+    "remaining_count": 45,
+    "profile_updated_at": "2026-07-21T16:11:35.309156+00:00"
   },
   "words": [
     {
@@ -66,30 +66,6 @@
       "position": 4
     },
     {
-      "id": "core-0078",
-      "word": "necessary",
-      "part_of_speech": "adjective",
-      "level": "B1",
-      "hebrew": "הכרחי",
-      "pronunciation_hebrew": "נֶסֶסֶרִי",
-      "explanation_hebrew": "נדרש כדי שדבר יקרה או יצליח.",
-      "example": "Regular review is necessary for long-term memory.",
-      "reason": "new",
-      "position": 5
-    },
-    {
-      "id": "core-0007",
-      "word": "benefit",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "תועלת / יתרון",
-      "pronunciation_hebrew": "בֶּנֶפִיט",
-      "explanation_hebrew": "דבר טוב שמתקבל מפעולה או מצב.",
-      "example": "Regular practice has a clear benefit.",
-      "reason": "new",
-      "position": 6
-    },
-    {
       "id": "core-0044",
       "word": "relate",
       "part_of_speech": "verb",
@@ -99,7 +75,7 @@
       "explanation_hebrew": "להראות קשר בין דברים או להתייחס לנושא.",
       "example": "The questions relate to the article.",
       "reason": "new",
-      "position": 7
+      "position": 5
     },
     {
       "id": "core-0032",
@@ -111,67 +87,7 @@
       "explanation_hebrew": "לקרות, בדרך כלל בהקשר רשמי יותר.",
       "example": "The fault occurred during the experiment.",
       "reason": "new",
-      "position": 8
-    },
-    {
-      "id": "core-0077",
-      "word": "method",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "שיטה",
-      "pronunciation_hebrew": "מֶתֶד",
-      "explanation_hebrew": "דרך מסודרת לבצע משימה.",
-      "example": "This method is easy to apply.",
-      "reason": "new",
-      "position": 9
-    },
-    {
-      "id": "core-0094",
-      "word": "confirm",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "לאשר / לוודא",
-      "pronunciation_hebrew": "קַנְפֶרְם",
-      "explanation_hebrew": "להראות שדבר נכון או לבדוק שהוא אכן נכון.",
-      "example": "Please confirm the meeting time.",
-      "reason": "new",
-      "position": 10
-    },
-    {
-      "id": "core-0098",
-      "word": "estimate",
-      "part_of_speech": "verb",
-      "level": "B2",
-      "hebrew": "להעריך",
-      "pronunciation_hebrew": "אֶסְטִימֵייט",
-      "explanation_hebrew": "לחשב בקירוב כמות או ערך.",
-      "example": "We can estimate the cost before ordering.",
-      "reason": "new",
-      "position": 11
-    },
-    {
-      "id": "core-0112",
-      "word": "select",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "לבחור",
-      "pronunciation_hebrew": "סִילֶקְט",
-      "explanation_hebrew": "לבחור פריט אחד או יותר מתוך קבוצה.",
-      "example": "Select the correct answer.",
-      "reason": "new",
-      "position": 12
-    },
-    {
-      "id": "core-0054",
-      "word": "value",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "ערך / חשיבות",
-      "pronunciation_hebrew": "וַלְיוּ",
-      "explanation_hebrew": "החשיבות או התועלת של דבר.",
-      "example": "Examples add value to a vocabulary lesson.",
-      "reason": "new",
-      "position": 13
+      "position": 6
     },
     {
       "id": "core-0019",
@@ -183,17 +99,101 @@
       "explanation_hebrew": "לתת תמיכה או ביטחון כדי שמישהו יעשה משהו.",
       "example": "Good teachers encourage students to ask questions.",
       "reason": "new",
+      "position": 7
+    },
+    {
+      "id": "core-0090",
+      "word": "appropriate",
+      "part_of_speech": "adjective",
+      "level": "B2",
+      "hebrew": "מתאים / ראוי",
+      "pronunciation_hebrew": "אַפְּרוֹפְּרִיאֶט",
+      "explanation_hebrew": "נכון ומתאים למצב מסוים.",
+      "example": "Choose an appropriate example for the audience.",
+      "reason": "new",
+      "position": 8
+    },
+    {
+      "id": "core-0097",
+      "word": "essential",
+      "part_of_speech": "adjective",
+      "level": "B2",
+      "hebrew": "חיוני / הכרחי",
+      "pronunciation_hebrew": "אִיסֶנְשֶל",
+      "explanation_hebrew": "חשוב מאוד ונדרש להצלחה.",
+      "example": "Practice is essential for language learning.",
+      "reason": "new",
+      "position": 9
+    },
+    {
+      "id": "core-0034",
+      "word": "particular",
+      "part_of_speech": "adjective",
+      "level": "B1",
+      "hebrew": "מסוים / מיוחד",
+      "pronunciation_hebrew": "פַּרְטִיקְיוּלֶר",
+      "explanation_hebrew": "מתייחס לדבר אחד מוגדר ולא לכלל.",
+      "example": "Is there a particular topic you want to study?",
+      "reason": "new",
+      "position": 10
+    },
+    {
+      "id": "core-0016",
+      "word": "develop",
+      "part_of_speech": "verb",
+      "level": "B1",
+      "hebrew": "לפתח / להתפתח",
+      "pronunciation_hebrew": "דִיוֶולוֹפּ",
+      "explanation_hebrew": "ליצור דבר בהדרגה או לגרום לו להשתפר.",
+      "example": "The company plans to develop a new product.",
+      "reason": "new",
+      "position": 11
+    },
+    {
+      "id": "core-0088",
+      "word": "advantage",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "יתרון",
+      "pronunciation_hebrew": "אַדְוַנְטִיג'",
+      "explanation_hebrew": "תכונה שנותנת עדיפות או תועלת.",
+      "example": "The main advantage is lower cost.",
+      "reason": "new",
+      "position": 12
+    },
+    {
+      "id": "core-0084",
+      "word": "structure",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "מבנה",
+      "pronunciation_hebrew": "סְטְרַקְצֶ'ר",
+      "explanation_hebrew": "האופן שבו חלקים מסודרים ומחוברים.",
+      "example": "The sentence has a simple structure.",
+      "reason": "new",
+      "position": 13
+    },
+    {
+      "id": "core-0042",
+      "word": "receive",
+      "part_of_speech": "verb",
+      "level": "A2",
+      "hebrew": "לקבל",
+      "pronunciation_hebrew": "רִיסִיב",
+      "explanation_hebrew": "לקבל דבר שנשלח או ניתן.",
+      "example": "You will receive the results by email.",
+      "reason": "new",
       "position": 14
     },
     {
-      "id": "core-0089",
-      "word": "alternative",
-      "part_of_speech": "noun",
+      "id": "core-0028",
+      "word": "influence",
+      "part_of_speech": "verb",
       "level": "B2",
-      "hebrew": "חלופה",
-      "pronunciation_hebrew": "אוֹלְטֶרְנָטִיב",
-      "explanation_hebrew": "אפשרות אחרת שניתן לבחור במקום הקיימת.",
-      "example": "We should consider an alternative solution.",
+      "hebrew": "להשפיע",
+      "pronunciation_hebrew": "אִינְפְלוּאֶנְס",
+      "explanation_hebrew": "לשנות את האופן שבו אדם או דבר מתנהג.",
+      "example": "Weather can influence travel plans.",
       "reason": "new",
       "position": 15
     }
