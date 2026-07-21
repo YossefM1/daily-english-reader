@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-21",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Burnham has big ideas - but what will they cost?",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o",
+  "word_count": 1121,
+  "generated_at": "2026-07-21T02:14:22.178254+00:00",
+  "difficulty_reason": "Dense analytical piece on fiscal and political trade-offs with long, complex sentences and B2/C1/C2 vocabulary; requires background on UK economics and government.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "constraints",
+      "lemma": "constraint",
+      "level": "C1",
+      "hebrew": "אילוצים",
+      "explanation_hebrew": "דברים שמגבילים את חופש הפעולה",
+      "pronunciation_hebrew": "קוֹנְסְטְרֵינְטְס",
+      "example": "He now faces real constraints."
+    },
+    {
+      "word": "realities",
+      "lemma": "reality",
+      "level": "B2",
+      "hebrew": "מציאויות",
+      "explanation_hebrew": "העובדות כפי שהן באמת",
+      "pronunciation_hebrew": "רִיאַלִיטִיז",
+      "example": "He faces the realities of high office."
+    },
+    {
+      "word": "prioritises",
+      "lemma": "prioritise",
+      "level": "C1",
+      "hebrew": "מתעדף",
+      "explanation_hebrew": "נותן עדיפות לדבר מסוים",
+      "pronunciation_hebrew": "פְּרַיְאוֹרִיטַיְזֶז",
+      "example": "We'll see what he prioritises."
+    },
+    {
+      "word": "borrowing",
+      "lemma": "borrowing",
+      "level": "B2",
+      "hebrew": "לווית כספים",
+      "explanation_hebrew": "לקיחת כסף בהלוואה",
+      "pronunciation_hebrew": "בּוֹרוֹאִינג",
+      "example": "Government borrowing rose above 5%."
+    },
+    {
+      "word": "sensitivities",
+      "lemma": "sensitivity",
+      "level": "C1",
+      "hebrew": "רגישויות",
+      "explanation_hebrew": "נקודות עדינות הדורשות זהירות",
+      "pronunciation_hebrew": "סֶנְסִיטִיבִיטִיז",
+      "example": "It shows the sensitivities of the moment."
+    },
+    {
+      "word": "overhauling",
+      "lemma": "overhaul",
+      "level": "C1",
+      "hebrew": "שיפוץ יסודי",
+      "explanation_hebrew": "שינוי או רענון מקיף של משהו",
+      "pronunciation_hebrew": "אוֹבֶרְהוֹלִינג",
+      "example": "He is overhauling his cabinet."
+    },
+    {
+      "word": "cabinet",
+      "lemma": "cabinet",
+      "level": "B2",
+      "hebrew": "קבינט",
+      "explanation_hebrew": "קבוצת השרים הבכירים בממשלה",
+      "pronunciation_hebrew": "קַבִּינֶט",
+      "example": "He is changing his cabinet."
+    },
+    {
+      "word": "institutions",
+      "lemma": "institution",
+      "level": "B2",
+      "hebrew": "מוסדות",
+      "explanation_hebrew": "ארגונים גדולים וקבועים",
+      "pronunciation_hebrew": "אִנְסְטִיטְיוּשֶנְז",
+      "example": "It concerns financial institutions."
+    },
+    {
+      "word": "exempt",
+      "lemma": "exempt",
+      "level": "C1",
+      "hebrew": "לפטור",
+      "explanation_hebrew": "לשחרר מחובה או מכלל",
+      "pronunciation_hebrew": "אִגְזֶמְפְּט",
+      "example": "It helps exempt certain borrowing."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "B2",
+      "hebrew": "תשתית",
+      "explanation_hebrew": "מערכות בסיס כמו כבישים וחשמל",
+      "pronunciation_hebrew": "אִנְפְרַסְטְרַקְצ'ֶר",
+      "example": "The money could go to infrastructure."
+    },
+    {
+      "word": "tricky",
+      "lemma": "tricky",
+      "level": "B1",
+      "hebrew": "מסובך",
+      "explanation_hebrew": "קשה לטיפול או עלול להכשיל",
+      "pronunciation_hebrew": "טְרִיקִי",
+      "example": "Every tricky decision is watched."
+    },
+    {
+      "word": "treasury",
+      "lemma": "treasury",
+      "level": "B2",
+      "hebrew": "האוצר",
+      "explanation_hebrew": "משרד הממשלה האחראי לכספים",
+      "pronunciation_hebrew": "טְרֶז'ֶרִי",
+      "example": "He worked in the treasury."
+    },
+    {
+      "word": "regenerate",
+      "lemma": "regenerate",
+      "level": "C1",
+      "hebrew": "לשקם",
+      "explanation_hebrew": "להחיות או לשפץ מחדש אזור",
+      "pronunciation_hebrew": "רִיג'ֶנֶרֵיט",
+      "example": "They tried to regenerate the region."
+    },
+    {
+      "word": "devolve",
+      "lemma": "devolve",
+      "level": "C2",
+      "hebrew": "לבזר סמכויות",
+      "explanation_hebrew": "להעביר כוח וסמכויות לרמה מקומית",
+      "pronunciation_hebrew": "דִיוֹלְב",
+      "example": "They wanted to devolve power."
+    },
+    {
+      "word": "scrapped",
+      "lemma": "scrap",
+      "level": "B2",
+      "hebrew": "בוטל",
+      "explanation_hebrew": "בוטל או נזנח לחלוטין",
+      "pronunciation_hebrew": "סְקְרַאפְּט",
+      "example": "The agencies were later scrapped."
+    },
+    {
+      "word": "coalition",
+      "lemma": "coalition",
+      "level": "B2",
+      "hebrew": "קואליציה",
+      "explanation_hebrew": "שיתוף בין מפלגות לצורך שלטון",
+      "pronunciation_hebrew": "קוֹאַלִישֶן",
+      "example": "The coalition government cut them."
+    },
+    {
+      "word": "outlook",
+      "lemma": "outlook",
+      "level": "B2",
+      "hebrew": "השקפה / תחזית",
+      "explanation_hebrew": "דרך הראייה או הצפי לעתיד",
+      "pronunciation_hebrew": "אַאוּטְלוּק",
+      "example": "They share the same outlook."
+    },
+    {
+      "word": "fiscal",
+      "lemma": "fiscal",
+      "level": "C1",
+      "hebrew": "פיסקלי / תקציבי",
+      "explanation_hebrew": "קשור לכספי המדינה ולמיסים",
+      "pronunciation_hebrew": "פִיסְקַל",
+      "example": "They kept the fiscal rules."
+    },
+    {
+      "word": "devolution",
+      "lemma": "devolution",
+      "level": "C1",
+      "hebrew": "ביזור סמכויות",
+      "explanation_hebrew": "העברת כוח מהשלטון המרכזי לאזורים",
+      "pronunciation_hebrew": "דֶבוֹלוּשֶן",
+      "example": "He believes in devolution."
+    },
+    {
+      "word": "settlement",
+      "lemma": "settlement",
+      "level": "B2",
+      "hebrew": "הסדר / הסכם",
+      "explanation_hebrew": "הסכמה רשמית בעניין מסוים",
+      "pronunciation_hebrew": "סֶטְלְמֶנְט",
+      "example": "He resigned over the defence settlement."
+    },
+    {
+      "word": "lockstep",
+      "lemma": "lockstep",
+      "level": "C2",
+      "hebrew": "בתיאום מלא",
+      "explanation_hebrew": "פעולה מתואמת לחלוטין עם מישהו",
+      "pronunciation_hebrew": "לוֹקְסְטֶפּ",
+      "example": "He will work in lockstep with the PM."
+    },
+    {
+      "word": "buffer",
+      "lemma": "buffer",
+      "level": "B2",
+      "hebrew": "כרית ביטחון",
+      "explanation_hebrew": "מרווח הגנה מפני סיכון",
+      "pronunciation_hebrew": "בַאפֶר",
+      "example": "He wants a buffer against uncertainty."
+    },
+    {
+      "word": "uncertainty",
+      "lemma": "uncertainty",
+      "level": "B2",
+      "hebrew": "אי-ודאות",
+      "explanation_hebrew": "מצב שבו לא יודעים מה יקרה",
+      "pronunciation_hebrew": "אַנְסֶרְטְנְטִי",
+      "example": "There is a buffer against uncertainty."
+    },
+    {
+      "word": "jitters",
+      "lemma": "jitter",
+      "level": "C2",
+      "hebrew": "עצבנות בשווקים",
+      "explanation_hebrew": "חרדה וחוסר ביטחון, בעיקר בכלכלה",
+      "pronunciation_hebrew": "ג'ִיטֶרְז",
+      "example": "He will calm market jitters."
+    },
+    {
+      "word": "threshold",
+      "lemma": "threshold",
+      "level": "B2",
+      "hebrew": "סף",
+      "explanation_hebrew": "גבול או נקודת מעבר שממנה משהו מתחיל",
+      "pronunciation_hebrew": "תְרֶשְהוֹלְד",
+      "example": "They may unfreeze the tax threshold."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "constraints",
+      "type": "english_to_hebrew",
+      "question": "What does “constraints” mean?",
+      "options": [
+        "אילוצים",
+        "מתעדף",
+        "לווית כספים",
+        "מציאויות"
+      ],
+      "correct_answer": "אילוצים",
+      "explanation_hebrew": "המילה “constraints” פירושה אילוצים."
+    },
+    {
+      "id": "C-q2",
+      "word": "realities",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מציאויות”?",
+      "options": [
+        "sensitivities",
+        "borrowing",
+        "realities",
+        "prioritises"
+      ],
+      "correct_answer": "realities",
+      "explanation_hebrew": "“מציאויות” באנגלית הוא “realities”."
+    },
+    {
+      "id": "C-q3",
+      "word": "prioritises",
+      "type": "english_to_hebrew",
+      "question": "What does “prioritises” mean?",
+      "options": [
+        "מתעדף",
+        "רגישויות",
+        "שיפוץ יסודי",
+        "לווית כספים"
+      ],
+      "correct_answer": "מתעדף",
+      "explanation_hebrew": "המילה “prioritises” פירושה מתעדף."
+    },
+    {
+      "id": "C-q4",
+      "word": "borrowing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לווית כספים”?",
+      "options": [
+        "cabinet",
+        "borrowing",
+        "sensitivities",
+        "overhauling"
+      ],
+      "correct_answer": "borrowing",
+      "explanation_hebrew": "“לווית כספים” באנגלית הוא “borrowing”."
+    },
+    {
+      "id": "C-q5",
+      "word": "sensitivities",
+      "type": "english_to_hebrew",
+      "question": "What does “sensitivities” mean?",
+      "options": [
+        "שיפוץ יסודי",
+        "קבינט",
+        "רגישויות",
+        "מוסדות"
+      ],
+      "correct_answer": "רגישויות",
+      "explanation_hebrew": "המילה “sensitivities” פירושה רגישויות."
+    },
+    {
+      "id": "C-q6",
+      "word": "overhauling",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שיפוץ יסודי”?",
+      "options": [
+        "exempt",
+        "overhauling",
+        "institutions",
+        "cabinet"
+      ],
+      "correct_answer": "overhauling",
+      "explanation_hebrew": "“שיפוץ יסודי” באנגלית הוא “overhauling”."
+    },
+    {
+      "id": "C-q7",
+      "word": "cabinet",
+      "type": "english_to_hebrew",
+      "question": "What does “cabinet” mean?",
+      "options": [
+        "קבינט",
+        "לפטור",
+        "מוסדות",
+        "תשתית"
+      ],
+      "correct_answer": "קבינט",
+      "explanation_hebrew": "המילה “cabinet” פירושה קבינט."
+    },
+    {
+      "id": "C-q8",
+      "word": "institutions",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוסדות”?",
+      "options": [
+        "infrastructure",
+        "institutions",
+        "exempt",
+        "tricky"
+      ],
+      "correct_answer": "institutions",
+      "explanation_hebrew": "“מוסדות” באנגלית הוא “institutions”."
+    },
+    {
+      "id": "C-q9",
+      "word": "exempt",
+      "type": "english_to_hebrew",
+      "question": "What does “exempt” mean?",
+      "options": [
+        "תשתית",
+        "האוצר",
+        "מסובך",
+        "לפטור"
+      ],
+      "correct_answer": "לפטור",
+      "explanation_hebrew": "המילה “exempt” פירושה לפטור."
+    },
+    {
+      "id": "C-q10",
+      "word": "infrastructure",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תשתית”?",
+      "options": [
+        "regenerate",
+        "tricky",
+        "infrastructure",
+        "treasury"
+      ],
+      "correct_answer": "infrastructure",
+      "explanation_hebrew": "“תשתית” באנגלית הוא “infrastructure”."
+    },
+    {
+      "id": "C-q11",
+      "word": "tricky",
+      "type": "english_to_hebrew",
+      "question": "What does “tricky” mean?",
+      "options": [
+        "מסובך",
+        "האוצר",
+        "לבזר סמכויות",
+        "לשקם"
+      ],
+      "correct_answer": "מסובך",
+      "explanation_hebrew": "המילה “tricky” פירושה מסובך."
+    },
+    {
+      "id": "C-q12",
+      "word": "treasury",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “האוצר”?",
+      "options": [
+        "devolve",
+        "treasury",
+        "scrapped",
+        "regenerate"
+      ],
+      "correct_answer": "treasury",
+      "explanation_hebrew": "“האוצר” באנגלית הוא “treasury”."
+    },
+    {
+      "id": "C-q13",
+      "word": "regenerate",
+      "type": "english_to_hebrew",
+      "question": "What does “regenerate” mean?",
+      "options": [
+        "לבזר סמכויות",
+        "בוטל",
+        "קואליציה",
+        "לשקם"
+      ],
+      "correct_answer": "לשקם",
+      "explanation_hebrew": "המילה “regenerate” פירושה לשקם."
+    },
+    {
+      "id": "C-q14",
+      "word": "devolve",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לבזר סמכויות”?",
+      "options": [
+        "scrapped",
+        "coalition",
+        "outlook",
+        "devolve"
+      ],
+      "correct_answer": "devolve",
+      "explanation_hebrew": "“לבזר סמכויות” באנגלית הוא “devolve”."
+    },
+    {
+      "id": "C-q15",
+      "word": "scrapped",
+      "type": "english_to_hebrew",
+      "question": "What does “scrapped” mean?",
+      "options": [
+        "השקפה / תחזית",
+        "פיסקלי / תקציבי",
+        "קואליציה",
+        "בוטל"
+      ],
+      "correct_answer": "בוטל",
+      "explanation_hebrew": "המילה “scrapped” פירושה בוטל."
+    },
+    {
+      "id": "C-q16",
+      "word": "coalition",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קואליציה”?",
+      "options": [
+        "fiscal",
+        "outlook",
+        "devolution",
+        "coalition"
+      ],
+      "correct_answer": "coalition",
+      "explanation_hebrew": "“קואליציה” באנגלית הוא “coalition”."
+    },
+    {
+      "id": "C-q17",
+      "word": "outlook",
+      "type": "english_to_hebrew",
+      "question": "What does “outlook” mean?",
+      "options": [
+        "השקפה / תחזית",
+        "הסדר / הסכם",
+        "ביזור סמכויות",
+        "פיסקלי / תקציבי"
+      ],
+      "correct_answer": "השקפה / תחזית",
+      "explanation_hebrew": "המילה “outlook” פירושה השקפה / תחזית."
+    },
+    {
+      "id": "C-q18",
+      "word": "fiscal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פיסקלי / תקציבי”?",
+      "options": [
+        "lockstep",
+        "settlement",
+        "fiscal",
+        "devolution"
+      ],
+      "correct_answer": "fiscal",
+      "explanation_hebrew": "“פיסקלי / תקציבי” באנגלית הוא “fiscal”."
+    },
+    {
+      "id": "C-q19",
+      "word": "devolution",
+      "type": "english_to_hebrew",
+      "question": "What does “devolution” mean?",
+      "options": [
+        "ביזור סמכויות",
+        "הסדר / הסכם",
+        "בתיאום מלא",
+        "כרית ביטחון"
+      ],
+      "correct_answer": "ביזור סמכויות",
+      "explanation_hebrew": "המילה “devolution” פירושה ביזור סמכויות."
+    },
+    {
+      "id": "C-q20",
+      "word": "settlement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הסדר / הסכם”?",
+      "options": [
+        "settlement",
+        "uncertainty",
+        "buffer",
+        "lockstep"
+      ],
+      "correct_answer": "settlement",
+      "explanation_hebrew": "“הסדר / הסכם” באנגלית הוא “settlement”."
+    },
+    {
+      "id": "C-q21",
+      "word": "lockstep",
+      "type": "english_to_hebrew",
+      "question": "What does “lockstep” mean?",
+      "options": [
+        "כרית ביטחון",
+        "בתיאום מלא",
+        "אי-ודאות",
+        "עצבנות בשווקים"
+      ],
+      "correct_answer": "בתיאום מלא",
+      "explanation_hebrew": "המילה “lockstep” פירושה בתיאום מלא."
+    },
+    {
+      "id": "C-q22",
+      "word": "buffer",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “כרית ביטחון”?",
+      "options": [
+        "uncertainty",
+        "threshold",
+        "buffer",
+        "jitters"
+      ],
+      "correct_answer": "buffer",
+      "explanation_hebrew": "“כרית ביטחון” באנגלית הוא “buffer”."
+    },
+    {
+      "id": "C-q23",
+      "word": "uncertainty",
+      "type": "english_to_hebrew",
+      "question": "What does “uncertainty” mean?",
+      "options": [
+        "עצבנות בשווקים",
+        "אי-ודאות",
+        "אילוצים",
+        "סף"
+      ],
+      "correct_answer": "אי-ודאות",
+      "explanation_hebrew": "המילה “uncertainty” פירושה אי-ודאות."
+    },
+    {
+      "id": "C-q24",
+      "word": "jitters",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עצבנות בשווקים”?",
+      "options": [
+        "constraints",
+        "realities",
+        "threshold",
+        "jitters"
+      ],
+      "correct_answer": "jitters",
+      "explanation_hebrew": "“עצבנות בשווקים” באנגלית הוא “jitters”."
+    },
+    {
+      "id": "C-q25",
+      "word": "threshold",
+      "type": "english_to_hebrew",
+      "question": "What does “threshold” mean?",
+      "options": [
+        "אילוצים",
+        "מציאויות",
+        "סף",
+        "מתעדף"
+      ],
+      "correct_answer": "סף",
+      "explanation_hebrew": "המילה “threshold” פירושה סף."
+    }
+  ]
+}
