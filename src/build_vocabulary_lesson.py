@@ -16,8 +16,8 @@ PROFILE_PATH = ROOT / "docs" / "data" / "vocabulary" / "learner-profile.json"
 TODAY_PATH = ROOT / "docs" / "data" / "vocabulary" / "today.json"
 ARCHIVE_DIR = ROOT / "docs" / "data" / "vocabulary" / "archive"
 ARTICLE_TODAY_PATH = ROOT / "docs" / "data" / "today.json"
-LESSON_SIZE = int(os.environ.get("VOCABULARY_LESSON_SIZE", "15"))
-MAX_REVIEW = int(os.environ.get("VOCABULARY_MAX_REVIEW", "5"))
+LESSON_SIZE = int(os.environ.get("VOCABULARY_LESSON_SIZE", "10"))
+MAX_REVIEW = int(os.environ.get("VOCABULARY_MAX_REVIEW", "4"))
 
 
 def read_json(path: Path, default: Any) -> Any:
@@ -65,7 +65,7 @@ def main() -> None:
 
     profile = read_json(
         PROFILE_PATH,
-        {"version": 1, "updated_at": None, "feedback_sessions": 0, "processed_issue_numbers": [], "words": {}},
+        {"version": 2, "updated_at": None, "feedback_sessions": 0, "processed_issue_numbers": [], "words": {}},
     )
     if not isinstance(profile, dict):
         raise SystemExit("Learner profile must be a JSON object")
@@ -81,8 +81,8 @@ def main() -> None:
     for word in words:
         word_id = str(word.get("id", ""))
         entry = profile_entry(profile_words, word_id)
-        status = entry.get("status")
-        if status == "known":
+        # A manual like is authoritative. Any word marked known stays out of the learning path.
+        if entry.get("status") == "known":
             continue
         if not entry:
             unseen.append(word)
@@ -94,10 +94,19 @@ def main() -> None:
         else:
             learning_not_due.append(wrapped)
 
-    due.sort(key=lambda w: (str(w.get("_profile", {}).get("next_review") or ""), str(w.get("word"))))
+    due.sort(
+        key=lambda w: (
+            str(w.get("_profile", {}).get("next_review") or ""),
+            int(w.get("_profile", {}).get("mastery", 0)),
+            str(w.get("word")),
+        )
+    )
     unseen.sort(key=lambda w: stable_rank(day, str(w.get("id"))))
     learning_not_due.sort(
-        key=lambda w: (str(w.get("_profile", {}).get("next_review") or "9999-12-31"), stable_rank(day, str(w.get("id"))))
+        key=lambda w: (
+            str(w.get("_profile", {}).get("next_review") or "9999-12-31"),
+            stable_rank(day, str(w.get("id"))),
+        )
     )
 
     selected: list[tuple[dict[str, Any], str]] = []
@@ -119,27 +128,39 @@ def main() -> None:
     published_words = []
     for position, (word, reason) in enumerate(selected, start=1):
         clean = {k: v for k, v in word.items() if not k.startswith("_")}
+        entry = word.get("_profile", {}) if isinstance(word.get("_profile"), dict) else {}
         clean["reason"] = reason
         clean["position"] = position
+        clean["learning_state"] = {
+            "mastery": int(entry.get("mastery", 0)),
+            "times_seen": int(entry.get("times_seen", 0)),
+            "last_score": entry.get("last_score"),
+        }
         published_words.append(clean)
 
-    known_count = sum(1 for wid in {str(w.get('id')) for w in words} if profile_entry(profile_words, wid).get("status") == "known")
+    all_ids = {str(w.get("id")) for w in words}
+    known_count = sum(1 for wid in all_ids if profile_entry(profile_words, wid).get("status") == "known")
     learning_count = sum(
         1
-        for wid in {str(w.get('id')) for w in words}
+        for wid in all_ids
         if profile_entry(profile_words, wid) and profile_entry(profile_words, wid).get("status") != "known"
     )
     now = datetime.now(timezone.utc).isoformat()
     output = {
-        "version": 1,
+        "version": 2,
         "date": day,
         "generated_at": now,
         "track": "Essential English 3000",
         "lesson_size": len(published_words),
+        "method": {
+            "name": "Manual known-word override + active retrieval + contextual production + spaced review",
+            "steps": ["manual_known_override", "study", "productive_recall", "context_cloze", "sentence_production"],
+            "mastery_threshold": 5,
+        },
         "selection": {
             "new_count": sum(1 for w in published_words if w["reason"] == "new"),
             "review_count": sum(1 for w in published_words if w["reason"] == "review"),
-            "rule": "Known words are excluded; due review words are prioritized; remaining places use unseen core words.",
+            "rule": "Manually known words are excluded; due review words are prioritized; remaining places use unseen core words.",
         },
         "profile_summary": {
             "bank_size": len(words),
