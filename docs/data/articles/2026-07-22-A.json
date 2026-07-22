@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-22",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo",
+  "word_count": 564,
+  "generated_at": "2026-07-22T02:12:25.263383+00:00",
+  "difficulty_reason": "Short, clear environmental report with a simple narrative and mostly B1/B2 vocabulary; low background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "decline",
+      "lemma": "decline",
+      "level": "B1",
+      "hebrew": "יְרִידָה",
+      "explanation_hebrew": "הפחתה או ירידה בכמות או ברמה",
+      "pronunciation_hebrew": "דִּיקְלַיְין",
+      "example": "There was a sharp decline in sales."
+    },
+    {
+      "word": "deforestation",
+      "lemma": "deforestation",
+      "level": "B2",
+      "hebrew": "כְּרִיתַת יְעָרוֹת",
+      "explanation_hebrew": "הסרה של יערות בשטח נרחב",
+      "pronunciation_hebrew": "דִּיפוֹרֶסְטֵיְישֶׁן",
+      "example": "Deforestation harms many animal species."
+    },
+    {
+      "word": "monitoring",
+      "lemma": "monitor",
+      "level": "B2",
+      "hebrew": "נִיטוּר",
+      "explanation_hebrew": "מעקב שיטתי אחר משהו לאורך זמן",
+      "pronunciation_hebrew": "מוֹנִיטוֹרִינְג",
+      "example": "The monitoring of air quality is important."
+    },
+    {
+      "word": "rainforest",
+      "lemma": "rainforest",
+      "level": "B1",
+      "hebrew": "יַעַר גֶּשֶׁם",
+      "explanation_hebrew": "יער טרופי צפוף עם גשם רב",
+      "pronunciation_hebrew": "רֵייְנְפוֹרֶסְט",
+      "example": "The rainforest is home to many birds."
+    },
+    {
+      "word": "pledges",
+      "lemma": "pledge",
+      "level": "B2",
+      "hebrew": "הַתְחַיְּבֻיּוֹת",
+      "explanation_hebrew": "הבטחות רשמיות לעשות משהו",
+      "pronunciation_hebrew": "פְּלֶגְ'ז",
+      "example": "The leaders made several pledges to cut pollution."
+    },
+    {
+      "word": "boost",
+      "lemma": "boost",
+      "level": "B1",
+      "hebrew": "דְּחִיפָה",
+      "explanation_hebrew": "עלייה או שיפור, עידוד",
+      "pronunciation_hebrew": "בּוּסְט",
+      "example": "The news gave his campaign a boost."
+    },
+    {
+      "word": "campaign",
+      "lemma": "campaign",
+      "level": "B1",
+      "hebrew": "מַסָּע/קַמְפֵּיְין",
+      "explanation_hebrew": "מסע פעולות מתוכנן להשגת מטרה",
+      "pronunciation_hebrew": "קַמְפֵּיְין",
+      "example": "She ran a long election campaign."
+    },
+    {
+      "word": "experienced",
+      "lemma": "experience",
+      "level": "B1",
+      "hebrew": "חָוָה",
+      "explanation_hebrew": "עבר או חש משהו",
+      "pronunciation_hebrew": "אֶקְסְפִּירְיֶנְסְט",
+      "example": "The country experienced heavy rain."
+    },
+    {
+      "word": "significant",
+      "lemma": "significant",
+      "level": "B2",
+      "hebrew": "מַשְׁמָעוּתִי",
+      "explanation_hebrew": "חשוב או גדול מספיק כדי לשים לב",
+      "pronunciation_hebrew": "סִיגְנִיפִיקַנְט",
+      "example": "The drop was significant this year."
+    },
+    {
+      "word": "reduce",
+      "lemma": "reduce",
+      "level": "B1",
+      "hebrew": "לְהַפְחִית",
+      "explanation_hebrew": "להקטין כמות או גודל",
+      "pronunciation_hebrew": "רִידְיוּס",
+      "example": "We must reduce our waste."
+    },
+    {
+      "word": "drop",
+      "lemma": "drop",
+      "level": "B1",
+      "hebrew": "יְרִידָה",
+      "explanation_hebrew": "ירידה או נפילה בכמות",
+      "pronunciation_hebrew": "דְּרוֹפּ",
+      "example": "There was a big drop in prices."
+    },
+    {
+      "word": "primarily",
+      "lemma": "primarily",
+      "level": "B2",
+      "hebrew": "בְּעִקָּר",
+      "explanation_hebrew": "בעיקר, בראש ובראשונה",
+      "pronunciation_hebrew": "פְּרַיְמֶרִילִי",
+      "example": "The park is used primarily by families."
+    },
+    {
+      "word": "prevention",
+      "lemma": "prevention",
+      "level": "B2",
+      "hebrew": "מְנִיעָה",
+      "explanation_hebrew": "פעולה שנועדה למנוע משהו",
+      "pronunciation_hebrew": "פְּרִיוֶנְשֶׁן",
+      "example": "Fire prevention saves lives."
+    },
+    {
+      "word": "efforts",
+      "lemma": "effort",
+      "level": "B1",
+      "hebrew": "מַאֲמַצִּים",
+      "explanation_hebrew": "ניסיונות ופעולות להשגת מטרה",
+      "pronunciation_hebrew": "אֶפוֹרְטְס",
+      "example": "Their efforts finally paid off."
+    },
+    {
+      "word": "dramatic",
+      "lemma": "dramatic",
+      "level": "B2",
+      "hebrew": "דְּרָמָטִי",
+      "explanation_hebrew": "פתאומי, גדול ומרשים",
+      "pronunciation_hebrew": "דְּרָמָטִיק",
+      "example": "There was a dramatic change in the weather."
+    },
+    {
+      "word": "unprecedented",
+      "lemma": "unprecedented",
+      "level": "C1",
+      "hebrew": "חֲסַר תַּקְדִּים",
+      "explanation_hebrew": "משהו שלא קרה מעולם קודם",
+      "pronunciation_hebrew": "אַנְפְּרֶסֶדֶנְטֶד",
+      "example": "The fires were unprecedented in scale."
+    },
+    {
+      "word": "easing",
+      "lemma": "ease",
+      "level": "B2",
+      "hebrew": "הֲקָלָה",
+      "explanation_hebrew": "הפחתה או ריכוך של מצב קשה",
+      "pronunciation_hebrew": "אִיזִינְג",
+      "example": "The easing of tension helped talks."
+    },
+    {
+      "word": "conditions",
+      "lemma": "condition",
+      "level": "B1",
+      "hebrew": "תְּנָאִים",
+      "explanation_hebrew": "מצב או נסיבות סובבות",
+      "pronunciation_hebrew": "קוֹנְדִישֶׁנְז",
+      "example": "The weather conditions were dangerous."
+    },
+    {
+      "word": "absorb",
+      "lemma": "absorb",
+      "level": "B2",
+      "hebrew": "לִסְפֹּג",
+      "explanation_hebrew": "לקלוט חומר לתוך משהו",
+      "pronunciation_hebrew": "אַבְּזוֹרְבּ",
+      "example": "Plants absorb carbon dioxide."
+    },
+    {
+      "word": "vast",
+      "lemma": "vast",
+      "level": "B2",
+      "hebrew": "עָצוּם",
+      "explanation_hebrew": "גדול מאוד בגודל או בכמות",
+      "pronunciation_hebrew": "וָואסְט",
+      "example": "The desert covers a vast area."
+    },
+    {
+      "word": "pressure",
+      "lemma": "pressure",
+      "level": "B1",
+      "hebrew": "לַחַץ",
+      "explanation_hebrew": "כוח או השפעה הפועלים על משהו",
+      "pronunciation_hebrew": "פְּרֶשֶׁר",
+      "example": "The forests are under great pressure."
+    },
+    {
+      "word": "deliberate",
+      "lemma": "deliberate",
+      "level": "C1",
+      "hebrew": "מְכֻוָּן",
+      "explanation_hebrew": "נעשה בכוונה, מתוכנן",
+      "pronunciation_hebrew": "דִּילִיבֶּרֶט",
+      "example": "It was a deliberate act of harm."
+    },
+    {
+      "word": "clearance",
+      "lemma": "clearance",
+      "level": "B2",
+      "hebrew": "פִּנּוּי/כְּרִיתָה",
+      "explanation_hebrew": "הסרה של עצים או משהו משטח",
+      "pronunciation_hebrew": "קְלִירַנְס",
+      "example": "Land clearance destroyed the forest."
+    },
+    {
+      "word": "accelerate",
+      "lemma": "accelerate",
+      "level": "C1",
+      "hebrew": "לְהָאִיץ",
+      "explanation_hebrew": "לגרום למשהו לקרות מהר יותר",
+      "pronunciation_hebrew": "אַקְסֶלֶרֵייְט",
+      "example": "Warm weather can accelerate the fires."
+    },
+    {
+      "word": "reverse",
+      "lemma": "reverse",
+      "level": "B2",
+      "hebrew": "לְהָפֵךְ/לְבַטֵּל",
+      "explanation_hebrew": "לשנות כיוון או לבטל תהליך",
+      "pronunciation_hebrew": "רִיוֶרְס",
+      "example": "The government tried to reverse the damage."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "decline",
+      "type": "english_to_hebrew",
+      "question": "What does “decline” mean?",
+      "options": [
+        "כְּרִיתַת יְעָרוֹת",
+        "יַעַר גֶּשֶׁם",
+        "נִיטוּר",
+        "יְרִידָה"
+      ],
+      "correct_answer": "יְרִידָה",
+      "explanation_hebrew": "“decline” פירושו יְרִידָה."
+    },
+    {
+      "id": "A-q2",
+      "word": "deforestation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “כְּרִיתַת יְעָרוֹת”?",
+      "options": [
+        "deforestation",
+        "rainforest",
+        "monitoring",
+        "pledges"
+      ],
+      "correct_answer": "deforestation",
+      "explanation_hebrew": "המילה שפירושה כְּרִיתַת יְעָרוֹת היא “deforestation”."
+    },
+    {
+      "id": "A-q3",
+      "word": "monitoring",
+      "type": "english_to_hebrew",
+      "question": "What does “monitoring” mean?",
+      "options": [
+        "יַעַר גֶּשֶׁם",
+        "דְּחִיפָה",
+        "הַתְחַיְּבֻיּוֹת",
+        "נִיטוּר"
+      ],
+      "correct_answer": "נִיטוּר",
+      "explanation_hebrew": "“monitoring” פירושו נִיטוּר."
+    },
+    {
+      "id": "A-q4",
+      "word": "rainforest",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יַעַר גֶּשֶׁם”?",
+      "options": [
+        "boost",
+        "campaign",
+        "pledges",
+        "rainforest"
+      ],
+      "correct_answer": "rainforest",
+      "explanation_hebrew": "המילה שפירושה יַעַר גֶּשֶׁם היא “rainforest”."
+    },
+    {
+      "id": "A-q5",
+      "word": "pledges",
+      "type": "english_to_hebrew",
+      "question": "What does “pledges” mean?",
+      "options": [
+        "מַסָּע/קַמְפֵּיְין",
+        "חָוָה",
+        "הַתְחַיְּבֻיּוֹת",
+        "דְּחִיפָה"
+      ],
+      "correct_answer": "הַתְחַיְּבֻיּוֹת",
+      "explanation_hebrew": "“pledges” פירושו הַתְחַיְּבֻיּוֹת."
+    },
+    {
+      "id": "A-q6",
+      "word": "boost",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דְּחִיפָה”?",
+      "options": [
+        "boost",
+        "experienced",
+        "significant",
+        "campaign"
+      ],
+      "correct_answer": "boost",
+      "explanation_hebrew": "המילה שפירושה דְּחִיפָה היא “boost”."
+    },
+    {
+      "id": "A-q7",
+      "word": "campaign",
+      "type": "english_to_hebrew",
+      "question": "What does “campaign” mean?",
+      "options": [
+        "לְהַפְחִית",
+        "מַסָּע/קַמְפֵּיְין",
+        "חָוָה",
+        "מַשְׁמָעוּתִי"
+      ],
+      "correct_answer": "מַסָּע/קַמְפֵּיְין",
+      "explanation_hebrew": "“campaign” פירושו מַסָּע/קַמְפֵּיְין."
+    },
+    {
+      "id": "A-q8",
+      "word": "experienced",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חָוָה”?",
+      "options": [
+        "drop",
+        "reduce",
+        "significant",
+        "experienced"
+      ],
+      "correct_answer": "experienced",
+      "explanation_hebrew": "המילה שפירושה חָוָה היא “experienced”."
+    },
+    {
+      "id": "A-q9",
+      "word": "significant",
+      "type": "english_to_hebrew",
+      "question": "What does “significant” mean?",
+      "options": [
+        "מַשְׁמָעוּתִי",
+        "בְּעִקָּר",
+        "לְהַפְחִית",
+        "יְרִידָה"
+      ],
+      "correct_answer": "מַשְׁמָעוּתִי",
+      "explanation_hebrew": "“significant” פירושו מַשְׁמָעוּתִי."
+    },
+    {
+      "id": "A-q10",
+      "word": "reduce",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהַפְחִית”?",
+      "options": [
+        "primarily",
+        "reduce",
+        "prevention",
+        "drop"
+      ],
+      "correct_answer": "reduce",
+      "explanation_hebrew": "המילה שפירושה לְהַפְחִית היא “reduce”."
+    },
+    {
+      "id": "A-q11",
+      "word": "drop",
+      "type": "english_to_hebrew",
+      "question": "What does “drop” mean?",
+      "options": [
+        "בְּעִקָּר",
+        "מַאֲמַצִּים",
+        "מְנִיעָה",
+        "יְרִידָה"
+      ],
+      "correct_answer": "יְרִידָה",
+      "explanation_hebrew": "“drop” פירושו יְרִידָה."
+    },
+    {
+      "id": "A-q12",
+      "word": "primarily",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בְּעִקָּר”?",
+      "options": [
+        "primarily",
+        "dramatic",
+        "efforts",
+        "prevention"
+      ],
+      "correct_answer": "primarily",
+      "explanation_hebrew": "המילה שפירושה בְּעִקָּר היא “primarily”."
+    },
+    {
+      "id": "A-q13",
+      "word": "prevention",
+      "type": "english_to_hebrew",
+      "question": "What does “prevention” mean?",
+      "options": [
+        "מַאֲמַצִּים",
+        "דְּרָמָטִי",
+        "מְנִיעָה",
+        "חֲסַר תַּקְדִּים"
+      ],
+      "correct_answer": "מְנִיעָה",
+      "explanation_hebrew": "“prevention” פירושו מְנִיעָה."
+    },
+    {
+      "id": "A-q14",
+      "word": "efforts",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַאֲמַצִּים”?",
+      "options": [
+        "efforts",
+        "dramatic",
+        "easing",
+        "unprecedented"
+      ],
+      "correct_answer": "efforts",
+      "explanation_hebrew": "המילה שפירושה מַאֲמַצִּים היא “efforts”."
+    },
+    {
+      "id": "A-q15",
+      "word": "dramatic",
+      "type": "english_to_hebrew",
+      "question": "What does “dramatic” mean?",
+      "options": [
+        "הֲקָלָה",
+        "תְּנָאִים",
+        "חֲסַר תַּקְדִּים",
+        "דְּרָמָטִי"
+      ],
+      "correct_answer": "דְּרָמָטִי",
+      "explanation_hebrew": "“dramatic” פירושו דְּרָמָטִי."
+    },
+    {
+      "id": "A-q16",
+      "word": "unprecedented",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חֲסַר תַּקְדִּים”?",
+      "options": [
+        "unprecedented",
+        "conditions",
+        "absorb",
+        "easing"
+      ],
+      "correct_answer": "unprecedented",
+      "explanation_hebrew": "המילה שפירושה חֲסַר תַּקְדִּים היא “unprecedented”."
+    },
+    {
+      "id": "A-q17",
+      "word": "easing",
+      "type": "english_to_hebrew",
+      "question": "What does “easing” mean?",
+      "options": [
+        "הֲקָלָה",
+        "לִסְפֹּג",
+        "תְּנָאִים",
+        "עָצוּם"
+      ],
+      "correct_answer": "הֲקָלָה",
+      "explanation_hebrew": "“easing” פירושו הֲקָלָה."
+    },
+    {
+      "id": "A-q18",
+      "word": "conditions",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תְּנָאִים”?",
+      "options": [
+        "absorb",
+        "conditions",
+        "pressure",
+        "vast"
+      ],
+      "correct_answer": "conditions",
+      "explanation_hebrew": "המילה שפירושה תְּנָאִים היא “conditions”."
+    },
+    {
+      "id": "A-q19",
+      "word": "absorb",
+      "type": "english_to_hebrew",
+      "question": "What does “absorb” mean?",
+      "options": [
+        "מְכֻוָּן",
+        "עָצוּם",
+        "לִסְפֹּג",
+        "לַחַץ"
+      ],
+      "correct_answer": "לִסְפֹּג",
+      "explanation_hebrew": "“absorb” פירושו לִסְפֹּג."
+    },
+    {
+      "id": "A-q20",
+      "word": "vast",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עָצוּם”?",
+      "options": [
+        "clearance",
+        "pressure",
+        "vast",
+        "deliberate"
+      ],
+      "correct_answer": "vast",
+      "explanation_hebrew": "המילה שפירושה עָצוּם היא “vast”."
+    },
+    {
+      "id": "A-q21",
+      "word": "pressure",
+      "type": "english_to_hebrew",
+      "question": "What does “pressure” mean?",
+      "options": [
+        "לְהָאִיץ",
+        "מְכֻוָּן",
+        "לַחַץ",
+        "פִּנּוּי/כְּרִיתָה"
+      ],
+      "correct_answer": "לַחַץ",
+      "explanation_hebrew": "“pressure” פירושו לַחַץ."
+    },
+    {
+      "id": "A-q22",
+      "word": "deliberate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְכֻוָּן”?",
+      "options": [
+        "accelerate",
+        "deliberate",
+        "reverse",
+        "clearance"
+      ],
+      "correct_answer": "deliberate",
+      "explanation_hebrew": "המילה שפירושה מְכֻוָּן היא “deliberate”."
+    },
+    {
+      "id": "A-q23",
+      "word": "clearance",
+      "type": "english_to_hebrew",
+      "question": "What does “clearance” mean?",
+      "options": [
+        "פִּנּוּי/כְּרִיתָה",
+        "לְהָפֵךְ/לְבַטֵּל",
+        "יְרִידָה",
+        "לְהָאִיץ"
+      ],
+      "correct_answer": "פִּנּוּי/כְּרִיתָה",
+      "explanation_hebrew": "“clearance” פירושו פִּנּוּי/כְּרִיתָה."
+    },
+    {
+      "id": "A-q24",
+      "word": "accelerate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהָאִיץ”?",
+      "options": [
+        "decline",
+        "accelerate",
+        "reverse",
+        "deforestation"
+      ],
+      "correct_answer": "accelerate",
+      "explanation_hebrew": "המילה שפירושה לְהָאִיץ היא “accelerate”."
+    },
+    {
+      "id": "A-q25",
+      "word": "reverse",
+      "type": "english_to_hebrew",
+      "question": "What does “reverse” mean?",
+      "options": [
+        "כְּרִיתַת יְעָרוֹת",
+        "יְרִידָה",
+        "נִיטוּר",
+        "לְהָפֵךְ/לְבַטֵּל"
+      ],
+      "correct_answer": "לְהָפֵךְ/לְבַטֵּל",
+      "explanation_hebrew": "“reverse” פירושו לְהָפֵךְ/לְבַטֵּל."
+    }
+  ]
+}

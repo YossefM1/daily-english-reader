@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-22",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o",
+  "word_count": 1131,
+  "generated_at": "2026-07-22T02:12:25.263383+00:00",
+  "difficulty_reason": "Dense diplomatic and economic report with long, complex sentences, legal and trade terminology, and B2/C1/C2 vocabulary that assumes political background.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "imposed",
+      "lemma": "impose",
+      "level": "B2",
+      "hebrew": "הֵטִיל",
+      "explanation_hebrew": "כפה מס או חוק על מישהו",
+      "pronunciation_hebrew": "אִימְפּוֹוְזְד",
+      "example": "The government imposed a new tax."
+    },
+    {
+      "word": "retaliation",
+      "lemma": "retaliation",
+      "level": "C1",
+      "hebrew": "תְּגוּבַת נֶגֶד/נְקָמָה",
+      "explanation_hebrew": "פעולת גמול בתגובה לפגיעה",
+      "pronunciation_hebrew": "רִיטַלִיֵיְישֶׁן",
+      "example": "The tariffs were an act of retaliation."
+    },
+    {
+      "word": "unequal",
+      "lemma": "unequal",
+      "level": "B2",
+      "hebrew": "לֹא שִׁוְיוֹנִי",
+      "explanation_hebrew": "לא שווה או לא הוגן",
+      "pronunciation_hebrew": "אַנְאִיקְוַל",
+      "example": "They complained about unequal treatment."
+    },
+    {
+      "word": "spared",
+      "lemma": "spare",
+      "level": "C1",
+      "hebrew": "נֶחְסָךְ/פָּטוּר",
+      "explanation_hebrew": "לא נפגע או לא נכלל",
+      "pronunciation_hebrew": "סְפֶּרְד",
+      "example": "Energy exports were spared from the tax."
+    },
+    {
+      "word": "intensify",
+      "lemma": "intensify",
+      "level": "C1",
+      "hebrew": "לְהַעֲצִים/לְהַגְבִּיר",
+      "explanation_hebrew": "להפוך לחזק או אינטנסיבי יותר",
+      "pronunciation_hebrew": "אִינְטֶנְסִיפַאיְ",
+      "example": "Both sides agreed to intensify talks."
+    },
+    {
+      "word": "tensions",
+      "lemma": "tension",
+      "level": "B2",
+      "hebrew": "מְתִיחוּיוֹת",
+      "explanation_hebrew": "יחסים מתוחים בין צדדים",
+      "pronunciation_hebrew": "טֶנְשֶׁנְז",
+      "example": "Trade tensions grew between the nations."
+    },
+    {
+      "word": "simmering",
+      "lemma": "simmer",
+      "level": "C2",
+      "hebrew": "רוֹחֵשׁ/מִתְבַּשֵּׁל",
+      "explanation_hebrew": "מתפתח לאט מתחת לפני השטח",
+      "pronunciation_hebrew": "סִימֶרִינְג",
+      "example": "Anger had been simmering for months."
+    },
+    {
+      "word": "unleashed",
+      "lemma": "unleash",
+      "level": "C1",
+      "hebrew": "שִׁחְרֵר/הִשְׁתַּלֵּחַ",
+      "explanation_hebrew": "שחרר כוח או תגובה חזקה",
+      "pronunciation_hebrew": "אַנְלִישְׁט",
+      "example": "He unleashed a wave of new tariffs."
+    },
+    {
+      "word": "pursue",
+      "lemma": "pursue",
+      "level": "B2",
+      "hebrew": "לַחְתֹּר אֶל/לִרְדֹּף",
+      "explanation_hebrew": "לשאוף להשיג מטרה",
+      "pronunciation_hebrew": "פֶּרְסְיוּ",
+      "example": "They pursue their goals with energy."
+    },
+    {
+      "word": "objectives",
+      "lemma": "objective",
+      "level": "B2",
+      "hebrew": "יְעָדִים/מַטָּרוֹת",
+      "explanation_hebrew": "מטרות שרוצים להשיג",
+      "pronunciation_hebrew": "אוֹבְּגֶ'קְטִיבְז",
+      "example": "The plan has several clear objectives."
+    },
+    {
+      "word": "levies",
+      "lemma": "levy",
+      "level": "C1",
+      "hebrew": "הֶיטֵּלִים",
+      "explanation_hebrew": "מסים המוטלים על ידי השלטון",
+      "pronunciation_hebrew": "לֶוִיז",
+      "example": "New levies were placed on imports."
+    },
+    {
+      "word": "manufacturing",
+      "lemma": "manufacturing",
+      "level": "B2",
+      "hebrew": "יִצּוּר",
+      "explanation_hebrew": "תהליך ייצור מוצרים במפעל",
+      "pronunciation_hebrew": "מַנְיוּפֶקְצֶ'רִינְג",
+      "example": "Manufacturing jobs moved abroad."
+    },
+    {
+      "word": "consumers",
+      "lemma": "consumer",
+      "level": "B1",
+      "hebrew": "צַרְכָנִים",
+      "explanation_hebrew": "אנשים שקונים מוצרים ושירותים",
+      "pronunciation_hebrew": "קוֹנְסְיוּמֶרְז",
+      "example": "Higher prices hurt consumers."
+    },
+    {
+      "word": "speculation",
+      "lemma": "speculation",
+      "level": "C1",
+      "hebrew": "סְפֶּקוּלַצְיָה/הַשְׁעָרוֹת",
+      "explanation_hebrew": "ניחושים על מה שעשוי לקרות",
+      "pronunciation_hebrew": "סְפֶּקְיוּלֵיְישֶׁן",
+      "example": "There was speculation about new rules."
+    },
+    {
+      "word": "retaliate",
+      "lemma": "retaliate",
+      "level": "C1",
+      "hebrew": "לְהָשִׁיב מִלְחָמָה/לִגְמֹל",
+      "explanation_hebrew": "להגיב בפעולת נגד",
+      "pronunciation_hebrew": "רִיטַלִיֵייְט",
+      "example": "Canada threatened to retaliate."
+    },
+    {
+      "word": "barriers",
+      "lemma": "barrier",
+      "level": "B2",
+      "hebrew": "מַחְסוֹמִים",
+      "explanation_hebrew": "מכשולים המונעים מעבר או סחר",
+      "pronunciation_hebrew": "בֶּרְיֶרְז",
+      "example": "Trade barriers slow down exports."
+    },
+    {
+      "word": "unilateral",
+      "lemma": "unilateral",
+      "level": "C2",
+      "hebrew": "חַד-צְדָדִי",
+      "explanation_hebrew": "נעשה על ידי צד אחד בלבד",
+      "pronunciation_hebrew": "יוּנִילָטֶרַל",
+      "example": "It was a unilateral decision by one country."
+    },
+    {
+      "word": "violation",
+      "lemma": "violation",
+      "level": "B2",
+      "hebrew": "הֲפָרָה",
+      "explanation_hebrew": "הפרה של חוק או הסכם",
+      "pronunciation_hebrew": "וַיְאוֹלֵיְישֶׁן",
+      "example": "The act was a violation of the treaty."
+    },
+    {
+      "word": "sovereignty",
+      "lemma": "sovereignty",
+      "level": "C2",
+      "hebrew": "רִיבּוֹנוּת",
+      "explanation_hebrew": "שלטון עצמאי מלא של מדינה",
+      "pronunciation_hebrew": "סוֹבְרֶנְטִי",
+      "example": "They defended national sovereignty."
+    },
+    {
+      "word": "escalation",
+      "lemma": "escalation",
+      "level": "C1",
+      "hebrew": "הַסְלָמָה",
+      "explanation_hebrew": "החרפה או הגברה של סכסוך",
+      "pronunciation_hebrew": "אֶסְקָלֵיְישֶׁן",
+      "example": "The move led to a further escalation."
+    },
+    {
+      "word": "exempt",
+      "lemma": "exempt",
+      "level": "C1",
+      "hebrew": "פָּטוּר",
+      "explanation_hebrew": "משוחרר מחובה או ממס",
+      "pronunciation_hebrew": "אִיגְזֶמְפְּט",
+      "example": "Some goods were exempt from the tax."
+    },
+    {
+      "word": "sweeping",
+      "lemma": "sweeping",
+      "level": "C1",
+      "hebrew": "גּוֹרֵף",
+      "explanation_hebrew": "רחב היקף ובעל השפעה גדולה",
+      "pronunciation_hebrew": "סְוִיפִּינְג",
+      "example": "The court struck down sweeping tariffs."
+    },
+    {
+      "word": "authority",
+      "lemma": "authority",
+      "level": "B2",
+      "hebrew": "סַמְכוּת",
+      "explanation_hebrew": "כוח או זכות חוקית לפעול",
+      "pronunciation_hebrew": "אוֹתוֹרִיטִי",
+      "example": "He exceeded his legal authority."
+    },
+    {
+      "word": "invoke",
+      "lemma": "invoke",
+      "level": "C2",
+      "hebrew": "לְהַפְעִיל/לְהִסְתַּמֵּךְ עַל",
+      "explanation_hebrew": "להשתמש בחוק או בסמכות",
+      "pronunciation_hebrew": "אִינְווֹוּק",
+      "example": "The White House vowed to invoke other laws."
+    },
+    {
+      "word": "protectionist",
+      "lemma": "protectionist",
+      "level": "C1",
+      "hebrew": "פְּרוֹטֶקְצְיוֹנִיסְטִי",
+      "explanation_hebrew": "מדיניות המגינה על תעשייה מקומית",
+      "pronunciation_hebrew": "פְּרוֹטֶקְשֶׁנִיסְט",
+      "example": "The country took protectionist measures."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "imposed",
+      "type": "english_to_hebrew",
+      "question": "What does “imposed” mean?",
+      "options": [
+        "נֶחְסָךְ/פָּטוּר",
+        "תְּגוּבַת נֶגֶד/נְקָמָה",
+        "לֹא שִׁוְיוֹנִי",
+        "הֵטִיל"
+      ],
+      "correct_answer": "הֵטִיל",
+      "explanation_hebrew": "“imposed” פירושו הֵטִיל."
+    },
+    {
+      "id": "C-q2",
+      "word": "retaliation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תְּגוּבַת נֶגֶד/נְקָמָה”?",
+      "options": [
+        "intensify",
+        "spared",
+        "unequal",
+        "retaliation"
+      ],
+      "correct_answer": "retaliation",
+      "explanation_hebrew": "המילה שפירושה תְּגוּבַת נֶגֶד/נְקָמָה היא “retaliation”."
+    },
+    {
+      "id": "C-q3",
+      "word": "unequal",
+      "type": "english_to_hebrew",
+      "question": "What does “unequal” mean?",
+      "options": [
+        "לְהַעֲצִים/לְהַגְבִּיר",
+        "נֶחְסָךְ/פָּטוּר",
+        "מְתִיחוּיוֹת",
+        "לֹא שִׁוְיוֹנִי"
+      ],
+      "correct_answer": "לֹא שִׁוְיוֹנִי",
+      "explanation_hebrew": "“unequal” פירושו לֹא שִׁוְיוֹנִי."
+    },
+    {
+      "id": "C-q4",
+      "word": "spared",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נֶחְסָךְ/פָּטוּר”?",
+      "options": [
+        "intensify",
+        "simmering",
+        "spared",
+        "tensions"
+      ],
+      "correct_answer": "spared",
+      "explanation_hebrew": "המילה שפירושה נֶחְסָךְ/פָּטוּר היא “spared”."
+    },
+    {
+      "id": "C-q5",
+      "word": "intensify",
+      "type": "english_to_hebrew",
+      "question": "What does “intensify” mean?",
+      "options": [
+        "מְתִיחוּיוֹת",
+        "לְהַעֲצִים/לְהַגְבִּיר",
+        "שִׁחְרֵר/הִשְׁתַּלֵּחַ",
+        "רוֹחֵשׁ/מִתְבַּשֵּׁל"
+      ],
+      "correct_answer": "לְהַעֲצִים/לְהַגְבִּיר",
+      "explanation_hebrew": "“intensify” פירושו לְהַעֲצִים/לְהַגְבִּיר."
+    },
+    {
+      "id": "C-q6",
+      "word": "tensions",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְתִיחוּיוֹת”?",
+      "options": [
+        "unleashed",
+        "tensions",
+        "simmering",
+        "pursue"
+      ],
+      "correct_answer": "tensions",
+      "explanation_hebrew": "המילה שפירושה מְתִיחוּיוֹת היא “tensions”."
+    },
+    {
+      "id": "C-q7",
+      "word": "simmering",
+      "type": "english_to_hebrew",
+      "question": "What does “simmering” mean?",
+      "options": [
+        "שִׁחְרֵר/הִשְׁתַּלֵּחַ",
+        "רוֹחֵשׁ/מִתְבַּשֵּׁל",
+        "יְעָדִים/מַטָּרוֹת",
+        "לַחְתֹּר אֶל/לִרְדֹּף"
+      ],
+      "correct_answer": "רוֹחֵשׁ/מִתְבַּשֵּׁל",
+      "explanation_hebrew": "“simmering” פירושו רוֹחֵשׁ/מִתְבַּשֵּׁל."
+    },
+    {
+      "id": "C-q8",
+      "word": "unleashed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שִׁחְרֵר/הִשְׁתַּלֵּחַ”?",
+      "options": [
+        "levies",
+        "unleashed",
+        "objectives",
+        "pursue"
+      ],
+      "correct_answer": "unleashed",
+      "explanation_hebrew": "המילה שפירושה שִׁחְרֵר/הִשְׁתַּלֵּחַ היא “unleashed”."
+    },
+    {
+      "id": "C-q9",
+      "word": "pursue",
+      "type": "english_to_hebrew",
+      "question": "What does “pursue” mean?",
+      "options": [
+        "יְעָדִים/מַטָּרוֹת",
+        "יִצּוּר",
+        "לַחְתֹּר אֶל/לִרְדֹּף",
+        "הֶיטֵּלִים"
+      ],
+      "correct_answer": "לַחְתֹּר אֶל/לִרְדֹּף",
+      "explanation_hebrew": "“pursue” פירושו לַחְתֹּר אֶל/לִרְדֹּף."
+    },
+    {
+      "id": "C-q10",
+      "word": "objectives",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יְעָדִים/מַטָּרוֹת”?",
+      "options": [
+        "consumers",
+        "levies",
+        "objectives",
+        "manufacturing"
+      ],
+      "correct_answer": "objectives",
+      "explanation_hebrew": "המילה שפירושה יְעָדִים/מַטָּרוֹת היא “objectives”."
+    },
+    {
+      "id": "C-q11",
+      "word": "levies",
+      "type": "english_to_hebrew",
+      "question": "What does “levies” mean?",
+      "options": [
+        "יִצּוּר",
+        "צַרְכָנִים",
+        "סְפֶּקוּלַצְיָה/הַשְׁעָרוֹת",
+        "הֶיטֵּלִים"
+      ],
+      "correct_answer": "הֶיטֵּלִים",
+      "explanation_hebrew": "“levies” פירושו הֶיטֵּלִים."
+    },
+    {
+      "id": "C-q12",
+      "word": "manufacturing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יִצּוּר”?",
+      "options": [
+        "consumers",
+        "speculation",
+        "retaliate",
+        "manufacturing"
+      ],
+      "correct_answer": "manufacturing",
+      "explanation_hebrew": "המילה שפירושה יִצּוּר היא “manufacturing”."
+    },
+    {
+      "id": "C-q13",
+      "word": "consumers",
+      "type": "english_to_hebrew",
+      "question": "What does “consumers” mean?",
+      "options": [
+        "סְפֶּקוּלַצְיָה/הַשְׁעָרוֹת",
+        "צַרְכָנִים",
+        "לְהָשִׁיב מִלְחָמָה/לִגְמֹל",
+        "מַחְסוֹמִים"
+      ],
+      "correct_answer": "צַרְכָנִים",
+      "explanation_hebrew": "“consumers” פירושו צַרְכָנִים."
+    },
+    {
+      "id": "C-q14",
+      "word": "speculation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סְפֶּקוּלַצְיָה/הַשְׁעָרוֹת”?",
+      "options": [
+        "retaliate",
+        "unilateral",
+        "barriers",
+        "speculation"
+      ],
+      "correct_answer": "speculation",
+      "explanation_hebrew": "המילה שפירושה סְפֶּקוּלַצְיָה/הַשְׁעָרוֹת היא “speculation”."
+    },
+    {
+      "id": "C-q15",
+      "word": "retaliate",
+      "type": "english_to_hebrew",
+      "question": "What does “retaliate” mean?",
+      "options": [
+        "הֲפָרָה",
+        "לְהָשִׁיב מִלְחָמָה/לִגְמֹל",
+        "חַד-צְדָדִי",
+        "מַחְסוֹמִים"
+      ],
+      "correct_answer": "לְהָשִׁיב מִלְחָמָה/לִגְמֹל",
+      "explanation_hebrew": "“retaliate” פירושו לְהָשִׁיב מִלְחָמָה/לִגְמֹל."
+    },
+    {
+      "id": "C-q16",
+      "word": "barriers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַחְסוֹמִים”?",
+      "options": [
+        "violation",
+        "sovereignty",
+        "barriers",
+        "unilateral"
+      ],
+      "correct_answer": "barriers",
+      "explanation_hebrew": "המילה שפירושה מַחְסוֹמִים היא “barriers”."
+    },
+    {
+      "id": "C-q17",
+      "word": "unilateral",
+      "type": "english_to_hebrew",
+      "question": "What does “unilateral” mean?",
+      "options": [
+        "הַסְלָמָה",
+        "רִיבּוֹנוּת",
+        "חַד-צְדָדִי",
+        "הֲפָרָה"
+      ],
+      "correct_answer": "חַד-צְדָדִי",
+      "explanation_hebrew": "“unilateral” פירושו חַד-צְדָדִי."
+    },
+    {
+      "id": "C-q18",
+      "word": "violation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הֲפָרָה”?",
+      "options": [
+        "violation",
+        "escalation",
+        "exempt",
+        "sovereignty"
+      ],
+      "correct_answer": "violation",
+      "explanation_hebrew": "המילה שפירושה הֲפָרָה היא “violation”."
+    },
+    {
+      "id": "C-q19",
+      "word": "sovereignty",
+      "type": "english_to_hebrew",
+      "question": "What does “sovereignty” mean?",
+      "options": [
+        "הַסְלָמָה",
+        "פָּטוּר",
+        "רִיבּוֹנוּת",
+        "גּוֹרֵף"
+      ],
+      "correct_answer": "רִיבּוֹנוּת",
+      "explanation_hebrew": "“sovereignty” פירושו רִיבּוֹנוּת."
+    },
+    {
+      "id": "C-q20",
+      "word": "escalation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַסְלָמָה”?",
+      "options": [
+        "exempt",
+        "escalation",
+        "authority",
+        "sweeping"
+      ],
+      "correct_answer": "escalation",
+      "explanation_hebrew": "המילה שפירושה הַסְלָמָה היא “escalation”."
+    },
+    {
+      "id": "C-q21",
+      "word": "exempt",
+      "type": "english_to_hebrew",
+      "question": "What does “exempt” mean?",
+      "options": [
+        "גּוֹרֵף",
+        "סַמְכוּת",
+        "לְהַפְעִיל/לְהִסְתַּמֵּךְ עַל",
+        "פָּטוּר"
+      ],
+      "correct_answer": "פָּטוּר",
+      "explanation_hebrew": "“exempt” פירושו פָּטוּר."
+    },
+    {
+      "id": "C-q22",
+      "word": "sweeping",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גּוֹרֵף”?",
+      "options": [
+        "sweeping",
+        "invoke",
+        "protectionist",
+        "authority"
+      ],
+      "correct_answer": "sweeping",
+      "explanation_hebrew": "המילה שפירושה גּוֹרֵף היא “sweeping”."
+    },
+    {
+      "id": "C-q23",
+      "word": "authority",
+      "type": "english_to_hebrew",
+      "question": "What does “authority” mean?",
+      "options": [
+        "הֵטִיל",
+        "לְהַפְעִיל/לְהִסְתַּמֵּךְ עַל",
+        "פְּרוֹטֶקְצְיוֹנִיסְטִי",
+        "סַמְכוּת"
+      ],
+      "correct_answer": "סַמְכוּת",
+      "explanation_hebrew": "“authority” פירושו סַמְכוּת."
+    },
+    {
+      "id": "C-q24",
+      "word": "invoke",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהַפְעִיל/לְהִסְתַּמֵּךְ עַל”?",
+      "options": [
+        "invoke",
+        "protectionist",
+        "imposed",
+        "retaliation"
+      ],
+      "correct_answer": "invoke",
+      "explanation_hebrew": "המילה שפירושה לְהַפְעִיל/לְהִסְתַּמֵּךְ עַל היא “invoke”."
+    },
+    {
+      "id": "C-q25",
+      "word": "protectionist",
+      "type": "english_to_hebrew",
+      "question": "What does “protectionist” mean?",
+      "options": [
+        "תְּגוּבַת נֶגֶד/נְקָמָה",
+        "הֵטִיל",
+        "לֹא שִׁוְיוֹנִי",
+        "פְּרוֹטֶקְצְיוֹנִיסְטִי"
+      ],
+      "correct_answer": "פְּרוֹטֶקְצְיוֹנִיסְטִי",
+      "explanation_hebrew": "“protectionist” פירושו פְּרוֹטֶקְצְיוֹנִיסְטִי."
+    }
+  ]
+}
