@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updated_at": "2026-07-21T19:02:06.527839+00:00",
-  "feedback_sessions": 9,
+  "updated_at": "2026-07-23T16:37:04.096786+00:00",
+  "feedback_sessions": 10,
   "processed_issue_numbers": [
     12,
     13,
@@ -11,7 +11,8 @@
     17,
     18,
     19,
-    21
+    21,
+    23
   ],
   "words": {
     "core-0111": {
@@ -598,6 +599,66 @@
       "status": "known",
       "mastery": 5,
       "last_seen": "2026-07-21",
+      "next_review": null,
+      "times_seen": 1,
+      "successful_sessions": 2,
+      "last_score": 4,
+      "best_score": 4,
+      "last_confidence": "easy",
+      "known_source": "manual_like"
+    },
+    "core-0038": {
+      "status": "known",
+      "mastery": 5,
+      "last_seen": "2026-07-23",
+      "next_review": null,
+      "times_seen": 1,
+      "successful_sessions": 2,
+      "last_score": 4,
+      "best_score": 4,
+      "last_confidence": "easy",
+      "known_source": "manual_like"
+    },
+    "core-0052": {
+      "status": "known",
+      "mastery": 5,
+      "last_seen": "2026-07-23",
+      "next_review": null,
+      "times_seen": 1,
+      "successful_sessions": 2,
+      "last_score": 4,
+      "best_score": 4,
+      "last_confidence": "easy",
+      "known_source": "manual_like"
+    },
+    "core-0073": {
+      "status": "known",
+      "mastery": 5,
+      "last_seen": "2026-07-23",
+      "next_review": null,
+      "times_seen": 1,
+      "successful_sessions": 2,
+      "last_score": 4,
+      "best_score": 4,
+      "last_confidence": "easy",
+      "known_source": "manual_like"
+    },
+    "core-0059": {
+      "status": "known",
+      "mastery": 5,
+      "last_seen": "2026-07-23",
+      "next_review": null,
+      "times_seen": 1,
+      "successful_sessions": 2,
+      "last_score": 4,
+      "best_score": 4,
+      "last_confidence": "easy",
+      "known_source": "manual_like"
+    },
+    "core-0003": {
+      "status": "known",
+      "mastery": 5,
+      "last_seen": "2026-07-23",
       "next_review": null,
       "times_seen": 1,
       "successful_sessions": 2,

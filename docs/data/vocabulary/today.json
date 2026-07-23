@@ -1,7 +1,7 @@
 {
   "version": 2,
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T07:04:01.781738+00:00",
+  "generated_at": "2026-07-23T16:37:04.145887+00:00",
   "track": "Essential English 3000",
   "lesson_size": 10,
   "method": {
@@ -22,29 +22,12 @@
   },
   "profile_summary": {
     "bank_size": 113,
-    "known_count": 81,
+    "known_count": 86,
     "learning_count": 0,
-    "remaining_count": 32,
-    "profile_updated_at": "2026-07-21T19:02:06.527839+00:00"
+    "remaining_count": 27,
+    "profile_updated_at": "2026-07-23T16:37:04.096786+00:00"
   },
   "words": [
-    {
-      "id": "core-0038",
-      "word": "provide",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "לספק",
-      "pronunciation_hebrew": "פְּרוֹוַיְד",
-      "explanation_hebrew": "לתת דבר שנדרש או מועיל.",
-      "example": "The guide provides clear instructions.",
-      "reason": "new",
-      "position": 1,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
     {
       "id": "core-0109",
       "word": "reliable",
@@ -55,7 +38,7 @@
       "explanation_hebrew": "ניתן לסמוך עליו שיפעל או יספק מידע נכון.",
       "example": "We need a reliable data source.",
       "reason": "new",
-      "position": 2,
+      "position": 1,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -72,41 +55,7 @@
       "explanation_hebrew": "לשלוט במשימה או להצליח לבצע דבר קשה.",
       "example": "She managed to finish the work on time.",
       "reason": "new",
-      "position": 3,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
-      "id": "core-0052",
-      "word": "tend",
-      "part_of_speech": "verb",
-      "level": "B2",
-      "hebrew": "לנטות",
-      "pronunciation_hebrew": "טֶנְד",
-      "explanation_hebrew": "לעשות דבר בדרך כלל או להיות בעל נטייה מסוימת.",
-      "example": "People tend to remember words used in context.",
-      "reason": "new",
-      "position": 4,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
-      "id": "core-0073",
-      "word": "focus",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "להתמקד",
-      "pronunciation_hebrew": "פוֹקֶס",
-      "explanation_hebrew": "להקדיש תשומת לב לדבר מרכזי.",
-      "example": "Focus on the meaning before memorizing the spelling.",
-      "reason": "new",
-      "position": 5,
+      "position": 2,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -123,7 +72,7 @@
       "explanation_hebrew": "להשתמש בכלל או בשיטה, או לבקש תפקיד באופן רשמי.",
       "example": "You can apply this method to other problems.",
       "reason": "new",
-      "position": 6,
+      "position": 3,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -140,7 +89,7 @@
       "explanation_hebrew": "נשאר באותה רמה או פועל לפי אותו עיקרון.",
       "example": "The results are consistent with the theory.",
       "reason": "new",
-      "position": 7,
+      "position": 4,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -157,6 +106,57 @@
       "explanation_hebrew": "להצליח להגיע למטרה לאחר מאמץ.",
       "example": "She worked hard to achieve her goal.",
       "reason": "new",
+      "position": 5,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0070",
+      "word": "behavior",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "התנהגות",
+      "pronunciation_hebrew": "בִּיהֵייבְיֶר",
+      "explanation_hebrew": "האופן שבו אדם או מערכת פועלים.",
+      "example": "The graph shows the behavior of the system.",
+      "reason": "new",
+      "position": 6,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0079",
+      "word": "policy",
+      "part_of_speech": "noun",
+      "level": "B2",
+      "hebrew": "מדיניות",
+      "pronunciation_hebrew": "פּוֹלִיסִי",
+      "explanation_hebrew": "כלל או תוכנית פעולה של ארגון או ממשלה.",
+      "example": "The company changed its privacy policy.",
+      "reason": "new",
+      "position": 7,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0026",
+      "word": "include",
+      "part_of_speech": "verb",
+      "level": "A2",
+      "hebrew": "לכלול",
+      "pronunciation_hebrew": "אִינְקְלוּד",
+      "explanation_hebrew": "להכיל דבר כחלק מקבוצה או תוכנית.",
+      "example": "The price includes breakfast.",
+      "reason": "new",
       "position": 8,
       "learning_state": {
         "mastery": 0,
@@ -165,14 +165,14 @@
       }
     },
     {
-      "id": "core-0059",
-      "word": "recent",
-      "part_of_speech": "adjective",
+      "id": "core-0071",
+      "word": "condition",
+      "part_of_speech": "noun",
       "level": "B1",
-      "hebrew": "אחרון / מהתקופה האחרונה",
-      "pronunciation_hebrew": "רִיסֶנְט",
-      "explanation_hebrew": "קרה או נוצר לפני זמן קצר.",
-      "example": "A recent study examined this question.",
+      "hebrew": "תנאי / מצב",
+      "pronunciation_hebrew": "קַנְדִישֶן",
+      "explanation_hebrew": "דרישה שצריכה להתקיים או מצב מסוים.",
+      "example": "The system is stable under this condition.",
       "reason": "new",
       "position": 9,
       "learning_state": {
@@ -182,14 +182,14 @@
       }
     },
     {
-      "id": "core-0003",
-      "word": "appear",
+      "id": "core-0019",
+      "word": "encourage",
       "part_of_speech": "verb",
-      "level": "A2",
-      "hebrew": "להופיע / להיראות",
-      "pronunciation_hebrew": "אַפִּיר",
-      "explanation_hebrew": "להיראות במקום מסוים או ליצור רושם מסוים.",
-      "example": "A small problem appeared during the test.",
+      "level": "B1",
+      "hebrew": "לעודד",
+      "pronunciation_hebrew": "אִנְקַרִג'",
+      "explanation_hebrew": "לתת תמיכה או ביטחון כדי שמישהו יעשה משהו.",
+      "example": "Good teachers encourage students to ask questions.",
       "reason": "new",
       "position": 10,
       "learning_state": {
