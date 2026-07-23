@@ -1,317 +1,320 @@
-"""Build the public multi-level metadata files from data/learning_articles.json.
+#!/usr/bin/env python3
+"""Build public A/B/C metadata with strict freshness and history checks.
 
-Reads the internal file data/learning_articles.json (created by Claude during the
-routine, gitignored, contains no separate article text) and writes the public
-GitHub Pages metadata:
-
-  docs/data/today.json                      (index of the 3 daily articles)
-  docs/data/articles/YYYY-MM-DD-A.json      (full metadata for level A)
-  docs/data/articles/YYYY-MM-DD-B.json      (full metadata for level B)
-  docs/data/articles/YYYY-MM-DD-C.json      (full metadata for level C)
-  docs/data/latest.json                     (backward-compat copy of level B)
-  docs/data/archive/YYYY-MM-DD-A.json        (archive copies)
-  docs/data/archive/YYYY-MM-DD-B.json
-  docs/data/archive/YYYY-MM-DD-C.json
-
-None of these public files contain the full article text.
-
-Validation is strict: exactly 3 articles with ids A/B/C, exactly 25 words and
-25 quiz questions per article, 4 options per quiz, correct_answer among the
-options, and every quiz word present in that article's words list.
-
-Quiz options are shuffled DETERMINISTICALLY (seeded by date + article id +
-quiz id + article url) so the correct answer is not always the first option,
-and the distribution of correct-answer positions across each article's 25
-questions is enforced (spanning all 4 positions, at most 10 in any one). This
-is idempotent: the same input always yields the same output.
+The selected articles must come from the current data/candidates.json, have an
+original RSS publication timestamp no more than 12 hours old, and must not have
+appeared in an earlier archive date. Full article text is never published.
 """
 
 import hashlib
 import json
 import os
 import random
-import sys
+import re
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List
 from urllib.parse import urlparse
 
-EXPECTED_ARTICLE_COUNT = 3
 EXPECTED_IDS = ["A", "B", "C"]
 EXPECTED_WORD_COUNT = 25
 EXPECTED_QUIZ_COUNT = 25
 QUIZ_OPTION_COUNT = 4
-
+MAX_ARTICLE_AGE_HOURS = float(os.getenv("MAX_ARTICLE_AGE_HOURS", "12") or "12")
+BBC_ARTICLE_HOSTS = {"bbc.com", "www.bbc.com", "bbc.co.uk", "www.bbc.co.uk"}
 LEVEL_LABELS = {
     "A": "A — Easier English",
     "B": "B — Intermediate English",
     "C": "C — Advanced English",
 }
-
+DEFAULT_LEVEL = "B"
 REQUIRED_WORD_FIELDS = {
-    "word", "lemma", "level", "hebrew",
-    "explanation_hebrew", "pronunciation_hebrew", "example",
+    "word", "lemma", "level", "hebrew", "explanation_hebrew",
+    "pronunciation_hebrew", "example",
 }
-
 REQUIRED_QUIZ_FIELDS = {
-    "id", "word", "type", "question",
-    "options", "correct_answer", "explanation_hebrew",
+    "id", "word", "type", "question", "options", "correct_answer",
+    "explanation_hebrew",
 }
-
-# Distribution rules for correct-answer positions within one article's quiz.
-# With 25 questions the correct answer should span all 4 option positions, with
-# no single position dominating (never all in one; at most 10 in any one slot).
 MIN_DISTINCT_POSITIONS = 4
 MAX_PER_POSITION = 10
-
-# The default recommended level; latest.json mirrors this one for compatibility.
-DEFAULT_LEVEL = "B"
-
-# ── Strict BBC-only guard ─────────────────────────────────────────────────────
-# The project is BBC-only and the Tampermonkey overlay supports BBC pages only.
-# Any non-BBC article URL (Guardian, NPR, Ars Technica, Yahoo, …) must abort the
-# build BEFORE any public JSON is written.
-BBC_ARTICLE_HOSTS = {"bbc.com", "www.bbc.com", "bbc.co.uk", "www.bbc.co.uk"}
-
-
-def assert_bbc_url(url: str, context: str) -> None:
-    """Raise if url's hostname is not on the strict BBC allow-list."""
-    host = urlparse(str(url)).netloc.lower()
-    if host not in BBC_ARTICLE_HOSTS:
-        raise ValueError(
-            f"Non-BBC URL in {context}: {url!r} (host {host!r}). "
-            f"BBC-only mode forbids Guardian, NPR, Ars Technica and all other "
-            f"non-BBC sources. Allowed hosts: {sorted(BBC_ARTICLE_HOSTS)}."
-        )
 
 
 def load_json(path: Path):
     if not path.exists():
         raise FileNotFoundError(f"Required file not found: {path}")
-    with path.open(encoding="utf-8") as f:
-        return json.load(f)
-
-
-# ── Deterministic shuffling ──────────────────────────────────────────────────
-
-def stable_seed(*parts) -> int:
-    """A stable integer seed derived from the given parts (no wall-clock/random)."""
-    key = "|".join(str(p) for p in parts)
-    digest = hashlib.sha256(key.encode("utf-8")).hexdigest()
-    return int(digest[:16], 16)
-
-
-def distribution_ok(positions: List[int], count: int) -> bool:
-    """True if correct-answer positions meet the distribution rules."""
-    counts = Counter(positions)
-    if len(counts) < MIN_DISTINCT_POSITIONS:
-        return False
-    if counts.get(0, 0) == count:  # all correct answers in the first slot
-        return False
-    if counts and max(counts.values()) > MAX_PER_POSITION:
-        return False
-    return True
-
-
-def shuffle_quiz_options(quiz: List[dict], date: str, article_id: str, url: str) -> List[dict]:
-    """Deterministically shuffle each quiz question's options.
-
-    First pass: shuffle every question independently with a per-question seed.
-    If the resulting correct-answer positions violate the distribution rules,
-    a deterministic repair pass assigns balanced target positions.
-    """
-    # ── First pass: independent per-question deterministic shuffle. ──
-    positions: List[int] = []
-    for q in quiz:
-        seed = stable_seed(date, article_id, q["id"], url)
-        opts = list(q["options"])
-        random.Random(seed).shuffle(opts)
-        q["options"] = opts
-        positions.append(opts.index(q["correct_answer"]))
-
-    if distribution_ok(positions, len(quiz)):
-        return quiz
-
-    # ── Repair pass: balanced round-robin target positions. ──
-    # Order the questions by a deterministic repair seed so the balanced
-    # assignment is not a trivially predictable A,B,C,D,A,... pattern, then
-    # place each correct answer at its assigned slot with distractors ordered
-    # deterministically around it.
-    order = sorted(
-        range(len(quiz)),
-        key=lambda i: stable_seed(date, article_id, quiz[i]["id"], url, "repair"),
-    )
-    for rank, i in enumerate(order):
-        q = quiz[i]
-        target = rank % QUIZ_OPTION_COUNT
-        correct = q["correct_answer"]
-        distractors = [o for o in q["options"] if o != correct]
-        random.Random(
-            stable_seed(date, article_id, q["id"], url, "distractors")
-        ).shuffle(distractors)
-        new_opts = distractors[:]
-        new_opts.insert(min(target, len(new_opts)), correct)
-        q["options"] = new_opts
-
-    return quiz
-
-
-# ── Validation ───────────────────────────────────────────────────────────────
-
-def validate_article(article: dict, expected_id: str) -> None:
-    aid = article.get("id")
-    if aid != expected_id:
-        raise ValueError(f"Article #{expected_id} has id {aid!r} (expected {expected_id!r})")
-
-    for field in ("title", "url", "level"):
-        if not str(article.get(field, "")).strip():
-            raise ValueError(f"Article {expected_id} missing required field: {field!r}")
-
-    # BBC-only: reject the whole build if this article's URL is not BBC.
-    assert_bbc_url(article["url"], f"article {expected_id}")
-
-    words = article.get("words")
-    quiz = article.get("quiz")
-    if not isinstance(words, list):
-        raise ValueError(f"Article {expected_id} 'words' must be a JSON array")
-    if not isinstance(quiz, list):
-        raise ValueError(f"Article {expected_id} 'quiz' must be a JSON array")
-
-    if len(words) != EXPECTED_WORD_COUNT:
-        raise ValueError(
-            f"Article {expected_id} has {len(words)} words (need exactly {EXPECTED_WORD_COUNT})"
-        )
-    if len(quiz) != EXPECTED_QUIZ_COUNT:
-        raise ValueError(
-            f"Article {expected_id} has {len(quiz)} quiz questions "
-            f"(need exactly {EXPECTED_QUIZ_COUNT})"
-        )
-
-    word_set = set()
-    for i, w in enumerate(words):
-        if not isinstance(w, dict):
-            raise ValueError(f"Article {expected_id} word #{i} must be a JSON object")
-        missing = REQUIRED_WORD_FIELDS - set(w.keys())
-        if missing:
-            raise ValueError(f"Article {expected_id} word #{i} missing fields: {sorted(missing)}")
-        word_set.add(w["word"])
-
-    seen_ids = set()
-    for i, q in enumerate(quiz):
-        if not isinstance(q, dict):
-            raise ValueError(f"Article {expected_id} quiz #{i} must be a JSON object")
-        missing = REQUIRED_QUIZ_FIELDS - set(q.keys())
-        if missing:
-            raise ValueError(f"Article {expected_id} quiz #{i} missing fields: {sorted(missing)}")
-
-        qid = q["id"]
-        if qid in seen_ids:
-            raise ValueError(f"Article {expected_id} quiz #{i} has duplicate id: {qid!r}")
-        seen_ids.add(qid)
-
-        options = q["options"]
-        if not isinstance(options, list) or len(options) != QUIZ_OPTION_COUNT:
-            raise ValueError(
-                f"Article {expected_id} quiz {qid} must have exactly {QUIZ_OPTION_COUNT} options"
-            )
-        if len(set(options)) != QUIZ_OPTION_COUNT:
-            raise ValueError(f"Article {expected_id} quiz {qid} has duplicate options")
-        if q["correct_answer"] not in options:
-            raise ValueError(
-                f"Article {expected_id} quiz {qid} correct_answer is not one of its options"
-            )
-        if q["word"] not in word_set:
-            raise ValueError(
-                f"Article {expected_id} quiz {qid} word {q['word']!r} is not in that "
-                f"article's words list"
-            )
-
-
-def validate_and_index(raw: dict) -> List[dict]:
-    articles = raw.get("articles")
-    if not isinstance(articles, list):
-        raise ValueError("learning_articles.json must have an 'articles' array")
-    if len(articles) != EXPECTED_ARTICLE_COUNT:
-        raise ValueError(
-            f"learning_articles.json has {len(articles)} articles "
-            f"(need exactly {EXPECTED_ARTICLE_COUNT}: A, B, C)"
-        )
-
-    by_id: Dict[str, dict] = {}
-    for a in articles:
-        if not isinstance(a, dict):
-            raise ValueError("Each article must be a JSON object")
-        by_id[a.get("id")] = a
-
-    if sorted(by_id.keys()) != EXPECTED_IDS:
-        raise ValueError(f"Article ids must be exactly {EXPECTED_IDS}, got {sorted(by_id.keys())}")
-
-    ordered = []
-    for expected_id in EXPECTED_IDS:
-        article = by_id[expected_id]
-        validate_article(article, expected_id)
-        ordered.append(article)
-    return ordered
-
-
-# ── Payload construction ──────────────────────────────────────────────────────
-
-def build_article_payload(article: dict, date: str, generated_at: str) -> dict:
-    """Full per-article public metadata (no article text)."""
-    aid = article["id"]
-    return {
-        "date": date,
-        "id": aid,
-        "level": article.get("level", aid),
-        "level_label": article.get("level_label") or LEVEL_LABELS.get(aid, aid),
-        "title": article.get("title", ""),
-        "source": article.get("source", "BBC"),
-        "url": article["url"],
-        "word_count": article.get("word_count") or 0,
-        "generated_at": generated_at,
-        "difficulty_reason": article.get("difficulty_reason", ""),
-        "settings": {
-            "source_mode": "BBC-only",
-            "vocabulary_count": EXPECTED_WORD_COUNT,
-            "quiz_enabled": True,
-        },
-        "words": article["words"],
-        "quiz": article["quiz"],
-    }
-
-
-def build_today_index(articles: List[dict], date: str, generated_at: str) -> dict:
-    entries = []
-    for a in articles:
-        aid = a["id"]
-        entries.append(
-            {
-                "id": aid,
-                "level": a.get("level", aid),
-                "level_label": a.get("level_label") or LEVEL_LABELS.get(aid, aid),
-                "title": a.get("title", ""),
-                "source": a.get("source", "BBC"),
-                "url": a["url"],
-                "word_count": a.get("word_count") or 0,
-                "difficulty_reason": a.get("difficulty_reason", ""),
-                "data_url": f"data/articles/{date}-{aid}.json",
-                "vocabulary_count": len(a["words"]),
-                "quiz_count": len(a["quiz"]),
-            }
-        )
-    return {
-        "date": date,
-        "generated_at": generated_at,
-        "source_mode": "BBC-only",
-        "articles": entries,
-    }
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def write_json(path: Path, payload: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Wrote {path}")
+
+
+def normalize_url(url: str) -> str:
+    parsed = urlparse(str(url))
+    host = parsed.netloc.lower().removeprefix("www.")
+    path = re.sub(r"/+$", "", parsed.path) or "/"
+    return f"{host}{path}"
+
+
+def normalize_title(title: str) -> str:
+    text = re.sub(r"\s+", " ", str(title)).strip().casefold()
+    return re.sub(r"[^\w\s]", "", text)
+
+
+def parse_iso_datetime(value: str) -> datetime:
+    dt = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
+
+
+def assert_bbc_url(url: str, context: str) -> None:
+    host = urlparse(str(url)).netloc.lower()
+    if host not in BBC_ARTICLE_HOSTS:
+        raise ValueError(f"Non-BBC URL in {context}: {url!r}")
+
+
+def stable_seed(*parts) -> int:
+    digest = hashlib.sha256("|".join(map(str, parts)).encode("utf-8")).hexdigest()
+    return int(digest[:16], 16)
+
+
+def distribution_ok(positions: List[int], count: int) -> bool:
+    counts = Counter(positions)
+    return (
+        len(counts) >= MIN_DISTINCT_POSITIONS
+        and counts.get(0, 0) != count
+        and (not counts or max(counts.values()) <= MAX_PER_POSITION)
+    )
+
+
+def shuffle_quiz_options(quiz: List[dict], date: str, article_id: str, url: str) -> List[dict]:
+    positions: List[int] = []
+    for question in quiz:
+        options = list(question["options"])
+        random.Random(stable_seed(date, article_id, question["id"], url)).shuffle(options)
+        question["options"] = options
+        positions.append(options.index(question["correct_answer"]))
+
+    if distribution_ok(positions, len(quiz)):
+        return quiz
+
+    order = sorted(
+        range(len(quiz)),
+        key=lambda i: stable_seed(date, article_id, quiz[i]["id"], url, "repair"),
+    )
+    for rank, index in enumerate(order):
+        question = quiz[index]
+        correct = question["correct_answer"]
+        distractors = [option for option in question["options"] if option != correct]
+        random.Random(
+            stable_seed(date, article_id, question["id"], url, "distractors")
+        ).shuffle(distractors)
+        target = rank % QUIZ_OPTION_COUNT
+        options = distractors[:]
+        options.insert(target, correct)
+        question["options"] = options
+    return quiz
+
+
+def load_candidate_map(candidates_path: Path) -> Dict[str, dict]:
+    payload = load_json(candidates_path)
+    if payload.get("freshness_limit_hours") not in (None, MAX_ARTICLE_AGE_HOURS):
+        print("WARNING: candidate freshness limit differs from build limit")
+    candidates = payload.get("candidates")
+    if not isinstance(candidates, list):
+        raise ValueError("data/candidates.json must contain a candidates array")
+
+    result: Dict[str, dict] = {}
+    for candidate in candidates:
+        if not isinstance(candidate, dict):
+            continue
+        url = candidate.get("url")
+        published_at = candidate.get("published_at")
+        if not url or not published_at:
+            continue
+        result[normalize_url(url)] = candidate
+    return result
+
+
+def load_prior_history(archive_dir: Path, current_date: str) -> tuple[set[str], set[str]]:
+    urls: set[str] = set()
+    titles: set[str] = set()
+    for path in archive_dir.glob("*.json"):
+        # Today's files may be replaced during a repair run. Earlier dates remain
+        # immutable history and may never be selected again.
+        if path.name.startswith(current_date + "-"):
+            continue
+        try:
+            record = load_json(path)
+        except Exception as exc:
+            raise ValueError(f"Could not read archive history {path}: {exc}") from exc
+        url = record.get("url") or record.get("article_url")
+        title = record.get("title") or record.get("article_title")
+        if url:
+            urls.add(normalize_url(url))
+        if title:
+            titles.add(normalize_title(title))
+    return urls, titles
+
+
+def validate_article_content(article: dict, expected_id: str) -> None:
+    if article.get("id") != expected_id:
+        raise ValueError(f"Article id must be {expected_id!r}")
+    if article.get("level") != expected_id:
+        raise ValueError(f"Article {expected_id} level must equal its id")
+    for field in ("title", "url"):
+        if not str(article.get(field, "")).strip():
+            raise ValueError(f"Article {expected_id} missing {field}")
+    assert_bbc_url(article["url"], f"article {expected_id}")
+
+    words = article.get("words")
+    quiz = article.get("quiz")
+    if not isinstance(words, list) or len(words) != EXPECTED_WORD_COUNT:
+        raise ValueError(f"Article {expected_id} needs exactly {EXPECTED_WORD_COUNT} words")
+    if not isinstance(quiz, list) or len(quiz) != EXPECTED_QUIZ_COUNT:
+        raise ValueError(f"Article {expected_id} needs exactly {EXPECTED_QUIZ_COUNT} quiz questions")
+
+    word_set = set()
+    for index, word in enumerate(words):
+        if not isinstance(word, dict):
+            raise ValueError(f"Article {expected_id} word #{index} must be an object")
+        missing = REQUIRED_WORD_FIELDS - set(word)
+        if missing:
+            raise ValueError(f"Article {expected_id} word #{index} missing {sorted(missing)}")
+        word_set.add(word["word"])
+
+    seen_ids = set()
+    for index, question in enumerate(quiz):
+        if not isinstance(question, dict):
+            raise ValueError(f"Article {expected_id} quiz #{index} must be an object")
+        missing = REQUIRED_QUIZ_FIELDS - set(question)
+        if missing:
+            raise ValueError(f"Article {expected_id} quiz #{index} missing {sorted(missing)}")
+        if question["id"] in seen_ids:
+            raise ValueError(f"Duplicate quiz id {question['id']}")
+        seen_ids.add(question["id"])
+        options = question["options"]
+        if not isinstance(options, list) or len(options) != QUIZ_OPTION_COUNT:
+            raise ValueError(f"Quiz {question['id']} needs four options")
+        if len(set(options)) != QUIZ_OPTION_COUNT:
+            raise ValueError(f"Quiz {question['id']} has duplicate options")
+        if question["correct_answer"] not in options:
+            raise ValueError(f"Quiz {question['id']} correct answer is not in options")
+        if question["word"] not in word_set:
+            raise ValueError(f"Quiz {question['id']} word is absent from vocabulary")
+
+
+def validate_selection(raw: dict, candidates: Dict[str, dict], archive_dir: Path):
+    date = str(raw.get("date", "")).strip() or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    articles = raw.get("articles")
+    if not isinstance(articles, list) or len(articles) != 3:
+        raise ValueError("learning_articles.json must contain exactly three articles")
+
+    by_id = {article.get("id"): article for article in articles if isinstance(article, dict)}
+    if sorted(by_id) != EXPECTED_IDS:
+        raise ValueError(f"Article ids must be exactly {EXPECTED_IDS}")
+
+    prior_urls, prior_titles = load_prior_history(archive_dir, date)
+    now = datetime.now(timezone.utc)
+    selected_urls: set[str] = set()
+    selected_titles: set[str] = set()
+    ordered = []
+
+    for article_id in EXPECTED_IDS:
+        article = by_id[article_id]
+        validate_article_content(article, article_id)
+        url_key = normalize_url(article["url"])
+        title_key = normalize_title(article["title"])
+
+        if url_key in prior_urls or title_key in prior_titles:
+            raise ValueError(f"Article {article_id} was already published on an earlier date")
+        if url_key in selected_urls or title_key in selected_titles:
+            raise ValueError("A/B/C articles must be different")
+
+        candidate = candidates.get(url_key)
+        if not candidate:
+            raise ValueError(
+                f"Article {article_id} is absent from the current fresh candidates.json: {article['url']}"
+            )
+        published_at = parse_iso_datetime(candidate["published_at"])
+        age_hours = (now - published_at).total_seconds() / 3600
+        if age_hours < -1 or age_hours > MAX_ARTICLE_AGE_HOURS:
+            raise ValueError(
+                f"Article {article_id} is {age_hours:.2f} hours old; limit is "
+                f"{MAX_ARTICLE_AGE_HOURS:g} hours"
+            )
+
+        # Preserve verified freshness metadata in the public metadata. The text
+        # itself remains internal and is deliberately omitted.
+        article["published_at"] = published_at.isoformat()
+        article["age_hours_at_selection"] = round(max(age_hours, 0), 2)
+        selected_urls.add(url_key)
+        selected_titles.add(title_key)
+        ordered.append(article)
+
+    return date, ordered
+
+
+def build_article_payload(article: dict, date: str, generated_at: str) -> dict:
+    article_id = article["id"]
+    return {
+        "date": date,
+        "id": article_id,
+        "level": article_id,
+        "level_label": article.get("level_label") or LEVEL_LABELS[article_id],
+        "title": article["title"],
+        "source": article.get("source", "BBC"),
+        "url": article["url"],
+        "published_at": article["published_at"],
+        "age_hours_at_selection": article["age_hours_at_selection"],
+        "word_count": article.get("word_count") or 0,
+        "generated_at": generated_at,
+        "difficulty_reason": article.get("difficulty_reason", ""),
+        "settings": {
+            "source_mode": "BBC-only",
+            "freshness_limit_hours": MAX_ARTICLE_AGE_HOURS,
+            "history_exclusion": True,
+            "vocabulary_count": EXPECTED_WORD_COUNT,
+            "quiz_enabled": True,
+        },
+        "words": article["words"],
+        "quiz": shuffle_quiz_options(
+            article["quiz"], date, article_id, article["url"]
+        ),
+    }
+
+
+def build_today_index(payloads: List[dict], date: str, generated_at: str) -> dict:
+    return {
+        "date": date,
+        "generated_at": generated_at,
+        "source_mode": "BBC-only",
+        "freshness_limit_hours": MAX_ARTICLE_AGE_HOURS,
+        "history_exclusion": True,
+        "articles": [
+            {
+                "id": item["id"],
+                "level": item["level"],
+                "level_label": item["level_label"],
+                "title": item["title"],
+                "source": item["source"],
+                "url": item["url"],
+                "published_at": item["published_at"],
+                "age_hours_at_selection": item["age_hours_at_selection"],
+                "word_count": item["word_count"],
+                "difficulty_reason": item["difficulty_reason"],
+                "data_url": f"data/articles/{date}-{item['id']}.json",
+                "vocabulary_count": len(item["words"]),
+                "quiz_count": len(item["quiz"]),
+            }
+            for item in payloads
+        ],
+    }
 
 
 def main() -> None:
@@ -322,72 +325,24 @@ def main() -> None:
     archive_dir = data_dir / "archive"
 
     raw = load_json(output_dir / "learning_articles.json")
-    articles = validate_and_index(raw)
-
-    date = str(raw.get("date", "")).strip() or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    candidates = load_candidate_map(output_dir / "candidates.json")
+    date, articles = validate_selection(raw, candidates, archive_dir)
     generated_at = datetime.now(timezone.utc).isoformat()
 
-    # Deterministically shuffle each article's quiz options and enforce the
-    # correct-answer position distribution BEFORE writing anything.
-    for a in articles:
-        a["quiz"] = shuffle_quiz_options(a["quiz"], date, a["id"], a["url"])
-        positions = [q["options"].index(q["correct_answer"]) for q in a["quiz"]]
-        counts = Counter(positions)
-        print(
-            f"Article {a['id']} correct-answer positions "
-            f"{{A:{counts.get(0,0)}, B:{counts.get(1,0)}, C:{counts.get(2,0)}, D:{counts.get(3,0)}}}"
-        )
-        if not distribution_ok(positions, len(a["quiz"])):
-            raise RuntimeError(
-                f"Article {a['id']} quiz distribution still invalid after shuffle: {counts}"
-            )
+    payloads = [build_article_payload(article, date, generated_at) for article in articles]
+    today = build_today_index(payloads, date, generated_at)
 
-    # Build per-article payloads and re-validate every URL as BBC-only BEFORE
-    # writing anything to disk (defense in depth on top of validate_article).
-    article_payloads = {}
-    for a in articles:
-        payload = build_article_payload(a, date, generated_at)
-        assert_bbc_url(payload["url"], f"articles/{date}-{a['id']}.json")
-        article_payloads[a["id"]] = payload
-
-    # today.json index — verify each entry URL before it is written.
-    today = build_today_index(articles, date, generated_at)
-    for entry in today["articles"]:
-        assert_bbc_url(entry["url"], "today.json")
-
-    # Now that all URLs are confirmed BBC, write the per-article + archive files.
-    for a in articles:
-        payload = article_payloads[a["id"]]
-        write_json(articles_dir / f"{date}-{a['id']}.json", payload)
-        write_json(archive_dir / f"{date}-{a['id']}.json", payload)
-
+    # Validation is complete before any public file is replaced.
     write_json(data_dir / "today.json", today)
+    for payload in payloads:
+        suffix = payload["id"]
+        write_json(articles_dir / f"{date}-{suffix}.json", payload)
+        write_json(archive_dir / f"{date}-{suffix}.json", payload)
 
-    # latest.json backward-compatibility copy of the default (B) level.
-    default_payload = article_payloads.get(DEFAULT_LEVEL) or next(iter(article_payloads.values()))
-    latest = dict(default_payload)
-    # Match the historical latest.json settings shape (keeps old clients happy).
-    latest["settings"] = {
-        "source_mode": "BBC-only",
-        "vocabulary_count": EXPECTED_WORD_COUNT,
-        "level_mode": "B1-C1",
-        "quiz_enabled": True,
-    }
-    assert_bbc_url(latest["url"], "latest.json")
-    write_json(data_dir / "latest.json", latest)
-
-    print("\nSummary:")
-    for a in articles:
-        print(
-            f"  {a['id']} [{a.get('level_label', '')}] — {a.get('word_count', 0)} words — "
-            f"{a.get('title', '')}"
-        )
-    print(f"  latest.json mirrors level {DEFAULT_LEVEL}")
+    level_b = next(payload for payload in payloads if payload["id"] == DEFAULT_LEVEL)
+    write_json(data_dir / "latest.json", level_b)
+    print("Published three fresh, never-repeated BBC article metadata files.")
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as exc:  # noqa: BLE001
-        print(f"ERROR in build_today_json.py: {exc}", file=sys.stderr)
-        raise
+    main()
