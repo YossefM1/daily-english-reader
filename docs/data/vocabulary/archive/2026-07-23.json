@@ -1,7 +1,7 @@
 {
   "version": 2,
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T17:37:52.888722+00:00",
+  "generated_at": "2026-07-23T22:36:28.616415+00:00",
   "track": "Essential English 3000",
   "lesson_size": 10,
   "method": {
@@ -22,10 +22,10 @@
   },
   "profile_summary": {
     "bank_size": 113,
-    "known_count": 89,
+    "known_count": 93,
     "learning_count": 0,
-    "remaining_count": 24,
-    "profile_updated_at": "2026-07-23T17:37:52.820488+00:00"
+    "remaining_count": 20,
+    "profile_updated_at": "2026-07-23T22:36:28.528995+00:00"
   },
   "words": [
     {
@@ -131,14 +131,14 @@
       }
     },
     {
-      "id": "core-0026",
-      "word": "include",
-      "part_of_speech": "verb",
-      "level": "A2",
-      "hebrew": "לכלול",
-      "pronunciation_hebrew": "אִינְקְלוּד",
-      "explanation_hebrew": "להכיל דבר כחלק מקבוצה או תוכנית.",
-      "example": "The price includes breakfast.",
+      "id": "core-0099",
+      "word": "feature",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "תכונה / מאפיין",
+      "pronunciation_hebrew": "פִיצֶ'ר",
+      "explanation_hebrew": "חלק או יכולת בולטים של מוצר או מערכת.",
+      "example": "The app includes a useful review feature.",
       "reason": "new",
       "position": 7,
       "learning_state": {
@@ -148,14 +148,14 @@
       }
     },
     {
-      "id": "core-0106",
-      "word": "predict",
+      "id": "core-0035",
+      "word": "perform",
       "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "לחזות",
-      "pronunciation_hebrew": "פְּרִידִיקְט",
-      "explanation_hebrew": "לומר מה צפוי לקרות בעתיד על סמך מידע.",
-      "example": "The model can predict the system response.",
+      "level": "B2",
+      "hebrew": "לבצע / לתפקד",
+      "pronunciation_hebrew": "פֶּרְפוֹרְם",
+      "explanation_hebrew": "לעשות פעולה או להראות רמת ביצוע.",
+      "example": "The system performed well under heavy load.",
       "reason": "new",
       "position": 8,
       "learning_state": {
@@ -165,14 +165,14 @@
       }
     },
     {
-      "id": "core-0081",
-      "word": "resource",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "משאב",
-      "pronunciation_hebrew": "רִיסוֹרְס",
-      "explanation_hebrew": "דבר שניתן להשתמש בו כדי להשיג מטרה.",
-      "example": "Time is an important resource.",
+      "id": "core-0032",
+      "word": "occur",
+      "part_of_speech": "verb",
+      "level": "B2",
+      "hebrew": "להתרחש",
+      "pronunciation_hebrew": "אֶקֶר",
+      "explanation_hebrew": "לקרות, בדרך כלל בהקשר רשמי יותר.",
+      "example": "The fault occurred during the experiment.",
       "reason": "new",
       "position": 9,
       "learning_state": {
@@ -182,14 +182,14 @@
       }
     },
     {
-      "id": "core-0020",
-      "word": "environment",
-      "part_of_speech": "noun",
+      "id": "core-0056",
+      "word": "likely",
+      "part_of_speech": "adjective",
       "level": "B1",
-      "hebrew": "סביבה",
-      "pronunciation_hebrew": "אִנְוַיְרֶנְמֶנְט",
-      "explanation_hebrew": "התנאים והמקום שבהם אדם, בעל חיים או מערכת פועלים.",
-      "example": "A quiet environment helps me concentrate.",
+      "hebrew": "סביר ש־",
+      "pronunciation_hebrew": "לַיְקְלִי",
+      "explanation_hebrew": "בעל סיכוי גבוה לקרות.",
+      "example": "It is likely to rain this evening.",
       "reason": "new",
       "position": 10,
       "learning_state": {
