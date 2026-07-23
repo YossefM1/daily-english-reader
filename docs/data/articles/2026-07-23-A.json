@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-23",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Thousands of websites taken down for illegal World Cup streams",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o",
+  "word_count": 498,
+  "generated_at": "2026-07-23T02:12:19.628892+00:00",
+  "difficulty_reason": "Short, direct report with a clear story and simple structure; mostly B1/B2 vocabulary and low background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "blocked",
+      "lemma": "block",
+      "level": "B1",
+      "hebrew": "חסום",
+      "explanation_hebrew": "נחסם, לא מאפשרים גישה",
+      "pronunciation_hebrew": "בְּלוֹקְט",
+      "example": "The road was blocked after the crash."
+    },
+    {
+      "word": "seized",
+      "lemma": "seize",
+      "level": "B2",
+      "hebrew": "הוחרם",
+      "explanation_hebrew": "נתפס על ידי הרשויות",
+      "pronunciation_hebrew": "סִיזְד",
+      "example": "Police seized the illegal goods."
+    },
+    {
+      "word": "tournament",
+      "lemma": "tournament",
+      "level": "B1",
+      "hebrew": "טורניר",
+      "explanation_hebrew": "תחרות ספורט עם שלבים",
+      "pronunciation_hebrew": "טוּרְנָמֶנְט",
+      "example": "The team won the tournament."
+    },
+    {
+      "word": "enforcement",
+      "lemma": "enforcement",
+      "level": "B2",
+      "hebrew": "אכיפה",
+      "explanation_hebrew": "הפעלת החוק בכוח",
+      "pronunciation_hebrew": "אֶנְפוֹרְסְמֶנְט",
+      "example": "Law enforcement acted quickly."
+    },
+    {
+      "word": "unauthorised",
+      "lemma": "unauthorised",
+      "level": "B2",
+      "hebrew": "לא מורשה",
+      "explanation_hebrew": "ללא רשות או אישור",
+      "pronunciation_hebrew": "אַנְאוֹתוֹרַייזְד",
+      "example": "Unauthorised access is forbidden."
+    },
+    {
+      "word": "broadcasting",
+      "lemma": "broadcasting",
+      "level": "B2",
+      "hebrew": "שידור",
+      "explanation_hebrew": "העברת תוכן ברדיו או טלוויזיה",
+      "pronunciation_hebrew": "בְּרוֹדְקָאסְטִינְג",
+      "example": "The broadcasting of the match was live."
+    },
+    {
+      "word": "violated",
+      "lemma": "violate",
+      "level": "B2",
+      "hebrew": "הפר",
+      "explanation_hebrew": "עבר על חוק או כלל",
+      "pronunciation_hebrew": "וַייוֹלֵייטֶד",
+      "example": "He violated the rules."
+    },
+    {
+      "word": "criminal",
+      "lemma": "criminal",
+      "level": "B1",
+      "hebrew": "פלילי",
+      "explanation_hebrew": "הקשור לפשע",
+      "pronunciation_hebrew": "קְרִימִינָל",
+      "example": "It was a criminal act."
+    },
+    {
+      "word": "sustained",
+      "lemma": "sustained",
+      "level": "C1",
+      "hebrew": "מתמשך",
+      "explanation_hebrew": "נמשך לאורך זמן",
+      "pronunciation_hebrew": "סַסְטֵיינְד",
+      "example": "A sustained effort brought success."
+    },
+    {
+      "word": "commitment",
+      "lemma": "commitment",
+      "level": "B2",
+      "hebrew": "מחויבות",
+      "explanation_hebrew": "נאמנות ומסירות למשימה",
+      "pronunciation_hebrew": "קוֹמִיטְמֶנְט",
+      "example": "She showed great commitment."
+    },
+    {
+      "word": "federal",
+      "lemma": "federal",
+      "level": "B2",
+      "hebrew": "פדרלי",
+      "explanation_hebrew": "הקשור לשלטון המרכזי",
+      "pronunciation_hebrew": "פֶדֶרָל",
+      "example": "It is a federal agency."
+    },
+    {
+      "word": "agency",
+      "lemma": "agency",
+      "level": "B1",
+      "hebrew": "סוכנות",
+      "explanation_hebrew": "גוף רשמי או ארגון",
+      "pronunciation_hebrew": "אֵייגֶ'נְסִי",
+      "example": "The agency investigated the case."
+    },
+    {
+      "word": "estimated",
+      "lemma": "estimate",
+      "level": "B2",
+      "hebrew": "העריך",
+      "explanation_hebrew": "חישב בקירוב",
+      "pronunciation_hebrew": "אֶסְטִימֵייטֶד",
+      "example": "They estimated the cost."
+    },
+    {
+      "word": "popularity",
+      "lemma": "popularity",
+      "level": "B2",
+      "hebrew": "פופולריות",
+      "explanation_hebrew": "היותו אהוב ומוכר",
+      "pronunciation_hebrew": "פּוֹפְּיוּלָרִיטִי",
+      "example": "The show gained popularity."
+    },
+    {
+      "word": "pirated",
+      "lemma": "pirate",
+      "level": "B2",
+      "hebrew": "גנוב (פיראטי)",
+      "explanation_hebrew": "הועתק והופץ ללא רשות",
+      "pronunciation_hebrew": "פַּיירֵייטֶד",
+      "example": "The film was pirated online."
+    },
+    {
+      "word": "increasing",
+      "lemma": "increase",
+      "level": "B1",
+      "hebrew": "גובר",
+      "explanation_hebrew": "הולך וגדל",
+      "pronunciation_hebrew": "אִינְקְרִיסִינְג",
+      "example": "There is increasing demand."
+    },
+    {
+      "word": "resulted",
+      "lemma": "result",
+      "level": "B1",
+      "hebrew": "הוביל ל",
+      "explanation_hebrew": "גרם לתוצאה",
+      "pronunciation_hebrew": "רִיזַלְטֶד",
+      "example": "The error resulted in a delay."
+    },
+    {
+      "word": "crackdown",
+      "lemma": "crackdown",
+      "level": "C1",
+      "hebrew": "מבצע אכיפה",
+      "explanation_hebrew": "פעולה נמרצת נגד עבירות",
+      "pronunciation_hebrew": "קְרַאקְדָאוּן",
+      "example": "The crackdown reduced crime."
+    },
+    {
+      "word": "exploit",
+      "lemma": "exploit",
+      "level": "B2",
+      "hebrew": "לנצל",
+      "explanation_hebrew": "להשתמש לרעה לטובת עצמך",
+      "pronunciation_hebrew": "אֶקְסְפְּלוֹיט",
+      "example": "They tried to exploit the weakness."
+    },
+    {
+      "word": "combat",
+      "lemma": "combat",
+      "level": "B2",
+      "hebrew": "להילחם ב",
+      "explanation_hebrew": "לפעול נגד תופעה",
+      "pronunciation_hebrew": "קוֹמְבָּט",
+      "example": "New laws combat pollution."
+    },
+    {
+      "word": "piracy",
+      "lemma": "piracy",
+      "level": "B2",
+      "hebrew": "פיראטיות",
+      "explanation_hebrew": "גניבת זכויות יוצרים",
+      "pronunciation_hebrew": "פַּיירֵסִי",
+      "example": "Digital piracy costs money."
+    },
+    {
+      "word": "revenue",
+      "lemma": "revenue",
+      "level": "B2",
+      "hebrew": "הכנסה",
+      "explanation_hebrew": "כסף שנכנס לעסק",
+      "pronunciation_hebrew": "רֶבֶנְיוּ",
+      "example": "The company's revenue grew."
+    },
+    {
+      "word": "allegedly",
+      "lemma": "allegedly",
+      "level": "C1",
+      "hebrew": "לכאורה",
+      "explanation_hebrew": "לפי טענה שלא הוכחה",
+      "pronunciation_hebrew": "אַלֶגֶ'דְלִי",
+      "example": "He allegedly stole the car."
+    },
+    {
+      "word": "counterfeit",
+      "lemma": "counterfeit",
+      "level": "C1",
+      "hebrew": "מזויף",
+      "explanation_hebrew": "חיקוי לא חוקי של מוצר",
+      "pronunciation_hebrew": "קָאוּנְטֶרְפִיט",
+      "example": "They sold counterfeit goods."
+    },
+    {
+      "word": "convicted",
+      "lemma": "convict",
+      "level": "B2",
+      "hebrew": "הורשע",
+      "explanation_hebrew": "נמצא אשם בבית משפט",
+      "pronunciation_hebrew": "קוֹנְוִיקְטֶד",
+      "example": "He was convicted of theft."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "blocked",
+      "type": "english_to_hebrew",
+      "question": "What does “blocked” mean?",
+      "options": [
+        "טורניר",
+        "אכיפה",
+        "לא מורשה",
+        "חסום"
+      ],
+      "correct_answer": "חסום",
+      "explanation_hebrew": "“blocked” פירושו בעברית: חסום."
+    },
+    {
+      "id": "A-q2",
+      "word": "seized",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “הוחרם”?",
+      "options": [
+        "broadcasting",
+        "criminal",
+        "seized",
+        "violated"
+      ],
+      "correct_answer": "seized",
+      "explanation_hebrew": "המילה “הוחרם” באנגלית היא: seized."
+    },
+    {
+      "id": "A-q3",
+      "word": "tournament",
+      "type": "english_to_hebrew",
+      "question": "What does “tournament” mean?",
+      "options": [
+        "פדרלי",
+        "מחויבות",
+        "מתמשך",
+        "טורניר"
+      ],
+      "correct_answer": "טורניר",
+      "explanation_hebrew": "“tournament” פירושו בעברית: טורניר."
+    },
+    {
+      "id": "A-q4",
+      "word": "enforcement",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “אכיפה”?",
+      "options": [
+        "enforcement",
+        "estimated",
+        "popularity",
+        "agency"
+      ],
+      "correct_answer": "enforcement",
+      "explanation_hebrew": "המילה “אכיפה” באנגלית היא: enforcement."
+    },
+    {
+      "id": "A-q5",
+      "word": "unauthorised",
+      "type": "english_to_hebrew",
+      "question": "What does “unauthorised” mean?",
+      "options": [
+        "גובר",
+        "הוביל ל",
+        "לא מורשה",
+        "גנוב (פיראטי)"
+      ],
+      "correct_answer": "לא מורשה",
+      "explanation_hebrew": "“unauthorised” פירושו בעברית: לא מורשה."
+    },
+    {
+      "id": "A-q6",
+      "word": "broadcasting",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “שידור”?",
+      "options": [
+        "broadcasting",
+        "combat",
+        "exploit",
+        "crackdown"
+      ],
+      "correct_answer": "broadcasting",
+      "explanation_hebrew": "המילה “שידור” באנגלית היא: broadcasting."
+    },
+    {
+      "id": "A-q7",
+      "word": "violated",
+      "type": "english_to_hebrew",
+      "question": "What does “violated” mean?",
+      "options": [
+        "הכנסה",
+        "הפר",
+        "פיראטיות",
+        "לכאורה"
+      ],
+      "correct_answer": "הפר",
+      "explanation_hebrew": "“violated” פירושו בעברית: הפר."
+    },
+    {
+      "id": "A-q8",
+      "word": "criminal",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “פלילי”?",
+      "options": [
+        "convicted",
+        "criminal",
+        "blocked",
+        "counterfeit"
+      ],
+      "correct_answer": "criminal",
+      "explanation_hebrew": "המילה “פלילי” באנגלית היא: criminal."
+    },
+    {
+      "id": "A-q9",
+      "word": "sustained",
+      "type": "english_to_hebrew",
+      "question": "What does “sustained” mean?",
+      "options": [
+        "אכיפה",
+        "מתמשך",
+        "הוחרם",
+        "טורניר"
+      ],
+      "correct_answer": "מתמשך",
+      "explanation_hebrew": "“sustained” פירושו בעברית: מתמשך."
+    },
+    {
+      "id": "A-q10",
+      "word": "commitment",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “מחויבות”?",
+      "options": [
+        "commitment",
+        "unauthorised",
+        "broadcasting",
+        "violated"
+      ],
+      "correct_answer": "commitment",
+      "explanation_hebrew": "המילה “מחויבות” באנגלית היא: commitment."
+    },
+    {
+      "id": "A-q11",
+      "word": "federal",
+      "type": "english_to_hebrew",
+      "question": "What does “federal” mean?",
+      "options": [
+        "מחויבות",
+        "פלילי",
+        "מתמשך",
+        "פדרלי"
+      ],
+      "correct_answer": "פדרלי",
+      "explanation_hebrew": "“federal” פירושו בעברית: פדרלי."
+    },
+    {
+      "id": "A-q12",
+      "word": "agency",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “סוכנות”?",
+      "options": [
+        "agency",
+        "popularity",
+        "estimated",
+        "federal"
+      ],
+      "correct_answer": "agency",
+      "explanation_hebrew": "המילה “סוכנות” באנגלית היא: agency."
+    },
+    {
+      "id": "A-q13",
+      "word": "estimated",
+      "type": "english_to_hebrew",
+      "question": "What does “estimated” mean?",
+      "options": [
+        "הוביל ל",
+        "גנוב (פיראטי)",
+        "העריך",
+        "גובר"
+      ],
+      "correct_answer": "העריך",
+      "explanation_hebrew": "“estimated” פירושו בעברית: העריך."
+    },
+    {
+      "id": "A-q14",
+      "word": "popularity",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “פופולריות”?",
+      "options": [
+        "combat",
+        "crackdown",
+        "exploit",
+        "popularity"
+      ],
+      "correct_answer": "popularity",
+      "explanation_hebrew": "המילה “פופולריות” באנגלית היא: popularity."
+    },
+    {
+      "id": "A-q15",
+      "word": "pirated",
+      "type": "english_to_hebrew",
+      "question": "What does “pirated” mean?",
+      "options": [
+        "פיראטיות",
+        "גנוב (פיראטי)",
+        "הכנסה",
+        "לכאורה"
+      ],
+      "correct_answer": "גנוב (פיראטי)",
+      "explanation_hebrew": "“pirated” פירושו בעברית: גנוב (פיראטי)."
+    },
+    {
+      "id": "A-q16",
+      "word": "increasing",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “גובר”?",
+      "options": [
+        "counterfeit",
+        "blocked",
+        "convicted",
+        "increasing"
+      ],
+      "correct_answer": "increasing",
+      "explanation_hebrew": "המילה “גובר” באנגלית היא: increasing."
+    },
+    {
+      "id": "A-q17",
+      "word": "resulted",
+      "type": "english_to_hebrew",
+      "question": "What does “resulted” mean?",
+      "options": [
+        "אכיפה",
+        "הוחרם",
+        "הוביל ל",
+        "טורניר"
+      ],
+      "correct_answer": "הוביל ל",
+      "explanation_hebrew": "“resulted” פירושו בעברית: הוביל ל."
+    },
+    {
+      "id": "A-q18",
+      "word": "crackdown",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “מבצע אכיפה”?",
+      "options": [
+        "unauthorised",
+        "crackdown",
+        "broadcasting",
+        "violated"
+      ],
+      "correct_answer": "crackdown",
+      "explanation_hebrew": "המילה “מבצע אכיפה” באנגלית היא: crackdown."
+    },
+    {
+      "id": "A-q19",
+      "word": "exploit",
+      "type": "english_to_hebrew",
+      "question": "What does “exploit” mean?",
+      "options": [
+        "מחויבות",
+        "מתמשך",
+        "פלילי",
+        "לנצל"
+      ],
+      "correct_answer": "לנצל",
+      "explanation_hebrew": "“exploit” פירושו בעברית: לנצל."
+    },
+    {
+      "id": "A-q20",
+      "word": "combat",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “להילחם ב”?",
+      "options": [
+        "combat",
+        "estimated",
+        "federal",
+        "agency"
+      ],
+      "correct_answer": "combat",
+      "explanation_hebrew": "המילה “להילחם ב” באנגלית היא: combat."
+    },
+    {
+      "id": "A-q21",
+      "word": "piracy",
+      "type": "english_to_hebrew",
+      "question": "What does “piracy” mean?",
+      "options": [
+        "גובר",
+        "פופולריות",
+        "גנוב (פיראטי)",
+        "פיראטיות"
+      ],
+      "correct_answer": "פיראטיות",
+      "explanation_hebrew": "“piracy” פירושו בעברית: פיראטיות."
+    },
+    {
+      "id": "A-q22",
+      "word": "revenue",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “הכנסה”?",
+      "options": [
+        "resulted",
+        "revenue",
+        "crackdown",
+        "exploit"
+      ],
+      "correct_answer": "revenue",
+      "explanation_hebrew": "המילה “הכנסה” באנגלית היא: revenue."
+    },
+    {
+      "id": "A-q23",
+      "word": "allegedly",
+      "type": "english_to_hebrew",
+      "question": "What does “allegedly” mean?",
+      "options": [
+        "פיראטיות",
+        "הכנסה",
+        "להילחם ב",
+        "לכאורה"
+      ],
+      "correct_answer": "לכאורה",
+      "explanation_hebrew": "“allegedly” פירושו בעברית: לכאורה."
+    },
+    {
+      "id": "A-q24",
+      "word": "counterfeit",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “מזויף”?",
+      "options": [
+        "counterfeit",
+        "blocked",
+        "convicted",
+        "allegedly"
+      ],
+      "correct_answer": "counterfeit",
+      "explanation_hebrew": "המילה “מזויף” באנגלית היא: counterfeit."
+    },
+    {
+      "id": "A-q25",
+      "word": "convicted",
+      "type": "english_to_hebrew",
+      "question": "What does “convicted” mean?",
+      "options": [
+        "טורניר",
+        "הוחרם",
+        "אכיפה",
+        "הורשע"
+      ],
+      "correct_answer": "הורשע",
+      "explanation_hebrew": "“convicted” פירושו בעברית: הורשע."
+    }
+  ]
+}
