@@ -1,7 +1,7 @@
 {
   "version": 2,
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T16:37:04.145887+00:00",
+  "generated_at": "2026-07-23T17:37:52.888722+00:00",
   "track": "Essential English 3000",
   "lesson_size": 10,
   "method": {
@@ -22,10 +22,10 @@
   },
   "profile_summary": {
     "bank_size": 113,
-    "known_count": 86,
+    "known_count": 89,
     "learning_count": 0,
-    "remaining_count": 27,
-    "profile_updated_at": "2026-07-23T16:37:04.096786+00:00"
+    "remaining_count": 24,
+    "profile_updated_at": "2026-07-23T17:37:52.820488+00:00"
   },
   "words": [
     {
@@ -114,23 +114,6 @@
       }
     },
     {
-      "id": "core-0070",
-      "word": "behavior",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "התנהגות",
-      "pronunciation_hebrew": "בִּיהֵייבְיֶר",
-      "explanation_hebrew": "האופן שבו אדם או מערכת פועלים.",
-      "example": "The graph shows the behavior of the system.",
-      "reason": "new",
-      "position": 6,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
       "id": "core-0079",
       "word": "policy",
       "part_of_speech": "noun",
@@ -140,7 +123,7 @@
       "explanation_hebrew": "כלל או תוכנית פעולה של ארגון או ממשלה.",
       "example": "The company changed its privacy policy.",
       "reason": "new",
-      "position": 7,
+      "position": 6,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -157,6 +140,23 @@
       "explanation_hebrew": "להכיל דבר כחלק מקבוצה או תוכנית.",
       "example": "The price includes breakfast.",
       "reason": "new",
+      "position": 7,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0106",
+      "word": "predict",
+      "part_of_speech": "verb",
+      "level": "B1",
+      "hebrew": "לחזות",
+      "pronunciation_hebrew": "פְּרִידִיקְט",
+      "explanation_hebrew": "לומר מה צפוי לקרות בעתיד על סמך מידע.",
+      "example": "The model can predict the system response.",
+      "reason": "new",
       "position": 8,
       "learning_state": {
         "mastery": 0,
@@ -165,14 +165,14 @@
       }
     },
     {
-      "id": "core-0071",
-      "word": "condition",
+      "id": "core-0081",
+      "word": "resource",
       "part_of_speech": "noun",
       "level": "B1",
-      "hebrew": "תנאי / מצב",
-      "pronunciation_hebrew": "קַנְדִישֶן",
-      "explanation_hebrew": "דרישה שצריכה להתקיים או מצב מסוים.",
-      "example": "The system is stable under this condition.",
+      "hebrew": "משאב",
+      "pronunciation_hebrew": "רִיסוֹרְס",
+      "explanation_hebrew": "דבר שניתן להשתמש בו כדי להשיג מטרה.",
+      "example": "Time is an important resource.",
       "reason": "new",
       "position": 9,
       "learning_state": {
@@ -182,14 +182,14 @@
       }
     },
     {
-      "id": "core-0019",
-      "word": "encourage",
-      "part_of_speech": "verb",
+      "id": "core-0020",
+      "word": "environment",
+      "part_of_speech": "noun",
       "level": "B1",
-      "hebrew": "לעודד",
-      "pronunciation_hebrew": "אִנְקַרִג'",
-      "explanation_hebrew": "לתת תמיכה או ביטחון כדי שמישהו יעשה משהו.",
-      "example": "Good teachers encourage students to ask questions.",
+      "hebrew": "סביבה",
+      "pronunciation_hebrew": "אִנְוַיְרֶנְמֶנְט",
+      "explanation_hebrew": "התנאים והמקום שבהם אדם, בעל חיים או מערכת פועלים.",
+      "example": "A quiet environment helps me concentrate.",
       "reason": "new",
       "position": 10,
       "learning_state": {

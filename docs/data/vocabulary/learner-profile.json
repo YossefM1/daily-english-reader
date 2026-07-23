@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updated_at": "2026-07-23T16:37:04.096786+00:00",
-  "feedback_sessions": 10,
+  "updated_at": "2026-07-23T17:37:52.820488+00:00",
+  "feedback_sessions": 11,
   "processed_issue_numbers": [
     12,
     13,
@@ -12,7 +12,8 @@
     18,
     19,
     21,
-    23
+    23,
+    24
   ],
   "words": {
     "core-0111": {
@@ -612,7 +613,7 @@
       "mastery": 5,
       "last_seen": "2026-07-23",
       "next_review": null,
-      "times_seen": 1,
+      "times_seen": 2,
       "successful_sessions": 2,
       "last_score": 4,
       "best_score": 4,
@@ -624,7 +625,7 @@
       "mastery": 5,
       "last_seen": "2026-07-23",
       "next_review": null,
-      "times_seen": 1,
+      "times_seen": 2,
       "successful_sessions": 2,
       "last_score": 4,
       "best_score": 4,
@@ -636,7 +637,7 @@
       "mastery": 5,
       "last_seen": "2026-07-23",
       "next_review": null,
-      "times_seen": 1,
+      "times_seen": 2,
       "successful_sessions": 2,
       "last_score": 4,
       "best_score": 4,
@@ -648,7 +649,7 @@
       "mastery": 5,
       "last_seen": "2026-07-23",
       "next_review": null,
-      "times_seen": 1,
+      "times_seen": 2,
       "successful_sessions": 2,
       "last_score": 4,
       "best_score": 4,
@@ -656,6 +657,42 @@
       "known_source": "manual_like"
     },
     "core-0003": {
+      "status": "known",
+      "mastery": 5,
+      "last_seen": "2026-07-23",
+      "next_review": null,
+      "times_seen": 2,
+      "successful_sessions": 2,
+      "last_score": 4,
+      "best_score": 4,
+      "last_confidence": "easy",
+      "known_source": "manual_like"
+    },
+    "core-0071": {
+      "status": "known",
+      "mastery": 5,
+      "last_seen": "2026-07-23",
+      "next_review": null,
+      "times_seen": 1,
+      "successful_sessions": 2,
+      "last_score": 4,
+      "best_score": 4,
+      "last_confidence": "easy",
+      "known_source": "manual_like"
+    },
+    "core-0019": {
+      "status": "known",
+      "mastery": 5,
+      "last_seen": "2026-07-23",
+      "next_review": null,
+      "times_seen": 1,
+      "successful_sessions": 2,
+      "last_score": 4,
+      "best_score": 4,
+      "last_confidence": "easy",
+      "known_source": "manual_like"
+    },
+    "core-0070": {
       "status": "known",
       "mastery": 5,
       "last_seen": "2026-07-23",
