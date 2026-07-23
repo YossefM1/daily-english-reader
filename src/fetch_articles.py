@@ -1,41 +1,27 @@
-"""Fetch several BBC article candidates for multi-level (A/B/C) selection.
+"""Fetch fresh BBC article candidates for daily A/B/C selection.
 
-This script fetches candidate articles from several BBC RSS feeds using only the
-Python standard library for XML parsing (NO feedparser — its sgmllib3k
-dependency fails to build in the Claude Routine Debian environment) plus the
-existing allowed dependencies (requests, trafilatura, beautifulsoup4).
-
-It saves data/candidates.json, an internal file (gitignored, never published)
-containing enough candidates for Claude to choose one easier (A), one
-intermediate (B) and one advanced (C) article.
-
-Each candidate includes: title, url, source, category (feed), text, word_count.
-
-Full article text is stored ONLY in data/candidates.json for internal analysis
-and must never be copied into the public docs/data/*.json files.
+Hard guarantees:
+- BBC-only article URLs.
+- RSS publication time must be present and no more than 12 hours old.
+- Articles already published by this project are excluded by URL and title.
+- Full article text stays only in the gitignored data/candidates.json file.
 """
 
 import json
 import os
+import re
 import sys
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 from urllib.parse import urlparse
 
-# Reuse the battle-tested helpers from the single-article fetcher. Both files
-# live in src/, which is sys.path[0] when this script is run directly.
-from fetch_article import (
-    extract_article,
-    http_get,
-    parse_rss_links,
-    source_from_url,
-    split_env_list,
-)
+from fetch_article import extract_article, http_get, source_from_url, split_env_list
 
-# BBC-only mode: candidate feeds span several BBC sections so Claude has enough
-# variety (topic and length) to pick A/B/C reading levels.
 DEFAULT_BBC_FEEDS = [
+    "https://feeds.bbci.co.uk/news/rss.xml",
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -44,16 +30,26 @@ DEFAULT_BBC_FEEDS = [
     "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
 ]
 
-# ── Strict BBC-only guard ─────────────────────────────────────────────────────
-# The project is BBC-only. The Tampermonkey overlay supports BBC pages only, so
-# non-BBC articles (Guardian, NPR, Ars Technica, Yahoo, …) MUST NEVER become
-# candidates. Enforce this by URL hostname, not by feed name or trust.
-#
-# Published article URLs must have exactly one of these hostnames:
 BBC_ARTICLE_HOSTS = {"bbc.com", "www.bbc.com", "bbc.co.uk", "www.bbc.co.uk"}
-# BBC feeds are served from feeds.bbci.co.uk (a BBC-owned domain); article links
-# they contain resolve to the bbc.com / bbc.co.uk hosts above.
 BBC_FEED_HOST_SUFFIXES = ("bbci.co.uk", "bbc.co.uk", "bbc.com")
+
+LINKS_PER_FEED = int(os.getenv("LINKS_PER_FEED", "20") or "20")
+MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "24") or "24")
+MIN_WORDS = int(os.getenv("MIN_CANDIDATE_WORDS", "150") or "150")
+MAX_STORED_CHARS = int(os.getenv("MAX_CANDIDATE_CHARS", "20000") or "20000")
+MAX_ARTICLE_AGE_HOURS = float(os.getenv("MAX_ARTICLE_AGE_HOURS", "12") or "12")
+MIN_REQUIRED_CANDIDATES = 3
+
+
+def strip_xml_ns(tag: str) -> str:
+    return tag.split("}", 1)[-1] if "}" in tag else tag
+
+
+def child_text(element: ET.Element, names: set[str]) -> str:
+    for child in list(element):
+        if strip_xml_ns(child.tag).lower() in names:
+            return (child.text or "").strip()
+    return ""
 
 
 def host_of(url: str) -> str:
@@ -61,115 +57,220 @@ def host_of(url: str) -> str:
 
 
 def is_bbc_article_url(url: str) -> bool:
-    """True only for the strict BBC article hostname allow-list."""
     return host_of(url) in BBC_ARTICLE_HOSTS
 
 
 def is_bbc_feed(feed_url: str) -> bool:
-    """True if a feed lives on a BBC-owned domain (feeds.bbci.co.uk etc.)."""
     host = host_of(feed_url)
-    return any(host == s or host.endswith("." + s) for s in BBC_FEED_HOST_SUFFIXES)
+    return any(host == suffix or host.endswith("." + suffix) for suffix in BBC_FEED_HOST_SUFFIXES)
+
+
+def normalize_url(url: str) -> str:
+    """Canonical host+path key, ignoring www, query, hash and trailing slash."""
+    parsed = urlparse(str(url))
+    host = parsed.netloc.lower().removeprefix("www.")
+    path = re.sub(r"/+$", "", parsed.path) or "/"
+    return f"{host}{path}"
+
+
+def normalize_title(title: str) -> str:
+    text = re.sub(r"\s+", " ", str(title)).strip().casefold()
+    return re.sub(r"[^\w\s]", "", text)
+
+
+def parse_published_at(raw: str) -> Optional[datetime]:
+    raw = str(raw or "").strip()
+    if not raw:
+        return None
+    try:
+        dt = parsedate_to_datetime(raw)
+    except (TypeError, ValueError, OverflowError):
+        try:
+            dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        except ValueError:
+            return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
+
+
+def parse_feed_entries(xml_text: str) -> List[Dict[str, object]]:
+    """Parse RSS/Atom title, link and original publication timestamp."""
+    root = ET.fromstring(xml_text)
+    entries: List[Dict[str, object]] = []
+
+    for elem in root.iter():
+        tag = strip_xml_ns(elem.tag).lower()
+        if tag not in {"item", "entry"}:
+            continue
+
+        title = child_text(elem, {"title"})
+        link = child_text(elem, {"link"})
+        if tag == "entry" and not link:
+            for child in list(elem):
+                if strip_xml_ns(child.tag).lower() == "link":
+                    link = child.attrib.get("href", "").strip()
+                    if link:
+                        break
+
+        # Prefer the original publication time. Use updated only when published is
+        # absent; the strict age check still prevents old resurfaced stories.
+        raw_published = child_text(elem, {"pubdate", "published", "date"})
+        if not raw_published:
+            raw_published = child_text(elem, {"updated"})
+        published_at = parse_published_at(raw_published)
+
+        if title and link:
+            entries.append(
+                {
+                    "title": title,
+                    "url": link,
+                    "published_at": published_at,
+                    "raw_published": raw_published,
+                }
+            )
+
+    return entries
 
 
 def resolve_feeds() -> List[str]:
-    """Return the BBC-only feed list, ignoring any non-BBC ambient RSS_FEEDS.
-
-    In BBC-only mode we NEVER honour a non-BBC feed, even if it is set in the
-    RSS_FEEDS environment variable. To guarantee enough topic/length variety for
-    A/B/C selection, we ALWAYS use the full DEFAULT_BBC_FEEDS set and merge in
-    any *extra* BBC feeds found in RSS_FEEDS. Non-BBC feeds are dropped with a
-    warning and can never narrow or replace the default BBC set.
-    """
-    feeds: List[str] = list(DEFAULT_BBC_FEEDS)
-    for f in split_env_list(os.getenv("RSS_FEEDS", "")):
-        if is_bbc_feed(f):
-            if f not in feeds:
-                feeds.append(f)
+    feeds = list(DEFAULT_BBC_FEEDS)
+    for feed in split_env_list(os.getenv("RSS_FEEDS", "")):
+        if is_bbc_feed(feed):
+            if feed not in feeds:
+                feeds.append(feed)
         else:
-            print(
-                f"WARNING: ignoring non-BBC feed from RSS_FEEDS (BBC-only mode): {f}",
-                file=sys.stderr,
-            )
+            print(f"WARNING: ignoring non-BBC feed: {feed}", file=sys.stderr)
     return feeds
-
-# How many links to consider per feed, and how many successful candidates to
-# collect before stopping. Tunable via environment variables.
-LINKS_PER_FEED = int(os.getenv("LINKS_PER_FEED", "5") or "5")
-MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "18") or "18")
-MIN_WORDS = int(os.getenv("MIN_CANDIDATE_WORDS", "150") or "150")
-# Keep the stored text bounded so the internal file stays a sane size. This is
-# generous enough to preserve full word counts for level selection.
-MAX_STORED_CHARS = int(os.getenv("MAX_CANDIDATE_CHARS", "20000") or "20000")
 
 
 def category_from_feed(feed_url: str) -> str:
-    """Derive a human-readable category from a BBC RSS feed URL.
-
-    e.g. .../news/science_and_environment/rss.xml -> "science and environment"
-    """
-    path = urlparse(feed_url).path  # /news/technology/rss.xml
-    parts = [p for p in path.split("/") if p and p != "rss.xml"]
-    # Drop the leading "news" segment when present.
+    parts = [p for p in urlparse(feed_url).path.split("/") if p and p != "rss.xml"]
     if parts and parts[0] == "news":
         parts = parts[1:]
-    if not parts:
-        return "news"
-    return parts[-1].replace("_", " ")
+    return (parts[-1] if parts else "news").replace("_", " ")
 
 
-def collect_feed_links(feeds: List[str]) -> List[Dict[str, str]]:
-    """Return de-duplicated (url, title, category) records from all feeds.
+def load_published_history(docs_dir: Path) -> tuple[set[str], set[str]]:
+    """Load every previously published article URL/title from public metadata."""
+    urls: set[str] = set()
+    titles: set[str] = set()
+    paths = list((docs_dir / "data" / "archive").glob("*.json"))
+    today_path = docs_dir / "data" / "today.json"
+    if today_path.exists():
+        paths.append(today_path)
 
-    A feed that fails is logged and skipped; other feeds continue.
-    """
-    seen_urls = set()
-    records: List[Dict[str, str]] = []
+    for path in paths:
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as exc:
+            print(f"WARNING: could not read history file {path}: {exc}", file=sys.stderr)
+            continue
+
+        records = payload.get("articles") if isinstance(payload, dict) else None
+        if not isinstance(records, list):
+            records = [payload]
+
+        for record in records:
+            if not isinstance(record, dict):
+                continue
+            url = record.get("url") or record.get("article_url")
+            title = record.get("title") or record.get("article_title")
+            if url:
+                urls.add(normalize_url(str(url)))
+            if title:
+                titles.add(normalize_title(str(title)))
+
+    return urls, titles
+
+
+def collect_feed_links(
+    feeds: List[str], history_urls: set[str], history_titles: set[str]
+) -> List[Dict[str, object]]:
+    now = datetime.now(timezone.utc)
+    records: List[Dict[str, object]] = []
+    seen_urls: set[str] = set()
+    seen_titles: set[str] = set()
     errors: List[str] = []
+
+    freshness_rejections = 0
+    missing_date_rejections = 0
+    history_rejections = 0
 
     for feed_url in feeds:
         category = category_from_feed(feed_url)
         try:
             response = http_get(feed_url)
-            entries = parse_rss_links(response.text)
-            print(f"Feed OK: {feed_url} ({len(entries)} entries, category='{category}')")
-        except Exception as exc:  # noqa: BLE001 — continue with other feeds
+            entries = parse_feed_entries(response.text)
+            print(f"Feed OK: {feed_url} ({len(entries)} entries, category={category!r})")
+        except Exception as exc:  # noqa: BLE001
             errors.append(f"{feed_url}: {exc}")
             print(f"Feed failed: {feed_url}: {exc}", file=sys.stderr)
             continue
 
-        for title, link in entries[:LINKS_PER_FEED]:
-            if link in seen_urls:
+        for entry in entries[:LINKS_PER_FEED]:
+            url = str(entry["url"])
+            title = str(entry["title"])
+            published_at = entry.get("published_at")
+
+            if not is_bbc_article_url(url):
                 continue
-            seen_urls.add(link)
-            records.append({"title": title, "url": link, "category": category})
+            if not isinstance(published_at, datetime):
+                missing_date_rejections += 1
+                continue
+
+            age_hours = (now - published_at).total_seconds() / 3600
+            if age_hours < -1 or age_hours > MAX_ARTICLE_AGE_HOURS:
+                freshness_rejections += 1
+                continue
+
+            url_key = normalize_url(url)
+            title_key = normalize_title(title)
+            if url_key in history_urls or title_key in history_titles:
+                history_rejections += 1
+                continue
+            if url_key in seen_urls or title_key in seen_titles:
+                continue
+
+            seen_urls.add(url_key)
+            seen_titles.add(title_key)
+            records.append(
+                {
+                    "title": title,
+                    "url": url,
+                    "category": category,
+                    "published_at": published_at.isoformat(),
+                    "age_hours": round(max(age_hours, 0), 2),
+                }
+            )
+
+    records.sort(key=lambda item: str(item["published_at"]), reverse=True)
+    print(
+        "Candidate-link filters: "
+        f"freshness={freshness_rejections}, missing_date={missing_date_rejections}, "
+        f"already_published={history_rejections}, accepted={len(records)}"
+    )
 
     if not records and errors:
-        raise RuntimeError("No article links found. Feed errors:\n" + "\n".join(errors))
-
+        raise RuntimeError("No fresh article links found. Feed errors:\n" + "\n".join(errors))
     return records
 
 
-def build_candidates(records: List[Dict[str, str]]) -> List[Dict[str, object]]:
-    """Extract article text for each link, keeping only successful, long-enough ones."""
+def build_candidates(
+    records: List[Dict[str, object]], history_urls: set[str], history_titles: set[str]
+) -> List[Dict[str, object]]:
     candidates: List[Dict[str, object]] = []
+    candidate_urls: set[str] = set()
+    candidate_titles: set[str] = set()
 
-    for rec in records:
+    for record in records:
         if len(candidates) >= MAX_CANDIDATES:
             break
 
-        url = rec["url"]
-        # Strict BBC-only gate: reject any candidate whose article URL is not a
-        # BBC hostname, regardless of which feed it came from.
-        if not is_bbc_article_url(url):
-            print(
-                f"WARNING: rejecting non-BBC candidate URL (BBC-only mode): "
-                f"{url} (host {host_of(url)!r})",
-                file=sys.stderr,
-            )
-            continue
+        url = str(record["url"])
         try:
             article = extract_article(url)
-        except Exception as exc:  # noqa: BLE001 — skip unextractable articles
+        except Exception as exc:  # noqa: BLE001
             print(f"Skip (extract failed): {url}: {exc}", file=sys.stderr)
             continue
 
@@ -179,51 +280,61 @@ def build_candidates(records: List[Dict[str, str]]) -> List[Dict[str, object]]:
             print(f"Skip (too short, {word_count} words): {url}", file=sys.stderr)
             continue
 
-        stored_text = text[:MAX_STORED_CHARS]
+        url_key = normalize_url(url)
+        title_key = normalize_title(article.title or str(record["title"]))
+        if url_key in history_urls or title_key in history_titles:
+            print(f"Skip (already published after extraction): {article.title}", file=sys.stderr)
+            continue
+        if url_key in candidate_urls or title_key in candidate_titles:
+            continue
 
+        candidate_urls.add(url_key)
+        candidate_titles.add(title_key)
         candidates.append(
             {
                 "title": article.title,
                 "url": url,
                 "source": article.source or source_from_url(url),
-                "category": rec["category"],
-                "text": stored_text,
+                "category": record["category"],
+                "published_at": record["published_at"],
+                "age_hours": record["age_hours"],
+                "text": text[:MAX_STORED_CHARS],
                 "word_count": word_count,
             }
         )
-        print(f"Candidate #{len(candidates)}: [{rec['category']}] {word_count} words — {article.title}")
+        print(
+            f"Candidate #{len(candidates)}: {record['age_hours']}h old · "
+            f"[{record['category']}] {word_count} words — {article.title}"
+        )
 
     return candidates
 
 
 def main() -> None:
     output_dir = Path(os.getenv("OUTPUT_DIR", "data"))
+    docs_dir = Path(os.getenv("DOCS_DIR", "docs"))
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    history_urls, history_titles = load_published_history(docs_dir)
+    print(f"Loaded publication history: {len(history_urls)} URLs, {len(history_titles)} titles")
+
     feeds = resolve_feeds()
+    records = collect_feed_links(feeds, history_urls, history_titles)
+    candidates = build_candidates(records, history_urls, history_titles)
 
-    records = collect_feed_links(feeds)
-    candidates = build_candidates(records)
-
-    if not candidates:
-        raise RuntimeError("No usable candidates extracted from any feed.")
-
-    # Final defensive sweep: absolutely no non-BBC URL may survive into
-    # candidates.json (the build step and the userscript both assume BBC-only).
-    non_bbc = [c for c in candidates if not is_bbc_article_url(c["url"])]
-    if non_bbc:
-        for c in non_bbc:
-            print(
-                f"WARNING: dropping non-BBC candidate before save: {c['url']}",
-                file=sys.stderr,
-            )
-        candidates = [c for c in candidates if is_bbc_article_url(c["url"])]
-    if not candidates:
-        raise RuntimeError("No BBC candidates available after strict BBC-only filtering.")
+    if len(candidates) < MIN_REQUIRED_CANDIDATES:
+        raise RuntimeError(
+            f"Only {len(candidates)} usable BBC candidates were found that are both "
+            f"new to this project and no more than {MAX_ARTICLE_AGE_HOURS:g} hours old. "
+            "Refusing to reuse an old article. Increase LINKS_PER_FEED/add BBC feeds "
+            "or run again later."
+        )
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "source_mode": "BBC-only",
+        "freshness_limit_hours": MAX_ARTICLE_AGE_HOURS,
+        "history_exclusion": True,
         "feeds": feeds,
         "candidate_count": len(candidates),
         "candidates": candidates,
@@ -231,11 +342,12 @@ def main() -> None:
 
     out_path = output_dir / "candidates.json"
     out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-
-    print(f"\nSaved {len(candidates)} candidates to {out_path}")
-    # A compact summary sorted by length helps Claude pick A/B/C quickly.
-    for c in sorted(candidates, key=lambda c: c["word_count"]):
-        print(f"  {c['word_count']:>5} words · [{c['category']}] {c['title']}")
+    print(f"\nSaved {len(candidates)} fresh, never-used candidates to {out_path}")
+    for candidate in sorted(candidates, key=lambda item: item["word_count"]):
+        print(
+            f"  {candidate['word_count']:>5} words · {candidate['age_hours']:>5}h · "
+            f"[{candidate['category']}] {candidate['title']}"
+        )
 
 
 if __name__ == "__main__":
