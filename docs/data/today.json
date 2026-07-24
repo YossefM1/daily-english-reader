@@ -1,1 +1,54 @@
-{"date":"2026-07-23","generated_at":"2026-07-23T08:24:00+00:00","source_mode":"BBC-only","freshness_limit_hours":12,"history_exclusion":true,"articles":[{"id":"A","level":"A","level_label":"A — Easier English","title":"Fire kills 10 members of same family in Peru, police say","source":"BBC","url":"https://www.bbc.co.uk/news/articles/cm2g11ng7j2o","published_at":"2026-07-22T20:56:30+00:00","age_hours_at_selection":11.46,"word_count":323,"difficulty_reason":"A short, direct report with a clear sequence of events and mostly B1/B2 vocabulary; little background knowledge is needed.","data_url":"data/articles/2026-07-23-A.json","vocabulary_count":25,"quiz_count":25},{"id":"B","level":"B","level_label":"B — Intermediate English","title":"Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist","source":"BBC","url":"https://www.bbc.co.uk/news/articles/cdrv0p37k8jo","published_at":"2026-07-22T22:17:00+00:00","age_hours_at_selection":10.12,"word_count":686,"difficulty_reason":"A medium-length international report with clear chronology, policy statements and B1/B2/C1 vocabulary; some background on the conflict helps.","data_url":"data/articles/2026-07-23-B.json","vocabulary_count":25,"quiz_count":25},{"id":"C","level":"C","level_label":"C — Advanced English","title":"Russia's businesses under strain from Ukraine's attacks on Wildberries","source":"BBC","url":"https://www.bbc.co.uk/news/articles/cvg9n2y61w6o","published_at":"2026-07-22T23:06:13+00:00","age_hours_at_selection":9.3,"word_count":1128,"difficulty_reason":"A long analytical business-and-war report with complex causal links, statistics and B2/C1/C2 vocabulary; substantial context is useful.","data_url":"data/articles/2026-07-23-C.json","vocabulary_count":25,"quiz_count":25}]}
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T02:11:46.998468+00:00",
+  "source_mode": "BBC-only",
+  "freshness_limit_hours": 12.0,
+  "history_exclusion": true,
+  "articles": [
+    {
+      "id": "A",
+      "level": "A",
+      "level_label": "A — Easier English",
+      "title": "Secrets of birdsongs' 'spectacular diversity' revealed",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T23:55:29+00:00",
+      "age_hours_at_selection": 2.27,
+      "word_count": 515,
+      "difficulty_reason": "Short science report with a clear story and simple structure; mostly B1/B2 vocabulary and low background knowledge needed.",
+      "data_url": "data/articles/2026-07-24-A.json",
+      "vocabulary_count": 25,
+      "quiz_count": 25
+    },
+    {
+      "id": "B",
+      "level": "B",
+      "level_label": "B — Intermediate English",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T19:17:42+00:00",
+      "age_hours_at_selection": 6.9,
+      "word_count": 906,
+      "difficulty_reason": "Moderate-length news report with several strands and B1/B2/C1 vocabulary; some background on wildfires and geography helps.",
+      "data_url": "data/articles/2026-07-24-B.json",
+      "vocabulary_count": 25,
+      "quiz_count": 25
+    },
+    {
+      "id": "C",
+      "level": "C",
+      "level_label": "C — Advanced English",
+      "title": "CJP protests at Jantar Mantar: The youth movement India's Modi didn't see coming",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T23:41:32+00:00",
+      "age_hours_at_selection": 2.5,
+      "word_count": 1402,
+      "difficulty_reason": "Long analytical piece with complex sentences, dense argument and B2/C1/C2 vocabulary; needs background on Indian politics.",
+      "data_url": "data/articles/2026-07-24-C.json",
+      "vocabulary_count": 25,
+      "quiz_count": 25
+    }
+  ]
+}
