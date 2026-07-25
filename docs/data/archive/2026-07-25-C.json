@@ -1,0 +1,600 @@
+{
+  "date": "2026-07-25",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go",
+  "published_at": "2026-07-24T23:11:13+00:00",
+  "age_hours_at_selection": 3.0,
+  "word_count": 1119,
+  "generated_at": "2026-07-25T02:11:09.194607+00:00",
+  "difficulty_reason": "Analytical, opinion-rich piece with long sentences and dense tech and cyber-security context; B2/C1/C2 vocabulary and background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "wielding",
+      "lemma": "wield",
+      "level": "C1",
+      "hebrew": "מפעיל, אוחז",
+      "explanation_hebrew": "משתמש בכוח או בכלי",
+      "pronunciation_hebrew": "וִוילְדִינְג",
+      "example": "A hacker wielding powerful tools."
+    },
+    {
+      "word": "bombshell",
+      "lemma": "bombshell",
+      "level": "C1",
+      "hebrew": "הפתעה מטלטלת",
+      "explanation_hebrew": "ידיעה מדהימה ובלתי צפויה",
+      "pronunciation_hebrew": "בּוֹמְבְּשֶׁל",
+      "example": "The report was a bombshell."
+    },
+    {
+      "word": "breaching",
+      "lemma": "breach",
+      "level": "C1",
+      "hebrew": "פורץ, מפר",
+      "explanation_hebrew": "חודר דרך מחסום או הגנה",
+      "pronunciation_hebrew": "בְּרִיצִ'ינְג",
+      "example": "They succeeded in breaching the network."
+    },
+    {
+      "word": "perplexed",
+      "lemma": "perplex",
+      "level": "C1",
+      "hebrew": "נבוך, מבולבל",
+      "explanation_hebrew": "לא מבין מה קורה",
+      "pronunciation_hebrew": "פֶּרְפְּלֶקְסְט",
+      "example": "The perplexed team called the police."
+    },
+    {
+      "word": "commenced",
+      "lemma": "commence",
+      "level": "C1",
+      "hebrew": "החל, נפתח",
+      "explanation_hebrew": "התחיל באופן רשמי",
+      "pronunciation_hebrew": "קוֹמֶנְסְט",
+      "example": "The investigation commenced at once."
+    },
+    {
+      "word": "culprit",
+      "lemma": "culprit",
+      "level": "C1",
+      "hebrew": "האשם",
+      "explanation_hebrew": "מי שאחראי למעשה רע",
+      "pronunciation_hebrew": "קַאלְפְּרִיט",
+      "example": "The true culprit was revealed."
+    },
+    {
+      "word": "unmasked",
+      "lemma": "unmask",
+      "level": "C1",
+      "hebrew": "נחשף",
+      "explanation_hebrew": "חשפו את זהותו האמיתית",
+      "pronunciation_hebrew": "אַנְמָאסְקְט",
+      "example": "The attacker was finally unmasked."
+    },
+    {
+      "word": "bizarre",
+      "lemma": "bizarre",
+      "level": "C1",
+      "hebrew": "מוזר, תמוה",
+      "explanation_hebrew": "מוזר מאוד ולא רגיל",
+      "pronunciation_hebrew": "בִּיזָאר",
+      "example": "The whole story was bizarre."
+    },
+    {
+      "word": "supposedly",
+      "lemma": "supposedly",
+      "level": "B2",
+      "hebrew": "כביכול",
+      "explanation_hebrew": "לפי מה שאומרים, לא בהכרח נכון",
+      "pronunciation_hebrew": "סַפּוֹזְדְלִי",
+      "example": "It broke out of a supposedly secure box."
+    },
+    {
+      "word": "incident",
+      "lemma": "incident",
+      "level": "B2",
+      "hebrew": "אירוע, תקרית",
+      "explanation_hebrew": "מקרה, לרוב לא נעים",
+      "pronunciation_hebrew": "אִינְסִידֶנְט",
+      "example": "They addressed the security incident."
+    },
+    {
+      "word": "fierce",
+      "lemma": "fierce",
+      "level": "B2",
+      "hebrew": "עז, חריף",
+      "explanation_hebrew": "חזק ואינטנסיבי מאוד",
+      "pronunciation_hebrew": "פִירְס",
+      "example": "There was fierce debate online."
+    },
+    {
+      "word": "scepticism",
+      "lemma": "scepticism",
+      "level": "C1",
+      "hebrew": "ספקנות",
+      "explanation_hebrew": "נטייה לפקפק באמיתות דבר",
+      "pronunciation_hebrew": "סְקֶפְּטִיסִיזְם",
+      "example": "Comments expressed deep scepticism."
+    },
+    {
+      "word": "sarcastically",
+      "lemma": "sarcastically",
+      "level": "C1",
+      "hebrew": "בציניות, בסרקזם",
+      "explanation_hebrew": "בלעג מרומז",
+      "pronunciation_hebrew": "סַרְקָסְטִיקְלִי",
+      "example": "He commented sarcastically."
+    },
+    {
+      "word": "conspiracy",
+      "lemma": "conspiracy",
+      "level": "C1",
+      "hebrew": "קונספירציה, מזימה",
+      "explanation_hebrew": "תוכנית סודית של קבוצה",
+      "pronunciation_hebrew": "קוֹנְסְפִּירַסִי",
+      "example": "Some saw it as a conspiracy."
+    },
+    {
+      "word": "prowess",
+      "lemma": "prowess",
+      "level": "C2",
+      "hebrew": "מיומנות יוצאת דופן",
+      "explanation_hebrew": "כישרון או יכולת גבוהה",
+      "pronunciation_hebrew": "פְּרַאוֶוס",
+      "example": "The demo showed its hacking prowess."
+    },
+    {
+      "word": "sufficient",
+      "lemma": "sufficient",
+      "level": "B2",
+      "hebrew": "מספיק, מספק",
+      "explanation_hebrew": "בכמות מספקת",
+      "pronunciation_hebrew": "סַפִישֶׁנְט",
+      "example": "Sandboxes are not sufficient protection."
+    },
+    {
+      "word": "containment",
+      "lemma": "containment",
+      "level": "C1",
+      "hebrew": "הכלה, בלימה",
+      "explanation_hebrew": "מניעת התפשטות של משהו",
+      "pronunciation_hebrew": "קוֹנְטֵייְנְמֶנְט",
+      "example": "The test exposed weak containment."
+    },
+    {
+      "word": "narratives",
+      "lemma": "narrative",
+      "level": "C1",
+      "hebrew": "נרטיבים, סיפורים",
+      "explanation_hebrew": "דרכים לספר ולהסביר אירוע",
+      "pronunciation_hebrew": "נָרַטִיבְז",
+      "example": "Two simplistic narratives emerged."
+    },
+    {
+      "word": "simplistic",
+      "lemma": "simplistic",
+      "level": "C1",
+      "hebrew": "פשטני",
+      "explanation_hebrew": "פשוט מדי, מתעלם ממורכבות",
+      "pronunciation_hebrew": "סִימְפְּלִיסְטִיק",
+      "example": "That is a simplistic view."
+    },
+    {
+      "word": "interpretation",
+      "lemma": "interpretation",
+      "level": "B2",
+      "hebrew": "פרשנות",
+      "explanation_hebrew": "הדרך שבה מבינים משהו",
+      "pronunciation_hebrew": "אִינְטֶרְפְּרֶטֵישַׁן",
+      "example": "A more serious interpretation exists."
+    },
+    {
+      "word": "fixated",
+      "lemma": "fixate",
+      "level": "C1",
+      "hebrew": "אובססיבי, נעוץ",
+      "explanation_hebrew": "ממוקד יתר על המידה בדבר אחד",
+      "pronunciation_hebrew": "פִיקְסֵייְטֶד",
+      "example": "The model was fixated on the goal."
+    },
+    {
+      "word": "unintended",
+      "lemma": "unintended",
+      "level": "B2",
+      "hebrew": "לא מכוון",
+      "explanation_hebrew": "שלא התכוונו אליו",
+      "pronunciation_hebrew": "אַנִינְטֶנְדֶד",
+      "example": "It caused unintended harm."
+    },
+    {
+      "word": "inevitably",
+      "lemma": "inevitably",
+      "level": "C1",
+      "hebrew": "באופן בלתי נמנע",
+      "explanation_hebrew": "בהכרח, ללא אפשרות למנוע",
+      "pronunciation_hebrew": "אִינֶבִיטַבְּלִי",
+      "example": "The hack inevitably fueled fears."
+    },
+    {
+      "word": "undoubtedly",
+      "lemma": "undoubtedly",
+      "level": "C1",
+      "hebrew": "ללא ספק",
+      "explanation_hebrew": "בוודאות, בלי פקפוק",
+      "pronunciation_hebrew": "אַנְדַאוּטֶדְלִי",
+      "example": "It is undoubtedly a major moment."
+    },
+    {
+      "word": "vivid",
+      "lemma": "vivid",
+      "level": "B2",
+      "hebrew": "חי, מוחשי",
+      "explanation_hebrew": "ברור וחזק בתיאורו",
+      "pronunciation_hebrew": "וִיוִיד",
+      "example": "A vivid example of AI risk."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "wielding",
+      "type": "english_to_hebrew",
+      "question": "What does “wielding” mean?",
+      "options": [
+        "פורץ, מפר",
+        "נבוך, מבולבל",
+        "הפתעה מטלטלת",
+        "מפעיל, אוחז"
+      ],
+      "correct_answer": "מפעיל, אוחז",
+      "explanation_hebrew": "המילה “wielding” פירושה מפעיל, אוחז."
+    },
+    {
+      "id": "C-q2",
+      "word": "bombshell",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הפתעה מטלטלת”?",
+      "options": [
+        "breaching",
+        "commenced",
+        "perplexed",
+        "bombshell"
+      ],
+      "correct_answer": "bombshell",
+      "explanation_hebrew": "“הפתעה מטלטלת” באנגלית הוא “bombshell”."
+    },
+    {
+      "id": "C-q3",
+      "word": "breaching",
+      "type": "english_to_hebrew",
+      "question": "What does “breaching” mean?",
+      "options": [
+        "פורץ, מפר",
+        "נבוך, מבולבל",
+        "האשם",
+        "החל, נפתח"
+      ],
+      "correct_answer": "פורץ, מפר",
+      "explanation_hebrew": "המילה “breaching” פירושה פורץ, מפר."
+    },
+    {
+      "id": "C-q4",
+      "word": "perplexed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נבוך, מבולבל”?",
+      "options": [
+        "commenced",
+        "unmasked",
+        "perplexed",
+        "culprit"
+      ],
+      "correct_answer": "perplexed",
+      "explanation_hebrew": "“נבוך, מבולבל” באנגלית הוא “perplexed”."
+    },
+    {
+      "id": "C-q5",
+      "word": "commenced",
+      "type": "english_to_hebrew",
+      "question": "What does “commenced” mean?",
+      "options": [
+        "החל, נפתח",
+        "מוזר, תמוה",
+        "נחשף",
+        "האשם"
+      ],
+      "correct_answer": "החל, נפתח",
+      "explanation_hebrew": "המילה “commenced” פירושה החל, נפתח."
+    },
+    {
+      "id": "C-q6",
+      "word": "culprit",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “האשם”?",
+      "options": [
+        "culprit",
+        "supposedly",
+        "unmasked",
+        "bizarre"
+      ],
+      "correct_answer": "culprit",
+      "explanation_hebrew": "“האשם” באנגלית הוא “culprit”."
+    },
+    {
+      "id": "C-q7",
+      "word": "unmasked",
+      "type": "english_to_hebrew",
+      "question": "What does “unmasked” mean?",
+      "options": [
+        "נחשף",
+        "כביכול",
+        "אירוע, תקרית",
+        "מוזר, תמוה"
+      ],
+      "correct_answer": "נחשף",
+      "explanation_hebrew": "המילה “unmasked” פירושה נחשף."
+    },
+    {
+      "id": "C-q8",
+      "word": "bizarre",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוזר, תמוה”?",
+      "options": [
+        "supposedly",
+        "incident",
+        "bizarre",
+        "fierce"
+      ],
+      "correct_answer": "bizarre",
+      "explanation_hebrew": "“מוזר, תמוה” באנגלית הוא “bizarre”."
+    },
+    {
+      "id": "C-q9",
+      "word": "supposedly",
+      "type": "english_to_hebrew",
+      "question": "What does “supposedly” mean?",
+      "options": [
+        "אירוע, תקרית",
+        "כביכול",
+        "ספקנות",
+        "עז, חריף"
+      ],
+      "correct_answer": "כביכול",
+      "explanation_hebrew": "המילה “supposedly” פירושה כביכול."
+    },
+    {
+      "id": "C-q10",
+      "word": "incident",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אירוע, תקרית”?",
+      "options": [
+        "incident",
+        "fierce",
+        "scepticism",
+        "sarcastically"
+      ],
+      "correct_answer": "incident",
+      "explanation_hebrew": "“אירוע, תקרית” באנגלית הוא “incident”."
+    },
+    {
+      "id": "C-q11",
+      "word": "fierce",
+      "type": "english_to_hebrew",
+      "question": "What does “fierce” mean?",
+      "options": [
+        "בציניות, בסרקזם",
+        "ספקנות",
+        "קונספירציה, מזימה",
+        "עז, חריף"
+      ],
+      "correct_answer": "עז, חריף",
+      "explanation_hebrew": "המילה “fierce” פירושה עז, חריף."
+    },
+    {
+      "id": "C-q12",
+      "word": "scepticism",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ספקנות”?",
+      "options": [
+        "prowess",
+        "conspiracy",
+        "sarcastically",
+        "scepticism"
+      ],
+      "correct_answer": "scepticism",
+      "explanation_hebrew": "“ספקנות” באנגלית הוא “scepticism”."
+    },
+    {
+      "id": "C-q13",
+      "word": "sarcastically",
+      "type": "english_to_hebrew",
+      "question": "What does “sarcastically” mean?",
+      "options": [
+        "קונספירציה, מזימה",
+        "בציניות, בסרקזם",
+        "מיומנות יוצאת דופן",
+        "מספיק, מספק"
+      ],
+      "correct_answer": "בציניות, בסרקזם",
+      "explanation_hebrew": "המילה “sarcastically” פירושה בציניות, בסרקזם."
+    },
+    {
+      "id": "C-q14",
+      "word": "conspiracy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קונספירציה, מזימה”?",
+      "options": [
+        "conspiracy",
+        "sufficient",
+        "prowess",
+        "containment"
+      ],
+      "correct_answer": "conspiracy",
+      "explanation_hebrew": "“קונספירציה, מזימה” באנגלית הוא “conspiracy”."
+    },
+    {
+      "id": "C-q15",
+      "word": "prowess",
+      "type": "english_to_hebrew",
+      "question": "What does “prowess” mean?",
+      "options": [
+        "מיומנות יוצאת דופן",
+        "נרטיבים, סיפורים",
+        "הכלה, בלימה",
+        "מספיק, מספק"
+      ],
+      "correct_answer": "מיומנות יוצאת דופן",
+      "explanation_hebrew": "המילה “prowess” פירושה מיומנות יוצאת דופן."
+    },
+    {
+      "id": "C-q16",
+      "word": "sufficient",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מספיק, מספק”?",
+      "options": [
+        "narratives",
+        "containment",
+        "simplistic",
+        "sufficient"
+      ],
+      "correct_answer": "sufficient",
+      "explanation_hebrew": "“מספיק, מספק” באנגלית הוא “sufficient”."
+    },
+    {
+      "id": "C-q17",
+      "word": "containment",
+      "type": "english_to_hebrew",
+      "question": "What does “containment” mean?",
+      "options": [
+        "פשטני",
+        "הכלה, בלימה",
+        "נרטיבים, סיפורים",
+        "פרשנות"
+      ],
+      "correct_answer": "הכלה, בלימה",
+      "explanation_hebrew": "המילה “containment” פירושה הכלה, בלימה."
+    },
+    {
+      "id": "C-q18",
+      "word": "narratives",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נרטיבים, סיפורים”?",
+      "options": [
+        "simplistic",
+        "narratives",
+        "interpretation",
+        "fixated"
+      ],
+      "correct_answer": "narratives",
+      "explanation_hebrew": "“נרטיבים, סיפורים” באנגלית הוא “narratives”."
+    },
+    {
+      "id": "C-q19",
+      "word": "simplistic",
+      "type": "english_to_hebrew",
+      "question": "What does “simplistic” mean?",
+      "options": [
+        "פרשנות",
+        "לא מכוון",
+        "אובססיבי, נעוץ",
+        "פשטני"
+      ],
+      "correct_answer": "פשטני",
+      "explanation_hebrew": "המילה “simplistic” פירושה פשטני."
+    },
+    {
+      "id": "C-q20",
+      "word": "interpretation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פרשנות”?",
+      "options": [
+        "fixated",
+        "inevitably",
+        "interpretation",
+        "unintended"
+      ],
+      "correct_answer": "interpretation",
+      "explanation_hebrew": "“פרשנות” באנגלית הוא “interpretation”."
+    },
+    {
+      "id": "C-q21",
+      "word": "fixated",
+      "type": "english_to_hebrew",
+      "question": "What does “fixated” mean?",
+      "options": [
+        "באופן בלתי נמנע",
+        "אובססיבי, נעוץ",
+        "ללא ספק",
+        "לא מכוון"
+      ],
+      "correct_answer": "אובססיבי, נעוץ",
+      "explanation_hebrew": "המילה “fixated” פירושה אובססיבי, נעוץ."
+    },
+    {
+      "id": "C-q22",
+      "word": "unintended",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לא מכוון”?",
+      "options": [
+        "inevitably",
+        "unintended",
+        "undoubtedly",
+        "vivid"
+      ],
+      "correct_answer": "unintended",
+      "explanation_hebrew": "“לא מכוון” באנגלית הוא “unintended”."
+    },
+    {
+      "id": "C-q23",
+      "word": "inevitably",
+      "type": "english_to_hebrew",
+      "question": "What does “inevitably” mean?",
+      "options": [
+        "באופן בלתי נמנע",
+        "מפעיל, אוחז",
+        "ללא ספק",
+        "חי, מוחשי"
+      ],
+      "correct_answer": "באופן בלתי נמנע",
+      "explanation_hebrew": "המילה “inevitably” פירושה באופן בלתי נמנע."
+    },
+    {
+      "id": "C-q24",
+      "word": "undoubtedly",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ללא ספק”?",
+      "options": [
+        "undoubtedly",
+        "vivid",
+        "bombshell",
+        "wielding"
+      ],
+      "correct_answer": "undoubtedly",
+      "explanation_hebrew": "“ללא ספק” באנגלית הוא “undoubtedly”."
+    },
+    {
+      "id": "C-q25",
+      "word": "vivid",
+      "type": "english_to_hebrew",
+      "question": "What does “vivid” mean?",
+      "options": [
+        "מפעיל, אוחז",
+        "הפתעה מטלטלת",
+        "פורץ, מפר",
+        "חי, מוחשי"
+      ],
+      "correct_answer": "חי, מוחשי",
+      "explanation_hebrew": "המילה “vivid” פירושה חי, מוחשי."
+    }
+  ]
+}
