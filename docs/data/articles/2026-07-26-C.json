@@ -1,0 +1,600 @@
+{
+  "date": "2026-07-26",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Italy was once a model of healthy eating - now it has a child obesity problem",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo",
+  "published_at": "2026-07-25T23:30:07+00:00",
+  "age_hours_at_selection": 2.69,
+  "word_count": 1408,
+  "generated_at": "2026-07-26T02:11:47.562488+00:00",
+  "difficulty_reason": "Longer analytical health feature with dense information, medical terms and social context; B2/C1/C2 vocabulary and more background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "acute",
+      "lemma": "acute",
+      "level": "C1",
+      "hebrew": "חָרִיף",
+      "explanation_hebrew": "חמור ומורגש מאוד",
+      "pronunciation_hebrew": "אַקְיוּט",
+      "example": "The problem is especially acute here."
+    },
+    {
+      "word": "overweight",
+      "lemma": "overweight",
+      "level": "B2",
+      "hebrew": "עוֹדֵף מִשְׁקָל",
+      "explanation_hebrew": "עם משקל גבוה מהבריא",
+      "pronunciation_hebrew": "אוֹבֶרְוֵוייְט",
+      "example": "Many children are now overweight."
+    },
+    {
+      "word": "outskirts",
+      "lemma": "outskirts",
+      "level": "B2",
+      "hebrew": "פַּרְבָר",
+      "explanation_hebrew": "האזורים בשולי העיר",
+      "pronunciation_hebrew": "אַאוּטְסְקֶרְטְס",
+      "example": "They live on the outskirts of town."
+    },
+    {
+      "word": "unenviable",
+      "lemma": "unenviable",
+      "level": "C2",
+      "hebrew": "לֹא מְקַנֵּא",
+      "explanation_hebrew": "מצב שאיש לא היה רוצה",
+      "pronunciation_hebrew": "אַנֶנְוִויאָבְּל",
+      "example": "The town has an unenviable reputation."
+    },
+    {
+      "word": "striking",
+      "lemma": "striking",
+      "level": "C1",
+      "hebrew": "בּוֹלֵט",
+      "explanation_hebrew": "מושך תשומת לב, יוצא דופן",
+      "pronunciation_hebrew": "סְטְרַייקִינְג",
+      "example": "It is a striking change from the past."
+    },
+    {
+      "word": "regarded",
+      "lemma": "regard",
+      "level": "B2",
+      "hebrew": "נֶחְשָׁב",
+      "explanation_hebrew": "נתפס או מוערך בדרך מסוימת",
+      "pronunciation_hebrew": "רִיגַארְדֶד",
+      "example": "Italy was long regarded as a healthy model."
+    },
+    {
+      "word": "excessive",
+      "lemma": "excessive",
+      "level": "C1",
+      "hebrew": "מוּפְרָז",
+      "explanation_hebrew": "יותר מדי, מעבר לנדרש",
+      "pronunciation_hebrew": "אֶקְסֶסִיב",
+      "example": "His weight became dangerously excessive."
+    },
+    {
+      "word": "prescribed",
+      "lemma": "prescribe",
+      "level": "C1",
+      "hebrew": "רָשַׁם",
+      "explanation_hebrew": "הורה על טיפול או תרופה",
+      "pronunciation_hebrew": "פְּרִיסְקְרַייְבְּד",
+      "example": "The doctor prescribed a new treatment."
+    },
+    {
+      "word": "appetite",
+      "lemma": "appetite",
+      "level": "B2",
+      "hebrew": "תֵּיאָבוֹן",
+      "explanation_hebrew": "הרצון לאכול",
+      "pronunciation_hebrew": "אָפֶּטַייְט",
+      "example": "The medicine reduces his appetite."
+    },
+    {
+      "word": "remarkably",
+      "lemma": "remarkably",
+      "level": "C1",
+      "hebrew": "בְּאוֹפֶן יוֹצֵא דּוֹפֶן",
+      "explanation_hebrew": "בצורה מפתיעה ומעוררת התפעלות",
+      "pronunciation_hebrew": "רִימַארְקַבְּלִי",
+      "example": "They had remarkably low rates of disease."
+    },
+    {
+      "word": "transformed",
+      "lemma": "transform",
+      "level": "B2",
+      "hebrew": "שִׁינָּה מִן הַיְּסוֹד",
+      "explanation_hebrew": "שינה לגמרי את הצורה",
+      "pronunciation_hebrew": "טְרַנְסְפוֹרְמְד",
+      "example": "The study transformed how we eat."
+    },
+    {
+      "word": "blueprint",
+      "lemma": "blueprint",
+      "level": "C1",
+      "hebrew": "תָּכְנִית אָב",
+      "explanation_hebrew": "מודל או תוכנית לחיקוי",
+      "pronunciation_hebrew": "בְּלוּפְּרִינְט",
+      "example": "The diet became a blueprint for health."
+    },
+    {
+      "word": "consequences",
+      "lemma": "consequence",
+      "level": "B2",
+      "hebrew": "הַשְׁלָכוֹת",
+      "explanation_hebrew": "התוצאות של פעולה",
+      "pronunciation_hebrew": "קוֹנְסִיקְווֶנְסֶס",
+      "example": "He sees the consequences every day."
+    },
+    {
+      "word": "paediatrician",
+      "lemma": "paediatrician",
+      "level": "C1",
+      "hebrew": "רוֹפֵא יְלָדִים",
+      "explanation_hebrew": "רופא שמטפל בילדים",
+      "pronunciation_hebrew": "פִּידְיאָטְרִישֶׁן",
+      "example": "The paediatrician examined the child."
+    },
+    {
+      "word": "persistent",
+      "lemma": "persistent",
+      "level": "B2",
+      "hebrew": "מַתְמִיד",
+      "explanation_hebrew": "שנמשך ולא נעלם",
+      "pronunciation_hebrew": "פֶּרְסִיסְטֶנְט",
+      "example": "She has a persistent cough."
+    },
+    {
+      "word": "inflammatory",
+      "lemma": "inflammatory",
+      "level": "C2",
+      "hebrew": "דַּלַּקְתִּי",
+      "explanation_hebrew": "קשור לדלקת בגוף",
+      "pronunciation_hebrew": "אִינְפְלָמָטוֹרִי",
+      "example": "Doctors suspect an inflammatory condition."
+    },
+    {
+      "word": "accumulate",
+      "lemma": "accumulate",
+      "level": "C1",
+      "hebrew": "לְהִצְטַבֵּר",
+      "explanation_hebrew": "להיאסף בהדרגה לכמות גדולה",
+      "pronunciation_hebrew": "אָקְיוּמְיוּלֵייְט",
+      "example": "Bad habits accumulate over time."
+    },
+    {
+      "word": "ingrained",
+      "lemma": "ingrained",
+      "level": "C2",
+      "hebrew": "מוּטְבָּע עָמוֹק",
+      "explanation_hebrew": "קבוע וקשה לשינוי",
+      "pronunciation_hebrew": "אִינְגְּרֵיינְד",
+      "example": "The habits are deeply ingrained."
+    },
+    {
+      "word": "reinforced",
+      "lemma": "reinforce",
+      "level": "C1",
+      "hebrew": "חוּזַּק",
+      "explanation_hebrew": "הפך חזק או קבוע יותר",
+      "pronunciation_hebrew": "רִיאִינְפוֹרְסְד",
+      "example": "The behaviour is reinforced at school."
+    },
+    {
+      "word": "temptation",
+      "lemma": "temptation",
+      "level": "B2",
+      "hebrew": "פִּיתּוּי",
+      "explanation_hebrew": "רצון חזק למשהו לא בריא",
+      "pronunciation_hebrew": "טֶמְפְּטֵיישֶׁן",
+      "example": "Junk food is a constant temptation."
+    },
+    {
+      "word": "escalating",
+      "lemma": "escalate",
+      "level": "C1",
+      "hebrew": "מַחְמִיר",
+      "explanation_hebrew": "הולך וגדל בעוצמה",
+      "pronunciation_hebrew": "אֶסְקָלֵייטִינְג",
+      "example": "Obesity is an escalating problem."
+    },
+    {
+      "word": "epidemic",
+      "lemma": "epidemic",
+      "level": "C1",
+      "hebrew": "מַגֵּפָה",
+      "explanation_hebrew": "התפשטות רחבה של מחלה",
+      "pronunciation_hebrew": "אֶפִּידֶמִיק",
+      "example": "The WHO calls it a global epidemic."
+    },
+    {
+      "word": "chronic",
+      "lemma": "chronic",
+      "level": "C1",
+      "hebrew": "כְּרוֹנִי",
+      "explanation_hebrew": "נמשך זמן רב, לא חולף",
+      "pronunciation_hebrew": "קְרוֹנִיק",
+      "example": "Obesity is now seen as a chronic disease."
+    },
+    {
+      "word": "restrictive",
+      "lemma": "restrictive",
+      "level": "C1",
+      "hebrew": "מַגְבִּיל",
+      "explanation_hebrew": "שמטיל הגבלות מחמירות",
+      "pronunciation_hebrew": "רִיסְטְרִיקְטִיב",
+      "example": "A very restrictive diet can be risky."
+    },
+    {
+      "word": "controversial",
+      "lemma": "controversial",
+      "level": "C1",
+      "hebrew": "שָׁנוּי בְּמַחֲלוֹקֶת",
+      "explanation_hebrew": "גורם לוויכוח ואי-הסכמה",
+      "pronunciation_hebrew": "קוֹנְטְרוֹבֶרְשֶׁל",
+      "example": "The trial is highly controversial."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "acute",
+      "type": "english_to_hebrew",
+      "question": "What does “acute” mean?",
+      "options": [
+        "חָרִיף",
+        "פַּרְבָר",
+        "לֹא מְקַנֵּא",
+        "עוֹדֵף מִשְׁקָל"
+      ],
+      "correct_answer": "חָרִיף",
+      "explanation_hebrew": "“acute” פירושו חָרִיף."
+    },
+    {
+      "id": "C-q2",
+      "word": "overweight",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עוֹדֵף מִשְׁקָל”?",
+      "options": [
+        "overweight",
+        "outskirts",
+        "striking",
+        "unenviable"
+      ],
+      "correct_answer": "overweight",
+      "explanation_hebrew": "המילה “overweight” פירושה עוֹדֵף מִשְׁקָל."
+    },
+    {
+      "id": "C-q3",
+      "word": "outskirts",
+      "type": "english_to_hebrew",
+      "question": "What does “outskirts” mean?",
+      "options": [
+        "לֹא מְקַנֵּא",
+        "פַּרְבָר",
+        "בּוֹלֵט",
+        "נֶחְשָׁב"
+      ],
+      "correct_answer": "פַּרְבָר",
+      "explanation_hebrew": "“outskirts” פירושו פַּרְבָר."
+    },
+    {
+      "id": "C-q4",
+      "word": "unenviable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לֹא מְקַנֵּא”?",
+      "options": [
+        "striking",
+        "regarded",
+        "excessive",
+        "unenviable"
+      ],
+      "correct_answer": "unenviable",
+      "explanation_hebrew": "המילה “unenviable” פירושה לֹא מְקַנֵּא."
+    },
+    {
+      "id": "C-q5",
+      "word": "striking",
+      "type": "english_to_hebrew",
+      "question": "What does “striking” mean?",
+      "options": [
+        "נֶחְשָׁב",
+        "מוּפְרָז",
+        "בּוֹלֵט",
+        "רָשַׁם"
+      ],
+      "correct_answer": "בּוֹלֵט",
+      "explanation_hebrew": "“striking” פירושו בּוֹלֵט."
+    },
+    {
+      "id": "C-q6",
+      "word": "regarded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נֶחְשָׁב”?",
+      "options": [
+        "prescribed",
+        "regarded",
+        "appetite",
+        "excessive"
+      ],
+      "correct_answer": "regarded",
+      "explanation_hebrew": "המילה “regarded” פירושה נֶחְשָׁב."
+    },
+    {
+      "id": "C-q7",
+      "word": "excessive",
+      "type": "english_to_hebrew",
+      "question": "What does “excessive” mean?",
+      "options": [
+        "בְּאוֹפֶן יוֹצֵא דּוֹפֶן",
+        "תֵּיאָבוֹן",
+        "רָשַׁם",
+        "מוּפְרָז"
+      ],
+      "correct_answer": "מוּפְרָז",
+      "explanation_hebrew": "“excessive” פירושו מוּפְרָז."
+    },
+    {
+      "id": "C-q8",
+      "word": "prescribed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רָשַׁם”?",
+      "options": [
+        "appetite",
+        "remarkably",
+        "prescribed",
+        "transformed"
+      ],
+      "correct_answer": "prescribed",
+      "explanation_hebrew": "המילה “prescribed” פירושה רָשַׁם."
+    },
+    {
+      "id": "C-q9",
+      "word": "appetite",
+      "type": "english_to_hebrew",
+      "question": "What does “appetite” mean?",
+      "options": [
+        "בְּאוֹפֶן יוֹצֵא דּוֹפֶן",
+        "תָּכְנִית אָב",
+        "תֵּיאָבוֹן",
+        "שִׁינָּה מִן הַיְּסוֹד"
+      ],
+      "correct_answer": "תֵּיאָבוֹן",
+      "explanation_hebrew": "“appetite” פירושו תֵּיאָבוֹן."
+    },
+    {
+      "id": "C-q10",
+      "word": "remarkably",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בְּאוֹפֶן יוֹצֵא דּוֹפֶן”?",
+      "options": [
+        "transformed",
+        "blueprint",
+        "consequences",
+        "remarkably"
+      ],
+      "correct_answer": "remarkably",
+      "explanation_hebrew": "המילה “remarkably” פירושה בְּאוֹפֶן יוֹצֵא דּוֹפֶן."
+    },
+    {
+      "id": "C-q11",
+      "word": "transformed",
+      "type": "english_to_hebrew",
+      "question": "What does “transformed” mean?",
+      "options": [
+        "תָּכְנִית אָב",
+        "רוֹפֵא יְלָדִים",
+        "שִׁינָּה מִן הַיְּסוֹד",
+        "הַשְׁלָכוֹת"
+      ],
+      "correct_answer": "שִׁינָּה מִן הַיְּסוֹד",
+      "explanation_hebrew": "“transformed” פירושו שִׁינָּה מִן הַיְּסוֹד."
+    },
+    {
+      "id": "C-q12",
+      "word": "blueprint",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תָּכְנִית אָב”?",
+      "options": [
+        "consequences",
+        "blueprint",
+        "paediatrician",
+        "persistent"
+      ],
+      "correct_answer": "blueprint",
+      "explanation_hebrew": "המילה “blueprint” פירושה תָּכְנִית אָב."
+    },
+    {
+      "id": "C-q13",
+      "word": "consequences",
+      "type": "english_to_hebrew",
+      "question": "What does “consequences” mean?",
+      "options": [
+        "מַתְמִיד",
+        "דַּלַּקְתִּי",
+        "הַשְׁלָכוֹת",
+        "רוֹפֵא יְלָדִים"
+      ],
+      "correct_answer": "הַשְׁלָכוֹת",
+      "explanation_hebrew": "“consequences” פירושו הַשְׁלָכוֹת."
+    },
+    {
+      "id": "C-q14",
+      "word": "paediatrician",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רוֹפֵא יְלָדִים”?",
+      "options": [
+        "inflammatory",
+        "paediatrician",
+        "persistent",
+        "accumulate"
+      ],
+      "correct_answer": "paediatrician",
+      "explanation_hebrew": "המילה “paediatrician” פירושה רוֹפֵא יְלָדִים."
+    },
+    {
+      "id": "C-q15",
+      "word": "persistent",
+      "type": "english_to_hebrew",
+      "question": "What does “persistent” mean?",
+      "options": [
+        "לְהִצְטַבֵּר",
+        "מַתְמִיד",
+        "דַּלַּקְתִּי",
+        "מוּטְבָּע עָמוֹק"
+      ],
+      "correct_answer": "מַתְמִיד",
+      "explanation_hebrew": "“persistent” פירושו מַתְמִיד."
+    },
+    {
+      "id": "C-q16",
+      "word": "inflammatory",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דַּלַּקְתִּי”?",
+      "options": [
+        "inflammatory",
+        "ingrained",
+        "accumulate",
+        "reinforced"
+      ],
+      "correct_answer": "inflammatory",
+      "explanation_hebrew": "המילה “inflammatory” פירושה דַּלַּקְתִּי."
+    },
+    {
+      "id": "C-q17",
+      "word": "accumulate",
+      "type": "english_to_hebrew",
+      "question": "What does “accumulate” mean?",
+      "options": [
+        "חוּזַּק",
+        "פִּיתּוּי",
+        "מוּטְבָּע עָמוֹק",
+        "לְהִצְטַבֵּר"
+      ],
+      "correct_answer": "לְהִצְטַבֵּר",
+      "explanation_hebrew": "“accumulate” פירושו לְהִצְטַבֵּר."
+    },
+    {
+      "id": "C-q18",
+      "word": "ingrained",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוּטְבָּע עָמוֹק”?",
+      "options": [
+        "temptation",
+        "reinforced",
+        "escalating",
+        "ingrained"
+      ],
+      "correct_answer": "ingrained",
+      "explanation_hebrew": "המילה “ingrained” פירושה מוּטְבָּע עָמוֹק."
+    },
+    {
+      "id": "C-q19",
+      "word": "reinforced",
+      "type": "english_to_hebrew",
+      "question": "What does “reinforced” mean?",
+      "options": [
+        "חוּזַּק",
+        "מַגֵּפָה",
+        "מַחְמִיר",
+        "פִּיתּוּי"
+      ],
+      "correct_answer": "חוּזַּק",
+      "explanation_hebrew": "“reinforced” פירושו חוּזַּק."
+    },
+    {
+      "id": "C-q20",
+      "word": "temptation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פִּיתּוּי”?",
+      "options": [
+        "epidemic",
+        "temptation",
+        "escalating",
+        "chronic"
+      ],
+      "correct_answer": "temptation",
+      "explanation_hebrew": "המילה “temptation” פירושה פִּיתּוּי."
+    },
+    {
+      "id": "C-q21",
+      "word": "escalating",
+      "type": "english_to_hebrew",
+      "question": "What does “escalating” mean?",
+      "options": [
+        "כְּרוֹנִי",
+        "מַגְבִּיל",
+        "מַחְמִיר",
+        "מַגֵּפָה"
+      ],
+      "correct_answer": "מַחְמִיר",
+      "explanation_hebrew": "“escalating” פירושו מַחְמִיר."
+    },
+    {
+      "id": "C-q22",
+      "word": "epidemic",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַגֵּפָה”?",
+      "options": [
+        "chronic",
+        "restrictive",
+        "epidemic",
+        "controversial"
+      ],
+      "correct_answer": "epidemic",
+      "explanation_hebrew": "המילה “epidemic” פירושה מַגֵּפָה."
+    },
+    {
+      "id": "C-q23",
+      "word": "chronic",
+      "type": "english_to_hebrew",
+      "question": "What does “chronic” mean?",
+      "options": [
+        "שָׁנוּי בְּמַחֲלוֹקֶת",
+        "כְּרוֹנִי",
+        "חָרִיף",
+        "מַגְבִּיל"
+      ],
+      "correct_answer": "כְּרוֹנִי",
+      "explanation_hebrew": "“chronic” פירושו כְּרוֹנִי."
+    },
+    {
+      "id": "C-q24",
+      "word": "restrictive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַגְבִּיל”?",
+      "options": [
+        "controversial",
+        "acute",
+        "restrictive",
+        "overweight"
+      ],
+      "correct_answer": "restrictive",
+      "explanation_hebrew": "המילה “restrictive” פירושה מַגְבִּיל."
+    },
+    {
+      "id": "C-q25",
+      "word": "controversial",
+      "type": "english_to_hebrew",
+      "question": "What does “controversial” mean?",
+      "options": [
+        "עוֹדֵף מִשְׁקָל",
+        "פַּרְבָר",
+        "חָרִיף",
+        "שָׁנוּי בְּמַחֲלוֹקֶת"
+      ],
+      "correct_answer": "שָׁנוּי בְּמַחֲלוֹקֶת",
+      "explanation_hebrew": "“controversial” פירושו שָׁנוּי בְּמַחֲלוֹקֶת."
+    }
+  ]
+}
