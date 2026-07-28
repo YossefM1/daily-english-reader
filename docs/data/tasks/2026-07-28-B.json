@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-28",
+  "article_id": "B",
+  "article_title": "What you wear can help you get a job - here's how",
+  "article_url": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main message about job interviews?",
+      "options": [
+        "Only technical answers determine whether someone is hired",
+        "Appearance and mannerisms can influence hiring decisions alongside what a candidate says",
+        "Employers now require every candidate to wear the same uniform",
+        "Online interviews have completely removed appearance bias"
+      ],
+      "correct_answer": "Appearance and mannerisms can influence hiring decisions alongside what a candidate says",
+      "explanation_hebrew": "המסר המרכזי הוא שמלבד תוכן התשובות, גם המראה וההתנהגות משפיעים על הרושם ועל החלטות גיוס.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What contrast does the article make when discussing interviews?",
+      "options": [
+        "Appearance versus substance",
+        "Salary versus holiday time",
+        "Office work versus factory work",
+        "Education versus work experience"
+      ],
+      "correct_answer": "Appearance versus substance",
+      "explanation_hebrew": "הכתבה משווה בין המראה החיצוני לבין המהות והתוכן שהמועמד מביא לראיון.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which examples are used to illustrate appearance-based judgments?",
+      "options": [
+        "A candidate's postcode and commute",
+        "A candidate's handwriting and favourite colour",
+        "A scruffy look or visibly dyed hair",
+        "A candidate's phone brand and social-media followers"
+      ],
+      "correct_answer": "A scruffy look or visibly dyed hair",
+      "explanation_hebrew": "הכתבה משתמשת בדוגמאות כמו מראה מרושל או שיער צבוע כדי להמחיש שיפוט על בסיס הופעה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article describe some appearance-based decisions as unfair?",
+      "options": [
+        "They can replace evidence about a candidate's ability with assumptions about looks",
+        "They require interviewers to read every application twice",
+        "They always make interviews much longer",
+        "They prevent candidates from discussing salary"
+      ],
+      "correct_answer": "They can replace evidence about a candidate's ability with assumptions about looks",
+      "explanation_hebrew": "השיפוט אינו הוגן כאשר הנחות על מראה מחליפות הערכה עניינית של היכולת וההתאמה לתפקיד.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How can unconscious associations affect an interviewer's judgment? Answer in 2–4 sentences.",
+      "rubric_hebrew": "יש להסביר כיצד מראה או התנהגות יכולים לעורר הנחות לא־מודעות לגבי תכונות מקצועיות, גם בלי ראיות ישירות.",
+      "expected_points": [
+        "Interviewers may link appearance with traits such as competence or trustworthiness",
+        "The association can happen without conscious awareness",
+        "It can influence who receives preferential treatment or a job offer"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "According to the article, which parts of a candidate's presentation matter in addition to answering questions? Answer in 1–3 sentences.",
+      "rubric_hebrew": "יש לציין את המראה החיצוני ואת אופן ההתנהגות או ההופעה, ולהבהיר שהם פועלים לצד תוכן התשובות.",
+      "expected_points": [
+        "Appearance or clothing",
+        "Demeanour or mannerisms",
+        "These factors work alongside the substance of the candidate's answers"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “demeanour” mean?",
+      "options": [
+        "A person's qualifications on paper",
+        "The way a person behaves and presents themselves",
+        "A promotional outfit chosen by a company",
+        "The final score given after an interview"
+      ],
+      "correct_answer": "The way a person behaves and presents themselves",
+      "explanation_hebrew": "demeanour מתאר את אופן ההתנהגות וההופעה של אדם כלפי אחרים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–120 word summary of the article without copying sentences.",
+      "rubric_hebrew": "הסיכום צריך להציג את הטענה המרכזית, את ההשפעה של מראה והתנהגות, את בעיית ההטיה ואת המסר המעשי למועמד.",
+      "expected_points": [
+        "Interview answers remain important, but appearance and mannerisms also shape impressions",
+        "People may associate attractiveness, grooming, or clothing with personal traits",
+        "Some of these judgments are unconscious and can be unfair",
+        "Candidates can prepare their presentation while employers should judge relevant ability and substance"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain in 3–5 sentences how a candidate can use the article's advice without accepting appearance bias as fair.",
+      "rubric_hebrew": "יש להציע הכנה מעשית לראיון ובמקביל להכיר בכך שמראה אינו מדד אמין ליכולת מקצועית.",
+      "expected_points": [
+        "Prepare clothing, grooming, and demeanour for the context of the role",
+        "Keep the focus on clear answers, skills, and evidence of competence",
+        "State that appearance-based assumptions can still be biased or unfair"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–5 sentences advising an employer how to reduce the kind of bias discussed in the article.",
+      "rubric_hebrew": "יש להציע צעדים ענייניים שמפחיתים שיפוט לא־מודע ומחזירים את המיקוד לכישורים ולראיות.",
+      "expected_points": [
+        "Use consistent job-related questions and scoring criteria",
+        "Separate relevant presentation requirements from personal taste",
+        "Recognize unconscious links between appearance and traits such as trustworthiness",
+        "Compare candidates using evidence about skills and performance"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
