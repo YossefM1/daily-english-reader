@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-28",
+  "article_id": "C",
+  "article_title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+  "article_url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central proposal described in the article?",
+      "options": [
+        "Replace all academic GCSE subjects with apprenticeships",
+        "Allow pupils from age 14 to study technical subjects linked to local employment needs",
+        "Move responsibility for every school directly to private employers",
+        "Raise England's school-leaving age to 21"
+      ],
+      "correct_answer": "Allow pupils from age 14 to study technical subjects linked to local employment needs",
+      "explanation_hebrew": "ההצעה המרכזית היא לאפשר מגיל 14 לימודים טכניים ומקצועיים המותאמים לצורכי התעסוקה המקומיים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which subjects are given as examples of the proposed technical courses?",
+      "options": [
+        "Artificial intelligence and manufacturing",
+        "Latin and ancient history",
+        "Painting and classical music only",
+        "International law and diplomacy"
+      ],
+      "correct_answer": "Artificial intelligence and manufacturing",
+      "explanation_hebrew": "בכתבה מובאים בינה מלאכותית וייצור כדוגמאות לתחומים טכניים הקשורים למשרות מקומיות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who would work together to shape locally relevant technical training?",
+      "options": [
+        "Only national exam boards",
+        "Parents and pupils without schools or employers",
+        "Local leaders, schools, colleges, and employers",
+        "Universities outside the United Kingdom"
+      ],
+      "correct_answer": "Local leaders, schools, colleges, and employers",
+      "explanation_hebrew": "התוכנית מבוססת על שיתוף פעולה בין הנהגה מקומית, בתי ספר, מכללות ומעסיקים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When is the new local technical-education approach intended to begin operating?",
+      "options": [
+        "September 2026",
+        "January 2027",
+        "September 2028",
+        "September 2035"
+      ],
+      "correct_answer": "September 2028",
+      "explanation_hebrew": "לפי התוכנית המתוארת, השינוי אמור להתחיל לפעול בספטמבר 2028.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How is the proposal intended to address youth unemployment and skills shortages at the same time? Answer in 3–6 sentences.",
+      "rubric_hebrew": "יש להסביר את הקשר בין הכשרה מגיל 14, צורכי מעסיקים מקומיים, מסלולי תעסוקה ומחסור בכישורים.",
+      "expected_points": [
+        "Courses would be linked to skills needed by local employers",
+        "Pupils would gain clearer technical or vocational routes into work",
+        "Employers could gain workers trained for shortage sectors",
+        "The policy responds to the large number of young people outside education, employment, or training"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What does Burnham's contrast between the “hard hat” and the “graduation cap” reveal about the reform's values? Answer in 3–5 sentences.",
+      "rubric_hebrew": "יש לפרש את הדימוי כהשוואה בין מסלול טכני למסלול אקדמי ולדון בשאיפה למעמד שווה.",
+      "expected_points": [
+        "The hard hat represents technical or vocational work",
+        "The graduation cap represents the academic route",
+        "The proposal aims to give both routes equal respect and value",
+        "It challenges the traditional bias toward academic qualifications"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “vocational” mean?",
+      "options": [
+        "Designed mainly for recreation",
+        "Connected with training for a particular job or occupation",
+        "Limited to university research",
+        "Determined by a national election"
+      ],
+      "correct_answer": "Connected with training for a particular job or occupation",
+      "explanation_hebrew": "vocational מתאר לימודים או הכשרה שמכינים למקצוע ולעבודה מסוימת.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 120–170 word summary of the article without copying sentences.",
+      "rubric_hebrew": "הסיכום צריך להציג את ההצעה, דרך היישום המקומית, היעדים הכלכליים והחברתיים, והוויכוח על מעמד החינוך הטכני.",
+      "expected_points": [
+        "Pupils in England would be able to take technical subjects from age 14",
+        "Examples include artificial intelligence and manufacturing",
+        "Local leaders, schools, colleges, and employers would align courses with local jobs",
+        "The plan seeks to tackle youth unemployment and skills shortages",
+        "Technical and vocational routes would receive recognition alongside academic qualifications"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Assess in 4–7 sentences one potential benefit and one potential risk of adapting school courses to local business needs.",
+      "rubric_hebrew": "יש להציג יתרון וסיכון, לקשור את שניהם לפרטי התוכנית ולהגיע למסקנה מאוזנת.",
+      "expected_points": [
+        "A benefit could be stronger pathways into available local jobs or reduced skills shortages",
+        "A risk could be narrowing pupils' choices or tying education too closely to current labour demand",
+        "Use the proposed partnership with local employers and education providers",
+        "Reach a balanced conclusion rather than giving an unsupported opinion"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain in 4–7 sentences why funding and inspection rules matter to whether the reform succeeds.",
+      "rubric_hebrew": "יש להסביר כיצד משאבים, תמריצים והכרה מצד גוף הפיקוח משפיעים על היכולת של בתי הספר ליישם את המסלולים בפועל.",
+      "expected_points": [
+        "Technical courses require sufficient teaching capacity, equipment, and qualified staff",
+        "Prioritised funding or incentives can make implementation possible",
+        "Inspection guidance can ensure vocational qualifications receive recognition alongside academic ones",
+        "Without clear support, schools may continue to prioritise traditional academic routes"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}
