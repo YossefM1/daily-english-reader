@@ -1,0 +1,155 @@
+{
+  "date": "2026-07-28",
+  "article_id": "A",
+  "article_title": "Zoo staff rescue near-extinct snails from remote rock",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "options": [
+        "Zoo conservationists bred rare land snails and returned them to a remote island habitat",
+        "Scientists discovered a new species of sea snail in a city aquarium",
+        "A storm destroyed a zoo's new invertebrate house",
+        "Tourists were asked to remove snails from a Portuguese beach"
+      ],
+      "correct_answer": "Zoo conservationists bred rare land snails and returned them to a remote island habitat",
+      "explanation_hebrew": "הכתבה עוסקת במבצע שימור שבו גידלו חלזונות יבשה נדירים והחזירו אותם לבית הגידול המרוחק שלהם.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many near-extinct snails did the conservationists breed?",
+      "options": [
+        "21",
+        "100",
+        "300",
+        "3,000"
+      ],
+      "correct_answer": "300",
+      "explanation_hebrew": "לפי הכתבה, אנשי השימור גידלו 300 חלזונות זעירים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where were the last 21 snails found clinging to rock?",
+      "options": [
+        "Bugio Island in Portugal's Madeira archipelago",
+        "A cliff beside Chester Zoo",
+        "A beach on mainland Spain",
+        "A garden in central London"
+      ],
+      "correct_answer": "Bugio Island in Portugal's Madeira archipelago",
+      "explanation_hebrew": "21 החלזונות נמצאו על האי בוג'יו שבארכיפלג מדיירה של פורטוגל.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did the team use harnesses during the reintroduction?",
+      "options": [
+        "To carry the snails through deep water",
+        "To stay safe while moving across steep, dangerous cliffs",
+        "To measure the snails before releasing them",
+        "To protect themselves from poisonous vegetation"
+      ],
+      "correct_answer": "To stay safe while moving across steep, dangerous cliffs",
+      "explanation_hebrew": "הרתמות נדרשו בגלל הצוקים התלולים והמסוכנים בדרך לאזור השחרור.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why was returning the snails to Bugio Island physically difficult for the zoo team? Answer in 1–3 sentences.",
+      "rubric_hebrew": "יש לציין לפחות שני קשיים ממשיים שתוארו בכתבה ולהסביר בקצרה כיצד הם הקשו על המבצע.",
+      "expected_points": [
+        "The island is remote and difficult to reach",
+        "The team faced rough sea or weather conditions",
+        "They had to climb or scramble across treacherous cliffs using safety equipment"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What will happen after the snails are released into their natural habitat? Answer in 1–2 sentences.",
+      "rubric_hebrew": "יש להסביר שהחלזונות לא רק שוחררו, אלא גם ימשיכו להיות במעקב כדי לבדוק כיצד הם מתאקלמים.",
+      "expected_points": [
+        "The released snails will be monitored",
+        "Conservationists will check whether they settle and survive in the habitat"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “reintroduction” mean?",
+      "options": [
+        "Counting animals in a zoo",
+        "Moving an animal to a laboratory",
+        "Naming a newly discovered species",
+        "Returning a species to its natural habitat"
+      ],
+      "correct_answer": "Returning a species to its natural habitat",
+      "explanation_hebrew": "בהקשר הכתבה, reintroduction היא החזרה של מין לסביבתו הטבעית.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 50–80 word summary of the article without copying sentences.",
+      "rubric_hebrew": "הסיכום צריך לכלול את מצב החלזונות, עבודת הרבייה, ההחזרה לאי והמעקב המתוכנן, בניסוח עצמאי.",
+      "expected_points": [
+        "Only 21 of the rare Madeiran land snails had been found on Bugio Island",
+        "Zoo conservationists bred 300 snails",
+        "The team made a difficult journey to return them to the remote habitat",
+        "The snails will be monitored after release"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 2–3 sentences explaining why breeding the snails in a zoo was only one part of the conservation project.",
+      "rubric_hebrew": "יש לקשר בין הרבייה בשבי לבין הצורך להחזיר את החלזונות לטבע ולעקוב אחר הצלחתם שם.",
+      "expected_points": [
+        "Breeding increased the population beyond the 21 animals found",
+        "The goal was to restore the species in its natural habitat",
+        "Monitoring is needed to learn whether the released snails settle successfully"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Which detail best shows the team's commitment to the rescue project? Explain your choice in 2–3 sentences.",
+      "rubric_hebrew": "יש לבחור פרט ממשי מהכתבה, כגון הרבייה של 300 חלזונות או המסע המסוכן לאי, ולהסביר מדוע הוא מעיד על מחויבות.",
+      "expected_points": [
+        "Choose a concrete detail from the article",
+        "Possible details include breeding 300 snails or braving rough conditions and cliffs",
+        "Explain how the chosen detail demonstrates effort or persistence"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
