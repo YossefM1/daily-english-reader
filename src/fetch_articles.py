@@ -12,7 +12,7 @@ import os
 import re
 import sys
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -39,6 +39,12 @@ MIN_WORDS = int(os.getenv("MIN_CANDIDATE_WORDS", "150") or "150")
 MAX_STORED_CHARS = int(os.getenv("MAX_CANDIDATE_CHARS", "20000") or "20000")
 MAX_ARTICLE_AGE_HOURS = float(os.getenv("MAX_ARTICLE_AGE_HOURS", "12") or "12")
 MIN_REQUIRED_CANDIDATES = 3
+WEATHER_COOLDOWN_DAYS = int(os.getenv("WEATHER_COOLDOWN_DAYS", "7") or "7")
+WEATHER_TOPIC_PATTERN = re.compile(
+    r"\b(weather|forecast|heatwave|heat wave|storm|thunderstorm|flood|flooding|"
+    r"rainfall|snow|blizzard|hurricane|cyclone|tornado|drought|temperature[s]?)\b",
+    re.IGNORECASE,
+)
 
 
 def strip_xml_ns(tag: str) -> str:
@@ -76,6 +82,42 @@ def normalize_url(url: str) -> str:
 def normalize_title(title: str) -> str:
     text = re.sub(r"\s+", " ", str(title)).strip().casefold()
     return re.sub(r"[^\w\s]", "", text)
+
+
+def is_weather_topic(title: str) -> bool:
+    """Identify weather-focused stories without blocking general science coverage."""
+    return bool(WEATHER_TOPIC_PATTERN.search(str(title)))
+
+
+def recent_weather_exists(docs_dir: Path) -> bool:
+    """Return True when a weather article was published in the rolling cooldown."""
+    cutoff = datetime.now(timezone.utc).date() - timedelta(days=WEATHER_COOLDOWN_DAYS - 1)
+    archive_dir = docs_dir / "data" / "archive"
+
+    for path in archive_dir.glob("*.json"):
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+
+        records = payload.get("articles") if isinstance(payload, dict) else None
+        if not isinstance(records, list):
+            records = [payload]
+
+        for record in records:
+            if not isinstance(record, dict) or not is_weather_topic(record.get("title", "")):
+                continue
+            raw_date = record.get("date") or (payload.get("date") if isinstance(payload, dict) else None)
+            if not raw_date:
+                raw_date = path.stem[:10]
+            try:
+                published_date = datetime.fromisoformat(str(raw_date)[:10]).date()
+            except ValueError:
+                continue
+            if published_date >= cutoff:
+                return True
+
+    return False
 
 
 def parse_published_at(raw: str) -> Optional[datetime]:
@@ -257,11 +299,15 @@ def collect_feed_links(
 
 
 def build_candidates(
-    records: List[Dict[str, object]], history_urls: set[str], history_titles: set[str]
+    records: List[Dict[str, object]],
+    history_urls: set[str],
+    history_titles: set[str],
+    weather_allowed: bool,
 ) -> List[Dict[str, object]]:
     candidates: List[Dict[str, object]] = []
     candidate_urls: set[str] = set()
     candidate_titles: set[str] = set()
+    weather_candidate_added = False
 
     for record in records:
         if len(candidates) >= MAX_CANDIDATES:
@@ -280,8 +326,15 @@ def build_candidates(
             print(f"Skip (too short, {word_count} words): {url}", file=sys.stderr)
             continue
 
+        article_title = article.title or str(record["title"])
+        weather_topic = is_weather_topic(article_title)
+        if weather_topic and (not weather_allowed or weather_candidate_added):
+            reason = "7-day cooldown active" if not weather_allowed else "daily weather candidate already added"
+            print(f"Skip (weather diversity rule: {reason}): {article_title}", file=sys.stderr)
+            continue
+
         url_key = normalize_url(url)
-        title_key = normalize_title(article.title or str(record["title"]))
+        title_key = normalize_title(article_title)
         if url_key in history_urls or title_key in history_titles:
             print(f"Skip (already published after extraction): {article.title}", file=sys.stderr)
             continue
@@ -302,6 +355,9 @@ def build_candidates(
                 "word_count": word_count,
             }
         )
+        if weather_topic:
+            weather_candidate_added = True
+
         print(
             f"Candidate #{len(candidates)}: {record['age_hours']}h old · "
             f"[{record['category']}] {word_count} words — {article.title}"
@@ -320,7 +376,14 @@ def main() -> None:
 
     feeds = resolve_feeds()
     records = collect_feed_links(feeds, history_urls, history_titles)
-    candidates = build_candidates(records, history_urls, history_titles)
+    weather_allowed = not recent_weather_exists(docs_dir)
+    print(
+        "Weather diversity rule: "
+        + ("one weather candidate allowed" if weather_allowed else "7-day cooldown active")
+    )
+    candidates = build_candidates(
+        records, history_urls, history_titles, weather_allowed=weather_allowed
+    )
 
     if len(candidates) < MIN_REQUIRED_CANDIDATES:
         raise RuntimeError(
@@ -335,6 +398,8 @@ def main() -> None:
         "source_mode": "BBC-only",
         "freshness_limit_hours": MAX_ARTICLE_AGE_HOURS,
         "history_exclusion": True,
+        "weather_cooldown_days": WEATHER_COOLDOWN_DAYS,
+        "weather_candidate_allowed": weather_allowed,
         "feeds": feeds,
         "candidate_count": len(candidates),
         "candidates": candidates,
