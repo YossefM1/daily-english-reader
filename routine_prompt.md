@@ -72,6 +72,19 @@ Guardian, NPR, Ars Technica, or any other source:
 If exact word-count targets are impossible, pick the closest candidates and say
 so in `difficulty_reason`.
 
+
+### Topic-diversity rule (hard rule)
+
+- Across A/B/C, choose different subject areas whenever the available candidates allow it.
+- Weather-focused stories (weather, forecasts, heatwaves, storms, floods, snow,
+  hurricanes, cyclones, tornadoes, drought, or unusual temperatures) may appear
+  **at most once in any rolling 7-day period across all levels combined**.
+- `src/fetch_articles.py` enforces this cooldown and exposes at most one weather
+  candidate when the previous six days contain none. Do not bypass that filter
+  or manually reintroduce a weather article.
+- Do not select two articles about substantially the same event or subject on
+  the same day, even when they come from different BBC feeds.
+
 Create `data/learning_articles.json` with this exact schema:
 
 ```json
