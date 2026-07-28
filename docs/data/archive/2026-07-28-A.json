@@ -1,0 +1,600 @@
+{
+  "date": "2026-07-28",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Fourth heatwave grips parts of UK with 35C forecast",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko",
+  "published_at": "2026-07-28T00:18:58+00:00",
+  "age_hours_at_selection": 1.94,
+  "word_count": 585,
+  "generated_at": "2026-07-28T02:15:12.164915+00:00",
+  "difficulty_reason": "קצר וישיר עם משפטים פשוטים וסיפור ברור על מזג האוויר, אוצר מילים בעיקר ברמת B1/B2 וידע רקע מועט.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "heatwave",
+      "lemma": "heatwave",
+      "level": "B1",
+      "hebrew": "גל חום",
+      "explanation_hebrew": "תקופה של מזג אוויר חם מאוד",
+      "pronunciation_hebrew": "הִיטְוֵייב",
+      "example": "A heatwave hit the country last summer."
+    },
+    {
+      "word": "spell",
+      "lemma": "spell",
+      "level": "B2",
+      "hebrew": "תקופה קצרה",
+      "explanation_hebrew": "פרק זמן של מזג אוויר או מצב מסוים",
+      "pronunciation_hebrew": "סְפֶּל",
+      "example": "A dry spell can damage crops."
+    },
+    {
+      "word": "peak",
+      "lemma": "peak",
+      "level": "B1",
+      "hebrew": "שיא",
+      "explanation_hebrew": "הנקודה הגבוהה ביותר",
+      "pronunciation_hebrew": "פִּיק",
+      "example": "Temperatures will peak on Wednesday."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פגיע",
+      "explanation_hebrew": "מי שעלול להיפגע בקלות",
+      "pronunciation_hebrew": "וַלְנֶרַבְּל",
+      "example": "Elderly people are vulnerable to heat."
+    },
+    {
+      "word": "amber",
+      "lemma": "amber",
+      "level": "B2",
+      "hebrew": "כתום (אזהרה)",
+      "explanation_hebrew": "צבע או רמת אזהרה בינונית",
+      "pronunciation_hebrew": "אַמְבֶּר",
+      "example": "The amber alert warns of danger."
+    },
+    {
+      "word": "issued",
+      "lemma": "issue",
+      "level": "B2",
+      "hebrew": "הוציא, פרסם",
+      "explanation_hebrew": "הוצֵא באופן רשמי",
+      "pronunciation_hebrew": "אִישׁוּד",
+      "example": "The agency issued a warning."
+    },
+    {
+      "word": "outbreaks",
+      "lemma": "outbreak",
+      "level": "B2",
+      "hebrew": "התפרצויות",
+      "explanation_hebrew": "הופעה פתאומית של משהו",
+      "pronunciation_hebrew": "אַאוּטְבְּרֵייקְס",
+      "example": "Outbreaks of rain are expected."
+    },
+    {
+      "word": "spread",
+      "lemma": "spread",
+      "level": "B1",
+      "hebrew": "להתפשט",
+      "explanation_hebrew": "להתרחב לאזור גדול יותר",
+      "pronunciation_hebrew": "סְפְּרֶד",
+      "example": "The heat may spread north."
+    },
+    {
+      "word": "forecast",
+      "lemma": "forecast",
+      "level": "B1",
+      "hebrew": "תחזית",
+      "explanation_hebrew": "חיזוי של מזג האוויר",
+      "pronunciation_hebrew": "פוֹרְקַאסְט",
+      "example": "The forecast predicts rain."
+    },
+    {
+      "word": "intense",
+      "lemma": "intense",
+      "level": "B2",
+      "hebrew": "עז, עוצמתי",
+      "explanation_hebrew": "חזק מאוד",
+      "pronunciation_hebrew": "אִינְטֶנְס",
+      "example": "The intense heat was hard to bear."
+    },
+    {
+      "word": "isolated",
+      "lemma": "isolated",
+      "level": "B2",
+      "hebrew": "מבודד, בודד",
+      "explanation_hebrew": "נפרד ולא מחובר לאחרים",
+      "pronunciation_hebrew": "אַייסוֹלֵייטֶד",
+      "example": "Isolated showers may occur."
+    },
+    {
+      "word": "showers",
+      "lemma": "shower",
+      "level": "B1",
+      "hebrew": "ממטרים",
+      "explanation_hebrew": "גשם קצר וקל",
+      "pronunciation_hebrew": "שַׁאוּאֶרְס",
+      "example": "Light showers are expected today."
+    },
+    {
+      "word": "notably",
+      "lemma": "notably",
+      "level": "B2",
+      "hebrew": "במיוחד, באופן בולט",
+      "explanation_hebrew": "בצורה מורגשת",
+      "pronunciation_hebrew": "נוֹטַבְּלִי",
+      "example": "It was notably warm this month."
+    },
+    {
+      "word": "significant",
+      "lemma": "significant",
+      "level": "B2",
+      "hebrew": "משמעותי",
+      "explanation_hebrew": "חשוב או גדול במידה ניכרת",
+      "pronunciation_hebrew": "סִיגְנִיפִיקַנְט",
+      "example": "There was a significant drop in rain."
+    },
+    {
+      "word": "impacts",
+      "lemma": "impact",
+      "level": "B2",
+      "hebrew": "השפעות",
+      "explanation_hebrew": "תוצאות או השלכות",
+      "pronunciation_hebrew": "אִימְפַּקְטְס",
+      "example": "The heat has serious impacts on health."
+    },
+    {
+      "word": "severe",
+      "lemma": "severe",
+      "level": "B2",
+      "hebrew": "חמור, קשה",
+      "explanation_hebrew": "חזק ומסוכן",
+      "pronunciation_hebrew": "סִיוִיר",
+      "example": "Severe weather can be dangerous."
+    },
+    {
+      "word": "ongoing",
+      "lemma": "ongoing",
+      "level": "B2",
+      "hebrew": "מתמשך",
+      "explanation_hebrew": "שנמשך כרגע",
+      "pronunciation_hebrew": "אוֹנְגוֹאִינְג",
+      "example": "The ongoing drought worries farmers."
+    },
+    {
+      "word": "hosepipe",
+      "lemma": "hosepipe",
+      "level": "C1",
+      "hebrew": "צינור השקיה",
+      "explanation_hebrew": "צינור גמיש להעברת מים בגינה",
+      "pronunciation_hebrew": "הוֹזְפַּייפּ",
+      "example": "A hosepipe ban limits water use."
+    },
+    {
+      "word": "vegetation",
+      "lemma": "vegetation",
+      "level": "B2",
+      "hebrew": "צמחייה",
+      "explanation_hebrew": "הצמחים באזור מסוים",
+      "pronunciation_hebrew": "וֶגֶ'טֵיישָׁן",
+      "example": "Dry vegetation catches fire easily."
+    },
+    {
+      "word": "fuel",
+      "lemma": "fuel",
+      "level": "B1",
+      "hebrew": "דלק, חומר בעירה",
+      "explanation_hebrew": "חומר שמאפשר בעירה",
+      "pronunciation_hebrew": "פְיוּאֶל",
+      "example": "Dry grass became fuel for the fire."
+    },
+    {
+      "word": "wildfires",
+      "lemma": "wildfire",
+      "level": "B2",
+      "hebrew": "שריפות בר",
+      "explanation_hebrew": "שריפות לא מבוקרות בטבע",
+      "pronunciation_hebrew": "וַואיְלְדְפַאיֶרְס",
+      "example": "Wildfires spread quickly in dry areas."
+    },
+    {
+      "word": "rainfall",
+      "lemma": "rainfall",
+      "level": "B1",
+      "hebrew": "כמות משקעים",
+      "explanation_hebrew": "כמות הגשם היורד",
+      "pronunciation_hebrew": "רֵיינְפוֹל",
+      "example": "Rainfall was very low this year."
+    },
+    {
+      "word": "drought",
+      "lemma": "drought",
+      "level": "B2",
+      "hebrew": "בצורת",
+      "explanation_hebrew": "תקופה ארוכה ללא גשם",
+      "pronunciation_hebrew": "דְּרַאוּט",
+      "example": "The drought damaged the crops."
+    },
+    {
+      "word": "triggered",
+      "lemma": "trigger",
+      "level": "B2",
+      "hebrew": "גרם, הפעיל",
+      "explanation_hebrew": "הביא להתרחשות של משהו",
+      "pronunciation_hebrew": "טְרִיגֶרְד",
+      "example": "The heat triggered a drought warning."
+    },
+    {
+      "word": "moisture",
+      "lemma": "moisture",
+      "level": "B2",
+      "hebrew": "לחות",
+      "explanation_hebrew": "כמות מים קטנה בקרקע או באוויר",
+      "pronunciation_hebrew": "מוֹיְסְצֶ'ר",
+      "example": "Low soil moisture harms plants."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "heatwave",
+      "type": "english_to_hebrew",
+      "question": "What does “heatwave” mean?",
+      "options": [
+        "פגיע",
+        "גל חום",
+        "שיא",
+        "תקופה קצרה"
+      ],
+      "correct_answer": "גל חום",
+      "explanation_hebrew": "“heatwave” פירושו “גל חום”."
+    },
+    {
+      "id": "A-q2",
+      "word": "spell",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תקופה קצרה”?",
+      "options": [
+        "vulnerable",
+        "spell",
+        "peak",
+        "amber"
+      ],
+      "correct_answer": "spell",
+      "explanation_hebrew": "“תקופה קצרה” באנגלית היא “spell”."
+    },
+    {
+      "id": "A-q3",
+      "word": "peak",
+      "type": "english_to_hebrew",
+      "question": "What does “peak” mean?",
+      "options": [
+        "כתום (אזהרה)",
+        "שיא",
+        "פגיע",
+        "הוציא, פרסם"
+      ],
+      "correct_answer": "שיא",
+      "explanation_hebrew": "“peak” פירושו “שיא”."
+    },
+    {
+      "id": "A-q4",
+      "word": "vulnerable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פגיע”?",
+      "options": [
+        "vulnerable",
+        "amber",
+        "outbreaks",
+        "issued"
+      ],
+      "correct_answer": "vulnerable",
+      "explanation_hebrew": "“פגיע” באנגלית היא “vulnerable”."
+    },
+    {
+      "id": "A-q5",
+      "word": "amber",
+      "type": "english_to_hebrew",
+      "question": "What does “amber” mean?",
+      "options": [
+        "הוציא, פרסם",
+        "להתפשט",
+        "כתום (אזהרה)",
+        "התפרצויות"
+      ],
+      "correct_answer": "כתום (אזהרה)",
+      "explanation_hebrew": "“amber” פירושו “כתום (אזהרה)”."
+    },
+    {
+      "id": "A-q6",
+      "word": "issued",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הוציא, פרסם”?",
+      "options": [
+        "issued",
+        "outbreaks",
+        "spread",
+        "forecast"
+      ],
+      "correct_answer": "issued",
+      "explanation_hebrew": "“הוציא, פרסם” באנגלית היא “issued”."
+    },
+    {
+      "id": "A-q7",
+      "word": "outbreaks",
+      "type": "english_to_hebrew",
+      "question": "What does “outbreaks” mean?",
+      "options": [
+        "להתפשט",
+        "עז, עוצמתי",
+        "תחזית",
+        "התפרצויות"
+      ],
+      "correct_answer": "התפרצויות",
+      "explanation_hebrew": "“outbreaks” פירושו “התפרצויות”."
+    },
+    {
+      "id": "A-q8",
+      "word": "spread",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “להתפשט”?",
+      "options": [
+        "spread",
+        "isolated",
+        "intense",
+        "forecast"
+      ],
+      "correct_answer": "spread",
+      "explanation_hebrew": "“להתפשט” באנגלית היא “spread”."
+    },
+    {
+      "id": "A-q9",
+      "word": "forecast",
+      "type": "english_to_hebrew",
+      "question": "What does “forecast” mean?",
+      "options": [
+        "עז, עוצמתי",
+        "מבודד, בודד",
+        "תחזית",
+        "ממטרים"
+      ],
+      "correct_answer": "תחזית",
+      "explanation_hebrew": "“forecast” פירושו “תחזית”."
+    },
+    {
+      "id": "A-q10",
+      "word": "intense",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עז, עוצמתי”?",
+      "options": [
+        "intense",
+        "isolated",
+        "showers",
+        "notably"
+      ],
+      "correct_answer": "intense",
+      "explanation_hebrew": "“עז, עוצמתי” באנגלית היא “intense”."
+    },
+    {
+      "id": "A-q11",
+      "word": "isolated",
+      "type": "english_to_hebrew",
+      "question": "What does “isolated” mean?",
+      "options": [
+        "ממטרים",
+        "מבודד, בודד",
+        "משמעותי",
+        "במיוחד, באופן בולט"
+      ],
+      "correct_answer": "מבודד, בודד",
+      "explanation_hebrew": "“isolated” פירושו “מבודד, בודד”."
+    },
+    {
+      "id": "A-q12",
+      "word": "showers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ממטרים”?",
+      "options": [
+        "showers",
+        "significant",
+        "impacts",
+        "notably"
+      ],
+      "correct_answer": "showers",
+      "explanation_hebrew": "“ממטרים” באנגלית היא “showers”."
+    },
+    {
+      "id": "A-q13",
+      "word": "notably",
+      "type": "english_to_hebrew",
+      "question": "What does “notably” mean?",
+      "options": [
+        "השפעות",
+        "חמור, קשה",
+        "משמעותי",
+        "במיוחד, באופן בולט"
+      ],
+      "correct_answer": "במיוחד, באופן בולט",
+      "explanation_hebrew": "“notably” פירושו “במיוחד, באופן בולט”."
+    },
+    {
+      "id": "A-q14",
+      "word": "significant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “משמעותי”?",
+      "options": [
+        "significant",
+        "severe",
+        "impacts",
+        "ongoing"
+      ],
+      "correct_answer": "significant",
+      "explanation_hebrew": "“משמעותי” באנגלית היא “significant”."
+    },
+    {
+      "id": "A-q15",
+      "word": "impacts",
+      "type": "english_to_hebrew",
+      "question": "What does “impacts” mean?",
+      "options": [
+        "השפעות",
+        "צינור השקיה",
+        "חמור, קשה",
+        "מתמשך"
+      ],
+      "correct_answer": "השפעות",
+      "explanation_hebrew": "“impacts” פירושו “השפעות”."
+    },
+    {
+      "id": "A-q16",
+      "word": "severe",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חמור, קשה”?",
+      "options": [
+        "ongoing",
+        "hosepipe",
+        "vegetation",
+        "severe"
+      ],
+      "correct_answer": "severe",
+      "explanation_hebrew": "“חמור, קשה” באנגלית היא “severe”."
+    },
+    {
+      "id": "A-q17",
+      "word": "ongoing",
+      "type": "english_to_hebrew",
+      "question": "What does “ongoing” mean?",
+      "options": [
+        "דלק, חומר בעירה",
+        "צמחייה",
+        "צינור השקיה",
+        "מתמשך"
+      ],
+      "correct_answer": "מתמשך",
+      "explanation_hebrew": "“ongoing” פירושו “מתמשך”."
+    },
+    {
+      "id": "A-q18",
+      "word": "hosepipe",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “צינור השקיה”?",
+      "options": [
+        "vegetation",
+        "hosepipe",
+        "wildfires",
+        "fuel"
+      ],
+      "correct_answer": "hosepipe",
+      "explanation_hebrew": "“צינור השקיה” באנגלית היא “hosepipe”."
+    },
+    {
+      "id": "A-q19",
+      "word": "vegetation",
+      "type": "english_to_hebrew",
+      "question": "What does “vegetation” mean?",
+      "options": [
+        "כמות משקעים",
+        "שריפות בר",
+        "צמחייה",
+        "דלק, חומר בעירה"
+      ],
+      "correct_answer": "צמחייה",
+      "explanation_hebrew": "“vegetation” פירושו “צמחייה”."
+    },
+    {
+      "id": "A-q20",
+      "word": "fuel",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דלק, חומר בעירה”?",
+      "options": [
+        "rainfall",
+        "wildfires",
+        "drought",
+        "fuel"
+      ],
+      "correct_answer": "fuel",
+      "explanation_hebrew": "“דלק, חומר בעירה” באנגלית היא “fuel”."
+    },
+    {
+      "id": "A-q21",
+      "word": "wildfires",
+      "type": "english_to_hebrew",
+      "question": "What does “wildfires” mean?",
+      "options": [
+        "שריפות בר",
+        "כמות משקעים",
+        "בצורת",
+        "גרם, הפעיל"
+      ],
+      "correct_answer": "שריפות בר",
+      "explanation_hebrew": "“wildfires” פירושו “שריפות בר”."
+    },
+    {
+      "id": "A-q22",
+      "word": "rainfall",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “כמות משקעים”?",
+      "options": [
+        "triggered",
+        "moisture",
+        "drought",
+        "rainfall"
+      ],
+      "correct_answer": "rainfall",
+      "explanation_hebrew": "“כמות משקעים” באנגלית היא “rainfall”."
+    },
+    {
+      "id": "A-q23",
+      "word": "drought",
+      "type": "english_to_hebrew",
+      "question": "What does “drought” mean?",
+      "options": [
+        "לחות",
+        "גל חום",
+        "בצורת",
+        "גרם, הפעיל"
+      ],
+      "correct_answer": "בצורת",
+      "explanation_hebrew": "“drought” פירושו “בצורת”."
+    },
+    {
+      "id": "A-q24",
+      "word": "triggered",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גרם, הפעיל”?",
+      "options": [
+        "heatwave",
+        "triggered",
+        "moisture",
+        "spell"
+      ],
+      "correct_answer": "triggered",
+      "explanation_hebrew": "“גרם, הפעיל” באנגלית היא “triggered”."
+    },
+    {
+      "id": "A-q25",
+      "word": "moisture",
+      "type": "english_to_hebrew",
+      "question": "What does “moisture” mean?",
+      "options": [
+        "לחות",
+        "שיא",
+        "תקופה קצרה",
+        "גל חום"
+      ],
+      "correct_answer": "לחות",
+      "explanation_hebrew": "“moisture” פירושו “לחות”."
+    }
+  ]
+}
