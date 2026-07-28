@@ -157,6 +157,17 @@ Select **exactly 3 different BBC articles**, one per level:
 If exact word-count targets are impossible, choose the closest available
 candidates and explain the compromise in `difficulty_reason`.
 
+
+### Topic diversity
+
+- Select different subject areas for A, B, and C whenever the candidate pool
+  allows it; do not select two stories about substantially the same event.
+- Weather-focused stories may appear **at most once in any rolling seven-day
+  period across all three levels combined**.
+- `src/fetch_articles.py` checks the published archive, blocks weather
+  candidates during the cooldown, and allows at most one weather candidate when
+  the cooldown is clear. Never bypass this guard or manually add one.
+
 Create the internal file:
 
 ```text
