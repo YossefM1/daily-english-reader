@@ -1,0 +1,163 @@
+{
+  "date": "2026-07-29",
+  "article_id": "C",
+  "article_title": "The evidence that shows today's 20-somethings really do have it worse",
+  "article_url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What conclusion does the BBC's analysis draw about today's UK 20-somethings?",
+      "options": [
+        "They have reached financial independence earlier than every previous generation",
+        "Their main problem is a lack of interest in home ownership",
+        "They face the toughest start to adulthood in almost half a century across housing, work and wealth",
+        "They earn less only because they work fewer hours by choice"
+      ],
+      "correct_answer": "They face the toughest start to adulthood in almost half a century across housing, work and wealth",
+      "explanation_hebrew": "הניתוח משווה מדדים בין דורות ומסיק שהדור הנוכחי מתמודד עם פתיחה קשה במיוחד לחיים הבוגרים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which statistic most directly shows delayed residential independence?",
+      "options": [
+        "More than 40% of 25-year-olds live with their parents",
+        "Most 25-year-olds own two homes",
+        "Every renter spends exactly half of their income on housing",
+        "Employment among 25-year-olds has doubled since the early 1980s"
+      ],
+      "correct_answer": "More than 40% of 25-year-olds live with their parents",
+      "explanation_hebrew": "הנתון שלפיו יותר מ־40% מבני ה־25 גרים עם הוריהם ממחיש ישירות את דחיית העצמאות במגורים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which three broad areas are compared across generations at age 25?",
+      "options": [
+        "Travel, entertainment and sport",
+        "Education, voting and health care only",
+        "Marriage, fashion and social media",
+        "Housing, employment and wealth"
+      ],
+      "correct_answer": "Housing, employment and wealth",
+      "explanation_hebrew": "ההשוואה הבין־דורית מתבססת על דיור, תעסוקה ועושר בגיל 25.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What pattern does the article identify in pay and employment for current 25-year-olds?",
+      "options": [
+        "Pay has surged and unemployment has disappeared",
+        "Wages have stagnated while employment has fallen",
+        "Pay has stagnated but employment is at a record high",
+        "Both pay and employment are unchanged from every earlier decade"
+      ],
+      "correct_answer": "Wages have stagnated while employment has fallen",
+      "explanation_hebrew": "הנתונים מצביעים על קיפאון בשכר לצד ירידה בתעסוקה, שילוב שמקשה על תחילת החיים הבוגרים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How can high housing costs and stagnant wages reinforce each other for people in their 20s? Answer in 4–6 sentences.",
+      "rubric_hebrew": "יש להסביר את מנגנון הלחץ: חלק גדול יותר מההכנסה מופנה לדיור, החיסכון נפגע והמעבר לעצמאות או לבעלות על בית נדחה.",
+      "expected_points": [
+        "Rent or mortgage costs take a larger share of limited income",
+        "Stagnant wages leave less room to absorb rising costs",
+        "Saving for a deposit or building wealth becomes harder",
+        "Young adults may remain with parents longer or delay home ownership"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is comparing different generations at the same age more informative than simply comparing young and old people today? Answer in 4–6 sentences.",
+      "rubric_hebrew": "יש להסביר שבקרה על שלב החיים מאפשרת לבחון אם התנאים בגיל 25 השתנו, במקום לבלבל בין השפעת הגיל לבין השפעת התקופה או הדור.",
+      "expected_points": [
+        "People at different ages naturally have different earnings and wealth",
+        "Comparing everyone at age 25 controls for life stage",
+        "The method reveals changes in the economic terrain faced by each generation",
+        "It supports a stronger claim about generational conditions rather than age alone"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does it mean that wages have “stagnated”?",
+      "options": [
+        "They have risen much faster than housing costs",
+        "They have become impossible to measure",
+        "They have shown little or no meaningful growth",
+        "They have been replaced entirely by inherited wealth"
+      ],
+      "correct_answer": "They have shown little or no meaningful growth",
+      "explanation_hebrew": "stagnated פירושו קפאו או כמעט לא התקדמו לאורך התקופה הנבחנת.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 120–170 word summary of the article without copying sentences.",
+      "rubric_hebrew": "הסיכום צריך להציג את מסקנת הניתוח, שיטת ההשוואה, הנתונים המרכזיים בדיור ובתעסוקה והקשר למעבר לבגרות.",
+      "expected_points": [
+        "The BBC analysis compares generations at age 25 back to the early 1980s",
+        "Today's 20-somethings face unusually difficult conditions",
+        "More than 40% of 25-year-olds live with their parents",
+        "Housing costs are exceptionally high while wages have stagnated and employment has fallen",
+        "These pressures delay independence and make wealth building harder"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Evaluate in 5–7 sentences whether living with parents should be treated as a cause of young adults' difficulties or as a response to them.",
+      "rubric_hebrew": "יש לנסח טענה, להשתמש בנתוני הדיור והשכר, לשקול כיוון סיבתי חלופי ולהגיע למסקנה מנומקת.",
+      "expected_points": [
+        "Present the article's evidence on parental co-residence",
+        "Connect the pattern to housing costs, wages or employment",
+        "Distinguish correlation from causation",
+        "Recognise that living at home may be an adaptive response to economic pressure",
+        "Reach a reasoned conclusion"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 5–7 sentences identifying the strongest evidence in the article and one limitation that should be considered before generalising its conclusion.",
+      "rubric_hebrew": "יש לבחור נתון או ציר השוואה חזק, להסביר מדוע הוא משכנע, ולהציג מגבלה כגון שונות בתוך הדור או הקושי להוכיח סיבתיות.",
+      "expected_points": [
+        "Choose concrete evidence such as the over-40% parental-home figure or the same-age historical comparison",
+        "Explain why the evidence supports the article's conclusion",
+        "Identify a limitation such as regional, class or individual variation",
+        "Note that broad metrics do not describe every person in their 20s",
+        "Keep the conclusion proportional to the evidence"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}
