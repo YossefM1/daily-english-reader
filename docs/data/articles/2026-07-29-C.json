@@ -1,0 +1,600 @@
+{
+  "date": "2026-07-29",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "The evidence that shows today's 20-somethings really do have it worse",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o",
+  "published_at": "2026-07-28T23:52:23+00:00",
+  "age_hours_at_selection": 2.34,
+  "word_count": 1415,
+  "generated_at": "2026-07-29T02:12:32.911853+00:00",
+  "difficulty_reason": "Long, data-dense analytical piece with complex sentences, economic context and figures; B2/C1/C2 vocabulary and higher background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "stagnated",
+      "lemma": "stagnate",
+      "level": "C1",
+      "hebrew": "קפא, לא התקדם",
+      "explanation_hebrew": "נשאר ללא צמיחה או שינוי",
+      "pronunciation_hebrew": "סְטַגְנֵייטֶד",
+      "example": "Wages stagnated for years."
+    },
+    {
+      "word": "metrics",
+      "lemma": "metric",
+      "level": "C1",
+      "hebrew": "מדדים",
+      "explanation_hebrew": "נתונים למדידת ביצועים",
+      "pronunciation_hebrew": "מֶטְרִיקְס",
+      "example": "They compared key metrics."
+    },
+    {
+      "word": "underscored",
+      "lemma": "underscore",
+      "level": "C2",
+      "hebrew": "הדגיש, חיזק",
+      "explanation_hebrew": "הבליט את החשיבות של משהו",
+      "pronunciation_hebrew": "אַנְדֶרְסְקוֹרְד",
+      "example": "The report underscored the risk."
+    },
+    {
+      "word": "frustrated",
+      "lemma": "frustrate",
+      "level": "B2",
+      "hebrew": "מתוסכל",
+      "explanation_hebrew": "מרגיש כעס בגלל חוסר הצלחה",
+      "pronunciation_hebrew": "פְרַסְטְרֵייטֶד",
+      "example": "She felt frustrated by the delay."
+    },
+    {
+      "word": "accused",
+      "lemma": "accuse",
+      "level": "B2",
+      "hebrew": "האשים",
+      "explanation_hebrew": "טען שמישהו עשה משהו רע",
+      "pronunciation_hebrew": "אַקְיוּזְד",
+      "example": "They accused him of lying."
+    },
+    {
+      "word": "plummeted",
+      "lemma": "plummet",
+      "level": "C1",
+      "hebrew": "צנח בחדות",
+      "explanation_hebrew": "ירד מהר מאוד",
+      "pronunciation_hebrew": "פְּלַאמֶטֶד",
+      "example": "House prices plummeted last year."
+    },
+    {
+      "word": "mortgage",
+      "lemma": "mortgage",
+      "level": "B2",
+      "hebrew": "משכנתה",
+      "explanation_hebrew": "הלוואה לקניית בית",
+      "pronunciation_hebrew": "מוֹרְגֶ'",
+      "example": "They took a mortgage on the house."
+    },
+    {
+      "word": "spiraled",
+      "lemma": "spiral",
+      "level": "C1",
+      "hebrew": "הרקיע, הידרדר",
+      "explanation_hebrew": "עלה או ירד במהירות ובלי שליטה",
+      "pronunciation_hebrew": "סְפַּיירַלְד",
+      "example": "Costs spiraled out of control."
+    },
+    {
+      "word": "hurdle",
+      "lemma": "hurdle",
+      "level": "B2",
+      "hebrew": "מכשול",
+      "explanation_hebrew": "קושי שצריך להתגבר עליו",
+      "pronunciation_hebrew": "הֶרְדֶל",
+      "example": "Money is the biggest hurdle."
+    },
+    {
+      "word": "clipped",
+      "lemma": "clip",
+      "level": "C1",
+      "hebrew": "קוצץ, הוגבל",
+      "explanation_hebrew": "הצטמצם או נחתך",
+      "pronunciation_hebrew": "קְלִיפְּט",
+      "example": "Their freedom was clipped."
+    },
+    {
+      "word": "squeeze",
+      "lemma": "squeeze",
+      "level": "C1",
+      "hebrew": "לחץ, מחנק",
+      "explanation_hebrew": "מצב של לחץ כלכלי או מחסור",
+      "pronunciation_hebrew": "סְקְווִיז",
+      "example": "Families feel the financial squeeze."
+    },
+    {
+      "word": "stark",
+      "lemma": "stark",
+      "level": "C1",
+      "hebrew": "חד, בולט",
+      "explanation_hebrew": "ברור וקיצוני",
+      "pronunciation_hebrew": "סְטַארְק",
+      "example": "There is a stark difference."
+    },
+    {
+      "word": "rockier",
+      "lemma": "rocky",
+      "level": "B2",
+      "hebrew": "קשה יותר, סלעי",
+      "explanation_hebrew": "מלא קשיים ומהמורות",
+      "pronunciation_hebrew": "רוֹקִיֶר",
+      "example": "They had a rockier start."
+    },
+    {
+      "word": "fleeting",
+      "lemma": "fleeting",
+      "level": "C1",
+      "hebrew": "חולף",
+      "explanation_hebrew": "נמשך זמן קצר מאוד",
+      "pronunciation_hebrew": "פְלִיטִינְג",
+      "example": "She had a fleeting moment of joy."
+    },
+    {
+      "word": "unemployed",
+      "lemma": "unemployed",
+      "level": "B1",
+      "hebrew": "מובטל",
+      "explanation_hebrew": "ללא עבודה",
+      "pronunciation_hebrew": "אַנֶמְפְּלוֹיְד",
+      "example": "He has been unemployed for months."
+    },
+    {
+      "word": "crawled",
+      "lemma": "crawl",
+      "level": "B2",
+      "hebrew": "זחל, התקדם באיטיות",
+      "explanation_hebrew": "עלה או נע לאט מאוד",
+      "pronunciation_hebrew": "קְרוֹולְד",
+      "example": "Wages slowly crawled back up."
+    },
+    {
+      "word": "inflation",
+      "lemma": "inflation",
+      "level": "B2",
+      "hebrew": "אינפלציה",
+      "explanation_hebrew": "עליית מחירים כללית",
+      "pronunciation_hebrew": "אִינְפְלֵיישֶן",
+      "example": "Inflation raised the cost of food."
+    },
+    {
+      "word": "inevitable",
+      "lemma": "inevitable",
+      "level": "C1",
+      "hebrew": "בלתי נמנע",
+      "explanation_hebrew": "דבר שבטוח יקרה",
+      "pronunciation_hebrew": "אִינֶבִיטַבֶּל",
+      "example": "Change is inevitable."
+    },
+    {
+      "word": "disappointment",
+      "lemma": "disappointment",
+      "level": "B2",
+      "hebrew": "אכזבה",
+      "explanation_hebrew": "תחושה רעה כשציפיות לא מתממשות",
+      "pronunciation_hebrew": "דִיסַאפּוֹינְטְמֶנְט",
+      "example": "The result was a disappointment."
+    },
+    {
+      "word": "terrain",
+      "lemma": "terrain",
+      "level": "C1",
+      "hebrew": "שטח, תוואי",
+      "explanation_hebrew": "סוג הקרקע או המצב שיש להתמודד איתו",
+      "pronunciation_hebrew": "טֶרֵיין",
+      "example": "They face a difficult terrain."
+    },
+    {
+      "word": "loosely",
+      "lemma": "loose",
+      "level": "C1",
+      "hebrew": "ברפיון, בגמישות",
+      "explanation_hebrew": "בלי להיצמד בחוזקה",
+      "pronunciation_hebrew": "לוּסְלִי",
+      "example": "He held the rules loosely."
+    },
+    {
+      "word": "thrive",
+      "lemma": "thrive",
+      "level": "C1",
+      "hebrew": "לשגשג",
+      "explanation_hebrew": "להצליח ולפרוח",
+      "pronunciation_hebrew": "תְ'רַייב",
+      "example": "Plants thrive in the sun."
+    },
+    {
+      "word": "resilience",
+      "lemma": "resilience",
+      "level": "C1",
+      "hebrew": "חוסן, עמידות",
+      "explanation_hebrew": "היכולת להתאושש מקשיים",
+      "pronunciation_hebrew": "רִיזִילְיֶנְס",
+      "example": "Recovery takes great resilience."
+    },
+    {
+      "word": "circumstances",
+      "lemma": "circumstance",
+      "level": "B2",
+      "hebrew": "נסיבות",
+      "explanation_hebrew": "התנאים שמשפיעים על מצב",
+      "pronunciation_hebrew": "סֶרְקַמְסְטַנְסֶס",
+      "example": "They explained their circumstances."
+    },
+    {
+      "word": "adulthood",
+      "lemma": "adulthood",
+      "level": "B2",
+      "hebrew": "בגרות",
+      "explanation_hebrew": "תקופת החיים כאדם מבוגר",
+      "pronunciation_hebrew": "אַדַלְטְהוּד",
+      "example": "She reached adulthood at 18."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "stagnated",
+      "type": "english_to_hebrew",
+      "question": "What does “stagnated” mean?",
+      "options": [
+        "קפא, לא התקדם",
+        "צמח",
+        "זינק",
+        "השתפר"
+      ],
+      "correct_answer": "קפא, לא התקדם",
+      "explanation_hebrew": "“stagnated” = קפא, לא התקדם. נשאר ללא צמיחה או שינוי."
+    },
+    {
+      "id": "C-q2",
+      "word": "metrics",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “מדדים”?",
+      "options": [
+        "frustrated",
+        "accused",
+        "metrics",
+        "underscored"
+      ],
+      "correct_answer": "metrics",
+      "explanation_hebrew": "“מדדים” = metrics. נתונים למדידת ביצועים."
+    },
+    {
+      "id": "C-q3",
+      "word": "underscored",
+      "type": "english_to_hebrew",
+      "question": "What does “underscored” mean?",
+      "options": [
+        "הסתיר",
+        "הדגיש, חיזק",
+        "הכחיש",
+        "החליש"
+      ],
+      "correct_answer": "הדגיש, חיזק",
+      "explanation_hebrew": "“underscored” = הדגיש, חיזק. הבליט את החשיבות של משהו."
+    },
+    {
+      "id": "C-q4",
+      "word": "frustrated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “מתוסכל”?",
+      "options": [
+        "mortgage",
+        "accused",
+        "plummeted",
+        "frustrated"
+      ],
+      "correct_answer": "frustrated",
+      "explanation_hebrew": "“מתוסכל” = frustrated. מרגיש כעס בגלל חוסר הצלחה."
+    },
+    {
+      "id": "C-q5",
+      "word": "accused",
+      "type": "english_to_hebrew",
+      "question": "What does “accused” mean?",
+      "options": [
+        "האשים",
+        "שיבח",
+        "הגן",
+        "סלח"
+      ],
+      "correct_answer": "האשים",
+      "explanation_hebrew": "“accused” = האשים. טען שמישהו עשה משהו רע."
+    },
+    {
+      "id": "C-q6",
+      "word": "plummeted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “צנח בחדות”?",
+      "options": [
+        "plummeted",
+        "mortgage",
+        "spiraled",
+        "hurdle"
+      ],
+      "correct_answer": "plummeted",
+      "explanation_hebrew": "“צנח בחדות” = plummeted. ירד מהר מאוד."
+    },
+    {
+      "id": "C-q7",
+      "word": "mortgage",
+      "type": "english_to_hebrew",
+      "question": "What does “mortgage” mean?",
+      "options": [
+        "חיסכון",
+        "שכירות",
+        "מתנה",
+        "משכנתה"
+      ],
+      "correct_answer": "משכנתה",
+      "explanation_hebrew": "“mortgage” = משכנתה. הלוואה לקניית בית."
+    },
+    {
+      "id": "C-q8",
+      "word": "spiraled",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “הרקיע, הידרדר”?",
+      "options": [
+        "spiraled",
+        "clipped",
+        "hurdle",
+        "squeeze"
+      ],
+      "correct_answer": "spiraled",
+      "explanation_hebrew": "“הרקיע, הידרדר” = spiraled. עלה או ירד במהירות ובלי שליטה."
+    },
+    {
+      "id": "C-q9",
+      "word": "hurdle",
+      "type": "english_to_hebrew",
+      "question": "What does “hurdle” mean?",
+      "options": [
+        "יתרון",
+        "מכשול",
+        "קיצור דרך",
+        "פתרון"
+      ],
+      "correct_answer": "מכשול",
+      "explanation_hebrew": "“hurdle” = מכשול. קושי שצריך להתגבר עליו."
+    },
+    {
+      "id": "C-q10",
+      "word": "clipped",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “קוצץ, הוגבל”?",
+      "options": [
+        "rockier",
+        "stark",
+        "clipped",
+        "squeeze"
+      ],
+      "correct_answer": "clipped",
+      "explanation_hebrew": "“קוצץ, הוגבל” = clipped. הצטמצם או נחתך."
+    },
+    {
+      "id": "C-q11",
+      "word": "squeeze",
+      "type": "english_to_hebrew",
+      "question": "What does “squeeze” mean?",
+      "options": [
+        "שפע",
+        "לחץ, מחנק",
+        "רווחה",
+        "הקלה"
+      ],
+      "correct_answer": "לחץ, מחנק",
+      "explanation_hebrew": "“squeeze” = לחץ, מחנק. מצב של לחץ כלכלי או מחסור."
+    },
+    {
+      "id": "C-q12",
+      "word": "stark",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “חד, בולט”?",
+      "options": [
+        "unemployed",
+        "stark",
+        "fleeting",
+        "rockier"
+      ],
+      "correct_answer": "stark",
+      "explanation_hebrew": "“חד, בולט” = stark. ברור וקיצוני."
+    },
+    {
+      "id": "C-q13",
+      "word": "rockier",
+      "type": "english_to_hebrew",
+      "question": "What does “rockier” mean?",
+      "options": [
+        "נוח",
+        "קשה יותר, סלעי",
+        "חלק",
+        "קל"
+      ],
+      "correct_answer": "קשה יותר, סלעי",
+      "explanation_hebrew": "“rockier” = קשה יותר, סלעי. מלא קשיים ומהמורות."
+    },
+    {
+      "id": "C-q14",
+      "word": "fleeting",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “חולף”?",
+      "options": [
+        "crawled",
+        "inflation",
+        "fleeting",
+        "unemployed"
+      ],
+      "correct_answer": "fleeting",
+      "explanation_hebrew": "“חולף” = fleeting. נמשך זמן קצר מאוד."
+    },
+    {
+      "id": "C-q15",
+      "word": "unemployed",
+      "type": "english_to_hebrew",
+      "question": "What does “unemployed” mean?",
+      "options": [
+        "עסוק",
+        "מובטל",
+        "מועסק",
+        "עצמאי"
+      ],
+      "correct_answer": "מובטל",
+      "explanation_hebrew": "“unemployed” = מובטל. ללא עבודה."
+    },
+    {
+      "id": "C-q16",
+      "word": "crawled",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “זחל, התקדם באיטיות”?",
+      "options": [
+        "inflation",
+        "disappointment",
+        "inevitable",
+        "crawled"
+      ],
+      "correct_answer": "crawled",
+      "explanation_hebrew": "“זחל, התקדם באיטיות” = crawled. עלה או נע לאט מאוד."
+    },
+    {
+      "id": "C-q17",
+      "word": "inflation",
+      "type": "english_to_hebrew",
+      "question": "What does “inflation” mean?",
+      "options": [
+        "חיסכון",
+        "יציבות",
+        "הנחה",
+        "אינפלציה"
+      ],
+      "correct_answer": "אינפלציה",
+      "explanation_hebrew": "“inflation” = אינפלציה. עליית מחירים כללית."
+    },
+    {
+      "id": "C-q18",
+      "word": "inevitable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “בלתי נמנע”?",
+      "options": [
+        "terrain",
+        "disappointment",
+        "loosely",
+        "inevitable"
+      ],
+      "correct_answer": "inevitable",
+      "explanation_hebrew": "“בלתי נמנע” = inevitable. דבר שבטוח יקרה."
+    },
+    {
+      "id": "C-q19",
+      "word": "disappointment",
+      "type": "english_to_hebrew",
+      "question": "What does “disappointment” mean?",
+      "options": [
+        "הפתעה",
+        "שמחה",
+        "גאווה",
+        "אכזבה"
+      ],
+      "correct_answer": "אכזבה",
+      "explanation_hebrew": "“disappointment” = אכזבה. תחושה רעה כשציפיות לא מתממשות."
+    },
+    {
+      "id": "C-q20",
+      "word": "terrain",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “שטח, תוואי”?",
+      "options": [
+        "loosely",
+        "terrain",
+        "thrive",
+        "resilience"
+      ],
+      "correct_answer": "terrain",
+      "explanation_hebrew": "“שטח, תוואי” = terrain. סוג הקרקע או המצב שיש להתמודד איתו."
+    },
+    {
+      "id": "C-q21",
+      "word": "loosely",
+      "type": "english_to_hebrew",
+      "question": "What does “loosely” mean?",
+      "options": [
+        "ברפיון, בגמישות",
+        "בחוזקה",
+        "בדיוק",
+        "בקשיחות"
+      ],
+      "correct_answer": "ברפיון, בגמישות",
+      "explanation_hebrew": "“loosely” = ברפיון, בגמישות. בלי להיצמד בחוזקה."
+    },
+    {
+      "id": "C-q22",
+      "word": "thrive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “לשגשג”?",
+      "options": [
+        "adulthood",
+        "thrive",
+        "resilience",
+        "circumstances"
+      ],
+      "correct_answer": "thrive",
+      "explanation_hebrew": "“לשגשג” = thrive. להצליח ולפרוח."
+    },
+    {
+      "id": "C-q23",
+      "word": "resilience",
+      "type": "english_to_hebrew",
+      "question": "What does “resilience” mean?",
+      "options": [
+        "שבירות",
+        "חוסן, עמידות",
+        "ייאוש",
+        "חולשה"
+      ],
+      "correct_answer": "חוסן, עמידות",
+      "explanation_hebrew": "“resilience” = חוסן, עמידות. היכולת להתאושש מקשיים."
+    },
+    {
+      "id": "C-q24",
+      "word": "circumstances",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “נסיבות”?",
+      "options": [
+        "stagnated",
+        "adulthood",
+        "metrics",
+        "circumstances"
+      ],
+      "correct_answer": "circumstances",
+      "explanation_hebrew": "“נסיבות” = circumstances. התנאים שמשפיעים על מצב."
+    },
+    {
+      "id": "C-q25",
+      "word": "adulthood",
+      "type": "english_to_hebrew",
+      "question": "What does “adulthood” mean?",
+      "options": [
+        "זקנה",
+        "התבגרות מוקדמת",
+        "ילדוּת",
+        "בגרות"
+      ],
+      "correct_answer": "בגרות",
+      "explanation_hebrew": "“adulthood” = בגרות. תקופת החיים כאדם מבוגר."
+    }
+  ]
+}
