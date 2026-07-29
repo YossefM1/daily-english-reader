@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-29",
+  "article_id": "A",
+  "article_title": "Amy Dowden says Strictly Come Dancing partner Carlos Gu convinced her not to quit dancing",
+  "article_url": "https://www.bbc.co.uk/news/articles/cn4nqw0jxw1o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "A",
+    "primary_focus": "summary",
+    "confidence": "low"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main point of Amy Dowden's story?",
+      "options": [
+        "She decided to leave television to become a doctor",
+        "Carlos Gu and her husband helped her continue dancing after illness left her at a very low point",
+        "She won a new dance competition without any help",
+        "She stopped speaking to the other Strictly dancers"
+      ],
+      "correct_answer": "Carlos Gu and her husband helped her continue dancing after illness left her at a very low point",
+      "explanation_hebrew": "הכתבה מתמקדת בכך שקרלוס גו ובעלה בן עודדו את איימי להמשיך לרקוד כשהייתה בנקודת שפל.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who did Dowden credit with persuading her not to hang up her dancing shoes?",
+      "options": [
+        "Carlos Gu and her husband Ben",
+        "The Strictly judges and audience",
+        "Her doctors and a television producer",
+        "Thomas Skinner and Karen Carney"
+      ],
+      "correct_answer": "Carlos Gu and her husband Ben",
+      "explanation_hebrew": "איימי זקפה את ההחלטה להמשיך לזכות קרלוס גו ובעלה בן, שנתנו לה תמיכה ומוטיבציה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why had Dowden been forced to step away from Strictly?",
+      "options": [
+        "She moved permanently to another country",
+        "She wanted to train for a different sport",
+        "Illness and further medical treatment prevented her from continuing",
+        "The programme had ended"
+      ],
+      "correct_answer": "Illness and further medical treatment prevented her from continuing",
+      "explanation_hebrew": "היא נאלצה לפרוש בגלל מצבה הבריאותי והצורך בטיפול רפואי נוסף.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What does Dowden mean when she says Carlos and Ben gave her “tough love”?",
+      "options": [
+        "They criticised her dancing in public",
+        "They refused to talk about her illness",
+        "They asked her to compete before she was medically ready",
+        "They supported her firmly and pushed her not to give up"
+      ],
+      "correct_answer": "They supported her firmly and pushed her not to give up",
+      "explanation_hebrew": "tough love כאן פירושו תמיכה תקיפה: הם עודדו אותה ולא אפשרו לה לוותר מתוך תחושת השפל.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why was returning to dancing emotionally important to Dowden? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש לקשר בין הריקוד לזהותה ולביטחונה העצמי, ולהסביר שהתמיכה עזרה לה לצאת מנקודת שפל.",
+      "expected_points": [
+        "Dancing was an important part of her identity and professional life",
+        "Illness and leaving the show had damaged her confidence",
+        "Returning helped her regain motivation and a sense of herself"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What health experience forms the background to Dowden's decision about dancing? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש לציין את אבחון סרטן השד, הטיפולים והניתוחים, ואת העובדה שהמצב אילץ אותה להתרחק מהתוכנית.",
+      "expected_points": [
+        "She was diagnosed with stage-three breast cancer in 2023",
+        "She underwent a mastectomy and later needed further treatment",
+        "Her health forced her to withdraw from Strictly"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “regain her confidence” mean?",
+      "options": [
+        "Hide her feelings from other dancers",
+        "Win every dance competition",
+        "Get back her belief in her own ability",
+        "Receive a new medical diagnosis"
+      ],
+      "correct_answer": "Get back her belief in her own ability",
+      "explanation_hebrew": "regain her confidence פירושו להשיב לעצמה את האמונה ביכולת שלה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 50–80 word summary of the article without copying sentences.",
+      "rubric_hebrew": "הסיכום צריך לכלול את מחלתה של איימי, נקודת השפל, העידוד מקרלוס ובן והחלטתה להמשיך לרקוד.",
+      "expected_points": [
+        "Dowden's cancer and treatment forced her away from Strictly",
+        "She considered ending her dancing career at a very low point",
+        "Carlos Gu and her husband Ben gave her firm encouragement",
+        "Their support helped her regain confidence and continue dancing"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain in 2–3 sentences how Carlos Gu changed the direction of Dowden's story.",
+      "rubric_hebrew": "יש להציג את המצב לפני העידוד, את פעולתו של קרלוס ואת השינוי בהחלטתה של איימי.",
+      "expected_points": [
+        "Before his encouragement, Dowden was ready to stop dancing",
+        "Carlos, together with Ben, gave motivation and firm support",
+        "She chose to continue and rebuild her confidence"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Which detail best shows how low Dowden felt, and which detail best shows her recovery? Explain in 3–4 sentences.",
+      "rubric_hebrew": "יש לבחור שני פרטים ממשיים: אחד על הרצון לתלות את נעלי הריקוד ואחד על החזרה לריקוד או הביטחון שהתחדש.",
+      "expected_points": [
+        "A low-point detail such as being ready to hang up her dancing shoes",
+        "A recovery detail such as continuing to dance or returning to Strictly",
+        "Explain the contrast between the two details"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
