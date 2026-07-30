@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-30",
+  "article_id": "B",
+  "article_title": "US interest rates held as Fed boss says 'no magic wand' to tackle high prices",
+  "article_url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central issue in the article?",
+      "options": [
+        "The Fed cut rates sharply after inflation disappeared",
+        "The US government replaced the Federal Reserve",
+        "The Fed held rates steady despite persistent inflation and disagreement over whether to raise them",
+        "All Fed policymakers agreed that high prices were no longer a problem"
+      ],
+      "correct_answer": "The Fed held rates steady despite persistent inflation and disagreement over whether to raise them",
+      "explanation_hebrew": "הכתבה עוסקת בהחלטה להשאיר את הריבית ללא שינוי מול אינפלציה גבוהה ומחלוקת פנימית, כאשר שלושה חברים תמכו בהעלאה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did the Fed's policymakers vote on the interest-rate decision?",
+      "options": [
+        "Nine voted to hold rates and three preferred an increase",
+        "All twelve voted to cut rates",
+        "Six voted to hold and six voted to abolish the target",
+        "Three voted to hold and nine preferred a decrease"
+      ],
+      "correct_answer": "Nine voted to hold rates and three preferred an increase",
+      "explanation_hebrew": "ההחלטה התקבלה ברוב של 9 מול 3; שלושת המתנגדים ביקשו להעלות את הריבית כדי להילחם במחירים הגבוהים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which combination does the article identify as adding to inflation pressure?",
+      "options": [
+        "Falling oil prices, lower tariffs and weak technology spending",
+        "Cheaper electricity and declining demand for computer chips",
+        "A housing subsidy and a stronger dollar only",
+        "Higher energy prices linked to the Iran war, tariffs, and heavy AI-related spending"
+      ],
+      "correct_answer": "Higher energy prices linked to the Iran war, tariffs, and heavy AI-related spending",
+      "explanation_hebrew": "הכתבה מצביעה על מחירי אנרגיה בעקבות המלחמה באיראן, מכסים והשקעות AI שמעלות ביקוש ועלויות כגון שבבים וחשמל.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does a “rate hike” mean in the article?",
+      "options": [
+        "A sudden fall in consumer prices",
+        "An increase in the central bank's interest rate",
+        "A rise in wages set by private companies",
+        "A reduction in the cost of mortgages"
+      ],
+      "correct_answer": "An increase in the central bank's interest rate",
+      "explanation_hebrew": "rate hike היא העלאת ריבית על ידי הבנק המרכזי, צעד שמייקר בדרך כלל אשראי ויכול לצמצם ביקוש.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Warsh said he wanted to “disabuse” people of the magic-wand idea. What does “disabuse” mean here?",
+      "options": [
+        "Encourage people to believe a convenient story",
+        "Delay publishing the interest-rate vote",
+        "Correct someone's mistaken belief",
+        "Promise that prices will fall within days"
+      ],
+      "correct_answer": "Correct someone's mistaken belief",
+      "explanation_hebrew": "disabuse פירושו להעמיד אדם על טעותו; וורש רצה להבהיר שאין פתרון קסם ומהיר לאינפלציה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “elevated inflation” mean in this report?",
+      "options": [
+        "Inflation that cannot be measured",
+        "Inflation that has already reached zero",
+        "A temporary rise in share prices",
+        "Inflation that remains higher than the desired level"
+      ],
+      "correct_answer": "Inflation that remains higher than the desired level",
+      "explanation_hebrew": "elevated מתאר רמה גבוהה מהרגיל או מהרצוי; כאן האינפלציה נותרה מעל יעד ה־2% של הבנק.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might three policymakers prefer a rate increase even though the majority held rates steady? Answer in 3–5 sentences.",
+      "rubric_hebrew": "יש לקשר בין אינפלציה מתמשכת, יעד ה־2%, לחצי המחירים והרעיון שריבית גבוהה יותר עשויה לצמצם ביקוש.",
+      "expected_points": [
+        "Inflation has remained above the Fed's 2% target",
+        "Energy, tariffs or other pressures could keep prices high",
+        "Higher rates can reduce borrowing and demand",
+        "The dissents signal concern that current policy may not be restrictive enough"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–120 word summary of the article without copying sentences.",
+      "rubric_hebrew": "יש לכלול את החלטת הריבית, תוצאת ההצבעה, גורמי האינפלציה והסברו של וורש שאין פתרון מהיר.",
+      "expected_points": [
+        "The Fed kept its benchmark rate unchanged for a fifth meeting",
+        "The vote was 9–3, with three members preferring a rise",
+        "Inflation remains above target amid energy, tariff and other pressures",
+        "Warsh promised action but rejected the idea of a quick fix",
+        "The decision affects borrowers, households and savers"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain the meaning of Warsh's “no magic wand” comment in 4–5 sentences and connect it to the Fed's decision.",
+      "rubric_hebrew": "יש לפרש את המטפורה כשלילת פתרון מיידי ולהסביר שמדיניות ריבית משפיעה בהדרגה ובתנאי אי־ודאות.",
+      "expected_points": [
+        "A magic wand represents an instant and effortless solution",
+        "Warsh says inflation cannot be returned to target in days or weeks",
+        "Interest-rate policy works with delays and trade-offs",
+        "Holding rates reflects caution while the Fed watches inflation and the economy"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Compare one likely effect of unchanged rates on borrowers with one likely effect on savers. Write 4–6 sentences.",
+      "rubric_hebrew": "יש להציג השפעה סבירה על עלות הלוואות או משכנתאות והשפעה על תשואות החיסכון, תוך הימנעות מטענה שכל הריביות זהות.",
+      "expected_points": [
+        "Borrowing and mortgage costs may remain relatively high",
+        "Households with loans may continue to face pressure",
+        "Savers may continue receiving relatively stronger returns",
+        "Retail rates do not always move exactly with the benchmark rate"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
