@@ -1,0 +1,600 @@
+{
+  "date": "2026-07-30",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Limiting sugar before age two linked to better brain health",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/clyx85z1ld5o",
+  "published_at": "2026-07-29T20:02:45+00:00",
+  "age_hours_at_selection": 6.14,
+  "word_count": 559,
+  "generated_at": "2026-07-30T02:10:52.326048+00:00",
+  "difficulty_reason": "Short science report with a clear cause-and-effect story and short sentences; mostly B1/B2 vocabulary and low background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "limiting",
+      "lemma": "limit",
+      "level": "B1",
+      "hebrew": "הגבלה",
+      "explanation_hebrew": "צמצום כמות של משהו",
+      "pronunciation_hebrew": "לִימִיטִינְג",
+      "example": "Limiting screen time can help children sleep."
+    },
+    {
+      "word": "rationing",
+      "lemma": "ration",
+      "level": "B2",
+      "hebrew": "קיצוב",
+      "explanation_hebrew": "חלוקה מוגבלת של מוצרים בזמן מחסור",
+      "pronunciation_hebrew": "רַשְׁנִינְג",
+      "example": "During the war, food rationing was common."
+    },
+    {
+      "word": "rapid",
+      "lemma": "rapid",
+      "level": "B1",
+      "hebrew": "מהיר",
+      "explanation_hebrew": "קורה מהר מאוד",
+      "pronunciation_hebrew": "רַאפִּיד",
+      "example": "The city saw a rapid rise in population."
+    },
+    {
+      "word": "toddlers",
+      "lemma": "toddler",
+      "level": "B1",
+      "hebrew": "פעוטות",
+      "explanation_hebrew": "ילדים קטנים בגיל שנה-שלוש",
+      "pronunciation_hebrew": "טוֹדְלֶרְז",
+      "example": "Toddlers learn to walk and talk quickly."
+    },
+    {
+      "word": "dementia",
+      "lemma": "dementia",
+      "level": "B2",
+      "hebrew": "דמנציה",
+      "explanation_hebrew": "מחלה הפוגעת בזיכרון ובחשיבה",
+      "pronunciation_hebrew": "דִמֶנְשָׁה",
+      "example": "Her grandmother was diagnosed with dementia."
+    },
+    {
+      "word": "definitive",
+      "lemma": "definitive",
+      "level": "C1",
+      "hebrew": "מוחלט",
+      "explanation_hebrew": "סופי וללא ספק",
+      "pronunciation_hebrew": "דֶפִינִיטִיב",
+      "example": "There is no definitive answer yet."
+    },
+    {
+      "word": "suite",
+      "lemma": "suite",
+      "level": "B2",
+      "hebrew": "מערך",
+      "explanation_hebrew": "קבוצה של דברים דומים יחד",
+      "pronunciation_hebrew": "סְוִויט",
+      "example": "A suite of tools helps the team work."
+    },
+    {
+      "word": "recovering",
+      "lemma": "recover",
+      "level": "B1",
+      "hebrew": "מתאושש",
+      "explanation_hebrew": "חוזר למצב תקין אחרי קושי",
+      "pronunciation_hebrew": "רִיקַאבֶרִינְג",
+      "example": "She is slowly recovering from her illness."
+    },
+    {
+      "word": "consumption",
+      "lemma": "consume",
+      "level": "B2",
+      "hebrew": "צריכה",
+      "explanation_hebrew": "כמות שנאכלת או נעשה בה שימוש",
+      "pronunciation_hebrew": "קוֹנְסַמְפְּשֶׁן",
+      "example": "Sugar consumption has increased in recent years."
+    },
+    {
+      "word": "estimated",
+      "lemma": "estimate",
+      "level": "B1",
+      "hebrew": "מוערך",
+      "explanation_hebrew": "מחושב בקירוב",
+      "pronunciation_hebrew": "אֶסְטִימֵייטִד",
+      "example": "The cost is estimated at a million dollars."
+    },
+    {
+      "word": "immediately",
+      "lemma": "immediate",
+      "level": "B1",
+      "hebrew": "מיד",
+      "explanation_hebrew": "באותו רגע, ללא עיכוב",
+      "pronunciation_hebrew": "אִימִידְיֶטְלִי",
+      "example": "She replied to the message immediately."
+    },
+    {
+      "word": "diabetes",
+      "lemma": "diabetes",
+      "level": "B2",
+      "hebrew": "סוכרת",
+      "explanation_hebrew": "מחלה הקשורה לרמות סוכר בדם",
+      "pronunciation_hebrew": "דַיאַבִּיטִיס",
+      "example": "A poor diet can raise the risk of diabetes."
+    },
+    {
+      "word": "analysis",
+      "lemma": "analysis",
+      "level": "B2",
+      "hebrew": "ניתוח",
+      "explanation_hebrew": "בדיקה מעמיקה של מידע",
+      "pronunciation_hebrew": "אַנַלִיסִיס",
+      "example": "The analysis showed a clear pattern."
+    },
+    {
+      "word": "argued",
+      "lemma": "argue",
+      "level": "B1",
+      "hebrew": "טענו",
+      "explanation_hebrew": "הציגו טענה או עמדה",
+      "pronunciation_hebrew": "אַרְגְּיוּד",
+      "example": "The scientists argued that diet matters."
+    },
+    {
+      "word": "diagnosed",
+      "lemma": "diagnose",
+      "level": "B2",
+      "hebrew": "אובחן",
+      "explanation_hebrew": "זוהה כמחלה על ידי רופא",
+      "pronunciation_hebrew": "דַיאַגְנוֹזְד",
+      "example": "The illness was diagnosed early."
+    },
+    {
+      "word": "findings",
+      "lemma": "finding",
+      "level": "B1",
+      "hebrew": "ממצאים",
+      "explanation_hebrew": "התוצאות של מחקר",
+      "pronunciation_hebrew": "פַיינְדִינְגְז",
+      "example": "The findings surprised the researchers."
+    },
+    {
+      "word": "lasting",
+      "lemma": "last",
+      "level": "B1",
+      "hebrew": "מתמשך",
+      "explanation_hebrew": "נמשך לאורך זמן",
+      "pronunciation_hebrew": "לַאסְטִינְג",
+      "example": "The trip had a lasting effect on her."
+    },
+    {
+      "word": "benefits",
+      "lemma": "benefit",
+      "level": "B1",
+      "hebrew": "יתרונות",
+      "explanation_hebrew": "דברים טובים שנובעים ממשהו",
+      "pronunciation_hebrew": "בֶּנֶפִיטְס",
+      "example": "Exercise has many health benefits."
+    },
+    {
+      "word": "journal",
+      "lemma": "journal",
+      "level": "B2",
+      "hebrew": "כתב עת",
+      "explanation_hebrew": "פרסום מדעי או מקצועי",
+      "pronunciation_hebrew": "גֶ'רְנַל",
+      "example": "The study appeared in a medical journal."
+    },
+    {
+      "word": "intake",
+      "lemma": "intake",
+      "level": "B2",
+      "hebrew": "צריכה",
+      "explanation_hebrew": "הכמות שנכנסת לגוף",
+      "pronunciation_hebrew": "אִינְטֵייק",
+      "example": "Reduce your salt intake for better health."
+    },
+    {
+      "word": "merely",
+      "lemma": "merely",
+      "level": "B2",
+      "hebrew": "רק",
+      "explanation_hebrew": "לא יותר מאשר",
+      "pronunciation_hebrew": "מִירְלִי",
+      "example": "It was merely a small mistake."
+    },
+    {
+      "word": "relative",
+      "lemma": "relative",
+      "level": "B2",
+      "hebrew": "יחסי",
+      "explanation_hebrew": "בהשוואה לדבר אחר",
+      "pronunciation_hebrew": "רֶלַטִיב",
+      "example": "The result is relative to the starting point."
+    },
+    {
+      "word": "applicability",
+      "lemma": "applicability",
+      "level": "C1",
+      "hebrew": "ישימות",
+      "explanation_hebrew": "המידה שבה משהו רלוונטי",
+      "pronunciation_hebrew": "אַפְּלִיקַבִּילִיטִי",
+      "example": "The applicability of the rule is limited."
+    },
+    {
+      "word": "nutrition",
+      "lemma": "nutrition",
+      "level": "B2",
+      "hebrew": "תזונה",
+      "explanation_hebrew": "האוכל הנחוץ לבריאות",
+      "pronunciation_hebrew": "נוּטְרִישֶׁן",
+      "example": "Good nutrition supports growth in children."
+    },
+    {
+      "word": "observational",
+      "lemma": "observe",
+      "level": "C1",
+      "hebrew": "תצפיתי",
+      "explanation_hebrew": "מבוסס על התבוננות ולא ניסוי",
+      "pronunciation_hebrew": "אוֹבְּזֶרְבֵישֶׁנַל",
+      "example": "It was an observational study, not a trial."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "limiting",
+      "type": "english_to_hebrew",
+      "question": "What does “limiting” mean?",
+      "options": [
+        "פעוטות",
+        "קיצוב",
+        "הגבלה",
+        "מהיר"
+      ],
+      "correct_answer": "הגבלה",
+      "explanation_hebrew": "“limiting” פירושו הגבלה – צמצום כמות של משהו."
+    },
+    {
+      "id": "A-q2",
+      "word": "rationing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קיצוב”?",
+      "options": [
+        "rationing",
+        "dementia",
+        "rapid",
+        "toddlers"
+      ],
+      "correct_answer": "rationing",
+      "explanation_hebrew": "“קיצוב” באנגלית הוא “rationing” – חלוקה מוגבלת של מוצרים בזמן מחסור."
+    },
+    {
+      "id": "A-q3",
+      "word": "rapid",
+      "type": "english_to_hebrew",
+      "question": "What does “rapid” mean?",
+      "options": [
+        "מהיר",
+        "פעוטות",
+        "דמנציה",
+        "מוחלט"
+      ],
+      "correct_answer": "מהיר",
+      "explanation_hebrew": "“rapid” פירושו מהיר – קורה מהר מאוד."
+    },
+    {
+      "id": "A-q4",
+      "word": "toddlers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פעוטות”?",
+      "options": [
+        "definitive",
+        "suite",
+        "dementia",
+        "toddlers"
+      ],
+      "correct_answer": "toddlers",
+      "explanation_hebrew": "“פעוטות” באנגלית הוא “toddlers” – ילדים קטנים בגיל שנה-שלוש."
+    },
+    {
+      "id": "A-q5",
+      "word": "dementia",
+      "type": "english_to_hebrew",
+      "question": "What does “dementia” mean?",
+      "options": [
+        "מוחלט",
+        "דמנציה",
+        "מתאושש",
+        "מערך"
+      ],
+      "correct_answer": "דמנציה",
+      "explanation_hebrew": "“dementia” פירושו דמנציה – מחלה הפוגעת בזיכרון ובחשיבה."
+    },
+    {
+      "id": "A-q6",
+      "word": "definitive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוחלט”?",
+      "options": [
+        "recovering",
+        "consumption",
+        "suite",
+        "definitive"
+      ],
+      "correct_answer": "definitive",
+      "explanation_hebrew": "“מוחלט” באנגלית הוא “definitive” – סופי וללא ספק."
+    },
+    {
+      "id": "A-q7",
+      "word": "suite",
+      "type": "english_to_hebrew",
+      "question": "What does “suite” mean?",
+      "options": [
+        "מערך",
+        "צריכה",
+        "מתאושש",
+        "מוערך"
+      ],
+      "correct_answer": "מערך",
+      "explanation_hebrew": "“suite” פירושו מערך – קבוצה של דברים דומים יחד."
+    },
+    {
+      "id": "A-q8",
+      "word": "recovering",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מתאושש”?",
+      "options": [
+        "consumption",
+        "recovering",
+        "estimated",
+        "immediately"
+      ],
+      "correct_answer": "recovering",
+      "explanation_hebrew": "“מתאושש” באנגלית הוא “recovering” – חוזר למצב תקין אחרי קושי."
+    },
+    {
+      "id": "A-q9",
+      "word": "consumption",
+      "type": "english_to_hebrew",
+      "question": "What does “consumption” mean?",
+      "options": [
+        "מיד",
+        "צריכה",
+        "מוערך",
+        "סוכרת"
+      ],
+      "correct_answer": "צריכה",
+      "explanation_hebrew": "“consumption” פירושו צריכה – כמות שנאכלת או נעשה בה שימוש."
+    },
+    {
+      "id": "A-q10",
+      "word": "estimated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוערך”?",
+      "options": [
+        "immediately",
+        "diabetes",
+        "estimated",
+        "analysis"
+      ],
+      "correct_answer": "estimated",
+      "explanation_hebrew": "“מוערך” באנגלית הוא “estimated” – מחושב בקירוב."
+    },
+    {
+      "id": "A-q11",
+      "word": "immediately",
+      "type": "english_to_hebrew",
+      "question": "What does “immediately” mean?",
+      "options": [
+        "טענו",
+        "ניתוח",
+        "מיד",
+        "סוכרת"
+      ],
+      "correct_answer": "מיד",
+      "explanation_hebrew": "“immediately” פירושו מיד – באותו רגע, ללא עיכוב."
+    },
+    {
+      "id": "A-q12",
+      "word": "diabetes",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סוכרת”?",
+      "options": [
+        "analysis",
+        "argued",
+        "diabetes",
+        "diagnosed"
+      ],
+      "correct_answer": "diabetes",
+      "explanation_hebrew": "“סוכרת” באנגלית הוא “diabetes” – מחלה הקשורה לרמות סוכר בדם."
+    },
+    {
+      "id": "A-q13",
+      "word": "analysis",
+      "type": "english_to_hebrew",
+      "question": "What does “analysis” mean?",
+      "options": [
+        "ניתוח",
+        "ממצאים",
+        "אובחן",
+        "טענו"
+      ],
+      "correct_answer": "ניתוח",
+      "explanation_hebrew": "“analysis” פירושו ניתוח – בדיקה מעמיקה של מידע."
+    },
+    {
+      "id": "A-q14",
+      "word": "argued",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “טענו”?",
+      "options": [
+        "findings",
+        "lasting",
+        "diagnosed",
+        "argued"
+      ],
+      "correct_answer": "argued",
+      "explanation_hebrew": "“טענו” באנגלית הוא “argued” – הציגו טענה או עמדה."
+    },
+    {
+      "id": "A-q15",
+      "word": "diagnosed",
+      "type": "english_to_hebrew",
+      "question": "What does “diagnosed” mean?",
+      "options": [
+        "אובחן",
+        "ממצאים",
+        "מתמשך",
+        "יתרונות"
+      ],
+      "correct_answer": "אובחן",
+      "explanation_hebrew": "“diagnosed” פירושו אובחן – זוהה כמחלה על ידי רופא."
+    },
+    {
+      "id": "A-q16",
+      "word": "findings",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ממצאים”?",
+      "options": [
+        "findings",
+        "lasting",
+        "journal",
+        "benefits"
+      ],
+      "correct_answer": "findings",
+      "explanation_hebrew": "“ממצאים” באנגלית הוא “findings” – התוצאות של מחקר."
+    },
+    {
+      "id": "A-q17",
+      "word": "lasting",
+      "type": "english_to_hebrew",
+      "question": "What does “lasting” mean?",
+      "options": [
+        "כתב עת",
+        "מתמשך",
+        "יתרונות",
+        "צריכה"
+      ],
+      "correct_answer": "מתמשך",
+      "explanation_hebrew": "“lasting” פירושו מתמשך – נמשך לאורך זמן."
+    },
+    {
+      "id": "A-q18",
+      "word": "benefits",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יתרונות”?",
+      "options": [
+        "journal",
+        "benefits",
+        "intake",
+        "merely"
+      ],
+      "correct_answer": "benefits",
+      "explanation_hebrew": "“יתרונות” באנגלית הוא “benefits” – דברים טובים שנובעים ממשהו."
+    },
+    {
+      "id": "A-q19",
+      "word": "journal",
+      "type": "english_to_hebrew",
+      "question": "What does “journal” mean?",
+      "options": [
+        "צריכה",
+        "כתב עת",
+        "יחסי",
+        "רק"
+      ],
+      "correct_answer": "כתב עת",
+      "explanation_hebrew": "“journal” פירושו כתב עת – פרסום מדעי או מקצועי."
+    },
+    {
+      "id": "A-q20",
+      "word": "intake",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “צריכה”?",
+      "options": [
+        "intake",
+        "merely",
+        "relative",
+        "applicability"
+      ],
+      "correct_answer": "intake",
+      "explanation_hebrew": "“צריכה” באנגלית הוא “intake” – הכמות שנכנסת לגוף."
+    },
+    {
+      "id": "A-q21",
+      "word": "merely",
+      "type": "english_to_hebrew",
+      "question": "What does “merely” mean?",
+      "options": [
+        "יחסי",
+        "רק",
+        "תזונה",
+        "ישימות"
+      ],
+      "correct_answer": "רק",
+      "explanation_hebrew": "“merely” פירושו רק – לא יותר מאשר."
+    },
+    {
+      "id": "A-q22",
+      "word": "relative",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יחסי”?",
+      "options": [
+        "observational",
+        "nutrition",
+        "relative",
+        "applicability"
+      ],
+      "correct_answer": "relative",
+      "explanation_hebrew": "“יחסי” באנגלית הוא “relative” – בהשוואה לדבר אחר."
+    },
+    {
+      "id": "A-q23",
+      "word": "applicability",
+      "type": "english_to_hebrew",
+      "question": "What does “applicability” mean?",
+      "options": [
+        "ישימות",
+        "תזונה",
+        "הגבלה",
+        "תצפיתי"
+      ],
+      "correct_answer": "ישימות",
+      "explanation_hebrew": "“applicability” פירושו ישימות – המידה שבה משהו רלוונטי."
+    },
+    {
+      "id": "A-q24",
+      "word": "nutrition",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תזונה”?",
+      "options": [
+        "limiting",
+        "nutrition",
+        "rationing",
+        "observational"
+      ],
+      "correct_answer": "nutrition",
+      "explanation_hebrew": "“תזונה” באנגלית הוא “nutrition” – האוכל הנחוץ לבריאות."
+    },
+    {
+      "id": "A-q25",
+      "word": "observational",
+      "type": "english_to_hebrew",
+      "question": "What does “observational” mean?",
+      "options": [
+        "מהיר",
+        "קיצוב",
+        "תצפיתי",
+        "הגבלה"
+      ],
+      "correct_answer": "תצפיתי",
+      "explanation_hebrew": "“observational” פירושו תצפיתי – מבוסס על התבוננות ולא ניסוי."
+    }
+  ]
+}
