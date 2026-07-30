@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-30",
+  "article_id": "C",
+  "article_title": "MoD data breach a 'foreseeable' failure that left Afghans in danger, inquiry finds",
+  "article_url": "https://www.bbc.co.uk/news/articles/c77gvr4172vo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What was the parliamentary inquiry's central conclusion about the MoD data breach?",
+      "options": [
+        "It was an unavoidable cyberattack carried out by the Taliban",
+        "It exposed no more information than the MoD intended",
+        "It was a foreseeable systemic failure worsened by weak procedures and secrecy",
+        "It concerned only routine immigration data with no safety consequences"
+      ],
+      "correct_answer": "It was a foreseeable systemic failure worsened by weak procedures and secrecy",
+      "explanation_hebrew": "הוועדה קבעה שלא מדובר רק בטעות אישית אלא בכשל מערכתי שניתן היה לצפותו, על רקע נהלים, הכשרה ותרבות ארגונית לקויים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did hidden information for more than 18,500 applications become exposed?",
+      "options": [
+        "A staff member shared an Excel spreadsheet believed to contain data for about 150 applicants",
+        "Applicants deliberately posted their own records on social media",
+        "Parliament published the full relocation database",
+        "A foreign government stole a paper archive from an embassy"
+      ],
+      "correct_answer": "A staff member shared an Excel spreadsheet believed to contain data for about 150 applicants",
+      "explanation_hebrew": "בגיליון שנשלח לצד שלישי מהימן נראו לכאורה כ־150 רשומות, אך הוסתר בו מידע על יותר מ־18,500 בקשות נוספות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What prevented the public from learning about the breach until July 2025?",
+      "options": [
+        "A strike by civil servants",
+        "The loss of every copy of the spreadsheet",
+        "A parliamentary election campaign",
+        "An unprecedented superinjunction"
+      ],
+      "correct_answer": "An unprecedented superinjunction",
+      "explanation_hebrew": "צו מניעה חריג במיוחד מנע פרסום של הפרשה עד יולי 2025, אף שהמידע דלף שנים קודם לכן.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why does the inquiry call the breach “systemic” rather than merely an individual mistake?",
+      "options": [
+        "Because only one spreadsheet program can ever be used securely",
+        "Because multiple organisational weaknesses contributed, including tools, procedures, training and culture",
+        "Because every government department sent the same email",
+        "Because no identifiable person handled the data"
+      ],
+      "correct_answer": "Because multiple organisational weaknesses contributed, including tools, procedures, training and culture",
+      "explanation_hebrew": "systemic פירושו מערכתי: הכשל נבע משילוב ליקויים רחב בארגון ולא מפעולה מבודדת בלבד.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "The committee said secrecy was used as a “shield against accountability”. What does this metaphor imply?",
+      "options": [
+        "Secrecy physically protected applicants from the Taliban",
+        "Classified operations made all administrative decisions automatically lawful",
+        "Claims of secrecy were used to avoid scrutiny and responsibility",
+        "Parliament demanded that all relocation work remain secret forever"
+      ],
+      "correct_answer": "Claims of secrecy were used to avoid scrutiny and responsibility",
+      "explanation_hebrew": "המטפורה מציגה את הסודיות כמגן ששימש להדיפת ביקורת ולמניעת מתן דין וחשבון, גם בנושאים מנהליים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “foreseeable” add to the inquiry's criticism?",
+      "options": [
+        "The harm could reasonably have been anticipated and prevented",
+        "The breach was discovered before any data was shared",
+        "The inquiry predicted the exact date of every later event",
+        "The consequences were visible only with hindsight and could not be reduced"
+      ],
+      "correct_answer": "The harm could reasonably have been anticipated and prevented",
+      "explanation_hebrew": "foreseeable מדגיש שהסיכון לא היה בלתי צפוי; ניתן היה לזהותו מראש ולנקוט אמצעי מניעה מתאימים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did the committee distinguish secrecy around Special Forces operations from accountability for administrative failures? Answer in 4–6 sentences.",
+      "rubric_hebrew": "יש להכיר בצורך להגן על מידע מבצעי, אך להסביר שסודיות זו אינה אמורה למנוע ביקורת על טיפול בנתונים ובבקשות הגירה.",
+      "expected_points": [
+        "Sensitive operational information may legitimately require secrecy",
+        "Spreadsheet handling and relocation casework are administrative functions",
+        "Operational secrecy should not conceal poor procedures or governance",
+        "Parliament and the public still need enough information to assign responsibility"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 120–170 word summary of the article without copying sentences.",
+      "rubric_hebrew": "יש לכלול את אופן הדליפה, היקפה, ממצאי הוועדה, צו המניעה והסיכון לאפגנים שעבדו לצד בריטניה.",
+      "expected_points": [
+        "An MoD spreadsheet exposed data linked to more than 18,500 applications",
+        "The committee described the breach as foreseeable and systemic",
+        "Weak tools, procedures, training and data-protection culture contributed",
+        "A superinjunction delayed public disclosure until July 2025",
+        "Afghans connected to UK forces faced danger, delay and uncertainty",
+        "The inquiry criticised secrecy being used to block accountability"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain in 5–7 sentences why the hidden spreadsheet rows are important evidence for the inquiry's systemic-failure argument.",
+      "rubric_hebrew": "יש לקשר בין הפער העצום בהיקף הנתונים, השימוש בכלי לא מתאים, בדיקות חסרות, הכשרה ותרבות הגנת מידע.",
+      "expected_points": [
+        "The sender apparently believed the file held about 150 visible records",
+        "Hidden data covered more than 18,500 additional applications",
+        "The scale shows the risk of using spreadsheets without robust controls",
+        "Review, training and data-handling procedures failed to catch the danger",
+        "The evidence supports an organisational rather than purely personal explanation"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Assess in 5–7 sentences the inquiry's claim that the MoD should not have been left to run relocation casework schemes.",
+      "rubric_hebrew": "יש להציג את טענת הוועדה, להשתמש בראיות על מומחיות, אבטחת מידע והטיפול בבקשות, ולציין שיקול נגדי אפשרי לפני מסקנה.",
+      "expected_points": [
+        "State the committee's concern about limited immigration-casework expertise",
+        "Use evidence from the breach or wrongly refused applications",
+        "Explain the consequences for Afghan applicants",
+        "Consider whether defence knowledge could still be relevant to some cases",
+        "Reach a reasoned conclusion about institutional responsibility"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}
