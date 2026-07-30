@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-30",
+  "article_id": "A",
+  "article_title": "Limiting sugar before age two linked to better brain health",
+  "article_url": "https://www.bbc.co.uk/news/articles/clyx85z1ld5o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main message of the article?",
+      "options": [
+        "All sugar causes dementia immediately",
+        "Lower sugar intake before age two was linked to better brain health many decades later",
+        "Wartime rationing made children's diets less healthy",
+        "Scientists have proved that dementia can be cured by changing a baby's diet"
+      ],
+      "correct_answer": "Lower sugar intake before age two was linked to better brain health many decades later",
+      "explanation_hebrew": "הכתבה מציגה קשר שנמצא במחקר בין צריכת סוכר נמוכה בתחילת החיים לבין בריאות מוח טובה יותר בהמשך, אך לא הוכחה סיבתיות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What historical event allowed researchers to compare different levels of early-life sugar intake?",
+      "options": [
+        "Britain's wartime sugar rationing and its end in 1953",
+        "The opening of the first supermarket in Britain",
+        "A ban on all sweets in British schools",
+        "The introduction of artificial sweeteners in hospitals"
+      ],
+      "correct_answer": "Britain's wartime sugar rationing and its end in 1953",
+      "explanation_hebrew": "החוקרים ניצלו את קיצוב הסוכר בבריטניה ואת סיומו בספטמבר 1953 כדי להשוות בין קבוצות שנחשפו לכמויות שונות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the study report about dementia among people exposed to less sugar early in life?",
+      "options": [
+        "Their risk was unchanged, but they slept better",
+        "They developed dementia ten years earlier",
+        "Their risk was about 20% lower and diagnosis was delayed by about 2.6 years among those affected",
+        "None of them developed dementia"
+      ],
+      "correct_answer": "Their risk was about 20% lower and diagnosis was delayed by about 2.6 years among those affected",
+      "explanation_hebrew": "המחקר דיווח על ירידה של כחמישית בסיכון ועל עיכוב ממוצע של כ־2.6 שנים בהופעת המחלה אצל מי שאובחנו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what does “rationing” mean?",
+      "options": [
+        "Testing a new medicine on volunteers",
+        "Measuring sugar in the blood",
+        "Selling food only to children",
+        "Controlling and limiting how much of a product people can receive"
+      ],
+      "correct_answer": "Controlling and limiting how much of a product people can receive",
+      "explanation_hebrew": "rationing הוא קיצוב: הגבלה וחלוקה מבוקרת של מוצר, במקרה זה סוכר בתקופת מלחמה ומחסור.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "The article says the evidence is “observational”. What does that tell the reader?",
+      "options": [
+        "The researchers directly controlled every person's diet for 70 years",
+        "The researchers found a pattern in existing data, so the study cannot by itself prove cause and effect",
+        "The results were based only on one doctor's opinion",
+        "The findings have already become official dietary rules"
+      ],
+      "correct_answer": "The researchers found a pattern in existing data, so the study cannot by itself prove cause and effect",
+      "explanation_hebrew": "מחקר תצפיתי מזהה קשר בנתונים קיימים, אך אינו מוכיח לבדו שהפחתת הסוכר היא שגרמה לתוצאה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “lasting benefits” mean in the researchers' description?",
+      "options": [
+        "Benefits available only during pregnancy",
+        "Benefits that disappear when rationing ends",
+        "Positive effects that may continue for a long time",
+        "Benefits that apply only to the researchers"
+      ],
+      "correct_answer": "Positive effects that may continue for a long time",
+      "explanation_hebrew": "lasting benefits הם יתרונות מתמשכים, כלומר השפעות חיוביות שעשויות להישאר לאורך שנים רבות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do the researchers compare people born just before and just after sugar rationing ended? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שסיום הקיצוב יצר שינוי חד יחסית בחשיפה לסוכר, ולכן אפשר להשוות קבוצות דומות מתקופות סמוכות.",
+      "expected_points": [
+        "The end of rationing created a clear change in available sugar",
+        "The groups were born in nearby periods and can be compared",
+        "The comparison helps identify an association with early-life sugar exposure"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 60–90 word summary of the article without copying sentences.",
+      "rubric_hebrew": "יש לכלול את קיצוב הסוכר, מאגר הנתונים, התוצאות לגבי דמנציה ואת ההסתייגות שהמחקר אינו מוכיח סיבתיות.",
+      "expected_points": [
+        "Researchers studied about 65,000 people using UK Biobank data",
+        "They compared exposure during and after wartime sugar rationing",
+        "Lower early-life sugar was associated with lower or later dementia risk",
+        "The evidence is observational and not definitive proof"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain in 3–4 sentences why the headline uses “linked to” rather than “caused”.",
+      "rubric_hebrew": "יש להבחין בין מתאם לסיבתיות ולציין שהחוקרים ניתחו נתונים היסטוריים ולא הקצו דיאטות בניסוי מבוקר.",
+      "expected_points": [
+        "The study found an association between early sugar exposure and later brain health",
+        "It was not a controlled experiment",
+        "Other differences between the groups may have influenced the results",
+        "The cautious wording avoids claiming proof of causation"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Choose one result from the article and one reason for caution, and explain both in 3–4 sentences.",
+      "rubric_hebrew": "יש לציין תוצאה מספרית או ממצא מוחי ממשי, ולצדה מגבלה כגון אופיו התצפיתי של המחקר או הצורך במחקרים נוספים.",
+      "expected_points": [
+        "Identify a concrete result such as the 20% lower risk or 2.6-year delay",
+        "Explain what the result means",
+        "Identify the observational design or another stated limitation",
+        "Keep the conclusion proportional to the evidence"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
