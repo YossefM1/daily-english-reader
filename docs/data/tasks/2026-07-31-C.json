@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-31",
+  "article_id": "C",
+  "article_title": "India wants to join the strawberry superpowers",
+  "article_url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is India's central ambition in the article?",
+      "options": [
+        "To stop growing strawberries and import all fruit",
+        "To replace strawberries with coconuts",
+        "To grow strawberries only for scientific experiments",
+        "To develop successful domestic strawberry varieties and reduce reliance on imported plants"
+      ],
+      "correct_answer": "To develop successful domestic strawberry varieties and reduce reliance on imported plants",
+      "explanation_hebrew": "הכתבה עוסקת בניסיון של הודו לפתח זנים מקומיים המתאימים לתנאיה וכך להפחית את התלות בצמחי תות מיובאים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happens to imported strawberry plants before nurseries multiply them in India?",
+      "options": [
+        "They pass through a government quarantine",
+        "They are planted immediately in city parks",
+        "They are converted into concentrated juice",
+        "They are sent back to breeders in Europe"
+      ],
+      "correct_answer": "They pass through a government quarantine",
+      "explanation_hebrew": "צמחים מיובאים עוברים הסגר ממשלתי לפני שהם מגיעים למשתלות שמרבות אותם.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why are many Indian strawberries traditionally grown in mountainous or high-altitude areas?",
+      "options": [
+        "Strawberries need salt from mountain rocks",
+        "Cooler conditions at altitude are more suitable for the crop",
+        "Government quarantine is available only on mountain tops",
+        "Imported plants cannot be transported on flat roads"
+      ],
+      "correct_answer": "Cooler conditions at altitude are more suitable for the crop",
+      "explanation_hebrew": "תותים זקוקים בדרך כלל לתנאים קרירים, ולכן אזורים הרריים ובעלי גובה מספקים אקלים מתאים יותר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “cultivar” in the context of strawberry research?",
+      "options": [
+        "A machine that predicts rainfall",
+        "A fee charged on imported fruit",
+        "A cultivated plant variety developed for particular traits",
+        "A container used to export berries"
+      ],
+      "correct_answer": "A cultivated plant variety developed for particular traits",
+      "explanation_hebrew": "cultivar הוא זן צמח מטופח שפותח בידי אדם כדי לקבל תכונות רצויות, למשל עמידות לחום.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "A farmer describes strawberry growing as a “gamble”. What does this suggest?",
+      "options": [
+        "The crop is legally treated as a casino game",
+        "The outcome is uncertain and the farmer risks losing a large investment",
+        "Every farmer receives a guaranteed profit",
+        "Strawberries can grow without labour or planning"
+      ],
+      "correct_answer": "The outcome is uncertain and the farmer risks losing a large investment",
+      "explanation_hebrew": "gamble בהקשר זה הוא הימור עסקי: נדרשת הוצאה גדולה, אך מזג האוויר או כשל ביבול עלולים לגרום להפסד.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is the “coco-peat substrate” used by a precision strawberry farm?",
+      "options": [
+        "A concentrated strawberry sweetener",
+        "A patented pesticide imported from Spain",
+        "A weather satellite for locating rain",
+        "A coconut-based growing medium used instead of ordinary soil"
+      ],
+      "correct_answer": "A coconut-based growing medium used instead of ordinary soil",
+      "explanation_hebrew": "substrate הוא מצע גידול; במקרה זה מדובר במצע המבוסס על סיבי קוקוס שבו גדלים שורשי הצמח במקום באדמה רגילה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why would a heat-tolerant indigenous strawberry variety be valuable to Indian farmers? Answer in 3–4 sentences.",
+      "rubric_hebrew": "יש לקשר בין האקלים ההודי, הסיכון ליבול, התלות בזנים מיובאים והיתרון של זן מקומי המותאם לחום.",
+      "expected_points": [
+        "Much of India is warmer than traditional strawberry-growing regions",
+        "Heat tolerance could make yields more reliable",
+        "A domestic variety could reduce reliance on imported plants",
+        "Better adaptation could lower farmers' financial risk"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 100–130 word summary connecting imported plants, farming risks, scientific breeding, and India's goal.",
+      "rubric_hebrew": "יש להציג את שרשרת התלות ביבוא, ההסגר והריבוי, סיכוני האקלים וההשקעה, ואת הניסיון המדעי לפתח זן הודי מותאם.",
+      "expected_points": [
+        "Indian growers currently depend heavily on imported strawberry varieties",
+        "Imported plants undergo quarantine and are multiplied in nurseries",
+        "Climate and high annual costs make the crop risky",
+        "Researchers and growers are pursuing domestic varieties suited to Indian conditions"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain in 4–5 sentences how “outlay”, “yield”, and “profitable” describe the economics of strawberry farming in the article.",
+      "rubric_hebrew": "יש להגדיר את שלושת המונחים בהקשר ולתאר את הקשר בין הוצאה ראשונית, כמות היבול והאפשרות לרווח או הפסד.",
+      "expected_points": [
+        "Outlay refers to the money invested in plants and production",
+        "Yield refers to the quantity of fruit or plants produced",
+        "A strong yield can make the crop profitable",
+        "Weather or crop failure can turn the initial outlay into a loss"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Compare imported and indigenous strawberry varieties in a short analytical paragraph, using at least three article-specific details.",
+      "rubric_hebrew": "יש להשוות מבחינת מקור הזנים, הסגר וריבוי, התאמה לאקלים, עלות או סיכון, ומטרת המחקר ההודי.",
+      "expected_points": [
+        "Imported varieties come from established foreign breeders",
+        "They require quarantine and nursery multiplication",
+        "An indigenous cultivar could be bred for heat tolerance and local conditions",
+        "Domestic varieties could improve independence and reduce production risk"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}
