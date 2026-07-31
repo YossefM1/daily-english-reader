@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-31",
+  "article_id": "A",
+  "article_title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+  "article_url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main situation described in the article?",
+      "options": [
+        "Ceuta has closed its ports because of a storm",
+        "Hundreds of migrants have reached Ceuta from Morocco, putting pressure on local resources",
+        "Spain has transferred Ceuta to Morocco",
+        "Tourists are using a new ferry route across the Strait of Gibraltar"
+      ],
+      "correct_answer": "Hundreds of migrants have reached Ceuta from Morocco, putting pressure on local resources",
+      "explanation_hebrew": "הכתבה מתארת כניסה רחבת היקף של מהגרים ממרוקו לסאוטה, בעיקר דרך הים, ואת העומס שנוצר על הרשויות והמשאבים המקומיים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did some migrants enter Ceuta on Thursday?",
+      "options": [
+        "They arrived only on scheduled passenger ferries",
+        "They crossed the Sahara in buses",
+        "They flew into Ceuta airport",
+        "They swam with inflatable rings or passed through a gate in the border fence"
+      ],
+      "correct_answer": "They swam with inflatable rings or passed through a gate in the border fence",
+      "explanation_hebrew": "בתיעוד נראו אנשים שוחים בעזרת גלגלים ואמצעי ציפה, ואחרים רצים דרך שער בגדר הגבול.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Ceuta's leader Juan Jesús Vivas ask Spain's government to do?",
+      "options": [
+        "Intervene because the influx was overwhelming local resources",
+        "Build a tourist bridge to mainland Spain",
+        "End all cooperation with Morocco",
+        "Move Ceuta's reception centres to Madrid"
+      ],
+      "correct_answer": "Intervene because the influx was overwhelming local resources",
+      "explanation_hebrew": "ואיוואס אמר שהנהירה מכבידה על המשאבים וקרא לממשלת ספרד להתערב.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the headline, what does “enclave” mean?",
+      "options": [
+        "A temporary camp at sea",
+        "A narrow passenger boat",
+        "A territory belonging to one country but surrounded by another country's land",
+        "A court decision about migration"
+      ],
+      "correct_answer": "A territory belonging to one country but surrounded by another country's land",
+      "explanation_hebrew": "enclave פירושה מובלעת: שטח השייך למדינה אחת אך מוקף בשטח של מדינה אחרת. סאוטה שייכת לספרד ונמצאת בצפון אפריקה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "The article says the “influx” was overwhelming resources. What does “influx” mean here?",
+      "options": [
+        "A legal argument between two judges",
+        "The arrival of many people within a short period",
+        "A decrease in the number of border crossings",
+        "A regular delivery of equipment"
+      ],
+      "correct_answer": "The arrival of many people within a short period",
+      "explanation_hebrew": "influx היא נהירה או כניסה של אנשים רבים בפרק זמן קצר.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean that Vivas “urged” the government to intervene?",
+      "options": [
+        "He strongly asked the government to act",
+        "He prevented the government from visiting",
+        "He quietly predicted that nothing would change",
+        "He ordered Morocco to change its coastline"
+      ],
+      "correct_answer": "He strongly asked the government to act",
+      "explanation_hebrew": "to urge פירושו לקרוא בתוקף או לדחוק במישהו לפעול; intervene פירושו להתערב במצב כדי להשפיע עליו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is Ceuta a focal point for migrants trying to reach Europe? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש לקשר בין מיקומה של סאוטה בצפון אפריקה, שייכותה לספרד וקרבתה למרוקו לבין האפשרות להגיע לשטח ספרדי ואירופי.",
+      "expected_points": [
+        "Ceuta is Spanish territory located on Morocco's northern coast",
+        "It is geographically close enough for some people to attempt a sea or border crossing",
+        "Reaching Ceuta means reaching Spanish and European territory"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 60–90 word summary explaining what happened, how people crossed, and how the authorities responded.",
+      "rubric_hebrew": "יש לכלול את הנהירה ממרוקו לסאוטה, דרכי החצייה, העומס על המשאבים והקריאה להתערבות ממשלת ספרד.",
+      "expected_points": [
+        "Hundreds of migrants entered Ceuta from Morocco",
+        "Some swam using flotation devices while others crossed through the border fence",
+        "The arrivals placed heavy pressure on local resources",
+        "Ceuta's leader called for Spanish government intervention"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain in 3–4 sentences how the words “influx”, “overwhelming”, and “intervene” build the article's sense of urgency.",
+      "rubric_hebrew": "יש להסביר כל מילה בהקשר ולחבר ביניהן: כניסה מהירה של רבים, קושי של המערכת להתמודד, וצורך בפעולה של גורם ממשלתי.",
+      "expected_points": [
+        "Influx describes many arrivals in a short time",
+        "Overwhelming shows that local capacity is insufficient",
+        "Intervene signals that outside government action is being requested",
+        "The three words together present an urgent situation"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using facts from the article, write a short paragraph that distinguishes Ceuta's location from its political status.",
+      "rubric_hebrew": "יש לציין שסאוטה נמצאת בחוף הצפוני של אפריקה ליד מרוקו, אך היא שטח ספרדי ומופרדת מספרד היבשתית במצר גיברלטר.",
+      "expected_points": [
+        "Ceuta is geographically in North Africa on Morocco's coast",
+        "It is politically part of Spain",
+        "The Strait of Gibraltar separates it from mainland Spain",
+        "This combination explains why it is described as a Spanish enclave"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
