@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-31",
+  "article_id": "B",
+  "article_title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
+  "article_url": "https://www.bbc.co.uk/news/articles/c204nw64xwno",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What tension is at the centre of the article?",
+      "options": [
+        "Apple has stopped making computers because demand disappeared",
+        "Apple plans to replace all iPhones with iPads",
+        "Apple reported strong demand but warned that component shortages could limit future sales",
+        "Apple's services business has been sold to another company"
+      ],
+      "correct_answer": "Apple reported strong demand but warned that component shortages could limit future sales",
+      "explanation_hebrew": "הכתבה מדגישה ניגוד בין ביקוש ותוצאות חזקות לבין החשש שמחסור ברכיבים יגביל את היכולת לספק מוצרים בהמשך.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which products did Apple say could face greater supply constraints?",
+      "options": [
+        "Only Apple Watch straps",
+        "Mac, iPhone and iPad",
+        "Only older iPod models",
+        "Apple TV films and music subscriptions"
+      ],
+      "correct_answer": "Mac, iPhone and iPad",
+      "explanation_hebrew": "האזהרה בכותרת ובכתבה מתייחסת במפורש למחשבי Mac, למכשירי iPhone ולמכשירי iPad.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What wider technology trend is contributing to pressure on memory and storage chip supplies?",
+      "options": [
+        "The closure of all online shops",
+        "A global fall in the use of smartphones",
+        "New rules banning memory chips in computers",
+        "Large AI data-centre build-outs consuming more chips"
+      ],
+      "correct_answer": "Large AI data-centre build-outs consuming more chips",
+      "explanation_hebrew": "הרחבת מרכזי הנתונים לצורכי בינה מלאכותית מגדילה מאוד את הביקוש לשבבי זיכרון ואחסון ויוצרת לחץ על ההיצע.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “supply constraints” mean in this article?",
+      "options": [
+        "Limits on Apple's ability to obtain components and make enough products",
+        "A marketing plan to reduce customer interest",
+        "A promise to lower every product price",
+        "A legal ban on selling devices abroad"
+      ],
+      "correct_answer": "Limits on Apple's ability to obtain components and make enough products",
+      "explanation_hebrew": "supply constraints הן מגבלות היצע: קושי להשיג מספיק רכיבים או לייצר מספיק מוצרים ביחס לביקוש.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "If Apple “stockpiles inventory”, what is the company doing?",
+      "options": [
+        "Destroying devices that have not been sold",
+        "Borrowing phones from customers",
+        "Building up a reserve of products or components for later use",
+        "Removing all goods from its warehouses"
+      ],
+      "correct_answer": "Building up a reserve of products or components for later use",
+      "explanation_hebrew": "to stockpile inventory פירושו לצבור מלאי מראש כדי שיהיה אפשר להתמודד עם מחסור עתידי.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "The article discusses Apple's “outlook”. What does “outlook” mean in a business report?",
+      "options": [
+        "The physical appearance of a new device",
+        "The company's expectations for future performance",
+        "A list of former employees",
+        "A review of its earliest products"
+      ],
+      "correct_answer": "The company's expectations for future performance",
+      "explanation_hebrew": "outlook בהקשר עסקי הוא תחזית או ציפיות החברה לגבי מכירות, הכנסות ותנאים עסקיים בתקופה הקרובה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can strong customer demand create a problem when component supplies are tight? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שהביקוש אינו הופך אוטומטית למכירות אם החברה אינה יכולה לייצר ולספק מספיק יחידות בגלל מחסור ברכיבים.",
+      "expected_points": [
+        "Strong demand means more customers want products",
+        "Limited components restrict how many devices Apple can produce",
+        "Unmet demand can reduce or delay sales despite customer interest"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–110 word summary of Apple's results, its warning, and the market reaction.",
+      "rubric_hebrew": "יש לכלול את הביקוש החזק, המחסור הצפוי בשבבי זיכרון ואחסון, ההשלכה על מוצרי החברה והתגובה השלילית של המשקיעים.",
+      "expected_points": [
+        "Apple reported strong demand or recent business performance",
+        "The company warned that supply constraints may grow",
+        "Memory and storage chips are under pressure partly because of AI data-centre demand",
+        "Investors focused on the weaker outlook and Apple shares fell"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain in 3–4 sentences why Apple's shares could fall even after strong recent results.",
+      "rubric_hebrew": "יש להבחין בין תוצאות העבר לבין ציפיות לעתיד ולהסביר שמשקיעים מתמחרים את ההשפעה האפשרית של מגבלות היצע ועלויות רכיבים.",
+      "expected_points": [
+        "Recent results describe past performance",
+        "Share prices also reflect expectations about future sales and profits",
+        "Supply constraints may prevent Apple from meeting demand",
+        "Higher component costs or weaker guidance can worry investors"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Use the terms “constraint”, “inventory”, and “outlook” in a short paragraph explaining Apple's response to the chip shortage.",
+      "rubric_hebrew": "יש להשתמש בשלושת המונחים במשמעות העסקית הנכונה ולחבר ביניהם באופן שמתאים למצב המתואר בכתבה.",
+      "expected_points": [
+        "Constraint is used for a limit on component supply",
+        "Inventory is used for products or components held in reserve",
+        "Outlook is used for future business expectations",
+        "The paragraph explains how inventory may soften but not eliminate the constraint"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
