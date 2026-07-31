@@ -1,7 +1,7 @@
 {
   "version": 2,
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T07:21:45.944102+00:00",
+  "generated_at": "2026-07-31T08:24:54.307101+00:00",
   "track": "Essential English 3000",
   "lesson_size": 10,
   "method": {
@@ -22,10 +22,10 @@
   },
   "profile_summary": {
     "bank_size": 113,
-    "known_count": 93,
+    "known_count": 94,
     "learning_count": 0,
-    "remaining_count": 20,
-    "profile_updated_at": "2026-07-23T22:36:28.528995+00:00"
+    "remaining_count": 19,
+    "profile_updated_at": "2026-07-31T08:24:54.246463+00:00"
   },
   "words": [
     {
@@ -148,23 +148,6 @@
       }
     },
     {
-      "id": "core-0103",
-      "word": "limit",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "גבול / מגבלה",
-      "pronunciation_hebrew": "לִימִיט",
-      "explanation_hebrew": "הנקודה שמעבר לה אי אפשר או אסור להתקדם.",
-      "example": "There is a limit to the available memory.",
-      "reason": "new",
-      "position": 8,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
       "id": "core-0109",
       "word": "reliable",
       "part_of_speech": "adjective",
@@ -174,7 +157,7 @@
       "explanation_hebrew": "ניתן לסמוך עליו שיפעל או יספק מידע נכון.",
       "example": "We need a reliable data source.",
       "reason": "new",
-      "position": 9,
+      "position": 8,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -190,6 +173,23 @@
       "pronunciation_hebrew": "דִימַנְד",
       "explanation_hebrew": "צורך חזק במוצר, שירות או פעולה.",
       "example": "Demand for renewable energy is increasing.",
+      "reason": "new",
+      "position": 9,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0044",
+      "word": "relate",
+      "part_of_speech": "verb",
+      "level": "B1",
+      "hebrew": "לקשר / להתייחס",
+      "pronunciation_hebrew": "רִילֵייט",
+      "explanation_hebrew": "להראות קשר בין דברים או להתייחס לנושא.",
+      "example": "The questions relate to the article.",
       "reason": "new",
       "position": 10,
       "learning_state": {

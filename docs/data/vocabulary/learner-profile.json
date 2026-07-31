@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updated_at": "2026-07-23T22:36:28.528995+00:00",
-  "feedback_sessions": 12,
+  "updated_at": "2026-07-31T08:24:54.246463+00:00",
+  "feedback_sessions": 13,
   "processed_issue_numbers": [
     12,
     13,
@@ -14,7 +14,8 @@
     21,
     23,
     24,
-    25
+    25,
+    27
   ],
   "words": {
     "core-0111": {
@@ -745,6 +746,18 @@
       "status": "known",
       "mastery": 5,
       "last_seen": "2026-07-23",
+      "next_review": null,
+      "times_seen": 1,
+      "successful_sessions": 2,
+      "last_score": 4,
+      "best_score": 4,
+      "last_confidence": "easy",
+      "known_source": "manual_like"
+    },
+    "core-0103": {
+      "status": "known",
+      "mastery": 5,
+      "last_seen": "2026-07-31",
       "next_review": null,
       "times_seen": 1,
       "successful_sessions": 2,
