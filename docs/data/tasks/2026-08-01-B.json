@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-01",
+  "article_id": "B",
+  "article_title": "Body of US climber Mallory Geis found after Broad Peak avalanche",
+  "article_url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main development reported in the article?",
+      "options": [
+        "Broad Peak was closed permanently to climbers",
+        "US climber Mallory Geis’s body was found as rescuers searched after an avalanche",
+        "All members of the expedition were rescued alive",
+        "A new climbing record was set on Broad Peak"
+      ],
+      "correct_answer": "US climber Mallory Geis’s body was found as rescuers searched after an avalanche",
+      "explanation_hebrew": "ההתפתחות המרכזית היא איתור גופתה של המטפסת האמריקאית מלורי גייס במהלך החיפושים אחרי המפולת.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the avalanche strike the expedition?",
+      "options": [
+        "On Broad Peak in Pakistan’s Karakoram range",
+        "At Everest base camp in Nepal",
+        "On a ski slope in the United States",
+        "Near the summit of Mont Blanc in France"
+      ],
+      "correct_answer": "On Broad Peak in Pakistan’s Karakoram range",
+      "explanation_hebrew": "המפולת אירעה ב־Broad Peak שברכס קרקוראם בפקיסטן.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What complicated the rescue operation?",
+      "options": [
+        "The expedition refused to use trackers",
+        "The mountain had no established climbing route",
+        "Harsh weather and limited helicopter access hampered searches",
+        "Officials stopped all aerial and ground searches immediately"
+      ],
+      "correct_answer": "Harsh weather and limited helicopter access hampered searches",
+      "explanation_hebrew": "מזג האוויר הקשה והזמינות המוגבלת של מסוקים בפקיסטן עיכבו את פעולות החיפוש והחילוץ.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “remains” mean in the report?",
+      "options": [
+        "Equipment left at base camp",
+        "The body of a person who has died",
+        "Food supplies for the expedition",
+        "Tracks visible in the snow"
+      ],
+      "correct_answer": "The body of a person who has died",
+      "explanation_hebrew": "בכתבת אסון, remains משמשת כמילה מכבדת לגופתו או שרידיו של אדם שמת.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "If weather is “hampering” rescuers, what is it doing?",
+      "options": [
+        "Making their work more difficult or slowing it down",
+        "Guaranteeing them a safe route",
+        "Identifying the missing climbers",
+        "Allowing helicopters to fly continuously"
+      ],
+      "correct_answer": "Making their work more difficult or slowing it down",
+      "explanation_hebrew": "hampering פירושו מעכב או מקשה על התקדמות הפעולה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "The article calls Nirmal Purja a “renowned” mountaineer. What does “renowned” mean?",
+      "options": [
+        "Recently certified but unknown",
+        "Injured before the expedition began",
+        "Famous and highly regarded",
+        "Unwilling to climb without a guide"
+      ],
+      "correct_answer": "Famous and highly regarded",
+      "explanation_hebrew": "renowned מתאר אדם מפורסם ומוערך מאוד בתחום שלו.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why were tracker data and aerial searches important in this rescue? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שהאזור גבוה, מסוכן וקשה לגישה, ולכן נתוני GPS וצילומי אוויר יכולים לצמצם את אזור החיפוש ולספק רמזים על מיקום ותנועה.",
+      "expected_points": [
+        "The avalanche occurred high on a remote mountain",
+        "Trackers could indicate sudden altitude changes or movement",
+        "Drones or helicopters could survey terrain too dangerous for immediate ground access"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–110 word summary covering the avalanche, Mallory Geis, the continuing search, and the rescue difficulties.",
+      "rubric_hebrew": "יש לכלול את האירוע ב־Broad Peak, איתור גופתה של גייס, נעדרים נוספים והקשיים שנגרמו ממזג האוויר והגישה המוגבלת.",
+      "expected_points": [
+        "An avalanche struck an international climbing expedition on Broad Peak",
+        "The remains of US climber Mallory Geis were found",
+        "Other expedition members were still being located or identified",
+        "Weather, altitude and limited aerial access complicated the operation"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain the difference in meaning between “located”, “identified”, and “recovered” in the rescue report.",
+      "rubric_hebrew": "יש להבחין בין מציאת המיקום, קביעת הזהות, והבאת האדם או הגופה מן ההר למקום בטוח.",
+      "expected_points": [
+        "Located means found at a particular place",
+        "Identified means officials established who the person was",
+        "Recovered means rescuers physically brought the person or remains from the site",
+        "The stages may occur at different times during a difficult operation"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining why officials had to clarify early casualty figures.",
+      "rubric_hebrew": "יש לציין תנאי תקשורת וחילוץ קשים, דיווחים ראשוניים משתנים, והצורך להמתין לאימות רשמי לפני קביעה סופית.",
+      "expected_points": [
+        "Initial information from a remote disaster site can be incomplete",
+        "Communication and visual confirmation were difficult",
+        "Officials corrected or clarified figures after receiving better information",
+        "Reliable reporting requires distinguishing confirmed facts from preliminary reports"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
