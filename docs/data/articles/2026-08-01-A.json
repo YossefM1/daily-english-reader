@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-01",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "AI firms must answer for rogue bots, says Hugging Face boss",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo",
+  "published_at": "2026-07-31T18:10:28+00:00",
+  "age_hours_at_selection": 8.06,
+  "word_count": 543,
+  "generated_at": "2026-08-01T02:14:15.224311+00:00",
+  "difficulty_reason": "Short, direct news report with a clear cause-and-effect story and mostly B1/B2 vocabulary; low background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "rogue",
+      "lemma": "rogue",
+      "level": "B2",
+      "hebrew": "סורר, פורק עול",
+      "explanation_hebrew": "מתנהג באופן פרוע ולא צפוי, מחוץ לשליטה",
+      "pronunciation_hebrew": "רוֹאג",
+      "example": "A rogue employee leaked the files."
+    },
+    {
+      "word": "accountable",
+      "lemma": "accountable",
+      "level": "B2",
+      "hebrew": "אחראי, נושא באחריות",
+      "explanation_hebrew": "מי שצריך לתת דין וחשבון על מעשיו",
+      "pronunciation_hebrew": "אָקַאוּנְטָבֶּל",
+      "example": "Managers are accountable for their teams."
+    },
+    {
+      "word": "breached",
+      "lemma": "breach",
+      "level": "B2",
+      "hebrew": "נפרץ, הובקע",
+      "explanation_hebrew": "כאשר מערכת אבטחה נשברה או חדרו אליה",
+      "pronunciation_hebrew": "בְּרִיצְ'ט",
+      "example": "The database was breached by hackers."
+    },
+    {
+      "word": "autonomously",
+      "lemma": "autonomously",
+      "level": "C1",
+      "hebrew": "באופן עצמאי, ללא שליטה חיצונית",
+      "explanation_hebrew": "פועל בכוחות עצמו בלי הכוונה של אדם",
+      "pronunciation_hebrew": "אוֹטוֹנוֹמְלִי",
+      "example": "The robot operates autonomously."
+    },
+    {
+      "word": "unprecedented",
+      "lemma": "unprecedented",
+      "level": "C1",
+      "hebrew": "חסר תקדים",
+      "explanation_hebrew": "משהו שלא קרה מעולם קודם לכן",
+      "pronunciation_hebrew": "אַנְפְּרֶסֶדֶנְטֶד",
+      "example": "The storm caused unprecedented damage."
+    },
+    {
+      "word": "incident",
+      "lemma": "incident",
+      "level": "B1",
+      "hebrew": "תקרית, אירוע",
+      "explanation_hebrew": "מקרה מסוים, לרוב לא נעים",
+      "pronunciation_hebrew": "אִינְסִידֶנְט",
+      "example": "Police reported the incident."
+    },
+    {
+      "word": "ensure",
+      "lemma": "ensure",
+      "level": "B2",
+      "hebrew": "להבטיח, לוודא",
+      "explanation_hebrew": "לדאוג שדבר מסוים אכן יקרה",
+      "pronunciation_hebrew": "אֶנְשוּר",
+      "example": "Please ensure the door is locked."
+    },
+    {
+      "word": "remarks",
+      "lemma": "remark",
+      "level": "B2",
+      "hebrew": "הערות, אמירות",
+      "explanation_hebrew": "דברים שאדם אומר, הצהרות",
+      "pronunciation_hebrew": "רִימַארְקְס",
+      "example": "She made a few remarks about the plan."
+    },
+    {
+      "word": "admitted",
+      "lemma": "admit",
+      "level": "B1",
+      "hebrew": "הודה",
+      "explanation_hebrew": "הכיר בכך שדבר מה נכון או קרה",
+      "pronunciation_hebrew": "אָדְמִיטֶד",
+      "example": "He admitted his mistake."
+    },
+    {
+      "word": "circumstances",
+      "lemma": "circumstance",
+      "level": "B2",
+      "hebrew": "נסיבות",
+      "explanation_hebrew": "התנאים או המצב שבו קרה משהו",
+      "pronunciation_hebrew": "סֶרְקַמְסְטַנְסֶס",
+      "example": "Under these circumstances, we must wait."
+    },
+    {
+      "word": "revealed",
+      "lemma": "reveal",
+      "level": "B2",
+      "hebrew": "חשף, גילה",
+      "explanation_hebrew": "הראה או פרסם מידע שהיה נסתר",
+      "pronunciation_hebrew": "רִיבִילְד",
+      "example": "The report revealed new facts."
+    },
+    {
+      "word": "realised",
+      "lemma": "realise",
+      "level": "B1",
+      "hebrew": "הבין, נוכח לדעת",
+      "explanation_hebrew": "פתאום הבין או קלט משהו",
+      "pronunciation_hebrew": "רִיאָלַייזְד",
+      "example": "She realised she was wrong."
+    },
+    {
+      "word": "containment",
+      "lemma": "containment",
+      "level": "C1",
+      "hebrew": "בלימה, הכלה",
+      "explanation_hebrew": "שמירה של דבר בתוך גבול כדי שלא יתפשט",
+      "pronunciation_hebrew": "קוֹנְטֵיינְמֶנְט",
+      "example": "The containment of the fire took hours."
+    },
+    {
+      "word": "roamed",
+      "lemma": "roam",
+      "level": "B2",
+      "hebrew": "שוטט, נדד",
+      "explanation_hebrew": "הסתובב ממקום למקום בלי מטרה קבועה",
+      "pronunciation_hebrew": "רוֹאמְד",
+      "example": "The dog roamed the streets."
+    },
+    {
+      "word": "seemingly",
+      "lemma": "seemingly",
+      "level": "C1",
+      "hebrew": "לכאורה, כפי שנראה",
+      "explanation_hebrew": "על פי מה שנראה כלפי חוץ",
+      "pronunciation_hebrew": "סִימִינְגְלִי",
+      "example": "A seemingly simple task."
+    },
+    {
+      "word": "secure",
+      "lemma": "secure",
+      "level": "B1",
+      "hebrew": "מאובטח, בטוח",
+      "explanation_hebrew": "מוגן היטב מפני סכנה או פריצה",
+      "pronunciation_hebrew": "סִיקְיוּר",
+      "example": "Keep your password secure."
+    },
+    {
+      "word": "sparked",
+      "lemma": "spark",
+      "level": "B2",
+      "hebrew": "עורר, הצית (ויכוח)",
+      "explanation_hebrew": "גרם למשהו להתחיל, בעיקר תגובה או ויכוח",
+      "pronunciation_hebrew": "סְפַּארְקְט",
+      "example": "The news sparked outrage."
+    },
+    {
+      "word": "fierce",
+      "lemma": "fierce",
+      "level": "B2",
+      "hebrew": "עז, חריף, נמרץ",
+      "explanation_hebrew": "חזק ואינטנסיבי מאוד",
+      "pronunciation_hebrew": "פִירְס",
+      "example": "There was fierce competition."
+    },
+    {
+      "word": "liable",
+      "lemma": "liable",
+      "level": "C1",
+      "hebrew": "אחראי מבחינה משפטית",
+      "explanation_hebrew": "מחויב על פי חוק לשאת בתוצאות",
+      "pronunciation_hebrew": "לַייאָבֶּל",
+      "example": "The driver was liable for the damage."
+    },
+    {
+      "word": "ambiguous",
+      "lemma": "ambiguous",
+      "level": "C1",
+      "hebrew": "דו-משמעי, עמום",
+      "explanation_hebrew": "לא ברור, ניתן לפרש ביותר מדרך אחת",
+      "pronunciation_hebrew": "אַמְבִּיגְיוּאָס",
+      "example": "His answer was ambiguous."
+    },
+    {
+      "word": "safeguards",
+      "lemma": "safeguard",
+      "level": "B2",
+      "hebrew": "אמצעי הגנה, בטחונות",
+      "explanation_hebrew": "צעדים שנועדו למנוע נזק או סכנה",
+      "pronunciation_hebrew": "סֵייפְגַארְדְז",
+      "example": "New safeguards protect users."
+    },
+    {
+      "word": "oversight",
+      "lemma": "oversight",
+      "level": "C1",
+      "hebrew": "פיקוח, בקרה",
+      "explanation_hebrew": "מעקב ובקרה על תהליך או מערכת",
+      "pronunciation_hebrew": "אוֹבֶרְסַייט",
+      "example": "The agency provides oversight."
+    },
+    {
+      "word": "concerns",
+      "lemma": "concern",
+      "level": "B1",
+      "hebrew": "חששות, דאגות",
+      "explanation_hebrew": "תחושות של דאגה מפני בעיה אפשרית",
+      "pronunciation_hebrew": "קוֹנְסֶרְנְז",
+      "example": "They raised safety concerns."
+    },
+    {
+      "word": "measures",
+      "lemma": "measure",
+      "level": "B1",
+      "hebrew": "צעדים, אמצעים",
+      "explanation_hebrew": "פעולות שנוקטים כדי להשיג מטרה",
+      "pronunciation_hebrew": "מֶזֶ'רְז",
+      "example": "The government took new measures."
+    },
+    {
+      "word": "speculative",
+      "lemma": "speculative",
+      "level": "C1",
+      "hebrew": "משוער, ספקולטיבי",
+      "explanation_hebrew": "מבוסס על השערה ולא על עובדות ודאיות",
+      "pronunciation_hebrew": "סְפֶּקְיוּלָטִיב",
+      "example": "The report was purely speculative."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "rogue",
+      "type": "english_to_hebrew",
+      "question": "What does “rogue” mean?",
+      "options": [
+        "אחראי, נושא באחריות",
+        "באופן עצמאי, ללא שליטה חיצונית",
+        "נפרץ, הובקע",
+        "סורר, פורק עול"
+      ],
+      "correct_answer": "סורר, פורק עול",
+      "explanation_hebrew": "rogue פירושה סורר, פורק עול."
+    },
+    {
+      "id": "A-q2",
+      "word": "accountable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “אחראי, נושא באחריות”?",
+      "options": [
+        "unprecedented",
+        "breached",
+        "autonomously",
+        "accountable"
+      ],
+      "correct_answer": "accountable",
+      "explanation_hebrew": "המילה accountable פירושה אחראי, נושא באחריות."
+    },
+    {
+      "id": "A-q3",
+      "word": "breached",
+      "type": "english_to_hebrew",
+      "question": "What does “breached” mean?",
+      "options": [
+        "תקרית, אירוע",
+        "באופן עצמאי, ללא שליטה חיצונית",
+        "חסר תקדים",
+        "נפרץ, הובקע"
+      ],
+      "correct_answer": "נפרץ, הובקע",
+      "explanation_hebrew": "breached פירושה נפרץ, הובקע."
+    },
+    {
+      "id": "A-q4",
+      "word": "autonomously",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “באופן עצמאי, ללא שליטה חיצונית”?",
+      "options": [
+        "unprecedented",
+        "incident",
+        "autonomously",
+        "ensure"
+      ],
+      "correct_answer": "autonomously",
+      "explanation_hebrew": "המילה autonomously פירושה באופן עצמאי, ללא שליטה חיצונית."
+    },
+    {
+      "id": "A-q5",
+      "word": "unprecedented",
+      "type": "english_to_hebrew",
+      "question": "What does “unprecedented” mean?",
+      "options": [
+        "הערות, אמירות",
+        "להבטיח, לוודא",
+        "חסר תקדים",
+        "תקרית, אירוע"
+      ],
+      "correct_answer": "חסר תקדים",
+      "explanation_hebrew": "unprecedented פירושה חסר תקדים."
+    },
+    {
+      "id": "A-q6",
+      "word": "incident",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “תקרית, אירוע”?",
+      "options": [
+        "incident",
+        "remarks",
+        "ensure",
+        "admitted"
+      ],
+      "correct_answer": "incident",
+      "explanation_hebrew": "המילה incident פירושה תקרית, אירוע."
+    },
+    {
+      "id": "A-q7",
+      "word": "ensure",
+      "type": "english_to_hebrew",
+      "question": "What does “ensure” mean?",
+      "options": [
+        "להבטיח, לוודא",
+        "הערות, אמירות",
+        "הודה",
+        "נסיבות"
+      ],
+      "correct_answer": "להבטיח, לוודא",
+      "explanation_hebrew": "ensure פירושה להבטיח, לוודא."
+    },
+    {
+      "id": "A-q8",
+      "word": "remarks",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “הערות, אמירות”?",
+      "options": [
+        "circumstances",
+        "revealed",
+        "admitted",
+        "remarks"
+      ],
+      "correct_answer": "remarks",
+      "explanation_hebrew": "המילה remarks פירושה הערות, אמירות."
+    },
+    {
+      "id": "A-q9",
+      "word": "admitted",
+      "type": "english_to_hebrew",
+      "question": "What does “admitted” mean?",
+      "options": [
+        "חשף, גילה",
+        "הודה",
+        "הבין, נוכח לדעת",
+        "נסיבות"
+      ],
+      "correct_answer": "הודה",
+      "explanation_hebrew": "admitted פירושה הודה."
+    },
+    {
+      "id": "A-q10",
+      "word": "circumstances",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “נסיבות”?",
+      "options": [
+        "circumstances",
+        "containment",
+        "revealed",
+        "realised"
+      ],
+      "correct_answer": "circumstances",
+      "explanation_hebrew": "המילה circumstances פירושה נסיבות."
+    },
+    {
+      "id": "A-q11",
+      "word": "revealed",
+      "type": "english_to_hebrew",
+      "question": "What does “revealed” mean?",
+      "options": [
+        "בלימה, הכלה",
+        "הבין, נוכח לדעת",
+        "שוטט, נדד",
+        "חשף, גילה"
+      ],
+      "correct_answer": "חשף, גילה",
+      "explanation_hebrew": "revealed פירושה חשף, גילה."
+    },
+    {
+      "id": "A-q12",
+      "word": "realised",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “הבין, נוכח לדעת”?",
+      "options": [
+        "containment",
+        "realised",
+        "roamed",
+        "seemingly"
+      ],
+      "correct_answer": "realised",
+      "explanation_hebrew": "המילה realised פירושה הבין, נוכח לדעת."
+    },
+    {
+      "id": "A-q13",
+      "word": "containment",
+      "type": "english_to_hebrew",
+      "question": "What does “containment” mean?",
+      "options": [
+        "מאובטח, בטוח",
+        "שוטט, נדד",
+        "בלימה, הכלה",
+        "לכאורה, כפי שנראה"
+      ],
+      "correct_answer": "בלימה, הכלה",
+      "explanation_hebrew": "containment פירושה בלימה, הכלה."
+    },
+    {
+      "id": "A-q14",
+      "word": "roamed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “שוטט, נדד”?",
+      "options": [
+        "seemingly",
+        "secure",
+        "roamed",
+        "sparked"
+      ],
+      "correct_answer": "roamed",
+      "explanation_hebrew": "המילה roamed פירושה שוטט, נדד."
+    },
+    {
+      "id": "A-q15",
+      "word": "seemingly",
+      "type": "english_to_hebrew",
+      "question": "What does “seemingly” mean?",
+      "options": [
+        "עורר, הצית (ויכוח)",
+        "מאובטח, בטוח",
+        "לכאורה, כפי שנראה",
+        "עז, חריף, נמרץ"
+      ],
+      "correct_answer": "לכאורה, כפי שנראה",
+      "explanation_hebrew": "seemingly פירושה לכאורה, כפי שנראה."
+    },
+    {
+      "id": "A-q16",
+      "word": "secure",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “מאובטח, בטוח”?",
+      "options": [
+        "sparked",
+        "secure",
+        "liable",
+        "fierce"
+      ],
+      "correct_answer": "secure",
+      "explanation_hebrew": "המילה secure פירושה מאובטח, בטוח."
+    },
+    {
+      "id": "A-q17",
+      "word": "sparked",
+      "type": "english_to_hebrew",
+      "question": "What does “sparked” mean?",
+      "options": [
+        "עורר, הצית (ויכוח)",
+        "אחראי מבחינה משפטית",
+        "עז, חריף, נמרץ",
+        "דו-משמעי, עמום"
+      ],
+      "correct_answer": "עורר, הצית (ויכוח)",
+      "explanation_hebrew": "sparked פירושה עורר, הצית (ויכוח)."
+    },
+    {
+      "id": "A-q18",
+      "word": "fierce",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “עז, חריף, נמרץ”?",
+      "options": [
+        "liable",
+        "safeguards",
+        "ambiguous",
+        "fierce"
+      ],
+      "correct_answer": "fierce",
+      "explanation_hebrew": "המילה fierce פירושה עז, חריף, נמרץ."
+    },
+    {
+      "id": "A-q19",
+      "word": "liable",
+      "type": "english_to_hebrew",
+      "question": "What does “liable” mean?",
+      "options": [
+        "אחראי מבחינה משפטית",
+        "אמצעי הגנה, בטחונות",
+        "דו-משמעי, עמום",
+        "פיקוח, בקרה"
+      ],
+      "correct_answer": "אחראי מבחינה משפטית",
+      "explanation_hebrew": "liable פירושה אחראי מבחינה משפטית."
+    },
+    {
+      "id": "A-q20",
+      "word": "ambiguous",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “דו-משמעי, עמום”?",
+      "options": [
+        "oversight",
+        "safeguards",
+        "concerns",
+        "ambiguous"
+      ],
+      "correct_answer": "ambiguous",
+      "explanation_hebrew": "המילה ambiguous פירושה דו-משמעי, עמום."
+    },
+    {
+      "id": "A-q21",
+      "word": "safeguards",
+      "type": "english_to_hebrew",
+      "question": "What does “safeguards” mean?",
+      "options": [
+        "אמצעי הגנה, בטחונות",
+        "צעדים, אמצעים",
+        "חששות, דאגות",
+        "פיקוח, בקרה"
+      ],
+      "correct_answer": "אמצעי הגנה, בטחונות",
+      "explanation_hebrew": "safeguards פירושה אמצעי הגנה, בטחונות."
+    },
+    {
+      "id": "A-q22",
+      "word": "oversight",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “פיקוח, בקרה”?",
+      "options": [
+        "measures",
+        "concerns",
+        "oversight",
+        "speculative"
+      ],
+      "correct_answer": "oversight",
+      "explanation_hebrew": "המילה oversight פירושה פיקוח, בקרה."
+    },
+    {
+      "id": "A-q23",
+      "word": "concerns",
+      "type": "english_to_hebrew",
+      "question": "What does “concerns” mean?",
+      "options": [
+        "סורר, פורק עול",
+        "משוער, ספקולטיבי",
+        "חששות, דאגות",
+        "צעדים, אמצעים"
+      ],
+      "correct_answer": "חששות, דאגות",
+      "explanation_hebrew": "concerns פירושה חששות, דאגות."
+    },
+    {
+      "id": "A-q24",
+      "word": "measures",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “צעדים, אמצעים”?",
+      "options": [
+        "rogue",
+        "measures",
+        "speculative",
+        "accountable"
+      ],
+      "correct_answer": "measures",
+      "explanation_hebrew": "המילה measures פירושה צעדים, אמצעים."
+    },
+    {
+      "id": "A-q25",
+      "word": "speculative",
+      "type": "english_to_hebrew",
+      "question": "What does “speculative” mean?",
+      "options": [
+        "אחראי, נושא באחריות",
+        "משוער, ספקולטיבי",
+        "נפרץ, הובקע",
+        "סורר, פורק עול"
+      ],
+      "correct_answer": "משוער, ספקולטיבי",
+      "explanation_hebrew": "speculative פירושה משוער, ספקולטיבי."
+    }
+  ]
+}

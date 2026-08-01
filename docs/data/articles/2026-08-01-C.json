@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-01",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "How scientists finally confirmed rare pink seaweed as new species",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o",
+  "published_at": "2026-07-31T23:43:10+00:00",
+  "age_hours_at_selection": 2.52,
+  "word_count": 1102,
+  "generated_at": "2026-08-01T02:14:15.224311+00:00",
+  "difficulty_reason": "Longer, information-dense science feature with descriptive style and technical marine-biology terms; B2/C1/C2 vocabulary and some background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "elusive",
+      "lemma": "elusive",
+      "level": "C1",
+      "hebrew": "חמקמק, קשה לתפוס",
+      "explanation_hebrew": "קשה למצוא, לתפוס או להשיג",
+      "pronunciation_hebrew": "אִילוּסִיב",
+      "example": "Success proved elusive."
+    },
+    {
+      "word": "obsession",
+      "lemma": "obsession",
+      "level": "B2",
+      "hebrew": "אובססיה, כפייתיות",
+      "explanation_hebrew": "מחשבה או עניין שתופסים אדם ללא הרף",
+      "pronunciation_hebrew": "אוֹבְּסֶשֶן",
+      "example": "Football is his obsession."
+    },
+    {
+      "word": "ecosystem",
+      "lemma": "ecosystem",
+      "level": "B2",
+      "hebrew": "מערכת אקולוגית",
+      "explanation_hebrew": "קהילת יצורים חיים והסביבה שבה הם חיים",
+      "pronunciation_hebrew": "אִיקוֹסִיסְטֶם",
+      "example": "The reef is a fragile ecosystem."
+    },
+    {
+      "word": "ancient",
+      "lemma": "ancient",
+      "level": "B1",
+      "hebrew": "עתיק, קדום",
+      "explanation_hebrew": "קיים כבר מזמן רב מאוד",
+      "pronunciation_hebrew": "אֵיינְשֶׁנְט",
+      "example": "They found ancient ruins."
+    },
+    {
+      "word": "marine",
+      "lemma": "marine",
+      "level": "B2",
+      "hebrew": "ימי, של הים",
+      "explanation_hebrew": "הקשור לים ולחיים בו",
+      "pronunciation_hebrew": "מָרִין",
+      "example": "Marine life is diverse."
+    },
+    {
+      "word": "habitats",
+      "lemma": "habitat",
+      "level": "B2",
+      "hebrew": "בתי גידול, מקומות מחיה",
+      "explanation_hebrew": "הסביבות הטבעיות שבהן חיים בעלי חיים או צמחים",
+      "pronunciation_hebrew": "הַבִּיטַטְס",
+      "example": "Pollution destroys habitats."
+    },
+    {
+      "word": "fragment",
+      "lemma": "fragment",
+      "level": "B2",
+      "hebrew": "שבר, חתיכה קטנה",
+      "explanation_hebrew": "חלק קטן שנשבר מדבר גדול יותר",
+      "pronunciation_hebrew": "פְרַגְמֶנְט",
+      "example": "A fragment of glass remained."
+    },
+    {
+      "word": "calcified",
+      "lemma": "calcify",
+      "level": "C2",
+      "hebrew": "מסויד, שהפך קשה כמו סיד",
+      "explanation_hebrew": "שהתקשה עקב הצטברות סידן",
+      "pronunciation_hebrew": "קַלְסִיפַייד",
+      "example": "The coral is calcified."
+    },
+    {
+      "word": "interlock",
+      "lemma": "interlock",
+      "level": "C1",
+      "hebrew": "להשתלב זה בזה, להשתזר",
+      "explanation_hebrew": "מתחבר יחד בצורה הדוקה",
+      "pronunciation_hebrew": "אִינְטֶרְלוֹק",
+      "example": "The pieces interlock tightly."
+    },
+    {
+      "word": "brimming",
+      "lemma": "brim",
+      "level": "C1",
+      "hebrew": "גדוש, מלא עד גדותיו",
+      "explanation_hebrew": "מלא מאוד, עד הקצה",
+      "pronunciation_hebrew": "בְּרִימִינְג",
+      "example": "Her eyes were brimming with tears."
+    },
+    {
+      "word": "trawling",
+      "lemma": "trawl",
+      "level": "C1",
+      "hebrew": "סריקה מדוקדקת, חיפוש יסודי",
+      "explanation_hebrew": "חיפוש שיטתי בכמות גדולה של חומר",
+      "pronunciation_hebrew": "טְרוֹלִינְג",
+      "example": "He spent hours trawling old records."
+    },
+    {
+      "word": "suspected",
+      "lemma": "suspect",
+      "level": "B2",
+      "hebrew": "חשד, שיער",
+      "explanation_hebrew": "חשב שדבר מה נכון מבלי לדעת בוודאות",
+      "pronunciation_hebrew": "סָסְפֶּקְטֶד",
+      "example": "She suspected a mistake."
+    },
+    {
+      "word": "glimpses",
+      "lemma": "glimpse",
+      "level": "C1",
+      "hebrew": "הצצות, מבטים חטופים",
+      "explanation_hebrew": "ראייה קצרה וחלקית של משהו",
+      "pronunciation_hebrew": "גְּלִימְפְּסֶז",
+      "example": "We caught glimpses of the coast."
+    },
+    {
+      "word": "anticipation",
+      "lemma": "anticipation",
+      "level": "C1",
+      "hebrew": "ציפייה, המתנה דרוכה",
+      "explanation_hebrew": "תחושה של המתנה למשהו שעומד לקרות",
+      "pronunciation_hebrew": "אַנְטִיסִיפֵּיישֶן",
+      "example": "The crowd waited in anticipation."
+    },
+    {
+      "word": "exclusively",
+      "lemma": "exclusively",
+      "level": "B2",
+      "hebrew": "באופן בלעדי, רק",
+      "explanation_hebrew": "רק לגורם אחד, ללא אחרים",
+      "pronunciation_hebrew": "אֶקְסְקְלוּסִיבְלִי",
+      "example": "The story was shared exclusively with us."
+    },
+    {
+      "word": "logistics",
+      "lemma": "logistics",
+      "level": "B2",
+      "hebrew": "לוגיסטיקה, ארגון והיערכות",
+      "explanation_hebrew": "התכנון והארגון המעשי של פעולה מורכבת",
+      "pronunciation_hebrew": "לוֹגִ'יסְטִיקְס",
+      "example": "The logistics were complicated."
+    },
+    {
+      "word": "rewarding",
+      "lemma": "rewarding",
+      "level": "B2",
+      "hebrew": "מתגמל, מספק סיפוק",
+      "explanation_hebrew": "נותן תחושת סיפוק והנאה",
+      "pronunciation_hebrew": "רִיווֹרְדִינְג",
+      "example": "Teaching is very rewarding."
+    },
+    {
+      "word": "molecular",
+      "lemma": "molecular",
+      "level": "C1",
+      "hebrew": "מולקולרי, ברמת המולקולה",
+      "explanation_hebrew": "הקשור למולקולות, לרמה הכימית הזעירה",
+      "pronunciation_hebrew": "מוֹלֶקְיוּלָר",
+      "example": "They studied its molecular structure."
+    },
+    {
+      "word": "biodiverse",
+      "lemma": "biodiverse",
+      "level": "C2",
+      "hebrew": "עתיר מגוון ביולוגי",
+      "explanation_hebrew": "שיש בו מגוון רב של מיני חיים",
+      "pronunciation_hebrew": "בַּיוֹדַייבֶרְס",
+      "example": "The forest is highly biodiverse."
+    },
+    {
+      "word": "abundant",
+      "lemma": "abundant",
+      "level": "B2",
+      "hebrew": "שופע, בכמות רבה",
+      "explanation_hebrew": "קיים בכמות גדולה מאוד",
+      "pronunciation_hebrew": "אָבַּנְדָנְט",
+      "example": "Water is abundant here."
+    },
+    {
+      "word": "properties",
+      "lemma": "property",
+      "level": "B2",
+      "hebrew": "תכונות, מאפיינים",
+      "explanation_hebrew": "מאפיינים או סגולות של דבר",
+      "pronunciation_hebrew": "פְּרוֹפֶּרְטִיז",
+      "example": "The herb has healing properties."
+    },
+    {
+      "word": "extracts",
+      "lemma": "extract",
+      "level": "C1",
+      "hebrew": "תמציות, מיצויים",
+      "explanation_hebrew": "חומרים שהופקו מתוך צמח או חומר אחר",
+      "pronunciation_hebrew": "אֶקְסְטְרַקְטְס",
+      "example": "Plant extracts are used in creams."
+    },
+    {
+      "word": "immense",
+      "lemma": "immense",
+      "level": "B2",
+      "hebrew": "עצום, אדיר",
+      "explanation_hebrew": "גדול מאוד בגודל או בכמות",
+      "pronunciation_hebrew": "אִימֶנְס",
+      "example": "The project required immense effort."
+    },
+    {
+      "word": "threatened",
+      "lemma": "threaten",
+      "level": "B2",
+      "hebrew": "מאוים, בסכנה",
+      "explanation_hebrew": "נמצא בסכנת נזק או הכחדה",
+      "pronunciation_hebrew": "תְרֶטֶנְד",
+      "example": "Many species are threatened."
+    },
+    {
+      "word": "declining",
+      "lemma": "decline",
+      "level": "B2",
+      "hebrew": "הולך ופוחת, בירידה",
+      "explanation_hebrew": "יורד או נחלש בהדרגה",
+      "pronunciation_hebrew": "דִיקְלַייְנִינְג",
+      "example": "Bird numbers are declining."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "elusive",
+      "type": "english_to_hebrew",
+      "question": "What does “elusive” mean?",
+      "options": [
+        "מערכת אקולוגית",
+        "חמקמק, קשה לתפוס",
+        "עתיק, קדום",
+        "אובססיה, כפייתיות"
+      ],
+      "correct_answer": "חמקמק, קשה לתפוס",
+      "explanation_hebrew": "elusive פירושה חמקמק, קשה לתפוס."
+    },
+    {
+      "id": "C-q2",
+      "word": "obsession",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “אובססיה, כפייתיות”?",
+      "options": [
+        "ancient",
+        "marine",
+        "ecosystem",
+        "obsession"
+      ],
+      "correct_answer": "obsession",
+      "explanation_hebrew": "המילה obsession פירושה אובססיה, כפייתיות."
+    },
+    {
+      "id": "C-q3",
+      "word": "ecosystem",
+      "type": "english_to_hebrew",
+      "question": "What does “ecosystem” mean?",
+      "options": [
+        "עתיק, קדום",
+        "מערכת אקולוגית",
+        "ימי, של הים",
+        "בתי גידול, מקומות מחיה"
+      ],
+      "correct_answer": "מערכת אקולוגית",
+      "explanation_hebrew": "ecosystem פירושה מערכת אקולוגית."
+    },
+    {
+      "id": "C-q4",
+      "word": "ancient",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “עתיק, קדום”?",
+      "options": [
+        "habitats",
+        "ancient",
+        "marine",
+        "fragment"
+      ],
+      "correct_answer": "ancient",
+      "explanation_hebrew": "המילה ancient פירושה עתיק, קדום."
+    },
+    {
+      "id": "C-q5",
+      "word": "marine",
+      "type": "english_to_hebrew",
+      "question": "What does “marine” mean?",
+      "options": [
+        "מסויד, שהפך קשה כמו סיד",
+        "שבר, חתיכה קטנה",
+        "ימי, של הים",
+        "בתי גידול, מקומות מחיה"
+      ],
+      "correct_answer": "ימי, של הים",
+      "explanation_hebrew": "marine פירושה ימי, של הים."
+    },
+    {
+      "id": "C-q6",
+      "word": "habitats",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “בתי גידול, מקומות מחיה”?",
+      "options": [
+        "fragment",
+        "calcified",
+        "habitats",
+        "interlock"
+      ],
+      "correct_answer": "habitats",
+      "explanation_hebrew": "המילה habitats פירושה בתי גידול, מקומות מחיה."
+    },
+    {
+      "id": "C-q7",
+      "word": "fragment",
+      "type": "english_to_hebrew",
+      "question": "What does “fragment” mean?",
+      "options": [
+        "שבר, חתיכה קטנה",
+        "להשתלב זה בזה, להשתזר",
+        "גדוש, מלא עד גדותיו",
+        "מסויד, שהפך קשה כמו סיד"
+      ],
+      "correct_answer": "שבר, חתיכה קטנה",
+      "explanation_hebrew": "fragment פירושה שבר, חתיכה קטנה."
+    },
+    {
+      "id": "C-q8",
+      "word": "calcified",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “מסויד, שהפך קשה כמו סיד”?",
+      "options": [
+        "trawling",
+        "brimming",
+        "interlock",
+        "calcified"
+      ],
+      "correct_answer": "calcified",
+      "explanation_hebrew": "המילה calcified פירושה מסויד, שהפך קשה כמו סיד."
+    },
+    {
+      "id": "C-q9",
+      "word": "interlock",
+      "type": "english_to_hebrew",
+      "question": "What does “interlock” mean?",
+      "options": [
+        "חשד, שיער",
+        "להשתלב זה בזה, להשתזר",
+        "סריקה מדוקדקת, חיפוש יסודי",
+        "גדוש, מלא עד גדותיו"
+      ],
+      "correct_answer": "להשתלב זה בזה, להשתזר",
+      "explanation_hebrew": "interlock פירושה להשתלב זה בזה, להשתזר."
+    },
+    {
+      "id": "C-q10",
+      "word": "brimming",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “גדוש, מלא עד גדותיו”?",
+      "options": [
+        "brimming",
+        "glimpses",
+        "suspected",
+        "trawling"
+      ],
+      "correct_answer": "brimming",
+      "explanation_hebrew": "המילה brimming פירושה גדוש, מלא עד גדותיו."
+    },
+    {
+      "id": "C-q11",
+      "word": "trawling",
+      "type": "english_to_hebrew",
+      "question": "What does “trawling” mean?",
+      "options": [
+        "ציפייה, המתנה דרוכה",
+        "הצצות, מבטים חטופים",
+        "סריקה מדוקדקת, חיפוש יסודי",
+        "חשד, שיער"
+      ],
+      "correct_answer": "סריקה מדוקדקת, חיפוש יסודי",
+      "explanation_hebrew": "trawling פירושה סריקה מדוקדקת, חיפוש יסודי."
+    },
+    {
+      "id": "C-q12",
+      "word": "suspected",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “חשד, שיער”?",
+      "options": [
+        "anticipation",
+        "suspected",
+        "exclusively",
+        "glimpses"
+      ],
+      "correct_answer": "suspected",
+      "explanation_hebrew": "המילה suspected פירושה חשד, שיער."
+    },
+    {
+      "id": "C-q13",
+      "word": "glimpses",
+      "type": "english_to_hebrew",
+      "question": "What does “glimpses” mean?",
+      "options": [
+        "הצצות, מבטים חטופים",
+        "באופן בלעדי, רק",
+        "לוגיסטיקה, ארגון והיערכות",
+        "ציפייה, המתנה דרוכה"
+      ],
+      "correct_answer": "הצצות, מבטים חטופים",
+      "explanation_hebrew": "glimpses פירושה הצצות, מבטים חטופים."
+    },
+    {
+      "id": "C-q14",
+      "word": "anticipation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “ציפייה, המתנה דרוכה”?",
+      "options": [
+        "anticipation",
+        "rewarding",
+        "logistics",
+        "exclusively"
+      ],
+      "correct_answer": "anticipation",
+      "explanation_hebrew": "המילה anticipation פירושה ציפייה, המתנה דרוכה."
+    },
+    {
+      "id": "C-q15",
+      "word": "exclusively",
+      "type": "english_to_hebrew",
+      "question": "What does “exclusively” mean?",
+      "options": [
+        "לוגיסטיקה, ארגון והיערכות",
+        "מולקולרי, ברמת המולקולה",
+        "מתגמל, מספק סיפוק",
+        "באופן בלעדי, רק"
+      ],
+      "correct_answer": "באופן בלעדי, רק",
+      "explanation_hebrew": "exclusively פירושה באופן בלעדי, רק."
+    },
+    {
+      "id": "C-q16",
+      "word": "logistics",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “לוגיסטיקה, ארגון והיערכות”?",
+      "options": [
+        "biodiverse",
+        "rewarding",
+        "molecular",
+        "logistics"
+      ],
+      "correct_answer": "logistics",
+      "explanation_hebrew": "המילה logistics פירושה לוגיסטיקה, ארגון והיערכות."
+    },
+    {
+      "id": "C-q17",
+      "word": "rewarding",
+      "type": "english_to_hebrew",
+      "question": "What does “rewarding” mean?",
+      "options": [
+        "שופע, בכמות רבה",
+        "מתגמל, מספק סיפוק",
+        "מולקולרי, ברמת המולקולה",
+        "עתיר מגוון ביולוגי"
+      ],
+      "correct_answer": "מתגמל, מספק סיפוק",
+      "explanation_hebrew": "rewarding פירושה מתגמל, מספק סיפוק."
+    },
+    {
+      "id": "C-q18",
+      "word": "molecular",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “מולקולרי, ברמת המולקולה”?",
+      "options": [
+        "abundant",
+        "molecular",
+        "properties",
+        "biodiverse"
+      ],
+      "correct_answer": "molecular",
+      "explanation_hebrew": "המילה molecular פירושה מולקולרי, ברמת המולקולה."
+    },
+    {
+      "id": "C-q19",
+      "word": "biodiverse",
+      "type": "english_to_hebrew",
+      "question": "What does “biodiverse” mean?",
+      "options": [
+        "עתיר מגוון ביולוגי",
+        "תמציות, מיצויים",
+        "שופע, בכמות רבה",
+        "תכונות, מאפיינים"
+      ],
+      "correct_answer": "עתיר מגוון ביולוגי",
+      "explanation_hebrew": "biodiverse פירושה עתיר מגוון ביולוגי."
+    },
+    {
+      "id": "C-q20",
+      "word": "abundant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “שופע, בכמות רבה”?",
+      "options": [
+        "immense",
+        "abundant",
+        "extracts",
+        "properties"
+      ],
+      "correct_answer": "abundant",
+      "explanation_hebrew": "המילה abundant פירושה שופע, בכמות רבה."
+    },
+    {
+      "id": "C-q21",
+      "word": "properties",
+      "type": "english_to_hebrew",
+      "question": "What does “properties” mean?",
+      "options": [
+        "תכונות, מאפיינים",
+        "עצום, אדיר",
+        "מאוים, בסכנה",
+        "תמציות, מיצויים"
+      ],
+      "correct_answer": "תכונות, מאפיינים",
+      "explanation_hebrew": "properties פירושה תכונות, מאפיינים."
+    },
+    {
+      "id": "C-q22",
+      "word": "extracts",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “תמציות, מיצויים”?",
+      "options": [
+        "declining",
+        "extracts",
+        "immense",
+        "threatened"
+      ],
+      "correct_answer": "extracts",
+      "explanation_hebrew": "המילה extracts פירושה תמציות, מיצויים."
+    },
+    {
+      "id": "C-q23",
+      "word": "immense",
+      "type": "english_to_hebrew",
+      "question": "What does “immense” mean?",
+      "options": [
+        "חמקמק, קשה לתפוס",
+        "הולך ופוחת, בירידה",
+        "מאוים, בסכנה",
+        "עצום, אדיר"
+      ],
+      "correct_answer": "עצום, אדיר",
+      "explanation_hebrew": "immense פירושה עצום, אדיר."
+    },
+    {
+      "id": "C-q24",
+      "word": "threatened",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: “מאוים, בסכנה”?",
+      "options": [
+        "obsession",
+        "declining",
+        "elusive",
+        "threatened"
+      ],
+      "correct_answer": "threatened",
+      "explanation_hebrew": "המילה threatened פירושה מאוים, בסכנה."
+    },
+    {
+      "id": "C-q25",
+      "word": "declining",
+      "type": "english_to_hebrew",
+      "question": "What does “declining” mean?",
+      "options": [
+        "מערכת אקולוגית",
+        "הולך ופוחת, בירידה",
+        "חמקמק, קשה לתפוס",
+        "אובססיה, כפייתיות"
+      ],
+      "correct_answer": "הולך ופוחת, בירידה",
+      "explanation_hebrew": "declining פירושה הולך ופוחת, בירידה."
+    }
+  ]
+}
