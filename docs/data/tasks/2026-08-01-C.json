@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-01",
+  "article_id": "C",
+  "article_title": "How scientists finally confirmed rare pink seaweed as new species",
+  "article_url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What achievement does the article describe?",
+      "options": [
+        "Scientists proved that all pink seaweeds are the same species",
+        "A rare pink seaweed long suspected to be unusual was confirmed as a distinct species",
+        "Researchers created artificial seaweed for aquariums",
+        "A common seaweed was removed from every British coastline"
+      ],
+      "correct_answer": "A rare pink seaweed long suspected to be unusual was confirmed as a distinct species",
+      "explanation_hebrew": "הכתבה מתארת כיצד חשד ממושך לגבי אצה ורודה נדירה אושר לבסוף באמצעות מחקר מדעי כמין נפרד.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was the seaweed difficult to study and identify?",
+      "options": [
+        "It grows only in freshwater laboratories",
+        "It is elusive, rare, and often encountered only as small fragments or brief glimpses",
+        "Its colour changes every hour",
+        "Scientists refused to collect any samples"
+      ],
+      "correct_answer": "It is elusive, rare, and often encountered only as small fragments or brief glimpses",
+      "explanation_hebrew": "האצה חמקמקה ונדירה, ולכן החוקרים הסתמכו במשך זמן רב על שברים קטנים ותצפיות קצרות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What finally provided strong evidence that it was a new species?",
+      "options": [
+        "A change in its market price",
+        "A vote by local divers",
+        "Molecular analysis that distinguished it genetically from known seaweeds",
+        "A photograph showing that it was pink"
+      ],
+      "correct_answer": "Molecular analysis that distinguished it genetically from known seaweeds",
+      "explanation_hebrew": "בדיקה מולקולרית אפשרה להשוות חומר גנטי ולהראות שהדגימה שונה ממינים מוכרים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “elusive” convey about the seaweed?",
+      "options": [
+        "It is difficult to find and study",
+        "It is abundant on every beach",
+        "It is dangerous to touch",
+        "It grows only in artificial light"
+      ],
+      "correct_answer": "It is difficult to find and study",
+      "explanation_hebrew": "elusive פירושו חמקמק או קשה לאיתור, תיאור שמתאים למין שנצפה לעיתים רחוקות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "The seaweed is described as “calcified”. What does that mean?",
+      "options": [
+        "It produces electric signals",
+        "It has hardened through calcium deposits",
+        "It has lost all colour",
+        "It can live without seawater"
+      ],
+      "correct_answer": "It has hardened through calcium deposits",
+      "explanation_hebrew": "calcified מציין התקשות עקב הצטברות סידן, תכונה שמעניקה לאצה מרקם דמוי אלמוג.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “trawling” records suggest the scientists did?",
+      "options": [
+        "Searched systematically through a large amount of information",
+        "Dragged fishing nets over the habitat",
+        "Published the same photograph repeatedly",
+        "Rejected all earlier observations"
+      ],
+      "correct_answer": "Searched systematically through a large amount of information",
+      "explanation_hebrew": "כאן trawling משמש בהשאלה לחיפוש יסודי ושיטתי ברישומים, תצלומים או דגימות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why were photographs and field observations useful but not sufficient on their own to confirm a new species?",
+      "rubric_hebrew": "יש להסביר שמראה חיצוני יכול לספק רמזים אך להשתנות בין פרטים או להידמות למינים קרובים; אימות טקסונומי דורש דגימה והשוואה מולקולרית.",
+      "expected_points": [
+        "Images documented the seaweed’s appearance and habitat",
+        "Closely related species can look similar",
+        "A physical sample allowed detailed structural and molecular comparison",
+        "Genetic evidence provided stronger confirmation than appearance alone"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 90–130 word summary tracing the discovery from early suspicion to molecular confirmation.",
+      "rubric_hebrew": "יש לתאר תצפיות ושברים נדירים, חיפוש אחר דגימה מתאימה, בדיקות מבנה ו־DNA, והמשמעות של ההכרה במין חדש.",
+      "expected_points": [
+        "Scientists had long suspected the rare pink seaweed was unusual",
+        "Its scarcity made collection and identification difficult",
+        "A suitable specimen enabled structural and molecular analysis",
+        "The evidence confirmed a distinct species and added to knowledge of marine biodiversity"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain how “fragment”, “glimpses”, “anticipation”, and “confirmation” create a discovery narrative in the article.",
+      "rubric_hebrew": "יש להראות מעבר מראיות חלקיות ותצפיות קצרות, דרך ציפייה ממושכת, להוכחה מדעית סופית.",
+      "expected_points": [
+        "Fragment and glimpses emphasize incomplete early evidence",
+        "Anticipation shows the researchers’ long wait for a decisive specimen or result",
+        "Confirmation marks the shift from suspicion to supported scientific conclusion",
+        "The sequence gives the feature a sense of persistence and resolution"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article’s evidence, discuss why identifying rare seaweed species matters beyond simply giving them names.",
+      "rubric_hebrew": "יש לקשר זיהוי מדויק להבנת מגוון ביולוגי, תפקוד בתי גידול, תכונות אפשריות, ניטור ירידה והגנה על מינים מאוימים.",
+      "expected_points": [
+        "Accurate identification improves knowledge of marine biodiversity",
+        "Species records help scientists understand habitats and ecological relationships",
+        "Distinct species may have useful or scientifically important properties",
+        "A species must be recognized before its abundance, decline or conservation needs can be assessed"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}
