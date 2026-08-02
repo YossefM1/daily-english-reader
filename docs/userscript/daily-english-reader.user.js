@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.3.4
-// @description  Runs the Daily English Reader vocabulary and quiz overlay on selected BBC News and BBC Weather articles while preserving BBC navigation/header UI.
+// @version      1.3.5
+// @description  Runs the Daily English Reader vocabulary and quiz overlay after BBC has fully rendered, preserving BBC navigation/header UI.
 // @author       YossefM1
 // @match        https://bbc.com/news
 // @match        https://www.bbc.com/news
@@ -20,7 +20,7 @@
 // @grant        GM_registerMenuCommand
 // @connect      yossefm1.github.io
 // @connect      raw.githubusercontent.com
-// @run-at       document-start
+// @run-at       document-idle
 // ==/UserScript==
 
 (function () {
@@ -51,23 +51,32 @@
   function patchImplementation(source) {
     let patched = source;
 
-    // 1) Do not mutate the BBC DOM at document-start.
+    // Never create the diagnostic pill. It is useful for debugging but is not
+    // needed for normal use and it mutates <body> outside the article.
     patched = replaceRequired(
       patched,
       `  console.log('[Daily English Reader] BOOT');\n  createStatusPill('Daily Reader: BOOT');`,
-      `  console.log('[Daily English Reader] BOOT — DOM mutation deferred');`,
-      'defer boot pill'
+      `  console.log('[Daily English Reader] BOOT — UI isolated from BBC chrome');`,
+      'remove boot pill'
     );
 
-    // 2) Wait until BBC has fully completed its initial page render.
+    patched = replaceRequired(
+      patched,
+      `  function setPill(shortText) {\n    return createStatusPill('Daily Reader: ' + shortText);\n  }`,
+      `  function setPill(shortText) {\n    console.log('[Daily English Reader status]', shortText);\n    return null;\n  }`,
+      'disable status pill DOM mutations'
+    );
+
+    // The loader itself starts only after BBC is settled. Keep this helper late
+    // as well for any UI/highlight work triggered by the implementation.
     patched = replaceRequired(
       patched,
       `  function whenDomReady(cb) {\n    if (document.body) { cb(); return; }\n    document.addEventListener('DOMContentLoaded', cb, { once: true });\n  }`,
-      `  function whenDomReady(cb) {\n    const runAfterHydration = () => setTimeout(cb, 1800);\n    if (document.readyState === 'complete') {\n      runAfterHydration();\n      return;\n    }\n    window.addEventListener('load', runAfterHydration, { once: true });\n  }`,
-      'post-hydration startup'
+      `  function whenDomReady(cb) {\n    setTimeout(cb, 300);\n  }`,
+      'post-settle startup'
     );
 
-    // 3) Explicitly protect BBC chrome from any vocabulary processing.
+    // Explicitly protect all BBC chrome from vocabulary processing.
     patched = replaceRequired(
       patched,
       `  function isInsideInjected(node) {\n    let el = node.parentElement;\n    while (el) {\n      if (el.id && INJECTED_IDS.has(el.id)) return true;\n      if (el.dataset && el.dataset.der === 'true') return true;\n      if (el.classList && el.classList.contains('der-highlight')) return true;\n      el = el.parentElement;\n    }\n    return false;\n  }`,
@@ -75,17 +84,15 @@
       'protect BBC chrome'
     );
 
-    // 4) Replace span-based highlighting with the CSS Custom Highlight API.
-    // This highlights text without replacing BBC text nodes, so React/hydration
-    // never sees its managed article DOM rewritten by the userscript.
+    // Replace span-based highlighting with the CSS Custom Highlight API. This
+    // does not replace BBC-managed text nodes.
     patched = replaceRegexRequired(
       patched,
       /  function highlightTextNode\(node, regex, wordMap\) \{[\s\S]*?  function walkAndHighlight\(root, regex, wordMap\) \{[\s\S]*?    return count;\n  \}/,
-      `  const DER_HIGHLIGHT_NAME = 'der-vocab';\n  const derHighlightMeta = [];\n  let derHighlightClickAttached = false;\n\n  function derMetaAtPoint(x, y) {\n    let node = null;\n    let offset = 0;\n\n    if (document.caretPositionFromPoint) {\n      const pos = document.caretPositionFromPoint(x, y);\n      if (pos) {\n        node = pos.offsetNode;\n        offset = pos.offset;\n      }\n    } else if (document.caretRangeFromPoint) {\n      const caret = document.caretRangeFromPoint(x, y);\n      if (caret) {\n        node = caret.startContainer;\n        offset = caret.startOffset;\n      }\n    }\n\n    if (!node) return null;\n\n    for (const item of derHighlightMeta) {\n      const range = item.range;\n      if (\n        range.startContainer === node &&\n        range.endContainer === node &&\n        offset >= range.startOffset &&\n        offset <= range.endOffset\n      ) {\n        return item;\n      }\n    }\n    return null;\n  }\n\n  window.__derMetaAtPoint = derMetaAtPoint;\n\n  function highlightTextNode(node, regex, wordMap) {\n    const text = node.nodeValue;\n    const parent = node.parentNode;\n    if (!text || !parent) return 0;\n    if (SKIP_TAGS.has(parent.tagName?.toLowerCase())) return 0;\n    if (isInsideInjected(node)) return 0;\n\n    regex.lastIndex = 0;\n    let m;\n    let count = 0;\n\n    while ((m = regex.exec(text)) !== null) {\n      const entry = wordMap.get(m[0].toLowerCase());\n      if (!entry) continue;\n\n      const range = document.createRange();\n      range.setStart(node, m.index);\n      range.setEnd(node, m.index + m[0].length);\n\n      const anchor = {\n        getBoundingClientRect: () => range.getBoundingClientRect(),\n      };\n\n      derHighlightMeta.push({ range, entry, anchor });\n      count += 1;\n    }\n\n    return count;\n  }\n\n  function walkAndHighlight(root, regex, wordMap) {\n    derHighlightMeta.length = 0;\n\n    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);\n    const nodes = [];\n    let node;\n    while ((node = walker.nextNode())) {\n      const tag = node.parentElement?.tagName?.toLowerCase();\n      if (SKIP_TAGS.has(tag)) continue;\n      if (isInsideInjected(node)) continue;\n      nodes.push(node);\n    }\n\n    let count = 0;\n    for (const n of nodes) count += highlightTextNode(n, regex, wordMap);\n\n    if (window.CSS && CSS.highlights && typeof Highlight !== 'undefined') {\n      CSS.highlights.delete(DER_HIGHLIGHT_NAME);\n      const ranges = derHighlightMeta.map(item => item.range);\n      if (ranges.length) {\n        CSS.highlights.set(DER_HIGHLIGHT_NAME, new Highlight(...ranges));\n      }\n\n      if (!document.getElementById('der-css-highlight-style')) {\n        const style = document.createElement('style');\n        style.id = 'der-css-highlight-style';\n        style.setAttribute('data-der', 'true');\n        style.textContent = '::highlight(der-vocab){background:#d0d0d0;color:inherit;}';\n        (document.head || document.documentElement).appendChild(style);\n      }\n    }\n\n    if (!derHighlightClickAttached) {\n      derHighlightClickAttached = true;\n      document.addEventListener('click', (ev) => {\n        const item = derMetaAtPoint(ev.clientX, ev.clientY);\n        if (!item) return;\n        onHighlightClick(item.anchor, item.entry);\n      }, true);\n    }\n\n    return count;\n  }`,
+      `  const DER_HIGHLIGHT_NAME = 'der-vocab';\n  const derHighlightMeta = [];\n  let derHighlightClickAttached = false;\n\n  function derMetaAtPoint(x, y) {\n    let node = null;\n    let offset = 0;\n    if (document.caretPositionFromPoint) {\n      const pos = document.caretPositionFromPoint(x, y);\n      if (pos) { node = pos.offsetNode; offset = pos.offset; }\n    } else if (document.caretRangeFromPoint) {\n      const caret = document.caretRangeFromPoint(x, y);\n      if (caret) { node = caret.startContainer; offset = caret.startOffset; }\n    }\n    if (!node) return null;\n    for (const item of derHighlightMeta) {\n      const range = item.range;\n      if (range.startContainer === node && range.endContainer === node &&\n          offset >= range.startOffset && offset <= range.endOffset) return item;\n    }\n    return null;\n  }\n\n  window.__derMetaAtPoint = derMetaAtPoint;\n\n  function highlightTextNode(node, regex, wordMap) {\n    const text = node.nodeValue;\n    const parent = node.parentNode;\n    if (!text || !parent) return 0;\n    if (SKIP_TAGS.has(parent.tagName?.toLowerCase())) return 0;\n    if (isInsideInjected(node)) return 0;\n    regex.lastIndex = 0;\n    let m;\n    let count = 0;\n    while ((m = regex.exec(text)) !== null) {\n      const entry = wordMap.get(m[0].toLowerCase());\n      if (!entry) continue;\n      const range = document.createRange();\n      range.setStart(node, m.index);\n      range.setEnd(node, m.index + m[0].length);\n      const anchor = { getBoundingClientRect: () => range.getBoundingClientRect() };\n      derHighlightMeta.push({ range, entry, anchor });\n      count += 1;\n    }\n    return count;\n  }\n\n  function walkAndHighlight(root, regex, wordMap) {\n    derHighlightMeta.length = 0;\n    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);\n    const nodes = [];\n    let node;\n    while ((node = walker.nextNode())) {\n      const tag = node.parentElement?.tagName?.toLowerCase();\n      if (SKIP_TAGS.has(tag)) continue;\n      if (isInsideInjected(node)) continue;\n      nodes.push(node);\n    }\n    let count = 0;\n    for (const n of nodes) count += highlightTextNode(n, regex, wordMap);\n    if (window.CSS && CSS.highlights && typeof Highlight !== 'undefined') {\n      CSS.highlights.delete(DER_HIGHLIGHT_NAME);\n      const ranges = derHighlightMeta.map(item => item.range);\n      if (ranges.length) CSS.highlights.set(DER_HIGHLIGHT_NAME, new Highlight(...ranges));\n      if (!document.getElementById('der-css-highlight-style')) {\n        const style = document.createElement('style');\n        style.id = 'der-css-highlight-style';\n        style.setAttribute('data-der', 'true');\n        style.textContent = '::highlight(der-vocab){background:#d0d0d0;color:inherit;}';\n        (document.head || document.documentElement).appendChild(style);\n      }\n    }\n    if (!derHighlightClickAttached) {\n      derHighlightClickAttached = true;\n      document.addEventListener('click', (ev) => {\n        const item = derMetaAtPoint(ev.clientX, ev.clientY);\n        if (!item) return;\n        onHighlightClick(item.anchor, item.entry);\n      }, true);\n    }\n    return count;\n  }`,
       'non-mutating CSS highlights'
     );
 
-    // 5) Keep outside-click behaviour compatible with CSS highlights.
     patched = replaceRequired(
       patched,
       `      if (t.closest && (t.closest('#der-popup') || t.closest('.der-highlight'))) return;`,
@@ -93,15 +100,34 @@
       'CSS highlight popup outside-click protection'
     );
 
-    // 6) Traverse only the article/main content, never the entire document body.
+    // Highlight only article content, never the global BBC shell.
     patched = replaceRequired(
       patched,
       `        return walkAndHighlight(document.body, regex, wordMap);`,
-      `        const articleRoot =\n          document.querySelector('main article') ||\n          document.querySelector('main') ||\n          document.querySelector('article') ||\n          document.body;\n        return walkAndHighlight(articleRoot, regex, wordMap);`,
+      `        const articleRoot =\n          document.querySelector('main article') ||\n          document.querySelector('article') ||\n          document.querySelector('main');\n        if (!articleRoot) return 0;\n        return walkAndHighlight(articleRoot, regex, wordMap);`,
       'article-only highlighting'
     );
 
     return patched;
+  }
+
+  function executeWhenBbcIsSettled(source) {
+    const run = () => {
+      // Give BBC's client-side header/navigation render time to finish before the
+      // Daily Reader implementation is evaluated at all.
+      setTimeout(() => {
+        try {
+          const patched = patchImplementation(source);
+          eval(patched);
+          console.log(LOG_PREFIX, 'v1.3.5 fully isolated loader active');
+        } catch (error) {
+          console.error(LOG_PREFIX, 'failed to patch/execute implementation:', error);
+        }
+      }, 2500);
+    };
+
+    if (document.readyState === 'complete') run();
+    else window.addEventListener('load', run, { once: true });
   }
 
   GM_xmlhttpRequest({
@@ -113,14 +139,7 @@
         console.error(LOG_PREFIX, 'implementation download failed:', resp.status);
         return;
       }
-
-      try {
-        const patched = patchImplementation(resp.responseText);
-        eval(patched);
-        console.log(LOG_PREFIX, 'v1.3.4 non-mutating highlight patch active');
-      } catch (error) {
-        console.error(LOG_PREFIX, 'failed to patch/execute implementation:', error);
-      }
+      executeWhenBbcIsSettled(resp.responseText);
     },
     onerror() {
       console.error(LOG_PREFIX, 'network error while loading implementation');
