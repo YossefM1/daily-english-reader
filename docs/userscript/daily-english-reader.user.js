@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.3.2
-// @description  Runs the Daily English Reader vocabulary and quiz overlay on selected BBC News and BBC Weather articles without disturbing BBC navigation/header UI.
+// @version      1.3.3
+// @description  Runs the Daily English Reader vocabulary and quiz overlay on selected BBC News and BBC Weather articles while preserving BBC navigation/header UI.
 // @author       YossefM1
 // @match        https://bbc.com/news
 // @match        https://www.bbc.com/news
@@ -26,10 +26,6 @@
 (function () {
   'use strict';
 
-  // Keep the known-good full implementation pinned, but patch three DOM-touching
-  // behaviours before executing it. This avoids mutating BBC's React/hydration
-  // tree too early and prevents vocabulary highlighting from walking through the
-  // global header/navigation.
   const IMPLEMENTATION_URL =
     'https://raw.githubusercontent.com/YossefM1/daily-english-reader/' +
     'd127340e9c6564f24c5eb56b44f93332ef80279f/' +
@@ -47,18 +43,25 @@
   function patchImplementation(source) {
     let patched = source;
 
-    // 1) Do not touch BBC DOM during initial hydration. The previous implementation
-    // ran as soon as <body> existed, which could make BBC re-render its global
-    // header/navigation after vocabulary spans were inserted.
+    // Never inject the BOOT status pill while BBC is still hydrating. The pinned
+    // implementation originally appended a new element to <html>/<body> at
+    // document-start, which can disturb BBC's own hydration/navigation render.
+    patched = replaceRequired(
+      patched,
+      `  console.log('[Daily English Reader] BOOT');\n  createStatusPill('Daily Reader: BOOT');`,
+      `  console.log('[Daily English Reader] BOOT — DOM mutation deferred');`,
+      'defer boot pill'
+    );
+
+    // Run UI/highlighting only after BBC has completed its initial load/hydration.
     patched = replaceRequired(
       patched,
       `  function whenDomReady(cb) {\n    if (document.body) { cb(); return; }\n    document.addEventListener('DOMContentLoaded', cb, { once: true });\n  }`,
-      `  function whenDomReady(cb) {\n    const runAfterHydration = () => setTimeout(cb, 700);\n    if (document.readyState === 'complete') {\n      runAfterHydration();\n      return;\n    }\n    window.addEventListener('load', runAfterHydration, { once: true });\n  }`,
+      `  function whenDomReady(cb) {\n    const runAfterHydration = () => setTimeout(cb, 900);\n    if (document.readyState === 'complete') {\n      runAfterHydration();\n      return;\n    }\n    window.addEventListener('load', runAfterHydration, { once: true });\n  }`,
       'post-hydration startup'
     );
 
-    // 2) Treat BBC chrome as protected even if a matching word appears somewhere
-    // inside nested spans/divs under header or nav elements.
+    // Protect all BBC chrome, not only direct text nodes inside nav tags.
     patched = replaceRequired(
       patched,
       `  function isInsideInjected(node) {\n    let el = node.parentElement;\n    while (el) {\n      if (el.id && INJECTED_IDS.has(el.id)) return true;\n      if (el.dataset && el.dataset.der === 'true') return true;\n      if (el.classList && el.classList.contains('der-highlight')) return true;\n      el = el.parentElement;\n    }\n    return false;\n  }`,
@@ -66,14 +69,22 @@
       'protect BBC chrome'
     );
 
-    // 3) Highlight only the article/main content instead of traversing all of
-    // document.body. This keeps the BBC masthead, navigation and surrounding UI
-    // completely outside the vocabulary mutation pass.
+    // Restrict vocabulary mutations to the article/main content.
     patched = replaceRequired(
       patched,
       `        return walkAndHighlight(document.body, regex, wordMap);`,
       `        const articleRoot =\n          document.querySelector('main article') ||\n          document.querySelector('main') ||\n          document.querySelector('article') ||\n          document.body;\n        return walkAndHighlight(articleRoot, regex, wordMap);`,
       'article-only highlighting'
+    );
+
+    // Delay the entire main routine until BBC's load event has completed. This is
+    // intentionally stronger than only delaying highlighting because main() calls
+    // setPill() before the highlight pass and that also mutates the DOM.
+    patched = replaceRequired(
+      patched,
+      `  try {\n    main().catch(err => {\n      setPill('script error — see console');\n      console.error(LOG_PREFIX, 'unhandled error:', err);\n    });\n  } catch (err) {\n    setPill('script error — see console');\n    console.error(LOG_PREFIX, 'fatal error:', err);\n  }`,
+      `  function startDailyReader() {\n    setTimeout(() => {\n      try {\n        main().catch(err => {\n          setPill('script error — see console');\n          console.error(LOG_PREFIX, 'unhandled error:', err);\n        });\n      } catch (err) {\n        setPill('script error — see console');\n        console.error(LOG_PREFIX, 'fatal error:', err);\n      }\n    }, 900);\n  }\n\n  if (document.readyState === 'complete') {\n    startDailyReader();\n  } else {\n    window.addEventListener('load', startDailyReader, { once: true });\n  }`,
+      'delay entire reader startup'
     );
 
     return patched;
@@ -91,11 +102,8 @@
 
       try {
         const patched = patchImplementation(resp.responseText);
-        // Direct eval is intentional here: the pinned implementation must execute
-        // in the same userscript sandbox so it can use GM_xmlhttpRequest and
-        // GM_registerMenuCommand.
         eval(patched);
-        console.log(LOG_PREFIX, 'v1.3.2 header-preserving patch active');
+        console.log(LOG_PREFIX, 'v1.3.3 BBC-hydration-safe patch active');
       } catch (error) {
         console.error(LOG_PREFIX, 'failed to patch/execute implementation:', error);
       }
