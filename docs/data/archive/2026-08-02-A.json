@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-02",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Tourist plane crashes in Peru, killing 13 on board",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c70g132erlko",
+  "published_at": "2026-08-02T00:29:55+00:00",
+  "age_hours_at_selection": 1.71,
+  "word_count": 314,
+  "generated_at": "2026-08-02T02:12:34.408404+00:00",
+  "difficulty_reason": "Short, direct hard-news report with simple sentences and a single clear story; mostly B1/B2 vocabulary and very little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "aircraft",
+      "lemma": "aircraft",
+      "level": "B1",
+      "hebrew": "כְּלִי טַיִס",
+      "explanation_hebrew": "מְטוֹס אוֹ כְּלִי הַטָּס בָּאֲוִיר",
+      "pronunciation_hebrew": "אֶרְקְרָאפְט",
+      "example": "The aircraft landed safely at the airport."
+    },
+    {
+      "word": "passengers",
+      "lemma": "passenger",
+      "level": "B1",
+      "hebrew": "נוֹסְעִים",
+      "explanation_hebrew": "אֲנָשִׁים הַנּוֹסְעִים בְּכְלִי תַּחְבּוּרָה",
+      "pronunciation_hebrew": "פֶּסֶנְגֶ'רְז",
+      "example": "All the passengers boarded the plane on time."
+    },
+    {
+      "word": "severity",
+      "lemma": "severity",
+      "level": "C1",
+      "hebrew": "חוּמְרָה",
+      "explanation_hebrew": "עַד כַּמָּה מַשֶּׁהוּ חָמוּר אוֹ קָשֶׁה",
+      "pronunciation_hebrew": "סֶוֶורִיטִי",
+      "example": "Doctors were shocked by the severity of the injury."
+    },
+    {
+      "word": "survivors",
+      "lemma": "survivor",
+      "level": "B2",
+      "hebrew": "נִיצוֹלִים",
+      "explanation_hebrew": "אֲנָשִׁים שֶׁנִּשְׁאֲרוּ בַּחַיִּים אַחֲרֵי אָסוֹן",
+      "pronunciation_hebrew": "סֶרְוַיְוֶרְז",
+      "example": "Rescue teams searched for survivors in the rubble."
+    },
+    {
+      "word": "recovered",
+      "lemma": "recover",
+      "level": "B2",
+      "hebrew": "חִלְּצוּ / הִשִּׂיגוּ בַּחֲזָרָה",
+      "explanation_hebrew": "הוֹצִיאוּ אוֹ מָצְאוּ מַשֶּׁהוּ שֶׁאָבַד",
+      "pronunciation_hebrew": "רִיקַאבֶרְד",
+      "example": "Divers recovered the missing equipment from the sea."
+    },
+    {
+      "word": "wreckage",
+      "lemma": "wreckage",
+      "level": "C1",
+      "hebrew": "הֲרִיסוֹת / שְׂרִידֵי הִתְרַסְּקוּת",
+      "explanation_hebrew": "מַה שֶּׁנִּשְׁאָר אַחֲרֵי הִתְרַסְּקוּת אוֹ הֶרֶס",
+      "pronunciation_hebrew": "רֶקִיגִ'",
+      "example": "Investigators examined the wreckage of the car."
+    },
+    {
+      "word": "firefighters",
+      "lemma": "firefighter",
+      "level": "B1",
+      "hebrew": "כַּבָּאִים",
+      "explanation_hebrew": "אֲנָשִׁים שֶׁתַּפְקִידָם לְכַבּוֹת שְׂרֵפוֹת",
+      "pronunciation_hebrew": "פַאיֶרְפַאיְטֶרְז",
+      "example": "The firefighters worked for hours to control the blaze."
+    },
+    {
+      "word": "spraying",
+      "lemma": "spray",
+      "level": "B2",
+      "hebrew": "מַתִּיזִים / מְרַסְּסִים",
+      "explanation_hebrew": "פּוֹלְטִים נוֹזֵל בְּטִיפּוֹת קְטַנּוֹת",
+      "pronunciation_hebrew": "סְפְּרֵייִנְג",
+      "example": "Workers were spraying water on the burning building."
+    },
+    {
+      "word": "departed",
+      "lemma": "depart",
+      "level": "B2",
+      "hebrew": "יָצְאוּ / הִמְרִיאוּ",
+      "explanation_hebrew": "עָזְבוּ מָקוֹם, בְּעִיקָּר לְמַסָּע",
+      "pronunciation_hebrew": "דִיפַּארְטֶד",
+      "example": "The train departed five minutes late."
+    },
+    {
+      "word": "statement",
+      "lemma": "statement",
+      "level": "B1",
+      "hebrew": "הַצְהָרָה / הוֹדָעָה",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁנֶּאֱמַר אוֹ נִכְתַּב בְּאוֹפֶן רִשְׁמִי",
+      "pronunciation_hebrew": "סְטֵייְטְמֶנְט",
+      "example": "The company released a short statement to the press."
+    },
+    {
+      "word": "expressed",
+      "lemma": "express",
+      "level": "B2",
+      "hebrew": "הִבִּיעוּ",
+      "explanation_hebrew": "נָתְנוּ בִּיטּוּי לְרֶגֶשׁ אוֹ דֵּעָה",
+      "pronunciation_hebrew": "אִיקְסְפְּרֶסְד",
+      "example": "She expressed her thanks to the whole team."
+    },
+    {
+      "word": "sorrow",
+      "lemma": "sorrow",
+      "level": "C1",
+      "hebrew": "צַעַר / עֶצֶב עָמוֹק",
+      "explanation_hebrew": "תְּחוּשַׁת עֶצֶב חֲזָקָה",
+      "pronunciation_hebrew": "סוֹרוֹאוּ",
+      "example": "The nation shared in the family's sorrow."
+    },
+    {
+      "word": "extended",
+      "lemma": "extend",
+      "level": "B2",
+      "hebrew": "הוֹשִׁיטוּ / הֶעֱנִיקוּ",
+      "explanation_hebrew": "נָתְנוּ אוֹ מָתְחוּ מַשֶּׁהוּ הָלְאָה",
+      "pronunciation_hebrew": "אִיקְסְטֶנְדֶד",
+      "example": "The mayor extended his sympathy to the victims."
+    },
+    {
+      "word": "heartfelt",
+      "lemma": "heartfelt",
+      "level": "C1",
+      "hebrew": "כֵּן / מִכָּל הַלֵּב",
+      "explanation_hebrew": "שֶׁבָּא מִתּוֹךְ רֶגֶשׁ אֲמִיתִּי",
+      "pronunciation_hebrew": "הַארְטְפֶלְט",
+      "example": "He gave a heartfelt apology to his friend."
+    },
+    {
+      "word": "condolences",
+      "lemma": "condolence",
+      "level": "C1",
+      "hebrew": "תַּנְחוּמִים",
+      "explanation_hebrew": "דִּבְרֵי נִיחוּמִים לְמִשְׁפָּחָה אֲבֵלָה",
+      "pronunciation_hebrew": "קוֹנְדוֹלֶנְסֶז",
+      "example": "We sent our condolences after his father died."
+    },
+    {
+      "word": "deceased",
+      "lemma": "deceased",
+      "level": "C1",
+      "hebrew": "נִפְטָר / הַמֵּת",
+      "explanation_hebrew": "אָדָם שֶׁמֵּת",
+      "pronunciation_hebrew": "דִיסִיסְט",
+      "example": "The names of the deceased were not yet released."
+    },
+    {
+      "word": "belonged",
+      "lemma": "belong",
+      "level": "B1",
+      "hebrew": "הָיָה שַׁיָּיךְ",
+      "explanation_hebrew": "הָיָה בִּבְעָלוּת שֶׁל מִישֶׁהוּ",
+      "pronunciation_hebrew": "בִּילוֹנְגְד",
+      "example": "The bag belonged to one of the passengers."
+    },
+    {
+      "word": "assess",
+      "lemma": "assess",
+      "level": "B2",
+      "hebrew": "לְהַעֲרִיךְ / לִבְחוֹן",
+      "explanation_hebrew": "לִשְׁפּוֹט אוֹ לִמְדּוֹד מַצָּב",
+      "pronunciation_hebrew": "אֶסֶס",
+      "example": "Experts will assess the damage tomorrow."
+    },
+    {
+      "word": "schedule",
+      "lemma": "schedule",
+      "level": "B1",
+      "hebrew": "לוּחַ זְמַנִּים",
+      "explanation_hebrew": "תָּכְנִית שֶׁל זְמַנִּים לְפְעֻלּוֹת",
+      "pronunciation_hebrew": "סְקֶגֶ'ל",
+      "example": "The new bus schedule starts next week."
+    },
+    {
+      "word": "accordance",
+      "lemma": "accordance",
+      "level": "C1",
+      "hebrew": "בְּהֶתְאֵם",
+      "explanation_hebrew": "הַתְאָמָה לְכְלָל אוֹ הוֹרָאָה",
+      "pronunciation_hebrew": "אֶקוֹרְדֶנְס",
+      "example": "The work was done in accordance with the rules."
+    },
+    {
+      "word": "directives",
+      "lemma": "directive",
+      "level": "C1",
+      "hebrew": "הַנְחָיוֹת / הוֹרָאוֹת",
+      "explanation_hebrew": "הוֹרָאוֹת רִשְׁמִיּוֹת שֶׁיֵּשׁ לְמַלֵּא",
+      "pronunciation_hebrew": "דַיְרֶקְטִיבְז",
+      "example": "Staff must follow the new safety directives."
+    },
+    {
+      "word": "relevant",
+      "lemma": "relevant",
+      "level": "B2",
+      "hebrew": "רֶלֶוַונְטִי / נוֹגֵעַ לָעִנְיָן",
+      "explanation_hebrew": "קָשׁוּר וְחָשׁוּב לְנוֹשֵׂא מְסוּיָּם",
+      "pronunciation_hebrew": "רֶלֶוַונְט",
+      "example": "Please include only relevant information."
+    },
+    {
+      "word": "authorities",
+      "lemma": "authority",
+      "level": "B2",
+      "hebrew": "רָשׁוּיוֹת",
+      "explanation_hebrew": "גּוּפִים רִשְׁמִיִּים בַּעֲלֵי סַמְכוּת",
+      "pronunciation_hebrew": "אוֹתוֹרִיטִיז",
+      "example": "Local authorities closed the road for repairs."
+    },
+    {
+      "word": "famed",
+      "lemma": "famed",
+      "level": "C1",
+      "hebrew": "מְפוּרְסָם / נוֹדָע",
+      "explanation_hebrew": "מוּכָּר מְאוֹד לְטוֹבָה",
+      "pronunciation_hebrew": "פֵיְמְד",
+      "example": "The city is famed for its ancient temples."
+    },
+    {
+      "word": "extent",
+      "lemma": "extent",
+      "level": "B2",
+      "hebrew": "הֶיקֵּף / מִידָּה",
+      "explanation_hebrew": "עַד כַּמָּה מַשֶּׁהוּ גָּדוֹל אוֹ מִתְפַּשֵּׁט",
+      "pronunciation_hebrew": "אִיקְסְטֶנְט",
+      "example": "We did not know the full extent of the problem."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "aircraft",
+      "type": "english_to_hebrew",
+      "question": "What does “aircraft” mean?",
+      "options": [
+        "נוֹסְעִים",
+        "כְּלִי טַיִס",
+        "חוּמְרָה",
+        "נִיצוֹלִים"
+      ],
+      "correct_answer": "כְּלִי טַיִס",
+      "explanation_hebrew": "“aircraft” פירושו כְּלִי טַיִס – מְטוֹס אוֹ כְּלִי הַטָּס בָּאֲוִיר."
+    },
+    {
+      "id": "A-q2",
+      "word": "passengers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “נוֹסְעִים”?",
+      "options": [
+        "passengers",
+        "severity",
+        "survivors",
+        "recovered"
+      ],
+      "correct_answer": "passengers",
+      "explanation_hebrew": "נוֹסְעִים באנגלית הוא “passengers” – אֲנָשִׁים הַנּוֹסְעִים בְּכְלִי תַּחְבּוּרָה."
+    },
+    {
+      "id": "A-q3",
+      "word": "severity",
+      "type": "english_to_hebrew",
+      "question": "What does “severity” mean?",
+      "options": [
+        "חוּמְרָה",
+        "נִיצוֹלִים",
+        "חִלְּצוּ / הִשִּׂיגוּ בַּחֲזָרָה",
+        "הֲרִיסוֹת / שְׂרִידֵי הִתְרַסְּקוּת"
+      ],
+      "correct_answer": "חוּמְרָה",
+      "explanation_hebrew": "“severity” פירושו חוּמְרָה – עַד כַּמָּה מַשֶּׁהוּ חָמוּר אוֹ קָשֶׁה."
+    },
+    {
+      "id": "A-q4",
+      "word": "survivors",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “נִיצוֹלִים”?",
+      "options": [
+        "firefighters",
+        "wreckage",
+        "recovered",
+        "survivors"
+      ],
+      "correct_answer": "survivors",
+      "explanation_hebrew": "נִיצוֹלִים באנגלית הוא “survivors” – אֲנָשִׁים שֶׁנִּשְׁאֲרוּ בַּחַיִּים אַחֲרֵי אָסוֹן."
+    },
+    {
+      "id": "A-q5",
+      "word": "recovered",
+      "type": "english_to_hebrew",
+      "question": "What does “recovered” mean?",
+      "options": [
+        "כַּבָּאִים",
+        "חִלְּצוּ / הִשִּׂיגוּ בַּחֲזָרָה",
+        "מַתִּיזִים / מְרַסְּסִים",
+        "הֲרִיסוֹת / שְׂרִידֵי הִתְרַסְּקוּת"
+      ],
+      "correct_answer": "חִלְּצוּ / הִשִּׂיגוּ בַּחֲזָרָה",
+      "explanation_hebrew": "“recovered” פירושו חִלְּצוּ / הִשִּׂיגוּ בַּחֲזָרָה – הוֹצִיאוּ אוֹ מָצְאוּ מַשֶּׁהוּ שֶׁאָבַד."
+    },
+    {
+      "id": "A-q6",
+      "word": "wreckage",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “הֲרִיסוֹת / שְׂרִידֵי הִתְרַסְּקוּת”?",
+      "options": [
+        "firefighters",
+        "departed",
+        "wreckage",
+        "spraying"
+      ],
+      "correct_answer": "wreckage",
+      "explanation_hebrew": "הֲרִיסוֹת / שְׂרִידֵי הִתְרַסְּקוּת באנגלית הוא “wreckage” – מַה שֶּׁנִּשְׁאָר אַחֲרֵי הִתְרַסְּקוּת אוֹ הֶרֶס."
+    },
+    {
+      "id": "A-q7",
+      "word": "firefighters",
+      "type": "english_to_hebrew",
+      "question": "What does “firefighters” mean?",
+      "options": [
+        "כַּבָּאִים",
+        "הַצְהָרָה / הוֹדָעָה",
+        "מַתִּיזִים / מְרַסְּסִים",
+        "יָצְאוּ / הִמְרִיאוּ"
+      ],
+      "correct_answer": "כַּבָּאִים",
+      "explanation_hebrew": "“firefighters” פירושו כַּבָּאִים – אֲנָשִׁים שֶׁתַּפְקִידָם לְכַבּוֹת שְׂרֵפוֹת."
+    },
+    {
+      "id": "A-q8",
+      "word": "spraying",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “מַתִּיזִים / מְרַסְּסִים”?",
+      "options": [
+        "departed",
+        "expressed",
+        "spraying",
+        "statement"
+      ],
+      "correct_answer": "spraying",
+      "explanation_hebrew": "מַתִּיזִים / מְרַסְּסִים באנגלית הוא “spraying” – פּוֹלְטִים נוֹזֵל בְּטִיפּוֹת קְטַנּוֹת."
+    },
+    {
+      "id": "A-q9",
+      "word": "departed",
+      "type": "english_to_hebrew",
+      "question": "What does “departed” mean?",
+      "options": [
+        "יָצְאוּ / הִמְרִיאוּ",
+        "צַעַר / עֶצֶב עָמוֹק",
+        "הַצְהָרָה / הוֹדָעָה",
+        "הִבִּיעוּ"
+      ],
+      "correct_answer": "יָצְאוּ / הִמְרִיאוּ",
+      "explanation_hebrew": "“departed” פירושו יָצְאוּ / הִמְרִיאוּ – עָזְבוּ מָקוֹם, בְּעִיקָּר לְמַסָּע."
+    },
+    {
+      "id": "A-q10",
+      "word": "statement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “הַצְהָרָה / הוֹדָעָה”?",
+      "options": [
+        "sorrow",
+        "expressed",
+        "statement",
+        "extended"
+      ],
+      "correct_answer": "statement",
+      "explanation_hebrew": "הַצְהָרָה / הוֹדָעָה באנגלית הוא “statement” – מַשֶּׁהוּ שֶׁנֶּאֱמַר אוֹ נִכְתַּב בְּאוֹפֶן רִשְׁמִי."
+    },
+    {
+      "id": "A-q11",
+      "word": "expressed",
+      "type": "english_to_hebrew",
+      "question": "What does “expressed” mean?",
+      "options": [
+        "הִבִּיעוּ",
+        "כֵּן / מִכָּל הַלֵּב",
+        "צַעַר / עֶצֶב עָמוֹק",
+        "הוֹשִׁיטוּ / הֶעֱנִיקוּ"
+      ],
+      "correct_answer": "הִבִּיעוּ",
+      "explanation_hebrew": "“expressed” פירושו הִבִּיעוּ – נָתְנוּ בִּיטּוּי לְרֶגֶשׁ אוֹ דֵּעָה."
+    },
+    {
+      "id": "A-q12",
+      "word": "sorrow",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “צַעַר / עֶצֶב עָמוֹק”?",
+      "options": [
+        "condolences",
+        "sorrow",
+        "heartfelt",
+        "extended"
+      ],
+      "correct_answer": "sorrow",
+      "explanation_hebrew": "צַעַר / עֶצֶב עָמוֹק באנגלית הוא “sorrow” – תְּחוּשַׁת עֶצֶב חֲזָקָה."
+    },
+    {
+      "id": "A-q13",
+      "word": "extended",
+      "type": "english_to_hebrew",
+      "question": "What does “extended” mean?",
+      "options": [
+        "תַּנְחוּמִים",
+        "הוֹשִׁיטוּ / הֶעֱנִיקוּ",
+        "כֵּן / מִכָּל הַלֵּב",
+        "נִפְטָר / הַמֵּת"
+      ],
+      "correct_answer": "הוֹשִׁיטוּ / הֶעֱנִיקוּ",
+      "explanation_hebrew": "“extended” פירושו הוֹשִׁיטוּ / הֶעֱנִיקוּ – נָתְנוּ אוֹ מָתְחוּ מַשֶּׁהוּ הָלְאָה."
+    },
+    {
+      "id": "A-q14",
+      "word": "heartfelt",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “כֵּן / מִכָּל הַלֵּב”?",
+      "options": [
+        "belonged",
+        "condolences",
+        "deceased",
+        "heartfelt"
+      ],
+      "correct_answer": "heartfelt",
+      "explanation_hebrew": "כֵּן / מִכָּל הַלֵּב באנגלית הוא “heartfelt” – שֶׁבָּא מִתּוֹךְ רֶגֶשׁ אֲמִיתִּי."
+    },
+    {
+      "id": "A-q15",
+      "word": "condolences",
+      "type": "english_to_hebrew",
+      "question": "What does “condolences” mean?",
+      "options": [
+        "הָיָה שַׁיָּיךְ",
+        "נִפְטָר / הַמֵּת",
+        "תַּנְחוּמִים",
+        "לְהַעֲרִיךְ / לִבְחוֹן"
+      ],
+      "correct_answer": "תַּנְחוּמִים",
+      "explanation_hebrew": "“condolences” פירושו תַּנְחוּמִים – דִּבְרֵי נִיחוּמִים לְמִשְׁפָּחָה אֲבֵלָה."
+    },
+    {
+      "id": "A-q16",
+      "word": "deceased",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “נִפְטָר / הַמֵּת”?",
+      "options": [
+        "deceased",
+        "assess",
+        "belonged",
+        "schedule"
+      ],
+      "correct_answer": "deceased",
+      "explanation_hebrew": "נִפְטָר / הַמֵּת באנגלית הוא “deceased” – אָדָם שֶׁמֵּת."
+    },
+    {
+      "id": "A-q17",
+      "word": "belonged",
+      "type": "english_to_hebrew",
+      "question": "What does “belonged” mean?",
+      "options": [
+        "לוּחַ זְמַנִּים",
+        "בְּהֶתְאֵם",
+        "הָיָה שַׁיָּיךְ",
+        "לְהַעֲרִיךְ / לִבְחוֹן"
+      ],
+      "correct_answer": "הָיָה שַׁיָּיךְ",
+      "explanation_hebrew": "“belonged” פירושו הָיָה שַׁיָּיךְ – הָיָה בִּבְעָלוּת שֶׁל מִישֶׁהוּ."
+    },
+    {
+      "id": "A-q18",
+      "word": "assess",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “לְהַעֲרִיךְ / לִבְחוֹן”?",
+      "options": [
+        "directives",
+        "schedule",
+        "accordance",
+        "assess"
+      ],
+      "correct_answer": "assess",
+      "explanation_hebrew": "לְהַעֲרִיךְ / לִבְחוֹן באנגלית הוא “assess” – לִשְׁפּוֹט אוֹ לִמְדּוֹד מַצָּב."
+    },
+    {
+      "id": "A-q19",
+      "word": "schedule",
+      "type": "english_to_hebrew",
+      "question": "What does “schedule” mean?",
+      "options": [
+        "רֶלֶוַונְטִי / נוֹגֵעַ לָעִנְיָן",
+        "בְּהֶתְאֵם",
+        "לוּחַ זְמַנִּים",
+        "הַנְחָיוֹת / הוֹרָאוֹת"
+      ],
+      "correct_answer": "לוּחַ זְמַנִּים",
+      "explanation_hebrew": "“schedule” פירושו לוּחַ זְמַנִּים – תָּכְנִית שֶׁל זְמַנִּים לְפְעֻלּוֹת."
+    },
+    {
+      "id": "A-q20",
+      "word": "accordance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “בְּהֶתְאֵם”?",
+      "options": [
+        "accordance",
+        "relevant",
+        "authorities",
+        "directives"
+      ],
+      "correct_answer": "accordance",
+      "explanation_hebrew": "בְּהֶתְאֵם באנגלית הוא “accordance” – הַתְאָמָה לְכְלָל אוֹ הוֹרָאָה."
+    },
+    {
+      "id": "A-q21",
+      "word": "directives",
+      "type": "english_to_hebrew",
+      "question": "What does “directives” mean?",
+      "options": [
+        "רָשׁוּיוֹת",
+        "רֶלֶוַונְטִי / נוֹגֵעַ לָעִנְיָן",
+        "הַנְחָיוֹת / הוֹרָאוֹת",
+        "מְפוּרְסָם / נוֹדָע"
+      ],
+      "correct_answer": "הַנְחָיוֹת / הוֹרָאוֹת",
+      "explanation_hebrew": "“directives” פירושו הַנְחָיוֹת / הוֹרָאוֹת – הוֹרָאוֹת רִשְׁמִיּוֹת שֶׁיֵּשׁ לְמַלֵּא."
+    },
+    {
+      "id": "A-q22",
+      "word": "relevant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “רֶלֶוַונְטִי / נוֹגֵעַ לָעִנְיָן”?",
+      "options": [
+        "relevant",
+        "famed",
+        "authorities",
+        "extent"
+      ],
+      "correct_answer": "relevant",
+      "explanation_hebrew": "רֶלֶוַונְטִי / נוֹגֵעַ לָעִנְיָן באנגלית הוא “relevant” – קָשׁוּר וְחָשׁוּב לְנוֹשֵׂא מְסוּיָּם."
+    },
+    {
+      "id": "A-q23",
+      "word": "authorities",
+      "type": "english_to_hebrew",
+      "question": "What does “authorities” mean?",
+      "options": [
+        "מְפוּרְסָם / נוֹדָע",
+        "רָשׁוּיוֹת",
+        "הֶיקֵּף / מִידָּה",
+        "כְּלִי טַיִס"
+      ],
+      "correct_answer": "רָשׁוּיוֹת",
+      "explanation_hebrew": "“authorities” פירושו רָשׁוּיוֹת – גּוּפִים רִשְׁמִיִּים בַּעֲלֵי סַמְכוּת."
+    },
+    {
+      "id": "A-q24",
+      "word": "famed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל: “מְפוּרְסָם / נוֹדָע”?",
+      "options": [
+        "aircraft",
+        "extent",
+        "famed",
+        "passengers"
+      ],
+      "correct_answer": "famed",
+      "explanation_hebrew": "מְפוּרְסָם / נוֹדָע באנגלית הוא “famed” – מוּכָּר מְאוֹד לְטוֹבָה."
+    },
+    {
+      "id": "A-q25",
+      "word": "extent",
+      "type": "english_to_hebrew",
+      "question": "What does “extent” mean?",
+      "options": [
+        "כְּלִי טַיִס",
+        "נוֹסְעִים",
+        "חוּמְרָה",
+        "הֶיקֵּף / מִידָּה"
+      ],
+      "correct_answer": "הֶיקֵּף / מִידָּה",
+      "explanation_hebrew": "“extent” פירושו הֶיקֵּף / מִידָּה – עַד כַּמָּה מַשֶּׁהוּ גָּדוֹל אוֹ מִתְפַּשֵּׁט."
+    }
+  ]
+}
