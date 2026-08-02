@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-02",
+  "article_id": "A",
+  "article_title": "Tourist plane crashes in Peru, killing 13 on board",
+  "article_url": "https://www.bbc.co.uk/news/articles/c70g132erlko",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main event reported in the article?",
+      "options": [
+        "A tourist plane crashed during a sightseeing flight near the Nazca Lines, killing all 13 people on board",
+        "Peru closed the Nazca Lines permanently after a storm",
+        "A passenger plane made an emergency landing in Lima with no injuries",
+        "An archaeological team discovered new drawings in the desert"
+      ],
+      "correct_answer": "A tourist plane crashed during a sightseeing flight near the Nazca Lines, killing all 13 people on board",
+      "explanation_hebrew": "הכתבה מדווחת על התרסקות מטוס תיירות במהלך טיסה באזור קווי נסקה ועל מותם של 11 נוסעים ושני אנשי צוות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who was on board the aircraft?",
+      "options": [
+        "Thirteen passengers and no crew",
+        "Eleven passengers and two crew members",
+        "Two passengers and eleven pilots",
+        "Only firefighters and police officers"
+      ],
+      "correct_answer": "Eleven passengers and two crew members",
+      "explanation_hebrew": "לפי הדיווח היו במטוס 11 נוסעים ושני אנשי צוות, ובסך הכול 13 בני אדם.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened shortly after the aircraft departed from Pisco Airport?",
+      "options": [
+        "It returned safely because of bad weather",
+        "It landed beside the Nazca Lines visitor centre",
+        "It crashed in the Pueblo Viejo area",
+        "It continued to Lima for inspection"
+      ],
+      "correct_answer": "It crashed in the Pueblo Viejo area",
+      "explanation_hebrew": "המטוס המריא משדה התעופה בפיסקו והתרסק זמן קצר לאחר מכן באזור פואבלו וייחו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “wreckage” mean?",
+      "options": [
+        "The planned route of the aircraft",
+        "The remains of the badly damaged plane",
+        "The passengers’ travel documents",
+        "The drawings at the archaeological site"
+      ],
+      "correct_answer": "The remains of the badly damaged plane",
+      "explanation_hebrew": "wreckage הוא מה שנשאר מכלי רכב או מטוס לאחר שניזוק או התרסק.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "The authorities will “assess” the accident. What does “assess” mean here?",
+      "options": [
+        "Celebrate the flight",
+        "Hide the damaged aircraft",
+        "Examine and evaluate what happened",
+        "Cancel every tourist visit to Peru"
+      ],
+      "correct_answer": "Examine and evaluate what happened",
+      "explanation_hebrew": "assess פירושו לבחון ולהעריך את המצב או את הראיות כדי להבין מה קרה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “heartfelt condolences” mean in the municipality’s statement?",
+      "options": [
+        "A formal order to stop flights",
+        "Sincere sympathy offered to the victims’ families",
+        "A request for tourists to visit the site",
+        "A technical explanation of the crash"
+      ],
+      "correct_answer": "Sincere sympathy offered to the victims’ families",
+      "explanation_hebrew": "heartfelt condolences הם דברי תנחומים כנים ומכל הלב למשפחות שאיבדו את יקיריהן.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the article say the cause should be determined by the relevant aviation authorities rather than guessed immediately? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שהסיבה טרם נקבעה ושנדרשת בדיקה מקצועית של הראיות, השרידים ופעולת המטוס לפני הטלת אחריות.",
+      "expected_points": [
+        "The cause was not yet known when the report was published",
+        "Specialist authorities must examine evidence from the aircraft and crash site",
+        "A formal investigation helps avoid unsupported conclusions and can assign responsibility"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 70–100 word summary including the flight’s purpose, departure point, crash location, casualties and investigation.",
+      "rubric_hebrew": "יש לכלול טיסת תיירות מעל קווי נסקה, יציאה מפיסקו, התרסקות בפואבלו וייחו, 13 הרוגים וחקירת רשויות התעופה.",
+      "expected_points": [
+        "The aircraft was carrying tourists to view the Nazca Lines",
+        "It departed from Pisco Airport and crashed in the Pueblo Viejo area",
+        "Eleven passengers and two crew members died and there were no survivors",
+        "Peru’s civil aviation authorities were expected to investigate the cause"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain the difference between “passengers”, “crew members”, “survivors” and “deceased” as these words are used in the report.",
+      "rubric_hebrew": "יש להגדיר נוסעים, אנשי צוות, ניצולים ונפטרים, וליישם נכון את המילים על נתוני התאונה.",
+      "expected_points": [
+        "Passengers were the tourists travelling on the aircraft",
+        "Crew members were the two people operating or working on the flight",
+        "Survivors are people who remain alive after a disaster; the report said there were none",
+        "The deceased refers respectfully to the 13 people who died"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "factual_details",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining why the Nazca Lines are important to the context of this crash.",
+      "rubric_hebrew": "יש לציין שמדובר באתר ארכאולוגי מפורסם של אונסק״ו הנצפה בדרך כלל מן האוויר ושאירעו באזור תאונות תיירות קודמות.",
+      "expected_points": [
+        "The Nazca Lines are a famous archaeological and UNESCO World Heritage site",
+        "Their large geoglyphs are commonly viewed from sightseeing aircraft",
+        "The flight was connected to tourism at the site",
+        "The article notes earlier fatal tourist-plane crashes in the area"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
