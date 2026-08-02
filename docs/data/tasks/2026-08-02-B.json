@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-02",
+  "article_id": "B",
+  "article_title": "Russian ship defies sanctions to send military vehicles to Mali",
+  "article_url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What does the BBC investigation show?",
+      "options": [
+        "A sanctioned Russian ship transported military vehicles to Africa that were then taken to Mali",
+        "Mali returned all Russian equipment to Europe",
+        "A civilian ferry accidentally entered the English Channel",
+        "European sanctions stopped every Russian shipment before departure"
+      ],
+      "correct_answer": "A sanctioned Russian ship transported military vehicles to Africa that were then taken to Mali",
+      "explanation_hebrew": "החקירה מראה שאונייה רוסית הנתונה לעיצומים הובילה כלי רכב צבאיים לאפריקה ומשם הם הועברו למאלי.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What types of cargo were visible in the shipment?",
+      "options": [
+        "Passenger cars and farm tractors",
+        "Armoured personnel carriers and military trucks",
+        "Medical helicopters and fishing boats",
+        "Food containers and school buses"
+      ],
+      "correct_answer": "Armoured personnel carriers and military trucks",
+      "explanation_hebrew": "במשלוח נראו נגמ״שים ומשאיות צבאיות, ולא מטען אזרחי רגיל.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What evidence helped trace the shipment and its onward journey?",
+      "options": [
+        "Only an anonymous handwritten letter",
+        "Satellite images and footage of the vehicles and convoy",
+        "A public passenger timetable",
+        "An archaeological survey of the Sahara"
+      ],
+      "correct_answer": "Satellite images and footage of the vehicles and convoy",
+      "explanation_hebrew": "צילומי לוויין ותיעוד חזותי של כלי הרכב והשיירה אפשרו לעקוב אחר המשלוח והגעתו למאלי.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the headline, what does “defies sanctions” mean?",
+      "options": [
+        "Obeys the restrictions completely",
+        "Challenges or acts despite the international restrictions",
+        "Asks another country to write new rules",
+        "Changes military vehicles into civilian cars"
+      ],
+      "correct_answer": "Challenges or acts despite the international restrictions",
+      "explanation_hebrew": "defies sanctions פירושו לפעול בניגוד לעיצומים או למרות המגבלות שהם אמורים להטיל.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “convoy” in the context of the report?",
+      "options": [
+        "A group of vehicles travelling together, often under protection",
+        "A legal document listing sanctions",
+        "A satellite orbiting above a port",
+        "A single soldier travelling alone"
+      ],
+      "correct_answer": "A group of vehicles travelling together, often under protection",
+      "explanation_hebrew": "convoy היא שיירה של כלי רכב הנעים יחד, לעיתים בליווי ובהגנה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "The article says the delivery may “signify” stronger Russian support. What does “signify” mean?",
+      "options": [
+        "Hide completely",
+        "Prove that every battle is over",
+        "Indicate or be a sign of something",
+        "Transport goods by sea"
+      ],
+      "correct_answer": "Indicate or be a sign of something",
+      "explanation_hebrew": "signify פירושו לסמן או להצביע על משמעות רחבה יותר — כאן על העמקת התמיכה הרוסית.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do experts see the shipment as politically important, not merely as a logistics operation? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש לקשר את היקף הציוד לתמיכה הרוסית בחונטה השלטת במאלי וללחץ הצבאי שהיא חווה מצד מורדים.",
+      "expected_points": [
+        "The cargo consisted of military rather than ordinary commercial vehicles",
+        "It strengthens Mali’s ruling junta and its Russian-backed forces",
+        "The delivery comes as those forces face rebel offensives or military setbacks",
+        "The shipment therefore signals continued or increased Kremlin commitment"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–110 word summary explaining the ship, the cargo, the evidence, the route to Mali and the wider political meaning.",
+      "rubric_hebrew": "יש לכלול אונייה תחת עיצומים, נגמ״שים ומשאיות, מעבר דרך התעלה האנגלית, ראיות לוויין ותיעוד, שיירה למאלי והעמקת התמיכה בחונטה.",
+      "expected_points": [
+        "A sanctioned Russian vessel carried military vehicles through the English Channel to Africa",
+        "The cargo included armoured personnel carriers and trucks",
+        "Satellite imagery and footage helped connect the ship’s cargo with a convoy reaching Mali",
+        "Experts interpret the delivery as stronger Russian backing for Mali’s military rulers amid conflict"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain the contextual difference between “cargo”, “shipment”, “convoy” and “deployed”.",
+      "rubric_hebrew": "יש להבחין בין מטען הנישא, משלוח כיחידת אספקה, שיירת כלי רכב נעה, והצבת כוח או ציוד לשימוש מבצעי.",
+      "expected_points": [
+        "Cargo is the material carried by a ship or other vehicle",
+        "Shipment is a quantity of goods sent together from one place to another",
+        "Convoy is the group of vehicles moving together overland",
+        "Deployed means personnel or equipment were positioned for operational use"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, explain why sanctions did not automatically prevent this delivery.",
+      "rubric_hebrew": "יש להסביר שעיצומים הם מגבלות משפטיות וכלכליות הדורשות אכיפה, בעוד שהאונייה המשיכה במסעה והציוד הועבר בים וביבשה.",
+      "expected_points": [
+        "The vessel was sanctioned but still remained capable of sailing",
+        "It passed through a major European maritime route",
+        "The cargo could be unloaded in Africa and moved onward by road",
+        "The case shows that restrictions require monitoring and enforcement to be effective"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
