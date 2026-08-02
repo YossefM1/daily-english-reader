@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Daily English Reader
 // @namespace    https://github.com/YossefM1/daily-english-reader
-// @version      1.3.5
-// @description  Runs the Daily English Reader vocabulary and quiz overlay after BBC has fully rendered, preserving BBC navigation/header UI.
+// @version      1.3.6
+// @description  Runs the Daily English Reader vocabulary and quiz overlay while keeping injected UI outside BBC's managed body tree.
 // @author       YossefM1
 // @match        https://bbc.com/news
 // @match        https://www.bbc.com/news
@@ -51,8 +51,7 @@
   function patchImplementation(source) {
     let patched = source;
 
-    // Never create the diagnostic pill. It is useful for debugging but is not
-    // needed for normal use and it mutates <body> outside the article.
+    // Do not create the diagnostic pill in BBC's body.
     patched = replaceRequired(
       patched,
       `  console.log('[Daily English Reader] BOOT');\n  createStatusPill('Daily Reader: BOOT');`,
@@ -67,8 +66,7 @@
       'disable status pill DOM mutations'
     );
 
-    // The loader itself starts only after BBC is settled. Keep this helper late
-    // as well for any UI/highlight work triggered by the implementation.
+    // Keep execution late, after BBC has finished its initial render.
     patched = replaceRequired(
       patched,
       `  function whenDomReady(cb) {\n    if (document.body) { cb(); return; }\n    document.addEventListener('DOMContentLoaded', cb, { once: true });\n  }`,
@@ -76,7 +74,7 @@
       'post-settle startup'
     );
 
-    // Explicitly protect all BBC chrome from vocabulary processing.
+    // Protect BBC chrome from vocabulary processing.
     patched = replaceRequired(
       patched,
       `  function isInsideInjected(node) {\n    let el = node.parentElement;\n    while (el) {\n      if (el.id && INJECTED_IDS.has(el.id)) return true;\n      if (el.dataset && el.dataset.der === 'true') return true;\n      if (el.classList && el.classList.contains('der-highlight')) return true;\n      el = el.parentElement;\n    }\n    return false;\n  }`,
@@ -84,8 +82,30 @@
       'protect BBC chrome'
     );
 
-    // Replace span-based highlighting with the CSS Custom Highlight API. This
-    // does not replace BBC-managed text nodes.
+    // Most important isolation patch: BBC appears to manage/hydrate <body> itself.
+    // Keep our floating UI out of that tree. Fixed-position elements still render
+    // when attached directly under <html>, but BBC's body reconciler cannot touch them.
+    patched = replaceRequired(
+      patched,
+      `    document.body.appendChild(box);`,
+      `    document.documentElement.appendChild(box);`,
+      'popup outside BBC body'
+    );
+    patched = replaceRequired(
+      patched,
+      `      document.body.appendChild(buildSidebar(data));`,
+      `      document.documentElement.appendChild(buildSidebar(data));`,
+      'sidebar outside BBC body'
+    );
+    patched = replaceRequired(
+      patched,
+      `      document.body.appendChild(toggleBtn);`,
+      `      document.documentElement.appendChild(toggleBtn);`,
+      'toggle outside BBC body'
+    );
+
+    // Replace span-based highlighting with the CSS Custom Highlight API so BBC
+    // text nodes are never replaced or re-parented.
     patched = replaceRegexRequired(
       patched,
       /  function highlightTextNode\(node, regex, wordMap\) \{[\s\S]*?  function walkAndHighlight\(root, regex, wordMap\) \{[\s\S]*?    return count;\n  \}/,
@@ -100,7 +120,7 @@
       'CSS highlight popup outside-click protection'
     );
 
-    // Highlight only article content, never the global BBC shell.
+    // Highlight only the article itself, never the BBC shell/navigation.
     patched = replaceRequired(
       patched,
       `        return walkAndHighlight(document.body, regex, wordMap);`,
@@ -113,13 +133,11 @@
 
   function executeWhenBbcIsSettled(source) {
     const run = () => {
-      // Give BBC's client-side header/navigation render time to finish before the
-      // Daily Reader implementation is evaluated at all.
       setTimeout(() => {
         try {
           const patched = patchImplementation(source);
           eval(patched);
-          console.log(LOG_PREFIX, 'v1.3.5 fully isolated loader active');
+          console.log(LOG_PREFIX, 'v1.3.6 body-isolated UI active');
         } catch (error) {
           console.error(LOG_PREFIX, 'failed to patch/execute implementation:', error);
         }
