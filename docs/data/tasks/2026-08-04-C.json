@@ -1,0 +1,163 @@
+{
+  "date": "2026-08-04",
+  "article_id": "C",
+  "article_title": "Artificial intelligence: Why firms are struggling to set prices",
+  "article_url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why are AI companies and their customers struggling with pricing?",
+      "options": [
+        "AI products have no operating costs",
+        "Usage, value and computing costs vary, making both charges and budgets difficult to predict",
+        "Every provider uses the same fixed price",
+        "Customers refuse to use paid AI features"
+      ],
+      "correct_answer": "Usage, value and computing costs vary, making both charges and budgets difficult to predict",
+      "explanation_hebrew": "הקושי המרכזי הוא שהשימוש, הערך והעלות משתנים מאוד, ולכן קשה לספקים לתמחר וללקוחות לתכנן תקציב.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why do leading AI firms offer paid versions of their systems?",
+      "options": [
+        "To recoup heavy investment and charge for additional capabilities",
+        "To stop users from accessing coding tools",
+        "To replace all subscriptions with advertising",
+        "To make token use impossible to measure"
+      ],
+      "correct_answer": "To recoup heavy investment and charge for additional capabilities",
+      "explanation_hebrew": "החברות השקיעו סכומים גדולים ורוצות להחזיר את ההשקעה באמצעות גרסאות בתשלום ותכונות נוספות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is a “token” in common usage-based AI pricing?",
+      "options": [
+        "A company share",
+        "A fixed monthly salary",
+        "A unit of text processed by an AI model",
+        "A guarantee that the answer is correct"
+      ],
+      "correct_answer": "A unit of text processed by an AI model",
+      "explanation_hebrew": "token הוא יחידת טקסט שהמודל מעבד, ומשמש לעיתים כבסיס לחיוב לפי שימוש.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can falling token prices still lead to a larger total AI bill?",
+      "options": [
+        "Providers always double every invoice",
+        "Firms stop monitoring consumption",
+        "Cheaper units can encourage much greater use, especially by multi-step agents",
+        "Token prices determine employee salaries directly"
+      ],
+      "correct_answer": "Cheaper units can encourage much greater use, especially by multi-step agents",
+      "explanation_hebrew": "גם כשמחיר היחידה יורד, צריכה מוגברת ותהליכים מרובי צעדים יכולים להעלות את ההוצאה הכוללת.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “recoup” mean?",
+      "options": [
+        "Predict a future cost",
+        "Recover money that was invested or spent",
+        "Convert text into tokens",
+        "Hide a loss from shareholders"
+      ],
+      "correct_answer": "Recover money that was invested or spent",
+      "explanation_hebrew": "recoup פירושו להשיב הוצאה או להחזיר כסף שהושקע.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "If AI costs “balloon”, what has happened?",
+      "options": [
+        "They have grown rapidly",
+        "They have become precisely predictable",
+        "They have been converted into shares",
+        "They have stopped changing"
+      ],
+      "correct_answer": "They have grown rapidly",
+      "explanation_hebrew": "balloon כפועל פירושו לגדול במהירות או לתפוח.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain the contrast between “plummeted”, “skyrocketed” and “variable” in the pricing discussion. Answer in 3–4 sentences.",
+      "rubric_hebrew": "יש להסביר ירידה חדה, עלייה חדה ושינוי לא קבוע, וליישם על מחיר יחידה לעומת צריכה או חשבון כולל.",
+      "expected_points": [
+        "Plummeted means fell sharply",
+        "Skyrocketed means rose sharply",
+        "Variable means changing rather than fixed",
+        "A per-token price can fall while usage or total spending rises"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might a predictable subscription price be attractive to a buyer but risky for an AI provider? Answer in 4–6 sentences.",
+      "rubric_hebrew": "יש להציג ודאות תקציבית ללקוח מול סיכון של שימוש כבד ועלויות חישוב לא צפויות לספק.",
+      "expected_points": [
+        "A subscription gives the buyer budget certainty",
+        "Customers may use very different amounts of computing",
+        "Heavy users can cost the provider more than the fixed fee covers",
+        "The provider may need limits, tiers or usage charges"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 120–170 word summary comparing subscriptions, usage-based token pricing and bundles, and explain why none perfectly solves the AI pricing problem.",
+      "rubric_hebrew": "יש להשוות בין ודאות, קשר לצריכה, מורכבות וערך; ולהזכיר השקעות, עלויות משתנות ולחץ לרווחיות.",
+      "expected_points": [
+        "AI firms need to recoup large investments and satisfy shareholders",
+        "Subscriptions are predictable but may not reflect actual usage",
+        "Token pricing links charges to consumption but bills can be volatile and hard to understand",
+        "Bundles or tiers simplify purchasing but may still mismatch value and cost",
+        "Rapid changes in models, features and consumption make long-term pricing difficult"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Recommend a pricing model for a company adopting AI coding agents, and defend it in 6–8 sentences using evidence from the article.",
+      "rubric_hebrew": "יש לבחור מודל ברור, להתייחס לצריכה מרובת צעדים, ודאות תקציבית, מגבלות שימוש, ערך ובקרה על עלויות.",
+      "expected_points": [
+        "State a clear recommendation such as a capped usage plan or tiered bundle",
+        "Explain that coding agents may consume many tokens across multiple steps",
+        "Include a spending cap or monitoring mechanism for predictability",
+        "Address the provider’s need to cover computing costs",
+        "Explain how the model connects price to business value"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

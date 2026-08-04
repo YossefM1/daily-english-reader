@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-04",
+  "article_id": "B",
+  "article_title": "Breast cancer checks missing lots of at risk younger women, says study",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the study’s central finding?",
+      "options": [
+        "Younger women no longer need breast-cancer risk checks",
+        "Current NICE referral criteria miss many under-50 women who are at increased risk",
+        "Family history predicts every breast-cancer case",
+        "The NHS has already replaced all existing criteria"
+      ],
+      "correct_answer": "Current NICE referral criteria miss many under-50 women who are at increased risk",
+      "explanation_hebrew": "המחקר מצא שהקריטריונים הקיימים להפניה מפספסים נשים רבות מתחת לגיל 50 שנמצאות בסיכון מוגבר.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many women under 50 were included in the researchers’ analysis?",
+      "options": [
+        "1,258",
+        "95",
+        "27,000",
+        "59,400"
+      ],
+      "correct_answer": "1,258",
+      "explanation_hebrew": "החוקרים מאוניברסיטת קיימברידג׳ ניתחו נתונים של 1,258 נשים מתחת לגיל 50.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the Boadicea model achieve compared with the current approach?",
+      "options": [
+        "It removed the need for specialist assessment",
+        "It referred fewer women than NICE criteria",
+        "It identified about eight times as many women who developed breast cancer",
+        "It predicted cancer with complete certainty"
+      ],
+      "correct_answer": "It identified about eight times as many women who developed breast cancer",
+      "explanation_hebrew": "המודל Boadicea זיהה בערך פי שמונה יותר נשים שפיתחו את המחלה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What proportion of under-50 women might be classed above population-level risk using Boadicea?",
+      "options": [
+        "1.4%",
+        "4.4%",
+        "95%",
+        "Almost 27%"
+      ],
+      "correct_answer": "Almost 27%",
+      "explanation_hebrew": "הניתוח העריך שכמעט 27% יסווגו כבעלות סיכון מעל רמת האוכלוסייה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “referred” mean?",
+      "options": [
+        "Sent to another service for further assessment",
+        "Removed from the research data",
+        "Declared completely healthy",
+        "Asked to pay for treatment"
+      ],
+      "correct_answer": "Sent to another service for further assessment",
+      "explanation_hebrew": "referred פירושו הופנתה להמשך הערכה או טיפול אצל שירות מתאים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “multifactorial” mean when describing a risk model?",
+      "options": [
+        "Based only on age",
+        "Combining several different risk factors",
+        "Ignoring family history",
+        "Using one laboratory result"
+      ],
+      "correct_answer": "Combining several different risk factors",
+      "explanation_hebrew": "multifactorial מתאר מודל שמשלב כמה גורמי סיכון, ולא מסתמך רק על גורם אחד.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain the difference between “criterion”, “assessment” and “risk” as used in the article. Answer in 3–4 sentences.",
+      "rubric_hebrew": "יש להגדיר אמת מידה, הערכה מקצועית והסתברות למחלה, ולהראות את הקשר ביניהם.",
+      "expected_points": [
+        "A criterion is a rule used to decide who qualifies for referral",
+        "Assessment is a more detailed evaluation by professionals",
+        "Risk is the estimated likelihood of developing disease",
+        "Criteria determine who receives further assessment of risk"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might identifying high-risk women earlier improve outcomes? Answer in 3–5 sentences.",
+      "rubric_hebrew": "יש לקשר בין זיהוי מוקדם, מעקב או מניעה, אבחון מוקדם וסיכויי הצלחה גבוהים יותר של טיפול.",
+      "expected_points": [
+        "Earlier identification can lead to targeted monitoring or preventive support",
+        "Cancer may be detected before it spreads",
+        "Treatment is more likely to succeed when disease is found earlier",
+        "The approach may allow more personalised care"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 90–130 word summary covering the weakness of current NICE criteria, the Cambridge study, Boadicea and the debate about changing practice.",
+      "rubric_hebrew": "יש לכלול הסתמכות על היסטוריה משפחתית, 1,258 נשים, שיעור ההחמצה, יתרון Boadicea והצורך במשאבים/מחקר נוסף.",
+      "expected_points": [
+        "Current referral criteria rely heavily on family history and miss many higher-risk women",
+        "Researchers analysed 1,258 women under 50",
+        "Boadicea identified substantially more women at increased risk",
+        "Earlier identification could support prevention or earlier treatment",
+        "NICE said more evidence on feasibility and outcomes is needed before changing guidance"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Evaluate one benefit and two practical concerns about replacing the current criteria with a broader risk model. Write 5–7 sentences.",
+      "rubric_hebrew": "יש להציג תועלת בזיהוי מוקדם ושני חששות כגון כוח אדם, ציוד, חרדה, שוויון או הפניות מיותרות.",
+      "expected_points": [
+        "Benefit: more high-risk women could receive earlier support",
+        "Concern: extra referrals require staff, equipment and funding",
+        "Concern: additional testing may cause anxiety or unequal access",
+        "Conclude that implementation should be evaluated carefully"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}

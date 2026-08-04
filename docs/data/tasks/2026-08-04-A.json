@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-04",
+  "article_id": "A",
+  "article_title": "Half price rail travel extended to 18-year-olds",
+  "article_url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main change announced for the 16–17 Saver Railcard?",
+      "options": [
+        "It will be free for every passenger under 25",
+        "It will remain valid for a full year from purchase, even after the holder turns 18",
+        "It will offer free travel only at weekends",
+        "It will be replaced by the 16–25 Railcard"
+      ],
+      "correct_answer": "It will remain valid for a full year from purchase, even after the holder turns 18",
+      "explanation_hebrew": "הכרטיס יהיה תקף שנה מלאה מיום הרכישה, במקום לפוג אוטומטית כשהמחזיק מגיע לגיל 18.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much does the 16–17 Saver cost for one year?",
+      "options": [
+        "£35",
+        "£17",
+        "£70",
+        "It is free"
+      ],
+      "correct_answer": "£35",
+      "explanation_hebrew": "עלות הכרטיס לשנה היא 35 ליש״ט.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What discount does the Saver give on most rail fares?",
+      "options": [
+        "One quarter off",
+        "One third off",
+        "Half price",
+        "Free travel"
+      ],
+      "correct_answer": "Half price",
+      "explanation_hebrew": "הכרטיס מזכה בהנחה של 50% על רוב דמי הנסיעה ברכבת.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When is the new full-year validity rule due to begin?",
+      "options": [
+        "1 September 2027",
+        "Immediately after every birthday",
+        "At the end of the academic year",
+        "17 August 2026"
+      ],
+      "correct_answer": "17 August 2026",
+      "explanation_hebrew": "לפי ההכרזה, השינוי נכנס לתוקף ב־17 באוגוסט 2026.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “expires” mean?",
+      "options": [
+        "Becomes more expensive",
+        "Stops being valid",
+        "Is purchased online",
+        "Provides a discount"
+      ],
+      "correct_answer": "Stops being valid",
+      "explanation_hebrew": "expires פירושו שפג התוקף והכרטיס כבר אינו תקף.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "If a card “entitles” a holder to half-price fares, what does “entitles” mean?",
+      "options": [
+        "Gives the holder the right to receive the discount",
+        "Forces the holder to travel daily",
+        "Prevents the holder from buying tickets",
+        "Makes the holder pay twice"
+      ],
+      "correct_answer": "Gives the holder the right to receive the discount",
+      "explanation_hebrew": "entitles פירושו מעניק זכות לקבל הטבה מסוימת.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain the difference between “fare”, “valid” and “purchase” in the context of the Railcard. Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להגדיר מחיר נסיעה, תקפות ורכישה וליישם כל מילה על הכרטיס.",
+      "expected_points": [
+        "A fare is the price paid for a journey",
+        "Valid means the card can legally be used during that period",
+        "Purchase means buying the Railcard"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why could the old rule have treated students of the same academic year differently? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שתאריך יום ההולדת, ולא שנת הלימודים או הצורך בנסיעה, קבע מתי פגה ההנחה.",
+      "expected_points": [
+        "The old card expired when a holder turned 18",
+        "Students with earlier birthdays lost the discount sooner than classmates",
+        "The new full-year rule reduces this birthday-based difference"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 70–100 word summary including the card’s cost, discount, old expiry rule, new rule and intended beneficiaries.",
+      "rubric_hebrew": "יש לכלול 35 ליש״ט, חצי מחיר, הפקיעה בגיל 18, שנה מלאה מיום הרכישה ותלמידים/מתלמדים.",
+      "expected_points": [
+        "The 16–17 Saver costs £35 and gives 50% off most fares",
+        "Previously it could expire when the holder turned 18",
+        "From 17 August 2026 it is valid for a full year from purchase",
+        "The change is intended to help young people travelling to education or training"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Use the figures in the article to explain why the government described the extension as important for young travellers. Write 3–4 sentences.",
+      "rubric_hebrew": "יש להשתמש בלפחות שני נתונים: יותר מ־70,000 צעירים, הפסד ממוצע של 175 ליש״ט, עלות הכרטיס או גובה ההנחה.",
+      "expected_points": [
+        "More than 70,000 young people were said to miss the discount under the old rule",
+        "Those affected were on average £175 worse off",
+        "The card costs £35 and offers 50% off most fares",
+        "Connect the figures to travel for school, college or training"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
