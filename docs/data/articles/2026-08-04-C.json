@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-04",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Artificial intelligence: Why firms are struggling to set prices",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-08-03T23:21:10+00:00",
+  "age_hours_at_selection": 2.86,
+  "word_count": 957,
+  "generated_at": "2026-08-04T02:12:36.391551+00:00",
+  "difficulty_reason": "Longer analytical business feature with many expert quotes, dense economic and technical concepts, complex sentences and B2/C1/C2 vocabulary requiring background on AI and pricing.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "recoup",
+      "lemma": "recoup",
+      "level": "C1",
+      "hebrew": "להשיב / להחזיר",
+      "explanation_hebrew": "להרוויח בחזרה כסף שהושקע",
+      "pronunciation_hebrew": "רִיקוּפּ",
+      "example": "They want to recoup their investment."
+    },
+    {
+      "word": "incorporating",
+      "lemma": "incorporate",
+      "level": "C1",
+      "hebrew": "משלב",
+      "explanation_hebrew": "מכניס דבר כחלק ממערכת",
+      "pronunciation_hebrew": "אִינְקוֹרְפּוֹרֵייטִינְג",
+      "example": "The firm is incorporating AI into its product."
+    },
+    {
+      "word": "predictable",
+      "lemma": "predictable",
+      "level": "B2",
+      "hebrew": "צפוי",
+      "explanation_hebrew": "שאפשר לחזות מראש",
+      "pronunciation_hebrew": "פְּרִידִיקְטַבֶּל",
+      "example": "The results are not predictable."
+    },
+    {
+      "word": "variations",
+      "lemma": "variation",
+      "level": "B2",
+      "hebrew": "שינויים / וריאציות",
+      "explanation_hebrew": "הבדלים קטנים בין דברים",
+      "pronunciation_hebrew": "וֶארִיאֵיישֶׁנְז",
+      "example": "Small variations change the answer."
+    },
+    {
+      "word": "invested",
+      "lemma": "invest",
+      "level": "B2",
+      "hebrew": "השקיע",
+      "explanation_hebrew": "שם כסף בתקווה לרווח עתידי",
+      "pronunciation_hebrew": "אִינְוֶסְטֶד",
+      "example": "They invested billions in new models."
+    },
+    {
+      "word": "plummeted",
+      "lemma": "plummet",
+      "level": "C1",
+      "hebrew": "צנח",
+      "explanation_hebrew": "ירד בחדות ובמהירות",
+      "pronunciation_hebrew": "פְּלַאמֶטֶד",
+      "example": "Token costs have plummeted."
+    },
+    {
+      "word": "skyrocketed",
+      "lemma": "skyrocket",
+      "level": "C1",
+      "hebrew": "המריא",
+      "explanation_hebrew": "עלה מאוד ובמהירות",
+      "pronunciation_hebrew": "סְקַייְרוֹקֶטֶד",
+      "example": "Token use has skyrocketed."
+    },
+    {
+      "word": "consumption",
+      "lemma": "consumption",
+      "level": "B2",
+      "hebrew": "צריכה",
+      "explanation_hebrew": "שימוש בכמות של משאב",
+      "pronunciation_hebrew": "קוֹנְסַמְפְּשֶׁן",
+      "example": "Energy consumption is rising."
+    },
+    {
+      "word": "forecasts",
+      "lemma": "forecast",
+      "level": "B2",
+      "hebrew": "חוזה / תחזית",
+      "explanation_hebrew": "מנבא מה יקרה בעתיד",
+      "pronunciation_hebrew": "פוֹרְקָאסְטְס",
+      "example": "The bank forecasts huge growth."
+    },
+    {
+      "word": "tenuous",
+      "lemma": "tenuous",
+      "level": "C2",
+      "hebrew": "רופף",
+      "explanation_hebrew": "חלש, לא בטוח או לא יציב",
+      "pronunciation_hebrew": "טֶנְיוּאַס",
+      "example": "They have a tenuous grasp of the costs."
+    },
+    {
+      "word": "grasp",
+      "lemma": "grasp",
+      "level": "B2",
+      "hebrew": "הבנה / תפיסה",
+      "explanation_hebrew": "הבנה של רעיון",
+      "pronunciation_hebrew": "גְרָאסְפּ",
+      "example": "He has a good grasp of the topic."
+    },
+    {
+      "word": "reportedly",
+      "lemma": "reportedly",
+      "level": "C1",
+      "hebrew": "לפי הדיווחים",
+      "explanation_hebrew": "כפי שנמסר, לא באופן ודאי",
+      "pronunciation_hebrew": "רִיפּוֹרְטֶדְלִי",
+      "example": "The firm reportedly cut its budget."
+    },
+    {
+      "word": "implement",
+      "lemma": "implement",
+      "level": "B2",
+      "hebrew": "ליישם",
+      "explanation_hebrew": "להוציא רעיון או תוכנית לפועל",
+      "pronunciation_hebrew": "אִימְפְּלִמֶנְט",
+      "example": "They plan to implement AI internally."
+    },
+    {
+      "word": "precise",
+      "lemma": "precise",
+      "level": "B2",
+      "hebrew": "מדויק",
+      "explanation_hebrew": "ברור ומדויק בפרטים",
+      "pronunciation_hebrew": "פְּרִיסַייס",
+      "example": "Be precise with your instructions."
+    },
+    {
+      "word": "balloon",
+      "lemma": "balloon",
+      "level": "C1",
+      "hebrew": "לתפוח / לנסוק",
+      "explanation_hebrew": "לגדול מהר ובלי שליטה",
+      "pronunciation_hebrew": "בָּלוּן",
+      "example": "Costs could balloon quickly."
+    },
+    {
+      "word": "implementing",
+      "lemma": "implement",
+      "level": "B2",
+      "hebrew": "מיישם",
+      "explanation_hebrew": "מוציא לפועל תוכנית או מערכת",
+      "pronunciation_hebrew": "אִימְפְּלִמֶנְטִינְג",
+      "example": "They are implementing new guard rails."
+    },
+    {
+      "word": "expanding",
+      "lemma": "expand",
+      "level": "B2",
+      "hebrew": "מרחיב",
+      "explanation_hebrew": "מגדיל בגודל או בהיקף",
+      "pronunciation_hebrew": "אִיקְסְפָּנְדִינְג",
+      "example": "The company is expanding its workforce."
+    },
+    {
+      "word": "headcount",
+      "lemma": "headcount",
+      "level": "C1",
+      "hebrew": "מצבת כוח אדם",
+      "explanation_hebrew": "מספר העובדים בארגון",
+      "pronunciation_hebrew": "הֶדְקַאוּנְט",
+      "example": "They discussed the headcount carefully."
+    },
+    {
+      "word": "ultimately",
+      "lemma": "ultimately",
+      "level": "B2",
+      "hebrew": "בסופו של דבר",
+      "explanation_hebrew": "בסוף, בשורה התחתונה",
+      "pronunciation_hebrew": "אַלְטִימֶטְלִי",
+      "example": "Ultimately, the value may be higher."
+    },
+    {
+      "word": "upended",
+      "lemma": "upend",
+      "level": "C2",
+      "hebrew": "הפך / טרף",
+      "explanation_hebrew": "שינה לחלוטין וללא צפי",
+      "pronunciation_hebrew": "אַפֶּנְדֶד",
+      "example": "New pricing upended their plans."
+    },
+    {
+      "word": "previewing",
+      "lemma": "preview",
+      "level": "B2",
+      "hebrew": "מציג לתצוגה מקדימה",
+      "explanation_hebrew": "מראה משהו לפני ההשקה",
+      "pronunciation_hebrew": "פְּרִיוְיוּאִינְג",
+      "example": "The firm is previewing new services."
+    },
+    {
+      "word": "bundles",
+      "lemma": "bundle",
+      "level": "B2",
+      "hebrew": "חבילות",
+      "explanation_hebrew": "קבוצות של פריטים יחד",
+      "pronunciation_hebrew": "בַּאנְדֶלְז",
+      "example": "They may sell bundles of services."
+    },
+    {
+      "word": "variable",
+      "lemma": "variable",
+      "level": "B2",
+      "hebrew": "משתנה",
+      "explanation_hebrew": "לא קבוע, יכול להשתנות",
+      "pronunciation_hebrew": "וֵארִיאַבֶּל",
+      "example": "Variable pricing is hard to budget."
+    },
+    {
+      "word": "shareholders",
+      "lemma": "shareholder",
+      "level": "C1",
+      "hebrew": "בעלי מניות",
+      "explanation_hebrew": "אנשים שמחזיקים מניות בחברה",
+      "pronunciation_hebrew": "שֶרְהוֹלְדֶרְז",
+      "example": "Shareholders want to see a profit."
+    },
+    {
+      "word": "converted",
+      "lemma": "convert",
+      "level": "B2",
+      "hebrew": "הומר / הופך",
+      "explanation_hebrew": "שונה מצורה אחת לאחרת",
+      "pronunciation_hebrew": "קוֹנְוֶרְטֶד",
+      "example": "Tokens are converted back into text."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "recoup",
+      "type": "english_to_hebrew",
+      "question": "What does “recoup” mean?",
+      "options": [
+        "להשיב / להחזיר",
+        "להפסיד",
+        "לבזבז",
+        "להשקיע"
+      ],
+      "correct_answer": "להשיב / להחזיר",
+      "explanation_hebrew": "recoup = להשיב הוצאה, להחזיר"
+    },
+    {
+      "id": "C-q2",
+      "word": "incorporating",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“משלב”?",
+      "options": [
+        "copying",
+        "removing",
+        "incorporating",
+        "testing"
+      ],
+      "correct_answer": "incorporating",
+      "explanation_hebrew": "incorporate = לשלב, לשלב בתוך"
+    },
+    {
+      "id": "C-q3",
+      "word": "predictable",
+      "type": "english_to_hebrew",
+      "question": "What does “predictable” mean?",
+      "options": [
+        "מקרי",
+        "צפוי",
+        "נדיר",
+        "מפתיע"
+      ],
+      "correct_answer": "צפוי",
+      "explanation_hebrew": "predictable = צפוי"
+    },
+    {
+      "id": "C-q4",
+      "word": "variations",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“שינויים / וריאציות”?",
+      "options": [
+        "copies",
+        "totals",
+        "variations",
+        "limits"
+      ],
+      "correct_answer": "variations",
+      "explanation_hebrew": "variation = שינוי, וריאציה"
+    },
+    {
+      "id": "C-q5",
+      "word": "invested",
+      "type": "english_to_hebrew",
+      "question": "What does “invested” mean?",
+      "options": [
+        "בזבז",
+        "חסך",
+        "השקיע",
+        "הרוויח"
+      ],
+      "correct_answer": "השקיע",
+      "explanation_hebrew": "invest = להשקיע"
+    },
+    {
+      "id": "C-q6",
+      "word": "plummeted",
+      "type": "english_to_hebrew",
+      "question": "What does “plummeted” mean?",
+      "options": [
+        "נעצר",
+        "צנח",
+        "זינק",
+        "התייצב"
+      ],
+      "correct_answer": "צנח",
+      "explanation_hebrew": "plummet = לצנוח, לצלול"
+    },
+    {
+      "id": "C-q7",
+      "word": "skyrocketed",
+      "type": "english_to_hebrew",
+      "question": "What does “skyrocketed” mean?",
+      "options": [
+        "קפא",
+        "המריא",
+        "צנח",
+        "ירד"
+      ],
+      "correct_answer": "המריא",
+      "explanation_hebrew": "skyrocket = להאמיר, לזנק"
+    },
+    {
+      "id": "C-q8",
+      "word": "consumption",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“צריכה”?",
+      "options": [
+        "consumption",
+        "supply",
+        "storage",
+        "saving"
+      ],
+      "correct_answer": "consumption",
+      "explanation_hebrew": "consumption = צריכה, שימוש"
+    },
+    {
+      "id": "C-q9",
+      "word": "forecasts",
+      "type": "english_to_hebrew",
+      "question": "What does “forecasts” mean?",
+      "options": [
+        "מכחיש",
+        "זוכר",
+        "חוזה / תחזית",
+        "מתאר"
+      ],
+      "correct_answer": "חוזה / תחזית",
+      "explanation_hebrew": "forecast = לחזות, תחזית"
+    },
+    {
+      "id": "C-q10",
+      "word": "tenuous",
+      "type": "english_to_hebrew",
+      "question": "What does “tenuous” mean?",
+      "options": [
+        "ברור",
+        "חזק",
+        "קבוע",
+        "רופף"
+      ],
+      "correct_answer": "רופף",
+      "explanation_hebrew": "tenuous = רופף, קלוש"
+    },
+    {
+      "id": "C-q11",
+      "word": "grasp",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“הבנה / תפיסה”?",
+      "options": [
+        "grasp",
+        "habit",
+        "memory",
+        "doubt"
+      ],
+      "correct_answer": "grasp",
+      "explanation_hebrew": "grasp = הבנה, תפיסה"
+    },
+    {
+      "id": "C-q12",
+      "word": "reportedly",
+      "type": "english_to_hebrew",
+      "question": "What does “reportedly” mean?",
+      "options": [
+        "בוודאות",
+        "לפי הדיווחים",
+        "באופן רשמי",
+        "בסתר"
+      ],
+      "correct_answer": "לפי הדיווחים",
+      "explanation_hebrew": "reportedly = לפי הדיווחים"
+    },
+    {
+      "id": "C-q13",
+      "word": "implement",
+      "type": "english_to_hebrew",
+      "question": "What does “implement” mean?",
+      "options": [
+        "ליישם",
+        "לבטל",
+        "לתכנן",
+        "לדחות"
+      ],
+      "correct_answer": "ליישם",
+      "explanation_hebrew": "implement = ליישם, להוציא לפועל"
+    },
+    {
+      "id": "C-q14",
+      "word": "precise",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“מדויק”?",
+      "options": [
+        "precise",
+        "random",
+        "vague",
+        "broad"
+      ],
+      "correct_answer": "precise",
+      "explanation_hebrew": "precise = מדויק"
+    },
+    {
+      "id": "C-q15",
+      "word": "balloon",
+      "type": "english_to_hebrew",
+      "question": "What does “balloon” mean?",
+      "options": [
+        "לתפוח / לנסוק",
+        "להיעצר",
+        "להתכווץ",
+        "להתייצב"
+      ],
+      "correct_answer": "לתפוח / לנסוק",
+      "explanation_hebrew": "balloon (פועל) = לתפוח, לגדול מהר"
+    },
+    {
+      "id": "C-q16",
+      "word": "implementing",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“מיישם”?",
+      "options": [
+        "cancelling",
+        "implementing",
+        "delaying",
+        "planning"
+      ],
+      "correct_answer": "implementing",
+      "explanation_hebrew": "implement = ליישם"
+    },
+    {
+      "id": "C-q17",
+      "word": "expanding",
+      "type": "english_to_hebrew",
+      "question": "What does “expanding” mean?",
+      "options": [
+        "סוגר",
+        "מרחיב",
+        "מצמצם",
+        "עוצר"
+      ],
+      "correct_answer": "מרחיב",
+      "explanation_hebrew": "expand = להרחיב, להתרחב"
+    },
+    {
+      "id": "C-q18",
+      "word": "headcount",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“מצבת כוח אדם”?",
+      "options": [
+        "headcount",
+        "schedule",
+        "salary",
+        "budget"
+      ],
+      "correct_answer": "headcount",
+      "explanation_hebrew": "headcount = מצבת עובדים, מספר עובדים"
+    },
+    {
+      "id": "C-q19",
+      "word": "ultimately",
+      "type": "english_to_hebrew",
+      "question": "What does “ultimately” mean?",
+      "options": [
+        "במקרה",
+        "בהתחלה",
+        "בסופו של דבר",
+        "בקושי"
+      ],
+      "correct_answer": "בסופו של דבר",
+      "explanation_hebrew": "ultimately = בסופו של דבר"
+    },
+    {
+      "id": "C-q20",
+      "word": "upended",
+      "type": "english_to_hebrew",
+      "question": "What does “upended” mean?",
+      "options": [
+        "הפך / טרף",
+        "המשיך",
+        "חיזק",
+        "שימר"
+      ],
+      "correct_answer": "הפך / טרף",
+      "explanation_hebrew": "upend = להפוך, לטרוף (מצב)"
+    },
+    {
+      "id": "C-q21",
+      "word": "previewing",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“מציג לתצוגה מקדימה”?",
+      "options": [
+        "hiding",
+        "selling",
+        "closing",
+        "previewing"
+      ],
+      "correct_answer": "previewing",
+      "explanation_hebrew": "preview = תצוגה מקדימה, להציג מראש"
+    },
+    {
+      "id": "C-q22",
+      "word": "bundles",
+      "type": "english_to_hebrew",
+      "question": "What does “bundles” mean?",
+      "options": [
+        "יחידות",
+        "חוסרים",
+        "חבילות",
+        "שאריות"
+      ],
+      "correct_answer": "חבילות",
+      "explanation_hebrew": "bundle = חבילה, מקבץ"
+    },
+    {
+      "id": "C-q23",
+      "word": "variable",
+      "type": "english_to_hebrew",
+      "question": "What does “variable” mean?",
+      "options": [
+        "משתנה",
+        "קבוע",
+        "יציב",
+        "אחיד"
+      ],
+      "correct_answer": "משתנה",
+      "explanation_hebrew": "variable = משתנה, לא קבוע"
+    },
+    {
+      "id": "C-q24",
+      "word": "shareholders",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“בעלי מניות”?",
+      "options": [
+        "customers",
+        "shareholders",
+        "workers",
+        "managers"
+      ],
+      "correct_answer": "shareholders",
+      "explanation_hebrew": "shareholder = בעל מניות"
+    },
+    {
+      "id": "C-q25",
+      "word": "converted",
+      "type": "english_to_hebrew",
+      "question": "What does “converted” mean?",
+      "options": [
+        "הועתק",
+        "נשמר",
+        "הומר / הופך",
+        "נמחק"
+      ],
+      "correct_answer": "הומר / הופך",
+      "explanation_hebrew": "convert = להמיר, להפוך"
+    }
+  ]
+}

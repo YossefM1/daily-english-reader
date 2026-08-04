@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-04",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Half price rail travel extended to 18-year-olds",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-08-03T23:34:13+00:00",
+  "age_hours_at_selection": 2.64,
+  "word_count": 324,
+  "generated_at": "2026-08-04T02:12:36.391551+00:00",
+  "difficulty_reason": "Short, direct news report with a single clear story and simple structure; mostly B1/B2 vocabulary and very little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "extension",
+      "lemma": "extension",
+      "level": "B2",
+      "hebrew": "הרחבה",
+      "explanation_hebrew": "הגדלה או המשך של דבר קיים",
+      "pronunciation_hebrew": "אֶקְסְטֶנְשֶׁן",
+      "example": "The extension of the deadline helped everyone."
+    },
+    {
+      "word": "expires",
+      "lemma": "expire",
+      "level": "B2",
+      "hebrew": "פג תוקף",
+      "explanation_hebrew": "מסתיים או מאבד תוקף",
+      "pronunciation_hebrew": "אִיקְסְפַּיְירְז",
+      "example": "My passport expires next year."
+    },
+    {
+      "word": "valid",
+      "lemma": "valid",
+      "level": "B1",
+      "hebrew": "תקף",
+      "explanation_hebrew": "בעל תוקף חוקי או נכון",
+      "pronunciation_hebrew": "וָואלִיד",
+      "example": "The ticket is valid for one month."
+    },
+    {
+      "word": "purchase",
+      "lemma": "purchase",
+      "level": "B1",
+      "hebrew": "רכישה",
+      "explanation_hebrew": "קניית מוצר או שירות",
+      "pronunciation_hebrew": "פֶּרְצֶ'ס",
+      "example": "The purchase was cheaper online."
+    },
+    {
+      "word": "average",
+      "lemma": "average",
+      "level": "B1",
+      "hebrew": "ממוצע",
+      "explanation_hebrew": "ערך אמצעי אופייני",
+      "pronunciation_hebrew": "אָבֶרַג'",
+      "example": "The average price rose this year."
+    },
+    {
+      "word": "entitles",
+      "lemma": "entitle",
+      "level": "B2",
+      "hebrew": "מזכה",
+      "explanation_hebrew": "נותן זכות לקבל משהו",
+      "pronunciation_hebrew": "אֶנְטַייטֶלְז",
+      "example": "This card entitles you to a discount."
+    },
+    {
+      "word": "fares",
+      "lemma": "fare",
+      "level": "B1",
+      "hebrew": "דמי נסיעה",
+      "explanation_hebrew": "מחיר של נסיעה בתחבורה",
+      "pronunciation_hebrew": "פֶרְז",
+      "example": "Train fares went up again."
+    },
+    {
+      "word": "claimed",
+      "lemma": "claim",
+      "level": "B1",
+      "hebrew": "טען",
+      "explanation_hebrew": "אמר שמשהו נכון בלי הוכחה",
+      "pronunciation_hebrew": "קְלֵיימְד",
+      "example": "He claimed the change would help."
+    },
+    {
+      "word": "passengers",
+      "lemma": "passenger",
+      "level": "B1",
+      "hebrew": "נוסעים",
+      "explanation_hebrew": "אנשים שנוסעים בתחבורה",
+      "pronunciation_hebrew": "פָּסֶנְגֶ'רְז",
+      "example": "The passengers waited on the platform."
+    },
+    {
+      "word": "vocational",
+      "lemma": "vocational",
+      "level": "C1",
+      "hebrew": "מקצועי",
+      "explanation_hebrew": "הקשור להכשרה לעבודה",
+      "pronunciation_hebrew": "ווֹקֵיישֶׁנַל",
+      "example": "She chose a vocational course instead of university."
+    },
+    {
+      "word": "pathways",
+      "lemma": "pathway",
+      "level": "B2",
+      "hebrew": "מסלולים",
+      "explanation_hebrew": "דרכים או אפשרויות התקדמות",
+      "pronunciation_hebrew": "פָּאתְ'וֵויְז",
+      "example": "There are many pathways into the job market."
+    },
+    {
+      "word": "pursuing",
+      "lemma": "pursue",
+      "level": "B2",
+      "hebrew": "רודף אחר / שואף",
+      "explanation_hebrew": "פועל כדי להשיג מטרה",
+      "pronunciation_hebrew": "פֶּרְסוּאִינְג",
+      "example": "She is pursuing a career in law."
+    },
+    {
+      "word": "critical",
+      "lemma": "critical",
+      "level": "B2",
+      "hebrew": "קריטי",
+      "explanation_hebrew": "חשוב מאוד או מכריע",
+      "pronunciation_hebrew": "קְרִיטִיקַל",
+      "example": "This is a critical moment for the team."
+    },
+    {
+      "word": "commitment",
+      "lemma": "commitment",
+      "level": "B2",
+      "hebrew": "מחויבות",
+      "explanation_hebrew": "התחייבות לעשות משהו",
+      "pronunciation_hebrew": "קוֹמִיטְמֶנְט",
+      "example": "The company showed commitment to quality."
+    },
+    {
+      "word": "essential",
+      "lemma": "essential",
+      "level": "B1",
+      "hebrew": "חיוני",
+      "explanation_hebrew": "הכרחי מאוד",
+      "pronunciation_hebrew": "אֶסֶנְשֶׁל",
+      "example": "Water is essential for life."
+    },
+    {
+      "word": "reliant",
+      "lemma": "reliant",
+      "level": "C1",
+      "hebrew": "תלוי",
+      "explanation_hebrew": "מסתמך על משהו או מישהו",
+      "pronunciation_hebrew": "רִילַייאַנְט",
+      "example": "Many students are reliant on trains."
+    },
+    {
+      "word": "entitled",
+      "lemma": "entitle",
+      "level": "B2",
+      "hebrew": "זכאי",
+      "explanation_hebrew": "בעל זכות לקבל משהו",
+      "pronunciation_hebrew": "אֶנְטַייטֶלְד",
+      "example": "They were entitled to a refund."
+    },
+    {
+      "word": "announcement",
+      "lemma": "announcement",
+      "level": "B1",
+      "hebrew": "הכרזה",
+      "explanation_hebrew": "הודעה רשמית פומבית",
+      "pronunciation_hebrew": "אֶנַאוּנְסְמֶנְט",
+      "example": "The announcement surprised everyone."
+    },
+    {
+      "word": "cap",
+      "lemma": "cap",
+      "level": "B2",
+      "hebrew": "תקרה",
+      "explanation_hebrew": "גבול עליון על מחיר או כמות",
+      "pronunciation_hebrew": "קָאפּ",
+      "example": "The government set a price cap."
+    },
+    {
+      "word": "sector",
+      "lemma": "sector",
+      "level": "B2",
+      "hebrew": "מגזר",
+      "explanation_hebrew": "חלק מסוים בכלכלה או בחברה",
+      "pronunciation_hebrew": "סֶקְטוֹר",
+      "example": "The transport sector is growing."
+    },
+    {
+      "word": "existing",
+      "lemma": "existing",
+      "level": "B1",
+      "hebrew": "קיים",
+      "explanation_hebrew": "נמצא כבר עכשיו",
+      "pronunciation_hebrew": "אֶגְזִיסְטִינְג",
+      "example": "The existing rules will change soon."
+    },
+    {
+      "word": "delivering",
+      "lemma": "deliver",
+      "level": "B2",
+      "hebrew": "מספק",
+      "explanation_hebrew": "נותן או מוסר משהו כמובטח",
+      "pronunciation_hebrew": "דִילִיבֶרִינְג",
+      "example": "They are delivering better service."
+    },
+    {
+      "word": "academic",
+      "lemma": "academic",
+      "level": "B2",
+      "hebrew": "אקדמי",
+      "explanation_hebrew": "הקשור ללימודים ולמחקר",
+      "pronunciation_hebrew": "אָקָדֶמִיק",
+      "example": "They are in the same academic year."
+    },
+    {
+      "word": "industry",
+      "lemma": "industry",
+      "level": "B1",
+      "hebrew": "תעשייה / ענף",
+      "explanation_hebrew": "תחום עסקי מסוים",
+      "pronunciation_hebrew": "אִינְדַסְטְרִי",
+      "example": "The music industry is changing."
+    },
+    {
+      "word": "value",
+      "lemma": "value",
+      "level": "B1",
+      "hebrew": "ערך / תמורה",
+      "explanation_hebrew": "כמה משהו שווה או מועיל",
+      "pronunciation_hebrew": "וָואלְיוּ",
+      "example": "The card offers great value."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "extension",
+      "type": "english_to_hebrew",
+      "question": "What does “extension” mean?",
+      "options": [
+        "עיכוב",
+        "ביטול",
+        "צמצום",
+        "הרחבה"
+      ],
+      "correct_answer": "הרחבה",
+      "explanation_hebrew": "הרחבה = הגדלה של דבר קיים"
+    },
+    {
+      "id": "A-q2",
+      "word": "expires",
+      "type": "english_to_hebrew",
+      "question": "What does “expires” mean?",
+      "options": [
+        "מתחיל",
+        "נמשך",
+        "מתחדש",
+        "פג תוקף"
+      ],
+      "correct_answer": "פג תוקף",
+      "explanation_hebrew": "expire = לפוג, להסתיים"
+    },
+    {
+      "id": "A-q3",
+      "word": "valid",
+      "type": "english_to_hebrew",
+      "question": "What does “valid” mean?",
+      "options": [
+        "תקף",
+        "מזויף",
+        "פגום",
+        "זמני"
+      ],
+      "correct_answer": "תקף",
+      "explanation_hebrew": "valid = תקף, בר תוקף"
+    },
+    {
+      "id": "A-q4",
+      "word": "purchase",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“רכישה”?",
+      "options": [
+        "refund",
+        "delivery",
+        "sale",
+        "purchase"
+      ],
+      "correct_answer": "purchase",
+      "explanation_hebrew": "purchase = רכישה, קנייה"
+    },
+    {
+      "id": "A-q5",
+      "word": "average",
+      "type": "english_to_hebrew",
+      "question": "What does “average” mean?",
+      "options": [
+        "ממוצע",
+        "מקסימום",
+        "נדיר",
+        "קיצוני"
+      ],
+      "correct_answer": "ממוצע",
+      "explanation_hebrew": "average = ממוצע"
+    },
+    {
+      "id": "A-q6",
+      "word": "entitles",
+      "type": "english_to_hebrew",
+      "question": "What does “entitles” mean?",
+      "options": [
+        "אוסר",
+        "מחייב",
+        "דוחה",
+        "מזכה"
+      ],
+      "correct_answer": "מזכה",
+      "explanation_hebrew": "entitle = לזכות, להעניק זכות"
+    },
+    {
+      "id": "A-q7",
+      "word": "fares",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“דמי נסיעה”?",
+      "options": [
+        "fares",
+        "seats",
+        "stations",
+        "routes"
+      ],
+      "correct_answer": "fares",
+      "explanation_hebrew": "fare = דמי נסיעה, מחיר כרטיס"
+    },
+    {
+      "id": "A-q8",
+      "word": "claimed",
+      "type": "english_to_hebrew",
+      "question": "What does “claimed” mean?",
+      "options": [
+        "טען",
+        "שכח",
+        "הכחיש",
+        "הוכיח"
+      ],
+      "correct_answer": "טען",
+      "explanation_hebrew": "claim = לטעון"
+    },
+    {
+      "id": "A-q9",
+      "word": "passengers",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“נוסעים”?",
+      "options": [
+        "drivers",
+        "tourists",
+        "passengers",
+        "workers"
+      ],
+      "correct_answer": "passengers",
+      "explanation_hebrew": "passenger = נוסע"
+    },
+    {
+      "id": "A-q10",
+      "word": "vocational",
+      "type": "english_to_hebrew",
+      "question": "What does “vocational” mean?",
+      "options": [
+        "חובבני",
+        "אקדמי",
+        "מקצועי",
+        "תיאורטי"
+      ],
+      "correct_answer": "מקצועי",
+      "explanation_hebrew": "vocational = מקצועי, הכשרה לעבודה"
+    },
+    {
+      "id": "A-q11",
+      "word": "pathways",
+      "type": "english_to_hebrew",
+      "question": "What does “pathways” mean?",
+      "options": [
+        "מחסומים",
+        "סופים",
+        "מסלולים",
+        "עיכובים"
+      ],
+      "correct_answer": "מסלולים",
+      "explanation_hebrew": "pathway = מסלול, נתיב"
+    },
+    {
+      "id": "A-q12",
+      "word": "pursuing",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“רודף אחר / שואף”?",
+      "options": [
+        "pursuing",
+        "leaving",
+        "avoiding",
+        "finishing"
+      ],
+      "correct_answer": "pursuing",
+      "explanation_hebrew": "pursue = לשאוף, לרדוף אחר"
+    },
+    {
+      "id": "A-q13",
+      "word": "critical",
+      "type": "english_to_hebrew",
+      "question": "What does “critical” mean?",
+      "options": [
+        "קריטי",
+        "שולי",
+        "זניח",
+        "רגיל"
+      ],
+      "correct_answer": "קריטי",
+      "explanation_hebrew": "critical = קריטי, מכריע"
+    },
+    {
+      "id": "A-q14",
+      "word": "commitment",
+      "type": "english_to_hebrew",
+      "question": "What does “commitment” mean?",
+      "options": [
+        "ספק",
+        "מחויבות",
+        "סירוב",
+        "אדישות"
+      ],
+      "correct_answer": "מחויבות",
+      "explanation_hebrew": "commitment = מחויבות"
+    },
+    {
+      "id": "A-q15",
+      "word": "essential",
+      "type": "english_to_hebrew",
+      "question": "What does “essential” mean?",
+      "options": [
+        "אופציונלי",
+        "מזיק",
+        "מיותר",
+        "חיוני"
+      ],
+      "correct_answer": "חיוני",
+      "explanation_hebrew": "essential = חיוני, הכרחי"
+    },
+    {
+      "id": "A-q16",
+      "word": "reliant",
+      "type": "english_to_hebrew",
+      "question": "What does “reliant” mean?",
+      "options": [
+        "אדיש",
+        "תלוי",
+        "מנותק",
+        "עצמאי"
+      ],
+      "correct_answer": "תלוי",
+      "explanation_hebrew": "reliant = תלוי, מסתמך"
+    },
+    {
+      "id": "A-q17",
+      "word": "entitled",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“זכאי”?",
+      "options": [
+        "forbidden",
+        "charged",
+        "entitled",
+        "required"
+      ],
+      "correct_answer": "entitled",
+      "explanation_hebrew": "entitled = זכאי"
+    },
+    {
+      "id": "A-q18",
+      "word": "announcement",
+      "type": "english_to_hebrew",
+      "question": "What does “announcement” mean?",
+      "options": [
+        "הכרזה",
+        "שמועה",
+        "שאלה",
+        "סוד"
+      ],
+      "correct_answer": "הכרזה",
+      "explanation_hebrew": "announcement = הכרזה, הודעה"
+    },
+    {
+      "id": "A-q19",
+      "word": "cap",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“תקרה”?",
+      "options": [
+        "floor",
+        "cap",
+        "average",
+        "total"
+      ],
+      "correct_answer": "cap",
+      "explanation_hebrew": "cap = תקרה, גבול עליון"
+    },
+    {
+      "id": "A-q20",
+      "word": "sector",
+      "type": "english_to_hebrew",
+      "question": "What does “sector” mean?",
+      "options": [
+        "מקרה",
+        "מגזר",
+        "פרט",
+        "יחיד"
+      ],
+      "correct_answer": "מגזר",
+      "explanation_hebrew": "sector = מגזר, ענף"
+    },
+    {
+      "id": "A-q21",
+      "word": "existing",
+      "type": "english_to_hebrew",
+      "question": "What does “existing” mean?",
+      "options": [
+        "מדומיין",
+        "מבוטל",
+        "קיים",
+        "עתידי"
+      ],
+      "correct_answer": "קיים",
+      "explanation_hebrew": "existing = קיים"
+    },
+    {
+      "id": "A-q22",
+      "word": "delivering",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“מספק”?",
+      "options": [
+        "delaying",
+        "hiding",
+        "delivering",
+        "refusing"
+      ],
+      "correct_answer": "delivering",
+      "explanation_hebrew": "deliver = לספק, למסור"
+    },
+    {
+      "id": "A-q23",
+      "word": "academic",
+      "type": "english_to_hebrew",
+      "question": "What does “academic” mean?",
+      "options": [
+        "גופני",
+        "אקדמי",
+        "מעשי",
+        "חברתי"
+      ],
+      "correct_answer": "אקדמי",
+      "explanation_hebrew": "academic = אקדמי, לימודי"
+    },
+    {
+      "id": "A-q24",
+      "word": "industry",
+      "type": "english_to_hebrew",
+      "question": "What does “industry” mean?",
+      "options": [
+        "טבע",
+        "בית",
+        "חובבנות",
+        "תעשייה / ענף"
+      ],
+      "correct_answer": "תעשייה / ענף",
+      "explanation_hebrew": "industry = תעשייה, ענף"
+    },
+    {
+      "id": "A-q25",
+      "word": "value",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“ערך / תמורה”?",
+      "options": [
+        "cost",
+        "value",
+        "loss",
+        "waste"
+      ],
+      "correct_answer": "value",
+      "explanation_hebrew": "value = ערך, תמורה"
+    }
+  ]
+}
