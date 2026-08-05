@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-05",
+  "article_id": "A",
+  "article_title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+  "article_url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why did the Advertising Standards Authority ban Jaded London's advert?",
+      "options": [
+        "It showed a dress that was unavailable",
+        "It made smoking appear attractive and glamorous",
+        "It used a model without permission",
+        "It advertised cigarettes to shop owners"
+      ],
+      "correct_answer": "It made smoking appear attractive and glamorous",
+      "explanation_hebrew": "ה־ASA קבע שהדימוי המסוגנן והאופנתי קשר עישון לאורח חיים מושך ולכן האדיר אותו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where was the model shown standing in the disputed image?",
+      "options": [
+        "Inside a clothing shop",
+        "On a city train",
+        "By a scooter next to water",
+        "At an indoor fashion show"
+      ],
+      "correct_answer": "By a scooter next to water",
+      "explanation_hebrew": "לפי תיאור המודעה, הדוגמנית עמדה ליד קטנוע ולצד גוף מים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What object was the model holding in her left hand?",
+      "options": [
+        "A slim cigarette",
+        "A pair of sunglasses",
+        "A mobile phone",
+        "A bottle of water"
+      ],
+      "correct_answer": "A slim cigarette",
+      "explanation_hebrew": "בתמונה נראה סיגר דק בידה השמאלית של הדוגמנית, עם אפר נראה בקצה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Jaded London say it would do after the ruling?",
+      "options": [
+        "Close all its shops",
+        "Stop selling accessories",
+        "Remove every holiday image",
+        "Avoid smoking content in future adverts"
+      ],
+      "correct_answer": "Avoid smoking content in future adverts",
+      "explanation_hebrew": "החברה התחייבה שלא להשתמש בעתיד בתוכן המציג דוגמנים מעשנים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “watchdog” refer to?",
+      "options": [
+        "A popular fashion brand",
+        "An organisation that monitors advertising rules",
+        "A photographer who created the advert",
+        "A customer who follows fashion trends"
+      ],
+      "correct_answer": "An organisation that monitors advertising rules",
+      "explanation_hebrew": "watchdog הוא גוף פיקוח; כאן הכוונה לרשות תקני הפרסום, ASA.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “aspirational lifestyle” mean in the ruling?",
+      "options": [
+        "A lifestyle presented as desirable and worth wanting",
+        "A lifestyle that is inexpensive and ordinary",
+        "A lifestyle required by law",
+        "A lifestyle hidden from consumers"
+      ],
+      "correct_answer": "A lifestyle presented as desirable and worth wanting",
+      "explanation_hebrew": "aspirational מתאר אורח חיים שאנשים עשויים לשאוף אליו ולרצות לחקותו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain how the words “stylised”, “appealing” and “glamourising” are connected in the ASA's reasoning. Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שהתמונה עוצבה באופן מסוגנן ומושך, וכי החיבור בין האסתטיקה הזו לסיגריה הפך את העישון לזוהר או רצוי.",
+      "expected_points": [
+        "Stylised describes the carefully designed visual presentation",
+        "Appealing means the model and scene looked attractive",
+        "Glamourising means this attractive presentation made smoking seem desirable"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did the ASA consider the visible ash important even though no smoke was visible? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסיק שהאפר תמך בזיהוי החפץ כסיגריה דולקת והחליש את טענת החברה שלא ברור שמדובר בעישון.",
+      "expected_points": [
+        "Visible ash suggested that the cigarette was lit",
+        "This supported the interpretation that the image depicted smoking",
+        "It weakened the company's argument that the object was unclear or unlit"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 70–100 word summary of the complaint, Jaded London's response, the ASA's decision and the required action.",
+      "rubric_hebrew": "יש לכלול את תמונת הדוגמנית עם הסיגריה, התלונה על האדרת עישון, הגנת החברה, פסיקת ה־ASA והאיסור להשתמש שוב במודעה בצורה זו.",
+      "expected_points": [
+        "The email showed a fashionable model holding a cigarette beside a scooter and water",
+        "One complaint challenged whether the advert irresponsibly glamourised smoking",
+        "Jaded London said the cigarette was unclear and not the focus",
+        "The ASA upheld the complaint and ordered the advert not to appear again in that form"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Do you think the cigarette can influence the message of the advert even if it is not the most prominent object? Use evidence from the article and write 3–4 sentences.",
+      "rubric_hebrew": "יש להביע עמדה מנומקת ולהשתמש לפחות בשתי ראיות: הלבוש האופנתי, סצנת החופשה, הסיגריה/האפר או קביעת ה־ASA על אחריות חברתית.",
+      "expected_points": [
+        "State a clear opinion",
+        "Refer to the fashionable model or aspirational holiday setting",
+        "Refer to the cigarette and the ASA's view that the association made smoking appealing",
+        "Explain how a background object can shape the overall message"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}

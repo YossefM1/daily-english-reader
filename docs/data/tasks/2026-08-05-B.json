@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-05",
+  "article_id": "B",
+  "article_title": "From flip flops to fisherman's sandals: Are your summer sandals killing your feet?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cnvney840l9o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main message about summer sandals?",
+      "options": [
+        "Every sandal is harmful and should be avoided",
+        "Fashion matters more than foot health",
+        "Different designs place different demands on the feet, so support and fit matter",
+        "Only expensive sandals can protect the feet"
+      ],
+      "correct_answer": "Different designs place different demands on the feet, so support and fit matter",
+      "explanation_hebrew": "הכתבה אינה קובעת שכל הסנדלים רעים; היא מסבירה שהמבנה, התמיכה וההתאמה משפיעים על העומס בכף הרגל.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to podiatrist Dr Helen Branthwaite, why can frequent flip-flop use increase injury risk?",
+      "options": [
+        "The foot works under more strain than normal",
+        "Flip-flops always make the feet too hot",
+        "Their colour changes how people walk",
+        "They stop the toes from moving at all"
+      ],
+      "correct_answer": "The foot works under more strain than normal",
+      "explanation_hebrew": "ברנתווייט מסבירה שכף הרגל עובדת תחת עומס גדול מהרגיל, ולכן נעשית חשופה יותר לפציעה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What feature helps a sturdier sandal support the shape of the foot?",
+      "options": [
+        "A completely flat paper-thin sole",
+        "A decorative metal buckle only",
+        "A contoured footbed with arch support",
+        "A loose strap that never touches the ankle"
+      ],
+      "correct_answer": "A contoured footbed with arch support",
+      "explanation_hebrew": "מצע מעוצב לפי צורת כף הרגל ותמיכה בקשת מפזרים את העומס בצורה טובה יותר.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What advice does the article give about changing to minimalist barefoot shoes?",
+      "options": [
+        "Wear them all day immediately",
+        "Use them only with thick socks",
+        "Choose the smallest possible size",
+        "Ease into them gradually"
+      ],
+      "correct_answer": "Ease into them gradually",
+      "explanation_hebrew": "ההמלצה היא להסתגל לנעליים מינימליסטיות בהדרגה ולא לעבור אליהן בבת אחת.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “prone to injury” mean?",
+      "options": [
+        "Guaranteed to recover quickly",
+        "More likely to be injured",
+        "Unable to feel any pain",
+        "Protected from physical strain"
+      ],
+      "correct_answer": "More likely to be injured",
+      "explanation_hebrew": "prone to פירושו בעל נטייה או סיכוי מוגבר לחוות דבר מסוים; כאן מדובר בפציעה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “contoured footbed”?",
+      "options": [
+        "The part of a sandal shaped to support the foot",
+        "A fashion forecast for summer shoes",
+        "A cream used on dry skin",
+        "The strap around the ankle"
+      ],
+      "correct_answer": "The part of a sandal shaped to support the foot",
+      "explanation_hebrew": "contoured פירושו מותאם לצורה, ו־footbed הוא המשטח שעליו כף הרגל נחה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Use the article's context to explain the difference between “arch”, “sole” and “footbed”. Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להגדיר את קשת כף הרגל, את הסוליה החיצונית ואת המשטח הפנימי שעליו הרגל נחה.",
+      "expected_points": [
+        "The arch is the curved part of the foot",
+        "The sole is the bottom part of the shoe or sandal",
+        "The footbed is the inner surface that supports the foot"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is the statement “all flip-flops are bad” too simple, according to the article? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שההשפעה תלויה במשך השימוש, במבנה הסנדל, בתמיכה ובהסתגלות של האדם, ולא רק בשם הסגנון.",
+      "expected_points": [
+        "Branthwaite says it is not accurate to label all flip-flops as bad",
+        "Foot strain depends on how and how often the footwear is used",
+        "Support, fit and the wearer's adaptation affect the risk"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 80–110 word summary comparing flip-flops, sturdier supportive sandals and minimalist barefoot shoes.",
+      "rubric_hebrew": "יש להשוות בין העומס האפשרי בכפכפים, התמיכה במצע מעוצב ובקשת, והצורך בהסתגלות הדרגתית לנעליים מינימליסטיות.",
+      "expected_points": [
+        "Frequent flip-flop use can place extra strain on the foot",
+        "Sturdier sandals may offer a contoured footbed and arch support",
+        "No single sandal style is automatically harmful for everyone",
+        "Minimalist barefoot shoes should be introduced gradually"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Recommend a summer sandal for a day with a lot of walking. Use at least three terms from the article and write 3–4 sentences.",
+      "rubric_hebrew": "יש להמליץ באופן מעשי ולהשתמש נכון בלפחות שלושה מונחים כגון arch, strain, contoured, footbed, ankle, sturdy או sole.",
+      "expected_points": [
+        "Choose a secure and sturdier design",
+        "Mention a contoured footbed or arch support",
+        "Explain how the choice may reduce strain or injury risk",
+        "Use at least three article vocabulary terms accurately"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}

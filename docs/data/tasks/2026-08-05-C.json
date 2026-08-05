@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-05",
+  "article_id": "C",
+  "article_title": "How AI is changing jobs in the Philippines' outsourcing industry",
+  "article_url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central change does the article examine in the Philippines' outsourcing industry?",
+      "options": [
+        "AI is reshaping work and threatening some existing roles",
+        "All multinational companies have left the Philippines",
+        "The industry has stopped using English",
+        "The government has banned automation"
+      ],
+      "correct_answer": "AI is reshaping work and threatening some existing roles",
+      "explanation_hebrew": "הכתבה בוחנת כיצד בינה מלאכותית משנה תפקידים, מייעלת משימות וגם מסכנת משרות קיימות בענף מיקור החוץ.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Approximately how many people does the Philippines' outsourcing industry employ?",
+      "options": [
+        "300,000",
+        "12.7 million",
+        "1.9 million",
+        "40 million"
+      ],
+      "correct_answer": "1.9 million",
+      "explanation_hebrew": "לפי הכתבה, הענף מעסיק בקירוב 1.9 מיליון בני אדם.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much annual revenue does the industry generate?",
+      "options": [
+        "About $4bn",
+        "About $40bn",
+        "About $300bn",
+        "About $1.9bn"
+      ],
+      "correct_answer": "About $40bn",
+      "explanation_hebrew": "ההכנסה השנתית של הענף היא כ־40 מיליארד דולר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did some workers say happened before they were made redundant?",
+      "options": [
+        "They were asked to train AI systems",
+        "They were moved to government offices",
+        "They received ownership of the company",
+        "They stopped using computers"
+      ],
+      "correct_answer": "They were asked to train AI systems",
+      "explanation_hebrew": "עובדים סיפרו שהתבקשו לסייע באימון מערכות AI לפני שפוטרו, דבר שמסביר את תחושת האירוניה בכותרת.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this employment context, what does “redundant” mean?",
+      "options": [
+        "Promoted to a senior role",
+        "Sent abroad for training",
+        "No longer needed in the job and dismissed",
+        "Given more responsibility"
+      ],
+      "correct_answer": "No longer needed in the job and dismissed",
+      "explanation_hebrew": "בהקשר תעסוקתי בריטי, made redundant פירושו שהמשרה מתייתרת והעובד מפוטר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “upskilling” workers mean?",
+      "options": [
+        "Teaching them new or more advanced skills",
+        "Reducing their severance pay",
+        "Keeping their identity anonymous",
+        "Moving every job overseas"
+      ],
+      "correct_answer": "Teaching them new or more advanced skills",
+      "explanation_hebrew": "upskilling הוא הכשרה ושדרוג של כישורים כדי שעובדים יוכלו לבצע תפקידים חדשים או מורכבים יותר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain the difference between “automate”, “augment” and “oversight” in the article's context. Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שמיכון מחליף ביצוע ידני של משימה, הגברה מסייעת לעובד, ופיקוח אנושי בודק ומבקר את פעולת המערכת.",
+      "expected_points": [
+        "Automate means having technology perform a task automatically",
+        "Augment means AI supports or improves human work rather than fully replacing it",
+        "Oversight means humans monitor and check the system's work"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is the outsourcing industry described as especially vulnerable to generative AI? Use the article's evidence and answer in 3–4 sentences.",
+      "rubric_hebrew": "יש לקשר בין היקף הענף, ריבוי משימות דיגיטליות/חזרתיות שניתן למכן, פיילוטים רבים של AI ועדויות לפיטורי עובדים.",
+      "expected_points": [
+        "Many outsourcing tasks involve digital content or routine customer processes that AI can perform",
+        "The industry employs about 1.9 million people, so changes can affect many workers",
+        "More than two-thirds of industry association members are running AI pilots",
+        "Workers reported training systems before losing jobs"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 90–120 word summary including the industry's origins, economic scale, workers' concerns and the response to AI.",
+      "rubric_hebrew": "יש לכלול את צמיחת ה־BPO מתחילת שנות ה־2000, 1.9 מיליון עובדים, 40 מיליארד דולר, סיכון למשרות, ניסויי AI והכשרת יותר מ־300 אלף עובדים.",
+      "expected_points": [
+        "The Philippines grew as an English-speaking outsourcing alternative from the early 2000s",
+        "Tax incentives, infrastructure and multinational investment helped the industry expand",
+        "The sector employs about 1.9 million people and earns roughly $40bn a year",
+        "AI pilots and redundancies are creating concern",
+        "Government and industry responses include upskilling workers"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, argue whether AI is more likely to displace workers or transform their roles in this industry. Write 4–5 sentences.",
+      "rubric_hebrew": "יש להציג טענה מאוזנת ולהשתמש בלפחות שלוש ראיות: פיטורים אחרי אימון AI, שיעור הפיילוטים, 12.7 מיליון משרות חשופות, הכשרת 300 אלף עובדים, redeployment או צורך בפיקוח אנושי.",
+      "expected_points": [
+        "State a clear position while recognising both displacement and role transformation",
+        "Use the workers' redundancy experience as evidence of displacement",
+        "Use AI pilots or the exposure estimate as evidence of scale",
+        "Use upskilling, redeployment, augmentation or human oversight as evidence of transformation"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}
