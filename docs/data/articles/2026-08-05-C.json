@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-05",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "How AI is changing jobs in the Philippines' outsourcing industry",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go",
+  "published_at": "2026-08-04T22:10:00+00:00",
+  "age_hours_at_selection": 4.02,
+  "word_count": 1311,
+  "generated_at": "2026-08-05T02:11:27.624427+00:00",
+  "difficulty_reason": "Long analytical piece on economics and AI with dense information, multiple sources and B2/C1/C2 vocabulary; needs background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "redundant",
+      "lemma": "redundant",
+      "level": "C1",
+      "hebrew": "מפוטר / מיותר",
+      "explanation_hebrew": "מי שאיבד עבודה כי אינה נחוצה עוד",
+      "pronunciation_hebrew": "רִידַנְדֶנְט",
+      "example": "Hundreds of workers were made redundant."
+    },
+    {
+      "word": "severance",
+      "lemma": "severance",
+      "level": "C1",
+      "hebrew": "פיצויי פיטורין",
+      "explanation_hebrew": "תשלום הניתן לעובד בעת סיום העסקה",
+      "pronunciation_hebrew": "סֶוֶרֶנְס",
+      "example": "She received a generous severance package."
+    },
+    {
+      "word": "anonymous",
+      "lemma": "anonymous",
+      "level": "B2",
+      "hebrew": "אנונימי / אלמוני",
+      "explanation_hebrew": "ללא זהות ידועה או חשופה",
+      "pronunciation_hebrew": "אַנוֹנִימֶס",
+      "example": "The tip came from an anonymous source."
+    },
+    {
+      "word": "confidentiality",
+      "lemma": "confidentiality",
+      "level": "C1",
+      "hebrew": "סודיות",
+      "explanation_hebrew": "שמירה על מידע כפרטי וחסוי",
+      "pronunciation_hebrew": "קוֹנְפִידֶנְשִׁיאַלִיטִי",
+      "example": "They signed a confidentiality agreement."
+    },
+    {
+      "word": "emerging",
+      "lemma": "emerging",
+      "level": "B2",
+      "hebrew": "מתפתח / מתהווה",
+      "explanation_hebrew": "נמצא בתהליך של צמיחה או הופעה",
+      "pronunciation_hebrew": "אִמֶרְגִ'ינְג",
+      "example": "Investors are watching emerging markets."
+    },
+    {
+      "word": "automate",
+      "lemma": "automate",
+      "level": "B2",
+      "hebrew": "למכן / לבצע אוטומטית",
+      "explanation_hebrew": "לגרום לתהליך לפעול ללא בני אדם",
+      "pronunciation_hebrew": "אוֹטוֹמֵייט",
+      "example": "Factories automate repetitive tasks."
+    },
+    {
+      "word": "booming",
+      "lemma": "booming",
+      "level": "B2",
+      "hebrew": "פורח / משגשג",
+      "explanation_hebrew": "גדל ומצליח במהירות",
+      "pronunciation_hebrew": "בּוּמִינְג",
+      "example": "The tech sector is booming."
+    },
+    {
+      "word": "multinational",
+      "lemma": "multinational",
+      "level": "B2",
+      "hebrew": "רב-לאומי",
+      "explanation_hebrew": "חברה הפועלת במדינות רבות",
+      "pronunciation_hebrew": "מַלְטִינַשְׁנֶל",
+      "example": "She works for a multinational company."
+    },
+    {
+      "word": "sprawling",
+      "lemma": "sprawling",
+      "level": "C1",
+      "hebrew": "משתרע / נפרש",
+      "explanation_hebrew": "גדול ומתפשט על שטח רחב",
+      "pronunciation_hebrew": "סְפְּרוֹלִינְג",
+      "example": "They built a sprawling campus."
+    },
+    {
+      "word": "premises",
+      "lemma": "premises",
+      "level": "B2",
+      "hebrew": "מתחם / מבנה עסקי",
+      "explanation_hebrew": "שטח ומבנים של עסק או ארגון",
+      "pronunciation_hebrew": "פְּרֶמִיסֶז",
+      "example": "No smoking on the premises."
+    },
+    {
+      "word": "incentives",
+      "lemma": "incentive",
+      "level": "B2",
+      "hebrew": "תמריצים",
+      "explanation_hebrew": "הטבות המעודדות פעולה מסוימת",
+      "pronunciation_hebrew": "אִנְסֶנְטִיבְז",
+      "example": "The government offered tax incentives."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "B2",
+      "hebrew": "תשתית",
+      "explanation_hebrew": "מערכות בסיס כמו כבישים ותקשורת",
+      "pronunciation_hebrew": "אִינְפְרַסְטְרַקְצֶ'ר",
+      "example": "The country invested in infrastructure."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פגיע / חשוף",
+      "explanation_hebrew": "נוטה להיפגע או להינזק בקלות",
+      "pronunciation_hebrew": "וַלְנֶרַבֶּל",
+      "example": "Small firms are vulnerable to change."
+    },
+    {
+      "word": "exposed",
+      "lemma": "expose",
+      "level": "B2",
+      "hebrew": "חשוף",
+      "explanation_hebrew": "נתון להשפעה או לסכנה",
+      "pronunciation_hebrew": "אִקְסְפּוֹוזְד",
+      "example": "Many jobs are exposed to automation."
+    },
+    {
+      "word": "generative",
+      "lemma": "generative",
+      "level": "C1",
+      "hebrew": "גנרטיבי / יוצר",
+      "explanation_hebrew": "מסוגל לייצר תוכן חדש",
+      "pronunciation_hebrew": "גֶ'נֶרֶטִיב",
+      "example": "Generative AI can write text and images."
+    },
+    {
+      "word": "redeployed",
+      "lemma": "redeploy",
+      "level": "C1",
+      "hebrew": "הועבר לתפקיד אחר",
+      "explanation_hebrew": "הוצב מחדש בעבודה או במשימה אחרת",
+      "pronunciation_hebrew": "רִידִיפְּלוֹיְד",
+      "example": "Staff were redeployed to new roles."
+    },
+    {
+      "word": "offshored",
+      "lemma": "offshore",
+      "level": "C1",
+      "hebrew": "הועבר לחו\"ל",
+      "explanation_hebrew": "הועבר לביצוע במדינה זרה",
+      "pronunciation_hebrew": "אוֹפְשׁוֹרְד",
+      "example": "The work was offshored to another country."
+    },
+    {
+      "word": "augment",
+      "lemma": "augment",
+      "level": "C1",
+      "hebrew": "להגביר / להשלים",
+      "explanation_hebrew": "להוסיף ולשפר משהו קיים",
+      "pronunciation_hebrew": "אוֹגְמֶנְט",
+      "example": "AI can augment human abilities."
+    },
+    {
+      "word": "oversight",
+      "lemma": "oversight",
+      "level": "C1",
+      "hebrew": "פיקוח",
+      "explanation_hebrew": "מעקב ובקרה על תהליך",
+      "pronunciation_hebrew": "אוֹוֶרְסַייְט",
+      "example": "The project needs human oversight."
+    },
+    {
+      "word": "displaced",
+      "lemma": "displace",
+      "level": "B2",
+      "hebrew": "נעקר / הודח",
+      "explanation_hebrew": "הוצא ממקומו או מתפקידו",
+      "pronunciation_hebrew": "דִיסְפְּלֵייסְט",
+      "example": "Machines displaced many workers."
+    },
+    {
+      "word": "tremendous",
+      "lemma": "tremendous",
+      "level": "B2",
+      "hebrew": "עצום / אדיר",
+      "explanation_hebrew": "גדול מאוד בעוצמה או בכמות",
+      "pronunciation_hebrew": "טְרֶמֶנְדֶס",
+      "example": "There is tremendous pressure to change."
+    },
+    {
+      "word": "adoption",
+      "lemma": "adoption",
+      "level": "B2",
+      "hebrew": "אימוץ / הטמעה",
+      "explanation_hebrew": "קבלה ושימוש בדבר חדש",
+      "pronunciation_hebrew": "אַדוֹפְּשֶׁן",
+      "example": "The adoption of AI is speeding up."
+    },
+    {
+      "word": "integrate",
+      "lemma": "integrate",
+      "level": "B2",
+      "hebrew": "לשלב",
+      "explanation_hebrew": "לחבר חלקים למערכת אחת",
+      "pronunciation_hebrew": "אִינְטֶגְרֵייט",
+      "example": "They plan to integrate AI into services."
+    },
+    {
+      "word": "restructuring",
+      "lemma": "restructuring",
+      "level": "C1",
+      "hebrew": "ארגון מחדש",
+      "explanation_hebrew": "שינוי מבנה של חברה או ארגון",
+      "pronunciation_hebrew": "רִיסְטְרַקְצֶ'רִינְג",
+      "example": "The firm announced a major restructuring."
+    },
+    {
+      "word": "upskilling",
+      "lemma": "upskilling",
+      "level": "C1",
+      "hebrew": "הכשרה ושדרוג כישורים",
+      "explanation_hebrew": "לימוד מיומנויות חדשות לעובדים",
+      "pronunciation_hebrew": "אַפְּסְקִילִינְג",
+      "example": "The company invested in upskilling staff."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "redundant",
+      "type": "english_to_hebrew",
+      "question": "What does “redundant” mean?",
+      "options": [
+        "פיצויי פיטורין",
+        "אנונימי / אלמוני",
+        "מפוטר / מיותר",
+        "סודיות"
+      ],
+      "correct_answer": "מפוטר / מיותר",
+      "explanation_hebrew": "הפירוש הנכון של “redundant” הוא “מפוטר / מיותר”."
+    },
+    {
+      "id": "C-q2",
+      "word": "severance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “פיצויי פיטורין”?",
+      "options": [
+        "confidentiality",
+        "redundant",
+        "anonymous",
+        "severance"
+      ],
+      "correct_answer": "severance",
+      "explanation_hebrew": "המילה “severance” פירושה “פיצויי פיטורין”."
+    },
+    {
+      "id": "C-q3",
+      "word": "anonymous",
+      "type": "english_to_hebrew",
+      "question": "What does “anonymous” mean?",
+      "options": [
+        "אנונימי / אלמוני",
+        "סודיות",
+        "מפוטר / מיותר",
+        "פיצויי פיטורין"
+      ],
+      "correct_answer": "אנונימי / אלמוני",
+      "explanation_hebrew": "הפירוש הנכון של “anonymous” הוא “אנונימי / אלמוני”."
+    },
+    {
+      "id": "C-q4",
+      "word": "confidentiality",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “סודיות”?",
+      "options": [
+        "anonymous",
+        "severance",
+        "redundant",
+        "confidentiality"
+      ],
+      "correct_answer": "confidentiality",
+      "explanation_hebrew": "המילה “confidentiality” פירושה “סודיות”."
+    },
+    {
+      "id": "C-q5",
+      "word": "emerging",
+      "type": "english_to_hebrew",
+      "question": "What does “emerging” mean?",
+      "options": [
+        "פיצויי פיטורין",
+        "מתפתח / מתהווה",
+        "מפוטר / מיותר",
+        "אנונימי / אלמוני"
+      ],
+      "correct_answer": "מתפתח / מתהווה",
+      "explanation_hebrew": "הפירוש הנכון של “emerging” הוא “מתפתח / מתהווה”."
+    },
+    {
+      "id": "C-q6",
+      "word": "automate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “למכן / לבצע אוטומטית”?",
+      "options": [
+        "anonymous",
+        "automate",
+        "severance",
+        "redundant"
+      ],
+      "correct_answer": "automate",
+      "explanation_hebrew": "המילה “automate” פירושה “למכן / לבצע אוטומטית”."
+    },
+    {
+      "id": "C-q7",
+      "word": "booming",
+      "type": "english_to_hebrew",
+      "question": "What does “booming” mean?",
+      "options": [
+        "אנונימי / אלמוני",
+        "מפוטר / מיותר",
+        "פיצויי פיטורין",
+        "פורח / משגשג"
+      ],
+      "correct_answer": "פורח / משגשג",
+      "explanation_hebrew": "הפירוש הנכון של “booming” הוא “פורח / משגשג”."
+    },
+    {
+      "id": "C-q8",
+      "word": "multinational",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “רב-לאומי”?",
+      "options": [
+        "severance",
+        "redundant",
+        "multinational",
+        "anonymous"
+      ],
+      "correct_answer": "multinational",
+      "explanation_hebrew": "המילה “multinational” פירושה “רב-לאומי”."
+    },
+    {
+      "id": "C-q9",
+      "word": "sprawling",
+      "type": "english_to_hebrew",
+      "question": "What does “sprawling” mean?",
+      "options": [
+        "משתרע / נפרש",
+        "מפוטר / מיותר",
+        "אנונימי / אלמוני",
+        "פיצויי פיטורין"
+      ],
+      "correct_answer": "משתרע / נפרש",
+      "explanation_hebrew": "הפירוש הנכון של “sprawling” הוא “משתרע / נפרש”."
+    },
+    {
+      "id": "C-q10",
+      "word": "premises",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “מתחם / מבנה עסקי”?",
+      "options": [
+        "premises",
+        "severance",
+        "anonymous",
+        "redundant"
+      ],
+      "correct_answer": "premises",
+      "explanation_hebrew": "המילה “premises” פירושה “מתחם / מבנה עסקי”."
+    },
+    {
+      "id": "C-q11",
+      "word": "incentives",
+      "type": "english_to_hebrew",
+      "question": "What does “incentives” mean?",
+      "options": [
+        "מפוטר / מיותר",
+        "פיצויי פיטורין",
+        "תמריצים",
+        "אנונימי / אלמוני"
+      ],
+      "correct_answer": "תמריצים",
+      "explanation_hebrew": "הפירוש הנכון של “incentives” הוא “תמריצים”."
+    },
+    {
+      "id": "C-q12",
+      "word": "infrastructure",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “תשתית”?",
+      "options": [
+        "anonymous",
+        "severance",
+        "redundant",
+        "infrastructure"
+      ],
+      "correct_answer": "infrastructure",
+      "explanation_hebrew": "המילה “infrastructure” פירושה “תשתית”."
+    },
+    {
+      "id": "C-q13",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "פגיע / חשוף",
+        "מפוטר / מיותר",
+        "אנונימי / אלמוני",
+        "פיצויי פיטורין"
+      ],
+      "correct_answer": "פגיע / חשוף",
+      "explanation_hebrew": "הפירוש הנכון של “vulnerable” הוא “פגיע / חשוף”."
+    },
+    {
+      "id": "C-q14",
+      "word": "exposed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “חשוף”?",
+      "options": [
+        "exposed",
+        "redundant",
+        "severance",
+        "anonymous"
+      ],
+      "correct_answer": "exposed",
+      "explanation_hebrew": "המילה “exposed” פירושה “חשוף”."
+    },
+    {
+      "id": "C-q15",
+      "word": "generative",
+      "type": "english_to_hebrew",
+      "question": "What does “generative” mean?",
+      "options": [
+        "מפוטר / מיותר",
+        "פיצויי פיטורין",
+        "גנרטיבי / יוצר",
+        "אנונימי / אלמוני"
+      ],
+      "correct_answer": "גנרטיבי / יוצר",
+      "explanation_hebrew": "הפירוש הנכון של “generative” הוא “גנרטיבי / יוצר”."
+    },
+    {
+      "id": "C-q16",
+      "word": "redeployed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “הועבר לתפקיד אחר”?",
+      "options": [
+        "redeployed",
+        "anonymous",
+        "redundant",
+        "severance"
+      ],
+      "correct_answer": "redeployed",
+      "explanation_hebrew": "המילה “redeployed” פירושה “הועבר לתפקיד אחר”."
+    },
+    {
+      "id": "C-q17",
+      "word": "offshored",
+      "type": "english_to_hebrew",
+      "question": "What does “offshored” mean?",
+      "options": [
+        "הועבר לחו\"ל",
+        "פיצויי פיטורין",
+        "אנונימי / אלמוני",
+        "מפוטר / מיותר"
+      ],
+      "correct_answer": "הועבר לחו\"ל",
+      "explanation_hebrew": "הפירוש הנכון של “offshored” הוא “הועבר לחו\"ל”."
+    },
+    {
+      "id": "C-q18",
+      "word": "augment",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “להגביר / להשלים”?",
+      "options": [
+        "severance",
+        "anonymous",
+        "augment",
+        "redundant"
+      ],
+      "correct_answer": "augment",
+      "explanation_hebrew": "המילה “augment” פירושה “להגביר / להשלים”."
+    },
+    {
+      "id": "C-q19",
+      "word": "oversight",
+      "type": "english_to_hebrew",
+      "question": "What does “oversight” mean?",
+      "options": [
+        "פיצויי פיטורין",
+        "מפוטר / מיותר",
+        "פיקוח",
+        "אנונימי / אלמוני"
+      ],
+      "correct_answer": "פיקוח",
+      "explanation_hebrew": "הפירוש הנכון של “oversight” הוא “פיקוח”."
+    },
+    {
+      "id": "C-q20",
+      "word": "displaced",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “נעקר / הודח”?",
+      "options": [
+        "anonymous",
+        "displaced",
+        "severance",
+        "redundant"
+      ],
+      "correct_answer": "displaced",
+      "explanation_hebrew": "המילה “displaced” פירושה “נעקר / הודח”."
+    },
+    {
+      "id": "C-q21",
+      "word": "tremendous",
+      "type": "english_to_hebrew",
+      "question": "What does “tremendous” mean?",
+      "options": [
+        "מפוטר / מיותר",
+        "עצום / אדיר",
+        "פיצויי פיטורין",
+        "אנונימי / אלמוני"
+      ],
+      "correct_answer": "עצום / אדיר",
+      "explanation_hebrew": "הפירוש הנכון של “tremendous” הוא “עצום / אדיר”."
+    },
+    {
+      "id": "C-q22",
+      "word": "adoption",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “אימוץ / הטמעה”?",
+      "options": [
+        "adoption",
+        "anonymous",
+        "redundant",
+        "severance"
+      ],
+      "correct_answer": "adoption",
+      "explanation_hebrew": "המילה “adoption” פירושה “אימוץ / הטמעה”."
+    },
+    {
+      "id": "C-q23",
+      "word": "integrate",
+      "type": "english_to_hebrew",
+      "question": "What does “integrate” mean?",
+      "options": [
+        "לשלב",
+        "מפוטר / מיותר",
+        "פיצויי פיטורין",
+        "אנונימי / אלמוני"
+      ],
+      "correct_answer": "לשלב",
+      "explanation_hebrew": "הפירוש הנכון של “integrate” הוא “לשלב”."
+    },
+    {
+      "id": "C-q24",
+      "word": "restructuring",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה ל: “ארגון מחדש”?",
+      "options": [
+        "severance",
+        "restructuring",
+        "anonymous",
+        "redundant"
+      ],
+      "correct_answer": "restructuring",
+      "explanation_hebrew": "המילה “restructuring” פירושה “ארגון מחדש”."
+    },
+    {
+      "id": "C-q25",
+      "word": "upskilling",
+      "type": "english_to_hebrew",
+      "question": "What does “upskilling” mean?",
+      "options": [
+        "אנונימי / אלמוני",
+        "הכשרה ושדרוג כישורים",
+        "מפוטר / מיותר",
+        "פיצויי פיטורין"
+      ],
+      "correct_answer": "הכשרה ושדרוג כישורים",
+      "explanation_hebrew": "הפירוש הנכון של “upskilling” הוא “הכשרה ושדרוג כישורים”."
+    }
+  ]
+}
