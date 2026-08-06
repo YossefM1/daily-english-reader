@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-06",
+  "article_id": "B",
+  "article_title": "Ex-leader Hasina gambles with vow to return to Bangladesh",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why does the article describe Sheikh Hasina's promised return as a gamble?",
+      "options": [
+        "She is unsure which flight to book",
+        "She faces imprisonment, a death sentence and major political risks",
+        "She has never visited Bangladesh before",
+        "Her party has asked her to remain prime minister in India"
+      ],
+      "correct_answer": "She faces imprisonment, a death sentence and major political risks",
+      "explanation_hebrew": "החזרה היא הימור מסוכן משום שחסינה עלולה להיעצר או לעמוד בפני גזר דין מוות, לצד השלכות פוליטיות כבדות.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where has Hasina been living in exile since she was ousted?",
+      "options": [
+        "India",
+        "Pakistan",
+        "The United Kingdom",
+        "The United States"
+      ],
+      "correct_answer": "India",
+      "explanation_hebrew": "לאחר הדחתה ב־2024 חסינה נמלטה להודו וחיה שם בגלות.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When did Hasina say she intended to return to Bangladesh?",
+      "options": [
+        "Immediately after the interview",
+        "In December",
+        "After ten more years",
+        "Only if the tribunal is abolished"
+      ],
+      "correct_answer": "In December",
+      "explanation_hebrew": "חסינה חזרה על כוונתה לשוב לבנגלדש בדצמבר, אף שהיא עומדת בפני סיכונים משפטיים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What event forced Hasina from power in 2024?",
+      "options": [
+        "A military invasion from India",
+        "A student-led uprising and mass protests",
+        "A defeat in a local council election",
+        "A natural disaster in Dhaka"
+      ],
+      "correct_answer": "A student-led uprising and mass protests",
+      "explanation_hebrew": "התקוממות בהובלת סטודנטים ומחאה המונית הפילו את ממשלתה בשנת 2024.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “convicted in absentia” mean?",
+      "options": [
+        "Convicted while not present at the trial",
+        "Released because no evidence existed",
+        "Elected while living overseas",
+        "Questioned but never charged"
+      ],
+      "correct_answer": "Convicted while not present at the trial",
+      "explanation_hebrew": "in absentia פירושו בהיעדר הנאשם; חסינה הורשעה במשפט שבו לא נכחה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “ousted” mean in the description of Hasina?",
+      "options": [
+        "Formally welcomed back",
+        "Protected from criticism",
+        "Removed from power",
+        "Temporarily promoted"
+      ],
+      "correct_answer": "Removed from power",
+      "explanation_hebrew": "ousted פירושו הודחה או הוצאה מן השלטון.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain how “uprising”, “crackdown” and “toppled” describe the sequence of events in 2024. Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש לתאר התקוממות ומחאות, תגובה אלימה או דיכוי מצד השלטון, ולבסוף את נפילת הממשלה והדחת חסינה.",
+      "expected_points": [
+        "An uprising is a large organised challenge to authority",
+        "A crackdown is a forceful attempt to suppress protests",
+        "Toppled means the protests ultimately brought the government down"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why could Hasina's return worsen relations between Bangladesh and India? Answer in 2–3 sentences using the article's context.",
+      "rubric_hebrew": "יש להסיק שבנגלדש ביקשה את הסגרתה, היא פועלת תקשורתית משטח הודו, והיחסים בין המדינות כבר מתוחים.",
+      "expected_points": [
+        "Hasina has been living in India while Bangladesh has sought her return",
+        "Her public political activity from Indian soil can be viewed as interference or provocation",
+        "Relations between the two countries are already strained"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–110 word summary covering Hasina's fall from power, legal position, life in exile and promised return.",
+      "rubric_hebrew": "יש לכלול את מחאות 2024, הדיכוי והערכת האו״ם לגבי ההרוגים, הגלות בהודו, ההרשעה בהיעדר וגזר דין המוות, הכחשתה וכוונתה לחזור בדצמבר.",
+      "expected_points": [
+        "Student-led protests toppled Hasina's government in 2024",
+        "The UN estimated that up to 1,400 people were killed during the crackdown",
+        "She fled to India and was later convicted in absentia of crimes against humanity",
+        "She denies wrongdoing and says she will return in December despite the risks"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, explain why Hasina's vow may be both a legal risk and a political strategy. Write 4–5 sentences.",
+      "rubric_hebrew": "יש להבחין בין הסיכון למעצר או לעונש מוות לבין האפשרות לחזק את תומכיה, לדרוש את הסרת האיסור על מפלגתה ולהציג את עצמה כמחויבת לציבור.",
+      "expected_points": [
+        "Identify imprisonment or the death sentence as the legal risk",
+        "Mention her conviction in absentia and denial of wrongdoing",
+        "Explain how a return promise can rally Awami League supporters",
+        "Refer to her demand that the party ban be lifted or her claim of duty to the people"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}

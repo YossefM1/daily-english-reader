@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-06",
+  "article_id": "C",
+  "article_title": "What's causing record high US beef prices?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main explanation for record US beef prices?",
+      "options": [
+        "A supply shortage combined with higher costs across the beef industry",
+        "A sudden collapse in demand for beef",
+        "A ban on selling cattle at auction",
+        "Restaurants replacing beef with chicken"
+      ],
+      "correct_answer": "A supply shortage combined with higher costs across the beef industry",
+      "explanation_hebrew": "המחירים עולים בגלל עדר בקר קטן במיוחד ובגלל עלויות גבוהות לחוואים, למפטמים ולמעבדים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "By how much had supermarket beef prices risen from a year earlier?",
+      "options": [
+        "About 2%",
+        "About 6%",
+        "About 12%",
+        "About 25%"
+      ],
+      "correct_answer": "About 12%",
+      "explanation_hebrew": "לפי הכתבה, מחיר הבקר בסופרמרקט עלה בכ־12% לעומת שנה קודם לכן.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How unusual was the size of the US cattle herd at the start of the year?",
+      "options": [
+        "It was the largest on record",
+        "It was unchanged from 1951",
+        "It was the smallest since 1951",
+        "It had doubled in two years"
+      ],
+      "correct_answer": "It was the smallest since 1951",
+      "explanation_hebrew": "בתחילת השנה היו בארה״ב פחות ראשי בקר מאשר בכל נקודה מאז 1951.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What bid did rancher Eric Gropper report for a 600lb calf?",
+      "options": [
+        "About $500",
+        "About $1,200",
+        "About $2,000",
+        "About $2,500"
+      ],
+      "correct_answer": "About $2,500",
+      "explanation_hebrew": "גרופר סיפר שהצעות המחיר לעגל במשקל 600 ליברות הגיעו לכ־2,500 דולר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “parched” mean when the article describes drought-hit land?",
+      "options": [
+        "Very dry and lacking water",
+        "Covered by deep snow",
+        "Ready for an auction",
+        "Rich in fresh fodder"
+      ],
+      "correct_answer": "Very dry and lacking water",
+      "explanation_hebrew": "parched מתאר אדמה יבשה מאוד וצמאה למים בעקבות הבצורת.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the beef supply chain, what is “fodder”?",
+      "options": [
+        "A fee paid at an auction",
+        "Food given to livestock",
+        "A processed cut of beef",
+        "A lease for grazing land"
+      ],
+      "correct_answer": "Food given to livestock",
+      "explanation_hebrew": "fodder הוא מספוא — מזון הניתן לבעלי חיים במשק.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain the roles of a “rancher”, a “feedlot operator” and a “meatpacker” in the beef supply chain. Answer in 3–4 sentences.",
+      "rubric_hebrew": "יש להסביר שהחוואי מגדל בקר, המפטם מזין ומכין אותו לשחיטה, והמעבד שוחט, מעבד ואורז את הבשר לשיווק.",
+      "expected_points": [
+        "A rancher raises cattle",
+        "A feedlot operator fattens cattle before slaughter",
+        "A meatpacker slaughters and processes cattle into beef",
+        "The three roles form successive stages of the supply chain"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why are ranchers and meatpackers not necessarily making higher profits even though shoppers pay record prices? Answer in 3–4 sentences.",
+      "rubric_hebrew": "יש לקשר בין מחיר הבקר הגבוה לבין עלויות מספוא, מים, ציוד וגידור לחוואים, ועלות רכישת בקר וקיבולת לא מנוצלת למעבדים.",
+      "expected_points": [
+        "Ranchers face higher feed, equipment, fencing and drought-related costs",
+        "Meatpackers must pay more for scarce cattle",
+        "Low cattle numbers can leave processing capacity underused",
+        "Higher revenue does not guarantee higher profit when costs rise"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 90–120 word summary explaining the herd shortage, drought, rising costs, industry concentration and effects on profits.",
+      "rubric_hebrew": "יש לכלול עדר קטן ביותר מאז 1951, בצורת ומחסור במספוא/מים, עלייה של 12% במחיר לצרכן, שליטת ארבע חברות בכ־85% מהעיבוד, והעובדה שגם חוואים ומעבדים מתמודדים עם עלויות והפסדים.",
+      "expected_points": [
+        "The US cattle herd is the smallest since 1951",
+        "Drought reduced grazing, water and fodder and encouraged herd reductions",
+        "Supermarket beef prices rose about 12% in a year",
+        "Four large firms process about 85% of US beef",
+        "Ranchers and processors face high costs, and Tyson reported major beef losses"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using at least three figures from the article, explain why rebuilding cattle supply is unlikely to reduce beef prices immediately. Write 4–5 sentences.",
+      "rubric_hebrew": "יש להשתמש בלפחות שלושה נתונים כגון 12%, מאז 1951, 2,500 דולר לעגל של 600 ליברות, 85% מהעיבוד או הפסד של יותר מ־500 מיליון דולר, ולקשר אותם למחזור גידול איטי ולעלויות.",
+      "expected_points": [
+        "Use at least three numerical facts accurately",
+        "Explain that herd rebuilding takes time because cattle must be bred and raised",
+        "Connect drought and input costs to slow supply growth",
+        "Explain why limited supply continues to pressure consumer prices"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

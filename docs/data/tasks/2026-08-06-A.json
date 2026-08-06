@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-06",
+  "article_id": "A",
+  "article_title": "New walk-in mental health centres to open in banks and libraries across England",
+  "article_url": "https://www.bbc.co.uk/news/articles/cpd76e737ljo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the new mental health centres?",
+      "options": [
+        "To replace every GP surgery in England",
+        "To provide earlier, easier access to mental health support",
+        "To offer only long-term hospital treatment",
+        "To train bank and library staff as doctors"
+      ],
+      "correct_answer": "To provide earlier, easier access to mental health support",
+      "explanation_hebrew": "מטרת המרכזים היא לאפשר לאנשים לקבל תמיכה נפשית מוקדם יותר ובקרבת מקום, לפני שמצבם מחמיר.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many new community mental health centres are planned?",
+      "options": [
+        "59",
+        "82",
+        "100",
+        "343"
+      ],
+      "correct_answer": "100",
+      "explanation_hebrew": "התכנית כוללת 100 מרכזי בריאות נפש קהילתיים חדשים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where could some of the community centres be located?",
+      "options": [
+        "Only inside major hospitals",
+        "In banks, libraries and other high-street locations",
+        "Only at universities",
+        "Inside police stations"
+      ],
+      "correct_answer": "In banks, libraries and other high-street locations",
+      "explanation_hebrew": "הכתבה מציינת שהמרכזים עשויים לפעול בבנקים, בספריות ובמיקומים נגישים נוספים ברחוב הראשי.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What will people need before using the walk-in community centres?",
+      "options": [
+        "A referral from a GP",
+        "A private insurance policy",
+        "A hospital discharge letter",
+        "No referral"
+      ],
+      "correct_answer": "No referral",
+      "explanation_hebrew": "המרכזים מיועדים לקבלת קהל ללא הפניה מרופא משפחה וללא המתנה של חודשים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “lifeline” suggest about the new centres?",
+      "options": [
+        "They may provide urgently needed help to people in distress",
+        "They will teach people how to swim",
+        "They will operate only by telephone",
+        "They will replace all existing therapists"
+      ],
+      "correct_answer": "They may provide urgently needed help to people in distress",
+      "explanation_hebrew": "lifeline משמש כאן בהשאלה לשירות חיוני שעשוי לעזור לאנשים במצוקה בזמן שהם ממתינים לטיפול.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “dedicated mental health emergency department” mean?",
+      "options": [
+        "A general waiting room used for every illness",
+        "A temporary office for financial advice",
+        "A service designed specifically for mental health crises",
+        "A library section containing medical books"
+      ],
+      "correct_answer": "A service designed specifically for mental health crises",
+      "explanation_hebrew": "dedicated פירושו ייעודי; המחלקה מתוכננת במיוחד לטיפול מהיר ורגוע במשבר נפשי.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain the difference between “immediate”, “specialist” and “community” support in the article. Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שמיידי מתייחס למהירות, מומחה לסוג הידע המקצועי, וקהילתי למיקום ושירות קרובים למקום מגורי המטופל.",
+      "expected_points": [
+        "Immediate support is available without a long delay",
+        "Specialist support is provided by professionals trained in mental health",
+        "Community support is delivered locally rather than only in a hospital"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might a calm specialist department be better than a general A&E for someone in a mental health crisis? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסיק שסביבה רגועה וצוות מומחה עשויים להפחית מצוקה, לאפשר הערכה מהירה ולהימנע מהמתנה ארוכה במחלקה כללית עמוסה.",
+      "expected_points": [
+        "A calm environment may reduce distress",
+        "Specialist staff can assess mental health needs quickly",
+        "It may avoid long waits in a busy general emergency department"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 70–100 word summary including the number and type of centres, access arrangements, funding and intended benefit.",
+      "rubric_hebrew": "יש לכלול 100 מרכזים קהילתיים, 59 מחלקות חירום ייעודיות, כניסה ללא הפניה, השקעה של 343 מיליון ליש״ט והמטרה לספק עזרה מוקדמת וקרובה לבית.",
+      "expected_points": [
+        "The plan includes 100 community mental health centres",
+        "It also includes 59 dedicated mental health emergency departments",
+        "Community centres will offer walk-in help without a GP referral",
+        "The rollout is backed by £343 million",
+        "The aim is earlier local support and better crisis care"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, explain one benefit and one implementation risk of locating mental health support in familiar community buildings. Write 3–4 sentences.",
+      "rubric_hebrew": "יש לציין יתרון כגון נגישות והפחתת סטיגמה, לצד סיכון מעשי שהכתבה מעלה כגון מחסור בכוח אדם או צורך להשתלב היטב בשירותים הקיימים.",
+      "expected_points": [
+        "Identify easier local access as a possible benefit",
+        "Explain how familiar locations may encourage earlier help-seeking",
+        "Identify adequate staffing or integration with existing services as a risk",
+        "Use at least one specific detail from the plan"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
