@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-06",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "What's causing record high US beef prices?",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o",
+  "published_at": "2026-08-05T23:23:05+00:00",
+  "age_hours_at_selection": 2.83,
+  "word_count": 1160,
+  "generated_at": "2026-08-06T02:12:48.548588+00:00",
+  "difficulty_reason": "Longer analytical piece tracing an economic supply chain with dense detail; B2/C1/C2 vocabulary and some grasp of market economics required.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "soaring",
+      "lemma": "soar",
+      "level": "C1",
+      "hebrew": "מרקיע / מזנק",
+      "explanation_hebrew": "עולה במהירות ובחדות",
+      "pronunciation_hebrew": "סוֹרִינְג",
+      "example": "Food prices are soaring."
+    },
+    {
+      "word": "inflation",
+      "lemma": "inflation",
+      "level": "B2",
+      "hebrew": "אינפלציה",
+      "explanation_hebrew": "עליית מחירים כללית",
+      "pronunciation_hebrew": "אִינְפְלֵיישָׁן",
+      "example": "Inflation is rising fast."
+    },
+    {
+      "word": "leases",
+      "lemma": "lease",
+      "level": "C1",
+      "hebrew": "חוכר / שוכר",
+      "explanation_hebrew": "משכיר או שוכר בחוזה",
+      "pronunciation_hebrew": "לִיסֶז",
+      "example": "He leases the land from a company."
+    },
+    {
+      "word": "auction",
+      "lemma": "auction",
+      "level": "B2",
+      "hebrew": "מכירה פומבית",
+      "explanation_hebrew": "מכירה למרבה במחיר",
+      "pronunciation_hebrew": "אוֹקְשָׁן",
+      "example": "The painting was sold at auction."
+    },
+    {
+      "word": "drought",
+      "lemma": "drought",
+      "level": "B2",
+      "hebrew": "בצורת",
+      "explanation_hebrew": "תקופה ארוכה ללא גשם",
+      "pronunciation_hebrew": "דְרַאוּט",
+      "example": "The drought destroyed the crops."
+    },
+    {
+      "word": "shortage",
+      "lemma": "shortage",
+      "level": "B2",
+      "hebrew": "מחסור",
+      "explanation_hebrew": "כמות לא מספקת של דבר",
+      "pronunciation_hebrew": "שוֹרְטֶג'",
+      "example": "There is a water shortage."
+    },
+    {
+      "word": "parched",
+      "lemma": "parched",
+      "level": "C2",
+      "hebrew": "צחיח / יבש מאוד",
+      "explanation_hebrew": "יבש מאוד מחוסר מים",
+      "pronunciation_hebrew": "פַּארְצְ'ט",
+      "example": "The parched fields turned brown."
+    },
+    {
+      "word": "fodder",
+      "lemma": "fodder",
+      "level": "C2",
+      "hebrew": "מספוא",
+      "explanation_hebrew": "מזון לבעלי חיים",
+      "pronunciation_hebrew": "פוֹדֶר",
+      "example": "They bought fodder for the cattle."
+    },
+    {
+      "word": "slaughter",
+      "lemma": "slaughter",
+      "level": "B2",
+      "hebrew": "שחיטה",
+      "explanation_hebrew": "הריגת בעלי חיים למאכל",
+      "pronunciation_hebrew": "סְלוֹטֶר",
+      "example": "The animals were sent to slaughter."
+    },
+    {
+      "word": "fattened",
+      "lemma": "fatten",
+      "level": "C1",
+      "hebrew": "פוטמו",
+      "explanation_hebrew": "הושמנו לקראת מכירה",
+      "pronunciation_hebrew": "פַאטֶנְד",
+      "example": "The pigs were fattened for market."
+    },
+    {
+      "word": "carcass",
+      "lemma": "carcass",
+      "level": "C1",
+      "hebrew": "פגר / גופת חיה",
+      "explanation_hebrew": "גופת בעל חיים",
+      "pronunciation_hebrew": "קַארְקָס",
+      "example": "The carcass was cut into pieces."
+    },
+    {
+      "word": "concentration",
+      "lemma": "concentration",
+      "level": "C1",
+      "hebrew": "ריכוז",
+      "explanation_hebrew": "התרכזות בידיים מעטות",
+      "pronunciation_hebrew": "קוֹנְסֶנְטְרֵיישָׁן",
+      "example": "There is high market concentration."
+    },
+    {
+      "word": "capacity",
+      "lemma": "capacity",
+      "level": "B2",
+      "hebrew": "קיבולת",
+      "explanation_hebrew": "הכמות המרבית שניתן להכיל",
+      "pronunciation_hebrew": "קָפַּאסִיטִי",
+      "example": "The plant runs at full capacity."
+    },
+    {
+      "word": "inefficiency",
+      "lemma": "inefficiency",
+      "level": "C1",
+      "hebrew": "חוסר יעילות",
+      "explanation_hebrew": "בזבוז משאבים",
+      "pronunciation_hebrew": "אִינֶפִישֶׁנְסִי",
+      "example": "The inefficiency raised costs."
+    },
+    {
+      "word": "conjure",
+      "lemma": "conjure",
+      "level": "C2",
+      "hebrew": "לחולל כבמטה קסם",
+      "explanation_hebrew": "ליצור משהו כאילו מקסם",
+      "pronunciation_hebrew": "קוֹנְגֶ'ר",
+      "example": "You cannot conjure money from nothing."
+    },
+    {
+      "word": "rancher",
+      "lemma": "rancher",
+      "level": "B2",
+      "hebrew": "בעל חוות בקר",
+      "explanation_hebrew": "מגדל בקר בחווה",
+      "pronunciation_hebrew": "רַאנְצֶ'ר",
+      "example": "The rancher sold his calves."
+    },
+    {
+      "word": "livestock",
+      "lemma": "livestock",
+      "level": "B2",
+      "hebrew": "בעלי חיים משקיים",
+      "explanation_hebrew": "חיות משק כמו בקר וכבשים",
+      "pronunciation_hebrew": "לַייבְסְטוֹק",
+      "example": "The farm keeps a lot of livestock."
+    },
+    {
+      "word": "grazing",
+      "lemma": "graze",
+      "level": "C1",
+      "hebrew": "רועה במרעה",
+      "explanation_hebrew": "אכילת עשב בשדה",
+      "pronunciation_hebrew": "גְרֵייזִינְג",
+      "example": "The cows were grazing in the field."
+    },
+    {
+      "word": "accusations",
+      "lemma": "accusation",
+      "level": "B2",
+      "hebrew": "האשמות",
+      "explanation_hebrew": "טענות שמישהו עשה עוול",
+      "pronunciation_hebrew": "אַקְיוּזֵיישָׁנְז",
+      "example": "He faced serious accusations."
+    },
+    {
+      "word": "imported",
+      "lemma": "import",
+      "level": "B1",
+      "hebrew": "מיובא",
+      "explanation_hebrew": "הובא ממדינה אחרת",
+      "pronunciation_hebrew": "אִימְפּוֹרְטֶד",
+      "example": "They sell imported goods."
+    },
+    {
+      "word": "combination",
+      "lemma": "combination",
+      "level": "B2",
+      "hebrew": "שילוב",
+      "explanation_hebrew": "חיבור של כמה דברים יחד",
+      "pronunciation_hebrew": "קוֹמְבִּינֵיישָׁן",
+      "example": "It was a combination of factors."
+    },
+    {
+      "word": "climbed",
+      "lemma": "climb",
+      "level": "B1",
+      "hebrew": "טיפס / עלה",
+      "explanation_hebrew": "עלה בהדרגה",
+      "pronunciation_hebrew": "קְלַיימְד",
+      "example": "Costs climbed sharply."
+    },
+    {
+      "word": "profits",
+      "lemma": "profit",
+      "level": "B2",
+      "hebrew": "רווחים",
+      "explanation_hebrew": "הכסף שנשאר אחרי ההוצאות",
+      "pronunciation_hebrew": "פְּרוֹפִיטְס",
+      "example": "The company made big profits."
+    },
+    {
+      "word": "remaining",
+      "lemma": "remain",
+      "level": "B2",
+      "hebrew": "הנותר",
+      "explanation_hebrew": "מה שנשאר",
+      "pronunciation_hebrew": "רִימֵיינִינְג",
+      "example": "The remaining shops closed."
+    },
+    {
+      "word": "heifer",
+      "lemma": "heifer",
+      "level": "C2",
+      "hebrew": "עגלה / פרה צעירה",
+      "explanation_hebrew": "פרה צעירה שטרם המליטה",
+      "pronunciation_hebrew": "הֶפֶר",
+      "example": "The heifer will calve next year."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "soaring",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"soaring\" mean?",
+      "options": [
+        "חוכר / שוכר",
+        "מכירה פומבית",
+        "מרקיע / מזנק",
+        "אינפלציה"
+      ],
+      "correct_answer": "מרקיע / מזנק",
+      "explanation_hebrew": "המילה \"soaring\" פירושה מרקיע / מזנק."
+    },
+    {
+      "id": "C-q2",
+      "word": "inflation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: אינפלציה?",
+      "options": [
+        "leases",
+        "auction",
+        "drought",
+        "inflation"
+      ],
+      "correct_answer": "inflation",
+      "explanation_hebrew": "המילה באנגלית \"inflation\" פירושה אינפלציה."
+    },
+    {
+      "id": "C-q3",
+      "word": "leases",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"leases\" mean?",
+      "options": [
+        "מחסור",
+        "חוכר / שוכר",
+        "בצורת",
+        "מכירה פומבית"
+      ],
+      "correct_answer": "חוכר / שוכר",
+      "explanation_hebrew": "המילה \"leases\" פירושה חוכר / שוכר."
+    },
+    {
+      "id": "C-q4",
+      "word": "auction",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: מכירה פומבית?",
+      "options": [
+        "drought",
+        "shortage",
+        "auction",
+        "parched"
+      ],
+      "correct_answer": "auction",
+      "explanation_hebrew": "המילה באנגלית \"auction\" פירושה מכירה פומבית."
+    },
+    {
+      "id": "C-q5",
+      "word": "drought",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"drought\" mean?",
+      "options": [
+        "מחסור",
+        "מספוא",
+        "בצורת",
+        "צחיח / יבש מאוד"
+      ],
+      "correct_answer": "בצורת",
+      "explanation_hebrew": "המילה \"drought\" פירושה בצורת."
+    },
+    {
+      "id": "C-q6",
+      "word": "shortage",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: מחסור?",
+      "options": [
+        "slaughter",
+        "fodder",
+        "parched",
+        "shortage"
+      ],
+      "correct_answer": "shortage",
+      "explanation_hebrew": "המילה באנגלית \"shortage\" פירושה מחסור."
+    },
+    {
+      "id": "C-q7",
+      "word": "parched",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"parched\" mean?",
+      "options": [
+        "מספוא",
+        "פוטמו",
+        "שחיטה",
+        "צחיח / יבש מאוד"
+      ],
+      "correct_answer": "צחיח / יבש מאוד",
+      "explanation_hebrew": "המילה \"parched\" פירושה צחיח / יבש מאוד."
+    },
+    {
+      "id": "C-q8",
+      "word": "fodder",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: מספוא?",
+      "options": [
+        "fattened",
+        "slaughter",
+        "carcass",
+        "fodder"
+      ],
+      "correct_answer": "fodder",
+      "explanation_hebrew": "המילה באנגלית \"fodder\" פירושה מספוא."
+    },
+    {
+      "id": "C-q9",
+      "word": "slaughter",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"slaughter\" mean?",
+      "options": [
+        "ריכוז",
+        "פוטמו",
+        "שחיטה",
+        "פגר / גופת חיה"
+      ],
+      "correct_answer": "שחיטה",
+      "explanation_hebrew": "המילה \"slaughter\" פירושה שחיטה."
+    },
+    {
+      "id": "C-q10",
+      "word": "fattened",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: פוטמו?",
+      "options": [
+        "concentration",
+        "carcass",
+        "fattened",
+        "capacity"
+      ],
+      "correct_answer": "fattened",
+      "explanation_hebrew": "המילה באנגלית \"fattened\" פירושה פוטמו."
+    },
+    {
+      "id": "C-q11",
+      "word": "carcass",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"carcass\" mean?",
+      "options": [
+        "פגר / גופת חיה",
+        "חוסר יעילות",
+        "קיבולת",
+        "ריכוז"
+      ],
+      "correct_answer": "פגר / גופת חיה",
+      "explanation_hebrew": "המילה \"carcass\" פירושה פגר / גופת חיה."
+    },
+    {
+      "id": "C-q12",
+      "word": "concentration",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: ריכוז?",
+      "options": [
+        "inefficiency",
+        "capacity",
+        "concentration",
+        "conjure"
+      ],
+      "correct_answer": "concentration",
+      "explanation_hebrew": "המילה באנגלית \"concentration\" פירושה ריכוז."
+    },
+    {
+      "id": "C-q13",
+      "word": "capacity",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"capacity\" mean?",
+      "options": [
+        "לחולל כבמטה קסם",
+        "קיבולת",
+        "חוסר יעילות",
+        "בעל חוות בקר"
+      ],
+      "correct_answer": "קיבולת",
+      "explanation_hebrew": "המילה \"capacity\" פירושה קיבולת."
+    },
+    {
+      "id": "C-q14",
+      "word": "inefficiency",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: חוסר יעילות?",
+      "options": [
+        "conjure",
+        "rancher",
+        "livestock",
+        "inefficiency"
+      ],
+      "correct_answer": "inefficiency",
+      "explanation_hebrew": "המילה באנגלית \"inefficiency\" פירושה חוסר יעילות."
+    },
+    {
+      "id": "C-q15",
+      "word": "conjure",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"conjure\" mean?",
+      "options": [
+        "לחולל כבמטה קסם",
+        "בעלי חיים משקיים",
+        "בעל חוות בקר",
+        "רועה במרעה"
+      ],
+      "correct_answer": "לחולל כבמטה קסם",
+      "explanation_hebrew": "המילה \"conjure\" פירושה לחולל כבמטה קסם."
+    },
+    {
+      "id": "C-q16",
+      "word": "rancher",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: בעל חוות בקר?",
+      "options": [
+        "livestock",
+        "rancher",
+        "accusations",
+        "grazing"
+      ],
+      "correct_answer": "rancher",
+      "explanation_hebrew": "המילה באנגלית \"rancher\" פירושה בעל חוות בקר."
+    },
+    {
+      "id": "C-q17",
+      "word": "livestock",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"livestock\" mean?",
+      "options": [
+        "בעלי חיים משקיים",
+        "האשמות",
+        "רועה במרעה",
+        "מיובא"
+      ],
+      "correct_answer": "בעלי חיים משקיים",
+      "explanation_hebrew": "המילה \"livestock\" פירושה בעלי חיים משקיים."
+    },
+    {
+      "id": "C-q18",
+      "word": "grazing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: רועה במרעה?",
+      "options": [
+        "imported",
+        "grazing",
+        "accusations",
+        "combination"
+      ],
+      "correct_answer": "grazing",
+      "explanation_hebrew": "המילה באנגלית \"grazing\" פירושה רועה במרעה."
+    },
+    {
+      "id": "C-q19",
+      "word": "accusations",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"accusations\" mean?",
+      "options": [
+        "האשמות",
+        "טיפס / עלה",
+        "שילוב",
+        "מיובא"
+      ],
+      "correct_answer": "האשמות",
+      "explanation_hebrew": "המילה \"accusations\" פירושה האשמות."
+    },
+    {
+      "id": "C-q20",
+      "word": "imported",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: מיובא?",
+      "options": [
+        "combination",
+        "imported",
+        "climbed",
+        "profits"
+      ],
+      "correct_answer": "imported",
+      "explanation_hebrew": "המילה באנגלית \"imported\" פירושה מיובא."
+    },
+    {
+      "id": "C-q21",
+      "word": "combination",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"combination\" mean?",
+      "options": [
+        "הנותר",
+        "טיפס / עלה",
+        "שילוב",
+        "רווחים"
+      ],
+      "correct_answer": "שילוב",
+      "explanation_hebrew": "המילה \"combination\" פירושה שילוב."
+    },
+    {
+      "id": "C-q22",
+      "word": "climbed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: טיפס / עלה?",
+      "options": [
+        "profits",
+        "remaining",
+        "heifer",
+        "climbed"
+      ],
+      "correct_answer": "climbed",
+      "explanation_hebrew": "המילה באנגלית \"climbed\" פירושה טיפס / עלה."
+    },
+    {
+      "id": "C-q23",
+      "word": "profits",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"profits\" mean?",
+      "options": [
+        "הנותר",
+        "עגלה / פרה צעירה",
+        "מרקיע / מזנק",
+        "רווחים"
+      ],
+      "correct_answer": "רווחים",
+      "explanation_hebrew": "המילה \"profits\" פירושה רווחים."
+    },
+    {
+      "id": "C-q24",
+      "word": "remaining",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: הנותר?",
+      "options": [
+        "heifer",
+        "remaining",
+        "soaring",
+        "inflation"
+      ],
+      "correct_answer": "remaining",
+      "explanation_hebrew": "המילה באנגלית \"remaining\" פירושה הנותר."
+    },
+    {
+      "id": "C-q25",
+      "word": "heifer",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"heifer\" mean?",
+      "options": [
+        "עגלה / פרה צעירה",
+        "מרקיע / מזנק",
+        "חוכר / שוכר",
+        "אינפלציה"
+      ],
+      "correct_answer": "עגלה / פרה צעירה",
+      "explanation_hebrew": "המילה \"heifer\" פירושה עגלה / פרה צעירה."
+    }
+  ]
+}

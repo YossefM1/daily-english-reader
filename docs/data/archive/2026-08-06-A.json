@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-06",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "New walk-in mental health centres to open in banks and libraries across England",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cpd76e737ljo",
+  "published_at": "2026-08-05T21:30:46+00:00",
+  "age_hours_at_selection": 4.7,
+  "word_count": 555,
+  "generated_at": "2026-08-06T02:12:48.548588+00:00",
+  "difficulty_reason": "Short report with clear, direct sentences and one straightforward policy story; mostly B1/B2 vocabulary and little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "immediate",
+      "lemma": "immediate",
+      "level": "B1",
+      "hebrew": "מיידי",
+      "explanation_hebrew": "תכף ומיד, ללא עיכוב",
+      "pronunciation_hebrew": "אִימִידִיאֶט",
+      "example": "She needed immediate help."
+    },
+    {
+      "word": "specialist",
+      "lemma": "specialist",
+      "level": "B2",
+      "hebrew": "מומחה",
+      "explanation_hebrew": "בעל ידע מקצועי בתחום מסוים",
+      "pronunciation_hebrew": "סְפֶּשָׁלִיסְט",
+      "example": "He is a heart specialist."
+    },
+    {
+      "word": "crisis",
+      "lemma": "crisis",
+      "level": "B2",
+      "hebrew": "משבר",
+      "explanation_hebrew": "מצב חמור ומסוכן",
+      "pronunciation_hebrew": "קְרַייסִיס",
+      "example": "The country faced an economic crisis."
+    },
+    {
+      "word": "distress",
+      "lemma": "distress",
+      "level": "B2",
+      "hebrew": "מצוקה",
+      "explanation_hebrew": "סבל או כאב נפשי חזק",
+      "pronunciation_hebrew": "דִיסְטְרֶס",
+      "example": "The call was a clear sign of distress."
+    },
+    {
+      "word": "tackle",
+      "lemma": "tackle",
+      "level": "B2",
+      "hebrew": "להתמודד עם",
+      "explanation_hebrew": "לטפל בבעיה באופן פעיל",
+      "pronunciation_hebrew": "טַאקֶל",
+      "example": "We must tackle this problem now."
+    },
+    {
+      "word": "ensure",
+      "lemma": "ensure",
+      "level": "B2",
+      "hebrew": "להבטיח / לוודא",
+      "explanation_hebrew": "לוודא שדבר מה יקרה",
+      "pronunciation_hebrew": "אֶנְשׁוּר",
+      "example": "Please ensure the door is locked."
+    },
+    {
+      "word": "dedicated",
+      "lemma": "dedicated",
+      "level": "B2",
+      "hebrew": "ייעודי",
+      "explanation_hebrew": "המיועד למטרה מסוימת בלבד",
+      "pronunciation_hebrew": "דֶדִיקֵייטֶד",
+      "example": "There is a dedicated team for this."
+    },
+    {
+      "word": "operational",
+      "lemma": "operational",
+      "level": "B2",
+      "hebrew": "פעיל / מבצעי",
+      "explanation_hebrew": "נמצא בפעולה ועובד",
+      "pronunciation_hebrew": "אוֹפֶּרֵיישָׁנָל",
+      "example": "The new system is now operational."
+    },
+    {
+      "word": "lifeline",
+      "lemma": "lifeline",
+      "level": "C1",
+      "hebrew": "חבל הצלה",
+      "explanation_hebrew": "דבר שמציל או עוזר מאוד בזמן קשה",
+      "pronunciation_hebrew": "לַייפְלַיין",
+      "example": "The loan was a lifeline for the business."
+    },
+    {
+      "word": "neglected",
+      "lemma": "neglected",
+      "level": "B2",
+      "hebrew": "הוזנח",
+      "explanation_hebrew": "לא קיבל תשומת לב או טיפול",
+      "pronunciation_hebrew": "נִיגְלֶקְטֶד",
+      "example": "The garden was neglected for years."
+    },
+    {
+      "word": "successive",
+      "lemma": "successive",
+      "level": "B2",
+      "hebrew": "עוקבים / רצופים",
+      "explanation_hebrew": "באים זה אחר זה",
+      "pronunciation_hebrew": "סָאקְסֶסִיב",
+      "example": "They won three successive games."
+    },
+    {
+      "word": "crucial",
+      "lemma": "crucial",
+      "level": "B2",
+      "hebrew": "קריטי / חיוני",
+      "explanation_hebrew": "חשוב מאוד, מכריע",
+      "pronunciation_hebrew": "קְרוּשָׁל",
+      "example": "This is a crucial decision."
+    },
+    {
+      "word": "humane",
+      "lemma": "humane",
+      "level": "C1",
+      "hebrew": "אנושי / רחום",
+      "explanation_hebrew": "מלא חמלה כלפי אחרים",
+      "pronunciation_hebrew": "הְיוּמֵיין",
+      "example": "They gave humane treatment to the animals."
+    },
+    {
+      "word": "initiative",
+      "lemma": "initiative",
+      "level": "B2",
+      "hebrew": "יוזמה",
+      "explanation_hebrew": "תוכנית או מהלך חדש",
+      "pronunciation_hebrew": "אִינִישָׁטִיב",
+      "example": "The government launched a new initiative."
+    },
+    {
+      "word": "demand",
+      "lemma": "demand",
+      "level": "B1",
+      "hebrew": "ביקוש / דרישה",
+      "explanation_hebrew": "הצורך או הרצון בדבר מה",
+      "pronunciation_hebrew": "דִימַאנְד",
+      "example": "There is high demand for the product."
+    },
+    {
+      "word": "network",
+      "lemma": "network",
+      "level": "B1",
+      "hebrew": "רשת",
+      "explanation_hebrew": "מערכת של דברים מקושרים",
+      "pronunciation_hebrew": "נֶטְוֶורְק",
+      "example": "They built a network of clinics."
+    },
+    {
+      "word": "community",
+      "lemma": "community",
+      "level": "B1",
+      "hebrew": "קהילה",
+      "explanation_hebrew": "קבוצת אנשים החיים באותו אזור",
+      "pronunciation_hebrew": "קוֹמְיוּנִיטִי",
+      "example": "The whole community helped."
+    },
+    {
+      "word": "significant",
+      "lemma": "significant",
+      "level": "B2",
+      "hebrew": "משמעותי",
+      "explanation_hebrew": "חשוב או גדול במידה ניכרת",
+      "pronunciation_hebrew": "סִיגְנִיפִיקַנְט",
+      "example": "There was a significant change."
+    },
+    {
+      "word": "experiencing",
+      "lemma": "experience",
+      "level": "B1",
+      "hebrew": "חווה / עובר",
+      "explanation_hebrew": "עובר או מרגיש משהו",
+      "pronunciation_hebrew": "אֶקְסְפִּירְיֶנְסִינְג",
+      "example": "She is experiencing pain."
+    },
+    {
+      "word": "existing",
+      "lemma": "exist",
+      "level": "B2",
+      "hebrew": "קיים",
+      "explanation_hebrew": "שכבר נמצא כאן",
+      "pronunciation_hebrew": "אֶגְזִיסְטִינְג",
+      "example": "We used the existing equipment."
+    },
+    {
+      "word": "therapists",
+      "lemma": "therapist",
+      "level": "B2",
+      "hebrew": "מטפלים",
+      "explanation_hebrew": "אנשי מקצוע העוזרים לבריאות",
+      "pronunciation_hebrew": "תֶרָפִּיסְטְס",
+      "example": "The therapists work as a team."
+    },
+    {
+      "word": "expected",
+      "lemma": "expect",
+      "level": "B1",
+      "hebrew": "צפוי",
+      "explanation_hebrew": "מה שחושבים שיקרה",
+      "pronunciation_hebrew": "אֶקְסְפֶּקְטֶד",
+      "example": "The results are expected tomorrow."
+    },
+    {
+      "word": "welcomed",
+      "lemma": "welcome",
+      "level": "B1",
+      "hebrew": "בירך על",
+      "explanation_hebrew": "הביע שמחה מדבר מה",
+      "pronunciation_hebrew": "וֶלְקַמְד",
+      "example": "She welcomed the news."
+    },
+    {
+      "word": "announcement",
+      "lemma": "announcement",
+      "level": "B1",
+      "hebrew": "הכרזה",
+      "explanation_hebrew": "הודעה רשמית לציבור",
+      "pronunciation_hebrew": "אֶנַאונְסְמֶנְט",
+      "example": "They made an important announcement."
+    },
+    {
+      "word": "investment",
+      "lemma": "investment",
+      "level": "B2",
+      "hebrew": "השקעה",
+      "explanation_hebrew": "הכנסת כסף או משאבים לשם רווח",
+      "pronunciation_hebrew": "אִינְבֶסְטְמֶנְט",
+      "example": "The project needs more investment."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "immediate",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"immediate\" mean?",
+      "options": [
+        "מומחה",
+        "מצוקה",
+        "מיידי",
+        "משבר"
+      ],
+      "correct_answer": "מיידי",
+      "explanation_hebrew": "המילה \"immediate\" פירושה מיידי."
+    },
+    {
+      "id": "A-q2",
+      "word": "specialist",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: מומחה?",
+      "options": [
+        "specialist",
+        "distress",
+        "crisis",
+        "tackle"
+      ],
+      "correct_answer": "specialist",
+      "explanation_hebrew": "המילה באנגלית \"specialist\" פירושה מומחה."
+    },
+    {
+      "id": "A-q3",
+      "word": "crisis",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"crisis\" mean?",
+      "options": [
+        "להבטיח / לוודא",
+        "מצוקה",
+        "להתמודד עם",
+        "משבר"
+      ],
+      "correct_answer": "משבר",
+      "explanation_hebrew": "המילה \"crisis\" פירושה משבר."
+    },
+    {
+      "id": "A-q4",
+      "word": "distress",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: מצוקה?",
+      "options": [
+        "ensure",
+        "distress",
+        "tackle",
+        "dedicated"
+      ],
+      "correct_answer": "distress",
+      "explanation_hebrew": "המילה באנגלית \"distress\" פירושה מצוקה."
+    },
+    {
+      "id": "A-q5",
+      "word": "tackle",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"tackle\" mean?",
+      "options": [
+        "פעיל / מבצעי",
+        "להתמודד עם",
+        "להבטיח / לוודא",
+        "ייעודי"
+      ],
+      "correct_answer": "להתמודד עם",
+      "explanation_hebrew": "המילה \"tackle\" פירושה להתמודד עם."
+    },
+    {
+      "id": "A-q6",
+      "word": "ensure",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: להבטיח / לוודא?",
+      "options": [
+        "operational",
+        "ensure",
+        "lifeline",
+        "dedicated"
+      ],
+      "correct_answer": "ensure",
+      "explanation_hebrew": "המילה באנגלית \"ensure\" פירושה להבטיח / לוודא."
+    },
+    {
+      "id": "A-q7",
+      "word": "dedicated",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"dedicated\" mean?",
+      "options": [
+        "הוזנח",
+        "פעיל / מבצעי",
+        "ייעודי",
+        "חבל הצלה"
+      ],
+      "correct_answer": "ייעודי",
+      "explanation_hebrew": "המילה \"dedicated\" פירושה ייעודי."
+    },
+    {
+      "id": "A-q8",
+      "word": "operational",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: פעיל / מבצעי?",
+      "options": [
+        "lifeline",
+        "operational",
+        "successive",
+        "neglected"
+      ],
+      "correct_answer": "operational",
+      "explanation_hebrew": "המילה באנגלית \"operational\" פירושה פעיל / מבצעי."
+    },
+    {
+      "id": "A-q9",
+      "word": "lifeline",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"lifeline\" mean?",
+      "options": [
+        "קריטי / חיוני",
+        "עוקבים / רצופים",
+        "חבל הצלה",
+        "הוזנח"
+      ],
+      "correct_answer": "חבל הצלה",
+      "explanation_hebrew": "המילה \"lifeline\" פירושה חבל הצלה."
+    },
+    {
+      "id": "A-q10",
+      "word": "neglected",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: הוזנח?",
+      "options": [
+        "neglected",
+        "humane",
+        "successive",
+        "crucial"
+      ],
+      "correct_answer": "neglected",
+      "explanation_hebrew": "המילה באנגלית \"neglected\" פירושה הוזנח."
+    },
+    {
+      "id": "A-q11",
+      "word": "successive",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"successive\" mean?",
+      "options": [
+        "עוקבים / רצופים",
+        "יוזמה",
+        "אנושי / רחום",
+        "קריטי / חיוני"
+      ],
+      "correct_answer": "עוקבים / רצופים",
+      "explanation_hebrew": "המילה \"successive\" פירושה עוקבים / רצופים."
+    },
+    {
+      "id": "A-q12",
+      "word": "crucial",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: קריטי / חיוני?",
+      "options": [
+        "demand",
+        "crucial",
+        "humane",
+        "initiative"
+      ],
+      "correct_answer": "crucial",
+      "explanation_hebrew": "המילה באנגלית \"crucial\" פירושה קריטי / חיוני."
+    },
+    {
+      "id": "A-q13",
+      "word": "humane",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"humane\" mean?",
+      "options": [
+        "ביקוש / דרישה",
+        "אנושי / רחום",
+        "יוזמה",
+        "רשת"
+      ],
+      "correct_answer": "אנושי / רחום",
+      "explanation_hebrew": "המילה \"humane\" פירושה אנושי / רחום."
+    },
+    {
+      "id": "A-q14",
+      "word": "initiative",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: יוזמה?",
+      "options": [
+        "initiative",
+        "community",
+        "demand",
+        "network"
+      ],
+      "correct_answer": "initiative",
+      "explanation_hebrew": "המילה באנגלית \"initiative\" פירושה יוזמה."
+    },
+    {
+      "id": "A-q15",
+      "word": "demand",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"demand\" mean?",
+      "options": [
+        "ביקוש / דרישה",
+        "משמעותי",
+        "רשת",
+        "קהילה"
+      ],
+      "correct_answer": "ביקוש / דרישה",
+      "explanation_hebrew": "המילה \"demand\" פירושה ביקוש / דרישה."
+    },
+    {
+      "id": "A-q16",
+      "word": "network",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: רשת?",
+      "options": [
+        "significant",
+        "community",
+        "network",
+        "experiencing"
+      ],
+      "correct_answer": "network",
+      "explanation_hebrew": "המילה באנגלית \"network\" פירושה רשת."
+    },
+    {
+      "id": "A-q17",
+      "word": "community",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"community\" mean?",
+      "options": [
+        "קיים",
+        "קהילה",
+        "משמעותי",
+        "חווה / עובר"
+      ],
+      "correct_answer": "קהילה",
+      "explanation_hebrew": "המילה \"community\" פירושה קהילה."
+    },
+    {
+      "id": "A-q18",
+      "word": "significant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: משמעותי?",
+      "options": [
+        "existing",
+        "significant",
+        "experiencing",
+        "therapists"
+      ],
+      "correct_answer": "significant",
+      "explanation_hebrew": "המילה באנגלית \"significant\" פירושה משמעותי."
+    },
+    {
+      "id": "A-q19",
+      "word": "experiencing",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"experiencing\" mean?",
+      "options": [
+        "צפוי",
+        "חווה / עובר",
+        "מטפלים",
+        "קיים"
+      ],
+      "correct_answer": "חווה / עובר",
+      "explanation_hebrew": "המילה \"experiencing\" פירושה חווה / עובר."
+    },
+    {
+      "id": "A-q20",
+      "word": "existing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: קיים?",
+      "options": [
+        "existing",
+        "welcomed",
+        "expected",
+        "therapists"
+      ],
+      "correct_answer": "existing",
+      "explanation_hebrew": "המילה באנגלית \"existing\" פירושה קיים."
+    },
+    {
+      "id": "A-q21",
+      "word": "therapists",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"therapists\" mean?",
+      "options": [
+        "הכרזה",
+        "בירך על",
+        "מטפלים",
+        "צפוי"
+      ],
+      "correct_answer": "מטפלים",
+      "explanation_hebrew": "המילה \"therapists\" פירושה מטפלים."
+    },
+    {
+      "id": "A-q22",
+      "word": "expected",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: צפוי?",
+      "options": [
+        "expected",
+        "investment",
+        "welcomed",
+        "announcement"
+      ],
+      "correct_answer": "expected",
+      "explanation_hebrew": "המילה באנגלית \"expected\" פירושה צפוי."
+    },
+    {
+      "id": "A-q23",
+      "word": "welcomed",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"welcomed\" mean?",
+      "options": [
+        "השקעה",
+        "בירך על",
+        "הכרזה",
+        "מיידי"
+      ],
+      "correct_answer": "בירך על",
+      "explanation_hebrew": "המילה \"welcomed\" פירושה בירך על."
+    },
+    {
+      "id": "A-q24",
+      "word": "announcement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: הכרזה?",
+      "options": [
+        "announcement",
+        "investment",
+        "specialist",
+        "immediate"
+      ],
+      "correct_answer": "announcement",
+      "explanation_hebrew": "המילה באנגלית \"announcement\" פירושה הכרזה."
+    },
+    {
+      "id": "A-q25",
+      "word": "investment",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"investment\" mean?",
+      "options": [
+        "מומחה",
+        "משבר",
+        "השקעה",
+        "מיידי"
+      ],
+      "correct_answer": "השקעה",
+      "explanation_hebrew": "המילה \"investment\" פירושה השקעה."
+    }
+  ]
+}
