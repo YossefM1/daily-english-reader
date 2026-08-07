@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-07",
+  "article_id": "C",
+  "article_title": "Sudan's invisible children - born in war with no legal identity",
+  "article_url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What problem does the article highlight for children born during Sudan's war?",
+      "options": [
+        "They may be unable to obtain birth registration and a legal identity",
+        "They are automatically registered in another country",
+        "They receive passports immediately after birth",
+        "They cannot be given a first name"
+      ],
+      "correct_answer": "They may be unable to obtain birth registration and a legal identity",
+      "explanation_hebrew": "הכתבה עוסקת בילדים שאינם נרשמים בלידה ולכן נותרים ללא זהות משפטית מוכרת.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why can some mothers not provide the information required for registration?",
+      "options": [
+        "The child's father may be absent or unknown",
+        "The child was born in a private hospital",
+        "The family owns too many documents",
+        "The mother has already enrolled the child in school"
+      ],
+      "correct_answer": "The child's father may be absent or unknown",
+      "explanation_hebrew": "במקרים המתוארים, זהות האב חסרה ולכן האם אינה יכולה למסור את כל הפרטים והמספר הלאומי הנדרשים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which two services can become difficult to access without a birth certificate?",
+      "options": [
+        "Vaccination and school enrolment",
+        "Bank loans and driving lessons",
+        "University employment and voting",
+        "International tourism and property sales"
+      ],
+      "correct_answer": "Vaccination and school enrolment",
+      "explanation_hebrew": "ללא תעודת לידה, ילדים עלולים להתקשות לקבל חיסונים ולהירשם לבית הספר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What has happened to many civil registration offices in parts of Darfur?",
+      "options": [
+        "They have become international schools",
+        "They have closed or stopped functioning during the conflict",
+        "They issue documents only online",
+        "They moved every record to Europe"
+      ],
+      "correct_answer": "They have closed or stopped functioning during the conflict",
+      "explanation_hebrew": "המלחמה פגעה בשירותים האזרחיים ומשרדי רישום רבים בדרפור נסגרו או חדלו לפעול.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why are the children described as “invisible”?",
+      "options": [
+        "They are hidden by the weather",
+        "The legal system has no official record of their birth and identity",
+        "They live outside every community",
+        "Their families refuse to give them names"
+      ],
+      "correct_answer": "The legal system has no official record of their birth and identity",
+      "explanation_hebrew": "invisible משמש כאן בהשאלה: בלי רישום לידה הילד אינו מופיע במערכות הרשמיות של המדינה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “guardian” mean?",
+      "options": [
+        "A person legally responsible for caring for a child",
+        "A soldier controlling a checkpoint",
+        "A reporter covering the conflict",
+        "A document issued by a hospital"
+      ],
+      "correct_answer": "A person legally responsible for caring for a child",
+      "explanation_hebrew": "guardian הוא אפוטרופוס — אדם האחראי מבחינה משפטית ומעשית לטיפול בילד.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain the difference between “refuge”, “reunited” and “stigma” in the article's context. Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שמקלט הוא מקום בטוח, איחוד מחדש הוא חזרה למשפחה לאחר הפרדה, וסטיגמה היא יחס חברתי שלילי שעלול לפגוע באם ובילד.",
+      "expected_points": [
+        "Refuge is safety or shelter from conflict",
+        "Reunited means brought back together with family",
+        "Stigma is harmful social judgement attached to a person's circumstances"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can the lack of a birth certificate affect a child long after the war ends? Answer in 3–4 sentences.",
+      "rubric_hebrew": "יש לקשר בין זהות משפטית לבין חינוך, בריאות, הגנה, הוכחת גיל ולאום וזכויות עתידיות.",
+      "expected_points": [
+        "Birth registration proves identity, age and nationality",
+        "Schools and health services may require official documents",
+        "Legal identity helps protect children from exploitation",
+        "Missing records can continue to limit adult rights and opportunities"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 90–120 word summary explaining how war, family separation and damaged civil services leave children without legal identity.",
+      "rubric_hebrew": "יש לכלול את המלחמה בדרפור, היעדר או אי־ידיעת פרטי האב, דרישות הרישום, סגירת משרדים וההשפעה על חיסונים, לימודים והגנה משפטית.",
+      "expected_points": [
+        "Conflict and displacement separate families and disrupt documentation",
+        "Some mothers cannot provide required information about the father",
+        "Registry offices and other civil services have closed in affected areas",
+        "Unregistered children may struggle to access vaccination and education",
+        "Legal identity is important for protection and future rights"
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, propose two non-discriminatory steps that authorities or aid organisations could take to protect unregistered children. Write 4–5 sentences.",
+      "rubric_hebrew": "יש להציע צעדים כלליים כגון הליך רישום חלופי, צוותים ניידים, שמירת גישה לחינוך ובריאות או תמיכה משפטית, ולהסביר כיצד הם מונעים אפליה.",
+      "expected_points": [
+        "Propose an alternative registration route when a parent's details are unavailable",
+        "Propose mobile registration or legal-support services where offices have closed",
+        "Protect access to vaccination and school while documents are being resolved",
+        "Explain how the proposals preserve the child's rights without blame or stigma"
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

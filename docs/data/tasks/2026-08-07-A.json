@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-07",
+  "article_id": "A",
+  "article_title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+  "article_url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What was the purpose of the Australian aviation mission?",
+      "options": [
+        "To deliver tourists to Antarctica",
+        "To evacuate a US expeditioner who needed urgent medical care",
+        "To build a new runway at McMurdo Station",
+        "To test a passenger route between Australia and New Zealand"
+      ],
+      "correct_answer": "To evacuate a US expeditioner who needed urgent medical care",
+      "explanation_hebrew": "המשימה נועדה לפנות איש משלחת אמריקאי שנזקק לטיפול רפואי דחוף מתחנת מקמרדו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which aircraft was used for the evacuation?",
+      "options": [
+        "An Airbus A319",
+        "A small sightseeing helicopter",
+        "A Boeing 747 cargo plane",
+        "A military fighter jet"
+      ],
+      "correct_answer": "An Airbus A319",
+      "explanation_hebrew": "חברת Skytraders הפעילה מטוס Airbus A319 שהותאם למשימת הפינוי הרפואי.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What temperature did the crew encounter during the mission?",
+      "options": [
+        "About 5°C",
+        "About -10°C",
+        "As low as -43°C",
+        "Below -100°C"
+      ],
+      "correct_answer": "As low as -43°C",
+      "explanation_hebrew": "במהלך המבצע הטמפרטורה ירדה עד כ־43 מעלות צלזיוס מתחת לאפס.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the aircraft collect the patient?",
+      "options": [
+        "Davis Station",
+        "McMurdo Station",
+        "The South Pole tourist centre",
+        "Christchurch Airport"
+      ],
+      "correct_answer": "McMurdo Station",
+      "explanation_hebrew": "הצוות נחת בתחנת מקמרדו שבאנטארקטיקה כדי לאסוף את המטופל.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “evacuation” mean?",
+      "options": [
+        "A planned scientific meeting",
+        "Moving someone from a dangerous or remote place to safety",
+        "Repairing an aircraft engine",
+        "Waiting for the weather to improve"
+      ],
+      "correct_answer": "Moving someone from a dangerous or remote place to safety",
+      "explanation_hebrew": "evacuation פירושו פינוי אדם ממקום מסוכן או מרוחק אל מקום בטוח שבו ניתן לקבל טיפול.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why is the mission described as “extraordinary”?",
+      "options": [
+        "It was a normal weekly passenger flight",
+        "It combined total darkness, extreme cold and a rare winter landing",
+        "It used an aircraft with no medical team",
+        "It took place during the Antarctic summer"
+      ],
+      "correct_answer": "It combined total darkness, extreme cold and a rare winter landing",
+      "explanation_hebrew": "המשימה הייתה יוצאת דופן בגלל החשכה המוחלטת, הקור הקיצוני והסיכון שבנחיתה באנטארקטיקה באמצע החורף.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain the difference between “urgent”, “challenging” and “specialised” in the context of the rescue. Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שדחוף מתייחס לצורך המיידי של המטופל, מאתגר לתנאי הטיסה הקשים, ומיוחד/מותאם לציוד ולצוות שנדרשו לפינוי רפואי קוטבי.",
+      "expected_points": [
+        "Urgent describes the patient's need for prompt help",
+        "Challenging describes the severe weather, darkness and operational difficulty",
+        "Specialised describes the aircraft configuration, medical team and polar expertise"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why could the crew not treat this as an ordinary flight with an ordinary timetable? Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסיק שהצוות היה תלוי בחלון מזג אוויר בטוח, בתנאי מסלול קרח, בחשכה ובצורך להכין את המטוס לפינוי רפואי.",
+      "expected_points": [
+        "Antarctic winter weather can change quickly",
+        "Safe landing depended on suitable runway and visibility conditions",
+        "The aircraft and medical team needed special preparation",
+        "The flight experienced a weather delay"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a 70–100 word summary including the patient, route, aircraft, conditions and outcome of the mission.",
+      "rubric_hebrew": "יש לכלול איש משלחת אמריקאי, יציאה מהובארט, נחיתה במקמרדו, Airbus A319, חשכה וקור של עד ‎-43°C והעברת המטופל לכרייסטצ'רץ'.",
+      "expected_points": [
+        "An Australian-led Skytraders crew responded to an urgent request",
+        "The Airbus A319 flew from Hobart to McMurdo Station",
+        "The landing took place in total darkness and temperatures as low as -43°C",
+        "The patient was flown to Christchurch for hospital care"
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, explain which two crew qualities were most important to the rescue's success. Write 3–4 sentences.",
+      "rubric_hebrew": "יש לבחור שתי תכונות כגון מומחיות קוטבית, דיוק, היכרות עם האזור, תכנון או עבודת צוות, ולהוכיח אותן באמצעות תנאי המשימה.",
+      "expected_points": [
+        "Name two relevant crew qualities",
+        "Connect expertise or familiarity to Antarctic operations",
+        "Connect precision or planning to the difficult landing conditions",
+        "Use at least two concrete details from the mission"
+      ],
+      "difficulty": "A"
+    }
+  ]
+}

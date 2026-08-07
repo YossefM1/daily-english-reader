@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-07",
+  "article_id": "B",
+  "article_title": "Artificial Intelligence used to design brand new viruses",
+  "article_url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-task-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What scientific achievement does the article report?",
+      "options": [
+        "AI was used to design complete genomes for new functional viruses",
+        "AI replaced every scientist in a medical laboratory",
+        "A computer program discovered a new antibiotic in a patient",
+        "Researchers proved that all viruses infect humans"
+      ],
+      "correct_answer": "AI was used to design complete genomes for new functional viruses",
+      "explanation_hebrew": "החוקרים השתמשו בבינה מלאכותית יוצרת לתכנון גנומים שלמים, ומהם נוצרו נגיפים פעילים שלא התקיימו בטבע.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many AI-designed viruses were successfully shown to function?",
+      "options": [
+        "2",
+        "8",
+        "16",
+        "302"
+      ],
+      "correct_answer": "16",
+      "explanation_hebrew": "המחקר הצליח ליצור 16 בקטריופאג'ים פעילים מתוך מספר גדול יותר של תכנונים שנבדקו.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the viruses in the study infect?",
+      "options": [
+        "Human lung cells",
+        "E. coli bacteria",
+        "Farm animals",
+        "Antibiotic molecules"
+      ],
+      "correct_answer": "E. coli bacteria",
+      "explanation_hebrew": "הנגיפים היו בקטריופאג'ים שתוכננו להדביק חיידקי E. coli, ולא בני אדם.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which AI models were used to generate complete phage genomes?",
+      "options": [
+        "Evo 1 and Evo 2",
+        "AlphaGo and Deep Blue",
+        "Siri and Alexa",
+        "Watson and Gemini"
+      ],
+      "correct_answer": "Evo 1 and Evo 2",
+      "explanation_hebrew": "החוקרים השתמשו במודלי השפה הגנומיים Evo 1 ו־Evo 2.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what does “viable” mean?",
+      "options": [
+        "Able to function and replicate successfully",
+        "Guaranteed to be harmless in every situation",
+        "Visible without laboratory equipment",
+        "Already approved as a medical treatment"
+      ],
+      "correct_answer": "Able to function and replicate successfully",
+      "explanation_hebrew": "viable פירושו בר־קיימא או מתפקד; כאן הכוונה לנגיף שיכול לפעול ולהשתכפל בתנאי הניסוי.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is meant by a “synthetic genome”?",
+      "options": [
+        "A natural genome found unchanged in the wild",
+        "A complete genetic sequence designed and produced artificially",
+        "A list of antibiotics used in hospitals",
+        "A computer file with no biological meaning"
+      ],
+      "correct_answer": "A complete genetic sequence designed and produced artificially",
+      "explanation_hebrew": "synthetic genome הוא רצף גנטי מלא שתוכנן ונוצר באופן מלאכותי.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-7",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Explain the relationship between “genome”, “sequence” and “replicate” in the study. Answer in 2–3 sentences.",
+      "rubric_hebrew": "יש להסביר שהגנום הוא מלוא המידע הגנטי, שהוא בנוי מרצף DNA, ושנגיף פעיל משתמש במידע זה כדי להשתכפל בתוך תא מתאים.",
+      "expected_points": [
+        "A genome is the virus's complete genetic information",
+        "The genome is represented by a DNA sequence",
+        "A functional virus can use that information to replicate in a suitable bacterial host"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do the 16 successful viruses represent both a breakthrough and a reason for caution? Answer in 3–4 sentences.",
+      "rubric_hebrew": "יש להסביר את הפוטנציאל לפתח טיפול בחיידקים עמידים לצד החשש משימוש לרעה, ולציין שהצלחת ניסוי מבוקר אינה מבטלת את הצורך בפיקוח.",
+      "expected_points": [
+        "Designing complete functional genomes shows a major advance in generative biology",
+        "Bacteriophages could contribute to therapies for antibiotic-resistant infections",
+        "The same design capability could create biosecurity risks if misused",
+        "Research therefore needs safeguards and oversight"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write an 80–110 word summary including the AI models, number of successful viruses, target organism, possible benefit and safety concern.",
+      "rubric_hebrew": "יש לכלול Evo 1/Evo 2, 16 נגיפים פעילים, הדבקת E. coli, פוטנציאל לטיפול בחיידקים עמידים והצורך באמצעי הגנה ופיקוח.",
+      "expected_points": [
+        "Researchers used Evo 1 and Evo 2 to design complete bacteriophage genomes",
+        "Sixteen synthetic viruses proved functional in laboratory tests",
+        "They targeted E. coli bacteria rather than human cells",
+        "The work may support future phage therapies",
+        "Experts warn that stronger biosafety and biosecurity safeguards are needed"
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-task-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, argue for two safeguards that should accompany future AI-genome research. Write 4–5 sentences.",
+      "rubric_hebrew": "יש להציע שני אמצעי הגנה כלליים כגון סינון הזמנות סינתזה, בדיקת מחקר, בקרת גישה או נהלי בטיחות במעבדה, ולנמק באמצעות היתרונות והסיכונים שבכתבה בלי לפרט הליכים מעשיים.",
+      "expected_points": [
+        "Name two appropriate high-level safeguards",
+        "Explain why oversight of AI model use matters",
+        "Explain why screening or controlled laboratory procedures matter",
+        "Balance possible medical benefits with biosecurity concerns"
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
