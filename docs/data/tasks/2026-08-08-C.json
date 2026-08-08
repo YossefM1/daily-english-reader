@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Obesity rates have doubled in England since 1993 - what's going on?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Which statement best captures the article's overall argument?",
+      "difficulty": "C",
+      "options": [
+        "England's obesity rate rose sharply amid changes in work, food and inequality despite repeated government action",
+        "Obesity is explained entirely by individual choices",
+        "The sugar levy ended obesity",
+        "Treatment removed the need for prevention"
+      ],
+      "correct_answer": "England's obesity rate rose sharply amid changes in work, food and inequality despite repeated government action",
+      "explanation_hebrew": "הכתבה מציגה עלייה ארוכת שנים ומסבירה אותה בשילוב סביבת מזון, אורח חיים, אי־שוויון ומדיניות מוגבלת."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What comparison does the article make with 1993?",
+      "difficulty": "C",
+      "options": [
+        "Fast-food outlets fell by seven million",
+        "Adult obesity rates doubled, leaving about seven million more adults affected than if the rate stayed unchanged",
+        "All manual jobs disappeared",
+        "Food prices doubled yearly"
+      ],
+      "correct_answer": "Adult obesity rates doubled, leaving about seven million more adults affected than if the rate stayed unchanged",
+      "explanation_hebrew": "הכתבה אומרת ששיעור ההשמנה הוכפל ושכ־7 מיליון מבוגרים נוספים חיים עם השמנה."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “sedentary” mean when the article describes modern work?",
+      "difficulty": "C",
+      "options": [
+        "Requiring heavy effort",
+        "Performed outdoors",
+        "Involving long periods of sitting and little movement",
+        "Paid by food prices"
+      ],
+      "correct_answer": "Involving long periods of sitting and little movement",
+      "explanation_hebrew": "sedentary מתאר עבודה יושבנית עם מעט תנועה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did the sugar levy encourage some manufacturers to change drinks?",
+      "difficulty": "C",
+      "options": [
+        "They reduced sugar so products fell below the levy threshold",
+        "They replaced drinks with meals",
+        "They increased sugar",
+        "They removed labels"
+      ],
+      "correct_answer": "They reduced sugar so products fell below the levy threshold",
+      "explanation_hebrew": "ההיטל יצר תמריץ להפחית סוכר אל מתחת לסף שבו חל המס."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article connect deprivation with a higher risk of obesity?",
+      "difficulty": "C",
+      "options": [
+        "Deprived areas have no adults",
+        "Healthy food is always free elsewhere",
+        "People there do more manufacturing",
+        "Cheap unhealthy food may be more available while healthy choices are harder to afford"
+      ],
+      "correct_answer": "Cheap unhealthy food may be more available while healthy choices are harder to afford",
+      "explanation_hebrew": "הכתבה מקשרת מצוקה לסביבת מזון שבה מזון מהיר נפוץ ואפשרויות בריאות יקרות או פחות נגישות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “successive governments” mean?",
+      "difficulty": "C",
+      "options": [
+        "Governments that served one after another",
+        "Governments sharing power simultaneously",
+        "Councils outside England",
+        "Campaign groups"
+      ],
+      "correct_answer": "Governments that served one after another",
+      "explanation_hebrew": "successive פירושו ממשלות שבאו זו אחר זו לאורך השנים."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify three societal changes or conditions the article links to rising obesity.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה גורמים ולהסביר בקצרה כיצד כל אחד משפיע.",
+      "expected_points": [
+        "Decline in manual work and more sedentary jobs",
+        "Greater availability of fast-food outlets",
+        "Deprivation and the cost of healthy food",
+        "Inflation that makes choices harder"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can the sugar levy have a measurable effect without solving obesity on its own?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להבחין בין השפעה נקודתית על מוצרים לבין הגורמים החברתיים הרחבים.",
+      "expected_points": [
+        "It can push manufacturers to reformulate drinks",
+        "Obesity is also influenced by work, deprivation, prices and the food environment",
+        "One intervention cannot address every cause"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the trend, its main causes and the government's response in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לשלב נתון מרכזי, לפחות שני גורמים ותגובה ממשלתית אחת, תוך ציון מגבלותיה.",
+      "expected_points": [
+        "Rates doubled since 1993",
+        "About seven million additional adults are affected",
+        "Work became more sedentary and unhealthy food widely available",
+        "Governments introduced strategies and a sugar levy",
+        "Campaigners seek stronger sustained intervention"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Evaluate the view that rising obesity is a societal problem rather than only an individual failure. Use evidence from the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג עמדה מנומקת המבוססת על לפחות שלוש ראיות מערכתיות.",
+      "expected_points": [
+        "Sedentary work shapes daily activity",
+        "Deprivation and inflation affect healthy-food access",
+        "Fast-food availability shapes the environment",
+        "Government policies treat it as a public-health problem"
+      ]
+    }
+  ]
+}

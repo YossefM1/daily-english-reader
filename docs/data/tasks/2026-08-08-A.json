@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+  "article_url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "A Serbian eagle was trained to carry supplies",
+        "A rare eagle was rescued after being kidnapped and was returned to the wild",
+        "A zoo bought a new eagle from another country",
+        "Scientists discovered a new species of eagle"
+      ],
+      "correct_answer": "A rare eagle was rescued after being kidnapped and was returned to the wild",
+      "explanation_hebrew": "הכתבה מתמקדת במסע החילוץ של פליקס לאחר שנחטף, ובהחזרתו לטבע."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did Feliks's tracking signal disappear during his first migration?",
+      "difficulty": "A",
+      "options": [
+        "Greece",
+        "Lebanon",
+        "Syria",
+        "North Macedonia"
+      ],
+      "correct_answer": "Syria",
+      "explanation_hebrew": "אות המעקב של פליקס אבד בסוריה, לאחר שעף דרך כמה מדינות בדרכו למזרח התיכון."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “ransom” mean?",
+      "difficulty": "A",
+      "options": [
+        "A tracking device for a bird",
+        "A protected nesting area",
+        "A medical examination",
+        "Money demanded in exchange for release"
+      ],
+      "correct_answer": "Money demanded in exchange for release",
+      "explanation_hebrew": "בהקשר של החטיפה, ransom הוא כסף שהחוטפים דרשו תמורת שחרור העיט."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who helped carry Feliks across a river from Syria into Lebanon?",
+      "difficulty": "A",
+      "options": [
+        "A group of refugees",
+        "Serbian zoo workers",
+        "Tourists from Greece",
+        "Wildlife police from Turkey"
+      ],
+      "correct_answer": "A group of refugees",
+      "explanation_hebrew": "פליטים סייעו להעביר את פליקס בתוך שק תפוחי אדמה מעבר לנהר אל לבנון."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did conservationists first hope Feliks's missing signal was caused by faulty equipment?",
+      "difficulty": "A",
+      "options": [
+        "They wanted a cheaper transmitter",
+        "A technical failure would mean he might still be safe rather than captured",
+        "They knew he had returned to Serbia",
+        "The device was designed to stop in winter"
+      ],
+      "correct_answer": "A technical failure would mean he might still be safe rather than captured",
+      "explanation_hebrew": "תקלה במשדר הייתה הסבר פחות מסוכן מהאפשרות שהעיט נתפס בידי ציידים בלתי חוקיים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “repatriation” describe in Feliks's story?",
+      "difficulty": "A",
+      "options": [
+        "Keeping him in Lebanon",
+        "Selling him to another centre",
+        "Returning him to his home country, Serbia",
+        "Tracking his first flight south"
+      ],
+      "correct_answer": "Returning him to his home country, Serbia",
+      "explanation_hebrew": "repatriation פירושה החזרה לארץ המוצא; במקרה זה, החזרתו של פליקס לסרביה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe two important stages in the operation that brought Feliks back to Serbia.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני שלבים נכונים וברורים במסע החילוץ וההחזרה.",
+      "expected_points": [
+        "Feliks was retrieved from illegal traders after negotiations",
+        "Refugees carried him across the Syria-Lebanon border",
+        "Serbian peacekeepers or the Serbian army helped transport him home"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Feliks's story from his first migration to his release into the wild in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך להציג רצף כרונולוגי: נדידה, חטיפה, חילוץ, התאוששות ושחרור, ללא פרטים מומצאים.",
+      "expected_points": [
+        "He was tracked from Serbia toward the Middle East",
+        "Poachers captured him and demanded money",
+        "A cross-border rescue returned him to Serbia",
+        "He recuperated and was released into the wild"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What does Feliks's ordeal show about the risks faced by migratory birds? Use two details from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסיק מסקנה על הסכנות ולתמוך בה בשני פרטים קונקרטיים.",
+      "expected_points": [
+        "Migratory birds cross several borders where protection differs",
+        "Poaching and illegal wildlife trafficking threaten protected birds",
+        "Conflict and difficult transport can delay rescue work"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain why tracking technology and international cooperation were both important in Feliks's rescue.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את התפקיד של שני המרכיבים ולחבר אותם לעובדות מהכתבה.",
+      "expected_points": [
+        "The transmitter revealed Feliks's route and the missing signal",
+        "Contacts in Syria and Lebanon helped locate and retrieve him",
+        "Refugees, peacekeepers and Serbian authorities helped move him safely home"
+      ]
+    }
+  ]
+}

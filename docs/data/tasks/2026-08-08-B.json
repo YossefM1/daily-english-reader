@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+  "article_url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central development reported in the article?",
+      "difficulty": "B",
+      "options": [
+        "Saudi Arabia, Turkey and Pakistan agreed to a joint mutual-defence pact",
+        "Turkey withdrew from regional security agreements",
+        "Pakistan ended its diplomatic role",
+        "Saudi Arabia closed the Strait of Hormuz"
+      ],
+      "correct_answer": "Saudi Arabia, Turkey and Pakistan agreed to a joint mutual-defence pact",
+      "explanation_hebrew": "האירוע המרכזי הוא חתימת שלוש המדינות על הסכם הגנה משותף במכה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the Mecca agreement say about an armed attack on one member?",
+      "difficulty": "B",
+      "options": [
+        "It must go to the UN first",
+        "Only that country may respond",
+        "It will be regarded as an attack on all three countries",
+        "It ends the agreement"
+      ],
+      "correct_answer": "It will be regarded as an attack on all three countries",
+      "explanation_hebrew": "סעיף ההגנה ההדדית קובע שתקיפה של אחת המדינות תיחשב תקיפה של שלושתן."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what is “deterrence”?",
+      "difficulty": "B",
+      "options": [
+        "A promise to reduce spending",
+        "An effort to prevent aggression by raising its likely cost",
+        "A temporary pause in trade",
+        "A public disagreement"
+      ],
+      "correct_answer": "An effort to prevent aggression by raising its likely cost",
+      "explanation_hebrew": "deterrence הוא הרתעה: ניסיון למנוע תקיפה באמצעות הגדלת המחיר הצפוי לתוקף."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which Houthi action is mentioned as part of Saudi Arabia's security concerns?",
+      "difficulty": "B",
+      "options": [
+        "They announced a maritime embargo and targeted Saudi facilities and shipping",
+        "They signed a ceasefire with all members",
+        "They left northern Yemen",
+        "They joined the pact"
+      ],
+      "correct_answer": "They announced a maritime embargo and targeted Saudi facilities and shipping",
+      "explanation_hebrew": "הכתבה מזכירה אמברגו ימי ותקיפות על שדות תעופה, מתקני נפט ומכליות סעודיים."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the pact's practical effect remain uncertain?",
+      "difficulty": "B",
+      "options": [
+        "The leaders missed the meeting",
+        "It expired",
+        "It bans cooperation",
+        "It gives few specific obligations and future conflicts require difficult political choices"
+      ],
+      "correct_answer": "It gives few specific obligations and future conflicts require difficult political choices",
+      "explanation_hebrew": "ההסכם מבטיח סיוע הדדי אך אינו מפרט חובות, ולכן יישומו במשברים אינו ברור."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “intermediary” mean in the description of Pakistan's role?",
+      "difficulty": "B",
+      "options": [
+        "A weapons supplier",
+        "A party that helps two sides communicate or negotiate",
+        "A state refusing talks",
+        "A border force"
+      ],
+      "correct_answer": "A party that helps two sides communicate or negotiate",
+      "explanation_hebrew": "Pakistan מתוארת כמתווכת בין איראן לארה״ב וכמארחת שיחות להפסקת אש."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name one main benefit the article identifies for each country: Saudi Arabia, Pakistan and Turkey.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין תועלת נפרדת ונכונה לכל מדינה.",
+      "expected_points": [
+        "Saudi Arabia gains an additional layer of security",
+        "Pakistan gains powerful partners and diplomatic status",
+        "Turkey gains defence-industry opportunities"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How is the pact intended to make aggression less likely even if it cannot make it impossible?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את רעיון ההרתעה ולחבר אותו לגיבוי של שתי מעצמות אזוריות נוספות.",
+      "expected_points": [
+        "Each member is backed by two other powers",
+        "An attacker must consider a higher military and political cost",
+        "The expected cost is meant to discourage attack"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the pact's purpose, regional context and one uncertainty about how it may work.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את ההגנה ההדדית, ההקשר האזורי ואי־ודאות מעשית אחת.",
+      "expected_points": [
+        "An attack on one is treated as an attack on all",
+        "The pact follows conflict involving Iran and Houthi attacks",
+        "The agreement does not specify exact obligations"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Compare mutual defence with the complex examples raised in the article. Why would diplomacy still be necessary?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות בין הכלל הפשוט לבין לפחות דוגמה מורכבת אחת ולהסביר את הצורך בדיפלומטיה.",
+      "expected_points": [
+        "Turkey might face pressure to join Saudi action against Houthis",
+        "Saudi Arabia might face pressure during renewed India-Pakistan conflict",
+        "Leaders would calculate obligations while avoiding escalation"
+      ]
+    }
+  ]
+}
