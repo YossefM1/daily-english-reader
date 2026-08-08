@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-08",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo",
+  "published_at": "2026-08-07T20:40:56+00:00",
+  "age_hours_at_selection": 5.55,
+  "word_count": 384,
+  "generated_at": "2026-08-08T02:13:44.994757+00:00",
+  "difficulty_reason": "Short, human-interest nature story with a clear timeline and direct sentences; mostly B1/B2 vocabulary and little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "traffickers",
+      "lemma": "trafficker",
+      "level": "B2",
+      "hebrew": "סוחרים בלתי חוקיים",
+      "explanation_hebrew": "אנשים שסוחרים במשהו באופן בלתי חוקי, למשל בבעלי חיים",
+      "pronunciation_hebrew": "טְרֶאפִיקֶרְז",
+      "example": "The traffickers were caught at the border."
+    },
+    {
+      "word": "captivity",
+      "lemma": "captivity",
+      "level": "B2",
+      "hebrew": "שֶׁבִי",
+      "explanation_hebrew": "מצב שבו יצור מוחזק כלוא ואינו חופשי",
+      "pronunciation_hebrew": "קַפְּטִיבִיטִי",
+      "example": "The bird spent months in captivity."
+    },
+    {
+      "word": "poachers",
+      "lemma": "poacher",
+      "level": "B2",
+      "hebrew": "צַיָּדִים בִּלְתִּי חֻקִּיִּים",
+      "explanation_hebrew": "אנשים שצדים בעלי חיים באופן לא חוקי",
+      "pronunciation_hebrew": "פּוֹאְצֶ'רְז",
+      "example": "Poachers hunt protected animals for money."
+    },
+    {
+      "word": "ransom",
+      "lemma": "ransom",
+      "level": "B2",
+      "hebrew": "כֹּפֶר",
+      "explanation_hebrew": "סכום כסף שדורשים תמורת שחרור של מישהו או משהו",
+      "pronunciation_hebrew": "רֶאנְסֶם",
+      "example": "They demanded a large ransom."
+    },
+    {
+      "word": "refused",
+      "lemma": "refuse",
+      "level": "B1",
+      "hebrew": "סֵרֵב",
+      "explanation_hebrew": "אמר לא, לא הסכים לעשות משהו",
+      "pronunciation_hebrew": "רִיפְיוּזְד",
+      "example": "She refused to pay the money."
+    },
+    {
+      "word": "protracted",
+      "lemma": "protracted",
+      "level": "C1",
+      "hebrew": "מְמֻשָּׁךְ",
+      "explanation_hebrew": "נמשך זמן רב, ארוך מהצפוי",
+      "pronunciation_hebrew": "פְּרוֹטְרַאקְטִיד",
+      "example": "After protracted talks, they reached a deal."
+    },
+    {
+      "word": "recuperated",
+      "lemma": "recuperate",
+      "level": "C1",
+      "hebrew": "הִתְאוֹשֵׁשׁ",
+      "explanation_hebrew": "החלים וחזר לכוחותיו",
+      "pronunciation_hebrew": "רִיקוּפֶּרֵייטִיד",
+      "example": "He recuperated at the centre for weeks."
+    },
+    {
+      "word": "repatriation",
+      "lemma": "repatriation",
+      "level": "C1",
+      "hebrew": "הַחְזָרָה לַמּוֹלֶדֶת",
+      "explanation_hebrew": "החזרה של מישהו או משהו לארץ מוצאו",
+      "pronunciation_hebrew": "רִיפַּטְרִיאֵישֶׁן",
+      "example": "His repatriation took several months."
+    },
+    {
+      "word": "endangered",
+      "lemma": "endangered",
+      "level": "B2",
+      "hebrew": "בְּסַכָּנַת הַכְחָדָה",
+      "explanation_hebrew": "מין חי שקיים סיכון שייכחד",
+      "pronunciation_hebrew": "אִינְדֵּיינְגֶ'רְד",
+      "example": "The eagle is an endangered species."
+    },
+    {
+      "word": "conservation",
+      "lemma": "conservation",
+      "level": "B2",
+      "hebrew": "שִׁמּוּר טֶבַע",
+      "explanation_hebrew": "פעולות להגנה על הטבע ובעלי החיים",
+      "pronunciation_hebrew": "קוֹנְסֶרְבֵישֶׁן",
+      "example": "Conservation work saved the birds."
+    },
+    {
+      "word": "population",
+      "lemma": "population",
+      "level": "B1",
+      "hebrew": "אֻכְלוּסִיָּה",
+      "explanation_hebrew": "כלל היצורים מסוג מסוים באזור נתון",
+      "pronunciation_hebrew": "פּוֹפְּיוּלֵישֶׁן",
+      "example": "The bird population grew this year."
+    },
+    {
+      "word": "raptor",
+      "lemma": "raptor",
+      "level": "C1",
+      "hebrew": "עוֹף דּוֹרֵס",
+      "explanation_hebrew": "ציפור טרף כמו נשר או בז",
+      "pronunciation_hebrew": "רַאפְּטֶר",
+      "example": "An eagle is a large raptor."
+    },
+    {
+      "word": "tracked",
+      "lemma": "track",
+      "level": "B2",
+      "hebrew": "עָקַב אַחַר",
+      "explanation_hebrew": "מעקב אחר תנועות של מישהו או משהו",
+      "pronunciation_hebrew": "טְרַאקְט",
+      "example": "Experts tracked the bird's movements."
+    },
+    {
+      "word": "faulty",
+      "lemma": "faulty",
+      "level": "B2",
+      "hebrew": "פָּגוּם",
+      "explanation_hebrew": "שאינו פועל כראוי, מקולקל",
+      "pronunciation_hebrew": "פוֹלְטִי",
+      "example": "At first they thought the device was faulty."
+    },
+    {
+      "word": "abducted",
+      "lemma": "abduct",
+      "level": "B2",
+      "hebrew": "נֶחְטַף",
+      "explanation_hebrew": "נלקח בכוח שלא כדין",
+      "pronunciation_hebrew": "אַבְּדַּקְטִיד",
+      "example": "The bird had been abducted by smugglers."
+    },
+    {
+      "word": "captors",
+      "lemma": "captor",
+      "level": "B2",
+      "hebrew": "חוֹטְפִים",
+      "explanation_hebrew": "אנשים שמחזיקים מישהו בשבי",
+      "pronunciation_hebrew": "קַאפְּטֶרְז",
+      "example": "The captors demanded a ransom."
+    },
+    {
+      "word": "smuggling",
+      "lemma": "smuggling",
+      "level": "B2",
+      "hebrew": "הַבְרָחָה",
+      "explanation_hebrew": "העברת דברים בסתר ובניגוד לחוק",
+      "pronunciation_hebrew": "סְמַגְלִינְג",
+      "example": "Police fight wildlife smuggling."
+    },
+    {
+      "word": "negotiations",
+      "lemma": "negotiation",
+      "level": "B2",
+      "hebrew": "מַשָּׂא וּמַתָּן",
+      "explanation_hebrew": "שיחות במטרה להגיע להסכם",
+      "pronunciation_hebrew": "נֶגוֹשִׁיאֵישֶׁנְז",
+      "example": "Negotiations lasted several weeks."
+    },
+    {
+      "word": "secured",
+      "lemma": "secure",
+      "level": "B2",
+      "hebrew": "הִשִּׂיג / הִבְטִיחַ",
+      "explanation_hebrew": "השיג משהו לאחר מאמץ, דאג לו",
+      "pronunciation_hebrew": "סִיקְיוּרְד",
+      "example": "They finally secured his release."
+    },
+    {
+      "word": "refugees",
+      "lemma": "refugee",
+      "level": "B1",
+      "hebrew": "פְּלִיטִים",
+      "explanation_hebrew": "אנשים שברחו מארצם בשל סכנה",
+      "pronunciation_hebrew": "רֶפְיוּגִ'יז",
+      "example": "Refugees carried the bird across the river."
+    },
+    {
+      "word": "peacekeepers",
+      "lemma": "peacekeeper",
+      "level": "B2",
+      "hebrew": "כּוֹחוֹת שְׁמִירַת שָׁלוֹם",
+      "explanation_hebrew": "חיילים ששומרים על השלום באזור סכסוך",
+      "pronunciation_hebrew": "פִּיסְקִיפֶּרְז",
+      "example": "Peacekeepers escorted the convoy."
+    },
+    {
+      "word": "escorted",
+      "lemma": "escort",
+      "level": "B2",
+      "hebrew": "לִוָּה",
+      "explanation_hebrew": "הלך יחד עם מישהו כדי לשמור עליו",
+      "pronunciation_hebrew": "אֶסְקוֹרְטִיד",
+      "example": "Guards escorted the visitors safely."
+    },
+    {
+      "word": "exhausted",
+      "lemma": "exhausted",
+      "level": "B1",
+      "hebrew": "תָּשׁוּשׁ",
+      "explanation_hebrew": "עייף מאוד, ללא כוח",
+      "pronunciation_hebrew": "אִיגְזוֹסְטִיד",
+      "example": "The bird arrived exhausted after the trip."
+    },
+    {
+      "word": "monitored",
+      "lemma": "monitor",
+      "level": "B2",
+      "hebrew": "נִטֵּר / פִּקֵּחַ",
+      "explanation_hebrew": "עקב ובדק באופן קבוע",
+      "pronunciation_hebrew": "מוֹנִיטֶרְד",
+      "example": "Doctors monitored his health daily."
+    },
+    {
+      "word": "adversities",
+      "lemma": "adversity",
+      "level": "C1",
+      "hebrew": "קְשָׁיִים / מְצוּקוֹת",
+      "explanation_hebrew": "מצבים קשים שיש להתגבר עליהם",
+      "pronunciation_hebrew": "אַדְבֶרְסִיטִיז",
+      "example": "We hope he survives all the adversities."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "traffickers",
+      "type": "english_to_hebrew",
+      "question": "What does “traffickers” mean?",
+      "options": [
+        "שֶׁבִי",
+        "סוחרים בלתי חוקיים",
+        "צַיָּדִים בִּלְתִּי חֻקִּיִּים",
+        "כֹּפֶר"
+      ],
+      "correct_answer": "סוחרים בלתי חוקיים",
+      "explanation_hebrew": "‘traffickers’ = סוחרים בלתי חוקיים."
+    },
+    {
+      "id": "A-q2",
+      "word": "captivity",
+      "type": "english_to_hebrew",
+      "question": "What does “captivity” mean?",
+      "options": [
+        "כֹּפֶר",
+        "שֶׁבִי",
+        "צַיָּדִים בִּלְתִּי חֻקִּיִּים",
+        "סֵרֵב"
+      ],
+      "correct_answer": "שֶׁבִי",
+      "explanation_hebrew": "‘captivity’ = שֶׁבִי."
+    },
+    {
+      "id": "A-q3",
+      "word": "poachers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: צַיָּדִים בִּלְתִּי חֻקִּיִּים?",
+      "options": [
+        "protracted",
+        "poachers",
+        "ransom",
+        "refused"
+      ],
+      "correct_answer": "poachers",
+      "explanation_hebrew": "‘poachers’ פירושו צַיָּדִים בִּלְתִּי חֻקִּיִּים."
+    },
+    {
+      "id": "A-q4",
+      "word": "ransom",
+      "type": "english_to_hebrew",
+      "question": "What does “ransom” mean?",
+      "options": [
+        "מְמֻשָּׁךְ",
+        "סֵרֵב",
+        "הִתְאוֹשֵׁשׁ",
+        "כֹּפֶר"
+      ],
+      "correct_answer": "כֹּפֶר",
+      "explanation_hebrew": "‘ransom’ = כֹּפֶר."
+    },
+    {
+      "id": "A-q5",
+      "word": "refused",
+      "type": "english_to_hebrew",
+      "question": "What does “refused” mean?",
+      "options": [
+        "מְמֻשָּׁךְ",
+        "הִתְאוֹשֵׁשׁ",
+        "סֵרֵב",
+        "הַחְזָרָה לַמּוֹלֶדֶת"
+      ],
+      "correct_answer": "סֵרֵב",
+      "explanation_hebrew": "‘refused’ = סֵרֵב."
+    },
+    {
+      "id": "A-q6",
+      "word": "protracted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: מְמֻשָּׁךְ?",
+      "options": [
+        "repatriation",
+        "recuperated",
+        "endangered",
+        "protracted"
+      ],
+      "correct_answer": "protracted",
+      "explanation_hebrew": "‘protracted’ פירושו מְמֻשָּׁךְ."
+    },
+    {
+      "id": "A-q7",
+      "word": "recuperated",
+      "type": "english_to_hebrew",
+      "question": "What does “recuperated” mean?",
+      "options": [
+        "בְּסַכָּנַת הַכְחָדָה",
+        "שִׁמּוּר טֶבַע",
+        "הִתְאוֹשֵׁשׁ",
+        "הַחְזָרָה לַמּוֹלֶדֶת"
+      ],
+      "correct_answer": "הִתְאוֹשֵׁשׁ",
+      "explanation_hebrew": "‘recuperated’ = הִתְאוֹשֵׁשׁ."
+    },
+    {
+      "id": "A-q8",
+      "word": "repatriation",
+      "type": "english_to_hebrew",
+      "question": "What does “repatriation” mean?",
+      "options": [
+        "אֻכְלוּסִיָּה",
+        "שִׁמּוּר טֶבַע",
+        "בְּסַכָּנַת הַכְחָדָה",
+        "הַחְזָרָה לַמּוֹלֶדֶת"
+      ],
+      "correct_answer": "הַחְזָרָה לַמּוֹלֶדֶת",
+      "explanation_hebrew": "‘repatriation’ = הַחְזָרָה לַמּוֹלֶדֶת."
+    },
+    {
+      "id": "A-q9",
+      "word": "endangered",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: בְּסַכָּנַת הַכְחָדָה?",
+      "options": [
+        "conservation",
+        "population",
+        "raptor",
+        "endangered"
+      ],
+      "correct_answer": "endangered",
+      "explanation_hebrew": "‘endangered’ פירושו בְּסַכָּנַת הַכְחָדָה."
+    },
+    {
+      "id": "A-q10",
+      "word": "conservation",
+      "type": "english_to_hebrew",
+      "question": "What does “conservation” mean?",
+      "options": [
+        "שִׁמּוּר טֶבַע",
+        "עָקַב אַחַר",
+        "אֻכְלוּסִיָּה",
+        "עוֹף דּוֹרֵס"
+      ],
+      "correct_answer": "שִׁמּוּר טֶבַע",
+      "explanation_hebrew": "‘conservation’ = שִׁמּוּר טֶבַע."
+    },
+    {
+      "id": "A-q11",
+      "word": "population",
+      "type": "english_to_hebrew",
+      "question": "What does “population” mean?",
+      "options": [
+        "עָקַב אַחַר",
+        "פָּגוּם",
+        "אֻכְלוּסִיָּה",
+        "עוֹף דּוֹרֵס"
+      ],
+      "correct_answer": "אֻכְלוּסִיָּה",
+      "explanation_hebrew": "‘population’ = אֻכְלוּסִיָּה."
+    },
+    {
+      "id": "A-q12",
+      "word": "raptor",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: עוֹף דּוֹרֵס?",
+      "options": [
+        "faulty",
+        "tracked",
+        "raptor",
+        "abducted"
+      ],
+      "correct_answer": "raptor",
+      "explanation_hebrew": "‘raptor’ פירושו עוֹף דּוֹרֵס."
+    },
+    {
+      "id": "A-q13",
+      "word": "tracked",
+      "type": "english_to_hebrew",
+      "question": "What does “tracked” mean?",
+      "options": [
+        "חוֹטְפִים",
+        "פָּגוּם",
+        "נֶחְטַף",
+        "עָקַב אַחַר"
+      ],
+      "correct_answer": "עָקַב אַחַר",
+      "explanation_hebrew": "‘tracked’ = עָקַב אַחַר."
+    },
+    {
+      "id": "A-q14",
+      "word": "faulty",
+      "type": "english_to_hebrew",
+      "question": "What does “faulty” mean?",
+      "options": [
+        "פָּגוּם",
+        "חוֹטְפִים",
+        "הַבְרָחָה",
+        "נֶחְטַף"
+      ],
+      "correct_answer": "פָּגוּם",
+      "explanation_hebrew": "‘faulty’ = פָּגוּם."
+    },
+    {
+      "id": "A-q15",
+      "word": "abducted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: נֶחְטַף?",
+      "options": [
+        "captors",
+        "smuggling",
+        "negotiations",
+        "abducted"
+      ],
+      "correct_answer": "abducted",
+      "explanation_hebrew": "‘abducted’ פירושו נֶחְטַף."
+    },
+    {
+      "id": "A-q16",
+      "word": "captors",
+      "type": "english_to_hebrew",
+      "question": "What does “captors” mean?",
+      "options": [
+        "הִשִּׂיג / הִבְטִיחַ",
+        "חוֹטְפִים",
+        "מַשָּׂא וּמַתָּן",
+        "הַבְרָחָה"
+      ],
+      "correct_answer": "חוֹטְפִים",
+      "explanation_hebrew": "‘captors’ = חוֹטְפִים."
+    },
+    {
+      "id": "A-q17",
+      "word": "smuggling",
+      "type": "english_to_hebrew",
+      "question": "What does “smuggling” mean?",
+      "options": [
+        "הִשִּׂיג / הִבְטִיחַ",
+        "הַבְרָחָה",
+        "פְּלִיטִים",
+        "מַשָּׂא וּמַתָּן"
+      ],
+      "correct_answer": "הַבְרָחָה",
+      "explanation_hebrew": "‘smuggling’ = הַבְרָחָה."
+    },
+    {
+      "id": "A-q18",
+      "word": "negotiations",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: מַשָּׂא וּמַתָּן?",
+      "options": [
+        "peacekeepers",
+        "refugees",
+        "secured",
+        "negotiations"
+      ],
+      "correct_answer": "negotiations",
+      "explanation_hebrew": "‘negotiations’ פירושו מַשָּׂא וּמַתָּן."
+    },
+    {
+      "id": "A-q19",
+      "word": "secured",
+      "type": "english_to_hebrew",
+      "question": "What does “secured” mean?",
+      "options": [
+        "הִשִּׂיג / הִבְטִיחַ",
+        "לִוָּה",
+        "פְּלִיטִים",
+        "כּוֹחוֹת שְׁמִירַת שָׁלוֹם"
+      ],
+      "correct_answer": "הִשִּׂיג / הִבְטִיחַ",
+      "explanation_hebrew": "‘secured’ = הִשִּׂיג / הִבְטִיחַ."
+    },
+    {
+      "id": "A-q20",
+      "word": "refugees",
+      "type": "english_to_hebrew",
+      "question": "What does “refugees” mean?",
+      "options": [
+        "כּוֹחוֹת שְׁמִירַת שָׁלוֹם",
+        "תָּשׁוּשׁ",
+        "לִוָּה",
+        "פְּלִיטִים"
+      ],
+      "correct_answer": "פְּלִיטִים",
+      "explanation_hebrew": "‘refugees’ = פְּלִיטִים."
+    },
+    {
+      "id": "A-q21",
+      "word": "peacekeepers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: כּוֹחוֹת שְׁמִירַת שָׁלוֹם?",
+      "options": [
+        "escorted",
+        "exhausted",
+        "peacekeepers",
+        "monitored"
+      ],
+      "correct_answer": "peacekeepers",
+      "explanation_hebrew": "‘peacekeepers’ פירושו כּוֹחוֹת שְׁמִירַת שָׁלוֹם."
+    },
+    {
+      "id": "A-q22",
+      "word": "escorted",
+      "type": "english_to_hebrew",
+      "question": "What does “escorted” mean?",
+      "options": [
+        "תָּשׁוּשׁ",
+        "נִטֵּר / פִּקֵּחַ",
+        "לִוָּה",
+        "קְשָׁיִים / מְצוּקוֹת"
+      ],
+      "correct_answer": "לִוָּה",
+      "explanation_hebrew": "‘escorted’ = לִוָּה."
+    },
+    {
+      "id": "A-q23",
+      "word": "exhausted",
+      "type": "english_to_hebrew",
+      "question": "What does “exhausted” mean?",
+      "options": [
+        "סוחרים בלתי חוקיים",
+        "נִטֵּר / פִּקֵּחַ",
+        "קְשָׁיִים / מְצוּקוֹת",
+        "תָּשׁוּשׁ"
+      ],
+      "correct_answer": "תָּשׁוּשׁ",
+      "explanation_hebrew": "‘exhausted’ = תָּשׁוּשׁ."
+    },
+    {
+      "id": "A-q24",
+      "word": "monitored",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה: נִטֵּר / פִּקֵּחַ?",
+      "options": [
+        "captivity",
+        "adversities",
+        "monitored",
+        "traffickers"
+      ],
+      "correct_answer": "monitored",
+      "explanation_hebrew": "‘monitored’ פירושו נִטֵּר / פִּקֵּחַ."
+    },
+    {
+      "id": "A-q25",
+      "word": "adversities",
+      "type": "english_to_hebrew",
+      "question": "What does “adversities” mean?",
+      "options": [
+        "קְשָׁיִים / מְצוּקוֹת",
+        "צַיָּדִים בִּלְתִּי חֻקִּיִּים",
+        "שֶׁבִי",
+        "סוחרים בלתי חוקיים"
+      ],
+      "correct_answer": "קְשָׁיִים / מְצוּקוֹת",
+      "explanation_hebrew": "‘adversities’ = קְשָׁיִים / מְצוּקוֹת."
+    }
+  ]
+}
