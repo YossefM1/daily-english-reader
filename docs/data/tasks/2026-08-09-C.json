@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-09",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "How weight-loss medication is changing relationships with alcohol",
+  "article_url": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central focus of the article?",
+      "difficulty": "C",
+      "options": [
+        "A claim that alcohol is harmless with medication",
+        "Reports and research suggesting weight-loss drugs may alter alcohol cravings, tolerance and consumption",
+        "Instructions for prescribing weight-loss medication to everyone who drinks",
+        "A comparison of beer prices in different countries"
+      ],
+      "correct_answer": "Reports and research suggesting weight-loss drugs may alter alcohol cravings, tolerance and consumption",
+      "explanation_hebrew": "הכתבה משלבת חוויות אישיות ומחקר על האופן שבו תרופות הרזיה עשויות לשנות חשק, סבילות וצריכת אלכוהול."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which change was reported by some people taking weight-loss medication?",
+      "difficulty": "C",
+      "options": [
+        "Their appetite for alcohol always increased",
+        "They became able to drink twice as much",
+        "Their alcohol cravings fell or drinking made them feel nauseous",
+        "They no longer experienced any medication side effects"
+      ],
+      "correct_answer": "Their alcohol cravings fell or drinking made them feel nauseous",
+      "explanation_hebrew": "חלק מהמשתמשים דיווחו שהחשק לאלכוהול פחת מאוד או ששתייה גרמה להם בחילה."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the research discussion, what does “observational” mean?",
+      "difficulty": "C",
+      "options": [
+        "Conducted only in a laboratory with animals",
+        "Guaranteed to prove the drug caused the result",
+        "Based on a doctor's personal opinion alone",
+        "Based on patterns seen in real-world data rather than a controlled experiment"
+      ],
+      "correct_answer": "Based on patterns seen in real-world data rather than a controlled experiment",
+      "explanation_hebrew": "מחקר observational מתבסס על תצפית בדפוסים קיימים ואינו מוכיח לבדו קשר סיבתי כמו ניסוי מבוקר."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What natural process do GLP-1 weight-loss medicines imitate?",
+      "difficulty": "C",
+      "options": [
+        "A gut hormone signal involved in appetite and feeling full",
+        "The liver's production of alcohol",
+        "A hormone that increases thirst for beer",
+        "The body's response to a lack of sleep"
+      ],
+      "correct_answer": "A gut hormone signal involved in appetite and feeling full",
+      "explanation_hebrew": "תרופות GLP-1 מחקות אות הורמונלי טבעי הקשור לשובע ולוויסות התיאבון."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article distinguish observational evidence from clinical trials?",
+      "difficulty": "C",
+      "options": [
+        "Observational studies are always larger and therefore final",
+        "Promising associations do not by themselves prove that the medication caused reduced drinking",
+        "Clinical trials cannot measure alcohol consumption",
+        "Regulators ignore all real-world evidence"
+      ],
+      "correct_answer": "Promising associations do not by themselves prove that the medication caused reduced drinking",
+      "explanation_hebrew": "ההבחנה מדגישה שמתאם בתצפיות הוא רמז חשוב, אך נדרשים ניסויים קליניים כדי לבדוק סיבתיות, יעילות ובטיחות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “tolerance” mean in the personal accounts about alcohol?",
+      "difficulty": "C",
+      "options": [
+        "Official approval to prescribe a medicine",
+        "A craving caused by social pressure",
+        "The body's ability to handle an amount of alcohol",
+        "A decision to stop taking weight-loss drugs"
+      ],
+      "correct_answer": "The body's ability to handle an amount of alcohol",
+      "explanation_hebrew": "tolerance היא יכולת הגוף להתמודד עם חומר; חלק מהמרואיינים תיארו ירידה ביכולת להתמודד עם אלכוהול."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe two different ways the medication changed people's experiences of drinking in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שתי השפעות שונות מתוך העדויות האישיות, בלי להציג אותן כתוצאה ודאית אצל כל המשתמשים.",
+      "expected_points": [
+        "Some people lost much of their desire or craving for alcohol",
+        "Some felt nauseous, giddy or experienced reflux after drinking",
+        "Some reduced their consumption substantially or stayed sober at social events"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's evidence and cautions about weight-loss drugs and alcohol in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לשלב עדויות אישיות, מנגנון אפשרי, מצב המחקר והצורך בזהירות רפואית.",
+      "expected_points": [
+        "Personal accounts describe reduced cravings, lower tolerance or unpleasant reactions",
+        "GLP-1 medicines mimic a hormone and affect appetite or reward-related processes",
+        "Observational studies and small trials suggest lower alcohol consumption",
+        "Larger and longer clinical trials are needed before firm conclusions or routine addiction treatment",
+        "Medication use and off-label prescribing require medical and regulatory oversight"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How could reduced interest in alcohol improve one person's health while complicating another person's social life?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את שני הצדדים: תועלת בריאותית אפשרית מול קושי חברתי או רגשי, תוך שימוש ברעיונות מהכתבה.",
+      "expected_points": [
+        "Lower consumption may reduce exposure to alcohol-related harm",
+        "Less craving may help someone who wants to cut down",
+        "Feeling ill or remaining sober around drinking friends can make social occasions awkward or isolating"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain why doctors and regulators should avoid treating early evidence as proof that weight-loss drugs are an established alcohol-addiction treatment.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר מגבלות ראייתיות ובטיחותיות ולהציע מה נדרש לפני שימוש רחב למטרה זו.",
+      "expected_points": [
+        "Personal reports and observational associations cannot establish causation",
+        "Clinical trials need more participants and longer follow-up",
+        "Researchers must assess dose, side effects and which patients may benefit or be harmed",
+        "Regulators would need adequate evidence before approving or recommending this use"
+      ]
+    }
+  ]
+}

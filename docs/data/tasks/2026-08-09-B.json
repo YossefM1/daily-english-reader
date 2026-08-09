@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-09",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
+  "article_url": "https://www.bbc.co.uk/news/articles/c4g64152v71o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly examining?",
+      "difficulty": "B",
+      "options": [
+        "Why all modern social networks are closing",
+        "Why some fans want a more personal, unfiltered MySpace and what a relaunch would need to offer",
+        "How to sell early-2000s merchandise online",
+        "Why MySpace is already larger than Facebook again"
+      ],
+      "correct_answer": "Why some fans want a more personal, unfiltered MySpace and what a relaunch would need to offer",
+      "explanation_hebrew": "הכתבה בוחנת את הגעגוע לחוויית MySpace האישית והלא־מלוטשת ואת השאלה אם השקה מחודשת יכולה להצליח."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which old MySpace feature best represented users' control over their online identity?",
+      "difficulty": "B",
+      "options": [
+        "A feed chosen entirely by an algorithm",
+        "Profiles that could not be changed",
+        "Highly customised pages with personal layouts and music",
+        "Automatic filters on every photograph"
+      ],
+      "correct_answer": "Highly customised pages with personal layouts and music",
+      "explanation_hebrew": "היכולת להתאים אישית את העמוד, כולל מראה ומוזיקה, העניקה למשתמשים שליטה וביטוי אישי."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “autonomy” mean when describing MySpace users?",
+      "difficulty": "B",
+      "options": [
+        "Pressure to post every day",
+        "A plan to sell the brand",
+        "A feeling of nostalgia for old technology",
+        "Freedom to control the look and content of their own pages"
+      ],
+      "correct_answer": "Freedom to control the look and content of their own pages",
+      "explanation_hebrew": "autonomy פירושה עצמאות ושליטה; כאן הכוונה לחופש של המשתמשים לעצב ולנהל את העמודים שלהם."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who are the current owners reported to be considering a MySpace relaunch?",
+      "difficulty": "B",
+      "options": [
+        "Brothers Tim and Chris Vanderhook",
+        "Tom Anderson and Monticah Hawkins",
+        "The founders of Facebook",
+        "A group of Atlanta estate agents"
+      ],
+      "correct_answer": "Brothers Tim and Chris Vanderhook",
+      "explanation_hebrew": "הבעלים הנוכחיים, האחים טים וכריס ונדרהוק, אמרו שהם מתכננים לנסות להשיק את MySpace מחדש."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might nostalgia alone be insufficient for a successful relaunch?",
+      "difficulty": "B",
+      "options": [
+        "Old users have forgotten how to use websites",
+        "A lasting platform needs a useful, distinctive experience, not only warm memories",
+        "Customised profiles are illegal today",
+        "No young people are interested in early-2000s culture"
+      ],
+      "correct_answer": "A lasting platform needs a useful, distinctive experience, not only warm memories",
+      "explanation_hebrew": "נוסטלגיה עשויה למשוך תשומת לב ראשונית, אך הצלחה בת־קיימא דורשת בידול וחוויה שאנשים ירצו להמשיך להשתמש בה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “algorithmic” suggest about the feeds criticised by some MySpace fans?",
+      "difficulty": "B",
+      "options": [
+        "They are printed on paper",
+        "They contain only music",
+        "Computer systems decide what content users see",
+        "Every user designs the feed by hand"
+      ],
+      "correct_answer": "Computer systems decide what content users see",
+      "explanation_hebrew": "algorithmic מתאר פיד שבו אלגוריתם ממוחשב בוחר ומסדר את התוכן, בניגוד לשליטה אישית ישירה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two aspects of old MySpace that fans in the article associate with authenticity.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני מאפיינים קונקרטיים הקשורים לחוויה האישית והפחות־מלוטשת של האתר.",
+      "expected_points": [
+        "Users posted raw or less-filtered images",
+        "Profiles could be heavily customised to show individual taste",
+        "The site felt less controlled by recommendation algorithms"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's case for and against a MySpace comeback in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג את משיכת הנוסטלגיה והשליטה האישית לצד הקשיים העסקיים והתחרותיים של השקה מחודשת.",
+      "expected_points": [
+        "Fans remember a personal and creative social-media experience",
+        "The owners have hinted at another relaunch but no firm launch date is given",
+        "A comeback could appeal to people tired of polished, algorithm-driven feeds",
+        "The brand would need differentiation and a sustainable audience in a crowded market"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why could early-2000s aesthetics appeal even to younger users who never experienced MySpace firsthand?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסיק כיצד טרנדים מחזוריים, סקרנות וחיפוש אחר חלופה לפלטפורמות מודרניות עשויים למשוך קהל צעיר.",
+      "expected_points": [
+        "Younger people are embracing styles from before their own online experience",
+        "The highly personal design contrasts with today's polished feeds",
+        "A distinctive retro identity could make the platform feel new to them"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Based on the article, propose two principles a revived MySpace should follow and explain why each matters.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע שני עקרונות הקשורים ישירות לנושאי הכתבה ולנמק כל אחד מהם.",
+      "expected_points": [
+        "Give users meaningful control and customisation rather than relying only on algorithms",
+        "Encourage authentic interaction without reproducing harmful engagement pressure",
+        "Offer a clear niche or differentiation that can remain sustainable after the nostalgic launch"
+      ]
+    }
+  ]
+}

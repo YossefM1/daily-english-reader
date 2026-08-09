@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-09",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Rare turtle Rhossi to be flown 5,000 miles home to Gulf of Mexico",
+  "article_url": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "How turtles are displayed in British aquariums",
+        "Rhossi's recovery in Wales and planned 5,000-mile return to the Gulf of Mexico",
+        "Why cargo flights no longer carry animals",
+        "A new turtle species discovered in Texas"
+      ],
+      "correct_answer": "Rhossi's recovery in Wales and planned 5,000-mile return to the Gulf of Mexico",
+      "explanation_hebrew": "הכתבה מתארת את שיקומו של רושי בוויילס ואת התכנון להטיסו כ־5,000 מייל חזרה לבית הגידול שלו במפרץ מקסיקו."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where was Rhossi found after being washed ashore?",
+      "difficulty": "A",
+      "options": [
+        "Padre Island in Texas",
+        "A beach in Mexico",
+        "Traeth Llydan beach on Anglesey, Wales",
+        "Near Heathrow Airport"
+      ],
+      "correct_answer": "Traeth Llydan beach on Anglesey, Wales",
+      "explanation_hebrew": "רושי נמצא על חוף Traeth Llydan שבאי אנגלסי בוויילס, רחוק מאוד מבית הגידול הטבעי שלו."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In Rhossi's story, what does “rehabilitated” mean?",
+      "difficulty": "A",
+      "options": [
+        "Moved into permanent captivity",
+        "Measured before a flight",
+        "Given a new scientific name",
+        "Treated until healthy enough to return to the wild"
+      ],
+      "correct_answer": "Treated until healthy enough to return to the wild",
+      "explanation_hebrew": "בהקשר של הכתבה, rehabilitated פירושו שטופל ושוקם עד שיוכל לחזור בבטחה לטבע."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What kind of turtle is Rhossi?",
+      "difficulty": "A",
+      "options": [
+        "A critically endangered Kemp's ridley sea turtle",
+        "A common green sea turtle",
+        "A freshwater snapping turtle",
+        "A newly discovered Welsh turtle"
+      ],
+      "correct_answer": "A critically endangered Kemp's ridley sea turtle",
+      "explanation_hebrew": "רושי הוא צב ים מסוג Kemp's ridley, הנחשב לאחד ממיני צבי הים הנדירים ובסכנת הכחדה חמורה."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is a temperature-controlled transport crate important for Rhossi's journey?",
+      "difficulty": "A",
+      "options": [
+        "It lets visitors watch him during the flight",
+        "It helps protect a delicate animal from harmful temperature changes and dehydration",
+        "It allows him to swim across the Atlantic",
+        "It removes the need for specialist supervision"
+      ],
+      "correct_answer": "It helps protect a delicate animal from harmful temperature changes and dehydration",
+      "explanation_hebrew": "צב ים משוקם ורגיש זקוק לטמפרטורה וללחות מבוקרות בזמן הובלה ארוכה כדי למנוע פגיעה והתייבשות."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “cargo” refer to in the description of Rhossi's flight?",
+      "difficulty": "A",
+      "options": [
+        "The beach where he was found",
+        "The team caring for him",
+        "Goods or special loads transported by aircraft",
+        "The moment an aircraft leaves the ground"
+      ],
+      "correct_answer": "Goods or special loads transported by aircraft",
+      "explanation_hebrew": "cargo הוא מטען המובל במטוס; רושי אמור לטוס בטיסת מטען מיוחדת בדרכו לטקסס."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe two stages of Rhossi's planned journey from Anglesey to the Gulf of Mexico.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני שלבים נכונים מתוך מסלול ההובלה המתואר, בסדר הגיוני וללא פרטים מומצאים.",
+      "expected_points": [
+        "A volunteer helicopter pilot will fly him from Anglesey to Denham Aerodrome",
+        "He will travel by road to Heathrow Airport",
+        "He and his carer will take a cargo flight to Houston before his release near the Gulf of Mexico"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Rhossi's story from his discovery to his planned release in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את מציאתו בוויילס, מצבו, השיקום והחזרה המתוכננת, תוך שמירה על רצף ברור.",
+      "expected_points": [
+        "He was found cold-stunned and close to death on an Anglesey beach",
+        "Anglesey Sea Zoo cared for and rehabilitated him for more than two years",
+        "A specialist transport plan will take him about 5,000 miles to Texas",
+        "The goal is to release him in his native Gulf of Mexico habitat"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do conservationists believe returning Rhossi to his native habitat is better than keeping him permanently in captivity?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הקשר בין בית גידול טבעי, התנהגות המין וסיכויי הישרדות, בהתבסס על הכתבה.",
+      "expected_points": [
+        "Kemp's ridley turtles belong mainly in the Gulf of Mexico",
+        "Release allows natural behaviour rather than a life in captivity",
+        "Returning a rehabilitated rare animal supports conservation and species survival"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain why Rhossi's rescue requires cooperation between animal carers, transport specialists and authorities.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לתאר את התרומה של לפחות שני גורמים ולחבר אותה לצורכי הבריאות, ההיתרים והמסע הארוך.",
+      "expected_points": [
+        "Animal specialists prepared and monitored Rhossi's health",
+        "Transport experts arranged a temperature-controlled crate and several travel stages",
+        "Authorities had to approve the international movement and eventual release of an endangered species"
+      ]
+    }
+  ]
+}
