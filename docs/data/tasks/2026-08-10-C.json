@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-10",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Could your tattoo stop you from getting a job?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central question does the article explore?",
+      "difficulty": "C",
+      "options": [
+        "Whether tattoos should be banned in public places",
+        "Whether growing acceptance of tattoos has eliminated workplace bias and career limits",
+        "How to become a professional tattoo artist",
+        "Why every employer now requires visible tattoos"
+      ],
+      "correct_answer": "Whether growing acceptance of tattoos has eliminated workplace bias and career limits",
+      "explanation_hebrew": "הכתבה בוחנת את הפער בין הפיכת הקעקועים למיינסטרים לבין דעות קדומות ומגבלות שעדיין קיימות בשוק העבודה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to the YouGov evidence discussed, which tattoos remain less accepted in many professions?",
+      "difficulty": "C",
+      "options": [
+        "Small tattoos covered by clothing",
+        "Temporary tattoos used in research",
+        "Visible face and neck tattoos",
+        "Tattoos on people working in creative fields only"
+      ],
+      "correct_answer": "Visible face and neck tattoos",
+      "explanation_hebrew": "הסקר מצא קבלה רחבה יחסית לקעקועים גלויים, אך קעקועים בפנים ובצוואר עדיין מתקבלים פחות במקצועות רבים."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “stigma” mean?",
+      "difficulty": "C",
+      "options": [
+        "A formal job qualification",
+        "A growing fashion trend",
+        "A legal protection against dismissal",
+        "A negative social label that can lead to unfair judgement"
+      ],
+      "correct_answer": "A negative social label that can lead to unfair judgement",
+      "explanation_hebrew": "stigma היא תווית חברתית שלילית שעלולה לגרום לכך שאדם ייתפס כלא מקצועי או יישפט באופן לא הוגן."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What concern did recruitment director Ben Davis-Rice express about highly visible tattoos?",
+      "difficulty": "C",
+      "options": [
+        "They may restrict the careers a person can enter",
+        "They always improve a candidate's salary",
+        "They are illegal in customer-facing work",
+        "They prevent someone from learning professional skills"
+      ],
+      "correct_answer": "They may restrict the careers a person can enter",
+      "explanation_hebrew": "הוא טען שקעקועים באזורים בולטים במיוחד עלולים לצמצם את מגוון הקריירות הזמינות, גם כאשר עמדות כלליות נעשות פתוחות יותר."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can the same tattoo be viewed differently in a design studio and a traditional customer-facing role?",
+      "difficulty": "C",
+      "options": [
+        "Tattoo ink changes colour in offices",
+        "Ideas of professionalism and brand fit vary between industries and audiences",
+        "Creative workers never meet customers",
+        "Employment law gives artists different skin rights"
+      ],
+      "correct_answer": "Ideas of professionalism and brand fit vary between industries and audiences",
+      "explanation_hebrew": "המשמעות שמייחסים לקעקוע תלויה בהקשר: בתחום יצירתי הוא עשוי לשדר מקוריות, ובתפקיד מסורתי להיתפס כלא מקצועי או מאיים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “gatekeepers” refer to in a discussion of recruitment?",
+      "difficulty": "C",
+      "options": [
+        "People who physically guard office doors",
+        "Tattoo artists who choose designs",
+        "People such as recruiters and managers who control access to opportunities",
+        "Survey respondents who refuse to answer"
+      ],
+      "correct_answer": "People such as recruiters and managers who control access to opportunities",
+      "explanation_hebrew": "gatekeepers הם שומרי סף — מגייסים ומנהלים שמחליטים מי מתקדם בתהליך הקבלה ולכן יכולים להשפיע על הזדמנויות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two pieces of evidence that workplace attitudes toward tattoos are changing but remain uneven.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג ראיה אחת לקבלה גוברת וראיה אחת להמשך הסתייגות או אפליה.",
+      "expected_points": [
+        "Most respondents accepted visible tattoos in the professions surveyed",
+        "Younger adults were generally more accepting than older groups",
+        "Face and neck tattoos remained less acceptable",
+        "Some candidates still worry that highly visible tattoos will harm their job prospects"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's argument about tattoos, professionalism and employment in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשלב את הנורמליזציה של קעקועים, ההבדלים בין ענפים, תפקידם של שומרי הסף והמשך הסטיגמה.",
+      "expected_points": [
+        "Tattoos have moved from counterculture toward the mainstream",
+        "General acceptance has increased, especially among younger people",
+        "Placement, content, industry and customer expectations still shape perceptions",
+        "Recruiters and employers can translate stereotypes into restricted opportunities",
+        "Professional ability and appearance are not necessarily connected"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How could a strict tattoo policy reduce both discrimination and authenticity, depending on how it is designed?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את המתח בין כלל אחיד לבין חופש הביטוי, ולהבחין בין תוכן פוגעני לעצם קיומו של קעקוע.",
+      "expected_points": [
+        "A clear rule can reduce arbitrary decisions by individual managers",
+        "A blanket ban can suppress harmless self-expression and exclude qualified candidates",
+        "Policies can focus narrowly on offensive content or genuine role requirements",
+        "Transparent and consistent standards are less discriminatory than vague ideas of professionalism"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Propose a fair workplace policy for visible tattoos and justify it using the article's evidence.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע מדיניות ישימה, עקבית ומידתית ולנמק אותה באמצעות המתח בין קבלה גוברת לחששות תעסוקתיים.",
+      "expected_points": [
+        "Allow visible tattoos by default because they do not determine competence",
+        "Restrict only clearly offensive content or cases with a specific evidence-based requirement",
+        "Apply the same written standard across candidates and employees",
+        "Provide a review process so subjective stereotypes do not decide careers"
+      ]
+    }
+  ]
+}

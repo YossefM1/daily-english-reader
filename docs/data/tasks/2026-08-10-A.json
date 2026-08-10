@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-10",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Harry Potter fans force power link diversion to avoid Dobby's grave",
+  "article_url": "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "A Harry Potter film is being remade in Wales",
+        "A UK–Ireland power cable was rerouted after fans objected to disturbing a memorial to Dobby",
+        "Archaeologists moved a Bronze Age burial to Ireland",
+        "The National Trust permanently removed all tributes from Freshwater West"
+      ],
+      "correct_answer": "A UK–Ireland power cable was rerouted after fans objected to disturbing a memorial to Dobby",
+      "explanation_hebrew": "הכתבה מתארת כיצד מחאת מעריצי הארי פוטר הובילה לשינוי מסלול כבל החשמל כדי להימנע מאתר הזיכרון לדובי."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where is the fan-made memorial to Dobby located?",
+      "difficulty": "A",
+      "options": [
+        "County Wexford in Ireland",
+        "A studio near London",
+        "Freshwater West beach in Pembrokeshire, Wales",
+        "Beside the National Grid headquarters"
+      ],
+      "correct_answer": "Freshwater West beach in Pembrokeshire, Wales",
+      "explanation_hebrew": "האנדרטה המאולתרת נמצאת בחוף Freshwater West בפמברוקשייר, שם צולמה סצנת מותו וקבורתו של דובי."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “reroute” mean?",
+      "difficulty": "A",
+      "options": [
+        "To cancel a project permanently",
+        "To bury an archaeological object",
+        "To ask fans for permission",
+        "To change the planned path of the cable"
+      ],
+      "correct_answer": "To change the planned path of the cable",
+      "explanation_hebrew": "reroute פירושו לנתב מחדש; המתכננים שינו את תוואי הכבל כדי שלא יעבור באתר הזיכרון."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the Greenlink project?",
+      "difficulty": "A",
+      "options": [
+        "A £430m electricity interconnector between Wales and Ireland",
+        "A new Harry Potter visitor centre",
+        "A road beneath Freshwater West beach",
+        "An archaeological museum for Bronze Age remains"
+      ],
+      "correct_answer": "A £430m electricity interconnector between Wales and Ireland",
+      "explanation_hebrew": "Greenlink הוא מקשר חשמלי בעלות של כ־430 מיליון ליש״ט המחבר בין מערכות החשמל של וויילס ואירלנד."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the developers take the complaints seriously even though Dobby is fictional?",
+      "difficulty": "A",
+      "options": [
+        "They believed Dobby's remains were archaeological",
+        "The memorial had strong emotional and cultural importance for many visitors",
+        "The cable could only carry power for film studios",
+        "Planning law bans work near all fictional locations"
+      ],
+      "correct_answer": "The memorial had strong emotional and cultural importance for many visitors",
+      "explanation_hebrew": "למרות שהדמות בדויה, האתר הפך למוקד רגשי ותרבותי עבור מעריצים רבים, ולכן התעלמות מהמחאה הייתה מסכנת את תמיכת הציבור."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “memorial” mean in the description of Dobby's grave?",
+      "difficulty": "A",
+      "options": [
+        "A trench dug for a power cable",
+        "A fictional book character",
+        "A place or object created to remember someone",
+        "A vessel found by archaeologists"
+      ],
+      "correct_answer": "A place or object created to remember someone",
+      "explanation_hebrew": "memorial הוא אתר או חפץ הנועד לשמר זיכרון; כאן מדובר באתר שמעריצים יצרו לזכר דובי."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two concrete changes or actions taken after fans objected to the original cable route.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי פעולות המתוארות בכתבה, ללא הוספת פרטים שאינם מופיעים בה.",
+      "expected_points": [
+        "The project team responded to the large number of complaints",
+        "The developers returned to the planners to discuss a new route",
+        "The cable path was diverted so it would not pass through the Dobby memorial"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the story of the Greenlink route and Dobby's memorial in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את הפרויקט, המחאה, שינוי המסלול והקשר בין האתר הבדיוני לממצאים האמיתיים באזור.",
+      "expected_points": [
+        "Greenlink planned a high-voltage link between Wales and Ireland",
+        "The proposed route affected the fan-made Dobby memorial at Freshwater West",
+        "Fans complained and the project team rerouted the cable",
+        "The work also passed near genuine Bronze Age archaeological remains"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What does the episode show about the influence of popular culture on real infrastructure planning?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסיק מסקנה ברורה ולתמוך בה בשני פרטים מן הכתבה.",
+      "expected_points": [
+        "Fictional stories can give real places cultural significance",
+        "Large public reactions can influence engineering and planning decisions",
+        "Developers may change technically possible plans to preserve community support"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain how planners should balance cultural memories, archaeology and the need for new energy infrastructure in a case like this.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להתייחס לכל שלושת השיקולים ולהציע איזון מעשי המבוסס על אירועי הכתבה.",
+      "expected_points": [
+        "Consult local people and visitors before finalising the route",
+        "Protect genuine archaeological remains through surveys and careful construction",
+        "Consider a feasible diversion for culturally valued sites",
+        "Keep the energy project's public benefits and costs in view"
+      ]
+    }
+  ]
+}

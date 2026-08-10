@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-10",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+  "article_url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the measures announced by Andy Burnham?",
+      "difficulty": "B",
+      "options": [
+        "To replace online shopping with high-street stores",
+        "To protect consumers from subscription traps and misleading discounts while easing living costs",
+        "To raise the price of all long-term contracts",
+        "To prevent retailers from offering genuine sales"
+      ],
+      "correct_answer": "To protect consumers from subscription traps and misleading discounts while easing living costs",
+      "explanation_hebrew": "הצעדים נועדו להקל על יוקר המחיה באמצעות הגנה מפני מנויים שקשה לבטל ומבצעי מחיר מטעים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which practice is described as a “subscription trap”?",
+      "difficulty": "B",
+      "options": [
+        "A retailer offering a genuine one-day discount",
+        "A customer paying cash for one purchase",
+        "A contract renewing automatically and being difficult to cancel",
+        "A shop closing during parliamentary recess"
+      ],
+      "correct_answer": "A contract renewing automatically and being difficult to cancel",
+      "explanation_hebrew": "subscription trap הוא מצב שבו מנוי מתחדש, לעיתים במחיר גבוה יותר, והיציאה ממנו מסובכת או לא ברורה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “outlaw” mean?",
+      "difficulty": "B",
+      "options": [
+        "To advertise a discount widely",
+        "To consult retailers privately",
+        "To postpone a policy until spring",
+        "To make a practice illegal"
+      ],
+      "correct_answer": "To make a practice illegal",
+      "explanation_hebrew": "outlaw פירושו לאסור בחוק; הממשלה מתכננת לאסור שיטות תמחור מטעות."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What will the new subscription rules require from businesses?",
+      "difficulty": "B",
+      "options": [
+        "Clearer information, reminders, easier cancellation and a cooling-off period",
+        "A permanent ban on every subscription service",
+        "Only annual contracts with no trial periods",
+        "Higher renewal prices displayed after payment"
+      ],
+      "correct_answer": "Clearer information, reminders, easier cancellation and a cooling-off period",
+      "explanation_hebrew": "הכללים כוללים מידע ברור מראש, תזכורות, יציאה פשוטה יותר וחלון ביטול של 14 יום לאחר ניסיון או חידוש."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can a fake “was” price mislead shoppers?",
+      "difficulty": "B",
+      "options": [
+        "It hides the name of the product",
+        "It makes the current price look like a larger saving than it really is",
+        "It prevents a customer from using a subscription",
+        "It guarantees that every retailer loses money"
+      ],
+      "correct_answer": "It makes the current price look like a larger saving than it really is",
+      "explanation_hebrew": "מחיר קודם מומצא או מנופח יוצר רושם שההנחה הנוכחית גדולה ואטרקטיבית יותר מהחיסכון האמיתי."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “crackdown” mean in the phrase “a crackdown on pretend prices”?",
+      "difficulty": "B",
+      "options": [
+        "A new advertising campaign",
+        "A public opinion survey",
+        "Strong action to stop or punish the practice",
+        "A temporary discount offered by shops"
+      ],
+      "correct_answer": "Strong action to stop or punish the practice",
+      "explanation_hebrew": "crackdown פירושו נקיטת צעדים תקיפים נגד תופעה; כאן הכוונה לאכיפה נגד מחירים מטעים."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two protections consumers should receive under the planned subscription changes.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתי הגנות קונקרטיות המתוארות בכתבה.",
+      "expected_points": [
+        "Clearer up-front information about the contract",
+        "Regular reminders before or during the subscription",
+        "A much easier way to cancel",
+        "A 14-day cooling-off period after a trial or long-term renewal"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Burnham's consumer package and the debate around it in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את שתי קבוצות הצעדים, מטרת יוקר המחיה, לוח הזמנים ותגובה אחת לפחות.",
+      "expected_points": [
+        "The government plans to tackle subscription traps and misleading pricing",
+        "Subscription rules will make contracts clearer and easier to leave",
+        "A consultation will consider banning fake previous prices and invented discounts",
+        "The measures are presented as practical cost-of-living savings",
+        "Consumer advocates welcomed action while critics questioned its originality or scale"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might clearer information alone be insufficient unless cancellation is also made easier?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את ההבדל בין ידיעת תנאי החוזה לבין היכולת המעשית לצאת ממנו.",
+      "expected_points": [
+        "A consumer may understand a renewal but still face a complicated exit process",
+        "Automatic renewals can continue charging people who no longer want the service",
+        "Effective protection requires both informed consent and a simple cancellation route"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain how the government could test whether the reforms genuinely reduce household costs.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע מדדים מעשיים הקשורים ישירות למנויים ולמבצעי מחיר, ולא להסתפק בהצהרה כללית.",
+      "expected_points": [
+        "Track cancellation times and complaints before and after implementation",
+        "Measure how many unwanted renewals are prevented or reversed",
+        "Audit whether advertised previous prices are genuine",
+        "Estimate verified savings rather than relying only on government forecasts"
+      ]
+    }
+  ]
+}
