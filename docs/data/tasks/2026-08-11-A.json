@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-11",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "New train service connects Finland and Sweden for first time in decades",
+  "article_url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "Finland is closing all rail services to Sweden",
+        "A restored passenger service has reconnected northern Finland and Sweden after nearly 40 years",
+        "Sweden is replacing every railway track with a Russian-width track",
+        "A new airport has opened between Oulu and Haparanda"
+      ],
+      "correct_answer": "A restored passenger service has reconnected northern Finland and Sweden after nearly 40 years",
+      "explanation_hebrew": "הכתבה עוסקת בחידוש קו הנוסעים בין אואולו שבהפינלנד להפרנדה שבשוודיה לאחר הפסקה של כמעט ארבעה עשורים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the inaugural train begin its journey?",
+      "difficulty": "A",
+      "options": [
+        "Helsinki",
+        "Stockholm",
+        "The Finnish coastal city of Oulu",
+        "Portugal's Algarve"
+      ],
+      "correct_answer": "The Finnish coastal city of Oulu",
+      "explanation_hebrew": "הרכבת החגיגית הראשונה יצאה מעט אחרי 05:00 מהעיר החופית אואולו שבפינלנד."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “inaugural” mean?",
+      "difficulty": "A",
+      "options": [
+        "Delayed by technical problems",
+        "Travelling only at night",
+        "Crossing a national border",
+        "The first official service marking a new beginning"
+      ],
+      "correct_answer": "The first official service marking a new beginning",
+      "explanation_hebrew": "inaugural מתאר אירוע ראשון ורשמי; כאן מדובר בנסיעה הראשונה של השירות המחודש."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How often is the new Oulu–Haparanda service scheduled to run?",
+      "difficulty": "A",
+      "options": [
+        "Twice a day",
+        "Once a week",
+        "Every two hours through the night",
+        "Only during the summer"
+      ],
+      "correct_answer": "Twice a day",
+      "explanation_hebrew": "הקו החדש פועל פעמיים ביום, והנסיעה בין אואולו להפרנדה נמשכת כ־100 דקות."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why must passengers transfer to another train at Haparanda to continue south?",
+      "difficulty": "A",
+      "options": [
+        "The border is closed to Finnish passengers",
+        "Finland and most of Europe use different railway track widths",
+        "The Swedish train has no passenger seats",
+        "The route south is operated only by buses"
+      ],
+      "correct_answer": "Finland and most of Europe use different railway track widths",
+      "explanation_hebrew": "פינלנד משתמשת במסילה רחבה יותר מהתקן האירופי, שריד מתקופתה בדוכסות הרוסית, ולכן נדרשת החלפת רכבת."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “holdover” mean when the article describes Finland's wider track gauge?",
+      "difficulty": "A",
+      "options": [
+        "A station where passengers wait",
+        "A modern European safety rule",
+        "Something that remains from an earlier period",
+        "A ticket valid for two countries"
+      ],
+      "correct_answer": "Something that remains from an earlier period",
+      "explanation_hebrew": "holdover הוא שריד מן העבר; רוחב המסילה הפיני נותר מתקופה היסטורית שבה פינלנד הייתה קשורה לאימפריה הרוסית."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two facts about the first train's route and reception.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני פרטים מדויקים על המסלול או על קבלת הפנים לנסיעה הראשונה.",
+      "expected_points": [
+        "It left Oulu shortly after 05:00 local time",
+        "It crossed the Torne river into Sweden",
+        "Crowds at Haparanda waved Finnish and Swedish flags",
+        "The journey to Haparanda takes about 100 minutes"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why the service stopped and why its return matters in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את סיבת ההפסקה, הבעיה הטכנית, השירות החדש והחשיבות האזורית או האירופית.",
+      "expected_points": [
+        "The earlier service was suspended around the late 1980s and early 1990s",
+        "Low passenger numbers and different track gauges contributed to the suspension",
+        "The new twice-daily route reconnects northern Finland with Sweden",
+        "It improves longer rail journeys toward southern Europe and reflects cross-border cooperation"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How could the new service help both local travellers and long-distance rail passengers?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר תועלת אחת לנוסעים מקומיים ותועלת אחת לרשת האירופית הרחבה.",
+      "expected_points": [
+        "Local passengers gain a direct cross-border option between Oulu and Haparanda",
+        "Travellers can connect southward from Haparanda after changing trains",
+        "The link makes very long journeys between Lapland and southern Europe possible"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain why railway standards and international cooperation are both important for cross-border train services.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשור בין תאימות טכנית לבין תיאום מדיני ותפעולי, תוך שימוש בדוגמה מהכתבה.",
+      "expected_points": [
+        "Different track widths can prevent the same train from continuing",
+        "Updating infrastructure or arranging transfers solves technical barriers",
+        "Operators and governments must coordinate timetables, borders and investment",
+        "The restored Finland–Sweden link demonstrates practical cooperation"
+      ]
+    }
+  ]
+}

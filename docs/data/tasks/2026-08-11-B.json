@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-11",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+  "article_url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main argument examined in the article?",
+      "difficulty": "B",
+      "options": [
+        "Men and women always choose identical investments",
+        "Research often finds women achieve better investment returns because of differences in behaviour and strategy",
+        "Only professional investors can make long-term profits",
+        "Investing in cash always produces the highest return"
+      ],
+      "correct_answer": "Research often finds women achieve better investment returns because of differences in behaviour and strategy",
+      "explanation_hebrew": "הכתבה בוחנת מחקרים שלפיהם נשים משיגות לעיתים תשואות טובות יותר, בעיקר בזכות סבלנות, פחות מסחר וגישה ארוכת טווח."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What result did the woman highlighted in the headline report?",
+      "difficulty": "B",
+      "options": [
+        "She lost £8,000 after starting in her 50s",
+        "She earned £800 in one day of trading",
+        "She began investing in her 20s and made about £8,000",
+        "She borrowed £8,000 to buy one speculative share"
+      ],
+      "correct_answer": "She began investing in her 20s and made about £8,000",
+      "explanation_hebrew": "כותרת הכתבה מציגה אישה שהחלה להשקיע בשנות העשרים לחייה והרוויחה כ־8,000 ליש״ט."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what are investment “returns”?",
+      "difficulty": "B",
+      "options": [
+        "The number of times an investor checks an account",
+        "Money withdrawn from a bank before investing",
+        "Goods sent back to a shop",
+        "Gains or losses produced by invested money"
+      ],
+      "correct_answer": "Gains or losses produced by invested money",
+      "explanation_hebrew": "returns הן התשואות — השינוי בערך הכסף שהושקע, כרווח או כהפסד."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which behaviour is associated with women's stronger average performance in the research discussed?",
+      "difficulty": "B",
+      "options": [
+        "Trading less frequently and keeping a longer-term perspective",
+        "Buying only very low-priced speculative shares",
+        "Selling every investment after a small fall",
+        "Ignoring diversification and concentrating on one company"
+      ],
+      "correct_answer": "Trading less frequently and keeping a longer-term perspective",
+      "explanation_hebrew": "המחקרים קושרים את הביצועים הטובים יותר למסחר פחות תכוף, פחות תגובות אימפולסיביות וסבלנות לאורך זמן."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can frequent trading reduce long-term returns?",
+      "difficulty": "B",
+      "options": [
+        "It guarantees that share prices will fall",
+        "Repeated decisions and costs can erode gains, especially when driven by overconfidence",
+        "It prevents investors from seeing their account balance",
+        "Regulators ban investors who trade every month"
+      ],
+      "correct_answer": "Repeated decisions and costs can erode gains, especially when driven by overconfidence",
+      "explanation_hebrew": "מסחר תכוף עלול להוסיף עלויות ולעודד החלטות גרועות של תזמון השוק, ולכן לפגוע בתשואה המצטברת."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “cumulative” mean when describing investment returns?",
+      "difficulty": "B",
+      "options": [
+        "Guaranteed by the government",
+        "Measured for one trading day only",
+        "Built up over time from a series of gains and losses",
+        "Hidden from the investor"
+      ],
+      "correct_answer": "Built up over time from a series of gains and losses",
+      "explanation_hebrew": "cumulative פירושו מצטבר; תשואה מצטברת כוללת את ההשפעה המתמשכת של רווחים והפסדים לאורך זמן."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two differences between the investment approaches attributed to women and men in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתי השוואות הנתמכות בכתבה, בלי לטעון שכל אדם מתנהג לפי הממוצע הקבוצתי.",
+      "expected_points": [
+        "Women were found to trade less frequently on average",
+        "Women tended to take a more patient, long-term approach",
+        "Men were more likely to choose speculative or lottery-style shares",
+        "Women showed more restraint during market fluctuations"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's evidence, explanation and caution in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את ממצאי הביצועים, ההסבר ההתנהגותי, חסם בפני נשים והסתייגות מהכללה גורפת.",
+      "expected_points": [
+        "Several analyses suggest women investors outperform men on average",
+        "Lower trading frequency and a long-term approach may explain part of the difference",
+        "Patience and restraint can support compounding and reduce avoidable mistakes",
+        "Women have historically held less wealth and may feel less confident about investing",
+        "Group averages do not predict every individual investor's results"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might lower confidence sometimes improve performance but also prevent women from investing at all?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את שני הכיוונים המנוגדים של זהירות: הפחתת ביטחון־יתר מול הימנעות מהשקעה.",
+      "expected_points": [
+        "Less overconfidence may reduce impulsive trades and speculative choices",
+        "Caution can encourage research and a disciplined plan",
+        "Too little confidence may keep money out of investments with long-term growth potential",
+        "Accessible education could preserve discipline while reducing unnecessary fear"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, propose three principles for a beginner's long-term investment approach.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע שלושה עקרונות שמבוססים על רעיונות הכתבה, תוך הימנעות מהבטחת רווח.",
+      "expected_points": [
+        "Invest regularly and think in years rather than reacting to daily movements",
+        "Use diversified funds or a spread of assets rather than speculative single bets",
+        "Avoid unnecessary frequent trading and associated costs",
+        "Invest only after understanding risk and maintaining suitable emergency savings"
+      ]
+    }
+  ]
+}

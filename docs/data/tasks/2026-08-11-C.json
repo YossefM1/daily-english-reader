@@ -1,0 +1,163 @@
+{
+  "date": "2026-08-11",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "The Cambridge University lecturer who kept her Tourette's secret",
+  "article_url": "https://www.bbc.co.uk/news/articles/c7944gv359jo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central focus of the article?",
+      "difficulty": "C",
+      "options": [
+        "A Cambridge lecturer's research into railway engineering",
+        "A lecturer's experience of hiding Tourette's, the cost of suppressing tics and the relief of disclosure",
+        "A claim that all vocal tics are offensive words",
+        "A university rule requiring staff to disclose every medical condition"
+      ],
+      "correct_answer": "A lecturer's experience of hiding Tourette's, the cost of suppressing tics and the relief of disclosure",
+      "explanation_hebrew": "הכתבה מתארת כיצד המרצה הסתירה את תסמונת טורט, את המאמץ הכרוך בדיכוי הטיקים ואת תחושת השחרור לאחר החשיפה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did the lecturer keep her condition hidden for so long?",
+      "difficulty": "C",
+      "options": [
+        "She believed Tourette's was not neurological",
+        "She wanted to leave Cambridge immediately",
+        "She feared ridicule, misunderstanding and professional repercussions",
+        "Her tics occurred only while she was asleep"
+      ],
+      "correct_answer": "She feared ridicule, misunderstanding and professional repercussions",
+      "explanation_hebrew": "היא חששה שלעג, דימויים שליליים והשלכות מקצועיות יגרמו לאחרים לשפוט אותה באופן שגוי."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “suppressing” tics mean?",
+      "difficulty": "C",
+      "options": [
+        "Explaining the tics to an audience",
+        "Recording them for medical research",
+        "Making them happen more frequently",
+        "Trying to hold back or hide involuntary movements and sounds"
+      ],
+      "correct_answer": "Trying to hold back or hide involuntary movements and sounds",
+      "explanation_hebrew": "suppressing פירושו לדכא או לעצור זמנית את הטיקים, פעולה שדורשת מאמץ ואינה מבטלת את הדחף הנוירולוגי."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When did the lecturer receive her Tourette's diagnosis?",
+      "difficulty": "C",
+      "options": [
+        "In her twenties",
+        "Before she started primary school",
+        "After retiring from Cambridge",
+        "During a live television broadcast"
+      ],
+      "correct_answer": "In her twenties",
+      "explanation_hebrew": "לפי הכתבה היא קיבלה את האבחון בשנות העשרים לחייה, לאחר שחוותה תנועות וקולות בלתי רצוניים."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could disclosure feel “liberating” after years of masking?",
+      "difficulty": "C",
+      "options": [
+        "It permanently removed every tic",
+        "It reduced the need to monitor and hide part of herself around others",
+        "It guaranteed that nobody would misunderstand Tourette's",
+        "It changed the condition from neurological to voluntary"
+      ],
+      "correct_answer": "It reduced the need to monitor and hide part of herself around others",
+      "explanation_hebrew": "החשיפה אפשרה לה להפסיק להשקיע מאמץ מתמיד בהסתרה ולהציג את עצמה באופן אותנטי יותר, גם אם הטיקים נשארו."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “repercussions” mean in the context of employees disclosing a condition?",
+      "difficulty": "C",
+      "options": [
+        "Repeated involuntary sounds",
+        "Specialist methods of diagnosis",
+        "Possible negative consequences that may follow",
+        "Genetic causes of Tourette's"
+      ],
+      "correct_answer": "Possible negative consequences that may follow",
+      "explanation_hebrew": "repercussions הן השלכות, במיוחד תוצאות שליליות אפשריות כמו יחס שונה או פגיעה מקצועית לאחר חשיפה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe two strategies or experiences involved in the lecturer's masking of Tourette's.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שני פרטים על אופן ההסתרה או המחיר שלה כפי שעולה מהכתבה.",
+      "expected_points": [
+        "She learned sophisticated ways to suppress or disguise motor and vocal tics",
+        "She monitored herself closely in public and professional situations",
+        "Suppressing tics required concentration and energy",
+        "She carried residual shame shaped by negative stereotypes of Tourette's"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the lecturer's journey from early symptoms to disclosure in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול הופעת טיקים, אבחון, הסתרה, סיבות לחשש וההשפעה של החשיפה.",
+      "expected_points": [
+        "She experienced involuntary physical and vocal tics",
+        "She was diagnosed with Tourette's in her twenties",
+        "She became adept at masking because she feared ridicule and professional consequences",
+        "Public images of Tourette's had contributed to shame or misunderstanding",
+        "Disclosing the condition was difficult but ultimately liberating"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How can media stereotypes make it harder for people whose Tourette's does not match the most familiar public image?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר כיצד ייצוג צר של התסמונת יוצר אי־הבנה בשני הכיוונים: זלזול במי שאינו מתאים לדימוי ושיפוט של מי שיש לו טיקים בולטים.",
+      "expected_points": [
+        "People may wrongly assume Tourette's always involves offensive vocal tics",
+        "Less visible or successfully masked cases may not be believed or supported",
+        "A person may fear becoming a figure of ridicule associated with a stereotype",
+        "Broader representation can show the range of motor, vocal, sensory and cognitive experiences"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain what a university workplace could do to make disclosure safer for staff with neurological conditions.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע צעדים מעשיים ברמת מדיניות, תרבות ותמיכה, ולקשור אותם לחששות המוצגים בכתבה.",
+      "expected_points": [
+        "Provide confidential and simple routes to request accommodations",
+        "Train managers and colleagues that tics are involuntary and varied",
+        "Protect staff from discrimination or professional repercussions",
+        "Allow flexible sensory or working arrangements where needed",
+        "Do not pressure employees to become a public representative of their condition"
+      ]
+    }
+  ]
+}
