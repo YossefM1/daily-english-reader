@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-12",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+  "article_url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central idea of the article?",
+      "difficulty": "C",
+      "options": [
+        "Presidential travel relies only on stronger armour",
+        "The Secret Service uses layered deception and decoys to make a president's true location uncertain",
+        "US presidents no longer travel by air",
+        "Journalists plan presidential security operations"
+      ],
+      "correct_answer": "The Secret Service uses layered deception and decoys to make a president's true location uncertain",
+      "explanation_hebrew": "הכתבה מסבירה כיצד השירות החשאי משלב כלי רכב זהים, מסלולים חלופיים ותחבולות מורכבות כדי להסתיר את מיקום הנשיא."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened during the extraordinary departure from the NATO summit in Ankara?",
+      "difficulty": "C",
+      "options": [
+        "The president travelled home openly by train",
+        "The president left Air Force One in a catering truck and boarded a different military aircraft",
+        "Every passenger was moved to the presidential limousine",
+        "The summit was relocated to Washington without notice"
+      ],
+      "correct_answer": "The president left Air Force One in a catering truck and boarded a different military aircraft",
+      "explanation_hebrew": "לפי הכתבה, הנשיא הוצא בחשאי מאייר פורס וואן באמצעות משאית קייטרינג והועבר למטוס צבאי אחר."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what are “unwitting decoys”?",
+      "difficulty": "C",
+      "options": [
+        "People who knowingly volunteer to attract danger",
+        "People used as a distraction without realizing it",
+        "Armoured cars that cannot move",
+        "Agents who reveal the travel plan"
+      ],
+      "correct_answer": "People used as a distraction without realizing it",
+      "explanation_hebrew": "unwitting decoys הם אנשים ששימשו להסחת דעת בלי שידעו על תפקידם בתוכנית."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does the motorcade's “shell game” make the president harder to target?",
+      "difficulty": "C",
+      "options": [
+        "It repeatedly changes which identical-looking vehicle appears to carry the president",
+        "It removes all security vehicles from the route",
+        "It publishes the president's exact seat location",
+        "It keeps the limousine parked at the airport"
+      ],
+      "correct_answer": "It repeatedly changes which identical-looking vehicle appears to carry the president",
+      "explanation_hebrew": "בשיירה נעים כלי רכב דומים ומשנים מיקום, כך שצופה עוין מתקשה לדעת באיזה מהם נמצא הנשיא."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can uncertainty itself improve presidential security?",
+      "difficulty": "C",
+      "options": [
+        "It makes the motorcade travel more slowly",
+        "It forces an adversary to guess, hesitate or divide attention among possible targets",
+        "It guarantees that intelligence reports are unnecessary",
+        "It allows every journey to use the same route"
+      ],
+      "correct_answer": "It forces an adversary to guess, hesitate or divide attention among possible targets",
+      "explanation_hebrew": "כאשר היריב אינו יודע מהו היעד האמיתי, עליו לנחש או להסס, והסיכוי לתקיפה מדויקת קטן."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “contingency” in the context of Secret Service planning?",
+      "difficulty": "C",
+      "options": [
+        "A public timetable for reporters",
+        "A possible emergency situation for which a backup plan is prepared",
+        "An ordinary limousine maintenance check",
+        "A legal order to cancel all travel"
+      ],
+      "correct_answer": "A possible emergency situation for which a backup plan is prepared",
+      "explanation_hebrew": "contingency הוא תרחיש אפשרי, לרוב מצב חירום, שעבורו מכינים מראש תוכנית חלופית."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe two different deception methods discussed in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר שתי שיטות שונות ולהסביר בקצרה כיצד כל אחת מסתירה את מיקום הנשיא.",
+      "expected_points": [
+        "Identical-looking limousines weave within the motorcade as moving decoys",
+        "A visible presidential aircraft can remain in place while the president transfers secretly",
+        "A catering truck concealed the president's movement between aircraft",
+        "Staff and journalists aboard the original plane served as unwitting decoys"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how routine and extraordinary deception measures work together to protect a US president.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך להשוות בין ההטעיה היומיומית בשיירה לבין מבצע חריג המבוסס על מודיעין ואיום ממשי.",
+      "expected_points": [
+        "Routine motorcades use duplicate vehicles and movement to obscure the president's location",
+        "Agents prepare contingency plans for several threat scenarios",
+        "More elaborate measures may be used abroad when intelligence indicates a substantial threat",
+        "The Ankara aircraft switch illustrates a large-scale deception operation"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why must agents both prepare detailed plans and remain ready to improvise?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שתכנון מכסה תרחישים צפויים, אך מידע חדש או שינוי בשטח מחייב התאמה מהירה בלי לחשוף את הנשיא.",
+      "expected_points": [
+        "Contingency planning provides rehearsed responses to known risks",
+        "Threat intelligence can change shortly before or during travel",
+        "Real locations and timing may not match the prepared scenario",
+        "Improvisation allows agents to preserve secrecy and move the president safely"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "The article notes that some people may become decoys without knowing it. Discuss the security benefit and the ethical concern raised by that tactic.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את התועלת המבצעית, את הסיכון או שאלת ההסכמה, ולהגיע למסקנה מאוזנת המבוססת על פרטי הכתבה.",
+      "expected_points": [
+        "Unwitting behaviour can make the deception more convincing",
+        "Keeping the plan secret can protect the president during a serious threat",
+        "People used as decoys may face risk without informed consent",
+        "The reported lack of a legal obligation does not remove the ethical question",
+        "A balanced judgment about necessity and responsibility"
+      ]
+    }
+  ]
+}

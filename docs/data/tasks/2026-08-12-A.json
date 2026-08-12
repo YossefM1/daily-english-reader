@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-12",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Children as young as nine hurt in growing number of e-scooter crashes",
+  "article_url": "https://www.bbc.co.uk/news/articles/cx2rdggr304o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "A new e-scooter racing league for children",
+        "A rise in serious e-scooter injuries among children, including some as young as nine",
+        "A plan to replace bicycles with rental scooters",
+        "A study showing that pavements are safer than roads"
+      ],
+      "correct_answer": "A rise in serious e-scooter injuries among children, including some as young as nine",
+      "explanation_hebrew": "הכתבה מתמקדת בעלייה במספר ובחומרת הפציעות של ילדים בתאונות קורקינט חשמלי, ובהם ילדים בני תשע."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which children were included in the hospital review described in the article?",
+      "difficulty": "A",
+      "options": [
+        "Only adult pedestrians hurt by rental scooters",
+        "Children treated at major trauma centres in Liverpool, Manchester and Sheffield",
+        "Only teenagers who owned a driving licence",
+        "Children injured while riding ordinary bicycles"
+      ],
+      "correct_answer": "Children treated at major trauma centres in Liverpool, Manchester and Sheffield",
+      "explanation_hebrew": "הסקירה אספה מקרים של ילדים שטופלו במרכזי טראומה מרכזיים בליברפול, מנצ'סטר ושפילד."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “irreversible” mean when describing brain damage?",
+      "difficulty": "A",
+      "options": [
+        "Temporary and easy to treat",
+        "Caused only by stress",
+        "Impossible to undo or repair",
+        "Limited to a broken bone"
+      ],
+      "correct_answer": "Impossible to undo or repair",
+      "explanation_hebrew": "irreversible פירושו בלתי הפיך — נזק שאי אפשר לבטל או לתקן."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the article say about private e-scooter ownership and age?",
+      "difficulty": "A",
+      "options": [
+        "There is no age restriction on owning a private e-scooter",
+        "Only people over 21 may own one",
+        "Private e-scooters may be owned only by rental companies",
+        "Children may own one only with a hospital certificate"
+      ],
+      "correct_answer": "There is no age restriction on owning a private e-scooter",
+      "explanation_hebrew": "הכתבה מציינת שאין מגבלת גיל על בעלות פרטית של קורקינט חשמלי, אף שהשימוש בו במרחב הציבורי מוגבל בחוק."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do the medical experts reject the idea that e-scooters are harmless toys?",
+      "difficulty": "A",
+      "options": [
+        "They are too expensive for most families",
+        "They can travel at speed and crashes can cause fractures or lasting brain injuries",
+        "They cannot be used indoors",
+        "They require more maintenance than bicycles"
+      ],
+      "correct_answer": "They can travel at speed and crashes can cause fractures or lasting brain injuries",
+      "explanation_hebrew": "הפציעות המתוארות — שברים ואף נזק מוחי בלתי הפיך — מראות שכלי מהיר אינו צעצוע נטול סיכון."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “mandatory” mean in the discussion of helmet use?",
+      "difficulty": "A",
+      "options": [
+        "Required by a rule or law",
+        "Recommended only for adults",
+        "Available at a lower price",
+        "Forbidden on public roads"
+      ],
+      "correct_answer": "Required by a rule or law",
+      "explanation_hebrew": "mandatory פירושו חובה לפי כלל או חוק; הכתבה מציינת שחבישת קסדה אינה חובה בכל שימוש כזה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two findings from the article that show the seriousness or pattern of child e-scooter injuries.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני ממצאים מדויקים מן הכתבה על גיל הנפגעים, סוג הפציעות, מקום האירועים או זהות הנפגעים.",
+      "expected_points": [
+        "Some injured children were as young as nine",
+        "Reported injuries included fractures and irreversible brain damage",
+        "Most incidents happened on public roads",
+        "Only a small share of those injured were pedestrians"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence, safety concerns and proposed responses in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את העלייה בפציעות, דוגמה לחומרתן, בעיית ההסדרה ותגובה אפשרית אחת לפחות.",
+      "expected_points": [
+        "Trauma centres reported a growing number of injured children",
+        "Some injuries were severe, including multiple fractures or lasting brain damage",
+        "Private ownership has no age restriction while public use is restricted",
+        "Researchers call for clearer regulation, safety information and responsible retailing"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might the gap between easy private ownership and restricted public use create a safety problem for families?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד רכישה קלה עלולה ליצור רושם מוטעה של חוקיות או בטיחות ולהוביל ילדים חסרי ניסיון לרכוב במקומות אסורים.",
+      "expected_points": [
+        "Families can buy a private scooter without an ownership age limit",
+        "Buyers may not understand where riding is legal",
+        "Children may treat the vehicle as a toy despite its speed and injury risk",
+        "Retailers can help by explaining the law and safety precautions"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, propose two measures that could reduce serious e-scooter injuries among children and explain why each could help.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציע שני צעדים ישימים ולקשור כל אחד מהם לסיכון או לממצא שמופיע בכתבה.",
+      "expected_points": [
+        "Clearer rules or an age restriction for private e-scooters",
+        "Mandatory or strongly promoted helmet use",
+        "Retailers explaining legal restrictions and risks before sale",
+        "Parent education and enforcement against illegal pavement or road use"
+      ]
+    }
+  ]
+}

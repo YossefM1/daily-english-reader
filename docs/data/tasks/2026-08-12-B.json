@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-12",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "First wave of 'pounds for pylons' energy discount sites revealed",
+  "article_url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main announcement in the article?",
+      "difficulty": "B",
+      "options": [
+        "All electricity customers will receive free power for ten years",
+        "The first 43 grid projects whose nearby households may receive annual bill discounts have been named",
+        "Britain will remove every existing electricity pylon",
+        "Renewable-energy companies will stop building substations"
+      ],
+      "correct_answer": "The first 43 grid projects whose nearby households may receive annual bill discounts have been named",
+      "explanation_hebrew": "החדשות המרכזיות הן פרסום הגל הראשון של 43 מיזמי הולכה שבקרבתם משקי בית עשויים לקבל הנחה שנתית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who is expected to be eligible for the scheme?",
+      "difficulty": "B",
+      "options": [
+        "Households anywhere in Europe that use renewable energy",
+        "Businesses that build wind turbines offshore",
+        "Households within about 500 metres of qualifying new or upgraded transmission infrastructure",
+        "Only residents who already own an electricity pylon"
+      ],
+      "correct_answer": "Households within about 500 metres of qualifying new or upgraded transmission infrastructure",
+      "explanation_hebrew": "הזכאות מיועדת למשקי בית בטווח של כ־500 מטר מתשתית הולכה חדשה או משודרגת שנכללת בתוכנית."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “eligible” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "Legally forbidden from applying",
+        "Able to qualify under the scheme's rules",
+        "Responsible for building the pylons",
+        "Uncertain about the cost"
+      ],
+      "correct_answer": "Able to qualify under the scheme's rules",
+      "explanation_hebrew": "eligible פירושו עומד בתנאי הזכאות ויכול לקבל את ההטבה לפי כללי התוכנית."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What benefit can a qualifying household receive?",
+      "difficulty": "B",
+      "options": [
+        "A £250 yearly electricity-bill discount for up to ten years",
+        "A one-time free solar panel worth £80",
+        "A new home built beside the substation",
+        "Free electricity only during the winter"
+      ],
+      "correct_answer": "A £250 yearly electricity-bill discount for up to ten years",
+      "explanation_hebrew": "משק בית זכאי עשוי לקבל הנחה של 250 ליש״ט בשנה בחשבון החשמל, למשך עד עשר שנים."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the government link local discounts to new grid infrastructure?",
+      "difficulty": "B",
+      "options": [
+        "To discourage homes from using electricity",
+        "To give affected communities a direct benefit and help secure support for grid expansion",
+        "To make renewable electricity illegal in rural areas",
+        "To replace the energy regulator with local councils"
+      ],
+      "correct_answer": "To give affected communities a direct benefit and help secure support for grid expansion",
+      "explanation_hebrew": "הרעיון הוא לתת תמורה מוחשית לתושבים המארחים תשתית, ובכך לצמצם התנגדות ולעזור להרחיב את הרשת."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When critics call the compensation “meagre”, what do they mean?",
+      "difficulty": "B",
+      "options": [
+        "It is unusually generous",
+        "It is paid too quickly",
+        "It is too small or inadequate",
+        "It is available only in cash"
+      ],
+      "correct_answer": "It is too small or inadequate",
+      "explanation_hebrew": "meagre מתאר סכום קטן ולא מספק; המבקרים טוענים שההנחה אינה מפצה כראוי את התושבים."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "State three key rules or figures of the discount scheme.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה פרטים מדויקים, כגון המרחק, הסכום, משך ההטבה או מספר המיזמים בגל הראשון.",
+      "expected_points": [
+        "The first wave covers 43 transmission projects across Britain",
+        "Eligible households are within about 500 metres (1,600 feet)",
+        "The discount is £250 per year",
+        "Payments can continue for up to 10 years"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the purpose of the scheme and the disagreement about it in 3–4 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לתאר את ההטבה, את הצורך בהרחבת רשת החשמל ואת הביקורת על גובה הפיצוי או השפעת התשתית.",
+      "expected_points": [
+        "Nearby households receive a direct bill discount",
+        "Britain needs more transmission capacity to connect renewable generation",
+        "Ministers say community benefits can support construction and growth",
+        "Critics and some residents consider the compensation too small for the local impact"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How could a lack of transmission capacity slow the move to renewable energy?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשור בין ייצור חשמל מתחדש, היכולת להעביר אותו ברשת והצורך בקווים ובתחנות משנה חדשים או משודרגים.",
+      "expected_points": [
+        "Wind and solar power may be generated far from consumers",
+        "The grid needs enough capacity to carry that electricity",
+        "Insufficient capacity can delay connections or waste available generation",
+        "New transmission projects can unlock renewable power and economic activity"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Do bill discounts provide fair compensation for communities near pylons? Give a balanced answer using evidence from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג יתרון וטיעון נגדי, להשתמש בפרטי התוכנית ולסיים במסקנה מנומקת.",
+      "expected_points": [
+        "The £250 annual discount is a tangible benefit for eligible households",
+        "The benefit may last up to ten years",
+        "Residents experience visual or neighbourhood impacts from major infrastructure",
+        "Critics describe the compensation as meagre or showing insufficient regard",
+        "A reasoned conclusion about fairness"
+      ]
+    }
+  ]
+}
