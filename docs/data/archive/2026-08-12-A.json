@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-12",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Children as young as nine hurt in growing number of e-scooter crashes",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cx2rdggr304o",
+  "published_at": "2026-08-11T23:31:02+00:00",
+  "age_hours_at_selection": 2.74,
+  "word_count": 588,
+  "generated_at": "2026-08-12T02:15:39.211774+00:00",
+  "difficulty_reason": "Short, direct news report with a clear single story and mostly B1/B2 vocabulary; needs little background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "injuries",
+      "lemma": "injury",
+      "level": "B1",
+      "hebrew": "פציעות",
+      "explanation_hebrew": "נזקים גופניים לגוף",
+      "pronunciation_hebrew": "אִנְגְ'רִיז",
+      "example": "The crash caused serious injuries."
+    },
+    {
+      "word": "trauma",
+      "lemma": "trauma",
+      "level": "B2",
+      "hebrew": "טראומה / חבלה",
+      "explanation_hebrew": "פגיעה גופנית או נפשית חמורה",
+      "pronunciation_hebrew": "טְרָאוּמָה",
+      "example": "The hospital has a special trauma unit."
+    },
+    {
+      "word": "treated",
+      "lemma": "treat",
+      "level": "B1",
+      "hebrew": "טיפל / טיפלו",
+      "explanation_hebrew": "ניתן טיפול רפואי",
+      "pronunciation_hebrew": "טְרִיטְד",
+      "example": "Doctors treated the injured child."
+    },
+    {
+      "word": "suggests",
+      "lemma": "suggest",
+      "level": "B1",
+      "hebrew": "מצביע על / מרמז",
+      "explanation_hebrew": "מראה שמשהו הוא כנראה נכון",
+      "pronunciation_hebrew": "סֶגְ'סטס",
+      "example": "The review suggests a growing problem."
+    },
+    {
+      "word": "average",
+      "lemma": "average",
+      "level": "B1",
+      "hebrew": "ממוצע",
+      "explanation_hebrew": "ערך אמצעי",
+      "pronunciation_hebrew": "אֶבְרִג'",
+      "example": "The average age was twelve."
+    },
+    {
+      "word": "restriction",
+      "lemma": "restriction",
+      "level": "B2",
+      "hebrew": "הגבלה",
+      "explanation_hebrew": "כלל שמגביל מה מותר",
+      "pronunciation_hebrew": "רִסְטרִקשֶן",
+      "example": "There is no age restriction on private scooters."
+    },
+    {
+      "word": "estimated",
+      "lemma": "estimate",
+      "level": "B2",
+      "hebrew": "מוערך / משוער",
+      "explanation_hebrew": "מספר משוער לא מדויק",
+      "pronunciation_hebrew": "אֶסְטִימֵיטֶד",
+      "example": "An estimated 1.2 million people own scooters."
+    },
+    {
+      "word": "harmless",
+      "lemma": "harmless",
+      "level": "B2",
+      "hebrew": "לא מסוכן / ללא נזק",
+      "explanation_hebrew": "שאינו גורם נזק",
+      "pronunciation_hebrew": "הָארְמלֶס",
+      "example": "E-scooters are not harmless toys."
+    },
+    {
+      "word": "passenger",
+      "lemma": "passenger",
+      "level": "B1",
+      "hebrew": "נוסע",
+      "explanation_hebrew": "מי שנוסע ולא נוהג",
+      "pronunciation_hebrew": "פֶאסֶנְגֶ'ר",
+      "example": "He was a passenger on the scooter."
+    },
+    {
+      "word": "irreversible",
+      "lemma": "irreversible",
+      "level": "C1",
+      "hebrew": "בלתי הפיך",
+      "explanation_hebrew": "שאי אפשר לבטל או לשנות",
+      "pronunciation_hebrew": "אִרִיבֶרסִיבֶל",
+      "example": "He suffered irreversible brain damage."
+    },
+    {
+      "word": "sustained",
+      "lemma": "sustain",
+      "level": "B2",
+      "hebrew": "ספג / נגרם לו",
+      "explanation_hebrew": "סבל פציעה או נזק",
+      "pronunciation_hebrew": "סֶסְטֵינְד",
+      "example": "The rider sustained serious injuries."
+    },
+    {
+      "word": "numerous",
+      "lemma": "numerous",
+      "level": "B2",
+      "hebrew": "רבים / רבות",
+      "explanation_hebrew": "מספר גדול של",
+      "pronunciation_hebrew": "נוּמְרֶס",
+      "example": "He had numerous broken bones."
+    },
+    {
+      "word": "fractures",
+      "lemma": "fracture",
+      "level": "B2",
+      "hebrew": "שברים בעצמות",
+      "explanation_hebrew": "שברים בעצמות הגוף",
+      "pronunciation_hebrew": "פְרֶקְצֶ'רז",
+      "example": "She had several bone fractures."
+    },
+    {
+      "word": "stressed",
+      "lemma": "stress",
+      "level": "B2",
+      "hebrew": "הדגיש",
+      "explanation_hebrew": "אמר משהו בתקיפות",
+      "pronunciation_hebrew": "סְטרֶסְט",
+      "example": "The officer stressed the dangers."
+    },
+    {
+      "word": "inexperienced",
+      "lemma": "inexperienced",
+      "level": "B2",
+      "hebrew": "חסר ניסיון",
+      "explanation_hebrew": "שאין לו ניסיון",
+      "pronunciation_hebrew": "אִנִקְסְפִּירְיֶנסְט",
+      "example": "Inexperienced riders take big risks."
+    },
+    {
+      "word": "incidents",
+      "lemma": "incident",
+      "level": "B1",
+      "hebrew": "תקריות / מקרים",
+      "explanation_hebrew": "אירועים לרוב לא נעימים",
+      "pronunciation_hebrew": "אִנְסִידֶנטס",
+      "example": "Most incidents happened on public roads."
+    },
+    {
+      "word": "illegal",
+      "lemma": "illegal",
+      "level": "B1",
+      "hebrew": "בלתי חוקי",
+      "explanation_hebrew": "אסור על פי חוק",
+      "pronunciation_hebrew": "אִלִיגְל",
+      "example": "Riding on pavements is illegal."
+    },
+    {
+      "word": "permission",
+      "lemma": "permission",
+      "level": "B1",
+      "hebrew": "רשות / אישור",
+      "explanation_hebrew": "הסכמה רשמית לעשות משהו",
+      "pronunciation_hebrew": "פֶּרְמִישֶן",
+      "example": "You need the owner's permission."
+    },
+    {
+      "word": "pedestrians",
+      "lemma": "pedestrian",
+      "level": "B2",
+      "hebrew": "הולכי רגל",
+      "explanation_hebrew": "אנשים ההולכים ברגל",
+      "pronunciation_hebrew": "פְּדֶסְטְריָנז",
+      "example": "Only 5% of the injured were pedestrians."
+    },
+    {
+      "word": "collisions",
+      "lemma": "collision",
+      "level": "B2",
+      "hebrew": "התנגשויות",
+      "explanation_hebrew": "מצב שבו שני גופים פוגעים",
+      "pronunciation_hebrew": "קֶלִיזְ'נז",
+      "example": "Collisions with cars cause worse injuries."
+    },
+    {
+      "word": "mandatory",
+      "lemma": "mandatory",
+      "level": "B2",
+      "hebrew": "חובה / מחויב",
+      "explanation_hebrew": "שחייבים לעשותו על פי חוק",
+      "pronunciation_hebrew": "מֶנְדָטוֹרי",
+      "example": "Helmet use is not mandatory here."
+    },
+    {
+      "word": "researchers",
+      "lemma": "researcher",
+      "level": "B1",
+      "hebrew": "חוקרים",
+      "explanation_hebrew": "אנשים שעושים מחקר",
+      "pronunciation_hebrew": "רִסֶרְצֶ'רז",
+      "example": "The researchers published their findings."
+    },
+    {
+      "word": "retailers",
+      "lemma": "retailer",
+      "level": "B2",
+      "hebrew": "קמעונאים / מוכרים",
+      "explanation_hebrew": "עסקים המוכרים לצרכנים",
+      "pronunciation_hebrew": "רִיטֵילֶרז",
+      "example": "Retailers should explain the law to buyers."
+    },
+    {
+      "word": "regulate",
+      "lemma": "regulate",
+      "level": "B2",
+      "hebrew": "להסדיר / לפקח",
+      "explanation_hebrew": "לקבוע כללים ושליטה",
+      "pronunciation_hebrew": "רֶגְיוּלֵיט",
+      "example": "Officials want to regulate private scooters."
+    },
+    {
+      "word": "concerning",
+      "lemma": "concerning",
+      "level": "B2",
+      "hebrew": "מדאיג",
+      "explanation_hebrew": "שגורם דאגה",
+      "pronunciation_hebrew": "קֶנְסֶרנִינג",
+      "example": "These are concerning findings."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "injuries",
+      "type": "english_to_hebrew",
+      "question": "What does “injuries” mean?",
+      "options": [
+        "טראומה / חבלה",
+        "פציעות",
+        "מצביע על / מרמז",
+        "טיפל / טיפלו"
+      ],
+      "correct_answer": "פציעות",
+      "explanation_hebrew": "הפירוש של “injuries” הוא פציעות."
+    },
+    {
+      "id": "A-q2",
+      "word": "trauma",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“טראומה / חבלה”?",
+      "options": [
+        "suggests",
+        "treated",
+        "trauma",
+        "average"
+      ],
+      "correct_answer": "trauma",
+      "explanation_hebrew": "“טראומה / חבלה” באנגלית הוא “trauma”."
+    },
+    {
+      "id": "A-q3",
+      "word": "treated",
+      "type": "english_to_hebrew",
+      "question": "What does “treated” mean?",
+      "options": [
+        "ממוצע",
+        "הגבלה",
+        "מצביע על / מרמז",
+        "טיפל / טיפלו"
+      ],
+      "correct_answer": "טיפל / טיפלו",
+      "explanation_hebrew": "הפירוש של “treated” הוא טיפל / טיפלו."
+    },
+    {
+      "id": "A-q4",
+      "word": "suggests",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“מצביע על / מרמז”?",
+      "options": [
+        "suggests",
+        "restriction",
+        "average",
+        "estimated"
+      ],
+      "correct_answer": "suggests",
+      "explanation_hebrew": "“מצביע על / מרמז” באנגלית הוא “suggests”."
+    },
+    {
+      "id": "A-q5",
+      "word": "average",
+      "type": "english_to_hebrew",
+      "question": "What does “average” mean?",
+      "options": [
+        "מוערך / משוער",
+        "לא מסוכן / ללא נזק",
+        "הגבלה",
+        "ממוצע"
+      ],
+      "correct_answer": "ממוצע",
+      "explanation_hebrew": "הפירוש של “average” הוא ממוצע."
+    },
+    {
+      "id": "A-q6",
+      "word": "restriction",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“הגבלה”?",
+      "options": [
+        "passenger",
+        "estimated",
+        "harmless",
+        "restriction"
+      ],
+      "correct_answer": "restriction",
+      "explanation_hebrew": "“הגבלה” באנגלית הוא “restriction”."
+    },
+    {
+      "id": "A-q7",
+      "word": "estimated",
+      "type": "english_to_hebrew",
+      "question": "What does “estimated” mean?",
+      "options": [
+        "לא מסוכן / ללא נזק",
+        "בלתי הפיך",
+        "מוערך / משוער",
+        "נוסע"
+      ],
+      "correct_answer": "מוערך / משוער",
+      "explanation_hebrew": "הפירוש של “estimated” הוא מוערך / משוער."
+    },
+    {
+      "id": "A-q8",
+      "word": "harmless",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“לא מסוכן / ללא נזק”?",
+      "options": [
+        "passenger",
+        "harmless",
+        "sustained",
+        "irreversible"
+      ],
+      "correct_answer": "harmless",
+      "explanation_hebrew": "“לא מסוכן / ללא נזק” באנגלית הוא “harmless”."
+    },
+    {
+      "id": "A-q9",
+      "word": "passenger",
+      "type": "english_to_hebrew",
+      "question": "What does “passenger” mean?",
+      "options": [
+        "ספג / נגרם לו",
+        "רבים / רבות",
+        "בלתי הפיך",
+        "נוסע"
+      ],
+      "correct_answer": "נוסע",
+      "explanation_hebrew": "הפירוש של “passenger” הוא נוסע."
+    },
+    {
+      "id": "A-q10",
+      "word": "irreversible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“בלתי הפיך”?",
+      "options": [
+        "numerous",
+        "irreversible",
+        "fractures",
+        "sustained"
+      ],
+      "correct_answer": "irreversible",
+      "explanation_hebrew": "“בלתי הפיך” באנגלית הוא “irreversible”."
+    },
+    {
+      "id": "A-q11",
+      "word": "sustained",
+      "type": "english_to_hebrew",
+      "question": "What does “sustained” mean?",
+      "options": [
+        "רבים / רבות",
+        "ספג / נגרם לו",
+        "הדגיש",
+        "שברים בעצמות"
+      ],
+      "correct_answer": "ספג / נגרם לו",
+      "explanation_hebrew": "הפירוש של “sustained” הוא ספג / נגרם לו."
+    },
+    {
+      "id": "A-q12",
+      "word": "numerous",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“רבים / רבות”?",
+      "options": [
+        "inexperienced",
+        "stressed",
+        "numerous",
+        "fractures"
+      ],
+      "correct_answer": "numerous",
+      "explanation_hebrew": "“רבים / רבות” באנגלית הוא “numerous”."
+    },
+    {
+      "id": "A-q13",
+      "word": "fractures",
+      "type": "english_to_hebrew",
+      "question": "What does “fractures” mean?",
+      "options": [
+        "חסר ניסיון",
+        "הדגיש",
+        "שברים בעצמות",
+        "תקריות / מקרים"
+      ],
+      "correct_answer": "שברים בעצמות",
+      "explanation_hebrew": "הפירוש של “fractures” הוא שברים בעצמות."
+    },
+    {
+      "id": "A-q14",
+      "word": "stressed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“הדגיש”?",
+      "options": [
+        "incidents",
+        "stressed",
+        "inexperienced",
+        "illegal"
+      ],
+      "correct_answer": "stressed",
+      "explanation_hebrew": "“הדגיש” באנגלית הוא “stressed”."
+    },
+    {
+      "id": "A-q15",
+      "word": "inexperienced",
+      "type": "english_to_hebrew",
+      "question": "What does “inexperienced” mean?",
+      "options": [
+        "בלתי חוקי",
+        "תקריות / מקרים",
+        "רשות / אישור",
+        "חסר ניסיון"
+      ],
+      "correct_answer": "חסר ניסיון",
+      "explanation_hebrew": "הפירוש של “inexperienced” הוא חסר ניסיון."
+    },
+    {
+      "id": "A-q16",
+      "word": "incidents",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“תקריות / מקרים”?",
+      "options": [
+        "pedestrians",
+        "permission",
+        "illegal",
+        "incidents"
+      ],
+      "correct_answer": "incidents",
+      "explanation_hebrew": "“תקריות / מקרים” באנגלית הוא “incidents”."
+    },
+    {
+      "id": "A-q17",
+      "word": "illegal",
+      "type": "english_to_hebrew",
+      "question": "What does “illegal” mean?",
+      "options": [
+        "רשות / אישור",
+        "בלתי חוקי",
+        "הולכי רגל",
+        "התנגשויות"
+      ],
+      "correct_answer": "בלתי חוקי",
+      "explanation_hebrew": "הפירוש של “illegal” הוא בלתי חוקי."
+    },
+    {
+      "id": "A-q18",
+      "word": "permission",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“רשות / אישור”?",
+      "options": [
+        "collisions",
+        "permission",
+        "mandatory",
+        "pedestrians"
+      ],
+      "correct_answer": "permission",
+      "explanation_hebrew": "“רשות / אישור” באנגלית הוא “permission”."
+    },
+    {
+      "id": "A-q19",
+      "word": "pedestrians",
+      "type": "english_to_hebrew",
+      "question": "What does “pedestrians” mean?",
+      "options": [
+        "הולכי רגל",
+        "חוקרים",
+        "התנגשויות",
+        "חובה / מחויב"
+      ],
+      "correct_answer": "הולכי רגל",
+      "explanation_hebrew": "הפירוש של “pedestrians” הוא הולכי רגל."
+    },
+    {
+      "id": "A-q20",
+      "word": "collisions",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“התנגשויות”?",
+      "options": [
+        "mandatory",
+        "researchers",
+        "retailers",
+        "collisions"
+      ],
+      "correct_answer": "collisions",
+      "explanation_hebrew": "“התנגשויות” באנגלית הוא “collisions”."
+    },
+    {
+      "id": "A-q21",
+      "word": "mandatory",
+      "type": "english_to_hebrew",
+      "question": "What does “mandatory” mean?",
+      "options": [
+        "חובה / מחויב",
+        "להסדיר / לפקח",
+        "חוקרים",
+        "קמעונאים / מוכרים"
+      ],
+      "correct_answer": "חובה / מחויב",
+      "explanation_hebrew": "הפירוש של “mandatory” הוא חובה / מחויב."
+    },
+    {
+      "id": "A-q22",
+      "word": "researchers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“חוקרים”?",
+      "options": [
+        "concerning",
+        "retailers",
+        "researchers",
+        "regulate"
+      ],
+      "correct_answer": "researchers",
+      "explanation_hebrew": "“חוקרים” באנגלית הוא “researchers”."
+    },
+    {
+      "id": "A-q23",
+      "word": "retailers",
+      "type": "english_to_hebrew",
+      "question": "What does “retailers” mean?",
+      "options": [
+        "קמעונאים / מוכרים",
+        "להסדיר / לפקח",
+        "מדאיג",
+        "פציעות"
+      ],
+      "correct_answer": "קמעונאים / מוכרים",
+      "explanation_hebrew": "הפירוש של “retailers” הוא קמעונאים / מוכרים."
+    },
+    {
+      "id": "A-q24",
+      "word": "regulate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל–“להסדיר / לפקח”?",
+      "options": [
+        "trauma",
+        "injuries",
+        "regulate",
+        "concerning"
+      ],
+      "correct_answer": "regulate",
+      "explanation_hebrew": "“להסדיר / לפקח” באנגלית הוא “regulate”."
+    },
+    {
+      "id": "A-q25",
+      "word": "concerning",
+      "type": "english_to_hebrew",
+      "question": "What does “concerning” mean?",
+      "options": [
+        "טיפל / טיפלו",
+        "טראומה / חבלה",
+        "מדאיג",
+        "פציעות"
+      ],
+      "correct_answer": "מדאיג",
+      "explanation_hebrew": "הפירוש של “concerning” הוא מדאיג."
+    }
+  ]
+}
