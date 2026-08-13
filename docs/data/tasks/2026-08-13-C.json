@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-13",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Vultures are disappearing in Nigeria - but the 'vulture king' and others are fighting back",
+  "article_url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central argument of the article?",
+      "difficulty": "C",
+      "options": [
+        "Vultures are dangerous predators that should be removed from towns",
+        "Nigeria's vultures face severe decline from poisoning, habitat loss and trade, but community-led conservation shows recovery is possible",
+        "All African vulture species have already become extinct",
+        "Religious traditions are the only cause of declining vulture numbers"
+      ],
+      "correct_answer": "Nigeria's vultures face severe decline from poisoning, habitat loss and trade, but community-led conservation shows recovery is possible",
+      "explanation_hebrew": "הכתבה משלבת את המשבר הרחב באוכלוסיות הנשרים עם הדוגמה המעודדת של הגנה קהילתית באווקה־אטיטי."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why are vultures protected in Awka-Etiti?",
+      "difficulty": "C",
+      "options": [
+        "They are kept in a commercial zoo",
+        "They are considered sacred around a shrine, and residents also organise protection against hunters",
+        "They are trained to carry messages",
+        "The government pays every household that owns one"
+      ],
+      "correct_answer": "They are considered sacred around a shrine, and residents also organise protection against hunters",
+      "explanation_hebrew": "באווקה־אטיטי מסורת מקומית רואה בנשרים יצורים מקודשים ליד המקדש, ובמקביל הקהילה פועלת נגד ציידים."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “scavenging” mean in the description of vultures?",
+      "difficulty": "C",
+      "options": [
+        "Building nests inside houses",
+        "Hunting healthy livestock in groups",
+        "Travelling across national borders",
+        "Feeding on dead animals and other decaying material"
+      ],
+      "correct_answer": "Feeding on dead animals and other decaying material",
+      "explanation_hebrew": "scavenging הוא חיפוש ואכילה של פגרים וחומר אורגני מת, התפקיד הטבעי המזוהה עם נשרים."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What change was reported in Awka-Etiti's vulture population?",
+      "difficulty": "C",
+      "options": [
+        "It rose from about 20 birds in 2017 to more than 160",
+        "It fell from 160 birds to fewer than 20 in one month",
+        "It stayed fixed at exactly 100 birds",
+        "It recovered only after all residents left the town"
+      ],
+      "correct_answer": "It rose from about 20 birds in 2017 to more than 160",
+      "explanation_hebrew": "הספירה המקומית עלתה מכ־20 נשרים בשנת 2017 ליותר מ־160 בעקבות מאמצי ההגנה."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can the loss of vultures increase risks to human health?",
+      "difficulty": "C",
+      "options": [
+        "Vultures normally pollinate cocoa plants",
+        "Without them, carcasses remain longer and can support the spread of diseases such as anthrax or rabies",
+        "Vultures produce medicines used in hospitals",
+        "Their feathers prevent flooding"
+      ],
+      "correct_answer": "Without them, carcasses remain longer and can support the spread of diseases such as anthrax or rabies",
+      "explanation_hebrew": "נשרים מסלקים פגרים במהירות; היעלמותם משאירה מקור למחלות זואונוטיות ועלולה להגדיל סיכון לבני אדם ולבעלי חיים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “catastrophic” mean when the article discusses losing eggs or breeding birds?",
+      "difficulty": "C",
+      "options": [
+        "Extremely harmful or disastrous",
+        "Useful for population growth",
+        "Easy to reverse within days",
+        "Unrelated to survival"
+      ],
+      "correct_answer": "Extremely harmful or disastrous",
+      "explanation_hebrew": "catastrophic פירושו הרסני מאוד; אובדן ביצים או בוגרים מתרבים חמור במיוחד במין שמתרבה לאט."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify three major threats to vultures mentioned in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה איומים שונים ולהבהיר בקצרה כיצד הם פוגעים באוכלוסייה.",
+      "expected_points": [
+        "Poisoning, including contaminated carcasses",
+        "Hunting and trafficking for ritual or belief-based uses",
+        "Loss or disturbance of habitat",
+        "Removal of eggs or breeding adults",
+        "Weak enforcement across porous borders"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why vultures matter, why they are declining and how Awka-Etiti offers a possible model for recovery.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לשלב תפקיד אקולוגי, איומים מרכזיים, והצעדים הקהילתיים שהובילו להתאוששות מקומית.",
+      "expected_points": [
+        "Vultures rapidly remove carcasses and help limit disease",
+        "African populations have fallen sharply because of poisoning, trade and habitat pressures",
+        "Awka-Etiti combines sacred tradition with organised community protection",
+        "Local leadership, security teams and bylaws helped the population grow"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might cultural beliefs be both a threat to vultures and a tool for conserving them?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את הניגוד בין ביקוש לחלקי נשרים לצורכי אמונה או טקס לבין מסורות המחשיבות את העופות קדושים ומונעות פגיעה בהם.",
+      "expected_points": [
+        "Belief-based demand can encourage hunting and illegal trade",
+        "High prices for dead birds create incentives for traffickers",
+        "In Awka-Etiti, sacred status discourages residents from harming vultures",
+        "Conservation campaigns can work with respected cultural and community leaders"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Design a conservation strategy for vultures in Nigeria based on the evidence in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע אסטרטגיה רב־מערכתית הכוללת הגנה מקומית, אכיפה, חינוך ומעקב, ולהסביר מדוע כל מרכיב נחוץ.",
+      "expected_points": [
+        "Support community guardians and local leaders",
+        "Enforce wildlife laws against hunters and traffickers, including across borders",
+        "Reduce poisoning and promote safe carcass management",
+        "Protect nesting and feeding habitat",
+        "Explain vultures' role in controlling disease and maintaining ecosystems",
+        "Monitor populations to measure recovery"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-13",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "First 100% British chocolate bar since 1932 made in Reading",
+  "article_url": "https://www.bbc.co.uk/news/articles/czxe2kw31wpo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "A British company has stopped importing all cocoa",
+        "A university student made a chocolate bar entirely from British ingredients, illustrating both the work behind chocolate and global supply challenges",
+        "Princess Elizabeth opened a chocolate factory in Reading",
+        "British farmers now grow most of the world's cocoa"
+      ],
+      "correct_answer": "A university student made a chocolate bar entirely from British ingredients, illustrating both the work behind chocolate and global supply challenges",
+      "explanation_hebrew": "הכתבה עוסקת בחטיף שוקולד שיוצר כולו מחומרי גלם בריטיים, ובאמצעותו מסבירה את תהליך הייצור ואת פגיעוּת שרשרת האספקה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was the bar named the “Reading 100 Chocolate Bar”?",
+      "difficulty": "A",
+      "options": [
+        "It contains exactly 100 cocoa beans",
+        "It took 100 days to make",
+        "It marks the University of Reading's 100th anniversary",
+        "It is the hundredth chocolate recipe made in Britain"
+      ],
+      "correct_answer": "It marks the University of Reading's 100th anniversary",
+      "explanation_hebrew": "השם מציין מאה שנים לאוניברסיטת רדינג, שחוגגת את יום השנה המאה שלה ב־2026."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “reliant on imported cocoa” mean?",
+      "difficulty": "A",
+      "options": [
+        "Able to produce cocoa without farms",
+        "Unwilling to sell cocoa abroad",
+        "Protected from changes in world trade",
+        "Dependent on cocoa brought in from other countries"
+      ],
+      "correct_answer": "Dependent on cocoa brought in from other countries",
+      "explanation_hebrew": "reliant on פירושו תלוי ב־; תעשיית השוקולד הבריטית תלויה בקקאו שמיובא ממדינות אחרות."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where was the cocoa for the new bar grown?",
+      "difficulty": "A",
+      "options": [
+        "At the University of Reading's International Cocoa Quarantine Centre in Berkshire",
+        "On a commercial plantation in Brazil",
+        "At Rowntree's former factory in York",
+        "In a greenhouse owned by Princess Elizabeth"
+      ],
+      "correct_answer": "At the University of Reading's International Cocoa Quarantine Centre in Berkshire",
+      "explanation_hebrew": "הקקאו גדל במרכז ההסגר הבינלאומי לקקאו של אוניברסיטת רדינג שבברקשייר."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the quarantine centre carefully control the movement of cocoa plants?",
+      "difficulty": "A",
+      "options": [
+        "To make every cocoa bean taste identical",
+        "To prevent pests and diseases spreading between cocoa-growing regions",
+        "To stop students from seeing the plants",
+        "To ensure that all chocolate is made in Britain"
+      ],
+      "correct_answer": "To prevent pests and diseases spreading between cocoa-growing regions",
+      "explanation_hebrew": "הבקרה וההסגר נועדו למנוע העברה של מזיקים ומחלות מאזור גידול אחד לאחר."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “resilient” mean when the article calls for a resilient global cocoa market?",
+      "difficulty": "A",
+      "options": [
+        "Able to recover and continue despite difficulties",
+        "Made only from local ingredients",
+        "Certain to remain cheap forever",
+        "Closed to international farmers"
+      ],
+      "correct_answer": "Able to recover and continue despite difficulties",
+      "explanation_hebrew": "resilient מתאר מערכת שיכולה להתמודד עם משברים ולהמשיך לפעול או להתאושש מהם."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name three steps used to turn the Reading cocoa pods into a finished chocolate bar.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה שלבים מדויקים מתהליך הייצור המתואר בכתבה.",
+      "expected_points": [
+        "The pods were opened and the beans removed",
+        "The beans were fermented and dried",
+        "The beans were roasted, crushed and ground into cocoa powder",
+        "The cocoa was mixed with British sugar and milk",
+        "The mixture was heated, shaped and formed into a bar"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why the Reading chocolate bar is historically interesting and what wider issue it highlights.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את הייחוד ההיסטורי, הקשר ליום השנה של האוניברסיטה, ותלות תעשיית השוקולד בסחר ובחקלאים בעולם.",
+      "expected_points": [
+        "It is thought to be the first bar made from British-grown cocoa since 1932",
+        "It was created for the University of Reading's centenary",
+        "Britain's large chocolate market normally depends entirely on imported cocoa",
+        "The project highlights climate risks and the importance of protecting cocoa varieties and farmers"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the article say that buying local food is not always a universal solution?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שלגידול מקומי יש יתרונות, אך גידולים טרופיים וסחר בינלאומי תומכים גם בחקלאים, ביעילות הייצור וביציבות כלכלית.",
+      "expected_points": [
+        "Some crops naturally grow better in climates outside Britain",
+        "International food trade supports smallholder farmers and communities",
+        "Natural energy and suitable climates can make overseas production sensible",
+        "A resilient supply chain needs research and protected crop varieties, not only local production"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, explain two ways research can make the future cocoa supply more secure.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציע שתי דרכים ולהסביר כיצד כל אחת מסייעת מול שינוי אקלים, מזיקים או מחלות.",
+      "expected_points": [
+        "Maintain diverse cocoa varieties so harder plants are available",
+        "Use quarantine controls to prevent pests and diseases spreading",
+        "Study cocoa plants under controlled conditions",
+        "Support farmers and global supply chains exposed to climate risks"
+      ]
+    }
+  ]
+}

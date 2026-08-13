@@ -1,0 +1,163 @@
+{
+  "date": "2026-08-13",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Leading doctor rebukes NHS chiefs over transplant crisis",
+  "article_url": "https://www.bbc.co.uk/news/articles/crl711557e6o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main issue raised in the article?",
+      "difficulty": "B",
+      "options": [
+        "Britain has decided to end all organ transplants",
+        "A senior transplant doctor says NHS leaders have failed to solve workforce and capacity problems that delay or cancel transplants",
+        "Hospitals have too many specialist transplant staff",
+        "The NHS plans to replace donated organs with artificial ones immediately"
+      ],
+      "correct_answer": "A senior transplant doctor says NHS leaders have failed to solve workforce and capacity problems that delay or cancel transplants",
+      "explanation_hebrew": "הכתבה מתמקדת בביקורת של רופא בכיר על כך שבעיות כוח אדם וקיבולת אינן מטופלות, ולכן השתלות מתעכבות או מתבטלות."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who made the criticism described in the leaked letter?",
+      "difficulty": "B",
+      "options": [
+        "A private insurance executive",
+        "A patient waiting for a routine appointment",
+        "Professor Derek Manas, medical director for organ donation and transplantation at NHS Blood and Transplant",
+        "The owner of a pharmaceutical company"
+      ],
+      "correct_answer": "Professor Derek Manas, medical director for organ donation and transplantation at NHS Blood and Transplant",
+      "explanation_hebrew": "הביקורת נכתבה בידי פרופ' דרק מאנאס, המנהל הרפואי לתרומת איברים ולהשתלות ב־NHS Blood and Transplant."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “overhaul” mean when the article discusses the transplant system?",
+      "difficulty": "B",
+      "options": [
+        "A minor change to one appointment",
+        "A temporary pause in surgery",
+        "A complete review and major reorganisation",
+        "A new type of donated organ"
+      ],
+      "correct_answer": "A complete review and major reorganisation",
+      "explanation_hebrew": "overhaul פירושו בדיקה ושינוי יסודיים של מערכת, ולא תיקון קטן בלבד."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why can a transplant be cancelled even after a donated organ becomes available?",
+      "difficulty": "B",
+      "options": [
+        "The hospital may lack the staff, theatre or intensive-care capacity needed at short notice",
+        "The recipient must wait until the next calendar year",
+        "Donated organs can be used only during office hours",
+        "Every transplant requires approval from a private insurer"
+      ],
+      "correct_answer": "The hospital may lack the staff, theatre or intensive-care capacity needed at short notice",
+      "explanation_hebrew": "זמינות איבר אינה מספיקה: נדרשים בזמן קצר צוות מיומן, חדר ניתוח ומקום בטיפול נמרץ, ולעיתים הקיבולת חסרה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is transplantation especially difficult to manage with a limited workforce?",
+      "difficulty": "B",
+      "options": [
+        "Transplant operations never need specialist staff",
+        "The timing and availability of donated organs are unpredictable, so teams must be ready at short notice",
+        "All organs arrive at the same planned time each week",
+        "Transplant staff work only with living donors"
+      ],
+      "correct_answer": "The timing and availability of donated organs are unpredictable, so teams must be ready at short notice",
+      "explanation_hebrew": "מאחר שאי אפשר לתזמן מראש מתי איבר מתאים יגיע, המערכת זקוקה לכוח אדם ולקיבולת גמישים בכל שעה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “fragmented” mean when describing transplant services?",
+      "difficulty": "B",
+      "options": [
+        "Broken into separate parts that do not work together well",
+        "Fully staffed and centrally coordinated",
+        "Limited only to kidney operations",
+        "Recently funded with new equipment"
+      ],
+      "correct_answer": "Broken into separate parts that do not work together well",
+      "explanation_hebrew": "fragmented מתאר שירות המחולק לגופים או חלקים שאינם מתואמים היטב."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three system problems identified in the article or the review it discusses.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלוש בעיות מערכתיות מדויקות ולא רק לומר שקיימת 'משבר'.",
+      "expected_points": [
+        "An inadequate specialist workforce and difficult recruitment",
+        "Insufficient operating-theatre or intensive-care capacity",
+        "Transplants cancelled at short notice",
+        "Fragmented responsibility and weak accountability",
+        "Mismatch between unpredictable organ availability and hospital resources"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the doctor's criticism, its consequences for patients and the changes being requested.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את מקור הביקורת, בעיות הקיבולת וכוח האדם, הפגיעה בממתינים והצורך ברפורמה מתואמת.",
+      "expected_points": [
+        "Professor Manas rebuked NHS leaders in a leaked letter",
+        "Workforce and capacity shortages can waste opportunities for transplant surgery",
+        "Patients face longer, unequal waits and last-minute cancellations",
+        "The system needs clearer accountability, planning and investment"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is relying on staff goodwill not a sustainable way to run transplant services?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שעבודה בלתי צפויה ואינטנסיבית דורשת תקנים, תכנון ומשאבים קבועים ולא מאמץ חריג ומתמשך של עובדים.",
+      "expected_points": [
+        "Transplants may be required at any hour and at short notice",
+        "Repeated extra effort can exhaust staff and harm retention",
+        "Goodwill cannot create theatre beds or intensive-care capacity",
+        "Stable staffing, recruitment and funded rotas are needed for a reliable service"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Propose a practical NHS response to the transplant-capacity crisis, using evidence from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע תוכנית הכוללת לפחות שני צעדים, להסביר כיצד הם מטפלים בבעיה, ולהתייחס לאחריות מערכתית.",
+      "expected_points": [
+        "Recruit and retain specialist transplant staff",
+        "Protect flexible theatre and intensive-care capacity for unpredictable organ offers",
+        "Coordinate capacity between transplant centres",
+        "Assign clear national responsibility and accountability",
+        "Measure cancellations and waiting-list outcomes to guide investment"
+      ]
+    }
+  ]
+}
