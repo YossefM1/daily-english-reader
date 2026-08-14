@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-14",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+  "article_url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central message?",
+      "difficulty": "C",
+      "options": [
+        "South Korea has permanently banned individual share trading",
+        "Korean investors are experiencing large gains and losses as an AI-driven market boom turns highly volatile",
+        "Samsung and SK Hynix have stopped producing semiconductors",
+        "All investors who borrowed money made a profit"
+      ],
+      "correct_answer": "Korean investors are experiencing large gains and losses as an AI-driven market boom turns highly volatile",
+      "explanation_hebrew": "הכתבה מתארת כיצד ההתלהבות ממניות שבבים ובינה מלאכותית העלתה את השוק, אך גם יצרה תנודות חריפות והפסדים גדולים למשקיעים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much did bank worker Yongjoon Kim say he lost in one month?",
+      "difficulty": "C",
+      "options": [
+        "About 2m won, or $1,400",
+        "About 20m won, or $14,000",
+        "About 200m won, or $140,000",
+        "About 29m won, or $20,000"
+      ],
+      "correct_answer": "About 20m won, or $14,000",
+      "explanation_hebrew": "יונגג'ון קים סיפר שאיבד כ־20 מיליון וון, שהם בערך 14 אלף דולר, בתוך חודש."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “leverage” mean in the article's investment context?",
+      "difficulty": "C",
+      "options": [
+        "Spreading savings equally across many industries",
+        "Selling shares only after a market closes",
+        "Using borrowed money to increase investment exposure",
+        "Receiving a guaranteed return from a broker"
+      ],
+      "correct_answer": "Using borrowed money to increase investment exposure",
+      "explanation_hebrew": "leverage בהשקעות הוא שימוש בכסף שאול כדי להגדיל את החשיפה; הוא עשוי להגדיל רווחים אך גם להחריף הפסדים."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What helped drive the earlier surge in South Korean shares?",
+      "difficulty": "C",
+      "options": [
+        "A ban on semiconductor exports",
+        "Falling interest in technology companies",
+        "Government ownership of every listed company",
+        "Enthusiasm for AI and major chipmakers such as Samsung Electronics and SK Hynix"
+      ],
+      "correct_answer": "Enthusiasm for AI and major chipmakers such as Samsung Electronics and SK Hynix",
+      "explanation_hebrew": "העלייה הוזנה מהתלהבות סביב בינה מלאכותית ומניות יצרניות השבבים הגדולות, ובהן סמסונג אלקטרוניקס ו־SK Hynix."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can leveraged investing leave someone owing money after share prices fall?",
+      "difficulty": "C",
+      "options": [
+        "Borrowing increases the size of the position, so losses can exceed the investor's own cash",
+        "Brokers cancel every profitable trade during a correction",
+        "Diversification requires investors to repay all companies",
+        "Stock indexes charge a fixed debt whenever they decline"
+      ],
+      "correct_answer": "Borrowing increases the size of the position, so losses can exceed the investor's own cash",
+      "explanation_hebrew": "כאשר ההשקעה ממומנת בחוב, ירידה חדה פוגעת בסכום גדול יותר מההון העצמי ועלולה ליצור דרישת תשלום מהברוקר."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean that diversified portfolios could “cushion the blow”?",
+      "difficulty": "C",
+      "options": [
+        "They prevent every individual share from falling",
+        "They guarantee a return equal to the market peak",
+        "They can reduce the overall damage by spreading risk across different assets",
+        "They allow investors to borrow without repaying"
+      ],
+      "correct_answer": "They can reduce the overall damage by spreading risk across different assets",
+      "explanation_hebrew": "cushion the blow פירושו לרכך את הפגיעה; פיזור בין נכסים שונים עשוי לצמצם את הנזק הכולל."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify three factors described in the article that made the Korean market's swings especially severe.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה גורמים קונקרטיים מן הכתבה ולא רק לומר שהשוק היה תנודתי.",
+      "expected_points": [
+        "Strong enthusiasm and speculation around artificial intelligence",
+        "Heavy influence of Samsung Electronics and SK Hynix on the index",
+        "Use of leverage and borrowed money by individual investors",
+        "Rapid gains created euphoria and encouraged risk-taking",
+        "A sharp correction caused selling and margin pressure"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the Korean market moved from optimism to painful losses and how investors reacted.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לקשר בין גל העליות, מניות השבבים וה־AI, התיקון החד, חוויות המשקיעים והתגובות השונות.",
+      "expected_points": [
+        "AI and semiconductor enthusiasm drove a powerful rally",
+        "Concentration in major chipmakers made the index sensitive to their prices",
+        "The market then suffered a steep correction and unusually wild swings",
+        "Investors such as Yongjoon Kim lost large sums",
+        "Some waited for a rebound while others became cautious or used diversification"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the index's dependence on a few large chipmakers increase risk for the wider market?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר כיצד משקל גדול של מספר חברות גורם לתנועה במניותיהן להשפיע על המדד ועל משקיעים רבים.",
+      "expected_points": [
+        "Samsung Electronics and SK Hynix have a large influence on the index",
+        "A fall in these companies can pull down the overall market even if other firms perform differently",
+        "AI or semiconductor sentiment can therefore spread quickly across the index",
+        "Concentration gives investors less protection than a broadly balanced market"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Based on the article, propose three principles a new investor could use to reduce the damage from extreme market swings.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע שלושה עקרונות מעשיים ולנמק אותם באמצעות הלקחים מן הכתבה.",
+      "expected_points": [
+        "Avoid or strictly limit borrowed money and leveraged products",
+        "Diversify across companies, industries or asset types",
+        "Do not assume that a rapid rally will continue indefinitely",
+        "Understand the risks before following an AI-driven investment frenzy",
+        "Keep enough cash and choose a risk level that allows patience during a correction"
+      ]
+    }
+  ]
+}

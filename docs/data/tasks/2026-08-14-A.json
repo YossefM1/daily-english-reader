@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-14",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Ski Sunday host Chemmy Alcott suffers collapsed lung after jumping into lake",
+  "article_url": "https://www.bbc.co.uk/news/articles/cp8xpg1380xo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "Chemmy Alcott is preparing to return to Olympic skiing",
+        "Chemmy Alcott suffered a collapsed lung after a badly landed jump into a lake",
+        "A French hospital has introduced a new swimming programme",
+        "Ski Sunday has moved all filming to France"
+      ],
+      "correct_answer": "Chemmy Alcott suffered a collapsed lung after a badly landed jump into a lake",
+      "explanation_hebrew": "הכתבה מתמקדת בפציעתה של כמי אלקוט: היא נחתה לא נכון בקפיצה לאגם, התקשתה לנשום ואובחנה עם ריאה שקרסה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was Alcott doing when she was injured?",
+      "difficulty": "A",
+      "options": [
+        "Competing in a ski race",
+        "Training in a swimming pool",
+        "Jumping from a platform into a lake",
+        "Climbing a mountain beside the lake"
+      ],
+      "correct_answer": "Jumping from a platform into a lake",
+      "explanation_hebrew": "אלקוט נפצעה כאשר קפצה ממשטח מוגבה אל תוך אגם במהלך חופשה בצרפת."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “winded” mean after Alcott hit the water?",
+      "difficulty": "A",
+      "options": [
+        "Temporarily unable to breathe normally after an impact",
+        "Carried away by a strong wind",
+        "Feeling cold because of the lake water",
+        "Confused about the direction of the jump"
+      ],
+      "correct_answer": "Temporarily unable to breathe normally after an impact",
+      "explanation_hebrew": "בהקשר הזה winded פירושו שהמכה הוציאה לה את האוויר והיא התקשתה זמנית לנשום כרגיל."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened after Alcott's breathing problem became worse?",
+      "difficulty": "A",
+      "options": [
+        "She continued swimming for several hours",
+        "She flew home without medical help",
+        "She returned to the jumping platform",
+        "She went to hospital and was diagnosed with a collapsed lung"
+      ],
+      "correct_answer": "She went to hospital and was diagnosed with a collapsed lung",
+      "explanation_hebrew": "כשהקושי בנשימה החמיר, אלקוט נזקקה לטיפול בבית חולים ושם אובחנה עם ריאה שקרסה."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could Alcott have a serious chest injury even if her skin was not pierced?",
+      "difficulty": "A",
+      "options": [
+        "A hard impact can cause internal trauma and let air collect around a lung",
+        "Lake water always causes lung collapse immediately",
+        "Only skiing equipment can protect the lungs",
+        "A collapsed lung is caused only by cold weather"
+      ],
+      "correct_answer": "A hard impact can cause internal trauma and let air collect around a lung",
+      "explanation_hebrew": "הכתבה מסבירה שמכה קהה וחזקה יכולה לגרום נזק פנימי ולהכניס אוויר בין הריאה לדופן החזה גם בלי פצע חיצוני."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “hazards” mean in the article's discussion of wild swimming?",
+      "difficulty": "A",
+      "options": [
+        "Holiday plans",
+        "Hidden or possible dangers",
+        "Medical treatments",
+        "Swimming competitions"
+      ],
+      "correct_answer": "Hidden or possible dangers",
+      "explanation_hebrew": "hazards הם סכנות אפשריות, למשל זרמים, עומק לא ידוע או מכשולים במים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe three stages between Alcott's jump and her hospital diagnosis.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה שלבים מדויקים לפי סדר האירועים בכתבה.",
+      "expected_points": [
+        "She attempted a rotating jump from a platform into the lake",
+        "She got the rotation wrong and landed badly on the water",
+        "She felt winded and could not breathe properly",
+        "Her symptoms became more serious",
+        "Hospital staff diagnosed a collapsed lung"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the incident and the medical explanation given in the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את הקפיצה, הנחיתה, תסמיני הנשימה, האבחנה והסבר קצר על הצטברות אוויר סביב הריאה.",
+      "expected_points": [
+        "Alcott landed badly while jumping into a lake on holiday in France",
+        "She initially felt winded and then had increasing difficulty breathing",
+        "She was treated in hospital for a collapsed lung",
+        "A pneumothorax occurs when air becomes trapped between a lung and the chest wall",
+        "Blunt trauma can cause it without piercing the skin"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does Alcott's experience show that worsening breathing problems after an impact should not be ignored?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין החמרת התסמינים לבין האפשרות לפציעה פנימית רצינית שאינה תמיד נראית מבחוץ.",
+      "expected_points": [
+        "Her initial feeling of being winded developed into difficulty breathing",
+        "The impact caused an internal injury despite no mention of an open wound",
+        "A collapsed lung can become a serious medical threat",
+        "Prompt medical assessment led to the diagnosis"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using details from the article, give two safety recommendations for someone considering a jump during wild swimming.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לתת שתי המלצות מעשיות ולנמק כל אחת בעזרת הסיכונים המתוארים בכתבה.",
+      "expected_points": [
+        "Check the depth, currents and hidden hazards before entering the water",
+        "Avoid high or rotating jumps without suitable skill and supervision",
+        "Use a controlled entry rather than risking a hard impact on the water",
+        "Do not continue swimming if breathing becomes difficult after an impact",
+        "Seek urgent medical help when chest or breathing symptoms worsen"
+      ]
+    }
+  ]
+}

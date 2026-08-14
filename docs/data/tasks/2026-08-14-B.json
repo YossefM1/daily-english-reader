@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-14",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Michael Ryan: Family of Irish plane crash victim awarded $29m in damages",
+  "article_url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "B",
+      "options": [
+        "A Chicago jury awarded $29m to the family of Michael Ryan after a civil case against Boeing",
+        "Boeing announced a new passenger route between Ethiopia and Ireland",
+        "The UN World Food Programme purchased a fleet of aircraft",
+        "All legal claims from the 737 Max crashes were reopened"
+      ],
+      "correct_answer": "A Chicago jury awarded $29m to the family of Michael Ryan after a civil case against Boeing",
+      "explanation_hebrew": "עיקר הכתבה הוא פסק הדין האזרחי שבו משפחתו של מייקל ראיין קיבלה פיצויים בסך 29 מיליון דולר בתביעה נגד בואינג."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who brought the civil lawsuit against Boeing?",
+      "difficulty": "B",
+      "options": [
+        "The Ethiopian government",
+        "Michael Ryan's widow, Naoise Connolly Ryan",
+        "The pilots' training school",
+        "The United Nations Security Council"
+      ],
+      "correct_answer": "Michael Ryan's widow, Naoise Connolly Ryan",
+      "explanation_hebrew": "את התביעה האזרחית הגישה אלמנתו של מייקל ראיין, נאושה קונולי ראיין."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “damages” mean in the headline?",
+      "difficulty": "B",
+      "options": [
+        "Physical damage to the aircraft",
+        "A list of faults found by engineers",
+        "Money awarded as compensation in a legal case",
+        "Extra charges paid by airline passengers"
+      ],
+      "correct_answer": "Money awarded as compensation in a legal case",
+      "explanation_hebrew": "בהקשר משפטי damages הם סכום כסף שנפסק כפיצוי לנפגעים או למשפחתם."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which statement about Ethiopian Airlines Flight 302 is correct?",
+      "difficulty": "B",
+      "options": [
+        "It landed safely in Nairobi after a sensor warning",
+        "It was a cargo flight carrying food to Liberia",
+        "It was the first flight of a newly built airport",
+        "It crashed in 2019 shortly after leaving Addis Ababa, killing 157 people"
+      ],
+      "correct_answer": "It crashed in 2019 shortly after leaving Addis Ababa, killing 157 people",
+      "explanation_hebrew": "טיסה 302 התרסקה זמן קצר לאחר ההמראה מאדיס אבבה במרץ 2019, וכל 157 האנשים שעל סיפונה נהרגו."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the family's lawyers describe the jury verdict as important for accountability?",
+      "difficulty": "B",
+      "options": [
+        "It publicly decided responsibility and compensation instead of ending only in a private settlement",
+        "It allowed the family to redesign the aircraft themselves",
+        "It transferred control of Boeing to the United Nations",
+        "It guaranteed that no aircraft accident could happen again"
+      ],
+      "correct_answer": "It publicly decided responsibility and compensation instead of ending only in a private settlement",
+      "explanation_hebrew": "המשפחה בחרה להגיע להכרעת מושבעים, ולכן האחריות והפיצוי נקבעו בפסק דין פומבי ולא רק בהסדר פרטי."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “unwavering pursuit of justice”, what does “unwavering” mean?",
+      "difficulty": "B",
+      "options": [
+        "Uncertain and frequently changing",
+        "Limited to financial questions",
+        "Steady and determined",
+        "Completed without evidence"
+      ],
+      "correct_answer": "Steady and determined",
+      "explanation_hebrew": "unwavering פירושו יציב ונחוש, בלי לוותר או לסטות מן המטרה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three details from the article that show Michael Ryan's humanitarian work had an international reach.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה פרטים מדויקים על תפקידו או על המדינות והמשברים שבהם פעל.",
+      "expected_points": [
+        "He was an engineer working for the UN World Food Programme",
+        "He worked during the Ebola crisis in Liberia",
+        "He supported work involving Rohingya refugees",
+        "His work also took him to countries including Afghanistan, Sri Lanka, Nepal and Ethiopia",
+        "He was travelling on a flight from Addis Ababa to Nairobi when he died"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the crash, the family's legal action and the outcome of the case.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את מייקל ראיין, התרסקות טיסה 302, התביעה נגד בואינג והפיצוי שנפסק.",
+      "expected_points": [
+        "Michael Ryan was among 157 people killed when Ethiopian Airlines Flight 302 crashed in 2019",
+        "His widow pursued a civil case against Boeing in Chicago",
+        "The case concerned Boeing's responsibility for the 737 Max disaster",
+        "A jury awarded the family $29m in damages",
+        "The family and lawyers presented the verdict as a step toward accountability"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How does the faulty-sensor evidence help explain the pilots' difficulty controlling the aircraft?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את שרשרת הסיבה והתוצאה: חיישן פגום, הפעלת מערכת הבטיחות, מאמצי הטייסים והקושי בשליטה ידנית.",
+      "expected_points": [
+        "A faulty sensor triggered the aircraft's anti-stall system",
+        "The system repeatedly affected the aircraft's flight path",
+        "The pilots tried to disengage the system",
+        "They attempted to keep the plane steady manually",
+        "The evidence linked a technical failure to the loss of control"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, explain two ways a civil trial can provide accountability after a major transport disaster.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג שתי דרכים ולחבר אותן למקרה: בחינת ראיות, קביעה פומבית, פיצוי או לחץ לשיפור בטיחות.",
+      "expected_points": [
+        "A jury can hear and evaluate evidence about a manufacturer's responsibility",
+        "A public verdict can formally recognise harm suffered by victims' families",
+        "Damages can provide financial compensation for loss",
+        "The proceedings can keep safety failures in public view",
+        "A judgment can encourage companies to correct dangerous systems"
+      ]
+    }
+  ]
+}
