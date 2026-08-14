@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-14",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo",
+  "published_at": "2026-08-13T22:00:10+00:00",
+  "age_hours_at_selection": 4.23,
+  "word_count": 1136,
+  "generated_at": "2026-08-14T02:13:47.208375+00:00",
+  "difficulty_reason": "Dense financial analysis with complex sentences, market terminology and economic background; more B2/C1/C2 vocabulary.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "slumped",
+      "lemma": "slump",
+      "level": "B2",
+      "hebrew": "צנח, ירד בחדות",
+      "explanation_hebrew": "ירד בערכו במהירות",
+      "pronunciation_hebrew": "סְלַאמְפְּט",
+      "example": "His investments slumped by a quarter in a month."
+    },
+    {
+      "word": "desperate",
+      "lemma": "desperate",
+      "level": "B2",
+      "hebrew": "נואש",
+      "explanation_hebrew": "במצב קשה מאוד וללא תקווה",
+      "pronunciation_hebrew": "דֶסְפֶּרֶט",
+      "example": "Many investors are now in a desperate situation."
+    },
+    {
+      "word": "instability",
+      "lemma": "instability",
+      "level": "C1",
+      "hebrew": "חוסר יציבות",
+      "explanation_hebrew": "מצב לא יציב ומשתנה",
+      "pronunciation_hebrew": "אִינְסְטַבִּילִיטִי",
+      "example": "The market instability worried many traders."
+    },
+    {
+      "word": "pronounced",
+      "lemma": "pronounced",
+      "level": "C1",
+      "hebrew": "בולט, מובהק",
+      "explanation_hebrew": "ברור וחזק במיוחד",
+      "pronunciation_hebrew": "פְּרוֹנַאוּנְסְט",
+      "example": "Instability is most pronounced in this index."
+    },
+    {
+      "word": "volatile",
+      "lemma": "volatile",
+      "level": "C1",
+      "hebrew": "תנודתי, הפכפך",
+      "explanation_hebrew": "משתנה בחדות ובלתי צפוי",
+      "pronunciation_hebrew": "ווֹלַטַייל",
+      "example": "The Kospi is the world's most volatile index."
+    },
+    {
+      "word": "frenzy",
+      "lemma": "frenzy",
+      "level": "C1",
+      "hebrew": "התלהמות, טירוף",
+      "explanation_hebrew": "פעילות קדחתנית ונרגשת",
+      "pronunciation_hebrew": "פְרֶנְזִי",
+      "example": "A global frenzy around AI drove prices up."
+    },
+    {
+      "word": "corrections",
+      "lemma": "correction",
+      "level": "C1",
+      "hebrew": "תיקונים (ירידות שער)",
+      "explanation_hebrew": "ירידות מחיר אחרי עלייה חדה",
+      "pronunciation_hebrew": "קוֹרֶקְשֶנְז",
+      "example": "The index faced one of its sharpest corrections."
+    },
+    {
+      "word": "comparable",
+      "lemma": "comparable",
+      "level": "B2",
+      "hebrew": "בר השוואה, דומה",
+      "explanation_hebrew": "דומה בגודלו או ערכו",
+      "pronunciation_hebrew": "קוֹמְפַּרַבֶּל",
+      "example": "The drop was comparable to past crises."
+    },
+    {
+      "word": "plunging",
+      "lemma": "plunge",
+      "level": "C1",
+      "hebrew": "צלילה, נפילה חדה",
+      "explanation_hebrew": "ירידה מהירה מאוד",
+      "pronunciation_hebrew": "פְּלַאנְגִ'ינְג",
+      "example": "The index kept plunging within a few weeks."
+    },
+    {
+      "word": "euphoria",
+      "lemma": "euphoria",
+      "level": "C2",
+      "hebrew": "אופוריה",
+      "explanation_hebrew": "תחושת שמחה והתרוממות קיצונית",
+      "pronunciation_hebrew": "יוּפוֹרְיָה",
+      "example": "The rally generated extreme euphoria."
+    },
+    {
+      "word": "leverage",
+      "lemma": "leverage",
+      "level": "C1",
+      "hebrew": "מינוף",
+      "explanation_hebrew": "שימוש בהלוואה כדי להגדיל השקעה",
+      "pronunciation_hebrew": "לֶבֶרִג'",
+      "example": "Investors who used leverage lost the most."
+    },
+    {
+      "word": "borrowing",
+      "lemma": "borrow",
+      "level": "B2",
+      "hebrew": "לווייה, הלוואה",
+      "explanation_hebrew": "לקיחת כסף בהתחייבות להחזירו",
+      "pronunciation_hebrew": "בּוֹרוֹאִינְג",
+      "example": "Leverage is a form of borrowing in markets."
+    },
+    {
+      "word": "broker",
+      "lemma": "broker",
+      "level": "B2",
+      "hebrew": "ברוקר, סוכן",
+      "explanation_hebrew": "מתווך שקונה ומוכר מניות",
+      "pronunciation_hebrew": "בְּרוֹקֶר",
+      "example": "The broker demanded payment of the debt."
+    },
+    {
+      "word": "equivalent",
+      "lemma": "equivalent",
+      "level": "B2",
+      "hebrew": "שווה ערך, מקביל",
+      "explanation_hebrew": "בעל ערך זהה למשהו אחר",
+      "pronunciation_hebrew": "אִיקְוִיבַלֶנְט",
+      "example": "That is equivalent to one in thirty adults."
+    },
+    {
+      "word": "quadrupled",
+      "lemma": "quadruple",
+      "level": "C1",
+      "hebrew": "התארבע, גדל פי ארבעה",
+      "explanation_hebrew": "גדל פי ארבעה",
+      "pronunciation_hebrew": "קְווֹדְרוּפֶּלְד",
+      "example": "The stock quadrupled before losing its gains."
+    },
+    {
+      "word": "rebound",
+      "lemma": "rebound",
+      "level": "C1",
+      "hebrew": "התאוששות, קפיצה חזרה",
+      "explanation_hebrew": "עלייה מחדש אחרי ירידה",
+      "pronunciation_hebrew": "רִיבַּאונְד",
+      "example": "He is holding his shares in hope of a rebound."
+    },
+    {
+      "word": "hesitant",
+      "lemma": "hesitant",
+      "level": "B2",
+      "hebrew": "מהסס",
+      "explanation_hebrew": "לא בטוח וחושש לפעול",
+      "pronunciation_hebrew": "הֶזִיטַנְט",
+      "example": "Recent swings made him hesitant to invest more."
+    },
+    {
+      "word": "rational",
+      "lemma": "rational",
+      "level": "B2",
+      "hebrew": "רציונלי, הגיוני",
+      "explanation_hebrew": "מבוסס על היגיון ולא רגש",
+      "pronunciation_hebrew": "רָאשֶנַל",
+      "example": "The moves do not feel driven by rational reasons."
+    },
+    {
+      "word": "speculation",
+      "lemma": "speculation",
+      "level": "C1",
+      "hebrew": "ספקולציה, הימור פיננסי",
+      "explanation_hebrew": "השקעה מסוכנת בתקווה לרווח מהיר",
+      "pronunciation_hebrew": "סְפֶּקְיוּלֵיישֶן",
+      "example": "She bought into speculation that prices would rise."
+    },
+    {
+      "word": "diversified",
+      "lemma": "diversify",
+      "level": "C1",
+      "hebrew": "מגוון, מפוזר",
+      "explanation_hebrew": "פרוש על השקעות שונות",
+      "pronunciation_hebrew": "דַייבֶרְסִיפַייד",
+      "example": "Traders who diversified suffered smaller losses."
+    },
+    {
+      "word": "portfolios",
+      "lemma": "portfolio",
+      "level": "C1",
+      "hebrew": "תיקי השקעות",
+      "explanation_hebrew": "אוסף ההשקעות של אדם",
+      "pronunciation_hebrew": "פּוֹרְטְפוֹלְיוֹז",
+      "example": "They diversified their portfolios across markets."
+    },
+    {
+      "word": "cushion",
+      "lemma": "cushion",
+      "level": "C1",
+      "hebrew": "לרכך, כרית ביטחון",
+      "explanation_hebrew": "להקטין את עוצמת המכה",
+      "pronunciation_hebrew": "קוּשֶן",
+      "example": "Diversifying helped cushion the blow."
+    },
+    {
+      "word": "rout",
+      "lemma": "rout",
+      "level": "C2",
+      "hebrew": "מפלה, קריסה",
+      "explanation_hebrew": "ירידה חדה וקשה בשוק",
+      "pronunciation_hebrew": "רָאוּט",
+      "example": "The stock market rout hit young investors hard."
+    },
+    {
+      "word": "cautious",
+      "lemma": "cautious",
+      "level": "B2",
+      "hebrew": "זהיר",
+      "explanation_hebrew": "נזהר ולא לוקח סיכונים",
+      "pronunciation_hebrew": "קוֹשֶס",
+      "example": "He should have taken a more cautious approach."
+    },
+    {
+      "word": "volatility",
+      "lemma": "volatility",
+      "level": "C1",
+      "hebrew": "תנודתיות",
+      "explanation_hebrew": "מידת השינויים החדים במחיר",
+      "pronunciation_hebrew": "ווֹלַטִילִיטִי",
+      "example": "Large markets rarely see such volatility."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "slumped",
+      "type": "english_to_hebrew",
+      "question": "What does “slumped” mean?",
+      "options": [
+        "נואש",
+        "צנח, ירד בחדות",
+        "בולט, מובהק",
+        "חוסר יציבות"
+      ],
+      "correct_answer": "צנח, ירד בחדות",
+      "explanation_hebrew": "“slumped” פירושו צנח, ירד בחדות."
+    },
+    {
+      "id": "C-q2",
+      "word": "desperate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נואש”?",
+      "options": [
+        "instability",
+        "volatile",
+        "desperate",
+        "pronounced"
+      ],
+      "correct_answer": "desperate",
+      "explanation_hebrew": "המילה “desperate” פירושה נואש."
+    },
+    {
+      "id": "C-q3",
+      "word": "instability",
+      "type": "english_to_hebrew",
+      "question": "What does “instability” mean?",
+      "options": [
+        "חוסר יציבות",
+        "בולט, מובהק",
+        "תנודתי, הפכפך",
+        "התלהמות, טירוף"
+      ],
+      "correct_answer": "חוסר יציבות",
+      "explanation_hebrew": "“instability” פירושו חוסר יציבות."
+    },
+    {
+      "id": "C-q4",
+      "word": "pronounced",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בולט, מובהק”?",
+      "options": [
+        "volatile",
+        "pronounced",
+        "corrections",
+        "frenzy"
+      ],
+      "correct_answer": "pronounced",
+      "explanation_hebrew": "המילה “pronounced” פירושה בולט, מובהק."
+    },
+    {
+      "id": "C-q5",
+      "word": "volatile",
+      "type": "english_to_hebrew",
+      "question": "What does “volatile” mean?",
+      "options": [
+        "תיקונים (ירידות שער)",
+        "תנודתי, הפכפך",
+        "התלהמות, טירוף",
+        "בר השוואה, דומה"
+      ],
+      "correct_answer": "תנודתי, הפכפך",
+      "explanation_hebrew": "“volatile” פירושו תנודתי, הפכפך."
+    },
+    {
+      "id": "C-q6",
+      "word": "frenzy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התלהמות, טירוף”?",
+      "options": [
+        "plunging",
+        "corrections",
+        "comparable",
+        "frenzy"
+      ],
+      "correct_answer": "frenzy",
+      "explanation_hebrew": "המילה “frenzy” פירושה התלהמות, טירוף."
+    },
+    {
+      "id": "C-q7",
+      "word": "corrections",
+      "type": "english_to_hebrew",
+      "question": "What does “corrections” mean?",
+      "options": [
+        "בר השוואה, דומה",
+        "תיקונים (ירידות שער)",
+        "צלילה, נפילה חדה",
+        "אופוריה"
+      ],
+      "correct_answer": "תיקונים (ירידות שער)",
+      "explanation_hebrew": "“corrections” פירושו תיקונים (ירידות שער)."
+    },
+    {
+      "id": "C-q8",
+      "word": "comparable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בר השוואה, דומה”?",
+      "options": [
+        "euphoria",
+        "plunging",
+        "leverage",
+        "comparable"
+      ],
+      "correct_answer": "comparable",
+      "explanation_hebrew": "המילה “comparable” פירושה בר השוואה, דומה."
+    },
+    {
+      "id": "C-q9",
+      "word": "plunging",
+      "type": "english_to_hebrew",
+      "question": "What does “plunging” mean?",
+      "options": [
+        "לווייה, הלוואה",
+        "אופוריה",
+        "צלילה, נפילה חדה",
+        "מינוף"
+      ],
+      "correct_answer": "צלילה, נפילה חדה",
+      "explanation_hebrew": "“plunging” פירושו צלילה, נפילה חדה."
+    },
+    {
+      "id": "C-q10",
+      "word": "euphoria",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אופוריה”?",
+      "options": [
+        "borrowing",
+        "broker",
+        "leverage",
+        "euphoria"
+      ],
+      "correct_answer": "euphoria",
+      "explanation_hebrew": "המילה “euphoria” פירושה אופוריה."
+    },
+    {
+      "id": "C-q11",
+      "word": "leverage",
+      "type": "english_to_hebrew",
+      "question": "What does “leverage” mean?",
+      "options": [
+        "שווה ערך, מקביל",
+        "ברוקר, סוכן",
+        "לווייה, הלוואה",
+        "מינוף"
+      ],
+      "correct_answer": "מינוף",
+      "explanation_hebrew": "“leverage” פירושו מינוף."
+    },
+    {
+      "id": "C-q12",
+      "word": "borrowing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לווייה, הלוואה”?",
+      "options": [
+        "broker",
+        "borrowing",
+        "quadrupled",
+        "equivalent"
+      ],
+      "correct_answer": "borrowing",
+      "explanation_hebrew": "המילה “borrowing” פירושה לווייה, הלוואה."
+    },
+    {
+      "id": "C-q13",
+      "word": "broker",
+      "type": "english_to_hebrew",
+      "question": "What does “broker” mean?",
+      "options": [
+        "התארבע, גדל פי ארבעה",
+        "התאוששות, קפיצה חזרה",
+        "שווה ערך, מקביל",
+        "ברוקר, סוכן"
+      ],
+      "correct_answer": "ברוקר, סוכן",
+      "explanation_hebrew": "“broker” פירושו ברוקר, סוכן."
+    },
+    {
+      "id": "C-q14",
+      "word": "equivalent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שווה ערך, מקביל”?",
+      "options": [
+        "equivalent",
+        "quadrupled",
+        "hesitant",
+        "rebound"
+      ],
+      "correct_answer": "equivalent",
+      "explanation_hebrew": "המילה “equivalent” פירושה שווה ערך, מקביל."
+    },
+    {
+      "id": "C-q15",
+      "word": "quadrupled",
+      "type": "english_to_hebrew",
+      "question": "What does “quadrupled” mean?",
+      "options": [
+        "התארבע, גדל פי ארבעה",
+        "מהסס",
+        "התאוששות, קפיצה חזרה",
+        "רציונלי, הגיוני"
+      ],
+      "correct_answer": "התארבע, גדל פי ארבעה",
+      "explanation_hebrew": "“quadrupled” פירושו התארבע, גדל פי ארבעה."
+    },
+    {
+      "id": "C-q16",
+      "word": "rebound",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התאוששות, קפיצה חזרה”?",
+      "options": [
+        "rebound",
+        "speculation",
+        "rational",
+        "hesitant"
+      ],
+      "correct_answer": "rebound",
+      "explanation_hebrew": "המילה “rebound” פירושה התאוששות, קפיצה חזרה."
+    },
+    {
+      "id": "C-q17",
+      "word": "hesitant",
+      "type": "english_to_hebrew",
+      "question": "What does “hesitant” mean?",
+      "options": [
+        "רציונלי, הגיוני",
+        "ספקולציה, הימור פיננסי",
+        "מגוון, מפוזר",
+        "מהסס"
+      ],
+      "correct_answer": "מהסס",
+      "explanation_hebrew": "“hesitant” פירושו מהסס."
+    },
+    {
+      "id": "C-q18",
+      "word": "rational",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רציונלי, הגיוני”?",
+      "options": [
+        "diversified",
+        "rational",
+        "portfolios",
+        "speculation"
+      ],
+      "correct_answer": "rational",
+      "explanation_hebrew": "המילה “rational” פירושה רציונלי, הגיוני."
+    },
+    {
+      "id": "C-q19",
+      "word": "speculation",
+      "type": "english_to_hebrew",
+      "question": "What does “speculation” mean?",
+      "options": [
+        "מגוון, מפוזר",
+        "ספקולציה, הימור פיננסי",
+        "תיקי השקעות",
+        "לרכך, כרית ביטחון"
+      ],
+      "correct_answer": "ספקולציה, הימור פיננסי",
+      "explanation_hebrew": "“speculation” פירושו ספקולציה, הימור פיננסי."
+    },
+    {
+      "id": "C-q20",
+      "word": "diversified",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מגוון, מפוזר”?",
+      "options": [
+        "rout",
+        "cushion",
+        "diversified",
+        "portfolios"
+      ],
+      "correct_answer": "diversified",
+      "explanation_hebrew": "המילה “diversified” פירושה מגוון, מפוזר."
+    },
+    {
+      "id": "C-q21",
+      "word": "portfolios",
+      "type": "english_to_hebrew",
+      "question": "What does “portfolios” mean?",
+      "options": [
+        "מפלה, קריסה",
+        "תיקי השקעות",
+        "זהיר",
+        "לרכך, כרית ביטחון"
+      ],
+      "correct_answer": "תיקי השקעות",
+      "explanation_hebrew": "“portfolios” פירושו תיקי השקעות."
+    },
+    {
+      "id": "C-q22",
+      "word": "cushion",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לרכך, כרית ביטחון”?",
+      "options": [
+        "volatility",
+        "cautious",
+        "rout",
+        "cushion"
+      ],
+      "correct_answer": "cushion",
+      "explanation_hebrew": "המילה “cushion” פירושה לרכך, כרית ביטחון."
+    },
+    {
+      "id": "C-q23",
+      "word": "rout",
+      "type": "english_to_hebrew",
+      "question": "What does “rout” mean?",
+      "options": [
+        "מפלה, קריסה",
+        "זהיר",
+        "צנח, ירד בחדות",
+        "תנודתיות"
+      ],
+      "correct_answer": "מפלה, קריסה",
+      "explanation_hebrew": "“rout” פירושו מפלה, קריסה."
+    },
+    {
+      "id": "C-q24",
+      "word": "cautious",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זהיר”?",
+      "options": [
+        "desperate",
+        "slumped",
+        "volatility",
+        "cautious"
+      ],
+      "correct_answer": "cautious",
+      "explanation_hebrew": "המילה “cautious” פירושה זהיר."
+    },
+    {
+      "id": "C-q25",
+      "word": "volatility",
+      "type": "english_to_hebrew",
+      "question": "What does “volatility” mean?",
+      "options": [
+        "תנודתיות",
+        "חוסר יציבות",
+        "נואש",
+        "צנח, ירד בחדות"
+      ],
+      "correct_answer": "תנודתיות",
+      "explanation_hebrew": "“volatility” פירושו תנודתיות."
+    }
+  ]
+}
