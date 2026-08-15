@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-15",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Bella Ramsey: I wish I had been a more rebellious teenager",
+  "article_url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "B",
+      "options": [
+        "Bella Ramsey reflects on being a sensible teenager while discussing their rebellious role in Sunny Dancer",
+        "Bella Ramsey announces that they are leaving acting to become a doctor",
+        "A documentary investigates the history of summer camps",
+        "Sunny Dancer is a film about professional dancing competitions"
+      ],
+      "correct_answer": "Bella Ramsey reflects on being a sensible teenager while discussing their rebellious role in Sunny Dancer",
+      "explanation_hebrew": "הכתבה מחברת בין זיכרונותיה של בלה רמזי כנערה אחראית יחסית לבין דמותה המרדנית יותר בסרט Sunny Dancer."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who does Ramsey play in Sunny Dancer?",
+      "difficulty": "B",
+      "options": [
+        "A film director making a documentary",
+        "Ivy, a 17-year-old cancer survivor sent to a summer camp",
+        "A doctor working in a children's hospital",
+        "A professional dancer preparing for a competition"
+      ],
+      "correct_answer": "Ivy, a 17-year-old cancer survivor sent to a summer camp",
+      "explanation_hebrew": "רמזי מגלמת את אייבי, נערה בת 17 שהחלימה מסרטן ונשלחת למחנה קיץ לצעירים שנפגעו מהמחלה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “rebellious” mean in the headline?",
+      "difficulty": "B",
+      "options": [
+        "Careful about following every rule",
+        "Unable to remember the past",
+        "Willing to resist rules or authority",
+        "Professionally trained as an actor"
+      ],
+      "correct_answer": "Willing to resist rules or authority",
+      "explanation_hebrew": "rebellious מתאר אדם שמוכן למרוד, להתנגד לכללים או לא לציית לסמכות."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Ramsey describe their own teenage behaviour?",
+      "difficulty": "B",
+      "options": [
+        "They were expelled from several schools",
+        "They constantly broke rules at summer camp",
+        "They refused every acting role",
+        "They were generally sensible rather than stereotypically rebellious"
+      ],
+      "correct_answer": "They were generally sensible rather than stereotypically rebellious",
+      "explanation_hebrew": "רמזי אמרה שהייתה נערה הגיונית ואחראית יחסית, ולא הדמות המרדנית הסטריאוטיפית."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Ramsey's reflection create a contrast with the film?",
+      "difficulty": "B",
+      "options": [
+        "Their character gets to explore rule-breaking and teenage rebellion that Ramsey felt they missed",
+        "The film is set before Ramsey was born",
+        "Ramsey plays the parent of every teenager at the camp",
+        "The character refuses to form any friendships"
+      ],
+      "correct_answer": "Their character gets to explore rule-breaking and teenage rebellion that Ramsey felt they missed",
+      "explanation_hebrew": "התפקיד מאפשר לרמזי לגלם חוויה מרדנית יותר מזו שהיא מייחסת לשנות ההתבגרות שלה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “liberating” mean when an experience is described that way?",
+      "difficulty": "B",
+      "options": [
+        "Strictly controlled",
+        "Giving a feeling of freedom",
+        "Causing a medical diagnosis",
+        "Scattered across many scenes"
+      ],
+      "correct_answer": "Giving a feeling of freedom",
+      "explanation_hebrew": "liberating פירושו משחרר — חוויה שנותנת תחושה של חופש ממגבלות או מציפיות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three details about Sunny Dancer that are mentioned in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה פרטים מדויקים על העלילה, הדמות הראשית או אופי הסרט.",
+      "expected_points": [
+        "Bella Ramsey stars as Ivy",
+        "Ivy is 17 years old",
+        "Ivy is a cancer survivor",
+        "Her parents send her to a summer camp for young people affected by cancer",
+        "She initially goes reluctantly",
+        "The story includes friendship, humour and teenage rule-breaking"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Ramsey's comments about their teenage years and explain how they connect to Sunny Dancer.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את רצונה של רמזי להיות מרדנית יותר, את אופייה האחראי בעבר ואת הקשר לדמות אייבי.",
+      "expected_points": [
+        "Ramsey said they wished they had been a more rebellious teenager",
+        "They remembered themselves as comparatively sensible",
+        "Sunny Dancer centres on teenagers who break rules and form bonds",
+        "Ramsey plays Ivy, a 17-year-old cancer survivor",
+        "The role lets Ramsey revisit adolescence from a different perspective"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might humour and rebellious behaviour be important in a film about teenagers affected by cancer?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד המרכיבים האלה מציגים את הדמויות כאנשים שלמים ולא רק כמטופלים, תוך קישור לכתבה.",
+      "expected_points": [
+        "They show that the teenagers have personalities beyond illness",
+        "Humour can exist alongside fear, grief and medical experiences",
+        "Rule-breaking helps the characters claim independence",
+        "Friendship allows the young people to connect through shared experiences",
+        "The approach can avoid a purely tragic or stereotypical portrayal"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, explain two lessons adults could take from Sunny Dancer about supporting teenagers through illness or grief.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג שני לקחים מעשיים ולנמק אותם בעזרת נושאי הסרט והראיון.",
+      "expected_points": [
+        "Listen without minimising young people's feelings",
+        "Allow teenagers room for independence and ordinary experiences",
+        "Provide opportunities to meet peers with similar experiences",
+        "Recognise that humour and joy can accompany grief",
+        "Avoid treating young people only as patients or assuming they are resilient without support"
+      ]
+    }
+  ]
+}

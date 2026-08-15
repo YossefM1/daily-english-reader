@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-15",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Rare breeding bat found roosting near South Yorkshire reservoir",
+  "article_url": "https://www.bbc.co.uk/news/articles/cedjpqx1165o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "A reservoir has been closed because bats damaged it",
+        "A rare Nathusius' pipistrelle was found using a bat box in South Yorkshire",
+        "Scientists have moved every British bat to Yorkshire",
+        "A new species of bird was discovered beside a reservoir"
+      ],
+      "correct_answer": "A rare Nathusius' pipistrelle was found using a bat box in South Yorkshire",
+      "explanation_hebrew": "הכתבה עוסקת בגילוי עטלף נדיר מהמין Nathusius' pipistrelle בתוך תיבת עטלפים ליד מאגר מים בדרום יורקשייר."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was the discovery especially important for South Yorkshire?",
+      "difficulty": "A",
+      "options": [
+        "It was the first known record of this migrant species roosting there",
+        "It proved that the reservoir was more than 2,000 years old",
+        "It was the first bat ever recorded in Britain",
+        "It showed that all 600 bat boxes were occupied"
+      ],
+      "correct_answer": "It was the first known record of this migrant species roosting there",
+      "explanation_hebrew": "זו הייתה העדות הידועה הראשונה לכך שהמין הנודד הזה משתמש באתר לינה בדרום יורקשייר."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “roosting” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "Flying more than 2,000 kilometres",
+        "Hunting insects above water",
+        "Resting or sheltering in a place",
+        "Building an artificial reservoir"
+      ],
+      "correct_answer": "Resting or sheltering in a place",
+      "explanation_hebrew": "roosting מתאר עטלף או ציפור שנחים או שוהים במקום המשמש להם מחסה."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What conservation measure helped produce the discovery?",
+      "difficulty": "A",
+      "options": [
+        "Removing woodland around the reservoir",
+        "Draining the water during summer",
+        "Moving the bats to another country",
+        "Installing and monitoring bat boxes"
+      ],
+      "correct_answer": "Installing and monitoring bat boxes",
+      "explanation_hebrew": "העטלף נמצא במסגרת התקנה וניטור של תיבות עטלפים שנועדו לספק מקומות לינה מתאימים."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do ecologists regard the discovery as encouraging?",
+      "difficulty": "A",
+      "options": [
+        "It suggests that habitat measures are being used by a rare species",
+        "It means acoustic surveys are no longer necessary",
+        "It proves every migrant bat will breed in Yorkshire",
+        "It allows the team to stop protecting woodland"
+      ],
+      "correct_answer": "It suggests that habitat measures are being used by a rare species",
+      "explanation_hebrew": "השימוש של מין נדיר בתיבה מעיד שאמצעי השימור עשויים לספק בית גידול מועיל."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “mimic” mean when bat boxes mimic natural roosting places?",
+      "difficulty": "A",
+      "options": [
+        "Measure precisely",
+        "Copy or imitate",
+        "Fund completely",
+        "Reveal by sound"
+      ],
+      "correct_answer": "Copy or imitate",
+      "explanation_hebrew": "mimic פירושו לחקות; התיבות נבנו כדי לדמות מקומות מחסה טבעיים של עטלפים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three details showing why the Nathusius' pipistrelle discovery was unusual or significant.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה פרטים מדויקים מן הכתבה על המין, המקום או משמעות הגילוי.",
+      "expected_points": [
+        "The species is rare",
+        "It is a migrant bat",
+        "It was found roosting in woodland near a South Yorkshire reservoir",
+        "It was the first known record of the species roosting in South Yorkshire",
+        "The species can travel more than 2,000 km to reach the UK"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the discovery, the conservation work that led to it and the next step planned by the team.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את מין העטלף, תיבת העטלפים, עבודת הניטור ותוכניות המעקב העתידיות.",
+      "expected_points": [
+        "A Nathusius' pipistrelle was discovered in a bat box near a reservoir",
+        "Yorkshire Water had installed hundreds of boxes to provide roosting habitat",
+        "The boxes were monitored with regional conservation partners",
+        "The find was the first known South Yorkshire roost record for the migrant species",
+        "The biodiversity team plans acoustic surveys across Yorkshire"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why are reservoirs and nearby woodland useful places for bat conservation and monitoring?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד מים, יער ומקומות מחסה יכולים לתמוך בעטלפים וכיצד הניטור מסייע לשימור.",
+      "expected_points": [
+        "Reservoir areas can provide feeding habitat and water",
+        "Woodland offers shelter and natural roosting opportunities",
+        "Bat boxes add suitable places to rest when natural sites are limited",
+        "Monitoring can reveal the presence of rare or migrant species",
+        "Repeated surveys help conservationists understand movement and habitat use"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, explain two ways an organisation can help rare bat populations thrive.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציע שתי פעולות ולנמק כיצד כל אחת תומכת בעטלפים או משפרת את הידע עליהם.",
+      "expected_points": [
+        "Install boxes that mimic natural roosting sites",
+        "Protect or enhance woodland and reservoir habitats",
+        "Monitor boxes regularly with trained ecologists",
+        "Use acoustic surveys to track bats across a wider area",
+        "Work with regional conservation groups and fund long-term measures"
+      ]
+    }
+  ]
+}

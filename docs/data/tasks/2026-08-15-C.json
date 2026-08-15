@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-15",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+  "article_url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central message?",
+      "difficulty": "C",
+      "options": [
+        "Afghan women's daily lives and rights have been transformed by severe restrictions during five years of Taliban rule",
+        "Afghanistan has introduced equal access to education and employment",
+        "Women interviewed by the BBC said their lives had changed very little",
+        "The article focuses only on military events outside Afghanistan"
+      ],
+      "correct_answer": "Afghan women's daily lives and rights have been transformed by severe restrictions during five years of Taliban rule",
+      "explanation_hebrew": "הכתבה מביאה עדויות של נשים שחייהן וזכויותיהן השתנו באופן קיצוני בעקבות מגבלות הטליבאן."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which restriction is described in the article?",
+      "difficulty": "C",
+      "options": [
+        "Girls and women receive free university education",
+        "Girls are barred from secondary and higher education",
+        "Women may travel anywhere without conditions",
+        "All former female employees have returned to work"
+      ],
+      "correct_answer": "Girls are barred from secondary and higher education",
+      "explanation_hebrew": "הכתבה מתארת את האיסור על לימודי בנות בחינוך העל־יסודי ועל לימודי נשים באוניברסיטאות."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “barred” mean in the context of girls and education?",
+      "difficulty": "C",
+      "options": [
+        "Given financial support",
+        "Invited to participate",
+        "Prevented or prohibited",
+        "Asked to teach younger students"
+      ],
+      "correct_answer": "Prevented or prohibited",
+      "explanation_hebrew": "barred פירושו שנמנעה מהן האפשרות או שנאסר עליהן להשתתף."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did some women speak cautiously or anonymously to the BBC?",
+      "difficulty": "C",
+      "options": [
+        "They feared reprisals for criticising the authorities",
+        "They could not remember events before 2021",
+        "They were preparing to join the government",
+        "They wanted to advertise private businesses"
+      ],
+      "correct_answer": "They feared reprisals for criticising the authorities",
+      "explanation_hebrew": "נשים חששו מתגובות ענישה אם זהותן או ביקורתן על השלטון ייחשפו."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "How can restrictions on female education also damage healthcare over time?",
+      "difficulty": "C",
+      "options": [
+        "They immediately increase the number of trained female doctors",
+        "They make hospitals unnecessary",
+        "They reduce the future supply of trained women in a society where female patients may need female staff",
+        "They guarantee lower maternal mortality"
+      ],
+      "correct_answer": "They reduce the future supply of trained women in a society where female patients may need female staff",
+      "explanation_hebrew": "כאשר נערות ונשים אינן יכולות ללמוד, מספר הרופאות ואנשי המקצוע בעתיד מצטמצם, דווקא כשנשים מתקשות לקבל טיפול מגברים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “eroding” mean when the article says rights are being eroded?",
+      "difficulty": "C",
+      "options": [
+        "Gradually weakened or taken away",
+        "Officially celebrated",
+        "Quickly translated",
+        "Protected by a coalition"
+      ],
+      "correct_answer": "Gradually weakened or taken away",
+      "explanation_hebrew": "eroding מתאר תהליך הדרגתי של שחיקה והחלשה של זכויות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify three ways Taliban rules have restricted the daily lives of Afghan women and girls.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלוש מגבלות קונקרטיות המתוארות בכתבה.",
+      "expected_points": [
+        "Girls are barred from secondary education",
+        "Women are excluded from higher education",
+        "Many women are restricted from employment or public life",
+        "Travel may require a male chaperone",
+        "Access to healthcare has become harder",
+        "Rules constrain clothing, movement and public participation"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how five years of Taliban rule have affected Afghan women, using social and economic examples from the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול זכויות, חינוך או עבודה, חופש תנועה, עוני ובריאות, וכן את קולות הנשים המרואיינות.",
+      "expected_points": [
+        "Women described their former lives as unrecognisable",
+        "Education and employment opportunities have been sharply reduced",
+        "Movement and participation in public life are restricted",
+        "Poverty and economic hardship have intensified the pressure on families",
+        "Healthcare access and maternal health are threatened",
+        "Women continue to call for rights and international solidarity"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can restrictions on work and movement deepen poverty for an entire family, not only for women?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את שרשרת הסיבה והתוצאה בין אובדן הכנסה, הגבלת תנועה, תלות כלכלית והישרדות המשפחה.",
+      "expected_points": [
+        "A household loses potential income when women cannot work",
+        "Movement rules make it harder to reach jobs, markets or services",
+        "Families become more dependent on fewer earners",
+        "Economic pressure can force harmful survival choices",
+        "Poverty also reduces access to food, education and healthcare"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, explain three actions the international community could take to support Afghan women without ignoring the risks they face.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע שלוש פעולות מבוססות כתבה ולהתייחס לבטיחות, חינוך, בריאות, סיוע או השמעת קולן של נשים.",
+      "expected_points": [
+        "Fund safe education opportunities for girls and women",
+        "Support women-led aid and healthcare organisations",
+        "Protect the identities and security of women who speak out",
+        "Include Afghan women in decisions about their country's future",
+        "Maintain humanitarian assistance for families facing poverty",
+        "Press for the removal of restrictions while monitoring possible reprisals"
+      ]
+    }
+  ]
+}
