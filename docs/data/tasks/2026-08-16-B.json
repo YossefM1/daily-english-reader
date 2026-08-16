@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-16",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+  "article_url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "B",
+      "options": [
+        "The BBC wants testimony and documents from members of Donald Trump's family while defending a defamation lawsuit",
+        "Donald Trump has agreed to present a new BBC programme",
+        "A congressional committee has taken control of Panorama",
+        "The BBC has asked the court to cancel all documentary editing"
+      ],
+      "correct_answer": "The BBC wants testimony and documents from members of Donald Trump's family while defending a defamation lawsuit",
+      "explanation_hebrew": "הכתבה מתמקדת בניסיון ה־BBC לזמן בני משפחה של טראמפ למסירת עדות ומסמכים במסגרת הגנתו בתביעת דיבה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which three people did the BBC's legal team try to subpoena?",
+      "difficulty": "B",
+      "options": [
+        "Melania Trump, Eric Trump and JD Vance",
+        "Donald Trump Jr, Ivanka Trump and Jared Kushner",
+        "Joe Biden, Kamala Harris and Nancy Pelosi",
+        "The Panorama presenter and two BBC editors"
+      ],
+      "correct_answer": "Donald Trump Jr, Ivanka Trump and Jared Kushner",
+      "explanation_hebrew": "צוות ה־BBC ניסה לזמן את דונלד טראמפ ג'וניור, איוונקה טראמפ וג'ארד קושנר."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “subpoena”?",
+      "difficulty": "B",
+      "options": [
+        "A public apology from a broadcaster",
+        "A television editing technique",
+        "A legal order requiring testimony or documents",
+        "A request to dismiss a programme"
+      ],
+      "correct_answer": "A legal order requiring testimony or documents",
+      "explanation_hebrew": "subpoena הוא צו משפטי המחייב אדם למסור עדות או להציג מסמכים."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is Trump's defamation claim connected to?",
+      "difficulty": "B",
+      "options": [
+        "A Panorama episode that joined two parts of his speech before the 6 January 2021 Capitol riot",
+        "A BBC interview with Jared Kushner about business",
+        "A report on the 2026 congressional elections",
+        "A live broadcast of a court deposition"
+      ],
+      "correct_answer": "A Panorama episode that joined two parts of his speech before the 6 January 2021 Capitol riot",
+      "explanation_hebrew": "התביעה קשורה לפרק Panorama שחיבר בעריכה שני קטעים שונים מנאומו של טראמפ לפני אירועי הקפיטול."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do the BBC's lawyers say the family members' evidence is relevant?",
+      "difficulty": "B",
+      "options": [
+        "They may have personal knowledge of Trump's intentions and of how the speech or a later statement was prepared",
+        "They own the Panorama programme",
+        "They decided the legal meaning of defamation",
+        "They were the only people who watched the episode"
+      ],
+      "correct_answer": "They may have personal knowledge of Trump's intentions and of how the speech or a later statement was prepared",
+      "explanation_hebrew": "לטענת עורכי הדין, בני המשפחה היו מעורבים או נוכחים בזמן ניסוח הנאום והתגובה ולכן עשויים לדעת מה היו כוונותיו."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “defamation” mean in this legal dispute?",
+      "difficulty": "B",
+      "options": [
+        "A failure to comply with a subpoena",
+        "Damage to a person's reputation through a false statement",
+        "A revision made to a political speech",
+        "A penalty for refusing certified mail"
+      ],
+      "correct_answer": "Damage to a person's reputation through a false statement",
+      "explanation_hebrew": "defamation היא פגיעה בשם הטוב באמצעות טענה שקרית או מטעה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three details explaining why the BBC wants evidence from Donald Trump Jr, Ivanka Trump and Jared Kushner.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה פרטים מן ההגשה המשפטית על נוכחותם, ידיעתם או מעורבותם בנאום ובתגובה אליו.",
+      "expected_points": [
+        "The BBC argues that they have personal knowledge of Trump's intentions",
+        "Donald Trump Jr and Ivanka Trump were present when their father revised and delivered the speech",
+        "Jared Kushner drafted a proposed statement",
+        "The proposed statement would have condemned violence",
+        "Their documents and testimony may be relevant to the defamation claim"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the lawsuit, the BBC's response and its attempt to obtain evidence.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את סכום התביעה, עריכת Panorama, עמדת ה־BBC, בני המשפחה והבקשה לזימון.",
+      "expected_points": [
+        "Trump is suing the BBC for $10bn over a Panorama edit",
+        "The programme combined two different parts of his pre-Capitol-riot speech",
+        "The BBC apologised for the edit but denied that it amounted to defamation",
+        "BBC lawyers sought documents and testimony from three family members",
+        "They asked to serve the subpoenas by email and certified mail after personal service attempts failed"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is the distinction between apologising for an edit and accepting legal liability important in this case?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שהתנצלות מכירה בטעות, אך תביעת דיבה מחייבת עמידה בקריטריונים משפטיים נוספים.",
+      "expected_points": [
+        "The BBC accepted that the edit was wrong enough to merit an apology",
+        "It did not accept that the edit legally defamed Trump",
+        "Defamation requires legal criteria beyond proving that an editing error occurred",
+        "The court must decide questions such as falsity, harm and responsibility",
+        "An apology does not automatically settle a damages claim"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, explain two reasons a court might allow the subpoenas and one reason it might limit them.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג שני נימוקים בעד ונימוק אחד להגבלה, תוך התייחסות לרלוונטיות, היקף, הטרדה או נטל משפטי.",
+      "expected_points": [
+        "The witnesses may have first-hand knowledge of Trump's intentions",
+        "Their documents may clarify how the speech and proposed response were prepared",
+        "The evidence could be relevant to liability or damages",
+        "A court may limit requests that are too broad or unrelated",
+        "A court may prevent subpoenas used mainly to burden or harass non-parties"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-16",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Australian state to begin gun buyback after Bondi Beach attack",
+  "article_url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "New South Wales will begin a gun buyback as part of reforms introduced after the Bondi Beach attack",
+        "Australia has removed every restriction on gun ownership",
+        "New South Wales will give free firearms to licensed owners",
+        "The Bondi Beach attack led to changes in beach safety rules"
+      ],
+      "correct_answer": "New South Wales will begin a gun buyback as part of reforms introduced after the Bondi Beach attack",
+      "explanation_hebrew": "הכתבה עוסקת בתוכנית רכישת הנשק בחזרה בניו סאות' ויילס, כחלק מרפורמות שנקבעו לאחר הפיגוע בבונדי ביץ'."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When is the first phase of the New South Wales buyback due to begin?",
+      "difficulty": "A",
+      "options": [
+        "Immediately after the announcement",
+        "On 2 November 2026",
+        "At the end of 2027",
+        "On the anniversary of the 1996 Port Arthur attack"
+      ],
+      "correct_answer": "On 2 November 2026",
+      "explanation_hebrew": "השלב הראשון של התוכנית אמור להתחיל ב־2 בנובמבר 2026."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “eligible” mean when the article refers to eligible firearms?",
+      "difficulty": "A",
+      "options": [
+        "Already destroyed by police",
+        "Manufactured outside Australia",
+        "Meeting the conditions for the scheme",
+        "Owned without any licence"
+      ],
+      "correct_answer": "Meeting the conditions for the scheme",
+      "explanation_hebrew": "eligible פירושו עומד בתנאים שנקבעו להשתתפות בתוכנית או לקבלת פיצוי."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What will owners receive for firearms accepted by the scheme?",
+      "difficulty": "A",
+      "options": [
+        "A new gun licence lasting ten years",
+        "A replacement weapon of the same type",
+        "Free ammunition from the state",
+        "Financial compensation when they surrender the firearms"
+      ],
+      "correct_answer": "Financial compensation when they surrender the firearms",
+      "explanation_hebrew": "בעלי הנשק הזכאים יקבלו פיצוי כספי כאשר ימסרו את כלי הירייה במסגרת התוכנית."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is the buyback being introduced in phases?",
+      "difficulty": "A",
+      "options": [
+        "Common firearms can follow a fixed schedule first, while higher-value cases need a later valuation process",
+        "The government plans to return all surrendered guns after phase one",
+        "Only people living outside New South Wales can join phase two",
+        "Each firearm must remain with its owner for several years"
+      ],
+      "correct_answer": "Common firearms can follow a fixed schedule first, while higher-value cases need a later valuation process",
+      "explanation_hebrew": "השלב הראשון משתמש במחירים קבועים לכלי נשק נפוצים, ואילו כלי נשק יקרים יותר דורשים מסלול הערכה ופיצוי נפרד."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “sweeping reforms” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "Small temporary changes",
+        "Wide-ranging changes affecting many parts of the system",
+        "Rules applying only to one gun dealer",
+        "Payments made with no legal changes"
+      ],
+      "correct_answer": "Wide-ranging changes affecting many parts of the system",
+      "explanation_hebrew": "sweeping מתאר שינויים מקיפים ורחבי היקף, ולא תיקון קטן או נקודתי."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three features of the New South Wales gun buyback or the related firearm reforms.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה פרטים מדויקים על הזכאות, הפיצוי, השלבים או מגבלות הבעלות.",
+      "expected_points": [
+        "Phase one begins on 2 November 2026",
+        "Eligible owners will be compensated for surrendered firearms",
+        "Phase one uses fixed payments for common types of firearms",
+        "Phase two will cover eligible higher-value firearms",
+        "Compensation for a higher-value firearm is capped at A$10,000",
+        "The reforms limit the number and types of firearms an individual may own",
+        "Licence periods are reduced from five years to two"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why the scheme was introduced, how it will operate and what the government hopes it will achieve.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את הפיגוע בבונדי, מסירת כלי הנשק תמורת פיצוי, יישום בשלבים ומטרת הבטיחות.",
+      "expected_points": [
+        "The scheme follows the deadly Bondi Beach attack of December 2025",
+        "New South Wales tightened its firearm laws after the attack",
+        "Owners affected by new limits or classifications can surrender eligible firearms",
+        "The programme will pay compensation in two phases",
+        "The authorities want surrendered weapons safely destroyed and firearm risk reduced"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the scheme include support for gun dealers and other affected businesses?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד שינויי החוק ותוכנית הרכישה עלולים להשפיע כלכלית על עסקים ומדוע נדרש סיוע בתקופת המעבר.",
+      "expected_points": [
+        "Dealers may hold stock affected by the new rules",
+        "Lower permitted ownership can reduce sales and demand",
+        "Businesses need time and advice to adjust to the reforms",
+        "Grants and licence-fee relief can reduce transition costs",
+        "Support may improve practical compliance with the programme"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, explain two possible benefits and one possible concern about a large gun buyback.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג שני יתרונות וחשש אחד, ולבסס אותם על פרטי הכתבה בלי לחרוג לטענות שאינן נתמכות.",
+      "expected_points": [
+        "It can remove firearms that exceed new legal limits",
+        "Surrendered weapons can be safely destroyed",
+        "Compensation can encourage licensed owners to comply",
+        "The scheme may strengthen public safety after a deadly attack",
+        "A concern is the cost of compensation and administration",
+        "Some lawful owners or businesses may feel unfairly affected"
+      ]
+    }
+  ]
+}

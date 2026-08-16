@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-16",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "The influencers getting bitten chasing the perfect shark shot",
+  "article_url": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central message?",
+      "difficulty": "C",
+      "options": [
+        "Sharks have suddenly become the main cause of ocean deaths",
+        "Social-media creators seeking close shark footage can create risks for themselves, the animals and conservation",
+        "All shark tourism has been banned worldwide",
+        "Experts say touching large sharks is safe when filmed"
+      ],
+      "correct_answer": "Social-media creators seeking close shark footage can create risks for themselves, the animals and conservation",
+      "explanation_hebrew": "הכתבה בוחנת כיצד המרדף אחר צילום דרמטי מקרוב עלול לסכן משפיענים, לעורר אינטראקציות מסוכנות ולפגוע בשימור הכרישים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was Henry Gibbs doing when a grey reef shark bit him in Fiji?",
+      "difficulty": "C",
+      "options": [
+        "Guiding a boat tour",
+        "Spearfishing",
+        "Filming from a beach",
+        "Studying sharks in a laboratory"
+      ],
+      "correct_answer": "Spearfishing",
+      "explanation_hebrew": "הנרי גיבס עסק בציד דגים בחנית מתחת למים בפיג'י כאשר כריש שונית אפור נשך את רגלו."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “provoke” mean in the discussion of shark interactions?",
+      "difficulty": "C",
+      "options": [
+        "To cause or encourage a reaction",
+        "To record an animal from a safe distance",
+        "To protect a shark habitat",
+        "To measure an animal's hormones"
+      ],
+      "correct_answer": "To cause or encourage a reaction",
+      "explanation_hebrew": "provoke פירושו לעורר תגובה, למשל באמצעות מגע, האכלה או התקרבות לא מתאימה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was Tayane Dalazen's bite described as unusual?",
+      "difficulty": "C",
+      "options": [
+        "It happened in a swimming pool",
+        "The incident was not recorded",
+        "She was bitten by a nurse shark, a species generally regarded as docile",
+        "The shark was being treated in a hospital"
+      ],
+      "correct_answer": "She was bitten by a nurse shark, a species generally regarded as docile",
+      "explanation_hebrew": "דלזן ננשכה בידי כריש אחות, מין שנחשב בדרך כלל רגוע ולא תוקפני."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can spearfishing raise the risk of an encounter with sharks?",
+      "difficulty": "C",
+      "options": [
+        "Blood, struggling fish and activity in the water can attract or excite predators",
+        "It prevents sharks from detecting movement",
+        "It makes every shark leave the area",
+        "It removes all food from the ocean"
+      ],
+      "correct_answer": "Blood, struggling fish and activity in the water can attract or excite predators",
+      "explanation_hebrew": "דג פצוע, דם ותנועה במים עלולים למשוך כרישים או להגביר את עוררותם ליד הצולל."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is an “exploratory” shark bite?",
+      "difficulty": "C",
+      "options": [
+        "A bite used to examine an unfamiliar object rather than necessarily to hunt it",
+        "A bite that always causes death",
+        "An attack ordered by a tour operator",
+        "A feeding method used only by whale sharks"
+      ],
+      "correct_answer": "A bite used to examine an unfamiliar object rather than necessarily to hunt it",
+      "explanation_hebrew": "exploratory מתאר נשיכה שבאמצעותה הכריש בוחן דבר לא מוכר, ולא בהכרח ניסיון לטרוף אדם."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the two shark-bite incidents involving Henry Gibbs and Tayane Dalazen using three details.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשוות בשלושה פרטים לפחות: מקום, מין הכריש, הפעילות, חומרת הפציעה או הטיפול.",
+      "expected_points": [
+        "Gibbs was spearfishing in Fiji",
+        "A grey reef shark bit Gibbs on the leg",
+        "He needed four operations and a skin graft",
+        "Dalazen was snorkelling or freediving in Brazil's Fernando de Noronha archipelago",
+        "A nurse shark clamped onto Dalazen's thigh",
+        "Dalazen's injuries were much less severe",
+        "Both incidents were captured or shared as online footage"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how social-media behaviour, shark biology and conservation concerns are connected in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לקשר בין צילום מקרוב, התנהגות משפיענים, תגובות הכרישים, פציעות והשלכות על שימור.",
+      "expected_points": [
+        "Creators may seek unusually close or dramatic footage for online audiences",
+        "Some people touch, feed or otherwise approach sharks too closely",
+        "Even species seen as docile remain wild predators capable of biting",
+        "Some bites may be defensive or exploratory rather than predatory",
+        "Sensational footage can reinforce fear and damage conservation efforts",
+        "Responsible distance protects both people and sharks"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might viral bite footage harm shark conservation even when the creator says the animal was not to blame?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר כיצד תמונות דרמטיות משפיעות על תפיסת הציבור ועל תמיכה בצעדי שימור, גם כשהכיתוב מאוזן.",
+      "expected_points": [
+        "Viewers may remember frightening images more strongly than the explanation",
+        "The footage can reinforce the idea that sharks are deliberate human hunters",
+        "Fear can reduce public support for protecting sharks and their habitats",
+        "Repeated risky interactions can normalise provoking wildlife",
+        "The context of feeding, spearfishing or close contact may be lost when clips are shared"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Based on the article, propose three rules for creators who want to film sharks responsibly.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע שלושה כללים מעשיים ולנמק אותם לפי הסיכונים לאדם, לכריש ולשימור.",
+      "expected_points": [
+        "Keep an appropriate distance and follow trained guides",
+        "Do not touch, chase, feed or provoke sharks for footage",
+        "End the dive if a shark becomes agitated or changes behaviour",
+        "Avoid spearfishing or keeping injured fish near sharks",
+        "Do not assume a small or usually docile species is harmless",
+        "Explain the context accurately instead of presenting every bite as an unprovoked hunt",
+        "Put safety and conservation ahead of dramatic content"
+      ]
+    }
+  ]
+}
