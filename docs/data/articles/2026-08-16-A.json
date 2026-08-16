@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-16",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Australian state to begin gun buyback after Bondi Beach attack",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-08-15T21:41:43+00:00",
+  "age_hours_at_selection": 4.51,
+  "word_count": 376,
+  "generated_at": "2026-08-16T02:12:13.237009+00:00",
+  "difficulty_reason": "Short, direct news report with a clear single story and mostly B1/B2 vocabulary; low background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "populous",
+      "lemma": "populous",
+      "level": "B2",
+      "hebrew": "מאוכלס בצפיפות",
+      "explanation_hebrew": "מקום שבו חיים אנשים רבים",
+      "pronunciation_hebrew": "פּוֹפְּיוּלֶס",
+      "example": "China is a very populous country."
+    },
+    {
+      "word": "scheme",
+      "lemma": "scheme",
+      "level": "B1",
+      "hebrew": "תוכנית / מיזם",
+      "explanation_hebrew": "תוכנית מאורגנת לעשיית משהו",
+      "pronunciation_hebrew": "סְקִים",
+      "example": "The government launched a new scheme to help students."
+    },
+    {
+      "word": "firearms",
+      "lemma": "firearm",
+      "level": "B2",
+      "hebrew": "כלי ירייה",
+      "explanation_hebrew": "נשק שיורים ממנו כמו רובה או אקדח",
+      "pronunciation_hebrew": "פַײֶראַרְמְז",
+      "example": "The sale of firearms is strictly controlled."
+    },
+    {
+      "word": "eligible",
+      "lemma": "eligible",
+      "level": "B2",
+      "hebrew": "זכאי / כשיר",
+      "explanation_hebrew": "מי שעומד בתנאים לקבל משהו",
+      "pronunciation_hebrew": "אֶלִיגֶ׳בֶּל",
+      "example": "Only eligible citizens can vote."
+    },
+    {
+      "word": "pledged",
+      "lemma": "pledge",
+      "level": "B2",
+      "hebrew": "התחייב / הבטיח",
+      "explanation_hebrew": "נתן הבטחה רשמית לעשות משהו",
+      "pronunciation_hebrew": "פְּלֶגְ׳ד",
+      "example": "They pledged to reduce pollution."
+    },
+    {
+      "word": "sweeping",
+      "lemma": "sweeping",
+      "level": "C1",
+      "hebrew": "מקיף / גורף",
+      "explanation_hebrew": "נרחב מאוד ומשפיע על הרבה דברים",
+      "pronunciation_hebrew": "סְוִויפִּינְג",
+      "example": "The company made sweeping changes to its policy."
+    },
+    {
+      "word": "reforms",
+      "lemma": "reform",
+      "level": "B2",
+      "hebrew": "רפורמות / שינויים",
+      "explanation_hebrew": "שינויים שמטרתם לשפר מערכת",
+      "pronunciation_hebrew": "רִיפוֹרְמְז",
+      "example": "Economic reforms improved the country."
+    },
+    {
+      "word": "premier",
+      "lemma": "premier",
+      "level": "B2",
+      "hebrew": "ראש ממשלה (של מדינה/מחוז)",
+      "explanation_hebrew": "המנהיג הפוליטי הבכיר",
+      "pronunciation_hebrew": "פְּרֶמְיֶר",
+      "example": "The premier announced new rules."
+    },
+    {
+      "word": "compensated",
+      "lemma": "compensate",
+      "level": "B2",
+      "hebrew": "פוצה / קיבל פיצוי",
+      "explanation_hebrew": "קיבל תשלום תמורת אובדן או נזק",
+      "pronunciation_hebrew": "קוֹמְפֶּנְסֵייטֶד",
+      "example": "Workers were compensated for their extra hours."
+    },
+    {
+      "word": "surrendered",
+      "lemma": "surrender",
+      "level": "B2",
+      "hebrew": "נמסר / הוסגר",
+      "explanation_hebrew": "נמסר לרשות מרצון",
+      "pronunciation_hebrew": "סָרֶנְדֶרְד",
+      "example": "The soldiers surrendered their weapons."
+    },
+    {
+      "word": "ownership",
+      "lemma": "ownership",
+      "level": "B1",
+      "hebrew": "בעלות",
+      "explanation_hebrew": "המצב של להיות בעלים של משהו",
+      "pronunciation_hebrew": "אוֹנֶרְשִׁיפּ",
+      "example": "Car ownership is expensive in cities."
+    },
+    {
+      "word": "individuals",
+      "lemma": "individual",
+      "level": "B1",
+      "hebrew": "יחידים / אנשים פרטיים",
+      "explanation_hebrew": "בני אדם בודדים",
+      "pronunciation_hebrew": "אִינְדִיבִידְ׳וּאַלְז",
+      "example": "Certain individuals broke the rules."
+    },
+    {
+      "word": "permitted",
+      "lemma": "permit",
+      "level": "B1",
+      "hebrew": "מותר / הותר",
+      "explanation_hebrew": "שניתן עליו אישור",
+      "pronunciation_hebrew": "פֶּרְמִיטֶד",
+      "example": "Smoking is not permitted here."
+    },
+    {
+      "word": "weapons",
+      "lemma": "weapon",
+      "level": "B1",
+      "hebrew": "כלי נשק",
+      "explanation_hebrew": "חפצים המשמשים לתקיפה או הגנה",
+      "pronunciation_hebrew": "וֶפֶּנְז",
+      "example": "The police found hidden weapons."
+    },
+    {
+      "word": "licence",
+      "lemma": "licence",
+      "level": "B1",
+      "hebrew": "רישיון",
+      "explanation_hebrew": "אישור רשמי לעשות או להחזיק משהו",
+      "pronunciation_hebrew": "לַייסֶנְס",
+      "example": "You need a licence to drive."
+    },
+    {
+      "word": "reduced",
+      "lemma": "reduce",
+      "level": "B1",
+      "hebrew": "הופחת / צומצם",
+      "explanation_hebrew": "נעשה קטן או פחות",
+      "pronunciation_hebrew": "רִידְיוּסְד",
+      "example": "Prices were reduced last week."
+    },
+    {
+      "word": "implemented",
+      "lemma": "implement",
+      "level": "B2",
+      "hebrew": "יושם / הוצא לפועל",
+      "explanation_hebrew": "הופעל בפועל",
+      "pronunciation_hebrew": "אִימְפְּלֶמֶנְטֶד",
+      "example": "The new law was implemented last month."
+    },
+    {
+      "word": "phases",
+      "lemma": "phase",
+      "level": "B1",
+      "hebrew": "שלבים",
+      "explanation_hebrew": "חלקים נפרדים בתהליך",
+      "pronunciation_hebrew": "פֵייזֶז",
+      "example": "The project has three phases."
+    },
+    {
+      "word": "revolver",
+      "lemma": "revolver",
+      "level": "B2",
+      "hebrew": "אקדח תופי",
+      "explanation_hebrew": "אקדח קטן עם תוף כדורים מסתובב",
+      "pronunciation_hebrew": "רִיווֹלְבֶר",
+      "example": "The old revolver held six bullets."
+    },
+    {
+      "word": "valued",
+      "lemma": "value",
+      "level": "B2",
+      "hebrew": "מוערך (בשווי)",
+      "explanation_hebrew": "נאמד בסכום כספי מסוים",
+      "pronunciation_hebrew": "וַלְיוּד",
+      "example": "The painting is valued at a million dollars."
+    },
+    {
+      "word": "capped",
+      "lemma": "cap",
+      "level": "C1",
+      "hebrew": "הוגבל בתקרה",
+      "explanation_hebrew": "הוגבל למקסימום מסוים",
+      "pronunciation_hebrew": "קַפְּט",
+      "example": "Spending was capped at $500."
+    },
+    {
+      "word": "funded",
+      "lemma": "fund",
+      "level": "B2",
+      "hebrew": "מומן",
+      "explanation_hebrew": "קיבל כסף למימון",
+      "pronunciation_hebrew": "פַנְדֶד",
+      "example": "The research was funded by the state."
+    },
+    {
+      "word": "adjust",
+      "lemma": "adjust",
+      "level": "B1",
+      "hebrew": "להסתגל / להתאים",
+      "explanation_hebrew": "לשנות כדי להתאים למצב חדש",
+      "pronunciation_hebrew": "אַגַ׳סְט",
+      "example": "It takes time to adjust to a new job."
+    },
+    {
+      "word": "meaningful",
+      "lemma": "meaningful",
+      "level": "B2",
+      "hebrew": "משמעותי",
+      "explanation_hebrew": "בעל ערך או חשיבות אמיתיים",
+      "pronunciation_hebrew": "מִינִינְגְפוּל",
+      "example": "They had a meaningful conversation."
+    },
+    {
+      "word": "nationwide",
+      "lemma": "nationwide",
+      "level": "B2",
+      "hebrew": "ארצי / כלל-ארצי",
+      "explanation_hebrew": "בכל רחבי המדינה",
+      "pronunciation_hebrew": "נֵיישֶׁנְוַייד",
+      "example": "The store offers nationwide delivery."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "populous",
+      "type": "english_to_hebrew",
+      "question": "What does “populous” mean?",
+      "options": [
+        "מאוכלס בצפיפות",
+        "זכאי / כשיר",
+        "תוכנית / מיזם",
+        "כלי ירייה"
+      ],
+      "correct_answer": "מאוכלס בצפיפות",
+      "explanation_hebrew": "“populous” פירושו מאוכלס בצפיפות."
+    },
+    {
+      "id": "A-q2",
+      "word": "scheme",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תוכנית / מיזם”?",
+      "options": [
+        "scheme",
+        "firearms",
+        "eligible",
+        "pledged"
+      ],
+      "correct_answer": "scheme",
+      "explanation_hebrew": "המילה “scheme” פירושה תוכנית / מיזם."
+    },
+    {
+      "id": "A-q3",
+      "word": "firearms",
+      "type": "english_to_hebrew",
+      "question": "What does “firearms” mean?",
+      "options": [
+        "מקיף / גורף",
+        "כלי ירייה",
+        "זכאי / כשיר",
+        "התחייב / הבטיח"
+      ],
+      "correct_answer": "כלי ירייה",
+      "explanation_hebrew": "“firearms” פירושו כלי ירייה."
+    },
+    {
+      "id": "A-q4",
+      "word": "eligible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זכאי / כשיר”?",
+      "options": [
+        "sweeping",
+        "eligible",
+        "reforms",
+        "pledged"
+      ],
+      "correct_answer": "eligible",
+      "explanation_hebrew": "המילה “eligible” פירושה זכאי / כשיר."
+    },
+    {
+      "id": "A-q5",
+      "word": "pledged",
+      "type": "english_to_hebrew",
+      "question": "What does “pledged” mean?",
+      "options": [
+        "מקיף / גורף",
+        "רפורמות / שינויים",
+        "התחייב / הבטיח",
+        "ראש ממשלה (של מדינה/מחוז)"
+      ],
+      "correct_answer": "התחייב / הבטיח",
+      "explanation_hebrew": "“pledged” פירושו התחייב / הבטיח."
+    },
+    {
+      "id": "A-q6",
+      "word": "sweeping",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מקיף / גורף”?",
+      "options": [
+        "compensated",
+        "premier",
+        "reforms",
+        "sweeping"
+      ],
+      "correct_answer": "sweeping",
+      "explanation_hebrew": "המילה “sweeping” פירושה מקיף / גורף."
+    },
+    {
+      "id": "A-q7",
+      "word": "reforms",
+      "type": "english_to_hebrew",
+      "question": "What does “reforms” mean?",
+      "options": [
+        "רפורמות / שינויים",
+        "נמסר / הוסגר",
+        "פוצה / קיבל פיצוי",
+        "ראש ממשלה (של מדינה/מחוז)"
+      ],
+      "correct_answer": "רפורמות / שינויים",
+      "explanation_hebrew": "“reforms” פירושו רפורמות / שינויים."
+    },
+    {
+      "id": "A-q8",
+      "word": "premier",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ראש ממשלה (של מדינה/מחוז)”?",
+      "options": [
+        "compensated",
+        "premier",
+        "ownership",
+        "surrendered"
+      ],
+      "correct_answer": "premier",
+      "explanation_hebrew": "המילה “premier” פירושה ראש ממשלה (של מדינה/מחוז)."
+    },
+    {
+      "id": "A-q9",
+      "word": "compensated",
+      "type": "english_to_hebrew",
+      "question": "What does “compensated” mean?",
+      "options": [
+        "יחידים / אנשים פרטיים",
+        "בעלות",
+        "פוצה / קיבל פיצוי",
+        "נמסר / הוסגר"
+      ],
+      "correct_answer": "פוצה / קיבל פיצוי",
+      "explanation_hebrew": "“compensated” פירושו פוצה / קיבל פיצוי."
+    },
+    {
+      "id": "A-q10",
+      "word": "surrendered",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נמסר / הוסגר”?",
+      "options": [
+        "surrendered",
+        "individuals",
+        "ownership",
+        "permitted"
+      ],
+      "correct_answer": "surrendered",
+      "explanation_hebrew": "המילה “surrendered” פירושה נמסר / הוסגר."
+    },
+    {
+      "id": "A-q11",
+      "word": "ownership",
+      "type": "english_to_hebrew",
+      "question": "What does “ownership” mean?",
+      "options": [
+        "מותר / הותר",
+        "יחידים / אנשים פרטיים",
+        "כלי נשק",
+        "בעלות"
+      ],
+      "correct_answer": "בעלות",
+      "explanation_hebrew": "“ownership” פירושו בעלות."
+    },
+    {
+      "id": "A-q12",
+      "word": "individuals",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יחידים / אנשים פרטיים”?",
+      "options": [
+        "individuals",
+        "licence",
+        "weapons",
+        "permitted"
+      ],
+      "correct_answer": "individuals",
+      "explanation_hebrew": "המילה “individuals” פירושה יחידים / אנשים פרטיים."
+    },
+    {
+      "id": "A-q13",
+      "word": "permitted",
+      "type": "english_to_hebrew",
+      "question": "What does “permitted” mean?",
+      "options": [
+        "רישיון",
+        "כלי נשק",
+        "הופחת / צומצם",
+        "מותר / הותר"
+      ],
+      "correct_answer": "מותר / הותר",
+      "explanation_hebrew": "“permitted” פירושו מותר / הותר."
+    },
+    {
+      "id": "A-q14",
+      "word": "weapons",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “כלי נשק”?",
+      "options": [
+        "reduced",
+        "licence",
+        "implemented",
+        "weapons"
+      ],
+      "correct_answer": "weapons",
+      "explanation_hebrew": "המילה “weapons” פירושה כלי נשק."
+    },
+    {
+      "id": "A-q15",
+      "word": "licence",
+      "type": "english_to_hebrew",
+      "question": "What does “licence” mean?",
+      "options": [
+        "שלבים",
+        "רישיון",
+        "יושם / הוצא לפועל",
+        "הופחת / צומצם"
+      ],
+      "correct_answer": "רישיון",
+      "explanation_hebrew": "“licence” פירושו רישיון."
+    },
+    {
+      "id": "A-q16",
+      "word": "reduced",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הופחת / צומצם”?",
+      "options": [
+        "implemented",
+        "phases",
+        "revolver",
+        "reduced"
+      ],
+      "correct_answer": "reduced",
+      "explanation_hebrew": "המילה “reduced” פירושה הופחת / צומצם."
+    },
+    {
+      "id": "A-q17",
+      "word": "implemented",
+      "type": "english_to_hebrew",
+      "question": "What does “implemented” mean?",
+      "options": [
+        "מוערך (בשווי)",
+        "יושם / הוצא לפועל",
+        "שלבים",
+        "אקדח תופי"
+      ],
+      "correct_answer": "יושם / הוצא לפועל",
+      "explanation_hebrew": "“implemented” פירושו יושם / הוצא לפועל."
+    },
+    {
+      "id": "A-q18",
+      "word": "phases",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שלבים”?",
+      "options": [
+        "valued",
+        "capped",
+        "phases",
+        "revolver"
+      ],
+      "correct_answer": "phases",
+      "explanation_hebrew": "המילה “phases” פירושה שלבים."
+    },
+    {
+      "id": "A-q19",
+      "word": "revolver",
+      "type": "english_to_hebrew",
+      "question": "What does “revolver” mean?",
+      "options": [
+        "מומן",
+        "מוערך (בשווי)",
+        "אקדח תופי",
+        "הוגבל בתקרה"
+      ],
+      "correct_answer": "אקדח תופי",
+      "explanation_hebrew": "“revolver” פירושו אקדח תופי."
+    },
+    {
+      "id": "A-q20",
+      "word": "valued",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוערך (בשווי)”?",
+      "options": [
+        "funded",
+        "capped",
+        "valued",
+        "adjust"
+      ],
+      "correct_answer": "valued",
+      "explanation_hebrew": "המילה “valued” פירושה מוערך (בשווי)."
+    },
+    {
+      "id": "A-q21",
+      "word": "capped",
+      "type": "english_to_hebrew",
+      "question": "What does “capped” mean?",
+      "options": [
+        "משמעותי",
+        "להסתגל / להתאים",
+        "מומן",
+        "הוגבל בתקרה"
+      ],
+      "correct_answer": "הוגבל בתקרה",
+      "explanation_hebrew": "“capped” פירושו הוגבל בתקרה."
+    },
+    {
+      "id": "A-q22",
+      "word": "funded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מומן”?",
+      "options": [
+        "funded",
+        "meaningful",
+        "nationwide",
+        "adjust"
+      ],
+      "correct_answer": "funded",
+      "explanation_hebrew": "המילה “funded” פירושה מומן."
+    },
+    {
+      "id": "A-q23",
+      "word": "adjust",
+      "type": "english_to_hebrew",
+      "question": "What does “adjust” mean?",
+      "options": [
+        "משמעותי",
+        "מאוכלס בצפיפות",
+        "ארצי / כלל-ארצי",
+        "להסתגל / להתאים"
+      ],
+      "correct_answer": "להסתגל / להתאים",
+      "explanation_hebrew": "“adjust” פירושו להסתגל / להתאים."
+    },
+    {
+      "id": "A-q24",
+      "word": "meaningful",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “משמעותי”?",
+      "options": [
+        "meaningful",
+        "nationwide",
+        "scheme",
+        "populous"
+      ],
+      "correct_answer": "meaningful",
+      "explanation_hebrew": "המילה “meaningful” פירושה משמעותי."
+    },
+    {
+      "id": "A-q25",
+      "word": "nationwide",
+      "type": "english_to_hebrew",
+      "question": "What does “nationwide” mean?",
+      "options": [
+        "כלי ירייה",
+        "מאוכלס בצפיפות",
+        "תוכנית / מיזם",
+        "ארצי / כלל-ארצי"
+      ],
+      "correct_answer": "ארצי / כלל-ארצי",
+      "explanation_hebrew": "“nationwide” פירושו ארצי / כלל-ארצי."
+    }
+  ]
+}
