@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-17",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "How switching your bank account could earn you up to £220",
+  "article_url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main message of the article?",
+      "difficulty": "A",
+      "options": [
+        "Changing current accounts can bring a cash reward, but customers should check the conditions and wider banking features",
+        "Every UK bank now pays all customers £220 automatically",
+        "Keeping the same bank always produces the best interest rate",
+        "Opening several accounts at once guarantees a better mortgage"
+      ],
+      "correct_answer": "Changing current accounts can bring a cash reward, but customers should check the conditions and wider banking features",
+      "explanation_hebrew": "הכתבה מסבירה שמעבר חשבון עשוי לזכות את הלקוח במענק, אך חשוב לבדוק את תנאי המבצע ואת התאמת החשבון כולו."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the largest switching reward mentioned in the headline and article?",
+      "difficulty": "A",
+      "options": [
+        "£125",
+        "£220",
+        "£500",
+        "£1,000"
+      ],
+      "correct_answer": "£220",
+      "explanation_hebrew": "הסכום המרבי שמופיע בכתבה הוא 220 ליש״ט."
+    },
+    {
+      "id": "A-3",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do rival banks offer switching incentives?",
+      "difficulty": "A",
+      "options": [
+        "To stop customers from using direct debits",
+        "To make mortgage applications unnecessary",
+        "To overcome customers' loyalty or inertia and attract them from competitors",
+        "To prevent customers from reading old statements"
+      ],
+      "correct_answer": "To overcome customers' loyalty or inertia and attract them from competitors",
+      "explanation_hebrew": "לקוחות רבים נשארים בבנק מתוך נאמנות או חוסר רצון לשנות, ולכן בנקים מתחרים מציעים תמריץ כספי כדי לעודד מעבר."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “inertia” describe?",
+      "difficulty": "A",
+      "options": [
+        "A bank's excellent reputation",
+        "A fee charged for an overdraft",
+        "A reward paid after a switch",
+        "The tendency to remain with the same bank without taking action"
+      ],
+      "correct_answer": "The tendency to remain with the same bank without taking action",
+      "explanation_hebrew": "inertia בהקשר הכתבה היא הנטייה להישאר במצב הקיים ולא לעבור לבנק אחר."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the current-account switching service help move to the new account?",
+      "difficulty": "A",
+      "options": [
+        "A customer's mortgage property",
+        "Regular payments such as direct debits and standing orders",
+        "The bank's branch staff",
+        "Old paper statements from every previous bank"
+      ],
+      "correct_answer": "Regular payments such as direct debits and standing orders",
+      "explanation_hebrew": "שירות המעבר מפנה תשלומים קבועים, כגון הוראות קבע וחיובים ישירים, אל החשבון החדש."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the article mean when it says repeated applications may “dent” a credit score?",
+      "difficulty": "A",
+      "options": [
+        "They may guarantee a cash bonus",
+        "They may redirect every payment twice",
+        "They may cause a small negative effect on the score",
+        "They may erase a mortgage immediately"
+      ],
+      "correct_answer": "They may cause a small negative effect on the score",
+      "explanation_hebrew": "הפועל dent מתאר פגיעה קטנה; פתיחת חשבונות רבים ברצף עלולה להשפיע מעט לרעה על דירוג האשראי."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name three things, apart from the cash bonus, that a customer should compare before switching banks.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה שיקולים מעשיים שהכתבה מציגה, ולא להסתפק בגובה המענק.",
+      "expected_points": [
+        "Overdraft fees or terms",
+        "Customer service and the bank's reputation",
+        "Interest rates or other account benefits",
+        "Accessibility of branches, apps or statements",
+        "Whether the account suits future borrowing such as a mortgage"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how a bank-account switch can produce a reward and what a customer must do before and after the move.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את התמריץ, תנאי הזכאות, שירות המעבר ובדיקות מעשיות לאחר המעבר.",
+      "expected_points": [
+        "Banks offer cash incentives to attract customers from rivals",
+        "The customer must meet the specific offer conditions",
+        "The switching service redirects regular payments to the new account",
+        "The customer should compare fees, service and account features, not only the bonus",
+        "The customer should check recurring payments and keep any needed old statements"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can doing nothing be profitable for a bank but costly for a long-term customer?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשור בין נאמנות או אינרציה של הלקוח לבין חוסר תחרות על התנאים שהוא מקבל.",
+      "expected_points": [
+        "A loyal or inactive customer is less likely to compare rivals",
+        "The bank can retain the customer without offering a switching bonus",
+        "The customer may miss better rates, lower fees or cash incentives",
+        "Small disadvantages can add up over many years",
+        "Regular comparison creates competitive pressure on banks"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, write a short recommendation to someone considering a £220 switching offer. Include two benefits and two cautions.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג שני יתרונות ושני סייגים המבוססים על הכתבה, ולסיים בהמלצה מנומקת.",
+      "expected_points": [
+        "The cash reward can improve the customer's bank balance",
+        "The switch service can move regular payments automatically",
+        "The £220 reward depends on meeting the offer's conditions",
+        "Fees, overdraft terms, service and accessibility still matter",
+        "Several applications in quick succession may affect a credit score",
+        "Needed old statements and recurring payments should be checked"
+      ]
+    }
+  ]
+}

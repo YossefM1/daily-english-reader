@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-17",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "If Meta loses this trial, Instagram and Facebook could change forever",
+  "article_url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central issue in the article?",
+      "difficulty": "C",
+      "options": [
+        "A multi-state US trial could force Meta to make fundamental changes to Facebook and Instagram over alleged harm to young users",
+        "Meta is voluntarily closing Facebook and Instagram worldwide",
+        "A court is deciding whether Meta may buy a polluting factory",
+        "US states are asking Meta to replace social media with banking services"
+      ],
+      "correct_answer": "A multi-state US trial could force Meta to make fundamental changes to Facebook and Instagram over alleged harm to young users",
+      "explanation_hebrew": "הכתבה עוסקת במשפט של מדינות בארה״ב נגד מטא ובאפשרות שתוצאה נגד החברה תחייב שינויים יסודיים בפייסבוק ובאינסטגרם."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the origin of the current trial described in the article?",
+      "difficulty": "C",
+      "options": [
+        "A dispute over Meta's office buildings",
+        "A 2023 lawsuit brought by numerous states alleging violations and harm to young users",
+        "A request by users to restore deleted bank accounts",
+        "A European case about newspaper subscriptions"
+      ],
+      "correct_answer": "A 2023 lawsuit brought by numerous states alleging violations and harm to young users",
+      "explanation_hebrew": "המשפט נובע מתביעה שהוגשה ב־2023 בידי מדינות רבות, ובה נטען שמטא הפרה חובות ופגעה במשתמשים צעירים."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which kind of remedy do the states seek from Meta?",
+      "difficulty": "C",
+      "options": [
+        "A new factory for producing phones",
+        "A ban on all adult social-media accounts",
+        "Changes such as stronger age or parental verification and restrictions on harmful features",
+        "The sale of Instagram to a bank"
+      ],
+      "correct_answer": "Changes such as stronger age or parental verification and restrictions on harmful features",
+      "explanation_hebrew": "המדינות מבקשות שינויים באופן הפעלת הפלטפורמות, ובהם אימות גיל או הורים והגבלות על מאפיינים שלטענתן מזיקים לצעירים."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why does the article use the word “allegedly” when describing Meta's conduct?",
+      "difficulty": "C",
+      "options": [
+        "Because Meta has accepted every accusation",
+        "Because the trial has already ended without a ruling",
+        "Because the conduct happened only outside the United States",
+        "Because the claims are accusations that still need to be proved in court"
+      ],
+      "correct_answer": "Because the claims are accusations that still need to be proved in court",
+      "explanation_hebrew": "allegedly פירושו ״לכאורה״: מדובר בטענות שעדיין טעונות הוכחה משפטית, ולא בעובדות שמטא הודתה בהן."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What does the comparison between Meta and a polluting factory suggest about the public-nuisance finding?",
+      "difficulty": "C",
+      "options": [
+        "The court believes Meta manufactures physical products",
+        "The court treated alleged platform harms as effects that can damage the wider public, not only individual users",
+        "The judge ordered Meta to move to an industrial area",
+        "The lawsuit concerns air-quality rules for data centres"
+      ],
+      "correct_answer": "The court treated alleged platform harms as effects that can damage the wider public, not only individual users",
+      "explanation_hebrew": "ההשוואה למפעל מזהם מדגישה שהשופט ראה בנזק הנטען מטרד ציבורי רחב, ולא רק בעיה פרטית של משתמש יחיד."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the discussion of social-media design, what does “foster” mean?",
+      "difficulty": "C",
+      "options": [
+        "To prove a legal allegation",
+        "To remove every ephemeral post",
+        "To encourage or help a feeling or behaviour develop",
+        "To verify a parent's identity"
+      ],
+      "correct_answer": "To encourage or help a feeling or behaviour develop",
+      "explanation_hebrew": "foster פירושו לטפח או לעודד התפתחות; הכתבה דנה באפשרות שמאפיינים כמו לייקים מעודדים חיפוש אחר אישור ותחושות שליליות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify three changes to Facebook or Instagram that the states' case could lead to if they prevail.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה שינויים קונקרטיים הנוגעים לגישה של צעירים או לעיצוב הפלטפורמות.",
+      "expected_points": [
+        "Stronger age verification",
+        "Parental verification or consent",
+        "Restrictions on accounts that misrepresent a child's age",
+        "Limits or redesigns for features alleged to encourage compulsive use",
+        "Changes to visible feedback features such as likes",
+        "Additional safeguards for young users"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the states' allegations, Meta's response and why the outcome could alter major social-media platforms.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך להבחין בין טענות המדינות לעמדת מטא ולהסביר את משמעות הסעדים המבוקשים.",
+      "expected_points": [
+        "Numerous states accuse Meta of violations connected to harm to young users",
+        "They argue that platform design exploited or encouraged compulsive use",
+        "They seek fundamental safeguards and design changes",
+        "Meta denies the allegations and points to its longstanding commitment to safety",
+        "A ruling for the states could require changes to widely used Facebook and Instagram features"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why could a ruling against Meta matter beyond the financial penalty in this case?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר כיצד צו לשינוי מוצר ותקדים משפטי עשויים להשפיע על מטא ועל חברות טכנולוגיה נוספות.",
+      "expected_points": [
+        "The court could require changes to the design of Facebook and Instagram",
+        "Age and parental verification could change how young people access the services",
+        "A public-nuisance theory could influence other cases against technology platforms",
+        "Other companies may redesign features to reduce similar legal risk",
+        "The ruling could change expectations about responsibility for product design"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, evaluate whether features such as likes and ephemeral posts should be redesigned for young users. Present the states' concern, Meta's likely counterargument and your conclusion.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את שני צדי הוויכוח, להשתמש במושגים מן הכתבה ולנמק מסקנה מאוזנת.",
+      "expected_points": [
+        "The states contend that design features can foster dependence on validation or compulsive use",
+        "Young users may be especially vulnerable to social pressure",
+        "Stronger defaults, limits or verification could reduce alleged harms",
+        "Meta can argue that features also support expression and connection",
+        "Meta disputes the allegations and cites existing safety efforts",
+        "The conclusion should balance safety, evidence, usability and freedom of expression"
+      ]
+    }
+  ]
+}

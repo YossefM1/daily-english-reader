@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-17",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Changing pubs into offices or homes to be made harder under new rules",
+  "article_url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the proposed planning changes?",
+      "difficulty": "B",
+      "options": [
+        "To give community pubs stronger protection before they can be converted into offices or homes",
+        "To require every closed pub to become housing immediately",
+        "To remove local councils from all planning decisions",
+        "To replace pubs with live-music venues throughout Scotland"
+      ],
+      "correct_answer": "To give community pubs stronger protection before they can be converted into offices or homes",
+      "explanation_hebrew": "השינויים נועדו להקשות על הסבת פאבים למשרדים או לבתים ולתת למקומות קהילתיים אלה הגנה תכנונית חזקה יותר."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What would decision-makers need to assess before accepting that a pub should change use?",
+      "difficulty": "B",
+      "options": [
+        "Whether its owner prefers offices to homes",
+        "Whether there is a realistic prospect that the pub could continue or reopen",
+        "Whether every nearby resident owns a garden",
+        "Whether the building has hosted a national election"
+      ],
+      "correct_answer": "Whether there is a realistic prospect that the pub could continue or reopen",
+      "explanation_hebrew": "הבדיקה אמורה לבחון אם יש סיכוי ממשי שהפאב יוכל להמשיך לפעול או להיפתח מחדש, לפני שמאשרים שינוי ייעוד."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “consultation” mean in the policy process described?",
+      "difficulty": "B",
+      "options": [
+        "The demolition of a protected building",
+        "A compulsory sale to a local council",
+        "A process of asking the public and affected groups for views before a decision",
+        "A marketing campaign for a newly opened pub"
+      ],
+      "correct_answer": "A process of asking the public and affected groups for views before a decision",
+      "explanation_hebrew": "consultation היא התייעצות או שימוע שבהם אוספים עמדות מן הציבור ומגורמים מושפעים לפני קבלת החלטה."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might the rules require evidence that a pub was genuinely marketed?",
+      "difficulty": "B",
+      "options": [
+        "To guarantee that the site becomes a music venue",
+        "To set the price of every drink sold there",
+        "To transfer Scottish planning powers to England",
+        "To stop an owner from deliberately weakening a pub and then claiming there is no viable buyer or operator"
+      ],
+      "correct_answer": "To stop an owner from deliberately weakening a pub and then claiming there is no viable buyer or operator",
+      "explanation_hebrew": "דרישת שיווק אמיתי נועדה למנוע מצב שבו בעלים מחליש עסק בכוונה ואז משתמש בחוסר ההצלחה כהצדקה להסבה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which part of the UK is treated differently because planning powers are devolved?",
+      "difficulty": "B",
+      "options": [
+        "London",
+        "Scotland",
+        "Cornwall",
+        "Yorkshire"
+      ],
+      "correct_answer": "Scotland",
+      "explanation_hebrew": "לסקוטלנד סמכויות תכנון מואצלות משלה, ולכן הכללים המתוארים אינם חלים עליה באותה צורה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what is a pub's “conversion”?",
+      "difficulty": "B",
+      "options": [
+        "A temporary cut in business rates",
+        "A public meeting about local heritage",
+        "A change in the building's use, for example from a pub to offices or homes",
+        "A programme that trains hospitality workers"
+      ],
+      "correct_answer": "A change in the building's use, for example from a pub to offices or homes",
+      "explanation_hebrew": "conversion היא הסבה — שינוי השימוש במבנה, למשל מפאב למשרדים או לדירות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three checks or safeguards described before a pub can be converted or demolished.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה מנגנוני בדיקה או הגנה קונקרטיים מן הכתבה.",
+      "expected_points": [
+        "A planning application or stronger planning scrutiny is required",
+        "The effect on the local community should be assessed",
+        "Decision-makers should consider whether the pub could continue or reopen",
+        "The property should be genuinely marketed for a sufficient period",
+        "Evidence should show that closure was not deliberately engineered"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the proposed pub protections and the reasons both supporters and critics give for their positions.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את שינוי הכללים, מטרת ההגנה, מצב ענף האירוח ולפחות הסתייגות אחת.",
+      "expected_points": [
+        "The government wants to make conversion of pubs into offices or homes harder",
+        "The proposal gives councils more evidence to consider before approving a change",
+        "Supporters say pubs are important community and hospitality venues",
+        "The sector is vulnerable because of closures and high costs",
+        "Critics argue that planning intervention alone may not solve the financial pressures on pubs"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might a planning protection preserve a pub building without ensuring that a successful pub business survives?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להבחין בין הגנה על שימוש או מבנה לבין הכדאיות הכלכלית של העסק.",
+      "expected_points": [
+        "Planning rules can prevent or delay a change of use",
+        "They do not remove operating costs faced by hospitality businesses",
+        "A pub still needs customers and sustainable revenue",
+        "Rates, staffing and other expenses can remain high",
+        "Additional financial or business support may still be needed"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, argue whether stronger conversion rules are a fair way to protect community pubs. Give one benefit, one possible drawback and a conclusion.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג טיעון מאוזן המבוסס על הכתבה: תועלת, חיסרון ומסקנה מנומקת.",
+      "expected_points": [
+        "Pubs can provide community, cultural and hospitality value",
+        "Extra scrutiny can prevent deliberate decline followed by profitable redevelopment",
+        "Marketing and viability evidence can make decisions more transparent",
+        "Owners may face delays or restrictions when a pub is genuinely unviable",
+        "Planning protection does not by itself fix the sector's financial problems",
+        "The conclusion should weigh community value against evidence of viability"
+      ]
+    }
+  ]
+}
