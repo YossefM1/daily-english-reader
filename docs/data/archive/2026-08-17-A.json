@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-17",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "How switching your bank account could earn you up to £220",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-08-16T23:14:47+00:00",
+  "age_hours_at_selection": 2.96,
+  "word_count": 594,
+  "generated_at": "2026-08-17T02:12:36.897159+00:00",
+  "difficulty_reason": "Short, practical personal-finance report with clear structure and mostly everyday B1/B2 vocabulary; low background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "potentially",
+      "lemma": "potential",
+      "level": "B2",
+      "hebrew": "בְּאוֹפֶן פּוֹטֶנְצְיָאלִי, אוּלַי",
+      "explanation_hebrew": "מציין דבר שעשוי לקרות אך אינו ודאי",
+      "pronunciation_hebrew": "פּוֹטֶנְשְׁלִי",
+      "example": "This could potentially save you money."
+    },
+    {
+      "word": "rivals",
+      "lemma": "rival",
+      "level": "B2",
+      "hebrew": "מִתְחָרִים, יְרִיבִים",
+      "explanation_hebrew": "גופים המתחרים זה בזה על אותו קהל",
+      "pronunciation_hebrew": "רָייבַלְז",
+      "example": "The two shops are fierce rivals."
+    },
+    {
+      "word": "loyalty",
+      "lemma": "loyalty",
+      "level": "B2",
+      "hebrew": "נֶאֱמָנוּת",
+      "explanation_hebrew": "נטייה להישאר נאמן לאדם או לחברה",
+      "pronunciation_hebrew": "לוֹיַאלְטִי",
+      "example": "Customer loyalty is hard to win."
+    },
+    {
+      "word": "laziness",
+      "lemma": "lazy",
+      "level": "B2",
+      "hebrew": "עַצְלָנוּת",
+      "explanation_hebrew": "חוסר רצון לעשות מאמץ",
+      "pronunciation_hebrew": "לֵייזִינֶס",
+      "example": "Laziness kept him from switching banks."
+    },
+    {
+      "word": "incentives",
+      "lemma": "incentive",
+      "level": "B2",
+      "hebrew": "תַּמְרִיצִים",
+      "explanation_hebrew": "הטבות שנועדו לעודד פעולה מסוימת",
+      "pronunciation_hebrew": "אִינְסֶנְטִיבְז",
+      "example": "The company offers incentives to new clients."
+    },
+    {
+      "word": "bonus",
+      "lemma": "bonus",
+      "level": "B1",
+      "hebrew": "בּוֹנוּס, תּוֹסֶפֶת תַּשְׁלוּם",
+      "explanation_hebrew": "סכום כסף נוסף שמעבר לרגיל",
+      "pronunciation_hebrew": "בּוֹנֶס",
+      "example": "She received a bonus for switching."
+    },
+    {
+      "word": "inertia",
+      "lemma": "inertia",
+      "level": "C1",
+      "hebrew": "אִינֶרְצְיָה, חוֹסֶר תְּנוּעָה",
+      "explanation_hebrew": "נטייה להישאר במצב קיים בלי לפעול",
+      "pronunciation_hebrew": "אִינֶרְשְׁיָה",
+      "example": "Inertia stops many people from changing."
+    },
+    {
+      "word": "overwhelming",
+      "lemma": "overwhelm",
+      "level": "B2",
+      "hebrew": "מַכְרִיעַ, גּוֹרֵף",
+      "explanation_hebrew": "חזק או גדול בצורה שקשה להתמודד איתה",
+      "pronunciation_hebrew": "אוֹבֶרְוֶולְמִינְג",
+      "example": "The overwhelming reason was better rates."
+    },
+    {
+      "word": "competitors",
+      "lemma": "competitor",
+      "level": "B2",
+      "hebrew": "מִתְחָרִים",
+      "explanation_hebrew": "גופים המתחרים על אותם לקוחות",
+      "pronunciation_hebrew": "קוֹמְפֶּטִיטוֹרְז",
+      "example": "Competitors lowered their prices."
+    },
+    {
+      "word": "decade",
+      "lemma": "decade",
+      "level": "B1",
+      "hebrew": "עֶשׂוֹר, עֲשׂוֹר שָׁנִים",
+      "explanation_hebrew": "תקופה של עשר שנים",
+      "pronunciation_hebrew": "דֶּקֵייד",
+      "example": "He stayed with the bank for a decade."
+    },
+    {
+      "word": "estimates",
+      "lemma": "estimate",
+      "level": "B2",
+      "hebrew": "מַעֲרִיךְ, אוֹמֵד",
+      "explanation_hebrew": "נותן הערכה מספרית מקורבת",
+      "pronunciation_hebrew": "אֶסְטִימֵייטְס",
+      "example": "The report estimates the total cost."
+    },
+    {
+      "word": "fortune",
+      "lemma": "fortune",
+      "level": "B2",
+      "hebrew": "הוֹן, סְכוּם עָתֵק",
+      "explanation_hebrew": "כמות גדולה מאוד של כסף",
+      "pronunciation_hebrew": "פוֹרְצ'וּן",
+      "example": "Doing nothing costs savers a fortune."
+    },
+    {
+      "word": "captive",
+      "lemma": "captive",
+      "level": "C1",
+      "hebrew": "שָׁבוּי, כָּבוּל",
+      "explanation_hebrew": "נתון לשליטה בלי אפשרות אמיתית לבחור",
+      "pronunciation_hebrew": "קַפְּטִיב",
+      "example": "Banks gain a captive audience."
+    },
+    {
+      "word": "overlook",
+      "lemma": "overlook",
+      "level": "B2",
+      "hebrew": "לְהִתְעַלֵּם, לְהַחְמִיץ",
+      "explanation_hebrew": "לא לשים לב לפרט חשוב",
+      "pronunciation_hebrew": "אוֹבֶרְלוּק",
+      "example": "Don't overlook the service fees."
+    },
+    {
+      "word": "reputation",
+      "lemma": "reputation",
+      "level": "B2",
+      "hebrew": "מוֹנִיטִין, שֵׁם",
+      "explanation_hebrew": "הדעה הכללית שיש לאנשים על מישהו",
+      "pronunciation_hebrew": "רֶפְּיוּטֵיישֶׁן",
+      "example": "The bank has a good reputation."
+    },
+    {
+      "word": "overdraft",
+      "lemma": "overdraft",
+      "level": "B2",
+      "hebrew": "מְשִׁיכַת יֶתֶר",
+      "explanation_hebrew": "מצב שבו מוציאים יותר כסף מהיתרה",
+      "pronunciation_hebrew": "אוֹבֶרְדְרָאפְט",
+      "example": "He was charged for his overdraft."
+    },
+    {
+      "word": "dependent",
+      "lemma": "dependent",
+      "level": "B2",
+      "hebrew": "תָּלוּי",
+      "explanation_hebrew": "מותנה בגורם או בתנאי אחר",
+      "pronunciation_hebrew": "דִּיפֶּנְדֶנְט",
+      "example": "The deal is dependent on conditions."
+    },
+    {
+      "word": "lenders",
+      "lemma": "lender",
+      "level": "B2",
+      "hebrew": "מַלְוִים, גּוֹרְמֵי אַשְׁרַאי",
+      "explanation_hebrew": "גופים שמלווים כסף ללקוחות",
+      "pronunciation_hebrew": "לֶנְדֶרְז",
+      "example": "Lenders check your credit report."
+    },
+    {
+      "word": "mortgage",
+      "lemma": "mortgage",
+      "level": "B2",
+      "hebrew": "מַשְׁכַּנְתָּא",
+      "explanation_hebrew": "הלוואה גדולה לרכישת בית",
+      "pronunciation_hebrew": "מוֹרְגִ'ג'",
+      "example": "They applied for a mortgage."
+    },
+    {
+      "word": "succession",
+      "lemma": "succession",
+      "level": "C1",
+      "hebrew": "רְצִיפוּת, זֶה אַחַר זֶה",
+      "explanation_hebrew": "סדרה של דברים הבאים בזה אחר זה",
+      "pronunciation_hebrew": "סַקְסֶשֶׁן",
+      "example": "He opened accounts in quick succession."
+    },
+    {
+      "word": "dent",
+      "lemma": "dent",
+      "level": "B2",
+      "hebrew": "פְּגִיעָה קַלָּה, שֶׁקַע",
+      "explanation_hebrew": "נזק קטן או פגיעה קלה במשהו",
+      "pronunciation_hebrew": "דֶּנְט",
+      "example": "It could dent your credit score."
+    },
+    {
+      "word": "redirect",
+      "lemma": "redirect",
+      "level": "B2",
+      "hebrew": "לְהַפְנוֹת מֵחָדָשׁ",
+      "explanation_hebrew": "לשלוח משהו ליעד חדש",
+      "pronunciation_hebrew": "רִידַירֶקְט",
+      "example": "The service will redirect your payments."
+    },
+    {
+      "word": "refunded",
+      "lemma": "refund",
+      "level": "B2",
+      "hebrew": "יֻחְזַר, יְזֻכֶּה",
+      "explanation_hebrew": "החזרת כסף שכבר שולם",
+      "pronunciation_hebrew": "רִיפַנְדֶד",
+      "example": "Any charges will be refunded."
+    },
+    {
+      "word": "recurring",
+      "lemma": "recur",
+      "level": "B2",
+      "hebrew": "חוֹזֵר, מִתְמַשֵּׁךְ",
+      "explanation_hebrew": "קורה שוב ושוב במרווחים קבועים",
+      "pronunciation_hebrew": "רִיקַרִינְג",
+      "example": "Cancel any recurring payments."
+    },
+    {
+      "word": "accessible",
+      "lemma": "accessible",
+      "level": "B2",
+      "hebrew": "נָגִישׁ, זָמִין",
+      "explanation_hebrew": "קל להגיע אליו או להשתמש בו",
+      "pronunciation_hebrew": "אַקְסֶסִיבְּל",
+      "example": "Old statements won't be accessible."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "potentially",
+      "type": "english_to_hebrew",
+      "question": "What does “potentially” mean?",
+      "options": [
+        "בְּאוֹפֶן פּוֹטֶנְצְיָאלִי, אוּלַי",
+        "תַּמְרִיצִים",
+        "נֶאֱמָנוּת",
+        "עַצְלָנוּת"
+      ],
+      "correct_answer": "בְּאוֹפֶן פּוֹטֶנְצְיָאלִי, אוּלַי",
+      "explanation_hebrew": "“potentially” פירושו בְּאוֹפֶן פּוֹטֶנְצְיָאלִי, אוּלַי. מציין דבר שעשוי לקרות אך אינו ודאי."
+    },
+    {
+      "id": "A-q2",
+      "word": "rivals",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מִתְחָרִים, יְרִיבִים”?",
+      "options": [
+        "incentives",
+        "rivals",
+        "bonus",
+        "laziness"
+      ],
+      "correct_answer": "rivals",
+      "explanation_hebrew": "המילה “rivals” פירושה מִתְחָרִים, יְרִיבִים. גופים המתחרים זה בזה על אותו קהל."
+    },
+    {
+      "id": "A-q3",
+      "word": "loyalty",
+      "type": "english_to_hebrew",
+      "question": "What does “loyalty” mean?",
+      "options": [
+        "בּוֹנוּס, תּוֹסֶפֶת תַּשְׁלוּם",
+        "תַּמְרִיצִים",
+        "אִינֶרְצְיָה, חוֹסֶר תְּנוּעָה",
+        "נֶאֱמָנוּת"
+      ],
+      "correct_answer": "נֶאֱמָנוּת",
+      "explanation_hebrew": "“loyalty” פירושו נֶאֱמָנוּת. נטייה להישאר נאמן לאדם או לחברה."
+    },
+    {
+      "id": "A-q4",
+      "word": "laziness",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עַצְלָנוּת”?",
+      "options": [
+        "inertia",
+        "bonus",
+        "overwhelming",
+        "laziness"
+      ],
+      "correct_answer": "laziness",
+      "explanation_hebrew": "המילה “laziness” פירושה עַצְלָנוּת. חוסר רצון לעשות מאמץ."
+    },
+    {
+      "id": "A-q5",
+      "word": "incentives",
+      "type": "english_to_hebrew",
+      "question": "What does “incentives” mean?",
+      "options": [
+        "אִינֶרְצְיָה, חוֹסֶר תְּנוּעָה",
+        "תַּמְרִיצִים",
+        "מִתְחָרִים",
+        "מַכְרִיעַ, גּוֹרֵף"
+      ],
+      "correct_answer": "תַּמְרִיצִים",
+      "explanation_hebrew": "“incentives” פירושו תַּמְרִיצִים. הטבות שנועדו לעודד פעולה מסוימת."
+    },
+    {
+      "id": "A-q6",
+      "word": "bonus",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בּוֹנוּס, תּוֹסֶפֶת תַּשְׁלוּם”?",
+      "options": [
+        "decade",
+        "bonus",
+        "competitors",
+        "overwhelming"
+      ],
+      "correct_answer": "bonus",
+      "explanation_hebrew": "המילה “bonus” פירושה בּוֹנוּס, תּוֹסֶפֶת תַּשְׁלוּם. סכום כסף נוסף שמעבר לרגיל."
+    },
+    {
+      "id": "A-q7",
+      "word": "inertia",
+      "type": "english_to_hebrew",
+      "question": "What does “inertia” mean?",
+      "options": [
+        "מַעֲרִיךְ, אוֹמֵד",
+        "אִינֶרְצְיָה, חוֹסֶר תְּנוּעָה",
+        "עֶשׂוֹר, עֲשׂוֹר שָׁנִים",
+        "מִתְחָרִים"
+      ],
+      "correct_answer": "אִינֶרְצְיָה, חוֹסֶר תְּנוּעָה",
+      "explanation_hebrew": "“inertia” פירושו אִינֶרְצְיָה, חוֹסֶר תְּנוּעָה. נטייה להישאר במצב קיים בלי לפעול."
+    },
+    {
+      "id": "A-q8",
+      "word": "overwhelming",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַכְרִיעַ, גּוֹרֵף”?",
+      "options": [
+        "decade",
+        "overwhelming",
+        "estimates",
+        "fortune"
+      ],
+      "correct_answer": "overwhelming",
+      "explanation_hebrew": "המילה “overwhelming” פירושה מַכְרִיעַ, גּוֹרֵף. חזק או גדול בצורה שקשה להתמודד איתה."
+    },
+    {
+      "id": "A-q9",
+      "word": "competitors",
+      "type": "english_to_hebrew",
+      "question": "What does “competitors” mean?",
+      "options": [
+        "מַעֲרִיךְ, אוֹמֵד",
+        "שָׁבוּי, כָּבוּל",
+        "מִתְחָרִים",
+        "הוֹן, סְכוּם עָתֵק"
+      ],
+      "correct_answer": "מִתְחָרִים",
+      "explanation_hebrew": "“competitors” פירושו מִתְחָרִים. גופים המתחרים על אותם לקוחות."
+    },
+    {
+      "id": "A-q10",
+      "word": "decade",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עֶשׂוֹר, עֲשׂוֹר שָׁנִים”?",
+      "options": [
+        "captive",
+        "fortune",
+        "decade",
+        "overlook"
+      ],
+      "correct_answer": "decade",
+      "explanation_hebrew": "המילה “decade” פירושה עֶשׂוֹר, עֲשׂוֹר שָׁנִים. תקופה של עשר שנים."
+    },
+    {
+      "id": "A-q11",
+      "word": "estimates",
+      "type": "english_to_hebrew",
+      "question": "What does “estimates” mean?",
+      "options": [
+        "שָׁבוּי, כָּבוּל",
+        "לְהִתְעַלֵּם, לְהַחְמִיץ",
+        "מוֹנִיטִין, שֵׁם",
+        "מַעֲרִיךְ, אוֹמֵד"
+      ],
+      "correct_answer": "מַעֲרִיךְ, אוֹמֵד",
+      "explanation_hebrew": "“estimates” פירושו מַעֲרִיךְ, אוֹמֵד. נותן הערכה מספרית מקורבת."
+    },
+    {
+      "id": "A-q12",
+      "word": "fortune",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הוֹן, סְכוּם עָתֵק”?",
+      "options": [
+        "overdraft",
+        "reputation",
+        "fortune",
+        "overlook"
+      ],
+      "correct_answer": "fortune",
+      "explanation_hebrew": "המילה “fortune” פירושה הוֹן, סְכוּם עָתֵק. כמות גדולה מאוד של כסף."
+    },
+    {
+      "id": "A-q13",
+      "word": "captive",
+      "type": "english_to_hebrew",
+      "question": "What does “captive” mean?",
+      "options": [
+        "שָׁבוּי, כָּבוּל",
+        "מוֹנִיטִין, שֵׁם",
+        "תָּלוּי",
+        "מְשִׁיכַת יֶתֶר"
+      ],
+      "correct_answer": "שָׁבוּי, כָּבוּל",
+      "explanation_hebrew": "“captive” פירושו שָׁבוּי, כָּבוּל. נתון לשליטה בלי אפשרות אמיתית לבחור."
+    },
+    {
+      "id": "A-q14",
+      "word": "overlook",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהִתְעַלֵּם, לְהַחְמִיץ”?",
+      "options": [
+        "dependent",
+        "lenders",
+        "overdraft",
+        "overlook"
+      ],
+      "correct_answer": "overlook",
+      "explanation_hebrew": "המילה “overlook” פירושה לְהִתְעַלֵּם, לְהַחְמִיץ. לא לשים לב לפרט חשוב."
+    },
+    {
+      "id": "A-q15",
+      "word": "reputation",
+      "type": "english_to_hebrew",
+      "question": "What does “reputation” mean?",
+      "options": [
+        "מַלְוִים, גּוֹרְמֵי אַשְׁרַאי",
+        "תָּלוּי",
+        "מוֹנִיטִין, שֵׁם",
+        "מַשְׁכַּנְתָּא"
+      ],
+      "correct_answer": "מוֹנִיטִין, שֵׁם",
+      "explanation_hebrew": "“reputation” פירושו מוֹנִיטִין, שֵׁם. הדעה הכללית שיש לאנשים על מישהו."
+    },
+    {
+      "id": "A-q16",
+      "word": "overdraft",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְשִׁיכַת יֶתֶר”?",
+      "options": [
+        "succession",
+        "mortgage",
+        "overdraft",
+        "lenders"
+      ],
+      "correct_answer": "overdraft",
+      "explanation_hebrew": "המילה “overdraft” פירושה מְשִׁיכַת יֶתֶר. מצב שבו מוציאים יותר כסף מהיתרה."
+    },
+    {
+      "id": "A-q17",
+      "word": "dependent",
+      "type": "english_to_hebrew",
+      "question": "What does “dependent” mean?",
+      "options": [
+        "מַשְׁכַּנְתָּא",
+        "פְּגִיעָה קַלָּה, שֶׁקַע",
+        "תָּלוּי",
+        "רְצִיפוּת, זֶה אַחַר זֶה"
+      ],
+      "correct_answer": "תָּלוּי",
+      "explanation_hebrew": "“dependent” פירושו תָּלוּי. מותנה בגורם או בתנאי אחר."
+    },
+    {
+      "id": "A-q18",
+      "word": "lenders",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַלְוִים, גּוֹרְמֵי אַשְׁרַאי”?",
+      "options": [
+        "dent",
+        "succession",
+        "lenders",
+        "redirect"
+      ],
+      "correct_answer": "lenders",
+      "explanation_hebrew": "המילה “lenders” פירושה מַלְוִים, גּוֹרְמֵי אַשְׁרַאי. גופים שמלווים כסף ללקוחות."
+    },
+    {
+      "id": "A-q19",
+      "word": "mortgage",
+      "type": "english_to_hebrew",
+      "question": "What does “mortgage” mean?",
+      "options": [
+        "לְהַפְנוֹת מֵחָדָשׁ",
+        "פְּגִיעָה קַלָּה, שֶׁקַע",
+        "מַשְׁכַּנְתָּא",
+        "יֻחְזַר, יְזֻכֶּה"
+      ],
+      "correct_answer": "מַשְׁכַּנְתָּא",
+      "explanation_hebrew": "“mortgage” פירושו מַשְׁכַּנְתָּא. הלוואה גדולה לרכישת בית."
+    },
+    {
+      "id": "A-q20",
+      "word": "succession",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רְצִיפוּת, זֶה אַחַר זֶה”?",
+      "options": [
+        "succession",
+        "refunded",
+        "recurring",
+        "redirect"
+      ],
+      "correct_answer": "succession",
+      "explanation_hebrew": "המילה “succession” פירושה רְצִיפוּת, זֶה אַחַר זֶה. סדרה של דברים הבאים בזה אחר זה."
+    },
+    {
+      "id": "A-q21",
+      "word": "dent",
+      "type": "english_to_hebrew",
+      "question": "What does “dent” mean?",
+      "options": [
+        "נָגִישׁ, זָמִין",
+        "יֻחְזַר, יְזֻכֶּה",
+        "חוֹזֵר, מִתְמַשֵּׁךְ",
+        "פְּגִיעָה קַלָּה, שֶׁקַע"
+      ],
+      "correct_answer": "פְּגִיעָה קַלָּה, שֶׁקַע",
+      "explanation_hebrew": "“dent” פירושו פְּגִיעָה קַלָּה, שֶׁקַע. נזק קטן או פגיעה קלה במשהו."
+    },
+    {
+      "id": "A-q22",
+      "word": "redirect",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהַפְנוֹת מֵחָדָשׁ”?",
+      "options": [
+        "potentially",
+        "redirect",
+        "recurring",
+        "accessible"
+      ],
+      "correct_answer": "redirect",
+      "explanation_hebrew": "המילה “redirect” פירושה לְהַפְנוֹת מֵחָדָשׁ. לשלוח משהו ליעד חדש."
+    },
+    {
+      "id": "A-q23",
+      "word": "refunded",
+      "type": "english_to_hebrew",
+      "question": "What does “refunded” mean?",
+      "options": [
+        "נָגִישׁ, זָמִין",
+        "בְּאוֹפֶן פּוֹטֶנְצְיָאלִי, אוּלַי",
+        "מִתְחָרִים, יְרִיבִים",
+        "יֻחְזַר, יְזֻכֶּה"
+      ],
+      "correct_answer": "יֻחְזַר, יְזֻכֶּה",
+      "explanation_hebrew": "“refunded” פירושו יֻחְזַר, יְזֻכֶּה. החזרת כסף שכבר שולם."
+    },
+    {
+      "id": "A-q24",
+      "word": "recurring",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חוֹזֵר, מִתְמַשֵּׁךְ”?",
+      "options": [
+        "potentially",
+        "rivals",
+        "loyalty",
+        "recurring"
+      ],
+      "correct_answer": "recurring",
+      "explanation_hebrew": "המילה “recurring” פירושה חוֹזֵר, מִתְמַשֵּׁךְ. קורה שוב ושוב במרווחים קבועים."
+    },
+    {
+      "id": "A-q25",
+      "word": "accessible",
+      "type": "english_to_hebrew",
+      "question": "What does “accessible” mean?",
+      "options": [
+        "עַצְלָנוּת",
+        "נָגִישׁ, זָמִין",
+        "נֶאֱמָנוּת",
+        "מִתְחָרִים, יְרִיבִים"
+      ],
+      "correct_answer": "נָגִישׁ, זָמִין",
+      "explanation_hebrew": "“accessible” פירושו נָגִישׁ, זָמִין. קל להגיע אליו או להשתמש בו."
+    }
+  ]
+}
