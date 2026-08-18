@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-18",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Free bus travel for disabled people in England to be extended to 24 hours a day",
+  "article_url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main change announced in the article?",
+      "difficulty": "A",
+      "options": [
+        "Eligible disabled people in England will be able to use their free bus passes at any time of day",
+        "All bus travel in the UK will become free for every passenger",
+        "Disabled bus passes will be limited to weekend journeys",
+        "Local councils will stop issuing disabled bus passes"
+      ],
+      "correct_answer": "Eligible disabled people in England will be able to use their free bus passes at any time of day",
+      "explanation_hebrew": "השינוי המרכזי הוא הרחבת השימוש בכרטיסי הנסיעה החינמיים של זכאים עם מוגבלות באנגליה לכל שעות היממה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When is the nationwide 24-hour entitlement due to begin?",
+      "difficulty": "A",
+      "options": [
+        "Immediately in August 2026",
+        "1 April 2027",
+        "1 January 2030",
+        "Only after each council holds a referendum"
+      ],
+      "correct_answer": "1 April 2027",
+      "explanation_hebrew": "ההרחבה הארצית אמורה להתחיל ב־1 באפריל 2027, לאחר השלמת האישור וההיערכות."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What are the current standard weekday hours for these passes in England?",
+      "difficulty": "A",
+      "options": [
+        "Midnight to 6am",
+        "6am to noon",
+        "9:30am to 11pm",
+        "Weekdays are completely excluded"
+      ],
+      "correct_answer": "9:30am to 11pm",
+      "explanation_hebrew": "כיום ההסדר הארצי הרגיל מאפשר שימוש בימי חול בין 9:30 בבוקר ל־11 בלילה, אלא אם רשות מקומית מממנת הרחבה."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why does the article describe buses as a “lifeline”?",
+      "difficulty": "A",
+      "options": [
+        "They are used only during emergencies",
+        "They replace every form of healthcare",
+        "They are the longest vehicles on the road",
+        "They provide an essential connection to work, education, healthcare and daily life"
+      ],
+      "correct_answer": "They provide an essential connection to work, education, healthcare and daily life",
+      "explanation_hebrew": "lifeline הוא דבר חיוני שמאפשר לאנשים לקיים את חיי היומיום; כאן האוטובוסים מחברים לעבודה, לימודים, טיפול רפואי ושירותים."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much funding is being provided for the change?",
+      "difficulty": "A",
+      "options": [
+        "£6 million",
+        "£60 million",
+        "£600 million",
+        "No public funding"
+      ],
+      "correct_answer": "£60 million",
+      "explanation_hebrew": "ליישום השינוי הוקצו 60 מיליון ליש״ט מתקציבי ממשלה קיימים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the “postcode lottery” refer to in the article?",
+      "difficulty": "A",
+      "options": [
+        "A prize draw held on buses",
+        "A system for registering vehicle numbers",
+        "Unequal support depending on where a disabled person lives",
+        "A discount available only by post"
+      ],
+      "correct_answer": "Unequal support depending on where a disabled person lives",
+      "explanation_hebrew": "postcode lottery מתאר מצב שבו רמת הסיוע תלויה באזור המגורים, משום שחלק מהרשויות מימנו שעות נוספות ואחרות לא."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three ways the 24-hour pass could benefit disabled people.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה יתרונות מעשיים המתוארים בכתבה.",
+      "expected_points": [
+        "Access to work or training before 9:30am",
+        "Easier travel to education",
+        "Better access to healthcare appointments",
+        "Lower transport costs",
+        "Greater independence and dignity",
+        "Reduced isolation and easier participation in community life"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the old rules, the new entitlement and how the change will be funded.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את שעות ההסדר הקודם, מועד השינוי, היקפו ומקור המימון.",
+      "expected_points": [
+        "The standard weekday entitlement was limited to 9:30am–11pm",
+        "Some councils already paid for wider local access",
+        "From 1 April 2027 eligible disabled pass holders will have 24-hour use",
+        "The policy applies across England where the pass is valid",
+        "The £60m cost is split between the Department for Work and Pensions and the Department for Transport"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does removing the time restriction also remove a barrier to employment?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשור בין שעות תחילת העבודה לבין אי־היכולת להשתמש בכרטיס לפני 9:30.",
+      "expected_points": [
+        "Many jobs or training courses begin before 9:30am",
+        "A restricted pass could force a disabled worker to pay for the morning journey",
+        "Extra disability-related costs can make paid travel harder to afford",
+        "Twenty-four-hour validity makes commuting more predictable",
+        "Equal access can widen realistic work opportunities"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, explain whether nationwide rules are fairer than allowing each council to choose the hours. Give two reasons and one possible implementation challenge.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג עמדה מנומקת, שני יתרונות של אחידות ארצית ואתגר יישום אחד.",
+      "expected_points": [
+        "National rules end unequal treatment based on postcode",
+        "All eligible disabled people receive the same basic entitlement",
+        "The change supports independence, work, education and healthcare",
+        "Local transport authorities need time to prepare",
+        "Parliamentary approval and funding arrangements must be completed",
+        "The conclusion should weigh fairness against practical implementation"
+      ]
+    }
+  ]
+}

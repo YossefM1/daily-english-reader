@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-18",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+  "article_url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central focus of the article?",
+      "difficulty": "C",
+      "options": [
+        "Erin Patterson's attempt to overturn her mushroom-murder convictions and the legal grounds she is raising",
+        "A new investigation into unrelated food safety laws",
+        "A civil dispute about ownership of a restaurant",
+        "A proposal to ban all wild mushrooms in Australia"
+      ],
+      "correct_answer": "Erin Patterson's attempt to overturn her mushroom-murder convictions and the legal grounds she is raising",
+      "explanation_hebrew": "הכתבה מסבירה את ערעורה של ארין פטרסון על הרשעתה ואת הטענות המשפטיות שבאמצעותן היא מבקשת לבטל אותה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What crimes was Patterson convicted of?",
+      "difficulty": "C",
+      "options": [
+        "One count of fraud and three food-safety offences",
+        "Three murders and one attempted murder connected to a death-cap mushroom meal",
+        "Four counts of illegally selling mushrooms",
+        "Attempting to poison only her estranged husband"
+      ],
+      "correct_answer": "Three murders and one attempted murder connected to a death-cap mushroom meal",
+      "explanation_hebrew": "פטרסון הורשעה בשלושה מעשי רצח ובניסיון רצח אחד בעקבות ארוחה שהכילה פטריות אמנית המוות."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which guest survived the poisoned lunch?",
+      "difficulty": "C",
+      "options": [
+        "Don Patterson",
+        "Gail Patterson",
+        "Ian Wilkinson",
+        "Heather Wilkinson"
+      ],
+      "correct_answer": "Ian Wilkinson",
+      "explanation_hebrew": "איאן וילקינסון שרד את ההרעלה; דון וגייל פטרסון והת'ר וילקינסון מתו."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the appeal, what would it mean to “overturn” the conviction?",
+      "difficulty": "C",
+      "options": [
+        "To extend the existing sentence automatically",
+        "To publish the jury's private notes",
+        "To move the case to another country",
+        "To cancel or reverse the guilty decision"
+      ],
+      "correct_answer": "To cancel or reverse the guilty decision",
+      "explanation_hebrew": "overturn בהקשר משפטי פירושו לבטל או להפוך החלטת הרשעה קודמת."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What jury-related irregularity does the appeal allege?",
+      "difficulty": "C",
+      "options": [
+        "The jury never heard any evidence",
+        "Jurors were sequestered in the same hotel as key people connected to the prosecution",
+        "The jury deliberated in a different country",
+        "All jurors were relatives of the victims"
+      ],
+      "correct_answer": "Jurors were sequestered in the same hotel as key people connected to the prosecution",
+      "explanation_hebrew": "אחת מעילות הערעור טוענת לפגם יסודי משום שהמושבעים שהו באותו מלון עם עד משטרתי ואנשי תביעה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “prejudicial” evidence mean in Patterson's argument?",
+      "difficulty": "C",
+      "options": [
+        "Evidence collected after the sentence",
+        "Evidence translated into another language",
+        "Evidence that may unfairly influence the jury more than its proper value justifies",
+        "Evidence that proves a defendant must receive parole"
+      ],
+      "correct_answer": "Evidence that may unfairly influence the jury more than its proper value justifies",
+      "explanation_hebrew": "prejudicial מתאר ראיה שעלולה ליצור דעה קדומה ולהשפיע באופן לא הוגן ביחס לערך הראייתי שלה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify four grounds or concerns raised in Patterson's appeal.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין ארבע טענות משפטיות קונקרטיות מן הערעור.",
+      "expected_points": [
+        "A fundamental irregularity involving the sequestered jury's hotel",
+        "Cross-examination alleged to have been unfair and oppressive",
+        "Admission of mobile-phone tower evidence",
+        "Admission of online death-cap mushroom sighting evidence",
+        "Admission of Facebook messages or acquaintance evidence",
+        "The prosecution allegedly shifted from saying motive was unnecessary to implying a motive",
+        "A challenge involving excluded mushroom-related photos or videos"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the original case, Patterson's defence, the verdict and the purpose of the appeal.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול את הארוחה, הנפגעים, טענת התאונה, ההרשעה והסעד המבוקש בערעור.",
+      "expected_points": [
+        "Patterson served a beef Wellington meal containing toxic death-cap mushrooms in 2023",
+        "Three relatives died and Ian Wilkinson survived",
+        "Patterson maintained that the poisoning was accidental",
+        "A jury convicted her of three murders and one attempted murder",
+        "She received a life sentence with a 33-year non-parole period",
+        "The appeal seeks to quash the convictions and could lead to a retrial or acquittal"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does an appeal court examine the fairness of the trial rather than simply rehear every fact from the beginning?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את תפקיד ערכאת הערעור בבדיקת טעויות משפטיות והשפעתן האפשרית על פסק הדין.",
+      "expected_points": [
+        "An appeal tests whether legal or procedural errors occurred",
+        "The court considers whether admitted evidence was relevant and fair",
+        "It examines whether the prosecution's conduct denied a fair trial",
+        "A mistake must be serious enough to create a miscarriage of justice",
+        "If a conviction is quashed, a new trial may then reconsider the facts"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, explain why the jury-hotel issue could be serious while also explaining why it does not automatically prove Patterson is innocent.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להבחין בין שלמות ההליך המשפטי לבין שאלת האשמה העובדתית ולהציג מסקנה מאוזנת.",
+      "expected_points": [
+        "Sequestering jurors is intended to protect them from outside influence",
+        "Sharing a hotel with a police witness or prosecutors can create an appearance or risk of improper contact",
+        "A fundamental irregularity may undermine confidence in the verdict",
+        "The issue concerns trial fairness, not direct proof about the meal",
+        "The appeal court must assess whether the integrity of the verdict was affected",
+        "A successful appeal could produce a retrial rather than an acquittal"
+      ]
+    }
+  ]
+}

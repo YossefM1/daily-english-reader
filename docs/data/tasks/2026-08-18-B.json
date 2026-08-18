@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-18",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "To joke or not to joke?: How to write a good out-of-office message",
+  "article_url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main advice about out-of-office messages?",
+      "difficulty": "B",
+      "options": [
+        "Make them clear, concise and useful, while choosing humour carefully",
+        "Include a long description of every holiday activity",
+        "Avoid giving a return date or alternative contact",
+        "Use the same informal joke for every audience"
+      ],
+      "correct_answer": "Make them clear, concise and useful, while choosing humour carefully",
+      "explanation_hebrew": "הכתבה ממליצה על הודעה ברורה, קצרה ושימושית, ומזהירה שהומור צריך להתאים לקהל ולהקשר."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which information does etiquette guidance say an automatic reply should include?",
+      "difficulty": "B",
+      "options": [
+        "The sender's holiday photographs",
+        "A specific return date and, when appropriate, an alternative contact",
+        "A list of the sender's hobbies",
+        "A promise to answer every email immediately on returning"
+      ],
+      "correct_answer": "A specific return date and, when appropriate, an alternative contact",
+      "explanation_hebrew": "הודעה טובה מציינת מועד חזרה ברור ומפנה לגורם חלופי כאשר הדבר מתאים."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “concise” mean in the advice to employees?",
+      "difficulty": "B",
+      "options": [
+        "Sarcastic and entertaining",
+        "Written without a greeting",
+        "Brief but containing the necessary information",
+        "Updated only once a year"
+      ],
+      "correct_answer": "Brief but containing the necessary information",
+      "explanation_hebrew": "concise פירושו תמציתי: קצר, אך עדיין כולל את המידע שהנמען צריך."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can a sarcastic joke be risky in an automatic reply?",
+      "difficulty": "B",
+      "options": [
+        "Automatic replies cannot display punctuation",
+        "Sarcasm is required only for urgent messages",
+        "It makes the return date technically invalid",
+        "Recipients from different workplaces or cultures may misunderstand the tone"
+      ],
+      "correct_answer": "Recipients from different workplaces or cultures may misunderstand the tone",
+      "explanation_hebrew": "הודעה אוטומטית מגיעה לקהלים שונים, ולכן סרקזם עלול לא להיות מובן או להיתפס כלא מקצועי."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What should an employee avoid when explaining a holiday absence?",
+      "difficulty": "B",
+      "options": [
+        "Giving a useful contact name",
+        "Oversharing personal details or boasting about the trip",
+        "Thanking the recipient for the email",
+        "Checking that the return date is correct"
+      ],
+      "correct_answer": "Oversharing personal details or boasting about the trip",
+      "explanation_hebrew": "הכתבה ממליצה להימנע משיתוף יתר ומרברבנות, שעלולים להישמע לא מקצועיים או זחוחים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is an email “backlog” in the context of returning to work?",
+      "difficulty": "B",
+      "options": [
+        "A friendly greeting at the start of a message",
+        "A scheduled briefing before a holiday",
+        "A build-up of unanswered messages waiting to be dealt with",
+        "A stale joke copied into an automatic reply"
+      ],
+      "correct_answer": "A build-up of unanswered messages waiting to be dealt with",
+      "explanation_hebrew": "backlog הוא הצטברות של הודעות ומשימות שטרם טופלו בזמן ההיעדרות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List four pieces of practical information that can make an out-of-office reply useful.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין ארבעה פרטים מעשיים שהנמען יכול לפעול לפיהם.",
+      "expected_points": [
+        "A polite greeting",
+        "The period of absence",
+        "A specific return date",
+        "Whether email will be checked periodically",
+        "A named alternative contact or help desk",
+        "Instructions for genuinely urgent matters"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's advice on content, tone, humour and expectations in an out-of-office message.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול מידע הכרחי, סגנון, סיכוני הומור ותיאום ציפיות.",
+      "expected_points": [
+        "The message should be polite and concise",
+        "It should state when the employee will return",
+        "Urgent senders should be directed to an available alternative contact",
+        "Personal detail, boasting and oversharing should be avoided",
+        "Humour depends on the audience and sarcasm can be misunderstood",
+        "The message should not promise an immediate response if a backlog is likely"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is under-communication sometimes more damaging than an unsuccessful joke?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד היעדר מידע מעשי יוצר אי־ודאות ופוגע ביכולת הנמען לפעול.",
+      "expected_points": [
+        "The sender may not know when a reply will arrive",
+        "An urgent matter may have no clear alternative route",
+        "Colleagues or clients cannot plan around the absence",
+        "Uncertainty can make the employee appear disorganised",
+        "A clear factual message remains useful even without humour"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write the content plan for a professional out-of-office message for a one-week holiday. Explain whether you would include a joke and why.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע מבנה הודעה מקצועי ולהצדיק את בחירת הטון בהתאם לקהל.",
+      "expected_points": [
+        "Begin with a polite greeting or thanks",
+        "State the absence and exact return date",
+        "Set a realistic expectation about email access and response time",
+        "Provide an approved alternative contact for urgent work",
+        "Avoid unnecessary holiday details and boasting",
+        "Use humour only if it fits the organisation and broad audience",
+        "Check that names, dates and contact details are current"
+      ]
+    }
+  ]
+}
