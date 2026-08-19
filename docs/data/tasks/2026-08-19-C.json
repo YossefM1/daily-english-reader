@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-19",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Pranab Doley in Assam: The Indian activist jailed after taking on a hotel in Kaziranga",
+  "article_url": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central conflict described in the article?",
+      "difficulty": "C",
+      "options": [
+        "An Indigenous land-rights activist was detained after opposing a proposed luxury hotel near Kaziranga",
+        "A hotel owner was jailed for harming wildlife inside Kaziranga",
+        "An activist asked the government to build more resorts in Assam",
+        "A court transferred Kaziranga National Park to a private company"
+      ],
+      "correct_answer": "An Indigenous land-rights activist was detained after opposing a proposed luxury hotel near Kaziranga",
+      "explanation_hebrew": "הכתבה עוסקת בפראנב דולי, פעיל זכויות קרקע ילידיות שנעצר ונכלא לאחר מאבקו נגד מלון יוקרה מתוכנן ליד קזירנגה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened immediately after a local court granted Doley bail?",
+      "difficulty": "C",
+      "options": [
+        "He became the manager of the hotel",
+        "The Assam government detained him under the National Security Act",
+        "The hotel project was permanently cancelled",
+        "He left India to stand trial abroad"
+      ],
+      "correct_answer": "The Assam government detained him under the National Security Act",
+      "explanation_hebrew": "יום לאחר שבית משפט העניק לו שחרור בערבות, ממשלת אסאם הפעילה נגדו את חוק הביטחון הלאומי והותירה אותו במעצר."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why is the National Security Act described as giving “sweeping” powers?",
+      "difficulty": "C",
+      "options": [
+        "It applies only to hotel building permits",
+        "It requires every case to end within one day",
+        "It gives authorities broad power to detain a person without ordinary trial procedures",
+        "It transfers all land to village councils"
+      ],
+      "correct_answer": "It gives authorities broad power to detain a person without ordinary trial procedures",
+      "explanation_hebrew": "sweeping מתאר סמכויות רחבות מאוד; החוק מאפשר מעצר מניעתי ממושך ללא הליך פלילי רגיל."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What project had Doley and local villagers opposed?",
+      "difficulty": "C",
+      "options": [
+        "A railway through central Delhi",
+        "A new court building in Golaghat",
+        "A cashless-payment centre",
+        "A proposed five-star luxury hotel near Kaziranga National Park"
+      ],
+      "correct_answer": "A proposed five-star luxury hotel near Kaziranga National Park",
+      "explanation_hebrew": "המחאה התמקדה בתוכנית להקים מלון יוקרה בן חמישה כוכבים ליד הפארק הלאומי קזירנגה."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do critics call the use of a national-security law in this case “draconian”?",
+      "difficulty": "C",
+      "options": [
+        "The law provides a hotel discount",
+        "It can impose severe detention powers on an activist involved in a land protest",
+        "It guarantees compensation to displaced farmers",
+        "It requires conservation groups to support development"
+      ],
+      "correct_answer": "It can impose severe detention powers on an activist involved in a land protest",
+      "explanation_hebrew": "draconian מתאר אמצעי נוקשה וקיצוני; המבקרים טוענים שחוק ביטחוני חמור הופעל נגד פעילות מחאה וזכויות קרקע."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “displaced” mean when discussing local communities?",
+      "difficulty": "C",
+      "options": [
+        "Invited to manage the resort",
+        "Declared eligible for bail",
+        "Asked to cultivate more land",
+        "Forced to leave land or homes they had occupied"
+      ],
+      "correct_answer": "Forced to leave land or homes they had occupied",
+      "explanation_hebrew": "displaced פירושו שנאלצו לעזוב את אדמתם או את מקום מגוריהם בשל הפרויקט או שינויי השימוש בקרקע."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give four facts explaining why Doley's detention is controversial.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין ארבע עובדות קונקרטיות על הערבות, החוק, הראיות והמאבק בקרקע.",
+      "expected_points": [
+        "He was arrested in connection with protests against a luxury hotel project",
+        "A local court granted him bail",
+        "The government invoked the National Security Act the following day",
+        "The NSA permits detention without ordinary trial or formal charges for an extended period",
+        "The bail court reportedly noted a lack of video evidence for some allegations",
+        "Supporters describe him as an Indigenous land-rights activist defending villagers",
+        "Critics allege intimidation or suppression of dissent"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the hotel dispute, Doley's activism, the criminal allegations and the government's later use of the NSA.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לחבר בין תוכנית המלון, זכויות הקרקע, המחאה, הערבות והמעצר המניעתי.",
+      "expected_points": [
+        "A luxury hotel was proposed near Kaziranga National Park",
+        "Local Indigenous or Adivasi communities disputed the land use and feared displacement",
+        "Pranab Doley supported the villagers and opposed the project",
+        "Police linked him to protest-related allegations such as obstruction or damage",
+        "A court granted him bail in the criminal case",
+        "The Assam government then detained him under the National Security Act",
+        "Officials cite public order or state security, while critics call the detention unlawful or excessive"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can conservation and tourism development create conflict with Indigenous land rights around a national park?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את המתח בין שימור, הכנסות מתיירות, שליטה בקרקע ופרנסת קהילות מקומיות.",
+      "expected_points": [
+        "Protected areas and resorts may restrict traditional access to land",
+        "Communities may have cultivated or used disputed land for generations",
+        "Tourism revenue may benefit companies or the state more than villagers",
+        "Development can displace families or alter livelihoods",
+        "Conservation decisions may be made without meaningful local consent",
+        "Supporters argue development brings jobs, but critics question who bears the costs"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, evaluate whether preventive-detention laws should be used against leaders of land protests. Present the government's argument, the critics' argument and safeguards you would require.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את שני הצדדים ולהציע מנגנוני הגנה משפטיים קונקרטיים, בלי לקבוע עובדות שאינן בכתבה.",
+      "expected_points": [
+        "The government can argue that serious threats to public order require preventive action",
+        "Authorities allege obstruction, damage or attempts to create disorder",
+        "Critics argue ordinary criminal law and bail procedures should be sufficient",
+        "Detention without trial can suppress legitimate dissent",
+        "Independent judicial review should be prompt and regular",
+        "Authorities should disclose specific evidence and allow legal representation",
+        "The response should distinguish peaceful protest from proven violence",
+        "Any restriction should be necessary, proportionate and time-limited"
+      ]
+    }
+  ]
+}

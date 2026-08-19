@@ -1,0 +1,171 @@
+{
+  "date": "2026-08-19",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Deaf patient given wrong jab due to sign language error, report says",
+  "article_url": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What failure is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "A deaf patient received the wrong vaccine after a GP surgery failed to provide accessible BSL communication",
+        "A patient refused every vaccine offered at a hospital",
+        "A surgery closed because it had too many interpreters",
+        "A pharmacist lost a shipment of flu vaccines"
+      ],
+      "correct_answer": "A deaf patient received the wrong vaccine after a GP surgery failed to provide accessible BSL communication",
+      "explanation_hebrew": "הכתבה עוסקת בכשל תקשורתי נגיש: מטופלת חירשת קיבלה חיסון שגוי לאחר שלא סופק לה תרגום מתאים לשפת הסימנים הבריטית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which vaccine had the patient booked, and which did she receive instead?",
+      "difficulty": "B",
+      "options": [
+        "She booked a Covid vaccine and received a flu vaccine",
+        "She booked a flu vaccine and received a Covid vaccine",
+        "She booked a travel vaccine and received no injection",
+        "She booked a tetanus vaccine and received two flu vaccines"
+      ],
+      "correct_answer": "She booked a flu vaccine and received a Covid vaccine",
+      "explanation_hebrew": "המטופלת הזמינה חיסון נגד שפעת אך קיבלה בטעות חיסון נגד קורונה."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What could have highlighted the vaccination error before the injection?",
+      "difficulty": "B",
+      "options": [
+        "A telephone message without captions",
+        "A handwritten note from another patient",
+        "A British Sign Language video explaining the vaccine",
+        "A television news report"
+      ],
+      "correct_answer": "A British Sign Language video explaining the vaccine",
+      "explanation_hebrew": "סרטון בשפת הסימנים הבריטית היה מאפשר למטופלת להבין איזה חיסון עומד להינתן ולהצביע על הטעות."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “inaccessible communication” mean in this case?",
+      "difficulty": "B",
+      "options": [
+        "Communication sent too early",
+        "Information that was too expensive to print",
+        "A message written in a foreign alphabet",
+        "Information not provided in a form the deaf patient could understand"
+      ],
+      "correct_answer": "Information not provided in a form the deaf patient could understand",
+      "explanation_hebrew": "תקשורת לא נגישה היא מידע שלא הוצג בפורמט שהמטופלת החירשת יכלה להבין, כגון BSL."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which body investigated the complaint described in the article?",
+      "difficulty": "B",
+      "options": [
+        "A private travel company",
+        "The Parliamentary and Health Service Ombudsman",
+        "A mobile-payment provider",
+        "A local sports association"
+      ],
+      "correct_answer": "The Parliamentary and Health Service Ombudsman",
+      "explanation_hebrew": "נציב תלונות הציבור לענייני הפרלמנט ושירותי הבריאות חקר את המקרה ואת כשלי הנגישות."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What are “reasonable adjustments” in healthcare?",
+      "difficulty": "B",
+      "options": [
+        "Optional decorations in a waiting room",
+        "Changes made only after a court trial",
+        "Practical changes that remove disability-related barriers, such as arranging an interpreter",
+        "Discounts offered to every patient"
+      ],
+      "correct_answer": "Practical changes that remove disability-related barriers, such as arranging an interpreter",
+      "explanation_hebrew": "reasonable adjustments הם שינויים מעשיים וסבירים שנועדו להסיר חסם הנובע ממוגבלות, למשל הזמנת מתורגמן."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three actions the GP surgery should have taken to support informed consent.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה צעדים מעשיים המבטיחים הבנה והסכמה מדעת.",
+      "expected_points": [
+        "Arrange a qualified BSL interpreter",
+        "Provide the vaccine information in an accessible BSL format",
+        "Confirm which vaccine the patient had requested",
+        "Check the patient's understanding before administering the injection",
+        "Obtain clear informed consent for the specific vaccine",
+        "Record communication needs so staff can prepare for future appointments"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise what happened, why communication was central to the error and what the investigation concluded.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את החיסון שהוזמן, החיסון שניתן, היעדר הנגישות ומסקנת הדוח.",
+      "expected_points": [
+        "The deaf patient booked a flu vaccination",
+        "She was given a Covid vaccination instead",
+        "No BSL interpreter was provided at the surgery",
+        "Staff did not show the accessible BSL material that could have exposed the mistake",
+        "The ombudsman found that inaccessible communication let the patient down",
+        "Healthcare providers have duties to make communication accessible and support consent"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is providing an interpreter a patient-safety measure, not merely a courtesy?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשור בין תקשורת נגישה לבין מידע רפואי נכון, הסכמה ומניעת טעויות.",
+      "expected_points": [
+        "The patient must understand the proposed treatment",
+        "Accurate two-way communication allows the patient to correct errors",
+        "Informed consent is impossible without understandable information",
+        "Miscommunication can lead directly to the wrong medicine or vaccine",
+        "An interpreter enables questions about risks and alternatives",
+        "Accessibility supports equal and safe care"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, propose a short accessibility checklist for a GP surgery before treating a deaf patient.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע צעדים מסודרים לפני הטיפול, במהלכו ואחריו, המבוססים על לקחי המקרה.",
+      "expected_points": [
+        "Record the patient's preferred communication method when booking",
+        "Arrange a qualified BSL interpreter in advance",
+        "Provide accessible written or signed information",
+        "Verify the patient's identity and the exact treatment requested",
+        "Confirm understanding and specific consent before treatment",
+        "Do not rely on family members when professional interpretation is needed",
+        "Offer an accessible complaint and follow-up process",
+        "Review incidents and train staff to prevent repetition"
+      ]
+    }
+  ]
+}

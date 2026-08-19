@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-19",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Mobile payments on the rise but cash decline slows",
+  "article_url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main trend described in the article?",
+      "difficulty": "A",
+      "options": [
+        "More people are paying by mobile phone, while cash use is falling more slowly than before",
+        "Cash has disappeared completely from the UK economy",
+        "Consumers have stopped using contactless payments",
+        "Mobile wallets are now available only to businesses"
+      ],
+      "correct_answer": "More people are paying by mobile phone, while cash use is falling more slowly than before",
+      "explanation_hebrew": "הכתבה מתארת עלייה בתשלומים באמצעות טלפון לצד האטה בקצב הירידה בשימוש במזומן."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does a mobile wallet allow a consumer to do?",
+      "difficulty": "A",
+      "options": [
+        "Print banknotes at home",
+        "Store payment-card details on a phone or device and make contactless payments",
+        "Withdraw cash without any bank account",
+        "Avoid all security checks"
+      ],
+      "correct_answer": "Store payment-card details on a phone or device and make contactless payments",
+      "explanation_hebrew": "ארנק דיגיטלי שומר את פרטי הכרטיס במכשיר ומאפשר לשלם באמצעותו ללא מגע."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “registered” mean when the article discusses mobile-payment users?",
+      "difficulty": "A",
+      "options": [
+        "They paid only in cash",
+        "They cancelled every bank card",
+        "They signed up for or added a mobile-payment service",
+        "They visited a bank branch every week"
+      ],
+      "correct_answer": "They signed up for or added a mobile-payment service",
+      "explanation_hebrew": "registered פירושו שנרשמו לשירות או הוסיפו ארנק תשלומים למכשיר."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is cash likely to remain important even as mobile payments grow?",
+      "difficulty": "A",
+      "options": [
+        "Phones cannot make small payments",
+        "Cash is the default method for all online shopping",
+        "Cash earns interest during each transaction",
+        "Some people prefer it, rely on it, or find it easier for budgeting"
+      ],
+      "correct_answer": "Some people prefer it, rely on it, or find it easier for budgeting",
+      "explanation_hebrew": "חלק מהצרכנים תלויים במזומן או מעדיפים אותו, ובמיוחד משתמשים בו כדי לעקוב באופן מוחשי אחר תקציבם."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What security feature is commonly used to verify a mobile payment?",
+      "difficulty": "A",
+      "options": [
+        "A handwritten receipt",
+        "Biometric checks such as a fingerprint or face scan",
+        "A visit to the tax office",
+        "A paper cheque sent by post"
+      ],
+      "correct_answer": "Biometric checks such as a fingerprint or face scan",
+      "explanation_hebrew": "תשלום נייד מאומת לעיתים קרובות באמצעות זיהוי ביומטרי, כגון טביעת אצבע או זיהוי פנים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “cash accounted for a smaller share of transactions”, what does “accounted for” mean?",
+      "difficulty": "A",
+      "options": [
+        "Was stored in a mobile wallet",
+        "Was forecast incorrectly",
+        "Made up or represented that part of the total",
+        "Was withdrawn from every account"
+      ],
+      "correct_answer": "Made up or represented that part of the total",
+      "explanation_hebrew": "accounted for פירושו היווה חלק מסוים מן הסך הכולל של העסקאות."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three reasons consumers may choose mobile payments instead of cash or a physical card.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה יתרונות מעשיים המתוארים או מוסברים בכתבה.",
+      "expected_points": [
+        "A phone is often already being carried",
+        "Contactless mobile payment is quick and convenient",
+        "Several cards can be stored in one wallet",
+        "Biometric verification can add security",
+        "Mobile payments can work without carrying a physical bank card",
+        "Digital transactions are easy to record in an app"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the changing roles of mobile wallets, cards and cash in UK payments.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך להשוות בין העלייה בתשלום נייד, חשיבות הכרטיסים וההאטה בירידת המזומן.",
+      "expected_points": [
+        "Mobile-wallet registration and use have risen",
+        "Consumers increasingly use phones for contactless purchases",
+        "Cards remain central because mobile wallets usually store card details",
+        "Cash represents a smaller share than in the past",
+        "The decline in cash is slowing as use becomes concentrated among people who strongly prefer or need it",
+        "The transition is gradual rather than an immediate move to a cashless economy"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might the decline in cash slow as fewer people use it?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד הרכב המשתמשים שנותרו במזומן משנה את קצב הירידה.",
+      "expected_points": [
+        "People who could easily switch may already have moved to digital methods",
+        "Remaining cash users may have a strong preference for notes and coins",
+        "Some users depend on cash because of access, age or disability barriers",
+        "Cash can help households control a tight budget",
+        "A committed group is less likely to change quickly"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, argue whether shops should continue accepting cash while mobile payments expand. Include two benefits of digital payment and two reasons to preserve cash.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג טיעון מאוזן המבוסס על מגמות ונימוקים מן הכתבה.",
+      "expected_points": [
+        "Mobile payments are fast and convenient",
+        "Mobile wallets can use biometric verification",
+        "Digital records can help track transactions",
+        "Cash supports people who lack or avoid digital services",
+        "Cash can be useful for budgeting and privacy",
+        "Cash provides resilience during technical outages",
+        "The conclusion should balance innovation with inclusion"
+      ]
+    }
+  ]
+}
