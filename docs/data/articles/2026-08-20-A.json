@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-20",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Giant whales move into Greenland waters as ice disappears",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno",
+  "published_at": "2026-08-20T02:05:20+00:00",
+  "age_hours_at_selection": 0.11,
+  "word_count": 496,
+  "generated_at": "2026-08-20T02:12:01.131623+00:00",
+  "difficulty_reason": "Short, clear science story with simple structure and mostly B1/B2 vocabulary; low background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "inaccessible",
+      "lemma": "accessible",
+      "level": "B2",
+      "hebrew": "לא נגיש",
+      "explanation_hebrew": "מקום שאי אפשר להגיע אליו",
+      "pronunciation_hebrew": "אִינְאַקְסֶסִיבְּל",
+      "example": "The cave was inaccessible without special gear."
+    },
+    {
+      "word": "conclusion",
+      "lemma": "conclusion",
+      "level": "B1",
+      "hebrew": "מסקנה",
+      "explanation_hebrew": "תוצאה או סיכום של מחקר",
+      "pronunciation_hebrew": "קוֹנְקְלוּזְ'ן",
+      "example": "The report ended with a clear conclusion."
+    },
+    {
+      "word": "feeding",
+      "lemma": "feed",
+      "level": "B1",
+      "hebrew": "האכלה / ניזון",
+      "explanation_hebrew": "אכילת מזון",
+      "pronunciation_hebrew": "פִידִינְג",
+      "example": "The birds were feeding on seeds."
+    },
+    {
+      "word": "marine",
+      "lemma": "marine",
+      "level": "B2",
+      "hebrew": "ימי",
+      "explanation_hebrew": "הקשור לים",
+      "pronunciation_hebrew": "מַרִין",
+      "example": "Marine life is rich in this area."
+    },
+    {
+      "word": "mammals",
+      "lemma": "mammal",
+      "level": "B1",
+      "hebrew": "יונקים",
+      "explanation_hebrew": "בעלי חיים שמניקים את צאצאיהם",
+      "pronunciation_hebrew": "מַמַלְז",
+      "example": "Whales and dogs are mammals."
+    },
+    {
+      "word": "historically",
+      "lemma": "historically",
+      "level": "B2",
+      "hebrew": "היסטורית",
+      "explanation_hebrew": "מבחינה היסטורית, בעבר",
+      "pronunciation_hebrew": "הִיסְטוֹרִיקְלִי",
+      "example": "Historically, the town was a fishing port."
+    },
+    {
+      "word": "coastal",
+      "lemma": "coastal",
+      "level": "B1",
+      "hebrew": "חופי",
+      "explanation_hebrew": "הנמצא ליד החוף",
+      "pronunciation_hebrew": "קוֹסְטַל",
+      "example": "They live in a coastal village."
+    },
+    {
+      "word": "adapted",
+      "lemma": "adapt",
+      "level": "B1",
+      "hebrew": "הסתגלו / הותאם",
+      "explanation_hebrew": "השתנו כדי להתאים לתנאים",
+      "pronunciation_hebrew": "אַדַפְּטֶד",
+      "example": "The animals adapted to the cold."
+    },
+    {
+      "word": "seasonal",
+      "lemma": "seasonal",
+      "level": "B1",
+      "hebrew": "עונתי",
+      "explanation_hebrew": "הקשור לעונה מסוימת",
+      "pronunciation_hebrew": "סִיזוֹנַל",
+      "example": "Skiing is a seasonal activity."
+    },
+    {
+      "word": "dramatic",
+      "lemma": "dramatic",
+      "level": "B1",
+      "hebrew": "דרמטי",
+      "explanation_hebrew": "חזק ומרשים, שינוי גדול",
+      "pronunciation_hebrew": "דְרַמַטִיק",
+      "example": "There was a dramatic change in the weather."
+    },
+    {
+      "word": "sighting",
+      "lemma": "sighting",
+      "level": "B2",
+      "hebrew": "צפייה / הבחנה",
+      "explanation_hebrew": "מקרה של ראיית משהו",
+      "pronunciation_hebrew": "סַייטִינְג",
+      "example": "There was a rare sighting of a whale."
+    },
+    {
+      "word": "systematic",
+      "lemma": "systematic",
+      "level": "B2",
+      "hebrew": "שיטתי",
+      "explanation_hebrew": "מאורגן ומתוכנן",
+      "pronunciation_hebrew": "סִיסְטֶמַטִיק",
+      "example": "They made a systematic search of the area."
+    },
+    {
+      "word": "aerial",
+      "lemma": "aerial",
+      "level": "B2",
+      "hebrew": "אווירי",
+      "explanation_hebrew": "מהאוויר, מלמעלה",
+      "pronunciation_hebrew": "אֶרִיאַל",
+      "example": "They took aerial photos from a plane."
+    },
+    {
+      "word": "combined",
+      "lemma": "combine",
+      "level": "B1",
+      "hebrew": "שילבו",
+      "explanation_hebrew": "חיברו יחד",
+      "pronunciation_hebrew": "קוֹמְבַּיינְד",
+      "example": "She combined the two reports into one."
+    },
+    {
+      "word": "testimony",
+      "lemma": "testimony",
+      "level": "C1",
+      "hebrew": "עדות",
+      "explanation_hebrew": "מסירת מידע על סמך ניסיון",
+      "pronunciation_hebrew": "טֶסְטִימוֹנִי",
+      "example": "His testimony helped the case."
+    },
+    {
+      "word": "estimated",
+      "lemma": "estimate",
+      "level": "B1",
+      "hebrew": "מוערך / העריכו",
+      "explanation_hebrew": "הערכה של כמות או מספר",
+      "pronunciation_hebrew": "אֶסְטִימֵייטֶד",
+      "example": "They estimated the cost at 500 dollars."
+    },
+    {
+      "word": "radical",
+      "lemma": "radical",
+      "level": "B2",
+      "hebrew": "קיצוני",
+      "explanation_hebrew": "קיצוני, שינוי עמוק",
+      "pronunciation_hebrew": "רַדִיקַל",
+      "example": "It was a radical change in policy."
+    },
+    {
+      "word": "availability",
+      "lemma": "availability",
+      "level": "B2",
+      "hebrew": "זמינות",
+      "explanation_hebrew": "המידה שבה משהו זמין",
+      "pronunciation_hebrew": "אַוֵיילַבִּילִיטִי",
+      "example": "Food availability affects prices."
+    },
+    {
+      "word": "consume",
+      "lemma": "consume",
+      "level": "B2",
+      "hebrew": "לצרוך",
+      "explanation_hebrew": "לאכול או להשתמש",
+      "pronunciation_hebrew": "קוֹנְסוּם",
+      "example": "Whales consume huge amounts of fish."
+    },
+    {
+      "word": "reflects",
+      "lemma": "reflect",
+      "level": "B2",
+      "hebrew": "משקף",
+      "explanation_hebrew": "מראה או מבטא משהו",
+      "pronunciation_hebrew": "רִיפְלֶקְטְס",
+      "example": "The result reflects hard work."
+    },
+    {
+      "word": "influx",
+      "lemma": "influx",
+      "level": "C1",
+      "hebrew": "נהירה / זרימה פנימה",
+      "explanation_hebrew": "כניסה של הרבה אנשים או דברים",
+      "pronunciation_hebrew": "אִינְפְלַקְס",
+      "example": "There was an influx of tourists."
+    },
+    {
+      "word": "sensitive",
+      "lemma": "sensitive",
+      "level": "B1",
+      "hebrew": "רגיש",
+      "explanation_hebrew": "נושא עדין שדורש זהירות",
+      "pronunciation_hebrew": "סֶנְסִיטִיב",
+      "example": "It is a sensitive topic."
+    },
+    {
+      "word": "opportunistic",
+      "lemma": "opportunistic",
+      "level": "C1",
+      "hebrew": "מנצל הזדמנויות",
+      "explanation_hebrew": "מנצל הזדמנויות שנקרות בדרכו",
+      "pronunciation_hebrew": "אוֹפּוֹרְטְיוּנִיסְטִיק",
+      "example": "The fox is an opportunistic hunter."
+    },
+    {
+      "word": "displaced",
+      "lemma": "displace",
+      "level": "B2",
+      "hebrew": "עקורים / הודחו ממקומם",
+      "explanation_hebrew": "נדחקו ממקומם הטבעי",
+      "pronunciation_hebrew": "דִיסְפְּלֵייסְד",
+      "example": "Many people were displaced by the flood."
+    },
+    {
+      "word": "habitat",
+      "lemma": "habitat",
+      "level": "B1",
+      "hebrew": "בית גידול",
+      "explanation_hebrew": "הסביבה הטבעית של בעל חיים",
+      "pronunciation_hebrew": "הַבִּיטַט",
+      "example": "The forest is a habitat for many animals."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "inaccessible",
+      "type": "english_to_hebrew",
+      "question": "What does “inaccessible” mean?",
+      "options": [
+        "לא נגיש",
+        "ימי",
+        "שיטתי",
+        "הסתגלו / הותאם"
+      ],
+      "correct_answer": "לא נגיש",
+      "explanation_hebrew": "“inaccessible” פירושו לא נגיש – מקום שאי אפשר להגיע אליו."
+    },
+    {
+      "id": "A-q2",
+      "word": "conclusion",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“מסקנה”?",
+      "options": [
+        "historically",
+        "testimony",
+        "dramatic",
+        "conclusion"
+      ],
+      "correct_answer": "conclusion",
+      "explanation_hebrew": "המילה “conclusion” פירושה מסקנה – תוצאה או סיכום של מחקר."
+    },
+    {
+      "id": "A-q3",
+      "word": "feeding",
+      "type": "english_to_hebrew",
+      "question": "What does “feeding” mean?",
+      "options": [
+        "שילבו",
+        "האכלה / ניזון",
+        "דרמטי",
+        "היסטורית"
+      ],
+      "correct_answer": "האכלה / ניזון",
+      "explanation_hebrew": "“feeding” פירושו האכלה / ניזון – אכילת מזון."
+    },
+    {
+      "id": "A-q4",
+      "word": "marine",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“ימי”?",
+      "options": [
+        "radical",
+        "adapted",
+        "systematic",
+        "marine"
+      ],
+      "correct_answer": "marine",
+      "explanation_hebrew": "המילה “marine” פירושה ימי – הקשור לים."
+    },
+    {
+      "id": "A-q5",
+      "word": "mammals",
+      "type": "english_to_hebrew",
+      "question": "What does “mammals” mean?",
+      "options": [
+        "הסתגלו / הותאם",
+        "שיטתי",
+        "יונקים",
+        "מוערך / העריכו"
+      ],
+      "correct_answer": "יונקים",
+      "explanation_hebrew": "“mammals” פירושו יונקים – בעלי חיים שמניקים את צאצאיהם."
+    },
+    {
+      "id": "A-q6",
+      "word": "historically",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“היסטורית”?",
+      "options": [
+        "historically",
+        "consume",
+        "combined",
+        "dramatic"
+      ],
+      "correct_answer": "historically",
+      "explanation_hebrew": "המילה “historically” פירושה היסטורית – מבחינה היסטורית, בעבר."
+    },
+    {
+      "id": "A-q7",
+      "word": "coastal",
+      "type": "english_to_hebrew",
+      "question": "What does “coastal” mean?",
+      "options": [
+        "זמינות",
+        "שילבו",
+        "חופי",
+        "דרמטי"
+      ],
+      "correct_answer": "חופי",
+      "explanation_hebrew": "“coastal” פירושו חופי – הנמצא ליד החוף."
+    },
+    {
+      "id": "A-q8",
+      "word": "adapted",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“הסתגלו / הותאם”?",
+      "options": [
+        "systematic",
+        "estimated",
+        "influx",
+        "adapted"
+      ],
+      "correct_answer": "adapted",
+      "explanation_hebrew": "המילה “adapted” פירושה הסתגלו / הותאם – השתנו כדי להתאים לתנאים."
+    },
+    {
+      "id": "A-q9",
+      "word": "seasonal",
+      "type": "english_to_hebrew",
+      "question": "What does “seasonal” mean?",
+      "options": [
+        "עונתי",
+        "שיטתי",
+        "משקף",
+        "מוערך / העריכו"
+      ],
+      "correct_answer": "עונתי",
+      "explanation_hebrew": "“seasonal” פירושו עונתי – הקשור לעונה מסוימת."
+    },
+    {
+      "id": "A-q10",
+      "word": "dramatic",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“דרמטי”?",
+      "options": [
+        "availability",
+        "opportunistic",
+        "dramatic",
+        "combined"
+      ],
+      "correct_answer": "dramatic",
+      "explanation_hebrew": "המילה “dramatic” פירושה דרמטי – חזק ומרשים, שינוי גדול."
+    },
+    {
+      "id": "A-q11",
+      "word": "sighting",
+      "type": "english_to_hebrew",
+      "question": "What does “sighting” mean?",
+      "options": [
+        "זמינות",
+        "שילבו",
+        "צפייה / הבחנה",
+        "רגיש"
+      ],
+      "correct_answer": "צפייה / הבחנה",
+      "explanation_hebrew": "“sighting” פירושו צפייה / הבחנה – מקרה של ראיית משהו."
+    },
+    {
+      "id": "A-q12",
+      "word": "systematic",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“שיטתי”?",
+      "options": [
+        "systematic",
+        "reflects",
+        "estimated",
+        "habitat"
+      ],
+      "correct_answer": "systematic",
+      "explanation_hebrew": "המילה “systematic” פירושה שיטתי – מאורגן ומתוכנן."
+    },
+    {
+      "id": "A-q13",
+      "word": "aerial",
+      "type": "english_to_hebrew",
+      "question": "What does “aerial” mean?",
+      "options": [
+        "מוערך / העריכו",
+        "עקורים / הודחו ממקומם",
+        "משקף",
+        "אווירי"
+      ],
+      "correct_answer": "אווירי",
+      "explanation_hebrew": "“aerial” פירושו אווירי – מהאוויר, מלמעלה."
+    },
+    {
+      "id": "A-q14",
+      "word": "combined",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“שילבו”?",
+      "options": [
+        "availability",
+        "sensitive",
+        "combined",
+        "conclusion"
+      ],
+      "correct_answer": "combined",
+      "explanation_hebrew": "המילה “combined” פירושה שילבו – חיברו יחד."
+    },
+    {
+      "id": "A-q15",
+      "word": "testimony",
+      "type": "english_to_hebrew",
+      "question": "What does “testimony” mean?",
+      "options": [
+        "רגיש",
+        "עדות",
+        "זמינות",
+        "לא נגיש"
+      ],
+      "correct_answer": "עדות",
+      "explanation_hebrew": "“testimony” פירושו עדות – מסירת מידע על סמך ניסיון."
+    },
+    {
+      "id": "A-q16",
+      "word": "estimated",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“מוערך / העריכו”?",
+      "options": [
+        "reflects",
+        "marine",
+        "displaced",
+        "estimated"
+      ],
+      "correct_answer": "estimated",
+      "explanation_hebrew": "המילה “estimated” פירושה מוערך / העריכו – הערכה של כמות או מספר."
+    },
+    {
+      "id": "A-q17",
+      "word": "radical",
+      "type": "english_to_hebrew",
+      "question": "What does “radical” mean?",
+      "options": [
+        "קיצוני",
+        "האכלה / ניזון",
+        "עקורים / הודחו ממקומם",
+        "משקף"
+      ],
+      "correct_answer": "קיצוני",
+      "explanation_hebrew": "“radical” פירושו קיצוני – קיצוני, שינוי עמוק."
+    },
+    {
+      "id": "A-q18",
+      "word": "availability",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“זמינות”?",
+      "options": [
+        "historically",
+        "inaccessible",
+        "sensitive",
+        "availability"
+      ],
+      "correct_answer": "availability",
+      "explanation_hebrew": "המילה “availability” פירושה זמינות – המידה שבה משהו זמין."
+    },
+    {
+      "id": "A-q19",
+      "word": "consume",
+      "type": "english_to_hebrew",
+      "question": "What does “consume” mean?",
+      "options": [
+        "יונקים",
+        "לצרוך",
+        "לא נגיש",
+        "רגיש"
+      ],
+      "correct_answer": "לצרוך",
+      "explanation_hebrew": "“consume” פירושו לצרוך – לאכול או להשתמש."
+    },
+    {
+      "id": "A-q20",
+      "word": "reflects",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“משקף”?",
+      "options": [
+        "adapted",
+        "feeding",
+        "displaced",
+        "reflects"
+      ],
+      "correct_answer": "reflects",
+      "explanation_hebrew": "המילה “reflects” פירושה משקף – מראה או מבטא משהו."
+    },
+    {
+      "id": "A-q21",
+      "word": "influx",
+      "type": "english_to_hebrew",
+      "question": "What does “influx” mean?",
+      "options": [
+        "חופי",
+        "עקורים / הודחו ממקומם",
+        "האכלה / ניזון",
+        "נהירה / זרימה פנימה"
+      ],
+      "correct_answer": "נהירה / זרימה פנימה",
+      "explanation_hebrew": "“influx” פירושו נהירה / זרימה פנימה – כניסה של הרבה אנשים או דברים."
+    },
+    {
+      "id": "A-q22",
+      "word": "sensitive",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“רגיש”?",
+      "options": [
+        "mammals",
+        "inaccessible",
+        "sensitive",
+        "dramatic"
+      ],
+      "correct_answer": "sensitive",
+      "explanation_hebrew": "המילה “sensitive” פירושה רגיש – נושא עדין שדורש זהירות."
+    },
+    {
+      "id": "A-q23",
+      "word": "opportunistic",
+      "type": "english_to_hebrew",
+      "question": "What does “opportunistic” mean?",
+      "options": [
+        "מנצל הזדמנויות",
+        "עונתי",
+        "יונקים",
+        "לא נגיש"
+      ],
+      "correct_answer": "מנצל הזדמנויות",
+      "explanation_hebrew": "“opportunistic” פירושו מנצל הזדמנויות – מנצל הזדמנויות שנקרות בדרכו."
+    },
+    {
+      "id": "A-q24",
+      "word": "displaced",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל-“עקורים / הודחו ממקומם”?",
+      "options": [
+        "displaced",
+        "coastal",
+        "systematic",
+        "feeding"
+      ],
+      "correct_answer": "displaced",
+      "explanation_hebrew": "המילה “displaced” פירושה עקורים / הודחו ממקומם – נדחקו ממקומם הטבעי."
+    },
+    {
+      "id": "A-q25",
+      "word": "habitat",
+      "type": "english_to_hebrew",
+      "question": "What does “habitat” mean?",
+      "options": [
+        "בית גידול",
+        "צפייה / הבחנה",
+        "חופי",
+        "האכלה / ניזון"
+      ],
+      "correct_answer": "בית גידול",
+      "explanation_hebrew": "“habitat” פירושו בית גידול – הסביבה הטבעית של בעל חיים."
+    }
+  ]
+}
