@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-20",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Sacked Ukrainian defence minister calls for presidential election",
+  "article_url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why is Mykhailo Fedorov's call for wartime elections politically significant?",
+      "difficulty": "C",
+      "options": [
+        "It is viewed as a major challenge to President Zelensky after Fedorov's dismissal and the protests that followed",
+        "It immediately ended martial law across Ukraine",
+        "It confirmed that Fedorov had joined the Russian government",
+        "It cancelled the appointment of every defence official"
+      ],
+      "correct_answer": "It is viewed as a major challenge to President Zelensky after Fedorov's dismissal and the protests that followed",
+      "explanation_hebrew": "הקריאה נתפסת כאתגר משמעותי לזלנסקי, במיוחד לאחר הדחת פדורוב והמחאה הציבורית."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why have Ukrainian national elections been suspended since 2022?",
+      "difficulty": "C",
+      "options": [
+        "Parliament permanently abolished voting",
+        "The constitution does not allow elections under martial law",
+        "All candidates moved abroad",
+        "The defence ministry controls election dates"
+      ],
+      "correct_answer": "The constitution does not allow elections under martial law",
+      "explanation_hebrew": "מאז הפלישה המלאה אוקראינה תחת ממשל צבאי, ובמצב זה החוקה אינה מאפשרת בחירות."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “held hostage” mean in Fedorov's statement that democracy cannot be held hostage by Russia?",
+      "difficulty": "C",
+      "options": [
+        "Democracy should not be controlled or indefinitely delayed because of Russia's actions",
+        "Election officials should be physically imprisoned",
+        "Ukraine should abandon European institutions",
+        "Only soldiers should be allowed to vote"
+      ],
+      "correct_answer": "Democracy should not be controlled or indefinitely delayed because of Russia's actions",
+      "explanation_hebrew": "הביטוי מטפורי: פדורוב טוען שאין לאפשר לרוסיה לקבוע מתי אוקראינים יוכלו לבחור."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened shortly before Fedorov released his video?",
+      "difficulty": "C",
+      "options": [
+        "Zelensky resigned from the presidency",
+        "Russia announced the end of the invasion",
+        "Yevhenii Khmara was put forward as permanent defence minister",
+        "Fedorov accepted a deputy prime minister post"
+      ],
+      "correct_answer": "Yevhenii Khmara was put forward as permanent defence minister",
+      "explanation_hebrew": "מינוי חמרה לתפקיד הקבוע סגר למעשה את האפשרות שפדורוב יחזור למשרד ההגנה."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What most strongly fuels speculation that Fedorov may have wider political ambitions?",
+      "difficulty": "C",
+      "options": [
+        "He discussed only technical weapons procurement",
+        "He addressed the public about elections, accountability and power beyond his former ministerial role",
+        "He announced his retirement from public life",
+        "He publicly endorsed every decision made by Zelensky"
+      ],
+      "correct_answer": "He addressed the public about elections, accountability and power beyond his former ministerial role",
+      "explanation_hebrew": "הנאום עסק בנושאים רחבים בהרבה מתיק הביטחון ולכן עורר השערות על תפקיד פוליטי עתידי."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “a realistic mechanism” for elections, what does “mechanism” mean?",
+      "difficulty": "C",
+      "options": [
+        "A military vehicle",
+        "A legal and practical system or procedure",
+        "A campaign slogan",
+        "A personal disagreement"
+      ],
+      "correct_answer": "A legal and practical system or procedure",
+      "explanation_hebrew": "mechanism כאן הוא שיטה או הליך חוקי ומעשי שיאפשר לחדש את התהליך הדמוקרטי."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify three practical or constitutional obstacles to holding a Ukrainian election during the war.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה מכשולים מפורשים מן הכתבה.",
+      "expected_points": [
+        "Elections are barred under martial law",
+        "Voting sites face missile, drone and frontline security risks",
+        "Troops need a safe way to vote",
+        "Millions of Ukrainians living abroad need access",
+        "People in occupied or frontline areas may be unable to participate",
+        "The country needs a legitimate nationwide process despite displacement"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the events from Fedorov's dismissal to his call for elections.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר רצף כרונולוגי ואת המשמעות הפוליטית.",
+      "expected_points": [
+        "Fedorov was dismissed after six months as defence minister",
+        "His removal triggered protests and demands for reinstatement",
+        "He rejected alternative senior posts and wanted to return as defence minister",
+        "Zelensky put Yevhenii Khmara forward for the permanent role",
+        "Fedorov then called for a legal, safe way to restore elections during the war",
+        "The intervention broadened the dispute into a challenge over accountability and political power"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might some people support Fedorov's demand for democratic accountability but oppose holding an election now?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את שני צדי המתח בין דמוקרטיה לביטחון.",
+      "expected_points": [
+        "They may agree that officials must explain decisions and corruption must be challenged",
+        "They may value renewed public consent during a prolonged war",
+        "At the same time, bombardment and frontline conditions make voting dangerous",
+        "Displacement and overseas voters make equal participation difficult",
+        "A rushed election could lack legitimacy even if the principle is democratic"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Evaluate Fedorov's argument that institutions should be stronger than individual names during wartime. Use evidence from the article and address a counterargument.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לבנות טיעון מורכב הכולל ראיות, טענת נגד ומסקנה.",
+      "expected_points": [
+        "Fedorov links authority to responsibility and public accountability",
+        "He criticises corruption and the use of personal loyalty as an appointment criterion",
+        "Stable institutions can preserve legitimacy beyond individual leaders",
+        "Regular democratic checks may prevent concentration of power",
+        "A counterargument is that elections during bombardment could endanger voters and exclude displaced citizens or troops",
+        "Martial law imposes a constitutional barrier",
+        "A strong answer proposes legal and safe institutional safeguards rather than treating immediate voting as the only option"
+      ]
+    }
+  ]
+}

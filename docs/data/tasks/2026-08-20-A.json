@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-20",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Giant whales move into Greenland waters as ice disappears",
+  "article_url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Melting sea ice is allowing giant whales to move into parts of Greenland where they were once rarely seen",
+        "Greenland has banned every kind of whale research",
+        "Whales are leaving all Greenland waters because there is no food",
+        "Scientists have discovered that humpbacks live only in tropical seas"
+      ],
+      "correct_answer": "Melting sea ice is allowing giant whales to move into parts of Greenland where they were once rarely seen",
+      "explanation_hebrew": "היעלמות קרח הים פותחת אזורים צפוניים שבעבר כמעט לא היו נגישים ללווייתנים גדולים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did reported humpback sightings change between 2007 and 2024?",
+      "difficulty": "A",
+      "options": [
+        "They fell from 150 to seven",
+        "They stayed at about seven each year",
+        "They rose from seven to about 150 ship-based sightings",
+        "They increased from 150 to 1,500"
+      ],
+      "correct_answer": "They rose from seven to about 150 ship-based sightings",
+      "explanation_hebrew": "הכתבה משווה שבע תצפיות ב־2007 לכ־150 תצפיות מכלי שיט ב־2024."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “influx” mean in the article's description of whales entering the region?",
+      "difficulty": "A",
+      "options": [
+        "A seasonal layer of sea ice",
+        "A large arrival or movement into an area",
+        "A method of counting animals from the air",
+        "A shortage of food in the ocean"
+      ],
+      "correct_answer": "A large arrival or movement into an area",
+      "explanation_hebrew": "influx פירושו נהירה או כניסה של מספר גדול של בעלי חיים לאזור."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which kinds of evidence did researchers combine to understand the change?",
+      "difficulty": "A",
+      "options": [
+        "Only laboratory tests on sea water",
+        "Satellite photos of towns and road maps",
+        "Old hunting laws and tourist advertisements",
+        "Systematic surveys, ship sightings and local testimony"
+      ],
+      "correct_answer": "Systematic surveys, ship sightings and local testimony",
+      "explanation_hebrew": "החוקרים שילבו סקרים שיטתיים, תצפיות מכלי שיט ועדויות מקומיות."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can reduced sea ice make northern Greenland waters more attractive to humpback whales?",
+      "difficulty": "A",
+      "options": [
+        "It opens access to feeding areas and changing prey",
+        "It turns whales into land animals",
+        "It removes the need for whales to eat",
+        "It guarantees that no Arctic species will be affected"
+      ],
+      "correct_answer": "It opens access to feeding areas and changing prey",
+      "explanation_hebrew": "פחות קרח מאפשר גישה לאזורי האכלה, ושינויים בזמינות המזון עשויים למשוך לווייתנים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what is a “sighting”?",
+      "difficulty": "A",
+      "options": [
+        "A prediction about next year's ice",
+        "A protected breeding area",
+        "An occasion when a whale is seen",
+        "A device attached to a whale"
+      ],
+      "correct_answer": "An occasion when a whale is seen",
+      "explanation_hebrew": "sighting הוא מקרה שבו צופים בלווייתן ורושמים את נוכחותו."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two signs from the article that giant whales are becoming more common farther north in Greenland.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי ראיות קונקרטיות מן הכתבה.",
+      "expected_points": [
+        "The rise from seven humpbacks seen in 2007 to about 150 ship-based sightings in 2024",
+        "Systematic aerial or ship surveys recorded whales in areas where they were historically rare",
+        "Local testimony also reports more whales",
+        "The observations show movement into previously ice-blocked northern waters"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how climate change, sea ice and food availability are connected to the whales' movement.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך להציג שרשרת סיבה ותוצאה ברורה.",
+      "expected_points": [
+        "Climate change reduces sea ice",
+        "Less ice makes previously inaccessible waters reachable",
+        "Marine food availability and distribution are changing",
+        "Opportunistic humpback whales follow feeding opportunities",
+        "Their range therefore expands farther north"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do scientists need both systematic surveys and local testimony rather than relying on one source alone?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד מקורות המידע משלימים זה את זה.",
+      "expected_points": [
+        "Surveys provide comparable and organised observations",
+        "Local residents and crews observe the area across seasons and years",
+        "One method can detect changes missed by another",
+        "Combining sources strengthens confidence in the conclusion"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain one benefit and one possible ecological risk of giant whales moving into a new Arctic habitat. Use evidence or reasoning from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג תועלת וסיכון אפשרי ולהבחין בין עובדה להסקה.",
+      "expected_points": [
+        "New feeding habitat may help humpback whales exploit available prey",
+        "Their arrival reflects greater access as ice retreats",
+        "Large whales consume substantial amounts of food",
+        "They may compete with or displace ice-adapted marine mammals",
+        "The Arctic ecosystem is sensitive to rapid change",
+        "A balanced conclusion acknowledges uncertainty"
+      ]
+    }
+  ]
+}

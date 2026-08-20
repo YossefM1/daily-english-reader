@@ -1,0 +1,171 @@
+{
+  "date": "2026-08-20",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "I quit my £80,000 job to make ice cream - here's how",
+  "article_url": "https://www.bbc.co.uk/news/articles/cz97148eye0o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of Vivien Wong's story?",
+      "difficulty": "B",
+      "options": [
+        "To explain how she and her brother built the Little Moons mochi ice-cream business and what founders can learn from it",
+        "To argue that accounting qualifications are useless",
+        "To review every ice-cream brand sold in Britain",
+        "To announce that Little Moons has stopped manufacturing"
+      ],
+      "correct_answer": "To explain how she and her brother built the Little Moons mochi ice-cream business and what founders can learn from it",
+      "explanation_hebrew": "הכתבה משתמשת במסלול של ויוויאן וונג כדי להסביר בניית עסק ואת הלקחים ליזמים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What job did Wong leave at the age of 28?",
+      "difficulty": "B",
+      "options": [
+        "A £20,000 restaurant job",
+        "An £80,000-a-year accounting job",
+        "A teaching job in Japan",
+        "A supermarket management role"
+      ],
+      "correct_answer": "An £80,000-a-year accounting job",
+      "explanation_hebrew": "וונג עזבה בגיל 28 משרת ראיית חשבון ששילמה 80 אלף ליש״ט בשנה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “reinvest” mean in the context of a growing company?",
+      "difficulty": "B",
+      "options": [
+        "To return earnings to the business to support further growth",
+        "To hide all company income from retailers",
+        "To replace a product with an identical one",
+        "To borrow money without a plan"
+      ],
+      "correct_answer": "To return earnings to the business to support further growth",
+      "explanation_hebrew": "reinvest פירושו להשקיע רווחים בחזרה בעסק כדי לפתח אותו."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What product did Vivien and Howard Wong create?",
+      "difficulty": "B",
+      "options": [
+        "Traditional bread filled with red bean paste",
+        "A drink made from melted ice cream",
+        "A mochi snack filled with ice cream",
+        "A machine for supermarket freezers"
+      ],
+      "correct_answer": "A mochi snack filled with ice cream",
+      "explanation_hebrew": "האחים הקימו את Little Moons סביב מוצ׳י – בצק רך העוטף גלידה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the founders first sell to restaurants before focusing on supermarkets?",
+      "difficulty": "B",
+      "options": [
+        "Restaurant customers were more willing to try an unfamiliar Japanese dessert",
+        "Supermarkets were legally forbidden to sell frozen food",
+        "Restaurants supplied all of the company's machinery",
+        "The founders wanted the product to remain unknown"
+      ],
+      "correct_answer": "Restaurant customers were more willing to try an unfamiliar Japanese dessert",
+      "explanation_hebrew": "מסעדות אפשרו לצרכנים לנסות מוצר לא מוכר, וההצלחה שם נתנה לקניינים ביטחון."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When the article warns founders not to follow a trend “blindly”, what does it mean?",
+      "difficulty": "B",
+      "options": [
+        "Promote a product only with photographs",
+        "Copy a popular idea without examining whether it fits the business",
+        "Avoid speaking to colleagues",
+        "Manufacture every product by hand"
+      ],
+      "correct_answer": "Copy a popular idea without examining whether it fits the business",
+      "explanation_hebrew": "blindly כאן פירושו ללכת אחרי טרנד בלי לבדוק התאמה, סיכונים ונסיבות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three early challenges the Wong siblings faced while building Little Moons.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה אתגרים עסקיים או תפעוליים מן הכתבה.",
+      "expected_points": [
+        "They had to develop a product category unfamiliar in the UK",
+        "There was no suitable European machinery or supplier for scaled production",
+        "They invested personal savings and kept costs lean",
+        "Retailers did not know where the product belonged in the freezer aisle",
+        "They had to persuade distributors and buyers to take a chance on an unknown brand",
+        "Manufacturing warm mochi dough around frozen ice cream required experimentation"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how Little Moons moved from an idea to a widely recognised brand.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את הרעיון, הפיתוח, המכירה הראשונית והצמיחה.",
+      "expected_points": [
+        "Vivien and Howard discovered ice-cream-filled mochi abroad",
+        "They left their jobs and developed the product",
+        "They used family bakery space and invested in machinery",
+        "They first built demand through restaurants",
+        "Retail listings and a long-running Selfridges pop-up increased visibility",
+        "TikTok attention during the pandemic sharply accelerated demand",
+        "Years of groundwork preceded the apparent overnight success"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does Wong say a polished brand is not enough to make a business succeed?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להבחין בין מראה שיווקי לבין יסודות עסקיים.",
+      "expected_points": [
+        "Branding can attract attention but cannot replace a good product",
+        "Founders need reliable manufacturing and infrastructure",
+        "They must understand customers and retailers",
+        "Cash must be managed and often reinvested",
+        "Growth depends on repeated problem-solving, not appearance alone"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using Wong's experience, advise an aspiring founder on when to take a career risk and how to reduce that risk.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח עצה מאוזנת המבוססת על דוגמאות מן הכתבה.",
+      "expected_points": [
+        "Clarify the personal reason for changing career",
+        "Test whether customers want the product",
+        "Use available resources, as the siblings used bakery space",
+        "Keep costs lean and reinvest carefully",
+        "Build manufacturing capacity before rapid growth",
+        "Do not follow trends blindly",
+        "Be cautious about individual circumstances and financial security",
+        "Commit fully only after evaluating the risks"
+      ]
+    }
+  ]
+}
