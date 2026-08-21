@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-21",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+  "article_url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Como's mayor introduced a broad cycling ban in the historic centre after an e-bike collision, prompting criticism",
+        "Como replaced all bicycles with rental scooters",
+        "Italy ordered every city to close its historic centre to tourists",
+        "Cyclists asked Como to ban pedestrians from the old town"
+      ],
+      "correct_answer": "Como's mayor introduced a broad cycling ban in the historic centre after an e-bike collision, prompting criticism",
+      "explanation_hebrew": "הכתבה עוסקת באיסור הרחב שהטיל ראש עיריית קומו על רכיבה במרכז ההיסטורי לאחר התנגשות עם אופניים חשמליים ובתגובת הנגד לכך."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What must cyclists do in the restricted streets?",
+      "difficulty": "A",
+      "options": [
+        "Ride only before sunrise",
+        "Dismount and walk their bicycles",
+        "Use an electric bicycle instead",
+        "Apply for a tourist accommodation permit"
+      ],
+      "correct_answer": "Dismount and walk their bicycles",
+      "explanation_hebrew": "באזור המוגבל מותר להוביל את האופניים בהליכה, אך אסור לרכוב עליהם."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “blanket ban” mean in the headline?",
+      "difficulty": "A",
+      "options": [
+        "A temporary rule applying only in winter",
+        "A rule about carrying goods on bicycles",
+        "A broad prohibition covering the whole category",
+        "A recommendation that cyclists may ignore"
+      ],
+      "correct_answer": "A broad prohibition covering the whole category",
+      "explanation_hebrew": "blanket ban הוא איסור גורף שחל באופן רחב על כל הקטגוריה, ולא רק על מקרים מסוימים."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does the ban cover both electric and traditional bicycles?",
+      "difficulty": "A",
+      "options": [
+        "Traditional bicycles are faster than e-bikes",
+        "The Italian highway code does not distinguish between the two for this purpose",
+        "Only traditional bicycles were involved in the mayor's incident",
+        "The city has no streets wide enough for either kind"
+      ],
+      "correct_answer": "The Italian highway code does not distinguish between the two for this purpose",
+      "explanation_hebrew": "לפי הכתבה, קוד התעבורה האיטלקי אינו מבחין בהקשר זה בין אופניים חשמליים לרגילים, ולכן האיסור כולל את שניהם."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What incident influenced Mayor Alessandro Rapinese's decision?",
+      "difficulty": "A",
+      "options": [
+        "A delivery van damaged city hall",
+        "He was hit by an electric bicycle after leaving city hall",
+        "His bicycle was stolen near a hotel",
+        "A protest ride blocked his car"
+      ],
+      "correct_answer": "He was hit by an electric bicycle after leaving city hall",
+      "explanation_hebrew": "ראש העיר סיפר כי התנגש בו רוכב אופניים חשמליים לאחר שיצא מבניין העירייה, והאירוע השפיע על החלטתו."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “backlash” describe in the article?",
+      "difficulty": "A",
+      "options": [
+        "A strong public reaction against the ban",
+        "A permit for people who work in the centre",
+        "A collision between two bicycles",
+        "A new route around the old town"
+      ],
+      "correct_answer": "A strong public reaction against the ban",
+      "explanation_hebrew": "backlash פירושו תגובת נגד חריפה; כאן מדובר בעצומות, מחאה וביקורת על האיסור."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons the mayor or city authorities offered for restricting bicycle riding in Como's historic centre.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני נימוקים שמופיעים בכתבה ולא להסתפק באמירה כללית על בטיחות.",
+      "expected_points": [
+        "The historic centre is crowded, especially with tourists",
+        "Authorities say the measure is needed for pedestrian or public safety",
+        "The mayor was struck by an e-bike in a personal incident",
+        "Officials wanted stricter control of vehicles in the restricted area"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do critics say the blanket ban may be disproportionate to the problem?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשור בין היקף האיסור לבין סוג ההתנהגות או הקבוצות שהוא פוגע בהן.",
+      "expected_points": [
+        "It covers careful cyclists as well as reckless riders",
+        "It includes traditional bicycles even though the mayor's collision involved an e-bike",
+        "It affects residents, workers, delivery riders or local businesses",
+        "Critics prefer enforcement aimed at dangerous behaviour",
+        "Cycling is a sustainable form of transport"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the event, the new rule and the public response in Como.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג בקצרה את רצף האירועים ואת שתי העמדות המרכזיות.",
+      "expected_points": [
+        "Mayor Alessandro Rapinese was involved in a collision with an e-bike",
+        "Como imposed a broad ban on riding bicycles in streets of the historic centre",
+        "Cyclists must dismount and walk",
+        "The mayor presents the rule as a safety measure",
+        "Opponents organised petitions or protests and questioned the rule's legitimacy"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Propose a narrower policy that could address unsafe cycling while answering the critics' concerns. Support it with details from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציע חלופה מעשית, לקשור אותה לפרטי הכתבה ולהסביר כיצד היא מאזנת בין בטיחות לתחבורה.",
+      "expected_points": [
+        "Target reckless or high-speed riding rather than all cyclists",
+        "Use speed limits, signs, fines, enforcement or limited pedestrian-only times",
+        "Protect crowded pedestrian areas",
+        "Allow responsible residents, workers or delivery riders to travel",
+        "Explain why the proposal is more proportionate than a blanket ban"
+      ]
+    }
+  ]
+}

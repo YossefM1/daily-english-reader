@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-21",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cgewlld498xo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central argument?",
+      "difficulty": "B",
+      "options": [
+        "Millennials still face a large home-ownership gap, although some recent conditions may be becoming more favourable",
+        "Every millennial in the UK now owns a home",
+        "House prices have stopped mattering because lenders no longer require deposits",
+        "Building costs are the only reason home ownership differs between generations"
+      ],
+      "correct_answer": "Millennials still face a large home-ownership gap, although some recent conditions may be becoming more favourable",
+      "explanation_hebrew": "הכתבה מציגה פער משמעותי בין דורות בבעלות על דיור, אך גם סימנים עדכניים לכך שחלק מתנאי הקנייה משתפרים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What long-term change made it harder for younger adults to buy?",
+      "difficulty": "B",
+      "options": [
+        "Average homes became smaller than deposits",
+        "Mortgage lenders stopped serving first-time buyers",
+        "Property prices outpaced incomes",
+        "Wages rose much faster than house prices for decades"
+      ],
+      "correct_answer": "Property prices outpaced incomes",
+      "explanation_hebrew": "הקושי המרכזי המתואר הוא שמחירי הנכסים עלו לאורך זמן מהר יותר מההכנסות."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How large is England's estimated need for additional homes?",
+      "difficulty": "B",
+      "options": [
+        "About 30,000 dwellings",
+        "About 3 million dwellings each year",
+        "Exactly 300 homes",
+        "About 300,000 dwellings"
+      ],
+      "correct_answer": "About 300,000 dwellings",
+      "explanation_hebrew": "הכתבה מציינת הערכה שלפיה באנגליה לבדה חסרות כ־300 אלף יחידות דיור נוספות."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “prospective buyers” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "People who may buy a home in the future",
+        "People who build timber houses",
+        "Households that have already repaid a mortgage",
+        "Officials who measure inflation"
+      ],
+      "correct_answer": "People who may buy a home in the future",
+      "explanation_hebrew": "prospective buyers הם קונים פוטנציאליים — אנשים ששוקלים או מתכננים לקנות בית."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which recent trend could make saving for a home somewhat easier?",
+      "difficulty": "B",
+      "options": [
+        "Deposits have been abolished by law",
+        "Raw materials have become free",
+        "House prices have generally risen more slowly than wages in recent years",
+        "All rents have fallen below their pre-pandemic level"
+      ],
+      "correct_answer": "House prices have generally risen more slowly than wages in recent years",
+      "explanation_hebrew": "כאשר השכר עולה מהר יותר ממחירי הבתים, היחס בין הכנסה למחיר עשוי להשתפר ולהקל מעט על החיסכון."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “getting on the housing ladder”, what does “ladder” represent?",
+      "difficulty": "B",
+      "options": [
+        "A tool used by construction workers",
+        "A list of building materials",
+        "The stages of entering and progressing through home ownership",
+        "A government table of inflation rates"
+      ],
+      "correct_answer": "The stages of entering and progressing through home ownership",
+      "explanation_hebrew": "housing ladder הוא דימוי לכניסה לשוק הבעלות על דיור ולהתקדמות בין נכסים לאורך זמן."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two financial barriers that the article identifies for first-time buyers.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני חסמים כלכליים קונקרטיים מן הכתבה.",
+      "expected_points": [
+        "Property prices have outpaced incomes over the longer term",
+        "A 10% deposit can amount to tens of thousands",
+        "High rents or household costs make saving harder",
+        "Inflation and the pandemic compounded affordability pressures",
+        "Mortgage requirements can limit borrowing"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does building more homes not automatically produce an immediate fall in purchase prices?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר לפחות שני גורמים שמגבילים את ההשפעה המיידית של הגדלת ההיצע.",
+      "expected_points": [
+        "England's estimated housing shortage is very large",
+        "New dwellings take time to plan and build",
+        "Construction depends on labour and materials such as timber, steel, concrete and insulation",
+        "Material costs rose with general inflation",
+        "Demand and household formation can continue while supply catches up"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence that home ownership remains difficult for millennials and the signs that it may be getting easier.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך להציג גם את הקשיים המצטברים וגם את סימני השיפור, ללא מסקנה חד־צדדית.",
+      "expected_points": [
+        "Millennials are less likely to own homes than comparable earlier generations",
+        "House prices outpaced incomes over many years",
+        "Large deposits remain a major obstacle",
+        "Recent house-price growth has been slower than wage growth",
+        "Some lenders accept smaller deposits or offer routes for first-time buyers",
+        "The article treats improvement as limited rather than a complete solution"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Which would help prospective first-time buyers more: increasing housing supply or making mortgages easier to access? Use the article to argue for one option while acknowledging a limitation.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לבחור עמדה, להסתמך על לפחות שני פרטים מן הכתבה ולהכיר במגבלה או בטיעון הנגדי.",
+      "expected_points": [
+        "Increasing supply addresses the shortage and long-term prices",
+        "Mortgage reforms or smaller deposits can help buyers sooner",
+        "A deposit still requires substantial savings",
+        "Easier credit does not create more homes and may increase demand",
+        "New construction is slow and affected by material costs",
+        "A balanced answer distinguishes short-term access from long-term affordability"
+      ]
+    }
+  ]
+}

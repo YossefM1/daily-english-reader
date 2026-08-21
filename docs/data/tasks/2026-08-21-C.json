@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-21",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+  "article_url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main concern?",
+      "difficulty": "C",
+      "options": [
+        "Trump's attempt to revive personal diplomacy with Kim could weaken South Korea's confidence in its US security alliance",
+        "South Korea has decided to form a military alliance with North Korea",
+        "The annual exercises were expanded to last an entire year",
+        "Kim Jong Un has agreed to abandon all nuclear weapons immediately"
+      ],
+      "correct_answer": "Trump's attempt to revive personal diplomacy with Kim could weaken South Korea's confidence in its US security alliance",
+      "explanation_hebrew": "הכתבה בוחנת כיצד רצונו של טראמפ לחדש קשר אישי עם קים עלול לבוא על חשבון ביטחונה ואמונה של דרום קוריאה בברית עם ארה״ב."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened to the Ulchi Freedom Shield exercise?",
+      "difficulty": "C",
+      "options": [
+        "It was moved permanently to North Korea",
+        "It was shortened from 11 days to five days",
+        "It was expanded to include 180,000 troops",
+        "It continued unchanged until the end of August"
+      ],
+      "correct_answer": "It was shortened from 11 days to five days",
+      "explanation_hebrew": "התרגיל קוצר מ־11 ימים לחמישה והסתיים ביום שישי, מוקדם מהמתוכנן."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Approximately how many South Korean troops were involved in the exercise?",
+      "difficulty": "C",
+      "options": [
+        "1,800",
+        "180,000",
+        "18,000",
+        "800"
+      ],
+      "correct_answer": "18,000",
+      "explanation_hebrew": "הכתבה מציינת שכ־18 אלף חיילים דרום־קוריאנים השתתפו בתרגיל."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Trump justify reducing the drills?",
+      "difficulty": "C",
+      "options": [
+        "He said North Korea had joined the US-South Korea treaty",
+        "He said the troops were needed to build homes",
+        "He said Seoul had requested larger exercises",
+        "He described the drills as costly and hostile while stressing his good relationship with Kim"
+      ],
+      "correct_answer": "He described the drills as costly and hostile while stressing his good relationship with Kim",
+      "explanation_hebrew": "טראמפ תיאר את התרגילים כיקרים ועוינים כלפי פיונגיאנג והדגיש את יחסיו הטובים עם קים."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “deterrence” mean in the article's security context?",
+      "difficulty": "C",
+      "options": [
+        "Preventing an attack by showing the ability and willingness to respond",
+        "Offering praise to arrange a summit",
+        "Ending a treaty without consulting an ally",
+        "Moving troops away from a military base"
+      ],
+      "correct_answer": "Preventing an attack by showing the ability and willingness to respond",
+      "explanation_hebrew": "deterrence היא הרתעה: מניעת תקיפה באמצעות הפגנת יכולת ונכונות להגיב."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why was the abrupt reduction especially unsettling for Seoul?",
+      "difficulty": "C",
+      "options": [
+        "It proved that North Korea controlled South Korea's parliament",
+        "It was a unilateral change with little or no advance consultation",
+        "It required South Korea to send all its troops abroad",
+        "It ended the mutual defence treaty automatically"
+      ],
+      "correct_answer": "It was a unilateral change with little or no advance consultation",
+      "explanation_hebrew": "שינוי חד־צדדי וללא התרעה מספקת מעורר ספק אם החלטות ביטחוניות נוספות יתקבלו בלי להתחשב בבעלת הברית."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons supporters of the joint exercises consider them important.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שני תפקידים של התרגילים במסגרת הברית והביטחון בחצי האי הקוריאני.",
+      "expected_points": [
+        "They maintain readiness against a possible North Korean attack",
+        "They help US and South Korean forces train and operate together",
+        "They reinforce deterrence",
+        "They demonstrate the credibility of the longstanding alliance or security guarantees",
+        "They adapt training to North Korea's changing military capabilities"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How could Trump's approach encourage South Korea to reduce its reliance on the United States?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שרשרת סיבה ותוצאה בין חוסר הוודאות במדיניות ארה״ב לבין צעדים עצמאיים של סיאול.",
+      "expected_points": [
+        "Abrupt or unilateral US decisions make security guarantees appear less predictable",
+        "Seoul may seek greater control of its wartime military command",
+        "South Korea may strengthen its own defence capabilities",
+        "Some may support a more independent deterrent",
+        "Reduced reliance would be an insurance against a capricious ally"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the tension between Trump's diplomacy toward Kim and the security needs of South Korea.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את מטרת הצעד, את הוויתור שנעשה ואת הסיכון האפשרי לבעלת הברית.",
+      "expected_points": [
+        "Trump wants renewed engagement or a personal meeting with Kim",
+        "He ordered a substantial reduction in joint exercises",
+        "The move may be intended as a concession or lure for North Korea",
+        "North Korea remains militarily threatening and seeks further leverage",
+        "South Korea depends on joint readiness and US guarantees",
+        "The decision may weaken trust and deterrence without securing a diplomatic return"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Should military exercises be used as a concession to restart negotiations with North Korea? Evaluate the possible diplomatic benefit and the alliance risk described in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשקול תועלת דיפלומטית מול מחיר ביטחוני, להסתמך על פרטים מן הכתבה ולנסח מסקנה מנומקת.",
+      "expected_points": [
+        "Reducing drills could signal openness and create space for diplomacy",
+        "Trump's personal rapport previously helped produce unprecedented meetings",
+        "A concession without reciprocity may strengthen Kim's negotiating position",
+        "Less training may weaken readiness or deterrence",
+        "Unilateral action can damage South Korean trust",
+        "A conditional or jointly agreed reduction could balance diplomacy and alliance security"
+      ]
+    }
+  ]
+}
