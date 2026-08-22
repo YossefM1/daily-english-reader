@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-22",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
+  "article_url": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "New food-safety advice for vulnerable people during a salmonella outbreak linked potentially to imported eggs used by caterers",
+        "A nationwide ban on selling every kind of egg in supermarkets",
+        "A campaign encouraging pregnant women to eat more raw eggs",
+        "A shortage of British eggs caused by restaurant closures"
+      ],
+      "correct_answer": "New food-safety advice for vulnerable people during a salmonella outbreak linked potentially to imported eggs used by caterers",
+      "explanation_hebrew": "הכתבה מציגה אזהרת בטיחות חדשה לקבוצות פגיעות בעקבות התפרצות סלמונלה וקשר אפשרי לביצים מיובאות שבהן משתמשים עסקי מזון."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which group is included in the FSA's warning?",
+      "difficulty": "A",
+      "options": [
+        "Only professional chefs",
+        "Children under five",
+        "All healthy adults under 40",
+        "People who never eat in restaurants"
+      ],
+      "correct_answer": "Children under five",
+      "explanation_hebrew": "ה־FSA הזהיר ילדים מתחת לגיל חמש, בני יותר מ־65, נשים בהיריון ואנשים עם מצבים רפואיים מסוימים."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where does the new caution mainly apply?",
+      "difficulty": "A",
+      "options": [
+        "Only to eggs collected from home gardens",
+        "To every British Lion egg eaten at home",
+        "When eating out and the source or assurance status of the eggs may be unclear",
+        "Only to packaged cakes bought in supermarkets"
+      ],
+      "correct_answer": "When eating out and the source or assurance status of the eggs may be unclear",
+      "explanation_hebrew": "הזהירות נדרשת בעיקר באכילה מחוץ לבית, כאשר הלקוח אינו בטוח אם הביצים נושאות סימון בטיחות מוכר."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “vulnerable” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "More likely to suffer severe effects from an infection",
+        "Responsible for inspecting restaurants",
+        "Vaccinated against every strain of bacteria",
+        "Imported from another country"
+      ],
+      "correct_answer": "More likely to suffer severe effects from an infection",
+      "explanation_hebrew": "vulnerable פירושו פגיע יותר — אדם שעלול לסבול ממחלה חמורה יותר במקרה של זיהום."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which food may contain uncooked egg and is mentioned as something vulnerable diners should avoid when its safety is uncertain?",
+      "difficulty": "A",
+      "options": [
+        "Boiled rice",
+        "Grilled vegetables",
+        "Fresh fruit salad",
+        "Freshly made mayonnaise"
+      ],
+      "correct_answer": "Freshly made mayonnaise",
+      "explanation_hebrew": "מיונז טרי עשוי להכיל ביצה לא מבושלת, ולכן הוא נכלל לצד סופלה ורוטב הולנדז בהמלצת הזהירות."
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the FSA say about well-cooked eggs from restaurants, cafés and takeaways?",
+      "difficulty": "A",
+      "options": [
+        "They are safe to eat",
+        "They must all be recalled",
+        "They are safe only for chefs",
+        "They should be washed before serving"
+      ],
+      "correct_answer": "They are safe to eat",
+      "explanation_hebrew": "ה־FSA הבהיר שביצים שבושלו היטב במסעדות, בתי קפה וטייק־אוויי בטוחות לאכילה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two assurances or facts that make UK-produced eggs different from the possible source being investigated.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי נקודות עובדתיות מן הכתבה לגבי ביצים מתוצרת בריטניה או מקור ההתפרצות האפשרי.",
+      "expected_points": [
+        "Investigators found no evidence that UK-produced eggs were affected",
+        "British Lion eggs come from salmonella-vaccinated flocks",
+        "The Laid in Britain scheme is another recognised assurance",
+        "Potential links were found to imported eggs used by food-service businesses",
+        "The definitive source had not yet been identified"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is the advice stricter when a vulnerable person eats out than when they prepare assured eggs at home?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את ההבדל במידע הזמין על מקור הביצה וברמת הבישול.",
+      "expected_points": [
+        "Diners may not know whether the eggs have the British Lion or Laid in Britain assurance",
+        "Imported eggs are a possible source under investigation",
+        "Restaurants and caterers were a focus of the investigation",
+        "Runny eggs may not reach a temperature high enough to reduce bacteria",
+        "At home, consumers can check the mark and cook eggs thoroughly"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the outbreak, the groups at greater risk and the FSA's practical advice.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את ההתפרצות, קבוצות הסיכון וההבחנה בין ביצים נוזליות לביצים שבושלו היטב.",
+      "expected_points": [
+        "Authorities are investigating a growing Salmonella Enteritidis outbreak",
+        "Possible links involve imported eggs used outside the home",
+        "Young children, older people, pregnant women and people with certain health conditions face greater risk",
+        "Vulnerable diners should avoid runny or uncooked eggs when assurance is uncertain",
+        "Well-cooked eggs are safe",
+        "UK assured eggs are not currently linked to the outbreak"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short notice a café could give vulnerable customers about egg dishes during the outbreak. Base it on the article and avoid claiming that every egg is unsafe.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח הודעה ברורה ומאוזנת הכוללת עצה מעשית, קבוצות סיכון והבחנה בין ביצה לא מבושלת לביצה מבושלת היטב.",
+      "expected_points": [
+        "Identify vulnerable groups",
+        "Warn about runny eggs or fresh foods containing uncooked egg",
+        "Offer a thoroughly cooked alternative",
+        "Mention assurance or traceable sourcing where appropriate",
+        "State that well-cooked eggs remain safe",
+        "Avoid saying all UK or supermarket eggs are contaminated"
+      ]
+    }
+  ]
+}

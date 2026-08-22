@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-22",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "More students planning to live at home for uni over 'insane' living costs",
+  "article_url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main point?",
+      "difficulty": "B",
+      "options": [
+        "Rising living costs are leading a record share of new UK students to plan to live at home while studying",
+        "UK universities have stopped offering student accommodation",
+        "Most students now reject university degrees for full-time employment",
+        "Tuition fees have been replaced entirely by rent payments"
+      ],
+      "correct_answer": "Rising living costs are leading a record share of new UK students to plan to live at home while studying",
+      "explanation_hebrew": "הכתבה מתארת כיצד עלויות המחיה הגבוהות גורמות ליותר סטודנטים חדשים מאי פעם בשנים האחרונות לבחור לגור בבית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "About how many UK 18-year-olds with accepted university applications said they intended to live at home?",
+      "difficulty": "B",
+      "options": [
+        "About 8,100",
+        "More than 81,000",
+        "About 810,000",
+        "Fewer than 1,800"
+      ],
+      "correct_answer": "More than 81,000",
+      "explanation_hebrew": "לפי נתוני UCAS, יותר מ־81 אלף בני 18 בבריטניה עם קבלה לאוניברסיטה ציינו שהם מתכוונים לגור בבית."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What proportion of the relevant accepted applicants planned to live at home?",
+      "difficulty": "B",
+      "options": [
+        "Just over one in three",
+        "Exactly one in ten",
+        "Nearly every applicant",
+        "Less than one in fifty"
+      ],
+      "correct_answer": "Just over one in three",
+      "explanation_hebrew": "מדובר בקצת יותר משליש מן המועמדים בקבוצה שנבדקה."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “commute” mean?",
+      "difficulty": "B",
+      "options": [
+        "To change to a different degree",
+        "To receive a maintenance loan",
+        "To rent a room on campus",
+        "To travel regularly between home and university"
+      ],
+      "correct_answer": "To travel regularly between home and university",
+      "explanation_hebrew": "commute פירושו לנסוע באופן קבוע בין הבית למקום הלימודים או העבודה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did one student gain by making a 90-minute commute?",
+      "difficulty": "B",
+      "options": [
+        "A guaranteed university job",
+        "Savings of more than £7,000 on accommodation",
+        "Free tuition for the whole degree",
+        "A larger maintenance loan than every other student"
+      ],
+      "correct_answer": "Savings of more than £7,000 on accommodation",
+      "explanation_hebrew": "הסטודנטית שתוארה בכתבה חסכה יותר מ־7,000 ליש״ט על מגורים באמצעות נסיעה של כ־90 דקות."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might students such as Jessica feel they have “no choice” but to stay at home?",
+      "difficulty": "B",
+      "options": [
+        "They are not allowed to join campus activities",
+        "Their degrees can only be studied online",
+        "Accommodation and other living costs may be unaffordable even though they fear missing student life",
+        "UCAS requires all 18-year-olds to live with parents"
+      ],
+      "correct_answer": "Accommodation and other living costs may be unaffordable even though they fear missing student life",
+      "explanation_hebrew": "הבחירה נובעת מלחץ כלכלי, אף שהסטודנטים חוששים להחמיץ את החוויה החברתית של החיים בקמפוס."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two pieces of evidence that living at home has become a significant trend among new students.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתי ראיות מספריות או השוואתיות שמופיעות בכתבה.",
+      "expected_points": [
+        "More than 81,000 UK 18-year-olds said they intended to live at home",
+        "This was just over one in three in the relevant accepted-applicant category",
+        "The figure was the highest in nine years",
+        "The trend was based on UCAS accepted-application data"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain one financial benefit and one educational or social cost of commuting from home.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג תועלת כספית ברורה ומחיר אפשרי ללימודים או לחיי החברה, ולקשור אותם לפרטי הכתבה.",
+      "expected_points": [
+        "Students can avoid or reduce rent and accommodation costs",
+        "One example saved more than £7,000",
+        "A long commute takes time and can be tiring",
+        "Students may miss campus events, friendships or independence",
+        "Travel costs partly reduce the savings",
+        "The balance depends on distance and household circumstances"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why more students intend to live at home and the trade-offs they face.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשור בין יוקר המחיה להחלטה ולתאר גם את היתרון וגם את החיסרון.",
+      "expected_points": [
+        "Living and accommodation costs have risen sharply",
+        "A record number or share of accepted 18-year-olds plan to stay home",
+        "Living at home can produce substantial savings",
+        "Some students undertake long commutes",
+        "They may worry about missing student life or independence",
+        "Financial pressure makes the decision feel necessary rather than ideal"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "A university wants to support students who live at home. Propose two practical measures and justify them using problems raised in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע שני צעדים מעשיים ולנמק כיצד כל אחד מטפל בקושי כלכלי, לימודי או חברתי מן הכתבה.",
+      "expected_points": [
+        "Timetables grouped into fewer campus days could reduce commuting",
+        "Travel grants or discounted transport could lower costs",
+        "Flexible or hybrid access could help with long journeys",
+        "Late study spaces or lockers could support commuters",
+        "Clubs and events scheduled for commuter participation could reduce social exclusion",
+        "Financial guidance or hardship support could address living-cost pressure"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-22",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "These Hong Kong bookshops let Chinese readers question their country - now the doors are closing",
+  "article_url": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly examining?",
+      "difficulty": "C",
+      "options": [
+        "How pressure under Hong Kong's national-security and sedition laws is closing independent bookshops that offered space for critical ideas",
+        "Why Hong Kong readers have suddenly stopped buying all printed books",
+        "How mainland China is funding new independent bookshops in Hong Kong",
+        "Why high rent is the sole cause of every bookshop closure"
+      ],
+      "correct_answer": "How pressure under Hong Kong's national-security and sedition laws is closing independent bookshops that offered space for critical ideas",
+      "explanation_hebrew": "הכתבה בוחנת כיצד חקיקה ואכיפה בתחום הביטחון הלאומי וההסתה מצמצמות חנויות עצמאיות ששימשו מרחב לרעיונות ביקורתיים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened after police raided Greenfield Book Store and Have a Nice Stay?",
+      "difficulty": "C",
+      "options": [
+        "Both shops were given government expansion grants",
+        "The shops began selling only imported textbooks",
+        "Five people were arrested on suspicion of displaying or selling items with seditious intent",
+        "All seized books were immediately returned without investigation"
+      ],
+      "correct_answer": "Five people were arrested on suspicion of displaying or selling items with seditious intent",
+      "explanation_hebrew": "בפשיטות על שתי החנויות נעצרו חמישה אנשים בחשד להצגה או מכירה של פריטים בעלי כוונת הסתה."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How long had Greenfield Book Store been part of Hong Kong's independent bookshop scene?",
+      "difficulty": "C",
+      "options": [
+        "About five years",
+        "Since the 2019 protests only",
+        "More than a century",
+        "About 50 years"
+      ],
+      "correct_answer": "About 50 years",
+      "explanation_hebrew": "Greenfield נפתחה ב־1976 והודיעה על סגירה לאחר כחמישים שנות פעילות."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “the elusive red line” suggest in the bookshops' context?",
+      "difficulty": "C",
+      "options": [
+        "The boundary of prohibited material is unclear and difficult to predict",
+        "A railway line does not reach the shops",
+        "Every forbidden title has a visible red cover",
+        "The shops know exactly which books are officially banned"
+      ],
+      "correct_answer": "The boundary of prohibited material is unclear and difficult to predict",
+      "explanation_hebrew": "הביטוי מתאר גבול משפטי או פוליטי חמקמק: בעלי החנויות אינם יודעים בבירור איזה חומר ייחשב אסור."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why were independent shops especially important to some readers?",
+      "difficulty": "C",
+      "options": [
+        "They sold only government-approved schoolbooks",
+        "They provided access to political, historical and cultural ideas that mainstream outlets might avoid",
+        "They allowed customers to publish newspapers without names",
+        "They were the only buildings allowed to host public elections"
+      ],
+      "correct_answer": "They provided access to political, historical and cultural ideas that mainstream outlets might avoid",
+      "explanation_hebrew": "החנויות העצמאיות אפשרו לקוראים לפגוש ספרים ורעיונות ביקורתיים שלא תמיד הופיעו ברשתות המרכזיות."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can raids and arrests cause censorship beyond the shops directly targeted?",
+      "difficulty": "C",
+      "options": [
+        "Other booksellers may remove sensitive titles because they fear uncertain legal repercussions",
+        "Every reader automatically receives a prison sentence",
+        "Police physically confiscate every book printed overseas",
+        "The law requires all shops to close after 50 years"
+      ],
+      "correct_answer": "Other booksellers may remove sensitive titles because they fear uncertain legal repercussions",
+      "explanation_hebrew": "כאשר הגבולות אינם ברורים והמחיר המשפטי גבוה, גם חנויות שלא נבדקו עלולות לצנזר את עצמן מחשש להשלכות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two examples of pressure on Hong Kong's independent book sector described in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שתי דוגמאות קונקרטיות לאכיפה, סגירה או הגבלה המתוארות בכתבה.",
+      "expected_points": [
+        "Police raided independent bookshops",
+        "Five people were arrested at Greenfield and Have a Nice Stay",
+        "Books or publications were seized as allegedly seditious",
+        "Greenfield announced closure after 50 years",
+        "Have a Nice Stay closed earlier than planned",
+        "Other booksellers or activists had been jailed, investigated or forced into exile"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the absence of a clear public list of forbidden books not necessarily protect booksellers?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר כיצד עמימות משפטית עלולה דווקא להגדיל פחד וצנזורה עצמית.",
+      "expected_points": [
+        "Booksellers cannot reliably know which titles cross the legal line",
+        "Sedition or national-security concepts can be interpreted broadly",
+        "A later raid or prosecution can occur despite earlier assumptions",
+        "The risk encourages shops to avoid contested or sensitive material",
+        "Uncertainty can close civic space without a formal blanket ban"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how Hong Kong's political changes have affected independent bookshops and their readers.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר את תפקיד החנויות בעבר, את השינוי המשפטי־פוליטי ואת תוצאתו לקוראים ולחברה.",
+      "expected_points": [
+        "Independent shops offered access to sensitive or forbidden-in-mainland-China ideas",
+        "Hong Kong once had a stronger reputation for open publishing and discussion",
+        "National-security and sedition enforcement intensified after the 2019 protests",
+        "Raids, arrests, seizures and closures have affected multiple shops",
+        "Booksellers face an unclear legal boundary and may self-censor",
+        "Readers lose spaces for questioning history, politics and national identity"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Evaluate the claim that an independent bookshop can be part of civil society, not merely a retail business. Use evidence from the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג טענה מנומקת, להשתמש בלפחות שתי ראיות מן הכתבה ולהכיר גם בתפקיד המסחרי של החנות.",
+      "expected_points": [
+        "Bookshops create physical spaces for discussion and community",
+        "They preserve access to diverse political, historical and cultural viewpoints",
+        "Readers can encounter ideas absent from mainstream outlets",
+        "Closures reduce opportunities for public questioning and solidarity",
+        "The shops still face ordinary business pressures such as rent and profitability",
+        "Raids and vague legal risks show that authorities may view their social role as politically significant"
+      ]
+    }
+  ]
+}
