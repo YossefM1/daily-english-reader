@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-23",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Why do we love watching hoarder videos online so much?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What main explanation does the article give for the popularity of online hoarder-cleaning videos?",
+      "difficulty": "C",
+      "options": [
+        "They combine curiosity and the satisfaction of transformation, while algorithms amplify attention-grabbing content",
+        "They teach viewers how to buy more household objects",
+        "They are watched mainly by professional builders seeking technical advice",
+        "They have replaced all other forms of television entertainment"
+      ],
+      "correct_answer": "They combine curiosity and the satisfaction of transformation, while algorithms amplify attention-grabbing content",
+      "explanation_hebrew": "הכתבה משלבת הסברים פסיכולוגיים — סקרנות וסיפוק מן השינוי — עם תפקיד האלגוריתמים בהפצת תוכן מושך תשומת לב."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What kinds of scenes can Victoria Gordon encounter when she enters a client’s home?",
+      "difficulty": "C",
+      "options": [
+        "Empty rooms prepared for sale",
+        "Only neatly labelled storage boxes",
+        "Huge clothing piles, unwashed dishes and badly blocked toilets",
+        "Museum displays of valuable antiques"
+      ],
+      "correct_answer": "Huge clothing piles, unwashed dishes and badly blocked toilets",
+      "explanation_hebrew": "הפתיחה מתארת ערימות בגדים, כלים לא שטופים ושירותים סתומים מאוד."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “mundane” mean when the article discusses cleaning?",
+      "difficulty": "C",
+      "options": [
+        "Dangerous and illegal",
+        "Ordinary and everyday",
+        "Scientifically unproven",
+        "Expensive and luxurious"
+      ],
+      "correct_answer": "Ordinary and everyday",
+      "explanation_hebrew": "mundane פירושו שגרתי או יומיומי; הסרטונים הופכים פעולה רגילה לבידור."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What signal do social-media algorithms use when recommending more of these videos?",
+      "difficulty": "C",
+      "options": [
+        "How long a user keeps watching",
+        "Whether the room belongs to a celebrity",
+        "The price of the cleaning products",
+        "How many rooms the viewer owns"
+      ],
+      "correct_answer": "How long a user keeps watching",
+      "explanation_hebrew": "לפי ההסבר בכתבה, האלגוריתם לומד מזמן הצפייה; הוא יודע שהמשתמש לא גלל הלאה."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "How can the recommendation system make a viewer’s feed more extreme?",
+      "difficulty": "C",
+      "options": [
+        "It removes every cleaning video after one view",
+        "It asks viewers to clean their own homes before continuing",
+        "It limits recommendations to gentle organisation tips",
+        "It may serve worse rooms and crime scenes because they hold attention"
+      ],
+      "correct_answer": "It may serve worse rooms and crime scenes because they hold attention",
+      "explanation_hebrew": "כאשר זמן צפייה נחשב למדד איכות, המערכת עלולה להציע חדרים ומראות קיצוניים יותר שמחזיקים את תשומת הלב."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article’s ethical discussion, what does “stigma” refer to?",
+      "difficulty": "C",
+      "options": [
+        "A specialist cleaning tool",
+        "A social mark of shame attached to hoarding",
+        "A metric measuring video length",
+        "A method for sorting possessions"
+      ],
+      "correct_answer": "A social mark of shame attached to hoarding",
+      "explanation_hebrew": "stigma היא סטיגמה חברתית או אות קלון; הכתבה מזהירה מפני שיפוט אנשים המתמודדים עם אגירה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons viewers may find the transformation in these videos satisfying or reassuring.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שני מנגנונים שמופיעים בכתבה ולקשור אותם לחוויית הצפייה.",
+      "expected_points": [
+        "Viewers see visible order emerge from chaos",
+        "A clear before-and-after result gives closure",
+        "The cleaning creates a sense of control",
+        "The videos satisfy curiosity about other people’s homes",
+        "A difficult transformation can make an ordinary task feel dramatic"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can long watch time be a misleading measure of video quality?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את ההבדל בין תשומת לב לבין ערך או איכות, ואת תפקיד האלגוריתם.",
+      "expected_points": [
+        "A user may keep watching from shock, disgust or morbid curiosity",
+        "The algorithm sees that the user did not scroll away but cannot know why",
+        "Attention does not prove that content is helpful or ethical",
+        "Using watch time can encourage increasingly extreme recommendations"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how psychology, cleaning creators and platform algorithms together explain the appeal of hoarder videos.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשלב שלושה רבדים: תוכן הניקיון, תגובת הצופה ומנגנון ההמלצות.",
+      "expected_points": [
+        "Creators such as Victoria Gordon show dramatic, difficult clean-ups",
+        "Viewers are curious about unfamiliar private spaces",
+        "The movement from chaos to order can feel satisfying and reassuring",
+        "Algorithms treat sustained attention as engagement or quality",
+        "Platforms then recommend more and sometimes more extreme examples",
+        "The result turns a mundane task into a viral phenomenon"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Suggest two ways creators or platforms could present hoarder clean-ups responsibly without losing their educational value.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע שני צעדים מעשיים ולהסביר כיצד הם מפחיתים שיפוטיות או ניצול תוך שמירה על ערך לצופה.",
+      "expected_points": [
+        "Protect clients’ privacy and obtain meaningful consent",
+        "Use respectful language and avoid humiliating close-ups",
+        "Explain that hoarding is a complex condition rather than laziness",
+        "Include information about professional or mental-health support",
+        "Avoid thumbnails designed only to provoke disgust",
+        "Platforms should not amplify increasingly extreme scenes solely because of watch time"
+      ]
+    }
+  ]
+}

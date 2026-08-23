@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-23",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "US military newspaper editor voices censorship fears after being fired",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article’s central issue?",
+      "difficulty": "B",
+      "options": [
+        "How military newspapers recruit reporters overseas",
+        "Why a warship remained at sea for more than 240 days",
+        "Fears that firings at Stars and Stripes threaten its editorial independence",
+        "A plan to stop printing all newspapers in the United States"
+      ],
+      "correct_answer": "Fears that firings at Stars and Stripes threaten its editorial independence",
+      "explanation_hebrew": "הכתבה בוחנת את החשש שהפיטורים ב־Stars and Stripes מאיימים על העצמאות המערכתית של העיתון."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What reason did the US Department of Defense give for dismissing Erik Slavin?",
+      "difficulty": "B",
+      "options": [
+        "Poor sales",
+        "Insubordination",
+        "A missed deadline",
+        "Publishing classified maps"
+      ],
+      "correct_answer": "Insubordination",
+      "explanation_hebrew": "משרד ההגנה ציין insubordination — אי־ציות — כסיבת הפיטורים."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What statement did Slavin believe led to his firing?",
+      "difficulty": "B",
+      "options": [
+        "That the newspaper should stop its overseas print edition",
+        "That Stars and Stripes should cover only sport",
+        "That he wanted to retire immediately",
+        "That censorship of news for service members would be a red line"
+      ],
+      "correct_answer": "That censorship of news for service members would be a red line",
+      "explanation_hebrew": "סלווין סבר שפוטר משום שאמר כי צנזורה על חדשות לחיילים תהיה מבחינתו קו אדום."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what does “editorially independent” mean?",
+      "difficulty": "B",
+      "options": [
+        "Free to make journalistic decisions without Pentagon control",
+        "Funded entirely through private advertising",
+        "Written only by serving soldiers",
+        "Unable to report on military affairs"
+      ],
+      "correct_answer": "Free to make journalistic decisions without Pentagon control",
+      "explanation_hebrew": "עצמאות מערכתית פירושה שהעיתון יכול לקבל החלטות עיתונאיות בלי שהפנטגון יכתיב את הסיקור."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which other two people were reported as fired?",
+      "difficulty": "B",
+      "options": [
+        "Two Pentagon press officers",
+        "The captain and doctor of USS Abraham Lincoln",
+        "Reporter Lara Korte and publisher Max Lederer",
+        "The BBC interviewer and a CBS producer"
+      ],
+      "correct_answer": "Reporter Lara Korte and publisher Max Lederer",
+      "explanation_hebrew": "גם הכתבת לארה קורטה והמוציא לאור מקס לדרר דווחו כמפוטרים."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Slavin say about recent Pentagon communication with journalists?",
+      "difficulty": "B",
+      "options": [
+        "Officials held daily briefings",
+        "The Pentagon had not held a press conference since May",
+        "Every question was answered on the record",
+        "Reporters had received unrestricted building access"
+      ],
+      "correct_answer": "The Pentagon had not held a press conference since May",
+      "explanation_hebrew": "סלווין ציין שהפנטגון לא קיים מסיבת עיתונאים מאז מאי ושגורמים רשמיים נוטים פחות לדבר לציטוט."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two facts showing that Stars and Stripes has a special relationship with the US military.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני פרטים מדויקים מן הכתבה על מימון, קהל, הפצה או מעמד משפטי.",
+      "expected_points": [
+        "It is partially funded by the Pentagon",
+        "Congressional mandate and Defense Department rules protect its editorial independence",
+        "It serves US troops around the world",
+        "About 1.4 million people consume its content daily",
+        "It is printed outside the US where internet access may be unreliable"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might the firings make service members worry about the news they receive?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד פיטורי עיתונאים שהגנו על עצמאות מערכתית עלולים להשפיע על אמון וסיקור.",
+      "expected_points": [
+        "Editors or reporters may fear punishment for challenging officials",
+        "Government influence could turn independent reporting into public relations",
+        "Important information about military conditions may be suppressed",
+        "Service members depend on credible reporting about issues that affect them"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Slavin’s dismissal and the wider dispute over press freedom described in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את סיבת הפיטורים הנטענת, את טענת סלווין ואת ההקשר הרחב.",
+      "expected_points": [
+        "Slavin was dismissed for alleged insubordination",
+        "He linked the firing to comments opposing hypothetical censorship",
+        "Korte and Lederer were also fired",
+        "Stars and Stripes is supposed to remain editorially independent",
+        "The dispute comes amid reduced Pentagon press access and tension with US media",
+        "The Pentagon declined to comment to the BBC"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Argue whether a government-funded military newspaper can still be independent. Use at least two details from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג עמדה מנומקת, להשתמש בשני פרטים לפחות מן הכתבה ולהתייחס גם למתח שבין מימון לעצמאות.",
+      "expected_points": [
+        "Pentagon funding creates potential influence",
+        "Law and department rules mandate editorial independence",
+        "The paper serves military readers who need credible information",
+        "The firings may discourage critical reporting",
+        "The paper’s reporting on conditions aboard USS Abraham Lincoln illustrates its watchdog role",
+        "A clear distinction between journalism and public relations is necessary"
+      ]
+    }
+  ]
+}

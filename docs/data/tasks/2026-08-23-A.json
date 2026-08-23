@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-23",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+  "article_url": "https://www.bbc.co.uk/news/articles/c93403wg288o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A father was reprimanded after leaving his tired seven-year-old alone on Mount Fuji while he continued climbing",
+        "A child climbed Mount Fuji alone and won a national prize",
+        "Police closed every route on Mount Fuji because of rain",
+        "Two brothers opened a new hut near Mount Fuji’s summit"
+      ],
+      "correct_answer": "A father was reprimanded after leaving his tired seven-year-old alone on Mount Fuji while he continued climbing",
+      "explanation_hebrew": "הכתבה עוסקת באב שהשאיר את בנו בן השבע לבדו בהר פוג'י והמשיך לטפס, ולאחר מכן ננזף בידי המשטרה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the father leave with the seven-year-old before continuing the hike?",
+      "difficulty": "A",
+      "options": [
+        "A phone and a map",
+        "A coat and a torch",
+        "A soft drink and a snack",
+        "A tent and a sleeping bag"
+      ],
+      "correct_answer": "A soft drink and a snack",
+      "explanation_hebrew": "לפי הכתבה, האב השאיר לילד משקה קל וחטיף."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did mountain-hut staff find the boy?",
+      "difficulty": "A",
+      "options": [
+        "At the summit beside his brother",
+        "Near the sixth station, more than 2,000 metres up",
+        "At the first station beside a police car",
+        "Inside a hotel in Nagoya"
+      ],
+      "correct_answer": "Near the sixth station, more than 2,000 metres up",
+      "explanation_hebrew": "אנשי בקתת ההרים מצאו את הילד סמוך לתחנה השישית, בגובה של יותר מ־2,000 מטר."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How long was the boy reportedly waiting before he was reunited with his father?",
+      "difficulty": "A",
+      "options": [
+        "About thirty minutes",
+        "About two hours",
+        "About five hours",
+        "About eight hours"
+      ],
+      "correct_answer": "About eight hours",
+      "explanation_hebrew": "הכתבה מספרת שהילד היה עייף ונרגן לאחר שהמתין כשמונה שעות."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the father’s apology, what does “rash decision” mean?",
+      "difficulty": "A",
+      "options": [
+        "A decision required by police",
+        "A carefully planned decision",
+        "A hasty decision made without enough thought",
+        "A decision about treating a skin problem"
+      ],
+      "correct_answer": "A hasty decision made without enough thought",
+      "explanation_hebrew": "בהקשר הזה rash פירושו נמהר או פזיז — החלטה שנעשתה בלי מחשבה מספקת."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “reprimanded” mean in the opening of the article?",
+      "difficulty": "A",
+      "options": [
+        "Guided safely down the mountain",
+        "Officially criticised for wrongdoing",
+        "Invited to continue climbing",
+        "Given an award for bravery"
+      ],
+      "correct_answer": "Officially criticised for wrongdoing",
+      "explanation_hebrew": "reprimanded פירושו שננזף או קיבל ביקורת רשמית על מעשהו."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two details that made the situation dangerous or worrying for the child.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני פרטים קונקרטיים מן הכתבה שממחישים את הסיכון או את חומרת המצב.",
+      "expected_points": [
+        "The child was only seven years old",
+        "He was alone on Mount Fuji",
+        "Conditions were foggy and rainy",
+        "He was more than 2,000 metres up the mountain",
+        "His father was several hours away",
+        "He waited for about eight hours"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did police say the father should have given up the climb instead of leaving the boy behind?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את ההיגיון של המשטרה ולקשור אותו לגיל הילד ולתנאי ההר.",
+      "expected_points": [
+        "A young child needs adult supervision",
+        "Foggy and rainy mountain conditions increased the risk",
+        "Continuing to the summit was less important than the child’s safety",
+        "The family could have turned back or stayed together"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the sequence from the boy becoming tired to the family being reunited.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג בקצרה ובסדר נכון לפחות שלושה שלבים מרכזיים.",
+      "expected_points": [
+        "The seven-year-old complained that he was tired",
+        "His father told him to wait and continued with the elder son",
+        "Hut staff found the boy near the sixth station and alerted police",
+        "Police tracked down the father higher on the route",
+        "The father returned and was reunited with the boy",
+        "Police reprimanded him and he apologised"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short safety message for parents hiking with children, using two lessons from this incident.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח מסר ברור באנגלית ולבסס אותו על שני לקחים מן האירוע.",
+      "expected_points": [
+        "Keep the group together",
+        "Do not leave a young child alone",
+        "Turn back if a child is too tired",
+        "Check weather and visibility",
+        "Put a child’s safety before reaching the summit",
+        "Seek help from hut staff or authorities if needed"
+      ]
+    }
+  ]
+}
