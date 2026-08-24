@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-24",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Australian shark attack victim grateful for 'second chance at life'",
+  "article_url": "https://www.bbc.co.uk/news/articles/c87n792dnlno",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A shark-attack survivor is recovering from severe injuries and expressing gratitude for support and a second chance at life",
+        "Australian officials have permanently closed every beach in Sydney",
+        "A hospital has developed a new treatment that prevents shark bites",
+        "A swimmer is training for a race across Sydney Harbour"
+      ],
+      "correct_answer": "A shark-attack survivor is recovering from severe injuries and expressing gratitude for support and a second chance at life",
+      "explanation_hebrew": "הכתבה מתמקדת בהחלמתה של ניצולת מתקפת כריש, בתמיכה שקיבלה ובהכרת התודה שלה על הזדמנות שנייה לחיים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where was Leah Stewart attacked?",
+      "difficulty": "A",
+      "options": [
+        "While spearfishing far from the coast",
+        "During a morning swim at Coogee Beach in Sydney",
+        "Inside a protected marine aquarium",
+        "During an evening boat trip near Melbourne"
+      ],
+      "correct_answer": "During a morning swim at Coogee Beach in Sydney",
+      "explanation_hebrew": "לפי הכתבה, לאה סטיוארט הותקפה במהלך שחיית בוקר בחוף קוג'י שבסידני."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which treatment or medical outcome does the article report?",
+      "difficulty": "A",
+      "options": [
+        "She left hospital the same day without surgery",
+        "Doctors treated only a minor cut on one hand",
+        "She underwent several operations and had one arm amputated",
+        "She received a vaccine and immediately returned to swimming"
+      ],
+      "correct_answer": "She underwent several operations and had one arm amputated",
+      "explanation_hebrew": "הכתבה מתארת כמה ניתוחים וכן קטיעה של אחת מזרועותיה בעקבות הפציעות הקשות."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Stewart do after the fundraiser had raised more than A$500,000?",
+      "difficulty": "A",
+      "options": [
+        "She asked for all donations to be doubled",
+        "She transferred the entire fund to a beach club",
+        "She used it to organise a swimming competition",
+        "She asked for donations to be switched off because enough had been raised"
+      ],
+      "correct_answer": "She asked for donations to be switched off because enough had been raised",
+      "explanation_hebrew": "לאחר שנאסף סכום של יותר מחצי מיליון דולר אוסטרלי, היא ביקשה לעצור את התרומות משום שסברה שנאסף די כסף להחלמתה."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “remarkable” mean when the article describes Stewart’s recovery?",
+      "difficulty": "A",
+      "options": [
+        "Unusually impressive",
+        "Completely secret",
+        "Briefly delayed",
+        "Financially wasteful"
+      ],
+      "correct_answer": "Unusually impressive",
+      "explanation_hebrew": "בהקשר של ההחלמה, remarkable פירושו יוצאת דופן ומרשימה."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Stewart says she wants to get “better, not bitter”. What does “bitter” mean here?",
+      "difficulty": "A",
+      "options": [
+        "Physically thirsty",
+        "Unable to remember the attack",
+        "Angry and resentful because of what happened",
+        "Eager to return every donation"
+      ],
+      "correct_answer": "Angry and resentful because of what happened",
+      "explanation_hebrew": "כאן bitter מתאר תחושת כעס ומרירות מתמשכת בעקבות האירוע, בניגוד לרצונה להתמקד בהחלמה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two serious consequences of the shark attack for Stewart.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי תוצאות רפואיות או אישיות קונקרטיות המתוארות בכתבה.",
+      "expected_points": [
+        "She suffered severe bites to her arms and legs",
+        "She lost a great deal of blood",
+        "She was placed in an induced coma",
+        "She required several operations",
+        "One of her arms was amputated",
+        "She needs a long period of rehabilitation"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did messages and donations from strangers matter to Stewart during her recovery?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד התמיכה המעשית והרגשית סייעה לה, תוך הסתמכות על פרטים מן הכתבה.",
+      "expected_points": [
+        "The messages gave her encouragement",
+        "Supporters helped her feel less alone",
+        "Donations helped cover rehabilitation, medical treatment or prosthetic needs",
+        "The generosity inspired her to focus on getting better rather than becoming bitter"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Stewart’s experience from the attack to her reflections on recovery.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לסכם באנגלית את רצף האירועים ולכלול לפחות שלושה שלבים מרכזיים ללא העתקת טקסט מלא.",
+      "expected_points": [
+        "She was attacked by a shark while swimming at Coogee Beach",
+        "She suffered severe injuries and underwent major treatment including an amputation",
+        "Her recovery has continued for more than two months",
+        "A fundraiser and messages from people around the world supported her",
+        "She described the survival as a second chance and wants to use it well"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short message explaining what Stewart’s story shows about recovery and community support. Use two details from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב פסקה קצרה וברורה באנגלית, להביע רעיון מרכזי ולבסס אותו על שני פרטים מן הכתבה.",
+      "expected_points": [
+        "Recovery can require courage and prolonged medical treatment",
+        "Community donations can provide practical help",
+        "Messages and prayers can provide emotional encouragement",
+        "Stewart chose gratitude and hoped to become better rather than bitter",
+        "She wants to give back after receiving a second chance"
+      ]
+    }
+  ]
+}

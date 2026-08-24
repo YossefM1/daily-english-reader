@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-24",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Vietnam: Gen Z seek justice for teen killed in ex-politician's car crash",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3ekgzwex05o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central focus of the article?",
+      "difficulty": "C",
+      "options": [
+        "A campaign to ban motorbikes from central Hanoi",
+        "A dispute over the design of a Vietnamese memorial",
+        "A former politician’s plan to return to public office",
+        "Young Vietnamese people demanding transparency and accountability after a teenager’s fatal crash"
+      ],
+      "correct_answer": "Young Vietnamese people demanding transparency and accountability after a teenager’s fatal crash",
+      "explanation_hebrew": "הכתבה מתמקדת בדרישת צעירים בווייטנאם לשקיפות ולאחריות בעקבות תאונה קטלנית שבה היה מעורב פוליטיקאי לשעבר."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened in the May 2025 collision?",
+      "difficulty": "C",
+      "options": [
+        "A car veered into the opposite lane and hit a motorbike carrying a father and his daughter",
+        "A parked bus rolled into a market without a driver",
+        "Two politicians collided during a bicycle race",
+        "A motorbike struck an empty government vehicle"
+      ],
+      "correct_answer": "A car veered into the opposite lane and hit a motorbike carrying a father and his daughter",
+      "explanation_hebrew": "לפי הכתבה, המכונית סטתה לנתיב הנגדי והתנגשה באופנוע שעליו נסעו אב ובתו."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened to 18-year-old Do Ngoc Phuong Thuy after the crash?",
+      "difficulty": "C",
+      "options": [
+        "She recovered and returned to school the following day",
+        "She moved abroad before investigators interviewed her",
+        "She died about ten days later, shortly before her graduation examinations",
+        "She became the spokesperson for the police inquiry"
+      ],
+      "correct_answer": "She died about ten days later, shortly before her graduation examinations",
+      "explanation_hebrew": "תוי בת ה־18 מתה כעשרה ימים לאחר התאונה, זמן קצר לפני בחינות סיום התיכון."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was Nguyen Sy Cuong exempted from criminal liability, according to the official television report?",
+      "difficulty": "C",
+      "options": [
+        "Investigators concluded that his car had not been involved",
+        "He confessed, remedied the consequences, and the victim’s family asked not to prosecute him",
+        "A court found that the motorbike driver caused the collision",
+        "A new law removed all liability for former politicians"
+      ],
+      "correct_answer": "He confessed, remedied the consequences, and the victim’s family asked not to prosecute him",
+      "explanation_hebrew": "בדיווח הרשמי נאמר שהוא הודה בכנות, פעל לתיקון תוצאות מעשיו, ומשפחת הקורבן ביקשה שלא להעמידו לדין."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “accountability” mean in the young campaigners’ demands?",
+      "difficulty": "C",
+      "options": [
+        "Keeping official records secret",
+        "Giving politicians control of social media",
+        "Holding the responsible person answerable for actions and decisions",
+        "Counting how many cars travel through Hanoi"
+      ],
+      "correct_answer": "Holding the responsible person answerable for actions and decisions",
+      "explanation_hebrew": "accountability פירושו נשיאה באחריות ומתן דין וחשבון על מעשים והחלטות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Authorities warned that hostile forces might “foment” unrest. What does “foment” mean here?",
+      "difficulty": "C",
+      "options": [
+        "Measure unrest accurately",
+        "Prevent unrest through negotiation",
+        "Describe unrest after it has ended",
+        "Encourage or stir up unrest"
+      ],
+      "correct_answer": "Encourage or stir up unrest",
+      "explanation_hebrew": "foment פירושו ללבות או לעודד התססה ואי־שקט."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two ways young people kept public attention on the case.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שתי פעולות קונקרטיות של צעירים או משתמשי רשת כפי שהן מתוארות בכתבה.",
+      "expected_points": [
+        "They shared large numbers of posts and hashtags on social media",
+        "They created virtual memorials",
+        "People left flowers at the crash site",
+        "They demanded a public explanation and accountability",
+        "They continued discussing the case despite restrictions or removals"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did the long information gap increase suspicion and outrage?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את הקשר בין מחסור במידע, מעמדו של הנהג והחשש מאי־שוויון בפני החוק.",
+      "expected_points": [
+        "There was little official information for more than a year",
+        "The driver was a former senior politician",
+        "The lack of transparency allowed rumours to spread",
+        "People questioned whether power or connections affected the outcome",
+        "Young people wanted the specific legal reasons for the decision"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the crash, the official response and the Gen Z campaign.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב סיכום מאוזן באנגלית הכולל לפחות פרט אחד מכל אחד משלושת החלקים: התאונה, ההחלטה הרשמית והתגובה הציבורית.",
+      "expected_points": [
+        "A former politician’s car struck a motorbike carrying a father and his 18-year-old daughter",
+        "The teenager died from her injuries",
+        "The driver was exempted from criminal liability after confessing and remedying consequences, and after the family’s request",
+        "A long lack of public information fuelled suspicion",
+        "Gen Z users used social media and memorials to demand transparency and justice",
+        "State television eventually explained the official decision while authorities warned about unrest"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short, balanced response explaining how authorities should address public concern in a case like this.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב תגובה שקולה באנגלית המציעה צעדים מעשיים ומשלבת לפחות שתי נקודות העולות מן הכתבה.",
+      "expected_points": [
+        "Publish timely and specific information about the investigation",
+        "Explain the laws and reasons behind a decision not to prosecute",
+        "Treat people equally regardless of political status",
+        "Respect the victim’s family and their request for privacy",
+        "Allow legitimate questions while addressing false claims with evidence",
+        "Distinguish peaceful calls for accountability from attempts to cause disorder"
+      ]
+    }
+  ]
+}

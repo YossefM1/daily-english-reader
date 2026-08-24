@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-24",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "'I didn't speak the Queen's English': Why people worry about their accents",
+  "article_url": "https://www.bbc.co.uk/news/articles/c05q318501yo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly examining?",
+      "difficulty": "B",
+      "options": [
+        "Why all regional accents are disappearing from Britain",
+        "How workplace accent bias can affect confidence, judgement and career opportunities",
+        "How actors learn foreign languages for television roles",
+        "Why employers now require staff to speak several languages"
+      ],
+      "correct_answer": "How workplace accent bias can affect confidence, judgement and career opportunities",
+      "explanation_hebrew": "הכתבה בוחנת כיצד הטיה כלפי מבטאים במקום העבודה משפיעה על ביטחון עצמי, על האופן שבו שופטים אנשים ועל הזדמנויות מקצועיות."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to the survey, what did nearly one in five respondents believe?",
+      "difficulty": "B",
+      "options": [
+        "Their accent had held them back in their career",
+        "Their workplace had banned regional vocabulary",
+        "Their colleagues could not understand any English",
+        "Their accent guaranteed them a promotion"
+      ],
+      "correct_answer": "Their accent had held them back in their career",
+      "explanation_hebrew": "כמעט חמישית מן המשיבים חשבו שהמבטא שלהם עיכב את התקדמותם המקצועית."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did about one in three people think others did because of their accent?",
+      "difficulty": "B",
+      "options": [
+        "Offered them free language lessons",
+        "Moved them to another region",
+        "Made assumptions about their character or ability",
+        "Asked them to become public speakers"
+      ],
+      "correct_answer": "Made assumptions about their character or ability",
+      "explanation_hebrew": "כשליש סברו שאנשים מסיקים מסקנות על אופיים או יכולתם רק על סמך המבטא."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why might some workers soften or adapt their accent?",
+      "difficulty": "B",
+      "options": [
+        "To hide that they know another language",
+        "To prepare for a singing competition",
+        "To make every regional accent sound identical",
+        "To avoid negative judgements and sound more accepted in professional settings"
+      ],
+      "correct_answer": "To avoid negative judgements and sound more accepted in professional settings",
+      "explanation_hebrew": "עובדים עשויים לרכך או להתאים את מבטאם כדי להימנע משיפוט שלילי ולהיתפס כמקצועיים או מקובלים יותר."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “self-conscious” mean in the article’s discussion of professional settings?",
+      "difficulty": "B",
+      "options": [
+        "Proud of speaking louder than everyone else",
+        "Uncomfortably aware of how one sounds to other people",
+        "Unable to recognise a familiar voice",
+        "Interested only in written communication"
+      ],
+      "correct_answer": "Uncomfortably aware of how one sounds to other people",
+      "explanation_hebrew": "self-conscious פירושו מודע לעצמך באופן לא נוח או נבוך, כאן בנוגע לאופן שבו המבטא נשמע לאחרים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "If employers “scrutinise” recruitment and promotion decisions for accent bias, what do they do?",
+      "difficulty": "B",
+      "options": [
+        "Examine the decisions very carefully",
+        "Cancel every promotion automatically",
+        "Replace interviews with spelling tests",
+        "Ignore the way candidates are assessed"
+      ],
+      "correct_answer": "Examine the decisions very carefully",
+      "explanation_hebrew": "scrutinise פירושו לבדוק בקפידה רבה. בהקשר זה מדובר בבחינה מדוקדקת של החלטות גיוס וקידום כדי לזהות הטיה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two ways accent bias can affect people at work.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתי השפעות שונות המתוארות בכתבה ולנסח אותן במילים של הלומד.",
+      "expected_points": [
+        "People may feel anxious or self-conscious when speaking",
+        "Others may make assumptions about intelligence, character or capability",
+        "An accent may be seen as a barrier to recruitment or promotion",
+        "Some workers may change or soften their accent",
+        "Critical comments or imitation can make people feel excluded"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is judging a person’s ability by their accent unfair?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את ההסקה ולהבחין בין צורת הדיבור לבין הכישורים או התוכן של דברי האדם.",
+      "expected_points": [
+        "An accent reflects region, background or identity rather than ability",
+        "Different accents do not show how intelligent or capable a person is",
+        "Bias can disadvantage qualified candidates",
+        "Employers should assess evidence, experience and the content of answers"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article’s argument about accents and the workplace.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח סיכום מאוזן באנגלית הכולל את הבעיה, השפעותיה ודרך אפשרית להתמודד עמה.",
+      "expected_points": [
+        "Accent bias remains present in some workplaces",
+        "Survey respondents reported anxiety and possible career disadvantages",
+        "People may be judged by assumptions unrelated to their actual ability",
+        "Some adapt their speech to fit professional expectations",
+        "Employers can review recruitment and promotion practices and focus on capability"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short recommendation to an employer on reducing accent prejudice. Support it with two ideas from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב המלצה מעשית וברורה באנגלית ולהשתמש בשתי נקודות המבוססות על הכתבה.",
+      "expected_points": [
+        "Train interviewers to recognise accent bias",
+        "Use consistent criteria based on skills and experience",
+        "Review recruitment and promotion outcomes",
+        "Do not treat one accent as a sign of greater intelligence or professionalism",
+        "Challenge mocking, imitation or critical comments",
+        "Create an environment where regional identities are respected"
+      ]
+    }
+  ]
+}
