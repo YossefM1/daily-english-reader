@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-25",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+  "article_url": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central argument?",
+      "difficulty": "C",
+      "options": [
+        "China's robot strategy is limited to entertainment spectacles",
+        "China has stopped training people for technical jobs",
+        "The less glamorous spread of industrial automation may matter more than attention-grabbing humanoid robots",
+        "Chinese factories are replacing robots with manual labour"
+      ],
+      "correct_answer": "The less glamorous spread of industrial automation may matter more than attention-grabbing humanoid robots",
+      "explanation_hebrew": "הטענה המרכזית היא שהמהפכה המשמעותית אינה רק ברובוטים דמויי אדם שמושכים תשומת לב, אלא בהתפשטות השקטה והרחבה של אוטומציה תעשייתית במפעלים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does teacher Chen Tianyu keep his robotics lessons current?",
+      "difficulty": "C",
+      "options": [
+        "He spends spare time visiting factories that are moving towards automation",
+        "He studies only historical machines in museums",
+        "He asks students to avoid industrial sites",
+        "He teaches from one unchanged textbook"
+      ],
+      "correct_answer": "He spends spare time visiting factories that are moving towards automation",
+      "explanation_hebrew": "צ'ן טיאניו מבקר בזמנו הפנוי במפעלים העוברים לאוטומציה, כדי לדעת אילו נושאים וכישורים לתעדף בהוראה."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What scale of industrial automation does the article report in China?",
+      "difficulty": "C",
+      "options": [
+        "About 30 robots, all at one college",
+        "Fewer than 20,000 robots nationwide",
+        "Exactly one million humanoid robots in homes",
+        "More than two million robots working in factories"
+      ],
+      "correct_answer": "More than two million robots working in factories",
+      "explanation_hebrew": "הכתבה מציינת שבמפעלי סין עובדים יותר משני מיליון רובוטים — יותר מבכל מדינה אחרת."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is one purpose of the large vocational institutes described in the article?",
+      "difficulty": "C",
+      "options": [
+        "To train students only in traditional calligraphy",
+        "To produce a new generation of engineers able to program, operate and maintain advanced machines",
+        "To prevent young people from entering factories",
+        "To display robots without allowing students to use them"
+      ],
+      "correct_answer": "To produce a new generation of engineers able to program, operate and maintain advanced machines",
+      "explanation_hebrew": "המוסדות המקצועיים נועדו להכשיר דור חדש של עובדים ומהנדסים בעלי כישורים בתכנות, הפעלה ותחזוקה של רובוטים ומערכות מתקדמות."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “meticulously” suggest about how China is building its robotic future?",
+      "difficulty": "C",
+      "options": [
+        "It is happening accidentally and without planning",
+        "It is being hidden from every factory worker",
+        "It is being planned and developed with great care and attention to detail",
+        "It is progressing only through private hobbies"
+      ],
+      "correct_answer": "It is being planned and developed with great care and attention to detail",
+      "explanation_hebrew": "meticulously פירושו בקפדנות רבה ובתשומת לב לפרטים; המילה מדגישה שהמהלך מתוכנן ומפותח באופן שיטתי."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “looming” gap in the workforce?",
+      "difficulty": "C",
+      "options": [
+        "A gap that existed only in ancient history",
+        "A gap that has already been fully solved",
+        "A small difference in workers' uniforms",
+        "A shortage that is approaching and causing concern"
+      ],
+      "correct_answer": "A shortage that is approaching and causing concern",
+      "explanation_hebrew": "looming מתאר דבר המתקרב ומעורר דאגה. כאן מדובר במחסור עתידי בעובדים עקב אוכלוסייה מצטמצמת ומזדקנת."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two examples of how China is preparing people and industry for wider automation.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שתי דוגמאות קונקרטיות מן הכתבה, רצוי אחת מתחום ההכשרה ואחת מתחום התעשייה או המדיניות.",
+      "expected_points": [
+        "Vocational institutes teach coding, AI and robotics",
+        "Students program industrial robots and develop robotic medical instruments",
+        "Teachers visit automated factories to keep training relevant",
+        "Factories are installing robots at extraordinary scale",
+        "The government is backing innovation with a roughly $20bn plan",
+        "Workers are being trained to operate or maintain machines"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might industrial robots have a greater near-term impact than humanoid prototypes?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשוות בין שימוש תעשייתי קיים לבין אב־טיפוס ראוותני ולהסביר את ההסקה על בסיס הכתבה.",
+      "expected_points": [
+        "Industrial robots already number more than two million in Chinese factories",
+        "They perform practical repetitive production tasks now",
+        "Robot arms can be tailored to specific factory needs",
+        "Humanoid demonstrations attract attention but many remain prototypes",
+        "Industrial automation can affect productivity and employment across many sectors"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the forces driving China's automation push and the uncertainties it creates.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב סיכום אנליטי באנגלית הכולל מניעים, אמצעי יישום ולפחות סיכון או שאלה פתוחה אחת.",
+      "expected_points": [
+        "China wants to compete at the forefront of global technological innovation",
+        "A shrinking and ageing population creates a looming labour gap",
+        "Factories are rapidly installing industrial robots",
+        "Vocational schools are training workers for robotics and AI",
+        "Automation may raise productivity in a sluggish economy",
+        "The transition can displace jobs and requires retraining",
+        "Machines also require maintenance, inspection and repair",
+        "The speed and management of the transition will shape its social impact"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short, balanced response to the claim that factory automation will simply eliminate human workers.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב תגובה מאוזנת באנגלית הכוללת ראיות מן הכתבה הן לסיכון התעסוקתי והן לצורך המתמשך בכישורי אדם.",
+      "expected_points": [
+        "Robots can replace some repetitive tasks",
+        "Rapid automation may eliminate or transform existing jobs",
+        "A shrinking workforce gives factories a practical reason to automate",
+        "People are still needed to program, operate, inspect and repair machines",
+        "Vocational education can help workers move into new roles",
+        "The speed of transition and access to retraining are crucial"
+      ]
+    }
+  ]
+}

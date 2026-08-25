@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-25",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "New 10p coin enters circulation - will you spot one?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "New 10p coins featuring King Charles III and an endangered Scottish bird are entering circulation",
+        "The Royal Mint is removing every 10p coin from shops",
+        "A Scottish bird charity has replaced cash with digital payments",
+        "Collectors have discovered that old 10p coins have no value"
+      ],
+      "correct_answer": "New 10p coins featuring King Charles III and an endangered Scottish bird are entering circulation",
+      "explanation_hebrew": "הכתבה עוסקת במטבעות 10 פני חדשים הנכנסים למחזור ועליהם דיוקן המלך צ'רלס השלישי ושכווי ענק המצוי בסכנת הכחדה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why are newly minted 10p coins being released now?",
+      "difficulty": "A",
+      "options": [
+        "Every older coin has become damaged",
+        "Collectors asked for a coin made only of silver",
+        "There is sufficient demand for more 10p coins",
+        "The government has changed the value of 10p"
+      ],
+      "correct_answer": "There is sufficient demand for more 10p coins",
+      "explanation_hebrew": "לפי הכתבה, הביקוש למטבעות 10 פני היה מספיק כדי להצדיק הנפקה חדשה."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What appears on the reverse, or tails side, of the new coin?",
+      "difficulty": "A",
+      "options": [
+        "An oak leaf",
+        "A capercaillie",
+        "A red squirrel",
+        "An Atlantic salmon"
+      ],
+      "correct_answer": "A capercaillie",
+      "explanation_hebrew": "בצד האחורי של המטבע מופיע capercaillie — שכווי ענק החי באזור קטן בסקוטלנד."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many 10p coins dated 2023 and 2026 are entering circulation in total?",
+      "difficulty": "A",
+      "options": [
+        "About 600,000",
+        "About 2.4 million",
+        "About 24 million",
+        "Just over seven million"
+      ],
+      "correct_answer": "Just over seven million",
+      "explanation_hebrew": "ה־Royal Mint מסר כי 600 אלף מטבעות מתאריך 2023 ועוד 6.5 מיליון מתאריך 2026 נכנסים למחזור — יחד מעט יותר משבעה מיליון."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “circulation” mean when the article says the coins are entering circulation?",
+      "difficulty": "A",
+      "options": [
+        "Being used by the public as money",
+        "Being displayed only inside a museum",
+        "Being melted to make new metal",
+        "Being sold only to professional collectors"
+      ],
+      "correct_answer": "Being used by the public as money",
+      "explanation_hebrew": "בהקשר זה circulation הוא המחזור הכספי — המטבעות מתחילים לשמש את הציבור בתשלומים ובעודף."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why is the coin described as a “stark reminder” about the capercaillie?",
+      "difficulty": "A",
+      "options": [
+        "The coin proves that the bird has disappeared everywhere",
+        "The design makes the coin difficult to use",
+        "The large number of coins contrasts sharply with the small number of birds left in the wild",
+        "The portrait shows that the King owns the remaining birds"
+      ],
+      "correct_answer": "The large number of coins contrasts sharply with the small number of birds left in the wild",
+      "explanation_hebrew": "הביטוי stark reminder מדגיש ניגוד חד ומדאיג: יהיו במחזור יותר מטבעות עם דמות הציפור מאשר פרטים שלה שנותרו בטבע."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two details that make the new 10p coin historically or visually distinctive.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני פרטים קונקרטיים מן הכתבה על העיצוב או על משמעות ההנפקה.",
+      "expected_points": [
+        "It is the first circulating 10p denomination to bear King Charles III's portrait",
+        "The reverse depicts a capercaillie",
+        "The coins carry 2023 or 2026 dates",
+        "The design belongs to a collection inspired by British flora and fauna"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might both ordinary shoppers and seasoned collectors look carefully at their change?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד נדירות יחסית, עיצוב חדש ומשמעות היסטורית עשויים לעורר עניין.",
+      "expected_points": [
+        "The design is newly entering everyday circulation",
+        "It is the first 10p with the King's portrait",
+        "King Charles III coins still form only a small share of UK circulating coins",
+        "Collectors may value the date, portrait or new reverse design",
+        "Shoppers can find the coins at banks, Post Offices, tills or in ordinary change"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the release of the new 10p coin and the conservation message behind its design.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב סיכום קצר באנגלית הכולל את ההנפקה, שני צדי המטבע והמסר הסביבתי.",
+      "expected_points": [
+        "Just over seven million 10p coins dated 2023 and 2026 are entering circulation",
+        "The obverse bears King Charles III's portrait",
+        "The reverse shows the capercaillie",
+        "The bird is found in a small part of Scotland and is threatened with extinction",
+        "The design highlights conservation and the flora and fauna of the British Isles"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short notice encouraging people to check their change, using two accurate details from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח הודעה קצרה וברורה באנגלית הכוללת קריאה לפעולה ושני פרטים מדויקים מן הכתבה.",
+      "expected_points": [
+        "Tell readers to look for a new 10p coin",
+        "Mention King Charles III's portrait",
+        "Mention the capercaillie on the reverse",
+        "Explain that the bird is endangered or at risk of extinction",
+        "Mention that the coins are being distributed nationwide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-25",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "'What you see is what you pay' - why some US restaurants are banning tips",
+  "article_url": "https://www.bbc.co.uk/news/articles/c4g36yze692o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly examining?",
+      "difficulty": "B",
+      "options": [
+        "Why some US restaurants replace tipping with transparent prices and fixed wages, and why the model remains difficult",
+        "Why American restaurants are refusing to employ kitchen staff",
+        "How diners can calculate the largest possible gratuity",
+        "Why every US state has legally prohibited tips"
+      ],
+      "correct_answer": "Why some US restaurants replace tipping with transparent prices and fixed wages, and why the model remains difficult",
+      "explanation_hebrew": "הכתבה בוחנת מדוע חלק מהמסעדות בארה״ב עוברות למחירים הכוללים את עלות השירות ולשכר קבוע, וכן את הקשיים שמונעים מהמודל להתפשט במהירות."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the $140 price at La Cigale include?",
+      "difficulty": "B",
+      "options": [
+        "Only the food, with tax and tips added later",
+        "A meal plus a voluntary 25% gratuity",
+        "The meal, tax and service, with no tip or extra fee",
+        "A yearly membership for regular customers"
+      ],
+      "correct_answer": "The meal, tax and service, with no tip or extra fee",
+      "explanation_hebrew": "ב־La Cigale המחיר הקבוע של 140 דולר כולל את הארוחה, המס והוצאות השירות; אין שורת טיפ או עמלה נוספת."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What benefit does wine waiter Caroline Kraetzer receive from La Cigale's model?",
+      "difficulty": "B",
+      "options": [
+        "She keeps every tip given to the kitchen",
+        "She chooses a different wage after every table",
+        "She pays no tax on restaurant income",
+        "She earns about $40 an hour without relying on customers' tips"
+      ],
+      "correct_answer": "She earns about $40 an hour without relying on customers' tips",
+      "explanation_hebrew": "המלצרית המתמחה ביין קרוליין קרצר מרוויחה כ־40 דולר לשעה ואינה תלויה בנדיבות משתנה של לקוחות."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can a tip-free menu look more expensive than a comparable traditional menu?",
+      "difficulty": "B",
+      "options": [
+        "The restaurant must import every ingredient",
+        "Customers see labour, tax or service costs in the listed price instead of adding them later",
+        "Tip-free restaurants are required to serve twice as much food",
+        "Restaurants hide the price until the customer leaves"
+      ],
+      "correct_answer": "Customers see labour, tax or service costs in the listed price instead of adding them later",
+      "explanation_hebrew": "במודל ללא טיפ העלות המלאה גלויה כבר במחיר התפריט, בעוד שבמסעדה רגילה מס וטיפ מתווספים בהמשך ולכן מחיר הבסיס נראה נמוך יותר."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “equitably” mean when owners say they want to pay staff more equitably?",
+      "difficulty": "B",
+      "options": [
+        "Secretly and without records",
+        "Only when the restaurant is full",
+        "In a fair way that considers different workers",
+        "According to the size of each customer's tip"
+      ],
+      "correct_answer": "In a fair way that considers different workers",
+      "explanation_hebrew": "equitably פירושו באופן הוגן ושוויוני יותר, למשל לצמצם את הפער בין צוות השירות לבין עובדי המטבח."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "If the disadvantages “outweigh” the advantages of removing tips, what does that mean?",
+      "difficulty": "B",
+      "options": [
+        "The disadvantages are more important or greater",
+        "The disadvantages can be measured in kilograms",
+        "The advantages have been completely misunderstood",
+        "The two sides are exactly equal"
+      ],
+      "correct_answer": "The disadvantages are more important or greater",
+      "explanation_hebrew": "outweigh פירושו להיות משמעותי או כבד יותר. כאן הכוונה שהחסרונות עשויים להיות גדולים מן היתרונות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons supporters prefer a no-tip restaurant model.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני יתרונות שונים המופיעים בכתבה ולחבר כל יתרון לעובדים או לסועדים.",
+      "expected_points": [
+        "Workers can receive more stable income",
+        "Staff do not depend on the generosity or bias of strangers",
+        "Kitchen and front-of-house workers can be paid more fairly",
+        "Customers know the full amount they will pay",
+        "The model can reduce pressure or uncertainty around tipping"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why may some restaurants struggle to sustain a tip-free system?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר לפחות שני לחצים כלכליים או התנהגותיים המקשים על המודל.",
+      "expected_points": [
+        "Menu prices must rise to cover higher fixed wages",
+        "Customers may compare the higher visible price with menus that exclude tips",
+        "Higher recorded revenue can create additional tax costs",
+        "Some experienced servers may prefer the earning potential of tips",
+        "Restaurants may struggle to retain staff or maintain profits",
+        "Removing tips may reduce a familiar motivation for service"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the main arguments for and against banning tips in US restaurants.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב סיכום מאוזן באנגלית הכולל לפחות יתרון אחד, קושי אחד ודוגמה מן הכתבה.",
+      "expected_points": [
+        "Supporters argue that fixed wages offer stability and fairness",
+        "Transparent all-inclusive prices let diners know the final cost",
+        "La Cigale charges a fixed $140 and pays staff without tips",
+        "Critics worry about higher menu prices and financial sustainability",
+        "Some servers may prefer tips because they can increase earnings",
+        "The article suggests tipping is unlikely to disappear quickly"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short recommendation to a restaurant considering a no-tip policy. Use two lessons from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג המלצה מעשית באנגלית ולבסס אותה על שני לקחים קונקרטיים מן הכתבה.",
+      "expected_points": [
+        "Explain clearly that prices include service, tax or labour costs",
+        "Set wages that provide staff with stability",
+        "Consider fair pay for kitchen and front-of-house workers",
+        "Compare the total customer bill, not only menu prices",
+        "Plan for payroll, revenue and tax effects",
+        "Ask workers and customers for feedback before making the change"
+      ]
+    }
+  ]
+}
