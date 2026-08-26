@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-26",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Does 'rewilded' land need better wildfire prevention measures?",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cvgye1999n8o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-08-25T22:07:29+00:00",
+  "age_hours_at_selection": 4.14,
+  "word_count": 1426,
+  "generated_at": "2026-08-26T02:15:43.274541+00:00",
+  "difficulty_reason": "Long, analytical environment feature with dense information, quotes and B2/C1/C2 vocabulary; needs some background on land management.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "aftermath",
+      "lemma": "aftermath",
+      "level": "C1",
+      "hebrew": "השלכות, המצב שלאחר אירוע",
+      "explanation_hebrew": "המצב שנותר לאחר אירוע הרסני",
+      "pronunciation_hebrew": "אַפְטֶרְמַאת'",
+      "example": "We drove to see the aftermath of the fire."
+    },
+    {
+      "word": "charred",
+      "lemma": "char",
+      "level": "C1",
+      "hebrew": "חרוך",
+      "explanation_hebrew": "שרוף עד לשחור",
+      "pronunciation_hebrew": "צַ'ארְד",
+      "example": "The charred landscape still smelt of smoke."
+    },
+    {
+      "word": "smouldering",
+      "lemma": "smoulder",
+      "level": "C1",
+      "hebrew": "בוער לאט, מעשן",
+      "explanation_hebrew": "בוער באיטיות ללא להבות",
+      "pronunciation_hebrew": "סְמוֹלְדֶרִינְג",
+      "example": "Smouldering vegetation remained after the fire."
+    },
+    {
+      "word": "vegetation",
+      "lemma": "vegetation",
+      "level": "B2",
+      "hebrew": "צמחייה",
+      "explanation_hebrew": "צמחים באזור מסוים",
+      "pronunciation_hebrew": "וֶגֶ'טֵיישֶׁן",
+      "example": "Machines removed the vegetation."
+    },
+    {
+      "word": "hectares",
+      "lemma": "hectare",
+      "level": "B2",
+      "hebrew": "הקטרים",
+      "explanation_hebrew": "יחידת שטח השווה לעשרת אלפים מטר רבוע",
+      "pronunciation_hebrew": "הֶקְטַרְז",
+      "example": "Thousands of hectares were destroyed."
+    },
+    {
+      "word": "moorland",
+      "lemma": "moorland",
+      "level": "C1",
+      "hebrew": "אדמת בור פראית",
+      "explanation_hebrew": "שטח פתוח ופראי מכוסה שיחים ואברש",
+      "pronunciation_hebrew": "מוּרְלַנְד",
+      "example": "The fire spread across the moorland."
+    },
+    {
+      "word": "evacuation",
+      "lemma": "evacuation",
+      "level": "B2",
+      "hebrew": "פינוי",
+      "explanation_hebrew": "הוצאת אנשים ממקום מסוכן",
+      "pronunciation_hebrew": "אִיוַואקְיוּאֵיישֶׁן",
+      "example": "The fire led to the evacuation of a village."
+    },
+    {
+      "word": "restoration",
+      "lemma": "restoration",
+      "level": "C1",
+      "hebrew": "שיקום",
+      "explanation_hebrew": "החזרת משהו למצבו הטבעי או המקורי",
+      "pronunciation_hebrew": "רֶסְטוֹרֵיישֶׁן",
+      "example": "The land is managed for ecological restoration."
+    },
+    {
+      "word": "polarising",
+      "lemma": "polarise",
+      "level": "C1",
+      "hebrew": "מקטב, מפלג דעות",
+      "explanation_hebrew": "גורם לאנשים להתחלק לדעות מנוגדות",
+      "pronunciation_hebrew": "פּוֹלַרַייזִינְג",
+      "example": "'Rewilding' is a polarising term."
+    },
+    {
+      "word": "remnant",
+      "lemma": "remnant",
+      "level": "C1",
+      "hebrew": "שריד",
+      "explanation_hebrew": "חלק קטן שנותר ממשהו גדול יותר",
+      "pronunciation_hebrew": "רֶמְנַנְט",
+      "example": "Abernethy hosts a remnant of ancient forest."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פגיע",
+      "explanation_hebrew": "חשוף לנזק או לסכנה",
+      "pronunciation_hebrew": "וַואלְנֶרַבֶּל",
+      "example": "The area is vulnerable to fires."
+    },
+    {
+      "word": "uncontrollable",
+      "lemma": "uncontrollable",
+      "level": "B2",
+      "hebrew": "בלתי נשלט",
+      "explanation_hebrew": "שאי אפשר לשלוט בו",
+      "pronunciation_hebrew": "אַנְקוֹנְטְרוֹלַבֶּל",
+      "example": "Uncontrollable fires can spread fast."
+    },
+    {
+      "word": "disputes",
+      "lemma": "dispute",
+      "level": "C1",
+      "hebrew": "חולק על, מערער",
+      "explanation_hebrew": "טוען שמשהו אינו נכון",
+      "pronunciation_hebrew": "דִיסְפְּיוּטְס",
+      "example": "The charity disputes that claim."
+    },
+    {
+      "word": "acknowledges",
+      "lemma": "acknowledge",
+      "level": "C1",
+      "hebrew": "מכיר בכך, מודה",
+      "explanation_hebrew": "מקבל שמשהו נכון",
+      "pronunciation_hebrew": "אַקְנוֹלִגֶ'ס",
+      "example": "It acknowledges that fire breaks must be wider."
+    },
+    {
+      "word": "ignite",
+      "lemma": "ignite",
+      "level": "C1",
+      "hebrew": "להצית, להידלק",
+      "explanation_hebrew": "לגרום לבעור או להתחיל לבעור",
+      "pronunciation_hebrew": "אִיגְנַייְט",
+      "example": "The dry vegetation could ignite easily."
+    },
+    {
+      "word": "desolate",
+      "lemma": "desolate",
+      "level": "C1",
+      "hebrew": "שומם",
+      "explanation_hebrew": "ריק, נטוש וללא חיים",
+      "pronunciation_hebrew": "דֶסוֹלֵט",
+      "example": "The burnt ground looks desolate now."
+    },
+    {
+      "word": "colonise",
+      "lemma": "colonise",
+      "level": "C1",
+      "hebrew": "לאכלס, ליישב",
+      "explanation_hebrew": "מינים חדשים מתיישבים באזור",
+      "pronunciation_hebrew": "קוֹלַנַייז",
+      "example": "Insects will colonise the ground again."
+    },
+    {
+      "word": "extinguished",
+      "lemma": "extinguish",
+      "level": "C1",
+      "hebrew": "כובה",
+      "explanation_hebrew": "הופסק, נכבה (של אש)",
+      "pronunciation_hebrew": "אִיקְסְטִינְגְוִישְׁט",
+      "example": "The small fire was extinguished with water."
+    },
+    {
+      "word": "habitat",
+      "lemma": "habitat",
+      "level": "B2",
+      "hebrew": "בית גידול",
+      "explanation_hebrew": "הסביבה הטבעית של בעל חיים או צמח",
+      "pronunciation_hebrew": "הַבִּיטַט",
+      "example": "The pond is a habitat for rare dragonflies."
+    },
+    {
+      "word": "degraded",
+      "lemma": "degrade",
+      "level": "C1",
+      "hebrew": "פגוע, שהתדרדר",
+      "explanation_hebrew": "שנפגע והתדרדר במצבו",
+      "pronunciation_hebrew": "דִיגְרֵיידֶד",
+      "example": "Degraded peatland burns more easily."
+    },
+    {
+      "word": "moisture",
+      "lemma": "moisture",
+      "level": "B2",
+      "hebrew": "לחות",
+      "explanation_hebrew": "כמות קטנה של מים בחומר או באוויר",
+      "pronunciation_hebrew": "מוֹיְסְצֶ'ר",
+      "example": "Wet peat brings moisture to the land."
+    },
+    {
+      "word": "superficial",
+      "lemma": "superficial",
+      "level": "C1",
+      "hebrew": "שטחי",
+      "explanation_hebrew": "נמצא על פני השטח, לא עמוק",
+      "pronunciation_hebrew": "סוּפֶּרְפִישֶׁל",
+      "example": "The damage was only superficial."
+    },
+    {
+      "word": "accelerating",
+      "lemma": "accelerate",
+      "level": "C1",
+      "hebrew": "מאיץ, מזרז",
+      "explanation_hebrew": "גורם למשהו לקרות מהר יותר",
+      "pronunciation_hebrew": "אַקְסֶלֶרֵייטִינְג",
+      "example": "She argues for accelerating restoration."
+    },
+    {
+      "word": "proportionate",
+      "lemma": "proportionate",
+      "level": "C1",
+      "hebrew": "מידתי",
+      "explanation_hebrew": "מתאים בגודלו למצב",
+      "pronunciation_hebrew": "פְּרוֹפּוֹרְשֶׁנֶט",
+      "example": "They want a more proportionate fire regime."
+    },
+    {
+      "word": "flammable",
+      "lemma": "flammable",
+      "level": "B2",
+      "hebrew": "דליק",
+      "explanation_hebrew": "נדלק ובוער בקלות",
+      "pronunciation_hebrew": "פְלַמַבֶּל",
+      "example": "Pines contain flammable resins."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "aftermath",
+      "type": "english_to_hebrew",
+      "question": "What does \"aftermath\" mean?",
+      "options": [
+        "חרוך",
+        "השלכות, המצב שלאחר אירוע",
+        "בוער לאט, מעשן",
+        "צמחייה"
+      ],
+      "correct_answer": "השלכות, המצב שלאחר אירוע",
+      "explanation_hebrew": "\"aftermath\" פירושו השלכות, המצב שלאחר אירוע."
+    },
+    {
+      "id": "C-q2",
+      "word": "charred",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"חרוך\"?",
+      "options": [
+        "charred",
+        "hectares",
+        "vegetation",
+        "smouldering"
+      ],
+      "correct_answer": "charred",
+      "explanation_hebrew": "המילה \"charred\" פירושה חרוך."
+    },
+    {
+      "id": "C-q3",
+      "word": "smouldering",
+      "type": "english_to_hebrew",
+      "question": "What does \"smouldering\" mean?",
+      "options": [
+        "בוער לאט, מעשן",
+        "אדמת בור פראית",
+        "הקטרים",
+        "צמחייה"
+      ],
+      "correct_answer": "בוער לאט, מעשן",
+      "explanation_hebrew": "\"smouldering\" פירושו בוער לאט, מעשן."
+    },
+    {
+      "id": "C-q4",
+      "word": "vegetation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"צמחייה\"?",
+      "options": [
+        "hectares",
+        "moorland",
+        "vegetation",
+        "evacuation"
+      ],
+      "correct_answer": "vegetation",
+      "explanation_hebrew": "המילה \"vegetation\" פירושה צמחייה."
+    },
+    {
+      "id": "C-q5",
+      "word": "hectares",
+      "type": "english_to_hebrew",
+      "question": "What does \"hectares\" mean?",
+      "options": [
+        "שיקום",
+        "הקטרים",
+        "אדמת בור פראית",
+        "פינוי"
+      ],
+      "correct_answer": "הקטרים",
+      "explanation_hebrew": "\"hectares\" פירושו הקטרים."
+    },
+    {
+      "id": "C-q6",
+      "word": "moorland",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"אדמת בור פראית\"?",
+      "options": [
+        "moorland",
+        "evacuation",
+        "polarising",
+        "restoration"
+      ],
+      "correct_answer": "moorland",
+      "explanation_hebrew": "המילה \"moorland\" פירושה אדמת בור פראית."
+    },
+    {
+      "id": "C-q7",
+      "word": "evacuation",
+      "type": "english_to_hebrew",
+      "question": "What does \"evacuation\" mean?",
+      "options": [
+        "פינוי",
+        "שיקום",
+        "שריד",
+        "מקטב, מפלג דעות"
+      ],
+      "correct_answer": "פינוי",
+      "explanation_hebrew": "\"evacuation\" פירושו פינוי."
+    },
+    {
+      "id": "C-q8",
+      "word": "restoration",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"שיקום\"?",
+      "options": [
+        "restoration",
+        "polarising",
+        "vulnerable",
+        "remnant"
+      ],
+      "correct_answer": "restoration",
+      "explanation_hebrew": "המילה \"restoration\" פירושה שיקום."
+    },
+    {
+      "id": "C-q9",
+      "word": "polarising",
+      "type": "english_to_hebrew",
+      "question": "What does \"polarising\" mean?",
+      "options": [
+        "מקטב, מפלג דעות",
+        "שריד",
+        "פגיע",
+        "בלתי נשלט"
+      ],
+      "correct_answer": "מקטב, מפלג דעות",
+      "explanation_hebrew": "\"polarising\" פירושו מקטב, מפלג דעות."
+    },
+    {
+      "id": "C-q10",
+      "word": "remnant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"שריד\"?",
+      "options": [
+        "uncontrollable",
+        "vulnerable",
+        "disputes",
+        "remnant"
+      ],
+      "correct_answer": "remnant",
+      "explanation_hebrew": "המילה \"remnant\" פירושה שריד."
+    },
+    {
+      "id": "C-q11",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does \"vulnerable\" mean?",
+      "options": [
+        "פגיע",
+        "חולק על, מערער",
+        "בלתי נשלט",
+        "מכיר בכך, מודה"
+      ],
+      "correct_answer": "פגיע",
+      "explanation_hebrew": "\"vulnerable\" פירושו פגיע."
+    },
+    {
+      "id": "C-q12",
+      "word": "uncontrollable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"בלתי נשלט\"?",
+      "options": [
+        "ignite",
+        "acknowledges",
+        "disputes",
+        "uncontrollable"
+      ],
+      "correct_answer": "uncontrollable",
+      "explanation_hebrew": "המילה \"uncontrollable\" פירושה בלתי נשלט."
+    },
+    {
+      "id": "C-q13",
+      "word": "disputes",
+      "type": "english_to_hebrew",
+      "question": "What does \"disputes\" mean?",
+      "options": [
+        "להצית, להידלק",
+        "מכיר בכך, מודה",
+        "שומם",
+        "חולק על, מערער"
+      ],
+      "correct_answer": "חולק על, מערער",
+      "explanation_hebrew": "\"disputes\" פירושו חולק על, מערער."
+    },
+    {
+      "id": "C-q14",
+      "word": "acknowledges",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"מכיר בכך, מודה\"?",
+      "options": [
+        "ignite",
+        "colonise",
+        "acknowledges",
+        "desolate"
+      ],
+      "correct_answer": "acknowledges",
+      "explanation_hebrew": "המילה \"acknowledges\" פירושה מכיר בכך, מודה."
+    },
+    {
+      "id": "C-q15",
+      "word": "ignite",
+      "type": "english_to_hebrew",
+      "question": "What does \"ignite\" mean?",
+      "options": [
+        "לאכלס, ליישב",
+        "שומם",
+        "כובה",
+        "להצית, להידלק"
+      ],
+      "correct_answer": "להצית, להידלק",
+      "explanation_hebrew": "\"ignite\" פירושו להצית, להידלק."
+    },
+    {
+      "id": "C-q16",
+      "word": "desolate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"שומם\"?",
+      "options": [
+        "colonise",
+        "habitat",
+        "extinguished",
+        "desolate"
+      ],
+      "correct_answer": "desolate",
+      "explanation_hebrew": "המילה \"desolate\" פירושה שומם."
+    },
+    {
+      "id": "C-q17",
+      "word": "colonise",
+      "type": "english_to_hebrew",
+      "question": "What does \"colonise\" mean?",
+      "options": [
+        "בית גידול",
+        "כובה",
+        "פגוע, שהתדרדר",
+        "לאכלס, ליישב"
+      ],
+      "correct_answer": "לאכלס, ליישב",
+      "explanation_hebrew": "\"colonise\" פירושו לאכלס, ליישב."
+    },
+    {
+      "id": "C-q18",
+      "word": "extinguished",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"כובה\"?",
+      "options": [
+        "extinguished",
+        "degraded",
+        "moisture",
+        "habitat"
+      ],
+      "correct_answer": "extinguished",
+      "explanation_hebrew": "המילה \"extinguished\" פירושה כובה."
+    },
+    {
+      "id": "C-q19",
+      "word": "habitat",
+      "type": "english_to_hebrew",
+      "question": "What does \"habitat\" mean?",
+      "options": [
+        "פגוע, שהתדרדר",
+        "שטחי",
+        "בית גידול",
+        "לחות"
+      ],
+      "correct_answer": "בית גידול",
+      "explanation_hebrew": "\"habitat\" פירושו בית גידול."
+    },
+    {
+      "id": "C-q20",
+      "word": "degraded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"פגוע, שהתדרדר\"?",
+      "options": [
+        "accelerating",
+        "degraded",
+        "moisture",
+        "superficial"
+      ],
+      "correct_answer": "degraded",
+      "explanation_hebrew": "המילה \"degraded\" פירושה פגוע, שהתדרדר."
+    },
+    {
+      "id": "C-q21",
+      "word": "moisture",
+      "type": "english_to_hebrew",
+      "question": "What does \"moisture\" mean?",
+      "options": [
+        "שטחי",
+        "מאיץ, מזרז",
+        "מידתי",
+        "לחות"
+      ],
+      "correct_answer": "לחות",
+      "explanation_hebrew": "\"moisture\" פירושו לחות."
+    },
+    {
+      "id": "C-q22",
+      "word": "superficial",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"שטחי\"?",
+      "options": [
+        "accelerating",
+        "flammable",
+        "superficial",
+        "proportionate"
+      ],
+      "correct_answer": "superficial",
+      "explanation_hebrew": "המילה \"superficial\" פירושה שטחי."
+    },
+    {
+      "id": "C-q23",
+      "word": "accelerating",
+      "type": "english_to_hebrew",
+      "question": "What does \"accelerating\" mean?",
+      "options": [
+        "מידתי",
+        "השלכות, המצב שלאחר אירוע",
+        "דליק",
+        "מאיץ, מזרז"
+      ],
+      "correct_answer": "מאיץ, מזרז",
+      "explanation_hebrew": "\"accelerating\" פירושו מאיץ, מזרז."
+    },
+    {
+      "id": "C-q24",
+      "word": "proportionate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"מידתי\"?",
+      "options": [
+        "proportionate",
+        "aftermath",
+        "charred",
+        "flammable"
+      ],
+      "correct_answer": "proportionate",
+      "explanation_hebrew": "המילה \"proportionate\" פירושה מידתי."
+    },
+    {
+      "id": "C-q25",
+      "word": "flammable",
+      "type": "english_to_hebrew",
+      "question": "What does \"flammable\" mean?",
+      "options": [
+        "חרוך",
+        "דליק",
+        "בוער לאט, מעשן",
+        "השלכות, המצב שלאחר אירוע"
+      ],
+      "correct_answer": "דליק",
+      "explanation_hebrew": "\"flammable\" פירושו דליק."
+    }
+  ]
+}
