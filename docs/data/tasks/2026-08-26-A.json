@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-26",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Nicotine vapes best chance to quit smoking, major review finds",
+  "article_url": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main finding reported in the article?",
+      "difficulty": "A",
+      "options": [
+        "Nicotine vapes give smokers a better chance of quitting than patches, gum or pills",
+        "Nicotine patches work better than every other quitting aid",
+        "All vaping products are completely harmless",
+        "People should replace approved vapes with illicit devices"
+      ],
+      "correct_answer": "Nicotine vapes give smokers a better chance of quitting than patches, gum or pills",
+      "explanation_hebrew": "הממצא המרכזי הוא שסיגריות אלקטרוניות עם ניקוטין סייעו לגמילה מעישון יותר מאמצעים מסורתיים כגון מדבקות, מסטיק או גלולות."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which comparison did the major review make?",
+      "difficulty": "A",
+      "options": [
+        "Approved vapes versus exercise programmes",
+        "Nicotine vapes versus traditional stop-smoking aids",
+        "Cigarettes versus air pollution",
+        "Different flavours of illegal vapes"
+      ],
+      "correct_answer": "Nicotine vapes versus traditional stop-smoking aids",
+      "explanation_hebrew": "הסקירה השוותה סיגריות אלקטרוניות עם ניקוטין לאמצעי גמילה מסורתיים, ובהם תחליפי ניקוטין ותרופות."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What safety distinction does the article make?",
+      "difficulty": "A",
+      "options": [
+        "Every vape is regulated in exactly the same way",
+        "Vaping is entirely risk-free for children",
+        "Regulated products differ from illicit or non-compliant devices",
+        "Unapproved devices are safer because they contain more chemicals"
+      ],
+      "correct_answer": "Regulated products differ from illicit or non-compliant devices",
+      "explanation_hebrew": "הכתבה מבדילה בין מוצרים מפוקחים העומדים בדרישות לבין מוצרים בלתי חוקיים או לא תקניים שעלולים להכיל חומרים מסוכנים."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article warn readers not to interpret “safer than smoking” as “safe”?",
+      "difficulty": "A",
+      "options": [
+        "Because vaping can still expose users to nicotine and potentially harmful substances",
+        "Because cigarettes contain no harmful chemicals",
+        "Because regulated devices are designed only for children",
+        "Because every person who vapes immediately starts smoking"
+      ],
+      "correct_answer": "Because vaping can still expose users to nicotine and potentially harmful substances",
+      "explanation_hebrew": "פחות מסוכן מעישון אינו פירושו נטול סיכון; אידוי עדיין עלול לחשוף לניקוטין ולחומרים מזיקים."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “outperformed” mean when nicotine vapes outperformed traditional aids?",
+      "difficulty": "A",
+      "options": [
+        "Were more expensive to manufacture",
+        "Produced better quitting results",
+        "Were tested for a shorter time",
+        "Contained fewer instructions"
+      ],
+      "correct_answer": "Produced better quitting results",
+      "explanation_hebrew": "בהקשר זה outperformed פירושו השיג תוצאות טובות יותר בסיוע לאנשים להפסיק לעשן."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “regulated” mean in the article's discussion of vaping products?",
+      "difficulty": "A",
+      "options": [
+        "Controlled under official rules and safety requirements",
+        "Sold without any legal checks",
+        "Made only in one colour",
+        "Used for an unlimited amount of time"
+      ],
+      "correct_answer": "Controlled under official rules and safety requirements",
+      "explanation_hebrew": "regulated פירושו מפוקח לפי כללים ודרישות רשמיות, בניגוד למוצר בלתי חוקי או לא תקני."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two practical safety messages for a smoker who decides to use a vape to quit.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי המלצות בטיחות קונקרטיות מן הכתבה.",
+      "expected_points": [
+        "Use a regulated or approved vaping device",
+        "Avoid illicit or non-compliant products",
+        "Buy from a reputable or legal source",
+        "Remember that vaping is not entirely risk-free",
+        "Use vaping as a route away from smoking rather than as a product for non-smokers"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might adjustable nicotine levels help some smokers stop using nicotine gradually?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את רעיון הגמילה ההדרגתית ואת הקשר להפחתת ניקוטין.",
+      "expected_points": [
+        "A user can reduce the nicotine strength over time",
+        "Gradual reduction can make the transition away from nicotine more manageable",
+        "The method can preserve part of the familiar habit while nicotine is reduced",
+        "The eventual aim is to stop smoking and, where possible, stop nicotine use"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's evidence and its safety warning in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את ממצא הסקירה, השוואה לאמצעי גמילה אחרים, והסתייגות בטיחותית אחת לפחות.",
+      "expected_points": [
+        "A major review found nicotine vapes more effective than patches, gum or pills for quitting smoking",
+        "Vaping is described as safer than smoking, not entirely safe",
+        "Regulated products are different from illicit or non-compliant devices",
+        "Illegal products may contain harmful substances or unsafe components",
+        "The article presents vaping as a quitting aid for smokers, not an invitation for non-smokers or children"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write brief advice to an adult smoker choosing between cigarettes, an approved vape and an illicit vape. Use evidence from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח עצה ברורה באנגלית ולהסתמך על לפחות שני פרטים מן הכתבה.",
+      "expected_points": [
+        "Quitting smoking is the main health goal",
+        "Nicotine vapes can offer a better quitting chance than some traditional aids",
+        "An approved or regulated device is preferable to an illicit product",
+        "Vaping is not entirely safe even though it is safer than smoking",
+        "Avoid products that may contain harmful chemicals or unstable components",
+        "Seek professional stop-smoking support where available"
+      ]
+    }
+  ]
+}

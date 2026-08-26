@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-26",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Iconic Bitcoin mine pivots to AI as industry turns back on crypto",
+  "article_url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What industry change is the article mainly describing?",
+      "difficulty": "B",
+      "options": [
+        "Bitcoin-mining businesses are adapting some computing sites for artificial-intelligence work",
+        "AI companies are abandoning computers and buying paper records",
+        "Every cryptocurrency business has stopped using electricity",
+        "Bitcoin transactions are now verified by restaurant workers"
+      ],
+      "correct_answer": "Bitcoin-mining businesses are adapting some computing sites for artificial-intelligence work",
+      "explanation_hebrew": "הכתבה מתארת כיצד חברות כריית ביטקוין מפנות חלק מהתשתיות עתירות המחשוב שלהן לעבודה עבור תחום הבינה המלאכותית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What had the large warehouses originally been built to do?",
+      "difficulty": "B",
+      "options": [
+        "Store printed banknotes for national governments",
+        "Run powerful machines that help verify Bitcoin transactions",
+        "Manufacture household batteries by hand",
+        "Train only university students in programming"
+      ],
+      "correct_answer": "Run powerful machines that help verify Bitcoin transactions",
+      "explanation_hebrew": "המחסנים נבנו עבור מחשבים רבי־עוצמה המשתתפים בתהליך הכרייה ומסייעים לאמת עסקאות ביטקוין."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which existing asset makes former Bitcoin-mining sites attractive for AI computing?",
+      "difficulty": "B",
+      "options": [
+        "Large supplies of connected electrical power and data-centre infrastructure",
+        "A collection of paper cryptocurrency certificates",
+        "Fields that require no internet connection",
+        "A ban on installing new computer hardware"
+      ],
+      "correct_answer": "Large supplies of connected electrical power and data-centre infrastructure",
+      "explanation_hebrew": "לאתרי הכרייה כבר יש חיבורי חשמל משמעותיים ותשתית של מרכזי נתונים, ולכן ניתן להתאים אותם לעומסי מחשוב של AI."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did a slump in Bitcoin strengthen the case for pivoting toward AI?",
+      "difficulty": "B",
+      "options": [
+        "It made every mining machine twice as efficient",
+        "It removed the need for expensive electricity",
+        "It guaranteed that all Bitcoin holdings would rise",
+        "It made mining returns less attractive while demand for AI computing remained strong"
+      ],
+      "correct_answer": "It made mining returns less attractive while demand for AI computing remained strong",
+      "explanation_hebrew": "ירידה במחיר ובכדאיות הכרייה מצמצמת הכנסות, בעוד שהביקוש לכוח מחשוב עבור AI מציע שימוש חלופי בתשתית."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “pivoting” mean when a mining company is pivoting to AI?",
+      "difficulty": "B",
+      "options": [
+        "Hiding all of its financial records",
+        "Moving every warehouse to another country",
+        "Changing its business direction toward a new use",
+        "Returning broken computers to customers"
+      ],
+      "correct_answer": "Changing its business direction toward a new use",
+      "explanation_hebrew": "pivoting פירושו שינוי כיוון עסקי: מעבר מכריית מטבעות לשימוש בתשתית עבור מחשוב AI."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “infrastructure” refer to most directly?",
+      "difficulty": "B",
+      "options": [
+        "The changing market price of a single coin",
+        "The power connections, buildings and computing facilities needed to operate",
+        "A list of analysts' personal opinions",
+        "The digital design printed on a Bitcoin"
+      ],
+      "correct_answer": "The power connections, buildings and computing facilities needed to operate",
+      "explanation_hebrew": "infrastructure היא התשתית הפיזית והתפעולית — מבנים, חשמל ומתקני מחשוב — שמאפשרת להפעיל את האתר."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain how Bitcoin mining and AI computing can use some of the same site resources.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין לפחות שני משאבים משותפים ולהסביר בקצרה את השימוש בהם.",
+      "expected_points": [
+        "Both require substantial electrical power",
+        "Both use large data-centre or warehouse spaces",
+        "Both require powerful computing hardware",
+        "Both depend on cooling and reliable technical infrastructure",
+        "Existing grid connections can be reused even if specialised machines must change"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is the industry's shift from crypto mining to AI likely to be gradual rather than immediate?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר לפחות שתי סיבות תפעוליות או עסקיות לכך שהמעבר הדרגתי.",
+      "expected_points": [
+        "AI workloads may require different hardware from Bitcoin mining",
+        "Sites may need upgrades to power, cooling or reliability",
+        "Companies have existing mining equipment, contracts or Bitcoin holdings",
+        "The relative profitability of Bitcoin and AI can change",
+        "Not every mining site is equally suitable for AI customers",
+        "Some firms may continue both activities during the transition"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why former Bitcoin-mining companies are interested in AI and what resources they can reuse.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לסכם את המניע הכלכלי ואת יתרונות התשתית, ולהזכיר שהמעבר אינו בהכרח מלא או מיידי.",
+      "expected_points": [
+        "Bitcoin's slump reduced the attraction or profitability of mining",
+        "Demand for AI computing created another potential revenue source",
+        "Mining firms already control large amounts of power",
+        "They have warehouses and data-centre infrastructure",
+        "Some hardware or facilities must be adapted for AI",
+        "The broader shift is gradual and companies may retain some crypto activity or holdings"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short recommendation to a Bitcoin-mining company considering an AI pivot. Use two lessons from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע המלצה מנומקת באנגלית המבוססת על לפחות שני לקחים קונקרטיים מן הכתבה.",
+      "expected_points": [
+        "Assess whether the site's power and data-centre infrastructure suit AI workloads",
+        "Compare expected AI revenue with volatile mining returns",
+        "Budget for different or upgraded hardware",
+        "Plan for cooling, reliability and customer requirements",
+        "Consider a gradual or mixed transition rather than an abrupt change",
+        "Account for the company's remaining Bitcoin equipment and holdings"
+      ]
+    }
+  ]
+}

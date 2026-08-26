@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-26",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Does 'rewilded' land need better wildfire prevention measures?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvgye1999n8o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central question does the article explore after the Abernethy wildfire?",
+      "difficulty": "C",
+      "options": [
+        "How ecological restoration can be combined with stronger wildfire prevention",
+        "How to replace every native species with commercial forest",
+        "Why firefighters should stop using water on peatland",
+        "Whether the whole Cairngorms area should become a city"
+      ],
+      "correct_answer": "How ecological restoration can be combined with stronger wildfire prevention",
+      "explanation_hebrew": "הכתבה בוחנת כיצד לשלב שיקום אקולוגי של השטח עם צעדי מניעה ועמידות טובים יותר בפני שריפות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much land was destroyed by the fire?",
+      "difficulty": "C",
+      "options": [
+        "About 250 hectares, or one square mile",
+        "More than 2,500 hectares, or about 10 square miles",
+        "Exactly 25,000 hectares, or 100 square miles",
+        "Less than six hectares beside one track"
+      ],
+      "correct_answer": "More than 2,500 hectares, or about 10 square miles",
+      "explanation_hebrew": "לפי הכתבה נשרפו יותר מ־2,500 הקטרים של אדמת בור ויער, שהם כעשרה מיילים רבועים."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which four areas are central to the RSPB's planned land-management changes?",
+      "difficulty": "C",
+      "options": [
+        "Fire breaks, wetlands, heather management and tree planting",
+        "Road tolls, tourism, housing and parking",
+        "Dams, fishing, farming and airports",
+        "Solar panels, shops, railways and hotels"
+      ],
+      "correct_answer": "Fire breaks, wetlands, heather management and tree planting",
+      "explanation_hebrew": "ארבעת התחומים שה־RSPB זיהה הם שבילי חיץ, אזורים רטובים, ניהול אברש ונטיעת עצים."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why were some existing tracks not enough to stop the fire?",
+      "difficulty": "C",
+      "options": [
+        "The tracks were completely covered by deep water",
+        "Firefighters had planted rare dragonflies on them",
+        "The peat could burn only above the road surface",
+        "Strong winds helped high flames jump across the gaps"
+      ],
+      "correct_answer": "Strong winds helped high flames jump across the gaps",
+      "explanation_hebrew": "רוחות חזקות ולהבות גבוהות אפשרו לאש לדלג מעל חלק מהחיץ, ולכן ה־RSPB מתכנן להרחיבו."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “smouldering” mean in the description of vegetation after the fire?",
+      "difficulty": "C",
+      "options": [
+        "Growing rapidly after heavy rain",
+        "Frozen beneath the peat surface",
+        "Burning slowly with smoke but little or no flame",
+        "Cut into neat strips by a machine"
+      ],
+      "correct_answer": "Burning slowly with smoke but little or no flame",
+      "explanation_hebrew": "smouldering מתאר חומר שממשיך לבעור לאט ולהעלות עשן גם ללא להבה גלויה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why is “polarising” used to describe the term “rewilding”?",
+      "difficulty": "C",
+      "options": [
+        "It refers only to land near the North Pole",
+        "It causes strong disagreement between different groups",
+        "It means the policy has no supporters or critics",
+        "It describes soil with unusually high moisture"
+      ],
+      "correct_answer": "It causes strong disagreement between different groups",
+      "explanation_hebrew": "polarising פירושו מעורר מחלוקת חריפה ומחלק אנשים לעמדות מנוגדות; לכן ה־RSPB נמנע מן המונח."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three wildfire-prevention measures the RSPB plans to strengthen at the reserve.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה צעדים שונים ולתאר בקצרה כיצד כל אחד יכול לסייע.",
+      "expected_points": [
+        "Widen fire breaks along forest tracks",
+        "Remove vegetation beside tracks to reduce flame height",
+        "Create more ponds and wet areas as water sources",
+        "Raise water tables in drained bogs",
+        "Improve heather management",
+        "Adjust tree planting and woodland management"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why restoring wet peatland can support both nature conservation and wildfire resilience.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין מצב הכבול, לחות, התפשטות אש ושיקום בית גידול.",
+      "expected_points": [
+        "Degraded dry peat can allow fire to travel underground",
+        "Near-natural wet peat can act as a defence against fire",
+        "Raising the water table increases moisture",
+        "Wetlands and ponds provide habitat as well as firefighting water",
+        "Restoration can reduce vulnerability without abandoning ecological goals",
+        "A pond created for rare dragonflies was also used to extinguish a small fire"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the wildfire's impact, the debate about rewilding and the RSPB's response.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב סיכום מאוזן הכולל את היקף הנזק, המחלוקת ולפחות שני צעדי תגובה.",
+      "expected_points": [
+        "The fire burned for more than a month and destroyed over 2,500 hectares",
+        "A village was evacuated and smoke reached Aberdeen about 60 miles away",
+        "Critics argue ecological restoration can increase fire vulnerability",
+        "The RSPB disputes that simple conclusion but acknowledges management changes are needed",
+        "Planned measures include wider fire breaks, wetlands, heather management and tree planting",
+        "The response aims to preserve restoration while improving resilience"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced recommendation for managing a restored nature reserve at risk of wildfire. Use evidence from the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג המלצה מאוזנת באנגלית, לשלב שיקום טבע עם בטיחות, ולהסתמך על לפחות שלוש ראיות מן הכתבה.",
+      "expected_points": [
+        "Keep ecological-restoration goals while adapting fire management",
+        "Use fire breaks wide enough for expected flame heights",
+        "Manage vegetation beside tracks",
+        "Restore wet peat and raise water tables",
+        "Create ponds that support wildlife and provide firefighting water",
+        "Review heather and tree-planting practices",
+        "Recognise both the critics' concerns and the RSPB's evidence"
+      ]
+    }
+  ]
+}
