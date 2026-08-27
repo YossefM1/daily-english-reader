@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-27",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Plug-in solar panels are coming to a shop near you - what to know",
+  "article_url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly explaining?",
+      "difficulty": "B",
+      "options": [
+        "How new UK rules allow plug-in solar panels to be sold, and what buyers should know about cost, output and safety",
+        "Why the UK has banned all forms of household solar power",
+        "How households can earn a guaranteed salary by exporting solar electricity",
+        "Why every plug-in panel must be installed permanently by an electrician"
+      ],
+      "correct_answer": "How new UK rules allow plug-in solar panels to be sold, and what buyers should know about cost, output and safety",
+      "explanation_hebrew": "הכתבה מסבירה את שינוי הכללים בבריטניה ואת השיקולים המעשיים לקונה: מחיר, חיסכון, תפוקה, בטיחות והתקנה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much does government research suggest a household could save each year?",
+      "difficulty": "B",
+      "options": [
+        "Between £7 and £11",
+        "Between £70 and £110",
+        "Exactly £400",
+        "More than £1,089"
+      ],
+      "correct_answer": "Between £70 and £110",
+      "explanation_hebrew": "מחקר הממשלה מעריך חיסכון שנתי של 70–110 ליש״ט, בהתאם למיקום הפאנלים ולאופן השימוש בחשמל."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What limits the amount of power delivered from a plug-in kit to the home?",
+      "difficulty": "B",
+      "options": [
+        "The electricity supplier limits it to 80 watts",
+        "The mounting frame limits it to 3 kilowatts",
+        "The microinverter limits the output to 800 watts",
+        "The household's kettle limits it to 20 watts"
+      ],
+      "correct_answer": "The microinverter limits the output to 800 watts",
+      "explanation_hebrew": "המיקרו־ממיר מגביל את ההספק המוזן לבית ל־800 ואט, גם אם הפאנלים עצמם מסוגלים לייצר יותר."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What safety action does the microinverter take during a power cut or when the panel is unplugged?",
+      "difficulty": "B",
+      "options": [
+        "It sends all remaining electricity to the kettle",
+        "It increases the panel voltage to restart the grid",
+        "It keeps supplying the house for 28 days",
+        "It detects the disconnection and shuts down within milliseconds"
+      ],
+      "correct_answer": "It detects the disconnection and shuts down within milliseconds",
+      "explanation_hebrew": "המיקרו־ממיר מנטר את חיבור הרשת ומפסיק את ההזנה בתוך אלפיות שנייה, כדי שלא להזרים מתח לחיווט שאינו פעיל."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “settle” mean when the government expects prices to settle at £400–£600?",
+      "difficulty": "B",
+      "options": [
+        "To be paid only in cash",
+        "To stabilise around a particular range",
+        "To increase without any upper limit",
+        "To include free professional installation"
+      ],
+      "correct_answer": "To stabilise around a particular range",
+      "explanation_hebrew": "בהקשר זה settle פירושו להתייצב סביב טווח מחירים מסוים לאחר שהתחרות והמבחר יגדלו."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “consumed” mean in the statement that unused power flows back to the grid?",
+      "difficulty": "B",
+      "options": [
+        "Certified by an official scheme",
+        "Generated after sunset",
+        "Used by the household",
+        "Stored permanently inside the socket"
+      ],
+      "correct_answer": "Used by the household",
+      "explanation_hebrew": "consumed פירושו נצרך או נעשה בו שימוש; חשמל שלא נצרך בבית זורם חזרה לרשת."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three differences between plug-in solar panels and conventional rooftop solar systems described in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה הבדלים קונקרטיים מתוך הכתבה.",
+      "expected_points": [
+        "Plug-in kits are significantly cheaper",
+        "They can be installed without an electrician after suitable checks",
+        "They generate less power than rooftop systems",
+        "Their home output is limited to 800 watts",
+        "They do not need MCS certification",
+        "They normally do not qualify for Smart Export Guarantee payments",
+        "They are not permanently attached and can be moved"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why will a south-facing household that uses electricity during daylight usually benefit more from the panels?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין כיוון הפאנל, הצללה, שעות הייצור וזמן צריכת החשמל.",
+      "expected_points": [
+        "An unshaded south-facing position receives favourable sunlight",
+        "The panels generate electricity only when sufficient sunlight is available",
+        "The electricity is most valuable when used as it is generated",
+        "Unused electricity flows back to the grid",
+        "Households are unlikely to be paid for exported power from these systems"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the main financial, technical and safety points a buyer should know before purchasing a plug-in solar kit.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול לפחות נקודה אחת מכל תחום: עלות/חיסכון, תפוקה ושימוש, ובטיחות/התאמה לבית.",
+      "expected_points": [
+        "Initial kits are priced at £699 for one panel and £1,089 for two, with lower future prices expected",
+        "Estimated annual savings are £70–£110",
+        "Output to the home is limited to 800 watts",
+        "The system can cover some always-on loads but cannot power an entire home alone",
+        "Wiring should be checked by a registered electrician, especially in older homes",
+        "Buyers should verify G98 and product-specification compliance",
+        "Extension leads, cable reels and plug-in adaptors should not be used",
+        "The DNO must be notified within 28 days"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short recommendation to a renter considering a plug-in solar panel for a balcony. Use evidence from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתת המלצה מאוזנת באנגלית ולהתייחס להתאמת המקום, רשות בעל הנכס, בטיחות ותועלת אפשרית.",
+      "expected_points": [
+        "Check that the balcony or outdoor area has an unshaded suitable orientation",
+        "Ask the landlord, freeholder or building owner for any required permission",
+        "Have the wiring checked before purchase",
+        "Choose a compliant product from an established retailer",
+        "Do not connect through an extension lead, cable reel or adaptor",
+        "Expect modest output and savings rather than full home power",
+        "Plan to notify the DNO within 28 days after connection",
+        "Note that the unit can be moved because it is not permanently attached"
+      ]
+    }
+  ]
+}

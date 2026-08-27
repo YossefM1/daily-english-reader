@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-27",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+  "article_url": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What choice are Icelandic voters making in the referendum described by the article?",
+      "difficulty": "C",
+      "options": [
+        "Whether Iceland should resume negotiations on joining the European Union",
+        "Whether Iceland should leave Nato immediately",
+        "Whether the EU should transfer Greenland to Iceland",
+        "Whether Iceland should adopt the euro without any negotiations"
+      ],
+      "correct_answer": "Whether Iceland should resume negotiations on joining the European Union",
+      "explanation_hebrew": "ההצבעה אינה על חברות מיידית באיחוד, אלא על חידוש המשא ומתן להצטרפות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did one poll published that week show?",
+      "difficulty": "C",
+      "options": [
+        "The No camp ahead by 70% to 30%",
+        "The Yes camp ahead by 51.3% to 48.7%",
+        "Both camps receiving exactly 40%",
+        "The Yes camp already winning a final membership vote"
+      ],
+      "correct_answer": "The Yes camp ahead by 51.3% to 48.7%",
+      "explanation_hebrew": "אחד הסקרים הציב את מחנה הכן ביתרון קטן מאוד: 51.3% מול 48.7%, ולכן התוצאה עדיין צמודה."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why is fishing so influential in the referendum debate?",
+      "difficulty": "C",
+      "options": [
+        "The EU has promised to close every Icelandic fish factory",
+        "Fishing is Iceland's only source of food but has no export value",
+        "Fish and other marine industries account for almost 40% of Iceland's exports",
+        "Iceland already follows the EU common fisheries policy in full"
+      ],
+      "correct_answer": "Fish and other marine industries account for almost 40% of Iceland's exports",
+      "explanation_hebrew": "ענפי הדיג והים מהווים כמעט 40% מהיצוא של איסלנד, ולכן שאלת השליטה במים ובמדיניות הדיג מרכזית מאוד."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What would have to happen after a Yes vote before Iceland could become an EU member?",
+      "difficulty": "C",
+      "options": [
+        "The prime minister could approve membership alone",
+        "Iceland would automatically join on the following day",
+        "Only Nato members would vote on Iceland's application",
+        "Negotiations would begin, a final deal would face a second referendum, and all 27 EU states would need to agree"
+      ],
+      "correct_answer": "Negotiations would begin, a final deal would face a second referendum, and all 27 EU states would need to agree",
+      "explanation_hebrew": "הצבעת כן רק פותחת את התהליך: משא ומתן, משאל עם נוסף על ההסכם הסופי ואישור של כל 27 מדינות האיחוד."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “carve-out” mean when Iceland's government seeks one for fishing and agriculture?",
+      "difficulty": "C",
+      "options": [
+        "A permanent reduction in the size of Iceland",
+        "A special exception or arrangement within broader rules",
+        "A campaign advertisement carved into stone",
+        "A ban on negotiating about agriculture"
+      ],
+      "correct_answer": "A special exception or arrangement within broader rules",
+      "explanation_hebrew": "carve-out הוא חריג או הסדר מיוחד בתוך מסגרת כללים רחבה יותר; הממשלה רוצה הגנות מיוחדות לדיג ולחקלאות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “shelve” mean in the sentence that a No vote would shelve talks?",
+      "difficulty": "C",
+      "options": [
+        "Complete the negotiations immediately",
+        "Publish every negotiating document",
+        "Put the talks aside for the time being",
+        "Transfer the talks to neighbouring Norway"
+      ],
+      "correct_answer": "Put the talks aside for the time being",
+      "explanation_hebrew": "shelve פירושו להניח בצד או להשהות; הצבעת לא תעצור את השיחות לעת עתה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain two economic arguments made by supporters of resuming EU membership talks.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שני טיעונים כלכליים ולחבר אותם לבעיות המתוארות בכתבה.",
+      "expected_points": [
+        "Closer EU ties could reduce exposure to Iceland's volatile currency",
+        "Adopting the euro could improve financial stability",
+        "Supporters argue the euro could help curb high inflation",
+        "Prices were reported as 84% higher than the EU average",
+        "Interest rates had climbed to 8%",
+        "EU membership could strengthen Iceland's trade position",
+        "Greater stability could benefit both companies and the general public"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why have recent geopolitical events made Iceland's relationship with Europe more urgent, even though geopolitics was not central in the public debate?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשור בין מיקומה האסטרטגי של איסלנד, תלותה הביטחונית והאירועים הבינלאומיים האחרונים.",
+      "expected_points": [
+        "Iceland lies beside the strategically important GIUK gap",
+        "Russian maritime activity near Iceland is closely watched",
+        "Iceland has no military and relies on Nato allies and a defence pact with the US",
+        "Russia's war in Ukraine has sharpened security concerns",
+        "Arctic rivalry has intensified",
+        "Trump's comments about Greenland and the risk of a weakened Nato created uncertainty",
+        "Supporters see the EU as an additional security and diplomatic pillar",
+        "The government signed a defence partnership with the EU in March"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why the referendum is so close, including the main arguments on both sides and what the result would mean.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג סיכום מאוזן: לפחות שני נימוקים לכל צד והשלכות של הצבעת כן או לא.",
+      "expected_points": [
+        "The vote concerns resuming accession talks, not immediate EU membership",
+        "Supporters cite currency stability, lower inflation, trade and security",
+        "Opponents emphasise sovereignty and control of fishing waters",
+        "Fishing and marine industries contribute almost 40% of exports",
+        "The government hopes for special arrangements, while opponents doubt permanent exemptions are possible",
+        "A Yes vote would start negotiations and later require another referendum",
+        "A No vote would set talks aside for the time being",
+        "Polling showed only a very narrow Yes lead"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced recommendation to an undecided Icelandic voter on how to evaluate the referendum. Use at least three pieces of evidence from the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב המלצה מאוזנת באנגלית, להבחין בין פתיחת משא ומתן לבין חברות סופית ולהשתמש בשלוש ראיות לפחות.",
+      "expected_points": [
+        "Recognise that a Yes vote starts negotiations rather than approving final membership",
+        "Consider the possible benefits of currency and price stability",
+        "Evaluate security arguments linked to Nato, Russia and Arctic tensions",
+        "Weigh sovereignty and control over fishing grounds",
+        "Consider the importance of marine industries to exports and jobs",
+        "Assess how credible a special fishing or agriculture arrangement would be",
+        "Remember that a final deal would require a second referendum",
+        "Account for Iceland's existing EEA and Schengen participation"
+      ]
+    }
+  ]
+}

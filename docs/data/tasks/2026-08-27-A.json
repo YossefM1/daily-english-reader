@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-27",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+  "article_url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A rare malaria outbreak among Frankfurt Airport workers that officials link to mosquitoes brought by plane",
+        "A new vaccine programme for every passenger using Frankfurt Airport",
+        "A decision to close Germany's airports because of tropical weather",
+        "A study showing that malaria now spreads directly between people in Frankfurt"
+      ],
+      "correct_answer": "A rare malaria outbreak among Frankfurt Airport workers that officials link to mosquitoes brought by plane",
+      "explanation_hebrew": "הכתבה עוסקת בהתפרצות נדירה של מלריה בקרב עובדי נמל התעופה בפרנקפורט, שככל הנראה נגרמה מיתושים שהגיעו במטוס."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many airport workers were infected, and how many had died when the article was published?",
+      "difficulty": "A",
+      "options": [
+        "Four were infected and none died",
+        "Six were infected and two died",
+        "Two were infected and six died",
+        "Six were infected and all recovered"
+      ],
+      "correct_answer": "Six were infected and two died",
+      "explanation_hebrew": "לפי הכתבה שישה עובדים נדבקו, ובהודעת רשויות הבריאות נמסר ששניים מהם מתו."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What are officials doing with mosquitoes caught in traps at the airport?",
+      "difficulty": "A",
+      "options": [
+        "Releasing them in another part of Germany",
+        "Using them to test a new passenger-screening system",
+        "Analysing them to determine their species and origin",
+        "Sending them to tropical countries without testing"
+      ],
+      "correct_answer": "Analysing them to determine their species and origin",
+      "explanation_hebrew": "היתושים שנלכדים נבדקים במעבדה כדי לזהות את המין שלהם ואת מקורם."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can airport malaria be diagnosed late in Germany?",
+      "difficulty": "A",
+      "options": [
+        "Malaria tests are forbidden at German airports",
+        "The infection always disappears before symptoms begin",
+        "Doctors expect malaria to spread directly between co-workers",
+        "A patient may have no travel history that would normally make doctors suspect malaria"
+      ],
+      "correct_answer": "A patient may have no travel history that would normally make doctors suspect malaria",
+      "explanation_hebrew": "במקרה נדיר של הדבקה בנמל תעופה אין בהכרח היסטוריית נסיעה לאזור נגוע, ולכן החשד במלריה עלול לעלות באיחור."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “outbreak” mean?",
+      "difficulty": "A",
+      "options": [
+        "A routine medical appointment",
+        "A sudden occurrence of several cases of a disease",
+        "A long-distance flight route",
+        "A laboratory instrument for catching insects"
+      ],
+      "correct_answer": "A sudden occurrence of several cases of a disease",
+      "explanation_hebrew": "outbreak פירושו התפרצות — הופעה של כמה מקרי מחלה בזמן ובמקום מסוימים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “transmitted” mean in the statement that malaria is transmitted by mosquitoes?",
+      "difficulty": "A",
+      "options": [
+        "Prevented by a treatment",
+        "Discovered in a laboratory",
+        "Passed from one host to another",
+        "Reported by a spokesperson"
+      ],
+      "correct_answer": "Passed from one host to another",
+      "explanation_hebrew": "transmitted פירושו מועבר; כאן הטפיל מועבר לבני אדם באמצעות עקיצת יתוש."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons why Frankfurt officials consider the risk to the general public very low.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי סיבות מן הכתבה ולהסבירן בקצרה.",
+      "expected_points": [
+        "Malaria does not spread from person to person",
+        "It is transmitted by certain mosquitoes",
+        "Transmission inside a German airport is rare",
+        "The infected workers had different jobs and worked in different airport areas",
+        "Officials installed mosquito traps and began an investigation"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why officials are analysing both blood samples and captured mosquitoes.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר מה כל סוג בדיקה עשוי לגלות וכיצד הוא מסייע בחקירת מקור ההתפרצות.",
+      "expected_points": [
+        "Blood samples may show whether the six infections are linked",
+        "Officials want to know whether one mosquito or several mosquitoes caused the cases",
+        "Captured mosquitoes can be identified by species",
+        "Laboratory analysis may help determine where the mosquitoes came from",
+        "Together the evidence can test the theory that mosquitoes arrived by plane"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the outbreak, the investigation and the public-health advice in 3–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מספר הנדבקים והמתים, את ההסבר המשוער, צעד חקירה אחד והמלצה לציבור או לעובדים.",
+      "expected_points": [
+        "Six male Frankfurt Airport workers contracted malaria",
+        "Two affected workers had died by the time of publication",
+        "Officials believe infected mosquitoes probably arrived on a plane",
+        "Mosquito traps and laboratory analysis are being used",
+        "Blood samples are being examined to establish links between cases",
+        "Employees with symptoms were encouraged to consult a doctor",
+        "Officials described the risk to the wider public as very low"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short notice for airport employees explaining what happened and what they should do if they develop symptoms.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח הודעה ברורה וזהירה באנגלית, בלי ליצור בהלה, ולהסתמך על לפחות שלושה פרטים מן הכתבה.",
+      "expected_points": [
+        "State that a rare malaria outbreak affected airport workers",
+        "Mention that the suspected transmission was by mosquitoes, not between people",
+        "Say that traps and laboratory investigations are under way",
+        "Advise employees with symptoms to consult a doctor",
+        "Avoid claiming that the source has already been proved",
+        "Explain that officials consider the general-public risk very low"
+      ]
+    }
+  ]
+}
