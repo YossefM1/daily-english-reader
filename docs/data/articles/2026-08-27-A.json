@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-27",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-08-26T18:22:41+00:00",
+  "age_hours_at_selection": 7.82,
+  "word_count": 452,
+  "generated_at": "2026-08-27T02:11:58.442588+00:00",
+  "difficulty_reason": "Short, direct report with a clear single story and mostly B1/B2 vocabulary; needs little background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "outbreak",
+      "lemma": "outbreak",
+      "level": "B2",
+      "hebrew": "התפרצות",
+      "explanation_hebrew": "הופעה פתאומית ורחבה של מחלה",
+      "pronunciation_hebrew": "אַאוּטבְּרֵייק",
+      "example": "The outbreak spread quickly."
+    },
+    {
+      "word": "contracting",
+      "lemma": "contract",
+      "level": "C1",
+      "hebrew": "הידבקות במחלה",
+      "explanation_hebrew": "לחלות או להידבק במחלה",
+      "pronunciation_hebrew": "קֶנטרַֿקטִינג",
+      "example": "He risked contracting the disease."
+    },
+    {
+      "word": "infection",
+      "lemma": "infection",
+      "level": "B1",
+      "hebrew": "זיהום",
+      "explanation_hebrew": "מחלה הנגרמת על ידי חיידק או טפיל",
+      "pronunciation_hebrew": "אִינפֵֿקשֶן",
+      "example": "The infection spread fast."
+    },
+    {
+      "word": "triggering",
+      "lemma": "trigger",
+      "level": "B2",
+      "hebrew": "גרימה",
+      "explanation_hebrew": "גורם למשהו להתחיל",
+      "pronunciation_hebrew": "טְרִיגֶֿרִינג",
+      "example": "A spark triggering a fire."
+    },
+    {
+      "word": "detected",
+      "lemma": "detect",
+      "level": "B2",
+      "hebrew": "אותר",
+      "explanation_hebrew": "נמצא או זוהה",
+      "pronunciation_hebrew": "דִיטֵֿקטֶד",
+      "example": "The problem was detected early."
+    },
+    {
+      "word": "spokesperson",
+      "lemma": "spokesperson",
+      "level": "B2",
+      "hebrew": "דובר",
+      "explanation_hebrew": "אדם המדבר בשם ארגון",
+      "pronunciation_hebrew": "סְפּוֹֿוקספֶּרסֶן",
+      "example": "The spokesperson answered questions."
+    },
+    {
+      "word": "affected",
+      "lemma": "affect",
+      "level": "B1",
+      "hebrew": "נפגע",
+      "explanation_hebrew": "מי שהושפע ממשהו",
+      "pronunciation_hebrew": "אֲפֵֿקטֶד",
+      "example": "The affected people got help."
+    },
+    {
+      "word": "individuals",
+      "lemma": "individual",
+      "level": "B2",
+      "hebrew": "יחידים",
+      "explanation_hebrew": "אנשים בודדים",
+      "pronunciation_hebrew": "אִינדִיבִֿ֫ידג'וּאַלס",
+      "example": "Several individuals were involved."
+    },
+    {
+      "word": "installed",
+      "lemma": "install",
+      "level": "B1",
+      "hebrew": "הותקן",
+      "explanation_hebrew": "הורכב או הוצב במקום",
+      "pronunciation_hebrew": "אִינסְטוֹֿולד",
+      "example": "New traps were installed."
+    },
+    {
+      "word": "captured",
+      "lemma": "capture",
+      "level": "B2",
+      "hebrew": "נלכד",
+      "explanation_hebrew": "נתפס או נתפש",
+      "pronunciation_hebrew": "קֵֿפְּצֶ'רד",
+      "example": "The insect was captured."
+    },
+    {
+      "word": "analysed",
+      "lemma": "analyse",
+      "level": "B2",
+      "hebrew": "נותח",
+      "explanation_hebrew": "נבדק לעומק",
+      "pronunciation_hebrew": "אֵֿנֶלַייזד",
+      "example": "The data was analysed carefully."
+    },
+    {
+      "word": "determine",
+      "lemma": "determine",
+      "level": "B2",
+      "hebrew": "לקבוע",
+      "explanation_hebrew": "לגלות או להחליט",
+      "pronunciation_hebrew": "דִיטֶֿרמִין",
+      "example": "Tests will determine the cause."
+    },
+    {
+      "word": "species",
+      "lemma": "species",
+      "level": "B2",
+      "hebrew": "מין ביולוגי",
+      "explanation_hebrew": "סוג של יצור חי",
+      "pronunciation_hebrew": "סְפִּֿישִיז",
+      "example": "A rare species of bird."
+    },
+    {
+      "word": "origin",
+      "lemma": "origin",
+      "level": "B2",
+      "hebrew": "מקור",
+      "explanation_hebrew": "המקום שממנו משהו בא",
+      "pronunciation_hebrew": "אוֹֿרִיג'ִין",
+      "example": "The origin is unknown."
+    },
+    {
+      "word": "comprehensive",
+      "lemma": "comprehensive",
+      "level": "C1",
+      "hebrew": "מקיף",
+      "explanation_hebrew": "כולל כמעט הכול",
+      "pronunciation_hebrew": "קוֹמפְּרִהֵֿנסִיב",
+      "example": "A comprehensive report."
+    },
+    {
+      "word": "encourage",
+      "lemma": "encourage",
+      "level": "B1",
+      "hebrew": "לעודד",
+      "explanation_hebrew": "לתת עידוד או דחיפה",
+      "pronunciation_hebrew": "אִינקַֿרִיג'",
+      "example": "We encourage students to read."
+    },
+    {
+      "word": "consult",
+      "lemma": "consult",
+      "level": "B2",
+      "hebrew": "להתייעץ",
+      "explanation_hebrew": "לפנות לקבלת ייעוץ",
+      "pronunciation_hebrew": "קֶנסַֿלט",
+      "example": "Consult a doctor if unsure."
+    },
+    {
+      "word": "symptoms",
+      "lemma": "symptom",
+      "level": "B1",
+      "hebrew": "תסמינים",
+      "explanation_hebrew": "סימני מחלה",
+      "pronunciation_hebrew": "סִֿימפְּטֶמס",
+      "example": "Flu symptoms include fever."
+    },
+    {
+      "word": "investigated",
+      "lemma": "investigate",
+      "level": "B2",
+      "hebrew": "נחקר",
+      "explanation_hebrew": "נבדק בקפידה",
+      "pronunciation_hebrew": "אִינבֵֿ֫סטִיגֵייטֶד",
+      "example": "Police investigated the case."
+    },
+    {
+      "word": "samples",
+      "lemma": "sample",
+      "level": "B1",
+      "hebrew": "דגימות",
+      "explanation_hebrew": "חלקים קטנים לבדיקה",
+      "pronunciation_hebrew": "סַֿמפֶּלס",
+      "example": "Blood samples were taken."
+    },
+    {
+      "word": "transmissible",
+      "lemma": "transmissible",
+      "level": "C1",
+      "hebrew": "מדבק",
+      "explanation_hebrew": "שאפשר להעביר מאחד לאחר",
+      "pronunciation_hebrew": "טרַנסמִֿיסִיבֶּל",
+      "example": "The virus is transmissible."
+    },
+    {
+      "word": "transmitted",
+      "lemma": "transmit",
+      "level": "B2",
+      "hebrew": "מועבר",
+      "explanation_hebrew": "הועבר מאחד לאחר",
+      "pronunciation_hebrew": "טרַנסמִֿיטֶד",
+      "example": "The disease is transmitted by insects."
+    },
+    {
+      "word": "exclusively",
+      "lemma": "exclusively",
+      "level": "C1",
+      "hebrew": "באופן בלעדי",
+      "explanation_hebrew": "רק ולא אחרת",
+      "pronunciation_hebrew": "אִיקסקְלוּֿסִיבלִי",
+      "example": "It affects adults exclusively."
+    },
+    {
+      "word": "diagnosis",
+      "lemma": "diagnosis",
+      "level": "C1",
+      "hebrew": "אבחון",
+      "explanation_hebrew": "קביעת סוג המחלה",
+      "pronunciation_hebrew": "דַייאַגנוֹֿוסִיס",
+      "example": "Early diagnosis saves lives."
+    },
+    {
+      "word": "severe",
+      "lemma": "severe",
+      "level": "B2",
+      "hebrew": "חמור",
+      "explanation_hebrew": "חזק או קשה מאוד",
+      "pronunciation_hebrew": "סִיבִֿיר",
+      "example": "A severe illness."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "outbreak",
+      "type": "english_to_hebrew",
+      "question": "What does “outbreak” mean?",
+      "options": [
+        "התפרצות",
+        "זיהום",
+        "גרימה",
+        "הידבקות במחלה"
+      ],
+      "correct_answer": "התפרצות",
+      "explanation_hebrew": "“outbreak” פירושו “התפרצות”."
+    },
+    {
+      "id": "A-q2",
+      "word": "contracting",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הידבקות במחלה”?",
+      "options": [
+        "contracting",
+        "detected",
+        "infection",
+        "triggering"
+      ],
+      "correct_answer": "contracting",
+      "explanation_hebrew": "המילה “contracting” פירושה “הידבקות במחלה”."
+    },
+    {
+      "id": "A-q3",
+      "word": "infection",
+      "type": "english_to_hebrew",
+      "question": "What does “infection” mean?",
+      "options": [
+        "דובר",
+        "גרימה",
+        "זיהום",
+        "אותר"
+      ],
+      "correct_answer": "זיהום",
+      "explanation_hebrew": "“infection” פירושו “זיהום”."
+    },
+    {
+      "id": "A-q4",
+      "word": "triggering",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גרימה”?",
+      "options": [
+        "triggering",
+        "spokesperson",
+        "detected",
+        "affected"
+      ],
+      "correct_answer": "triggering",
+      "explanation_hebrew": "המילה “triggering” פירושה “גרימה”."
+    },
+    {
+      "id": "A-q5",
+      "word": "detected",
+      "type": "english_to_hebrew",
+      "question": "What does “detected” mean?",
+      "options": [
+        "נפגע",
+        "יחידים",
+        "דובר",
+        "אותר"
+      ],
+      "correct_answer": "אותר",
+      "explanation_hebrew": "“detected” פירושו “אותר”."
+    },
+    {
+      "id": "A-q6",
+      "word": "spokesperson",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דובר”?",
+      "options": [
+        "spokesperson",
+        "individuals",
+        "affected",
+        "installed"
+      ],
+      "correct_answer": "spokesperson",
+      "explanation_hebrew": "המילה “spokesperson” פירושה “דובר”."
+    },
+    {
+      "id": "A-q7",
+      "word": "affected",
+      "type": "english_to_hebrew",
+      "question": "What does “affected” mean?",
+      "options": [
+        "נפגע",
+        "יחידים",
+        "נלכד",
+        "הותקן"
+      ],
+      "correct_answer": "נפגע",
+      "explanation_hebrew": "“affected” פירושו “נפגע”."
+    },
+    {
+      "id": "A-q8",
+      "word": "individuals",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יחידים”?",
+      "options": [
+        "analysed",
+        "individuals",
+        "installed",
+        "captured"
+      ],
+      "correct_answer": "individuals",
+      "explanation_hebrew": "המילה “individuals” פירושה “יחידים”."
+    },
+    {
+      "id": "A-q9",
+      "word": "installed",
+      "type": "english_to_hebrew",
+      "question": "What does “installed” mean?",
+      "options": [
+        "נותח",
+        "לקבוע",
+        "הותקן",
+        "נלכד"
+      ],
+      "correct_answer": "הותקן",
+      "explanation_hebrew": "“installed” פירושו “הותקן”."
+    },
+    {
+      "id": "A-q10",
+      "word": "captured",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נלכד”?",
+      "options": [
+        "determine",
+        "species",
+        "captured",
+        "analysed"
+      ],
+      "correct_answer": "captured",
+      "explanation_hebrew": "המילה “captured” פירושה “נלכד”."
+    },
+    {
+      "id": "A-q11",
+      "word": "analysed",
+      "type": "english_to_hebrew",
+      "question": "What does “analysed” mean?",
+      "options": [
+        "לקבוע",
+        "נותח",
+        "מקור",
+        "מין ביולוגי"
+      ],
+      "correct_answer": "נותח",
+      "explanation_hebrew": "“analysed” פירושו “נותח”."
+    },
+    {
+      "id": "A-q12",
+      "word": "determine",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לקבוע”?",
+      "options": [
+        "determine",
+        "species",
+        "comprehensive",
+        "origin"
+      ],
+      "correct_answer": "determine",
+      "explanation_hebrew": "המילה “determine” פירושה “לקבוע”."
+    },
+    {
+      "id": "A-q13",
+      "word": "species",
+      "type": "english_to_hebrew",
+      "question": "What does “species” mean?",
+      "options": [
+        "לעודד",
+        "מקיף",
+        "מקור",
+        "מין ביולוגי"
+      ],
+      "correct_answer": "מין ביולוגי",
+      "explanation_hebrew": "“species” פירושו “מין ביולוגי”."
+    },
+    {
+      "id": "A-q14",
+      "word": "origin",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מקור”?",
+      "options": [
+        "origin",
+        "consult",
+        "encourage",
+        "comprehensive"
+      ],
+      "correct_answer": "origin",
+      "explanation_hebrew": "המילה “origin” פירושה “מקור”."
+    },
+    {
+      "id": "A-q15",
+      "word": "comprehensive",
+      "type": "english_to_hebrew",
+      "question": "What does “comprehensive” mean?",
+      "options": [
+        "מקיף",
+        "להתייעץ",
+        "לעודד",
+        "תסמינים"
+      ],
+      "correct_answer": "מקיף",
+      "explanation_hebrew": "“comprehensive” פירושו “מקיף”."
+    },
+    {
+      "id": "A-q16",
+      "word": "encourage",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לעודד”?",
+      "options": [
+        "investigated",
+        "encourage",
+        "consult",
+        "symptoms"
+      ],
+      "correct_answer": "encourage",
+      "explanation_hebrew": "המילה “encourage” פירושה “לעודד”."
+    },
+    {
+      "id": "A-q17",
+      "word": "consult",
+      "type": "english_to_hebrew",
+      "question": "What does “consult” mean?",
+      "options": [
+        "תסמינים",
+        "נחקר",
+        "להתייעץ",
+        "דגימות"
+      ],
+      "correct_answer": "להתייעץ",
+      "explanation_hebrew": "“consult” פירושו “להתייעץ”."
+    },
+    {
+      "id": "A-q18",
+      "word": "symptoms",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תסמינים”?",
+      "options": [
+        "samples",
+        "symptoms",
+        "transmissible",
+        "investigated"
+      ],
+      "correct_answer": "symptoms",
+      "explanation_hebrew": "המילה “symptoms” פירושה “תסמינים”."
+    },
+    {
+      "id": "A-q19",
+      "word": "investigated",
+      "type": "english_to_hebrew",
+      "question": "What does “investigated” mean?",
+      "options": [
+        "מדבק",
+        "מועבר",
+        "נחקר",
+        "דגימות"
+      ],
+      "correct_answer": "נחקר",
+      "explanation_hebrew": "“investigated” פירושו “נחקר”."
+    },
+    {
+      "id": "A-q20",
+      "word": "samples",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דגימות”?",
+      "options": [
+        "exclusively",
+        "transmissible",
+        "samples",
+        "transmitted"
+      ],
+      "correct_answer": "samples",
+      "explanation_hebrew": "המילה “samples” פירושה “דגימות”."
+    },
+    {
+      "id": "A-q21",
+      "word": "transmissible",
+      "type": "english_to_hebrew",
+      "question": "What does “transmissible” mean?",
+      "options": [
+        "באופן בלעדי",
+        "אבחון",
+        "מועבר",
+        "מדבק"
+      ],
+      "correct_answer": "מדבק",
+      "explanation_hebrew": "“transmissible” פירושו “מדבק”."
+    },
+    {
+      "id": "A-q22",
+      "word": "transmitted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מועבר”?",
+      "options": [
+        "diagnosis",
+        "exclusively",
+        "severe",
+        "transmitted"
+      ],
+      "correct_answer": "transmitted",
+      "explanation_hebrew": "המילה “transmitted” פירושה “מועבר”."
+    },
+    {
+      "id": "A-q23",
+      "word": "exclusively",
+      "type": "english_to_hebrew",
+      "question": "What does “exclusively” mean?",
+      "options": [
+        "חמור",
+        "התפרצות",
+        "אבחון",
+        "באופן בלעדי"
+      ],
+      "correct_answer": "באופן בלעדי",
+      "explanation_hebrew": "“exclusively” פירושו “באופן בלעדי”."
+    },
+    {
+      "id": "A-q24",
+      "word": "diagnosis",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אבחון”?",
+      "options": [
+        "diagnosis",
+        "outbreak",
+        "severe",
+        "contracting"
+      ],
+      "correct_answer": "diagnosis",
+      "explanation_hebrew": "המילה “diagnosis” פירושה “אבחון”."
+    },
+    {
+      "id": "A-q25",
+      "word": "severe",
+      "type": "english_to_hebrew",
+      "question": "What does “severe” mean?",
+      "options": [
+        "הידבקות במחלה",
+        "זיהום",
+        "חמור",
+        "התפרצות"
+      ],
+      "correct_answer": "חמור",
+      "explanation_hebrew": "“severe” פירושו “חמור”."
+    }
+  ]
+}
