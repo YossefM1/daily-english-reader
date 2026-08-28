@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-28",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Selena Gomez pushes back against 'frivolous' fraud claims",
+  "article_url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Selena Gomez's attempt to be dismissed from an investors' fraud case involving the mental-health company Wondermind",
+        "Selena Gomez announcing that she will stop acting and become a full-time lawyer",
+        "Investors buying nearly $1.2m of perfume directly from Gomez's fans",
+        "The cancellation of the next series of Only Murders in the Building"
+      ],
+      "correct_answer": "Selena Gomez's attempt to be dismissed from an investors' fraud case involving the mental-health company Wondermind",
+      "explanation_hebrew": "הכתבה עוסקת בטענות המשקיעים נגד Wondermind ובבקשתה של סלינה גומז להוציא אותה מן התביעה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What role do the investors say Gomez was expected to perform at Wondermind?",
+      "difficulty": "A",
+      "options": [
+        "She was expected to work as the company's medical director",
+        "She was expected to help build the company as its head of marketing",
+        "She was expected to represent the five investors in court",
+        "She was expected to write every article on the platform herself"
+      ],
+      "correct_answer": "She was expected to help build the company as its head of marketing",
+      "explanation_hebrew": "המשקיעים טוענים שנאמר להם כי גומז תהיה מעורבת בבניית החברה ותשמש כראש השיווק."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does Gomez's lawyer respond to the claim that she managed the company?",
+      "difficulty": "A",
+      "options": [
+        "He says she managed it only after the investment was lost",
+        "He says she accepted every commitment described by the investors",
+        "He says she never agreed to manage the company or make those commitments",
+        "He says she sold the company before it was founded"
+      ],
+      "correct_answer": "He says she never agreed to manage the company or make those commitments",
+      "explanation_hebrew": "עורך דינה טוען שגומז לא הסכימה לנהל את החברה ולא התחייבה לתפקיד שמתארים המשקיעים."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might Gomez's strong legal response leave her mother in a more difficult position?",
+      "difficulty": "A",
+      "options": [
+        "Her mother has been appointed as the judge in the case",
+        "Her mother has agreed to repay the investment immediately",
+        "Her mother is no longer connected to Wondermind in any way",
+        "Her mother remains among those facing the fraud allegations if Gomez is removed from the case"
+      ],
+      "correct_answer": "Her mother remains among those facing the fraud allegations if Gomez is removed from the case",
+      "explanation_hebrew": "אם גומז תוצא מן התביעה, אמה עדיין נשארת בין הנתבעים לצד החברה ומייסד נוסף."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “threadbare” mean when Gomez's lawyer describes the claims that way?",
+      "difficulty": "A",
+      "options": [
+        "Supported by detailed and consistent evidence",
+        "Weak and lacking enough convincing detail",
+        "Written only for social-media fans",
+        "Connected to the clothing industry"
+      ],
+      "correct_answer": "Weak and lacking enough convincing detail",
+      "explanation_hebrew": "בהקשר המשפטי threadbare מתאר טענות דלות וחלשות שאין בהן פירוט משכנע מספיק."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “guardrails” mean in the advice about family businesses?",
+      "difficulty": "A",
+      "options": [
+        "Barriers placed around a film set",
+        "Rules for protecting a celebrity's social-media password",
+        "Clear safeguards, roles and procedures that reduce business risk",
+        "Advertisements designed to attract new investors"
+      ],
+      "correct_answer": "Clear safeguards, roles and procedures that reduce business risk",
+      "explanation_hebrew": "guardrails משמש כאן כמטפורה לכללים, גבולות ומנגנוני פיקוח שמונעים בעיות בעסק משפחתי."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "State two claims made by the investors and two points made in Gomez's defence.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להבחין בבירור בין טענות המשקיעים לבין תגובת עורך דינה של גומז.",
+      "expected_points": [
+        "The investors say they put nearly $1.2m into Wondermind",
+        "They allege Gomez breached her contract by not properly supporting the platform",
+        "They say they were told she would actively build the company as head of marketing",
+        "Gomez's lawyer calls the allegations vague, generalised and contradictory",
+        "Her lawyer says she never agreed to manage the company",
+        "Her lawyer denies that she made the commitments described by the investors",
+        "Her lawyer has asked for her dismissal from the case"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the PR expert think doing business with close relatives needs more structure, not less?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד אמון ויחסים אישיים עלולים לטשטש אחריות, פיקוח וסיכון למוניטין.",
+      "expected_points": [
+        "Personal and business boundaries can become difficult to separate",
+        "Natural family trust may cause people to apply fewer normal commercial rules",
+        "A celebrity's reputation can become tied to the company's conduct",
+        "Responsibilities should be defined in advance",
+        "Independent oversight can reduce conflicts and blind spots",
+        "The business should decide beforehand what happens if something goes wrong",
+        "A family relationship should not replace formal governance"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the dispute, Gomez's response and the wider lesson about celebrity family businesses.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את החברה וההשקעה, את הטענה המרכזית, את תגובת גומז ולפחות לקח עסקי אחד.",
+      "expected_points": [
+        "Five investors allege they lost nearly $1.2m after investing in Wondermind",
+        "They say Gomez did not provide the backing or marketing role they expected",
+        "Gomez's lawyer denies that she agreed to manage the company or made those commitments",
+        "Her lawyer is seeking to have her dismissed from the case",
+        "The case may place pressure on her mother and the other defendants",
+        "Family businesses need clearly defined roles and independent oversight",
+        "Celebrities should consider how a company could affect their reputation"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write brief advice to a celebrity considering starting a company with a family member. Use evidence from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח עצה מעשית באנגלית ולהסתמך על לפחות שלושה לקחים קונקרטיים מן הכתבה.",
+      "expected_points": [
+        "Define each person's responsibilities in writing",
+        "Use formal contracts rather than relying only on family trust",
+        "Bring in independent oversight",
+        "Agree in advance how disputes or failures will be handled",
+        "Keep personal relationships separate from corporate governance",
+        "Be precise about what the celebrity will do for investors and the company",
+        "Assess how the company could affect the celebrity's reputation"
+      ]
+    }
+  ]
+}

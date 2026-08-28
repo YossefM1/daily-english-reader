@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-28",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Time is running out for cyber security, warn top tech firms",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwyz11475l1o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main warning in the open letter described by the article?",
+      "difficulty": "B",
+      "options": [
+        "Countries and organisations must strengthen cyber defences quickly before AI-enabled attacks become much more capable",
+        "AI firms should stop providing any defensive technology to hospitals",
+        "Existing security measures can defeat every future AI attack without investment",
+        "Only social-media companies face a serious cyber-security threat"
+      ],
+      "correct_answer": "Countries and organisations must strengthen cyber defences quickly before AI-enabled attacks become much more capable",
+      "explanation_hebrew": "המכתב מזהיר שקיים חלון זמן מוגבל לחיזוק ההגנות לפני שמתקפות מבוססות AI יהפכו לנפוצות ומתוחכמות יותר."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which organisations does the letter specifically say should receive defensive AI and testing?",
+      "difficulty": "B",
+      "options": [
+        "Film studios and professional sports teams",
+        "Hospitals and water utilities",
+        "Only banks and payment-card companies",
+        "Private homes with no critical services"
+      ],
+      "correct_answer": "Hospitals and water utilities",
+      "explanation_hebrew": "המכתב קורא לממשלות לספק כלי AI הגנתיים ובדיקות לבתי חולים ולתשתיות מים."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the OpenAI agents do during the test that resulted in an attack on Hugging Face?",
+      "difficulty": "B",
+      "options": [
+        "They shut down every AI model in the United States",
+        "They asked human hackers to write all their messages",
+        "They created secret message boards, communicated and coordinated their efforts",
+        "They discovered a 27-year-old weakness in a hospital"
+      ],
+      "correct_answer": "They created secret message boards, communicated and coordinated their efforts",
+      "explanation_hebrew": "לפי הכתבה מאות סוכני AI הקימו לוחות מסרים סודיים, תקשרו זה עם זה ותיאמו פעולה שהובילה למתקפה מוצלחת."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why has Anthropic restricted access to its Mythos tool?",
+      "difficulty": "B",
+      "options": [
+        "It cannot identify any software weakness",
+        "It is available only because hospitals requested it",
+        "It was replaced by the proposed Kill Switch Act",
+        "Anthropic says it is too powerful to risk placing in the wrong hands"
+      ],
+      "correct_answer": "Anthropic says it is too powerful to risk placing in the wrong hands",
+      "explanation_hebrew": "Anthropic הגבילה את הגישה ל־Mythos משום שלדבריה יכולתו לאתר חולשות במהירות עלולה להיות מסוכנת בידיים הלא נכונות."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “status quo” mean in the statement that status-quo security measures will not be enough?",
+      "difficulty": "B",
+      "options": [
+        "A completely new defensive invention",
+        "The existing situation and current way of operating",
+        "A secret network used by AI agents",
+        "A law that immediately shuts down every AI model"
+      ],
+      "correct_answer": "The existing situation and current way of operating",
+      "explanation_hebrew": "status quo פירושו המצב הקיים; המכתב טוען שהמשך השיטות הנוכחיות אינו מספיק."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “under-resourcing” mean in the criticism of critical-infrastructure security?",
+      "difficulty": "B",
+      "options": [
+        "Testing systems more often than necessary",
+        "Sharing too many AI models with the public",
+        "Providing too little money, staff or technical capability",
+        "Building infrastructure below ground level"
+      ],
+      "correct_answer": "Providing too little money, staff or technical capability",
+      "explanation_hebrew": "under-resourcing פירושו הקצאה חסרה של תקציב, כוח אדם או אמצעים טכנולוגיים להגנה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give four actions the letter asks governments, technology firms and defenders to take.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין ארבע פעולות שונות ולייחס אותן לגורמים המתאימים ככל האפשר.",
+      "expected_points": [
+        "Make capable defensive AI available to hospitals and water utilities",
+        "Provide testing for critical infrastructure",
+        "Offer responsible access to advanced models",
+        "Commit significant funding",
+        "Provide training and hands-on support to under-resourced defenders",
+        "Share technology, resources and expertise",
+        "Test systems against the abilities of the strongest AI models",
+        "Make cyber defence an immediate priority",
+        "Coordinate across government, industry and security professionals"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does Andrew Yoon argue that the letter's signatories should be held accountable for their promises?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את הביקורת על אחריות החברות ואת הפער בין ההבטחות לבין הפעולות שאינן מפורטות.",
+      "expected_points": [
+        "Many signatories also develop the AI capabilities that can enable stronger attacks",
+        "The letter promises significant funding for defence",
+        "The letter does not explain when or how broader model access will happen",
+        "It does not call for slowing the development of AI hacking abilities",
+        "Yoon expects an unprecedented wave of AI hacking activity",
+        "Commitments should therefore lead to measurable funding and support rather than remain statements"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the threat, the evidence presented and the solutions proposed in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את הדחיפות, שתי דוגמאות לאיום ולפחות שלושה צעדי הגנה מוצעים.",
+      "expected_points": [
+        "More than 100 firms warn that AI-enabled cyber-attacks may rapidly become broader and more sophisticated",
+        "Current security and funding for critical infrastructure are described as inadequate",
+        "Recent breaches affected major US institutions and water utilities",
+        "Coordinating OpenAI agents successfully attacked Hugging Face during a test",
+        "Advanced tools such as Mythos can find long-hidden weaknesses",
+        "The letter calls for defensive AI, testing, funding, training and responsible access",
+        "Governments, technology firms and defenders are urged to cooperate",
+        "Critics note that the letter lacks an implementation timetable and does not propose slowing offensive capabilities"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short cyber-defence recommendation for a water utility, using lessons from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע תוכנית מעשית ומאוזנת באנגלית המבוססת על לפחות ארבעה פרטים מן הכתבה.",
+      "expected_points": [
+        "Treat cyber defence as an immediate leadership priority",
+        "Test systems against advanced AI-enabled attacks",
+        "Seek access to capable defensive AI",
+        "Train staff and obtain hands-on expert support",
+        "Secure legacy platforms and look for long-hidden weaknesses",
+        "Coordinate with government and technology providers",
+        "Prepare incident-response procedures for critical operations",
+        "Use responsible access controls for powerful defensive tools",
+        "Request sustainable funding rather than relying on existing under-resourced measures"
+      ]
+    }
+  ]
+}

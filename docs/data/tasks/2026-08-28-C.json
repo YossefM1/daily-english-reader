@@ -1,0 +1,182 @@
+{
+  "date": "2026-08-28",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Hypermobility - the little-known 'bendy disease' that causes pain",
+  "article_url": "https://www.bbc.co.uk/news/articles/clyx0gzynneo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central problem does the article highlight about Hypermobility Spectrum Disorders?",
+      "difficulty": "C",
+      "options": [
+        "They can cause wide-ranging pain and fatigue, yet many people wait years for recognition, diagnosis and informed support",
+        "They affect only professional athletes and are always diagnosed in childhood",
+        "They make joints less flexible and can be cured by one standard medicine",
+        "They have detailed national diagnostic guidance and equal access to specialists everywhere"
+      ],
+      "correct_answer": "They can cause wide-ranging pain and fatigue, yet many people wait years for recognition, diagnosis and informed support",
+      "explanation_hebrew": "הכתבה מדגישה שמדובר בהפרעות רב־מערכתיות שעלולות לגרום לכאב ולעייפות, אך רבות מהן אינן מזוהות במשך שנים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why do people with HSD often experience muscle fatigue and joint pain?",
+      "difficulty": "C",
+      "options": [
+        "Their bones become permanently shorter",
+        "Lax collagen means muscles must work harder to keep unusually mobile joints stable",
+        "Their joints have a smaller-than-normal range of motion",
+        "Digestive tissue prevents muscles from receiving oxygen"
+      ],
+      "correct_answer": "Lax collagen means muscles must work harder to keep unusually mobile joints stable",
+      "explanation_hebrew": "קולגן רפוי ברקמות החיבור מפחית את יציבות המפרקים, ולכן השרירים עובדים קשה יותר כדי לייצב אותם."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What average diagnostic delay did the University of Edinburgh research report for hEDS and HSD patients in the UK?",
+      "difficulty": "C",
+      "options": [
+        "Between 19 and 21.7 months",
+        "Exactly five years",
+        "Between 19 and 21.7 years",
+        "More than 58 years for every patient"
+      ],
+      "correct_answer": "Between 19 and 21.7 years",
+      "explanation_hebrew": "המחקר דיווח על המתנה ממוצעת של 19 עד 21.7 שנים לאבחון — לא חודשים."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What proportion of diagnosed respondents said they had access to a knowledgeable clinician?",
+      "difficulty": "C",
+      "options": [
+        "More than 90%",
+        "Exactly two thirds",
+        "Just under one third",
+        "Only 13%"
+      ],
+      "correct_answer": "Only 13%",
+      "explanation_hebrew": "לפי המחקר רק 13% מן המאובחנים דיווחו על גישה לאיש מקצוע שמכיר היטב את ההפרעה."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “postcode lottery” mean in the discussion of HSD assessment?",
+      "difficulty": "C",
+      "options": [
+        "A medical test based on a patient's postal code",
+        "Unequal access to assessment depending on where a person lives",
+        "A random method for choosing research participants",
+        "A national prize that pays for physiotherapy"
+      ],
+      "correct_answer": "Unequal access to assessment depending on where a person lives",
+      "explanation_hebrew": "postcode lottery מתאר מצב שבו השירות או הסיכוי לקבל הערכה משתנים לפי אזור המגורים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “imposter syndrome” describe in Luke's account?",
+      "difficulty": "C",
+      "options": [
+        "A condition that makes joints dislocate during sport",
+        "A clinical test for hypermobile Ehlers-Danlos syndrome",
+        "Doubt that his pain is legitimate, making him feel he may be exaggerating it",
+        "A deliberate attempt to pretend to have another person's diagnosis"
+      ],
+      "correct_answer": "Doubt that his pain is legitimate, making him feel he may be exaggerating it",
+      "explanation_hebrew": "כאן imposter syndrome מתאר ספק עצמי: חוסר המידע גורם ללוק לחשוש שהוא מייחס חשיבות מוגזמת לכאב אמיתי."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain how HSD can affect more than the joints, using at least four examples from the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג לפחות ארבע השפעות ולחבר אותן למנגנון או לחוויות המתוארות.",
+      "expected_points": [
+        "Muscles work harder to stabilise hypermobile joints, causing fatigue and pain",
+        "People may experience clumsiness",
+        "Stretchier connective tissue in the digestive system can cause gastrointestinal symptoms",
+        "Severe brain fog can affect the ability to work",
+        "Standing in queues or on transport can be painful",
+        "Symptoms can affect social life and employment",
+        "Dislocations and other musculoskeletal problems may occur, particularly with hEDS",
+        "Links with autism and ADHD have been established",
+        "Symptoms may vary unpredictably from day to day"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do HSD and hEDS often remain undiagnosed or poorly managed for many years?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשלב גורמים מערכתיים, רפואיים וחברתיים ולא להסתפק בסיבה אחת.",
+      "expected_points": [
+        "Symptoms appear across different body systems and may be treated as unrelated problems",
+        "Many patients and professionals have limited awareness of the conditions",
+        "There is no dedicated standalone NICE diagnostic guideline",
+        "Assessment opportunities vary by location",
+        "Women's health has historically been less researched",
+        "Under a third of diagnosed respondents said their GP initiated management",
+        "Only 13% reported access to a knowledgeable clinician",
+        "Patients may doubt themselves or avoid seeking care because information is scarce",
+        "Symptoms can fluctuate, making the condition harder to explain"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise what HSD is, why diagnosis is difficult and how it can be managed.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול הגדרה, מנגנון בסיסי, קשיי אבחון, השפעה יומיומית וגישות טיפול — בלי להציג טיפול כפתרון מוחלט.",
+      "expected_points": [
+        "HSD is a connective-tissue disorder involving a greater-than-normal range of joint motion",
+        "Lax collagen can make muscles work harder to stabilise joints",
+        "Symptoms include pain, fatigue, clumsiness, digestive problems and sometimes brain fog",
+        "Many people wait roughly two decades for diagnosis",
+        "Lack of guidance, awareness and knowledgeable clinicians creates unequal access",
+        "Symptoms may emerge or worsen after stressors such as puberty or menopause",
+        "There is no single magic cure",
+        "Physiotherapy can strengthen muscles that support the skeleton",
+        "Gentle exercise such as swimming may help some people",
+        "Patients need coordinated recognition and support rather than dismissal"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced support plan for a newly diagnosed person with HSD, based on the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לנסח תוכנית זהירה באנגלית, להכיר בשונות בין מטופלים ולהשתמש בלפחות ארבע תובנות מן הכתבה.",
+      "expected_points": [
+        "Validate that pain, fatigue and brain fog can be real even when symptoms fluctuate",
+        "Seek a clinician knowledgeable about hypermobility when possible",
+        "Discuss physiotherapy aimed at strengthening stabilising muscles",
+        "Consider gentle exercise such as swimming if individually suitable",
+        "Track joint, digestive, fatigue and cognitive symptoms together",
+        "Adapt work and daily activities when standing or repetitive tasks cause pain",
+        "Avoid presenting physiotherapy as a complete or universal cure",
+        "Recognise that stressors may worsen or reveal symptoms",
+        "Look for coordinated care and reliable information rather than depending only on social media"
+      ]
+    }
+  ]
+}
