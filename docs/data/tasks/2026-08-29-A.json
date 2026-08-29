@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-29",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "The theft of a historic diamond necklace from a Vienna museum and the search for two suspects",
+        "A museum's decision to sell jewellery from the former Egyptian royal family",
+        "The opening of a new Van Cleef & Arpels factory in Austria",
+        "A plan to move Vienna's museums into the Stadtpark"
+      ],
+      "correct_answer": "The theft of a historic diamond necklace from a Vienna museum and the search for two suspects",
+      "explanation_hebrew": "הכתבה מתארת את גניבת השרשרת ההיסטורית ממוזיאון MAK ואת המצוד אחר שני החשודים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the two suspects do before taking the necklace?",
+      "difficulty": "A",
+      "options": [
+        "They entered through a window after the museum closed",
+        "They bought exhibition tickets and then smashed the display case",
+        "They pretended to be police officers inspecting the building",
+        "They hid inside the museum overnight"
+      ],
+      "correct_answer": "They bought exhibition tickets and then smashed the display case",
+      "explanation_hebrew": "לפי המשטרה, החשודים קנו כרטיסים לתערוכה ולאחר מכן ניפצו את ויטרינת הזכוכית."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did police believe one of the suspects was carrying?",
+      "difficulty": "A",
+      "options": [
+        "A museum security badge",
+        "A bag of stolen paintings",
+        "What appeared to be a real firearm",
+        "A map of Lower Austria"
+      ],
+      "correct_answer": "What appeared to be a real firearm",
+      "explanation_hebrew": "המשטרה מסרה שאחד החשודים נשא חפץ שנראה ככל הנראה כנשק חם אמיתי."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article connect the Vienna theft with other recent European museum heists?",
+      "difficulty": "A",
+      "options": [
+        "To show that all the stolen objects were made by the same jeweller",
+        "To prove that the same two suspects committed every theft",
+        "To explain why European museums are closing permanently",
+        "To show a wider pattern that is raising concern about museum security"
+      ],
+      "correct_answer": "To show a wider pattern that is raising concern about museum security",
+      "explanation_hebrew": "רצף הגניבות מוצג כמגמה רחבה שמעלה שאלות לגבי ביטחונם של מוסדות תרבות באירופה."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “manhunt” mean in the opening of the article?",
+      "difficulty": "A",
+      "options": [
+        "A public exhibition about famous detectives",
+        "A large, organised search for suspected criminals",
+        "A competition between museum guards",
+        "A legal debate about ownership of jewellery"
+      ],
+      "correct_answer": "A large, organised search for suspected criminals",
+      "explanation_hebrew": "המילה manhunt מתארת חיפוש מאורגן ונרחב אחר חשודים או עבריינים נמלטים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In Europol's warning, what does “increasingly aggressive” suggest about museum thefts?",
+      "difficulty": "A",
+      "options": [
+        "They are becoming quieter and harder to notice",
+        "They now usually involve forged auction documents",
+        "They are using more violent and forceful methods",
+        "They are limited to objects of little financial value"
+      ],
+      "correct_answer": "They are using more violent and forceful methods",
+      "explanation_hebrew": "בהקשר זה increasingly aggressive פירושו שהגניבות נעשות אלימות וכוחניות יותר."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give four details that identify the stolen necklace and explain its historical or financial importance.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין ארבעה פרטים מדויקים מן הכתבה על חומרי השרשרת, היהלומים, בעליה ההיסטוריים, האירוע שבו נענדה או שוויה.",
+      "expected_points": [
+        "It is made of platinum and decorated with more than 600 diamonds",
+        "Its diamonds weigh more than 200 carats",
+        "It was designed for the former Egyptian royal family",
+        "Queen Nazli wore it in 1939 for her daughter Fawzia's marriage",
+        "Fawzia married the future Shah of Iran, Mohammad Reza Pahlavi",
+        "Police believe it is worth more than $4m",
+        "Its auction estimate a decade earlier was $3.6m-$4.6m"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What evidence suggests that the museum had prepared for security risks, and why did the theft still raise concern?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג ראיות להכנות האבטחה ולנמק מדוע הצלחת השוד עדיין מדאיגה.",
+      "expected_points": [
+        "MAK developed a security plan with Van Cleef & Arpels specifically for the exhibition",
+        "The museum reviewed its measures in light of recent incidents at major museums",
+        "Staff followed established procedures calmly",
+        "No one was injured during the armed incident",
+        "The suspects nevertheless smashed the case and escaped in daylight",
+        "One suspect may have had a real firearm",
+        "The theft forms part of a wider series of increasingly forceful museum crimes"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the theft, the police response and the wider European context.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את אופן הגניבה, תיאור השרשרת, פעולות המשטרה והקשר לגל הגניבות במוזיאונים באירופה.",
+      "expected_points": [
+        "Two men bought tickets, smashed a display case and stole the necklace at MAK",
+        "The necklace contains more than 600 diamonds and is valued at more than $4m",
+        "It has a connection to the former Egyptian royal family",
+        "The unmasked suspects fled towards Vienna Stadtpark",
+        "Police released CCTV images and appealed for public information",
+        "Dog units and forensic experts are helping the investigation",
+        "Other recent European museum heists have raised security concerns",
+        "Europol warns that museum thefts are becoming more violent and forceful"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief security recommendation for a museum displaying a famous jewel. Use at least three facts from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח המלצה מעשית באנגלית, לקשור אותה לפחות לשלושה פרטים מן הכתבה ולהימנע מהעתקת הטקסט המקורי.",
+      "expected_points": [
+        "Consider protection against a daylight smash-and-grab attack by ticketed visitors",
+        "Plan for the possibility that an offender carries a firearm",
+        "Use rapid lockdown or exit-control procedures",
+        "Make CCTV coverage suitable for identifying unmasked suspects",
+        "Coordinate staff procedures with the lender of the object",
+        "Review recent methods used in other museum thefts",
+        "Prepare evidence preservation and a rapid police response",
+        "Balance reopening the exhibition with a fresh security assessment"
+      ]
+    }
+  ]
+}

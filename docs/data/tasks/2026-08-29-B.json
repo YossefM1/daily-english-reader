@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-29",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Canada poaches dozens of top US researchers for its universities",
+  "article_url": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Canada's programme to recruit international researchers, many from the US, amid uncertainty in American academia",
+        "A decision by US universities to open dozens of campuses in Canada",
+        "A Canadian plan to replace university research with private advertising",
+        "A new ranking that removes Harvard and MIT from the world's top universities"
+      ],
+      "correct_answer": "Canada's programme to recruit international researchers, many from the US, amid uncertainty in American academia",
+      "explanation_hebrew": "הכתבה עוסקת בתוכנית הקנדית לגיוס חוקרים, שרובם מגיעים מארה״ב על רקע קיצוצים ואי־ודאות שם."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many of the 64 recruited professors are relocating from the US?",
+      "difficulty": "B",
+      "options": [
+        "16",
+        "48",
+        "56",
+        "64"
+      ],
+      "correct_answer": "48",
+      "explanation_hebrew": "הכתבה מציינת ש־48 מתוך 64 החוקרים המגויסים עוברים ממוסדות בארצות הברית."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What will Seth Guikema use C$8m to study over eight years?",
+      "difficulty": "B",
+      "options": [
+        "New methods for ranking international universities",
+        "The history of trade tariffs between Canada and the US",
+        "Tools to prepare better for natural hazards such as storms and wildfires",
+        "Ways to detect cancers and chronic diseases in Vancouver"
+      ],
+      "correct_answer": "Tools to prepare better for natural hazards such as storms and wildfires",
+      "explanation_hebrew": "גיקמה מתכנן לחקור כלים לשיפור ההיערכות לסכנות טבע, ובהן סופות ושריפות יער."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are Canadian offers especially attractive to some US-based researchers now?",
+      "difficulty": "B",
+      "options": [
+        "Canada has stopped requiring universities to conduct research",
+        "Every Canadian university is ranked above Harvard and Stanford",
+        "The researchers are required to leave the US by law",
+        "US grant cuts and political uncertainty make stable funding and a welcoming environment more valuable"
+      ],
+      "correct_answer": "US grant cuts and political uncertainty make stable funding and a welcoming environment more valuable",
+      "explanation_hebrew": "הקיצוצים, הקפאת המענקים והפוליטיזציה בארה״ב הופכים מימון יציב וסביבה תומכת בקנדה למושכים יותר."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “poaches” mean in the headline?",
+      "difficulty": "B",
+      "options": [
+        "Punishes researchers for changing universities",
+        "Recruits talented people away from another country or institution",
+        "Trains professors to work outside universities",
+        "Investigates researchers for breaking funding rules"
+      ],
+      "correct_answer": "Recruits talented people away from another country or institution",
+      "explanation_hebrew": "בכותרת poaches משמש במשמעות של משיכת אנשי מקצוע מוכשרים ממעסיק או ממדינה אחרת."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “brain drain” mean in the concern described near the end?",
+      "difficulty": "B",
+      "options": [
+        "A decline in students' memory caused by overwork",
+        "A reduction in the number of university courses",
+        "The loss of highly skilled people to opportunities elsewhere",
+        "A temporary fall in a university's ranking"
+      ],
+      "correct_answer": "The loss of highly skilled people to opportunities elsewhere",
+      "explanation_hebrew": "brain drain הוא אובדן של חוקרים ואנשי מקצוע מיומנים שעוברים למקומות המציעים תנאים טובים יותר."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two pressures pushing researchers away from the US and two attractions drawing them to Canada.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להבחין בין גורמי דחיפה בארה״ב לבין גורמי משיכה בקנדה, ולתת לפחות שניים מכל סוג.",
+      "expected_points": [
+        "The US administration has frozen federal research grants for various institutions and groups",
+        "Researchers describe major grant agencies as cut and politicised",
+        "Climate and resilience research has become harder to fund",
+        "Academics report uncertainty and a less welcoming environment",
+        "Canada offers funding from a C$504m pool",
+        "The programme supports fields such as climate change and medicine",
+        "Researchers can obtain long-term resources for practical projects",
+        "Canada is described by some academics as a more welcoming environment"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does Lynn Pasquerella consider the long-term attractiveness of the US more serious than the immediate loss of researchers?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את ההבדל בין מעבר קצר־טווח של חוקרים לבין פגיעה ממושכת במעמד ארה״ב כמקום ליצירת ידע.",
+      "expected_points": [
+        "A short-term brain drain counts current departures",
+        "A lasting reputation for political interference could deter future generations",
+        "Researchers may avoid beginning careers or projects in the US",
+        "Reduced talent could weaken institutions over time",
+        "Scientific networks and innovation capacity take years to rebuild",
+        "The concern is about whether the US remains a desirable place to pursue knowledge"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Canada's recruitment programme, why researchers are moving and the wider concern for US academia.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול מספרים מרכזיים, דוגמה אחת לחוקר, תנאי הרקע בארה״ב והשלכה ארוכת־טווח.",
+      "expected_points": [
+        "Canada recruited 64 professors from around the world",
+        "More than three-fourths, or 48, are moving from the US",
+        "The programme draws on a C$504m funding pool",
+        "US grant freezes, cuts and politicisation have created uncertainty",
+        "Seth Guikema will receive C$8m for climate-resilience research in Ontario",
+        "Peter Caravan will continue medical-detection research in Vancouver",
+        "Some researchers say Canada offers a more welcoming environment",
+        "The deeper risk is that the US becomes less attractive as a place to pursue knowledge"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short recommendation to a government that wants to attract leading university researchers. Support it with evidence from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע צעדים מעשיים באנגלית ולהסתמך על לפחות שלוש ראיות או דוגמאות מן הכתבה.",
+      "expected_points": [
+        "Offer stable, substantial and multi-year research funding",
+        "Protect grant decisions from political uncertainty",
+        "Target fields with public value such as climate resilience and medicine",
+        "Provide researchers with a strong intellectual home and practical impact",
+        "Create a welcoming environment for international and returning scholars",
+        "Support universities so they can make competitive employment offers",
+        "Explain clearly how appointments and funding will operate",
+        "Consider the long-term national benefits of attracting knowledge and talent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "date": "2026-08-29",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+  "article_url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central argument?",
+      "difficulty": "C",
+      "options": [
+        "Regional conflict and reduced maritime deterrence have created new opportunities for Somali piracy to rise",
+        "Somali piracy has ended because all commercial shipping now avoids the Indian Ocean",
+        "The Houthi movement directly commands every pirate network operating near Somalia",
+        "Foreign fishing has become Somalia's largest source of government revenue"
+      ],
+      "correct_answer": "Regional conflict and reduced maritime deterrence have created new opportunities for Somali piracy to rise",
+      "explanation_hebrew": "הטענה המרכזית היא שהמלחמה, החסימות והפחתת ההרתעה הימית יוצרים הזדמנות מחודשת לרשתות פיראטיות סומליות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many ships had been attacked since the start of the year when the article was published?",
+      "difficulty": "C",
+      "options": [
+        "At least six",
+        "At least 13",
+        "More than 50",
+        "More than 200"
+      ],
+      "correct_answer": "At least 13",
+      "explanation_hebrew": "הכתבה מדווחת כי מספר הספינות שהותקפו מתחילת השנה עלה ל־13 לפחות."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which description of the MV Lutuf is accurate?",
+      "difficulty": "C",
+      "options": [
+        "It is an Eritrean oil-products tanker seized near Yemen",
+        "It is a Spanish naval vessel patrolling the Red Sea",
+        "It is a Cameroon-flagged ship hijacked off Puntland on 17 August",
+        "It is an Iranian vessel released without a ransom demand"
+      ],
+      "correct_answer": "It is a Cameroon-flagged ship hijacked off Puntland on 17 August",
+      "explanation_hebrew": "ה־MV Lutuf היא ספינה בדגל קמרון שנחטפה מול חופי פונטלנד ב־17 באוגוסט."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can conflict around Hormuz and Bab el-Mandeb benefit pirates operating farther south?",
+      "difficulty": "C",
+      "options": [
+        "It makes ransom payments illegal in every country",
+        "It prevents pirates from approaching the Somali coast",
+        "It causes foreign trawlers to stop fishing permanently",
+        "It can divert naval attention while pushing more commercial ships into waters accessible to pirates"
+      ],
+      "correct_answer": "It can divert naval attention while pushing more commercial ships into waters accessible to pirates",
+      "explanation_hebrew": "המשברים בצפון עשויים להסיט כוחות ימיים ובמקביל להביא יותר ספינות מסחריות לנתיבים הקרובים לסומליה."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “scourge” mean when the article says an international response drove it down?",
+      "difficulty": "C",
+      "options": [
+        "A profitable new shipping route",
+        "A serious and persistent problem causing harm",
+        "A formal agreement between two governments",
+        "A device used to track hijacked vessels"
+      ],
+      "correct_answer": "A serious and persistent problem causing harm",
+      "explanation_hebrew": "scourge מתאר תופעה מזיקה וקשה המתמשכת לאורך זמן — כאן, הפיראטיות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the phrase “ripples outwards” in the headline suggest?",
+      "difficulty": "C",
+      "options": [
+        "The war's effects are limited to the Strait of Hormuz",
+        "Pirates are creating physical waves to stop ships",
+        "The conflict's consequences spread beyond its immediate centre to other regions",
+        "Shipping companies have completely solved the regional crisis"
+      ],
+      "correct_answer": "The conflict's consequences spread beyond its immediate centre to other regions",
+      "explanation_hebrew": "הביטוי מתאר כיצד השלכות המלחמה מתפשטות מעבר לזירתה הישירה ומשפיעות גם על נתיבי שיט ליד סומליה."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain the combination of international and local conditions that is enabling the piracy surge.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשלב גורמים אזוריים ובין־לאומיים עם גורמים כלכליים וביטחוניים מקומיים בסומליה.",
+      "expected_points": [
+        "The US-Iran war is straining regional waterways",
+        "Conflict at Hormuz and the Houthi blockade at Bab el-Mandeb absorb attention",
+        "Naval patrols may be reduced or redirected",
+        "Some commercial ships divert closer to the Somali coast",
+        "High oil prices make tankers more valuable targets",
+        "Pirate networks were suppressed but remained intact",
+        "Poor economic and security conditions continue to feed recruitment",
+        "Anger over foreign trawlers damaging Puntland's fishing industry fuels local support",
+        "Successful attacks can encourage copycat incidents"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Distinguish confirmed facts from allegations or unverified claims about the Lutuf and the drone strikes.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין בבירור מה ידוע, מה נטען בידי מקורות מקומיים ומה ה־BBC לא הצליח לאמת עצמאית.",
+      "expected_points": [
+        "The Lutuf was hijacked off Puntland on 17 August",
+        "Thirteen alleged members of a pirate supply network were killed in two drone strikes",
+        "No actor publicly claimed responsibility for the strikes",
+        "Local officials blamed Turkey",
+        "Sources alleged the ship carried weapons for a Turkish training facility",
+        "A Somali official alleged that Turkey carried out the second strike",
+        "Turkey said it was providing necessary support under its security agreement",
+        "Turkey did not directly address the accusations about the deadly strikes",
+        "The BBC could not independently verify the claims about warships or Turkish responsibility"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the scale, causes and risks of the current rise in Somali piracy.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול נתונים על ההתקפות, לפחות שלושה גורמים לעלייה, השוואה לעבר והסיכון להמשך.",
+      "expected_points": [
+        "At least 13 ships had been attacked since the start of the year",
+        "Two cargo vessels were seized within four days",
+        "Six vessels were being held for multimillion-dollar ransom demands",
+        "Regional war and blockades may reduce naval attention",
+        "Diversions bring more commercial targets closer to Somalia",
+        "High oil prices increase the potential value of tanker hijackings",
+        "Local poverty, insecurity and anger over foreign fishing sustain pirate networks",
+        "The level remains far below the more than 200 attacks in 2011",
+        "Political tension between Puntland and Mogadishu complicates a coordinated response",
+        "Without stronger deterrence or an end to the wider war, the threat may continue"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Propose a balanced regional response to the piracy surge. Use evidence from the article and address both immediate security and underlying causes.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע תגובה מאוזנת באנגלית הכוללת הרתעה מיידית, תיאום מדיני וטיפול בגורמי העומק, תוך הסתמכות על הכתבה.",
+      "expected_points": [
+        "Restore coordinated international naval patrols in high-risk waters",
+        "Support private security and practical protection on commercial vessels",
+        "Improve information-sharing among Somalia, Puntland and international forces",
+        "Investigate attacks and drone strikes transparently to avoid escalation",
+        "Protect lawful fishing and address damaging foreign overfishing",
+        "Create economic opportunities for coastal communities",
+        "Strengthen Somali maritime security institutions",
+        "Avoid treating unverified allegations as established facts",
+        "Plan for the displacement of shipping caused by Hormuz and Bab el-Mandeb",
+        "Combine deterrence with long-term action on poverty and insecurity"
+      ]
+    }
+  ]
+}
