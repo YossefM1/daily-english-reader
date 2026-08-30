@@ -1,0 +1,185 @@
+{
+  "date": "2026-08-30",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Our DNA dilemma: Why we broke the law to make sure we were not siblings",
+  "article_url": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "C",
+      "options": [
+        "A donor-conceived French couple's struggle to confirm they were unrelated and to gain access to their biological origins",
+        "A French programme encouraging all couples to use commercial DNA tests",
+        "A court case that ended anonymous sperm donation throughout Europe in 1994",
+        "A medical study proving that donor-conceived people usually marry relatives"
+      ],
+      "correct_answer": "A donor-conceived French couple's struggle to confirm they were unrelated and to gain access to their biological origins",
+      "explanation_hebrew": "הכתבה עוסקת במאבקם האישי והמשפטי של אודרי וארתור לדעת שאינם קרובי משפחה ולגלות את מוצאם הביולוגי."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Audrey and Arthur believe there was a real possibility they might be half-siblings?",
+      "difficulty": "C",
+      "options": [
+        "They had the same legal surname",
+        "Only two sperm banks operated in Paris when they were conceived, and donors could donate many times",
+        "A court told them they shared the same donor",
+        "Their parents had lived in the same house"
+      ],
+      "correct_answer": "Only two sperm banks operated in Paris when they were conceived, and donors could donate many times",
+      "explanation_hebrew": "מספר בנקי הזרע המצומצם וריבוי התרומות של אותם גברים יצרו אפשרות ממשית לתורם משותף."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the group DNA test reveal about the 10 donor-conceived activists?",
+      "difficulty": "C",
+      "options": [
+        "None of them had any genetic matches",
+        "All 10 shared one biological father",
+        "Four of them were linked to the same donor",
+        "Only Arthur discovered a biological sibling"
+      ],
+      "correct_answer": "Four of them were linked to the same donor",
+      "explanation_hebrew": "מבין עשרת הפעילים, ארבעה — אודרי, פיטר, סופי ודיוויד — התבררו כילדיו של אותו תורם."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the first doctor's €900 test fail to remove the couple's anxiety completely?",
+      "difficulty": "C",
+      "options": [
+        "The result said they were definitely siblings",
+        "The doctor refused to conduct any genetic analysis",
+        "The test only examined Audrey's medical history",
+        "Because the doctor acted illegally, they doubted whether he and the result were trustworthy"
+      ],
+      "correct_answer": "Because the doctor acted illegally, they doubted whether he and the result were trustworthy",
+      "explanation_hebrew": "מאחר שהבדיקה בוצעה ושווקה בניגוד לחוק, בני הזוג חששו שהרופא שרלטן ולא בטחו לגמרי בתוצאה."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “a leap of faith” mean when the couple decided to marry?",
+      "difficulty": "C",
+      "options": [
+        "A decision made with trust despite unresolved uncertainty",
+        "A legal order requiring them to marry",
+        "A scientific method for comparing two DNA samples",
+        "A public ceremony supporting donor anonymity"
+      ],
+      "correct_answer": "A decision made with trust despite unresolved uncertainty",
+      "explanation_hebrew": "a leap of faith הוא צעד שנעשה מתוך אמון אף שאין ודאות מלאה — כאן, הנישואים לפני פתרון סופי של הספק."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “charlatan” mean when Audrey worried about the doctor?",
+      "difficulty": "C",
+      "options": [
+        "A judge who specialises in medical law",
+        "A relative discovered through genetic testing",
+        "A dishonest person pretending to have professional knowledge or skill",
+        "A donor who asks to remain anonymous"
+      ],
+      "correct_answer": "A dishonest person pretending to have professional knowledge or skill",
+      "explanation_hebrew": "charlatan הוא אדם שמתחזה לבעל מומחיות מקצועית כדי להטעות אחרים."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Construct a brief timeline of at least five key events in Audrey and Arthur's search for certainty and their biological origins.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסדר לפחות חמישה אירועים לפי הרצף הכרונולוגי ולציין שנים כאשר הן מופיעות בכתבה.",
+      "expected_points": [
+        "They met at a gathering of donor-conceived activists in 2010",
+        "A doctor in southern France tested them illegally and said they were unrelated",
+        "Audrey began legal challenges to the French system in 2010",
+        "They married after three years of challenges, in 2013",
+        "France's highest administrative court rejected Audrey's final appeal in 2015",
+        "Another doctor learned that their donors were born in different years",
+        "They eventually took a home DNA test confirming they were unrelated",
+        "Arthur contacted his sperm donor on Christmas Day in 2017",
+        "Audrey discovered that Sophie, a former client, was her biological sister",
+        "A later match led Audrey to her deceased donor, Philippe"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Present the strongest argument for France's home-DNA-test ban and the strongest criticism raised by the couple's experience.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג באופן מאוזן טיעון בעד החוק וטיעון נגדו, ולבסס כל צד בפרטים מן הכתבה.",
+      "expected_points": [
+        "Supporters say the ban protects sensitive genetic data from commercial companies",
+        "Supporters say it can prevent family disputes caused by unexpected results",
+        "Genetic tests are limited to authorised scientific, medical or judicial settings",
+        "Critics argue the ban denies people practical access to information about their origins",
+        "The couple could not obtain information needed to assess whether they were related",
+        "Doctors could see donor information that patients themselves could not receive",
+        "More than a million French people are estimated to have taken tests despite the ban",
+        "Testing exposed genuine shared-donor relationships among the activists",
+        "People may gain useful biological family medical history through matches"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the couple's dilemma, the legal obstacles, what DNA testing revealed and the law's later change.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את החשש לקרבה משפחתית, מגבלות החוק, התגליות האישיות והיקף הרפורמה המאוחרת.",
+      "expected_points": [
+        "Audrey and Arthur were both conceived through anonymous sperm donation",
+        "They feared they might share a donor because of the small number of Paris sperm banks",
+        "French law restricts genetic testing and criminalises home DNA tests",
+        "An illegal doctor-led test and later donor birth-year information suggested they were unrelated",
+        "After unsuccessful legal challenges, they used a home DNA test",
+        "The test confirmed they were not related",
+        "Arthur found his donor and Audrey found biological siblings and later identified her donor",
+        "Four of 10 activists tested shared the same donor",
+        "Their campaigning contributed to changes in donor-conception law",
+        "People conceived after April 2025 may access identifying donor information as adults",
+        "Home DNA testing nevertheless remains prohibited in France"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a policy recommendation for France on donor information and home DNA testing. Use evidence from the article and address privacy as well as the right to know one's origins.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע מדיניות מאוזנת באנגלית, להשתמש לפחות בשלוש ראיות מן הכתבה ולהתייחס הן לפרטיות והן לגישה למידע.",
+      "expected_points": [
+        "Protect genetic data through clear consent and security requirements",
+        "Offer a regulated testing route rather than leaving people to illegal providers",
+        "Allow donor-conceived adults access to identifying or relevant non-identifying information",
+        "Provide counselling before and after unexpected genetic discoveries",
+        "Set rules for contacting donors and newly discovered relatives",
+        "Include medical-history access where appropriate",
+        "Recognise the risk that people from a small donor pool may unknowingly be related",
+        "Learn from evidence that many people bypass the existing ban",
+        "Preserve safeguards against commercial misuse",
+        "Apply reforms fairly to people conceived before as well as after April 2025"
+      ]
+    }
+  ]
+}

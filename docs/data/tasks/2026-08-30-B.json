@@ -1,0 +1,179 @@
+{
+  "date": "2026-08-30",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Norway's Haakon remembers 'my dear father' in first speech as king",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "B",
+      "options": [
+        "King Haakon VIII's first national speech, his tribute to Harald V and the challenges facing his reign",
+        "Norway's decision to abolish the monarchy immediately after Harald's death",
+        "A dispute about who should become Norway's prime minister",
+        "Plans for an elaborate coronation based on an old Norwegian tradition"
+      ],
+      "correct_answer": "King Haakon VIII's first national speech, his tribute to Harald V and the challenges facing his reign",
+      "explanation_hebrew": "הכתבה מתמקדת בנאומו הראשון של המלך החדש, במחווה לאביו ובאתגרים האישיים והציבוריים שלפניו."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Haakon describe the kind of king he wished to be?",
+      "difficulty": "B",
+      "options": [
+        "Distant and politically powerful",
+        "Present and attentive",
+        "Silent during national crises",
+        "Focused only on royal ceremonies"
+      ],
+      "correct_answer": "Present and attentive",
+      "explanation_hebrew": "האקון אמר שהוא מבקש להיות present and attentive — נוכח וקשוב."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What formal step will Haakon take in parliament on Tuesday?",
+      "difficulty": "B",
+      "options": [
+        "Announce the date of his father's funeral",
+        "Appoint a new prime minister",
+        "Swear an oath of allegiance",
+        "Deliver a judgment in his stepson's appeal"
+      ],
+      "correct_answer": "Swear an oath of allegiance",
+      "explanation_hebrew": "ביום שלישי המלך החדש צפוי להישבע שבועת אמונים בפרלמנט."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article describe Haakon's new role as beginning at a difficult time?",
+      "difficulty": "B",
+      "options": [
+        "Norway has prohibited public mourning",
+        "Harald left no guidance about royal duties",
+        "Haakon refuses to work while caring for his wife",
+        "The royal family faces health problems, scandals and declining public support"
+      ],
+      "correct_answer": "The royal family faces health problems, scandals and declining public support",
+      "explanation_hebrew": "הכתבה מציגה שילוב של מצבה הבריאותי של אשתו, מחלוקות משפחתיות וירידה בתמיכה במלוכה."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “choke back tears” mean in the account of Haakon's speech?",
+      "difficulty": "B",
+      "options": [
+        "Stop speaking because of anger",
+        "Try to prevent oneself from crying",
+        "Read a prepared speech very quickly",
+        "Hide information from the public"
+      ],
+      "correct_answer": "Try to prevent oneself from crying",
+      "explanation_hebrew": "הביטוי choke back tears פירושו להתאמץ לעצור את הדמעות ולא לבכות."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “remain steadfast” mean in Haakon's comment about difficult times?",
+      "difficulty": "B",
+      "options": [
+        "Leave one's responsibilities to other people",
+        "Avoid discussing family relationships",
+        "Stay firm, loyal and emotionally strong",
+        "Return to an earlier style of monarchy"
+      ],
+      "correct_answer": "Stay firm, loyal and emotionally strong",
+      "explanation_hebrew": "remain steadfast פירושו להישאר יציב, נאמן וחזק גם בתקופות קשות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give four details Haakon used to remember his father as both a family member and a monarch.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לשלב פרטים על תפקידו המשפחתי של האראלד ועל דמותו הציבורית או ערכיו.",
+      "expected_points": [
+        "Haakon thanked Harald for being a good father",
+        "He called him a warm and funny grandfather",
+        "He described him as a loving and caring husband to Queen Sonja",
+        "Harald brought the family together with natural authority",
+        "Harald encouraged family members to find their own style and be themselves",
+        "He stayed true to his values and commitments",
+        "He was viewed as a moderniser and a people's king",
+        "He reigned for 35 years"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How might Haakon's message of unity respond indirectly to the royal family's recent difficulties?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשור בין דברי המלך על חוק, שוויון ועמידה יחד לבין המשברים המתוארים, בלי לטעון שהוא הזכיר אותם במפורש.",
+      "expected_points": [
+        "He did not directly name the controversies",
+        "He emphasised a society based on law and justice",
+        "He said everyone is of equal value",
+        "He described family solidarity as important during difficult times",
+        "The message may acknowledge public concern without debating individual cases",
+        "His wife's health creates personal and official pressures",
+        "Scandals involving relatives have damaged the royal family's image",
+        "A unifying tone may help him establish trust at the start of his reign"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Haakon's tribute, his plans as king and the principal challenges described in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את מות האראלד, המסר המרכזי בנאום, צעדים רשמיים קרובים ואתגרי המשפחה והמלוכה.",
+      "expected_points": [
+        "Harald V died aged 89 after a 35-year reign",
+        "Haakon VIII paid an emotional tribute to him as a father and king",
+        "Haakon promised to be present and attentive",
+        "He stressed law, justice, equality and national unity",
+        "Norwegians gathered with flowers, candles and tributes",
+        "Haakon will swear allegiance in parliament and later attend a consecration service",
+        "Queen Mette-Marit's health affects his new responsibilities",
+        "Several family controversies have attracted scrutiny",
+        "Support for the monarchy fell from 72% in 2024 to 54% in a recent poll",
+        "Experts nevertheless describe Haakon as respected and hard-working"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short opening message for a new head of state following the death of a respected predecessor. Draw on at least three ideas from Haakon's speech.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח מסר מכבד באנגלית המשלב אבל אישי, המשכיות, שירות לציבור ואחדות.",
+      "expected_points": [
+        "Thank the predecessor for personal or public service",
+        "Recognise the public's shared grief",
+        "Express readiness to accept the new responsibility",
+        "Promise to be present and attentive",
+        "Emphasise law, justice and equal value",
+        "Commit to understanding different people's lives",
+        "Encourage unity during both good and difficult times",
+        "Use a sincere but appropriately formal tone"
+      ]
+    }
+  ]
+}

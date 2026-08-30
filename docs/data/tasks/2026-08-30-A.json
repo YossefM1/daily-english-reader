@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-30",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Canada installs large Lake Ontario sign in latest jab at US",
+  "article_url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Ontario's public response to Donald Trump's attempt to rename Lake Ontario as Lake America",
+        "Canada's plan to build a new bridge across Lake Ontario",
+        "A scientific project to measure pollution in the Great Lakes",
+        "New rules requiring all Great Lakes to have French names"
+      ],
+      "correct_answer": "Ontario's public response to Donald Trump's attempt to rename Lake Ontario as Lake America",
+      "explanation_hebrew": "הכתבה מתארת כיצד אונטריו הגיבה בנחרצות ובאירוניה לניסיון של טראמפ לשנות את שם האגם."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What message appeared on the large sign unveiled by Ontario Premier Doug Ford?",
+      "difficulty": "A",
+      "options": [
+        "Welcome to Lake America",
+        "Lake Ontario. Now and Always.",
+        "Ontario and New York Together",
+        "The Smallest Great Lake"
+      ],
+      "correct_answer": "Lake Ontario. Now and Always.",
+      "explanation_hebrew": "על השלט שהציג דאג פורד נכתב: Lake Ontario. Now and Always."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What followed the collapse of US-Canada trade talks?",
+      "difficulty": "A",
+      "options": [
+        "Both countries immediately removed all tariffs",
+        "Canada agreed to use the name Lake America",
+        "The US imposed 50% tariffs on $20bn of Canadian goods",
+        "Ontario stopped trading with the state of New York"
+      ],
+      "correct_answer": "The US imposed 50% tariffs on $20bn of Canadian goods",
+      "explanation_hebrew": "לאחר קריסת השיחות הטילה ארה״ב מכסים של 50% על סחורות קנדיות בשווי 20 מיליארד דולר."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can Trump's order change official US usage but not force Canada to adopt the new name?",
+      "difficulty": "A",
+      "options": [
+        "The lake lies entirely inside Canada",
+        "Only technology companies can name international waters",
+        "The order applies only to maps printed before 2025",
+        "US authority over domestic naming does not bind another country sharing the lake"
+      ],
+      "correct_answer": "US authority over domestic naming does not bind another country sharing the lake",
+      "explanation_hebrew": "לנשיא ארה״ב יש סמכות לגבי השימוש הרשמי בארצו, אך אין לכך תוקף מחייב כלפי קנדה."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “straddles both countries” mean when describing Lake Ontario?",
+      "difficulty": "A",
+      "options": [
+        "It has disappeared from maps in both countries",
+        "It extends across the border area shared by the two countries",
+        "It is owned by two private companies",
+        "It changes direction twice each year"
+      ],
+      "correct_answer": "It extends across the border area shared by the two countries",
+      "explanation_hebrew": "straddles פירושו שהאגם משתרע משני צדי הגבול ונוגע בשתי המדינות."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “counter-tariffs” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "Payments made to remove road signs",
+        "Taxes that replace all domestic sales taxes",
+        "Import charges imposed in response to another country's tariffs",
+        "Fines for using an unofficial geographic name"
+      ],
+      "correct_answer": "Import charges imposed in response to another country's tariffs",
+      "explanation_hebrew": "counter-tariffs הם מכסי תגובה שמדינה מטילה כנגד מכסים שהטילה עליה מדינה אחרת."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give four facts about Lake Ontario or the official naming process described in the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין ארבעה פרטים מדויקים על מיקום האגם, מקור שמו, גודלו היחסי או ההליך האמריקאי לשינוי השם.",
+      "expected_points": [
+        "Lake Ontario borders the Canadian province of Ontario and the US state of New York",
+        "It is the smallest of the Great Lakes",
+        "Its name originates from an Indigenous word",
+        "Four Great Lakes have names originating from Indigenous words",
+        "Trump's order tells the US Department of the Interior to update the name",
+        "The department has 30 days to update the Geographic Names Information Service",
+        "Other countries are not required to follow US domestic naming decisions"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How do Ford's sign and Trump's AI-generated videos use symbolism in the political dispute?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד שני הצדדים משתמשים בדימויים, הומור וזהות לאומית כדי להעביר מסר פוליטי.",
+      "expected_points": [
+        "Ford's permanent-looking sign presents the traditional name as enduring",
+        "The phrase 'Now and Always' expresses Canadian defiance",
+        "Ford links the dispute to Canada standing up for itself",
+        "Trump's videos depict him replacing a Lake Ontario sign",
+        "The video of geese with his hair and rifles uses humour and political branding",
+        "Both sides turn a geographic name into a symbol of national authority",
+        "The imagery amplifies tensions following the collapse of trade talks"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the naming dispute, its trade context and the limits of the US order.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את הצו, תגובת קנדה, הרקע המסחרי וההבדל בין שימוש רשמי בארה״ב לבין חובה בין־לאומית.",
+      "expected_points": [
+        "Trump signed an order seeking to rename Lake Ontario as Lake America",
+        "Doug Ford unveiled a sign saying Lake Ontario would keep its name",
+        "The dispute followed collapsed trade talks",
+        "The US imposed new 50% tariffs on $20bn of Canadian goods",
+        "Canada plans dollar-for-dollar counter-tariffs",
+        "US agencies can change official domestic usage",
+        "Canada is not required to adopt the new name",
+        "The lake's traditional name has Indigenous origins"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief, respectful response for a Canadian official who opposes the renaming. Use at least three facts from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח תגובה באנגלית המבוססת על עובדות, שומרת על טון רשמי ומתייחסת להיסטוריה, לגבול המשותף או לסמכות השמות.",
+      "expected_points": [
+        "State that the lake has long been known as Lake Ontario",
+        "Mention the Indigenous origin of the name",
+        "Note that the lake is shared by Canada and the United States",
+        "Explain that a US domestic order does not require Canada to change its usage",
+        "Avoid personal insults",
+        "Separate the naming issue from negotiations over tariffs",
+        "Affirm Canada's right to use its established geographic name"
+      ]
+    }
+  ]
+}
