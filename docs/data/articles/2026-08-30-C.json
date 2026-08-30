@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-30",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Our DNA dilemma: Why we broke the law to make sure we were not siblings",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-08-29T23:03:51+00:00",
+  "age_hours_at_selection": 3.14,
+  "word_count": 1126,
+  "generated_at": "2026-08-30T02:12:20.602318+00:00",
+  "difficulty_reason": "Longer, information-dense feature weaving personal story with legal and bioethical detail; more complex sentences and B2/C1/C2 vocabulary requiring some background.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "donor",
+      "lemma": "donor",
+      "level": "B2",
+      "hebrew": "תּוֹרֵם",
+      "explanation_hebrew": "אָדָם שֶׁנּוֹתֵן מַשֶּׁהוּ, כְּמוֹ תָּא זֶרַע אוֹ אֵיבָר",
+      "pronunciation_hebrew": "דּוֹנוֹר",
+      "example": "He learned the identity of his sperm donor."
+    },
+    {
+      "word": "pressing",
+      "lemma": "pressing",
+      "level": "C1",
+      "hebrew": "דּוֹחֵק, בּוֹעֵר",
+      "explanation_hebrew": "דָּחוּף וְחָשׁוּב שֶׁדּוֹרֵשׁ תְּשׂוּמֶת לֵב מִיָּד",
+      "pronunciation_hebrew": "פְּרֶסִינְג",
+      "example": "The question became even more pressing."
+    },
+    {
+      "word": "activists",
+      "lemma": "activist",
+      "level": "B2",
+      "hebrew": "פְּעִילִים",
+      "explanation_hebrew": "אֲנָשִׁים שֶׁפּוֹעֲלִים לְמַעַן שִׁנּוּי חֶבְרָתִי",
+      "pronunciation_hebrew": "אַקְטִיבִיסְטְס",
+      "example": "They met at a gathering for activists."
+    },
+    {
+      "word": "anonymity",
+      "lemma": "anonymity",
+      "level": "C1",
+      "hebrew": "אַלְמוֹנִיּוּת",
+      "explanation_hebrew": "מַצָּב שֶׁבּוֹ זֶהוּתְךָ אֵינָהּ יְדוּעָה",
+      "pronunciation_hebrew": "אַנוֹנִימִיטִי",
+      "example": "The law protected the donor's anonymity."
+    },
+    {
+      "word": "governing",
+      "lemma": "govern",
+      "level": "C1",
+      "hebrew": "מַסְדִּיר, שׁוֹלֵט בְּ",
+      "explanation_hebrew": "קוֹבֵעַ אֶת הַכְּלָלִים לְמַשֶּׁהוּ",
+      "pronunciation_hebrew": "גַּאבֶרְנִינְג",
+      "example": "The laws governing testing are strict."
+    },
+    {
+      "word": "supervise",
+      "lemma": "supervise",
+      "level": "B2",
+      "hebrew": "לְפַקֵּחַ, לְהַשְׁגִּיחַ",
+      "explanation_hebrew": "לְנַהֵל אוֹ לְפַקֵּחַ עַל פְּעֻלָּה",
+      "pronunciation_hebrew": "סוּפֶּרְוַייְז",
+      "example": "Only a doctor can supervise the test."
+    },
+    {
+      "word": "possessing",
+      "lemma": "possess",
+      "level": "B2",
+      "hebrew": "מַחֲזִיק בְּ",
+      "explanation_hebrew": "יֵשׁ לוֹ אוֹ מַחֲזִיק מַשֶּׁהוּ",
+      "pronunciation_hebrew": "פּוֹזֶסִינְג",
+      "example": "People can be fined for possessing the kit."
+    },
+    {
+      "word": "sensitive",
+      "lemma": "sensitive",
+      "level": "B2",
+      "hebrew": "רָגִישׁ",
+      "explanation_hebrew": "מַשֶּׁהוּ פְּרָטִי שֶׁצָּרִיךְ טִפּוּל זָהִיר",
+      "pronunciation_hebrew": "סֶנְסִיטִיב",
+      "example": "Genetic data is very sensitive."
+    },
+    {
+      "word": "criminalises",
+      "lemma": "criminalise",
+      "level": "C2",
+      "hebrew": "מַפְלִיל, הוֹפֵךְ לְעֲבֵרָה",
+      "explanation_hebrew": "הוֹפֵךְ מַעֲשֶׂה לְבִלְתִּי חֻקִּי",
+      "pronunciation_hebrew": "קְרִימִינַלַייְזֶס",
+      "example": "France criminalises the use of home tests."
+    },
+    {
+      "word": "legislation",
+      "lemma": "legislation",
+      "level": "C1",
+      "hebrew": "חֲקִיקָה",
+      "explanation_hebrew": "מַעֲרֶכֶת שֶׁל חֻקִּים",
+      "pronunciation_hebrew": "לֶגִ'יסְלֵישְׁן",
+      "example": "No such legislation existed at the time."
+    },
+    {
+      "word": "articulate",
+      "lemma": "articulate",
+      "level": "C1",
+      "hebrew": "לְנַסֵּחַ בְּבֵרוּר",
+      "explanation_hebrew": "לְבַטֵּא מַחֲשָׁבוֹת אוֹ רְגָשׁוֹת בְּבֵרוּר",
+      "pronunciation_hebrew": "אַרְטִיקְיוּלֵייט",
+      "example": "He could articulate feelings she found hard to express."
+    },
+    {
+      "word": "platonic",
+      "lemma": "platonic",
+      "level": "C1",
+      "hebrew": "אַפְלָטוֹנִי, יְדִידוּתִי",
+      "explanation_hebrew": "יַחַס קָרוֹב בְּלִי מֵמַד רוֹמַנְטִי",
+      "pronunciation_hebrew": "פְּלָטוֹנִיק",
+      "example": "They began as a platonic friendship."
+    },
+    {
+      "word": "charlatan",
+      "lemma": "charlatan",
+      "level": "C2",
+      "hebrew": "שַׁרְלָטָן, נוֹכֵל",
+      "explanation_hebrew": "אָדָם שֶׁמַּעֲמִיד פְּנֵי מֻמְחֶה כְּדֵי לִרְמוֹת",
+      "pronunciation_hebrew": "שַׁרְלָטָן",
+      "example": "They worried the doctor was a charlatan."
+    },
+    {
+      "word": "unease",
+      "lemma": "unease",
+      "level": "C1",
+      "hebrew": "אִי נוֹחוּת, מוּעָקָה",
+      "explanation_hebrew": "הַרְגָּשָׁה שֶׁל דְּאָגָה אוֹ חֹסֶר נוֹחוּת",
+      "pronunciation_hebrew": "אַנְאִיז",
+      "example": "Their unease remained after the test."
+    },
+    {
+      "word": "determined",
+      "lemma": "determined",
+      "level": "B2",
+      "hebrew": "נֶחוּשׁ, מַחְלִיט",
+      "explanation_hebrew": "מַחְלִיט בְּתֹקֶף לַעֲשׂוֹת מַשֶּׁהוּ",
+      "pronunciation_hebrew": "דִּיטֶרְמִינְד",
+      "example": "She was determined to act within the law."
+    },
+    {
+      "word": "anonymous",
+      "lemma": "anonymous",
+      "level": "B2",
+      "hebrew": "אַלְמוֹנִי, בְּעִלּוּם שֵׁם",
+      "explanation_hebrew": "בְּלִי שֶׁהַזֶּהוּת יְדוּעָה",
+      "pronunciation_hebrew": "אַנוֹנִימֶס",
+      "example": "He wished to remain anonymous."
+    },
+    {
+      "word": "appeal",
+      "lemma": "appeal",
+      "level": "C1",
+      "hebrew": "עִרְעוּר",
+      "explanation_hebrew": "בַּקָּשָׁה מִבֵּית מִשְׁפָּט לְשַׁנּוֹת הַחְלָטָה",
+      "pronunciation_hebrew": "אַפִּיל",
+      "example": "The court rejected her final appeal."
+    },
+    {
+      "word": "administrative",
+      "lemma": "administrative",
+      "level": "C1",
+      "hebrew": "מִנְהָלִי",
+      "explanation_hebrew": "קָשׁוּר לְנִהוּל אוֹ לְמִנְהָל צִבּוּרִי",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵיטִיב",
+      "example": "The highest administrative court ruled against her."
+    },
+    {
+      "word": "respective",
+      "lemma": "respective",
+      "level": "C1",
+      "hebrew": "בְּהֶתְאֵם, שֶׁל כָּל אֶחָד",
+      "explanation_hebrew": "מִתְיַחֵס לְכָל אֶחָד בְּנִפְרָד",
+      "pronunciation_hebrew": "רִיסְפֶּקְטִיב",
+      "example": "They asked about their respective donors."
+    },
+    {
+      "word": "practitioner",
+      "lemma": "practitioner",
+      "level": "C1",
+      "hebrew": "עוֹסֵק מִקְצוֹעִי, רוֹפֵא",
+      "explanation_hebrew": "אָדָם שֶׁעוֹסֵק בְּמִקְצוֹעַ כְּמוֹ רְפוּאָה",
+      "pronunciation_hebrew": "פְּרַקְטִישְׁנֶר",
+      "example": "A medical practitioner can access this data."
+    },
+    {
+      "word": "resisting",
+      "lemma": "resist",
+      "level": "B2",
+      "hebrew": "מִתְנַגֵּד, מְסָרֵב",
+      "explanation_hebrew": "לֹא מַסְכִּים לַעֲשׂוֹת אוֹ לְקַבֵּל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "רִיזִיסְטִינְג",
+      "example": "After years of resisting, they took the test."
+    },
+    {
+      "word": "advocacy",
+      "lemma": "advocacy",
+      "level": "C1",
+      "hebrew": "סָנֵגוֹרְיָה, קִדּוּם עֶמְדָּה",
+      "explanation_hebrew": "פְּעִילוּת לְמַעַן מַטָּרָה אוֹ קְבוּצָה",
+      "pronunciation_hebrew": "אַדְבוֹקַסִי",
+      "example": "The advocacy group supports donor children."
+    },
+    {
+      "word": "obtainable",
+      "lemma": "obtainable",
+      "level": "C1",
+      "hebrew": "נִתָּן לְהַשָּׂגָה",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁאֶפְשָׁר לְקַבֵּל אוֹ לְהַשִּׂיג",
+      "pronunciation_hebrew": "אוֹבְּטֵיינֶבְּל",
+      "example": "The kits are legally obtainable abroad."
+    },
+    {
+      "word": "pleaded",
+      "lemma": "plead",
+      "level": "C1",
+      "hebrew": "טָעַן, יִצֵּג בְּמִשְׁפָּט",
+      "explanation_hebrew": "הִצִּיג טְעָנוֹת בְּבֵית מִשְׁפָּט",
+      "pronunciation_hebrew": "פְּלִידֶד",
+      "example": "She had pleaded the woman's case in court."
+    },
+    {
+      "word": "immeasurable",
+      "lemma": "immeasurable",
+      "level": "C2",
+      "hebrew": "לְאֵין שִׁעוּר, שֶׁאֵין לְמָדְדוֹ",
+      "explanation_hebrew": "כָּל כָּךְ גָּדוֹל שֶׁאִי אֶפְשָׁר לִמְדֹּד אוֹתוֹ",
+      "pronunciation_hebrew": "אִימֶזֶ'רֶבְּל",
+      "example": "She called his gift immeasurable."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "donor",
+      "type": "english_to_hebrew",
+      "question": "What does “donor” mean?",
+      "options": [
+        "פְּעִילִים",
+        "תּוֹרֵם",
+        "דּוֹחֵק, בּוֹעֵר",
+        "אַלְמוֹנִיּוּת"
+      ],
+      "correct_answer": "תּוֹרֵם",
+      "explanation_hebrew": "“donor” = תּוֹרֵם – אָדָם שֶׁנּוֹתֵן מַשֶּׁהוּ, כְּמוֹ תָּא זֶרַע אוֹ אֵיבָר"
+    },
+    {
+      "id": "C-q2",
+      "word": "pressing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דּוֹחֵק, בּוֹעֵר”?",
+      "options": [
+        "anonymity",
+        "pressing",
+        "activists",
+        "governing"
+      ],
+      "correct_answer": "pressing",
+      "explanation_hebrew": "דּוֹחֵק, בּוֹעֵר = “pressing” – דָּחוּף וְחָשׁוּב שֶׁדּוֹרֵשׁ תְּשׂוּמֶת לֵב מִיָּד"
+    },
+    {
+      "id": "C-q3",
+      "word": "activists",
+      "type": "english_to_hebrew",
+      "question": "What does “activists” mean?",
+      "options": [
+        "לְפַקֵּחַ, לְהַשְׁגִּיחַ",
+        "פְּעִילִים",
+        "מַסְדִּיר, שׁוֹלֵט בְּ",
+        "אַלְמוֹנִיּוּת"
+      ],
+      "correct_answer": "פְּעִילִים",
+      "explanation_hebrew": "“activists” = פְּעִילִים – אֲנָשִׁים שֶׁפּוֹעֲלִים לְמַעַן שִׁנּוּי חֶבְרָתִי"
+    },
+    {
+      "id": "C-q4",
+      "word": "anonymity",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אַלְמוֹנִיּוּת”?",
+      "options": [
+        "governing",
+        "anonymity",
+        "supervise",
+        "possessing"
+      ],
+      "correct_answer": "anonymity",
+      "explanation_hebrew": "אַלְמוֹנִיּוּת = “anonymity” – מַצָּב שֶׁבּוֹ זֶהוּתְךָ אֵינָהּ יְדוּעָה"
+    },
+    {
+      "id": "C-q5",
+      "word": "governing",
+      "type": "english_to_hebrew",
+      "question": "What does “governing” mean?",
+      "options": [
+        "לְפַקֵּחַ, לְהַשְׁגִּיחַ",
+        "רָגִישׁ",
+        "מַסְדִּיר, שׁוֹלֵט בְּ",
+        "מַחֲזִיק בְּ"
+      ],
+      "correct_answer": "מַסְדִּיר, שׁוֹלֵט בְּ",
+      "explanation_hebrew": "“governing” = מַסְדִּיר, שׁוֹלֵט בְּ – קוֹבֵעַ אֶת הַכְּלָלִים לְמַשֶּׁהוּ"
+    },
+    {
+      "id": "C-q6",
+      "word": "supervise",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְפַקֵּחַ, לְהַשְׁגִּיחַ”?",
+      "options": [
+        "criminalises",
+        "possessing",
+        "supervise",
+        "sensitive"
+      ],
+      "correct_answer": "supervise",
+      "explanation_hebrew": "לְפַקֵּחַ, לְהַשְׁגִּיחַ = “supervise” – לְנַהֵל אוֹ לְפַקֵּחַ עַל פְּעֻלָּה"
+    },
+    {
+      "id": "C-q7",
+      "word": "possessing",
+      "type": "english_to_hebrew",
+      "question": "What does “possessing” mean?",
+      "options": [
+        "רָגִישׁ",
+        "חֲקִיקָה",
+        "מַפְלִיל, הוֹפֵךְ לְעֲבֵרָה",
+        "מַחֲזִיק בְּ"
+      ],
+      "correct_answer": "מַחֲזִיק בְּ",
+      "explanation_hebrew": "“possessing” = מַחֲזִיק בְּ – יֵשׁ לוֹ אוֹ מַחֲזִיק מַשֶּׁהוּ"
+    },
+    {
+      "id": "C-q8",
+      "word": "sensitive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רָגִישׁ”?",
+      "options": [
+        "sensitive",
+        "articulate",
+        "legislation",
+        "criminalises"
+      ],
+      "correct_answer": "sensitive",
+      "explanation_hebrew": "רָגִישׁ = “sensitive” – מַשֶּׁהוּ פְּרָטִי שֶׁצָּרִיךְ טִפּוּל זָהִיר"
+    },
+    {
+      "id": "C-q9",
+      "word": "criminalises",
+      "type": "english_to_hebrew",
+      "question": "What does “criminalises” mean?",
+      "options": [
+        "מַפְלִיל, הוֹפֵךְ לְעֲבֵרָה",
+        "לְנַסֵּחַ בְּבֵרוּר",
+        "חֲקִיקָה",
+        "אַפְלָטוֹנִי, יְדִידוּתִי"
+      ],
+      "correct_answer": "מַפְלִיל, הוֹפֵךְ לְעֲבֵרָה",
+      "explanation_hebrew": "“criminalises” = מַפְלִיל, הוֹפֵךְ לְעֲבֵרָה – הוֹפֵךְ מַעֲשֶׂה לְבִלְתִּי חֻקִּי"
+    },
+    {
+      "id": "C-q10",
+      "word": "legislation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חֲקִיקָה”?",
+      "options": [
+        "articulate",
+        "charlatan",
+        "platonic",
+        "legislation"
+      ],
+      "correct_answer": "legislation",
+      "explanation_hebrew": "חֲקִיקָה = “legislation” – מַעֲרֶכֶת שֶׁל חֻקִּים"
+    },
+    {
+      "id": "C-q11",
+      "word": "articulate",
+      "type": "english_to_hebrew",
+      "question": "What does “articulate” mean?",
+      "options": [
+        "לְנַסֵּחַ בְּבֵרוּר",
+        "שַׁרְלָטָן, נוֹכֵל",
+        "אִי נוֹחוּת, מוּעָקָה",
+        "אַפְלָטוֹנִי, יְדִידוּתִי"
+      ],
+      "correct_answer": "לְנַסֵּחַ בְּבֵרוּר",
+      "explanation_hebrew": "“articulate” = לְנַסֵּחַ בְּבֵרוּר – לְבַטֵּא מַחֲשָׁבוֹת אוֹ רְגָשׁוֹת בְּבֵרוּר"
+    },
+    {
+      "id": "C-q12",
+      "word": "platonic",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אַפְלָטוֹנִי, יְדִידוּתִי”?",
+      "options": [
+        "charlatan",
+        "determined",
+        "platonic",
+        "unease"
+      ],
+      "correct_answer": "platonic",
+      "explanation_hebrew": "אַפְלָטוֹנִי, יְדִידוּתִי = “platonic” – יַחַס קָרוֹב בְּלִי מֵמַד רוֹמַנְטִי"
+    },
+    {
+      "id": "C-q13",
+      "word": "charlatan",
+      "type": "english_to_hebrew",
+      "question": "What does “charlatan” mean?",
+      "options": [
+        "שַׁרְלָטָן, נוֹכֵל",
+        "נֶחוּשׁ, מַחְלִיט",
+        "אִי נוֹחוּת, מוּעָקָה",
+        "אַלְמוֹנִי, בְּעִלּוּם שֵׁם"
+      ],
+      "correct_answer": "שַׁרְלָטָן, נוֹכֵל",
+      "explanation_hebrew": "“charlatan” = שַׁרְלָטָן, נוֹכֵל – אָדָם שֶׁמַּעֲמִיד פְּנֵי מֻמְחֶה כְּדֵי לִרְמוֹת"
+    },
+    {
+      "id": "C-q14",
+      "word": "unease",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אִי נוֹחוּת, מוּעָקָה”?",
+      "options": [
+        "determined",
+        "anonymous",
+        "unease",
+        "appeal"
+      ],
+      "correct_answer": "unease",
+      "explanation_hebrew": "אִי נוֹחוּת, מוּעָקָה = “unease” – הַרְגָּשָׁה שֶׁל דְּאָגָה אוֹ חֹסֶר נוֹחוּת"
+    },
+    {
+      "id": "C-q15",
+      "word": "determined",
+      "type": "english_to_hebrew",
+      "question": "What does “determined” mean?",
+      "options": [
+        "אַלְמוֹנִי, בְּעִלּוּם שֵׁם",
+        "נֶחוּשׁ, מַחְלִיט",
+        "מִנְהָלִי",
+        "עִרְעוּר"
+      ],
+      "correct_answer": "נֶחוּשׁ, מַחְלִיט",
+      "explanation_hebrew": "“determined” = נֶחוּשׁ, מַחְלִיט – מַחְלִיט בְּתֹקֶף לַעֲשׂוֹת מַשֶּׁהוּ"
+    },
+    {
+      "id": "C-q16",
+      "word": "anonymous",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אַלְמוֹנִי, בְּעִלּוּם שֵׁם”?",
+      "options": [
+        "appeal",
+        "anonymous",
+        "respective",
+        "administrative"
+      ],
+      "correct_answer": "anonymous",
+      "explanation_hebrew": "אַלְמוֹנִי, בְּעִלּוּם שֵׁם = “anonymous” – בְּלִי שֶׁהַזֶּהוּת יְדוּעָה"
+    },
+    {
+      "id": "C-q17",
+      "word": "appeal",
+      "type": "english_to_hebrew",
+      "question": "What does “appeal” mean?",
+      "options": [
+        "מִנְהָלִי",
+        "עִרְעוּר",
+        "עוֹסֵק מִקְצוֹעִי, רוֹפֵא",
+        "בְּהֶתְאֵם, שֶׁל כָּל אֶחָד"
+      ],
+      "correct_answer": "עִרְעוּר",
+      "explanation_hebrew": "“appeal” = עִרְעוּר – בַּקָּשָׁה מִבֵּית מִשְׁפָּט לְשַׁנּוֹת הַחְלָטָה"
+    },
+    {
+      "id": "C-q18",
+      "word": "administrative",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מִנְהָלִי”?",
+      "options": [
+        "practitioner",
+        "resisting",
+        "respective",
+        "administrative"
+      ],
+      "correct_answer": "administrative",
+      "explanation_hebrew": "מִנְהָלִי = “administrative” – קָשׁוּר לְנִהוּל אוֹ לְמִנְהָל צִבּוּרִי"
+    },
+    {
+      "id": "C-q19",
+      "word": "respective",
+      "type": "english_to_hebrew",
+      "question": "What does “respective” mean?",
+      "options": [
+        "בְּהֶתְאֵם, שֶׁל כָּל אֶחָד",
+        "עוֹסֵק מִקְצוֹעִי, רוֹפֵא",
+        "מִתְנַגֵּד, מְסָרֵב",
+        "סָנֵגוֹרְיָה, קִדּוּם עֶמְדָּה"
+      ],
+      "correct_answer": "בְּהֶתְאֵם, שֶׁל כָּל אֶחָד",
+      "explanation_hebrew": "“respective” = בְּהֶתְאֵם, שֶׁל כָּל אֶחָד – מִתְיַחֵס לְכָל אֶחָד בְּנִפְרָד"
+    },
+    {
+      "id": "C-q20",
+      "word": "practitioner",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עוֹסֵק מִקְצוֹעִי, רוֹפֵא”?",
+      "options": [
+        "practitioner",
+        "advocacy",
+        "obtainable",
+        "resisting"
+      ],
+      "correct_answer": "practitioner",
+      "explanation_hebrew": "עוֹסֵק מִקְצוֹעִי, רוֹפֵא = “practitioner” – אָדָם שֶׁעוֹסֵק בְּמִקְצוֹעַ כְּמוֹ רְפוּאָה"
+    },
+    {
+      "id": "C-q21",
+      "word": "resisting",
+      "type": "english_to_hebrew",
+      "question": "What does “resisting” mean?",
+      "options": [
+        "סָנֵגוֹרְיָה, קִדּוּם עֶמְדָּה",
+        "מִתְנַגֵּד, מְסָרֵב",
+        "נִתָּן לְהַשָּׂגָה",
+        "טָעַן, יִצֵּג בְּמִשְׁפָּט"
+      ],
+      "correct_answer": "מִתְנַגֵּד, מְסָרֵב",
+      "explanation_hebrew": "“resisting” = מִתְנַגֵּד, מְסָרֵב – לֹא מַסְכִּים לַעֲשׂוֹת אוֹ לְקַבֵּל מַשֶּׁהוּ"
+    },
+    {
+      "id": "C-q22",
+      "word": "advocacy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סָנֵגוֹרְיָה, קִדּוּם עֶמְדָּה”?",
+      "options": [
+        "pleaded",
+        "obtainable",
+        "immeasurable",
+        "advocacy"
+      ],
+      "correct_answer": "advocacy",
+      "explanation_hebrew": "סָנֵגוֹרְיָה, קִדּוּם עֶמְדָּה = “advocacy” – פְּעִילוּת לְמַעַן מַטָּרָה אוֹ קְבוּצָה"
+    },
+    {
+      "id": "C-q23",
+      "word": "obtainable",
+      "type": "english_to_hebrew",
+      "question": "What does “obtainable” mean?",
+      "options": [
+        "נִתָּן לְהַשָּׂגָה",
+        "לְאֵין שִׁעוּר, שֶׁאֵין לְמָדְדוֹ",
+        "תּוֹרֵם",
+        "טָעַן, יִצֵּג בְּמִשְׁפָּט"
+      ],
+      "correct_answer": "נִתָּן לְהַשָּׂגָה",
+      "explanation_hebrew": "“obtainable” = נִתָּן לְהַשָּׂגָה – מַשֶּׁהוּ שֶׁאֶפְשָׁר לְקַבֵּל אוֹ לְהַשִּׂיג"
+    },
+    {
+      "id": "C-q24",
+      "word": "pleaded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “טָעַן, יִצֵּג בְּמִשְׁפָּט”?",
+      "options": [
+        "immeasurable",
+        "donor",
+        "pleaded",
+        "pressing"
+      ],
+      "correct_answer": "pleaded",
+      "explanation_hebrew": "טָעַן, יִצֵּג בְּמִשְׁפָּט = “pleaded” – הִצִּיג טְעָנוֹת בְּבֵית מִשְׁפָּט"
+    },
+    {
+      "id": "C-q25",
+      "word": "immeasurable",
+      "type": "english_to_hebrew",
+      "question": "What does “immeasurable” mean?",
+      "options": [
+        "לְאֵין שִׁעוּר, שֶׁאֵין לְמָדְדוֹ",
+        "תּוֹרֵם",
+        "דּוֹחֵק, בּוֹעֵר",
+        "פְּעִילִים"
+      ],
+      "correct_answer": "לְאֵין שִׁעוּר, שֶׁאֵין לְמָדְדוֹ",
+      "explanation_hebrew": "“immeasurable” = לְאֵין שִׁעוּר, שֶׁאֵין לְמָדְדוֹ – כָּל כָּךְ גָּדוֹל שֶׁאִי אֶפְשָׁר לִמְדֹּד אוֹתוֹ"
+    }
+  ]
+}
