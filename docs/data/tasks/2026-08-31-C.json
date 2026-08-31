@@ -1,0 +1,183 @@
+{
+  "date": "2026-08-31",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "The US-Canada trade war in 5 charts",
+  "article_url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main purpose?",
+      "difficulty": "C",
+      "options": [
+        "To use economic data to explain how the US-Canada tariff conflict is affecting regions, trade, jobs and consumers",
+        "To announce that the US and Canada have signed a new free-trade agreement",
+        "To argue that tariffs affect only politicians and never businesses",
+        "To compare Canada's economy exclusively with China's economy"
+      ],
+      "correct_answer": "To use economic data to explain how the US-Canada tariff conflict is affecting regions, trade, jobs and consumers",
+      "explanation_hebrew": "הכתבה משתמשת בחמישה נושאים מבוססי נתונים כדי להמחיש את השפעות מלחמת הסחר משני צדי הגבול."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which Canadian province has been hit hardest by US auto and steel tariffs?",
+      "difficulty": "C",
+      "options": [
+        "Alberta",
+        "Ontario",
+        "Prince Edward Island",
+        "Newfoundland and Labrador"
+      ],
+      "correct_answer": "Ontario",
+      "explanation_hebrew": "אונטריו, שבה מגזר ייצור גדול ותעשיות רכב ופלדה, מתוארת כנפגעת ביותר."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Canada's average effective US tariff rate change after the latest measures?",
+      "difficulty": "C",
+      "options": [
+        "It fell from 5.7% to 2.9%",
+        "It remained fixed at 20.5%",
+        "It nearly doubled from 2.9% to 5.7%",
+        "It rose above China's rate"
+      ],
+      "correct_answer": "It nearly doubled from 2.9% to 5.7%",
+      "explanation_hebrew": "שיעור המכס האפקטיבי הממוצע על קנדה כמעט הוכפל מ־2.9% ל־5.7%."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might Canada target counter-tariffs at Ohio, Illinois and Pennsylvania?",
+      "difficulty": "C",
+      "options": [
+        "Those states have no economic relationship with Canada",
+        "They are the only states allowed to export steel",
+        "Canada wants to eliminate all American agriculture",
+        "They are politically important swing states where economic pain could influence the midterm balance of power"
+      ],
+      "correct_answer": "They are politically important swing states where economic pain could influence the midterm balance of power",
+      "explanation_hebrew": "הכוונת המכסים למדינות מתנדנדות עשויה ליצור לחץ פוליטי לקראת בחירות האמצע."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “feel the brunt” mean when describing provinces affected by the new tariffs?",
+      "difficulty": "C",
+      "options": [
+        "Receive the largest or most severe share of the impact",
+        "Avoid nearly all economic consequences",
+        "Collect tariffs directly from US households",
+        "Replace manufacturing with financial services"
+      ],
+      "correct_answer": "Receive the largest or most severe share of the impact",
+      "explanation_hebrew": "feel the brunt פירושו לשאת בחלק העיקרי או החמור ביותר של הפגיעה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “warded off recession concerns” mean in the discussion of Canada's GDP rebound?",
+      "difficulty": "C",
+      "options": [
+        "Proved that recessions can never occur in Canada",
+        "Transferred the risk of recession entirely to the US",
+        "Reduced or delayed fears that the economy was entering a recession",
+        "Caused the government to stop measuring GDP"
+      ],
+      "correct_answer": "Reduced or delayed fears that the economy was entering a recession",
+      "explanation_hebrew": "warded off פירושו הרחיק או דחה איום; הנתונים החיוביים הקטינו לעת עתה את החשש ממיתון."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the regional effects of the tariffs in Canada and of Canada's retaliation in the United States.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין אזורים בולטים, ענפים שנפגעו ונתון כמותי אחד לפחות מכל צד כאשר הוא זמין.",
+      "expected_points": [
+        "Ontario is heavily exposed through auto and steel production",
+        "Ontario has lost tens of thousands of manufacturing jobs since early 2025",
+        "Quebec metal exports fell 36% between February 2025 and 2026",
+        "Quebec metal-sector employment fell 3.6%",
+        "British Columbia, Quebec and Ontario are expected to feel much of the latest Canadian impact",
+        "Ohio is expected to be the US state most affected by Canada's response",
+        "C$3.2bn, or 12%, of Ohio's exports are set to face Canadian tariffs",
+        "Ohio steel and washing machines are targeted",
+        "Illinois farm and construction equipment is affected",
+        "Pennsylvania is also among the most exposed states"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can some Canadian businesses diversify away from the US more easily than Ontario manufacturers?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את ההבדל בין מוצר או עסק גמיש לבין שרשראות ייצור אזוריות המשולבות עמוקות בשוק האמריקאי.",
+      "expected_points": [
+        "Some firms can seek customers at trade events in Europe",
+        "Outclass shifted from New York trunk shows to Paris",
+        "European consumers may be especially receptive to Canadian products",
+        "Manufacturing supply chains in Ontario are deeply integrated with the US",
+        "Auto and parts plants depend on cross-border production networks",
+        "Some regions have limited non-US export growth",
+        "Finding replacement markets may not offset broader weakness quickly",
+        "Geographic proximity and decades of free trade created structural dependence"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the five major economic patterns the article identifies in the trade war.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכסות פגיעה אזורית בקנדה, מכסי תגובה בארה״ב, שיעורי מכס, גיוון יצוא והשפעה על תעסוקה והכנסה.",
+      "expected_points": [
+        "Ontario and Quebec are among the Canadian regions most exposed to sectoral tariffs",
+        "Canada's counter-tariffs concentrate pain in politically important US states",
+        "Canada's average effective US tariff rate rose from 2.9% to 5.7%",
+        "The US still buys more than 70% of Canadian exports",
+        "Some Canadian firms are expanding sales outside the US",
+        "Deeply integrated Ontario manufacturers struggle to diversify",
+        "Canada attracted record recent foreign direct investment and GDP rebounded",
+        "About 55,000 Canadian manufacturing jobs were lost from January 2025 to January 2026",
+        "Up to 90,000 Canadian jobs could be lost if the newest tariffs persist",
+        "US households may pay about $840 more on average because of wider Trump tariffs"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced policy recommendation for Canada responding to the trade war. Use evidence from at least three sections of the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע מדיניות באנגלית שמאזנת בין תגובה מיידית, הגנה על צרכנים, גיוון סחר ותמיכה באזורים פגיעים.",
+      "expected_points": [
+        "Target retaliation strategically rather than broadly",
+        "Limit direct costs for Canadian consumers where possible",
+        "Support displaced manufacturing workers in Ontario and Quebec",
+        "Help deeply integrated regions adapt their supply chains",
+        "Promote non-US export markets over the long term",
+        "Build on firms' successful expansion into Europe",
+        "Use investment initiatives to attract new capital",
+        "Preserve the benefits of the rebound in exports and domestic investment",
+        "Prepare for higher costs on industrial inputs",
+        "Seek a negotiated resolution because prolonged tariffs threaten jobs and disposable income"
+      ]
+    }
+  ]
+}

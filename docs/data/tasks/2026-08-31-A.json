@@ -1,0 +1,179 @@
+{
+  "date": "2026-08-31",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Sydney woman recalls how she punched shark during Coogee Beach attack",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3v4px7yv6xo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Leah Stewart's account of surviving a great white shark attack at Sydney's Coogee Beach",
+        "A scientific expedition tracking sharks along Australia's coast",
+        "A campaign to close every beach in Sydney permanently",
+        "A swimming competition won by a mother from Coogee"
+      ],
+      "correct_answer": "Leah Stewart's account of surviving a great white shark attack at Sydney's Coogee Beach",
+      "explanation_hebrew": "הכתבה מביאה את עדותה של לאה סטיוארט על התקיפה, מאבקה בכריש והישרדותה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What motivated Stewart to keep fighting after she was pulled underwater?",
+      "difficulty": "A",
+      "options": [
+        "She wanted to finish her regular swimming route",
+        "She thought about her baby daughter growing up without a mother",
+        "She saw a rescue boat approaching",
+        "She wanted to protect another swimmer's equipment"
+      ],
+      "correct_answer": "She thought about her baby daughter growing up without a mother",
+      "explanation_hebrew": "סטיוארט סיפרה שהמחשבה על בתה התינוקת אוגוסט נתנה לה כוח להמשיך להיאבק."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What medical treatment did Stewart receive after other swimmers brought her ashore?",
+      "difficulty": "A",
+      "options": [
+        "She was released without surgery",
+        "She received treatment only at the beach",
+        "She was placed in an induced coma and underwent almost a dozen operations",
+        "She had both legs amputated immediately"
+      ],
+      "correct_answer": "She was placed in an induced coma and underwent almost a dozen operations",
+      "explanation_hebrew": "לאחר החילוץ היא הוכנסה לתרדמת יזומה ועברה כמעט תריסר ניתוחים."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Stewart prefer to be remembered as the woman who punched the shark?",
+      "difficulty": "A",
+      "options": [
+        "She wants people to believe the attack never happened",
+        "She plans to become a professional boxer",
+        "She thinks the shark was harmless",
+        "It presents her as active and courageous rather than only as a victim"
+      ],
+      "correct_answer": "It presents her as active and courageous rather than only as a victim",
+      "explanation_hebrew": "הניסוח מדגיש את פעולתה ואת כוח ההתמודדות שלה, במקום להגדיר אותה רק לפי הפציעה."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “shrill shriek” mean in the description of the warning Stewart heard?",
+      "difficulty": "A",
+      "options": [
+        "A quiet instruction from a lifeguard",
+        "A loud, high-pitched scream",
+        "The sound of a boat engine",
+        "A repeated whistle used in a race"
+      ],
+      "correct_answer": "A loud, high-pitched scream",
+      "explanation_hebrew": "shrill shriek הוא צעקה חדה, גבוהה וחזקה שמעידה כאן על סכנה."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “harrowing experience” mean near the end of the article?",
+      "difficulty": "A",
+      "options": [
+        "A routine event that caused no concern",
+        "A humorous story told by other swimmers",
+        "A deeply distressing and frightening event",
+        "A medical procedure that was completely painless"
+      ],
+      "correct_answer": "A deeply distressing and frightening event",
+      "explanation_hebrew": "harrowing מתאר חוויה קשה מאוד, מפחידה ומטלטלת."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the sequence from Stewart first noticing danger until the shark released her.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לתאר את האירועים לפי הסדר ולכלול לפחות ארבעה פרטים מדויקים.",
+      "expected_points": [
+        "She heard another swimmer give a sharp scream",
+        "She saw a very large fin and realised it was not a dolphin",
+        "The shark approached until they were nearly face-to-face",
+        "She tried a left hook because she is right-handed",
+        "The shark bit and tore her left forearm",
+        "It grabbed her leg and pulled her underwater",
+        "She thought of her daughter and repeatedly punched the shark",
+        "A strong punch apparently caused it to release her"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What details show both calm thinking and extreme danger during the attack?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להביא ראיות לשיקול הדעת של סטיוארט לצד ראיות לעוצמת הסכנה.",
+      "expected_points": [
+        "She assessed the shark's size and recognised it was not a dolphin",
+        "She noticed it was about 30cm from her face",
+        "She deliberately chose to strike with her left arm",
+        "She remained focused on surviving for her daughter",
+        "The shark was about four metres long",
+        "It tore skin and muscle from her arm",
+        "It bit her thigh and arms and caused extreme blood loss",
+        "It dragged her underwater",
+        "Fighting it felt like punching a brick wall"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the attack, Stewart's response, her rescue and her recovery.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מקום התקיפה, הפציעות, המאבק, החילוץ והמסר שבו היא בוחרת להציג את עצמה.",
+      "expected_points": [
+        "Stewart was returning from her regular swim at Coogee Beach",
+        "A four-metre great white shark attacked her",
+        "She suffered severe injuries to her thigh and arms",
+        "She fought back by punching the shark repeatedly",
+        "Thoughts of her baby daughter motivated her to survive",
+        "Other swimmers pulled her ashore",
+        "She was placed in an induced coma and had almost a dozen operations",
+        "Doctors amputated her left arm",
+        "She wants to be remembered for fighting back rather than only for being mauled"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief account of Stewart's survival for a safety lesson, using at least three facts from the article without sensationalising the event.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית בטון עובדתי ומכבד, לשלב לפחות שלוש עובדות ולהימנע מהגזמה או מעצות שאינן מופיעות בכתבה.",
+      "expected_points": [
+        "Identify Coogee Beach as the location",
+        "Explain how she first became aware of the danger",
+        "Describe the shark as a four-metre great white",
+        "Mention her focused decision to fight back",
+        "Explain that thoughts of her daughter motivated her",
+        "State that other swimmers helped her reach shore",
+        "Describe the serious medical treatment accurately",
+        "End with her preferred message of courage and agency"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-31",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "'A giant leap forward': Nasa launches powerful new space telescope",
+  "article_url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "The launch and scientific goals of Nasa's Nancy Grace Roman Space Telescope",
+        "A repair mission to bring the Hubble telescope back to Earth",
+        "A plan to build a telescope on the surface of the Moon",
+        "The discovery of dark matter by the James Webb telescope"
+      ],
+      "correct_answer": "The launch and scientific goals of Nasa's Nancy Grace Roman Space Telescope",
+      "explanation_hebrew": "הכתבה עוסקת בשיגור טלסקופ רומן, במסעו לנקודת התצפית ובמחקרים שהוא צפוי לבצע."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does Roman's field of vision compare with Hubble's and James Webb's?",
+      "difficulty": "B",
+      "options": [
+        "It is four times smaller",
+        "It is about 100 times larger",
+        "It is exactly the same size",
+        "It can view only objects inside our solar system"
+      ],
+      "correct_answer": "It is about 100 times larger",
+      "explanation_hebrew": "לפי נאס״א, שדה הראייה של רומן גדול פי 100 מזה של האבל ושל ג׳יימס וב."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why will Roman operate about one million miles from Earth?",
+      "difficulty": "B",
+      "options": [
+        "To communicate directly with astronauts on Mars",
+        "To avoid all gravitational forces",
+        "To reduce interference from infrared light coming from Earth and the Moon",
+        "To remain close enough for weekly repairs"
+      ],
+      "correct_answer": "To reduce interference from infrared light coming from Earth and the Moon",
+      "explanation_hebrew": "המרחק עוזר למצלמות האינפרה־אדום להימנע מהפרעה של אור חום מכדור הארץ ומהירח."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is Roman's wide field of vision especially useful for its mission?",
+      "difficulty": "B",
+      "options": [
+        "It eliminates the need for any scientific instruments",
+        "It lets the telescope land on newly discovered planets",
+        "It makes dark matter visible to the human eye",
+        "It allows large surveys and maps covering many galaxies and potential exoplanets"
+      ],
+      "correct_answer": "It allows large surveys and maps covering many galaxies and potential exoplanets",
+      "explanation_hebrew": "שדה רחב מאפשר לסרוק אזורים עצומים, למפות מיליארדי גלקסיות ולאתר עולמות רבים ביעילות."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “vantage point” mean in the description of Roman's destination?",
+      "difficulty": "B",
+      "options": [
+        "A location that provides a useful position for observation",
+        "A rocket engine used during launch",
+        "A protective cover for an infrared camera",
+        "A database containing the names of exoplanets"
+      ],
+      "correct_answer": "A location that provides a useful position for observation",
+      "explanation_hebrew": "vantage point הוא מקום או עמדה שמעניקים תנאים טובים לתצפית."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “gravitational glue” suggest about dark matter?",
+      "difficulty": "B",
+      "options": [
+        "It produces visible light around every galaxy",
+        "It pushes galaxies apart at increasing speed",
+        "Its gravity helps hold cosmic structures together",
+        "It is a material used to assemble telescopes"
+      ],
+      "correct_answer": "Its gravity helps hold cosmic structures together",
+      "explanation_hebrew": "הביטוי המטפורי gravitational glue מתאר את כוח הכבידה של החומר האפל שמסייע להחזיק מבנים קוסמיים יחד."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give five facts about Roman's launch, journey and expected operating life.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין חמש עובדות מדויקות על השיגור, ההיפרדות מהטיל, היעד, משך המסע או חיי המשימה.",
+      "expected_points": [
+        "It launched on Sunday morning from Kennedy Space Center in Florida",
+        "It travelled on a SpaceX Falcon Heavy rocket",
+        "It separated from the rocket about 30 minutes after launch",
+        "It is making a journey of about 100 days",
+        "Its destination is roughly one million miles from Earth",
+        "It will orbit the Sun from that distant point",
+        "Its primary mission is planned for five years",
+        "Nasa hopes it can operate for 10 years"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How will Roman complement rather than simply replace Hubble and James Webb?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות בין שדה הראייה, המיקום וסוג המחקר ולהסביר כיצד היכולות משלימות זו את זו.",
+      "expected_points": [
+        "Roman's field of vision is about 100 times wider",
+        "Its broad surveys can map very large areas efficiently",
+        "James Webb also operates about one million miles away but has a narrower view",
+        "Hubble observes from only about 300 miles above Earth",
+        "Roman can identify large populations of galaxies and exoplanets",
+        "Other telescopes may provide more detailed observations of selected objects",
+        "Roman's panoramic maps add a different scale of evidence to existing observatories"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Roman's capabilities, its principal scientific questions and the importance of its namesake.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את יכולת הסריקה, מחקר כוכבי הלכת והיקום, חומר ואנרגיה אפלים, וכן את תרומתה של ננסי גרייס רומן.",
+      "expected_points": [
+        "Roman is a powerful next-generation space telescope",
+        "It has a field of vision 100 times larger than Hubble's and Webb's",
+        "It may discover tens of thousands or even 100,000 exoplanets",
+        "It will help assess whether distant worlds could be habitable",
+        "It will map billions of galaxies",
+        "It will investigate dark matter and dark energy",
+        "Together dark matter and dark energy are thought to make up about 95% of the Universe",
+        "It is named for Nasa's first chief astronomer and first female executive",
+        "Nancy Grace Roman helped secure approval for Hubble"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short explanation for a general audience of why Roman may change our understanding of the Universe. Use at least three facts from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית ברורה, להסביר את חשיבות המשימה ולהשתמש לפחות בשלוש עובדות קונקרטיות.",
+      "expected_points": [
+        "Explain the advantage of a field of vision 100 times larger than earlier telescopes",
+        "Mention the expected discovery of many exoplanets",
+        "Connect exoplanet research to the question of habitability or life",
+        "Describe the planned maps of billions of galaxies",
+        "Explain that dark matter and dark energy are known through their effects",
+        "Mention Roman's distant observing position",
+        "Use the onion-layer analogy only as a paraphrased explanation of cosmic history",
+        "Avoid claiming that the mission has already solved these mysteries"
+      ]
+    }
+  ]
+}
