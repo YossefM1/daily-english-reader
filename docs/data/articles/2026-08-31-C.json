@@ -1,0 +1,600 @@
+{
+  "date": "2026-08-31",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "The US-Canada trade war in 5 charts",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-08-31T00:05:22+00:00",
+  "age_hours_at_selection": 2.11,
+  "word_count": 1364,
+  "generated_at": "2026-08-31T02:11:46.957480+00:00",
+  "difficulty_reason": "Long, data-dense economic analysis with complex sentences, B2/C1/C2 trade vocabulary, and background knowledge of tariffs and politics.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "resolving",
+      "lemma": "resolve",
+      "level": "B2",
+      "hebrew": "לפתור (סכסוך)",
+      "explanation_hebrew": "למצוא פתרון לבעיה או למחלוקת",
+      "pronunciation_hebrew": "רִיזוֹלְבִינְג",
+      "example": "They are close to resolving the dispute."
+    },
+    {
+      "word": "dispute",
+      "lemma": "dispute",
+      "level": "B2",
+      "hebrew": "סכסוך, מחלוקת",
+      "explanation_hebrew": "ויכוח או אי-הסכמה רצינית",
+      "pronunciation_hebrew": "דִיסְפְּיוּט",
+      "example": "The two firms had a legal dispute."
+    },
+    {
+      "word": "simmering",
+      "lemma": "simmer",
+      "level": "C1",
+      "hebrew": "רוחש, מתבשל על אש קטנה",
+      "explanation_hebrew": "מתח שמתקיים מתחת לפני השטח לאורך זמן",
+      "pronunciation_hebrew": "סִימֶרִינְג",
+      "example": "Tensions were simmering for months."
+    },
+    {
+      "word": "unleashed",
+      "lemma": "unleash",
+      "level": "C1",
+      "hebrew": "שיחרר, הביא לפתע",
+      "explanation_hebrew": "גרם לכוח גדול להיפרץ החוצה",
+      "pronunciation_hebrew": "אַנְלִישְׁד",
+      "example": "The policy unleashed a wave of protests."
+    },
+    {
+      "word": "levies",
+      "lemma": "levy",
+      "level": "C1",
+      "hebrew": "היטלים, מיסים",
+      "explanation_hebrew": "תשלומים שהמדינה גובה, בעיקר על סחורות",
+      "pronunciation_hebrew": "לֵבִיז",
+      "example": "The government imposed new levies on imports."
+    },
+    {
+      "word": "reciprocal",
+      "lemma": "reciprocal",
+      "level": "C1",
+      "hebrew": "הדדי",
+      "explanation_hebrew": "פועל לשני הכיוונים באופן שווה",
+      "pronunciation_hebrew": "רִיסִיפְּרוֹקַל",
+      "example": "The countries signed a reciprocal deal."
+    },
+    {
+      "word": "imposed",
+      "lemma": "impose",
+      "level": "B2",
+      "hebrew": "הטיל, כפה",
+      "explanation_hebrew": "קבע חוק או תשלום בכוח סמכות",
+      "pronunciation_hebrew": "אִימְפּוֹזְד",
+      "example": "They imposed a tax on sugar."
+    },
+    {
+      "word": "retaliation",
+      "lemma": "retaliation",
+      "level": "C1",
+      "hebrew": "תגמול, נקמה",
+      "explanation_hebrew": "תגובה פוגענית על פגיעה קודמת",
+      "pronunciation_hebrew": "רִיטַלִיאֵיישֶׁן",
+      "example": "The attack was in retaliation for earlier strikes."
+    },
+    {
+      "word": "enduring",
+      "lemma": "enduring",
+      "level": "C1",
+      "hebrew": "מתמשך, ממושך",
+      "explanation_hebrew": "שנמשך זמן רב",
+      "pronunciation_hebrew": "אִינְדְיוּרִינְג",
+      "example": "They share an enduring friendship."
+    },
+    {
+      "word": "exposed",
+      "lemma": "expose",
+      "level": "B2",
+      "hebrew": "חשוף, פגיע",
+      "explanation_hebrew": "לא מוגן מפני סכנה או השפעה",
+      "pronunciation_hebrew": "אֵקְסְפּוֹזְד",
+      "example": "Coastal towns are exposed to storms."
+    },
+    {
+      "word": "comply",
+      "lemma": "comply",
+      "level": "B2",
+      "hebrew": "לציית, לעמוד בדרישות",
+      "explanation_hebrew": "לפעול לפי חוק או כלל",
+      "pronunciation_hebrew": "קוֹמְפְּלַיי",
+      "example": "Firms must comply with the new rules."
+    },
+    {
+      "word": "populous",
+      "lemma": "populous",
+      "level": "C1",
+      "hebrew": "מאוכלס בצפיפות",
+      "explanation_hebrew": "בעל אוכלוסייה גדולה",
+      "pronunciation_hebrew": "פּוֹפְּיוּלַס",
+      "example": "China is a very populous country."
+    },
+    {
+      "word": "layoffs",
+      "lemma": "layoff",
+      "level": "B2",
+      "hebrew": "פיטורים",
+      "explanation_hebrew": "הפסקת עבודה של עובדים מטעמי חיסכון",
+      "pronunciation_hebrew": "לֵייְאוֹפְס",
+      "example": "The company announced major layoffs."
+    },
+    {
+      "word": "brunt",
+      "lemma": "brunt",
+      "level": "C1",
+      "hebrew": "עיקר הנטל, המכה העיקרית",
+      "explanation_hebrew": "החלק הקשה ביותר של פגיעה או לחץ",
+      "pronunciation_hebrew": "בְּרַנְט",
+      "example": "Small firms bore the brunt of the crisis."
+    },
+    {
+      "word": "stark",
+      "lemma": "stark",
+      "level": "C1",
+      "hebrew": "חריף, בולט",
+      "explanation_hebrew": "ברור וחד, לרוב במובן שלילי",
+      "pronunciation_hebrew": "סְטַארְק",
+      "example": "There is a stark contrast between them."
+    },
+    {
+      "word": "deliberately",
+      "lemma": "deliberately",
+      "level": "B2",
+      "hebrew": "במכוון, בכוונה תחילה",
+      "explanation_hebrew": "בכוונה ולא במקרה",
+      "pronunciation_hebrew": "דִילִיבֶּרַטְלִי",
+      "example": "He deliberately ignored the warning."
+    },
+    {
+      "word": "assured",
+      "lemma": "assure",
+      "level": "B2",
+      "hebrew": "הבטיח, הרגיע",
+      "explanation_hebrew": "אמר בביטחון כדי להרגיע מישהו",
+      "pronunciation_hebrew": "אַשׁוּרְד",
+      "example": "She assured us that all was well."
+    },
+    {
+      "word": "proximity",
+      "lemma": "proximity",
+      "level": "C1",
+      "hebrew": "קרבה",
+      "explanation_hebrew": "מרחק קטן, היות סמוך למשהו",
+      "pronunciation_hebrew": "פְּרוֹקְסִימִיטִי",
+      "example": "The house's proximity to the sea is a plus."
+    },
+    {
+      "word": "integrated",
+      "lemma": "integrate",
+      "level": "B2",
+      "hebrew": "משולב, מאוחד",
+      "explanation_hebrew": "מחובר ופועל כמכלול אחד",
+      "pronunciation_hebrew": "אִינְטֶגְרֵייְטֵד",
+      "example": "The two systems are fully integrated."
+    },
+    {
+      "word": "reliant",
+      "lemma": "reliant",
+      "level": "B2",
+      "hebrew": "תלוי (במישהו)",
+      "explanation_hebrew": "זקוק למישהו או למשהו כדי לתפקד",
+      "pronunciation_hebrew": "רִילַייַנְט",
+      "example": "The town is reliant on tourism."
+    },
+    {
+      "word": "pledged",
+      "lemma": "pledge",
+      "level": "B2",
+      "hebrew": "התחייב, נשבע",
+      "explanation_hebrew": "הבטיח באופן רשמי לעשות משהו",
+      "pronunciation_hebrew": "פְּלֵג'ד",
+      "example": "The leader pledged to cut taxes."
+    },
+    {
+      "word": "diversify",
+      "lemma": "diversify",
+      "level": "C1",
+      "hebrew": "לגוון (מקורות)",
+      "explanation_hebrew": "להרחיב את מגוון הפעילויות או השווקים",
+      "pronunciation_hebrew": "דַייְבֶרְסִיפַיי",
+      "example": "Farmers try to diversify their crops."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פגיע, חשוף לסכנה",
+      "explanation_hebrew": "קל לפגוע בו או להזיק לו",
+      "pronunciation_hebrew": "וַולְנֶרַבֶּל",
+      "example": "Elderly people are more vulnerable to illness."
+    },
+    {
+      "word": "offset",
+      "lemma": "offset",
+      "level": "C1",
+      "hebrew": "לקזז, לפצות על",
+      "explanation_hebrew": "לאזן השפעה שלילית בהשפעה חיובית",
+      "pronunciation_hebrew": "אוֹפְסֶט",
+      "example": "New sales helped offset the losses."
+    },
+    {
+      "word": "rebounded",
+      "lemma": "rebound",
+      "level": "C1",
+      "hebrew": "התאושש, התאפס",
+      "explanation_hebrew": "חזר למצב טוב אחרי ירידה",
+      "pronunciation_hebrew": "רִיבַּאונְדֵד",
+      "example": "The economy rebounded after the crisis."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "resolving",
+      "type": "english_to_hebrew",
+      "question": "What does “resolving” mean?",
+      "options": [
+        "סכסוך, מחלוקת",
+        "רוחש, מתבשל על אש קטנה",
+        "לפתור (סכסוך)",
+        "שיחרר, הביא לפתע"
+      ],
+      "correct_answer": "לפתור (סכסוך)",
+      "explanation_hebrew": "“resolving” פירושה לפתור (סכסוך)."
+    },
+    {
+      "id": "C-q2",
+      "word": "dispute",
+      "type": "english_to_hebrew",
+      "question": "What does “dispute” mean?",
+      "options": [
+        "שיחרר, הביא לפתע",
+        "סכסוך, מחלוקת",
+        "רוחש, מתבשל על אש קטנה",
+        "היטלים, מיסים"
+      ],
+      "correct_answer": "סכסוך, מחלוקת",
+      "explanation_hebrew": "“dispute” פירושה סכסוך, מחלוקת."
+    },
+    {
+      "id": "C-q3",
+      "word": "simmering",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רוחש, מתבשל על אש קטנה”?",
+      "options": [
+        "levies",
+        "simmering",
+        "reciprocal",
+        "unleashed"
+      ],
+      "correct_answer": "simmering",
+      "explanation_hebrew": "“simmering” פירושה רוחש, מתבשל על אש קטנה."
+    },
+    {
+      "id": "C-q4",
+      "word": "unleashed",
+      "type": "english_to_hebrew",
+      "question": "What does “unleashed” mean?",
+      "options": [
+        "הדדי",
+        "היטלים, מיסים",
+        "הטיל, כפה",
+        "שיחרר, הביא לפתע"
+      ],
+      "correct_answer": "שיחרר, הביא לפתע",
+      "explanation_hebrew": "“unleashed” פירושה שיחרר, הביא לפתע."
+    },
+    {
+      "id": "C-q5",
+      "word": "levies",
+      "type": "english_to_hebrew",
+      "question": "What does “levies” mean?",
+      "options": [
+        "הטיל, כפה",
+        "היטלים, מיסים",
+        "הדדי",
+        "תגמול, נקמה"
+      ],
+      "correct_answer": "היטלים, מיסים",
+      "explanation_hebrew": "“levies” פירושה היטלים, מיסים."
+    },
+    {
+      "id": "C-q6",
+      "word": "reciprocal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הדדי”?",
+      "options": [
+        "retaliation",
+        "enduring",
+        "reciprocal",
+        "imposed"
+      ],
+      "correct_answer": "reciprocal",
+      "explanation_hebrew": "“reciprocal” פירושה הדדי."
+    },
+    {
+      "id": "C-q7",
+      "word": "imposed",
+      "type": "english_to_hebrew",
+      "question": "What does “imposed” mean?",
+      "options": [
+        "הטיל, כפה",
+        "תגמול, נקמה",
+        "מתמשך, ממושך",
+        "חשוף, פגיע"
+      ],
+      "correct_answer": "הטיל, כפה",
+      "explanation_hebrew": "“imposed” פירושה הטיל, כפה."
+    },
+    {
+      "id": "C-q8",
+      "word": "retaliation",
+      "type": "english_to_hebrew",
+      "question": "What does “retaliation” mean?",
+      "options": [
+        "תגמול, נקמה",
+        "מתמשך, ממושך",
+        "חשוף, פגיע",
+        "לציית, לעמוד בדרישות"
+      ],
+      "correct_answer": "תגמול, נקמה",
+      "explanation_hebrew": "“retaliation” פירושה תגמול, נקמה."
+    },
+    {
+      "id": "C-q9",
+      "word": "enduring",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מתמשך, ממושך”?",
+      "options": [
+        "populous",
+        "exposed",
+        "comply",
+        "enduring"
+      ],
+      "correct_answer": "enduring",
+      "explanation_hebrew": "“enduring” פירושה מתמשך, ממושך."
+    },
+    {
+      "id": "C-q10",
+      "word": "exposed",
+      "type": "english_to_hebrew",
+      "question": "What does “exposed” mean?",
+      "options": [
+        "חשוף, פגיע",
+        "מאוכלס בצפיפות",
+        "פיטורים",
+        "לציית, לעמוד בדרישות"
+      ],
+      "correct_answer": "חשוף, פגיע",
+      "explanation_hebrew": "“exposed” פירושה חשוף, פגיע."
+    },
+    {
+      "id": "C-q11",
+      "word": "comply",
+      "type": "english_to_hebrew",
+      "question": "What does “comply” mean?",
+      "options": [
+        "מאוכלס בצפיפות",
+        "לציית, לעמוד בדרישות",
+        "פיטורים",
+        "עיקר הנטל, המכה העיקרית"
+      ],
+      "correct_answer": "לציית, לעמוד בדרישות",
+      "explanation_hebrew": "“comply” פירושה לציית, לעמוד בדרישות."
+    },
+    {
+      "id": "C-q12",
+      "word": "populous",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מאוכלס בצפיפות”?",
+      "options": [
+        "layoffs",
+        "stark",
+        "populous",
+        "brunt"
+      ],
+      "correct_answer": "populous",
+      "explanation_hebrew": "“populous” פירושה מאוכלס בצפיפות."
+    },
+    {
+      "id": "C-q13",
+      "word": "layoffs",
+      "type": "english_to_hebrew",
+      "question": "What does “layoffs” mean?",
+      "options": [
+        "עיקר הנטל, המכה העיקרית",
+        "במכוון, בכוונה תחילה",
+        "חריף, בולט",
+        "פיטורים"
+      ],
+      "correct_answer": "פיטורים",
+      "explanation_hebrew": "“layoffs” פירושה פיטורים."
+    },
+    {
+      "id": "C-q14",
+      "word": "brunt",
+      "type": "english_to_hebrew",
+      "question": "What does “brunt” mean?",
+      "options": [
+        "עיקר הנטל, המכה העיקרית",
+        "הבטיח, הרגיע",
+        "חריף, בולט",
+        "במכוון, בכוונה תחילה"
+      ],
+      "correct_answer": "עיקר הנטל, המכה העיקרית",
+      "explanation_hebrew": "“brunt” פירושה עיקר הנטל, המכה העיקרית."
+    },
+    {
+      "id": "C-q15",
+      "word": "stark",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חריף, בולט”?",
+      "options": [
+        "assured",
+        "proximity",
+        "deliberately",
+        "stark"
+      ],
+      "correct_answer": "stark",
+      "explanation_hebrew": "“stark” פירושה חריף, בולט."
+    },
+    {
+      "id": "C-q16",
+      "word": "deliberately",
+      "type": "english_to_hebrew",
+      "question": "What does “deliberately” mean?",
+      "options": [
+        "קרבה",
+        "משולב, מאוחד",
+        "במכוון, בכוונה תחילה",
+        "הבטיח, הרגיע"
+      ],
+      "correct_answer": "במכוון, בכוונה תחילה",
+      "explanation_hebrew": "“deliberately” פירושה במכוון, בכוונה תחילה."
+    },
+    {
+      "id": "C-q17",
+      "word": "assured",
+      "type": "english_to_hebrew",
+      "question": "What does “assured” mean?",
+      "options": [
+        "משולב, מאוחד",
+        "תלוי (במישהו)",
+        "קרבה",
+        "הבטיח, הרגיע"
+      ],
+      "correct_answer": "הבטיח, הרגיע",
+      "explanation_hebrew": "“assured” פירושה הבטיח, הרגיע."
+    },
+    {
+      "id": "C-q18",
+      "word": "proximity",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קרבה”?",
+      "options": [
+        "reliant",
+        "integrated",
+        "proximity",
+        "pledged"
+      ],
+      "correct_answer": "proximity",
+      "explanation_hebrew": "“proximity” פירושה קרבה."
+    },
+    {
+      "id": "C-q19",
+      "word": "integrated",
+      "type": "english_to_hebrew",
+      "question": "What does “integrated” mean?",
+      "options": [
+        "התחייב, נשבע",
+        "תלוי (במישהו)",
+        "לגוון (מקורות)",
+        "משולב, מאוחד"
+      ],
+      "correct_answer": "משולב, מאוחד",
+      "explanation_hebrew": "“integrated” פירושה משולב, מאוחד."
+    },
+    {
+      "id": "C-q20",
+      "word": "reliant",
+      "type": "english_to_hebrew",
+      "question": "What does “reliant” mean?",
+      "options": [
+        "לגוון (מקורות)",
+        "פגיע, חשוף לסכנה",
+        "תלוי (במישהו)",
+        "התחייב, נשבע"
+      ],
+      "correct_answer": "תלוי (במישהו)",
+      "explanation_hebrew": "“reliant” פירושה תלוי (במישהו)."
+    },
+    {
+      "id": "C-q21",
+      "word": "pledged",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התחייב, נשבע”?",
+      "options": [
+        "diversify",
+        "vulnerable",
+        "pledged",
+        "offset"
+      ],
+      "correct_answer": "pledged",
+      "explanation_hebrew": "“pledged” פירושה התחייב, נשבע."
+    },
+    {
+      "id": "C-q22",
+      "word": "diversify",
+      "type": "english_to_hebrew",
+      "question": "What does “diversify” mean?",
+      "options": [
+        "לקזז, לפצות על",
+        "התאושש, התאפס",
+        "לגוון (מקורות)",
+        "פגיע, חשוף לסכנה"
+      ],
+      "correct_answer": "לגוון (מקורות)",
+      "explanation_hebrew": "“diversify” פירושה לגוון (מקורות)."
+    },
+    {
+      "id": "C-q23",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "התאושש, התאפס",
+        "לפתור (סכסוך)",
+        "פגיע, חשוף לסכנה",
+        "לקזז, לפצות על"
+      ],
+      "correct_answer": "פגיע, חשוף לסכנה",
+      "explanation_hebrew": "“vulnerable” פירושה פגיע, חשוף לסכנה."
+    },
+    {
+      "id": "C-q24",
+      "word": "offset",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לקזז, לפצות על”?",
+      "options": [
+        "dispute",
+        "rebounded",
+        "offset",
+        "resolving"
+      ],
+      "correct_answer": "offset",
+      "explanation_hebrew": "“offset” פירושה לקזז, לפצות על."
+    },
+    {
+      "id": "C-q25",
+      "word": "rebounded",
+      "type": "english_to_hebrew",
+      "question": "What does “rebounded” mean?",
+      "options": [
+        "סכסוך, מחלוקת",
+        "התאושש, התאפס",
+        "רוחש, מתבשל על אש קטנה",
+        "לפתור (סכסוך)"
+      ],
+      "correct_answer": "התאושש, התאפס",
+      "explanation_hebrew": "“rebounded” פירושה התאושש, התאפס."
+    }
+  ]
+}
