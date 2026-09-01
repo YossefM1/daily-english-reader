@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-01",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Super flu vaccine ready as NHS regroups from busiest summer ever",
+  "article_url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Why flu vaccines have been withdrawn from pharmacies",
+        "The rollout of an updated flu vaccine and who can receive it at different times",
+        "A plan to replace flu vaccination with RSV vaccination",
+        "Evidence that this winter's flu season will definitely be severe"
+      ],
+      "correct_answer": "The rollout of an updated flu vaccine and who can receive it at different times",
+      "explanation_hebrew": "הכתבה מסבירה שהחיסון עודכן מול זן Super-K, מי מקבל אותו תחילה ומתי קבוצות נוספות זכאיות לו."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why are schoolchildren among the first groups offered the vaccine?",
+      "difficulty": "B",
+      "options": [
+        "They are the only people who can catch Super-K",
+        "They need two injections before winter",
+        "They can catch and spread flu easily, so vaccinating them also protects others",
+        "They are not allowed to receive the nasal spray"
+      ],
+      "correct_answer": "They can catch and spread flu easily, so vaccinating them also protects others",
+      "explanation_hebrew": "ילדים נדבקים ומפיצים שפעת בקלות, והגנתם מסייעת גם לתינוקות, לאחים ולסבים ולסבתות."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When can most eligible people aged 65 and over receive a free NHS flu vaccine?",
+      "difficulty": "B",
+      "options": [
+        "Only after flu cases peak",
+        "From July",
+        "From September with schoolchildren",
+        "From October"
+      ],
+      "correct_answer": "From October",
+      "explanation_hebrew": "בני 65 ומעלה נמנים עם הקבוצות הזכאיות לחיסון חינם החל מאוקטובר."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do UK experts examine flu seasons in Australia and New Zealand?",
+      "difficulty": "B",
+      "options": [
+        "Their earlier seasonal peak may offer clues about what could happen in the UK",
+        "Those countries manufacture every NHS vaccine",
+        "Their populations cannot catch Super-K",
+        "The UK uses exactly the same vaccination timetable"
+      ],
+      "correct_answer": "Their earlier seasonal peak may offer clues about what could happen in the UK",
+      "explanation_hebrew": "עונת השפעת בחצי הכדור הדרומי מגיעה לשיאה ביולי או באוגוסט, ולכן היא עשויה לספק רמזים לעונה העתידית בבריטניה."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “mutate” mean when the article says influenza viruses constantly mutate?",
+      "difficulty": "B",
+      "options": [
+        "Disappear completely after one season",
+        "Change genetically over time",
+        "Become impossible to treat",
+        "Spread only among children"
+      ],
+      "correct_answer": "Change genetically over time",
+      "explanation_hebrew": "בהקשר של נגיפים, mutate פירושו להשתנות מבחינה גנטית לאורך זמן."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the expression “knock you for six” mean in Dr Doyle's warning?",
+      "difficulty": "B",
+      "options": [
+        "Make you immune for six years",
+        "Require exactly six vaccine doses",
+        "Make you feel very ill or badly affected",
+        "Cause illness only at the age of six"
+      ],
+      "correct_answer": "Make you feel very ill or badly affected",
+      "explanation_hebrew": "הביטוי הבריטי knock you for six מתאר פגיעה חזקה מאוד או מחלה שמותירה אדם במצב קשה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain why this year's flu vaccine was changed and how the rollout is being staged.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את הסיבה לעדכון ולפחות שלושה פרטים מדויקים על לוח הזמנים או קבוצות הזכאות.",
+      "expected_points": [
+        "A mutated strain called subclade K or Super-K circulated last winter",
+        "Last winter's flu season began more than a month early",
+        "Flu vaccines are updated annually to match circulating strains",
+        "This year's vaccine was tweaked to better match subclade K",
+        "Schoolchildren and pregnant women can receive it from September",
+        "Other eligible groups, including most people aged 65 and over, can receive it from October",
+        "Children aged two and over generally receive a nasal spray",
+        "Adults receive an injection",
+        "One dose is needed ahead of winter"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the article caution readers not to misunderstand the term “Super flu”?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר מה המונח אינו אומר ומה כן מסביר את השימוש בו.",
+      "expected_points": [
+        "Super flu is not a medical term",
+        "It does not mean the virus is harder to treat",
+        "The name relates to limited existing immunity to the strain",
+        "The strain is a mutated seasonal influenza called subclade K",
+        "The article avoids presenting the name as proof that this season will be severe"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the reasons for the updated vaccine, the early priorities and the uncertainty about the coming flu season.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לחבר בין אירועי החורף הקודם, עדכון החיסון, סדר הזכאות והמידע שעדיין אינו ידוע.",
+      "expected_points": [
+        "Super-K circulated during an unusually early flu season last winter",
+        "The updated vaccine better matches subclade K",
+        "Schoolchildren and pregnant women are offered vaccination first",
+        "Vaccinating children can protect vulnerable relatives as well",
+        "Most other eligible groups begin in October",
+        "The NHS is preparing early after its busiest summer",
+        "It is unclear when flu will arrive or how severe the season will be",
+        "Australia and New Zealand have so far experienced a relatively mild season",
+        "Experts still recommend caution and uptake among eligible people"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a clear public-information notice explaining who should seek a flu vaccine, when, and why.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית בצורה ברורה ומדויקת, לכלול את מועדי ספטמבר ואוקטובר, לפחות שלוש קבוצות זכאות והסבר קצר כיצד החיסון פועל.",
+      "expected_points": [
+        "Schoolchildren and pregnant women can receive a free NHS vaccine from September",
+        "Most people aged 65 and over can receive one from October",
+        "Include other eligible groups such as people with certain long-term conditions or care-home residents",
+        "Mention carers or people living with someone with a weakened immune system",
+        "Children generally receive a nasal spray and adults an injection",
+        "A single dose offers protection ahead of winter",
+        "The vaccine cannot give a person flu",
+        "It helps the body learn how to fight the virus",
+        "Do not claim the season is certain to be severe"
+      ]
+    }
+  ]
+}

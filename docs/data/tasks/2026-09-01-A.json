@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-01",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Victoria Beckham's company makes its first profit after 18 years",
+  "article_url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Victoria Beckham's fashion and beauty company reaching its first operating profit after years of losses",
+        "Victoria Beckham returning to the Spice Girls for a new tour",
+        "A documentary investigating the global luxury market",
+        "David Beckham launching a skincare company"
+      ],
+      "correct_answer": "Victoria Beckham's fashion and beauty company reaching its first operating profit after years of losses",
+      "explanation_hebrew": "הכתבה עוסקת באבן הדרך העסקית: החברה של ויקטוריה בקהאם רשמה לראשונה רווח תפעולי לאחר שנים של הפסדים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much operating profit did Victoria Beckham Holdings make in 2025?",
+      "difficulty": "A",
+      "options": [
+        "£30m",
+        "£7.3m",
+        "£70,000",
+        "£25m"
+      ],
+      "correct_answer": "£7.3m",
+      "explanation_hebrew": "לפי החשבונות, החברה רשמה בשנת 2025 רווח תפעולי של 7.3 מיליון ליש״ט."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to the accounts, which products gained particularly strong momentum after the Netflix documentary?",
+      "difficulty": "A",
+      "options": [
+        "Office plants and furniture",
+        "Perfume and footwear",
+        "Denim and jersey",
+        "Handbags and jewellery"
+      ],
+      "correct_answer": "Denim and jersey",
+      "explanation_hebrew": "החשבונות מציינים תנופה חזקה במיוחד במוצרי ג׳ינס וג׳רזי בעקבות הסרט התיעודי."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is the first profit described as especially significant?",
+      "difficulty": "A",
+      "options": [
+        "It allowed the company to stop selling fashion",
+        "It came before the beauty business was launched",
+        "It was achieved without any earlier investment",
+        "It followed years of losses and came during a difficult luxury market"
+      ],
+      "correct_answer": "It followed years of losses and came during a difficult luxury market",
+      "explanation_hebrew": "הרווח הגיע לאחר תקופה ארוכה של הפסדים ובתנאי שוק יוקרה ומקרו־כלכלה מאתגרים, ולכן הוא מוצג כאבן דרך משמעותית."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “operating profit” mean in the context of the article?",
+      "difficulty": "A",
+      "options": [
+        "Money invested by a new shareholder",
+        "Profit from the company's normal business operations",
+        "The total value of every product sold",
+        "Money borrowed to cover past losses"
+      ],
+      "correct_answer": "Profit from the company's normal business operations",
+      "explanation_hebrew": "בהקשר העסקי, operating profit הוא הרווח שנוצר מפעילותה השוטפת של החברה, לפני רכיבים פיננסיים מסוימים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “restructure” mean in the description of NEO Investment Partners' actions?",
+      "difficulty": "A",
+      "options": [
+        "To close the company immediately",
+        "To advertise the company as a celebrity brand",
+        "To reorganise the business to improve how it operates",
+        "To move every office to another country"
+      ],
+      "correct_answer": "To reorganise the business to improve how it operates",
+      "explanation_hebrew": "המילה restructure פירושה לארגן מחדש את העסק ואת דרכי פעולתו כדי לשפר ביצועים ויעילות."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify the main developments that helped the company move from heavy losses to an operating profit.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין לפחות ארבעה גורמים או התפתחויות מדויקים מן הכתבה.",
+      "expected_points": [
+        "NEO Investment Partners bought 30% of the company for £30m in 2017",
+        "NEO launched a restructure",
+        "The company reduced wasteful spending",
+        "Fashion delivered strong double-digit growth in 2025",
+        "The Netflix documentary helped boost sales",
+        "Denim and jersey showed particularly strong momentum",
+        "The beauty division delivered one of its strongest performances",
+        "Foundation Drops had a 25,000-person waiting list",
+        "Foundation Drops doubled the size of the skincare business"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How do the fashion and beauty divisions reduce the company's dependence on a single source of growth?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הרעיון של שני מנועי צמיחה ולהביא ראיה מדויקת לכל חטיבה.",
+      "expected_points": [
+        "Fashion achieved strong double-digit growth",
+        "The documentary boosted momentum in denim and jersey",
+        "Beauty delivered one of its strongest performances",
+        "Foundation Drops attracted a 25,000-person waiting list",
+        "Foundation Drops doubled the skincare business",
+        "Growth in two complementary divisions spreads business risk and supports future profitability"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the company's journey from financial difficulty to its first operating profit.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את ההפסדים הקודמים, ההשקעה והארגון מחדש, מקורות הצמיחה והרווח של 2025, בלי להוסיף מידע שאינו בכתבה.",
+      "expected_points": [
+        "The company was founded in 2008 and suffered years of losses",
+        "David Beckham helped keep the business going",
+        "NEO invested £30m for a 30% stake in 2017",
+        "A restructure tackled wasteful spending",
+        "The Netflix documentary helped sales",
+        "Fashion recorded strong double-digit growth",
+        "Beauty and Foundation Drops performed strongly",
+        "The company made a £7.3m operating profit in 2025",
+        "Management described the result as a major milestone"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short business update explaining why the 2025 result matters and what appears to support future growth.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית בטון עובדתי, לשלב לפחות ארבע עובדות מהכתבה ולהבחין בין תוצאות שכבר הושגו לבין ציפיות לעתיד.",
+      "expected_points": [
+        "State that this was the company's first operating profit",
+        "Give the £7.3m figure",
+        "Mention the earlier years of losses or financial support",
+        "Explain the role of restructuring and reduced waste",
+        "Describe fashion growth",
+        "Describe beauty growth and Foundation Drops",
+        "Note the international customer base or focused operating model",
+        "Avoid claiming that future profit is guaranteed"
+      ]
+    }
+  ]
+}

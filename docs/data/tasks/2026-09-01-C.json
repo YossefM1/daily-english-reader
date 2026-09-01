@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-01",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Japan Inc is betting big on India as China risks deepen",
+  "article_url": "https://www.bbc.co.uk/news/articles/cz64955d56po",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central argument of the article?",
+      "difficulty": "C",
+      "options": [
+        "Japan is ending all economic links with China immediately",
+        "India is limiting Japanese investment to retail companies",
+        "Japanese firms are expanding in India for growth and diversification, although important obstacles remain",
+        "Government diplomacy has stopped private Japanese companies from investing abroad"
+      ],
+      "correct_answer": "Japanese firms are expanding in India for growth and diversification, although important obstacles remain",
+      "explanation_hebrew": "הכתבה טוענת שחברות יפניות פונות יותר להודו לצמיחה ולפיזור סיכונים, אך עדיין ניצבות בפני חסמים משמעותיים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was notable about MUFG Bank's deal with Shriram Finance?",
+      "difficulty": "C",
+      "options": [
+        "It created 10,000 convenience stores by 2050",
+        "It made MUFG the sole owner of Yes Bank",
+        "It was a $200m investment in a Suzuki-backed fund",
+        "MUFG bought 20% for $4.4bn in India's largest-ever foreign financial-sector investment"
+      ],
+      "correct_answer": "MUFG bought 20% for $4.4bn in India's largest-ever foreign financial-sector investment",
+      "explanation_hebrew": "הכתבה מציינת כי MUFG רכשה 20% מ־Shriram Finance תמורת 4.4 מיליארד דולר, בעסקת ההשקעה הזרה הגדולה ביותר במגזר הפיננסי ההודי."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Japanese companies announce at the July summit in Delhi?",
+      "difficulty": "C",
+      "options": [
+        "$12.5bn of investment through about 120 agreements",
+        "A complete withdrawal from Chinese manufacturing",
+        "One agreement limited to bullet-train technology",
+        "A ban on investments by small and medium-sized firms"
+      ],
+      "correct_answer": "$12.5bn of investment through about 120 agreements",
+      "explanation_hebrew": "בפסגה ביולי הוכרזו השקעות בסך 12.5 מיליארד דולר באמצעות כ־120 הסכמים במגוון תחומים."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why has India become a natural target for Japanese companies seeking long-term growth?",
+      "difficulty": "C",
+      "options": [
+        "India guarantees that every foreign project will avoid delays",
+        "Japan's domestic market is shrinking while China, the US and smaller Asian markets present greater limits or risks",
+        "Japanese law requires companies to invest only in India",
+        "India has already replaced China in every manufacturing network"
+      ],
+      "correct_answer": "Japan's domestic market is shrinking while China, the US and smaller Asian markets present greater limits or risks",
+      "explanation_hebrew": "הירידה באוכלוסיית יפן מצמצמת את הביקוש המקומי, ובמקביל סין, ארה״ב ושווקים קטנים יותר מציבים סיכונים או מגבלות—לכן הודו מושכת לצמיחה ארוכת טווח."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “a hedge against China-related risks” mean in the article?",
+      "difficulty": "C",
+      "options": [
+        "A barrier that prevents trade with every Asian country",
+        "A promise to move all production out of China",
+        "A way to reduce exposure by building an alternative position in India",
+        "A tax charged on Japanese retail brands"
+      ],
+      "correct_answer": "A way to reduce exposure by building an alternative position in India",
+      "explanation_hebrew": "hedge הוא אמצעי לצמצום חשיפה לסיכון; כאן השקעה בהודו מספקת חלופה שמפחיתה תלות מרוכזת בסין."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is meant by an “autonomous market diversification strategy”?",
+      "difficulty": "C",
+      "options": [
+        "A strategy ordered entirely by political leaders",
+        "A programme limited to government-owned companies",
+        "A decision to concentrate all capital in one market",
+        "A commercially driven decision by firms to spread activity across markets"
+      ],
+      "correct_answer": "A commercially driven decision by firms to spread activity across markets",
+      "explanation_hebrew": "הביטוי מתאר החלטה עסקית עצמאית של חברות לפזר פעילות והון בין שווקים, ולא מעבר שנכפה בידי קובעי מדיניות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give examples showing that Japanese expansion in India extends beyond consumer retail.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להביא לפחות ארבע דוגמאות מדויקות מתחומים שונים שאינם רק חנויות ומותגים לצרכן.",
+      "expected_points": [
+        "MUFG bought 20% of Shriram Finance for $4.4bn",
+        "SMBC became Yes Bank's largest shareholder with a 24.22% stake",
+        "More than 100 Japanese firms operate global capability centres in India",
+        "Those centres perform R&D, corporate strategy and AI development",
+        "Suzuki-backed Next Bharat Ventures announced a $200m fund",
+        "Japanese firms announced investments in semiconductors and green energy",
+        "Japan supports the Mumbai-Ahmedabad bullet train using Shinkansen technology",
+        "Manufacturing SMEs from Hamamatsu are exploring expansion into India"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Assess both the opportunities and the risks for deeper Japan-India economic ties.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג לפחות שתי הזדמנויות ושני סיכונים, ולבסס כל נקודה על הכתבה.",
+      "expected_points": [
+        "India offers a large, growing consumer market",
+        "Japan needs growth because its population and domestic demand are shrinking",
+        "India can help diversify supply chains and reduce concentration risk linked to China",
+        "Tokyo's economic-security priorities overlap with Delhi's manufacturing ambitions",
+        "Japanese investment could help India reduce dependence on China in critical minerals and advanced manufacturing",
+        "India faces tax uncertainty and bureaucratic red tape",
+        "Land and environmental approvals can be delayed",
+        "The bullet-train dispute illustrates execution and trust problems",
+        "Japan remains deeply integrated into Chinese manufacturing networks",
+        "Coordinated action against China could create commercial costs or retaliation"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why Japanese investment in India is rising, the evidence for the trend and the constraints that could slow it.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם את מניעי יפן והודו, להביא לפחות שתי ראיות מספריות ולהציג את החסמים בלי לטעון שחברות יפניות נוטשות את סין לחלוטין.",
+      "expected_points": [
+        "Japan's shrinking home market pushes companies to seek growth abroad",
+        "China-related tensions and supply-chain disruption encourage diversification",
+        "India's rising incomes and large market are attractive",
+        "MUFG invested $4.4bn for 20% of Shriram Finance",
+        "Japanese firms announced $12.5bn across about 120 agreements",
+        "More than 100 Japanese firms run global capability centres in India",
+        "India needs sustained foreign capital and wants less dependence on China",
+        "Japanese companies are reducing concentration risk rather than abandoning China en masse",
+        "Indian bureaucracy, tax uncertainty and approval delays remain obstacles",
+        "Deep Japanese integration with China limits the scope for coordinated moves"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced briefing for a Japanese company considering investment in India.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית מסמך מאוזן הכולל מניעי צמיחה, ראיות להשקעות קיימות, סיכונים תפעוליים והמלצה זהירה שאינה מבטיחה הצלחה.",
+      "expected_points": [
+        "Explain the pressure created by Japan's shrinking domestic market",
+        "Describe India's growing consumer and business opportunities",
+        "Mention examples from finance, technology, manufacturing or retail",
+        "Use at least one investment figure from the article",
+        "Explain the value of diversifying China-related risk",
+        "Acknowledge continued links to Chinese manufacturing",
+        "Identify tax uncertainty, red tape or approval delays",
+        "Mention the bullet-train dispute as an execution warning",
+        "Recommend careful planning and local engagement",
+        "Avoid claiming that India is a risk-free replacement for China"
+      ]
+    }
+  ]
+}
