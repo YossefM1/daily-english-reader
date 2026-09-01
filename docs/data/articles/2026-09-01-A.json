@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-01",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Victoria Beckham's company makes its first profit after 18 years",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do",
+  "published_at": "2026-08-31T17:28:19+00:00",
+  "age_hours_at_selection": 8.72,
+  "word_count": 499,
+  "generated_at": "2026-09-01T02:11:16.844393+00:00",
+  "difficulty_reason": "Short, clear celebrity-business story with direct sentences and mostly B1/B2 vocabulary; needs little background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "profit",
+      "lemma": "profit",
+      "level": "B1",
+      "hebrew": "רווח",
+      "explanation_hebrew": "הכסף שנשאר אחרי שמורידים את ההוצאות",
+      "pronunciation_hebrew": "פְּרוֹפִיט",
+      "example": "The company finally made a profit this year."
+    },
+    {
+      "word": "founded",
+      "lemma": "found",
+      "level": "B2",
+      "hebrew": "ייסד",
+      "explanation_hebrew": "הקים או פתח משהו חדש",
+      "pronunciation_hebrew": "פָאוּנְדֶד",
+      "example": "She founded the business in 2008."
+    },
+    {
+      "word": "losses",
+      "lemma": "loss",
+      "level": "B1",
+      "hebrew": "הפסדים",
+      "explanation_hebrew": "מצב שבו מפסידים כסף",
+      "pronunciation_hebrew": "לוֹסִיז",
+      "example": "After years of losses, sales rose."
+    },
+    {
+      "word": "transparent",
+      "lemma": "transparent",
+      "level": "B2",
+      "hebrew": "שקוף",
+      "explanation_hebrew": "גלוי וכן, לא מסתיר מידע",
+      "pronunciation_hebrew": "טְרַנְסְפֶּרֶנְט",
+      "example": "They were transparent about the problems."
+    },
+    {
+      "word": "recovered",
+      "lemma": "recover",
+      "level": "B2",
+      "hebrew": "התאושש",
+      "explanation_hebrew": "חזר למצב טוב אחרי קושי",
+      "pronunciation_hebrew": "רִיקָאבֶרְד",
+      "example": "The business recovered after hard years."
+    },
+    {
+      "word": "sensible",
+      "lemma": "sensible",
+      "level": "B2",
+      "hebrew": "הגיוני",
+      "explanation_hebrew": "נבון ומתון, לא מוגזם",
+      "pronunciation_hebrew": "סֶנְסִיבְּל",
+      "example": "They grow at a sensible pace."
+    },
+    {
+      "word": "pace",
+      "lemma": "pace",
+      "level": "B1",
+      "hebrew": "קצב",
+      "explanation_hebrew": "המהירות שבה משהו קורה",
+      "pronunciation_hebrew": "פֵּייס",
+      "example": "We are growing at a steady pace."
+    },
+    {
+      "word": "boost",
+      "lemma": "boost",
+      "level": "B2",
+      "hebrew": "להגביר",
+      "explanation_hebrew": "לחזק או להעלות משהו",
+      "pronunciation_hebrew": "בּוּסְט",
+      "example": "The show helped boost sales."
+    },
+    {
+      "word": "momentum",
+      "lemma": "momentum",
+      "level": "C1",
+      "hebrew": "תנופה",
+      "explanation_hebrew": "כוח שממשיך לדחוף קדימה",
+      "pronunciation_hebrew": "מוֹמֶנְטוּם",
+      "example": "Sales gained strong momentum."
+    },
+    {
+      "word": "establish",
+      "lemma": "establish",
+      "level": "B2",
+      "hebrew": "לבסס",
+      "explanation_hebrew": "להקים ולקבע משהו",
+      "pronunciation_hebrew": "אִיסְטַבְּלִיש",
+      "example": "She tried to establish a fashion brand."
+    },
+    {
+      "word": "achieve",
+      "lemma": "achieve",
+      "level": "B1",
+      "hebrew": "להשיג",
+      "explanation_hebrew": "להצליח להגיע למטרה",
+      "pronunciation_hebrew": "אַצִ'יב",
+      "example": "She wanted to achieve profitability."
+    },
+    {
+      "word": "popularity",
+      "lemma": "popularity",
+      "level": "B2",
+      "hebrew": "פופולריות",
+      "explanation_hebrew": "מידת האהדה של הקהל",
+      "pronunciation_hebrew": "פּוֹפְּיוּלַרִיטִי",
+      "example": "Its popularity doubled the sales."
+    },
+    {
+      "word": "doubters",
+      "lemma": "doubter",
+      "level": "B2",
+      "hebrew": "ספקנים",
+      "explanation_hebrew": "אנשים שלא מאמינים שמשהו יצליח",
+      "pronunciation_hebrew": "דָאוּטֶרְז",
+      "example": "She had to overcome the doubters."
+    },
+    {
+      "word": "designer",
+      "lemma": "designer",
+      "level": "B1",
+      "hebrew": "מעצב",
+      "explanation_hebrew": "אדם שמעצב בגדים או מוצרים",
+      "pronunciation_hebrew": "דִיזַיינֶר",
+      "example": "She wanted to be taken seriously as a designer."
+    },
+    {
+      "word": "entrepreneur",
+      "lemma": "entrepreneur",
+      "level": "C1",
+      "hebrew": "יזם",
+      "explanation_hebrew": "אדם שמקים ומנהל עסק",
+      "pronunciation_hebrew": "אוֹנְטְרֶפְּרֶנֶר",
+      "example": "She is a designer and entrepreneur."
+    },
+    {
+      "word": "financial",
+      "lemma": "financial",
+      "level": "B1",
+      "hebrew": "כספי",
+      "explanation_hebrew": "קשור לכסף וכספים",
+      "pronunciation_hebrew": "פַיינַנְשֶׁל",
+      "example": "The company ran into financial trouble."
+    },
+    {
+      "word": "bailed",
+      "lemma": "bail",
+      "level": "C1",
+      "hebrew": "חילץ כלכלית",
+      "explanation_hebrew": "הציל מישהו מבעיה כספית",
+      "pronunciation_hebrew": "בֵּיילְד",
+      "example": "Her husband bailed out the company."
+    },
+    {
+      "word": "investment",
+      "lemma": "investment",
+      "level": "B1",
+      "hebrew": "השקעה",
+      "explanation_hebrew": "כסף שמכניסים כדי להרוויח בעתיד",
+      "pronunciation_hebrew": "אִינְבֶסְטְמֶנְט",
+      "example": "She got a large investment in 2017."
+    },
+    {
+      "word": "restructure",
+      "lemma": "restructure",
+      "level": "C1",
+      "hebrew": "ארגון מחדש",
+      "explanation_hebrew": "שינוי המבנה של חברה",
+      "pronunciation_hebrew": "רִיסְטְרַקְצֶ'ר",
+      "example": "The investors launched a restructure."
+    },
+    {
+      "word": "tackling",
+      "lemma": "tackle",
+      "level": "B2",
+      "hebrew": "להתמודד עם",
+      "explanation_hebrew": "לטפל בבעיה בצורה נחושה",
+      "pronunciation_hebrew": "טַקְלִינְג",
+      "example": "They began tackling the waste."
+    },
+    {
+      "word": "waste",
+      "lemma": "waste",
+      "level": "B1",
+      "hebrew": "בזבוז",
+      "explanation_hebrew": "שימוש מיותר בכסף או משאבים",
+      "pronunciation_hebrew": "וֵוייסְט",
+      "example": "They cut a lot of waste."
+    },
+    {
+      "word": "complementary",
+      "lemma": "complementary",
+      "level": "C1",
+      "hebrew": "משלים",
+      "explanation_hebrew": "שני דברים שמשלימים זה את זה",
+      "pronunciation_hebrew": "קוֹמְפְּלִמֶנְטַרִי",
+      "example": "Fashion and beauty are complementary engines."
+    },
+    {
+      "word": "disciplined",
+      "lemma": "disciplined",
+      "level": "C1",
+      "hebrew": "ממושמע",
+      "explanation_hebrew": "מסודר ועקבי בפעולה",
+      "pronunciation_hebrew": "דִיסִיפְּלִינְד",
+      "example": "The result reflects disciplined execution."
+    },
+    {
+      "word": "milestone",
+      "lemma": "milestone",
+      "level": "B2",
+      "hebrew": "אבן דרך",
+      "explanation_hebrew": "הישג חשוב בדרך",
+      "pronunciation_hebrew": "מַיילְסְטוֹן",
+      "example": "It is a significant milestone."
+    },
+    {
+      "word": "luxury",
+      "lemma": "luxury",
+      "level": "B2",
+      "hebrew": "יוקרה",
+      "explanation_hebrew": "מותרות ומוצרים יקרים",
+      "pronunciation_hebrew": "לַאקְשֶׁרִי",
+      "example": "It sells in a challenging luxury market."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "profit",
+      "type": "english_to_hebrew",
+      "question": "What does “profit” mean?",
+      "options": [
+        "הפסדים",
+        "הגיוני",
+        "רווח",
+        "לבסס"
+      ],
+      "correct_answer": "רווח",
+      "explanation_hebrew": "“profit” פירושו רווח."
+    },
+    {
+      "id": "A-q2",
+      "word": "founded",
+      "type": "english_to_hebrew",
+      "question": "What does “founded” mean?",
+      "options": [
+        "שקוף",
+        "קצב",
+        "ייסד",
+        "להשיג"
+      ],
+      "correct_answer": "ייסד",
+      "explanation_hebrew": "“founded” פירושו ייסד."
+    },
+    {
+      "id": "A-q3",
+      "word": "losses",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הפסדים”?",
+      "options": [
+        "sensible",
+        "losses",
+        "establish",
+        "transparent"
+      ],
+      "correct_answer": "losses",
+      "explanation_hebrew": "“losses” פירושו הפסדים."
+    },
+    {
+      "id": "A-q4",
+      "word": "transparent",
+      "type": "english_to_hebrew",
+      "question": "What does “transparent” mean?",
+      "options": [
+        "תנופה",
+        "הגיוני",
+        "שקוף",
+        "ספקנים"
+      ],
+      "correct_answer": "שקוף",
+      "explanation_hebrew": "“transparent” פירושו שקוף."
+    },
+    {
+      "id": "A-q5",
+      "word": "recovered",
+      "type": "english_to_hebrew",
+      "question": "What does “recovered” mean?",
+      "options": [
+        "התאושש",
+        "מעצב",
+        "לבסס",
+        "קצב"
+      ],
+      "correct_answer": "התאושש",
+      "explanation_hebrew": "“recovered” פירושו התאושש."
+    },
+    {
+      "id": "A-q6",
+      "word": "sensible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הגיוני”?",
+      "options": [
+        "pace",
+        "sensible",
+        "doubters",
+        "momentum"
+      ],
+      "correct_answer": "sensible",
+      "explanation_hebrew": "“sensible” פירושו הגיוני."
+    },
+    {
+      "id": "A-q7",
+      "word": "pace",
+      "type": "english_to_hebrew",
+      "question": "What does “pace” mean?",
+      "options": [
+        "תנופה",
+        "קצב",
+        "כספי",
+        "פופולריות"
+      ],
+      "correct_answer": "קצב",
+      "explanation_hebrew": "“pace” פירושו קצב."
+    },
+    {
+      "id": "A-q8",
+      "word": "boost",
+      "type": "english_to_hebrew",
+      "question": "What does “boost” mean?",
+      "options": [
+        "חילץ כלכלית",
+        "לבסס",
+        "להגביר",
+        "ספקנים"
+      ],
+      "correct_answer": "להגביר",
+      "explanation_hebrew": "“boost” פירושו להגביר."
+    },
+    {
+      "id": "A-q9",
+      "word": "momentum",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תנופה”?",
+      "options": [
+        "popularity",
+        "financial",
+        "momentum",
+        "establish"
+      ],
+      "correct_answer": "momentum",
+      "explanation_hebrew": "“momentum” פירושו תנופה."
+    },
+    {
+      "id": "A-q10",
+      "word": "establish",
+      "type": "english_to_hebrew",
+      "question": "What does “establish” mean?",
+      "options": [
+        "פופולריות",
+        "ארגון מחדש",
+        "יזם",
+        "לבסס"
+      ],
+      "correct_answer": "לבסס",
+      "explanation_hebrew": "“establish” פירושו לבסס."
+    },
+    {
+      "id": "A-q11",
+      "word": "achieve",
+      "type": "english_to_hebrew",
+      "question": "What does “achieve” mean?",
+      "options": [
+        "ספקנים",
+        "כספי",
+        "להתמודד עם",
+        "להשיג"
+      ],
+      "correct_answer": "להשיג",
+      "explanation_hebrew": "“achieve” פירושו להשיג."
+    },
+    {
+      "id": "A-q12",
+      "word": "popularity",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פופולריות”?",
+      "options": [
+        "popularity",
+        "restructure",
+        "entrepreneur",
+        "doubters"
+      ],
+      "correct_answer": "popularity",
+      "explanation_hebrew": "“popularity” פירושו פופולריות."
+    },
+    {
+      "id": "A-q13",
+      "word": "doubters",
+      "type": "english_to_hebrew",
+      "question": "What does “doubters” mean?",
+      "options": [
+        "ספקנים",
+        "משלים",
+        "יזם",
+        "השקעה"
+      ],
+      "correct_answer": "ספקנים",
+      "explanation_hebrew": "“doubters” פירושו ספקנים."
+    },
+    {
+      "id": "A-q14",
+      "word": "designer",
+      "type": "english_to_hebrew",
+      "question": "What does “designer” mean?",
+      "options": [
+        "ארגון מחדש",
+        "מעצב",
+        "ממושמע",
+        "כספי"
+      ],
+      "correct_answer": "מעצב",
+      "explanation_hebrew": "“designer” פירושו מעצב."
+    },
+    {
+      "id": "A-q15",
+      "word": "entrepreneur",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יזם”?",
+      "options": [
+        "investment",
+        "complementary",
+        "entrepreneur",
+        "financial"
+      ],
+      "correct_answer": "entrepreneur",
+      "explanation_hebrew": "“entrepreneur” פירושו יזם."
+    },
+    {
+      "id": "A-q16",
+      "word": "financial",
+      "type": "english_to_hebrew",
+      "question": "What does “financial” mean?",
+      "options": [
+        "השקעה",
+        "בזבוז",
+        "כספי",
+        "יוקרה"
+      ],
+      "correct_answer": "כספי",
+      "explanation_hebrew": "“financial” פירושו כספי."
+    },
+    {
+      "id": "A-q17",
+      "word": "bailed",
+      "type": "english_to_hebrew",
+      "question": "What does “bailed” mean?",
+      "options": [
+        "משלים",
+        "ארגון מחדש",
+        "רווח",
+        "חילץ כלכלית"
+      ],
+      "correct_answer": "חילץ כלכלית",
+      "explanation_hebrew": "“bailed” פירושו חילץ כלכלית."
+    },
+    {
+      "id": "A-q18",
+      "word": "investment",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “השקעה”?",
+      "options": [
+        "restructure",
+        "investment",
+        "waste",
+        "luxury"
+      ],
+      "correct_answer": "investment",
+      "explanation_hebrew": "“investment” פירושו השקעה."
+    },
+    {
+      "id": "A-q19",
+      "word": "restructure",
+      "type": "english_to_hebrew",
+      "question": "What does “restructure” mean?",
+      "options": [
+        "בזבוז",
+        "ארגון מחדש",
+        "הפסדים",
+        "אבן דרך"
+      ],
+      "correct_answer": "ארגון מחדש",
+      "explanation_hebrew": "“restructure” פירושו ארגון מחדש."
+    },
+    {
+      "id": "A-q20",
+      "word": "tackling",
+      "type": "english_to_hebrew",
+      "question": "What does “tackling” mean?",
+      "options": [
+        "להתמודד עם",
+        "משלים",
+        "שקוף",
+        "יוקרה"
+      ],
+      "correct_answer": "להתמודד עם",
+      "explanation_hebrew": "“tackling” פירושו להתמודד עם."
+    },
+    {
+      "id": "A-q21",
+      "word": "waste",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בזבוז”?",
+      "options": [
+        "losses",
+        "complementary",
+        "milestone",
+        "waste"
+      ],
+      "correct_answer": "waste",
+      "explanation_hebrew": "“waste” פירושו בזבוז."
+    },
+    {
+      "id": "A-q22",
+      "word": "complementary",
+      "type": "english_to_hebrew",
+      "question": "What does “complementary” mean?",
+      "options": [
+        "ייסד",
+        "אבן דרך",
+        "הגיוני",
+        "משלים"
+      ],
+      "correct_answer": "משלים",
+      "explanation_hebrew": "“complementary” פירושו משלים."
+    },
+    {
+      "id": "A-q23",
+      "word": "disciplined",
+      "type": "english_to_hebrew",
+      "question": "What does “disciplined” mean?",
+      "options": [
+        "ממושמע",
+        "קצב",
+        "הפסדים",
+        "יוקרה"
+      ],
+      "correct_answer": "ממושמע",
+      "explanation_hebrew": "“disciplined” פירושו ממושמע."
+    },
+    {
+      "id": "A-q24",
+      "word": "milestone",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אבן דרך”?",
+      "options": [
+        "milestone",
+        "founded",
+        "luxury",
+        "sensible"
+      ],
+      "correct_answer": "milestone",
+      "explanation_hebrew": "“milestone” פירושו אבן דרך."
+    },
+    {
+      "id": "A-q25",
+      "word": "luxury",
+      "type": "english_to_hebrew",
+      "question": "What does “luxury” mean?",
+      "options": [
+        "ייסד",
+        "יוקרה",
+        "תנופה",
+        "התאושש"
+      ],
+      "correct_answer": "יוקרה",
+      "explanation_hebrew": "“luxury” פירושו יוקרה."
+    }
+  ]
+}
