@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-02",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Autonomous aircraft: Pilot-free crop dusters lead the way",
+  "article_url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central argument?",
+      "difficulty": "C",
+      "options": [
+        "Passenger airlines have already removed all pilots from scheduled flights",
+        "Autonomous aircraft are developing first in specialised work, but wider use depends on solving safety and regulatory challenges",
+        "Electric air taxis are the only form of autonomous aviation being developed",
+        "Crop-spraying aircraft have been banned in both the US and Brazil"
+      ],
+      "correct_answer": "Autonomous aircraft are developing first in specialised work, but wider use depends on solving safety and regulatory challenges",
+      "explanation_hebrew": "הכתבה מראה שמטוסים אוטונומיים נכנסים תחילה למשימות כמו ריסוס ומטען, אך התרחבות לתעופה רחבה יותר תלויה בבטיחות וברגולציה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does Pyka say its pilot-free crop sprayer can use fewer chemicals?",
+      "difficulty": "C",
+      "options": [
+        "Its tank holds no more than 30 litres",
+        "It sprays only crops grown beside airports",
+        "It can fly lower, which reduces spray drift",
+        "Its human pilot selects every plant individually"
+      ],
+      "correct_answer": "It can fly lower, which reduces spray drift",
+      "explanation_hebrew": "טיסה נמוכה יותר מצמצמת את פיזור חומר הריסוס מחוץ לאזור היעד, ולכן נדרשים פחות כימיקלים."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does autonomous flight differ from conventional autopilot?",
+      "difficulty": "C",
+      "options": [
+        "Autonomous systems aim to handle the whole flight, while autopilot mainly assists a pilot",
+        "Autopilot can take off and land without any human input, but autonomy cannot",
+        "Autonomous aircraft never use sensors or algorithms",
+        "There is no practical difference between the two terms"
+      ],
+      "correct_answer": "Autonomous systems aim to handle the whole flight, while autopilot mainly assists a pilot",
+      "explanation_hebrew": "אוטופיילוט מסייע בדומה לבקרת שיוט, בעוד מערכת אוטונומית שואפת לנהל את כל הטיסה, כולל המראה ונחיתה, כמעט ללא התערבות אנושית."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why have self-flying planes developed more slowly than self-driving cars despite the more structured environment?",
+      "difficulty": "C",
+      "options": [
+        "Aircraft companies have no access to computer technology",
+        "Crop fields are less predictable than every public road",
+        "No military organisation is interested in autonomous flight",
+        "Investment focused heavily on cars, and aviation must meet much stricter safety standards"
+      ],
+      "correct_answer": "Investment focused heavily on cars, and aviation must meet much stricter safety standards",
+      "explanation_hebrew": "הכתבה מצביעה על השקעות טכנולוגיה גדולות יותר במכוניות ועל רף בטיחות גבוה בהרבה בתעופה בגלל חומרתן האפשרית של תאונות."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “the holy grail” mean when Pyka discusses passenger operations?",
+      "difficulty": "C",
+      "options": [
+        "A religious object carried on every aircraft",
+        "An especially ambitious and highly desired ultimate goal",
+        "A compulsory aviation certificate",
+        "A short test flight over farmland"
+      ],
+      "correct_answer": "An especially ambitious and highly desired ultimate goal",
+      "explanation_hebrew": "הביטוי holy grail מתאר יעד עליון, שאפתני ומבוקש במיוחד—כאן הפעלה רחבת היקף של טיסות נוסעים אוטונומיות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “retrofitting existing larger planes” mean?",
+      "difficulty": "C",
+      "options": [
+        "Building completely new aircraft without cockpits",
+        "Reducing an aircraft's payload before every flight",
+        "Converting aircraft into electric vertical-take-off vehicles",
+        "Adding autonomous technology to aircraft that were already designed and certified"
+      ],
+      "correct_answer": "Adding autonomous technology to aircraft that were already designed and certified",
+      "explanation_hebrew": "retrofitting פירושו להוסיף או להתאים טכנולוגיה חדשה לכלי טיס קיימים, במקום לתכנן כלי חדש מהתחלה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare Pyka's crop-spraying aircraft with the autonomous systems being developed by Reliable Robotics and Merlin Labs.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשוות את סוג כלי הטיס, שיטת הפיתוח, השימוש בבינה מלאכותית והגישה להפעלה אנושית.",
+      "expected_points": [
+        "Pyka builds cockpit-free aircraft from scratch for crop spraying or cargo",
+        "Pyka's electric crop sprayer flies about 35 minutes and carries up to 300L",
+        "Reliable retrofits a Cessna 208B Grand Caravan",
+        "Reliable avoids AI and uses fixed-rule software with radar",
+        "Reliable initially keeps a remote pilot for communications and safety decisions",
+        "Merlin adapts progressively larger existing aircraft",
+        "Merlin is applying its system to the C-130J",
+        "Merlin uses an AI-centred approach, including cameras and generative AI",
+        "Merlin plans to reduce pilots from two to one and eventually none"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Evaluate the main safety arguments for and against wider use of autonomous aircraft.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג טיעונים של תומכים ומתנגדים ולהסביר אילו בעיות טכניות או תפעוליות עדיין אינן פתורות.",
+      "expected_points": [
+        "Automation could remove pilots from dangerous crop-spraying work",
+        "One operator might oversee several aircraft",
+        "Supporters point to past safety gains from increased automation",
+        "Autonomous systems could address pilot shortages",
+        "Pilot groups argue that removing pilots is a serious safety gamble",
+        "Small uncrewed aircraft can be difficult for crop-dusting pilots to see",
+        "Detect-and-avoid systems must recognise aircraft and obstacles with almost no margin for error",
+        "Companies use radar, lidar, cameras and duplicated sensors as different solutions",
+        "Communication with air traffic control remains a major challenge",
+        "Strict certification reflects the severe consequences of air accidents"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the current state of autonomous fixed-wing aviation, using Pyka as the main example and including the barriers to passenger use.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול שימושים קיימים, יכולות המטוס של Pyka, מצב האישורים, שיטות של חברות אחרות והמכשולים בדרך לטיסות נוסעים.",
+      "expected_points": [
+        "Autonomous fixed-wing aircraft are entering crop spraying and cargo delivery first",
+        "Pyka operates crop sprayers in Brazil and has US civilian approval in a limited agricultural setting",
+        "Its aircraft can plan routes, avoid mapped obstacles, take off and land autonomously",
+        "A ground operator and visual observer are still required in the US",
+        "Windracers seeks approval for autonomous cargo service in the UK",
+        "Reliable and Merlin retrofit larger existing aircraft",
+        "Companies disagree over whether and how to use AI",
+        "Detecting other aircraft and communicating with air traffic control remain difficult",
+        "Aviation faces strict safety and certification requirements",
+        "Fully autonomous passenger services remain a long-term ambition"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced briefing for an aviation regulator considering a limited autonomous cargo or agricultural trial.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית מסמך מאוזן המבוסס על עובדות מהכתבה, להגדיר תועלות, אמצעי בטיחות, מגבלות ניסוי וקריטריונים להרחבה.",
+      "expected_points": [
+        "Identify a tightly defined agricultural or remote-cargo use case",
+        "Explain possible benefits such as safer dangerous work, lower costs or greater payload",
+        "Require ground oversight or a visual observer where appropriate",
+        "Address mapped obstacles and route planning",
+        "Require reliable detect-and-avoid sensors with back-up systems",
+        "Explain how air-traffic-control communication will be handled",
+        "Use staged approval rather than assuming immediate passenger readiness",
+        "Consider evidence from Pyka's US and Brazilian operations",
+        "Acknowledge concerns from pilots' associations",
+        "Set safety evidence and certification as conditions for expansion"
+      ]
+    }
+  ]
+}

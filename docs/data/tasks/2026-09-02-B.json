@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-02",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Soft launches to late sittings: Six ways to get cheaper meals out",
+  "article_url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the article?",
+      "difficulty": "B",
+      "options": [
+        "To argue that every restaurant should charge the same price",
+        "To give six practical ways of spending less on restaurant or takeaway food",
+        "To compare the nutritional value of six restaurant chains",
+        "To explain why supermarkets no longer offer loyalty points"
+      ],
+      "correct_answer": "To give six practical ways of spending less on restaurant or takeaway food",
+      "explanation_hebrew": "הכתבה בנויה כרשימה של שש דרכים מעשיות לחסוך כסף בארוחות מחוץ לבית או באוכל לקחת."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does the First Table app help diners save money?",
+      "difficulty": "B",
+      "options": [
+        "It gives free meals after ten peak-time bookings",
+        "It converts supermarket points into airline miles",
+        "It offers 50% off food for a participating restaurant's first or last dining slot, for a small booking fee",
+        "It sells unknown surplus food at the end of the day"
+      ],
+      "correct_answer": "It offers 50% off food for a participating restaurant's first or last dining slot, for a small booking fee",
+      "explanation_hebrew": "First Table מעניקה 50% הנחה על האוכל בהזמנת הישיבה הראשונה או האחרונה, תמורת עמלת הזמנה קטנה."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What can 50p in Tesco Clubcard points become at participating Prezzo restaurants?",
+      "difficulty": "B",
+      "options": [
+        "£1.50 in vouchers",
+        "50% off the entire bill",
+        "A free children's meal",
+        "£5 in cash"
+      ],
+      "correct_answer": "£1.50 in vouchers",
+      "explanation_hebrew": "לפי הדוגמה בכתבה, 50 פני בנקודות Clubcard ניתנים להמרה לשובר בשווי 1.50 ליש״ט אצל מסעדות Prezzo משתתפות."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do restaurants often offer their largest discounts at off-peak times?",
+      "difficulty": "B",
+      "options": [
+        "Food is always cheaper to cook in the morning",
+        "Customers are legally required to eat earlier",
+        "Restaurants want every customer to order only one course",
+        "They want to fill seats that might otherwise remain empty"
+      ],
+      "correct_answer": "They want to fill seats that might otherwise remain empty",
+      "explanation_hebrew": "הנחות בשעות שקטות הן תמריץ שמסייע למסעדות למלא מושבים מחוץ לשעות השיא."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a restaurant “soft launch”?",
+      "difficulty": "B",
+      "options": [
+        "A temporary opening period with discounts designed to attract customers and build awareness",
+        "A menu containing only drinks and desserts",
+        "A permanent closure on quiet weekdays",
+        "A loyalty scheme that requires an annual fee"
+      ],
+      "correct_answer": "A temporary opening period with discounts designed to attract customers and build awareness",
+      "explanation_hebrew": "soft launch הוא שלב פתיחה שבו מסעדה חדשה מציעה הנחות כדי למשוך לקוחות ולעורר עניין לפני פעילות מלאה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “hard to swallow” mean in the opening sentence?",
+      "difficulty": "B",
+      "options": [
+        "Physically difficult to chew",
+        "Served at the wrong temperature",
+        "Difficult to accept because eating out is expensive",
+        "Available only as takeaway food"
+      ],
+      "correct_answer": "Difficult to accept because eating out is expensive",
+      "explanation_hebrew": "הביטוי hard to swallow משמש כאן באופן מושאל: המחיר הגבוה קשה לקבל או להתמודד איתו."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare four different saving methods from the article and explain what a diner must do to use each one.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר ארבע שיטות שונות ולציין את התנאי או הפעולה הנדרשים בכל אחת.",
+      "expected_points": [
+        "Join a restaurant loyalty programme to earn points, freebies or discounts",
+        "Book the first or last dining slot through First Table and pay a small booking fee",
+        "Redeem an EatClub offer for a walk-in visit",
+        "Use a children's meal deal with a paying adult",
+        "Find a new restaurant's soft-launch discount through opening newsletters",
+        "Convert supermarket loyalty points into restaurant vouchers",
+        "Use surplus-food apps to buy food that would otherwise be wasted"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What trade-offs or limitations should diners consider when using the money-saving ideas?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לזהות לפחות שלוש מגבלות או פשרות מתוך פרטי הכתבה, ולא להציג את ההנחות כחסרות תנאים.",
+      "expected_points": [
+        "Some loyalty schemes charge an annual fee",
+        "Off-peak discounts require eating earlier or later",
+        "First Table charges a booking fee",
+        "Kids' offers may require a paying adult or apply only during holidays",
+        "Soft-launch offers may be temporary",
+        "Supermarket vouchers work only with participating partners",
+        "Surplus-food app users may not know exactly what food they will receive",
+        "Offers vary by venue, city and time"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the six approaches to cheaper meals and the economic context behind them.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שהוצאות המחיה ומחירי המסעדות גבוהים ולסכם את כל שש דרכי החיסכון בקצרה.",
+      "expected_points": [
+        "More than a third of Britons are cutting back on restaurants",
+        "Restaurants face higher food, energy, wage and tax costs",
+        "Loyalty programmes offer points, freebies and discounts",
+        "Early or late sittings can cost less",
+        "Some venues offer free or low-cost children's meals",
+        "Soft launches let diners try new restaurants at a discount",
+        "Supermarket points can be converted into restaurant vouchers",
+        "Surplus-food apps sell or give away food that might otherwise be wasted"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Create a realistic low-cost dining plan for a family or group using at least three ideas from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית תכנית מעשית, להסביר כיצד כל בחירה חוסכת כסף ולהכיר לפחות במגבלה אחת.",
+      "expected_points": [
+        "Choose an off-peak breakfast, early dinner or late sitting",
+        "Check whether a children's meal deal requires a paying adult",
+        "Use an existing loyalty programme or restaurant reward",
+        "Look for a local soft launch",
+        "Convert eligible supermarket points into vouchers",
+        "Consider a surplus-food app for takeaway items",
+        "Mention booking fees, limited venues or uncertain surplus contents",
+        "Do not invent a discount amount not stated in the article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-02",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Urine test can spot more than nine in 10 bladder cancers",
+  "article_url": "https://www.bbc.co.uk/news/articles/crr40g71vylo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "An NHS trial of an at-home urine test that may help detect and rule out bladder cancer",
+        "A new operation that completely replaces every bladder examination",
+        "A campaign to stop genetic research into cancer",
+        "A survey of hospital waiting times for all diseases"
+      ],
+      "correct_answer": "An NHS trial of an at-home urine test that may help detect and rule out bladder cancer",
+      "explanation_hebrew": "הכתבה מתמקדת בניסוי של בדיקת שתן ביתית שמראה יכולת מבטיחה לזהות סרטן שלפוחית השתן ולשלול אותו."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How large was the study described in the article?",
+      "difficulty": "A",
+      "options": [
+        "About 300 patients at one hospital",
+        "Nearly 1,000 patients at seven hospitals in England and Scotland",
+        "More than 300,000 patients across Europe",
+        "Exactly 450 patients at 23 hospitals"
+      ],
+      "correct_answer": "Nearly 1,000 patients at seven hospitals in England and Scotland",
+      "explanation_hebrew": "המחקר כלל כמעט אלף מטופלים בשבעה בתי חולים באנגליה ובסקוטלנד."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did a negative Galeas test result indicate?",
+      "difficulty": "A",
+      "options": [
+        "The patient definitely needed immediate surgery",
+        "The test had found one of 23 genes",
+        "There was more than a 99% chance the patient did not have bladder cancer",
+        "The patient was among the 8% of missed cases"
+      ],
+      "correct_answer": "There was more than a 99% chance the patient did not have bladder cancer",
+      "explanation_hebrew": "לפי תוצאות הניסוי, תשובה שלילית פירושה הסתברות של יותר מ־99% שאין למטופל סרטן בשלפוחית השתן."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could the urine test reduce pressure on cystoscopy waiting lists without replacing cystoscopies?",
+      "difficulty": "A",
+      "options": [
+        "It can cure cancer before any examination",
+        "It is performed only after a cystoscopy",
+        "It removes the need to investigate blood in urine",
+        "It may help doctors prioritise higher-risk patients for urgent invasive checks"
+      ],
+      "correct_answer": "It may help doctors prioritise higher-risk patients for urgent invasive checks",
+      "explanation_hebrew": "הבדיקה אינה מחליפה ציסטוסקופיה, אך היא עשויה לעזור לזהות מי בסיכון גבוה וזקוק לבדיקה פולשנית דחופה יותר."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “invasive procedures” mean in the description of cystoscopies?",
+      "difficulty": "A",
+      "options": [
+        "Procedures involving instruments entering the body",
+        "Tests based only on a written questionnaire",
+        "Treatments that are always performed at home",
+        "Research studies involving many hospitals"
+      ],
+      "correct_answer": "Procedures involving instruments entering the body",
+      "explanation_hebrew": "הליך invasive הוא הליך שבו מכשיר נכנס לגוף; בציסטוסקופיה מוחדרת מצלמה דרך השופכה לשלפוחית השתן."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “genetic material shed into the urine” mean?",
+      "difficulty": "A",
+      "options": [
+        "DNA that has been deliberately added to a sample",
+        "Genes that disappear after treatment",
+        "Genetic material released by cancer cells and found in urine",
+        "A list of family medical histories"
+      ],
+      "correct_answer": "Genetic material released by cancer cells and found in urine",
+      "explanation_hebrew": "בהקשר זה shed פירושו חומר גנטי שמשתחרר מתאי הסרטן ומגיע אל השתן."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain how the Galeas test works and report its main performance results.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר מה הבדיקה מחפשת ולציין במדויק את שני נתוני הביצועים המרכזיים.",
+      "expected_points": [
+        "It examines an at-home urine sample",
+        "It searches for genetic material released by bladder cancer",
+        "It checks more than 450 DNA mutations",
+        "The mutations are associated with bladder cancer across 23 genes",
+        "It identified 92% of bladder cancer cases in the NHS trial",
+        "A negative result gave more than a 99% chance that the patient did not have bladder cancer"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do researchers describe the findings as promising but still say further research is needed?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג הן את הראיות המעודדות והן את הסיבות לזהירות, בלי לטעון שהבדיקה כבר החליפה את השיטה הקיימת.",
+      "expected_points": [
+        "The test detected 92% of cases",
+        "A negative result was highly reliable in the trial",
+        "The study involved nearly 1,000 real-world patients",
+        "The test could reduce unnecessary urgent invasive procedures",
+        "The findings are still described as early performance",
+        "A larger trial must succeed before wider use",
+        "The test is not currently a replacement for cystoscopy",
+        "Further research is needed to confirm effectiveness"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the purpose, method, results and possible impact of the urine-test trial.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מטרת הבדיקה, אוכלוסיית המחקר, אופן הפעולה, הנתונים העיקריים והשפעה אפשרית על המטופלים.",
+      "expected_points": [
+        "The NHS has trialled an at-home urine test for bladder cancer",
+        "Nearly 1,000 patients took part at seven hospitals",
+        "The test searches for cancer-related DNA mutations in urine",
+        "It identified 92% of bladder cancer cases",
+        "A negative result meant more than a 99% chance of no bladder cancer",
+        "It could help prioritise high-risk patients for cystoscopy",
+        "It might spare tens of thousands from urgent invasive tests if a larger trial succeeds",
+        "It does not replace cystoscopy at present",
+        "Early detection and treatment can save lives"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short patient-friendly explanation of what the test can and cannot currently do.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית פשוטה ומדויקת, לכלול לפחות ארבע עובדות, להסביר את מגבלות הבדיקה ולהימנע מהבטחה לאבחון ודאי.",
+      "expected_points": [
+        "Describe the test as an at-home urine test being trialled by the NHS",
+        "Explain that it looks for cancer-related genetic material",
+        "State the 92% detection result",
+        "Explain the meaning of a negative result",
+        "Clarify that it does not replace cystoscopy",
+        "Explain that it may help doctors prioritise urgent cases",
+        "Mention that a larger trial and further research are needed",
+        "Advise that blood in urine is a main symptom mentioned in the article without giving unsupported medical advice"
+      ]
+    }
+  ]
+}
