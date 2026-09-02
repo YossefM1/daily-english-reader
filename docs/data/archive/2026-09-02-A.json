@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-02",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Urine test can spot more than nine in 10 bladder cancers",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/crr40g71vylo",
+  "published_at": "2026-09-02T01:39:17+00:00",
+  "age_hours_at_selection": 0.6,
+  "word_count": 429,
+  "generated_at": "2026-09-02T02:15:07.849905+00:00",
+  "difficulty_reason": "Short, direct health report with a clear single story, mostly B1/B2 vocabulary and little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "trialling",
+      "lemma": "trial",
+      "level": "B2",
+      "hebrew": "בּוֹחֵן בְּנִיסּוּי",
+      "explanation_hebrew": "עוֹרֵךְ נִיסּוּי מְבֻקָּר כְּדֵי לִבְדֹּק מַשֶּׁהוּ",
+      "pronunciation_hebrew": "טְרַייאָלִינְג",
+      "example": "The NHS has been trialling a new test."
+    },
+    {
+      "word": "detect",
+      "lemma": "detect",
+      "level": "B1",
+      "hebrew": "לְגַלּוֹת",
+      "explanation_hebrew": "לִמְצֹא אוֹ לִמְצֹא מַשֶּׁהוּ שֶׁקָּשֶׁה לִרְאוֹת",
+      "pronunciation_hebrew": "דִיטֶקְט",
+      "example": "The test can detect cancer early."
+    },
+    {
+      "word": "findings",
+      "lemma": "finding",
+      "level": "B2",
+      "hebrew": "מִמְצָאִים",
+      "explanation_hebrew": "הַתּוֹצָאוֹת אוֹ הַמַּסְקָנוֹת שֶׁל מֶחְקָר",
+      "pronunciation_hebrew": "פַייְנְדִינְגְז",
+      "example": "The findings were published in a journal."
+    },
+    {
+      "word": "diagnostics",
+      "lemma": "diagnostics",
+      "level": "C1",
+      "hebrew": "אַבְחוּן",
+      "explanation_hebrew": "שִׁיטוֹת לְאַבְחוּן מַחֲלוֹת",
+      "pronunciation_hebrew": "דַייאַגְנוֹסְטִיקְס",
+      "example": "A diagnostics company developed the kit."
+    },
+    {
+      "word": "reduce",
+      "lemma": "reduce",
+      "level": "B1",
+      "hebrew": "לְהַפְחִית",
+      "explanation_hebrew": "לְהַקְטִין כַּמּוּת אוֹ מִסְפָּר",
+      "pronunciation_hebrew": "רִידְיוּס",
+      "example": "The test could reduce waiting times."
+    },
+    {
+      "word": "urgent",
+      "lemma": "urgent",
+      "level": "B1",
+      "hebrew": "דָּחוּף",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁצָּרִיךְ טִפּוּל מִיָּד",
+      "pronunciation_hebrew": "אֶרְגֶ'נְט",
+      "example": "She needed urgent medical care."
+    },
+    {
+      "word": "invasive",
+      "lemma": "invasive",
+      "level": "B2",
+      "hebrew": "פּוֹלְשָׁנִי",
+      "explanation_hebrew": "הֲלִיךְ רְפוּאִי שֶׁחוֹדֵר לְתוֹךְ הַגּוּף",
+      "pronunciation_hebrew": "אִינְוֵייסִיב",
+      "example": "Surgery is an invasive procedure."
+    },
+    {
+      "word": "procedures",
+      "lemma": "procedure",
+      "level": "B2",
+      "hebrew": "הֲלִיכִים",
+      "explanation_hebrew": "פְּעֻלּוֹת רְפוּאִיּוֹת מְתֻכְנָנוֹת",
+      "pronunciation_hebrew": "פְּרוֹסִיגֶ'רְז",
+      "example": "The clinic performs many procedures each day."
+    },
+    {
+      "word": "inserting",
+      "lemma": "insert",
+      "level": "B2",
+      "hebrew": "מַכְנִיס/הַחְדָּרָה",
+      "explanation_hebrew": "לְהַכְנִיס מַשֶּׁהוּ לְתוֹךְ מַשֶּׁהוּ אַחֵר",
+      "pronunciation_hebrew": "אִינְסֶרְטִינְג",
+      "example": "The doctor is inserting a small camera."
+    },
+    {
+      "word": "spared",
+      "lemma": "spare",
+      "level": "B2",
+      "hebrew": "נֶחְסָךְ",
+      "explanation_hebrew": "לֹא נֶאֱלָץ לַעֲבֹר מַשֶּׁהוּ לֹא נָעִים",
+      "pronunciation_hebrew": "סְפֶּרְד",
+      "example": "Many patients could be spared painful tests."
+    },
+    {
+      "word": "significant",
+      "lemma": "significant",
+      "level": "B2",
+      "hebrew": "מַשְׁמָעוּתִי",
+      "explanation_hebrew": "גָּדוֹל אוֹ חָשׁוּב",
+      "pronunciation_hebrew": "סִיגְנִיפִיקַנְט",
+      "example": "There are significant waiting lists."
+    },
+    {
+      "word": "replacement",
+      "lemma": "replacement",
+      "level": "B2",
+      "hebrew": "תַּחֲלִיף",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁבָּא בִּמְקוֹם דָּבָר אַחֵר",
+      "pronunciation_hebrew": "רִיפְּלֵייסְמֶנְט",
+      "example": "The test is not a replacement for surgery."
+    },
+    {
+      "word": "identify",
+      "lemma": "identify",
+      "level": "B2",
+      "hebrew": "לְזַהוֹת",
+      "explanation_hebrew": "לְמַצֵּא מִי אוֹ מַה מַשֶּׁהוּ",
+      "pronunciation_hebrew": "אַייְדֶנְטִיפַיי",
+      "example": "Doctors can identify patients at risk."
+    },
+    {
+      "word": "prioritised",
+      "lemma": "prioritise",
+      "level": "C1",
+      "hebrew": "תֻּעְדַּף",
+      "explanation_hebrew": "נִבְחָר לְטִפּוּל רִאשׁוֹן וְקוֹדֵם",
+      "pronunciation_hebrew": "פְּרַייאוֹרִיטַייְזְד",
+      "example": "Serious cases should be prioritised."
+    },
+    {
+      "word": "negative",
+      "lemma": "negative",
+      "level": "B1",
+      "hebrew": "שְׁלִילִי",
+      "explanation_hebrew": "תּוֹצָאָה שֶׁמַּרְאָה שֶׁאֵין בְּעָיָה",
+      "pronunciation_hebrew": "נֶגַטִיב",
+      "example": "A negative result is good news here."
+    },
+    {
+      "word": "genetic",
+      "lemma": "genetic",
+      "level": "B2",
+      "hebrew": "גֶּנֶטִי",
+      "explanation_hebrew": "קָשׁוּר לַגֵּנִים שֶׁל הַגּוּף",
+      "pronunciation_hebrew": "גֶ'נֶטִיק",
+      "example": "The test checks for genetic material."
+    },
+    {
+      "word": "mutations",
+      "lemma": "mutation",
+      "level": "C1",
+      "hebrew": "מוּטַצְיוֹת",
+      "explanation_hebrew": "שִׁנּוּיִים בַּחֹמֶר הַגֵּנֶטִי",
+      "pronunciation_hebrew": "מְיוּטֵיישֶׁנְז",
+      "example": "Cancer can cause DNA mutations."
+    },
+    {
+      "word": "associated",
+      "lemma": "associate",
+      "level": "B2",
+      "hebrew": "קָשׁוּר",
+      "explanation_hebrew": "מְחֻבָּר אוֹ שַׁיָּךְ לְמַשֶּׁהוּ",
+      "pronunciation_hebrew": "אַסוֹסִייֵיטֶד",
+      "example": "These mutations are associated with cancer."
+    },
+    {
+      "word": "promising",
+      "lemma": "promising",
+      "level": "B2",
+      "hebrew": "מַבְטִיחַ",
+      "explanation_hebrew": "נִרְאֶה שֶׁיַּצְלִיחַ אוֹ יִהְיֶה טוֹב",
+      "pronunciation_hebrew": "פְּרוֹמִיסִינְג",
+      "example": "The early results were very promising."
+    },
+    {
+      "word": "population",
+      "lemma": "population",
+      "level": "B1",
+      "hebrew": "אֻכְלוּסִיָּה",
+      "explanation_hebrew": "קְבוּצַת אֲנָשִׁים אוֹ מְטֻפָּלִים",
+      "pronunciation_hebrew": "פּוֹפְּיוּלֵיישֶׁן",
+      "example": "The test worked in a large patient population."
+    },
+    {
+      "word": "licensing",
+      "lemma": "licensing",
+      "level": "C1",
+      "hebrew": "רִשּׁוּי",
+      "explanation_hebrew": "הֶסְכֵּם שֶׁמַּתִּיר שִׁמּוּשׁ מִסְחָרִי",
+      "pronunciation_hebrew": "לַייסֶנְסִינְג",
+      "example": "They signed a licensing agreement."
+    },
+    {
+      "word": "revenue",
+      "lemma": "revenue",
+      "level": "B2",
+      "hebrew": "הַכְנָסָה",
+      "explanation_hebrew": "הַכֶּסֶף שֶׁעֵסֶק מַרְוִיחַ",
+      "pronunciation_hebrew": "רֶבֶנְיוּ",
+      "example": "Part of the revenue goes to the university."
+    },
+    {
+      "word": "essential",
+      "lemma": "essential",
+      "level": "B1",
+      "hebrew": "חִיּוּנִי",
+      "explanation_hebrew": "חָשׁוּב מְאֹד וְהֶכְרֵחִי",
+      "pronunciation_hebrew": "אִיסֶנְשֶׁל",
+      "example": "It is essential to find faster tests."
+    },
+    {
+      "word": "tackle",
+      "lemma": "tackle",
+      "level": "B2",
+      "hebrew": "לְהִתְמוֹדֵד עִם",
+      "explanation_hebrew": "לְנַסּוֹת לִפְתֹּר בְּעָיָה",
+      "pronunciation_hebrew": "טַאקְל",
+      "example": "We must tackle long waiting times."
+    },
+    {
+      "word": "symptom",
+      "lemma": "symptom",
+      "level": "B2",
+      "hebrew": "תַּסְמִין",
+      "explanation_hebrew": "סִימָן שֶׁל מַחֲלָה בַּגּוּף",
+      "pronunciation_hebrew": "סִימְפְּטוֹם",
+      "example": "The main symptom is blood in the urine."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "trialling",
+      "type": "english_to_hebrew",
+      "question": "What does “trialling” mean?",
+      "options": [
+        "בּוֹחֵן בְּנִיסּוּי",
+        "לְגַלּוֹת",
+        "אַבְחוּן",
+        "מִמְצָאִים"
+      ],
+      "correct_answer": "בּוֹחֵן בְּנִיסּוּי",
+      "explanation_hebrew": "“trialling” פירושו בּוֹחֵן בְּנִיסּוּי."
+    },
+    {
+      "id": "A-q2",
+      "word": "detect",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְגַלּוֹת”?",
+      "options": [
+        "diagnostics",
+        "findings",
+        "reduce",
+        "detect"
+      ],
+      "correct_answer": "detect",
+      "explanation_hebrew": "“detect” פירושו לְגַלּוֹת."
+    },
+    {
+      "id": "A-q3",
+      "word": "findings",
+      "type": "english_to_hebrew",
+      "question": "What does “findings” mean?",
+      "options": [
+        "מִמְצָאִים",
+        "אַבְחוּן",
+        "דָּחוּף",
+        "לְהַפְחִית"
+      ],
+      "correct_answer": "מִמְצָאִים",
+      "explanation_hebrew": "“findings” פירושו מִמְצָאִים."
+    },
+    {
+      "id": "A-q4",
+      "word": "diagnostics",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אַבְחוּן”?",
+      "options": [
+        "invasive",
+        "diagnostics",
+        "reduce",
+        "urgent"
+      ],
+      "correct_answer": "diagnostics",
+      "explanation_hebrew": "“diagnostics” פירושו אַבְחוּן."
+    },
+    {
+      "id": "A-q5",
+      "word": "reduce",
+      "type": "english_to_hebrew",
+      "question": "What does “reduce” mean?",
+      "options": [
+        "פּוֹלְשָׁנִי",
+        "לְהַפְחִית",
+        "דָּחוּף",
+        "הֲלִיכִים"
+      ],
+      "correct_answer": "לְהַפְחִית",
+      "explanation_hebrew": "“reduce” פירושו לְהַפְחִית."
+    },
+    {
+      "id": "A-q6",
+      "word": "urgent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דָּחוּף”?",
+      "options": [
+        "urgent",
+        "procedures",
+        "invasive",
+        "inserting"
+      ],
+      "correct_answer": "urgent",
+      "explanation_hebrew": "“urgent” פירושו דָּחוּף."
+    },
+    {
+      "id": "A-q7",
+      "word": "invasive",
+      "type": "english_to_hebrew",
+      "question": "What does “invasive” mean?",
+      "options": [
+        "הֲלִיכִים",
+        "נֶחְסָךְ",
+        "פּוֹלְשָׁנִי",
+        "מַכְנִיס/הַחְדָּרָה"
+      ],
+      "correct_answer": "פּוֹלְשָׁנִי",
+      "explanation_hebrew": "“invasive” פירושו פּוֹלְשָׁנִי."
+    },
+    {
+      "id": "A-q8",
+      "word": "procedures",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הֲלִיכִים”?",
+      "options": [
+        "procedures",
+        "inserting",
+        "significant",
+        "spared"
+      ],
+      "correct_answer": "procedures",
+      "explanation_hebrew": "“procedures” פירושו הֲלִיכִים."
+    },
+    {
+      "id": "A-q9",
+      "word": "inserting",
+      "type": "english_to_hebrew",
+      "question": "What does “inserting” mean?",
+      "options": [
+        "תַּחֲלִיף",
+        "מַכְנִיס/הַחְדָּרָה",
+        "נֶחְסָךְ",
+        "מַשְׁמָעוּתִי"
+      ],
+      "correct_answer": "מַכְנִיס/הַחְדָּרָה",
+      "explanation_hebrew": "“inserting” פירושו מַכְנִיס/הַחְדָּרָה."
+    },
+    {
+      "id": "A-q10",
+      "word": "spared",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נֶחְסָךְ”?",
+      "options": [
+        "identify",
+        "replacement",
+        "spared",
+        "significant"
+      ],
+      "correct_answer": "spared",
+      "explanation_hebrew": "“spared” פירושו נֶחְסָךְ."
+    },
+    {
+      "id": "A-q11",
+      "word": "significant",
+      "type": "english_to_hebrew",
+      "question": "What does “significant” mean?",
+      "options": [
+        "מַשְׁמָעוּתִי",
+        "לְזַהוֹת",
+        "תֻּעְדַּף",
+        "תַּחֲלִיף"
+      ],
+      "correct_answer": "מַשְׁמָעוּתִי",
+      "explanation_hebrew": "“significant” פירושו מַשְׁמָעוּתִי."
+    },
+    {
+      "id": "A-q12",
+      "word": "replacement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תַּחֲלִיף”?",
+      "options": [
+        "prioritised",
+        "replacement",
+        "negative",
+        "identify"
+      ],
+      "correct_answer": "replacement",
+      "explanation_hebrew": "“replacement” פירושו תַּחֲלִיף."
+    },
+    {
+      "id": "A-q13",
+      "word": "identify",
+      "type": "english_to_hebrew",
+      "question": "What does “identify” mean?",
+      "options": [
+        "גֶּנֶטִי",
+        "שְׁלִילִי",
+        "לְזַהוֹת",
+        "תֻּעְדַּף"
+      ],
+      "correct_answer": "לְזַהוֹת",
+      "explanation_hebrew": "“identify” פירושו לְזַהוֹת."
+    },
+    {
+      "id": "A-q14",
+      "word": "prioritised",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תֻּעְדַּף”?",
+      "options": [
+        "prioritised",
+        "negative",
+        "mutations",
+        "genetic"
+      ],
+      "correct_answer": "prioritised",
+      "explanation_hebrew": "“prioritised” פירושו תֻּעְדַּף."
+    },
+    {
+      "id": "A-q15",
+      "word": "negative",
+      "type": "english_to_hebrew",
+      "question": "What does “negative” mean?",
+      "options": [
+        "שְׁלִילִי",
+        "מוּטַצְיוֹת",
+        "גֶּנֶטִי",
+        "קָשׁוּר"
+      ],
+      "correct_answer": "שְׁלִילִי",
+      "explanation_hebrew": "“negative” פירושו שְׁלִילִי."
+    },
+    {
+      "id": "A-q16",
+      "word": "genetic",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גֶּנֶטִי”?",
+      "options": [
+        "promising",
+        "mutations",
+        "associated",
+        "genetic"
+      ],
+      "correct_answer": "genetic",
+      "explanation_hebrew": "“genetic” פירושו גֶּנֶטִי."
+    },
+    {
+      "id": "A-q17",
+      "word": "mutations",
+      "type": "english_to_hebrew",
+      "question": "What does “mutations” mean?",
+      "options": [
+        "מוּטַצְיוֹת",
+        "קָשׁוּר",
+        "מַבְטִיחַ",
+        "אֻכְלוּסִיָּה"
+      ],
+      "correct_answer": "מוּטַצְיוֹת",
+      "explanation_hebrew": "“mutations” פירושו מוּטַצְיוֹת."
+    },
+    {
+      "id": "A-q18",
+      "word": "associated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קָשׁוּר”?",
+      "options": [
+        "associated",
+        "promising",
+        "population",
+        "licensing"
+      ],
+      "correct_answer": "associated",
+      "explanation_hebrew": "“associated” פירושו קָשׁוּר."
+    },
+    {
+      "id": "A-q19",
+      "word": "promising",
+      "type": "english_to_hebrew",
+      "question": "What does “promising” mean?",
+      "options": [
+        "הַכְנָסָה",
+        "רִשּׁוּי",
+        "אֻכְלוּסִיָּה",
+        "מַבְטִיחַ"
+      ],
+      "correct_answer": "מַבְטִיחַ",
+      "explanation_hebrew": "“promising” פירושו מַבְטִיחַ."
+    },
+    {
+      "id": "A-q20",
+      "word": "population",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אֻכְלוּסִיָּה”?",
+      "options": [
+        "revenue",
+        "essential",
+        "licensing",
+        "population"
+      ],
+      "correct_answer": "population",
+      "explanation_hebrew": "“population” פירושו אֻכְלוּסִיָּה."
+    },
+    {
+      "id": "A-q21",
+      "word": "licensing",
+      "type": "english_to_hebrew",
+      "question": "What does “licensing” mean?",
+      "options": [
+        "לְהִתְמוֹדֵד עִם",
+        "רִשּׁוּי",
+        "הַכְנָסָה",
+        "חִיּוּנִי"
+      ],
+      "correct_answer": "רִשּׁוּי",
+      "explanation_hebrew": "“licensing” פירושו רִשּׁוּי."
+    },
+    {
+      "id": "A-q22",
+      "word": "revenue",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַכְנָסָה”?",
+      "options": [
+        "tackle",
+        "revenue",
+        "essential",
+        "symptom"
+      ],
+      "correct_answer": "revenue",
+      "explanation_hebrew": "“revenue” פירושו הַכְנָסָה."
+    },
+    {
+      "id": "A-q23",
+      "word": "essential",
+      "type": "english_to_hebrew",
+      "question": "What does “essential” mean?",
+      "options": [
+        "חִיּוּנִי",
+        "לְהִתְמוֹדֵד עִם",
+        "תַּסְמִין",
+        "בּוֹחֵן בְּנִיסּוּי"
+      ],
+      "correct_answer": "חִיּוּנִי",
+      "explanation_hebrew": "“essential” פירושו חִיּוּנִי."
+    },
+    {
+      "id": "A-q24",
+      "word": "tackle",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהִתְמוֹדֵד עִם”?",
+      "options": [
+        "detect",
+        "symptom",
+        "trialling",
+        "tackle"
+      ],
+      "correct_answer": "tackle",
+      "explanation_hebrew": "“tackle” פירושו לְהִתְמוֹדֵד עִם."
+    },
+    {
+      "id": "A-q25",
+      "word": "symptom",
+      "type": "english_to_hebrew",
+      "question": "What does “symptom” mean?",
+      "options": [
+        "בּוֹחֵן בְּנִיסּוּי",
+        "תַּסְמִין",
+        "לְגַלּוֹת",
+        "מִמְצָאִים"
+      ],
+      "correct_answer": "תַּסְמִין",
+      "explanation_hebrew": "“symptom” פירושו תַּסְמִין."
+    }
+  ]
+}

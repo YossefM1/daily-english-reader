@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-02",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Autonomous aircraft: Pilot-free crop dusters lead the way",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o",
+  "published_at": "2026-09-01T23:27:35+00:00",
+  "age_hours_at_selection": 2.79,
+  "word_count": 1413,
+  "generated_at": "2026-09-02T02:15:07.849905+00:00",
+  "difficulty_reason": "Long, information-dense analytical piece with technical detail, longer sentences and B2/C1/C2 vocabulary requiring some background.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "conventional",
+      "lemma": "conventional",
+      "level": "B2",
+      "hebrew": "מְקֻבָּל/רָגִיל",
+      "explanation_hebrew": "הַדֶּרֶךְ הָרְגִילָה וְהַמְּסֻרְתִּית",
+      "pronunciation_hebrew": "קוֹנְבֶנְשֶׁנַל",
+      "example": "Conventional planes need a human pilot."
+    },
+    {
+      "word": "hangar",
+      "lemma": "hangar",
+      "level": "B2",
+      "hebrew": "מוּסַךְ מְטוֹסִים",
+      "explanation_hebrew": "מִבְנֶה גָּדוֹל לְאַחְסוּן מְטוֹסִים",
+      "pronunciation_hebrew": "הַאנְגַר",
+      "example": "The start-up works in an old hangar."
+    },
+    {
+      "word": "autonomous",
+      "lemma": "autonomous",
+      "level": "C1",
+      "hebrew": "עַצְמָאִי/אוֹטוֹנוֹמִי",
+      "explanation_hebrew": "פּוֹעֵל לְבַד בְּלִי הַכְוָנַת אָדָם",
+      "pronunciation_hebrew": "אוֹטוֹנוֹמַס",
+      "example": "The company builds autonomous aircraft."
+    },
+    {
+      "word": "deploy",
+      "lemma": "deploy",
+      "level": "B2",
+      "hebrew": "לְהַפְעִיל/לְפָרֵשׂ",
+      "explanation_hebrew": "לְהַכְנִיס לְשִׁמּוּשׁ בַּשֶּׁטַח",
+      "pronunciation_hebrew": "דִיפְּלוֹי",
+      "example": "They race to deploy self-flying planes."
+    },
+    {
+      "word": "ubiquitous",
+      "lemma": "ubiquitous",
+      "level": "C2",
+      "hebrew": "נִמְצָא בְּכָל מָקוֹם",
+      "explanation_hebrew": "קַיָּם אוֹ נָפוֹץ בְּכָל מָקוֹם",
+      "pronunciation_hebrew": "יוּבִּיקְוִיטַס",
+      "example": "They dream of ubiquitous passenger flights."
+    },
+    {
+      "word": "envisions",
+      "lemma": "envision",
+      "level": "C1",
+      "hebrew": "מְדַמְיֵן/צוֹפֶה",
+      "explanation_hebrew": "מְתָאֵר לְעַצְמוֹ אֵיךְ הֶעָתִיד יִהְיֶה",
+      "pronunciation_hebrew": "אִינְוִיזֶ'נְז",
+      "example": "He envisions a large fleet of planes."
+    },
+    {
+      "word": "fleet",
+      "lemma": "fleet",
+      "level": "B2",
+      "hebrew": "צִי",
+      "explanation_hebrew": "קְבוּצָה גְּדוֹלָה שֶׁל מְטוֹסִים אוֹ כְּלֵי רֶכֶב",
+      "pronunciation_hebrew": "פְלִיט",
+      "example": "The airline has a fleet of new planes."
+    },
+    {
+      "word": "ferrying",
+      "lemma": "ferry",
+      "level": "B2",
+      "hebrew": "מַסִּיעַ/מוֹבִיל",
+      "explanation_hebrew": "מַעֲבִיר אֲנָשִׁים אוֹ סְחוֹרוֹת מִמָּקוֹם לְמָקוֹם",
+      "pronunciation_hebrew": "פֶרִיאִינְג",
+      "example": "The planes would be ferrying passengers."
+    },
+    {
+      "word": "obstacles",
+      "lemma": "obstacle",
+      "level": "B2",
+      "hebrew": "מִכְשׁוֹלִים",
+      "explanation_hebrew": "דְּבָרִים שֶׁחוֹסְמִים אוֹ מַפְרִיעִים",
+      "pronunciation_hebrew": "אוֹבְּסְטַקְלְז",
+      "example": "The software avoids obstacles like power lines."
+    },
+    {
+      "word": "seamless",
+      "lemma": "seamless",
+      "level": "C1",
+      "hebrew": "חָלָק/רָצוּף",
+      "explanation_hebrew": "מִתְבַּצֵּעַ בְּלִי הַפְרָעוֹת אוֹ תַּקָּלוֹת",
+      "pronunciation_hebrew": "סִימְלֶס",
+      "example": "The take-off was completely seamless."
+    },
+    {
+      "word": "intervention",
+      "lemma": "intervention",
+      "level": "B2",
+      "hebrew": "הִתְעָרְבוּת",
+      "explanation_hebrew": "כְּנִיסָה כְּדֵי לְהַשְׁפִּיעַ עַל מַצָּב",
+      "pronunciation_hebrew": "אִינְטֶרְוֶנְשֶׁן",
+      "example": "The system flies with no human intervention."
+    },
+    {
+      "word": "algorithms",
+      "lemma": "algorithm",
+      "level": "B2",
+      "hebrew": "אַלְגּוֹרִיתְמִים",
+      "explanation_hebrew": "סִדְרַת חֻקִּים שֶׁמַּחְשֵׁב מְבַצֵּעַ",
+      "pronunciation_hebrew": "אַלְגּוֹרִיתְמְז",
+      "example": "Algorithms control the aircraft."
+    },
+    {
+      "word": "structured",
+      "lemma": "structured",
+      "level": "B2",
+      "hebrew": "מֻבְנֶה/מְאֻרְגָּן",
+      "explanation_hebrew": "מְסֻדָּר לְפִי מִבְנֶה בָּרוּר",
+      "pronunciation_hebrew": "סְטְרַקְצֶ'רְד",
+      "example": "Flying is a structured environment."
+    },
+    {
+      "word": "predictable",
+      "lemma": "predictable",
+      "level": "B2",
+      "hebrew": "צָפוּי",
+      "explanation_hebrew": "אֶפְשָׁר לָדַעַת מֵרֹאשׁ מַה יִּקְרֶה",
+      "pronunciation_hebrew": "פְּרִידִיקְטַבְּל",
+      "example": "The sky is a fairly predictable environment."
+    },
+    {
+      "word": "severe",
+      "lemma": "severe",
+      "level": "B2",
+      "hebrew": "חָמוּר",
+      "explanation_hebrew": "רְצִינִי מְאֹד וְקָשֶׁה",
+      "pronunciation_hebrew": "סִיוִיר",
+      "example": "Air accidents can be very severe."
+    },
+    {
+      "word": "propel",
+      "lemma": "propel",
+      "level": "C1",
+      "hebrew": "לְקַדֵּם/לְהַנִּיעַ",
+      "explanation_hebrew": "לִדְחֹף קָדִימָה אוֹ לְקַדֵּם",
+      "pronunciation_hebrew": "פְּרוֹפֶּל",
+      "example": "Military interest helps propel the technology."
+    },
+    {
+      "word": "regulatory",
+      "lemma": "regulatory",
+      "level": "C1",
+      "hebrew": "רְגוּלָטוֹרִי",
+      "explanation_hebrew": "קָשׁוּר לְחֻקִּים וְתַקָּנוֹת רִשְׁמִיִּים",
+      "pronunciation_hebrew": "רֶגְיוּלַטוֹרִי",
+      "example": "They face fewer regulatory hurdles."
+    },
+    {
+      "word": "permissive",
+      "lemma": "permissive",
+      "level": "C1",
+      "hebrew": "מַתִּירָנִי",
+      "explanation_hebrew": "מַתִּיר יוֹתֵר וּפָחוֹת מַחְמִיר",
+      "pronunciation_hebrew": "פֶּרְמִיסִיב",
+      "example": "In Brazil the rules are more permissive."
+    },
+    {
+      "word": "efficiency",
+      "lemma": "efficiency",
+      "level": "B2",
+      "hebrew": "יְעִילוּת",
+      "explanation_hebrew": "עֲשִׂיָּה טוֹבָה וְחֶסְכוֹנִית בְּלִי בִּזְבּוּז",
+      "pronunciation_hebrew": "אִיפִישֶׁנְסִי",
+      "example": "Automation could improve efficiency."
+    },
+    {
+      "word": "automation",
+      "lemma": "automation",
+      "level": "B2",
+      "hebrew": "אוֹטוֹמַצְיָה/מִכּוּן",
+      "explanation_hebrew": "בִּצּוּעַ מְשִׂימוֹת עַל־יְדֵי מְכוֹנוֹת בְּלִי אָדָם",
+      "pronunciation_hebrew": "אוֹטוֹמֵיישֶׁן",
+      "example": "Automation could make flying safer."
+    },
+    {
+      "word": "retrofitting",
+      "lemma": "retrofit",
+      "level": "C1",
+      "hebrew": "הַתְאָמָה בְּדִיעֲבַד",
+      "explanation_hebrew": "הַתְקָנַת מַעֲרֶכֶת חֲדָשָׁה בְּמַשֶּׁהוּ קַיָּם",
+      "pronunciation_hebrew": "רֶטְרוֹפִיטִינְג",
+      "example": "Some firms are retrofitting existing planes."
+    },
+    {
+      "word": "exclusively",
+      "lemma": "exclusively",
+      "level": "B2",
+      "hebrew": "בִּלְעָדִית/רַק",
+      "explanation_hebrew": "רַק לְמַטָּרָה אַחַת וְלֹא אַחֶרֶת",
+      "pronunciation_hebrew": "אֶקְסְקְלוּסִיבְלִי",
+      "example": "They focus exclusively on safety."
+    },
+    {
+      "word": "replicating",
+      "lemma": "replicate",
+      "level": "C1",
+      "hebrew": "לְשַׁחְזֵר/לְחַקּוֹת",
+      "explanation_hebrew": "לַעֲשׂוֹת שׁוּב בְּדִיּוּק אוֹתוֹ דָּבָר",
+      "pronunciation_hebrew": "רֶפְּלִיקֵייטִינְג",
+      "example": "Replicating a pilot's skill is very hard."
+    },
+    {
+      "word": "virtually",
+      "lemma": "virtually",
+      "level": "B2",
+      "hebrew": "כִּמְעַט לַחֲלוּטִין",
+      "explanation_hebrew": "כִּמְעַט לְגַמְרֵי אוֹ לְמַעֲשֶׂה",
+      "pronunciation_hebrew": "וִירְצֶ'וּאַלִי",
+      "example": "There is virtually no margin for error."
+    },
+    {
+      "word": "elusive",
+      "lemma": "elusive",
+      "level": "C2",
+      "hebrew": "חַמְקָן/קָשֶׁה לְהַשִּׂיג",
+      "explanation_hebrew": "קָשֶׁה מְאֹד לְהַשִּׂיג אוֹ לְהַגְשִׁים",
+      "pronunciation_hebrew": "אִילוּסִיב",
+      "example": "Full autonomous flight remains elusive."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "conventional",
+      "type": "english_to_hebrew",
+      "question": "What does “conventional” mean?",
+      "options": [
+        "עַצְמָאִי/אוֹטוֹנוֹמִי",
+        "מוּסַךְ מְטוֹסִים",
+        "לְהַפְעִיל/לְפָרֵשׂ",
+        "מְקֻבָּל/רָגִיל"
+      ],
+      "correct_answer": "מְקֻבָּל/רָגִיל",
+      "explanation_hebrew": "“conventional” פירושו מְקֻבָּל/רָגִיל."
+    },
+    {
+      "id": "C-q2",
+      "word": "hangar",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוּסַךְ מְטוֹסִים”?",
+      "options": [
+        "autonomous",
+        "hangar",
+        "ubiquitous",
+        "deploy"
+      ],
+      "correct_answer": "hangar",
+      "explanation_hebrew": "“hangar” פירושו מוּסַךְ מְטוֹסִים."
+    },
+    {
+      "id": "C-q3",
+      "word": "autonomous",
+      "type": "english_to_hebrew",
+      "question": "What does “autonomous” mean?",
+      "options": [
+        "עַצְמָאִי/אוֹטוֹנוֹמִי",
+        "נִמְצָא בְּכָל מָקוֹם",
+        "לְהַפְעִיל/לְפָרֵשׂ",
+        "מְדַמְיֵן/צוֹפֶה"
+      ],
+      "correct_answer": "עַצְמָאִי/אוֹטוֹנוֹמִי",
+      "explanation_hebrew": "“autonomous” פירושו עַצְמָאִי/אוֹטוֹנוֹמִי."
+    },
+    {
+      "id": "C-q4",
+      "word": "deploy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהַפְעִיל/לְפָרֵשׂ”?",
+      "options": [
+        "ubiquitous",
+        "envisions",
+        "deploy",
+        "fleet"
+      ],
+      "correct_answer": "deploy",
+      "explanation_hebrew": "“deploy” פירושו לְהַפְעִיל/לְפָרֵשׂ."
+    },
+    {
+      "id": "C-q5",
+      "word": "ubiquitous",
+      "type": "english_to_hebrew",
+      "question": "What does “ubiquitous” mean?",
+      "options": [
+        "נִמְצָא בְּכָל מָקוֹם",
+        "צִי",
+        "מַסִּיעַ/מוֹבִיל",
+        "מְדַמְיֵן/צוֹפֶה"
+      ],
+      "correct_answer": "נִמְצָא בְּכָל מָקוֹם",
+      "explanation_hebrew": "“ubiquitous” פירושו נִמְצָא בְּכָל מָקוֹם."
+    },
+    {
+      "id": "C-q6",
+      "word": "envisions",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְדַמְיֵן/צוֹפֶה”?",
+      "options": [
+        "ferrying",
+        "obstacles",
+        "envisions",
+        "fleet"
+      ],
+      "correct_answer": "envisions",
+      "explanation_hebrew": "“envisions” פירושו מְדַמְיֵן/צוֹפֶה."
+    },
+    {
+      "id": "C-q7",
+      "word": "fleet",
+      "type": "english_to_hebrew",
+      "question": "What does “fleet” mean?",
+      "options": [
+        "צִי",
+        "מַסִּיעַ/מוֹבִיל",
+        "חָלָק/רָצוּף",
+        "מִכְשׁוֹלִים"
+      ],
+      "correct_answer": "צִי",
+      "explanation_hebrew": "“fleet” פירושו צִי."
+    },
+    {
+      "id": "C-q8",
+      "word": "ferrying",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַסִּיעַ/מוֹבִיל”?",
+      "options": [
+        "intervention",
+        "seamless",
+        "ferrying",
+        "obstacles"
+      ],
+      "correct_answer": "ferrying",
+      "explanation_hebrew": "“ferrying” פירושו מַסִּיעַ/מוֹבִיל."
+    },
+    {
+      "id": "C-q9",
+      "word": "obstacles",
+      "type": "english_to_hebrew",
+      "question": "What does “obstacles” mean?",
+      "options": [
+        "חָלָק/רָצוּף",
+        "מִכְשׁוֹלִים",
+        "אַלְגּוֹרִיתְמִים",
+        "הִתְעָרְבוּת"
+      ],
+      "correct_answer": "מִכְשׁוֹלִים",
+      "explanation_hebrew": "“obstacles” פירושו מִכְשׁוֹלִים."
+    },
+    {
+      "id": "C-q10",
+      "word": "seamless",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חָלָק/רָצוּף”?",
+      "options": [
+        "intervention",
+        "structured",
+        "algorithms",
+        "seamless"
+      ],
+      "correct_answer": "seamless",
+      "explanation_hebrew": "“seamless” פירושו חָלָק/רָצוּף."
+    },
+    {
+      "id": "C-q11",
+      "word": "intervention",
+      "type": "english_to_hebrew",
+      "question": "What does “intervention” mean?",
+      "options": [
+        "אַלְגּוֹרִיתְמִים",
+        "הִתְעָרְבוּת",
+        "מֻבְנֶה/מְאֻרְגָּן",
+        "צָפוּי"
+      ],
+      "correct_answer": "הִתְעָרְבוּת",
+      "explanation_hebrew": "“intervention” פירושו הִתְעָרְבוּת."
+    },
+    {
+      "id": "C-q12",
+      "word": "algorithms",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אַלְגּוֹרִיתְמִים”?",
+      "options": [
+        "structured",
+        "predictable",
+        "severe",
+        "algorithms"
+      ],
+      "correct_answer": "algorithms",
+      "explanation_hebrew": "“algorithms” פירושו אַלְגּוֹרִיתְמִים."
+    },
+    {
+      "id": "C-q13",
+      "word": "structured",
+      "type": "english_to_hebrew",
+      "question": "What does “structured” mean?",
+      "options": [
+        "מֻבְנֶה/מְאֻרְגָּן",
+        "צָפוּי",
+        "חָמוּר",
+        "לְקַדֵּם/לְהַנִּיעַ"
+      ],
+      "correct_answer": "מֻבְנֶה/מְאֻרְגָּן",
+      "explanation_hebrew": "“structured” פירושו מֻבְנֶה/מְאֻרְגָּן."
+    },
+    {
+      "id": "C-q14",
+      "word": "predictable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “צָפוּי”?",
+      "options": [
+        "regulatory",
+        "severe",
+        "predictable",
+        "propel"
+      ],
+      "correct_answer": "predictable",
+      "explanation_hebrew": "“predictable” פירושו צָפוּי."
+    },
+    {
+      "id": "C-q15",
+      "word": "severe",
+      "type": "english_to_hebrew",
+      "question": "What does “severe” mean?",
+      "options": [
+        "חָמוּר",
+        "לְקַדֵּם/לְהַנִּיעַ",
+        "רְגוּלָטוֹרִי",
+        "מַתִּירָנִי"
+      ],
+      "correct_answer": "חָמוּר",
+      "explanation_hebrew": "“severe” פירושו חָמוּר."
+    },
+    {
+      "id": "C-q16",
+      "word": "propel",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְקַדֵּם/לְהַנִּיעַ”?",
+      "options": [
+        "regulatory",
+        "efficiency",
+        "permissive",
+        "propel"
+      ],
+      "correct_answer": "propel",
+      "explanation_hebrew": "“propel” פירושו לְקַדֵּם/לְהַנִּיעַ."
+    },
+    {
+      "id": "C-q17",
+      "word": "regulatory",
+      "type": "english_to_hebrew",
+      "question": "What does “regulatory” mean?",
+      "options": [
+        "יְעִילוּת",
+        "אוֹטוֹמַצְיָה/מִכּוּן",
+        "רְגוּלָטוֹרִי",
+        "מַתִּירָנִי"
+      ],
+      "correct_answer": "רְגוּלָטוֹרִי",
+      "explanation_hebrew": "“regulatory” פירושו רְגוּלָטוֹרִי."
+    },
+    {
+      "id": "C-q18",
+      "word": "permissive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַתִּירָנִי”?",
+      "options": [
+        "efficiency",
+        "retrofitting",
+        "permissive",
+        "automation"
+      ],
+      "correct_answer": "permissive",
+      "explanation_hebrew": "“permissive” פירושו מַתִּירָנִי."
+    },
+    {
+      "id": "C-q19",
+      "word": "efficiency",
+      "type": "english_to_hebrew",
+      "question": "What does “efficiency” mean?",
+      "options": [
+        "הַתְאָמָה בְּדִיעֲבַד",
+        "בִּלְעָדִית/רַק",
+        "יְעִילוּת",
+        "אוֹטוֹמַצְיָה/מִכּוּן"
+      ],
+      "correct_answer": "יְעִילוּת",
+      "explanation_hebrew": "“efficiency” פירושו יְעִילוּת."
+    },
+    {
+      "id": "C-q20",
+      "word": "automation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אוֹטוֹמַצְיָה/מִכּוּן”?",
+      "options": [
+        "retrofitting",
+        "replicating",
+        "automation",
+        "exclusively"
+      ],
+      "correct_answer": "automation",
+      "explanation_hebrew": "“automation” פירושו אוֹטוֹמַצְיָה/מִכּוּן."
+    },
+    {
+      "id": "C-q21",
+      "word": "retrofitting",
+      "type": "english_to_hebrew",
+      "question": "What does “retrofitting” mean?",
+      "options": [
+        "בִּלְעָדִית/רַק",
+        "לְשַׁחְזֵר/לְחַקּוֹת",
+        "הַתְאָמָה בְּדִיעֲבַד",
+        "כִּמְעַט לַחֲלוּטִין"
+      ],
+      "correct_answer": "הַתְאָמָה בְּדִיעֲבַד",
+      "explanation_hebrew": "“retrofitting” פירושו הַתְאָמָה בְּדִיעֲבַד."
+    },
+    {
+      "id": "C-q22",
+      "word": "exclusively",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בִּלְעָדִית/רַק”?",
+      "options": [
+        "elusive",
+        "virtually",
+        "replicating",
+        "exclusively"
+      ],
+      "correct_answer": "exclusively",
+      "explanation_hebrew": "“exclusively” פירושו בִּלְעָדִית/רַק."
+    },
+    {
+      "id": "C-q23",
+      "word": "replicating",
+      "type": "english_to_hebrew",
+      "question": "What does “replicating” mean?",
+      "options": [
+        "חַמְקָן/קָשֶׁה לְהַשִּׂיג",
+        "כִּמְעַט לַחֲלוּטִין",
+        "מְקֻבָּל/רָגִיל",
+        "לְשַׁחְזֵר/לְחַקּוֹת"
+      ],
+      "correct_answer": "לְשַׁחְזֵר/לְחַקּוֹת",
+      "explanation_hebrew": "“replicating” פירושו לְשַׁחְזֵר/לְחַקּוֹת."
+    },
+    {
+      "id": "C-q24",
+      "word": "virtually",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “כִּמְעַט לַחֲלוּטִין”?",
+      "options": [
+        "hangar",
+        "conventional",
+        "elusive",
+        "virtually"
+      ],
+      "correct_answer": "virtually",
+      "explanation_hebrew": "“virtually” פירושו כִּמְעַט לַחֲלוּטִין."
+    },
+    {
+      "id": "C-q25",
+      "word": "elusive",
+      "type": "english_to_hebrew",
+      "question": "What does “elusive” mean?",
+      "options": [
+        "חַמְקָן/קָשֶׁה לְהַשִּׂיג",
+        "עַצְמָאִי/אוֹטוֹנוֹמִי",
+        "מוּסַךְ מְטוֹסִים",
+        "מְקֻבָּל/רָגִיל"
+      ],
+      "correct_answer": "חַמְקָן/קָשֶׁה לְהַשִּׂיג",
+      "explanation_hebrew": "“elusive” פירושו חַמְקָן/קָשֶׁה לְהַשִּׂיג."
+    }
+  ]
+}
