@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-03",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "South Africa's Sharpeville massacre survivors start legal fight for justice and compensation",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o",
+  "published_at": "2026-09-03T00:14:20+00:00",
+  "age_hours_at_selection": 1.98,
+  "word_count": 1364,
+  "generated_at": "2026-09-03T02:12:53.376974+00:00",
+  "difficulty_reason": "Dense historical and legal reporting with long sentences and B2/C1/C2 vocabulary; it assumes background on apartheid and constitutional law.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "suppression",
+      "lemma": "suppression",
+      "level": "C1",
+      "hebrew": "דיכוי, הדברה",
+      "explanation_hebrew": "עצירה בכוח של מחאה או פעילות",
+      "pronunciation_hebrew": "סַפְּרֶשֶׁן",
+      "example": "The suppression of the protest was bloody."
+    },
+    {
+      "word": "demonstrators",
+      "lemma": "demonstrator",
+      "level": "B2",
+      "hebrew": "מפגינים",
+      "explanation_hebrew": "אנשים המשתתפים בהפגנה",
+      "pronunciation_hebrew": "דֶמוֹנְסְטְרֵייטֶרְז",
+      "example": "Police opened fire on peaceful demonstrators."
+    },
+    {
+      "word": "lodged",
+      "lemma": "lodge",
+      "level": "C1",
+      "hebrew": "תקוע, נעוץ",
+      "explanation_hebrew": "נתקע עמוק בתוך משהו",
+      "pronunciation_hebrew": "לוֹגְ'ד",
+      "example": "A bullet is still lodged in his spine."
+    },
+    {
+      "word": "repressive",
+      "lemma": "repressive",
+      "level": "C1",
+      "hebrew": "מדכא, כובל",
+      "explanation_hebrew": "המגביל בכוח את חירות האזרחים",
+      "pronunciation_hebrew": "רִיפְּרֶסִיב",
+      "example": "They protested against the repressive laws."
+    },
+    {
+      "word": "perpetrators",
+      "lemma": "perpetrator",
+      "level": "C1",
+      "hebrew": "מבצעי העבירה",
+      "explanation_hebrew": "האנשים שביצעו את הפשע",
+      "pronunciation_hebrew": "פֶּרְפֶּטְרֵייטֶרְז",
+      "example": "None of the perpetrators were ever punished."
+    },
+    {
+      "word": "prosecuted",
+      "lemma": "prosecute",
+      "level": "C1",
+      "hebrew": "הועמד לדין",
+      "explanation_hebrew": "הובא למשפט על עבירה",
+      "pronunciation_hebrew": "פְּרוֹסִיקְיוּטֶד",
+      "example": "No one was prosecuted for the killings."
+    },
+    {
+      "word": "overturn",
+      "lemma": "overturn",
+      "level": "C1",
+      "hebrew": "לבטל, להפוך",
+      "explanation_hebrew": "לבטל החלטה או חוק קיים",
+      "pronunciation_hebrew": "אוֹבֶרְטֶרְן",
+      "example": "The case seeks to overturn the old law."
+    },
+    {
+      "word": "pivotal",
+      "lemma": "pivotal",
+      "level": "C1",
+      "hebrew": "מכריע, קריטי",
+      "explanation_hebrew": "בעל חשיבות מרכזית לתוצאה",
+      "pronunciation_hebrew": "פִּיבוֹטַל",
+      "example": "It became a pivotal event in the movement."
+    },
+    {
+      "word": "resonance",
+      "lemma": "resonance",
+      "level": "C2",
+      "hebrew": "הדהוד, משמעות רגשית",
+      "explanation_hebrew": "עוצמה רגשית או משמעות עמוקה",
+      "pronunciation_hebrew": "רֶזוֹנֶנְס",
+      "example": "The name carries deep historical resonance."
+    },
+    {
+      "word": "crumbling",
+      "lemma": "crumble",
+      "level": "B2",
+      "hebrew": "מתפורר",
+      "explanation_hebrew": "מתפרק לאט ונשבר לחלקים",
+      "pronunciation_hebrew": "קְרַמְבְּלִינְג",
+      "example": "The township is slowly crumbling."
+    },
+    {
+      "word": "barren",
+      "lemma": "barren",
+      "level": "C1",
+      "hebrew": "צחיח, שומם",
+      "explanation_hebrew": "קרקע יבשה שדבר אינו גדל בה",
+      "pronunciation_hebrew": "בַּארֶן",
+      "example": "The earth there is dry and barren."
+    },
+    {
+      "word": "redress",
+      "lemma": "redress",
+      "level": "C2",
+      "hebrew": "תיקון עוול",
+      "explanation_hebrew": "פיצוי או תיקון על עוול שנעשה",
+      "pronunciation_hebrew": "רִידְרֶס",
+      "example": "There have been attempts at redress."
+    },
+    {
+      "word": "bloodbath",
+      "lemma": "bloodbath",
+      "level": "C1",
+      "hebrew": "מרחץ דמים",
+      "explanation_hebrew": "טבח אכזרי שבו נהרגו רבים",
+      "pronunciation_hebrew": "בְּלַאדְבָּאת'",
+      "example": "The street became the scene of a bloodbath."
+    },
+    {
+      "word": "restricted",
+      "lemma": "restrict",
+      "level": "B2",
+      "hebrew": "הגביל",
+      "explanation_hebrew": "צמצם את החופש או האפשרויות",
+      "pronunciation_hebrew": "רִיסְטְרִיקְטֶד",
+      "example": "The passbook restricted their freedom to move."
+    },
+    {
+      "word": "oppression",
+      "lemma": "oppression",
+      "level": "C1",
+      "hebrew": "עושק, שעבוד",
+      "explanation_hebrew": "שלטון אכזרי ועושק של קבוצה",
+      "pronunciation_hebrew": "אוֹפְּרֶשֶׁן",
+      "example": "They lived a life of oppression under apartheid."
+    },
+    {
+      "word": "commotion",
+      "lemma": "commotion",
+      "level": "C1",
+      "hebrew": "מהומה, המולה",
+      "explanation_hebrew": "רעש ואי־סדר פתאומיים",
+      "pronunciation_hebrew": "קוֹמוֹשֶׁן",
+      "example": "There was a commotion before the shooting began."
+    },
+    {
+      "word": "corpses",
+      "lemma": "corpse",
+      "level": "C1",
+      "hebrew": "גופות",
+      "explanation_hebrew": "גופות של אנשים מתים",
+      "pronunciation_hebrew": "קוֹרְפְּסֶז",
+      "example": "Photos show police walking among the corpses."
+    },
+    {
+      "word": "aftermath",
+      "lemma": "aftermath",
+      "level": "C1",
+      "hebrew": "השלכות, מה שאחרי",
+      "explanation_hebrew": "התקופה והתוצאות שאחרי אירוע קשה",
+      "pronunciation_hebrew": "אָפְטֶרְמָאת'",
+      "example": "The photos were taken in the aftermath of the massacre."
+    },
+    {
+      "word": "unconstitutional",
+      "lemma": "unconstitutional",
+      "level": "C2",
+      "hebrew": "לא חוקתי",
+      "explanation_hebrew": "מנוגד לחוקת המדינה",
+      "pronunciation_hebrew": "אַנְקוֹנְסְטִיטְיוּשֶׁנַל",
+      "example": "They argue the law is unconstitutional."
+    },
+    {
+      "word": "reparations",
+      "lemma": "reparations",
+      "level": "C2",
+      "hebrew": "פיצויים",
+      "explanation_hebrew": "פיצוי על עוול היסטורי לקבוצה",
+      "pronunciation_hebrew": "רֶפַּרֵיישֶׁנְז",
+      "example": "The community is looking for reparations."
+    },
+    {
+      "word": "repealed",
+      "lemma": "repeal",
+      "level": "C1",
+      "hebrew": "בוטל (חוק)",
+      "explanation_hebrew": "ביטול רשמי של חוק",
+      "pronunciation_hebrew": "רִיפִּילְד",
+      "example": "They want the old law repealed."
+    },
+    {
+      "word": "amnesty",
+      "lemma": "amnesty",
+      "level": "C1",
+      "hebrew": "חנינה",
+      "explanation_hebrew": "מחילה רשמית על עבירות",
+      "pronunciation_hebrew": "אַמְנֶסְטִי",
+      "example": "Some perpetrators were granted amnesty."
+    },
+    {
+      "word": "disclosed",
+      "lemma": "disclose",
+      "level": "C1",
+      "hebrew": "חשף, גילה",
+      "explanation_hebrew": "מסר מידע שהיה חבוי",
+      "pronunciation_hebrew": "דִיסְקְלוֹוְזְד",
+      "example": "Amnesty required that they fully disclosed their acts."
+    },
+    {
+      "word": "restitution",
+      "lemma": "restitution",
+      "level": "C2",
+      "hebrew": "השבה, פיצוי",
+      "explanation_hebrew": "החזרת מה שנלקח או פיצוי עליו",
+      "pronunciation_hebrew": "רֶסְטִיטְיוּשֶׁן",
+      "example": "They hope restitution will help them heal."
+    },
+    {
+      "word": "lingering",
+      "lemma": "lingering",
+      "level": "C1",
+      "hebrew": "מתמשך, נמשך",
+      "explanation_hebrew": "דבר שנמשך זמן רב ואינו חולף",
+      "pronunciation_hebrew": "לִינְגֶרִינְג",
+      "example": "The community still suffers lingering trauma."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "suppression",
+      "type": "english_to_hebrew",
+      "question": "What does “suppression” mean?",
+      "options": [
+        "לבטל, להפוך",
+        "דיכוי, הדברה",
+        "מרחץ דמים",
+        "תקוע, נעוץ"
+      ],
+      "correct_answer": "דיכוי, הדברה",
+      "explanation_hebrew": "“suppression” פירושו דיכוי, הדברה."
+    },
+    {
+      "id": "C-q2",
+      "word": "demonstrators",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “מפגינים”?",
+      "options": [
+        "restricted",
+        "demonstrators",
+        "pivotal",
+        "repressive"
+      ],
+      "correct_answer": "demonstrators",
+      "explanation_hebrew": "המילה “demonstrators” פירושה מפגינים."
+    },
+    {
+      "id": "C-q3",
+      "word": "lodged",
+      "type": "english_to_hebrew",
+      "question": "What does “lodged” mean?",
+      "options": [
+        "תקוע, נעוץ",
+        "מבצעי העבירה",
+        "הדהוד, משמעות רגשית",
+        "עושק, שעבוד"
+      ],
+      "correct_answer": "תקוע, נעוץ",
+      "explanation_hebrew": "“lodged” פירושו תקוע, נעוץ."
+    },
+    {
+      "id": "C-q4",
+      "word": "repressive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “מדכא, כובל”?",
+      "options": [
+        "repressive",
+        "commotion",
+        "crumbling",
+        "prosecuted"
+      ],
+      "correct_answer": "repressive",
+      "explanation_hebrew": "המילה “repressive” פירושה מדכא, כובל."
+    },
+    {
+      "id": "C-q5",
+      "word": "perpetrators",
+      "type": "english_to_hebrew",
+      "question": "What does “perpetrators” mean?",
+      "options": [
+        "לבטל, להפוך",
+        "צחיח, שומם",
+        "גופות",
+        "מבצעי העבירה"
+      ],
+      "correct_answer": "מבצעי העבירה",
+      "explanation_hebrew": "“perpetrators” פירושו מבצעי העבירה."
+    },
+    {
+      "id": "C-q6",
+      "word": "prosecuted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “הועמד לדין”?",
+      "options": [
+        "pivotal",
+        "prosecuted",
+        "aftermath",
+        "redress"
+      ],
+      "correct_answer": "prosecuted",
+      "explanation_hebrew": "המילה “prosecuted” פירושה הועמד לדין."
+    },
+    {
+      "id": "C-q7",
+      "word": "overturn",
+      "type": "english_to_hebrew",
+      "question": "What does “overturn” mean?",
+      "options": [
+        "לא חוקתי",
+        "הדהוד, משמעות רגשית",
+        "לבטל, להפוך",
+        "מרחץ דמים"
+      ],
+      "correct_answer": "לבטל, להפוך",
+      "explanation_hebrew": "“overturn” פירושו לבטל, להפוך."
+    },
+    {
+      "id": "C-q8",
+      "word": "pivotal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “מכריע, קריטי”?",
+      "options": [
+        "restricted",
+        "reparations",
+        "pivotal",
+        "crumbling"
+      ],
+      "correct_answer": "pivotal",
+      "explanation_hebrew": "המילה “pivotal” פירושה מכריע, קריטי."
+    },
+    {
+      "id": "C-q9",
+      "word": "resonance",
+      "type": "english_to_hebrew",
+      "question": "What does “resonance” mean?",
+      "options": [
+        "עושק, שעבוד",
+        "הדהוד, משמעות רגשית",
+        "צחיח, שומם",
+        "בוטל (חוק)"
+      ],
+      "correct_answer": "הדהוד, משמעות רגשית",
+      "explanation_hebrew": "“resonance” פירושו הדהוד, משמעות רגשית."
+    },
+    {
+      "id": "C-q10",
+      "word": "crumbling",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “מתפורר”?",
+      "options": [
+        "crumbling",
+        "redress",
+        "amnesty",
+        "commotion"
+      ],
+      "correct_answer": "crumbling",
+      "explanation_hebrew": "המילה “crumbling” פירושה מתפורר."
+    },
+    {
+      "id": "C-q11",
+      "word": "barren",
+      "type": "english_to_hebrew",
+      "question": "What does “barren” mean?",
+      "options": [
+        "צחיח, שומם",
+        "חשף, גילה",
+        "מרחץ דמים",
+        "גופות"
+      ],
+      "correct_answer": "צחיח, שומם",
+      "explanation_hebrew": "“barren” פירושו צחיח, שומם."
+    },
+    {
+      "id": "C-q12",
+      "word": "redress",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “תיקון עוול”?",
+      "options": [
+        "aftermath",
+        "redress",
+        "restricted",
+        "restitution"
+      ],
+      "correct_answer": "redress",
+      "explanation_hebrew": "המילה “redress” פירושה תיקון עוול."
+    },
+    {
+      "id": "C-q13",
+      "word": "bloodbath",
+      "type": "english_to_hebrew",
+      "question": "What does “bloodbath” mean?",
+      "options": [
+        "לא חוקתי",
+        "מתמשך, נמשך",
+        "עושק, שעבוד",
+        "מרחץ דמים"
+      ],
+      "correct_answer": "מרחץ דמים",
+      "explanation_hebrew": "“bloodbath” פירושו מרחץ דמים."
+    },
+    {
+      "id": "C-q14",
+      "word": "restricted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “הגביל”?",
+      "options": [
+        "suppression",
+        "reparations",
+        "commotion",
+        "restricted"
+      ],
+      "correct_answer": "restricted",
+      "explanation_hebrew": "המילה “restricted” פירושה הגביל."
+    },
+    {
+      "id": "C-q15",
+      "word": "oppression",
+      "type": "english_to_hebrew",
+      "question": "What does “oppression” mean?",
+      "options": [
+        "עושק, שעבוד",
+        "בוטל (חוק)",
+        "מפגינים",
+        "גופות"
+      ],
+      "correct_answer": "עושק, שעבוד",
+      "explanation_hebrew": "“oppression” פירושו עושק, שעבוד."
+    },
+    {
+      "id": "C-q16",
+      "word": "commotion",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “מהומה, המולה”?",
+      "options": [
+        "commotion",
+        "aftermath",
+        "lodged",
+        "amnesty"
+      ],
+      "correct_answer": "commotion",
+      "explanation_hebrew": "המילה “commotion” פירושה מהומה, המולה."
+    },
+    {
+      "id": "C-q17",
+      "word": "corpses",
+      "type": "english_to_hebrew",
+      "question": "What does “corpses” mean?",
+      "options": [
+        "גופות",
+        "לא חוקתי",
+        "מדכא, כובל",
+        "חשף, גילה"
+      ],
+      "correct_answer": "גופות",
+      "explanation_hebrew": "“corpses” פירושו גופות."
+    },
+    {
+      "id": "C-q18",
+      "word": "aftermath",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “השלכות, מה שאחרי”?",
+      "options": [
+        "perpetrators",
+        "reparations",
+        "aftermath",
+        "restitution"
+      ],
+      "correct_answer": "aftermath",
+      "explanation_hebrew": "המילה “aftermath” פירושה השלכות, מה שאחרי."
+    },
+    {
+      "id": "C-q19",
+      "word": "unconstitutional",
+      "type": "english_to_hebrew",
+      "question": "What does “unconstitutional” mean?",
+      "options": [
+        "לא חוקתי",
+        "מתמשך, נמשך",
+        "הועמד לדין",
+        "בוטל (חוק)"
+      ],
+      "correct_answer": "לא חוקתי",
+      "explanation_hebrew": "“unconstitutional” פירושו לא חוקתי."
+    },
+    {
+      "id": "C-q20",
+      "word": "reparations",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “פיצויים”?",
+      "options": [
+        "suppression",
+        "amnesty",
+        "overturn",
+        "reparations"
+      ],
+      "correct_answer": "reparations",
+      "explanation_hebrew": "המילה “reparations” פירושה פיצויים."
+    },
+    {
+      "id": "C-q21",
+      "word": "repealed",
+      "type": "english_to_hebrew",
+      "question": "What does “repealed” mean?",
+      "options": [
+        "חשף, גילה",
+        "מפגינים",
+        "בוטל (חוק)",
+        "מכריע, קריטי"
+      ],
+      "correct_answer": "בוטל (חוק)",
+      "explanation_hebrew": "“repealed” פירושו בוטל (חוק)."
+    },
+    {
+      "id": "C-q22",
+      "word": "amnesty",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “חנינה”?",
+      "options": [
+        "restitution",
+        "resonance",
+        "lodged",
+        "amnesty"
+      ],
+      "correct_answer": "amnesty",
+      "explanation_hebrew": "המילה “amnesty” פירושה חנינה."
+    },
+    {
+      "id": "C-q23",
+      "word": "disclosed",
+      "type": "english_to_hebrew",
+      "question": "What does “disclosed” mean?",
+      "options": [
+        "מתפורר",
+        "מתמשך, נמשך",
+        "חשף, גילה",
+        "מדכא, כובל"
+      ],
+      "correct_answer": "חשף, גילה",
+      "explanation_hebrew": "“disclosed” פירושו חשף, גילה."
+    },
+    {
+      "id": "C-q24",
+      "word": "restitution",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית מתאימה למשמעות “השבה, פיצוי”?",
+      "options": [
+        "restitution",
+        "barren",
+        "suppression",
+        "perpetrators"
+      ],
+      "correct_answer": "restitution",
+      "explanation_hebrew": "המילה “restitution” פירושה השבה, פיצוי."
+    },
+    {
+      "id": "C-q25",
+      "word": "lingering",
+      "type": "english_to_hebrew",
+      "question": "What does “lingering” mean?",
+      "options": [
+        "הועמד לדין",
+        "תיקון עוול",
+        "מתמשך, נמשך",
+        "מפגינים"
+      ],
+      "correct_answer": "מתמשך, נמשך",
+      "explanation_hebrew": "“lingering” פירושו מתמשך, נמשך."
+    }
+  ]
+}
