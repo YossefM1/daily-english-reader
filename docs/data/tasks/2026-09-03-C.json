@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-03",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "South Africa's Sharpeville massacre survivors start legal fight for justice and compensation",
+  "article_url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "C",
+      "options": [
+        "A plan to rebuild every road in Sharpeville",
+        "A new inquiry into whether the protest occurred",
+        "Survivors and relatives challenging an apartheid-era indemnity law to seek justice and reparations",
+        "A trial that convicted police immediately after the massacre"
+      ],
+      "correct_answer": "Survivors and relatives challenging an apartheid-era indemnity law to seek justice and reparations",
+      "explanation_hebrew": "הכתבה עוסקת במאבק לביטול חוק חסינות מתקופת האפרטהייד כדי לאפשר צדק ופיצויים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What were the protesters demonstrating against in March 1960?",
+      "difficulty": "C",
+      "options": [
+        "Pass laws restricting black people's movement",
+        "Closure of the cemetery",
+        "Creation of the TRC",
+        "A ban on foreign law firms"
+      ],
+      "correct_answer": "Pass laws restricting black people's movement",
+      "explanation_hebrew": "המפגינים מחו נגד חוקי המעבר שחייבו שחורים לשאת פנקס והגבילו את תנועתם."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the 1961 Indemnity Act protect police and government from?",
+      "difficulty": "C",
+      "options": [
+        "Foreign newspaper criticism",
+        "Road maintenance duties",
+        "Criminal charges and civil claims related to Sharpeville",
+        "TRC testimony"
+      ],
+      "correct_answer": "Criminal charges and civil claims related to Sharpeville",
+      "explanation_hebrew": "החוק הגן על המשטרה והממשלה מאישומים פליליים ומתביעות אזרחיות הקשורות לטבח."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can the old law still be challenged against today's state?",
+      "difficulty": "C",
+      "options": [
+        "The constitution erased every old law",
+        "Only post-1994 laws can be reviewed",
+        "There is no continuity between states",
+        "State continuity kept laws in force until repealed, abolished or changed"
+      ],
+      "correct_answer": "State continuity kept laws in force until repealed, abolished or changed",
+      "explanation_hebrew": "עקרון רציפות המדינה משאיר חוקים קודמים בתוקף עד ביטולם או שינויים."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “redress” mean in this context?",
+      "difficulty": "C",
+      "options": [
+        "A formal effort to remedy or compensate for a past wrong",
+        "A passbook rule",
+        "The clothing of protesters",
+        "Preserving every old law"
+      ],
+      "correct_answer": "A formal effort to remedy or compensate for a past wrong",
+      "explanation_hebrew": "redress הוא תיקון עוול באמצעות הכרה, סעד או פיצוי."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean that the Act “remains on the statute books”?",
+      "difficulty": "C",
+      "options": [
+        "It appears only in textbooks",
+        "It has many translations",
+        "It is already unconstitutional",
+        "It still formally exists in the country's legislation"
+      ],
+      "correct_answer": "It still formally exists in the country's legislation",
+      "explanation_hebrew": "statute books הם אוסף החוקים התקפים, ולכן הביטוי אומר שהחוק עדיין קיים רשמית."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Trace the key events from the 1960 protest to the current legal challenge.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג רצף כרונולוגי של לפחות שישה שלבים.",
+      "expected_points": [
+        "Thousands protested pass laws on 21 March 1960",
+        "Police opened fire",
+        "At least 69 died and more than 200 were injured",
+        "The Indemnity Act passed in 1961",
+        "It blocked criminal and civil claims",
+        "The democratic constitution took effect in 1994",
+        "The TRC investigated apartheid crimes",
+        "No police officers sought amnesty for Sharpeville",
+        "Lawyers filed a High Court constitutional challenge",
+        "They also seek class-action certification"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do survivors say the Truth and Reconciliation Commission did not deliver complete justice?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את תרומת ה־TRC לצד מגבלותיה במקרה Sharpeville.",
+      "expected_points": [
+        "The TRC investigated crimes and brought victims and perpetrators together",
+        "Amnesty depended on disclosure and other conditions",
+        "Some offenders were not jailed",
+        "No police applied for Sharpeville amnesty",
+        "The Indemnity Act continued to block proceedings",
+        "Survivors say long-term harm remains unremedied",
+        "Not all victims were identified for support",
+        "They now seek collective remedies and accountability"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the massacre, its continuing impact and the goals of the new court case.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם בכבוד את האירוע, החוק, מצב הקהילה והסעדים המבוקשים בלי לנבא את פסק הדין.",
+      "expected_points": [
+        "The protest opposed racist pass laws",
+        "Police fired on peaceful demonstrators",
+        "At least 69 died and more than 200 were injured",
+        "Survivors still carry physical and emotional injuries",
+        "The 1961 Act blocked charges and claims",
+        "The law remains formally in force",
+        "Applicants argue it violates the 1994 constitution",
+        "They seek a class action, damages and reparations",
+        "Possible criminal cases depend on future legal outcomes",
+        "The action seeks justice and healing"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced explainer of what the High Court is being asked to decide and why it matters.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית באופן ברור, להבחין בין עובדות, טענות ותוצאות אפשריות ולא לקבוע מראש את הפסיקה.",
+      "expected_points": [
+        "Identify the Indemnity Act and its protections",
+        "Explain the constitutional challenge",
+        "Describe state continuity",
+        "Explain class-action certification",
+        "Identify survivors and relatives",
+        "Distinguish individual damages from community reparations",
+        "Present criminal charges only as a possibility",
+        "Mention the government's position on legal remedies",
+        "Explain the importance of healing and reform",
+        "Do not guarantee compensation or convictions"
+      ]
+    }
+  ]
+}

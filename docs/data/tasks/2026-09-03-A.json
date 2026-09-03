@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-03",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+  "article_url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Uber's immediate withdrawal from Nigeria and Uganda after reviewing difficult market conditions",
+        "Uber's plan to introduce boat services in every African capital",
+        "A new fuel subsidy for ride-hailing drivers in Nigeria",
+        "Uber's acquisition of Bolt, inDrive and SafeBoda"
+      ],
+      "correct_answer": "Uber's immediate withdrawal from Nigeria and Uganda after reviewing difficult market conditions",
+      "explanation_hebrew": "הכתבה עוסקת בהחלטת Uber להפסיק מיד את פעילותה בניגריה ובאוגנדה, על רקע תנאי שוק מאתגרים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When did Uber begin operating in Nigeria and Uganda?",
+      "difficulty": "A",
+      "options": [
+        "Nigeria in 2016 and Uganda in 2019",
+        "Nigeria in 2014 and Uganda two years later",
+        "Both countries in 2023",
+        "Nigeria in 2019 and Uganda in 2014"
+      ],
+      "correct_answer": "Nigeria in 2014 and Uganda two years later",
+      "explanation_hebrew": "Uber החלה לפעול בניגריה ב־2014 ובאוגנדה שנתיים לאחר מכן."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "After the two closures, in which African countries does Uber still operate?",
+      "difficulty": "A",
+      "options": [
+        "Nigeria, Uganda, Tanzania and Ivory Coast",
+        "Egypt, Uganda, Kenya and Nigeria",
+        "Egypt, Ghana, Kenya and South Africa",
+        "Ghana, Tanzania, Ivory Coast and South Africa"
+      ],
+      "correct_answer": "Egypt, Ghana, Kenya and South Africa",
+      "explanation_hebrew": "לאחר היציאה Uber נשארת פעילה באפריקה במצרים, גאנה, קניה ודרום אפריקה."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did rising petrol prices create particular pressure on ride-hailing drivers?",
+      "difficulty": "A",
+      "options": [
+        "They made boat travel illegal in Lagos",
+        "They removed all competing taxi apps",
+        "They increased passenger numbers automatically",
+        "They raised operating costs while fares were already considered low"
+      ],
+      "correct_answer": "They raised operating costs while fares were already considered low",
+      "explanation_hebrew": "מחירי דלק גבוהים מעלים את עלות הנסיעות, בזמן שנהגים כבר טענו שהתעריפים נמוכים והעמלות גבוהות."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “the void was likely to be filled” mean in the discussion of Kampala?",
+      "difficulty": "A",
+      "options": [
+        "Other taxi apps were expected to take Uber's place in the market",
+        "Kampala's roads were expected to become empty",
+        "Uber planned to return under another name",
+        "All commuters would stop using ride-hailing"
+      ],
+      "correct_answer": "Other taxi apps were expected to take Uber's place in the market",
+      "explanation_hebrew": "void הוא פער בשוק; כאן הכוונה שאפליקציות אחרות צפויות להחליף את השירות של Uber."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “gridlock” mean in the description of Lagos traffic?",
+      "difficulty": "A",
+      "options": [
+        "A system for setting fares",
+        "A protest by drivers",
+        "Severe traffic congestion with very restricted movement",
+        "A mobile-phone network failure"
+      ],
+      "correct_answer": "Severe traffic congestion with very restricted movement",
+      "explanation_hebrew": "gridlock הוא עומס תנועה חמור שבו כלי רכב כמעט אינם יכולים להתקדם."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify the business and economic pressures that made the Nigerian market difficult.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין לפחות ארבעה לחצים מדויקים מן הכתבה.",
+      "expected_points": [
+        "Drivers said fares were too low",
+        "Commission charges were considered too high",
+        "Fuel and operating costs were rising",
+        "Drivers protested over costs, fares and working conditions",
+        "Bolt, inDrive and local operators created competition",
+        "Removal of the fuel subsidy raised living costs",
+        "Petrol prices rose again following the US war with Iran"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What shows that the withdrawal is significant locally but not a complete exit from Africa?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להביא ראיות להשפעה המקומית ולצד זאת להמשך פעילות החברה באפריקה.",
+      "expected_points": [
+        "Uber had operated in Nigeria for 12 years",
+        "It had expanded into a Lagos boat service",
+        "The departure changes commuting in Kampala",
+        "Workers and drivers are affected",
+        "The decision is limited to two markets",
+        "Uber remains in Egypt, Ghana, Kenya and South Africa",
+        "Other apps may fill the local gap"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Uber's decision, the reasons behind it and the immediate consequences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את שתי המדינות, תנאי השוק, מצב הפעילות באפריקה והסיוע שהובטח.",
+      "expected_points": [
+        "Uber closed in Nigeria and Uganda immediately",
+        "The decision followed a business review",
+        "Low fares, high commissions, fuel costs and competition created pressure",
+        "Uber had already left Ivory Coast and Tanzania",
+        "It now operates in four African countries",
+        "Other apps may replace it locally",
+        "Uber pledged support for affected workers",
+        "The help centre remains open until 23 September"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short notice for affected drivers and passengers explaining the closure and next steps.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית בטון ברור ומכבד, עם לפחות ארבע עובדות וללא הבטחות שאינן בכתבה.",
+      "expected_points": [
+        "State that operations closed immediately in Nigeria and Uganda",
+        "Mention the business review and market pressures",
+        "Clarify that Uber has not left all of Africa",
+        "Name alternative apps mentioned",
+        "Mention support for affected employees and drivers",
+        "State that the help centre remains open until 23 September",
+        "Do not invent compensation arrangements"
+      ]
+    }
+  ]
+}

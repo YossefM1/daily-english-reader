@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-03",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Is sleep tracking making your sleep worse?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c99drr70m2eo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central message of the article?",
+      "difficulty": "B",
+      "options": [
+        "Every tracker user has a sleep disorder",
+        "Trying to perfect sleep through scores can increase anxiety and worsen sleep",
+        "Trackers measure brain activity better than medical tests",
+        "Magnesium guarantees better sleep"
+      ],
+      "correct_answer": "Trying to perfect sleep through scores can increase anxiety and worsen sleep",
+      "explanation_hebrew": "התמקדות מוגזמת בציוני שינה עלולה ליצור חרדה ולפגוע בשינה עצמה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was unusual about the sleep scores in the Oxford study?",
+      "difficulty": "B",
+      "options": [
+        "They came from brain scans",
+        "Only good sleepers received them",
+        "They were random and unrelated to actual sleep",
+        "They came from Jess Hill's watch"
+      ],
+      "correct_answer": "They were random and unrelated to actual sleep",
+      "explanation_hebrew": "הציונים הוקצו באקראי ולא שיקפו את השינה האמיתית."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to Dr Neil Stanley, what do wrist-worn trackers mainly measure?",
+      "difficulty": "B",
+      "options": [
+        "Movement",
+        "Dream content",
+        "Brain waves",
+        "Blood-test results"
+      ],
+      "correct_answer": "Movement",
+      "explanation_hebrew": "המכשירים מודדים בעיקר תנועה; לדבריו, מדידת שינה ממשית דורשת פעילות מוח."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What does the Oxford study suggest about tracker information?",
+      "difficulty": "B",
+      "options": [
+        "Only accurate scores affect mood",
+        "A tracker replaces medical testing",
+        "People always ignore device data",
+        "Believing a poor score can worsen fatigue and alertness even when it is false"
+      ],
+      "correct_answer": "Believing a poor score can worsen fatigue and alertness even when it is false",
+      "explanation_hebrew": "האמונה בציון שלילי השפיעה על תחושת העייפות והערנות אף שהציונים היו מזויפים."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “allayed their fears” mean?",
+      "difficulty": "B",
+      "options": [
+        "Made their fears less intense",
+        "Confirmed every fear",
+        "Created a sleep score",
+        "Stopped appointments"
+      ],
+      "correct_answer": "Made their fears less intense",
+      "explanation_hebrew": "to allay fears פירושו להרגיע או להפחית חששות."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “gamifying sleep” mean?",
+      "difficulty": "B",
+      "options": [
+        "Measuring brain activity",
+        "Turning sleep into a score-based target or competition",
+        "Sleeping while gaming",
+        "Removing numbers from devices"
+      ],
+      "correct_answer": "Turning sleep into a score-based target or competition",
+      "explanation_hebrew": "gamifying פירושו להפוך פעילות למשחק עם ניקוד ויעדים, דבר שעלול ליצור לחץ."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe Jess Hill's experience with her Garmin scores and why her attitude changed.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר את ההסתמכות על השעון, השפעת הציונים והאירוע שהמחיש את חוסר ההתאמה.",
+      "expected_points": [
+        "She treated the watch as an authority on her sleep",
+        "Her fixation lasted about three years",
+        "Low scores made her expect a difficult day",
+        "High scores made her push through tiredness",
+        "She noticed the watch did not match her experience",
+        "It reported great sleep although she was awake from 01:00 to 05:00"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can attempts to optimise every detail of sleep become self-defeating?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את מעגל החרדה באמצעות ראיות מן הכתבה.",
+      "expected_points": [
+        "Scores create a target",
+        "Users worry about quantity and quality",
+        "Anxiety can worsen sleep",
+        "Trackers may estimate stages inaccurately",
+        "Even reassuring tests may not end the fixation",
+        "Scores can affect daytime feelings",
+        "Sleep does not respond well to attempts to perfect it"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the concerns, evidence and practical advice about sleep tracking.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול sleepmaxxing, orthosomnia, מגבלות המדידה, המחקר וההמלצות.",
+      "expected_points": [
+        "Sleepmaxxing is the effort to optimise sleep",
+        "Orthosomnia is obsession with perfect sleep",
+        "Doctors see tracker-related anxiety",
+        "Sleep scores are not a recognised scientific measure",
+        "Wrist trackers mainly infer sleep from movement",
+        "Random negative scores increased reported fatigue",
+        "Experts advise a reasonably cool, dark and quiet room",
+        "Morning light, light exercise, a varied diet and simplicity can help"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced message to a friend anxious about an imperfect sleep score.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית בטון מרגיע, עם לפחות ארבע נקודות מהכתבה וללא אבחון רפואי.",
+      "expected_points": [
+        "Acknowledge that trackers can raise awareness",
+        "Explain that sleep scores are not clinical measures",
+        "Mention that wrist devices estimate from movement",
+        "Explain that scores can affect expectations",
+        "Encourage attention to actual feelings",
+        "Suggest a coolish, darkish and quietish room",
+        "Mention morning light or light exercise",
+        "Recommend professional advice for genuine concerns"
+      ]
+    }
+  ]
+}
