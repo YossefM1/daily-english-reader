@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-04",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Pig kidney works in human body for 271 days - is this the future of organ transplants?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "A proposal to replace every human transplant with dialysis",
+        "A record pig-kidney transplant that acted as a temporary bridge while showing both promise and unresolved challenges",
+        "A new farming method for ordinary pigs",
+        "The first successful permanent cure for diabetes"
+      ],
+      "correct_answer": "A record pig-kidney transplant that acted as a temporary bridge while showing both promise and unresolved challenges",
+      "explanation_hebrew": "הכתבה עוסקת בכליית חזיר מהונדסת שפעלה 271 ימים כפתרון זמני עד להשתלה אנושית, לצד הקשיים שנותרו."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How long did the transplanted pig kidney function in Tim Andrews' body?",
+      "difficulty": "B",
+      "options": [
+        "82 days",
+        "Five years",
+        "271 days",
+        "Seven years"
+      ],
+      "correct_answer": "271 days",
+      "explanation_hebrew": "הכליה פעלה 271 ימים—משך הזמן הארוך ביותר שתועד להשתלה מסוג זה."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened after the pig kidney was removed?",
+      "difficulty": "B",
+      "options": [
+        "Andrews needed dialysis for 82 days before receiving a human donor kidney",
+        "He immediately received another pig kidney",
+        "He no longer needed any kidney treatment",
+        "He remained on dialysis for seven years"
+      ],
+      "correct_answer": "Andrews needed dialysis for 82 days before receiving a human donor kidney",
+      "explanation_hebrew": "לאחר הוצאת כליית החזיר אנדרוז עבר דיאליזה במשך 82 ימים, עד שקיבל כליה מתורם אנושי."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do doctors describe pig organs as a possible “bridge”?",
+      "difficulty": "B",
+      "options": [
+        "They permanently eliminate the need for human donors",
+        "They are used only to test hospital machines",
+        "They can temporarily keep a patient off dialysis while waiting for a human organ",
+        "They prevent all immune reactions without medication"
+      ],
+      "correct_answer": "They can temporarily keep a patient off dialysis while waiting for a human organ",
+      "explanation_hebrew": "bridge הוא פתרון ביניים: האיבר מן החזיר עשוי לתפקד עד שתימצא כליה אנושית מתאימה."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “xenotransplantation” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "Using an organ or tissue from another species in a transplant",
+        "Filtering blood through a dialysis machine",
+        "Transplanting only between identical twins",
+        "Editing a patient's own human kidney"
+      ],
+      "correct_answer": "Using an organ or tissue from another species in a transplant",
+      "explanation_hebrew": "xenotransplantation היא השתלה בין מינים—כאן שימוש בכליה מחזיר עבור אדם."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “camouflage netting” describe in the explanation of the genetic changes?",
+      "difficulty": "B",
+      "options": [
+        "A physical net placed around the kidney",
+        "Human DNA added to help conceal pig tissue from the immune system",
+        "A method for transporting pigs to hospital",
+        "A scan that detects blood-vessel damage"
+      ],
+      "correct_answer": "Human DNA added to help conceal pig tissue from the immune system",
+      "explanation_hebrew": "הדימוי מתאר DNA אנושי שנוסף כדי להסוות את רקמת החזיר ולהקטין את זיהויה בידי מערכת החיסון."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain why the donor pig was genetically modified and describe the types of changes made.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את סכנת הדחייה ולציין את שלושת סוגי השינויים המתוארים.",
+      "expected_points": [
+        "An unmodified pig organ would be recognised as foreign",
+        "The immune system could rapidly attack and destroy it",
+        "The Yucatan miniature pigs received 69 genomic modifications",
+        "Some pig-cell features recognised by the immune system were removed",
+        "Human DNA was added to help hide the tissue",
+        "Viruses embedded in pig DNA were disabled to reduce infection risk"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What does Andrews' case reveal about both the promise and the limitations of xenotransplantation?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג לפחות שתי תועלות ולפחות שני אתגרים מתוך הכתבה.",
+      "expected_points": [
+        "The kidney worked immediately",
+        "It functioned for a record 271 days",
+        "It spared Andrews months of dialysis",
+        "It allowed time for a human donor to be found",
+        "Early rejection signs were controlled by medication",
+        "Blood vessels later became damaged and the organ inflamed",
+        "The organ ultimately failed and had to be removed",
+        "Doctors still do not know exactly why it failed"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Andrews' medical journey and the wider reason doctors are studying pig kidneys.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את המחלה, המחסור באיברים, ההשתלה, הכשל והמעבר לכליה אנושית.",
+      "expected_points": [
+        "Andrews had end-stage kidney disease caused by type 2 diabetes",
+        "He faced a potentially seven-year wait for a kidney",
+        "Organ shortages leave about 100,000 Americans waiting",
+        "He received a genetically modified pig kidney in January 2025",
+        "The kidney worked for 271 days",
+        "It was removed after damage and inflammation",
+        "He returned to dialysis for 82 days",
+        "He received a human donor kidney in January 2026",
+        "Doctors see xenotransplantation as a possible alternative or bridge"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced explanation for patients of what this case does and does not prove about pig-kidney transplants.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית ברגישות ובדיוק, לכלול נתונים מרכזיים ולא להציג את הטיפול כפתרון מוכח וקבוע.",
+      "expected_points": [
+        "State that this was a record 271-day case",
+        "Explain the bridge-to-human-transplant idea",
+        "Mention the genetically modified donor pig",
+        "Describe the period without dialysis",
+        "Explain that the kidney eventually failed",
+        "Mention unresolved blood-vessel damage and inflammation",
+        "Note that one case cannot establish routine long-term success",
+        "Connect the research to the shortage of donor organs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-04",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Is India's internet boom running into an undersea problem?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central argument of the article?",
+      "difficulty": "C",
+      "options": [
+        "India's internet traffic no longer depends on physical infrastructure",
+        "India's rapid digital growth is exposing weaknesses in geographically concentrated, ageing cables and limited repair capacity",
+        "Submarine cables carry only a small share of international communications",
+        "Mumbai has already eliminated every cable-related risk"
+      ],
+      "correct_answer": "India's rapid digital growth is exposing weaknesses in geographically concentrated, ageing cables and limited repair capacity",
+      "explanation_hebrew": "הכתבה טוענת שהצמיחה הדיגיטלית המהירה של הודו נשענת על תשתית כבלים מרוכזת ושברירית, עם יכולת תיקון מוגבלת."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is concentrated along six kilometres of Mumbai's Versova coast?",
+      "difficulty": "C",
+      "options": [
+        "All of India's data centres",
+        "Thirteen of India's eighteen intercontinental submarine cables",
+        "Every global cable-repair ship",
+        "India's five southern landing cities"
+      ],
+      "correct_answer": "Thirteen of India's eighteen intercontinental submarine cables",
+      "explanation_hebrew": "לפחות 13 מתוך 18 הכבלים הבין־יבשתיים של הודו מגיעים לחוף בתוך מקטע של שישה קילומטרים בוורסובה."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What repair-capacity problem does India face?",
+      "difficulty": "C",
+      "options": [
+        "It has no domestic subsea cable-repair ships and relies on foreign vessels and permits",
+        "Its repair ships can operate only in Mumbai",
+        "It has banned foreign vessels from Indian waters permanently",
+        "It repairs every fault using data centres"
+      ],
+      "correct_answer": "It has no domestic subsea cable-repair ships and relies on foreign vessels and permits",
+      "explanation_hebrew": "להודו אין אוניות מקומיות לתיקון כבלים תת־ימיים, ולכן היא תלויה באוניות זרות ובתהליך רישוי ממושך."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could even a small increase in data-travel time be costly?",
+      "difficulty": "C",
+      "options": [
+        "It would automatically erase every internet account",
+        "It would end all broadband subscriptions",
+        "It would prevent optical fibres from carrying light",
+        "Banks, exchanges, clouds, government systems and AI depend on fast, high-volume connections"
+      ],
+      "correct_answer": "Banks, exchanges, clouds, government systems and AI depend on fast, high-volume connections",
+      "explanation_hebrew": "מערכות פיננסיות, ענן, ממשל ובינה מלאכותית רגישות לעיכובים משום שהן תלויות בהעברת נתונים מהירה ובהיקפים גדולים."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “geographic concentration” mean in the article?",
+      "difficulty": "C",
+      "options": [
+        "Too much critical infrastructure located in the same small area",
+        "Internet users moving from villages to cities",
+        "Data being stored in a single computer",
+        "Repair ships travelling long distances"
+      ],
+      "correct_answer": "Too much critical infrastructure located in the same small area",
+      "explanation_hebrew": "geographic concentration פירושו ריכוז של תשתיות חיוניות באזור קטן, כך שאירוע אחד עלול לפגוע בכמה מהן."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “the real bottleneck” mean in the discussion of repairs?",
+      "difficulty": "C",
+      "options": [
+        "The widest section of a cable",
+        "A deliberate attack on a ship",
+        "The limiting factor that slows recovery—foreign repair dependence and regulatory delays",
+        "A system that reroutes all traffic instantly"
+      ],
+      "correct_answer": "The limiting factor that slows recovery—foreign repair dependence and regulatory delays",
+      "explanation_hebrew": "bottleneck הוא צוואר בקבוק: הגורם המגביל שמעכב את התהליך, כאן תלות בתיקון זר ובהיתרים."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Use the figures in the article to explain the mismatch between India's data demand and cable infrastructure.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשתמש לפחות בארבעה נתונים מספריים מדויקים ולהסביר את משמעותם.",
+      "expected_points": [
+        "India had more than one billion broadband subscribers by late 2025",
+        "It consumes roughly 20% of global data",
+        "It is connected to only about 3% of the world's submarine cables",
+        "It has 21 cable landing stations compared with roughly 1,900 globally",
+        "At least 13 of 18 intercontinental cables land close together in Mumbai",
+        "Those cables carry as much as 95% of India's westward international bandwidth",
+        "Eleven of 18 international cables are more than 20 years old",
+        "Data-centre capacity rose from 375MW in 2020 to about 1,575MW"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is rerouting traffic useful but insufficient as a resilience strategy?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את יתרון הניתוב החלופי ואת המגבלות הנותרות בתחום ביצועים ותיקון.",
+      "expected_points": [
+        "Traffic can be diverted through Chennai, Kochi or other landing points",
+        "A cable cut would not necessarily cause a total blackout",
+        "Rerouting can still degrade performance and increase latency",
+        "Sensitive financial and AI services may suffer from even small delays",
+        "Physical faults still require repair",
+        "India lacks domestic repair ships",
+        "Foreign vessels must travel from Dubai or Singapore",
+        "Licensing adds weeks to an already lengthy process",
+        "Several simultaneous cuts near Mumbai could overwhelm alternatives"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the main vulnerabilities in India's submarine-cable system and the remedies proposed by experts.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול ריכוז גאוגרפי, גיל הכבלים, תיקונים, ביקוש, ממשל והפתרונות המוצעים.",
+      "expected_points": [
+        "Most westward bandwidth is concentrated near Mumbai",
+        "Many cables are approaching their nominal operating life",
+        "Cable faults are common and often caused by fishing, anchors, hazards or equipment failure",
+        "India depends on foreign repair ships",
+        "Numerous agencies and about 50 clearances can delay action",
+        "AI and data-centre growth may outpace new cable capacity",
+        "Experts propose more geographically diverse landing stations",
+        "They call for a single-window approval system",
+        "India needs domestic repair capability and protected cable zones",
+        "Distributed Acoustic Sensing could help detect threats",
+        "New cable systems with diverse landings are beginning to be built"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a policy briefing prioritising three actions India should take to strengthen international connectivity.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית מסמך מנומק, לבחור שלוש פעולות ולבסס כל אחת בראיות מן הכתבה.",
+      "expected_points": [
+        "Reduce concentration by pre-approving landing sites on both coasts and islands",
+        "Create a single-window system led by the telecommunications department",
+        "Build or secure domestic cable-repair capability",
+        "Introduce faster emergency repair permits",
+        "Protect cable routes from anchoring and trawling",
+        "Use sensing technology to detect nearby threats",
+        "Accelerate new capacity to match AI and data-centre demand",
+        "Mention the Mumbai concentration or ageing-cable evidence",
+        "Explain trade-offs and implementation time",
+        "Avoid claiming any single action eliminates all risk"
+      ]
+    }
+  ]
+}

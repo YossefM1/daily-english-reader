@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-04",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "'Miracle' eagle with broken wing soars over Scottish coast",
+  "article_url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A sea eagle with a badly healed wing surviving into adulthood and being seen flying again on Mull",
+        "A plan to remove every sea eagle from Scotland",
+        "A study proving storms never harm young birds",
+        "The opening of a new bird hospital on Loch Spelve"
+      ],
+      "correct_answer": "A sea eagle with a badly healed wing surviving into adulthood and being seen flying again on Mull",
+      "explanation_hebrew": "הכתבה מספרת על עיט ים שנפצע קשה כגוזל, שרד בניגוד לציפיות ונצפה שוב עף באי מול."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How was the eagle injured in 2023?",
+      "difficulty": "A",
+      "options": [
+        "It was attacked by an adult pair",
+        "It fell from its nest during a storm",
+        "It was shot while flying over Shetland",
+        "It struck a boat on Loch Spelve"
+      ],
+      "correct_answer": "It fell from its nest during a storm",
+      "explanation_hebrew": "העיט נפל מן הקן בעת סערה בשנת 2023 ושבר את כנפו."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What unusual action did the eagle's parents take?",
+      "difficulty": "A",
+      "options": [
+        "They moved the chick to a different island",
+        "They taught it to hunt from a boat",
+        "They skipped a breeding season to continue caring for their year-old offspring",
+        "They left it immediately after the injury"
+      ],
+      "correct_answer": "They skipped a breeding season to continue caring for their year-old offspring",
+      "explanation_hebrew": "שני ההורים ויתרו על עונת רבייה כדי להמשיך לטפל בצאצא שכבר היה בן שנה."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is the latest sighting especially encouraging?",
+      "difficulty": "A",
+      "options": [
+        "It proves every injured eagle can recover",
+        "It shows the bird has become the leader of an adult pair",
+        "It confirms the eagle returned to its original nest",
+        "It shows the eagle survived its first winter alone and can still fly despite the damaged wing"
+      ],
+      "correct_answer": "It shows the eagle survived its first winter alone and can still fly despite the damaged wing",
+      "explanation_hebrew": "התצפית מוכיחה שהעיט שרד את החורף הראשון לבדו ועדיין מסוגל לעוף למרות העיוות בכנף."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “confounded experts” mean in the opening sentence?",
+      "difficulty": "A",
+      "options": [
+        "Surprised experts by doing something they did not expect",
+        "Received medical treatment from experts",
+        "Was carefully counted by experts",
+        "Prevented experts from taking photographs"
+      ],
+      "correct_answer": "Surprised experts by doing something they did not expect",
+      "explanation_hebrew": "confounded פירושו הפתיע או הפריך את הציפיות; המומחים לא ציפו שהגוזל ישרוד."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “self-sustaining population” mean here?",
+      "difficulty": "A",
+      "options": [
+        "A population fed daily by wildlife officers",
+        "Birds that live only in captivity",
+        "A population that can survive and reproduce without continued reintroduction",
+        "A group containing only injured eagles"
+      ],
+      "correct_answer": "A population that can survive and reproduce without continued reintroduction",
+      "explanation_hebrew": "אוכלוסייה self-sustaining מסוגלת להתקיים ולהתרבות בכוחות עצמה בלי צורך מתמשך בשחרור עופות חדשים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the eagle's story from its injury to the latest sighting.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג לפחות חמישה שלבים מדויקים לפי הסדר.",
+      "expected_points": [
+        "The male chick fell from its nest during a storm in 2023",
+        "Its wing was badly broken",
+        "Experts did not expect it to survive",
+        "Its parents continued caring for it and skipped a breeding season",
+        "The wing healed with a distinctive kink",
+        "The bird survived its first winter alone",
+        "It was photographed flying over Loch Spelve three years after the injury"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might the next sub-adult stage be dangerous for the eagle?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את שינוי המעמד של העיט ואת הסכנה האפשרית לפי דברי דייב סקסטון.",
+      "expected_points": [
+        "The bird is no longer treated as an immature chick",
+        "Established adult pairs may not tolerate it in their territories",
+        "Adults may display severe 'not welcome' behaviour",
+        "Its crooked wing could make conflict more difficult",
+        "Its previous survival suggests resilience but does not remove the risk"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why the bird is called a “miracle eagle” and place its survival in the wider history of sea eagles in the UK.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את הפציעה, הטיפול ההורי, ההישרדות והיסטוריית ההכחדה וההשבה.",
+      "expected_points": [
+        "The chick suffered a badly broken wing after falling from its nest",
+        "Experts expected it to die",
+        "Its parents cared for it unusually long",
+        "It survived alone and was seen soaring three years later",
+        "Its healed wing has a visible kink",
+        "White-tailed eagles were hunted to extinction in the UK",
+        "The last native bird was shot in 1918",
+        "A Scottish reintroduction began in 1975",
+        "The population is now self-sustaining"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short wildlife update explaining the sighting without exaggerating what is known about the eagle's future.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית בטון עובדתי, לכלול לפחות ארבע עובדות ולהבחין בין הישרדות מוכחת לבין סיכונים עתידיים.",
+      "expected_points": [
+        "Identify the bird as a white-tailed or sea eagle on Mull",
+        "Explain the 2023 fall and broken wing",
+        "Mention the parents' extended care",
+        "State that it survived its first winter alone",
+        "Name Loch Spelve as the latest sighting location",
+        "Explain the visible kink in the wing",
+        "Mention possible conflict with established adult pairs",
+        "Avoid claiming its future survival is guaranteed"
+      ]
+    }
+  ]
+}
