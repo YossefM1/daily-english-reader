@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-04",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Is India's internet boom running into an undersea problem?",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko",
+  "published_at": "2026-09-03T23:40:08+00:00",
+  "age_hours_at_selection": 2.52,
+  "word_count": 1304,
+  "generated_at": "2026-09-04T02:11:05.239376+00:00",
+  "difficulty_reason": "Dense analytical feature with long sentences, many quoted experts and B2/C1/C2 vocabulary; needs background on infrastructure and governance.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "vulnerability",
+      "lemma": "vulnerability",
+      "level": "C1",
+      "hebrew": "פגיעוּת / חולשה",
+      "explanation_hebrew": "מצב של חשיפה לסכנה או נזק",
+      "pronunciation_hebrew": "וַלְנֶרַבִּילִיטִי",
+      "example": "The network has a critical vulnerability."
+    },
+    {
+      "word": "densely",
+      "lemma": "densely",
+      "level": "C1",
+      "hebrew": "בצפיפות",
+      "explanation_hebrew": "באופן צפוף מאוד",
+      "pronunciation_hebrew": "דֶנְסְלִי",
+      "example": "It is a densely populated area."
+    },
+    {
+      "word": "intercontinental",
+      "lemma": "intercontinental",
+      "level": "C1",
+      "hebrew": "בין-יבשתי",
+      "explanation_hebrew": "שנמתח בין יבשות שונות",
+      "pronunciation_hebrew": "אִינְטֶרְקוֹנְטִינֶנְטַל",
+      "example": "Intercontinental cables cross the ocean."
+    },
+    {
+      "word": "bandwidth",
+      "lemma": "bandwidth",
+      "level": "C1",
+      "hebrew": "רוחב פס",
+      "explanation_hebrew": "נפח הנתונים שרשת יכולה להעביר",
+      "pronunciation_hebrew": "בַּנְדְוִידְת'",
+      "example": "The cables carry huge bandwidth."
+    },
+    {
+      "word": "concentration",
+      "lemma": "concentration",
+      "level": "B2",
+      "hebrew": "ריכוז",
+      "explanation_hebrew": "הצטברות של דברים במקום אחד",
+      "pronunciation_hebrew": "קוֹנְסֶנְטְרֵיישְׁן",
+      "example": "There is a heavy geographic concentration."
+    },
+    {
+      "word": "simultaneously",
+      "lemma": "simultaneously",
+      "level": "C1",
+      "hebrew": "בו-זמנית",
+      "explanation_hebrew": "באותו זמן ממש",
+      "pronunciation_hebrew": "סַיְמַלְטֵיינְיֶאסְלִי",
+      "example": "Several cables were cut simultaneously."
+    },
+    {
+      "word": "deliberately",
+      "lemma": "deliberately",
+      "level": "B2",
+      "hebrew": "במכוון / בכוונה",
+      "explanation_hebrew": "מתוך כוונה ברורה",
+      "pronunciation_hebrew": "דִילִיבֶּרֶטְלִי",
+      "example": "The cable was cut deliberately."
+    },
+    {
+      "word": "rerouted",
+      "lemma": "reroute",
+      "level": "C1",
+      "hebrew": "הופנה מחדש / נותב מחדש",
+      "explanation_hebrew": "הועבר בנתיב אחר",
+      "pronunciation_hebrew": "רִירַאוּטֶד",
+      "example": "Traffic can be rerouted around the fault."
+    },
+    {
+      "word": "degradation",
+      "lemma": "degradation",
+      "level": "C1",
+      "hebrew": "הידרדרות / ירידה באיכות",
+      "explanation_hebrew": "החמרה הדרגתית בביצועים",
+      "pronunciation_hebrew": "דֶגְרַדֵיישְׁן",
+      "example": "Users noticed performance degradation."
+    },
+    {
+      "word": "stems",
+      "lemma": "stem",
+      "level": "C1",
+      "hebrew": "נובע / מקורו ב",
+      "explanation_hebrew": "מגיע ממקור מסוים",
+      "pronunciation_hebrew": "סְטֶמְז",
+      "example": "The problem stems from poor planning."
+    },
+    {
+      "word": "optical",
+      "lemma": "optical",
+      "level": "B2",
+      "hebrew": "אופטי",
+      "explanation_hebrew": "הקשור לאור או לראייה",
+      "pronunciation_hebrew": "אוֹפְּטִיקַל",
+      "example": "Data travels through optical fibres."
+    },
+    {
+      "word": "pulses",
+      "lemma": "pulse",
+      "level": "C1",
+      "hebrew": "פעימות / הבזקים",
+      "explanation_hebrew": "גלים קצרים וחוזרים של אנרגיה",
+      "pronunciation_hebrew": "פַּאלְסֶס",
+      "example": "Data moves as pulses of light."
+    },
+    {
+      "word": "reliance",
+      "lemma": "reliance",
+      "level": "C1",
+      "hebrew": "הישענות / תלות",
+      "explanation_hebrew": "מצב של הסתמכות על משהו",
+      "pronunciation_hebrew": "רִילַייַאנְס",
+      "example": "Its reliance on foreign ships is risky."
+    },
+    {
+      "word": "invisible",
+      "lemma": "invisible",
+      "level": "B2",
+      "hebrew": "בלתי נראה",
+      "explanation_hebrew": "שלא ניתן לראותו",
+      "pronunciation_hebrew": "אִינְוִיזִיבְּל",
+      "example": "The cables are an invisible network."
+    },
+    {
+      "word": "consumption",
+      "lemma": "consumption",
+      "level": "B2",
+      "hebrew": "צריכה",
+      "explanation_hebrew": "כמות שנעשה בה שימוש",
+      "pronunciation_hebrew": "קוֹנְסַאמְפְּשְׁן",
+      "example": "India has high data consumption."
+    },
+    {
+      "word": "terrestrial",
+      "lemma": "terrestrial",
+      "level": "C1",
+      "hebrew": "יבשתי / קרקעי",
+      "explanation_hebrew": "הנמצא על היבשה",
+      "pronunciation_hebrew": "טֶרֶסְטְרִיאַל",
+      "example": "The cables link to terrestrial networks."
+    },
+    {
+      "word": "paradox",
+      "lemma": "paradox",
+      "level": "C1",
+      "hebrew": "פרדוקס",
+      "explanation_hebrew": "סתירה מדומה בין שני דברים",
+      "pronunciation_hebrew": "פַּרַדוֹקְס",
+      "example": "This is the paradox of its growth."
+    },
+    {
+      "word": "nominal",
+      "lemma": "nominal",
+      "level": "C2",
+      "hebrew": "נקוב / רשמי",
+      "explanation_hebrew": "הערך המוצהר להבדיל מהמעשי",
+      "pronunciation_hebrew": "נוֹמִינַל",
+      "example": "Cables have a nominal 25-year life."
+    },
+    {
+      "word": "legitimate",
+      "lemma": "legitimate",
+      "level": "C1",
+      "hebrew": "לגיטימי / מוצדק",
+      "explanation_hebrew": "חוקי או מוצדק בהיגיון",
+      "pronunciation_hebrew": "לֶגִ'יטִימֶט",
+      "example": "That is a legitimate concern."
+    },
+    {
+      "word": "saboteurs",
+      "lemma": "saboteur",
+      "level": "C2",
+      "hebrew": "חבלנים",
+      "explanation_hebrew": "אנשים שפוגעים במתקנים בכוונה",
+      "pronunciation_hebrew": "סַבּוֹטֶרְז",
+      "example": "Most faults are not caused by saboteurs."
+    },
+    {
+      "word": "lengthy",
+      "lemma": "lengthy",
+      "level": "B2",
+      "hebrew": "ממושך / ארוך",
+      "explanation_hebrew": "שנמשך זמן רב",
+      "pronunciation_hebrew": "לֶנְגְת'י",
+      "example": "It is a lengthy approval process."
+    },
+    {
+      "word": "bottleneck",
+      "lemma": "bottleneck",
+      "level": "C1",
+      "hebrew": "צוואר בקבוק",
+      "explanation_hebrew": "נקודת עיכוב שמאטה תהליך",
+      "pronunciation_hebrew": "בּוֹטְלְנֶק",
+      "example": "Repair capacity is the real bottleneck."
+    },
+    {
+      "word": "bureaucracy",
+      "lemma": "bureaucracy",
+      "level": "C1",
+      "hebrew": "ביורוקרטיה",
+      "explanation_hebrew": "מערכת נהלים מסורבלת",
+      "pronunciation_hebrew": "בְּיוּרוֹקְרַסִי",
+      "example": "The delay is caused by bureaucracy."
+    },
+    {
+      "word": "fragmented",
+      "lemma": "fragment",
+      "level": "C1",
+      "hebrew": "מפוצל / מקוטע",
+      "explanation_hebrew": "מחולק לחלקים רבים ולא מאוחד",
+      "pronunciation_hebrew": "פְרַגְמֶנְטֶד",
+      "example": "Governance here is fragmented."
+    },
+    {
+      "word": "fragile",
+      "lemma": "fragile",
+      "level": "B2",
+      "hebrew": "שביר / פגיע",
+      "explanation_hebrew": "עלול להישבר או להיפגע בקלות",
+      "pronunciation_hebrew": "פְרַגַ'יְל",
+      "example": "The infrastructure remains fragile."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "vulnerability",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerability” mean?",
+      "options": [
+        "במכוון / בכוונה",
+        "הופנה מחדש / נותב מחדש",
+        "פגיעוּת / חולשה",
+        "רוחב פס"
+      ],
+      "correct_answer": "פגיעוּת / חולשה",
+      "explanation_hebrew": "vulnerability פירושו “פגיעוּת / חולשה”."
+    },
+    {
+      "id": "C-q2",
+      "word": "densely",
+      "type": "english_to_hebrew",
+      "question": "What does “densely” mean?",
+      "options": [
+        "צוואר בקבוק",
+        "בצפיפות",
+        "בין-יבשתי",
+        "ריכוז"
+      ],
+      "correct_answer": "בצפיפות",
+      "explanation_hebrew": "densely פירושו “בצפיפות”."
+    },
+    {
+      "id": "C-q3",
+      "word": "intercontinental",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בין-יבשתי”?",
+      "options": [
+        "saboteurs",
+        "paradox",
+        "intercontinental",
+        "vulnerability"
+      ],
+      "correct_answer": "intercontinental",
+      "explanation_hebrew": "המילה “intercontinental” פירושה בין-יבשתי."
+    },
+    {
+      "id": "C-q4",
+      "word": "bandwidth",
+      "type": "english_to_hebrew",
+      "question": "What does “bandwidth” mean?",
+      "options": [
+        "הופנה מחדש / נותב מחדש",
+        "רוחב פס",
+        "יבשתי / קרקעי",
+        "חבלנים"
+      ],
+      "correct_answer": "רוחב פס",
+      "explanation_hebrew": "bandwidth פירושו “רוחב פס”."
+    },
+    {
+      "id": "C-q5",
+      "word": "concentration",
+      "type": "english_to_hebrew",
+      "question": "What does “concentration” mean?",
+      "options": [
+        "פעימות / הבזקים",
+        "חבלנים",
+        "ריכוז",
+        "במכוון / בכוונה"
+      ],
+      "correct_answer": "ריכוז",
+      "explanation_hebrew": "concentration פירושו “ריכוז”."
+    },
+    {
+      "id": "C-q6",
+      "word": "simultaneously",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בו-זמנית”?",
+      "options": [
+        "bottleneck",
+        "simultaneously",
+        "invisible",
+        "terrestrial"
+      ],
+      "correct_answer": "simultaneously",
+      "explanation_hebrew": "המילה “simultaneously” פירושה בו-זמנית."
+    },
+    {
+      "id": "C-q7",
+      "word": "deliberately",
+      "type": "english_to_hebrew",
+      "question": "What does “deliberately” mean?",
+      "options": [
+        "ממושך / ארוך",
+        "יבשתי / קרקעי",
+        "נקוב / רשמי",
+        "במכוון / בכוונה"
+      ],
+      "correct_answer": "במכוון / בכוונה",
+      "explanation_hebrew": "deliberately פירושו “במכוון / בכוונה”."
+    },
+    {
+      "id": "C-q8",
+      "word": "rerouted",
+      "type": "english_to_hebrew",
+      "question": "What does “rerouted” mean?",
+      "options": [
+        "הישענות / תלות",
+        "הופנה מחדש / נותב מחדש",
+        "ביורוקרטיה",
+        "צריכה"
+      ],
+      "correct_answer": "הופנה מחדש / נותב מחדש",
+      "explanation_hebrew": "rerouted פירושו “הופנה מחדש / נותב מחדש”."
+    },
+    {
+      "id": "C-q9",
+      "word": "degradation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הידרדרות / ירידה באיכות”?",
+      "options": [
+        "bandwidth",
+        "degradation",
+        "fragmented",
+        "nominal"
+      ],
+      "correct_answer": "degradation",
+      "explanation_hebrew": "המילה “degradation” פירושה הידרדרות / ירידה באיכות."
+    },
+    {
+      "id": "C-q10",
+      "word": "stems",
+      "type": "english_to_hebrew",
+      "question": "What does “stems” mean?",
+      "options": [
+        "חבלנים",
+        "נובע / מקורו ב",
+        "פגיעוּת / חולשה",
+        "צריכה"
+      ],
+      "correct_answer": "נובע / מקורו ב",
+      "explanation_hebrew": "stems פירושו “נובע / מקורו ב”."
+    },
+    {
+      "id": "C-q11",
+      "word": "optical",
+      "type": "english_to_hebrew",
+      "question": "What does “optical” mean?",
+      "options": [
+        "פעימות / הבזקים",
+        "שביר / פגיע",
+        "ריכוז",
+        "אופטי"
+      ],
+      "correct_answer": "אופטי",
+      "explanation_hebrew": "optical פירושו “אופטי”."
+    },
+    {
+      "id": "C-q12",
+      "word": "pulses",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פעימות / הבזקים”?",
+      "options": [
+        "lengthy",
+        "bureaucracy",
+        "pulses",
+        "simultaneously"
+      ],
+      "correct_answer": "pulses",
+      "explanation_hebrew": "המילה “pulses” פירושה פעימות / הבזקים."
+    },
+    {
+      "id": "C-q13",
+      "word": "reliance",
+      "type": "english_to_hebrew",
+      "question": "What does “reliance” mean?",
+      "options": [
+        "צוואר בקבוק",
+        "נקוב / רשמי",
+        "בצפיפות",
+        "הישענות / תלות"
+      ],
+      "correct_answer": "הישענות / תלות",
+      "explanation_hebrew": "reliance פירושו “הישענות / תלות”."
+    },
+    {
+      "id": "C-q14",
+      "word": "invisible",
+      "type": "english_to_hebrew",
+      "question": "What does “invisible” mean?",
+      "options": [
+        "הישענות / תלות",
+        "חבלנים",
+        "בלתי נראה",
+        "ממושך / ארוך"
+      ],
+      "correct_answer": "בלתי נראה",
+      "explanation_hebrew": "invisible פירושו “בלתי נראה”."
+    },
+    {
+      "id": "C-q15",
+      "word": "consumption",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “צריכה”?",
+      "options": [
+        "bottleneck",
+        "consumption",
+        "fragmented",
+        "saboteurs"
+      ],
+      "correct_answer": "consumption",
+      "explanation_hebrew": "המילה “consumption” פירושה צריכה."
+    },
+    {
+      "id": "C-q16",
+      "word": "terrestrial",
+      "type": "english_to_hebrew",
+      "question": "What does “terrestrial” mean?",
+      "options": [
+        "יבשתי / קרקעי",
+        "צוואר בקבוק",
+        "בלתי נראה",
+        "נובע / מקורו ב"
+      ],
+      "correct_answer": "יבשתי / קרקעי",
+      "explanation_hebrew": "terrestrial פירושו “יבשתי / קרקעי”."
+    },
+    {
+      "id": "C-q17",
+      "word": "paradox",
+      "type": "english_to_hebrew",
+      "question": "What does “paradox” mean?",
+      "options": [
+        "נקוב / רשמי",
+        "במכוון / בכוונה",
+        "פרדוקס",
+        "ריכוז"
+      ],
+      "correct_answer": "פרדוקס",
+      "explanation_hebrew": "paradox פירושו “פרדוקס”."
+    },
+    {
+      "id": "C-q18",
+      "word": "nominal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נקוב / רשמי”?",
+      "options": [
+        "bureaucracy",
+        "nominal",
+        "legitimate",
+        "densely"
+      ],
+      "correct_answer": "nominal",
+      "explanation_hebrew": "המילה “nominal” פירושה נקוב / רשמי."
+    },
+    {
+      "id": "C-q19",
+      "word": "legitimate",
+      "type": "english_to_hebrew",
+      "question": "What does “legitimate” mean?",
+      "options": [
+        "לגיטימי / מוצדק",
+        "ממושך / ארוך",
+        "ריכוז",
+        "נקוב / רשמי"
+      ],
+      "correct_answer": "לגיטימי / מוצדק",
+      "explanation_hebrew": "legitimate פירושו “לגיטימי / מוצדק”."
+    },
+    {
+      "id": "C-q20",
+      "word": "saboteurs",
+      "type": "english_to_hebrew",
+      "question": "What does “saboteurs” mean?",
+      "options": [
+        "הישענות / תלות",
+        "פעימות / הבזקים",
+        "לגיטימי / מוצדק",
+        "חבלנים"
+      ],
+      "correct_answer": "חבלנים",
+      "explanation_hebrew": "saboteurs פירושו “חבלנים”."
+    },
+    {
+      "id": "C-q21",
+      "word": "lengthy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ממושך / ארוך”?",
+      "options": [
+        "simultaneously",
+        "lengthy",
+        "nominal",
+        "degradation"
+      ],
+      "correct_answer": "lengthy",
+      "explanation_hebrew": "המילה “lengthy” פירושה ממושך / ארוך."
+    },
+    {
+      "id": "C-q22",
+      "word": "bottleneck",
+      "type": "english_to_hebrew",
+      "question": "What does “bottleneck” mean?",
+      "options": [
+        "הופנה מחדש / נותב מחדש",
+        "ריכוז",
+        "במכוון / בכוונה",
+        "צוואר בקבוק"
+      ],
+      "correct_answer": "צוואר בקבוק",
+      "explanation_hebrew": "bottleneck פירושו “צוואר בקבוק”."
+    },
+    {
+      "id": "C-q23",
+      "word": "bureaucracy",
+      "type": "english_to_hebrew",
+      "question": "What does “bureaucracy” mean?",
+      "options": [
+        "חבלנים",
+        "פגיעוּת / חולשה",
+        "צריכה",
+        "ביורוקרטיה"
+      ],
+      "correct_answer": "ביורוקרטיה",
+      "explanation_hebrew": "bureaucracy פירושו “ביורוקרטיה”."
+    },
+    {
+      "id": "C-q24",
+      "word": "fragmented",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מפוצל / מקוטע”?",
+      "options": [
+        "invisible",
+        "lengthy",
+        "reliance",
+        "fragmented"
+      ],
+      "correct_answer": "fragmented",
+      "explanation_hebrew": "המילה “fragmented” פירושה מפוצל / מקוטע."
+    },
+    {
+      "id": "C-q25",
+      "word": "fragile",
+      "type": "english_to_hebrew",
+      "question": "What does “fragile” mean?",
+      "options": [
+        "נובע / מקורו ב",
+        "בצפיפות",
+        "שביר / פגיע",
+        "הישענות / תלות"
+      ],
+      "correct_answer": "שביר / פגיע",
+      "explanation_hebrew": "fragile פירושו “שביר / פגיע”."
+    }
+  ]
+}
