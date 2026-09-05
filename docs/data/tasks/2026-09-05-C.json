@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-05",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+  "article_url": "https://www.bbc.co.uk/news/articles/cy0zx368prno",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central argument of the article?",
+      "difficulty": "C",
+      "options": [
+        "Nepal should immediately abandon all electricity exports",
+        "Nepal's hydropower success has created a climate-exposed dependence that requires stronger design, diversification and regional cooperation",
+        "Solar power caused the recent floods in the Trishuli basin",
+        "Hydropower plants face no special risks when built high in the Himalayas"
+      ],
+      "correct_answer": "Nepal's hydropower success has created a climate-exposed dependence that requires stronger design, diversification and regional cooperation",
+      "explanation_hebrew": "הטענה המרכזית היא שההישענות הכמעט מוחלטת על הידרו־חשמל הביאה הצלחה אך גם יצרה סיכון אקלימי מערכתי שמחייב שינוי מדיניות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was the immediate effect of the floods on Nepal's electricity system?",
+      "difficulty": "C",
+      "options": [
+        "They increased electricity exports by $200m",
+        "They destroyed every reservoir-based plant",
+        "They damaged 12 hydropower plants and removed more than 10% of total generation capacity",
+        "They caused Nepal to close all 225 plants permanently"
+      ],
+      "correct_answer": "They damaged 12 hydropower plants and removed more than 10% of total generation capacity",
+      "explanation_hebrew": "השיטפונות פגעו קשות ב־12 תחנות באגן טרישולי והשביתו יותר מעשרה אחוזים מכושר הייצור הכולל."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which change helped Nepal move from severe power cuts to mostly continuous electricity by 2018?",
+      "difficulty": "C",
+      "options": [
+        "Hydropower expansion, anti-corruption efforts and imports from India to cover seasonal gaps",
+        "Closing mountain plants and relying entirely on coal",
+        "Ending all cross-border electricity trade",
+        "Reducing household access to electricity"
+      ],
+      "correct_answer": "Hydropower expansion, anti-corruption efforts and imports from India to cover seasonal gaps",
+      "explanation_hebrew": "השיפור נבע מהרחבת תשתיות ההידרו, טיפול בשחיתות ויבוא חשמל מהודו להשלמת מחסור עונתי."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the “all our eggs in one basket” metaphor apply to Nepal?",
+      "difficulty": "C",
+      "options": [
+        "Most plants use identical baskets to carry equipment",
+        "Nearly all electricity comes from one climate-vulnerable energy source",
+        "Nepal exports electricity to only one household",
+        "All hydropower facilities belong to a single private insurer"
+      ],
+      "correct_answer": "Nearly all electricity comes from one climate-vulnerable energy source",
+      "explanation_hebrew": "המטפורה מדגישה שכמעט כל החשמל מגיע ממקור אחד החשוף לאותם סיכוני שיטפונות, קרחונים והרים מתחממים."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “laid bare the risks” mean in the opening section?",
+      "difficulty": "C",
+      "options": [
+        "Covered the damaged plants with mud",
+        "Made the risks clearly visible",
+        "Calculated the insurance premiums",
+        "Reduced the risks permanently"
+      ],
+      "correct_answer": "Made the risks clearly visible",
+      "explanation_hebrew": "laid bare פירושו חשף בבירור; האסון המחיש את הפגיעוּת של אסטרטגיית ההידרו־חשמל."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “unfeasible” mean when rising insurance costs are discussed?",
+      "difficulty": "C",
+      "options": [
+        "More profitable than before",
+        "Required by international law",
+        "Impractical or financially unsustainable",
+        "Protected from all future floods"
+      ],
+      "correct_answer": "Impractical or financially unsustainable",
+      "explanation_hebrew": "unfeasible פירושו בלתי מעשי או לא בר־קיימא כלכלית; הפרמיות העולות מקשות על כדאיות הפעילות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Use the article's figures to explain both the achievements and the exposure of Nepal's hydropower sector.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשתמש לפחות בחמישה נתונים מספריים מדויקים ולחברם לטיעון.",
+      "expected_points": [
+        "Almost 100% of Nepal's electricity comes from hydropower",
+        "Electricity exports earn nearly $200m per year",
+        "Only two-thirds of the population had electricity access in 2010",
+        "Some connected households faced cuts of up to 16 hours a day",
+        "By 2018 most of Nepal had 24-hour supply",
+        "There are 225 plants with more than 3,900MW installed capacity",
+        "That capacity can power roughly three million households at once",
+        "Twelve plants were severely damaged in the recent floods",
+        "More than 10% of national generation capacity was knocked out",
+        "More than 1,300 people were killed and thousands remained missing"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is switching from mountain run-of-river projects to reservoir-based plants not a complete solution?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את יתרון האגירה לצד עלויות, סיכונים ומגבלות מערכתיות.",
+      "expected_points": [
+        "Reservoir plants could be placed away from some high-mountain hazards",
+        "They can store water and release it when needed",
+        "They could improve seasonal flexibility and resilience",
+        "They involve significant economic costs",
+        "They can impose major environmental costs",
+        "Changing plant type does not remove all flood and climate risks",
+        "Existing infrastructure and investments remain exposed",
+        "Diversification into wind and solar and better warning systems are still needed"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why Nepal's hydropower strategy is being reconsidered and the main responses proposed in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול הצלחות עבר, נזקי השיטפון, סיכוני אקלים, ביקורת על תכנון ומימון, ופתרונות מוצעים.",
+      "expected_points": [
+        "Hydropower ended long power shortages and now supports exports",
+        "Nepal relies on it for almost all electricity",
+        "Recent floods damaged 12 plants and more than 10% of capacity",
+        "High Himalayan regions are warming faster than the global average",
+        "Past disasters show repeated vulnerability in the Trishuli basin",
+        "Critics say known risks were not adequately reflected in design and investment",
+        "Plants should be redesigned and sited for greater resilience",
+        "Early-warning and evacuation systems should be strengthened",
+        "Reservoir projects may add flexibility",
+        "Wind and solar could reduce single-source dependence",
+        "International data sharing and cooperation are needed"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a policy briefing recommending three priorities for Nepal's electricity strategy after the floods.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית מסמך מאוזן, לבחור שלוש עדיפויות ולבסס כל אחת בעובדות מן הכתבה ובמגבלות מעשיות.",
+      "expected_points": [
+        "Prioritise flood-resilient plant design and safer site selection",
+        "Install robust early-warning and emergency evacuation systems",
+        "Diversify with meaningful additions of solar and wind",
+        "Consider reservoir-based plants while acknowledging economic and environmental costs",
+        "Review lender and regulator risk assessments and enforce safeguards",
+        "Coordinate climate data and warnings with neighbouring governments and international organisations",
+        "Protect reliable supply while retaining hydropower's regional competitive advantage",
+        "Cite the loss of more than 10% of capacity or damage to 12 plants",
+        "Mention rising insurance costs and repeated Trishuli-basin floods",
+        "Avoid claiming that one technology can eliminate all climate risk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-05",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Cave art discovery suggests first humans in Ireland came from Wales",
+  "article_url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Researchers finding ancient cave art that may push back the earliest known human presence in Ireland and support a Wales-to-Ireland land-bridge route",
+        "Archaeologists proving that farming began in Ireland 40,000 years ago",
+        "A plan to open all Irish cave sites to tourists",
+        "Scientists discovering that Ireland remained completely covered by sea during the Ice Age"
+      ],
+      "correct_answer": "Researchers finding ancient cave art that may push back the earliest known human presence in Ireland and support a Wales-to-Ireland land-bridge route",
+      "explanation_hebrew": "הכתבה עוסקת באמנות מערות עתיקה שעשויה להקדים בכ־5,000 שנה את העדות הידועה לנוכחות אדם באירלנד ולתמוך במסלול יבשתי מוויילס."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What created the possible route between Pembrokeshire and south-east Ireland during the Ice Age?",
+      "difficulty": "B",
+      "options": [
+        "A chain of artificial wooden bridges",
+        "Lower sea levels exposed a land bridge",
+        "A frozen river crossed the Atlantic",
+        "A volcanic eruption joined the coasts"
+      ],
+      "correct_answer": "Lower sea levels exposed a land bridge",
+      "explanation_hebrew": "ירידת פני הים בתקופת הקרח חשפה גשר יבשתי בין פמברוקשייר לבין אזור רוסלר באירלנד."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did the research team narrow its search for Irish caves?",
+      "difficulty": "B",
+      "options": [
+        "It searched only beside modern roads",
+        "It copied locations from medieval maps",
+        "It used an AI-assisted algorithm trained on characteristics of cave dwellings in south Wales",
+        "It followed herds of wild horses across the sea"
+      ],
+      "correct_answer": "It used an AI-assisted algorithm trained on characteristics of cave dwellings in south Wales",
+      "explanation_hebrew": "החוקרים הזינו לאלגוריתם מאפיינים של מערות מגורים בדרום וויילס, והוא הציע אתרים דומים באירלנד."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are the exact cave locations being kept secret?",
+      "difficulty": "B",
+      "options": [
+        "The team has forgotten how to reach them",
+        "The caves are outside Ireland",
+        "The researchers want to reduce the risk of vandalism or looting",
+        "The artwork is visible only in winter"
+      ],
+      "correct_answer": "The researchers want to reduce the risk of vandalism or looting",
+      "explanation_hebrew": "החוקרים אינם מפרסמים מיקום מדויק כדי להגן על האתרים מפני השחתה או ביזה."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “absence of proof isn't proof of absence” mean in this investigation?",
+      "difficulty": "B",
+      "options": [
+        "Old discoveries should always be rejected",
+        "Not finding evidence yet does not prove that early humans were not there",
+        "Every cave must contain human art",
+        "Computer models are more reliable than fieldwork"
+      ],
+      "correct_answer": "Not finding evidence yet does not prove that early humans were not there",
+      "explanation_hebrew": "המשפט אומר שהיעדר ממצא עד כה אינו מוכיח שבני אדם קדומים לא היו במקום; ייתכן שפשוט לא חיפשו נכון."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “game-changer” mean when Nash describes advances in AI?",
+      "difficulty": "B",
+      "options": [
+        "A tool used to entertain the researchers",
+        "A development that significantly changed what the team could achieve",
+        "A rule preventing cave exploration",
+        "A discovery that proved every earlier theory wrong"
+      ],
+      "correct_answer": "A development that significantly changed what the team could achieve",
+      "explanation_hebrew": "game-changer הוא שינוי משמעותי שמאפשר דרך פעולה חדשה; כאן הבינה המלאכותית מיקדה את החיפוש במערות מבטיחות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain how the team moved from a theory about migration to the discovery of eight cave-art sites.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר את ההשערה, כלי החיפוש, מספר האתרים שנבדקו והתוצאה.",
+      "expected_points": [
+        "Nash believed hunter-gatherers would have used the exposed land bridge",
+        "The route linked modern Pembrokeshire with south-east Ireland",
+        "He assembled a multidisciplinary international team",
+        "They trained a computer algorithm using characteristics of south-Wales cave dwellings",
+        "The model identified 28 potential caves in south-west Ireland",
+        "The team investigated those candidates in the field",
+        "Eight caves contained art believed to be at least 15,000 years old"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What environmental and social conditions could have encouraged people to move from Wales towards Ireland?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר לפחות שני גורמי משיכה סביבתיים ושני גורמי לחץ חברתיים או הישרדותיים.",
+      "expected_points": [
+        "Lower sea levels created a walkable plateau about 46 miles or 76 km across",
+        "The plateau supported large animals such as horses, mammoths, bison and reindeer",
+        "Hunter-gatherers could follow animal migration routes",
+        "Caves offered temperatures of about 10°C to 15°C even when outside temperatures were far colder",
+        "Growing family networks increased population pressure",
+        "Competition for the many inhabited caves in the Gower Peninsula was intense",
+        "Improved survival knowledge may have made groups bolder about moving west and north"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence, method and significance of the Lost Land Bridge Project's discovery.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את גשר היבשה, השימוש ב־AI, ממצאי האמנות, התיארוך והמשמעות להיסטוריה האנושית באירלנד.",
+      "expected_points": [
+        "An Ice Age land bridge may have linked Wales and Ireland",
+        "An AI-assisted model identified 28 promising caves",
+        "Researchers found art in eight south-west Irish caves",
+        "The art includes engravings, ochre and charcoal paintings, and finger-made lines",
+        "The sites date to at least 15,000 years ago and may be older",
+        "This is about 5,000 years earlier than the previous oldest evidence in Ireland",
+        "The findings support the idea that people crossed from Wales",
+        "Researchers expect further discoveries in areas such as Wexford, Waterford and Cork"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced science-news paragraph explaining what the discovery suggests and what remains uncertain.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית ולהבחין בין ראיות, פרשנות ואי־ודאות; אין להציג את ההשערה כהוכחה מוחלטת.",
+      "expected_points": [
+        "State that eight caves contain art believed to be at least 15,000 years old",
+        "Compare the date with the earlier 10,500-year evidence",
+        "Explain the proposed Wales-Ireland land bridge",
+        "Mention the AI-assisted selection of 28 candidate caves",
+        "Describe at least one type of artwork found",
+        "Use cautious language such as suggests, believes or may",
+        "Note that researchers have not disclosed exact locations",
+        "Acknowledge that more sites and earlier evidence may still be found"
+      ]
+    }
+  ]
+}

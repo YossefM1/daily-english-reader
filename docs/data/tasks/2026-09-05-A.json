@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-05",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Argentine couple to return Nazi-looted painting to rightful owner",
+  "article_url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "An Argentine court agreement requiring a couple to return a Nazi-looted painting to its rightful heir",
+        "A museum buying a newly painted portrait from an Argentine artist",
+        "A German court sending an art dealer to prison",
+        "Experts proving that every painting attributed to Ghislandi is genuine"
+      ],
+      "correct_answer": "An Argentine court agreement requiring a couple to return a Nazi-looted painting to its rightful heir",
+      "explanation_hebrew": "הכתבה עוסקת בהסכם משפטי בארגנטינה שבמסגרתו בני זוג יחזירו ליורשת החוקית ציור שנבזז בידי הנאצים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How was Portrait of a Lady first rediscovered after being missing for about 80 years?",
+      "difficulty": "A",
+      "options": [
+        "Police found it in a locked museum store",
+        "It appeared in photographs advertising a house for sale",
+        "A hospital received it as an anonymous donation",
+        "The artist's family uncovered it in Italy"
+      ],
+      "correct_answer": "It appeared in photographs advertising a house for sale",
+      "explanation_hebrew": "הציור זוהה בתמונות של בית שהוצע למכירה ליד בואנוס איירס, כשהוא תלוי מעל ספה ירוקה."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Patricia Kadgien and her husband agree to do?",
+      "difficulty": "A",
+      "options": [
+        "Sell the painting and keep half the money",
+        "Move the painting to a private collection in Europe",
+        "Give up their rights to the painting and donate 4.8 million pesos to local hospitals",
+        "Prove that Friedrich Kadgien painted the portrait"
+      ],
+      "correct_answer": "Give up their rights to the painting and donate 4.8 million pesos to local hospitals",
+      "explanation_hebrew": "לפי ההסכם הם מוותרים על כל זכות בציור ותורמים 4.8 מיליון פסו לבתי חולים מקומיים."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Marei von Saher plan to lend the painting temporarily to the Holocaust Museum of Buenos Aires?",
+      "difficulty": "A",
+      "options": [
+        "To determine which Italian artist painted it",
+        "To increase awareness of Nazi art looting and the effort to restore her family's collection",
+        "To advertise the house where it was found",
+        "To prevent Argentine courts from examining it"
+      ],
+      "correct_answer": "To increase awareness of Nazi art looting and the effort to restore her family's collection",
+      "explanation_hebrew": "ההשאלה המתוכננת נועדה להעלות מודעות לביזת האמנות הנאצית ולמאמץ להשיב את אוסף משפחתה."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “concealing” mean in the report about the criminal charge?",
+      "difficulty": "A",
+      "options": [
+        "Restoring an old object",
+        "Hiding something from the authorities",
+        "Displaying something in public",
+        "Proving who created an artwork"
+      ],
+      "correct_answer": "Hiding something from the authorities",
+      "explanation_hebrew": "concealing פירושו להסתיר; בני הזוג הואשמו בכך שהסתירו את הציור מן הרשויות."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “provenance” mean when experts question the artwork's provenance?",
+      "difficulty": "A",
+      "options": [
+        "The physical size of the painting",
+        "The amount donated to hospitals",
+        "The history of an artwork's origin, ownership and attribution",
+        "The legal punishment for theft"
+      ],
+      "correct_answer": "The history of an artwork's origin, ownership and attribution",
+      "explanation_hebrew": "provenance היא היסטוריית המקור והבעלות של יצירת אמנות, ולעיתים גם ייחוסה לאמן מסוים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the chain of events from the painting's Nazi-era theft to the agreement in Argentina.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג לפחות חמישה שלבים מדויקים ובסדר כרונולוגי.",
+      "expected_points": [
+        "The painting belonged to Jewish art dealer Jacques Goudstikker's collection",
+        "It was among more than 1,000 works looted after the Nazi invasion of the Netherlands in 1940",
+        "It remained missing for about 80 years",
+        "A Dutch newspaper recognised it in August 2025 in estate-agent photographs",
+        "It was hanging in Patricia Kadgien's home near Buenos Aires",
+        "Kadgien and her husband were charged with concealment and placed under house arrest",
+        "The families and prosecutors reached an agreement",
+        "The couple will return the painting, give up their rights and donate money to hospitals"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why was the estate-agent photograph especially important to the recovery of the painting?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד פרט יומיומי בפרסום נדל״ן חיבר בין היצירה האבודה לבין משפחת קדגיין והרשויות.",
+      "expected_points": [
+        "The painting had been missing for roughly eight decades",
+        "It was visible above a green sofa in an online property listing",
+        "The image allowed the Dutch newspaper AD to recognise it",
+        "The advertised house belonged to Patricia Kadgien",
+        "Her father Friedrich Kadgien had been a Nazi fugitive and adviser to Hermann Goring",
+        "The discovery gave investigators a specific location and owner to examine"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the dispute over Portrait of a Lady, including its ownership history, rediscovery and planned future.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את הביזה, היורשת, הגילוי בארגנטינה, ההסכם המשפטי והתצוגה המתוכננת.",
+      "expected_points": [
+        "The painting was looted from Jacques Goudstikker's collection by the Nazis",
+        "Marei von Saher is his daughter-in-law and sole heir",
+        "It was spotted in photographs of Patricia Kadgien's house",
+        "Kadgien is the daughter of Nazi fugitive Friedrich Kadgien",
+        "The couple will return it in exchange for the suspension of prosecution",
+        "They must give up all rights and donate 4.8 million pesos",
+        "Von Saher plans a temporary loan to the Holocaust Museum of Buenos Aires",
+        "Experts still debate whether the artist was Giuseppe Ghislandi or Giacomo Ceruti"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short museum label explaining why this painting matters, while noting the uncertainty about its artist.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית באופן עובדתי, לכלול לפחות ארבע עובדות ולא לקבוע בוודאות מי האמן.",
+      "expected_points": [
+        "Identify the work as Portrait of a Lady or Contessa Colleoni",
+        "State that it was looted from Jacques Goudstikker's collection after the 1940 Nazi invasion",
+        "Mention that it was missing for about 80 years",
+        "Explain that it was rediscovered through an Argentine property advertisement",
+        "Name Marei von Saher as the rightful heir",
+        "Mention the planned temporary Holocaust Museum loan",
+        "Say it is attributed to Giuseppe Ghislandi",
+        "Acknowledge that some scholars instead attribute it to Giacomo Ceruti"
+      ]
+    }
+  ]
+}
