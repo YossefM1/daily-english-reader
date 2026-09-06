@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-06",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+  "article_url": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central issue examined in the article?",
+      "difficulty": "C",
+      "options": [
+        "Whether Odesa should extend restrictions on Russian-language arts in public spaces while balancing security, identity and civil liberties",
+        "Whether Ukraine should make Russian its only state language",
+        "Whether Odesa should close every private theatre during the war",
+        "Whether Russian and Ukrainian are exactly the same language"
+      ],
+      "correct_answer": "Whether Odesa should extend restrictions on Russian-language arts in public spaces while balancing security, identity and civil liberties",
+      "explanation_hebrew": "הכתבה בוחנת את ההצעה להרחיב את הגבלות הרוסית באמנות במרחב הציבורי, מול מתחים בין ביטחון וזהות לבין חירות ותרבות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What would the proposed Odesa measure do beyond current national rules?",
+      "difficulty": "C",
+      "options": [
+        "Ban private conversations in Russian inside homes",
+        "Remove Russian-language books from public-library display and halt Russian-language music and literature in public spaces",
+        "Require every Ukrainian soldier to change their first language",
+        "Permit only Russian in state-run theatres"
+      ],
+      "correct_answer": "Remove Russian-language books from public-library display and halt Russian-language music and literature in public spaces",
+      "explanation_hebrew": "ההצעה כוללת הפסקה של תוכן מוזיקלי וספרותי ברוסית במרחב הציבורי והסרת ספרים ברוסית מתצוגה בספריות ציבוריות."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does Ukraine's 2019 language law require of public-facing workers?",
+      "difficulty": "C",
+      "options": [
+        "They must initially address customers or patients in Ukrainian, but may switch to Russian if requested",
+        "They may use only Russian with every customer",
+        "They must avoid speaking during work",
+        "They must translate every conversation into English"
+      ],
+      "correct_answer": "They must initially address customers or patients in Ukrainian, but may switch to Russian if requested",
+      "explanation_hebrew": "החוק מחייב עובדים הפונים לציבור להתחיל באוקראינית, אך מאפשר מעבר לרוסית אם הלקוח או המטופל מעדיף זאת."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might private businesses feel pressure to follow a non-binding recommendation?",
+      "difficulty": "C",
+      "options": [
+        "The proposal automatically closes non-compliant businesses",
+        "Businesses depend on local government for matters such as premises and advertising permits",
+        "Every private venue is owned by the language ombudswoman",
+        "Customers are legally forbidden to request Russian"
+      ],
+      "correct_answer": "Businesses depend on local government for matters such as premises and advertising permits",
+      "explanation_hebrew": "אף שאין סנקציה מחייבת, עסקים תלויים בעירייה בשכירות ובהיתרי פרסום ולכן עשויים להרגיש לחץ לציית."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “decolonise” mean in Kartashov's description of Odesa's cultural programme?",
+      "difficulty": "C",
+      "options": [
+        "Remove or reassess historical Russian imperial influence over the city's identity",
+        "Translate every Ukrainian text into Russian",
+        "Rebuild monuments destroyed by weather",
+        "End all cultural activity in the city"
+      ],
+      "correct_answer": "Remove or reassess historical Russian imperial influence over the city's identity",
+      "explanation_hebrew": "decolonise בהקשר זה פירושו לצמצם או לבחון מחדש את המורשת וההשפעה האימפריאלית הרוסית על זהות העיר."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Pavlo Viktor mean by saying Ukrainianisation should be “polite and soft”?",
+      "difficulty": "C",
+      "options": [
+        "It should happen only through fines and dismissals",
+        "It should encourage a gradual voluntary shift by creating an attractive Ukrainian-speaking environment",
+        "It should prevent children from learning Ukrainian",
+        "It should apply only during missile attacks"
+      ],
+      "correct_answer": "It should encourage a gradual voluntary shift by creating an attractive Ukrainian-speaking environment",
+      "explanation_hebrew": "לדבריו השינוי צריך להיות הדרגתי ולעודד אנשים לבחור באוקראינית מתוך רצון, ולא באמצעות כפייה חריפה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the existing national restrictions with the additional measures proposed in Odesa.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג לפחות שלושה כללים קיימים ושלושה שינויים מוצעים, תוך הבחנה בין ציבורי לפרטי.",
+      "expected_points": [
+        "Ukrainian is the sole state language",
+        "The 2019 law requires Ukrainian in education, public services and customer service",
+        "Public-facing workers must begin interactions in Ukrainian but may switch if a client prefers Russian",
+        "Public performance of songs by Russian citizens is already illegal, with limited exceptions for anti-war artists",
+        "The Odesa proposal would halt Russian-language music and literature in streets, parks, public institutions and state-run venues",
+        "It would include Russian-language songs by Ukrainian composers or performers in public places",
+        "Russian-language books would be removed from display in public libraries",
+        "Privately owned venues would be urged, but not legally required, to follow the ban",
+        "Everyday private use of Russian would remain unaffected"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why supporters and opponents interpret the proposal differently in the context of Russia's invasion.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג באופן מאוזן לפחות שני נימוקים של כל צד ולקשור אותם למלחמה, לזהות ולחירות.",
+      "expected_points": [
+        "Supporters view Russian as a channel of Russian political and cultural influence",
+        "They argue Russian-language culture can weaken Ukrainian identity, especially among young people",
+        "Russian attacks and occupation make hearing Russian a trigger for some former prisoners or displaced people",
+        "Decolonisation supporters see restrictions as necessary for a future independent Ukraine",
+        "Opponents distinguish the Russian language and its literature from Vladimir Putin's regime",
+        "They fear Russian-speaking Ukrainians will become second-class citizens deprived of their heritage",
+        "They argue coercion and fines conflict with the freedom Ukraine says it is defending",
+        "Opponents warn internal division may benefit Putin",
+        "Many Ukrainian defenders and citizens have Russian as their first language"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the Odesa language debate, including the proposal, the city's linguistic reality and the competing viewpoints.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את היקף ההצעה, מאפייני אודסה, טיעוני שני הצדדים, אכיפה אפשרית והנתונים הסותרים על שימוש בשפה.",
+      "expected_points": [
+        "Odesa is overwhelmingly Russian-speaking and Ukraine's third-largest city",
+        "The city is considering a public-space ban on Russian-language arts and literature",
+        "The proposal would go beyond national legislation and recommend private compliance",
+        "Supporters connect Russian cultural dominance with imperial influence and wartime trauma",
+        "Opponents defend cultural heritage and freedom of speech",
+        "Private businesses may face informal pressure through dealings with local government",
+        "Support for the proposal within the council is unclear",
+        "A 2022 national poll showed 80% support for Ukrainian dominating all communication spheres",
+        "A recent Kyiv student survey found 82% used Russian during breaks despite Ukrainian classrooms",
+        "Everyday private conversation in Russian would remain legal"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced briefing for Odesa councillors outlining two possible benefits, two risks and one compromise approach.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית באופן ניטרלי, לבסס כל נקודה בפרטי הכתבה ולהציע פשרה מעשית שאינה מוצגת כפתרון מושלם.",
+      "expected_points": [
+        "Possible benefit: strengthening Ukrainian identity and reducing Russian state influence",
+        "Possible benefit: making public spaces less distressing for former prisoners, occupied-territory residents or others affected by war",
+        "Risk: alienating loyal Russian-speaking Ukrainians",
+        "Risk: restricting freedom of expression or cultural heritage",
+        "Risk: informal pressure on private businesses despite the lack of sanctions",
+        "Note that Russian is the first language of many Ukrainians, including soldiers",
+        "Distinguish public arts policy from private everyday speech",
+        "Consider Pavlo Viktor's gradual and voluntary 'polite and soft' approach",
+        "Consider exemptions or phased implementation with public consultation",
+        "Acknowledge uncertainty about council and public support"
+      ]
+    }
+  ]
+}

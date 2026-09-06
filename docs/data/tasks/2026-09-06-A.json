@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-06",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "'Fantastic' moment blind Abergavenny veteran, 95, drives again",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvgyw8np7nmo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A charity event giving blind and visually impaired people the chance to drive safely on a racetrack",
+        "A government plan to return driving licences to everyone over 90",
+        "A competition between professional racing drivers in Wales",
+        "A new medical treatment that restores eyesight"
+      ],
+      "correct_answer": "A charity event giving blind and visually impaired people the chance to drive safely on a racetrack",
+      "explanation_hebrew": "הכתבה עוסקת באירוע של עמותת Speed of Sight, המאפשר לאנשים עיוורים ולקויי ראייה לחוות נהיגה בטוחה במסלול."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Jim Alison have to give up his driving licence?",
+      "difficulty": "A",
+      "options": [
+        "He moved away from London",
+        "His eyesight deteriorated because of macular degeneration",
+        "He stopped working for the Royal Engineers",
+        "His car was not suitable for the circuit"
+      ],
+      "correct_answer": "His eyesight deteriorated because of macular degeneration",
+      "explanation_hebrew": "ג׳ים ויתר על רישיונו לאחר שראייתו הידרדרה בגלל ניוון מקולרי והוא הוכר כעיוור."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How was Jim able to drive safely at Llandow Circuit?",
+      "difficulty": "A",
+      "options": [
+        "He drove alone using a map",
+        "He followed another car by sound",
+        "He drove beside an instructor in a car with dual controls",
+        "He stayed below 10 km/h in the parking area"
+      ],
+      "correct_answer": "He drove beside an instructor in a car with dual controls",
+      "explanation_hebrew": "ג׳ים נהג לצד מדריך וברכב בעל שליטה כפולה, כך שהמדריך יכול היה להתערב בעת הצורך."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the instructor let Jim control the car mainly on the straight section?",
+      "difficulty": "A",
+      "options": [
+        "The car could not turn left",
+        "Jim could not see the bends in the track",
+        "The charity allowed only former chauffeurs to turn",
+        "The track was closed everywhere else"
+      ],
+      "correct_answer": "Jim could not see the bends in the track",
+      "explanation_hebrew": "ג׳ים הסביר שבשל לקות הראייה אינו יכול לראות את הפניות, ולכן קיבל שליטה בעיקר בקטע הישר."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “deteriorated” mean when the article describes Jim's eyesight?",
+      "difficulty": "A",
+      "options": [
+        "Improved quickly",
+        "Became worse over time",
+        "Was measured by an instructor",
+        "Changed only while driving"
+      ],
+      "correct_answer": "Became worse over time",
+      "explanation_hebrew": "deteriorated פירושו הידרדר או נעשה גרוע יותר עם הזמן."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “empowers” mean in Mike Newman's description of the charity?",
+      "difficulty": "A",
+      "options": [
+        "Gives people confidence, ability and a sense of control",
+        "Provides electricity to the racing cars",
+        "Requires participants to become professional drivers",
+        "Removes the need for safety instructors"
+      ],
+      "correct_answer": "Gives people confidence, ability and a sense of control",
+      "explanation_hebrew": "empowers פירושו מחזק אנשים ומעניק להם ביטחון, יכולת ותחושת שליטה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe Jim Alison's background and his experience at the Speed of Sight event.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול לפחות חמש עובדות מדויקות על עברו, אובדן הראייה והנהיגה במסלול.",
+      "expected_points": [
+        "Jim Alison is 95 and from Abergavenny",
+        "He served with the Royal Engineers for 22 years",
+        "He later worked as a driver or chauffeur in London",
+        "Macular degeneration caused his eyesight to deteriorate",
+        "He gave up his licence after being registered blind five years earlier",
+        "He drove at Llandow Circuit with an instructor and dual controls",
+        "He estimated reaching about 90 km/h or 55 mph",
+        "He described the experience as fantastic"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How does the event provide both excitement and safety for participants with visual impairments?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר לפחות שני אמצעי בטיחות ושתי דוגמאות לחוויה הרגשית המתוארת.",
+      "expected_points": [
+        "The driving takes place on a controlled racetrack",
+        "Cars have dual controls so instructors can intervene",
+        "Jim drove mainly on the straight because he could not see bends",
+        "Dean received one tap on the leg to accelerate and two to brake",
+        "Participants experienced speed and adrenaline",
+        "Harley described happiness, excitement and wonder",
+        "Dean said the experience restored freedom and confidence"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how Speed of Sight began and what it offers people with disabilities.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מייק ניומן, הקמת העמותה, התאמות הרכב והשפעת האירוע על המשתתפים.",
+      "expected_points": [
+        "Mike Newman was born blind and loved motorsports",
+        "He was told that becoming a racing driver was impossible",
+        "He went on to set several driving world records",
+        "He founded Speed of Sight in 2012",
+        "The charity helps people who cannot normally drive experience a racetrack",
+        "It uses modified Mazda MX5 cars with dual controls",
+        "Cars are named after some of Newman's guide dogs",
+        "Participants describe enjoyment, adrenaline, freedom and confidence",
+        "People of different ages and backgrounds can participate"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short invitation to a future Speed of Sight event that is inspiring but accurate about safety and accessibility.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית, לתאר את החוויה באופן חיובי ולכלול לפחות שלושה פרטי בטיחות או נגישות מן הכתבה.",
+      "expected_points": [
+        "State that the event welcomes people with disabilities or visual impairments",
+        "Explain that driving takes place on a racetrack",
+        "Mention trained instructors",
+        "Mention dual-control adapted cars",
+        "Describe the excitement without promising complete independence",
+        "Refer to participants such as Jim, Harley or Dean without inventing facts",
+        "Highlight confidence or enjoyment",
+        "Avoid claiming that participants receive a normal road licence"
+      ]
+    }
+  ]
+}

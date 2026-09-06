@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-06",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Cardiff student who 'brushed off' sore throat developed sepsis",
+  "article_url": "https://www.bbc.co.uk/news/articles/cp30121n24xo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "A student's rapid development of sepsis after mistaking serious symptoms for a hangover, and her warning not to ignore worsening illness",
+        "A study showing that all sore throats are caused by sepsis",
+        "A university rule banning students from attending sports events",
+        "A marathon runner recovering from a leg injury"
+      ],
+      "correct_answer": "A student's rapid development of sepsis after mistaking serious symptoms for a hangover, and her warning not to ignore worsening illness",
+      "explanation_hebrew": "הכתבה מספרת כיצד אל בלאק חשבה שהתסמינים הם חמרמורת, אך מצבה התפתח במהירות לאלח דם, ולכן היא מזהירה מפני התעלמות מהחמרה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What condition led to Elle Black's sepsis?",
+      "difficulty": "B",
+      "options": [
+        "Macular degeneration",
+        "A sports injury",
+        "Quinsy, a pus-filled abscess caused by a complication of tonsillitis",
+        "Food poisoning during brunch"
+      ],
+      "correct_answer": "Quinsy, a pus-filled abscess caused by a complication of tonsillitis",
+      "explanation_hebrew": "אל פיתחה quinsy — מורסה מוגלתית בין השקדים לדופן הגרון, כסיבוך של דלקת שקדים — וממנה התפתח אלח דם."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which development made Elle's family realise that the illness was more serious?",
+      "difficulty": "B",
+      "options": [
+        "She completed a marathon",
+        "Her tonsils were swollen and she could not eat",
+        "She felt energetic after taking ibuprofen",
+        "Her fever disappeared before brunch"
+      ],
+      "correct_answer": "Her tonsils were swollen and she could not eat",
+      "explanation_hebrew": "בארוחת הבוקר הוריה הבחינו שהשקדים שלה נפוחים ושהיא אינה מסוגלת לאכול, ולכן נדלקו נורות אזהרה."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can sepsis be easy for students to overlook after a night out?",
+      "difficulty": "B",
+      "options": [
+        "It always develops without any symptoms",
+        "Symptoms such as drowsiness, nausea and exhaustion can resemble alcohol effects or lack of sleep",
+        "Hospitals do not treat university students",
+        "Sepsis can only be detected during a marathon"
+      ],
+      "correct_answer": "Symptoms such as drowsiness, nausea and exhaustion can resemble alcohol effects or lack of sleep",
+      "explanation_hebrew": "תסמינים כמו ישנוניות, בחילה ותשישות עלולים להיראות כחמרמורת או חוסר שינה, ולכן קל לטעות בפירושם."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “brushed it off” mean in Elle's account?",
+      "difficulty": "B",
+      "options": [
+        "She cleaned her throat",
+        "She treated the symptom as unimportant and did not worry about it at first",
+        "She immediately called an ambulance",
+        "She forgot that she had gone out"
+      ],
+      "correct_answer": "She treated the symptom as unimportant and did not worry about it at first",
+      "explanation_hebrew": "brushed it off פירושו ביטלה את החשיבות של התסמין ולא התייחסה אליו ברצינות בתחילה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “out of proportion” mean in the charity's warning about symptoms?",
+      "difficulty": "B",
+      "options": [
+        "Less serious than any common illness",
+        "Stronger or more severe than would normally be expected",
+        "Impossible to describe to a doctor",
+        "Limited to one side of the body"
+      ],
+      "correct_answer": "Stronger or more severe than would normally be expected",
+      "explanation_hebrew": "out of proportion מתאר תסמינים חזקים או חמורים בהרבה ממה שהיה צפוי במצב רגיל."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Trace Elle's illness from the first sore throat to her recovery.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג לפחות שישה שלבים מדויקים ובסדר כרונולוגי.",
+      "expected_points": [
+        "Elle noticed throat pain after a night out in February 2024",
+        "She initially blamed a hangover and took ibuprofen",
+        "She woke with exhaustion, no energy and a high fever",
+        "Her swollen tonsils and inability to eat raised concern at brunch",
+        "A private GP diagnosed laryngitis and prescribed antibiotics",
+        "She became drowsy, confused or delirious and later said she could not feel her legs",
+        "She was triaged within 15 minutes at hospital",
+        "Doctors found quinsy that had led to sepsis",
+        "She spent two days at University Hospital of Wales receiving IV antibiotics",
+        "She made a full recovery but remained tired for weeks or months"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What factors in the article appear to have contributed to Elle's full recovery?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין את הפעולות והתזמון המתוארים בכתבה בלי להוסיף המלצות רפואיות שאינן מופיעות בה.",
+      "expected_points": [
+        "Her symptoms were recognised as worsening quickly",
+        "She reached hospital rather than continuing to wait",
+        "She told staff that she believed she might have sepsis",
+        "Hospital triage occurred within 15 minutes",
+        "The medical team acted rapidly",
+        "She received intravenous antibiotics",
+        "Doctors said waiting another day could have produced a very different outcome",
+        "The article notes that sepsis develops very quickly"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Elle's experience and the public-health message given by Sepsis Research.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את הטעות הראשונית, מקור הזיהום, הטיפול, ההחלמה והמסר לגבי תסמינים חמורים או מחמירים.",
+      "expected_points": [
+        "Elle was a 21-year-old first-year Cardiff University student",
+        "She mistook her initial symptoms for a hangover",
+        "Quinsy, a complication of tonsillitis, developed into sepsis",
+        "Her condition included fever, exhaustion, confusion and loss of feeling in her legs",
+        "She was treated quickly in hospital with IV antibiotics",
+        "She recovered, though tiredness continued",
+        "Sepsis is a fast, potentially life-threatening reaction to infection",
+        "It may begin with familiar-looking symptoms",
+        "Severe, worsening or unusually strong symptoms should not be dismissed",
+        "The article cites 48,000 sepsis-related deaths per year in the UK"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short awareness message for university students based only on the warning signs and lessons reported in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית בטון אחראי, לציין לפחות ארבעה סימנים ולכוון לקבלת ייעוץ רפואי בלי לאבחן את הקורא.",
+      "expected_points": [
+        "Explain that sepsis can develop rapidly from an infection",
+        "Mention high fever or swings between hot and cold",
+        "Mention inability to keep food or fluids down",
+        "Mention extreme drowsiness or difficulty staying awake",
+        "Mention intense or unusual muscle pain",
+        "Mention a sore throat or tonsillitis that suddenly worsens",
+        "Mention a feeling that something is seriously wrong",
+        "Explain that symptoms can resemble a hangover or lack of sleep",
+        "Encourage seeking medical advice for severe or worsening symptoms",
+        "Avoid diagnosing sepsis or promising a particular outcome"
+      ]
+    }
+  ]
+}
