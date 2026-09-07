@@ -1,0 +1,186 @@
+{
+  "date": "2026-09-07",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "NTA: India's high-stakes exam system faces a crisis of trust",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central argument of the article?",
+      "difficulty": "C",
+      "options": [
+        "India's exam crisis involves not only paper leaks but also weaknesses in the NTA's structure and an over-reliance on centralised, one-off high-stakes tests",
+        "India should replace all university admissions with private interviews immediately",
+        "The NTA has never conducted a successful examination",
+        "Computer-based testing alone has already restored complete public trust"
+      ],
+      "correct_answer": "India's exam crisis involves not only paper leaks but also weaknesses in the NTA's structure and an over-reliance on centralised, one-off high-stakes tests",
+      "explanation_hebrew": "הכתבה טוענת שהמשבר רחב מדליפות: הוא כולל מבנה ארגוני, כוח אדם, ריכוזיות ותלות במבחן יחיד שקובע את עתיד התלמידים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened after the medical entrance paper was leaked in June?",
+      "difficulty": "C",
+      "options": [
+        "The NTA abolished all engineering tests",
+        "More than two million students had to retake the exam, protests followed and the education minister resigned",
+        "Only 24 students were asked to sit another test",
+        "Universities immediately created unlimited places"
+      ],
+      "correct_answer": "More than two million students had to retake the exam, protests followed and the education minister resigned",
+      "explanation_hebrew": "בעקבות הדליפה יותר משני מיליון תלמידים נבחנו מחדש, פרצו מחאות צעירים ושר החינוך הפדרלי התפטר."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which staffing fact does BJ Rao identify as a weakness at the NTA?",
+      "difficulty": "C",
+      "options": [
+        "All 221 employees are permanent academics",
+        "Only 24 of 221 employees are permanent, and many staff come from bureaucratic rather than assessment backgrounds",
+        "The agency employs no contract workers",
+        "Every employee specialises in computer security"
+      ],
+      "correct_answer": "Only 24 of 221 employees are permanent, and many staff come from bureaucratic rather than assessment backgrounds",
+      "explanation_hebrew": "ראו מצביע על כך שרק 24 מתוך 221 העובדים קבועים, ושחסר כוח אדם בעל ניסיון אקדמי ומקצועי בהפעלת בחינות."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the creation of another task force produce a sense of déjà vu?",
+      "difficulty": "C",
+      "options": [
+        "Nandan Nilekani led every exam before 2017",
+        "A similar committee proposed many reforms after a 2024 crisis, yet another major failure occurred",
+        "Students had never heard of examination reform",
+        "The new task force has already abolished the NTA"
+      ],
+      "correct_answer": "A similar committee proposed many reforms after a 2024 crisis, yet another major failure occurred",
+      "explanation_hebrew": "גם ב־2024 הוקמה ועדה שהציעה מעל מאה רפורמות, אך רק מעט יותר ממחציתן יושמו במלואן והמשבר חזר."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “ad hoc centres” mean in Rao's criticism?",
+      "difficulty": "C",
+      "options": [
+        "Permanent centres built to one national standard",
+        "Temporary or improvised centres arranged for particular examinations",
+        "Universities offering several test dates each year",
+        "Centres managed only by permanent NTA specialists"
+      ],
+      "correct_answer": "Temporary or improvised centres arranged for particular examinations",
+      "explanation_hebrew": "ad hoc מתאר מרכזים זמניים או מאולתרים שהוקמו לצורך מסוים, במקום מערך קבוע וסטנדרטי."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “upend” mean when the article describes the effect of a cancelled exam?",
+      "difficulty": "C",
+      "options": [
+        "Disrupt completely or overturn carefully made plans",
+        "Reduce the cost of private tuition",
+        "Guarantee a university place",
+        "Publish examination results early"
+      ],
+      "correct_answer": "Disrupt completely or overturn carefully made plans",
+      "explanation_hebrew": "upend פירושו לשבש מן היסוד; ביטול מבחן יכול להפוך חודשים או שנים של הכנה ותכנון."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain the reforms experts propose for how India's major entrance examinations are delivered and structured.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין לפחות שש הצעות מדויקות ולחבר כל הצעה לחולשה שהיא אמורה לצמצם.",
+      "expected_points": [
+        "Move more decisively toward computer-based examinations",
+        "Invest in stronger digital infrastructure",
+        "Replace ad hoc venues with standardised state-controlled online centres",
+        "Reduce unnecessary human involvement to limit opportunities for leaks",
+        "Restructure NEET-UG along the lines of the engineering entrance examination",
+        "Use two stages rather than one decisive sitting",
+        "Hold multiple sessions with different question sets",
+        "Allow students to take important entrance exams more than once a year",
+        "Build professional academic, technical and operational staffing",
+        "Make the NTA a statutory institution with clearer oversight and accountability"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do experts argue that technology alone cannot solve the crisis of trust?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר לפחות ארבע מגבלות שאינן טכנולוגיות ולהתייחס למבנה המערכת ולכוח האדם.",
+      "expected_points": [
+        "The NTA relies heavily on temporary contract staff",
+        "Only a small minority of employees are permanent",
+        "Many staff lack specialised academic or assessment experience",
+        "Oversight and accountability need structural reform",
+        "A single high-stakes day creates extreme consequences even if delivery is digital",
+        "Millions compete for a limited number of university places",
+        "Previous reform proposals were only partly implemented",
+        "Exam design, centralisation and institutional capacity remain problems",
+        "Students need multiple chances and resilience against cancellation or disruption"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why confidence in the NTA has declined and the main arguments for reforming rather than abolishing it.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את רצף הכשלים, השפעתם על תלמידים, יתרונות גוף ארצי והצורך בשינוי מבני רחב.",
+      "expected_points": [
+        "The NTA was created in 2017 to make examinations fair, transparent and standardised",
+        "Repeated paper leaks, cancellations and errors have damaged confidence",
+        "More than two million students retook the recent medical entrance exam",
+        "A 2024 committee's reforms were only partly implemented",
+        "Students lose time, money and carefully planned academic years",
+        "Some activists and politicians want the agency abolished",
+        "Supporters say one national body can provide common security, technology and candidate services",
+        "Multiple replacement agencies could duplicate costs and create uneven safeguards",
+        "Experts call for permanent specialist staff and statutory status",
+        "They also want less dependence on one-off exams and more testing opportunities",
+        "Scarcity of university places creates pressures the NTA cannot solve alone"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a policy briefing prioritising three reforms that could rebuild trust in India's examination system.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית, לבחור שלוש עדיפויות שונות, לבסס אותן בעובדות ולציין מגבלה אחת לפחות לכל פתרון.",
+      "expected_points": [
+        "Choose reforms from technology, staffing, exam design, accountability or testing frequency",
+        "Support computer-based exams with standardised secure infrastructure",
+        "Recommend permanent specialist academic, technical and operational staff",
+        "Recommend multiple sessions, stages or annual opportunities",
+        "Explain how each priority reduces leaks, disruption or excessive one-day risk",
+        "Cite the two-million-student retest or repeated cancellations",
+        "Address implementation gaps from the earlier 100-plus recommendations",
+        "Acknowledge that digital systems can also fail or require investment",
+        "Acknowledge that reforming the NTA will not create more university places",
+        "Prefer measurable implementation and accountability over another list of proposals",
+        "Avoid claiming that any single reform guarantees no future leak"
+      ]
+    }
+  ]
+}

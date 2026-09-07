@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-07",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Russia-Ukraine war: Zelensky expects war to continue after US envoy talks",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "US envoys holding talks in Moscow and Kyiv without announcing a breakthrough, while Zelensky prepares for the war to continue into winter",
+        "Ukraine and Russia signing a final peace treaty in Kyiv",
+        "The US ending all discussions with both sides",
+        "Russia withdrawing from all occupied Ukrainian territory"
+      ],
+      "correct_answer": "US envoys holding talks in Moscow and Kyiv without announcing a breakthrough, while Zelensky prepares for the war to continue into winter",
+      "explanation_hebrew": "הכתבה מתארת שיחות אמריקאיות במוסקבה ובקייב שלא הניבו פריצת דרך פומבית, בעוד זלנסקי נערך להמשך המלחמה בחורף."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who were the two US envoys involved in the talks?",
+      "difficulty": "B",
+      "options": [
+        "Yuri Ushakov and Volodymyr Zelensky",
+        "Steve Witkoff and Jared Kushner",
+        "Donald Trump and Vladimir Putin",
+        "Two Ukrainian air-force commanders"
+      ],
+      "correct_answer": "Steve Witkoff and Jared Kushner",
+      "explanation_hebrew": "השליחים האמריקאים היו סטיב ויטקוף וג׳ארד קושנר, שביקרו במוסקבה ולאחר מכן בקייב."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What support did Zelensky say Ukraine would need if the war continued into winter?",
+      "difficulty": "B",
+      "options": [
+        "New agricultural exports and tourist visas",
+        "Air defence and energy support",
+        "Only additional railway carriages",
+        "A ban on all international meetings"
+      ],
+      "correct_answer": "Air defence and energy support",
+      "explanation_hebrew": "זלנסקי הדגיש שבחורף אוקראינה תזדקק להגנה אווירית ולסיוע בתחום האנרגיה."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is winter energy support especially important for Ukraine?",
+      "difficulty": "B",
+      "options": [
+        "Ukraine produces no electricity in summer",
+        "Russia has targeted Ukrainian energy infrastructure during previous winters",
+        "The envoys plan to close every power station",
+        "Patriot interceptors are used to heat homes"
+      ],
+      "correct_answer": "Russia has targeted Ukrainian energy infrastructure during previous winters",
+      "explanation_hebrew": "בשנים קודמות רוסיה מיקדה תקיפות בתשתיות האנרגיה בחורף, ולכן המשך הלחימה יוצר צורך מיוחד בהגנה ובסיוע."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “substantive” mean when Witkoff describes the Kyiv talks?",
+      "difficulty": "B",
+      "options": [
+        "Secret and impossible to understand",
+        "Serious and focused on important issues",
+        "Brief and purely ceremonial",
+        "Conducted only through written notes"
+      ],
+      "correct_answer": "Serious and focused on important issues",
+      "explanation_hebrew": "substantive פירושו מהותי ורציני — שיחה העוסקת בנושאים חשובים ולא רק במחוות סמליות."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “durable peace” mean in Kushner's comments?",
+      "difficulty": "B",
+      "options": [
+        "A settlement designed to last and prevent renewed conflict",
+        "A three-day pause in strikes only",
+        "A military victory announced immediately",
+        "An agreement limited to economic projects"
+      ],
+      "correct_answer": "A settlement designed to last and prevent renewed conflict",
+      "explanation_hebrew": "durable peace הוא שלום יציב ומתמשך, שאינו מאפשר חזרה מהירה לעימות או לתוקפנות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Trace the envoys' journey and the main diplomatic steps described in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג לפחות שישה שלבים מדויקים בסדר הגיוני.",
+      "expected_points": [
+        "Witkoff and Kushner met Vladimir Putin in Moscow on Saturday",
+        "The Moscow meeting lasted about three hours behind closed doors",
+        "They flew to Poland and then travelled to Kyiv by train",
+        "They visited Ukraine for the first time since the full-scale invasion",
+        "They held several hours of talks in Kyiv on Sunday",
+        "Zelensky met them at St Sophia Cathedral",
+        "No major breakthrough was announced",
+        "The sides agreed that Ukrainian, European and American officials would meet again soon",
+        "Zelensky called for a trilateral meeting involving Ukraine, Russia and the US"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What evidence shows a gap between the optimistic language around the talks and conditions on the ground?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג לפחות שתי אמירות אופטימיות ולפחות ארבע עובדות המעידות שהלחימה והפערים נמשכים.",
+      "expected_points": [
+        "Witkoff said he was encouraged by the talks",
+        "He said negotiators had made progress in Moscow",
+        "No major breakthrough was announced",
+        "Zelensky expected the war to continue into winter",
+        "He insisted on a just peace without renewed Russian aggression",
+        "Russian and Ukrainian forces continued exchanging strikes",
+        "Russia launched 108 long-range drones and small cruise missiles overnight",
+        "Eleven Ukrainian locations were hit despite interceptions",
+        "Russia still controls about one-fifth of Ukrainian territory",
+        "Ground advances have been slow and costly"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the diplomatic talks, Ukraine's winter concerns and the continuing military situation.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את השיחות בשתי הבירות, היעדר פריצת דרך, צורכי החורף והתקיפות שנמשכו.",
+      "expected_points": [
+        "US envoys met Putin in Moscow and then Zelensky in Kyiv",
+        "Both sets of talks were held largely behind closed doors",
+        "The envoys described the discussions positively",
+        "No major agreement or breakthrough was announced",
+        "Zelensky wants a just and durable peace without renewed aggression",
+        "Further talks among Ukraine, Europe and the US are planned",
+        "Ukraine expects to need air-defence and energy assistance during winter",
+        "Patriot availability is affected by US stockpile use",
+        "Both sides continued aerial strikes",
+        "Russia retains control of roughly one-fifth of Ukraine"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced news briefing explaining why the talks matter but why it is too early to call them a breakthrough.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית ולהפריד בין עובדות, ציטוטי הצדדים והערכה; אין להכריז על הסכם שלא הושג.",
+      "expected_points": [
+        "Name Witkoff and Kushner as the US envoys",
+        "Mention their meetings in Moscow and Kyiv",
+        "Report Witkoff's positive assessment as his view",
+        "State clearly that no major breakthrough was announced",
+        "Mention plans for further multinational talks",
+        "Explain Zelensky's demand for a durable or just peace",
+        "Mention expected winter air-defence and energy needs",
+        "Refer to continuing Russian and Ukrainian strikes",
+        "Note that Russia still occupies significant Ukrainian territory",
+        "Avoid predicting a final peace agreement"
+      ]
+    }
+  ]
+}

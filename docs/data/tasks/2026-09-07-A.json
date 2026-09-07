@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-07",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "The Â£70 refund letter that isn't a scam",
+  "article_url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Why some low earners will receive a genuine HMRC pension top-up letter and how they can verify it",
+        "Why everyone in the UK must pay £70 to HMRC",
+        "How to choose a private pension provider",
+        "Why HMRC has stopped communicating by post"
+      ],
+      "correct_answer": "Why some low earners will receive a genuine HMRC pension top-up letter and how they can verify it",
+      "explanation_hebrew": "הכתבה מסבירה מדוע חלק מבעלי ההכנסה הנמוכה יקבלו מכתב אמיתי על השלמת פנסיה וכיצד לבדוק שאינו הונאה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did some low earners receive less pension tax relief than others?",
+      "difficulty": "A",
+      "options": [
+        "They chose not to save for retirement",
+        "Their employers used Net Pay Arrangement schemes rather than Relief at Source schemes",
+        "They earned more than every higher-rate taxpayer",
+        "They refused to give HMRC a phone number"
+      ],
+      "correct_answer": "Their employers used Net Pay Arrangement schemes rather than Relief at Source schemes",
+      "explanation_hebrew": "סוג הסדר הפנסיה שקבע המעסיק גרם לכך שחלק מבעלי ההכנסה הנמוכה קיבלו פחות הטבת מס, ללא שליטה שלהם בבחירה."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much will an eligible person typically receive?",
+      "difficulty": "A",
+      "options": [
+        "Exactly £12,570",
+        "About £70, although the amount can vary",
+        "A fixed £1,000 every month",
+        "Only a social-media voucher"
+      ],
+      "correct_answer": "About £70, although the amount can vary",
+      "explanation_hebrew": "הסכום הטיפוסי הוא כ־70 ליש״ט, אך הוא עשוי להשתנות במידה ניכרת לפי נסיבות האדם."
+    },
+    {
+      "id": "A-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article stress that HMRC will not text, email or call about this payment?",
+      "difficulty": "A",
+      "options": [
+        "HMRC no longer has internet access",
+        "It helps recipients distinguish official contact from scam messages",
+        "The payment is available only outside the UK",
+        "A telephone call would reduce the payment"
+      ],
+      "correct_answer": "It helps recipients distinguish official contact from scam messages",
+      "explanation_hebrew": "הדגשת ערוצי הקשר נועדה לעזור לזהות מתחזים: פנייה בנושא בהודעה, בדוא״ל או בטלפון היא הונאה."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “hoodwinked” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "Paid automatically",
+        "Tricked or deceived",
+        "Registered for a pension",
+        "Contacted by letter"
+      ],
+      "correct_answer": "Tricked or deceived",
+      "explanation_hebrew": "hoodwinked פירושו מרומה או מוטעה בידי אדם אחר, למשל נוכל המתחזה ל־HMRC."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “non take-up” mean in Sir Steve Webb's warning?",
+      "difficulty": "A",
+      "options": [
+        "Eligible people failing to claim or receive the payment",
+        "HMRC sending too many letters",
+        "Employers changing every pension scheme",
+        "People earning above the tax threshold"
+      ],
+      "correct_answer": "Eligible people failing to claim or receive the payment",
+      "explanation_hebrew": "non take-up הוא מצב שבו אנשים זכאים אינם משלימים את התהליך ולכן אינם מקבלים את הכסף המגיע להם."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain who is eligible for the top-up and why the government created it.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את רמת ההכנסה, סוג הסדר הפנסיה, חוסר השליטה של העובד ומטרת התיקון.",
+      "expected_points": [
+        "The recipients are low earners, mostly women",
+        "They typically earned close to but not more than £12,570 a year",
+        "Their employer used a Net Pay Arrangement pension scheme",
+        "Comparable workers in Relief at Source schemes received more tax relief",
+        "Employees could not choose which scheme their employer used",
+        "The government created the low earner's pension payment to top up those who missed out",
+        "Initial payments cover the 2024-25 tax year",
+        "Later years are intended to be handled automatically"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might many eligible people fail to receive the payment even though HMRC contacts them automatically?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר לפחות שלושה חסמים אפשריים המוזכרים או משתמעים ישירות מן הכתבה.",
+      "expected_points": [
+        "Unexpected financial letters may look like scams",
+        "People may be cautious and ignore genuine contact",
+        "HMRC may not have a recipient's current address",
+        "Recipients must provide bank details through an official process",
+        "Some people are digitally excluded",
+        "The government budget assumes much lower participation than full take-up",
+        "Clear communication and public awareness are therefore important"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the payment scheme and the steps a recipient can use to verify and receive it safely.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את סיבת התשלום, הסכום הטיפוסי, דרך הפנייה, סימני ההונאה וערוצי האימות הרשמיים.",
+      "expected_points": [
+        "The scheme corrects unequal pension tax relief for some low earners",
+        "About one million people may receive letters",
+        "The typical payment is £70 but amounts vary",
+        "HMRC contacts eligible people automatically by letter or personal tax account",
+        "HMRC will not text, email or call about the payment",
+        "It will not ask for transfers, PINs or passwords",
+        "Recipients can verify the letter on Gov.uk under Low Earner's Pension Payment",
+        "Bank details should be provided only through the official personal tax account",
+        "Digitally excluded customers can phone HMRC",
+        "Recipients should ensure HMRC has their latest address"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short public notice explaining how to recognise the genuine payment without creating unnecessary fear.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית בטון ברור ומרגיע, לכלול לפחות ארבעה סימני אימות ולא לבקש פרטים אישיים.",
+      "expected_points": [
+        "Identify the Low Earner's Pension Payment",
+        "State that HMRC will contact eligible people automatically",
+        "Mention the typical £70 amount can vary",
+        "Say genuine contact comes by letter or personal tax account",
+        "Warn that texts, emails or calls about this payment are scams",
+        "State that HMRC never asks for a money transfer, PIN or password",
+        "Direct readers to verify on Gov.uk or through official HMRC channels",
+        "Mention the official personal tax account for bank details",
+        "Do not include invented links or request personal information"
+      ]
+    }
+  ]
+}
