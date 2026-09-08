@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Eiffel Tower shut by staff strike over female workers being moved for religious visit",
+  "article_url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A staff strike after female Eiffel Tower workers were moved during a religious group's visit",
+        "A plan to replace the Eiffel Tower with a Hindu temple",
+        "A tourist strike against higher ticket prices in Paris",
+        "A new rule banning all religious groups from French monuments"
+      ],
+      "correct_answer": "A staff strike after female Eiffel Tower workers were moved during a religious group's visit",
+      "explanation_hebrew": "הכתבה עוסקת בשביתה בעקבות הרחקת עובדות ממקומות עבודתן בזמן ביקור משלחת דתית."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did union representative Diane Davoine say happened when the delegation arrived?",
+      "difficulty": "A",
+      "options": [
+        "All employees were sent home because the tower was unsafe",
+        "Women were asked to leave their work positions so men could take their places",
+        "The delegation refused to enter the monument",
+        "Only managers were allowed to speak to visitors"
+      ],
+      "correct_answer": "Women were asked to leave their work positions so men could take their places",
+      "explanation_hebrew": "לדברי נציגת האיגוד, נשים התבקשו לעזוב את עמדות העבודה שלהן כדי שגברים יתפסו את מקומן."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did SETE describe the conditions requested for the delegation's visit?",
+      "difficulty": "A",
+      "options": [
+        "They were legally required by the city",
+        "They were normal for every large tour",
+        "They should not have been accepted and conflicted with the company's values",
+        "They were designed only to reduce ticket queues"
+      ],
+      "correct_answer": "They should not have been accepted and conflicted with the company's values",
+      "explanation_hebrew": "החברה המפעילה אמרה שהתנאים לא היו צריכים להתקבל ושאינם תואמים את ערכיה ואת עקרון השוויון."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the sentence “Tensions mounted over the weekend,” what does “mounted” mean?",
+      "difficulty": "A",
+      "options": [
+        "Were completely forgotten",
+        "Were formally investigated",
+        "Moved to another building",
+        "Increased or grew stronger"
+      ],
+      "correct_answer": "Increased or grew stronger",
+      "explanation_hebrew": "בהקשר זה mounted פירושו שהמתח גבר והתחזק במהלך סוף השבוע."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did employees want to open a dialogue with management?",
+      "difficulty": "A",
+      "options": [
+        "To prevent women from being treated this way again",
+        "To arrange another private visit for the group",
+        "To close the monument permanently",
+        "To ask visitors to work at the tower"
+      ],
+      "correct_answer": "To prevent women from being treated this way again",
+      "explanation_hebrew": "העובדים רצו שיח עם ההנהלה כדי לוודא שמקרה דומה של יחס מפלה לנשים לא יחזור."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “legitimate” mean in the mayor's statement that employees' discontent was legitimate?",
+      "difficulty": "A",
+      "options": [
+        "Secret and impossible to explain",
+        "Reasonable and justified",
+        "Temporary and unimportant",
+        "Organised by foreign visitors"
+      ],
+      "correct_answer": "Reasonable and justified",
+      "explanation_hebrew": "legitimate בהקשר זה פירושו מוצדק וסביר; ראש העיר הכיר בכך שלעובדים יש סיבה אמיתית לכעוס."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the delegation's visit and the responses from SETE and BAPS.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין מי ביקר, מה התבקש, וכיצד הן החברה המפעילה והן BAPS הגיבו לאחר האירוע.",
+      "expected_points": [
+        "Around 100 people linked to BAPS visited the Eiffel Tower on Saturday",
+        "The delegation asked for the visit to limit interactions with women",
+        "Female workers were moved from their positions",
+        "SETE said the conditions should not have been accepted",
+        "SETE said the conditions conflicted with equality and company values",
+        "Management apologised to workers",
+        "BAPS said the visit was arranged with the Eiffel Tower team",
+        "BAPS apologised for pain or inconvenience and referred to mutual respect"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did this incident become a wider public and political issue in France?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הקשר בין האירוע לבין שוויון מגדרי, ערכים ציבוריים והתגובות של נבחרי הציבור.",
+      "expected_points": [
+        "The incident happened at a major national landmark",
+        "Women were moved because of a visitor group's request",
+        "Workers viewed the treatment as humiliating",
+        "SETE said it conflicted with equality between women and men",
+        "Paris Mayor Emmanuel Grégoire said equality must apply everywhere",
+        "Politicians from different parties rejected limiting women's presence",
+        "The mayor announced an investigation into the circumstances"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the event that closed the Eiffel Tower and the main responses to it.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לסכם באנגלית את האירוע, השביתה, עמדת העובדים, תגובת המפעילה, תגובת BAPS והחקירה המתוכננת.",
+      "expected_points": [
+        "A BAPS-linked delegation visited the Eiffel Tower",
+        "Women were asked to leave work positions to limit interaction with the group",
+        "Employees said the women felt humiliated",
+        "Staff went on strike and the tower closed on Monday",
+        "Workers sought dialogue and guarantees against a repeat",
+        "SETE apologised and rejected the conditions as inconsistent with equality",
+        "BAPS said the visit was coordinated and apologised for pain or inconvenience",
+        "Paris's mayor announced an investigation"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short workplace policy response that SETE could issue after the incident.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית תגובה עניינית הכוללת התנצלות, עקרון שוויון, צעדים מעשיים ובדיקה של האירוע, ללא המצאת עובדות.",
+      "expected_points": [
+        "Acknowledge what happened to the female workers",
+        "Offer a clear apology",
+        "State that visitor requests cannot override gender equality",
+        "Commit to keeping women in their normal work roles",
+        "Describe staff guidance or approval procedures for future group visits",
+        "Mention dialogue with employees or unions",
+        "Support an investigation or review",
+        "Use respectful, professional language"
+      ]
+    }
+  ]
+}

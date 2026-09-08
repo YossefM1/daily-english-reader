@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
+  "article_url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What tension is at the centre of the article?",
+      "difficulty": "C",
+      "options": [
+        "The chancellor's optimistic growth message versus pressure from high borrowing costs and strained public finances",
+        "A disagreement over whether Jaguar Land Rover should manufacture cars",
+        "A plan to abolish the Budget because markets are calm",
+        "A dispute between universities over a technology fund"
+      ],
+      "correct_answer": "The chancellor's optimistic growth message versus pressure from high borrowing costs and strained public finances",
+      "explanation_hebrew": "הכתבה מציבה זה מול זה את מסר הביטחון והצמיחה של השר ואת הלחצים התקציביים שנובעים מעלויות הלוואה גבוהות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did John Healey refuse to rule out before the 28 October Budget?",
+      "difficulty": "C",
+      "options": [
+        "Greater devolution to regions",
+        "Tax increases",
+        "Investment in innovative northern firms",
+        "Efforts to reduce welfare costs"
+      ],
+      "correct_answer": "Tax increases",
+      "explanation_hebrew": "הילי לא שלל העלאות מס, אף שהתחייב להיצמד להבטחה שלא להעלות מסים על אנשים עובדים."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “fiscal discipline” mean in the article's context?",
+      "difficulty": "C",
+      "options": [
+        "Training workers for manufacturing jobs",
+        "Moving all spending decisions to local councils",
+        "Managing government spending, revenue and borrowing responsibly",
+        "Encouraging households to borrow more money"
+      ],
+      "correct_answer": "Managing government spending, revenue and borrowing responsibly",
+      "explanation_hebrew": "fiscal discipline מתייחס לניהול אחראי של הוצאות, הכנסות וחוב ציבורי כדי לשמור על אמון ויציבות."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article connect higher borrowing costs with possible tax rises or spending cuts?",
+      "difficulty": "C",
+      "options": [
+        "Higher borrowing costs increase pressure on already stretched public finances",
+        "Government debt becomes free when interest rates rise",
+        "The chancellor promised to end all public investment",
+        "Bond investors directly choose each UK tax rate"
+      ],
+      "correct_answer": "Higher borrowing costs increase pressure on already stretched public finances",
+      "explanation_hebrew": "כאשר עלות מימון החוב עולה, נוצר לחץ נוסף על התקציב ועלול להידרש שילוב של הכנסות נוספות או קיצוץ בהוצאות."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the purpose of the £150m fund unveiled for northern England?",
+      "difficulty": "C",
+      "options": [
+        "To compensate every JLR worker with a cash payment",
+        "To buy government bonds during market volatility",
+        "To replace the British Business Bank",
+        "To invest in innovative, fast-growing firms and help unlock private investment"
+      ],
+      "correct_answer": "To invest in innovative, fast-growing firms and help unlock private investment",
+      "explanation_hebrew": "הקרן נועדה להשקיע בחברות חדשניות וצומחות, ובהן מיזמים שיצאו מאוניברסיטאות, ולמשוך השקעה פרטית."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “room for manoeuvre” mean when discussing the government's spending plans?",
+      "difficulty": "C",
+      "options": [
+        "A legal requirement to spend every available pound",
+        "Flexibility or a financial buffer to respond to shocks",
+        "A new office for Treasury officials",
+        "Permission to ignore tax receipts"
+      ],
+      "correct_answer": "Flexibility or a financial buffer to respond to shocks",
+      "explanation_hebrew": "הביטוי מציין מרחב פעולה או כרית תקציבית שמאפשרים להגיב לזעזועים בלתי צפויים."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Set out Healey's main economic promises and the pressures complicating them.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין את יעדי הצמיחה וההשקעה לצד עלויות ההלוואה, מצב התקציב, הוצאות הביטחון והחדשות מ־JLR.",
+      "expected_points": [
+        "Healey called for renewed confidence in Britain",
+        "He made growth in more places a central priority",
+        "He promoted devolution, public leadership, investment, innovation and jobs",
+        "He promised to balance day-to-day spending with tax receipts",
+        "He said the government would control spending and lower welfare costs",
+        "Borrowing costs had reached an 18-year high",
+        "Higher borrowing costs put pressure on already stretched public finances",
+        "The Treasury may face multi-billion-pound gaps",
+        "Higher defence spending adds pressure",
+        "JLR announced 4,000 mostly UK-based job losses"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is credibility with bond markets important to the government's Budget choices?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין אמון המשקיעים, עלות גיוס החוב, אינפלציה, גירעון והצורך בכרית תקציבית.",
+      "expected_points": [
+        "Investors' confidence affects the interest cost of government borrowing",
+        "Higher yields make servicing public debt more expensive",
+        "More debt costs reduce money available for other priorities",
+        "The government may then face tax rises, spending restraint or larger deficits",
+        "Rupert Harrison said the UK is treated as guilty until proven innocent on fiscal responsibility",
+        "Credibility was weakened by the Truss mini-Budget and delayed deficit reduction",
+        "Inflation remaining above the Bank of England's target also matters",
+        "A fiscal buffer can reassure markets that the government can absorb shocks"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the chancellor's economic message, the market challenge and the reactions to his plans.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם את מסר הצמיחה, הלחצים בשוק החוב, עמדת האופוזיציה והמומחים, ואת הקרן לצפון אנגליה.",
+      "expected_points": [
+        "Healey urged confidence and described Britain as resilient and ready for new opportunities",
+        "He prioritised growth across every postcode",
+        "He would not specify tax or spending decisions before the Budget",
+        "Borrowing costs and debt-market volatility intensified pressure on the public finances",
+        "He promised fiscal discipline, a buffer and balanced day-to-day spending",
+        "Conservatives criticised his failure to rule out tax rises",
+        "The IFS questioned how achievable growth in every postcode would be",
+        "A market adviser warned that UK fiscal credibility had weakened",
+        "Healey announced a £150m fund for innovative northern firms",
+        "Opposition figures argued the fund or wider response was insufficient"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short briefing that evaluates whether Healey's growth plan answers the concerns raised in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית הערכה מאוזנת המבוססת על פרטי הכתבה, להבחין בין הצהרות למדיניות ולציין לפחות יתרון, סיכון ושאלה פתוחה.",
+      "expected_points": [
+        "Identify the goal of spreading growth through devolution and investment",
+        "Mention the £150m fund and its £5m-to-£15m investments",
+        "Explain how public investment is intended to unlock private investment",
+        "Acknowledge high borrowing costs and stretched public finances",
+        "Consider the promise of fiscal discipline and a spending buffer",
+        "Note uncertainty about tax rises or spending cuts",
+        "Assess the IFS warning that growth everywhere is difficult in practice",
+        "Consider criticism that £150m may have limited impact",
+        "Distinguish optimistic rhetoric from confirmed measures",
+        "End with a reasoned conclusion grounded in the article"
+      ]
+    }
+  ]
+}

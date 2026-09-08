@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+  "article_url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central question does the article examine?",
+      "difficulty": "B",
+      "options": [
+        "Whether universities should replace exams with job interviews",
+        "Whether competition-style recruitment is exciting and useful or unfair to candidates",
+        "Why cosmetics companies no longer recruit young workers",
+        "How television talent shows choose their judges"
+      ],
+      "correct_answer": "Whether competition-style recruitment is exciting and useful or unfair to candidates",
+      "explanation_hebrew": "הכתבה בוחנת את היתרונות והחסרונות של גיוס עובדים באמצעות תחרויות, ובעיקר האם הוא מועיל או בלתי הוגן."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Yumi Liberman obtain a place on L'Oréal's marketing management traineeship?",
+      "difficulty": "B",
+      "options": [
+        "Her team automatically received jobs after winning the global final",
+        "She applied after working at MTV",
+        "She impressed senior figures after her team's haircare app won the UK final and came third globally",
+        "She was selected only through a traditional one-to-one interview"
+      ],
+      "correct_answer": "She impressed senior figures after her team's haircare app won the UK final and came third globally",
+      "explanation_hebrew": "הצוות שלה זכה בגמר הבריטי והגיע למקום השלישי בעולם; אף שלא זכתה במשרה אוטומטית, היא הרשימה בכירים וקיבלה התמחות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “reluctant” mean in the statement that companies are reluctant to take on new staff?",
+      "difficulty": "B",
+      "options": [
+        "Unwilling or hesitant",
+        "Legally required",
+        "Financially rewarded",
+        "Publicly celebrated"
+      ],
+      "correct_answer": "Unwilling or hesitant",
+      "explanation_hebrew": "reluctant פירושו מהסס או לא מוכן; החברות אינן ממהרות לגייס עובדים חדשים."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What criticism did Melissa Alcruz make about the internal “bake-off” at MTV?",
+      "difficulty": "B",
+      "options": [
+        "It did not include any presentation",
+        "It offered the promotion to every candidate",
+        "It was easier than her normal work",
+        "It required substantial extra projects in candidates' spare time"
+      ],
+      "correct_answer": "It required substantial extra projects in candidates' spare time",
+      "explanation_hebrew": "אלקרוז טענה שהמועמדים נדרשו להשלים כמה פרויקטים משמעותיים בזמנם הפנוי נוסף על עבודה תובענית."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Katrina Collier say these competitions may create economic discrimination?",
+      "difficulty": "B",
+      "options": [
+        "Only companies with weak finances use competitions",
+        "Applicants without strong financial support may be unable to give months of unpaid time",
+        "Candidates must pay the company to enter every competition",
+        "The competitions exclude anyone who has a university degree"
+      ],
+      "correct_answer": "Applicants without strong financial support may be unable to give months of unpaid time",
+      "explanation_hebrew": "מי שאינו יכול להרשות לעצמו להשקיע זמן רב ללא תשלום עלול להיפגע, ולכן הרקע הכלכלי משפיע על היכולת להשתתף."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “to the detriment of others” mean?",
+      "difficulty": "B",
+      "options": [
+        "In a way that guarantees equal outcomes",
+        "In a way that benefits quieter candidates",
+        "In a way that causes disadvantage or harm to other people",
+        "In a way that makes recruitment less competitive"
+      ],
+      "correct_answer": "In a way that causes disadvantage or harm to other people",
+      "explanation_hebrew": "הביטוי means harming or disadvantaging others; כאן החשש הוא שתרבות תחרותית תפגע באנשים אחרים."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare Yumi Liberman's and Melissa Alcruz's experiences of competition-based recruitment.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות את סוג התחרות, התוצאה עבור כל אחת והערכתה את התהליך.",
+      "expected_points": [
+        "Liberman pitched a haircare app with two friends in L'Oréal's Brandstorm",
+        "Her team won the UK final and placed third globally",
+        "She impressed senior staff and secured a traineeship leading to a full-time role",
+        "Liberman enjoyed the formal competition structure",
+        "Alcruz competed internally at MTV for a promotion",
+        "She created sponsorship and marketing campaigns and pitched them to seven people",
+        "Alcruz won the promotion",
+        "She still disliked the process because it was intimidating and demanded substantial spare-time work"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how competition-based hiring can widen opportunity for some applicants but narrow it for others.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג לפחות שני יתרונות ושני חסרונות מן הכתבה ולהסביר מי עשוי להרוויח או להיפגע.",
+      "expected_points": [
+        "L'Oréal says competitions attract people who might not otherwise apply",
+        "Employers can observe candidates' ideas and capabilities more directly than in interviews",
+        "Candidates may receive publicity, experience or feedback",
+        "Liberman found the format easier than typical assessments because of severe dyslexia",
+        "Large time demands may exclude people without financial support",
+        "Performance events may favour extroverts over quieter candidates",
+        "Most entrants receive no job despite investing time",
+        "Extra unpaid projects can burden people who already have demanding jobs"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence for and against using competitions to recruit employees.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול דוגמאות משתי המועמדות, נתוני התחרות של L'Oréal וטיעוני מומחי הגיוס והפסיכולוגיה.",
+      "expected_points": [
+        "Brandstorm helped Liberman demonstrate her strengths and enter her chosen field",
+        "L'Oréal says it attracts a wider range of potential recruits",
+        "Employers may evaluate practical performance more easily than in traditional interviews",
+        "Applications rose from 240,000 in 2025 to 380,000 in 2026",
+        "The vast majority of entrants did not win anything",
+        "Alcruz found her promotion competition intimidating and time-consuming",
+        "Collier warned about economic discrimination from unpaid time demands",
+        "Potter warned that the format may favour extroverts",
+        "Kohn advised employers to limit demands and provide useful feedback"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Design a fair competition-based hiring process in a short proposal to an employer.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית הצעה מעשית המתייחסת לזמן, נגישות, סוגי אישיות, משוב ושקיפות בתהליך.",
+      "expected_points": [
+        "Limit the unpaid time required from applicants",
+        "Use tasks that genuinely reflect the job",
+        "Offer reasonable deadlines or scheduling flexibility",
+        "Provide alternatives for candidates uncomfortable with stage performance",
+        "Make the judging criteria transparent",
+        "Use more than one assessment method",
+        "Give constructive feedback to unsuccessful candidates",
+        "Consider accessibility needs such as dyslexia",
+        "Avoid using candidates' work commercially without compensation",
+        "State clearly how many roles are available"
+      ]
+    }
+  ]
+}
