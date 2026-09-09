@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-09",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Sapporo to move some beer production from Canada to US after tariffs",
+  "article_url": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Sapporo moving some production to the US in response to higher tariffs on Canadian beer",
+        "Sapporo ending all beer sales outside Japan",
+        "Canada buying a Japanese brewery to reduce alcohol prices",
+        "Carlsberg closing every brewery in Southeast Asia"
+      ],
+      "correct_answer": "Sapporo moving some production to the US in response to higher tariffs on Canadian beer",
+      "explanation_hebrew": "הכתבה מסבירה כיצד מכס של 50% על בירה המיובאת מקנדה גורם לסאפורו להעביר חלק מן הייצור לארה״ב."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which product does Sapporo plan to move from Canadian to US production by the first half of 2027?",
+      "difficulty": "A",
+      "options": [
+        "Its flagship alcoholic beer sold only in Japan",
+        "Beer made for the Danish market",
+        "Its non-alcoholic beer for US customers",
+        "Every product made by Sleeman Breweries"
+      ],
+      "correct_answer": "Its non-alcoholic beer for US customers",
+      "explanation_hebrew": "החברה מתכננת להעביר לארה״ב את ייצור הבירה ללא אלכוהול שמיוצרת כיום בקנדה עבור לקוחות אמריקאים."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “mitigate rising costs” mean?",
+      "difficulty": "A",
+      "options": [
+        "Measure the costs without changing them",
+        "Reduce or limit the effect of the higher costs",
+        "Transfer all costs to Canadian employees",
+        "Publish the costs in several currencies"
+      ],
+      "correct_answer": "Reduce or limit the effect of the higher costs",
+      "explanation_hebrew": "mitigate פירושו לצמצם או לרכך את ההשפעה; כאן מדובר בהקטנת נזקי העלויות שנגרמו מן המכסים."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What options is Sapporo considering for adding production capacity on the US West Coast?",
+      "difficulty": "A",
+      "options": [
+        "Building or buying a brewery, or using a third-party manufacturer",
+        "Importing more Canadian beer through Europe",
+        "Selling its US subsidiary to Carlsberg",
+        "Producing beer only in Japanese restaurants"
+      ],
+      "correct_answer": "Building or buying a brewery, or using a third-party manufacturer",
+      "explanation_hebrew": "האפשרויות המוזכרות הן בנייה או רכישה של מבשלה, או שותפות עם יצרן חיצוני."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is overseas expansion particularly important to Sapporo?",
+      "difficulty": "A",
+      "options": [
+        "Japan has banned the sale of non-alcoholic beer",
+        "The US requires every foreign brewer to own a factory",
+        "Its partnership with Carlsberg applies only inside Japan",
+        "Japan's shrinking population has weakened domestic alcohol sales"
+      ],
+      "correct_answer": "Japan's shrinking population has weakened domestic alcohol sales",
+      "explanation_hebrew": "הירידה באוכלוסיית יפן מכבידה על מכירות האלכוהול המקומיות, ולכן צמיחה בשווקים בחו״ל חשובה יותר לחברה."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “earmarked” mean in the statement that 30% of the capital is earmarked for overseas markets?",
+      "difficulty": "A",
+      "options": [
+        "Lost because of exchange rates",
+        "Set aside for a particular purpose",
+        "Borrowed from Canadian customers",
+        "Spent entirely before 2026"
+      ],
+      "correct_answer": "Set aside for a particular purpose",
+      "explanation_hebrew": "earmarked פירושו שיועד או הוקצה מראש למטרה מסוימת; כאן 30% מן ההון מיועדים לשווקים מעבר לים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain how the new tariff affects Sapporo's production plans and its Canadian subsidiary.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את שיעור המכס, המוצר המושפע, יעד ההעברה וההשפעה האפשרית על Sleeman Breweries.",
+      "expected_points": [
+        "A 50% tariff took effect on beer imported from Canada",
+        "Cross-border shipments therefore became significantly more expensive",
+        "Sapporo plans to move production of non-alcoholic beer for US customers",
+        "The production is currently in Canada",
+        "The move is planned by the first half of 2027",
+        "Some production will be localised in the US",
+        "The change will directly affect operations at Canadian subsidiary Sleeman Breweries"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might local US production be more attractive than continuing to ship beer from Canada?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין המכס, שרשרת האספקה, עלויות הובלה/יבוא והאפשרויות להקמת כושר ייצור מקומי.",
+      "expected_points": [
+        "Imported Canadian beer now faces a 50% tariff",
+        "Local production avoids or reduces the tariff burden",
+        "Lower cross-border costs can protect profit margins",
+        "US production places supply closer to US customers",
+        "Sapporo can build or buy a brewery",
+        "It can also partner with a third-party manufacturer",
+        "The strategy reduces exposure to changing trade barriers"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Sapporo's response to tariffs and its wider international growth strategy.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לסכם באנגלית את שינוי הייצור, ההשקעה המתוכננת, הסיבה להתרחבות בחו״ל והשותפות באסיה.",
+      "expected_points": [
+        "Sapporo will move some non-alcoholic beer production from Canada to the US",
+        "The decision follows a 50% US tariff on Canadian beer",
+        "The company is considering more capacity on the US West Coast",
+        "It may build, buy or partner with a manufacturer",
+        "The US is one of Sapporo's most important overseas markets",
+        "Japan's shrinking population has weighed on domestic alcohol sales",
+        "Sapporo plans to invest up to ¥400bn by 2030",
+        "Around 30% is allocated to overseas markets",
+        "Its Carlsberg partnership aims to expand in Southeast Asia"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short business memo recommending one US production option for Sapporo and explaining the trade-offs.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לבחור בנייה, רכישה או יצרן חיצוני; לנמק לפי זמן, עלות, שליטה וסיכון מכסים בלי להמציא נתונים.",
+      "expected_points": [
+        "Identify one option: build, buy or partner with a third-party manufacturer",
+        "Explain how it could reduce exposure to Canadian beer tariffs",
+        "Consider speed of implementation",
+        "Consider upfront investment or operating cost",
+        "Discuss control over production and quality",
+        "Mention the importance of the US market",
+        "Acknowledge effects on Sleeman Breweries",
+        "Connect the recommendation to the first-half-of-2027 timetable",
+        "Avoid invented financial figures"
+      ]
+    }
+  ]
+}

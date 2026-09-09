@@ -1,0 +1,181 @@
+{
+  "date": "2026-09-09",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Should promotion depend on how workers use AI?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central workplace dilemma does the article examine?",
+      "difficulty": "C",
+      "options": [
+        "Whether AI tools should be banned from all professional work",
+        "Whether rewarding visible AI use improves performance or creates unfair incentives and insecurity",
+        "Whether workers should choose their own retirement age",
+        "Whether companies should replace performance reviews with job interviews"
+      ],
+      "correct_answer": "Whether rewarding visible AI use improves performance or creates unfair incentives and insecurity",
+      "explanation_hebrew": "הכתבה בוחנת האם קידום ותגמול לפי שימוש ב־AI באמת משפרים עבודה, או יוצרים מדדים מלאכותיים, חוסר הוגנות וחשש תעסוקתי."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does Duncan Trevithick question the value of his firm's AI bonus scheme?",
+      "difficulty": "C",
+      "options": [
+        "He is forbidden to use AI for marketing tasks",
+        "The bonus is paid only as two extra days off each week",
+        "Higher output can become the new baseline while also proving that less of his job requires him",
+        "His employer has already cancelled every AI project"
+      ],
+      "correct_answer": "Higher output can become the new baseline while also proving that less of his job requires him",
+      "explanation_hebrew": "טרוויתיק חושש שהתפוקה המוגברת תהפוך לנורמה בלי תגמול מקביל, ובו בזמן תמחיש שחלק מעבודתו ניתן להחלפה."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “disincentive” mean in Tina Chander's discussion of productivity?",
+      "difficulty": "C",
+      "options": [
+        "A factor that discourages someone from taking an action",
+        "A formal guarantee of promotion",
+        "A measurement of AI accuracy",
+        "A payment made after redundancy"
+      ],
+      "correct_answer": "A factor that discourages someone from taking an action",
+      "explanation_hebrew": "disincentive הוא גורם שמקטין את הרצון לפעול; כאן החשש הוא שיעילות ב־AI עלולה לאיים על המשרה ולכן להרתיע עובדים."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can an AI-usage leaderboard produce misleading evidence of productivity?",
+      "difficulty": "C",
+      "options": [
+        "Employees may create unnecessary AI interactions merely to improve their ranking",
+        "AI systems cannot record how often they are used",
+        "Only senior executives are allowed to see the leaderboard",
+        "Every AI interaction necessarily improves judgement"
+      ],
+      "correct_answer": "Employees may create unnecessary AI interactions merely to improve their ranking",
+      "explanation_hebrew": "כאשר מודדים את מספר השימושים, עובדים עלולים להעביר משימות מיותרות דרך AI כדי להיראות פעילים, בלי לשפר החלטות או תוצאות."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What approach did Duolingo adopt after reconsidering AI use in performance reviews?",
+      "difficulty": "C",
+      "options": [
+        "It required AI for every task regardless of usefulness",
+        "It fired staff who did not finish AI training",
+        "It replaced performance reviews with an AI leaderboard",
+        "It prioritised doing the job well and stopped forcing AI when it did not help"
+      ],
+      "correct_answer": "It prioritised doing the job well and stopped forcing AI when it did not help",
+      "explanation_hebrew": "דואולינגו חזרה בה והחליטה שהמדד החשוב הוא איכות ביצוע העבודה; AI רצוי כשהוא מסייע, אך אינו חובה לשם השימוש עצמו."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In Pamela's account, what does a “two tier workforce” describe?",
+      "difficulty": "C",
+      "options": [
+        "Two companies sharing the same AI platform",
+        "Workers with the same role being valued differently according to AI fluency",
+        "Employees working either two or three days a week",
+        "A legal distinction between managers and contractors"
+      ],
+      "correct_answer": "Workers with the same role being valued differently according to AI fluency",
+      "explanation_hebrew": "הביטוי מתאר עובדים בעלי אותו תפקיד וותק שמקבלים ערך והזדמנויות שונים לפי מידת השליטה והנראות שלהם בשימוש ב־AI."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the formal and informal ways companies in the article encourage or enforce AI use.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להביא דוגמאות למדיניות מפורשת, מדידה רשמית ולחץ שקט דרך הערכות ביצועים.",
+      "expected_points": [
+        "Trevithick's firm links faster AI-enabled output to an annual bonus",
+        "Accenture's CEO said AI use is part of how the company works and affects promotion",
+        "Disney, Meta, JP Morgan and KPMG reportedly introduced AI leaderboards",
+        "Coinbase fired engineers who did not complete requested AI training",
+        "Pamela's consultancy has no formal mandate",
+        "Nevertheless AI fluency visibly affects rewards and promotion",
+        "Workers may feel pressure because vacancies are at a five-year low"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how making AI use a KPI can change employee behaviour without necessarily improving work.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את ההבדל בין מדידת אימוץ לבין מדידת שיקול דעת, למידה ואיכות החלטות, ולתאר התנהגות משחקית אפשרית.",
+      "expected_points": [
+        "Employees optimise behaviour for the measured metric",
+        "They may log many interactions simply to hit a target",
+        "Work may be routed through a chatbot even when AI is unnecessary",
+        "Outputs can be made to look AI-related for a dashboard",
+        "The organisation measures adoption rather than judgement",
+        "High usage does not prove better learning or decisions",
+        "Employees may become compliant with the metric rather than more skilled",
+        "Amazon reportedly closed a leaderboard after employees gave AI needless tasks"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the arguments for and against linking AI proficiency to promotion, bonuses or dismissal.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג באופן מאוזן את מטרות המעסיקים, יתרונות אפשריים, חששות העובדים, שאלות הוגנות והצורך במדיניות ברורה.",
+      "expected_points": [
+        "Employers want returns from large AI investments",
+        "AI skills can raise output and may help workers gain bonuses or promotion",
+        "Most companies cited by McKinsey had not yet seen significant AI value",
+        "Workers may feel compelled to adapt in a weak job market",
+        "Efficiency gains can become a new baseline without proportional reward",
+        "Employees may help demonstrate that parts of their jobs are redundant",
+        "AI fluency may outweigh experience and create a two-tier workforce",
+        "Vague expectations can cause disputes about fairness and job security",
+        "Usage metrics can encourage performative rather than useful adoption",
+        "Clear policies, training and boundaries can reduce these risks"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Draft a fair company policy for considering AI skills in performance reviews.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית מדיניות שקופה המודדת תוצאות ושיקול דעת, מספקת הכשרה ומונעת שימוש כפוי או ענישה לא עקבית.",
+      "expected_points": [
+        "Explain the business purpose of AI use",
+        "Define which tasks may or may not use AI",
+        "Provide equal access to training and approved tools",
+        "Assess work quality, judgement and outcomes rather than raw usage counts",
+        "Do not require AI use when it adds no value",
+        "Make promotion and bonus criteria transparent",
+        "Clarify responsibility when AI produces an error",
+        "Protect employees who raise security, legal or ethical concerns",
+        "Review workload and pay when productivity expectations rise",
+        "Offer an appeal or dispute process",
+        "Review the policy regularly as tools and roles change"
+      ]
+    }
+  ]
+}

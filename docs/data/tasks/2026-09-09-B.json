@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-09",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Thousands of teens missing education 'under the radar', report warns",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwyznq259elo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the report's central warning?",
+      "difficulty": "B",
+      "options": [
+        "Official figures may miss many teenagers enrolled in college but rarely attending",
+        "Most English colleges no longer teach maths or English",
+        "Young people are leaving college only because they have full-time jobs",
+        "School attendance in England is higher than ever"
+      ],
+      "correct_answer": "Official figures may miss many teenagers enrolled in college but rarely attending",
+      "explanation_hebrew": "הדו״ח מזהיר שעשרות אלפי בני 16–17 רשומים כלומדים אך נעדרים הרבה, ולכן אינם מופיעים כראוי בנתונים הרשמיים על NEET."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the report mean by “severely absent”?",
+      "difficulty": "B",
+      "options": [
+        "Missing at least 10% of college sessions",
+        "Missing at least half of college sessions",
+        "Failing one GCSE examination",
+        "Changing college during the year"
+      ],
+      "correct_answer": "Missing at least half of college sessions",
+      "explanation_hebrew": "בדו״ח severely absent מוגדר כהיעדרות מלפחות מחצית ממפגשי הלימוד במכללה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “under the radar” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "Studying through an online tracking system",
+        "Travelling to college by bus",
+        "Going unnoticed by official monitoring and support",
+        "Being formally removed from a college roll"
+      ],
+      "correct_answer": "Going unnoticed by official monitoring and support",
+      "explanation_hebrew": "הביטוי מתאר בני נוער שאינם מזוהים בנתונים הרשמיים ולכן גם אינם מקבלים את התמיכה הדרושה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which change has Bolton College introduced to improve attendance?",
+      "difficulty": "B",
+      "options": [
+        "It has ended all part-time courses",
+        "It gives every student a £30 payment each morning",
+        "It allows students to skip compulsory GCSE classes",
+        "It employs full-time positive engagement officers to greet and contact students"
+      ],
+      "correct_answer": "It employs full-time positive engagement officers to greet and contact students",
+      "explanation_hebrew": "המכללה הציבה אנשי קשר במשרה מלאה שמקבלים את פני התלמידים בבוקר ויוצרים קשר עם מי שלא הגיע."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can a £30 work shift sometimes matter more to a student than a future qualification?",
+      "difficulty": "B",
+      "options": [
+        "The qualification is guaranteed to have no value",
+        "Immediate financial pressure can outweigh a benefit expected months later",
+        "Colleges require students to work during every lesson",
+        "Part-time work automatically counts as a GCSE pass"
+      ],
+      "correct_answer": "Immediate financial pressure can outweigh a benefit expected months later",
+      "explanation_hebrew": "לסטודנט הזקוק להכנסה כעת, תשלום מיידי ממשמרת עשוי להיות חשוב יותר מתועלת של הסמכה שתגיע רק בעוד חודשים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “tailored support” mean in the Association of Colleges' response?",
+      "difficulty": "B",
+      "options": [
+        "Punishment that is identical for every absent student",
+        "Support designed for the particular needs of individual students",
+        "A national list of college examination dates",
+        "Free uniforms made by local employers"
+      ],
+      "correct_answer": "Support designed for the particular needs of individual students",
+      "explanation_hebrew": "tailored support היא תמיכה מותאמת לצרכים האישיים של התלמיד, כגון קשיי בריאות הנפש, תחבורה או עבודה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Distinguish the two meanings of “hidden Neets” used in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות במדויק בין הגדרת דוח נציבת הילדים לבין ההגדרה בדוח הביניים של אלן מילברן.",
+      "expected_points": [
+        "Dame Rachel's report uses the term for students enrolled in college but persistently absent",
+        "These students may appear in official records as being in education",
+        "The report argues they should be counted alongside official Neets",
+        "Milburn's interim report uses the term for people who are Neet",
+        "Those people are also not claiming benefits",
+        "Not claiming benefits makes them harder for services to find and reach"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why simply enrolling a teenager in college does not prove that the teenager is receiving education or support.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את הפער בין רישום לנוכחות, את היעדר חובת הדיווח ואת ההשלכות על זיהוי צעירים פגיעים.",
+      "expected_points": [
+        "A student can remain enrolled while missing many sessions",
+        "Around 42,000 enrolled 16- and 17-year-olds missed at least half their sessions",
+        "Colleges are not currently required to collect or report attendance data like schools",
+        "The DfE therefore lacks a complete central picture",
+        "Official status may hide practical disengagement from education",
+        "Vulnerable students can go unnoticed",
+        "Without identification they may not receive mental-health, travel or other tailored support"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the scale, causes and proposed responses to persistent college absence among 16- and 17-year-olds.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את הנתונים המרכזיים, גורמי ההיעדרות, אוכלוסיות בסיכון והמלצות הדו״ח והממשלה.",
+      "expected_points": [
+        "The report used data from 262 college groups in England",
+        "An estimated 52.2% were persistently absent under the school definition",
+        "Around 42,000, or 5.9%, were severely absent",
+        "The official estimate lists 57,000 16- and 17-year-olds as Neet",
+        "Causes include part-time work, travel costs and post-pandemic disengagement",
+        "Severely absent students may have mental-health challenges or other vulnerabilities",
+        "Recommendations include national attendance data and targets",
+        "The report calls for faster mental-health support, better work experience and free bus travel",
+        "The DfE plans central attendance tracking and a stepping-stone qualification"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short policy proposal for reducing severe absence at further-education colleges.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית הצעה המבוססת על חסמים ופתרונות שבכתבה, עם מדידה, תמיכה מותאמת ויישום מעשי.",
+      "expected_points": [
+        "Require consistent collection of attendance data",
+        "Set clear targets while avoiding punishment-only responses",
+        "Contact students quickly after missed sessions",
+        "Expand mental-health support teams",
+        "Address travel costs, for example through free bus travel",
+        "Recognise conflicts with part-time employment",
+        "Provide tailored support for vulnerable students",
+        "Improve work experience and employer engagement",
+        "Consider alternatives to repeated GCSE failure and resits",
+        "Explain how progress would be measured"
+      ]
+    }
+  ]
+}
