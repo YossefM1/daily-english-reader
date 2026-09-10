@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-10",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "The one thing you need to do to succeed - according to top bosses",
+  "article_url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What overall message connects the advice from the six business leaders?",
+      "difficulty": "B",
+      "options": [
+        "Success depends mainly on having a perfect CV",
+        "Mindset, curiosity, communication and willingness to take opportunities can matter more than flawless credentials",
+        "Candidates should avoid asking questions during interviews",
+        "Workers should specialise narrowly and reject unfamiliar tasks"
+      ],
+      "correct_answer": "Mindset, curiosity, communication and willingness to take opportunities can matter more than flawless credentials",
+      "explanation_hebrew": "העצות מדגישות גישה, סקרנות, תקשורת ונכונות לנסות דברים חדשים יותר מאשר קורות חיים מושלמים בלבד."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What interview question does Charlie Bowes-Lyon recommend asking?",
+      "difficulty": "B",
+      "options": [
+        "How quickly can I replace my manager?",
+        "Why did the previous employee fail?",
+        "What does success in this job look like?",
+        "Can I avoid working with a team?"
+      ],
+      "correct_answer": "What does success in this job look like?",
+      "explanation_hebrew": "Bowes-Lyon ממליץ לשאול כיצד נראית הצלחה בתפקיד, משום שמועמדים שאין להם שאלות כמעט אינם מתקבלים לדעתו."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “naysayers” mean in Charlotte Tilbury's advice?",
+      "difficulty": "B",
+      "options": [
+        "People who discourage ideas or say they will not work",
+        "Customers who buy products immediately",
+        "Mentors who teach technical skills",
+        "Interviewers who ask open questions"
+      ],
+      "correct_answer": "People who discourage ideas or say they will not work",
+      "explanation_hebrew": "naysayers הם אנשים שליליים שאומרים שרעיון לא יעבוד או שמנסים להציב מגבלות."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does Marcia Kilgore advise taking “a breath or five” before responding?",
+      "difficulty": "B",
+      "options": [
+        "To make a response faster than everyone else's",
+        "To avoid listening to the question",
+        "To hide a lack of experience",
+        "To give a considered rather than merely immediate answer"
+      ],
+      "correct_answer": "To give a considered rather than merely immediate answer",
+      "explanation_hebrew": "קילגור מדגישה שתגובה אינה חייבת להיות מיידית, אך עליה להיות שקולה ומבוססת על הקשבה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can taking a role outside your comfort zone strengthen a CV?",
+      "difficulty": "B",
+      "options": [
+        "It removes the need to work with other people",
+        "It can build broader experience and resilience through unfamiliar challenges",
+        "It guarantees promotion without performance",
+        "It prevents employers from asking about skills"
+      ],
+      "correct_answer": "It can build broader experience and resilience through unfamiliar challenges",
+      "explanation_hebrew": "התנסות מאתגרת ולא מוכרת יכולה להרחיב את הניסיון, לבנות חוסן ולהוסיף רוחב מקצועי לקורות החיים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean to “mirror the job description” in an application?",
+      "difficulty": "B",
+      "options": [
+        "Copy the entire advertisement without changing it",
+        "Send the application to competing companies",
+        "Clearly match your relevant skills and experience to the employer's stated needs",
+        "Use AI to remove your personal voice"
+      ],
+      "correct_answer": "Clearly match your relevant skills and experience to the employer's stated needs",
+      "explanation_hebrew": "הכוונה היא להראות בבירור כיצד הכישורים והניסיון שלך מתאימים לדרישות המפורטות במודעת התפקיד."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the qualities that Charlie Bowes-Lyon, Marcia Kilgore and Anabel Kindersley value in candidates.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין לפחות שתי נקודות מכל מנהל ולהבחין בין גישה, סקרנות, תקשורת, כנות ואינטליגנציה רגשית.",
+      "expected_points": [
+        "Bowes-Lyon values attitude more than a perfect skill set",
+        "He believes skills can be taught but attitude cannot",
+        "He expects candidates to ask thoughtful interview questions",
+        "Kilgore values curiosity and willingness to be useful",
+        "She looks for people who ask questions and roll up their sleeves",
+        "Kilgore says careful communication is crucial",
+        "Kindersley recommends saying yes to new opportunities",
+        "She values honesty about experience",
+        "She looks for emotional intelligence as well as intellectual ability"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how the leaders turn setbacks, discomfort and risk into opportunities for development.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין עצותיהם של Tilbury, Kindersley ו־Nunn ולהסביר את מנגנון הלמידה מן האתגר.",
+      "expected_points": [
+        "Tilbury reframes mistakes and setbacks as chances to rethink and improve",
+        "She says challenges made her a stronger leader",
+        "Kindersley advises accepting opportunities even when they feel uncomfortable",
+        "Her varied career grew from trying different roles",
+        "Nunn recommends work outside one's comfort zone",
+        "He was frightened by retail roles but gained valuable experience",
+        "Unfamiliar experiences can build resilience",
+        "Taking calculated risks can broaden a CV and reveal new abilities"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the six leaders' main recommendations for succeeding at work or in recruitment.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול עצה מרכזית מכל אחד מן הדוברים ולהציג מסר מאחד ברור.",
+      "expected_points": [
+        "Charlotte Tilbury says not to accept other people's limits and to learn from setbacks",
+        "Charlie Bowes-Lyon prioritises attitude and thoughtful interview questions",
+        "Marcia Kilgore values curiosity and considered communication",
+        "Anabel Kindersley recommends saying yes to opportunities and being honest",
+        "Charlie Nunn values curiosity, resilience, teamwork and learning outside the comfort zone",
+        "James Reed says applicants should show how they solve an employer's needs",
+        "Reed advises matching skills to the job description",
+        "AI should strengthen an application rather than replace personal judgement or voice"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a concise answer to the interview question “Why should we hire you?” using principles from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית תשובה אמינה וספציפית שמקשרת בין דרישות המשרה לבין תרומת המועמד, בלי קלישאות או ניסיון מומצא.",
+      "expected_points": [
+        "Identify a relevant skill or experience",
+        "Connect it directly to a need in the job description",
+        "Explain how the candidate can help solve an employer's problem",
+        "Show curiosity and willingness to learn",
+        "Demonstrate teamwork or communication",
+        "Include one honest example rather than unsupported claims",
+        "Show a constructive attitude toward challenges",
+        "Preserve the candidate's own voice",
+        "Do not claim AI-generated achievements as personal experience"
+      ]
+    }
+  ]
+}

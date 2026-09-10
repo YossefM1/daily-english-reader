@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-10",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "BBC drops Drag Race UK after eight series",
+  "article_url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Drag Race UK leaving the BBC after eight series and moving future programmes to Wow Presents Plus",
+        "The BBC launching a new international drag competition in Canada",
+        "RuPaul ending all versions of Drag Race around the world",
+        "The BBC buying the company that produces Drag Race UK"
+      ],
+      "correct_answer": "Drag Race UK leaving the BBC after eight series and moving future programmes to Wow Presents Plus",
+      "explanation_hebrew": "הכתבה עוסקת בהחלטת ה־BBC להפסיק לשדר עונות עתידיות של התוכנית ובהעברתן לפלטפורמת Wow Presents Plus."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What reason did the BBC give for dropping the show?",
+      "difficulty": "A",
+      "options": [
+        "The judges refused to appear in another series",
+        "Significant financial pressures required difficult choices",
+        "The programme had never been available on iPlayer",
+        "The production company stopped making entertainment shows"
+      ],
+      "correct_answer": "Significant financial pressures required difficult choices",
+      "explanation_hebrew": "ה־BBC הסביר שהוא מתמודד עם לחצים כספיים משמעותיים ונדרש לקבל החלטות קשות במסגרת תוכנית החיסכון."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “groundbreaking” mean when the BBC describes Drag Race UK?",
+      "difficulty": "A",
+      "options": [
+        "Filmed below ground",
+        "Very inexpensive to produce",
+        "Innovative and important in creating change",
+        "Cancelled before it reached an audience"
+      ],
+      "correct_answer": "Innovative and important in creating change",
+      "explanation_hebrew": "groundbreaking פירושו חדשני ופורץ דרך; ה־BBC הדגיש את חשיבות התוכנית בהבאת הדראג הבריטי למיינסטרים."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What will happen to the current series that began in September 2026?",
+      "difficulty": "A",
+      "options": [
+        "It will continue normally on BBC Three and iPlayer",
+        "It will be removed before the final episode",
+        "It will move immediately to BBC One",
+        "It will be replaced by Drag Race Canada"
+      ],
+      "correct_answer": "It will continue normally on BBC Three and iPlayer",
+      "explanation_hebrew": "לפי הכתבה, העונה הנוכחית תמשיך כרגיל ב־BBC Three וב־iPlayer למרות השינוי לעונות העתידיות."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is the move to Wow Presents Plus described as a “new era”?",
+      "difficulty": "A",
+      "options": [
+        "The programme will no longer have any judges",
+        "The show is changing from television entertainment to a sports event",
+        "Existing series will become unavailable everywhere",
+        "Future series will be distributed by the production company's own streaming platform"
+      ],
+      "correct_answer": "Future series will be distributed by the production company's own streaming platform",
+      "explanation_hebrew": "הביטוי מציין שינוי באופן ההפצה: העונות העתידיות יעברו משידור BBC לפלטפורמת הסטרימינג של חברת ההפקה."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “a staple of LGBTQ+ culture” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "A regular and important part of that culture",
+        "A programme watched only by celebrity judges",
+        "A temporary show with no cultural influence",
+        "A legal requirement for broadcasters"
+      ],
+      "correct_answer": "A regular and important part of that culture",
+      "explanation_hebrew": "staple בהקשר זה פירושו חלק קבוע, מוכר וחשוב בתרבות הלהט״בית."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe where viewers will be able to watch the current, existing and future series of Drag Race UK.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להבחין בין העונה הנוכחית, העונות הקיימות והעונות העתידיות, ולציין את הפלטפורמות המתאימות.",
+      "expected_points": [
+        "The current series launched in September 2026",
+        "It will continue to air normally on BBC Three",
+        "It will also remain on BBC iPlayer",
+        "Existing series will continue to be available after the move",
+        "Future series will be shown on Wow Presents Plus",
+        "The spin-off vs The World will also move there",
+        "Drag Race UK All Stars is planned exclusively for Wow Presents Plus in autumn 2027"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why ending the BBC broadcast matters culturally as well as financially.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין תוכנית החיסכון של ה־BBC לבין השפעת התוכנית על נראות הדראג והקהילה הלהט״בית.",
+      "expected_points": [
+        "The BBC is trying to make £500m in savings",
+        "It says financial pressure forced difficult choices",
+        "Drag Race UK brought British drag into mainstream entertainment",
+        "It created household names among drag performers",
+        "It became a staple of LGBTQ+ culture",
+        "It was praised for showing a distinct British drag style",
+        "The BBC had also dropped two LGBTQ+ dating shows earlier in the year",
+        "The move may reduce access for viewers who do not subscribe to the new platform"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the BBC's decision, the programme's impact and what will happen next.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לסכם באנגלית את סיבת ההחלטה, הישגי התוכנית, מצב העונה הנוכחית והמעבר העתידי.",
+      "expected_points": [
+        "Drag Race UK is leaving the BBC after eight series",
+        "The BBC cited significant financial pressures",
+        "The corporation is planning £500m of savings",
+        "At its peak the show averaged about 1.5 million viewers per episode",
+        "It helped bring British drag into mainstream entertainment",
+        "It was praised for its cultural portrayal",
+        "The current series will continue on BBC Three and iPlayer",
+        "Existing series will remain available",
+        "Future series and vs The World will move to Wow Presents Plus",
+        "An All Stars series is planned for autumn 2027"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short notice explaining the change to viewers without implying that the current series has been cancelled.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב באנגלית הודעה ברורה שמבדילה בין ההווה לעתיד, מציינת את הפלטפורמות ומסבירה בקצרה את החלטת ה־BBC.",
+      "expected_points": [
+        "State that the current series continues as normal",
+        "Mention BBC Three and iPlayer",
+        "Explain that existing series will remain available",
+        "State that future series move to Wow Presents Plus",
+        "Mention the vs The World spin-off if relevant",
+        "Avoid saying that all Drag Race UK content has been cancelled",
+        "Briefly mention the BBC's financial pressures",
+        "Use a neutral and reassuring tone"
+      ]
+    }
+  ]
+}

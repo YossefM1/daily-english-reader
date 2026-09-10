@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-10",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "We spent £23,000 on fertility treatment - now our embryos will be destroyed",
+  "article_url": "https://www.bbc.co.uk/news/articles/cr5035eldr3o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What legal and ethical conflict is central to the article?",
+      "difficulty": "C",
+      "options": [
+        "Whether fertility clinics should provide treatment only in Wales",
+        "Whether donor consent should remain withdrawable after embryos have been created",
+        "Whether ICSI should be replaced by artificial insemination",
+        "Whether parents should be required to name children before birth"
+      ],
+      "correct_answer": "Whether donor consent should remain withdrawable after embryos have been created",
+      "explanation_hebrew": "הכתבה עוסקת במתח בין אוטונומיית התורם לחזור בו מהסכמה לבין רצון המטופלות להשתמש בעוברים שכבר נוצרו."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Until what point can a UK sperm or egg donor withdraw consent?",
+      "difficulty": "C",
+      "options": [
+        "Only before fertilisation begins",
+        "Until the child reaches one year old",
+        "Until the embryo is transferred into the womb",
+        "Only during the first month of storage"
+      ],
+      "correct_answer": "Until the embryo is transferred into the womb",
+      "explanation_hebrew": "לפי החוק הבריטי המתואר, ניתן לבטל הסכמה עד לרגע העברת העובר לרחם."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “blindsided” mean when Nik describes learning about the donor's withdrawal?",
+      "difficulty": "C",
+      "options": [
+        "Given unexpected and shocking news without being prepared",
+        "Unable to read the written consent form",
+        "Offered another donor immediately",
+        "Protected from emotional distress"
+      ],
+      "correct_answer": "Given unexpected and shocking news without being prepared",
+      "explanation_hebrew": "blindsided מתאר מצב שבו אדם מופתע ונפגע מאירוע שלא היה מוכן אליו; בני הזוג לא הבינו שההסכמה יכולה להימשך בשלב זה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened after Nat and Nik changed to ICSI treatment?",
+      "difficulty": "C",
+      "options": [
+        "They created six embryos and Jude was later born",
+        "The clinic cancelled all treatment before fertilisation",
+        "Their donor withdrew consent before any embryos existed",
+        "They received a refund of the full £23,000"
+      ],
+      "correct_answer": "They created six embryos and Jude was later born",
+      "explanation_hebrew": "לאחר המעבר ל־ICSI נוצרו שישה עוברים, ואחד מהם הוביל ללידת בנם Jude באוגוסט של השנה הקודמת."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the withdrawal of consent intensify Sam and Carly's anxiety about their current pregnancy?",
+      "difficulty": "C",
+      "options": [
+        "They have been told that Finn cannot receive medical care",
+        "They are required to end the pregnancy next year",
+        "They plan to donate all remaining embryos immediately",
+        "The stored embryos may be their only future route to parenthood if something happens to Finn"
+      ],
+      "correct_answer": "The stored embryos may be their only future route to parenthood if something happens to Finn",
+      "explanation_hebrew": "העוברים הנותרים עומדים להיהרס, והזוג אינו בטוח שיוכל לעמוד שוב בטיפול מבחינה כלכלית, רגשית ופיזית."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “regulatory regime” mean in the government's response?",
+      "difficulty": "C",
+      "options": [
+        "A private payment plan for fertility treatment",
+        "The system of laws and rules governing fertility treatment",
+        "A medical method for fertilising eggs",
+        "A database of all UK donors who withdrew consent"
+      ],
+      "correct_answer": "The system of laws and rules governing fertility treatment",
+      "explanation_hebrew": "regulatory regime הוא מערך החוקים, הכללים והפיקוח המסדיר את תחום טיפולי הפוריות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the experiences of Nat and Nik Fraser-Edwards with those of Sam Beesley and Carly Estlick.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשוות את מצב המשפחה, מספר העוברים, לוח הזמנים וההשפעה הרגשית והכלכלית על שני הזוגות.",
+      "expected_points": [
+        "Nat and Nik endured failed treatment before succeeding through ICSI",
+        "They created six embryos and their son Jude was born",
+        "Their five remaining embryos will be destroyed after the donor withdrew consent",
+        "They had hoped to try for a sibling the following year",
+        "Their treatment cost £23,000 and involved loans and sacrifices",
+        "Sam and Carly are expecting their first child, Finn",
+        "Their donor also withdrew consent",
+        "Their 10 remaining embryos are due to be destroyed in 2027",
+        "They fear they may not be able to afford or endure treatment again",
+        "The news has increased anxiety during the current pregnancy"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain the competing interests behind the current consent law and the couples' proposed change.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג באופן מאוזן את אוטונומיית התורם מול הסתמכות המטופלים על עוברים קיימים והנזק האפשרי לכל צד.",
+      "expected_points": [
+        "Current law protects each donor's autonomy over whether a child may be born using their gametes",
+        "Consent can be withdrawn until transfer to the womb",
+        "After transfer, withdrawal is no longer possible",
+        "The couples invested financially and emotionally in creating embryos",
+        "They formed plans for future children based on the stored embryos",
+        "Destruction removes their possible route to genetically related siblings through those embryos",
+        "The couples want consent to become irreversible once an embryo is created",
+        "Changing the law would reduce the donor's later control",
+        "The conflict requires balancing informed consent with reliance and family-planning interests"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the two couples' cases, the current law and the responses from the regulator and government.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם באנגלית את העובדות המרכזיות, הכלל המשפטי, עמדת HFEA ותגובת הממשלה ללא נקיטת עמדה רפואית.",
+      "expected_points": [
+        "Both couples used donor sperm and created embryos through fertility treatment",
+        "Their donors later withdrew consent",
+        "Five embryos belonging to Nat and Nik are affected",
+        "Ten embryos belonging to Sam and Carly are affected",
+        "UK law permits withdrawal until an embryo is transferred to the womb",
+        "The couples want consent to become final after embryo creation",
+        "HFEA says donor autonomy is the basis of the existing rule",
+        "HFEA cannot change the law itself",
+        "The regulator says clinics should warn patients clearly about withdrawal",
+        "The government expressed sympathy and said the regulatory regime remains under review"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short consultation response proposing how clinics or lawmakers should address consent withdrawal after embryos are created.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית הצעה מאוזנת ומכבדת הכוללת הסכמה מדעת, תיעוד, זמן לבחינה ושיקולי שני הצדדים, בלי ייעוץ רפואי אישי.",
+      "expected_points": [
+        "State whether the law should remain unchanged or be amended",
+        "Recognise donor autonomy",
+        "Recognise patients' emotional, financial and family-planning reliance",
+        "Require clear verbal and written explanation before treatment",
+        "Document that all parties understand the withdrawal deadline",
+        "Consider a defined cooling-off period",
+        "Explain what happens to stored embryos after withdrawal",
+        "Provide independent counselling or legal information",
+        "Collect anonymised data on how often consent is withdrawn",
+        "Include a fair review or dispute process",
+        "Use compassionate and non-judgmental language"
+      ]
+    }
+  ]
+}
