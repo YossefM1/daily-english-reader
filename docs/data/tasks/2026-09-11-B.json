@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-11",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Your partner's snoring could be impacting your health",
+  "article_url": "https://www.bbc.co.uk/news/articles/c62jnyn2n2do?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central message?",
+      "difficulty": "B",
+      "options": [
+        "Snoring affects only the person who snores",
+        "A partner's snoring can disrupt sleep, health and relationships, and help is available",
+        "Most sleep problems are caused by dreaming",
+        "Couples should always sleep in separate rooms"
+      ],
+      "correct_answer": "A partner's snoring can disrupt sleep, health and relationships, and help is available",
+      "explanation_hebrew": "הכתבה מסבירה שנחירות של בן או בת זוג עלולות לפגוע בשינה, בתפקוד וברווחה, ומציגה דרכי אבחון וטיפול."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to the BSSAA, about what proportion of UK adults snore?",
+      "difficulty": "B",
+      "options": [
+        "10%",
+        "25%",
+        "40%",
+        "75%"
+      ],
+      "correct_answer": "40%",
+      "explanation_hebrew": "לפי האגודה הבריטית לנחירות ודום נשימה בשינה, כ־40% מהמבוגרים בבריטניה נוחרים."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “fragmented sleep” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "Sleep that lasts longer than usual",
+        "Sleep during which a person never dreams",
+        "Sleep taken only in the daytime",
+        "Sleep repeatedly interrupted by waking"
+      ],
+      "correct_answer": "Sleep repeatedly interrupted by waking",
+      "explanation_hebrew": "fragmented sleep היא שינה מקוטעת — שינה שנקטעת שוב ושוב, למשל בגלל נחירות של בן זוג."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which combination is identified as possible signs of sleep apnoea?",
+      "difficulty": "B",
+      "options": [
+        "Pauses in breathing, choking, frequent waking and morning headaches",
+        "Only talking and moving during dreams",
+        "Feeling hungry before bed and waking early",
+        "Snoring softly while breathing remains steady"
+      ],
+      "correct_answer": "Pauses in breathing, choking, frequent waking and morning headaches",
+      "explanation_hebrew": "הכתבה מונה הפסקות נשימה, חנק בלילה, יקיצות תכופות וכאבי ראש בבוקר כסימנים אפשריים לדום נשימה בשינה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Dr Clare Simon warn against simply making a snorer quieter?",
+      "difficulty": "B",
+      "options": [
+        "Quiet treatments always damage hearing",
+        "The noise helps partners enter deeper sleep",
+        "It could hide an underlying sleep-related breathing disorder",
+        "Doctors cannot assess anyone who uses ear plugs"
+      ],
+      "correct_answer": "It could hide an underlying sleep-related breathing disorder",
+      "explanation_hebrew": "המטרה אינה רק להפחית רעש; טיפול כזה עלול להסתיר הפרעת נשימה בשינה, כגון דום נשימה, שדורשת אבחון."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “restorative stages” mean in the discussion of sleep?",
+      "difficulty": "B",
+      "options": [
+        "Stages in which people are most likely to snore",
+        "Deeper stages that help the body recover",
+        "Periods when a person is fully awake",
+        "Moments used mainly to plan the next day"
+      ],
+      "correct_answer": "Deeper stages that help the body recover",
+      "explanation_hebrew": "restorative stages הם שלבי השינה העמוקים החשובים להתאוששות הגופנית."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain how disrupted sleep can affect the partner of a snorer during the following day.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין כמה השפעות קוגניטיביות, גופניות ורגשיות המתוארות בכתבה.",
+      "expected_points": [
+        "Less time may be spent in deep restorative sleep",
+        "The person may wake feeling tired or groggy",
+        "Processing and storing information may be interrupted",
+        "Focus and memory may worsen",
+        "Hormone regulation may affect energy and motivation",
+        "Stress regulation may become less balanced",
+        "The person may feel more irritable and less able to cope"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can snoring become a relationship problem rather than just a noise problem?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד שינה מקוטעת משפיעה על מצב הרוח, ויכוחים, אינטימיות וסידורי השינה.",
+      "expected_points": [
+        "Broken sleep can increase irritability",
+        "Tired partners may argue more",
+        "Repeated prodding or attempts to change position can create tension",
+        "One partner may move to a separate room",
+        "Separate sleeping may reduce intimacy",
+        "The problem can affect both partners' wellbeing"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's explanation of the risks, warning signs and possible responses to snoring.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לסכם באנגלית את השפעות הנחירות, ההבדל מדום נשימה ואת דרכי הפעולה המוצעות.",
+      "expected_points": [
+        "A partner's snoring can fragment sleep",
+        "Poor sleep can affect memory, focus, energy, stress and mood",
+        "Relationships may also be affected",
+        "Sleep apnoea warning signs should not be ignored",
+        "A GP or specialist can advise",
+        "CPAP or surgery may be used for sleep apnoea",
+        "Lifestyle changes may help simple snoring",
+        "Nasal treatment or a custom mouthguard may be recommended"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a tactful message encouraging a snoring partner to seek help while avoiding blame.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית מסר אמפתי שמציג את ההשפעה, מזכיר סימני אזהרה ומציע צעדים מעשיים ללא האשמה.",
+      "expected_points": [
+        "Use a respectful and non-accusatory tone",
+        "Describe the effect on shared sleep or wellbeing",
+        "Suggest checking for breathing pauses, choking or morning headaches",
+        "Recommend speaking to a GP if warning signs appear",
+        "Mention one lifestyle change that may help simple snoring",
+        "Acknowledge that effective help is available"
+      ]
+    }
+  ]
+}

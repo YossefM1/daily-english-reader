@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-11",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Abhijeet Dipke, CJP: The student behind 'cockroach' protests that forced an Indian minister to quit",
+  "article_url": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly examining?",
+      "difficulty": "C",
+      "options": [
+        "The history of every Indian political party since independence",
+        "A court case about university admissions in Boston",
+        "How Abhijeet Dipke's spontaneous post grew into a youth protest movement and the challenges it now faces",
+        "A government plan to replace rural schools with online courses"
+      ],
+      "correct_answer": "How Abhijeet Dipke's spontaneous post grew into a youth protest movement and the challenges it now faces",
+      "explanation_hebrew": "הכתבה מתארת כיצד פוסט ספונטני של דיפקה הפך לתנועת מחאה ארצית, הביא להתפטרות שר, וכעת ניצב בפני מבחן ההמשכיות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What immediate event inspired Dipke's “What if all cockroaches come together?” post?",
+      "difficulty": "C",
+      "options": [
+        "A leaked medical exam paper",
+        "A police march towards parliament",
+        "The resignation of the education minister",
+        "The chief justice comparing some jobless youngsters to cockroaches"
+      ],
+      "correct_answer": "The chief justice comparing some jobless youngsters to cockroaches",
+      "explanation_hebrew": "הפוסט היה תגובה לדבריו של נשיא בית המשפט העליון, שהשווה צעירים חסרי עבודה לג'וקים; הוא טען אחר כך שדבריו פורשו לא נכון."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “galvanising support” mean in the account of Sonam Wangchuk's hunger strike?",
+      "difficulty": "C",
+      "options": [
+        "Forcing supporters to leave the protest",
+        "Creating legal protection for demonstrators",
+        "Energising and rallying more people behind the movement",
+        "Reducing the protest to an online discussion"
+      ],
+      "correct_answer": "Energising and rallying more people behind the movement",
+      "explanation_hebrew": "galvanising support פירושו לעורר, ללכד ולהניע אנשים נוספים לתמוך בתנועה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened after security forces used force on protesters on 20 July?",
+      "difficulty": "C",
+      "options": [
+        "The CJP immediately dissolved",
+        "The government permanently blocked all social media",
+        "Dipke returned to Boston and ended the campaign",
+        "Images of the clashes triggered wider support and protests spread to other cities"
+      ],
+      "correct_answer": "Images of the clashes triggered wider support and protests spread to other cities",
+      "explanation_hebrew": "התמונות של צעירים שנפגעו מכוח המשטרה גרמו לגל תמיכה; אלפים הגיעו והמחאות התרחבו לערים נוספות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did attempts to portray the CJP as representing a narrow interest gain relatively little traction?",
+      "difficulty": "C",
+      "options": [
+        "The movement focused on employment and an exam leak that affected students across caste and religious lines",
+        "The CJP was officially part of the governing BJP",
+        "Only government employees were allowed to join",
+        "The campaign avoided all discussion of education"
+      ],
+      "correct_answer": "The movement focused on employment and an exam leak that affected students across caste and religious lines",
+      "explanation_hebrew": "האבטלה והדלפת בחינת הקבלה נגעו לקבוצות רחבות של צעירים ומשפחות, וחצו גבולות של דת וקאסטה, ולכן היה קשה לצמצם את המחאה לזהות אחת."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “climbdown” mean when describing the education minister's resignation?",
+      "difficulty": "C",
+      "options": [
+        "A carefully planned election victory",
+        "A rise in the minister's public standing",
+        "A move from national to local office",
+        "A retreat or reversal under pressure"
+      ],
+      "correct_answer": "A retreat or reversal under pressure",
+      "explanation_hebrew": "climbdown הוא נסיגה מעמדה בעקבות לחץ; כאן הממשלה נאלצה לוותר במהירות ולהסכים להתפטרות השר."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Trace the main events from Dipke's social-media post to the education minister's resignation.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג רצף כרונולוגי ברור של הקמת CJP, המחאה סביב הבחינה, ההפגנות, תגובת הכוחות וההתפטרות.",
+      "expected_points": [
+        "Dipke posted the cockroach question on 16 May",
+        "The response led him and others to launch the satirical CJP",
+        "The campaign focused on anger over the leaked medical entrance exam",
+        "The first Jantar Mantar protest on 6 June drew hundreds",
+        "Support grew during Sonam Wangchuk's hunger strike",
+        "Security forces dispersed the 20 July march towards parliament",
+        "Images of force produced a surge of support and wider demonstrations",
+        "Protesters demanded Education Minister Dharmendra Pradhan's resignation",
+        "Pradhan stepped down on 25 July"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Analyse why Dipke's decision to return to India involved both political risk and a question of credibility.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את סיכוני המעצר או התגמול ואת החשש שאי־חזרה תיתפס כבגידה בתומכים.",
+      "expected_points": [
+        "His account and website had been withheld under Section 69A",
+        "Officials reportedly cited national-security concerns",
+        "Critical activists and journalists have faced questioning, cases or jail",
+        "A lawyer warned he could be detained without formal charge or trial under the NSA",
+        "His family feared imprisonment or attack",
+        "Remaining in the US could make followers feel betrayed",
+        "Returning allowed him to challenge the claim that he was a national-security threat",
+        "His presence strengthened his credibility as a movement leader"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the CJP's rise, its political achievement and the strategic questions it now confronts.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם באנגלית את מקור התנועה, התרחבותה, התפטרות השר והקשיים בבניית פעילות ארוכת טווח ורחבה.",
+      "expected_points": [
+        "The movement began with a spontaneous response to the chief justice's remark",
+        "It channelled youth anger over jobs and the leaked medical exam",
+        "Police force against protesters expanded public support",
+        "Opposition parties rallied behind it",
+        "The education minister resigned after sustained pressure",
+        "The CJP now describes itself as a pressure group beyond elections",
+        "Its new campaign concerns conditions in rural government schools",
+        "Its organisation remains loose and sometimes ad hoc",
+        "Critics question which caste and religious issues it chooses to address",
+        "Its long-term test is sustaining attention and public trust"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced analytical paragraph assessing whether the CJP can become a lasting accountability movement.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לטעון טענה מאוזנת באנגלית, להשתמש בראיות להצלחת התנועה ולציין לפחות שני אתגרים לעתידה.",
+      "expected_points": [
+        "Refer to the rapid growth from an online post to mass demonstrations",
+        "Use the minister's resignation as evidence of political influence",
+        "Mention the broad appeal of education and employment concerns",
+        "Consider the new rural-school campaign",
+        "Note the movement's loose or ad-hoc structure",
+        "Discuss the difficulty of sustaining public attention",
+        "Address criticism about contentious caste and religious issues",
+        "Reach a qualified conclusion rather than a simple yes-or-no claim"
+      ]
+    }
+  ]
+}

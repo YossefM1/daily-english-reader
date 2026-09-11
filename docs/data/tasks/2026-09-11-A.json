@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-11",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Alstom to build new battery-electric train fleet",
+  "article_url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A plan to build 29 battery-electric trains in Derby for TransPennine Express services",
+        "A decision to close every railway factory in Derby",
+        "A new underground railway connecting Manchester and London",
+        "A trial replacing passenger trains with electric buses"
+      ],
+      "correct_answer": "A plan to build 29 battery-electric trains in Derby for TransPennine Express services",
+      "explanation_hebrew": "הכתבה עוסקת בהזמנה של 29 רכבות חשמליות־סוללה שייבנו במפעל אלסטום בדרבי וישמשו את TransPennine Express."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When are the new trains expected to enter service?",
+      "difficulty": "A",
+      "options": [
+        "2028",
+        "2034",
+        "2026",
+        "2040"
+      ],
+      "correct_answer": "2034",
+      "explanation_hebrew": "העבודה אמורה להתחיל ב־2028, אך הרכבות צפויות להיכנס לשירות בשנת 2034."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “fleet” mean in the phrase “the fleet will transform journeys”?",
+      "difficulty": "A",
+      "options": [
+        "A railway station",
+        "A manufacturing contract",
+        "A group of trains operated together",
+        "A route across the Pennines"
+      ],
+      "correct_answer": "A group of trains operated together",
+      "explanation_hebrew": "fleet בהקשר זה הוא צי — קבוצה של רכבות המופעלות יחד."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which journey is expected to become up to 14 minutes shorter?",
+      "difficulty": "A",
+      "options": [
+        "Liverpool to Scarborough",
+        "Manchester to Leeds",
+        "Manchester Airport to Saltburn",
+        "Manchester to York"
+      ],
+      "correct_answer": "Manchester to York",
+      "explanation_hebrew": "לפי משרד התחבורה, זמן הנסיעה בין מנצ'סטר ליורק יתקצר בעד 14 דקות."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is the order especially important for Alstom's Derby factory?",
+      "difficulty": "A",
+      "options": [
+        "It supports jobs after 1,300 positions had recently been placed at risk",
+        "It allows the factory to move from Derby to China",
+        "It ends the need to manufacture trains in Britain",
+        "It replaces a cancelled contract for London buses"
+      ],
+      "correct_answer": "It supports jobs after 1,300 positions had recently been placed at risk",
+      "explanation_hebrew": "הכתבה מזכירה כי זמן קצר לפני חוזה קודם עמדו 1,300 משרות במפעל בסכנה; ההזמנה החדשה תומכת ביותר מ־350 משרות באלסטום."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “step-free boarding” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "Passengers must reserve every journey in advance",
+        "Passengers can board without a gap or step between platform and train",
+        "The train will stop at fewer stations",
+        "Only wheelchair users may enter through certain doors"
+      ],
+      "correct_answer": "Passengers can board without a gap or step between platform and train",
+      "explanation_hebrew": "הכתבה מגדירה step-free boarding כביטול המרווחים בין הרכבת לרציף, כדי להקל על העלייה לרכבת."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the timetable, location and ownership arrangement for the new trains.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין מתי מתחיל הייצור, מתי הרכבות נכנסות לשירות, היכן ייבנו, מי יקנה אותן ולמי יוחכרו.",
+      "expected_points": [
+        "Work is due to begin in 2028",
+        "The trains are expected to enter service in 2034",
+        "They will be built at Alstom's Litchurch Lane factory in Derby",
+        "Rock Rail will buy the trains",
+        "The trains will be leased to TransPennine Express"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how the project is intended to benefit both passengers and employment.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין השיפור בשירות לנוסעים לבין ההשקעה והמשרות במפעל ובשרשרת האספקה.",
+      "expected_points": [
+        "Journey times should fall on key northern routes",
+        "Capacity is expected to increase by 30%",
+        "Thousands of additional seats are planned each day",
+        "The trains are promised to be quieter, smoother and more reliable",
+        "More than 350 Alstom jobs are supported",
+        "A further 6,000 UK supply-chain jobs are supported"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the train order, its main passenger benefits and its economic importance.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לסכם באנגלית את ההזמנה, לוח הזמנים, השיפור הצפוי לנוסעים והתרומה למשרות.",
+      "expected_points": [
+        "The order covers 29 Adessia Stream battery-electric trains",
+        "The investment is worth almost £1bn",
+        "They will be built in Derby and enter service in 2034",
+        "They will serve routes across northern England",
+        "Capacity and journey times should improve",
+        "Accessibility, luggage space and Wi-Fi are promised",
+        "The project supports Alstom and supply-chain jobs"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short passenger announcement explaining what the new fleet will change, without suggesting that the trains are already in service.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב הודעה ברורה באנגלית בלשון עתיד, עם לוח זמנים, אזורי שירות ושיפורי נוחות ונגישות.",
+      "expected_points": [
+        "Use future language because service begins in 2034",
+        "Mention that 29 trains are planned",
+        "Identify northern TransPennine routes",
+        "Mention shorter or more reliable journeys",
+        "Include at least one accessibility feature",
+        "Include Wi-Fi, luggage, cycle or buggy storage",
+        "Avoid claiming the trains are currently operating"
+      ]
+    }
+  ]
+}
