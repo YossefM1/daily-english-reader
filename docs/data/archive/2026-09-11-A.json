@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-11",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Alstom to build new battery-electric train fleet",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-09-10T21:00:33+00:00",
+  "age_hours_at_selection": 5.19,
+  "word_count": 480,
+  "generated_at": "2026-09-11T02:11:44.335277+00:00",
+  "difficulty_reason": "Short, direct report on a rail investment with a clear storyline and mostly B1/B2 vocabulary; little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "fleet",
+      "lemma": "fleet",
+      "level": "B2",
+      "hebrew": "צי",
+      "explanation_hebrew": "קבוצה גדולה של כלי רכב, אוניות או רכבות המופעלים יחד",
+      "pronunciation_hebrew": "פְלִיט",
+      "example": "The company is buying a new fleet of electric buses."
+    },
+    {
+      "word": "reliable",
+      "lemma": "reliable",
+      "level": "B1",
+      "hebrew": "אמין",
+      "explanation_hebrew": "שאפשר לסמוך עליו שיעבוד היטב",
+      "pronunciation_hebrew": "רִילַייאָבֶּל",
+      "example": "We need a reliable car for long journeys."
+    },
+    {
+      "word": "factory",
+      "lemma": "factory",
+      "level": "B1",
+      "hebrew": "מפעל",
+      "explanation_hebrew": "מבנה שבו מייצרים מוצרים בכמות גדולה",
+      "pronunciation_hebrew": "פֶקְטוֹרִי",
+      "example": "She works at a car factory in the city."
+    },
+    {
+      "word": "investment",
+      "lemma": "investment",
+      "level": "B2",
+      "hebrew": "השקעה",
+      "explanation_hebrew": "כסף שמכניסים למשהו כדי להרוויח או לשפר אותו בעתיד",
+      "pronunciation_hebrew": "אִינְבֶסְטְמֶנְט",
+      "example": "The new road was a good investment for the town."
+    },
+    {
+      "word": "capacity",
+      "lemma": "capacity",
+      "level": "B2",
+      "hebrew": "קיבולת",
+      "explanation_hebrew": "הכמות המרבית שמשהו יכול להכיל או להעביר",
+      "pronunciation_hebrew": "קָפָּסִיטִי",
+      "example": "The stadium has a capacity of fifty thousand."
+    },
+    {
+      "word": "additional",
+      "lemma": "additional",
+      "level": "B2",
+      "hebrew": "נוסף",
+      "explanation_hebrew": "כזה שמתווסף למה שכבר קיים",
+      "pronunciation_hebrew": "אָדִישֶנַל",
+      "example": "We need additional chairs for the guests."
+    },
+    {
+      "word": "destinations",
+      "lemma": "destination",
+      "level": "B1",
+      "hebrew": "יעדים",
+      "explanation_hebrew": "המקומות שאליהם אנשים נוסעים",
+      "pronunciation_hebrew": "דֶסְטִינֵיישֶנְז",
+      "example": "Paris is one of the most popular travel destinations."
+    },
+    {
+      "word": "leased",
+      "lemma": "lease",
+      "level": "B2",
+      "hebrew": "הוחכר",
+      "explanation_hebrew": "הושכר לתקופה מסוימת תמורת תשלום",
+      "pronunciation_hebrew": "לִיסְד",
+      "example": "The trains are leased to a private operator."
+    },
+    {
+      "word": "contract",
+      "lemma": "contract",
+      "level": "B1",
+      "hebrew": "חוזה",
+      "explanation_hebrew": "הסכם רשמי בין שני צדדים",
+      "pronunciation_hebrew": "קוֹנְטְרֶקְט",
+      "example": "They signed a two-year contract."
+    },
+    {
+      "word": "redundancy",
+      "lemma": "redundancy",
+      "level": "C1",
+      "hebrew": "פיטורים",
+      "explanation_hebrew": "מצב שבו עובד מאבד את מקום עבודתו כי אין בו צורך",
+      "pronunciation_hebrew": "רִידַנְדֶנְסִי",
+      "example": "Hundreds of workers faced redundancy at the plant."
+    },
+    {
+      "word": "landmark",
+      "lemma": "landmark",
+      "level": "B2",
+      "hebrew": "ציון דרך",
+      "explanation_hebrew": "אירוע או הישג חשוב ומשמעותי",
+      "pronunciation_hebrew": "לֵנְדְמַרְק",
+      "example": "The deal was a landmark moment for the industry."
+    },
+    {
+      "word": "transform",
+      "lemma": "transform",
+      "level": "B2",
+      "hebrew": "לשנות מהיסוד",
+      "explanation_hebrew": "לשנות משהו באופן מוחלט",
+      "pronunciation_hebrew": "טְרַנְסְפוֹרְם",
+      "example": "New technology can transform how we travel."
+    },
+    {
+      "word": "innovation",
+      "lemma": "innovation",
+      "level": "B2",
+      "hebrew": "חדשנות",
+      "explanation_hebrew": "רעיון או שיטה חדשים ומקוריים",
+      "pronunciation_hebrew": "אִינוֹבֵיישֶן",
+      "example": "The firm is known for its innovation in design."
+    },
+    {
+      "word": "manufacturing",
+      "lemma": "manufacturing",
+      "level": "B2",
+      "hebrew": "ייצור",
+      "explanation_hebrew": "תהליך הכנת מוצרים במפעל",
+      "pronunciation_hebrew": "מַנְיוּפֶקְצֶ'רִינְג",
+      "example": "Manufacturing provides many jobs in the region."
+    },
+    {
+      "word": "accessibility",
+      "lemma": "accessibility",
+      "level": "C1",
+      "hebrew": "נגישות",
+      "explanation_hebrew": "היכולת של אנשים, כולל בעלי מוגבלויות, להשתמש במשהו",
+      "pronunciation_hebrew": "אַקְסֶסִיבִּילִיטִי",
+      "example": "The building was redesigned to improve accessibility."
+    },
+    {
+      "word": "elimination",
+      "lemma": "elimination",
+      "level": "C1",
+      "hebrew": "ביטול",
+      "explanation_hebrew": "הסרה מוחלטת של משהו",
+      "pronunciation_hebrew": "אֶלִימִינֵיישֶן",
+      "example": "The plan aims at the elimination of long delays."
+    },
+    {
+      "word": "dedicated",
+      "lemma": "dedicated",
+      "level": "B2",
+      "hebrew": "ייעודי",
+      "explanation_hebrew": "שמור או מיועד למטרה מסוימת בלבד",
+      "pronunciation_hebrew": "דֶדִיקֵייטֶד",
+      "example": "The train has dedicated spaces for wheelchairs."
+    },
+    {
+      "word": "commitment",
+      "lemma": "commitment",
+      "level": "B2",
+      "hebrew": "מחויבות",
+      "explanation_hebrew": "הבטחה או נכונות לעשות משהו",
+      "pronunciation_hebrew": "קוֹמִיטְמֶנְט",
+      "example": "The company made a commitment to reduce waste."
+    },
+    {
+      "word": "boasts",
+      "lemma": "boast",
+      "level": "C1",
+      "hebrew": "מתהדר ב",
+      "explanation_hebrew": "יש לו משהו מרשים שאפשר להתגאות בו",
+      "pronunciation_hebrew": "בּוֹסְטְס",
+      "example": "The city boasts a world-famous museum."
+    },
+    {
+      "word": "secured",
+      "lemma": "secure",
+      "level": "B2",
+      "hebrew": "השיג",
+      "explanation_hebrew": "קיבל או הבטיח משהו בהצלחה",
+      "pronunciation_hebrew": "סִיקְיוּרְד",
+      "example": "The team secured an important contract."
+    },
+    {
+      "word": "consultation",
+      "lemma": "consultation",
+      "level": "C1",
+      "hebrew": "היוועצות",
+      "explanation_hebrew": "תהליך של קבלת ייעוץ או חוות דעת",
+      "pronunciation_hebrew": "קוֹנְסַלְטֵיישֶן",
+      "example": "The change followed a public consultation."
+    },
+    {
+      "word": "luggage",
+      "lemma": "luggage",
+      "level": "B1",
+      "hebrew": "מטען",
+      "explanation_hebrew": "התיקים והמזוודות שנוסעים לוקחים איתם",
+      "pronunciation_hebrew": "לָאגֶ'ג",
+      "example": "There is plenty of space for luggage on the train."
+    },
+    {
+      "word": "smoother",
+      "lemma": "smooth",
+      "level": "B1",
+      "hebrew": "חלק יותר",
+      "explanation_hebrew": "נעים יותר, ללא זעזועים או הפרעות",
+      "pronunciation_hebrew": "סְמוּדֶ'ר",
+      "example": "The new road makes the drive much smoother."
+    },
+    {
+      "word": "supply",
+      "lemma": "supply",
+      "level": "B2",
+      "hebrew": "אספקה",
+      "explanation_hebrew": "הספקה של מוצרים או שירותים",
+      "pronunciation_hebrew": "סַפְּלַיי",
+      "example": "The factory is part of a large supply chain."
+    },
+    {
+      "word": "appointments",
+      "lemma": "appointment",
+      "level": "B1",
+      "hebrew": "פגישות",
+      "explanation_hebrew": "מפגשים מתוכננים מראש",
+      "pronunciation_hebrew": "אָפּוֹינְטְמֶנְטְס",
+      "example": "She missed two appointments this week."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "fleet",
+      "type": "english_to_hebrew",
+      "question": "What does “fleet” mean?",
+      "options": [
+        "מפעל",
+        "השקעה",
+        "אמין",
+        "צי"
+      ],
+      "correct_answer": "צי",
+      "explanation_hebrew": "“fleet” פירושו ‏«צי»‏."
+    },
+    {
+      "id": "A-q2",
+      "word": "reliable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«אמין»‏?",
+      "options": [
+        "investment",
+        "factory",
+        "reliable",
+        "capacity"
+      ],
+      "correct_answer": "reliable",
+      "explanation_hebrew": "‏«אמין»‏ באנגלית הוא “reliable”."
+    },
+    {
+      "id": "A-q3",
+      "word": "factory",
+      "type": "english_to_hebrew",
+      "question": "What does “factory” mean?",
+      "options": [
+        "השקעה",
+        "מפעל",
+        "קיבולת",
+        "נוסף"
+      ],
+      "correct_answer": "מפעל",
+      "explanation_hebrew": "“factory” פירושו ‏«מפעל»‏."
+    },
+    {
+      "id": "A-q4",
+      "word": "investment",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«השקעה»‏?",
+      "options": [
+        "additional",
+        "capacity",
+        "destinations",
+        "investment"
+      ],
+      "correct_answer": "investment",
+      "explanation_hebrew": "‏«השקעה»‏ באנגלית הוא “investment”."
+    },
+    {
+      "id": "A-q5",
+      "word": "capacity",
+      "type": "english_to_hebrew",
+      "question": "What does “capacity” mean?",
+      "options": [
+        "קיבולת",
+        "נוסף",
+        "הוחכר",
+        "יעדים"
+      ],
+      "correct_answer": "קיבולת",
+      "explanation_hebrew": "“capacity” פירושו ‏«קיבולת»‏."
+    },
+    {
+      "id": "A-q6",
+      "word": "additional",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«נוסף»‏?",
+      "options": [
+        "contract",
+        "additional",
+        "leased",
+        "destinations"
+      ],
+      "correct_answer": "additional",
+      "explanation_hebrew": "‏«נוסף»‏ באנגלית הוא “additional”."
+    },
+    {
+      "id": "A-q7",
+      "word": "destinations",
+      "type": "english_to_hebrew",
+      "question": "What does “destinations” mean?",
+      "options": [
+        "הוחכר",
+        "יעדים",
+        "פיטורים",
+        "חוזה"
+      ],
+      "correct_answer": "יעדים",
+      "explanation_hebrew": "“destinations” פירושו ‏«יעדים»‏."
+    },
+    {
+      "id": "A-q8",
+      "word": "leased",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«הוחכר»‏?",
+      "options": [
+        "leased",
+        "contract",
+        "redundancy",
+        "landmark"
+      ],
+      "correct_answer": "leased",
+      "explanation_hebrew": "‏«הוחכר»‏ באנגלית הוא “leased”."
+    },
+    {
+      "id": "A-q9",
+      "word": "contract",
+      "type": "english_to_hebrew",
+      "question": "What does “contract” mean?",
+      "options": [
+        "לשנות מהיסוד",
+        "פיטורים",
+        "חוזה",
+        "ציון דרך"
+      ],
+      "correct_answer": "חוזה",
+      "explanation_hebrew": "“contract” פירושו ‏«חוזה»‏."
+    },
+    {
+      "id": "A-q10",
+      "word": "redundancy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«פיטורים»‏?",
+      "options": [
+        "redundancy",
+        "innovation",
+        "transform",
+        "landmark"
+      ],
+      "correct_answer": "redundancy",
+      "explanation_hebrew": "‏«פיטורים»‏ באנגלית הוא “redundancy”."
+    },
+    {
+      "id": "A-q11",
+      "word": "landmark",
+      "type": "english_to_hebrew",
+      "question": "What does “landmark” mean?",
+      "options": [
+        "ציון דרך",
+        "ייצור",
+        "לשנות מהיסוד",
+        "חדשנות"
+      ],
+      "correct_answer": "ציון דרך",
+      "explanation_hebrew": "“landmark” פירושו ‏«ציון דרך»‏."
+    },
+    {
+      "id": "A-q12",
+      "word": "transform",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«לשנות מהיסוד»‏?",
+      "options": [
+        "innovation",
+        "accessibility",
+        "transform",
+        "manufacturing"
+      ],
+      "correct_answer": "transform",
+      "explanation_hebrew": "‏«לשנות מהיסוד»‏ באנגלית הוא “transform”."
+    },
+    {
+      "id": "A-q13",
+      "word": "innovation",
+      "type": "english_to_hebrew",
+      "question": "What does “innovation” mean?",
+      "options": [
+        "ביטול",
+        "חדשנות",
+        "נגישות",
+        "ייצור"
+      ],
+      "correct_answer": "חדשנות",
+      "explanation_hebrew": "“innovation” פירושו ‏«חדשנות»‏."
+    },
+    {
+      "id": "A-q14",
+      "word": "manufacturing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«ייצור»‏?",
+      "options": [
+        "manufacturing",
+        "dedicated",
+        "accessibility",
+        "elimination"
+      ],
+      "correct_answer": "manufacturing",
+      "explanation_hebrew": "‏«ייצור»‏ באנגלית הוא “manufacturing”."
+    },
+    {
+      "id": "A-q15",
+      "word": "accessibility",
+      "type": "english_to_hebrew",
+      "question": "What does “accessibility” mean?",
+      "options": [
+        "ביטול",
+        "מחויבות",
+        "ייעודי",
+        "נגישות"
+      ],
+      "correct_answer": "נגישות",
+      "explanation_hebrew": "“accessibility” פירושו ‏«נגישות»‏."
+    },
+    {
+      "id": "A-q16",
+      "word": "elimination",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«ביטול»‏?",
+      "options": [
+        "dedicated",
+        "commitment",
+        "boasts",
+        "elimination"
+      ],
+      "correct_answer": "elimination",
+      "explanation_hebrew": "‏«ביטול»‏ באנגלית הוא “elimination”."
+    },
+    {
+      "id": "A-q17",
+      "word": "dedicated",
+      "type": "english_to_hebrew",
+      "question": "What does “dedicated” mean?",
+      "options": [
+        "השיג",
+        "ייעודי",
+        "מחויבות",
+        "מתהדר ב"
+      ],
+      "correct_answer": "ייעודי",
+      "explanation_hebrew": "“dedicated” פירושו ‏«ייעודי»‏."
+    },
+    {
+      "id": "A-q18",
+      "word": "commitment",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«מחויבות»‏?",
+      "options": [
+        "consultation",
+        "secured",
+        "boasts",
+        "commitment"
+      ],
+      "correct_answer": "commitment",
+      "explanation_hebrew": "‏«מחויבות»‏ באנגלית הוא “commitment”."
+    },
+    {
+      "id": "A-q19",
+      "word": "boasts",
+      "type": "english_to_hebrew",
+      "question": "What does “boasts” mean?",
+      "options": [
+        "השיג",
+        "היוועצות",
+        "מתהדר ב",
+        "מטען"
+      ],
+      "correct_answer": "מתהדר ב",
+      "explanation_hebrew": "“boasts” פירושו ‏«מתהדר ב»‏."
+    },
+    {
+      "id": "A-q20",
+      "word": "secured",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«השיג»‏?",
+      "options": [
+        "luggage",
+        "secured",
+        "consultation",
+        "smoother"
+      ],
+      "correct_answer": "secured",
+      "explanation_hebrew": "‏«השיג»‏ באנגלית הוא “secured”."
+    },
+    {
+      "id": "A-q21",
+      "word": "consultation",
+      "type": "english_to_hebrew",
+      "question": "What does “consultation” mean?",
+      "options": [
+        "אספקה",
+        "היוועצות",
+        "חלק יותר",
+        "מטען"
+      ],
+      "correct_answer": "היוועצות",
+      "explanation_hebrew": "“consultation” פירושו ‏«היוועצות»‏."
+    },
+    {
+      "id": "A-q22",
+      "word": "luggage",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«מטען»‏?",
+      "options": [
+        "luggage",
+        "smoother",
+        "supply",
+        "appointments"
+      ],
+      "correct_answer": "luggage",
+      "explanation_hebrew": "‏«מטען»‏ באנגלית הוא “luggage”."
+    },
+    {
+      "id": "A-q23",
+      "word": "smoother",
+      "type": "english_to_hebrew",
+      "question": "What does “smoother” mean?",
+      "options": [
+        "חלק יותר",
+        "אספקה",
+        "פגישות",
+        "צי"
+      ],
+      "correct_answer": "חלק יותר",
+      "explanation_hebrew": "“smoother” פירושו ‏«חלק יותר»‏."
+    },
+    {
+      "id": "A-q24",
+      "word": "supply",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‏«אספקה»‏?",
+      "options": [
+        "fleet",
+        "reliable",
+        "appointments",
+        "supply"
+      ],
+      "correct_answer": "supply",
+      "explanation_hebrew": "‏«אספקה»‏ באנגלית הוא “supply”."
+    },
+    {
+      "id": "A-q25",
+      "word": "appointments",
+      "type": "english_to_hebrew",
+      "question": "What does “appointments” mean?",
+      "options": [
+        "מפעל",
+        "אמין",
+        "פגישות",
+        "צי"
+      ],
+      "correct_answer": "פגישות",
+      "explanation_hebrew": "“appointments” פירושו ‏«פגישות»‏."
+    }
+  ]
+}
