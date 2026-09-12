@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-12",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "US Open 2026 results: Alexander Zverev beats Karen Khachanov to reach final",
+  "article_url": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Alexander Zverev defeating Karen Khachanov to reach another US Open final",
+        "Karen Khachanov winning his first Grand Slam title",
+        "Jannik Sinner withdrawing during the US Open final",
+        "Ben Shelton beating Zverev in five sets"
+      ],
+      "correct_answer": "Alexander Zverev defeating Karen Khachanov to reach another US Open final",
+      "explanation_hebrew": "הכתבה מתארת את ניצחונו של זברב על חצ'אנוב בשלוש מערכות ואת עלייתו לגמר אליפות ארצות הברית."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was the final score of Zverev's semi-final victory?",
+      "difficulty": "A",
+      "options": [
+        "6-4 6-4 6-4",
+        "6-3 7-6 (9-7) 7-6 (8-6)",
+        "7-5 3-6 6-2 6-1",
+        "6-2 6-2 4-6 7-5"
+      ],
+      "correct_answer": "6-3 7-6 (9-7) 7-6 (8-6)",
+      "explanation_hebrew": "זברב ניצח 6‑3, 7‑6 בשובר שוויון 9‑7, ו־7‑6 בשובר שוויון 8‑6."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “commanding performance” mean in the report?",
+      "difficulty": "A",
+      "options": [
+        "A match stopped by an official order",
+        "A performance based only on powerful serves",
+        "A convincing display in which the player was largely in control",
+        "A poor display that required five sets"
+      ],
+      "correct_answer": "A convincing display in which the player was largely in control",
+      "explanation_hebrew": "commanding performance פירושו הופעה משכנעת ודומיננטית שבה השחקן שלט ברוב המשחק."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who will Zverev face in Sunday's final?",
+      "difficulty": "A",
+      "options": [
+        "Jannik Sinner",
+        "Carlos Alcaraz",
+        "Dominic Thiem",
+        "The winner of Ben Shelton against Frances Tiafoe"
+      ],
+      "correct_answer": "The winner of Ben Shelton against Frances Tiafoe",
+      "explanation_hebrew": "היריב בגמר יהיה המנצח בחצי הגמר בין בן שלטון לפרנסס טיאפו."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What best shows that Zverev improved during the tournament?",
+      "difficulty": "A",
+      "options": [
+        "He needed five sets in each of his first two matches but has not lost a set since",
+        "He changed from playing singles to doubles",
+        "He withdrew from the French Open to prepare",
+        "He lost the first set against Khachanov and then retired"
+      ],
+      "correct_answer": "He needed five sets in each of his first two matches but has not lost a set since",
+      "explanation_hebrew": "בתחילת הטורניר זברב התקשה ונגרר לחמש מערכות בשני משחקים, אך מאז לא הפסיד מערכה — סימן ברור לשיפור."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “pivotal point” mean when describing the second-set tie-break?",
+      "difficulty": "A",
+      "options": [
+        "A point replayed because of a technical fault",
+        "A crucial moment that strongly influenced the match",
+        "The first point played at the net",
+        "A point that had no effect on the result"
+      ],
+      "correct_answer": "A crucial moment that strongly influenced the match",
+      "explanation_hebrew": "pivotal point הוא רגע מכריע ששינה או השפיע מאוד על מהלך המשחק."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe Zverev's results at the three most recent Grand Slam tournaments mentioned in the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את הזכייה ברולאן גארוס, ההפסד בגמר וימבלדון והעלייה לגמר אליפות ארצות הברית.",
+      "expected_points": [
+        "He won the French Open in June",
+        "It was his first Grand Slam title",
+        "He reached the Wimbledon final in July",
+        "He lost the Wimbledon final to Jannik Sinner in four sets",
+        "He has now reached the US Open final",
+        "This is his third Grand Slam final in a row"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how Zverev handled the most dangerous moments against Khachanov.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להתייחס ללחץ בשוברי השוויון, להצלת נקודות המערכה ולשימוש בהגנה וביוזמה.",
+      "expected_points": [
+        "Khachanov forced tie-breaks in the second and third sets",
+        "Zverev took the initiative at a key point in the second-set tie-break",
+        "He outlasted Khachanov with strong baseline defence",
+        "He saved two set points in the third-set tie-break",
+        "He remained composed after Khachanov took the early tie-break lead",
+        "He clinched the match when Khachanov hit a forehand long"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Zverev's semi-final win and why it matters in his 2026 season.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לסכם באנגלית את התוצאה, מהלך המשחק, הישגיו השנה והיריב האפשרי בגמר.",
+      "expected_points": [
+        "Zverev beat Khachanov in straight sets",
+        "Two sets were decided by tie-breaks",
+        "He saved two set points in the third set",
+        "He has reached three consecutive Grand Slam finals",
+        "He won the French Open and was Wimbledon runner-up",
+        "He is seeking a second major title of the year",
+        "He will face Shelton or Tiafoe in the final"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short sports update announcing Zverev's victory and previewing the final.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב עדכון קצר וברור באנגלית הכולל תוצאה, הישג עונתי, יריב אפשרי ופרט אחד על יכולתו במשחק.",
+      "expected_points": [
+        "State that Zverev reached the US Open final",
+        "Give the straight-sets score",
+        "Mention that this is his third consecutive major final",
+        "Refer to his French Open title or Wimbledon final",
+        "Name Shelton and Tiafoe as the possible opponents",
+        "Include one match detail such as saved set points, serving or net play",
+        "Use an appropriate sports-news tone"
+      ]
+    }
+  ]
+}

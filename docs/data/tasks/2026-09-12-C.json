@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-12",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "MPs vote against fresh attempt to legalise assisted dying",
+  "article_url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central development reported in the article?",
+      "difficulty": "C",
+      "options": [
+        "The House of Lords approved an assisted-dying law",
+        "The government made assisted dying a party-policy issue",
+        "MPs rejected a new assisted-dying bill, ending this attempt to change the law",
+        "The courts ordered Parliament to hold another vote"
+      ],
+      "correct_answer": "MPs rejected a new assisted-dying bill, ending this attempt to change the law",
+      "explanation_hebrew": "בית הנבחרים דחה את הצעת החוק, ולכן הניסיון הנוכחי לשנות את החוק באנגליה ובוויילס הסתיים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was the result of the House of Commons vote?",
+      "difficulty": "C",
+      "options": [
+        "270 to 286 in favour",
+        "286 to 270 against, a majority of 16",
+        "300 to 256 against, a majority of 44",
+        "A tie that was decided by the Speaker"
+      ],
+      "correct_answer": "286 to 270 against, a majority of 16",
+      "explanation_hebrew": "286 חברי פרלמנט הצביעו נגד ו־270 בעד, ולכן ההצעה נפלה ברוב של 16."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “free vote” mean in this parliamentary debate?",
+      "difficulty": "C",
+      "options": [
+        "The public could vote without registering",
+        "MPs voted without attending the Commons",
+        "The vote had no legal consequences",
+        "MPs were not required to follow party lines"
+      ],
+      "correct_answer": "MPs were not required to follow party lines",
+      "explanation_hebrew": "free vote הוא הצבעה שבה חברי הפרלמנט רשאים להצביע לפי שיקול דעתם ולא לפי משמעת מפלגתית."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which safeguards were included in the proposed bill?",
+      "difficulty": "C",
+      "options": [
+        "Approval by two doctors and an expert panel",
+        "Approval by one relative and a local councillor",
+        "A nationwide referendum for every application",
+        "Automatic approval after a six-month wait"
+      ],
+      "correct_answer": "Approval by two doctors and an expert panel",
+      "explanation_hebrew": "הצעת החוק דרשה אישור של שני רופאים ושל פאנל מומחים לבקשה לסיוע במוות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article suggest the issue is likely to return to Parliament?",
+      "difficulty": "C",
+      "options": [
+        "The vote automatically requires a second reading next week",
+        "The House of Lords can enact the rejected bill alone",
+        "Supporters and senior figures say another proposal may be introduced in a future session",
+        "The prime minister ordered MPs to reverse their votes"
+      ],
+      "correct_answer": "Supporters and senior figures say another proposal may be introduced in a future session",
+      "explanation_hebrew": "למרות הדחייה, תומכים ובהם קים לידביטר ולורד בלנקט אמרו שהסוגיה לא נעלמת ושייתכן ניסיון נוסף כבר בשנה הבאה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “coerced” mean in critics' warning about vulnerable people?",
+      "difficulty": "C",
+      "options": [
+        "Given additional medical care",
+        "Protected by a panel",
+        "Allowed to change their minds",
+        "Pressured or forced into a decision"
+      ],
+      "correct_answer": "Pressured or forced into a decision",
+      "explanation_hebrew": "coerced פירושו להיות נתון ללחץ או כפייה; המתנגדים חששו שאנשים פגיעים יידחפו לסיים את חייהם."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the parliamentary progress of the previous bill with Lauren Edwards's new proposal.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשוות בין האישור הקודם בבית הנבחרים, העיכוב בבית הלורדים, הניסיון המחודש והדחייה הנוכחית.",
+      "expected_points": [
+        "Kim Leadbeater's earlier bill passed the Commons on 20 June 2025",
+        "It passed with a majority of 23",
+        "It stalled and ran out of time in the House of Lords",
+        "Peers had tabled more than 1,200 amendments",
+        "Lauren Edwards reintroduced proposals so peers could finish scrutiny",
+        "The new bill was rejected at its second reading",
+        "The 2026 vote was 286 to 270 against",
+        "The current bill will make no further progress"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain the main ethical and practical disagreement between supporters and opponents described in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג באופן מאוזן את טיעוני הבחירה והסבל מול חששות הכפייה, הבטיחות והעדיפות לטיפול פליאטיבי.",
+      "expected_points": [
+        "Supporters argue terminally ill adults should have choice and control",
+        "They say some suffering cannot be relieved by palliative care",
+        "They argue the existing law leaves people without safeguards",
+        "Opponents fear vulnerable people could be coerced",
+        "Critics say the bill's safeguards were insufficient",
+        "Medical and professional bodies were said not to attest to its safety or workability",
+        "Opponents prioritise improving NHS, social and palliative care",
+        "Some fear legalisation would alter the doctor-patient relationship"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the bill, the vote and the principal arguments on both sides.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם באנגלית את תנאי הזכאות וההגנות, תוצאת ההצבעה, טיעוני שני המחנות ומה צפוי בהמשך.",
+      "expected_points": [
+        "The bill covered terminally ill adults expected to live fewer than six months",
+        "Applicants would need approval from two doctors and an expert panel",
+        "MPs had a free vote",
+        "The Commons rejected the bill 286 to 270",
+        "Supporters emphasised autonomy and relief from suffering",
+        "Opponents emphasised coercion risks and inadequate safeguards",
+        "Some opponents called for better palliative care first",
+        "This attempt is over in the short term",
+        "Supporters may introduce another bill in a future session"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a neutral parliamentary briefing explaining the vote and why the debate remains unresolved.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית תדריך עובדתי ומאוזן, ללא נקיטת עמדה, הכולל את ההצעה, ההצבעה, ההגנות, הביקורת והאפשרות לניסיון נוסף.",
+      "expected_points": [
+        "Identify the Terminally Ill Adults (End of Life) Bill",
+        "State the eligibility threshold of fewer than six months to live",
+        "Describe the two-doctor and expert-panel safeguards",
+        "Report the 286-to-270 rejection and majority of 16",
+        "Explain that MPs had a free vote",
+        "Present supporters' arguments fairly",
+        "Present opponents' arguments fairly",
+        "Clarify that the proposal will not progress now",
+        "Note that future legislation remains possible",
+        "Maintain neutral language throughout"
+      ]
+    }
+  ]
+}

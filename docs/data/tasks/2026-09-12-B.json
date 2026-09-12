@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-12",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Zoos help to save snail found in only one lake in Wales",
+  "article_url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "A plan to remove all snails from Welsh lakes",
+        "A conservation project creating zoo populations to save the rare glutinous snail",
+        "A new Egyptian artefact discovered in Eryri",
+        "A study showing that algae have disappeared from Britain"
+      ],
+      "correct_answer": "A conservation project creating zoo populations to save the rare glutinous snail",
+      "explanation_hebrew": "הכתבה עוסקת במאמץ של משפחת יוז, גני חיות וארגוני שימור ליצור אוכלוסיות גיבוי ולהציל את החילזון הדביק."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where is the glutinous snail's last known wild refuge in the UK?",
+      "difficulty": "B",
+      "options": [
+        "The River Thames",
+        "A pond at Dudley Zoo",
+        "Llyn Tegid in Eryri National Park",
+        "A greenhouse in Kent"
+      ],
+      "correct_answer": "Llyn Tegid in Eryri National Park",
+      "explanation_hebrew": "המפלט הטבעי האחרון הידוע של המין בבריטניה הוא אגם לין טגיד שבפארק הלאומי ארירי בוויילס."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is an “ark population” in this conservation project?",
+      "difficulty": "B",
+      "options": [
+        "A collection of ancient objects kept in a museum",
+        "A group of animals transported only by boat",
+        "A backup captive population kept safe away from the single wild site",
+        "A population that is too large for its habitat"
+      ],
+      "correct_answer": "A backup captive population kept safe away from the single wild site",
+      "explanation_hebrew": "ark population היא אוכלוסיית גיבוי בשבי, שנועדה להפחית את הסיכון שכל המין תלוי באתר טבעי יחיד."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What breakthrough occurred four months after Hughes set up his captive population?",
+      "difficulty": "B",
+      "options": [
+        "The snails grew larger than a hand",
+        "The lake was declared pollution-free",
+        "A new species of beetle was discovered",
+        "Eggs appeared in the tank"
+      ],
+      "correct_answer": "Eggs appeared in the tank",
+      "explanation_hebrew": "לאחר ארבעה חודשים נמצאו ביצים במכל — פריצת דרך, משום שלדברי יוז איש לא ראה קודם ביצים של המין באופן מודע."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Hughes say that having “all your eggs in one basket” is dangerous?",
+      "difficulty": "B",
+      "options": [
+        "A disease or environmental event at one site could threaten the entire population",
+        "Snail eggs cannot survive in zoo ponds",
+        "The family wants to stop breeding snails",
+        "The species can live only in Egyptian museums"
+      ],
+      "correct_answer": "A disease or environmental event at one site could threaten the entire population",
+      "explanation_hebrew": "כאשר כל החילזונות מרוכזים במקום אחד, אירוע מקומי עלול לפגוע בכולם; פיזורם בין גני חיות מפחית את הסיכון."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “fathom what it needs” mean in Hughes's description of early breeding work?",
+      "difficulty": "B",
+      "options": [
+        "Measure the lake's depth exactly",
+        "Understand the snail's requirements",
+        "Count every snail in England",
+        "Move the species to deeper water"
+      ],
+      "correct_answer": "Understand the snail's requirements",
+      "explanation_hebrew": "fathom בהקשר זה פירושו להבין לעומק מה החילזון צריך כדי לשרוד ולהתרבות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the work Ian Hughes carried out before zoos joined the project.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין את האיסוף ברישיון, המחקר באגם, בניית המחסות, גידול האוכלוסייה בשבי והצלחת הרבייה.",
+      "expected_points": [
+        "He has collected and studied the snails under licence since 2014",
+        "He waded into Llyn Tegid to find them",
+        "He designed and installed concrete shelters in the lake",
+        "He created a captive population in a greenhouse at home",
+        "He used homemade tanks in his garden",
+        "Eggs appeared after four months",
+        "The captive population grew to about 2,000 snails"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why zoos are useful partners in preparing for a future reintroduction.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין פיזור הסיכון, מתקני הרבייה, המומחיות והמחקר הנדרש לפני השבה לטבע.",
+      "expected_points": [
+        "Zoos create separate backup populations",
+        "They reduce dependence on the single population at Llyn Tegid",
+        "They provide controlled ponds and specialist care",
+        "They can breed the snails and study environmental needs",
+        "Partners are researching ecology, husbandry and genetics",
+        "Research can help identify suitable release sites",
+        "A stronger evidence base makes reintroduction safer"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why the glutinous snail is threatened and how conservationists plan to save it.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לסכם באנגלית את מצב המין, הסיבות להיעלמותו, עבודת משפחת יוז ותוכנית גני החיות.",
+      "expected_points": [
+        "The snail was once widespread but is now extinct across England",
+        "Its last known UK wild site is Llyn Tegid",
+        "Pollution and habitat loss drove its decline",
+        "Climate change adds further risk",
+        "Ian Hughes established a successful captive population",
+        "Zoos are creating ark populations",
+        "Researchers will study breeding, ecology and genetics",
+        "Suitable wild sites are being sought for possible reintroduction",
+        "Reintroduction may be possible within about three years"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short visitor-panel text explaining why a tiny snail deserves conservation support.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית טקסט נגיש ומשכנע הכולל את ייחוד המין, תפקידו האקולוגי, האיומים והפעולות להצלתו.",
+      "expected_points": [
+        "Name the glutinous snail or Myxas glutinosa",
+        "Explain that it survives naturally at only one known UK site",
+        "Mention its role as an indicator of healthy waters",
+        "Describe pollution, habitat loss or climate change as threats",
+        "Explain the purpose of zoo ark populations",
+        "Mention the aim of eventual reintroduction",
+        "Use clear, engaging language for the public"
+      ]
+    }
+  ]
+}
