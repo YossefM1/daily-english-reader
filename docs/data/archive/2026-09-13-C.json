@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-13",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o",
+  "published_at": "2026-09-12T21:16:47+00:00",
+  "age_hours_at_selection": 4.94,
+  "word_count": 1200,
+  "generated_at": "2026-09-13T02:13:03.716496+00:00",
+  "difficulty_reason": "Longer analytical piece on AI policy with dense argument, quotations and abstract ideas; B2/C1/C2 vocabulary and background on the tech industry needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "monitored",
+      "lemma": "monitor",
+      "level": "B2",
+      "hebrew": "מנוטר, מפוקח",
+      "explanation_hebrew": "נבדק ומעקב אחריו לאורך זמן",
+      "pronunciation_hebrew": "מוֹנִיטֶרְד",
+      "example": "AI models should be closely monitored."
+    },
+    {
+      "word": "essay",
+      "lemma": "essay",
+      "level": "B2",
+      "hebrew": "מסה, חיבור",
+      "explanation_hebrew": "טקסט כתוב שמביע דעה בנושא",
+      "pronunciation_hebrew": "אֶסֵיי",
+      "example": "He explained his views in an essay."
+    },
+    {
+      "word": "associated",
+      "lemma": "associate",
+      "level": "B2",
+      "hebrew": "קשור, כרוך",
+      "explanation_hebrew": "שיש לו קשר לדבר אחר",
+      "pronunciation_hebrew": "אַסוֹסִיאֵייטֶד",
+      "example": "The risks associated with AI are serious."
+    },
+    {
+      "word": "potential",
+      "lemma": "potential",
+      "level": "B2",
+      "hebrew": "פוטנציאלי, אפשרי",
+      "explanation_hebrew": "שעשוי לקרות או להתפתח בעתיד",
+      "pronunciation_hebrew": "פּוֹטֶנְשֶל",
+      "example": "He warned of the technology's potential risks."
+    },
+    {
+      "word": "immediate",
+      "lemma": "immediate",
+      "level": "B2",
+      "hebrew": "מיידי",
+      "explanation_hebrew": "שקורה מיד או בקרוב מאוד",
+      "pronunciation_hebrew": "אִימִידְיֶט",
+      "example": "They fear danger in the immediate future."
+    },
+    {
+      "word": "extinction",
+      "lemma": "extinction",
+      "level": "C1",
+      "hebrew": "הכחדה",
+      "explanation_hebrew": "היעלמות מוחלטת של מין או קבוצה",
+      "pronunciation_hebrew": "אֶקְסְטִינְקְשְן",
+      "example": "Some fear human extinction."
+    },
+    {
+      "word": "exaggeration",
+      "lemma": "exaggeration",
+      "level": "C1",
+      "hebrew": "הגזמה",
+      "explanation_hebrew": "הצגת דבר כגדול או חמור מכפי שהוא",
+      "pronunciation_hebrew": "אֶגְזַגֶ'רֵיישְן",
+      "example": "He said it was not an exaggeration."
+    },
+    {
+      "word": "probability",
+      "lemma": "probability",
+      "level": "B2",
+      "hebrew": "הסתברות, סבירות",
+      "explanation_hebrew": "הסיכוי שדבר יקרה",
+      "pronunciation_hebrew": "פְּרוֹבַּבִּילִיטִי",
+      "example": "They estimate a probability of disaster."
+    },
+    {
+      "word": "proposed",
+      "lemma": "propose",
+      "level": "B2",
+      "hebrew": "הציע",
+      "explanation_hebrew": "העלה רעיון או תכנית לדיון",
+      "pronunciation_hebrew": "פְּרוֹפּוֹוזְד",
+      "example": "He proposed a three-point plan."
+    },
+    {
+      "word": "regulation",
+      "lemma": "regulation",
+      "level": "B2",
+      "hebrew": "רגולציה, פיקוח",
+      "explanation_hebrew": "כללים רשמיים המסדירים תחום",
+      "pronunciation_hebrew": "רֶגְיוּלֵיישְן",
+      "example": "He called for global regulation."
+    },
+    {
+      "word": "competitors",
+      "lemma": "competitor",
+      "level": "B2",
+      "hebrew": "מתחרים",
+      "explanation_hebrew": "גופים המתחרים באותו שוק",
+      "pronunciation_hebrew": "קוֹמְפֶּטִיטֶרְז",
+      "example": "Even competitors backed the idea."
+    },
+    {
+      "word": "evaluators",
+      "lemma": "evaluator",
+      "level": "C1",
+      "hebrew": "מעריכים, בוחנים",
+      "explanation_hebrew": "גורמים הבודקים ומעריכים דבר",
+      "pronunciation_hebrew": "אִיוַלְיוּאֵייטֶרְז",
+      "example": "Independent evaluators could check the models."
+    },
+    {
+      "word": "capabilities",
+      "lemma": "capability",
+      "level": "B2",
+      "hebrew": "יכולות",
+      "explanation_hebrew": "הדברים שמשהו מסוגל לעשות",
+      "pronunciation_hebrew": "קֵייפַּבִּילִיטִיז",
+      "example": "The models showed powerful capabilities."
+    },
+    {
+      "word": "exhibited",
+      "lemma": "exhibit",
+      "level": "C1",
+      "hebrew": "הפגין, הציג",
+      "explanation_hebrew": "הראה תכונה או התנהגות",
+      "pronunciation_hebrew": "אֶגְזִיבִּיטֶד",
+      "example": "New models exhibited hacking skills."
+    },
+    {
+      "word": "withheld",
+      "lemma": "withhold",
+      "level": "C1",
+      "hebrew": "מנע, עיכב",
+      "explanation_hebrew": "לא נתן או לא שחרר משהו",
+      "pronunciation_hebrew": "וִידְהֶלְד",
+      "example": "The company withheld the model from the public."
+    },
+    {
+      "word": "rivalry",
+      "lemma": "rivalry",
+      "level": "C1",
+      "hebrew": "יריבות",
+      "explanation_hebrew": "תחרות מתמשכת בין שני צדדים",
+      "pronunciation_hebrew": "רַייבַלְרִי",
+      "example": "There is a rivalry between the two firms."
+    },
+    {
+      "word": "drastically",
+      "lemma": "drastically",
+      "level": "C1",
+      "hebrew": "באופן דרסטי",
+      "explanation_hebrew": "באופן קיצוני ומהיר",
+      "pronunciation_hebrew": "דְרַסְטִיקְלִי",
+      "example": "AI has advanced drastically faster."
+    },
+    {
+      "word": "devoted",
+      "lemma": "devoted",
+      "level": "B2",
+      "hebrew": "מסור",
+      "explanation_hebrew": "נאמן ומחויב מאוד למטרה",
+      "pronunciation_hebrew": "דִיווֹוטֶד",
+      "example": "The agents acted like a devoted group."
+    },
+    {
+      "word": "adequate",
+      "lemma": "adequate",
+      "level": "B2",
+      "hebrew": "מספיק, הולם",
+      "explanation_hebrew": "מספיק לצורך מסוים",
+      "pronunciation_hebrew": "אַדֶקְוֶט",
+      "example": "Companies must take adequate time."
+    },
+    {
+      "word": "safeguard",
+      "lemma": "safeguard",
+      "level": "C1",
+      "hebrew": "להגן על",
+      "explanation_hebrew": "לשמור מפני נזק או סכנה",
+      "pronunciation_hebrew": "סֵייפְגַארְד",
+      "example": "They must safeguard their models."
+    },
+    {
+      "word": "unilaterally",
+      "lemma": "unilaterally",
+      "level": "C2",
+      "hebrew": "באופן חד-צדדי",
+      "explanation_hebrew": "בפעולה של צד אחד בלבד",
+      "pronunciation_hebrew": "יוּנִילַטֶרַלִי",
+      "example": "He committed the company unilaterally."
+    },
+    {
+      "word": "frontier",
+      "lemma": "frontier",
+      "level": "C1",
+      "hebrew": "חזית, גבול הידע",
+      "explanation_hebrew": "הגבול הקדמי של התפתחות או ידע",
+      "pronunciation_hebrew": "פְרוֹנְטִיר",
+      "example": "He urged firms to pace the frontier."
+    },
+    {
+      "word": "voluntarily",
+      "lemma": "voluntarily",
+      "level": "C1",
+      "hebrew": "מרצון",
+      "explanation_hebrew": "מתוך בחירה חופשית ולא בכפייה",
+      "pronunciation_hebrew": "ווֹלַנְטֶרִילִי",
+      "example": "Companies could voluntarily cooperate."
+    },
+    {
+      "word": "authoritarian",
+      "lemma": "authoritarian",
+      "level": "C1",
+      "hebrew": "סמכותני, רודני",
+      "explanation_hebrew": "הכופה שלטון נוקשה ללא חופש",
+      "pronunciation_hebrew": "אוֹתוֹרִיטֶריאֶן",
+      "example": "He warned against sharing tech with authoritarian countries."
+    },
+    {
+      "word": "consolidating",
+      "lemma": "consolidate",
+      "level": "C2",
+      "hebrew": "מרכז, מבצר",
+      "explanation_hebrew": "מאחד ומחזק כוח או שליטה",
+      "pronunciation_hebrew": "קוֹנְסוֹלִידֵייטִינְג",
+      "example": "Critics said he was consolidating control."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "monitored",
+      "type": "english_to_hebrew",
+      "question": "What does “monitored” mean?",
+      "options": [
+        "מסה, חיבור",
+        "פוטנציאלי, אפשרי",
+        "קשור, כרוך",
+        "מנוטר, מפוקח"
+      ],
+      "correct_answer": "מנוטר, מפוקח",
+      "explanation_hebrew": "“monitored” פירושו בעברית: מנוטר, מפוקח."
+    },
+    {
+      "id": "C-q2",
+      "word": "essay",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מסה, חיבור”?",
+      "options": [
+        "immediate",
+        "associated",
+        "potential",
+        "essay"
+      ],
+      "correct_answer": "essay",
+      "explanation_hebrew": "המילה “essay” פירושה מסה, חיבור."
+    },
+    {
+      "id": "C-q3",
+      "word": "associated",
+      "type": "english_to_hebrew",
+      "question": "What does “associated” mean?",
+      "options": [
+        "מיידי",
+        "קשור, כרוך",
+        "פוטנציאלי, אפשרי",
+        "הכחדה"
+      ],
+      "correct_answer": "קשור, כרוך",
+      "explanation_hebrew": "“associated” פירושו בעברית: קשור, כרוך."
+    },
+    {
+      "id": "C-q4",
+      "word": "potential",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פוטנציאלי, אפשרי”?",
+      "options": [
+        "potential",
+        "immediate",
+        "extinction",
+        "exaggeration"
+      ],
+      "correct_answer": "potential",
+      "explanation_hebrew": "המילה “potential” פירושה פוטנציאלי, אפשרי."
+    },
+    {
+      "id": "C-q5",
+      "word": "immediate",
+      "type": "english_to_hebrew",
+      "question": "What does “immediate” mean?",
+      "options": [
+        "מיידי",
+        "הגזמה",
+        "הסתברות, סבירות",
+        "הכחדה"
+      ],
+      "correct_answer": "מיידי",
+      "explanation_hebrew": "“immediate” פירושו בעברית: מיידי."
+    },
+    {
+      "id": "C-q6",
+      "word": "extinction",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הכחדה”?",
+      "options": [
+        "probability",
+        "proposed",
+        "extinction",
+        "exaggeration"
+      ],
+      "correct_answer": "extinction",
+      "explanation_hebrew": "המילה “extinction” פירושה הכחדה."
+    },
+    {
+      "id": "C-q7",
+      "word": "exaggeration",
+      "type": "english_to_hebrew",
+      "question": "What does “exaggeration” mean?",
+      "options": [
+        "הגזמה",
+        "הציע",
+        "הסתברות, סבירות",
+        "רגולציה, פיקוח"
+      ],
+      "correct_answer": "הגזמה",
+      "explanation_hebrew": "“exaggeration” פירושו בעברית: הגזמה."
+    },
+    {
+      "id": "C-q8",
+      "word": "probability",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הסתברות, סבירות”?",
+      "options": [
+        "probability",
+        "proposed",
+        "regulation",
+        "competitors"
+      ],
+      "correct_answer": "probability",
+      "explanation_hebrew": "המילה “probability” פירושה הסתברות, סבירות."
+    },
+    {
+      "id": "C-q9",
+      "word": "proposed",
+      "type": "english_to_hebrew",
+      "question": "What does “proposed” mean?",
+      "options": [
+        "מעריכים, בוחנים",
+        "הציע",
+        "רגולציה, פיקוח",
+        "מתחרים"
+      ],
+      "correct_answer": "הציע",
+      "explanation_hebrew": "“proposed” פירושו בעברית: הציע."
+    },
+    {
+      "id": "C-q10",
+      "word": "regulation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רגולציה, פיקוח”?",
+      "options": [
+        "evaluators",
+        "capabilities",
+        "competitors",
+        "regulation"
+      ],
+      "correct_answer": "regulation",
+      "explanation_hebrew": "המילה “regulation” פירושה רגולציה, פיקוח."
+    },
+    {
+      "id": "C-q11",
+      "word": "competitors",
+      "type": "english_to_hebrew",
+      "question": "What does “competitors” mean?",
+      "options": [
+        "הפגין, הציג",
+        "מתחרים",
+        "יכולות",
+        "מעריכים, בוחנים"
+      ],
+      "correct_answer": "מתחרים",
+      "explanation_hebrew": "“competitors” פירושו בעברית: מתחרים."
+    },
+    {
+      "id": "C-q12",
+      "word": "evaluators",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מעריכים, בוחנים”?",
+      "options": [
+        "capabilities",
+        "exhibited",
+        "evaluators",
+        "withheld"
+      ],
+      "correct_answer": "evaluators",
+      "explanation_hebrew": "המילה “evaluators” פירושה מעריכים, בוחנים."
+    },
+    {
+      "id": "C-q13",
+      "word": "capabilities",
+      "type": "english_to_hebrew",
+      "question": "What does “capabilities” mean?",
+      "options": [
+        "מנע, עיכב",
+        "יריבות",
+        "יכולות",
+        "הפגין, הציג"
+      ],
+      "correct_answer": "יכולות",
+      "explanation_hebrew": "“capabilities” פירושו בעברית: יכולות."
+    },
+    {
+      "id": "C-q14",
+      "word": "exhibited",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הפגין, הציג”?",
+      "options": [
+        "exhibited",
+        "drastically",
+        "rivalry",
+        "withheld"
+      ],
+      "correct_answer": "exhibited",
+      "explanation_hebrew": "המילה “exhibited” פירושה הפגין, הציג."
+    },
+    {
+      "id": "C-q15",
+      "word": "withheld",
+      "type": "english_to_hebrew",
+      "question": "What does “withheld” mean?",
+      "options": [
+        "באופן דרסטי",
+        "מסור",
+        "מנע, עיכב",
+        "יריבות"
+      ],
+      "correct_answer": "מנע, עיכב",
+      "explanation_hebrew": "“withheld” פירושו בעברית: מנע, עיכב."
+    },
+    {
+      "id": "C-q16",
+      "word": "rivalry",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יריבות”?",
+      "options": [
+        "adequate",
+        "devoted",
+        "drastically",
+        "rivalry"
+      ],
+      "correct_answer": "rivalry",
+      "explanation_hebrew": "המילה “rivalry” פירושה יריבות."
+    },
+    {
+      "id": "C-q17",
+      "word": "drastically",
+      "type": "english_to_hebrew",
+      "question": "What does “drastically” mean?",
+      "options": [
+        "באופן דרסטי",
+        "מסור",
+        "להגן על",
+        "מספיק, הולם"
+      ],
+      "correct_answer": "באופן דרסטי",
+      "explanation_hebrew": "“drastically” פירושו בעברית: באופן דרסטי."
+    },
+    {
+      "id": "C-q18",
+      "word": "devoted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מסור”?",
+      "options": [
+        "safeguard",
+        "adequate",
+        "unilaterally",
+        "devoted"
+      ],
+      "correct_answer": "devoted",
+      "explanation_hebrew": "המילה “devoted” פירושה מסור."
+    },
+    {
+      "id": "C-q19",
+      "word": "adequate",
+      "type": "english_to_hebrew",
+      "question": "What does “adequate” mean?",
+      "options": [
+        "להגן על",
+        "מספיק, הולם",
+        "באופן חד-צדדי",
+        "חזית, גבול הידע"
+      ],
+      "correct_answer": "מספיק, הולם",
+      "explanation_hebrew": "“adequate” פירושו בעברית: מספיק, הולם."
+    },
+    {
+      "id": "C-q20",
+      "word": "safeguard",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “להגן על”?",
+      "options": [
+        "unilaterally",
+        "safeguard",
+        "frontier",
+        "voluntarily"
+      ],
+      "correct_answer": "safeguard",
+      "explanation_hebrew": "המילה “safeguard” פירושה להגן על."
+    },
+    {
+      "id": "C-q21",
+      "word": "unilaterally",
+      "type": "english_to_hebrew",
+      "question": "What does “unilaterally” mean?",
+      "options": [
+        "חזית, גבול הידע",
+        "באופן חד-צדדי",
+        "סמכותני, רודני",
+        "מרצון"
+      ],
+      "correct_answer": "באופן חד-צדדי",
+      "explanation_hebrew": "“unilaterally” פירושו בעברית: באופן חד-צדדי."
+    },
+    {
+      "id": "C-q22",
+      "word": "frontier",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חזית, גבול הידע”?",
+      "options": [
+        "voluntarily",
+        "consolidating",
+        "frontier",
+        "authoritarian"
+      ],
+      "correct_answer": "frontier",
+      "explanation_hebrew": "המילה “frontier” פירושה חזית, גבול הידע."
+    },
+    {
+      "id": "C-q23",
+      "word": "voluntarily",
+      "type": "english_to_hebrew",
+      "question": "What does “voluntarily” mean?",
+      "options": [
+        "סמכותני, רודני",
+        "מרכז, מבצר",
+        "מנוטר, מפוקח",
+        "מרצון"
+      ],
+      "correct_answer": "מרצון",
+      "explanation_hebrew": "“voluntarily” פירושו בעברית: מרצון."
+    },
+    {
+      "id": "C-q24",
+      "word": "authoritarian",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סמכותני, רודני”?",
+      "options": [
+        "monitored",
+        "consolidating",
+        "authoritarian",
+        "essay"
+      ],
+      "correct_answer": "authoritarian",
+      "explanation_hebrew": "המילה “authoritarian” פירושה סמכותני, רודני."
+    },
+    {
+      "id": "C-q25",
+      "word": "consolidating",
+      "type": "english_to_hebrew",
+      "question": "What does “consolidating” mean?",
+      "options": [
+        "מרכז, מבצר",
+        "קשור, כרוך",
+        "מסה, חיבור",
+        "מנוטר, מפוקח"
+      ],
+      "correct_answer": "מרכז, מבצר",
+      "explanation_hebrew": "“consolidating” פירושו בעברית: מרכז, מבצר."
+    }
+  ]
+}
