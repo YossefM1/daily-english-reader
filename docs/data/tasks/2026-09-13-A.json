@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-13",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Five night sky events to look forward to this autumn",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Five astronomical sights people can watch during autumn",
+        "A plan to send astronauts to the Pleiades",
+        "The discovery of a new planet near Earth",
+        "Why autumn nights are becoming shorter"
+      ],
+      "correct_answer": "Five astronomical sights people can watch during autumn",
+      "explanation_hebrew": "הכתבה היא מדריך לחמישה אירועי שמיים בסתיו: הפליאדות, שני מטרי מטאורים, מצעד כוכבי לכת וירח־על."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When is the Orionid meteor shower expected to peak?",
+      "difficulty": "A",
+      "options": [
+        "14 November",
+        "Around 21 October",
+        "17 November",
+        "24 November"
+      ],
+      "correct_answer": "Around 21 October",
+      "explanation_hebrew": "מטר האוריונידים פעיל מתחילת אוקטובר עד נובמבר ומגיע לשיא סביב 21 באוקטובר."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “naked eye” mean in the description of the Pleiades?",
+      "difficulty": "A",
+      "options": [
+        "Looking only after midnight",
+        "Watching through a large telescope",
+        "Seeing without binoculars or a telescope",
+        "Observing while one eye is closed"
+      ],
+      "correct_answer": "Seeing without binoculars or a telescope",
+      "explanation_hebrew": "naked eye פירושו ראייה ללא כלי עזר כמו משקפת או טלסקופ."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which planet will be especially difficult to see during the November planetary parade?",
+      "difficulty": "A",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "correct_answer": "Mercury",
+      "explanation_hebrew": "כוכב חמה יהיה נמוך בשמיים וקרוב לזוהר השמש העולה, ולכן יהיה קשה במיוחד להבחין בו."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are dark places away from artificial light recommended for meteor watching?",
+      "difficulty": "A",
+      "options": [
+        "Less light pollution makes faint meteors easier to see",
+        "Meteors travel more slowly above rural areas",
+        "City buildings prevent the atmosphere from heating particles",
+        "Meteor showers occur only outside towns"
+      ],
+      "correct_answer": "Less light pollution makes faint meteors easier to see",
+      "explanation_hebrew": "אור מלאכותי מקטין את הניגודיות של השמיים; מקום חשוך מאפשר לראות גם מטאורים חלשים יותר."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “radiate from” mean when meteors appear to radiate from a constellation?",
+      "difficulty": "A",
+      "options": [
+        "Become hotter than nearby stars",
+        "Seem to spread outward from one point in the sky",
+        "Move directly towards the Moon",
+        "Disappear behind the horizon"
+      ],
+      "correct_answer": "Seem to spread outward from one point in the sky",
+      "explanation_hebrew": "radiate from פירושו שנראה כאילו המטאורים יוצאים ומתפזרים מנקודה מסוימת בשמיים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain where and how to look for the Pleiades in autumn.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את הכיוון, קבוצת הכוכבים, המרחק ומספר הכוכבים שניתן לראות בעין ובציוד.",
+      "expected_points": [
+        "Look towards the east on autumn evenings",
+        "The cluster is in the constellation Taurus",
+        "It is also called the Seven Sisters or Messier 45",
+        "It is about 440 light years from Earth",
+        "Most people see about six stars with the naked eye",
+        "Binoculars or a telescope reveal many more stars"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Compare the best observing conditions for the Orionid and Leonid meteor showers.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להשוות בין מועדי השיא, חשיבות החשיכה, זמן ההסתגלות של העיניים והזמן המומלץ לצפייה בליאונידים.",
+      "expected_points": [
+        "The Orionids peak around 21 October",
+        "The Leonids peak around 17 November",
+        "Both are easier to see under dark skies away from artificial light",
+        "Observers should allow their eyes time to adjust",
+        "The Leonids are best viewed after midnight and before dawn",
+        "Weather, light pollution and moonlight affect the number visible"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the five autumn sky events and the key date or viewing advice for each.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לסכם באנגלית את כל חמשת האירועים ולתת לכל אחד תאריך או עצת צפייה מרכזית.",
+      "expected_points": [
+        "The Pleiades becomes prominent and can be found east in Taurus",
+        "The Orionids peak around 21 October",
+        "Mercury, Venus, Mars and Jupiter gather around 14 November before sunrise",
+        "The Leonids peak around 17 November",
+        "The Leonids are best watched after midnight before dawn",
+        "The Beaver supermoon reaches full phase on 24 November",
+        "Dark skies and good weather improve viewing"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short autumn skywatching plan for a beginner.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב תוכנית פשוטה באנגלית הכוללת לפחות שלושה אירועים, תאריכים, ציוד או תנאי צפייה ואזהרה לבדוק את מזג האוויר.",
+      "expected_points": [
+        "Choose at least three events from the article",
+        "Give the correct approximate dates",
+        "Recommend a dark location",
+        "Allow time for eyes to adjust",
+        "Explain that the Pleiades can be seen without equipment but binoculars reveal more",
+        "Mention the before-sunrise timing of the planetary parade or after-midnight Leonid timing",
+        "Advise checking the weather"
+      ]
+    }
+  ]
+}

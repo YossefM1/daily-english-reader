@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-13",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+  "article_url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main issue?",
+      "difficulty": "B",
+      "options": [
+        "A ban on all canned fish in Britain",
+        "Concerns that cheaper jack mackerel is replacing traditional mackerel without equivalent price or nutrition",
+        "A new method of farming Atlantic mackerel",
+        "A shortage of metal used to manufacture tins"
+      ],
+      "correct_answer": "Concerns that cheaper jack mackerel is replacing traditional mackerel without equivalent price or nutrition",
+      "explanation_hebrew": "הכתבה בוחנת את החלפת המקרל המסורתי ב־jack mackerel הזול והפחות מזין, ואת הטענה שמדובר ב־skimpflation."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does jack mackerel compare nutritionally with traditional mackerel?",
+      "difficulty": "B",
+      "options": [
+        "It has twice as much omega-3",
+        "It has about half the omega-3 and one-third the vitamin B12",
+        "It contains no protein or vitamins",
+        "Its nutritional values are identical"
+      ],
+      "correct_answer": "It has about half the omega-3 and one-third the vitamin B12",
+      "explanation_hebrew": "לפי הכתבה, ב־jack mackerel יש בערך מחצית מכמות אומגה־3 וכשליש מכמות ויטמין B12 שבמקרל מסורתי."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “skimpflation” mean as used by Which?",
+      "difficulty": "B",
+      "options": [
+        "Raising prices because tins become larger",
+        "Replacing every product with a sustainable one",
+        "Quietly reducing a product's quality or ingredients while shoppers may pay the same",
+        "Selling fish only during inflation"
+      ],
+      "correct_answer": "Quietly reducing a product's quality or ingredients while shoppers may pay the same",
+      "explanation_hebrew": "skimpflation היא הפחתה שקטה באיכות או במרכיבים, לעיתים בלי הפחתה מקבילה במחיר."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why has jack mackerel been introduced by suppliers and retailers?",
+      "difficulty": "B",
+      "options": [
+        "Atlantic mackerel stocks have fallen after years of overfishing",
+        "Consumers asked for fish with less omega-3",
+        "UK law banned traditional mackerel in 2025",
+        "Jack mackerel is caught only in British waters"
+      ],
+      "correct_answer": "Atlantic mackerel stocks have fallen after years of overfishing",
+      "explanation_hebrew": "המעבר נבע מהידלדלות מלאי המקרל האטלנטי בעקבות שנים של דיג יתר; החלופה הצ'יליאנית נחשבת בת־קיימא יותר."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might shoppers still confuse jack mackerel with traditional mackerel?",
+      "difficulty": "B",
+      "options": [
+        "Both fish belong to the same scientific family",
+        "Jack mackerel is sold only without labels",
+        "The similar name and packaging may hide that it is a different species",
+        "Traditional mackerel has no legal marketing name"
+      ],
+      "correct_answer": "The similar name and packaging may hide that it is a different species",
+      "explanation_hebrew": "למרות הסימון, השם הדומה והאריזה הדומה עלולים לגרום לקונים לא להבין שמדובר במין אחר ובמוצר בעל ערכים שונים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “stocks have plummeted” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "Fish prices have risen slowly",
+        "The fish population has fallen very sharply",
+        "Catches have moved to deeper water",
+        "Retailers have increased their supplies"
+      ],
+      "correct_answer": "The fish population has fallen very sharply",
+      "explanation_hebrew": "plummeted פירושו ירד בצורה חדה מאוד; מלאי המקרל ירד בכשלושה רבעים בתוך עשור."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the evidence that north-east Atlantic mackerel is under severe pressure.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין נתונים על חריגה ממכסות מומלצות, הירידה במלאי, המלצת הקיצוץ והשלכות ההסמכה.",
+      "expected_points": [
+        "Catches exceeded scientific advice by an average of 39% over 15 years",
+        "Stocks fell by roughly three-quarters over the past decade",
+        "Ices advised cutting the 2026 catch by about 70%",
+        "The Marine Conservation Society called the population at breaking point",
+        "Atlantic mackerel lost MSC certification",
+        "Some retailers' sustainability policies no longer allow the fish"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain the trade-off between sustainability and consumer value in the switch to jack mackerel.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג הן את יתרונות הקיימות של החלופה והן את החסרונות במחיר, תזונה, טעם, סימון וטביעת פחמן.",
+      "expected_points": [
+        "Chilean jack mackerel is MSC-certified",
+        "It reduces pressure on depleted Atlantic mackerel",
+        "It costs roughly one-third as much at wholesale",
+        "Retail prices may remain similar",
+        "It contains less omega-3 and vitamin B12",
+        "Consumers report different taste and texture",
+        "Some buyers may not notice the species change",
+        "Importing it from farther away may increase the carbon footprint"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why the product switch happened, why it is controversial and how retailers have responded.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לסכם באנגלית את משבר הדיג, החלפת המין, טענת ה־skimpflation, בעיית הסימון ותגובות החברות והחנויות.",
+      "expected_points": [
+        "Atlantic mackerel stocks have been depleted by overfishing",
+        "Princes and Lidl sell jack mackerel alternatives",
+        "Jack mackerel is a different fish family",
+        "It is cheaper and less nutritious",
+        "Which calls the change skimpflation when quality falls without a lower price",
+        "Suppliers say products are clearly labelled and sustainability-certified",
+        "Industry representatives warn of consumer confusion and carbon impacts",
+        "Waitrose suspended or phased out mackerel products over sustainability concerns"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a clear supermarket shelf notice explaining the switch from mackerel to jack mackerel.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב באנגלית הודעה שקופה ולא מטעה הכוללת את זהות המין, סיבת ההחלפה, הבדלי התזונה והטעם ומידע על קיימות.",
+      "expected_points": [
+        "State that jack mackerel is a different species",
+        "Avoid presenting it as identical to traditional mackerel",
+        "Explain that Atlantic stocks have declined",
+        "Mention the sustainability certification of the alternative",
+        "Disclose the lower omega-3 and vitamin B12 levels",
+        "Mention the milder flavour or meatier texture",
+        "Use prominent and straightforward wording"
+      ]
+    }
+  ]
+}

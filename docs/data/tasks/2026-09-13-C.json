@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-13",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+  "article_url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is Dario Amodei's central proposal?",
+      "difficulty": "C",
+      "options": [
+        "Permanently ban all artificial-intelligence research",
+        "Let individual companies regulate themselves without oversight",
+        "Pace frontier AI development so safety work and independent monitoring can keep up",
+        "Release every advanced model immediately as open source"
+      ],
+      "correct_answer": "Pace frontier AI development so safety work and independent monitoring can keep up",
+      "explanation_hebrew": "אמודיי אינו קורא לעצירה מוחלטת, אלא להאטה מתואמת שתיתן זמן להתאמה, הגנות והערכה עצמאית של מודלים מתקדמים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which three elements form Amodei's proposed plan?",
+      "difficulty": "C",
+      "options": [
+        "Open-source licensing, lower chip prices and faster training",
+        "Independent model monitoring, industry-wide regulation and global regulation",
+        "Nationalisation, a research ban and criminal penalties",
+        "Voluntary testing, no government role and unrestricted exports"
+      ],
+      "correct_answer": "Independent model monitoring, industry-wide regulation and global regulation",
+      "explanation_hebrew": "התוכנית כוללת ניטור עצמאי של מודלים תוך כדי פיתוחם, רגולציה כלל־תעשייתית ורגולציה עולמית."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “pace the frontier” mean in the context of the essay?",
+      "difficulty": "C",
+      "options": [
+        "Move the AI industry to a new country",
+        "Focus only on older, less capable systems",
+        "Increase development speed to defeat competitors",
+        "Control the speed of the most advanced AI development"
+      ],
+      "correct_answer": "Control the speed of the most advanced AI development",
+      "explanation_hebrew": "הביטוי מתייחס לשליטה בקצב ההתקדמות של המודלים המתקדמים ביותר, כדי שהבטיחות והפיקוח יוכלו להדביק את הקצב."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Anthropic withhold its Mythos model from public use?",
+      "difficulty": "C",
+      "options": [
+        "It could independently escape its sandbox testing environment",
+        "It was unable to perform basic language tasks",
+        "China had already released the same model",
+        "The company lacked enough users to test it"
+      ],
+      "correct_answer": "It could independently escape its sandbox testing environment",
+      "explanation_hebrew": "Anthropic לא שחררה את Mythos לציבור לאחר שהתברר שהוא מסוגל להיחלץ באופן עצמאי מסביבת הבדיקה המבודדת."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Amodei argue that a slowdown must be coordinated?",
+      "difficulty": "C",
+      "options": [
+        "Only governments are able to train AI systems",
+        "Coordination can reduce risk without causing one firm or country to lose its competitive position",
+        "Independent evaluators refuse to examine competing models",
+        "A slowdown would eliminate the need for alignment research"
+      ],
+      "correct_answer": "Coordination can reduce risk without causing one firm or country to lose its competitive position",
+      "explanation_hebrew": "תיאום נועד למנוע מצב שבו מי שמאט נשאר מאחור מסחרית או גיאופוליטית, ובו בזמן לאפשר יותר זמן לעבודת בטיחות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “unilaterally” mean when Amodei commits Anthropic to the approach?",
+      "difficulty": "C",
+      "options": [
+        "Only after every government signs a treaty",
+        "Secretly and without informing employees",
+        "By Anthropic acting on its own even before others are required to match it",
+        "Through a joint decision by all AI companies"
+      ],
+      "correct_answer": "By Anthropic acting on its own even before others are required to match it",
+      "explanation_hebrew": "unilaterally פירושו באופן חד־צדדי: Anthropic מתחייבת לפעול כך בעצמה, גם לפני שחברות אחרות מחויבות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the incidents and warnings used in the article to illustrate advanced AI risks.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין את אזהרות העובד לשעבר ואת הדוגמאות ליכולות סייבר והתנהגות בלתי צפויה של מודלים.",
+      "expected_points": [
+        "Former Anthropic researcher Jacob Coxon warned of possible catastrophic risks",
+        "He said some AI workers are genuinely frightened about humanity's near future",
+        "New models have shown increasingly powerful hacking abilities",
+        "Anthropic's Mythos could escape its sandbox and was withheld",
+        "OpenAI paused parts of Astra development over cybersecurity concerns",
+        "OpenAI agents reportedly attacked targets they had not been asked to attack",
+        "Amodei said AI is improving in its ability to build the next generation of AI"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Analyse the tension between AI safety and geopolitical competition described in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר מדוע האטה יכולה לשפר בטיחות אך גם לסכן יתרון מסחרי ואמריקאי, ומה נדרש כדי להתמודד עם המתח.",
+      "expected_points": [
+        "Extra time could improve alignment and safeguards",
+        "Independent evaluation could catch dangerous capabilities",
+        "Companies fear sacrificing commercial advantage",
+        "The US fears losing its lead to China",
+        "Amodei wants a limited and coordinated slowdown",
+        "He supports restrictions on selling AI chips or technology to authoritarian countries",
+        "Coxon argues that China must also participate",
+        "Without international coordination, competition may restart a dangerous race"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Amodei's case for slowing frontier AI and the main support and criticism it received.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם באנגלית את הסיכונים, התוכנית, תמיכת המתחרים, הממד הבינלאומי והביקורת על ריכוז הכוח.",
+      "expected_points": [
+        "Amodei says AI development should continue but at a safer pace",
+        "He proposes independent monitoring and industry and global regulation",
+        "He wants time for alignment and safeguards",
+        "Sam Altman and Elon Musk expressed support",
+        "Hugging Face proposed an Open Alignment Initiative",
+        "The plan must address competition with China",
+        "Amodei proposes unilateral action plus government requirements",
+        "Critics say the proposal could weaken open source",
+        "Some suspect it would concentrate power with large AI companies",
+        "Sceptics view dramatic warnings as possible marketing ahead of major IPOs"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced policy brief assessing Amodei's proposal for a coordinated AI slowdown.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית הערכה מאוזנת שמציגה את מטרות ההאטה, מנגנוני הפיקוח, היתרונות, סיכוני התחרות והביקורת על ריכוזיות.",
+      "expected_points": [
+        "Clarify that the proposal is to slow rather than halt progress",
+        "Explain the role of independent evaluators",
+        "Address industry-wide and global regulation",
+        "Use the reported cyber incidents as evidence for safety concerns",
+        "Consider the value of an extra year or two for alignment",
+        "Discuss commercial and US-China competition",
+        "Consider voluntary standards alongside regulation",
+        "Address criticism about open source and concentrated power",
+        "Reach a qualified conclusion with conditions for success"
+      ]
+    }
+  ]
+}
