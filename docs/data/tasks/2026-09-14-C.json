@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-14",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Questions mount over what an AI 'slowdown' would look like",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main argument about calls for an AI slowdown?",
+      "difficulty": "C",
+      "options": [
+        "A slowdown is already clearly defined and accepted",
+        "AI companies have stopped competing with China",
+        "The proposal answers fears but raises unresolved practical, economic and political questions",
+        "British policy no longer depends on AI"
+      ],
+      "correct_answer": "The proposal answers fears but raises unresolved practical, economic and political questions",
+      "explanation_hebrew": "הכתבה מדגישה שאין עדיין הגדרה מעשית מוסכמת להאטה ושיישומה כרוך באכיפה, אמון, תחרות וכלכלה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who publicly agreed with Dario Amodei's call to slow AI development?",
+      "difficulty": "C",
+      "options": [
+        "Ed Zitron and Alexander Voica",
+        "President Trump and Parker Thayer",
+        "Sasha Luccioni and Wendy Hall",
+        "Sam Altman and Elon Musk"
+      ],
+      "correct_answer": "Sam Altman and Elon Musk",
+      "explanation_hebrew": "הכתבה מציינת שסם אלטמן ואילון מאסק, מחברות מתחרות, הסכימו עם אמודיי."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Ed Zitron imply by saying AI products could be “captured in amber”?",
+      "difficulty": "C",
+      "options": [
+        "They could remain frozen at their current stage while rivals improve",
+        "They could be protected from every cyber threat",
+        "They could be sold at a higher price",
+        "They could become transparent to monitors"
+      ],
+      "correct_answer": "They could remain frozen at their current stage while rivals improve",
+      "explanation_hebrew": "captured in amber הוא דימוי לשימור במצב קפוא בזמן שמעבדות מתחרות ממשיכות לפתח."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which measures are included in Amodei's three-point plan?",
+      "difficulty": "C",
+      "options": [
+        "An investment ban, fewer NHS projects and voluntary promises",
+        "Independent monitoring, industry-wide regulation and global regulation",
+        "National control and an end to model training",
+        "Open-source publication, lower prices and university limits"
+      ],
+      "correct_answer": "Independent monitoring, industry-wide regulation and global regulation",
+      "explanation_hebrew": "שלושת המרכיבים הם ניטור עצמאי בזמן הפיתוח, רגולציה כלל־תעשייתית ורגולציה עולמית."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why would enforcing a slowdown require an unusually high level of trust?",
+      "difficulty": "C",
+      "options": [
+        "Governments must disclose military information",
+        "China must stop all technology exports",
+        "Regulators may depend on firms revealing what they do and choose not to do",
+        "Investors must guarantee every company becomes profitable"
+      ],
+      "correct_answer": "Regulators may depend on firms revealing what they do and choose not to do",
+      "explanation_hebrew": "בלי מנגנון ברור, הפיקוח עשוי להסתמך על שקיפות החברות לגבי מה שהן מפתחות וגם מה שאינן עושות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What are AI “guardrails” in Professor Wendy Hall's argument?",
+      "difficulty": "C",
+      "options": [
+        "Financial returns for investors",
+        "Physical fences around data centres",
+        "Systems that speed up training",
+        "Safety rules and protections intended to prevent harmful behaviour"
+      ],
+      "correct_answer": "Safety rules and protections intended to prevent harmful behaviour",
+      "explanation_hebrew": "guardrails הם מעקי בטיחות מטפוריים — כללים והגנות שנועדו למנוע נזק."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify the main international and enforcement obstacles to an AI slowdown.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין את מרוץ ארה״ב–סין, החשש להישאר מאחור, הגוף המפקח, שקיפות ואמון.",
+      "expected_points": [
+        "The US fears losing to China",
+        "Companies expect rivals to continue if they pause",
+        "Nobody wants to slow first",
+        "It is unclear who would police the slowdown",
+        "The term has not been defined substantively",
+        "Enforcement may depend on corporate transparency and trust"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Analyse the economic case both for and against slowing AI development in the UK.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את חשיבות AI לצמיחה ולשירותים מול עלויות, הכנסות חלשות, סכנת בועה ורגולציה.",
+      "expected_points": [
+        "AI is central to the UK's growth strategy and planned NHS use",
+        "A slowdown could harm investment and useful adoption",
+        "The industry consumes enormous money and resources",
+        "Revenue remains far below spending",
+        "A market correction may occur anyway",
+        "Power could concentrate in surviving firms",
+        "Poorly timed regulation might backfire",
+        "A slowdown may improve safety and trust"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the competing views about whether and how AI development should be slowed.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם באנגלית את אזהרות הבטיחות, התוכנית, קשיי האכיפה והתחרות והוויכוח הכלכלי.",
+      "expected_points": [
+        "AI leaders and a former researcher express serious concern",
+        "Amodei proposes monitoring and coordinated regulation",
+        "Critics say slowdown lacks a practical definition",
+        "Competition with China makes unilateral action unlikely",
+        "The UK expects AI to support services and growth",
+        "Some focus on corporate greed and weak safety protections",
+        "Others fear premature or politically motivated over-regulation"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced policy proposal defining an enforceable AI slowdown while addressing the article's objections.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להגדיר באנגלית האטה מעשית, ניטור, אכיפה, תיאום בינלאומי, שימושים מועילים ומדדי בחינה.",
+      "expected_points": [
+        "Define which training or capability advances are slowed",
+        "Name an independent monitor",
+        "Require verifiable reporting",
+        "Set common industry rules",
+        "Coordinate internationally, including the US and China",
+        "Protect beneficial uses",
+        "Assess economic and environmental costs",
+        "Prevent rules favouring only large firms",
+        "Set safety benchmarks, penalties and a review date"
+      ]
+    }
+  ]
+}

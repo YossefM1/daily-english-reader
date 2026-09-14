@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-14",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "How to protect your laptop, phone and bike from thieves at uni",
+  "article_url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly designed to help university students do?",
+      "difficulty": "A",
+      "options": [
+        "Protect valuable belongings and choose suitable insurance cover",
+        "Find the cheapest university accommodation",
+        "Apply for work at an insurance company",
+        "Choose a new laptop model"
+      ],
+      "correct_answer": "Protect valuable belongings and choose suitable insurance cover",
+      "explanation_hebrew": "הכתבה משלבת עצות למניעת גניבה עם הסבר כיצד לבדוק ולבחור כיסוי ביטוחי מתאים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where does the article say insured student items may be stolen from?",
+      "difficulty": "A",
+      "options": [
+        "Only university libraries",
+        "Digs, cars, public transport, bars and restaurants",
+        "Only university-managed halls",
+        "Sports grounds and lecture theatres only"
+      ],
+      "correct_answer": "Digs, cars, public transport, bars and restaurants",
+      "explanation_hebrew": "הכתבה מציינת מגורים, מכוניות, תחבורה ציבורית, ברים ומסעדות כמקומות שמהם נגנבו פריטים."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “portability” mean when Aviva explains why phones and laptops attract thieves?",
+      "difficulty": "A",
+      "options": [
+        "Their ability to store information",
+        "Their high repair cost",
+        "The ease with which they can be carried away",
+        "Their need for frequent charging"
+      ],
+      "correct_answer": "The ease with which they can be carried away",
+      "explanation_hebrew": "portability היא ניידות — קל לשאת את המכשירים ולכן גם קל לגנוב אותם במהירות."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which type of insurance does the article say is compulsory?",
+      "difficulty": "A",
+      "options": [
+        "Bike insurance",
+        "Laptop insurance",
+        "Contents insurance",
+        "Car insurance"
+      ],
+      "correct_answer": "Car insurance",
+      "explanation_hebrew": "לפי איגוד המבטחים הבריטי, ביטוח רכב הוא חובה; ביטוח אופניים וחפצים אחרים נתון לבחירה."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the ABI recommend making an inventory of clothes, electronics and furniture?",
+      "difficulty": "A",
+      "options": [
+        "To check whether the total cover is enough to replace everything",
+        "To prove every possession was bought recently",
+        "To decide which items must remain at home",
+        "To lower the legal cost of car insurance"
+      ],
+      "correct_answer": "To check whether the total cover is enough to replace everything",
+      "explanation_hebrew": "סכימת עלויות ההחלפה מאפשרת לבדוק אם סכום הכיסוי הכולל והמגבלה לפריט יחיד מספיקים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean if a parent's insurance policy “extends to” a student?",
+      "difficulty": "A",
+      "options": [
+        "The policy lasts for more years",
+        "The policy may also cover the student's belongings",
+        "The policy covers only items kept in a car",
+        "The insurer must replace every stolen item"
+      ],
+      "correct_answer": "The policy may also cover the student's belongings",
+      "explanation_hebrew": "extends to פירושו שהכיסוי מתרחב ויכול לחול גם על הסטודנט או הסטודנטית."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List Steven Jackson's practical advice for reducing the risk of theft.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין השארת חפצים יקרים או סנטימנטליים בבית, נעילת חפצי ערך והרחקתם מהעין, ושמירה על ערנות.",
+      "expected_points": [
+        "Leave especially expensive and sentimental belongings at home",
+        "Lock valuables and keep them out of sight",
+        "Stay vigilant in cafés and libraries",
+        "Do not leave a bag or laptop unattended to reserve a place"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how a student can check whether an insurance policy gives adequate cover.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר בדיקת כיסוי קיים, סכומי כיסוי, מגבלה לפריט יחיד, מלאי ותוספות אפשריות.",
+      "expected_points": [
+        "Check halls insurance or a parent's policy first",
+        "Read total and single-item limits",
+        "Create an inventory and add replacement costs",
+        "Consider extra cover for an expensive bike or portable items"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's advice on theft prevention, contents insurance and car insurance.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לסכם באנגלית את הסיכון, צעדי המניעה, בדיקת הכיסוי ועדכון מבטח הרכב.",
+      "expected_points": [
+        "Laptops, phones and bikes are common targets",
+        "Students should secure and watch valuables",
+        "Existing halls or parental cover should be checked",
+        "Contents insurance may cover damaged, destroyed or stolen possessions",
+        "Cover limits must match replacement costs",
+        "The car insurer must know the location and main driver"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short pre-university checklist for protecting and insuring your belongings.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב רשימת בדיקה באנגלית הכוללת מניעת גניבה, בדיקת פוליסה, מלאי ועדכון ביטוח רכב.",
+      "expected_points": [
+        "Identify valuable and sentimental items",
+        "Plan secure storage",
+        "Check existing insurance",
+        "List replacement values and limits",
+        "Add special cover if needed",
+        "Inform the car insurer of relevant changes"
+      ]
+    }
+  ]
+}

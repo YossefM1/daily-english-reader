@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-14",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "September reset: Why now is the time to start a new routine and how to stick to it",
+  "article_url": "https://www.bbc.co.uk/news/articles/c770drlkzkpo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central message of the article?",
+      "difficulty": "B",
+      "options": [
+        "September routines should copy strict New Year's resolutions",
+        "September can help people build small, well-planned habits that last",
+        "People should avoid changing routines after summer",
+        "A reset requires a radical overhaul of life"
+      ],
+      "correct_answer": "September can help people build small, well-planned habits that last",
+      "explanation_hebrew": "הכתבה מציגה את ספטמבר כהזדמנות לשינויים קטנים, תכנון והפיכת ההתנהגות הרצויה לאפשרות הקלה."
+    },
+    {
+      "id": "B-2",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might September make people more open to changing their habits?",
+      "difficulty": "B",
+      "options": [
+        "Returning to work or school disrupts old patterns and creates a chance to reorient",
+        "Social media removes the need to plan",
+        "Everyone has more free time in September",
+        "New habits work only in cooler weather"
+      ],
+      "correct_answer": "Returning to work or school disrupts old patterns and creates a chance to reorient",
+      "explanation_hebrew": "שיבוש בשגרה יכול ליצור חלון שבו אנשים מגיבים יותר לשינוי ולדרכי פעולה חלופיות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What are “major life overhauls” in the description of New Year's resolutions?",
+      "difficulty": "B",
+      "options": [
+        "Brief breaks from work",
+        "Lists of social-media videos",
+        "Large and comprehensive changes to one's life",
+        "Small actions requiring little effort"
+      ],
+      "correct_answer": "Large and comprehensive changes to one's life",
+      "explanation_hebrew": "overhaul הוא שינוי יסודי ומקיף; ה־September Reset מוצג כחלופה מתונה יותר."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does Cami recommend choosing after reviewing earlier goals?",
+      "difficulty": "B",
+      "options": [
+        "A spreadsheet of radical changes",
+        "A completely new career",
+        "Ten compulsory workouts",
+        "Three small non-negotiable actions"
+      ],
+      "correct_answer": "Three small non-negotiable actions",
+      "explanation_hebrew": "קאמי ממליצה לבחור שלושה הרגלים קטנים, למשל פרי בבוקר או מים לפני קפה."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Cami mean when meal preparation has “removed the friction”?",
+      "difficulty": "B",
+      "options": [
+        "It removed an obstacle, making the preferred breakfast easier",
+        "It made the oats smoother",
+        "It stopped food becoming warm",
+        "It added more morning choices"
+      ],
+      "correct_answer": "It removed an obstacle, making the preferred breakfast easier",
+      "explanation_hebrew": "friction בהקשר זה הוא קושי או מעצור; הכנת המזון מראש מקלה לבחור בו."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “automatically” suggest about a habit formed through a specific plan?",
+      "difficulty": "B",
+      "options": [
+        "It is performed by a machine",
+        "The desired choice happens with little fresh decision-making",
+        "It changes whenever the situation changes",
+        "It needs a new written plan every time"
+      ],
+      "correct_answer": "The desired choice happens with little fresh decision-making",
+      "explanation_hebrew": "לאחר תכנון וחזרה, הבחירה נעשית כמעט מעצמה וללא החלטה חדשה בכל פעם."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain the research idea Professor Verplanken uses to support a September reset.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר שינוי גדול, תגובתיות להתערבות, שיבוש הרגלים והאפשרות לבחור חלופות.",
+      "expected_points": [
+        "A major change can disrupt established habits",
+        "People who moved house were more responsive to an intervention",
+        "The intervention promoted sustainable behaviour",
+        "Returning to work or school can similarly create a chance to reorient"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How do Cami's Sunday planning and meal preparation make her routine easier to follow?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד תכנון מראש מצמצם בחירות ומסיר מכשולים ברגע הפעולה.",
+      "expected_points": [
+        "She plans meals and workouts",
+        "She may plan work outfits",
+        "She prepares several breakfasts in advance",
+        "Ready food becomes the natural choice",
+        "Planning limits opportunities to stray"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why September can support a reset and how the article says new habits can last.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לסכם באנגלית את המעבר מהקיץ, צעדים קטנים, תכנון ספציפי, הסרת חיכוך וחזרה.",
+      "expected_points": [
+        "September restores structure after summer",
+        "Disruption can make people receptive to change",
+        "Review goals and choose small non-negotiables",
+        "Plan where, when and what to do",
+        "Prepare in advance and limit unhelpful choices",
+        "Repeat behaviour until it becomes effortless"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Design a realistic seven-day September reset using the article's principles.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב תוכנית באנגלית עם מטרה, שלושה צעדים, זמן ומקום, הכנה מראש וצמצום חיכוך.",
+      "expected_points": [
+        "Choose one realistic goal",
+        "Define three small behaviours",
+        "State where and when each happens",
+        "Include a planning session",
+        "Remove at least one obstacle",
+        "Avoid a radical overhaul",
+        "Explain how repetition builds a routine"
+      ]
+    }
+  ]
+}
