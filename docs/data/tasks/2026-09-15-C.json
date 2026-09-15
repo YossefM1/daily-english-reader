@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-15",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "How Carney plans to sell Canada to the world's biggest investors",
+  "article_url": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is Mark Carney trying to achieve through the Toronto investor summit?",
+      "difficulty": "C",
+      "options": [
+        "Restore Canada's former sales pitch as a gateway to the US",
+        "Replace all foreign capital with government spending",
+        "Use global investment to build a more independent and resilient Canadian economy",
+        "Persuade Canada to abandon energy and resource projects"
+      ],
+      "correct_answer": "Use global investment to build a more independent and resilient Canadian economy",
+      "explanation_hebrew": "קרני מבקש למשוך השקעות עולמיות לפרויקטים קנדיים כדי להפחית תלות בארה״ב ולחזק את עמידות הכלכלה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What scale of investment is represented by the summit's invited guests?",
+      "difficulty": "C",
+      "options": [
+        "About 20 investors controlling C$1tn",
+        "More than 100 investors overseeing over C$100tn in assets",
+        "Only Canadian pension funds managing C$5bn",
+        "Ten banks holding approximately US$100bn"
+      ],
+      "correct_answer": "More than 100 investors overseeing over C$100tn in assets",
+      "explanation_hebrew": "לטורונטו הוזמנו יותר ממאה משקיעים המפקחים יחד על נכסים בהיקף העולה על 100 טריליון דולר קנדי."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean that Carney hopes to “woo” wealthy asset managers?",
+      "difficulty": "C",
+      "options": [
+        "He intends to regulate their companies",
+        "He wants to investigate their past investments",
+        "He aims to persuade and attract them to invest in Canada",
+        "He plans to compete with them for Canadian pensions"
+      ],
+      "correct_answer": "He aims to persuade and attract them to invest in Canada",
+      "explanation_hebrew": "woo פירושו לחזר ולשכנע; כאן קרני משתמש בקשריו ובניסיון הפיננסי כדי למשוך השקעות."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which Canadian weakness did the CPP Investments report highlight?",
+      "difficulty": "C",
+      "options": [
+        "A shortage of natural resources",
+        "A lack of political stability",
+        "Excessively close relations with Norway",
+        "Insufficient scale and depth of investible opportunities"
+      ],
+      "correct_answer": "Insufficient scale and depth of investible opportunities",
+      "explanation_hebrew": "הדוח הזהיר שהחולשה העיקרית היא היקף ועומק מוגבלים של הזדמנויות שאפשר להשקיע בהן בפועל."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is Carney's former career in global finance presented as an advantage?",
+      "difficulty": "C",
+      "options": [
+        "He has personal access to investors and understands how financiers think",
+        "It guarantees immediate investment announcements",
+        "It gives him power to approve provincial projects alone",
+        "It removes Canada's dependence on US trade"
+      ],
+      "correct_answer": "He has personal access to investors and understands how financiers think",
+      "explanation_hebrew": "קשריו האישיים והבנתו העמוקה בפיננסים מסייעים לו להזמין מקבלי החלטות ולזהות את כוונותיהם במשא ומתן."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the phrase “valley of death” describe near the end of the article?",
+      "difficulty": "C",
+      "options": [
+        "A geographic route between Canada and the US",
+        "A temporary fall in energy prices",
+        "The period after every investment summit",
+        "The dangerous gap before new trade partnerships can replace rapidly weakening US ties"
+      ],
+      "correct_answer": "The dangerous gap before new trade partnerships can replace rapidly weakening US ties",
+      "explanation_hebrew": "הביטוי מתאר את תקופת הביניים המסוכנת שבה הקשר עם ארה״ב נחלש מהר יותר מהקמת שותפויות חלופיות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify the sectors and strengths Carney plans to present to investors.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין משאבים ואנרגיה, יציבות פוליטית ותחומי ההשקעה המרכזיים.",
+      "expected_points": [
+        "Canada's energy and resource sectors",
+        "Political stability",
+        "Artificial intelligence projects",
+        "Defence projects",
+        "Transportation projects",
+        "Infrastructure projects",
+        "The message that Canada has resources the world needs"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why overseas investment cannot fully solve Canada's trade problem with the US in the short term.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את משקל היצוא לארה״ב, הצורך ביציבות, זמן בניית שותפויות והצורך בפשרה.",
+      "expected_points": [
+        "Exports to the US equal about 20% of Canada's GDP",
+        "Canada stands to lose heavily from a permanent rupture",
+        "Long-term investors need a stable US-Canada trading relationship",
+        "New global partnerships take time to develop",
+        "The US rift is unfolding more quickly than diversification",
+        "Both countries are still expected to negotiate and compromise"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Carney's investment strategy, its advantages and the main barriers it faces.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם באנגלית את הפסגה, ניסיונו של קרני, מטרת הגיוון, החסמים והסיכונים הפוליטיים.",
+      "expected_points": [
+        "Carney invited major global funds and executives to Toronto",
+        "He uses personal finance-sector relationships and crisis-management experience",
+        "The pitch stresses resources, stability and major projects",
+        "Canada wants a more independent and resilient economy",
+        "Slow approvals and limited investible opportunities may deter capital",
+        "Provinces and indigenous communities must support major projects",
+        "US trade remains economically crucial",
+        "Protests and criticism focus on corporate interests, climate and controversial partners"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced investor briefing assessing whether Canada is an attractive long-term investment after the summit.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב באנגלית הערכה מאוזנת הכוללת נכסים, הנהגה, תחומים, סחר, אישורים, בעלי עניין וסיכוני תקופת המעבר.",
+      "expected_points": [
+        "Describe Canada's resources and political stability",
+        "Identify AI, defence, transport and infrastructure opportunities",
+        "Assess Carney's financial network and experience",
+        "Address slow project approvals",
+        "Discuss provincial and indigenous consent",
+        "Quantify dependence on US trade",
+        "Consider diversification opportunities and timing",
+        "Address domestic investment and public opposition",
+        "Reach a qualified conclusion rather than guaranteeing success"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-15",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "I got paid $5,000 to move to a place I'd never heard of",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Why remote workers are returning to expensive coastal cities",
+        "How relocation incentives and lower costs are attracting people to smaller US communities",
+        "Why small US cities are banning new residents",
+        "How families can earn money by selling their homes"
+      ],
+      "correct_answer": "How relocation incentives and lower costs are attracting people to smaller US communities",
+      "explanation_hebrew": "הכתבה מתארת תוכניות שמציעות כסף והטבות למעבר לערים קטנות, ואת השיפור הכלכלי לצד החסרונות."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Brianna Beyrouti's monthly housing costs change after moving to Muncie?",
+      "difficulty": "B",
+      "options": [
+        "They rose from $1,100 to $1,290",
+        "Her combined mortgage, insurance and tax became $1,100, below her former $1,290 rent",
+        "They stayed at exactly $1,290",
+        "She received a free home with no monthly costs"
+      ],
+      "correct_answer": "Her combined mortgage, insurance and tax became $1,100, below her former $1,290 rent",
+      "explanation_hebrew": "בפורטלנד שילמה 1,290 דולר שכירות; במנסי המשכנתה, הביטוח ומס הנכס יחד הם 1,100 דולר."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Brianna mean when she says she had been financially “drowning”?",
+      "difficulty": "B",
+      "options": [
+        "She was paying for frequent water damage",
+        "She wanted to live near the sea",
+        "She was struggling badly to meet everyday expenses",
+        "Her bank had stopped paying her salary"
+      ],
+      "correct_answer": "She was struggling badly to meet everyday expenses",
+      "explanation_hebrew": "drowning משמש כאן כדימוי למצוקה כלכלית קשה וחיים ממשכורת למשכורת."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does Muncie offer eligible remote workers from outside Indiana?",
+      "difficulty": "B",
+      "options": [
+        "A guaranteed job at a local university",
+        "A detached house at no cost",
+        "A permanent exemption from income tax",
+        "$5,000 towards relocation costs"
+      ],
+      "correct_answer": "$5,000 towards relocation costs",
+      "explanation_hebrew": "המועצה המקומית מציעה 5,000 דולר לכיסוי עלויות המעבר כדי למשוך עובדים מרחוק ולהגדיל אוכלוסייה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why has remote work helped relocation programmes in smaller cities?",
+      "difficulty": "B",
+      "options": [
+        "People can keep jobs and salaries while living in cheaper places",
+        "Employers require all workers to move to rural towns",
+        "Remote workers receive free property everywhere",
+        "It removes every social disadvantage of moving"
+      ],
+      "correct_answer": "People can keep jobs and salaries while living in cheaper places",
+      "explanation_hebrew": "בריאנה המשיכה לעבוד עבור אותו בנק ובאותו שכר, אך נהנתה מעלויות נמוכות יותר במקום החדש."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the JREDC mean when it says its package helps “sweeten the deal”?",
+      "difficulty": "B",
+      "options": [
+        "It provides free food for every resident",
+        "It makes the offer more attractive through extra benefits",
+        "It guarantees that housing prices will fall",
+        "It replaces cash with restaurant vouchers"
+      ],
+      "correct_answer": "It makes the offer more attractive through extra benefits",
+      "explanation_hebrew": "sweeten the deal פירושו לשפר את ההצעה ולהפוך אותה למושכת יותר באמצעות כסף והטבות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the financial effects of moving for Brianna and Elena.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות דיור, שכר, חיסכון, מיסים או חשבונות והטבות המעבר.",
+      "expected_points": [
+        "Brianna kept her $107,000 salary",
+        "Her housing cost fell from $1,290 rent to $1,100 total ownership costs",
+        "Lower taxes, insurance and energy helped her save about $600 monthly",
+        "Elena moved from $3,000 rent to a $1,868 mortgage",
+        "Elena's salary rose by 22% after changing jobs",
+        "Both received $5,000 relocation support",
+        "Elena also received a $4,000 quality-of-life package"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why cash incentives alone may not determine whether a move is successful.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לדון בעלויות ארוכות טווח, עבודה, דיור, משפחה, תחבורה, פעילויות והסתגלות.",
+      "expected_points": [
+        "Long-term housing and living costs matter more than a one-time payment",
+        "Remote or local employment must remain viable",
+        "Smaller places may offer fewer activities and restaurants",
+        "Moving can separate people from family and friends",
+        "Children may struggle to settle into new schools",
+        "Car dependence may increase",
+        "Personal priorities determine whether the trade-off is worthwhile"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why small US communities offer relocation schemes and what the two movers experienced.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לסכם באנגלית ירידת אוכלוסייה, משיכת עובדים מרחוק, התוצאות הכלכליות והחסרונות.",
+      "expected_points": [
+        "Some small communities are recovering from decades of population decline",
+        "They use cash and lifestyle benefits to attract remote workers",
+        "MakeMyMove lists schemes and is paid by participating communities",
+        "Brianna and Elena could buy homes and reduce housing costs",
+        "Brianna gained about $600 per month",
+        "Elena gained salary, security and a shorter commute",
+        "Both reported fewer amenities and social or family challenges"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced checklist for someone considering a paid move to a smaller city.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב רשימה באנגלית שמשווה תמריץ חד־פעמי עם עלויות, עבודה, דיור, חינוך, תחבורה וחיי חברה.",
+      "expected_points": [
+        "Check eligibility and conditions of the incentive",
+        "Compare total housing costs, taxes, insurance and energy",
+        "Confirm employment and salary arrangements",
+        "Research schools and healthcare",
+        "Consider transport and car dependence",
+        "Compare activities, restaurants and social connections",
+        "Plan for leaving family and friends",
+        "Judge long-term savings rather than only the cash payment"
+      ]
+    }
+  ]
+}
