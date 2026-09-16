@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-16",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Worried about taking a sick day? What that says about you",
+  "article_url": "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly examining?",
+      "difficulty": "B",
+      "options": [
+        "Why people work while ill and how personal traits and workplace culture influence that choice",
+        "Why younger workers suffer more long-term illness than older workers",
+        "How employers can eliminate every absence from work",
+        "Why remote work has made sick leave unnecessary"
+      ],
+      "correct_answer": "Why people work while ill and how personal traits and workplace culture influence that choice",
+      "explanation_hebrew": "הכתבה בוחנת presenteeism — עבודה בזמן מחלה — ואת השפעת הזהות האישית, הפחד, תנאי העבודה ותרבות הארגון."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What do the cited UK figures show about sick leave among different age groups?",
+      "difficulty": "B",
+      "options": [
+        "Both groups took an average of 6.2 days",
+        "Workers aged 16–24 took 2.4 days, compared with 6.2 for those aged 50–64",
+        "Workers aged 50–64 took only 2.4 days",
+        "Age made no measurable difference"
+      ],
+      "correct_answer": "Workers aged 16–24 took 2.4 days, compared with 6.2 for those aged 50–64",
+      "explanation_hebrew": "נתוני ONS מצביעים על 2.4 ימי מחלה בגילי 16–24 לעומת 6.2 ימים בגילי 50–64."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “presenteeism” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "Taking planned annual leave",
+        "Working only from an office",
+        "Continuing to work even when sick",
+        "Being absent without informing a manager"
+      ],
+      "correct_answer": "Continuing to work even when sick",
+      "explanation_hebrew": "presenteeism הוא מצב שבו אדם ממשיך להגיע לעבודה או לעבוד מרחוק אף שהוא חולה."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is meant by “work centrality”?",
+      "difficulty": "B",
+      "options": [
+        "A job located in a city centre",
+        "A rule requiring staff to attend headquarters",
+        "A system for sharing tasks among colleagues",
+        "The degree to which work is central to a person's identity"
+      ],
+      "correct_answer": "The degree to which work is central to a person's identity",
+      "explanation_hebrew": "work centrality מתארת עד כמה העבודה היא חלק מרכזי בזהותו של האדם, ולכן היעדרות יכולה להרגיש כאובדן חלק מעצמו."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can understaffed teams make employees reluctant to take legitimate sick leave?",
+      "difficulty": "B",
+      "options": [
+        "They know their absence will add work for colleagues",
+        "They receive extra holiday whenever a colleague is absent",
+        "They are legally required to work through illness",
+        "They can no longer contact their managers"
+      ],
+      "correct_answer": "They know their absence will add work for colleagues",
+      "explanation_hebrew": "כאשר אין גיבוי והצוות מתוח, העובד עלול לחוש אשמה משום שהיעדרותו תגדיל את העומס על עמיתיו."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to Dr Audrey Tang, how long should someone stay home after a fever has passed?",
+      "difficulty": "B",
+      "options": [
+        "48 hours",
+        "24 hours",
+        "One working week",
+        "Only until the next morning"
+      ],
+      "correct_answer": "24 hours",
+      "explanation_hebrew": "ההמלצה המצוטטת היא להישאר בבית 24 שעות לאחר שחלף חום; לאחר הקאות ושלשול מדובר ב־48 שעות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give the article's main explanations for why younger workers may record fewer sick days.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין חוסר ביטחון תעסוקתי, מצב בריאותי, רצון ליצור רושם וציפיות בנוגע לרווחה נפשית.",
+      "expected_points": [
+        "Younger workers may have insecure jobs such as zero-hours contracts",
+        "They are less likely to have long-term health conditions",
+        "They are less likely to have joint problems",
+        "People early in their careers may fear appearing weak or lazy",
+        "They may worry about making a negative impression",
+        "They may also have higher expectations that employers respect mental wellbeing"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how managers can unintentionally create a culture that rewards working while ill.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר מסרים עקיפים כגון שבח על עבודה בזמן מחלה, חשדנות כלפי היעדרות, עדיפות לתפוקה והיעדר גיבוי.",
+      "expected_points": [
+        "Managers may praise employees who work through illness",
+        "Routine questioning of sick leave signals distrust",
+        "Prioritising productivity over health creates guilt and shame",
+        "Lack of cover makes employees feel responsible for colleagues' workload",
+        "Workers absorb the message that attendance matters more than recovery",
+        "Open and honest conversations can counter this culture"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how individual identity, job insecurity and workplace culture affect decisions about sick leave.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לסכם באנגלית את work centrality, הפחד משיפוט, תנאי העבודה, תרבות ארגונית והיחס לבריאות נפשית ופיזית.",
+      "expected_points": [
+        "A third to a half of people may work while sick",
+        "Strong work centrality can make absence feel like losing part of oneself",
+        "Caring professionals may feel a duty to keep showing up",
+        "Young or insecure workers may fear a negative impression",
+        "Understaffing and toxic productivity cultures create guilt",
+        "Healthy workplaces encourage honest discussion and trust",
+        "Mental and physical inability to work should be treated equally"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write practical guidance for employees deciding whether they are well enough to work.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכתוב הנחיות מאוזנות באנגלית הכוללות תסמינים, יכולת לתפקד, עבודה מהבית, בריאות נפשית וטיפול עצמי.",
+      "expected_points": [
+        "Assess capacity to perform the job safely and effectively",
+        "Stay home for 48 hours after vomiting or diarrhoea stops",
+        "Stay home for 24 hours after a fever passes",
+        "Consider working from home for mild coughs or colds when appropriate",
+        "Treat mental health like physical health",
+        "Check sleep, self-care and ability to decompress",
+        "Communicate honestly with the employer",
+        "Do not let guilt replace a health-based decision"
+      ]
+    }
+  ]
+}

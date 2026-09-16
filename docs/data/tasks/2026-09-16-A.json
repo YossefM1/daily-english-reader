@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-16",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Complaints to watchdog about water firms jump 84%",
+  "article_url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main reason complaints to the water-industry watchdog rose so sharply?",
+      "difficulty": "A",
+      "options": [
+        "Concern and confusion about rising bills",
+        "A nationwide ban on water meters",
+        "The closure of the consumer watchdog",
+        "A fall in the number of households served"
+      ],
+      "correct_answer": "Concern and confusion about rising bills",
+      "explanation_hebrew": "הכתבה קושרת את העלייה בתלונות בעיקר לחשש ולבלבול של לקוחות בעקבות התייקרות החשבונות."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many complaints did the Consumer Council for Water receive in 2025-26?",
+      "difficulty": "A",
+      "options": [
+        "8,235",
+        "15,115",
+        "36,000",
+        "321,347"
+      ],
+      "correct_answer": "15,115",
+      "explanation_hebrew": "מספר התלונות ל־CCW עלה מ־8,235 בשנה הקודמת ל־15,115 בשנת 2025–26."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does the phrase “steep price hikes” mean?",
+      "difficulty": "A",
+      "options": [
+        "Bills that are difficult to calculate",
+        "Prices that change every month",
+        "Large and sudden increases in prices",
+        "Discounts offered to low-income customers"
+      ],
+      "correct_answer": "Large and sudden increases in prices",
+      "explanation_hebrew": "steep price hikes פירושו עליות מחירים חדות ומשמעותיות, ולא שינוי קטן או הנחה."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which two companies were rated “poor” on both complaint measures?",
+      "difficulty": "A",
+      "options": [
+        "Portsmouth Water and Bristol Water",
+        "Severn Trent and Wessex Water",
+        "Southern Water and South East Water",
+        "Thames Water and South West Water"
+      ],
+      "correct_answer": "Thames Water and South West Water",
+      "explanation_hebrew": "CCW דירג את Thames Water ואת South West Water כחלשות בשני המדדים שנבדקו."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the CCW say companies should explain more clearly how customers' money is invested?",
+      "difficulty": "A",
+      "options": [
+        "Customers want to see real improvements after paying higher bills",
+        "Customers are asking companies to stop all infrastructure work",
+        "The watchdog wants every household to receive the same bill",
+        "Water companies are no longer allowed to contact customers"
+      ],
+      "correct_answer": "Customers want to see real improvements after paying higher bills",
+      "explanation_hebrew": "הלקוחות משלמים יותר ולכן מצפים לראות ולהבין כיצד הכסף יוצר שיפור ממשי בשירות ובתשתיות."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Water UK mean by saying upgrades are “vital”?",
+      "difficulty": "A",
+      "options": [
+        "They are optional but popular",
+        "They are essential and necessary",
+        "They are temporary and inexpensive",
+        "They are limited to redesigned bills"
+      ],
+      "correct_answer": "They are essential and necessary",
+      "explanation_hebrew": "vital פירושו חיוני והכרחי; הארגון טוען שההשקעות דרושות לאספקת מים, לצמיחה ולצמצום ביוב בנהרות ובים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the changes in complaints made to the CCW and directly to water companies.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את שני שיעורי העלייה ואת המספרים הכוללים, ולהבחין בין תלונה לחברה לבין פנייה ל־CCW.",
+      "expected_points": [
+        "CCW complaints rose by 84%",
+        "They increased from 8,235 to 15,115",
+        "Direct complaints to companies rose by 56%",
+        "Direct complaints totalled 321,347",
+        "Customers must first complain directly to their water company before approaching the CCW"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why higher bills may lead to more complaints even if companies say the money is needed for upgrades.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את המתח בין הוצאה מיידית של הלקוח לבין שיפור עתידי, וכן בעיות בהירות, יכולת תשלום ואמון.",
+      "expected_points": [
+        "Customers feel the cost increase immediately",
+        "Benefits from infrastructure investment may take time to appear",
+        "Some households struggle with affordability",
+        "Measured billing and billing administration caused confusion",
+        "Customers may distrust companies if spending is not explained clearly",
+        "Visible improvements could reduce dissatisfaction"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the complaint figures, the strongest and weakest performers, and the industry's response.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לסכם באנגלית את העלייה בתלונות, נושאי התלונות, דירוגי החברות והסבר הענף להתייקרות.",
+      "expected_points": [
+        "Watchdog complaints rose by a record 84% to 15,115",
+        "Direct complaints rose 56% to 321,347",
+        "Main issues were measured billing, affordability and billing administration",
+        "Thames Water and South West Water were poor on both measures",
+        "Portsmouth Water and Bristol Water were good on both measures",
+        "Water UK said higher bills fund essential upgrades",
+        "Water UK said 94% of complaints are resolved at the earliest stage"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short customer notice explaining a water-bill increase clearly and responsibly.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב הודעה ברורה באנגלית שמציגה את השינוי, השימוש בכסף, אפשרויות סיוע ודרך מסודרת להגשת תלונה.",
+      "expected_points": [
+        "State the size and timing of the bill change",
+        "Explain which infrastructure or environmental improvements it funds",
+        "Use plain language for measured charges",
+        "Offer affordability support",
+        "Give a clear complaint process",
+        "Set expectations for when customers will see improvements",
+        "Avoid dismissing customer concerns"
+      ]
+    }
+  ]
+}

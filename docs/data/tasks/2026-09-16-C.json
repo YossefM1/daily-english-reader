@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-16",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Five takeaways from Canada's push to woo the world's richest investors",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What was the central purpose of Canada's investment summit?",
+      "difficulty": "C",
+      "options": [
+        "To attract global capital and reduce Canada's economic reliance on the US",
+        "To end private investment in Canadian infrastructure",
+        "To replace trade with Asia and Europe by expanding only domestic spending",
+        "To transfer ownership of all Canadian airports to the US"
+      ],
+      "correct_answer": "To attract global capital and reduce Canada's economic reliance on the US",
+      "explanation_hebrew": "קרני הציג את קנדה כ־safe harbour להשקעות ורוצה לגייס הון רב תוך גיוון הקשרים הכלכליים מעבר לארה״ב."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What investment target has Mark Carney set for the next five years?",
+      "difficulty": "C",
+      "options": [
+        "C$120bn",
+        "C$1tn",
+        "C$500bn",
+        "C$160tn"
+      ],
+      "correct_answer": "C$1tn",
+      "explanation_hebrew": "קרני התחייב למשוך טריליון דולר קנדי בחמש השנים הקרובות; 120 טריליון הוא היקף הנכסים שמייצגים המשתתפים."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Carney mean by calling Canada a “safe harbour” for investors?",
+      "difficulty": "C",
+      "options": [
+        "A country focused mainly on expanding seaports",
+        "A market that guarantees every investment will make a profit",
+        "A relatively stable place for capital during global uncertainty",
+        "A system that prevents foreign investors from withdrawing money"
+      ],
+      "correct_answer": "A relatively stable place for capital during global uncertainty",
+      "explanation_hebrew": "safe harbour משמש כאן כמטפורה למקום יציב ובטוח יחסית להשקעה בתקופה של אי־ודאות גיאופוליטית וכלכלית."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How would Carney's airport proposal change the current model?",
+      "difficulty": "C",
+      "options": [
+        "The four airports would close their regional routes",
+        "Provincial governments would sell the airport land",
+        "Labour unions would take control of airport operations",
+        "The federal government would keep the land and assets while allowing private investment in operations"
+      ],
+      "correct_answer": "The federal government would keep the land and assets while allowing private investment in operations",
+      "explanation_hebrew": "המדינה תשמור בבעלותה את הקרקע והנכסים הבסיסיים, אך תאפשר הון פרטי בפעילות שדות התעופה."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is Canada presented as well suited to AI data-centre investment?",
+      "difficulty": "C",
+      "options": [
+        "Its cold climate, available space and clean-energy grid support large infrastructure",
+        "It has banned data centres in warmer regions",
+        "Its airports already own all AI companies",
+        "It offers unlimited skilled labour with no regulatory requirements"
+      ],
+      "correct_answer": "Its cold climate, available space and clean-energy grid support large infrastructure",
+      "explanation_hebrew": "השילוב של אקלים קר, שטח רב ורשת אנרגיה נקייה יוצר תנאים מתאימים להקמת תשתיות עתירות אנרגיה כגון מרכזי נתונים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this context, what does Ottawa “dangled” before potential investors mean?",
+      "difficulty": "C",
+      "options": [
+        "It cancelled tax incentives without warning",
+        "It offered attractive incentives to encourage investment",
+        "It delayed every project review indefinitely",
+        "It required investors to buy public airports"
+      ],
+      "correct_answer": "It offered attractive incentives to encourage investment",
+      "explanation_hebrew": "dangled פירושו הציג או הציע דבר מושך כדי לעודד פעולה; כאן מדובר בתמריצי מס וב־mega deduction."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the projects and policy incentives Canada presented to investors.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין את מספר הפרויקטים, סוגי התשתית, תמריצי המס, אישורים מהירים ויעד זמן הבדיקה.",
+      "expected_points": [
+        "More than 160 projects were offered",
+        "Projects included data centres",
+        "Projects included pipelines",
+        "Port expansions were included",
+        "Ottawa offered new tax incentives",
+        "A mega-deduction measure was presented",
+        "The government promised more predictable approvals",
+        "The target is a one-year review timeline"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why the airport plan is both financially attractive and politically controversial.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את גיוס ההון והשקעתו מחדש לצד ביקורת על הפרטה, עובדים, נוסעים ומכירת נכסים ציבוריים.",
+      "expected_points": [
+        "Private investment could raise billions of dollars",
+        "Funds could be reinvested in transport infrastructure",
+        "Smaller regional airports could benefit",
+        "The federal government would retain the underlying land and assets",
+        "Labour unions fear harm to workers and passengers",
+        "Critics describe the plan as privatisation rather than nation building",
+        "Protesters fear public infrastructure is being sold to corporate interests"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the summit's investment pitch, major announcements, criticism and trade strategy.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לסכם באנגלית את יעד ההשקעה, הפרויקטים, שדות התעופה, AI, הביקורת והאיזון בין ארה״ב לגיוון לאירופה ואסיה.",
+      "expected_points": [
+        "Carney presented Canada as a stable safe harbour",
+        "He targets C$1tn in investment over five years",
+        "More than 160 projects and new tax incentives were offered",
+        "Private investment may be allowed in four major airports",
+        "The summit was said to generate nearly C$500bn in investment",
+        "AI infrastructure drew interest because of Canada's physical and energy advantages",
+        "Unions and protesters warned of a public-asset sell-off",
+        "Canada still values US ties while seeking opportunities in Europe and Asia"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced briefing advising a long-term investor whether to consider projects presented at the summit.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכתוב הערכה מאוזנת באנגלית הכוללת הזדמנויות, תמריצים, אישורים, יתרונות AI, סיכוני סחר, ביקורת ציבורית וממשל.",
+      "expected_points": [
+        "Assess Canada's political and economic stability",
+        "Identify relevant projects among data, energy, pipelines, ports or airports",
+        "Consider tax incentives and the proposed one-year review",
+        "Evaluate the C$1tn target and reported C$500bn interest critically",
+        "Discuss skilled-labour and regulatory needs",
+        "Consider the US trade dispute and diversification toward Europe and Asia",
+        "Address airport governance and labour opposition",
+        "Avoid treating government targets as guaranteed returns",
+        "Reach a qualified investment conclusion"
+      ]
+    }
+  ]
+}
