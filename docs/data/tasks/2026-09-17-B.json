@@ -1,0 +1,163 @@
+{
+  "adaptation_summary": {
+    "confidence": "medium",
+    "primary_focus": "vocabulary_context",
+    "recommended_level": "B"
+  },
+  "article_id": "B",
+  "article_level": "B",
+  "article_title": "Interest rates hold expected but Bank of England facing tough choices",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-09-17",
+  "profile_version_used": 1,
+  "tasks": [
+    {
+      "category": "main_idea",
+      "correct_answer": "Controlling inflation without putting more pressure on employers and job prospects",
+      "difficulty": "B",
+      "explanation_hebrew": "הבנק צריך לאזן בין ריסון אינפלציה לבין הימנעות מהכבדה נוספת על מעסיקים ועל מחפשי עבודה.",
+      "id": "B-1",
+      "options": [
+        "Controlling inflation without putting more pressure on employers and job prospects",
+        "Choosing which mortgage broker will set the Bank rate",
+        "Replacing savings accounts with fixed-rate mortgages",
+        "Keeping oil prices below a legally fixed level"
+      ],
+      "prompt": "What difficult choice is the Bank of England facing in the report?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "factual_details",
+      "correct_answer": "3.75%",
+      "difficulty": "B",
+      "explanation_hebrew": "הצפי בכתבה הוא להשארת ריבית הבנק על 3.75%; 2% הוא יעד האינפלציה, ו־5.83% הוא שיעור משכנתה ממוצע.",
+      "id": "B-2",
+      "options": [
+        "5.83%",
+        "3.75%",
+        "2%",
+        "2.5%"
+      ],
+      "prompt": "What Bank rate do economists expect the MPC to maintain at the forthcoming meeting?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "vocabulary_context",
+      "correct_answer": "A reference rate used to help set other lending and savings rates",
+      "difficulty": "B",
+      "explanation_hebrew": "benchmark הוא מדד או נקודת ייחוס; ריבית הבנק משמשת בסיס לקביעת ריביות אשראי וחיסכון.",
+      "id": "B-3",
+      "options": [
+        "A guarantee that every bank offers the same mortgage",
+        "A measure of the total cost of imported oil",
+        "A reference rate used to help set other lending and savings rates",
+        "The maximum amount a household may borrow"
+      ],
+      "prompt": "What does “benchmark” mean in the discussion of the Bank rate?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "factual_details",
+      "correct_answer": "It rose from 2.9% to 3.1%",
+      "difficulty": "B",
+      "explanation_hebrew": "מדד CPI עלה מ־2.9% ביולי ל־3.1% באוגוסט, מעל יעד הבנק של 2%.",
+      "id": "B-4",
+      "options": [
+        "It fell from 3.1% to 2.9%",
+        "It stayed at the Bank's 2% target",
+        "It rose from 3.75% to 5.77%",
+        "It rose from 2.9% to 3.1%"
+      ],
+      "prompt": "What happened to the CPI inflation rate between July and August?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "vocabulary_context",
+      "correct_answer": "Inflation remains persistent and difficult to bring down",
+      "difficulty": "B",
+      "explanation_hebrew": "sticky מתאר אינפלציה עיקשת שנמשכת וקשה להפחית אותה, ולכן עלויות המימון של המלווים נשארות תחת לחץ.",
+      "id": "B-5",
+      "options": [
+        "Inflation remains persistent and difficult to bring down",
+        "Prices are guaranteed to stop rising soon",
+        "Mortgage rates are legally fixed for all borrowers",
+        "Energy prices respond immediately to every rate decision"
+      ],
+      "prompt": "What does the mortgage broker mean by inflation being “sticky”?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "vocabulary_context",
+      "correct_answer": "Savings may buy less as prices rise",
+      "difficulty": "B",
+      "explanation_hebrew": "erode פירושו לשחוק: גם אם מתקבלת ריבית גבוהה יותר, עליית מחירים עלולה להפחית את כוח הקנייה.",
+      "id": "B-6",
+      "options": [
+        "Higher prices always increase the real value of interest",
+        "Savings may buy less as prices rise",
+        "Inflation physically damages banknotes",
+        "Every savings account automatically loses its balance"
+      ],
+      "prompt": "What does it mean that inflation could “erode” the spending power of savings?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "factual_details",
+      "difficulty": "B",
+      "expected_points": [
+        "The prolonged conflict has raised global energy prices",
+        "Oil has remained above $100 a barrel since 9 September",
+        "Petrol, diesel and airfares helped drive the August rise",
+        "Higher energy costs are expected to feed into food and fuel prices"
+      ],
+      "id": "B-7",
+      "prompt": "Explain the link the article draws between the Middle East conflict, energy prices and UK inflation.",
+      "rubric_hebrew": "יש לתאר את שרשרת ההשפעה ולציין אילו מחירים תרמו לנתון הנוכחי ומה עדיין צפוי.",
+      "type": "short_answer"
+    },
+    {
+      "category": "inference",
+      "difficulty": "B",
+      "expected_points": [
+        "Markets expect the Bank rate may rise",
+        "Persistent inflation pressures lenders' funding costs",
+        "Lenders can reprice new mortgages in anticipation of future changes",
+        "The expected hold does not guarantee cheaper mortgages"
+      ],
+      "id": "B-8",
+      "prompt": "Why have lenders raised new fixed-rate mortgage prices before the MPC's announcement?",
+      "rubric_hebrew": "יש להבחין בין ריבית בנק בפועל לבין ציפיות שוק ועלויות המימון של מלווים.",
+      "type": "short_answer"
+    },
+    {
+      "category": "summary",
+      "difficulty": "B",
+      "expected_points": [
+        "Economists expect a sixth consecutive hold at 3.75%",
+        "Inflation is above the 2% target and energy pressures continue",
+        "Higher rates could weigh on employers and employment",
+        "New fixed mortgage rates have already increased",
+        "Savers may receive better nominal returns but inflation can reduce purchasing power"
+      ],
+      "id": "B-9",
+      "prompt": "Summarise the expected rate decision, the reasons for caution and the effects on borrowers and savers.",
+      "rubric_hebrew": "יש לסכם באנגלית את הצפי, האינפלציה, הסיכון לתעסוקה וההשפעה השונה על אשראי וחיסכון.",
+      "type": "summary"
+    },
+    {
+      "category": "written_expression",
+      "difficulty": "B",
+      "expected_points": [
+        "The Bank rate is a reference rate expected to remain at 3.75%",
+        "CPI inflation rose to 3.1% in August",
+        "The inflation target is 2%",
+        "Average two-year and five-year fixed mortgages are 5.77% and 5.83% respectively",
+        "The MPC decision had not yet been announced in the report"
+      ],
+      "id": "B-10",
+      "prompt": "Write a brief newspaper explainer distinguishing the Bank rate, mortgage rates and inflation. Use the report's figures and avoid presenting forecasts as confirmed outcomes.",
+      "rubric_hebrew": "יש להסביר באנגלית את שלושת המושגים, להציג מספרים נכונים ולהבחין בין צפי לנתון שפורסם.",
+      "type": "written_response"
+    }
+  ]
+}

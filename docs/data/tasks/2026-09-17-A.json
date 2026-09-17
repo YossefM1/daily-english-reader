@@ -1,0 +1,162 @@
+{
+  "adaptation_summary": {
+    "confidence": "medium",
+    "primary_focus": "vocabulary_context",
+    "recommended_level": "B"
+  },
+  "article_id": "A",
+  "article_level": "A",
+  "article_title": "Why caffeine makes some people buzz - and others barely notice",
+  "article_url": "https://www.bbc.co.uk/news/articles/c4gkd4zw564o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-09-17",
+  "profile_version_used": 1,
+  "tasks": [
+    {
+      "category": "main_idea",
+      "correct_answer": "Differences in metabolism, medicines, habits and tolerance influence its effects",
+      "difficulty": "A",
+      "explanation_hebrew": "הכתבה מציגה שילוב של גנטיקה, פירוק בכבד, תרופות, עישון וסבילות כהסבר להבדלים.",
+      "id": "A-1",
+      "options": [
+        "Differences in metabolism, medicines, habits and tolerance influence its effects",
+        "The amount of coffee sold in a country determines sensitivity",
+        "Caffeine creates extra energy only in younger people",
+        "Everyone eliminates caffeine at the same speed"
+      ],
+      "prompt": "What best explains why caffeine affects people differently?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "factual_details",
+      "correct_answer": "It blocks the action of adenosine in the brain",
+      "difficulty": "A",
+      "explanation_hebrew": "קפאין חוסם את פעולת האדנוזין, חומר שמצטבר במוח וגורם לתחושת ישנוניות; הוא אינו מספק אנרגיה נוספת.",
+      "id": "A-2",
+      "options": [
+        "It immediately removes all adenosine from the body",
+        "It blocks the action of adenosine in the brain",
+        "It supplies the body with additional energy",
+        "It prevents the liver from producing enzymes"
+      ],
+      "prompt": "How does caffeine reduce the feeling of tiredness?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "vocabulary_context",
+      "correct_answer": "Broken down by the body's chemical processes",
+      "difficulty": "A",
+      "explanation_hebrew": "metabolised פירושו מפורק בתהליכים כימיים בגוף; בכתבה אנזים בכבד מפרק קפאין.",
+      "id": "A-3",
+      "options": [
+        "Converted directly into sleep",
+        "Absorbed only through the skin",
+        "Broken down by the body's chemical processes",
+        "Stored permanently in the brain"
+      ],
+      "prompt": "What does “metabolised” mean when the article describes caffeine in the liver?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "vocabulary_context",
+      "correct_answer": "Push the combined caffeine effect far enough to cause anxiety",
+      "difficulty": "A",
+      "explanation_hebrew": "הביטוי מתאר חציית סף: קפאין מהכוס הראשונה עדיין בגוף, והכוס השנייה עלולה להספיק ליצירת חרדה.",
+      "id": "A-4",
+      "options": [
+        "Change the person's body weight immediately",
+        "Make the first cup leave the body faster",
+        "Measure the precise caffeine dose on a balance",
+        "Push the combined caffeine effect far enough to cause anxiety"
+      ],
+      "prompt": "What does “tip the scales” mean in the example of a second cup of coffee?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "factual_details",
+      "correct_answer": "Smoking can accelerate caffeine breakdown, so quitting may slow it",
+      "difficulty": "A",
+      "explanation_hebrew": "עישון עשוי לזרז פירוק קפאין בכבד. לאחר הפסקתו אותה כמות עשויה להישאר בגוף זמן רב יותר.",
+      "id": "A-5",
+      "options": [
+        "Smoking can accelerate caffeine breakdown, so quitting may slow it",
+        "Quitting permanently eliminates caffeine tolerance",
+        "Coffee beans contain more caffeine when a smoker quits",
+        "Vaping is proven to break down caffeine faster than smoking"
+      ],
+      "prompt": "Why might someone's usual coffee feel stronger after they stop smoking?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "vocabulary_context",
+      "correct_answer": "A rigid rule applied to everyone without considering individual differences",
+      "difficulty": "A",
+      "explanation_hebrew": "זהו כלל גורף ונוקשה; המומחית מסבירה שהוא אינו מתחשב בהבדלים בין אנשים.",
+      "id": "A-6",
+      "options": [
+        "A method for measuring the quality of sleep",
+        "A rigid rule applied to everyone without considering individual differences",
+        "A recommendation limited to people using blankets",
+        "A rule that changes according to each person's metabolism"
+      ],
+      "prompt": "What does “a blanket hard-and-fast rule” mean in the sleep expert's discussion?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "factual_details",
+      "difficulty": "A",
+      "expected_points": [
+        "Smoking can speed up caffeine breakdown",
+        "Some medicines can prolong caffeine's presence in the body",
+        "Pregnancy-related hormones can suppress the enzyme that breaks caffeine down",
+        "Regular consumption can reduce sensitivity through tolerance"
+      ],
+      "id": "A-7",
+      "prompt": "Identify three non-genetic factors the article says can change caffeine's effects.",
+      "rubric_hebrew": "יש לציין שלושה גורמים שאינם גנטיים ולהסביר את כיוון השפעתם לפי הכתבה.",
+      "type": "short_answer"
+    },
+    {
+      "category": "inference",
+      "difficulty": "A",
+      "expected_points": [
+        "Caffeine may affect sleep quality as well as the ability to fall asleep",
+        "Its effects differ between individuals",
+        "It can remain in the body for hours even when effects are not obvious"
+      ],
+      "id": "A-8",
+      "prompt": "Why does falling asleep easily after coffee not necessarily show that caffeine has no effect?",
+      "rubric_hebrew": "יש לקשר בין הירדמות, איכות השינה ושונות בפירוק קפאין, בלי לקבוע אבחנה רפואית.",
+      "type": "short_answer"
+    },
+    {
+      "category": "summary",
+      "difficulty": "A",
+      "expected_points": [
+        "Caffeine masks tiredness by blocking adenosine",
+        "A liver enzyme breaks it down at different speeds",
+        "Genes, smoking, medicines, pregnancy and tolerance affect responses",
+        "Moderate coffee consumption is associated with better health outcomes",
+        "The studies do not prove coffee alone causes those outcomes"
+      ],
+      "id": "A-9",
+      "prompt": "Summarise how caffeine works, why responses differ, and how the article qualifies its health claims.",
+      "rubric_hebrew": "יש לסכם באנגלית מנגנון פעולה, שונות אישית, סבילות ומגבלות הראיות על יתרונות בריאותיים.",
+      "type": "summary"
+    },
+    {
+      "category": "written_expression",
+      "difficulty": "A",
+      "expected_points": [
+        "Explain differences in liver metabolism",
+        "Discuss tolerance from regular consumption",
+        "Mention medicines or smoking as another influence",
+        "Explain that a second cup can add to caffeine still present",
+        "Distinguish feeling alert from receiving extra energy"
+      ],
+      "id": "A-10",
+      "prompt": "Write a short explanation for a friend who thinks coffee affects everyone identically. Use evidence from the article.",
+      "rubric_hebrew": "יש לכתוב הסבר באנגלית עם לפחות שלושה גורמים ודוגמה של הצטברות קפאין, ללא הכללות מוחלטות.",
+      "type": "written_response"
+    }
+  ]
+}

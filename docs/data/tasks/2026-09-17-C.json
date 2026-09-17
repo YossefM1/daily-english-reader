@@ -1,0 +1,164 @@
+{
+  "adaptation_summary": {
+    "confidence": "medium",
+    "primary_focus": "vocabulary_context",
+    "recommended_level": "B"
+  },
+  "article_id": "C",
+  "article_level": "C",
+  "article_title": "'My rent was higher than my student loan' - the booming cost of private halls",
+  "article_url": "https://www.bbc.co.uk/news/articles/cq8je1n70xwo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-09-17",
+  "profile_version_used": 1,
+  "tasks": [
+    {
+      "category": "main_idea",
+      "correct_answer": "More accommodation is being built, but much of it remains unaffordable for domestic students",
+      "difficulty": "C",
+      "explanation_hebrew": "למרות גידול בהיצע, מחירי PBSA גבוהים ורבים מהסטודנטים המקומיים אינם יכולים לשלם אותם.",
+      "id": "C-1",
+      "options": [
+        "More accommodation is being built, but much of it remains unaffordable for domestic students",
+        "All private halls have replaced university-owned accommodation",
+        "Falling construction costs have made every room affordable",
+        "Students are rejecting private halls only because they lack gyms"
+      ],
+      "prompt": "What central tension does the article identify in the growth of private student halls?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "factual_details",
+      "correct_answer": "She worked 20 hours a week alongside her studies",
+      "difficulty": "C",
+      "explanation_hebrew": "לארה עבדה 20 שעות שבועיות כדי לכסות את הפער; לדבריה העייפות ומחסור בזמן לימוד תרמו לכישלון בבחינות.",
+      "id": "C-2",
+      "options": [
+        "She stopped paying rent after the first month",
+        "She worked 20 hours a week alongside her studies",
+        "She received a full rent refund from the university",
+        "She moved into free social housing"
+      ],
+      "prompt": "How did Lara respond to the gap between her rent and maintenance loan?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "vocabulary_context",
+      "correct_answer": "The amount her available funding lacked to cover the rent",
+      "difficulty": "C",
+      "explanation_hebrew": "shortfall הוא חוסר כספי: שכר הדירה היה גבוה ביותר מ־200 ליש״ט מהלוואת המחיה החודשית שלה.",
+      "id": "C-3",
+      "options": [
+        "A discount offered for paying rent early",
+        "The time between applying for halls and receiving an offer",
+        "The amount her available funding lacked to cover the rent",
+        "The reduction in the number of rooms in Brae House"
+      ],
+      "prompt": "What does “shortfall” refer to in Lara's situation?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "vocabulary_context",
+      "correct_answer": "Able to generate enough income to make a project economically workable",
+      "difficulty": "C",
+      "explanation_hebrew": "financially viable פירושו כדאי או אפשרי מבחינה כלכלית ליזם, לא בהכרח נגיש מבחינת המחיר לסטודנט.",
+      "id": "C-4",
+      "options": [
+        "Affordable to every domestic student",
+        "Guaranteed to remain fully occupied forever",
+        "Built and operated entirely by the government",
+        "Able to generate enough income to make a project economically workable"
+      ],
+      "prompt": "What does “financially viable” mean when experts discuss PBSA development?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "factual_details",
+      "correct_answer": "Arranging a private rental from abroad exposed her to unfamiliar rules and scammers",
+      "difficulty": "C",
+      "explanation_hebrew": "סבא התקשתה לארגן שכירות מרחוק, לא הכירה את הכללים ונתקלה ברמאים, ולכן מסגרת PBSA נתפסה כבטוחה יותר.",
+      "id": "C-5",
+      "options": [
+        "Arranging a private rental from abroad exposed her to unfamiliar rules and scammers",
+        "PBSA guaranteed her university admission",
+        "Every private landlord required a UK passport",
+        "University halls had no rooms suitable for international students"
+      ],
+      "prompt": "Why did Saba see PBSA as a reassuring option?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "vocabulary_context",
+      "correct_answer": "Proposed or planned projects that are not necessarily completed",
+      "difficulty": "C",
+      "explanation_hebrew": "pipeline מתאר פרויקטים בשלבי תכנון ופיתוח; הכתבה מדגישה שלא כולם יגיעו להשלמה.",
+      "id": "C-6",
+      "options": [
+        "Accommodation withdrawn permanently from the market",
+        "Proposed or planned projects that are not necessarily completed",
+        "Rooms already occupied by students",
+        "Buildings guaranteed to open during the current term"
+      ],
+      "prompt": "What does “in the development pipeline” mean in the accommodation figures?",
+      "type": "multiple_choice"
+    },
+    {
+      "category": "factual_details",
+      "difficulty": "C",
+      "expected_points": [
+        "49.7% of Glasgow rooms had been booked in June 2026",
+        "The comparable figure was 81.8% in June 2024",
+        "Growth in international student numbers slowed",
+        "New accommodation continued to enter the market"
+      ],
+      "id": "C-7",
+      "prompt": "Compare the June booking figures for Glasgow in 2024 and 2026, and explain the reported market change.",
+      "rubric_hebrew": "יש לציין נתוני הזמנות ולא לכנותם תפוסה סופית, ולחבר להאטת ביקוש ולתוספת היצע.",
+      "type": "short_answer"
+    },
+    {
+      "category": "inference",
+      "difficulty": "C",
+      "expected_points": [
+        "Available rooms may be too expensive for many domestic students",
+        "Some developments target affluent international or postgraduate students",
+        "International demand has weakened while supply has expanded",
+        "A shortage of affordable housing is not identical to a shortage of expensive rooms"
+      ],
+      "id": "C-8",
+      "prompt": "Why can student housing shortages coexist with lower booking rates in private halls?",
+      "rubric_hebrew": "יש להסביר התאמה בין מחיר לקהל יעד ולא להסיק שכל הסטודנטים יכולים לשלם עבור החדרים הקיימים.",
+      "type": "short_answer"
+    },
+    {
+      "category": "summary",
+      "difficulty": "C",
+      "expected_points": [
+        "Lara experienced rent above her loan and pressure on her study time",
+        "Saba valued reassurance when arranging housing from abroad",
+        "Developers cite demand and financially attractive projects",
+        "Campaigners want affordable or social housing instead",
+        "Lower bookings and construction delays create risks for future developments"
+      ],
+      "id": "C-9",
+      "prompt": "Summarise the article's different perspectives on PBSA, including students, developers and housing campaigners.",
+      "rubric_hebrew": "יש לסכם באנגלית לפחות שלוש נקודות מבט, כולל יתרונות לביטחון ולמימון לצד בעיית הנגישות.",
+      "type": "summary"
+    },
+    {
+      "category": "written_expression",
+      "difficulty": "C",
+      "expected_points": [
+        "Consider whether rents are affordable for domestic students",
+        "Recognise the security benefits some international students value",
+        "Present developers' claim that PBSA reduces wider rental pressure as a claim",
+        "Consider campaigners' concern about land that could support social housing",
+        "Assess falling bookings and slower international demand",
+        "Account for the possibility that market conditions change during construction"
+      ],
+      "id": "C-10",
+      "prompt": "Write a balanced briefing for a Scottish city council considering a new PBSA project. Base the arguments on this article.",
+      "rubric_hebrew": "יש לכתוב באנגלית איזון בין צורכי סטודנטים, מחיר, השפעה על דיור, כדאיות וביקוש עתידי; אין להציג טענות צד כעובדות מוסכמות.",
+      "type": "written_response"
+    }
+  ]
+}
