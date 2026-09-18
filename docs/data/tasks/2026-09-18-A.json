@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-18",
+  "article_id": "A",
+  "article_level": "A",
+  "article_title": "Spotted wildcat from Bolivian forest revealed as new species",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+  "profile_version_used": null,
+  "adaptation_summary": {
+    "confidence": "medium",
+    "primary_focus": "vocabulary_context",
+    "recommended_level": "B"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main significance of the DNA study?",
+      "difficulty": "A",
+      "options": [
+        "It revealed previously unrecognised tiger cat species",
+        "It showed all tiger cats are domestic cats",
+        "It proved tiger cats live only in Bolivia",
+        "It found that large cats need no conservation"
+      ],
+      "correct_answer": "It revealed previously unrecognised tiger cat species",
+      "explanation_hebrew": "מחקר הדנ״א חשף מינים נוספים של חתולי טיגר, ובהם המין מבוליביה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What first led Dr Nogales-Ascarrunz to investigate Tigrino?",
+      "difficulty": "A",
+      "options": [
+        "A museum displayed its skeleton",
+        "She noticed its unusual appearance while volunteering at a sanctuary",
+        "It was photographed on an island",
+        "A farmer identified it as a tiger"
+      ],
+      "correct_answer": "She noticed its unusual appearance while volunteering at a sanctuary",
+      "explanation_hebrew": "החוקרת הבחינה במראהו החריג בזמן שהתנדבה במקלט."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “went under the radar” mean in the account of the cat?",
+      "difficulty": "A",
+      "options": [
+        "It avoided aircraft",
+        "It migrated secretly",
+        "It remained unnoticed as a distinct species",
+        "It was tracked electronically"
+      ],
+      "correct_answer": "It remained unnoticed as a distinct species",
+      "explanation_hebrew": "הביטוי מתאר מין שלא זוהה כנפרד משום שדמה לחתולי בר אחרים."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “elusive” suggest about these mammals?",
+      "difficulty": "A",
+      "options": [
+        "They are unusually aggressive",
+        "They are easy to breed",
+        "They are found only in museums",
+        "They are difficult to find or observe"
+      ],
+      "correct_answer": "They are difficult to find or observe",
+      "explanation_hebrew": "elusive מתאר בעלי חיים שקשה למצוא או לצפות בהם."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did researchers investigate tiger cats' family history?",
+      "difficulty": "A",
+      "options": [
+        "They compared DNA from living animals and museum specimens",
+        "They measured only domestic kittens",
+        "They interviewed tourists without collecting biological evidence",
+        "They compared lions' hunting behaviour"
+      ],
+      "correct_answer": "They compared DNA from living animals and museum specimens",
+      "explanation_hebrew": "החוקרים השתמשו בדנ״א מבעלי חיים חיים ומדגימות במוזיאונים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why are tiger cats called a “taxonomic nightmare”?",
+      "difficulty": "A",
+      "options": [
+        "They cannot survive outside museums",
+        "Their similar appearance and scarce specimens make classification difficult",
+        "They are all named after tigers",
+        "They have no genetic differences"
+      ],
+      "correct_answer": "Their similar appearance and scarce specimens make classification difficult",
+      "explanation_hebrew": "הדמיון החיצוני ומיעוט הדגימות מקשים על המיון למינים."
+    },
+    {
+      "id": "A-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does one confirmed living member not prove that Tigrino is the only surviving member?",
+      "difficulty": "A",
+      "expected_points": [
+        "Only one animal has been confirmed",
+        "Scientists believe other members exist",
+        "Other reported sightings have not been investigated"
+      ],
+      "rubric_hebrew": "יש להבחין בין מספר הפרטים שאומתו לבין כלל האוכלוסייה."
+    },
+    {
+      "id": "A-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name three threats to tiger cats identified in the article.",
+      "difficulty": "A",
+      "expected_points": [
+        "Deforestation",
+        "Habitat loss",
+        "Illegal hunting"
+      ],
+      "rubric_hebrew": "יש לציין את שלושת האיומים המפורשים בכתבה."
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how Tigrino led to a new species discovery and why this matters for conservation.",
+      "difficulty": "A",
+      "expected_points": [
+        "An unusual sanctuary cat prompted investigation",
+        "DNA comparisons distinguished species",
+        "The study suggests five rather than three tiger cat species",
+        "Knowing identity and distribution is necessary for protection"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית את תהליך הגילוי ואת הקשר לשימור, ללא קביעה שנותר רק פרט אחד."
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain to a friend why appearance alone was not enough to classify Tigrino. Use two details from the report.",
+      "difficulty": "A",
+      "expected_points": [
+        "Tiger cats have similar spots and stripes",
+        "Even experts struggle to distinguish them",
+        "DNA provides evidence of separate species",
+        "Museum specimens are scarce"
+      ],
+      "rubric_hebrew": "יש לכתוב הסבר באנגלית המבוסס על לפחות שני פרטים מהכתבה."
+    }
+  ]
+}

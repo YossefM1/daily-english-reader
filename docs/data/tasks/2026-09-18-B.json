@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-18",
+  "article_id": "B",
+  "article_level": "B",
+  "article_title": "Why we bought our first home with a 100% mortgage - despite the risks",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+  "profile_version_used": null,
+  "adaptation_summary": {
+    "confidence": "medium",
+    "primary_focus": "vocabulary_context",
+    "recommended_level": "B"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Which statement best captures the article's message about low-deposit mortgages?",
+      "difficulty": "B",
+      "options": [
+        "They can help buyers unable to save deposits but involve costs and risks",
+        "They remove all risks associated with falling house prices",
+        "They are available to every borrower and property",
+        "They always cost less than mortgages with larger deposits"
+      ],
+      "correct_answer": "They can help buyers unable to save deposits but involve costs and risks",
+      "explanation_hebrew": "הכתבה מציגה אפשרות לרוכשים שמתקשים לחסוך לצד ריבית גבוהה וסיכונים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Bronya and George choose a small deposit despite having more savings?",
+      "difficulty": "B",
+      "options": [
+        "They were required to give the rest to Lloyds",
+        "They wanted to retain money for renovations",
+        "Their home could not be renovated",
+        "They planned to sell immediately"
+      ],
+      "correct_answer": "They wanted to retain money for renovations",
+      "explanation_hebrew": "הזוג שמר חסכונות לפרויקט שיפוץ שעלותו מעל 20,000 ליש״ט."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is “negative equity” as defined in the report?",
+      "difficulty": "B",
+      "options": [
+        "Rent costing more than repayments",
+        "A lender refusing any loan",
+        "A property's value being below the outstanding mortgage debt",
+        "Paying off a mortgage early"
+      ],
+      "correct_answer": "A property's value being below the outstanding mortgage debt",
+      "explanation_hebrew": "הון עצמי שלילי נוצר כאשר שווי הנכס נמוך מהחוב שנותר."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “get on the housing ladder” mean here?",
+      "difficulty": "B",
+      "options": [
+        "Move to a taller building",
+        "Renovate a roof",
+        "Become a mortgage broker",
+        "Begin owning a home"
+      ],
+      "correct_answer": "Begin owning a home",
+      "explanation_hebrew": "הביטוי מתאר כניסה לבעלות על דירה או בית."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What do Conroy and Amber plan to do to build equity?",
+      "difficulty": "B",
+      "options": [
+        "Overpay their mortgage during the first five years",
+        "Stop making payments when prices fall",
+        "Increase their loan to cover holidays",
+        "Sell before making any repayments"
+      ],
+      "correct_answer": "Overpay their mortgage during the first five years",
+      "explanation_hebrew": "הם מתכננים לשלם מעבר להחזר הנדרש בחמש השנים הראשונות."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does George mean by being prepared to “ride out” market dips?",
+      "difficulty": "B",
+      "options": [
+        "Predict every price change",
+        "Stay in the home through temporary falls in property values",
+        "Avoid making monthly repayments",
+        "Replace the fixed rate every month"
+      ],
+      "correct_answer": "Stay in the home through temporary falls in property values",
+      "explanation_hebrew": "הכוונה היא להישאר בבית ולצלוח ירידות בשוק, בהתאם לתכנון לטווח ארוך."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What payment history must applicants demonstrate for Skipton's zero-deposit mortgage?",
+      "difficulty": "B",
+      "expected_points": [
+        "Rent paid for at least 12 consecutive months",
+        "Credit payments maintained for the last six months"
+      ],
+      "rubric_hebrew": "יש לציין את שתי תקופות התשלום ואת סוג התשלום המתאים לכל אחת."
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might negative equity be especially painful for a borrower who suddenly needs to sell?",
+      "difficulty": "B",
+      "expected_points": [
+        "The sale price may be lower than the remaining debt",
+        "A low or zero deposit leaves less protection against price falls",
+        "The borrower may face a shortfall after selling"
+      ],
+      "rubric_hebrew": "יש להסביר את הפער האפשרי בין תמורת המכירה לחוב, לא לטעון שהוא ודאי."
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the benefits, safeguards and risks of today's low-deposit mortgages in this report.",
+      "difficulty": "B",
+      "expected_points": [
+        "Smaller upfront deposits help some first-time buyers",
+        "Interest rates tend to be higher",
+        "Affordability checks are stronger than before the 2008 crisis",
+        "Property and borrower restrictions apply",
+        "Falling prices can create negative equity"
+      ],
+      "rubric_hebrew": "יש לאזן יתרונות, בדיקות זכאות וסיכונים ולייחס את ההשוואה ל־2008 למומחה."
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the report, write a balanced explanation of why the two couples accepted the risks. Do not give personal financial advice.",
+      "difficulty": "B",
+      "expected_points": [
+        "Conroy and Amber could not save a deposit while renting",
+        "They expect rising salaries and plan overpayments",
+        "Bronya and George retained savings for renovations",
+        "They plan to stay long term",
+        "Both recognise negative-equity risk"
+      ],
+      "rubric_hebrew": "יש לכתוב הסבר באנגלית עם פרטים משני הזוגות ולהימנע מהמלצה אישית."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-18",
+  "article_id": "C",
+  "article_level": "C",
+  "article_title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+  "profile_version_used": null,
+  "adaptation_summary": {
+    "confidence": "medium",
+    "primary_focus": "vocabulary_context",
+    "recommended_level": "B"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What two areas does the fact-finding mission's report examine?",
+      "difficulty": "C",
+      "options": [
+        "US strikes on civilian sites and Iranian repression of protests",
+        "Only negotiations over nuclear weapons",
+        "Only the conduct of Iranian protesters",
+        "US domestic law and British military policy"
+      ],
+      "correct_answer": "US strikes on civilian sites and Iranian repression of protests",
+      "explanation_hebrew": "הדו״ח עוסק בתקיפות במינאב ולמרד ובדיכוי המחאות באיראן."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which evidence did the experts cite when attributing the Minab strike to the US?",
+      "difficulty": "C",
+      "options": [
+        "Iran's refusal to comment alone",
+        "Reports of a preliminary US inquiry and US possession of Tomahawk missiles",
+        "A final publicly released US investigation",
+        "A statement admitting deliberate civilian targeting"
+      ],
+      "correct_answer": "Reports of a preliminary US inquiry and US possession of Tomahawk missiles",
+      "explanation_hebrew": "המומחים הסתמכו על דיווחים על בדיקה ראשונית ועל זהות המחזיק בטילי טומהוק; ממצאי הבדיקה האמריקאית טרם פורסמו."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “reasonable grounds to believe” communicate about the mission's findings?",
+      "difficulty": "C",
+      "options": [
+        "A claim without any supporting evidence",
+        "A final judicial conviction",
+        "An evidence-based conclusion expressed with a qualified standard of certainty",
+        "An admission by the accused government"
+      ],
+      "correct_answer": "An evidence-based conclusion expressed with a qualified standard of certainty",
+      "explanation_hebrew": "הניסוח מציין בסיס ראייתי למסקנה מסויגת, ולא הרשעה בבית משפט."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What distinction is made when experts reject “collateral damage” as the explanation for the school strike?",
+      "difficulty": "C",
+      "options": [
+        "They say no school was damaged",
+        "They say the school was a military base",
+        "They say the damage was caused by protesters",
+        "They say the school itself was the intended impact point rather than incidentally damaged"
+      ],
+      "correct_answer": "They say the school itself was the intended impact point rather than incidentally damaged",
+      "explanation_hebrew": "לפי מסקנת המומחים, בית הספר היה נקודת הפגיעה המיועדת ולא נפגע כתוצאה נלווית מתקיפת המתחם הסמוך."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did the US military respond to the Lamerd allegations?",
+      "difficulty": "C",
+      "options": [
+        "It denied conducting strikes there that day and disputed the weapon identification",
+        "It released a final report accepting responsibility",
+        "It said the sports complex was destroyed in January protests",
+        "It confirmed using Tomahawk missiles there"
+      ],
+      "correct_answer": "It denied conducting strikes there that day and disputed the weapon identification",
+      "explanation_hebrew": "הצבא האמריקאי הכחיש תקיפות בלמרד באותו יום וחלק על זיהוי הנשק כ־PrSM."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “expedited trials” mean in the discussion of executions?",
+      "difficulty": "C",
+      "options": [
+        "Trials postponed indefinitely",
+        "Trials conducted on an accelerated timetable",
+        "Trials conducted only outside Iran",
+        "Trials with charges withdrawn"
+      ],
+      "correct_answer": "Trials conducted on an accelerated timetable",
+      "explanation_hebrew": "expedited פירושו מזורז; הכתבה מתארת הוצאות להורג לאחר משפטים מזורזים."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why should a summary distinguish the official protest death toll from Hrana's figure?",
+      "difficulty": "C",
+      "expected_points": [
+        "The mission could not independently verify the total",
+        "The official figure is about 3,000",
+        "Hrana says it confirmed more than 7,000 deaths",
+        "The figures come from different sources and describe victims differently"
+      ],
+      "rubric_hebrew": "יש לשמור על ייחוס המקורות ועל אי־הוודאות ולא להציג מספר אחד כמוסכם."
+    },
+    {
+      "id": "C-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "According to the experts, how did attacks on healthcare facilities worsen harm during the crackdown?",
+      "difficulty": "C",
+      "expected_points": [
+        "Wounded demonstrators were beaten and arrested",
+        "Some healthcare workers were arrested",
+        "Victims were deterred from seeking life-saving treatment"
+      ],
+      "rubric_hebrew": "יש לייחס את התיאור למומחים ולהסביר כיצד הפעולות הרתיעו פנייה לטיפול."
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the mission's findings on the two February strikes, including the US responses.",
+      "difficulty": "C",
+      "expected_points": [
+        "The experts examined Minab school and Lamerd sports complex",
+        "They found grounds to attribute both strikes to the US",
+        "They classified the attacks as indiscriminate war crimes",
+        "The US investigation into Minab remains unpublished",
+        "The US denied the Lamerd strike and rejected the report's credibility"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית תוך ייחוס המסקנות למומחים והצגת ההכחשות והבדיקה שטרם פורסמה."
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain how the report presents civilians as facing danger from both conflict and domestic repression. Use evidence from each part and preserve attribution.",
+      "difficulty": "C",
+      "expected_points": [
+        "Experts describe civilian deaths in Minab and Lamerd",
+        "They report lethal force and extensive arrests during protests",
+        "They report torture and denial of legal counsel",
+        "They conclude Iranian authorities committed crimes against humanity",
+        "Both US and Iranian responses should be distinguished from expert findings"
+      ],
+      "rubric_hebrew": "יש לכתוב הסבר באנגלית עם ראיה מכל חלק, להבחין בין ממצאים, דיווחים ותגובות, ללא טענות שאינן בכתבה."
+    }
+  ]
+}
