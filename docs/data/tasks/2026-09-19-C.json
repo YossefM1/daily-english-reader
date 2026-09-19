@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-19",
+  "article_id": "C",
+  "article_title": "Russia's new relentless missile tactics exhaust Kyiv residents",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Which change best explains the reduced warning time described by Kyiv residents?",
+      "difficulty": "C",
+      "options": [
+        "Greater reliance on fast ballistic missiles rather than aircraft detectable earlier",
+        "A complete end to air-raid alerts",
+        "Kyiv's decision to close every shelter",
+        "A change from missiles to only slow-moving drones"
+      ],
+      "correct_answer": "Greater reliance on fast ballistic missiles rather than aircraft detectable earlier",
+      "explanation_hebrew": "הכתבה מתארת מעבר לשימוש רב יותר בטילים בליסטיים מהירים, שמקצרים את זמן ההתרעה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Daria decide to leave Kyiv rather than rely on her nearby shelter?",
+      "difficulty": "C",
+      "options": [
+        "It had permanently closed",
+        "It could take around ten minutes to reach with perhaps four minutes' warning",
+        "She had stopped working in Kyiv",
+        "She thought the two-wall rule prevented every injury"
+      ],
+      "correct_answer": "It could take around ten minutes to reach with perhaps four minutes' warning",
+      "explanation_hebrew": "הדרך למקלט אורכת כעשר דקות, בעוד שההתרעה מפני טיל בליסטי עשויה להיות ארבע דקות או פחות."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “a degree of predictability” mean in the description of earlier attacks?",
+      "difficulty": "C",
+      "options": [
+        "A guarantee that attacks never happened",
+        "An exact prediction of every target",
+        "Some advance notice enabling precautions",
+        "A fixed schedule announced by Russia"
+      ],
+      "correct_answer": "Some advance notice enabling precautions",
+      "explanation_hebrew": "הכוונה למידה מסוימת של יכולת לצפות התקפה מראש ולנקוט אמצעי זהירות."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “severing public transport links” mean in the description of metro closures?",
+      "difficulty": "C",
+      "options": [
+        "Creating new routes between riverbanks",
+        "Reducing ticket prices",
+        "Improving the speed of every train",
+        "Cutting off connections between Kyiv's two sides"
+      ],
+      "correct_answer": "Cutting off connections between Kyiv's two sides",
+      "explanation_hebrew": "severing פירושו ניתוק; סגירת תחנות עיליות קוטעת קשרי תחבורה בין גדות העיר."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does Olha do when an air-raid siren sounds while her mother Nadia is bedridden?",
+      "difficulty": "C",
+      "options": [
+        "She covers Nadia, puts a mattress in the window and shelters in a wardrobe",
+        "She carries Nadia to a shelter ten minutes away",
+        "She takes Nadia across the river by metro",
+        "She sends Nadia to Daria's country house"
+      ],
+      "correct_answer": "She covers Nadia, puts a mattress in the window and shelters in a wardrobe",
+      "explanation_hebrew": "אוליה מכסה את אמה, מציבה מזרן בחלון ומסתתרת בארון שמעניק שתי שכבות קיר."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Natalia mean by struggling to “bounce back” after nights of attacks?",
+      "difficulty": "C",
+      "options": [
+        "To leave Kyiv permanently",
+        "To recover physically and mentally after disrupted sleep",
+        "To rebuild an apartment destroyed by a strike",
+        "To predict the next alert precisely"
+      ],
+      "correct_answer": "To recover physically and mentally after disrupted sleep",
+      "explanation_hebrew": "bounce back משמעו להתאושש; הכתבה מדגישה עייפות ומחיר נפשי של לילות מתוחים."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is Nadia's situation different from Daria's when choosing safety measures?",
+      "difficulty": "C",
+      "expected_points": [
+        "Nadia is confined to bed and cannot reach a shelter",
+        "Daria moved to a family house outside Kyiv",
+        "Olha relies on improvised protection inside the flat",
+        "Their mobility and practical options differ"
+      ],
+      "rubric_hebrew": "יש להשוות מגבלות ניידות וחלופות מעשיות, בלי לטעון שאמצעי הגנה מסוים מבטיח בטיחות."
+    },
+    {
+      "id": "C-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three ways the attacks disrupt everyday life beyond immediate danger from explosions.",
+      "difficulty": "C",
+      "expected_points": [
+        "Children miss school or spend hours in school basements",
+        "Above-ground metro service stops during alerts",
+        "Businesses such as shopping centres close",
+        "Separated transport links complicate family visits",
+        "Interrupted sleep causes exhaustion"
+      ],
+      "rubric_hebrew": "יש לבחור שלוש השלכות קונקרטיות מתחומי לימודים, תחבורה, עבודה, משפחה או שינה."
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the change in attack tactics and its effects on Kyiv residents using two personal accounts.",
+      "difficulty": "C",
+      "expected_points": [
+        "Faster ballistic missiles leave little warning",
+        "Daria moved outside Kyiv despite a long commute",
+        "Olha and bedridden Nadia shelter inside their flat",
+        "Natalia keeps several emergency plans and supplies",
+        "The attacks disrupt sleep, schools and transport"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית את השינוי הצבאי ואת השפעתו האישית, ולהבחין בין עדויות שונות."
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain how the article links short warnings, mobility constraints and repeated alerts to psychological strain.",
+      "difficulty": "C",
+      "expected_points": [
+        "Daria cannot reliably reach a shelter in the warning time",
+        "Nadia's immobility limits Olha's options",
+        "Natalia prepares multiple plans and emergency bags",
+        "Night attacks interrupt sleep and recovery",
+        "Daytime alerts disrupt schools, work and transport"
+      ],
+      "rubric_hebrew": "יש לכתוב פסקה באנגלית עם דוגמאות משתי משפחות לפחות, בלי לייחס להן אבחנה רפואית."
+    }
+  ]
+}

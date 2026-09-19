@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-19",
+  "article_id": "A",
+  "article_title": "Warren Buffett steps down as Berkshire chairman after six decades",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What change in Berkshire Hathaway's leadership does the report describe?",
+      "difficulty": "A",
+      "options": [
+        "Warren Buffett became chairman emeritus and Howard Buffett became chairman",
+        "Greg Abel left the company and Warren Buffett resumed CEO duties",
+        "Howard Buffett sold Berkshire's railway business",
+        "Berkshire was converted back into a textile mill"
+      ],
+      "correct_answer": "Warren Buffett became chairman emeritus and Howard Buffett became chairman",
+      "explanation_hebrew": "וורן באפט עבר לתפקיד יו״ר אמריטוס, ובנו הווארד קיבל את תפקיד היו״ר."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who manages Berkshire's corporate strategy and capital decisions after this transition?",
+      "difficulty": "A",
+      "options": [
+        "Howard Buffett",
+        "Greg Abel",
+        "Warren Buffett alone",
+        "The GEICO board"
+      ],
+      "correct_answer": "Greg Abel",
+      "explanation_hebrew": "גרג אייבל מנהל את האסטרטגיה והחלטות ההון, בעוד הווארד מופקד על התרבות והערכים."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “chairman emeritus” mean in Buffett's new role?",
+      "difficulty": "A",
+      "options": [
+        "The firm's only executive",
+        "A temporary chief executive",
+        "An honorary former chair who can still advise",
+        "A newly appointed factory manager"
+      ],
+      "correct_answer": "An honorary former chair who can still advise",
+      "explanation_hebrew": "אמריטוס הוא תואר כבוד לבעל תפקיד לשעבר; באפט נשאר בדירקטוריון לייעוץ."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “conglomerate” in the account of Berkshire's growth?",
+      "difficulty": "A",
+      "options": [
+        "A single textile factory",
+        "A charitable foundation only",
+        "A fund holding no businesses",
+        "A large business made up of varied companies"
+      ],
+      "correct_answer": "A large business made up of varied companies",
+      "explanation_hebrew": "קונגלומרט הוא תאגיד המאגד עסקים מתחומים שונים, כפי שמדגימות החברות שבבעלות ברקשייר."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was Berkshire when Warren Buffett took control in 1965?",
+      "difficulty": "A",
+      "options": [
+        "A struggling New England textile mill",
+        "A global railway company",
+        "A technology start-up",
+        "An insurance regulator"
+      ],
+      "correct_answer": "A struggling New England textile mill",
+      "explanation_hebrew": "ב־1965 הייתה ברקשייר מפעל טקסטיל מתקשה בניו אינגלנד."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “passing of the baton” convey about the leadership change?",
+      "difficulty": "A",
+      "options": [
+        "A sports sponsorship by Berkshire",
+        "An orderly transfer of responsibility",
+        "A sudden collapse of the board",
+        "A sale of the company's shares"
+      ],
+      "correct_answer": "An orderly transfer of responsibility",
+      "explanation_hebrew": "זהו דימוי להעברה מסודרת של אחריות בין מנהיגים, לא לאירוע פתאומי."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two different leadership roles now held by Howard Buffett and Greg Abel.",
+      "difficulty": "A",
+      "expected_points": [
+        "Howard Buffett is non-executive chairman",
+        "Greg Abel is chief executive",
+        "Howard focuses on company culture and values",
+        "Greg manages strategy and capital decisions"
+      ],
+      "rubric_hebrew": "יש להבדיל בין תפקיד היו״ר הלא־ביצועי לניהול השוטף בידי המנכ״ל."
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the report portray the move as planned rather than a sudden shock?",
+      "difficulty": "A",
+      "expected_points": [
+        "Buffett had already handed over the CEO role nine months earlier",
+        "Howard had served on the board since 1993",
+        "The company said day-to-day operations would remain steady"
+      ],
+      "rubric_hebrew": "יש להסתמך על רציפות ההנהלה, הניסיון של הווארד והעברת תפקיד המנכ״ל קודם לכן."
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Buffett's transformation of Berkshire and the current succession arrangement.",
+      "difficulty": "A",
+      "expected_points": [
+        "He took control of a struggling textile mill in 1965",
+        "He built a diversified global conglomerate",
+        "Warren remains chairman emeritus and on the board",
+        "Howard is non-executive chairman",
+        "Greg Abel is CEO"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית את צמיחת החברה ואת חלוקת התפקידים החדשה."
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain “value investing” using Berkshire's history and Buffett's approach in the article.",
+      "difficulty": "A",
+      "expected_points": [
+        "Look for companies with solid fundamentals",
+        "Buy at fair prices",
+        "Hold investments for decades",
+        "Connect the approach to Buffett's long investment record"
+      ],
+      "rubric_hebrew": "יש לנסח הסבר באנגלית הנשען על פרטי הכתבה, ללא עצה אישית להשקעה."
+    }
+  ]
+}

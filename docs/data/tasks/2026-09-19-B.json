@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-19",
+  "article_id": "B",
+  "article_title": "Flight chaos caused by millisecond software defect, says air traffic control body",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What does the Nats report identify as the cause of the September air traffic disruption?",
+      "difficulty": "B",
+      "options": [
+        "A software defect that produced corrupted data in a millisecond",
+        "A nationwide airport workers' strike",
+        "A deliberate shutdown ordered by airlines",
+        "A shortage of aircraft fuel"
+      ],
+      "correct_answer": "A software defect that produced corrupted data in a millisecond",
+      "explanation_hebrew": "הדו״ח של Nats מייחס את השיבוש לפגם תוכנה שהפיק נתונים פגומים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why were restrictions placed on UK air traffic after the defect?",
+      "difficulty": "B",
+      "options": [
+        "To avoid paying airline compensation",
+        "Controllers had reduced information and needed to maintain safety",
+        "All airport runways had closed for repairs",
+        "Passengers requested fewer flights"
+      ],
+      "correct_answer": "Controllers had reduced information and needed to maintain safety",
+      "explanation_hebrew": "לפקחים היה פחות מידע זמין, ולכן הוטלו הגבלות כדי לשמור על בטיחות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “resilience” mean when airlines demand improvements to the Nats system?",
+      "difficulty": "B",
+      "options": [
+        "A promise of cheaper tickets",
+        "The number of available aircraft",
+        "The system's ability to withstand and recover from failures",
+        "A legal exemption from paying compensation"
+      ],
+      "correct_answer": "The system's ability to withstand and recover from failures",
+      "explanation_hebrew": "חוסן המערכת הוא יכולתה לעמוד בתקלות ולהתאושש מהן."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the regulator's compensation decision, what are “extraordinary circumstances”?",
+      "difficulty": "B",
+      "options": [
+        "Routine changes to a flight timetable",
+        "A passenger's preference for a different airport",
+        "Airlines' standard meal arrangements",
+        "An exceptional event that can affect compensation entitlement"
+      ],
+      "correct_answer": "An exceptional event that can affect compensation entitlement",
+      "explanation_hebrew": "המונח מתאר נסיבות חריגות המשפיעות על הזכאות לפיצוי, לפי החלטת הרגולטור."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When were the restrictions on UK airspace lifted?",
+      "difficulty": "B",
+      "options": [
+        "At 7:30pm on 8 September",
+        "Immediately at 10:00am",
+        "At 12:30pm before the defect became serious",
+        "Three days before the incident"
+      ],
+      "correct_answer": "At 7:30pm on 8 September",
+      "explanation_hebrew": "הגבלות המרחב האווירי הוסרו ב־19:30, אף שהשיבושים נמשכו לאחר מכן."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Airlines UK mean when saying airlines “picked up the pieces - and the tab”?",
+      "difficulty": "B",
+      "options": [
+        "They physically repaired the Nats software",
+        "They dealt with disruption and bore associated costs",
+        "They collected unused flight tickets",
+        "They paid for air traffic controllers' salaries"
+      ],
+      "correct_answer": "They dealt with disruption and bore associated costs",
+      "explanation_hebrew": "הביטוי מתאר טיפול בתוצאות התקלה ונשיאה בהוצאות שנגרמו."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the timeline between the defect and the lifting of restrictions.",
+      "difficulty": "B",
+      "expected_points": [
+        "Defect occurred at 10:00am on 8 September",
+        "Its seriousness was not apparent for another two and a half hours",
+        "Restart began just after 3:15pm",
+        "Airspace restrictions were lifted at 7:30pm"
+      ],
+      "rubric_hebrew": "יש לציין את סדר האירועים וזמניהם בלי לבלבל בין תחילת התקלה לזיהוי חומרתה."
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did delays continue after the airspace restrictions ended?",
+      "difficulty": "B",
+      "expected_points": [
+        "Aircraft and crews were left out of place",
+        "More than 2,000 flights had been cancelled",
+        "Restoring the network takes longer than lifting an immediate restriction"
+      ],
+      "rubric_hebrew": "יש להסביר את השפעת השרשרת התפעולית, לא לטעון שההגבלות נשארו בתוקף."
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the software failure, safety response and different reactions to the Nats report.",
+      "difficulty": "B",
+      "expected_points": [
+        "A software defect corrupted data and limited controller information",
+        "Restrictions were imposed to preserve safety",
+        "Thousands of flights were cancelled or disrupted",
+        "Nats apologised and said safety was not compromised",
+        "Government launched a review and airlines demanded compensation"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית גורם, השפעה ותגובות, תוך ייחוס אמירת הבטיחות ל־Nats."
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Use Addie Kitson's experience to explain why passengers may disagree with the compensation rules.",
+      "difficulty": "B",
+      "expected_points": [
+        "Her return flight from China diverted to Stockholm",
+        "She waited 19 hours in the airport",
+        "She incurred nearly £100 in extra costs",
+        "She received only an £11 food voucher",
+        "The regulator viewed the event as extraordinary circumstances, limiting compensation"
+      ],
+      "rubric_hebrew": "יש לכתוב הסבר באנגלית שמבחין בין סיוע, עלויות וזכאות לפיצוי; אין להבטיח פיצוי."
+    }
+  ]
+}
