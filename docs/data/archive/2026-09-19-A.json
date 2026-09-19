@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-19",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Warren Buffett steps down as Berkshire chairman after six decades",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-09-18T17:15:02+00:00",
+  "age_hours_at_selection": 8.98,
+  "word_count": 399,
+  "generated_at": "2026-09-19T02:13:54.619046+00:00",
+  "difficulty_reason": "Short, clearly structured business report with a single storyline; mostly B1/B2 vocabulary and little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "transition",
+      "lemma": "transition",
+      "level": "B2",
+      "hebrew": "מַעֲבָר",
+      "explanation_hebrew": "שינוי הדרגתי ממצב אחד למשנהו",
+      "pronunciation_hebrew": "טְרַנְזִישֶׁן",
+      "example": "The transition to the new manager was smooth."
+    },
+    {
+      "word": "advisory",
+      "lemma": "advisory",
+      "level": "C1",
+      "hebrew": "מְיַעֵץ (של ייעוץ)",
+      "explanation_hebrew": "נותן עצות אך ללא סמכות ניהולית",
+      "pronunciation_hebrew": "אַדְוַיְזוֹרִי",
+      "example": "She now has an advisory role in the company."
+    },
+    {
+      "word": "emeritus",
+      "lemma": "emeritus",
+      "level": "C2",
+      "hebrew": "גִּמְלַאי כָּבוֹד",
+      "explanation_hebrew": "תואר כבוד שנשמר לאחר פרישה",
+      "pronunciation_hebrew": "אֶמֶרִיטוּס",
+      "example": "He became chairman emeritus after retiring."
+    },
+    {
+      "word": "shareholders",
+      "lemma": "shareholder",
+      "level": "B2",
+      "hebrew": "בַּעֲלֵי מְנָיוֹת",
+      "explanation_hebrew": "אנשים שמחזיקים מניות בחברה",
+      "pronunciation_hebrew": "שֶׁר-הוֹלְדֶרְז",
+      "example": "The shareholders received a letter from the company."
+    },
+    {
+      "word": "executive",
+      "lemma": "executive",
+      "level": "B2",
+      "hebrew": "מְנַהֵל בָּכִיר",
+      "explanation_hebrew": "אדם בכיר שמנהל חברה או ארגון",
+      "pronunciation_hebrew": "אֶגְזֶקְיוּטִיב",
+      "example": "The chief executive announced the new plan."
+    },
+    {
+      "word": "conglomerate",
+      "lemma": "conglomerate",
+      "level": "C1",
+      "hebrew": "תַּאֲגִיד עֲנָק",
+      "explanation_hebrew": "חברה גדולה המורכבת מעסקים רבים ושונים",
+      "pronunciation_hebrew": "קוֹנְגְלוֹמֶרֵט",
+      "example": "The firm grew into a global conglomerate."
+    },
+    {
+      "word": "textile",
+      "lemma": "textile",
+      "level": "B2",
+      "hebrew": "טֶקְסְטִיל / אָרִיג",
+      "explanation_hebrew": "בד או חומר עשוי מסיבים",
+      "pronunciation_hebrew": "טֶקְסְטַייל",
+      "example": "The old textile mill closed years ago."
+    },
+    {
+      "word": "stakes",
+      "lemma": "stake",
+      "level": "B2",
+      "hebrew": "חֶלְקֵי בַּעֲלוּת / אֲחוּזוֹת הַחְזָקָה",
+      "explanation_hebrew": "חלקי בעלות בחברה",
+      "pronunciation_hebrew": "סְטֵייקְס",
+      "example": "The company owns large stakes in other firms."
+    },
+    {
+      "word": "strategy",
+      "lemma": "strategy",
+      "level": "B2",
+      "hebrew": "אֶסְטְרָטֶגְיָה",
+      "explanation_hebrew": "תוכנית כללית להשגת מטרה",
+      "pronunciation_hebrew": "סְטְרָטֶגִ'י",
+      "example": "His investment strategy made him rich."
+    },
+    {
+      "word": "fundamentals",
+      "lemma": "fundamental",
+      "level": "C1",
+      "hebrew": "יְסוֹדוֹת",
+      "explanation_hebrew": "העקרונות או הבסיס של דבר",
+      "pronunciation_hebrew": "פַנְדָמֶנְטָלְז",
+      "example": "The company has strong financial fundamentals."
+    },
+    {
+      "word": "mentor",
+      "lemma": "mentor",
+      "level": "B2",
+      "hebrew": "מֶנְטוֹר / חוֹנֵךְ",
+      "explanation_hebrew": "אדם מנוסה שמדריך ומייעץ לאחרים",
+      "pronunciation_hebrew": "מֶנְטוֹר",
+      "example": "He became a mentor to young investors."
+    },
+    {
+      "word": "orderly",
+      "lemma": "orderly",
+      "level": "B2",
+      "hebrew": "מְסֻדָּר / מְאֻרְגָּן",
+      "explanation_hebrew": "מאורגן ורגוע, ללא בלגן",
+      "pronunciation_hebrew": "אוֹרְדֶּרְלִי",
+      "example": "The change was an orderly transition."
+    },
+    {
+      "word": "retirement",
+      "lemma": "retirement",
+      "level": "B1",
+      "hebrew": "פְּרִישָׁה לְגִמְלָאוֹת",
+      "explanation_hebrew": "סיום העבודה בגיל מבוגר",
+      "pronunciation_hebrew": "רִיטַייְרְמֶנְט",
+      "example": "He announced his retirement at 96."
+    },
+    {
+      "word": "philanthropist",
+      "lemma": "philanthropist",
+      "level": "C1",
+      "hebrew": "נַדְבָן / פִילַנְתְרוֹפּ",
+      "explanation_hebrew": "אדם שתורם כסף למטרות טובות",
+      "pronunciation_hebrew": "פִילַנְתְרוֹפִּיסְט",
+      "example": "The billionaire is a well-known philanthropist."
+    },
+    {
+      "word": "privilege",
+      "lemma": "privilege",
+      "level": "B2",
+      "hebrew": "זְכוּת יְתֵר",
+      "explanation_hebrew": "הזדמנות או יתרון מיוחד",
+      "pronunciation_hebrew": "פְּרִיבִילֶג'",
+      "example": "It was a privilege to lead the company."
+    },
+    {
+      "word": "acknowledged",
+      "lemma": "acknowledge",
+      "level": "B2",
+      "hebrew": "הוֹדָה / הִכִּיר בְּ",
+      "explanation_hebrew": "הכיר בכך שדבר מסוים נכון",
+      "pronunciation_hebrew": "אֶקְנוֹלֶגְ'ד",
+      "example": "He acknowledged that time always wins."
+    },
+    {
+      "word": "assured",
+      "lemma": "assure",
+      "level": "B2",
+      "hebrew": "הִבְטִיחַ / הִרְגִּיעַ",
+      "explanation_hebrew": "אמר משהו כדי להרגיע או לוודא",
+      "pronunciation_hebrew": "אֶשׁוּרְד",
+      "example": "The company assured investors all was well."
+    },
+    {
+      "word": "steady",
+      "lemma": "steady",
+      "level": "B1",
+      "hebrew": "יַצִּיב / קָבוּעַ",
+      "explanation_hebrew": "יציב, ללא שינויים פתאומיים",
+      "pronunciation_hebrew": "סְטֶדִי",
+      "example": "Operations will remain steady."
+    },
+    {
+      "word": "guarding",
+      "lemma": "guard",
+      "level": "B2",
+      "hebrew": "שׁוֹמֵר עַל / מֵגֵן",
+      "explanation_hebrew": "שמירה והגנה על משהו",
+      "pronunciation_hebrew": "גַארְדִינְג",
+      "example": "His main duty is guarding the firm's values."
+    },
+    {
+      "word": "perspective",
+      "lemma": "perspective",
+      "level": "B2",
+      "hebrew": "נְקֻדַּת מַבָּט",
+      "explanation_hebrew": "דרך ראייה או הבנה של דבר",
+      "pronunciation_hebrew": "פֶּרְסְפֶּקְטִיב",
+      "example": "He offers judgement and perspective."
+    },
+    {
+      "word": "judgement",
+      "lemma": "judgement",
+      "level": "B2",
+      "hebrew": "שִׁקּוּל דַּעַת",
+      "explanation_hebrew": "היכולת להחליט בתבונה",
+      "pronunciation_hebrew": "גַ'גְ'מֶנְט",
+      "example": "The board values his judgement."
+    },
+    {
+      "word": "investor",
+      "lemma": "investor",
+      "level": "B1",
+      "hebrew": "מַשְׁקִיעַ",
+      "explanation_hebrew": "אדם שמשקיע כסף כדי להרוויח",
+      "pronunciation_hebrew": "אִינְבֶסְטוֹר",
+      "example": "He is the most famous investor in the world."
+    },
+    {
+      "word": "concluded",
+      "lemma": "conclude",
+      "level": "B2",
+      "hebrew": "סִיֵּם / חָתַם",
+      "explanation_hebrew": "סיים דבר, לרוב במילים אחרונות",
+      "pronunciation_hebrew": "קוֹנְקְלוּדֶד",
+      "example": "He concluded his letter with thanks."
+    },
+    {
+      "word": "corporate",
+      "lemma": "corporate",
+      "level": "B2",
+      "hebrew": "תַּאֲגִידִי / עִסְקִי",
+      "explanation_hebrew": "הקשור לחברה או תאגיד גדול",
+      "pronunciation_hebrew": "קוֹרְפּוֹרֵט",
+      "example": "He manages corporate strategy."
+    },
+    {
+      "word": "solid",
+      "lemma": "solid",
+      "level": "B1",
+      "hebrew": "אֵיתָן / מוּצָק",
+      "explanation_hebrew": "חזק ואמין",
+      "pronunciation_hebrew": "סוֹלִיד",
+      "example": "The company has solid fundamentals."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "transition",
+      "type": "english_to_hebrew",
+      "question": "What does “transition” mean?",
+      "options": [
+        "מַעֲבָר",
+        "מְנַהֵל בָּכִיר",
+        "יַצִּיב / קָבוּעַ",
+        "זְכוּת יְתֵר"
+      ],
+      "correct_answer": "מַעֲבָר",
+      "explanation_hebrew": "“transition” פירושו מַעֲבָר."
+    },
+    {
+      "id": "A-q2",
+      "word": "advisory",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “מְיַעֵץ (של ייעוץ)”?",
+      "options": [
+        "emeritus",
+        "advisory",
+        "corporate",
+        "guarding"
+      ],
+      "correct_answer": "advisory",
+      "explanation_hebrew": "המילה האנגלית ל”מְיַעֵץ (של ייעוץ)” היא “advisory”."
+    },
+    {
+      "id": "A-q3",
+      "word": "emeritus",
+      "type": "english_to_hebrew",
+      "question": "What does “emeritus” mean?",
+      "options": [
+        "מַשְׁקִיעַ",
+        "שׁוֹמֵר עַל / מֵגֵן",
+        "גִּמְלַאי כָּבוֹד",
+        "נְקֻדַּת מַבָּט"
+      ],
+      "correct_answer": "גִּמְלַאי כָּבוֹד",
+      "explanation_hebrew": "“emeritus” פירושו גִּמְלַאי כָּבוֹד."
+    },
+    {
+      "id": "A-q4",
+      "word": "shareholders",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “בַּעֲלֵי מְנָיוֹת”?",
+      "options": [
+        "mentor",
+        "philanthropist",
+        "shareholders",
+        "investor"
+      ],
+      "correct_answer": "shareholders",
+      "explanation_hebrew": "המילה האנגלית ל”בַּעֲלֵי מְנָיוֹת” היא “shareholders”."
+    },
+    {
+      "id": "A-q5",
+      "word": "executive",
+      "type": "english_to_hebrew",
+      "question": "What does “executive” mean?",
+      "options": [
+        "מַשְׁקִיעַ",
+        "פְּרִישָׁה לְגִמְלָאוֹת",
+        "מְנַהֵל בָּכִיר",
+        "תַּאֲגִיד עֲנָק"
+      ],
+      "correct_answer": "מְנַהֵל בָּכִיר",
+      "explanation_hebrew": "“executive” פירושו מְנַהֵל בָּכִיר."
+    },
+    {
+      "id": "A-q6",
+      "word": "conglomerate",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “תַּאֲגִיד עֲנָק”?",
+      "options": [
+        "conglomerate",
+        "transition",
+        "executive",
+        "investor"
+      ],
+      "correct_answer": "conglomerate",
+      "explanation_hebrew": "המילה האנגלית ל”תַּאֲגִיד עֲנָק” היא “conglomerate”."
+    },
+    {
+      "id": "A-q7",
+      "word": "textile",
+      "type": "english_to_hebrew",
+      "question": "What does “textile” mean?",
+      "options": [
+        "הוֹדָה / הִכִּיר בְּ",
+        "מְסֻדָּר / מְאֻרְגָּן",
+        "טֶקְסְטִיל / אָרִיג",
+        "אֵיתָן / מוּצָק"
+      ],
+      "correct_answer": "טֶקְסְטִיל / אָרִיג",
+      "explanation_hebrew": "“textile” פירושו טֶקְסְטִיל / אָרִיג."
+    },
+    {
+      "id": "A-q8",
+      "word": "stakes",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “חֶלְקֵי בַּעֲלוּת / אֲחוּזוֹת הַחְזָקָה”?",
+      "options": [
+        "emeritus",
+        "stakes",
+        "perspective",
+        "corporate"
+      ],
+      "correct_answer": "stakes",
+      "explanation_hebrew": "המילה האנגלית ל”חֶלְקֵי בַּעֲלוּת / אֲחוּזוֹת הַחְזָקָה” היא “stakes”."
+    },
+    {
+      "id": "A-q9",
+      "word": "strategy",
+      "type": "english_to_hebrew",
+      "question": "What does “strategy” mean?",
+      "options": [
+        "אֶסְטְרָטֶגְיָה",
+        "פְּרִישָׁה לְגִמְלָאוֹת",
+        "בַּעֲלֵי מְנָיוֹת",
+        "נַדְבָן / פִילַנְתְרוֹפּ"
+      ],
+      "correct_answer": "אֶסְטְרָטֶגְיָה",
+      "explanation_hebrew": "“strategy” פירושו אֶסְטְרָטֶגְיָה."
+    },
+    {
+      "id": "A-q10",
+      "word": "fundamentals",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “יְסוֹדוֹת”?",
+      "options": [
+        "fundamentals",
+        "retirement",
+        "steady",
+        "solid"
+      ],
+      "correct_answer": "fundamentals",
+      "explanation_hebrew": "המילה האנגלית ל”יְסוֹדוֹת” היא “fundamentals”."
+    },
+    {
+      "id": "A-q11",
+      "word": "mentor",
+      "type": "english_to_hebrew",
+      "question": "What does “mentor” mean?",
+      "options": [
+        "זְכוּת יְתֵר",
+        "תַּאֲגִיד עֲנָק",
+        "הוֹדָה / הִכִּיר בְּ",
+        "מֶנְטוֹר / חוֹנֵךְ"
+      ],
+      "correct_answer": "מֶנְטוֹר / חוֹנֵךְ",
+      "explanation_hebrew": "“mentor” פירושו מֶנְטוֹר / חוֹנֵךְ."
+    },
+    {
+      "id": "A-q12",
+      "word": "orderly",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “מְסֻדָּר / מְאֻרְגָּן”?",
+      "options": [
+        "acknowledged",
+        "orderly",
+        "textile",
+        "retirement"
+      ],
+      "correct_answer": "orderly",
+      "explanation_hebrew": "המילה האנגלית ל”מְסֻדָּר / מְאֻרְגָּן” היא “orderly”."
+    },
+    {
+      "id": "A-q13",
+      "word": "retirement",
+      "type": "english_to_hebrew",
+      "question": "What does “retirement” mean?",
+      "options": [
+        "נַדְבָן / פִילַנְתְרוֹפּ",
+        "תַּאֲגִיד עֲנָק",
+        "מֶנְטוֹר / חוֹנֵךְ",
+        "פְּרִישָׁה לְגִמְלָאוֹת"
+      ],
+      "correct_answer": "פְּרִישָׁה לְגִמְלָאוֹת",
+      "explanation_hebrew": "“retirement” פירושו פְּרִישָׁה לְגִמְלָאוֹת."
+    },
+    {
+      "id": "A-q14",
+      "word": "philanthropist",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “נַדְבָן / פִילַנְתְרוֹפּ”?",
+      "options": [
+        "philanthropist",
+        "steady",
+        "advisory",
+        "retirement"
+      ],
+      "correct_answer": "philanthropist",
+      "explanation_hebrew": "המילה האנגלית ל”נַדְבָן / פִילַנְתְרוֹפּ” היא “philanthropist”."
+    },
+    {
+      "id": "A-q15",
+      "word": "privilege",
+      "type": "english_to_hebrew",
+      "question": "What does “privilege” mean?",
+      "options": [
+        "זְכוּת יְתֵר",
+        "גִּמְלַאי כָּבוֹד",
+        "מַעֲבָר",
+        "פְּרִישָׁה לְגִמְלָאוֹת"
+      ],
+      "correct_answer": "זְכוּת יְתֵר",
+      "explanation_hebrew": "“privilege” פירושו זְכוּת יְתֵר."
+    },
+    {
+      "id": "A-q16",
+      "word": "acknowledged",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “הוֹדָה / הִכִּיר בְּ”?",
+      "options": [
+        "acknowledged",
+        "investor",
+        "transition",
+        "philanthropist"
+      ],
+      "correct_answer": "acknowledged",
+      "explanation_hebrew": "המילה האנגלית ל”הוֹדָה / הִכִּיר בְּ” היא “acknowledged”."
+    },
+    {
+      "id": "A-q17",
+      "word": "assured",
+      "type": "english_to_hebrew",
+      "question": "What does “assured” mean?",
+      "options": [
+        "פְּרִישָׁה לְגִמְלָאוֹת",
+        "זְכוּת יְתֵר",
+        "הִבְטִיחַ / הִרְגִּיעַ",
+        "סִיֵּם / חָתַם"
+      ],
+      "correct_answer": "הִבְטִיחַ / הִרְגִּיעַ",
+      "explanation_hebrew": "“assured” פירושו הִבְטִיחַ / הִרְגִּיעַ."
+    },
+    {
+      "id": "A-q18",
+      "word": "steady",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “יַצִּיב / קָבוּעַ”?",
+      "options": [
+        "steady",
+        "executive",
+        "solid",
+        "retirement"
+      ],
+      "correct_answer": "steady",
+      "explanation_hebrew": "המילה האנגלית ל”יַצִּיב / קָבוּעַ” היא “steady”."
+    },
+    {
+      "id": "A-q19",
+      "word": "guarding",
+      "type": "english_to_hebrew",
+      "question": "What does “guarding” mean?",
+      "options": [
+        "מְנַהֵל בָּכִיר",
+        "שׁוֹמֵר עַל / מֵגֵן",
+        "יְסוֹדוֹת",
+        "חֶלְקֵי בַּעֲלוּת / אֲחוּזוֹת הַחְזָקָה"
+      ],
+      "correct_answer": "שׁוֹמֵר עַל / מֵגֵן",
+      "explanation_hebrew": "“guarding” פירושו שׁוֹמֵר עַל / מֵגֵן."
+    },
+    {
+      "id": "A-q20",
+      "word": "perspective",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “נְקֻדַּת מַבָּט”?",
+      "options": [
+        "fundamentals",
+        "retirement",
+        "perspective",
+        "advisory"
+      ],
+      "correct_answer": "perspective",
+      "explanation_hebrew": "המילה האנגלית ל”נְקֻדַּת מַבָּט” היא “perspective”."
+    },
+    {
+      "id": "A-q21",
+      "word": "judgement",
+      "type": "english_to_hebrew",
+      "question": "What does “judgement” mean?",
+      "options": [
+        "שִׁקּוּל דַּעַת",
+        "מֶנְטוֹר / חוֹנֵךְ",
+        "מְיַעֵץ (של ייעוץ)",
+        "תַּאֲגִיד עֲנָק"
+      ],
+      "correct_answer": "שִׁקּוּל דַּעַת",
+      "explanation_hebrew": "“judgement” פירושו שִׁקּוּל דַּעַת."
+    },
+    {
+      "id": "A-q22",
+      "word": "investor",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “מַשְׁקִיעַ”?",
+      "options": [
+        "assured",
+        "mentor",
+        "steady",
+        "investor"
+      ],
+      "correct_answer": "investor",
+      "explanation_hebrew": "המילה האנגלית ל”מַשְׁקִיעַ” היא “investor”."
+    },
+    {
+      "id": "A-q23",
+      "word": "concluded",
+      "type": "english_to_hebrew",
+      "question": "What does “concluded” mean?",
+      "options": [
+        "תַּאֲגִיד עֲנָק",
+        "סִיֵּם / חָתַם",
+        "מְסֻדָּר / מְאֻרְגָּן",
+        "מְנַהֵל בָּכִיר"
+      ],
+      "correct_answer": "סִיֵּם / חָתַם",
+      "explanation_hebrew": "“concluded” פירושו סִיֵּם / חָתַם."
+    },
+    {
+      "id": "A-q24",
+      "word": "corporate",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “תַּאֲגִידִי / עִסְקִי”?",
+      "options": [
+        "solid",
+        "corporate",
+        "assured",
+        "emeritus"
+      ],
+      "correct_answer": "corporate",
+      "explanation_hebrew": "המילה האנגלית ל”תַּאֲגִידִי / עִסְקִי” היא “corporate”."
+    },
+    {
+      "id": "A-q25",
+      "word": "solid",
+      "type": "english_to_hebrew",
+      "question": "What does “solid” mean?",
+      "options": [
+        "יַצִּיב / קָבוּעַ",
+        "אֵיתָן / מוּצָק",
+        "מְנַהֵל בָּכִיר",
+        "אֶסְטְרָטֶגְיָה"
+      ],
+      "correct_answer": "אֵיתָן / מוּצָק",
+      "explanation_hebrew": "“solid” פירושו אֵיתָן / מוּצָק."
+    }
+  ]
+}
