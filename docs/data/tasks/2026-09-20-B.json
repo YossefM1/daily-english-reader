@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-20",
+  "article_id": "B",
+  "article_title": "Mum's viral barefoot race sparks debate over India's education crisis",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "How does the article connect Ramabai's race to a wider public debate?",
+      "difficulty": "B",
+      "options": [
+        "Her win highlights the sacrifices families make for education and questions whether support reaches them",
+        "Her win proves all Indian education is free",
+        "The race was held to choose new police officers",
+        "It shows coaching centres are unnecessary"
+      ],
+      "correct_answer": "Her win highlights the sacrifices families make for education and questions whether support reaches them",
+      "explanation_hebrew": "הכתבה משתמשת בסיפור הריצה כדי לדון בעלויות הלימודים, בתחרות וביישום התמיכה הציבורית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Ramabai remove her slippers during the race?",
+      "difficulty": "B",
+      "options": [
+        "They were banned by the race organisers",
+        "They kept slipping off as she ran",
+        "She wanted to donate them to her daughter",
+        "A coach told her she had to run barefoot"
+      ],
+      "correct_answer": "They kept slipping off as she ran",
+      "explanation_hebrew": "הכפכפים החליקו מרגליה, ולכן היא הסירה אותם ורצה יחפה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “striking a nerve” mean in the account of the viral video?",
+      "difficulty": "B",
+      "options": [
+        "Causing a physical injury",
+        "Preventing people from watching",
+        "Touching a sensitive issue that provoked a strong response",
+        "Making a racing rule invalid"
+      ],
+      "correct_answer": "Touching a sensitive issue that provoked a strong response",
+      "explanation_hebrew": "הביטוי מציין שהסרטון נגע בסוגיה חברתית רגישה ועורר תגובות."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “sole breadwinner” mean in the description of Ramabai?",
+      "difficulty": "B",
+      "options": [
+        "The only family member who cooks",
+        "A professional runner",
+        "The only person who studies",
+        "The family's only provider of income"
+      ],
+      "correct_answer": "The family's only provider of income",
+      "explanation_hebrew": "לאחר מות בעלה רמבאיי הייתה היחידה שפרנסה את המשפחה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much was Ramabai's race prize, and what did she hope it would buy?",
+      "difficulty": "B",
+      "options": [
+        "3,000 rupees to buy books and study materials",
+        "50,000 rupees to pay for a university degree",
+        "3,000 rupees to buy running shoes",
+        "A full scholarship for both daughters"
+      ],
+      "correct_answer": "3,000 rupees to buy books and study materials",
+      "explanation_hebrew": "הפרס היה 3,000 רופי ונועד לסייע בקניית ספרים וחומרי לימוד."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “implementation remains weak” mean in Thorat's criticism of education schemes?",
+      "difficulty": "B",
+      "options": [
+        "No support schemes have ever been announced",
+        "Existing schemes are not effectively reaching people in practice",
+        "Every student has already received enough money",
+        "The schemes are run solely by athletes"
+      ],
+      "correct_answer": "Existing schemes are not effectively reaching people in practice",
+      "explanation_hebrew": "ת׳וראט טוען שיש תוכניות אך יישומן בפועל אינו מגיע לאנשים במידה מספקת."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two routes to government work that Ramabai's daughters are preparing for.",
+      "difficulty": "B",
+      "expected_points": [
+        "Police recruitment",
+        "Civil services examination",
+        "Competitive government jobs",
+        "Preparation at a coaching centre"
+      ],
+      "rubric_hebrew": "יש לציין את המשטרה ואת שירות המדינה; אין לטעון שכבר התקבלו לעבודה."
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the 3,000-rupee prize not settle the family's education needs?",
+      "difficulty": "B",
+      "expected_points": [
+        "The article says it is far below the cost of higher education",
+        "Even a coaching course would cost more than the prize could cover",
+        "Books and examination preparation create ongoing expenses"
+      ],
+      "rubric_hebrew": "יש להשוות בין סכום הזכייה להוצאות המתמשכות, בלי לקבוע סכומים שלא נמסרו."
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Ramabai's race, her motivation and the debate it sparked.",
+      "difficulty": "B",
+      "expected_points": [
+        "She ran a 3km community race barefoot without training",
+        "She wanted money for her daughters' education",
+        "She won 3,000 rupees, enough to help with materials but not higher education",
+        "Her story raised questions about competition and costs",
+        "Thorat criticised weak implementation of support schemes"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית את הסיפור ואת הדיון המבני, בהפרדה בין עובדות לפרשנות."
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain why the article contrasts individual determination with structural educational barriers.",
+      "difficulty": "B",
+      "expected_points": [
+        "Ramabai worked after her husband's death and left school at 13",
+        "She wants better opportunities for her daughters",
+        "Government examinations are highly competitive and preparation costly",
+        "Alleged paper leaks have weakened faith in the system",
+        "A former education official says support schemes are poorly implemented"
+      ],
+      "rubric_hebrew": "יש לכתוב פסקה באנגלית עם ראיות אישיות ומערכתיות, בלי להציג טענות על הדלפות כעובדה מוכחת."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-20",
+  "article_id": "C",
+  "article_title": "Why growing older LGBTQ+ community in Britain fears losing identity",
+  "article_url": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central concern does the report raise about care for older LGBTQ+ people?",
+      "difficulty": "C",
+      "options": [
+        "Fear of discrimination can force people to conceal identity or delay needed care",
+        "All older LGBTQ+ people already have specialist housing",
+        "Every care provider requires residents to display flags",
+        "The report claims family support is identical for all groups"
+      ],
+      "correct_answer": "Fear of discrimination can force people to conceal identity or delay needed care",
+      "explanation_hebrew": "הכתבה מתארת חשש שאנשים יסתירו זהות או ידחו טיפול לנוכח אפליה אפשרית."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does Manchester's planned Kindred House offer?",
+      "difficulty": "C",
+      "options": [
+        "A hospital exclusively for young people",
+        "80 self-contained apartments, communal areas and access to a 24/7 care team",
+        "A compulsory boarding school for older people",
+        "Only private ownership with no staff training"
+      ],
+      "correct_answer": "80 self-contained apartments, communal areas and access to a 24/7 care team",
+      "explanation_hebrew": "המיזם מציע 80 דירות עצמאיות, חללים משותפים, צוות טיפול זמין והכשרה ייעודית."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “back into the closet” mean in the report's warning?",
+      "difficulty": "C",
+      "options": [
+        "Returning to a childhood home",
+        "Putting personal objects in storage",
+        "Concealing LGBTQ+ identity again",
+        "Moving out of a care home permanently"
+      ],
+      "correct_answer": "Concealing LGBTQ+ identity again",
+      "explanation_hebrew": "הביטוי מציין חזרה להסתרת הזהות המינית או המגדרית בגלל חשש מהיחס בסביבת טיפול."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In Mindy's account, what does “clumping you together with other stereotypes” mean?",
+      "difficulty": "C",
+      "options": [
+        "Recognising each person's history",
+        "Helping people choose friends",
+        "Providing specialist health services",
+        "Treating older people as a single stereotyped group"
+      ],
+      "correct_answer": "Treating older people as a single stereotyped group",
+      "explanation_hebrew": "מינדי מתארת הכללה שמוחקת הבדלים וזהויות בין אנשים מבוגרים."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does Norman describe his “chosen family”?",
+      "difficulty": "C",
+      "options": [
+        "His partner Tony and supportive friends and neighbours",
+        "Only relatives living nearby",
+        "Staff at a care home he already lives in",
+        "People he has never met online"
+      ],
+      "correct_answer": "His partner Tony and supportive friends and neighbours",
+      "explanation_hebrew": "נורמן מתייחס לבן זוגו, לחברים ולשכנים כמערכת תמיכה מבחירה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean that demand may “outstrip supply” of specialist services?",
+      "difficulty": "C",
+      "options": [
+        "Housing will become free for everyone",
+        "Need for services may grow faster than their availability",
+        "The number of people will decline sharply",
+        "Existing apartments will all be converted to hospitals"
+      ],
+      "correct_answer": "Need for services may grow faster than their availability",
+      "explanation_hebrew": "outstrip supply משמעו ביקוש העולה על היצע השירותים הזמינים."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might some older LGBTQ+ people postpone formal care despite needing it?",
+      "difficulty": "C",
+      "expected_points": [
+        "Some fear homophobia or mistreatment by carers",
+        "They may hide wedding photographs or flags",
+        "Past discrimination can shape expectations of institutions",
+        "Norman worries about reports of poor treatment in nursing homes"
+      ],
+      "rubric_hebrew": "יש לייחס את החשש לעדויות ולדו״ח, ולא לטעון שכל מסגרות הטיפול מפלות."
+    },
+    {
+      "id": "C-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare Tonic in London and the planned Kindred House in Manchester.",
+      "difficulty": "C",
+      "expected_points": [
+        "Tonic opened in 2021 with 19 apartments",
+        "Kindred House is planned to open next year with 80 apartments",
+        "Kindred House provides independently lived-in extra-care accommodation",
+        "Both aim to offer supportive LGBTQ+ communities"
+      ],
+      "rubric_hebrew": "יש לציין הבדלי תאריך, היקף או מודל טיפול, ואת המכנה המשותף בלי לבלבל בין המיזמים."
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how personal testimony and the report's figures explain demand for inclusive later-life care.",
+      "difficulty": "C",
+      "expected_points": [
+        "Mindy describes being mistaken for straight or having her wife misidentified",
+        "Norman relies on a chosen family but worries about formal care",
+        "The report notes elevated isolation and lower availability of help in some groups",
+        "Over-50s identifying as lesbian, gay or bisexual rose from about 340,000 to nearly 460,000 between 2019 and 2024",
+        "Specialist provision may not keep pace with growing demand"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית עדויות ונתונים בזהירות, עם ייחוס והימנעות מהכללות לכלל הקהילה."
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain how Kindred House and Tonic address more than medical needs, using the experiences of two interviewees.",
+      "difficulty": "C",
+      "expected_points": [
+        "Kindred House includes communal spaces and trained care staff",
+        "Tonic provided Min with community after Tim died",
+        "Mindy values staff and rules designed with LGBTQ+ inclusion in mind",
+        "Norman emphasises both chosen family and respectful formal care",
+        "Residents seek safety without having to conceal or explain identity"
+      ],
+      "rubric_hebrew": "יש לכתוב באנגלית על תחושת שייכות, זהות וביטחון לצד טיפול, עם שתי דוגמאות מהכתבה."
+    }
+  ]
+}
