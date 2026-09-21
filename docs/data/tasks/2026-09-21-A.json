@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-21",
+  "article_id": "A",
+  "article_title": "What food items should you stock up on in case of an emergency?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why does the article suggest keeping a small supply of long-life food?",
+      "difficulty": "A",
+      "options": [
+        "To prepare for possible interruptions to food supplies while choosing nutritious items",
+        "To replace all fresh food permanently",
+        "Because supermarkets have stopped selling fresh products",
+        "To avoid drinking water during storms"
+      ],
+      "correct_answer": "To prepare for possible interruptions to food supplies while choosing nutritious items",
+      "explanation_hebrew": "הכתבה ממליצה להיערך לשיבושים אפשריים באספקה באמצעות מזון עמיד ולבחור אותו בתשומת לב תזונתית."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which group does Dr Sammie Gill include as a source of protein for an emergency cupboard?",
+      "difficulty": "A",
+      "options": [
+        "Sweetened breakfast bars and chocolate",
+        "Canned chickpeas, lentils and kidney beans",
+        "Instant noodles and tinned soup",
+        "Fruit tinned in syrup"
+      ],
+      "correct_answer": "Canned chickpeas, lentils and kidney beans",
+      "explanation_hebrew": "גיל מונה קטניות משומרות בין מקורות החלבון המומלצים."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “put a strain on” mean when the article discusses the food supply chain?",
+      "difficulty": "A",
+      "options": [
+        "Guarantee a larger harvest",
+        "Make food taste less appealing",
+        "Place pressure on the system that brings food to shops",
+        "Turn long-life food into fresh food"
+      ],
+      "correct_answer": "Place pressure on the system that brings food to shops",
+      "explanation_hebrew": "הביטוי מתאר לחץ או קושי שמכבידים על שרשרת האספקה."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “abundant” mean in Prof Richard Wilding's warning about supermarket products?",
+      "difficulty": "A",
+      "options": [
+        "Too expensive to buy",
+        "Available only online",
+        "Unhealthy when eaten often",
+        "Plentiful or easy to find"
+      ],
+      "correct_answer": "Plentiful or easy to find",
+      "explanation_hebrew": "הכוונה למוצרים שבדרך כלל מצויים בשפע, אך עלולים לפתע להיות חסרים."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does Gill recommend checking when buying tinned food?",
+      "difficulty": "A",
+      "options": [
+        "The amounts of salt and sugar, including whether food is packed in brine or syrup",
+        "Whether the label shows the name of a storm",
+        "Whether all tins contain fresh vitamin C",
+        "The colour of the supermarket shelf"
+      ],
+      "correct_answer": "The amounts of salt and sugar, including whether food is packed in brine or syrup",
+      "explanation_hebrew": "גיל מזהירה מתכולת מלח וסוכר ומעדיפה שימורים במים על פני תמלחת או סירופ."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “shelf life” refer to when McManamon discusses nuts?",
+      "difficulty": "A",
+      "options": [
+        "The size of the shelf where the nuts are sold",
+        "How long the nuts remain suitable to keep before they spoil",
+        "The amount of protein in each nut",
+        "The time needed to cook nuts in a tin"
+      ],
+      "correct_answer": "How long the nuts remain suitable to keep before they spoil",
+      "explanation_hebrew": "חיי מדף הם משך הזמן שבו המוצר נשמר ראוי לשימוש; אגוזים עשויים להחזיק פחות זמן."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two kinds of disruptions mentioned that could affect the process of getting food into shops and homes.",
+      "difficulty": "A",
+      "expected_points": [
+        "Climate change or extreme storms",
+        "Cyber-attacks",
+        "Disease outbreaks",
+        "Conflicts"
+      ],
+      "rubric_hebrew": "יש לציין שני גורמים מתוך אלה שהכתבה מונה; אין להציג שיבוש עתידי כעובדה שכבר אירעה."
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can tinned fruit and long-life milk help beyond simply supplying calories?",
+      "difficulty": "A",
+      "expected_points": [
+        "Tinned fruit can add fluid, vitamins and fibre, and its juice can be drunk",
+        "Long-life milk supplies protein and calcium as well as fluid",
+        "Both help diversify nutrition when supplies are disrupted"
+      ],
+      "rubric_hebrew": "יש להסביר לפחות תועלת נוספת של כל אחד משני המוצרים, ולא לטעון שהם תחליף בלעדי למים."
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's practical advice for preparing an emergency food cupboard in four or five sentences.",
+      "difficulty": "A",
+      "expected_points": [
+        "Keep a modest supply of long-life products for potential disruption",
+        "Include complex carbohydrates and protein sources such as grains, pulses or canned fish",
+        "Include tinned fruit and long-life milk for nutrients and fluid",
+        "Check salt and sugar, favouring water-packed food over brine or syrup",
+        "Remember fluids and that canning can reduce some vitamins without making canned food useless"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית עצות מזון, תזונה ונוזלים, מבלי לטעון שיש מחסור נוכחי או ששימורים זהים תמיד למזון טרי."
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain how the article balances preparation for supply disruption with avoiding unnecessary alarm.",
+      "difficulty": "A",
+      "expected_points": [
+        "The government urged people to add a few long-life items",
+        "Wilding advises against being overly worried and notes shipping professionals adapt",
+        "He suggests flexibility if familiar products become scarce",
+        "Nutrition experts recommend varied healthy shelf-stable foods and caution about salt and sugar"
+      ],
+      "rubric_hebrew": "יש לכתוב פסקה באנגלית המבחינה בין היערכות שקולה לבין תחזית ודאית למחסור, ולהביא לפחות שתי ראיות מהכתבה."
+    }
+  ]
+}

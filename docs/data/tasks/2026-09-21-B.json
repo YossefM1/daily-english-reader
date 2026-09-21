@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-21",
+  "article_id": "B",
+  "article_title": "Sock sensors and smart mattresses - is this the future of dementia care?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3056d456gro",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main hope behind the NHS-linked technology trial in Jyoti and Bharat Patel's home?",
+      "difficulty": "B",
+      "options": [
+        "To detect changing needs early so people with dementia can live safely and independently at home longer",
+        "To replace every doctor with a smart mattress",
+        "To record all conversations for researchers",
+        "To train former magicians as nurses"
+      ],
+      "correct_answer": "To detect changing needs early so people with dementia can live safely and independently at home longer",
+      "explanation_hebrew": "מטרת הניסוי היא לזהות סימנים מוקדמים לצורכי טיפול ולסייע לאנשים להישאר עצמאיים ובטוחים בבית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What first made Bharat suspect that something was wrong with Jyoti?",
+      "difficulty": "B",
+      "options": [
+        "She refused to use a smartwatch",
+        "She made unusual mistakes while setting up their stage act",
+        "She stopped eating tinned food",
+        "She fell after leaving their home at night"
+      ],
+      "correct_answer": "She made unusual mistakes while setting up their stage act",
+      "explanation_hebrew": "בהופעות הקסמים הוא שם לב לטעויות לא אופייניות בהכנת הבמה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “gait” mean when the smart socks and watch track long-term changes?",
+      "difficulty": "B",
+      "options": [
+        "The couple's kitchen routine",
+        "The speed of internet data",
+        "The way someone walks",
+        "The family's spending on care"
+      ],
+      "correct_answer": "The way someone walks",
+      "explanation_hebrew": "הליכה או צורת ההליכה היא המשמעות של gait, ושינויים בה עשויים להעיד על שבריריות."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “earlier intervention” mean in Sarah Daniels's explanation of the sensors?",
+      "difficulty": "B",
+      "options": [
+        "Waiting for a serious crisis before calling anyone",
+        "Removing all sensors once a problem starts",
+        "Moving everyone to a care home immediately",
+        "Providing support sooner when warning signs appear"
+      ],
+      "correct_answer": "Providing support sooner when warning signs appear",
+      "explanation_hebrew": "התערבות מוקדמת היא מתן מענה לפני שהבעיה הופכת למשבר."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which device is described as tracking Jyoti's heart and breathing rates during sleep?",
+      "difficulty": "B",
+      "options": [
+        "A smart mattress",
+        "A sensor on the front door",
+        "A kitchen appliance sensor",
+        "A camera in the bedroom"
+      ],
+      "correct_answer": "A smart mattress",
+      "explanation_hebrew": "המזרן החכם עוקב אחרי השינה, הדופק והנשימה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the sentence about a wider “roll out”, what does that phrase mean?",
+      "difficulty": "B",
+      "options": [
+        "Shutting the trial down after one week",
+        "Extending the technology to more users across the health service",
+        "Moving the smart beds outside the house",
+        "Publishing an audio recording of the family"
+      ],
+      "correct_answer": "Extending the technology to more users across the health service",
+      "explanation_hebrew": "הביטוי מתייחס להרחבת השימוש בטכנולוגיה מעבר למשפחות המשתתפות בניסוי."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe two kinds of information collected by sensors in the Patels' home and what they may help detect.",
+      "difficulty": "B",
+      "expected_points": [
+        "Door sensors can signal someone leaving at night",
+        "Movement sensors can indicate a fall",
+        "Kitchen sensors can show whether Jyoti has eaten or followed her routine",
+        "The mattress monitors sleep, heart rate and breathing for possible infection signs"
+      ],
+      "rubric_hebrew": "יש לציין שני מכשירים והקשר הטיפולי שלהם; אין לטעון שמדובר במצלמות או בהקלטת קול."
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might some families hesitate to use this technology even though the devices do not record sound or video?",
+      "difficulty": "B",
+      "expected_points": [
+        "Sensors still collect considerable information about daily habits",
+        "Clinical staff remotely access and analyse the data",
+        "Some people may feel uneasy about privacy despite the absence of audio or video"
+      ],
+      "rubric_hebrew": "יש להבחין בין חשש מגישה לנתונים לבין טענה שגויה שהמכשירים מצלמים או מקליטים."
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the Patels' experience and the trial's possible benefits and trade-offs.",
+      "difficulty": "B",
+      "expected_points": [
+        "Jyoti was diagnosed with Alzheimer's and the couple joined the UK DRI trial",
+        "Home sensors and a smart mattress monitor routines and signs of changing health",
+        "Early signals may support timely care and longer independence at home",
+        "Monitoring is expected to cost about £2,000 per year",
+        "Privacy concerns remain, though the devices do not record sound or video"
+      ],
+      "rubric_hebrew": "יש לכתוב סיכום באנגלית המציג את סיפור המשפחה ואת היתרונות והמחיר או סוגיית הפרטיות, בלי לקבוע שהניסוי כבר הוכח כמוצלח."
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using details from the article, explain whether the trial's potential for preventing a crisis could justify its cost and data collection.",
+      "difficulty": "B",
+      "expected_points": [
+        "The clinical team hopes to spot infection, falls or disruption to routine early",
+        "Bharat reports greater peace of mind",
+        "Annual cost is expected to be about £2,000, mostly monitoring and staff analysis",
+        "Daniels compares that cost with a couple of weeks in a care home",
+        "No sound or video is recorded but detailed behavioural data raises privacy questions"
+      ],
+      "rubric_hebrew": "יש לנמק באנגלית עמדה מאוזנת עם לפחות שתי ראיות מן הכתבה ולהבחין בין תקוות הניסוי לתוצאה שהוכחה בפועל."
+    }
+  ]
+}

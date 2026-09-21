@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-21",
+  "article_id": "C",
+  "article_title": "Laura Kuenssberg: I asked Earl Spencer who we should believe, him or the King?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqe9epzjy0klo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "How does Kuenssberg frame the disagreement between Earl Spencer and Buckingham Palace?",
+      "difficulty": "C",
+      "options": [
+        "As a dispute over memories of Diana's death that cannot be resolved definitively, alongside a brother's grief",
+        "As a court ruling that establishes the King's account",
+        "As a disagreement only about Diana's burial location",
+        "As a newly discovered recording settling what was said"
+      ],
+      "correct_answer": "As a dispute over memories of Diana's death that cannot be resolved definitively, alongside a brother's grief",
+      "explanation_hebrew": "הכתבה מציגה מחלוקת בין זיכרונות ועדויות לצד אבלו של אחיה של דיאנה, ללא הכרעה ודאית בעובדות שבמחלוקת."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was unusual about Buckingham Palace's response to Earl Spencer's book?",
+      "difficulty": "C",
+      "options": [
+        "It immediately published a complete transcript of the 1997 call",
+        "It issued a strongly worded statement despite a usual reluctance to comment",
+        "It endorsed his version of every conversation",
+        "It announced that the book would be withdrawn"
+      ],
+      "correct_answer": "It issued a strongly worded statement despite a usual reluctance to comment",
+      "explanation_hebrew": "הארמון פרסם הודעה תקיפה בניגוד לקו הרגיל של הימנעות מהסברים ומתגובות."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “resolute” suggest about Earl Spencer during the interview?",
+      "difficulty": "C",
+      "options": [
+        "He had changed his account repeatedly",
+        "He was uncertain whether he had met the King",
+        "He was firm in his conviction that his account should be heard",
+        "He refused to speak about his sister"
+      ],
+      "correct_answer": "He was firm in his conviction that his account should be heard",
+      "explanation_hebrew": "המילה מתארת נחישות ועמידה איתנה על הגרסה שלו."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the description of the Palace statement as “blistering”, what is the intended sense?",
+      "difficulty": "C",
+      "options": [
+        "A quiet and approving message",
+        "A statement about unusually hot weather",
+        "A detailed medical description",
+        "A sharply critical and forceful response"
+      ],
+      "correct_answer": "A sharply critical and forceful response",
+      "explanation_hebrew": "הכוונה להודעה חריפה וביקורתית, לא לחום ממשי."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What distinction does Earl Spencer draw about the Palace's response to his claims?",
+      "difficulty": "C",
+      "options": [
+        "It questioned his judgement rather than explicitly denying the allegations",
+        "It admitted his allegations had all been proved",
+        "It supplied a recording of the disputed conversation",
+        "It refused to mention grief at all"
+      ],
+      "correct_answer": "It questioned his judgement rather than explicitly denying the allegations",
+      "explanation_hebrew": "לפי ספנסר הארמון ערער על שיקול דעתו ועל זיכרונו, אך לא הכחיש במפורש את הטענות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “riposte” mean in the account of a line in Earl Spencer's eulogy?",
+      "difficulty": "C",
+      "options": [
+        "A private visit to Diana's island grave",
+        "A pointed response to the alleged suggestion that Diana would soon be forgotten",
+        "An eighteenth-century building at Althorp",
+        "A legal ruling against the Palace"
+      ],
+      "correct_answer": "A pointed response to the alleged suggestion that Diana would soon be forgotten",
+      "explanation_hebrew": "הביטוי מציין תשובה חדה; הוא טוען ששורת ההספד השיבה לדבר שיוחס לצ'רלס."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two elements at Althorp that Kuenssberg describes as part of Earl Spencer's remembrance of Diana.",
+      "difficulty": "C",
+      "expected_points": [
+        "Diana is buried on a wooded island in the estate's lake",
+        "A small green rowing boat is used to visit the island",
+        "The Temple bears Diana's name and quotations including a line from Spencer's eulogy",
+        "A huge stone urn marks the burial place"
+      ],
+      "rubric_hebrew": "יש לציין שני פרטים שמתוארים בביקור באלתורפ, בלי להסיק מכך ראיה לשיחה השנויה במחלוקת."
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does Kuenssberg emphasise both the lack of an explicit denial and the impossibility of complete certainty about 1997?",
+      "difficulty": "C",
+      "expected_points": [
+        "The Palace strongly challenges Spencer's presentation and suggests grief can affect memory",
+        "It has not explicitly denied the alleged words",
+        "Neither the interview nor the statement independently proves precisely what was said",
+        "The writer distinguishes confidence in a memory from external verification"
+      ],
+      "rubric_hebrew": "יש להבחין בין טענות הצדדים לבין עובדות מאומתות; אין לטעון שהשתיקה מוכיחה את גרסת אחד מהם."
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the competing accounts and Kuenssberg's approach to assessing them.",
+      "difficulty": "C",
+      "expected_points": [
+        "Spencer alleges the then-Prince Charles reacted insensitively after Diana's death",
+        "The Palace issued an unusual strong statement invoking the effect of grief on memory",
+        "Kuenssberg questioned Spencer about his evidence and certainty",
+        "She notes there is no definitive way to know exactly what happened",
+        "The interview also portrays his continuing grief for Diana"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית את המחלוקת, אופן הבדיקה והאבל, תוך ייחוס ברור של טענות ולא כעובדות מוכחות."
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Analyse how the Althorp setting and Spencer's visible emotion affect the article without settling the dispute about the King's alleged words.",
+      "difficulty": "C",
+      "expected_points": [
+        "The stately home and family imagery frame the long history between the families",
+        "The lake, island and Temple make Diana's memory tangible",
+        "Spencer becomes tearful and says he misses his sister every day",
+        "His sincerity or grief is not independent proof of a disputed 1997 conversation",
+        "The Palace's challenge to memory remains part of the account"
+      ],
+      "rubric_hebrew": "יש לכתוב ניתוח באנגלית שמבחין בין עוצמה רגשית לבין אימות היסטורי, עם פרטים קונקרטיים מהכתבה."
+    }
+  ]
+}
