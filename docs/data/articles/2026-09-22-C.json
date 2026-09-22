@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-22",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Meet the pensioners spending the kids' inheritance",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo",
+  "published_at": "2026-09-21T23:01:26+00:00",
+  "age_hours_at_selection": 3.25,
+  "word_count": 985,
+  "generated_at": "2026-09-22T02:16:08.172556+00:00",
+  "difficulty_reason": "Longer analytical finance piece with statistics and pension concepts; denser B2/C1/C2 vocabulary and background on retirement and savings.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "inheritance",
+      "lemma": "inheritance",
+      "level": "B2",
+      "hebrew": "יְרֻשָּׁה",
+      "explanation_hebrew": "רְכוּשׁ אוֹ כֶּסֶף שֶׁמּוֹרִישִׁים אַחֲרֵי הַמָּוֶת",
+      "pronunciation_hebrew": "אִינְהֶרִיטֶנְס",
+      "example": "They left a large inheritance to their children."
+    },
+    {
+      "word": "retirees",
+      "lemma": "retiree",
+      "level": "C1",
+      "hebrew": "גִּמְלָאִים",
+      "explanation_hebrew": "אֲנָשִׁים שֶׁפָּרְשׁוּ מֵעֲבוֹדָה",
+      "pronunciation_hebrew": "רִיטַייְרִיז",
+      "example": "Many retirees enjoy travelling abroad."
+    },
+    {
+      "word": "decent",
+      "lemma": "decent",
+      "level": "B2",
+      "hebrew": "הָגוּן / סָבִיר",
+      "explanation_hebrew": "טוֹב דַּיּוֹ, בְּרָמָה מַסְפֶּקֶת",
+      "pronunciation_hebrew": "דִיסֶנְט",
+      "example": "He earns a decent monthly income."
+    },
+    {
+      "word": "opting",
+      "lemma": "opt",
+      "level": "B2",
+      "hebrew": "בּוֹחֵר",
+      "explanation_hebrew": "מַחְלִיט לִבְחֹר בְּאֶפְשָׁרוּת מְסֻיֶּמֶת",
+      "pronunciation_hebrew": "אוֹפְּטִינְג",
+      "example": "They are opting to spend rather than save."
+    },
+    {
+      "word": "acquaintances",
+      "lemma": "acquaintance",
+      "level": "B2",
+      "hebrew": "מַכָּרִים",
+      "explanation_hebrew": "אֲנָשִׁים שֶׁמַּכִּירִים אַךְ אֵינָם חֲבֵרִים קְרוֹבִים",
+      "pronunciation_hebrew": "אֲקְוֵויְנְטֶנְסֶז",
+      "example": "She met a few acquaintances at the party."
+    },
+    {
+      "word": "precious",
+      "lemma": "precious",
+      "level": "B2",
+      "hebrew": "יָקָר עֵרֶךְ",
+      "explanation_hebrew": "בַּעַל עֵרֶךְ רַב, יָקָר מְאֹד",
+      "pronunciation_hebrew": "פְּרֶשֶׁס",
+      "example": "Time is precious, so use it well."
+    },
+    {
+      "word": "commodity",
+      "lemma": "commodity",
+      "level": "C1",
+      "hebrew": "מִצְרָךְ / נֶכֶס",
+      "explanation_hebrew": "דָּבָר בַּעַל עֵרֶךְ שֶׁאֶפְשָׁר לִסְחֹר בּוֹ",
+      "pronunciation_hebrew": "קוֹמוֹדִיטִי",
+      "example": "Clean water is a precious commodity."
+    },
+    {
+      "word": "phenomenon",
+      "lemma": "phenomenon",
+      "level": "C1",
+      "hebrew": "תּוֹפָעָה",
+      "explanation_hebrew": "דָּבָר שֶׁקּוֹרֶה וְנִצְפֶּה, לְעִתִּים חָדָשׁ",
+      "pronunciation_hebrew": "פֶנוֹמֶנוֹן",
+      "example": "Social media is a global phenomenon."
+    },
+    {
+      "word": "dubbed",
+      "lemma": "dub",
+      "level": "C1",
+      "hebrew": "כֻּנָּה",
+      "explanation_hebrew": "קִבֵּל שֵׁם אוֹ כִּנּוּי מְסֻיָּם",
+      "pronunciation_hebrew": "דַבְּד",
+      "example": "The new trend was dubbed 'skiing'."
+    },
+    {
+      "word": "notion",
+      "lemma": "notion",
+      "level": "C1",
+      "hebrew": "מֻשָּׂג / רַעְיוֹן",
+      "explanation_hebrew": "מַחְשָׁבָה אוֹ אֱמוּנָה לְגַבֵּי מַשֶּׁהוּ",
+      "pronunciation_hebrew": "נוֹשֶׁן",
+      "example": "She rejects the notion that money matters most."
+    },
+    {
+      "word": "assets",
+      "lemma": "asset",
+      "level": "B2",
+      "hebrew": "נְכָסִים",
+      "explanation_hebrew": "רְכוּשׁ בַּעַל עֵרֶךְ כַּסְפִּי",
+      "pronunciation_hebrew": "אַסֶטְס",
+      "example": "The family's assets were passed on to the kids."
+    },
+    {
+      "word": "generation",
+      "lemma": "generation",
+      "level": "B1",
+      "hebrew": "דּוֹר",
+      "explanation_hebrew": "קְבוּצַת אֲנָשִׁים בְּנֵי גִּיל דּוֹמֶה",
+      "pronunciation_hebrew": "גֶ'נֶרֵיישֶׁן",
+      "example": "The next generation may inherit less money."
+    },
+    {
+      "word": "prioritise",
+      "lemma": "prioritise",
+      "level": "B2",
+      "hebrew": "לְהַעֲדִיף",
+      "explanation_hebrew": "לָשִׂים בְּרֹאשׁ סֵדֶר הָעֲדִיפֻיּוֹת",
+      "pronunciation_hebrew": "פְּרַיאוֹרִיטַייז",
+      "example": "They prioritise travel over saving."
+    },
+    {
+      "word": "provider",
+      "lemma": "provider",
+      "level": "B2",
+      "hebrew": "סַפָּק",
+      "explanation_hebrew": "גּוּף שֶׁמְּסַפֵּק שֵׁרוּת אוֹ מוּצָר",
+      "pronunciation_hebrew": "פְּרוֹבַיְדֶר",
+      "example": "The pension provider sent a yearly report."
+    },
+    {
+      "word": "firmly",
+      "lemma": "firmly",
+      "level": "B2",
+      "hebrew": "בְּתַקִּיפוּת",
+      "explanation_hebrew": "בְּאֹפֶן נֶחְרָץ וּבָטוּחַ",
+      "pronunciation_hebrew": "פֶרְמְלִי",
+      "example": "She firmly refused the offer."
+    },
+    {
+      "word": "rejects",
+      "lemma": "reject",
+      "level": "B2",
+      "hebrew": "דּוֹחֶה",
+      "explanation_hebrew": "מְסָרֵב לְקַבֵּל אוֹ לְהַסְכִּים",
+      "pronunciation_hebrew": "רִיגֶ'קְטְס",
+      "example": "He rejects the idea of leaving an inheritance."
+    },
+    {
+      "word": "disappearance",
+      "lemma": "disappearance",
+      "level": "B2",
+      "hebrew": "הֵעָלְמוּת",
+      "explanation_hebrew": "הַמַּצָּב שֶׁבּוֹ מַשֶּׁהוּ נֶעֱלָם",
+      "pronunciation_hebrew": "דִיסֶפִּירֶנְס",
+      "example": "The disappearance of pensions worries many."
+    },
+    {
+      "word": "guaranteed",
+      "lemma": "guarantee",
+      "level": "B2",
+      "hebrew": "מֻבְטָח",
+      "explanation_hebrew": "שֶׁבָּטוּחַ שֶׁיִּקְרֶה אוֹ יִנָּתֵן",
+      "pronunciation_hebrew": "גַרַנְטִיד",
+      "example": "The plan offers a guaranteed monthly income."
+    },
+    {
+      "word": "generous",
+      "lemma": "generous",
+      "level": "B2",
+      "hebrew": "נָדִיב",
+      "explanation_hebrew": "נוֹתֵן בְּרֹחַב לֵב",
+      "pronunciation_hebrew": "גֶ'נֶרֶס",
+      "example": "He was generous with his money and time."
+    },
+    {
+      "word": "legacy",
+      "lemma": "legacy",
+      "level": "C1",
+      "hebrew": "מוֹרֶשֶׁת",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁמַּשְׁאִירִים לַדּוֹרוֹת הַבָּאִים",
+      "pronunciation_hebrew": "לֶגֶסִי",
+      "example": "She wanted to leave a legacy for her kids."
+    },
+    {
+      "word": "indulgence",
+      "lemma": "indulgence",
+      "level": "C1",
+      "hebrew": "פִּנּוּק",
+      "explanation_hebrew": "מַתָּן הֲנָאָה לְעַצְמְךָ, לִפְעָמִים יֶתֶר עַל הַמִּדָּה",
+      "pronunciation_hebrew": "אִינְדַלְגֶ'נְס",
+      "example": "A long holiday is a nice indulgence."
+    },
+    {
+      "word": "poverty",
+      "lemma": "poverty",
+      "level": "B2",
+      "hebrew": "עֹנִי",
+      "explanation_hebrew": "מַצָּב שֶׁל מַחְסוֹר כַּסְפִּי חָמוּר",
+      "pronunciation_hebrew": "פּוֹבֶרְטִי",
+      "example": "Some pensioners still live in poverty."
+    },
+    {
+      "word": "disposable",
+      "lemma": "disposable",
+      "level": "C1",
+      "hebrew": "פָּנוּי (הַכְנָסָה פְּנוּיָה)",
+      "explanation_hebrew": "כֶּסֶף שֶׁנִּשְׁאָר לְאַחַר הוֹצָאוֹת חִיּוּנִיּוֹת",
+      "pronunciation_hebrew": "דִיסְפּוֹזֶבֶּל",
+      "example": "They spend their disposable income on trips."
+    },
+    {
+      "word": "upfront",
+      "lemma": "upfront",
+      "level": "C1",
+      "hebrew": "גָּלוּי וּמֵרֹאשׁ",
+      "explanation_hebrew": "כֵּן וּבָרוּר מֵהַהַתְחָלָה",
+      "pronunciation_hebrew": "אַפְפְרוֹנְט",
+      "example": "She was upfront about her spending plans."
+    },
+    {
+      "word": "anticipating",
+      "lemma": "anticipate",
+      "level": "C1",
+      "hebrew": "צוֹפֶה / מְצַפֶּה",
+      "explanation_hebrew": "מְצַפֶּה שֶׁמַּשֶּׁהוּ יִקְרֶה",
+      "pronunciation_hebrew": "אַנְטִיסִיפֵּייטִינְג",
+      "example": "I'm anticipating a busy and costly year."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "inheritance",
+      "type": "english_to_hebrew",
+      "question": "What does “inheritance” mean?",
+      "options": [
+        "בּוֹחֵר",
+        "גִּמְלָאִים",
+        "הָגוּן / סָבִיר",
+        "יְרֻשָּׁה"
+      ],
+      "correct_answer": "יְרֻשָּׁה",
+      "explanation_hebrew": "“inheritance” פֵּרוּשוֹ: רְכוּשׁ אוֹ כֶּסֶף שֶׁמּוֹרִישִׁים אַחֲרֵי הַמָּוֶת."
+    },
+    {
+      "id": "C-q2",
+      "word": "retirees",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘גִּמְלָאִים’?",
+      "options": [
+        "retirees",
+        "acquaintances",
+        "decent",
+        "opting"
+      ],
+      "correct_answer": "retirees",
+      "explanation_hebrew": "הפֵּרוּש הוּא “retirees”: אֲנָשִׁים שֶׁפָּרְשׁוּ מֵעֲבוֹדָה."
+    },
+    {
+      "id": "C-q3",
+      "word": "decent",
+      "type": "english_to_hebrew",
+      "question": "What does “decent” mean?",
+      "options": [
+        "מַכָּרִים",
+        "יָקָר עֵרֶךְ",
+        "הָגוּן / סָבִיר",
+        "בּוֹחֵר"
+      ],
+      "correct_answer": "הָגוּן / סָבִיר",
+      "explanation_hebrew": "“decent” פֵּרוּשוֹ: טוֹב דַּיּוֹ, בְּרָמָה מַסְפֶּקֶת."
+    },
+    {
+      "id": "C-q4",
+      "word": "opting",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘בּוֹחֵר’?",
+      "options": [
+        "precious",
+        "acquaintances",
+        "opting",
+        "commodity"
+      ],
+      "correct_answer": "opting",
+      "explanation_hebrew": "הפֵּרוּש הוּא “opting”: מַחְלִיט לִבְחֹר בְּאֶפְשָׁרוּת מְסֻיֶּמֶת."
+    },
+    {
+      "id": "C-q5",
+      "word": "acquaintances",
+      "type": "english_to_hebrew",
+      "question": "What does “acquaintances” mean?",
+      "options": [
+        "מַכָּרִים",
+        "תּוֹפָעָה",
+        "יָקָר עֵרֶךְ",
+        "מִצְרָךְ / נֶכֶס"
+      ],
+      "correct_answer": "מַכָּרִים",
+      "explanation_hebrew": "“acquaintances” פֵּרוּשוֹ: אֲנָשִׁים שֶׁמַּכִּירִים אַךְ אֵינָם חֲבֵרִים קְרוֹבִים."
+    },
+    {
+      "id": "C-q6",
+      "word": "precious",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘יָקָר עֵרֶךְ’?",
+      "options": [
+        "dubbed",
+        "precious",
+        "commodity",
+        "phenomenon"
+      ],
+      "correct_answer": "precious",
+      "explanation_hebrew": "הפֵּרוּש הוּא “precious”: בַּעַל עֵרֶךְ רַב, יָקָר מְאֹד."
+    },
+    {
+      "id": "C-q7",
+      "word": "commodity",
+      "type": "english_to_hebrew",
+      "question": "What does “commodity” mean?",
+      "options": [
+        "מֻשָּׂג / רַעְיוֹן",
+        "כֻּנָּה",
+        "תּוֹפָעָה",
+        "מִצְרָךְ / נֶכֶס"
+      ],
+      "correct_answer": "מִצְרָךְ / נֶכֶס",
+      "explanation_hebrew": "“commodity” פֵּרוּשוֹ: דָּבָר בַּעַל עֵרֶךְ שֶׁאֶפְשָׁר לִסְחֹר בּוֹ."
+    },
+    {
+      "id": "C-q8",
+      "word": "phenomenon",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘תּוֹפָעָה’?",
+      "options": [
+        "notion",
+        "dubbed",
+        "assets",
+        "phenomenon"
+      ],
+      "correct_answer": "phenomenon",
+      "explanation_hebrew": "הפֵּרוּש הוּא “phenomenon”: דָּבָר שֶׁקּוֹרֶה וְנִצְפֶּה, לְעִתִּים חָדָשׁ."
+    },
+    {
+      "id": "C-q9",
+      "word": "dubbed",
+      "type": "english_to_hebrew",
+      "question": "What does “dubbed” mean?",
+      "options": [
+        "נְכָסִים",
+        "מֻשָּׂג / רַעְיוֹן",
+        "דּוֹר",
+        "כֻּנָּה"
+      ],
+      "correct_answer": "כֻּנָּה",
+      "explanation_hebrew": "“dubbed” פֵּרוּשוֹ: קִבֵּל שֵׁם אוֹ כִּנּוּי מְסֻיָּם."
+    },
+    {
+      "id": "C-q10",
+      "word": "notion",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘מֻשָּׂג / רַעְיוֹן’?",
+      "options": [
+        "generation",
+        "notion",
+        "prioritise",
+        "assets"
+      ],
+      "correct_answer": "notion",
+      "explanation_hebrew": "הפֵּרוּש הוּא “notion”: מַחְשָׁבָה אוֹ אֱמוּנָה לְגַבֵּי מַשֶּׁהוּ."
+    },
+    {
+      "id": "C-q11",
+      "word": "assets",
+      "type": "english_to_hebrew",
+      "question": "What does “assets” mean?",
+      "options": [
+        "נְכָסִים",
+        "סַפָּק",
+        "לְהַעֲדִיף",
+        "דּוֹר"
+      ],
+      "correct_answer": "נְכָסִים",
+      "explanation_hebrew": "“assets” פֵּרוּשוֹ: רְכוּשׁ בַּעַל עֵרֶךְ כַּסְפִּי."
+    },
+    {
+      "id": "C-q12",
+      "word": "generation",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘דּוֹר’?",
+      "options": [
+        "firmly",
+        "generation",
+        "prioritise",
+        "provider"
+      ],
+      "correct_answer": "generation",
+      "explanation_hebrew": "הפֵּרוּש הוּא “generation”: קְבוּצַת אֲנָשִׁים בְּנֵי גִּיל דּוֹמֶה."
+    },
+    {
+      "id": "C-q13",
+      "word": "prioritise",
+      "type": "english_to_hebrew",
+      "question": "What does “prioritise” mean?",
+      "options": [
+        "דּוֹחֶה",
+        "בְּתַקִּיפוּת",
+        "סַפָּק",
+        "לְהַעֲדִיף"
+      ],
+      "correct_answer": "לְהַעֲדִיף",
+      "explanation_hebrew": "“prioritise” פֵּרוּשוֹ: לָשִׂים בְּרֹאשׁ סֵדֶר הָעֲדִיפֻיּוֹת."
+    },
+    {
+      "id": "C-q14",
+      "word": "provider",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘סַפָּק’?",
+      "options": [
+        "rejects",
+        "disappearance",
+        "provider",
+        "firmly"
+      ],
+      "correct_answer": "provider",
+      "explanation_hebrew": "הפֵּרוּש הוּא “provider”: גּוּף שֶׁמְּסַפֵּק שֵׁרוּת אוֹ מוּצָר."
+    },
+    {
+      "id": "C-q15",
+      "word": "firmly",
+      "type": "english_to_hebrew",
+      "question": "What does “firmly” mean?",
+      "options": [
+        "מֻבְטָח",
+        "דּוֹחֶה",
+        "הֵעָלְמוּת",
+        "בְּתַקִּיפוּת"
+      ],
+      "correct_answer": "בְּתַקִּיפוּת",
+      "explanation_hebrew": "“firmly” פֵּרוּשוֹ: בְּאֹפֶן נֶחְרָץ וּבָטוּחַ."
+    },
+    {
+      "id": "C-q16",
+      "word": "rejects",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘דּוֹחֶה’?",
+      "options": [
+        "disappearance",
+        "rejects",
+        "guaranteed",
+        "generous"
+      ],
+      "correct_answer": "rejects",
+      "explanation_hebrew": "הפֵּרוּש הוּא “rejects”: מְסָרֵב לְקַבֵּל אוֹ לְהַסְכִּים."
+    },
+    {
+      "id": "C-q17",
+      "word": "disappearance",
+      "type": "english_to_hebrew",
+      "question": "What does “disappearance” mean?",
+      "options": [
+        "נָדִיב",
+        "הֵעָלְמוּת",
+        "מוֹרֶשֶׁת",
+        "מֻבְטָח"
+      ],
+      "correct_answer": "הֵעָלְמוּת",
+      "explanation_hebrew": "“disappearance” פֵּרוּשוֹ: הַמַּצָּב שֶׁבּוֹ מַשֶּׁהוּ נֶעֱלָם."
+    },
+    {
+      "id": "C-q18",
+      "word": "guaranteed",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘מֻבְטָח’?",
+      "options": [
+        "guaranteed",
+        "generous",
+        "indulgence",
+        "legacy"
+      ],
+      "correct_answer": "guaranteed",
+      "explanation_hebrew": "הפֵּרוּש הוּא “guaranteed”: שֶׁבָּטוּחַ שֶׁיִּקְרֶה אוֹ יִנָּתֵן."
+    },
+    {
+      "id": "C-q19",
+      "word": "generous",
+      "type": "english_to_hebrew",
+      "question": "What does “generous” mean?",
+      "options": [
+        "נָדִיב",
+        "מוֹרֶשֶׁת",
+        "פִּנּוּק",
+        "עֹנִי"
+      ],
+      "correct_answer": "נָדִיב",
+      "explanation_hebrew": "“generous” פֵּרוּשוֹ: נוֹתֵן בְּרֹחַב לֵב."
+    },
+    {
+      "id": "C-q20",
+      "word": "legacy",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘מוֹרֶשֶׁת’?",
+      "options": [
+        "legacy",
+        "poverty",
+        "disposable",
+        "indulgence"
+      ],
+      "correct_answer": "legacy",
+      "explanation_hebrew": "הפֵּרוּש הוּא “legacy”: מַשֶּׁהוּ שֶׁמַּשְׁאִירִים לַדּוֹרוֹת הַבָּאִים."
+    },
+    {
+      "id": "C-q21",
+      "word": "indulgence",
+      "type": "english_to_hebrew",
+      "question": "What does “indulgence” mean?",
+      "options": [
+        "פָּנוּי (הַכְנָסָה פְּנוּיָה)",
+        "גָּלוּי וּמֵרֹאשׁ",
+        "פִּנּוּק",
+        "עֹנִי"
+      ],
+      "correct_answer": "פִּנּוּק",
+      "explanation_hebrew": "“indulgence” פֵּרוּשוֹ: מַתָּן הֲנָאָה לְעַצְמְךָ, לִפְעָמִים יֶתֶר עַל הַמִּדָּה."
+    },
+    {
+      "id": "C-q22",
+      "word": "poverty",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘עֹנִי’?",
+      "options": [
+        "anticipating",
+        "disposable",
+        "poverty",
+        "upfront"
+      ],
+      "correct_answer": "poverty",
+      "explanation_hebrew": "הפֵּרוּש הוּא “poverty”: מַצָּב שֶׁל מַחְסוֹר כַּסְפִּי חָמוּר."
+    },
+    {
+      "id": "C-q23",
+      "word": "disposable",
+      "type": "english_to_hebrew",
+      "question": "What does “disposable” mean?",
+      "options": [
+        "גָּלוּי וּמֵרֹאשׁ",
+        "פָּנוּי (הַכְנָסָה פְּנוּיָה)",
+        "יְרֻשָּׁה",
+        "צוֹפֶה / מְצַפֶּה"
+      ],
+      "correct_answer": "פָּנוּי (הַכְנָסָה פְּנוּיָה)",
+      "explanation_hebrew": "“disposable” פֵּרוּשוֹ: כֶּסֶף שֶׁנִּשְׁאָר לְאַחַר הוֹצָאוֹת חִיּוּנִיּוֹת."
+    },
+    {
+      "id": "C-q24",
+      "word": "upfront",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘גָּלוּי וּמֵרֹאשׁ’?",
+      "options": [
+        "anticipating",
+        "inheritance",
+        "upfront",
+        "retirees"
+      ],
+      "correct_answer": "upfront",
+      "explanation_hebrew": "הפֵּרוּש הוּא “upfront”: כֵּן וּבָרוּר מֵהַהַתְחָלָה."
+    },
+    {
+      "id": "C-q25",
+      "word": "anticipating",
+      "type": "english_to_hebrew",
+      "question": "What does “anticipating” mean?",
+      "options": [
+        "צוֹפֶה / מְצַפֶּה",
+        "הָגוּן / סָבִיר",
+        "יְרֻשָּׁה",
+        "גִּמְלָאִים"
+      ],
+      "correct_answer": "צוֹפֶה / מְצַפֶּה",
+      "explanation_hebrew": "“anticipating” פֵּרוּשוֹ: מְצַפֶּה שֶׁמַּשֶּׁהוּ יִקְרֶה."
+    }
+  ]
+}

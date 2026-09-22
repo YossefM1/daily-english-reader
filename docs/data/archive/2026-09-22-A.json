@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-22",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Schools 'crying out' for guidance from government on AI, report warns",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cw8r68mpm6p3o",
+  "published_at": "2026-09-22T00:02:08+00:00",
+  "age_hours_at_selection": 2.23,
+  "word_count": 548,
+  "generated_at": "2026-09-22T02:16:08.172556+00:00",
+  "difficulty_reason": "Short news report with clear structure and a bulleted plan; mostly B1/B2 vocabulary and little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "guidance",
+      "lemma": "guidance",
+      "level": "B2",
+      "hebrew": "הַנְחָיָה",
+      "explanation_hebrew": "עֵצָה אוֹ הַכְוָונָה כֵּיצַד לִנְהֹג",
+      "pronunciation_hebrew": "גַײְדֶנְס",
+      "example": "Teachers asked for clear guidance on the new rules."
+    },
+    {
+      "word": "effectively",
+      "lemma": "effectively",
+      "level": "B2",
+      "hebrew": "בִּיעִילוּת",
+      "explanation_hebrew": "בְּאֹפֶן שֶׁמַּשִּׂיג תּוֹצָאָה טוֹבָה",
+      "pronunciation_hebrew": "אִיפֶקְטִיבְלִי",
+      "example": "She used her time effectively during the exam."
+    },
+    {
+      "word": "chaotic",
+      "lemma": "chaotic",
+      "level": "B2",
+      "hebrew": "כָּאוֹטִי",
+      "explanation_hebrew": "מָלֵא אִי־סֵדֶר וּבִלְבּוּל",
+      "pronunciation_hebrew": "קֵיאוֹטִיק",
+      "example": "The first day of school felt noisy and chaotic."
+    },
+    {
+      "word": "anarchic",
+      "lemma": "anarchic",
+      "level": "C1",
+      "hebrew": "אֲנַרְכִי",
+      "explanation_hebrew": "לְלֹא סֵדֶר אוֹ שְׁלִיטָה, פָּרוּעַ",
+      "pronunciation_hebrew": "אֲנַארְקִיק",
+      "example": "The discussion became anarchic and hard to follow."
+    },
+    {
+      "word": "framework",
+      "lemma": "framework",
+      "level": "B2",
+      "hebrew": "מִסְגֶּרֶת",
+      "explanation_hebrew": "מַעֲרֶכֶת כְּלָלִים אוֹ מִבְנֶה בְּסִיסִי",
+      "pronunciation_hebrew": "פְרֵיימְוֶורְק",
+      "example": "The plan gives schools a clear framework to follow."
+    },
+    {
+      "word": "adopting",
+      "lemma": "adopt",
+      "level": "B2",
+      "hebrew": "אִמּוּץ",
+      "explanation_hebrew": "לְקַבֵּל וּלְהַתְחִיל לְהִשְׁתַּמֵּשׁ בְּמַשֶּׁהוּ",
+      "pronunciation_hebrew": "אֲדוֹפְּטִינְג",
+      "example": "The company is adopting new technology this year."
+    },
+    {
+      "word": "curriculum",
+      "lemma": "curriculum",
+      "level": "B2",
+      "hebrew": "תָּכְנִית לִמּוּדִים",
+      "explanation_hebrew": "מַעֲרֶכֶת הַנּוֹשְׂאִים הַנִּלְמָדִים בְּבֵית סֵפֶר",
+      "pronunciation_hebrew": "קָרִיקְיוּלֶם",
+      "example": "AI is now part of the school curriculum."
+    },
+    {
+      "word": "disinformation",
+      "lemma": "disinformation",
+      "level": "C1",
+      "hebrew": "מֵידָע כּוֹזֵב",
+      "explanation_hebrew": "מֵידָע שִׁקְרִי שֶׁמּוּפָץ בְּכַוָּונָה",
+      "pronunciation_hebrew": "דִיסאִינְפוֹרְמֵיישֶׁן",
+      "example": "The report warns pupils about online disinformation."
+    },
+    {
+      "word": "navigate",
+      "lemma": "navigate",
+      "level": "B2",
+      "hebrew": "לְהִתְמַצֵּא / לְנַוֵּט",
+      "explanation_hebrew": "לִמְצֹא אֶת הַדֶּרֶךְ בְּמַצָּב מְסֻבָּךְ",
+      "pronunciation_hebrew": "נָבִיגֵייט",
+      "example": "It is hard to navigate all the new rules."
+    },
+    {
+      "word": "urgency",
+      "lemma": "urgency",
+      "level": "B2",
+      "hebrew": "דְּחִיפוּת",
+      "explanation_hebrew": "הַצֹּרֶךְ לִפְעֹל מַהֵר",
+      "pronunciation_hebrew": "אֶרְגֶ'נְסִי",
+      "example": "They handled the crisis with great urgency."
+    },
+    {
+      "word": "epidemics",
+      "lemma": "epidemic",
+      "level": "C1",
+      "hebrew": "מַגֵּפוֹת",
+      "explanation_hebrew": "הִתְפַּשְּׁטוּת מְהִירָה שֶׁל מַחֲלָה",
+      "pronunciation_hebrew": "אֶפִּידֶמִיקְס",
+      "example": "Doctors work hard to stop dangerous epidemics."
+    },
+    {
+      "word": "taskforce",
+      "lemma": "taskforce",
+      "level": "C1",
+      "hebrew": "צֶוֶות מְשִׂימָה",
+      "explanation_hebrew": "קְבוּצָה שֶׁהוּקְמָה כְּדֵי לְטַפֵּל בִּמְשִׂימָה",
+      "pronunciation_hebrew": "טַאסְקְפוֹרְס",
+      "example": "A special taskforce was set up to solve the problem."
+    },
+    {
+      "word": "modelled",
+      "lemma": "model",
+      "level": "B2",
+      "hebrew": "מְעֻצָּב לְפִי",
+      "explanation_hebrew": "בָּנוּי לְפִי דֻּגְמָה קַיֶּמֶת",
+      "pronunciation_hebrew": "מוֹדֶלְד",
+      "example": "The system was modelled on an older plan."
+    },
+    {
+      "word": "landmark",
+      "lemma": "landmark",
+      "level": "C1",
+      "hebrew": "צִיּוּן דֶּרֶךְ / מְאֹרָע חָשׁוּב",
+      "explanation_hebrew": "אֵרוּעַ אוֹ דָּבָר בַּעַל חֲשִׁיבוּת רַבָּה",
+      "pronunciation_hebrew": "לֵנְדְמַארְק",
+      "example": "It was a landmark decision for the country."
+    },
+    {
+      "word": "aligning",
+      "lemma": "align",
+      "level": "C1",
+      "hebrew": "הַתְאָמָה / יִישּׁוּר",
+      "explanation_hebrew": "לְהַתְאִים דָּבָר אֶחָד לְאַחֵר",
+      "pronunciation_hebrew": "אֲלַיְנִינְג",
+      "example": "They are aligning the lessons with real life."
+    },
+    {
+      "word": "assess",
+      "lemma": "assess",
+      "level": "B2",
+      "hebrew": "לְהַעֲרִיךְ",
+      "explanation_hebrew": "לִבְחֹן וְלִקְבֹּעַ אֶת הַשֹּׁוִי אוֹ הָאֵיכוּת",
+      "pronunciation_hebrew": "אֲסֶס",
+      "example": "Teachers assess each student's progress."
+    },
+    {
+      "word": "implementation",
+      "lemma": "implementation",
+      "level": "C1",
+      "hebrew": "יִישּׂוּם / הַטְמָעָה",
+      "explanation_hebrew": "הַהוֹצָאָה אֶל הַפֹּעַל שֶׁל תָּכְנִית",
+      "pronunciation_hebrew": "אִימְפְּלֶמֶנְטֵיישֶׁן",
+      "example": "The implementation of the plan will take a year."
+    },
+    {
+      "word": "inspections",
+      "lemma": "inspection",
+      "level": "B2",
+      "hebrew": "בִּיקּוֹרוֹת",
+      "explanation_hebrew": "בְּדִיקוֹת רִשְׁמִיּוֹת שֶׁל אֵיכוּת אוֹ בְּטִיחוּת",
+      "pronunciation_hebrew": "אִינְסְפֶּקְשֶׁנְז",
+      "example": "The school passed all its inspections."
+    },
+    {
+      "word": "campaign",
+      "lemma": "campaign",
+      "level": "B2",
+      "hebrew": "מַסָּע / קַמְפֵּיין",
+      "explanation_hebrew": "סִדְרַת פְּעֻלּוֹת מְתֻכְנֶנֶת לְמַטָּרָה",
+      "pronunciation_hebrew": "קַמְפֵּיין",
+      "example": "The government launched an information campaign."
+    },
+    {
+      "word": "transform",
+      "lemma": "transform",
+      "level": "B2",
+      "hebrew": "לְשַׁנּוֹת מִן הַיְּסוֹד",
+      "explanation_hebrew": "לְשַׁנּוֹת מַשֶּׁהוּ בְּאֹפֶן עָמֹק",
+      "pronunciation_hebrew": "טְרַנְסְפוֹרְם",
+      "example": "AI could transform how we learn."
+    },
+    {
+      "word": "continuous",
+      "lemma": "continuous",
+      "level": "B2",
+      "hebrew": "רָצוּף / מִתְמַשֵּׁךְ",
+      "explanation_hebrew": "נִמְשָׁךְ לְלֹא הַפְסָקָה",
+      "pronunciation_hebrew": "קוֹנְטִינְיוּאָס",
+      "example": "The plan uses continuous testing of students."
+    },
+    {
+      "word": "evaluation",
+      "lemma": "evaluation",
+      "level": "B2",
+      "hebrew": "הַעֲרָכָה",
+      "explanation_hebrew": "בְּדִיקָה שֶׁל הָאֵיכוּת אוֹ הַהַצְלָחָה",
+      "pronunciation_hebrew": "אִיוַואלְיוּאֵיישֶׁן",
+      "example": "The teacher gave a fair evaluation of the work."
+    },
+    {
+      "word": "perceived",
+      "lemma": "perceive",
+      "level": "C1",
+      "hebrew": "נִתְפָּס",
+      "explanation_hebrew": "כְּפִי שֶׁהוּא נִרְאֶה אוֹ מוּבָן לַאֲנָשִׁים",
+      "pronunciation_hebrew": "פֶּרְסִיבְד",
+      "example": "The perceived value of the course dropped."
+    },
+    {
+      "word": "institution",
+      "lemma": "institution",
+      "level": "B2",
+      "hebrew": "מוֹסָד",
+      "explanation_hebrew": "אִרְגּוּן גָּדוֹל כְּמוֹ בֵּית סֵפֶר אוֹ אוּנִיבֶרְסִיטָה",
+      "pronunciation_hebrew": "אִינְסְטִיטְיוּשֶׁן",
+      "example": "The university is a respected institution."
+    },
+    {
+      "word": "vocational",
+      "lemma": "vocational",
+      "level": "C1",
+      "hebrew": "מִקְצוֹעִי",
+      "explanation_hebrew": "הַקָּשׁוּר לְהַכְשָׁרָה לְמִקְצוֹעַ",
+      "pronunciation_hebrew": "ווֹקֵיישֶׁנָל",
+      "example": "He chose a vocational course in plumbing."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "guidance",
+      "type": "english_to_hebrew",
+      "question": "What does “guidance” mean?",
+      "options": [
+        "כָּאוֹטִי",
+        "הַנְחָיָה",
+        "אֲנַרְכִי",
+        "בִּיעִילוּת"
+      ],
+      "correct_answer": "הַנְחָיָה",
+      "explanation_hebrew": "“guidance” פֵּרוּשוֹ: עֵצָה אוֹ הַכְוָונָה כֵּיצַד לִנְהֹג."
+    },
+    {
+      "id": "A-q2",
+      "word": "effectively",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘בִּיעִילוּת’?",
+      "options": [
+        "chaotic",
+        "framework",
+        "effectively",
+        "anarchic"
+      ],
+      "correct_answer": "effectively",
+      "explanation_hebrew": "הפֵּרוּש הוּא “effectively”: בְּאֹפֶן שֶׁמַּשִּׂיג תּוֹצָאָה טוֹבָה."
+    },
+    {
+      "id": "A-q3",
+      "word": "chaotic",
+      "type": "english_to_hebrew",
+      "question": "What does “chaotic” mean?",
+      "options": [
+        "אֲנַרְכִי",
+        "כָּאוֹטִי",
+        "מִסְגֶּרֶת",
+        "אִמּוּץ"
+      ],
+      "correct_answer": "כָּאוֹטִי",
+      "explanation_hebrew": "“chaotic” פֵּרוּשוֹ: מָלֵא אִי־סֵדֶר וּבִלְבּוּל."
+    },
+    {
+      "id": "A-q4",
+      "word": "anarchic",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘אֲנַרְכִי’?",
+      "options": [
+        "adopting",
+        "framework",
+        "curriculum",
+        "anarchic"
+      ],
+      "correct_answer": "anarchic",
+      "explanation_hebrew": "הפֵּרוּש הוּא “anarchic”: לְלֹא סֵדֶר אוֹ שְׁלִיטָה, פָּרוּעַ."
+    },
+    {
+      "id": "A-q5",
+      "word": "framework",
+      "type": "english_to_hebrew",
+      "question": "What does “framework” mean?",
+      "options": [
+        "תָּכְנִית לִמּוּדִים",
+        "מִסְגֶּרֶת",
+        "מֵידָע כּוֹזֵב",
+        "אִמּוּץ"
+      ],
+      "correct_answer": "מִסְגֶּרֶת",
+      "explanation_hebrew": "“framework” פֵּרוּשוֹ: מַעֲרֶכֶת כְּלָלִים אוֹ מִבְנֶה בְּסִיסִי."
+    },
+    {
+      "id": "A-q6",
+      "word": "adopting",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘אִמּוּץ’?",
+      "options": [
+        "disinformation",
+        "curriculum",
+        "adopting",
+        "navigate"
+      ],
+      "correct_answer": "adopting",
+      "explanation_hebrew": "הפֵּרוּש הוּא “adopting”: לְקַבֵּל וּלְהַתְחִיל לְהִשְׁתַּמֵּשׁ בְּמַשֶּׁהוּ."
+    },
+    {
+      "id": "A-q7",
+      "word": "curriculum",
+      "type": "english_to_hebrew",
+      "question": "What does “curriculum” mean?",
+      "options": [
+        "לְהִתְמַצֵּא / לְנַוֵּט",
+        "דְּחִיפוּת",
+        "מֵידָע כּוֹזֵב",
+        "תָּכְנִית לִמּוּדִים"
+      ],
+      "correct_answer": "תָּכְנִית לִמּוּדִים",
+      "explanation_hebrew": "“curriculum” פֵּרוּשוֹ: מַעֲרֶכֶת הַנּוֹשְׂאִים הַנִּלְמָדִים בְּבֵית סֵפֶר."
+    },
+    {
+      "id": "A-q8",
+      "word": "disinformation",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘מֵידָע כּוֹזֵב’?",
+      "options": [
+        "navigate",
+        "disinformation",
+        "urgency",
+        "epidemics"
+      ],
+      "correct_answer": "disinformation",
+      "explanation_hebrew": "הפֵּרוּש הוּא “disinformation”: מֵידָע שִׁקְרִי שֶׁמּוּפָץ בְּכַוָּונָה."
+    },
+    {
+      "id": "A-q9",
+      "word": "navigate",
+      "type": "english_to_hebrew",
+      "question": "What does “navigate” mean?",
+      "options": [
+        "מַגֵּפוֹת",
+        "לְהִתְמַצֵּא / לְנַוֵּט",
+        "צֶוֶות מְשִׂימָה",
+        "דְּחִיפוּת"
+      ],
+      "correct_answer": "לְהִתְמַצֵּא / לְנַוֵּט",
+      "explanation_hebrew": "“navigate” פֵּרוּשוֹ: לִמְצֹא אֶת הַדֶּרֶךְ בְּמַצָּב מְסֻבָּךְ."
+    },
+    {
+      "id": "A-q10",
+      "word": "urgency",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘דְּחִיפוּת’?",
+      "options": [
+        "epidemics",
+        "taskforce",
+        "modelled",
+        "urgency"
+      ],
+      "correct_answer": "urgency",
+      "explanation_hebrew": "הפֵּרוּש הוּא “urgency”: הַצֹּרֶךְ לִפְעֹל מַהֵר."
+    },
+    {
+      "id": "A-q11",
+      "word": "epidemics",
+      "type": "english_to_hebrew",
+      "question": "What does “epidemics” mean?",
+      "options": [
+        "צִיּוּן דֶּרֶךְ / מְאֹרָע חָשׁוּב",
+        "מְעֻצָּב לְפִי",
+        "צֶוֶות מְשִׂימָה",
+        "מַגֵּפוֹת"
+      ],
+      "correct_answer": "מַגֵּפוֹת",
+      "explanation_hebrew": "“epidemics” פֵּרוּשוֹ: הִתְפַּשְּׁטוּת מְהִירָה שֶׁל מַחֲלָה."
+    },
+    {
+      "id": "A-q12",
+      "word": "taskforce",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘צֶוֶות מְשִׂימָה’?",
+      "options": [
+        "taskforce",
+        "landmark",
+        "modelled",
+        "aligning"
+      ],
+      "correct_answer": "taskforce",
+      "explanation_hebrew": "הפֵּרוּש הוּא “taskforce”: קְבוּצָה שֶׁהוּקְמָה כְּדֵי לְטַפֵּל בִּמְשִׂימָה."
+    },
+    {
+      "id": "A-q13",
+      "word": "modelled",
+      "type": "english_to_hebrew",
+      "question": "What does “modelled” mean?",
+      "options": [
+        "צִיּוּן דֶּרֶךְ / מְאֹרָע חָשׁוּב",
+        "מְעֻצָּב לְפִי",
+        "הַתְאָמָה / יִישּׁוּר",
+        "לְהַעֲרִיךְ"
+      ],
+      "correct_answer": "מְעֻצָּב לְפִי",
+      "explanation_hebrew": "“modelled” פֵּרוּשוֹ: בָּנוּי לְפִי דֻּגְמָה קַיֶּמֶת."
+    },
+    {
+      "id": "A-q14",
+      "word": "landmark",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘צִיּוּן דֶּרֶךְ / מְאֹרָע חָשׁוּב’?",
+      "options": [
+        "implementation",
+        "aligning",
+        "assess",
+        "landmark"
+      ],
+      "correct_answer": "landmark",
+      "explanation_hebrew": "הפֵּרוּש הוּא “landmark”: אֵרוּעַ אוֹ דָּבָר בַּעַל חֲשִׁיבוּת רַבָּה."
+    },
+    {
+      "id": "A-q15",
+      "word": "aligning",
+      "type": "english_to_hebrew",
+      "question": "What does “aligning” mean?",
+      "options": [
+        "בִּיקּוֹרוֹת",
+        "הַתְאָמָה / יִישּׁוּר",
+        "יִישּׂוּם / הַטְמָעָה",
+        "לְהַעֲרִיךְ"
+      ],
+      "correct_answer": "הַתְאָמָה / יִישּׁוּר",
+      "explanation_hebrew": "“aligning” פֵּרוּשוֹ: לְהַתְאִים דָּבָר אֶחָד לְאַחֵר."
+    },
+    {
+      "id": "A-q16",
+      "word": "assess",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘לְהַעֲרִיךְ’?",
+      "options": [
+        "campaign",
+        "inspections",
+        "implementation",
+        "assess"
+      ],
+      "correct_answer": "assess",
+      "explanation_hebrew": "הפֵּרוּש הוּא “assess”: לִבְחֹן וְלִקְבֹּעַ אֶת הַשֹּׁוִי אוֹ הָאֵיכוּת."
+    },
+    {
+      "id": "A-q17",
+      "word": "implementation",
+      "type": "english_to_hebrew",
+      "question": "What does “implementation” mean?",
+      "options": [
+        "בִּיקּוֹרוֹת",
+        "לְשַׁנּוֹת מִן הַיְּסוֹד",
+        "מַסָּע / קַמְפֵּיין",
+        "יִישּׂוּם / הַטְמָעָה"
+      ],
+      "correct_answer": "יִישּׂוּם / הַטְמָעָה",
+      "explanation_hebrew": "“implementation” פֵּרוּשוֹ: הַהוֹצָאָה אֶל הַפֹּעַל שֶׁל תָּכְנִית."
+    },
+    {
+      "id": "A-q18",
+      "word": "inspections",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘בִּיקּוֹרוֹת’?",
+      "options": [
+        "transform",
+        "campaign",
+        "continuous",
+        "inspections"
+      ],
+      "correct_answer": "inspections",
+      "explanation_hebrew": "הפֵּרוּש הוּא “inspections”: בְּדִיקוֹת רִשְׁמִיּוֹת שֶׁל אֵיכוּת אוֹ בְּטִיחוּת."
+    },
+    {
+      "id": "A-q19",
+      "word": "campaign",
+      "type": "english_to_hebrew",
+      "question": "What does “campaign” mean?",
+      "options": [
+        "לְשַׁנּוֹת מִן הַיְּסוֹד",
+        "הַעֲרָכָה",
+        "רָצוּף / מִתְמַשֵּׁךְ",
+        "מַסָּע / קַמְפֵּיין"
+      ],
+      "correct_answer": "מַסָּע / קַמְפֵּיין",
+      "explanation_hebrew": "“campaign” פֵּרוּשוֹ: סִדְרַת פְּעֻלּוֹת מְתֻכְנֶנֶת לְמַטָּרָה."
+    },
+    {
+      "id": "A-q20",
+      "word": "transform",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘לְשַׁנּוֹת מִן הַיְּסוֹד’?",
+      "options": [
+        "transform",
+        "evaluation",
+        "perceived",
+        "continuous"
+      ],
+      "correct_answer": "transform",
+      "explanation_hebrew": "הפֵּרוּש הוּא “transform”: לְשַׁנּוֹת מַשֶּׁהוּ בְּאֹפֶן עָמֹק."
+    },
+    {
+      "id": "A-q21",
+      "word": "continuous",
+      "type": "english_to_hebrew",
+      "question": "What does “continuous” mean?",
+      "options": [
+        "רָצוּף / מִתְמַשֵּׁךְ",
+        "נִתְפָּס",
+        "הַעֲרָכָה",
+        "מוֹסָד"
+      ],
+      "correct_answer": "רָצוּף / מִתְמַשֵּׁךְ",
+      "explanation_hebrew": "“continuous” פֵּרוּשוֹ: נִמְשָׁךְ לְלֹא הַפְסָקָה."
+    },
+    {
+      "id": "A-q22",
+      "word": "evaluation",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘הַעֲרָכָה’?",
+      "options": [
+        "evaluation",
+        "institution",
+        "vocational",
+        "perceived"
+      ],
+      "correct_answer": "evaluation",
+      "explanation_hebrew": "הפֵּרוּש הוּא “evaluation”: בְּדִיקָה שֶׁל הָאֵיכוּת אוֹ הַהַצְלָחָה."
+    },
+    {
+      "id": "A-q23",
+      "word": "perceived",
+      "type": "english_to_hebrew",
+      "question": "What does “perceived” mean?",
+      "options": [
+        "מִקְצוֹעִי",
+        "מוֹסָד",
+        "הַנְחָיָה",
+        "נִתְפָּס"
+      ],
+      "correct_answer": "נִתְפָּס",
+      "explanation_hebrew": "“perceived” פֵּרוּשוֹ: כְּפִי שֶׁהוּא נִרְאֶה אוֹ מוּבָן לַאֲנָשִׁים."
+    },
+    {
+      "id": "A-q24",
+      "word": "institution",
+      "type": "hebrew_to_english",
+      "question": "מה הפֵּרוּש שֶׁל המִּלָּה ‘מוֹסָד’?",
+      "options": [
+        "vocational",
+        "institution",
+        "guidance",
+        "effectively"
+      ],
+      "correct_answer": "institution",
+      "explanation_hebrew": "הפֵּרוּש הוּא “institution”: אִרְגּוּן גָּדוֹל כְּמוֹ בֵּית סֵפֶר אוֹ אוּנִיבֶרְסִיטָה."
+    },
+    {
+      "id": "A-q25",
+      "word": "vocational",
+      "type": "english_to_hebrew",
+      "question": "What does “vocational” mean?",
+      "options": [
+        "מִקְצוֹעִי",
+        "הַנְחָיָה",
+        "בִּיעִילוּת",
+        "כָּאוֹטִי"
+      ],
+      "correct_answer": "מִקְצוֹעִי",
+      "explanation_hebrew": "“vocational” פֵּרוּשוֹ: הַקָּשׁוּר לְהַכְשָׁרָה לְמִקְצוֹעַ."
+    }
+  ]
+}
