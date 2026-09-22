@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-22",
+  "article_id": "A",
+  "article_title": "Schools 'crying out' for guidance from government on AI, report warns",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw8r68mpm6p3o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the report's main concern about AI in schools in England?",
+      "difficulty": "A",
+      "options": [
+        "AI use is growing faster than schools' guidance, training and planning",
+        "Schools have completely banned all digital tools",
+        "Pupils no longer use AI outside school",
+        "Teachers have already received one national AI strategy"
+      ],
+      "correct_answer": "AI use is growing faster than schools' guidance, training and planning",
+      "explanation_hebrew": "הדוח טוען שהשימוש בבינה מלאכותית מתרחב, אך ההנחיות, ההכשרה והתכנון במערכת החינוך אינם מדביקים את הקצב."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the report want schools and colleges to develop by September next year?",
+      "difficulty": "A",
+      "options": [
+        "A new social media platform",
+        "Their own AI strategies based on a national framework",
+        "A replacement for every written exam",
+        "A private AI company in each school"
+      ],
+      "correct_answer": "Their own AI strategies based on a national framework",
+      "explanation_hebrew": "לפי הדוח, מוסדות החינוך צריכים לפתח אסטרטגיות AI משלהם על בסיס מסגרת ארצית."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “get a grip of AI” mean in the report's argument?",
+      "difficulty": "A",
+      "options": [
+        "Remove computers from classrooms",
+        "Allow pupils to use AI without rules",
+        "Bring its use under effective understanding and control",
+        "Turn every lesson into a technology class"
+      ],
+      "correct_answer": "Bring its use under effective understanding and control",
+      "explanation_hebrew": "הביטוי מתאר השגת שליטה והבנה מעשית בשימוש בבינה מלאכותית."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “embedded AI into the curriculum” mean?",
+      "difficulty": "A",
+      "options": [
+        "AI tools were hidden from pupils",
+        "AI replaced the school's entire curriculum",
+        "Only computer teachers were allowed to discuss AI",
+        "AI learning was made an established part of teaching"
+      ],
+      "correct_answer": "AI learning was made an established part of teaching",
+      "explanation_hebrew": "embedded פירושו שהנושא שולב כחלק קבוע ומובנה מתוכנית הלימודים."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which proposal is part of the report's 10-point plan?",
+      "difficulty": "A",
+      "options": [
+        "Ofsted assessing how schools implement their AI strategies",
+        "Ending all school inspections",
+        "Allowing AI to award university degrees",
+        "Replacing teachers with chatbots"
+      ],
+      "correct_answer": "Ofsted assessing how schools implement their AI strategies",
+      "explanation_hebrew": "אחת ההמלצות היא שאופסטד יבדוק את יישום אסטרטגיית ה־AI כחלק מביקורי הפיקוח."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “keep pace with” mean when the report compares education with young people's AI use?",
+      "difficulty": "A",
+      "options": [
+        "To prevent pupils from using technology",
+        "To develop at a similar speed rather than fall behind",
+        "To measure how fast pupils type",
+        "To copy every new AI product"
+      ],
+      "correct_answer": "To develop at a similar speed rather than fall behind",
+      "explanation_hebrew": "הביטוי מציין התקדמות בקצב דומה; הדוח טוען שמערכת החינוך מפגרת אחרי השימוש של צעירים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two recommendations from the report's 10-point plan for AI in education.",
+      "difficulty": "A",
+      "expected_points": [
+        "A prime-ministerial speech on aligning education with real-world AI use",
+        "School and college AI strategies assessed by Ofsted",
+        "A mass information campaign on AI opportunities and risks",
+        "Using AI to track pupil progress through better data",
+        "A two-lane assessment system combining exams and continuous evaluation"
+      ],
+      "rubric_hebrew": "יש לציין שתי המלצות קונקרטיות מן הרשימה, בלי להציג אותן כמדיניות שכבר יושמה."
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the report treat teacher training and critical thinking as important even though pupils already use AI?",
+      "difficulty": "A",
+      "expected_points": [
+        "Frequent use does not guarantee safe, responsible or accurate use",
+        "Schools need shared guidance rather than chaotic adoption",
+        "Pupils must learn to recognise disinformation and assess AI output",
+        "AI may be useful without replacing human judgement or teachers"
+      ],
+      "rubric_hebrew": "יש להסביר שהיכרות עם כלי אינה שקולה לשימוש ביקורתי ובטוח, ולהסתמך על לפחות שתי נקודות מן הכתבה."
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the problem, the report's proposed response and the government's position on AI in schools.",
+      "difficulty": "A",
+      "expected_points": [
+        "AI use by pupils and teachers is increasing while schools lack consistent preparation",
+        "The report calls for a national framework, training and school-level strategies",
+        "Its plan includes information, inspection, data use and assessment reform",
+        "Some surveyed young people questioned the value of education in an AI age",
+        "The government cites curriculum changes, AI tutoring tools and vocational routes"
+      ],
+      "rubric_hebrew": "יש לסכם באנגלית את הדוח ואת תגובת הממשלה, תוך הבחנה בין המלצות עתידיות לבין צעדים שהממשלה אומרת שהיא מקדמת."
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain why the article presents AI education as both an opportunity and a risk.",
+      "difficulty": "A",
+      "expected_points": [
+        "AI can support tutoring, data use, robotics projects and proofreading",
+        "It may help pupils develop skills relevant to careers",
+        "Unrealistic trust or disinformation creates risks",
+        "Some young people fear AI could replace teachers or make universities useless",
+        "Safe use requires guidance, teacher training and critical thinking"
+      ],
+      "rubric_hebrew": "יש לכתוב פסקה מאוזנת באנגלית עם לפחות שתי הזדמנויות ושני סיכונים או אמצעי הגנה המוזכרים בכתבה."
+    }
+  ]
+}

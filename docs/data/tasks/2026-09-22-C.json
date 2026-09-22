@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-22",
+  "article_id": "C",
+  "article_title": "Meet the pensioners spending the kids' inheritance",
+  "article_url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What broader change does the article explore through the retirees it profiles?",
+      "difficulty": "C",
+      "options": [
+        "Some retirees are prioritising experiences over leaving an inheritance, while financial security remains unequal",
+        "All pensioners now spend their entire pension on travel",
+        "Adult children are legally entitled to inherit their parents' savings",
+        "Final-salary pensions have become more common"
+      ],
+      "correct_answer": "Some retirees are prioritising experiences over leaving an inheritance, while financial security remains unequal",
+      "explanation_hebrew": "הכתבה בוחנת מגמה שבה חלק מהגמלאים מעדיפים חוויות על פני הורשה, אך מדגישה שהמצב הכלכלי של גמלאים אינו אחיד."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the term “skiing” stand for in the article?",
+      "difficulty": "C",
+      "options": [
+        "Saving knowledge in independent investment groups",
+        "Spending the kids' inheritance",
+        "Securing kids' income in government funds",
+        "Sharing known investments internationally"
+      ],
+      "correct_answer": "Spending the kids' inheritance",
+      "explanation_hebrew": "המונח הוא ראשי תיבות של spending the kids' inheritance ומתאר הוצאת הכסף במקום השארתו ליורשים."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “at the drop of a hat” mean in Sarah Moorhouse's description of retirement?",
+      "difficulty": "C",
+      "options": [
+        "Only after selling a valuable object",
+        "At the end of every financial year",
+        "Immediately or with very little planning",
+        "After receiving permission from her daughters"
+      ],
+      "correct_answer": "Immediately or with very little planning",
+      "explanation_hebrew": "הביטוי מתאר עשייה מיידית או ספונטנית, כמעט ללא תכנון מוקדם."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “tops up her private pension” mean in Karen Green's case?",
+      "difficulty": "C",
+      "options": [
+        "She transfers all pension money to her children",
+        "She stops receiving income from property",
+        "She converts her pension into a final-salary scheme",
+        "She adds to her pension income through consultancy work"
+      ],
+      "correct_answer": "She adds to her pension income through consultancy work",
+      "explanation_hebrew": "top up פירושו להשלים או להוסיף; קארן מוסיפה להכנסת הפנסיה באמצעות עבודת ייעוץ."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What change does Mike Ambery link to the growth of “skiing” in the UK?",
+      "difficulty": "C",
+      "options": [
+        "The decline of guaranteed final-salary pensions and growth of pension pots that can run out",
+        "A legal ban on leaving money to adult children",
+        "A sharp fall in the UK state pension age",
+        "A rule requiring retirees to travel abroad"
+      ],
+      "correct_answer": "The decline of guaranteed final-salary pensions and growth of pension pots that can run out",
+      "explanation_hebrew": "אמברי קושר את המגמה להיעלמות פנסיות שכר־סופי מובטחות ולמעבר לקופות שעלולות להתרוקן."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “legacy” mean when Karen tells her children there is unlikely to be one?",
+      "difficulty": "C",
+      "options": [
+        "Her remaining consultancy contract",
+        "Money or assets left to others after death",
+        "A discount she finds for a holiday",
+        "The annual state pension payment"
+      ],
+      "correct_answer": "Money or assets left to others after death",
+      "explanation_hebrew": "בהקשר הזה legacy היא ירושה: כסף או נכסים שנותרים לאחר המוות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two details showing how Karen Green finances her lifestyle before receiving the UK state pension.",
+      "difficulty": "C",
+      "expected_points": [
+        "She continues part-time business consultancy work",
+        "She draws on a private pension",
+        "She receives 40% of her funds from renting out a property",
+        "She says her monthly income matches what she earned in full-time work"
+      ],
+      "rubric_hebrew": "יש לציין שני מקורות או פרטי הכנסה מן הכתבה, בלי להסיק שהיא מייצגת את כל הגמלאים."
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the article say open communication between retirees and adult children matters?",
+      "difficulty": "C",
+      "expected_points": [
+        "Some adult children may expect or plan to rely on an inheritance",
+        "Retirees may instead intend to spend most of their assets",
+        "Sarah's daughter accepts her parents' choice and Karen has warned her children",
+        "Clear expectations can reduce later misunderstanding about a legacy"
+      ],
+      "rubric_hebrew": "יש להסביר את פער הציפיות האפשרי ולהסתמך על הדוגמאות או דברי המומחה, בלי לקבוע שילדים זכאים לירושה."
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the “skiing” trend, the reasons offered for it and the limits of treating it as universal.",
+      "difficulty": "C",
+      "expected_points": [
+        "Some retirees choose travel and enjoyment over preserving an inheritance",
+        "Fifteen percent of UK parents surveyed planned to prioritise retirement enjoyment",
+        "The decline of guaranteed final-salary pensions changes attitudes to legacies",
+        "Examples include Sarah and Geoff Moorhouse and Karen Green",
+        "Many pensioners are not wealthy, with poverty figures given for both the UK and US"
+      ],
+      "rubric_hebrew": "יש לכתוב סיכום באנגלית המשלב דוגמאות, נתונים והסתייגות מאי־השוויון; אין להציג את המגמה כבחירה של כל הגמלאים."
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using the article, discuss whether spending retirement savings on experiences can be considered responsible.",
+      "difficulty": "C",
+      "expected_points": [
+        "Sarah and Karen value enjoyment after years of work",
+        "Their adult children have been told about or support the decision",
+        "Defined-contribution pension pots can run out, creating longevity risk",
+        "Both profiled households have multiple income or asset sources",
+        "The article notes substantial pensioner poverty and warns against generalising"
+      ],
+      "rubric_hebrew": "יש לכתוב טיעון מאוזן באנגלית עם ראיות בעד החופש ליהנות מהכסף ועם שיקולים של ביטחון כלכלי, תקשורת משפחתית ואי־שוויון."
+    }
+  ]
+}

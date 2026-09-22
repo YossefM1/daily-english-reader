@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-22",
+  "article_id": "B",
+  "article_title": "The simple skincare routine for teens that actually works - and five expert tips",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the experts' central advice for teenage skincare?",
+      "difficulty": "B",
+      "options": [
+        "Use a simple routine and seek medical help for persistent severe acne",
+        "Copy the longest routine recommended by an influencer",
+        "Remove all visible pores with strong acids",
+        "Treat every blemish as an abnormal condition"
+      ],
+      "correct_answer": "Use a simple routine and seek medical help for persistent severe acne",
+      "explanation_hebrew": "המומחים ממליצים על שגרה בסיסית ועדינה, ועל פנייה לרופא כאשר האקנה חמור או מתמשך."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which three products make up the basic routine recommended in the article?",
+      "difficulty": "B",
+      "options": [
+        "An exfoliating acid, toner and face mask",
+        "A gentle cleanser, fragrance-free moisturiser and SPF 30-or-higher sunscreen",
+        "Retinoids, perfume and a hydrocolloid patch",
+        "Shaving foam, serum and protein shake"
+      ],
+      "correct_answer": "A gentle cleanser, fragrance-free moisturiser and SPF 30-or-higher sunscreen",
+      "explanation_hebrew": "שלושת היסודות הם ניקוי עדין, קרם לחות ללא בושם ומסנן קרינה רחב טווח בדרגת SPF 30 לפחות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “skin barrier compromise” mean in the warning about too many active products?",
+      "difficulty": "B",
+      "options": [
+        "A product cannot enter a shop",
+        "Teenagers stop following influencers",
+        "The skin's protective function becomes damaged or weakened",
+        "Pores become completely invisible"
+      ],
+      "correct_answer": "The skin's protective function becomes damaged or weakened",
+      "explanation_hebrew": "הביטוי מתאר פגיעה או היחלשות בשכבת ההגנה של העור כתוצאה משימוש יתר בחומרים פעילים."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “flare-up” mean when the dermatologists discuss acne?",
+      "difficulty": "B",
+      "options": [
+        "A permanent cure for acne",
+        "A change in facial hair colour",
+        "A laboratory test for hormones",
+        "A period when symptoms become worse"
+      ],
+      "correct_answer": "A period when symptoms become worse",
+      "explanation_hebrew": "flare-up הוא החמרה זמנית או התפרצות של תסמינים."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why can picking or popping spots cause harm?",
+      "difficulty": "B",
+      "options": [
+        "It may push material deeper, increase inflammation and cause scarring or discolouration",
+        "It always removes the skin barrier completely",
+        "It prevents any future oil production",
+        "It lowers testosterone immediately"
+      ],
+      "correct_answer": "It may push material deeper, increase inflammation and cause scarring or discolouration",
+      "explanation_hebrew": "לחיצה על פצעונים עלולה להעמיק את התוכן, להגביר דלקת ולהוביל לצלקות או שינויי צבע."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “acne-prone skin” mean in the discussion of salicylic acid?",
+      "difficulty": "B",
+      "options": [
+        "Skin that never produces oil",
+        "Skin that tends to develop acne",
+        "Skin that requires a multi-step routine",
+        "Skin that cannot use moisturiser"
+      ],
+      "correct_answer": "Skin that tends to develop acne",
+      "explanation_hebrew": "prone פירושו בעל נטייה; כאן מדובר בעור שנוטה לפתח אקנה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons the article says an overly complicated routine can make teenage skin worse.",
+      "difficulty": "B",
+      "expected_points": [
+        "Strong acids or frequent exfoliation can irritate young skin",
+        "The developing skin barrier can be damaged",
+        "Overuse of hydroxy acids or retinoids is linked to perioral dermatitis",
+        "Numerous serums, toners, masks and actives can create additional skin problems"
+      ],
+      "rubric_hebrew": "יש לציין שני מנגנונים או נזקים מן הכתבה, ולא לטעון שכל חומר פעיל מזיק בכל שימוש."
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do the experts challenge the social-media idea of “glass skin”?",
+      "difficulty": "B",
+      "expected_points": [
+        "Filtered images create an unrealistic standard",
+        "Visible pores, blemishes, redness and pigmentation can be normal",
+        "Different people have different versions of normal skin",
+        "Chasing perfection may encourage excessive product use and irritation"
+      ],
+      "rubric_hebrew": "יש לקשר בין דימויים מסוננים, שונות טבעית בעור והסיכון לשגרות מוגזמות; אין לטעון שאין טיפול יעיל באקנה."
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's explanation of teenage acne and its practical skincare advice.",
+      "difficulty": "B",
+      "expected_points": [
+        "Puberty hormones can increase oil production, blocked follicles and inflammation",
+        "Acne is common, normal and treatable",
+        "A gentle cleanser, fragrance-free moisturiser and sunscreen form the basic routine",
+        "Excessive actives, picking spots, poor sleep and some diets may worsen problems",
+        "Persistent painful, cystic or scarring acne needs professional medical advice"
+      ],
+      "rubric_hebrew": "יש לכתוב סיכום באנגלית שמבדיל בין שינויים נפוצים בגיל ההתבגרות לבין סימנים המצדיקים פנייה לרופא."
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain how the article balances acceptance of normal teenage skin with advice to treat genuine problems.",
+      "difficulty": "B",
+      "expected_points": [
+        "Pores, blackheads, blemishes, redness and pigmentation may be normal",
+        "More than 80% of teenagers experience acne",
+        "Simple care can protect the developing skin barrier",
+        "Salicylic acid may help oily or acne-prone skin but excessive use can irritate",
+        "Severe, painful, cystic or scarring acne may require prescription treatment"
+      ],
+      "rubric_hebrew": "יש לכתוב פסקה באנגלית המציגה קבלה של שונות טבעית לצד טיפול מידתי, ולהביא לפחות שלוש ראיות מן הכתבה."
+    }
+  ]
+}
