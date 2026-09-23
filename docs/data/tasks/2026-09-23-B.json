@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-23",
+  "article_id": "B",
+  "article_title": "US to build two military bases in Greenland under new deal with Denmark",
+  "article_url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "How does the new Greenland deal address the dispute between the US, Denmark and Greenland?",
+      "difficulty": "B",
+      "options": [
+        "It expands US military access while affirming Danish sovereignty and Greenlandic self-determination",
+        "It transfers ownership of Greenland to the US",
+        "It removes Greenland from Nato immediately",
+        "It closes every existing military facility on the island"
+      ],
+      "correct_answer": "It expands US military access while affirming Danish sovereignty and Greenlandic self-determination",
+      "explanation_hebrew": "ההסכם מרחיב את הנוכחות הצבאית האמריקנית אך אינו מעביר שטח, ומכיר בריבונות דנמרק ובזכות גרינלנד להגדרה עצמית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where may the US establish the two additional defence areas?",
+      "difficulty": "B",
+      "options": [
+        "Pituffik and Copenhagen",
+        "Narsarsuaq and Mestersvig",
+        "Nuuk and Washington",
+        "Narsarsuaq and New York"
+      ],
+      "correct_answer": "Narsarsuaq and Mestersvig",
+      "explanation_hebrew": "ההסכם מתיר אזורי הגנה נוספים בנרסרסואק שבדרום ובמסטרסוויג שבמזרח."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “unfettered” mean when the article says US security arrangements are not unfettered?",
+      "difficulty": "B",
+      "options": [
+        "Temporary and unimportant",
+        "Secret from Denmark",
+        "Free from limits or conditions",
+        "Restricted to civilian airports"
+      ],
+      "correct_answer": "Free from limits or conditions",
+      "explanation_hebrew": "unfettered פירושו ללא מגבלות; כאן נדרש עדיין אישור דנמרק וגרינלנד לפרטים."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “climb down” mean in the assessment of Trump's position?",
+      "difficulty": "B",
+      "options": [
+        "A journey from a mountain base",
+        "An increase in military spending",
+        "A rejection of Nato membership",
+        "A retreat from an earlier, stronger demand"
+      ],
+      "correct_answer": "A retreat from an earlier, stronger demand",
+      "explanation_hebrew": "הביטוי מתאר נסיגה מן הדרישות הקודמות לרכוש או לספח את גרינלנד."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the agreement say about non-Nato countries in Greenland?",
+      "difficulty": "B",
+      "options": [
+        "They may not establish military installations or maintain a persistent military presence",
+        "They may build bases with US approval alone",
+        "They will operate Pituffik Space Base",
+        "They automatically join Nato if they invest there"
+      ],
+      "correct_answer": "They may not establish military installations or maintain a persistent military presence",
+      "explanation_hebrew": "ההסכם אוסר על מדינות שאינן חברות נאט״ו להקים מתקנים צבאיים או נוכחות צבאית מתמשכת."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “ceded” mean in the statement that no territory is ceded to the US?",
+      "difficulty": "B",
+      "options": [
+        "Protected by a missile shield",
+        "Transferred or surrendered to another country",
+        "Surveyed by military engineers",
+        "Approved by parliament"
+      ],
+      "correct_answer": "Transferred or surrendered to another country",
+      "explanation_hebrew": "ceded פירושו נמסר או מועבר לריבונות אחרת; הכתבה מדגישה שלא הועבר שטח לארה״ב."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe two limits or approval requirements placed on the expanded US presence.",
+      "difficulty": "B",
+      "expected_points": [
+        "Technical details and operating arrangements must be mutually agreed",
+        "Denmark and Greenland retain approval over implementation",
+        "No territory is transferred to the US",
+        "The deal still requires approval by both the Danish and Greenlandic parliaments"
+      ],
+      "rubric_hebrew": "יש לציין שתי מגבלות או דרישות אישור מן הכתבה, ולא לטעון שלארה״ב ניתנה שליטה בלתי מוגבלת."
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can the agreement be presented as a success by all three parties despite their earlier conflict?",
+      "difficulty": "B",
+      "expected_points": [
+        "The US gains two defence areas and may expand Pituffik activities",
+        "Denmark's sovereignty and territorial integrity are reaffirmed",
+        "Greenland's self-determination and role in decisions are recognised",
+        "The deal may ease tensions and strengthen Nato security"
+      ],
+      "rubric_hebrew": "יש להציג אינטרס נפרד של ארה״ב ושל דנמרק או גרינלנד, ולהבחין בין הישג מדיני לבין אישור פרלמנטרי שעדיין נדרש."
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the new defence deal, its background and the remaining steps before it takes full effect.",
+      "difficulty": "B",
+      "expected_points": [
+        "The US, Denmark and Greenland signed an update to the 1951 defence agreement",
+        "It permits new defence areas at Narsarsuaq and Mestersvig and expansion at Pituffik",
+        "It follows tensions caused by Trump's earlier threats to acquire Greenland",
+        "It affirms sovereignty, territorial integrity and self-determination",
+        "The Danish and Greenlandic parliaments must still approve it"
+      ],
+      "rubric_hebrew": "יש לכתוב סיכום באנגלית המבדיל בין מה שנחתם, מה שעדיין אינו מפורט ומה שדורש אישור נוסף."
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain why the article describes the deal as both a US strategic gain and a retreat from Trump's earlier position.",
+      "difficulty": "B",
+      "expected_points": [
+        "The US receives a stronger military presence in a strategically important Arctic region",
+        "It can develop two bases and modernise Pituffik",
+        "Non-Nato military presence is explicitly barred",
+        "The US receives no territory or sovereignty",
+        "The agreement recognises Denmark and Greenland's rights and needs mutual approval"
+      ],
+      "rubric_hebrew": "יש לכתוב פסקה מאוזנת באנגלית עם ראיות לשני צדי ההערכה, בלי לתאר טענה פרשנית כעובדה מוסכמת."
+    }
+  ]
+}

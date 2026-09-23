@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-23",
+  "article_id": "C",
+  "article_title": "China AI: Data centres rise from the rolling plains of Inner Mongolia",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro",
+  "profile_version_used": 1,
+  "tasks": [
+    {
+      "id": "C-01",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "difficulty": "C",
+      "prompt": "What is the main idea of the article?",
+      "options": [
+        "China is rapidly expanding AI infrastructure, while its strategy also raises environmental, social and economic questions.",
+        "Potato farming has replaced technology as Inner Mongolia's most important industry.",
+        "China has stopped developing AI because it cannot obtain advanced chips.",
+        "Most rural residents already use AI in their daily work."
+      ],
+      "explanation_hebrew": "הכתבה מציגה את ההתרחבות המהירה של מרכזי הנתונים ואת שאיפות ה־AI של סין, לצד מגבלות שבבים, השפעות סביבתיות וחששות של תושבים.",
+      "correct_answer": "China is rapidly expanding AI infrastructure, while its strategy also raises environmental, social and economic questions."
+    },
+    {
+      "id": "C-02",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "difficulty": "C",
+      "prompt": "What target has China's Communist Party set for the use of AI by 2030?",
+      "options": [
+        "To move 90% of data centres outside China",
+        "To embed AI across 90% of industries and society",
+        "To replace 90% of university courses with AI",
+        "To export 90% of China's computer chips"
+      ],
+      "explanation_hebrew": "לפי הכתבה, היעד הוא לשלב בינה מלאכותית ב־90% מהתעשיות ומהחברה עד שנת 2030.",
+      "correct_answer": "To embed AI across 90% of industries and society"
+    },
+    {
+      "id": "C-03",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "difficulty": "C",
+      "prompt": "In the article, what does the phrase “digital frontier” most nearly mean?",
+      "options": [
+        "A border checkpoint controlled by computers",
+        "A rural region without internet access",
+        "An emerging area of technological development",
+        "A law limiting the movement of digital equipment"
+      ],
+      "explanation_hebrew": "בהקשר הכתבה, frontier הוא תחום חדש ומתפתח שבו מתרחשת התקדמות טכנולוגית מהירה, ולא גבול גאוגרפי.",
+      "correct_answer": "An emerging area of technological development"
+    },
+    {
+      "id": "C-04",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "difficulty": "C",
+      "prompt": "What does “touting an alternate model” mean in the article's discussion of Chinese AI?",
+      "options": [
+        "Secretly copying another country's system",
+        "Testing a model that has already failed",
+        "Removing an existing model from public use",
+        "Actively promoting a different approach"
+      ],
+      "explanation_hebrew": "הפועל touting פירושו לקדם או לשבח דבר בפומבי. כאן סין מציגה ומקדמת גישה חלופית לפיתוח AI.",
+      "correct_answer": "Actively promoting a different approach"
+    },
+    {
+      "id": "C-05",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "difficulty": "C",
+      "prompt": "Why are some of China's data centres being built in rural provinces such as Inner Mongolia?",
+      "options": [
+        "They offer renewable energy, cheaper land and a cooler climate.",
+        "They are closer to China's largest coastal universities.",
+        "They have no need for electricity or water.",
+        "They already produce all of China's advanced chips."
+      ],
+      "explanation_hebrew": "הכתבה מציינת זמינות של אנרגיית רוח ושמש, קרקע זולה יותר ומזג אוויר קריר שמפחית את צורכי הקירור והמים.",
+      "correct_answer": "They offer renewable energy, cheaper land and a cooler climate."
+    },
+    {
+      "id": "C-06",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "difficulty": "C",
+      "prompt": "When Professor Liu contrasts “conformity” with questioning, what does “conformity” mean?",
+      "options": [
+        "Building technology at high speed",
+        "Following accepted ideas or rules rather than challenging them",
+        "Sharing open-source software internationally",
+        "Returning home after studying abroad"
+      ],
+      "explanation_hebrew": "conformity היא נטייה להתאים את עצמך לדעות או לכללים המקובלים. פרופ' ליו מציב אותה מול חשיבה ביקורתית והטלת ספק.",
+      "correct_answer": "Following accepted ideas or rules rather than challenging them"
+    },
+    {
+      "id": "C-07",
+      "category": "factual_details",
+      "type": "short_answer",
+      "difficulty": "C",
+      "prompt": "Identify two environmental or social concerns connected with the new data centres.",
+      "rubric_hebrew": "תשובה מלאה תציין שני חששות שונים המופיעים בכתבה ותסביר כל אחד בקצרה.",
+      "expected_points": [
+        "Some electricity still comes from coal, despite the use of renewable energy.",
+        "Water use is a concern in arid Inner Mongolia.",
+        "Villages have been relocated and the scale or compensation is unclear.",
+        "Some residents fear losing land or livelihoods while seeing few local jobs."
+      ]
+    },
+    {
+      "id": "C-08",
+      "category": "inference",
+      "type": "short_answer",
+      "difficulty": "C",
+      "prompt": "Why may it be difficult to measure public attitudes toward China's AI expansion accurately?",
+      "rubric_hebrew": "יש להסיק מן הכתבה מדוע נתונים או סקרים על דעת הקהל עשויים שלא לשקף את מלוא הביקורת, ולבסס את התשובה על פרט אחד לפחות.",
+      "expected_points": [
+        "People may be reluctant to voice criticism because public dissent can be risky under censorship.",
+        "Concerns such as job-loss anxiety are difficult to measure openly.",
+        "Official optimism and survey results may not capture the scepticism expressed by some local residents."
+      ]
+    },
+    {
+      "id": "C-09",
+      "category": "summary",
+      "type": "summary",
+      "difficulty": "C",
+      "prompt": "Summarise how China is building its AI capacity and describe two challenges to that strategy.",
+      "rubric_hebrew": "הסיכום צריך להזכיר את מרכזי הנתונים או התשתיות, את מודל הקוד הפתוח או טיפוח הכישרונות, ושני אתגרים מבוססי כתבה.",
+      "expected_points": [
+        "China is rapidly constructing large data centres and promoting broad adoption of AI.",
+        "It uses affordable open-source models and recruits or develops scientific talent.",
+        "US restrictions limit access to the most advanced chips.",
+        "Environmental, relocation, employment or freedom-of-inquiry concerns complicate the strategy."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "difficulty": "C",
+      "prompt": "Using evidence from the article, evaluate one strength and one weakness of China's approach to becoming an AI leader.",
+      "rubric_hebrew": "התשובה צריכה להציג טענה מאוזנת, להביא ראיה ספציפית אחת לחוזקה וראיה ספציפית אחת לחולשה, ולהסביר כיצד הראיות תומכות במסקנה.",
+      "expected_points": [
+        "Possible strengths include rapid infrastructure building, large numbers of science graduates, returning talent and open-source innovation.",
+        "Possible weaknesses include advanced-chip restrictions, coal or water impacts, displacement, limited local benefits or constraints on critical questioning.",
+        "The conclusion should weigh the chosen strength against the chosen weakness rather than merely list them."
+      ]
+    }
+  ],
+  "article_level": "C",
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  }
+}

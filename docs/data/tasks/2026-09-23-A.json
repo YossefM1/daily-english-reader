@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-23",
+  "article_id": "A",
+  "article_title": "Dolly Parton free book scheme to expand in London",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckwyz06qg983o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the Imagination Library expansion in London?",
+      "difficulty": "A",
+      "options": [
+        "To give more young children regular access to free books at home",
+        "To replace London libraries with online reading apps",
+        "To sell books to families at a lower price",
+        "To teach only reception pupils how to use screens"
+      ],
+      "correct_answer": "To give more young children regular access to free books at home",
+      "explanation_hebrew": "ההרחבה נועדה לאפשר ליותר ילדים צעירים לקבל ספר חינם מדי חודש ולבנות הרגלי קריאה בבית."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How will the scheme's coverage change in London?",
+      "difficulty": "A",
+      "options": [
+        "It will move from London to another city",
+        "It will expand from five boroughs to ten",
+        "It will operate in only one borough",
+        "It will cover every UK borough immediately"
+      ],
+      "correct_answer": "It will expand from five boroughs to ten",
+      "explanation_hebrew": "הכתבה מציינת שהמיזם יתרחב מחמישה רובעים בלונדון לעשרה."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “eligible” mean when the article says 157,000 children will be eligible?",
+      "difficulty": "A",
+      "options": [
+        "Required to pay for the books",
+        "Old enough to work in a library",
+        "Qualified or entitled to take part",
+        "Able to choose any adult novel"
+      ],
+      "correct_answer": "Qualified or entitled to take part",
+      "explanation_hebrew": "eligible פירושו עומד בתנאים וזכאי להשתתף במיזם."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “take pressure off families” mean in Sedrick-Ugo's comment?",
+      "difficulty": "A",
+      "options": [
+        "Make parents read more quickly",
+        "Prevent children from borrowing books",
+        "Ask families to donate every month",
+        "Reduce a financial or practical burden on families"
+      ],
+      "correct_answer": "Reduce a financial or practical burden on families",
+      "explanation_hebrew": "הביטוי מתאר הקלה בעומס, כאן בעיקר בעלות של קניית ספרים ובהנגשתם לבית."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Dolly Parton originally establish the Imagination Library?",
+      "difficulty": "A",
+      "options": [
+        "In tribute to her father, who could not read or write",
+        "To promote a new album in London",
+        "To provide tablets to reception classes",
+        "Because the Postcode Lottery asked her to"
+      ],
+      "correct_answer": "In tribute to her father, who could not read or write",
+      "explanation_hebrew": "פרטון הקימה את הספרייה בשנת 1995 כמחווה לאביה, שלא ידע לקרוא או לכתוב."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “universal” mean in the description of the scheme?",
+      "difficulty": "A",
+      "options": [
+        "Only families below a fixed income can join",
+        "Every child in a participating area can register regardless of family income",
+        "Children must pass a reading test first",
+        "Only children already attending school receive books"
+      ],
+      "correct_answer": "Every child in a participating area can register regardless of family income",
+      "explanation_hebrew": "universal מציין שהזכאות פתוחה לכל ילד באזור משתתף ואינה תלויה בהכנסת המשפחה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two details showing how the monthly books affected Sienna and her family.",
+      "difficulty": "A",
+      "expected_points": [
+        "Sienna gained more confidence",
+        "She and her mother read together every day",
+        "She developed enjoyment of reading",
+        "The family built a home collection of books",
+        "Free books reduce the cost pressure of buying them"
+      ],
+      "rubric_hebrew": "יש לציין שני פרטים המיוחסים לעדותה של Harriet Sedrick-Ugo, בלי להציג אותם כמחקר על כל הילדים."
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the article connect free physical books with current concerns about early literacy?",
+      "difficulty": "A",
+      "expected_points": [
+        "Frequent reading among children aged four and under reportedly fell from 64% in 2012 to 41%",
+        "Teachers reported some reception children do not know how to handle books",
+        "Some children try to swipe or tap paper pages like screens",
+        "Monthly books may create opportunities for shared reading at home"
+      ],
+      "rubric_hebrew": "יש להסביר כיצד נגישות לספרים מודפסים עשויה לענות על החששות המתוארים, בלי לטעון שהמיזם כבר פתר אותם."
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the London expansion works, who can benefit and why organisers consider it important.",
+      "difficulty": "A",
+      "expected_points": [
+        "The scheme posts one free book each month until a child's fifth birthday",
+        "Coverage will double from five to ten London boroughs",
+        "The expansion will make 157,000 children eligible and is funded by the Postcode Lottery",
+        "Any child in a participating area can register regardless of income",
+        "Organisers link it to declining frequent reading and children's familiarity with books"
+      ],
+      "rubric_hebrew": "יש לכתוב סיכום באנגלית בן ארבעה או חמישה משפטים, ולשמור על דיוק במספרים ובתנאי הזכאות."
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Explain how the article presents a simple monthly book as having both educational and financial value.",
+      "difficulty": "A",
+      "expected_points": [
+        "Regular books support shared reading and reading for pleasure",
+        "Sienna's mother reports increased confidence",
+        "A home supply makes daily reading easier",
+        "Books can be expensive for families",
+        "Universal access avoids limiting support by income"
+      ],
+      "rubric_hebrew": "יש לכתוב פסקה באנגלית המבססת ערך חינוכי וערך כלכלי על פרטים מן הכתבה, בלי להבטיח תוצאה זהה לכל ילד."
+    }
+  ]
+}
