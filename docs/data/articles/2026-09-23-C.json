@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-23",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "China AI: Data centres rise from the rolling plains of Inner Mongolia",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro",
+  "published_at": "2026-09-22T22:04:31+00:00",
+  "age_hours_at_selection": 4.11,
+  "word_count": 1393,
+  "generated_at": "2026-09-23T02:10:56.246030+00:00",
+  "difficulty_reason": "Long, analytical feature with dense information, varied sentence structure and B2/C1/C2 vocabulary; needs background on AI, geopolitics and economics.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "expansive",
+      "lemma": "expansive",
+      "level": "C1",
+      "hebrew": "נִרְחָב, מִשְׂתָּרֵעַ",
+      "explanation_hebrew": "גָּדוֹל מְאֹד וּמִתְפַּשֵּׁט עַל שֶׁטַח רָחָב",
+      "pronunciation_hebrew": "אִיקְסְפַּנְסִיב",
+      "example": "The expansive grasslands stretch for miles."
+    },
+    {
+      "word": "frontier",
+      "lemma": "frontier",
+      "level": "C1",
+      "hebrew": "סְפָר, חֲזִית",
+      "explanation_hebrew": "גְּבוּל אוֹ תְּחוּם חָדָשׁ שֶׁטֶּרֶם נֶחְקַר",
+      "pronunciation_hebrew": "פְרוֹנְטִיר",
+      "example": "The region became a digital frontier."
+    },
+    {
+      "word": "slew",
+      "lemma": "slew",
+      "level": "C1",
+      "hebrew": "שֶׁפַע, כַּמּוּת גְּדוֹלָה",
+      "explanation_hebrew": "מִסְפָּר גָּדוֹל מְאֹד שֶׁל דְּבָרִים",
+      "pronunciation_hebrew": "סְלוּ",
+      "example": "A slew of data centres appeared."
+    },
+    {
+      "word": "counterpart",
+      "lemma": "counterpart",
+      "level": "C1",
+      "hebrew": "עָמִית, מַקְבִּיל",
+      "explanation_hebrew": "אָדָם בַּעַל תַּפְקִיד מַקְבִּיל בְּצַד אַחֵר",
+      "pronunciation_hebrew": "קַאוּנְטֶרְפַּארְט",
+      "example": "He met his Chinese counterpart."
+    },
+    {
+      "word": "scaffolding",
+      "lemma": "scaffolding",
+      "level": "B2",
+      "hebrew": "פִּגּוּמִים",
+      "explanation_hebrew": "מִבְנֶה זְמַנִּי הַתּוֹמֵךְ בְּעוֹבְדִים בַּבְּנִיָּה",
+      "pronunciation_hebrew": "סְקַפוֹלְדִינְג",
+      "example": "Workers climbed the metal scaffolding."
+    },
+    {
+      "word": "precision",
+      "lemma": "precision",
+      "level": "B2",
+      "hebrew": "דִּיּוּק",
+      "explanation_hebrew": "רָמָה גְּבוֹהָה שֶׁל דַּיְקָנוּת",
+      "pronunciation_hebrew": "פְּרִיסִיזְ'ן",
+      "example": "The cranes moved with great precision."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "B2",
+      "hebrew": "תַּשְׁתִּית",
+      "explanation_hebrew": "מַעֲרָכוֹת בְּסִיסִיּוֹת כְּמוֹ דְּרָכִים וְחַשְׁמַל",
+      "pronunciation_hebrew": "אִינְפְרַסְטְרַקְצֶ'ר",
+      "example": "China is building huge infrastructure."
+    },
+    {
+      "word": "contest",
+      "lemma": "contest",
+      "level": "B2",
+      "hebrew": "הִתְמוֹדְדוּת, תַּחֲרוּת",
+      "explanation_hebrew": "מַאֲבָק אוֹ תַּחֲרוּת בֵּין צְדָדִים",
+      "pronunciation_hebrew": "קוֹנְטֶסְט",
+      "example": "AI is central to the contest with the US."
+    },
+    {
+      "word": "embed",
+      "lemma": "embed",
+      "level": "C1",
+      "hebrew": "לְהַטְמִיעַ, לְשַׁבֵּץ",
+      "explanation_hebrew": "לְשַׁלֵּב מַשֶּׁהוּ בְּאֹפֶן קָבוּעַ בְּתוֹךְ מַשֶּׁהוּ אַחֵר",
+      "pronunciation_hebrew": "אִימְבֶּד",
+      "example": "China wants to embed AI across industries."
+    },
+    {
+      "word": "restrictions",
+      "lemma": "restriction",
+      "level": "B2",
+      "hebrew": "הַגְבָּלוֹת",
+      "explanation_hebrew": "כְּלָלִים הַמּוֹנְעִים אוֹ מַגְבִּילִים פְּעֻלּוֹת",
+      "pronunciation_hebrew": "רִיסְטְרִיקְשְׁנְז",
+      "example": "Trump's restrictions on immigration grew."
+    },
+    {
+      "word": "soured",
+      "lemma": "sour",
+      "level": "C1",
+      "hebrew": "הֶחְמִיץ, הִתְקַלְקֵל",
+      "explanation_hebrew": "נַעֲשָׂה גָּרוּעַ אוֹ לֹא נָעִים",
+      "pronunciation_hebrew": "סַאוּאֶרְד",
+      "example": "Tensions soured the American dream."
+    },
+    {
+      "word": "recruited",
+      "lemma": "recruit",
+      "level": "B2",
+      "hebrew": "גֻּיַּס",
+      "explanation_hebrew": "נִבְחַר וְהֻזְמַן לְהִצְטָרֵף לְאִרְגּוּן",
+      "pronunciation_hebrew": "רִיקְרוּטֶד",
+      "example": "He was recruited by a special programme."
+    },
+    {
+      "word": "stark",
+      "lemma": "stark",
+      "level": "C1",
+      "hebrew": "חַד, בּוֹלֵט",
+      "explanation_hebrew": "בָּרוּר וְחָרִיף בְּאֹפֶן מַדְאִיג",
+      "pronunciation_hebrew": "סְטַארְק",
+      "example": "There were stark warnings from the industry."
+    },
+    {
+      "word": "grave",
+      "lemma": "grave",
+      "level": "C1",
+      "hebrew": "חָמוּר",
+      "explanation_hebrew": "רְצִינִי וּמְסֻכָּן מְאֹד",
+      "pronunciation_hebrew": "גְרֵייב",
+      "example": "He warned of grave danger to the world."
+    },
+    {
+      "word": "dismissed",
+      "lemma": "dismiss",
+      "level": "B2",
+      "hebrew": "דָּחָה, בִּטֵּל",
+      "explanation_hebrew": "הֶחְלִיט שֶׁמַּשֶּׁהוּ אֵינוֹ חָשׁוּב אוֹ נָכוֹן",
+      "pronunciation_hebrew": "דִּיסְמִיסְד",
+      "example": "Beijing dismissed the US fears."
+    },
+    {
+      "word": "touting",
+      "lemma": "tout",
+      "level": "C1",
+      "hebrew": "מְקַדֵּם, מְשַׁבֵּחַ",
+      "explanation_hebrew": "מְפַרְסֵם מַשֶּׁהוּ בְּהִתְלַהֲבוּת כְּדֵי לְשַׁכְנֵעַ",
+      "pronunciation_hebrew": "טַאוּטִינְג",
+      "example": "China is touting an alternate model."
+    },
+    {
+      "word": "affordable",
+      "lemma": "affordable",
+      "level": "B2",
+      "hebrew": "בַּר הַשָּׂגָה, זוֹל",
+      "explanation_hebrew": "שֶׁאֶפְשָׁר לְהַרְשׁוֹת לְעַצְמְךָ מִבְּחִינָה כַּסְפִּית",
+      "pronunciation_hebrew": "אַפוֹרְדַבְּל",
+      "example": "They develop more affordable models."
+    },
+    {
+      "word": "innovate",
+      "lemma": "innovate",
+      "level": "B2",
+      "hebrew": "לְחַדֵּשׁ",
+      "explanation_hebrew": "לְפַתֵּחַ רַעֲיוֹנוֹת אוֹ שִׁיטוֹת חֲדָשִׁים",
+      "pronunciation_hebrew": "אִינוֹבֵייט",
+      "example": "Sharing tech helped firms innovate quickly."
+    },
+    {
+      "word": "overcome",
+      "lemma": "overcome",
+      "level": "B2",
+      "hebrew": "לְהִתְגַּבֵּר עַל",
+      "explanation_hebrew": "לְהַצְלִיחַ לְנַצֵּחַ קֹשִׁי אוֹ מִכְשׁוֹל",
+      "pronunciation_hebrew": "אוֹבֶרְקַאם",
+      "example": "This helped China overcome a big challenge."
+    },
+    {
+      "word": "framework",
+      "lemma": "framework",
+      "level": "B2",
+      "hebrew": "מִסְגֶּרֶת",
+      "explanation_hebrew": "מַעֲרֶכֶת כְּלָלִים אוֹ עֶקְרוֹנוֹת מְאַרְגֶּנֶת",
+      "pronunciation_hebrew": "פְרֵיימְוֶורְק",
+      "example": "Xi called for a global framework for AI."
+    },
+    {
+      "word": "relocated",
+      "lemma": "relocate",
+      "level": "B2",
+      "hebrew": "הֻעְתַּק, פֻּנָּה",
+      "explanation_hebrew": "הֻעֲבַר לִמְקוֹם מְגוּרִים אוֹ פְּעִילוּת אַחֵר",
+      "pronunciation_hebrew": "רִילוֹקֵייטֶד",
+      "example": "Entire villages have been relocated."
+    },
+    {
+      "word": "compensation",
+      "lemma": "compensation",
+      "level": "B2",
+      "hebrew": "פִּצּוּי",
+      "explanation_hebrew": "תַּשְׁלוּם עֲבוּר נֶזֶק אוֹ אֹבְדָן",
+      "pronunciation_hebrew": "קוֹמְפֶּנְסֵיישְׁן",
+      "example": "It is unclear what compensation they received."
+    },
+    {
+      "word": "conformity",
+      "lemma": "conformity",
+      "level": "C1",
+      "hebrew": "קוֹנְפוֹרְמִיּוּת, צִיּוּת",
+      "explanation_hebrew": "הִתְנַהֲגוּת לְפִי כְּלָלִים וְצִפִּיּוֹת מְקֻבָּלִים",
+      "pronunciation_hebrew": "קוֹנְפוֹרְמִיטִי",
+      "example": "Some say the culture rewards conformity."
+    },
+    {
+      "word": "sluggish",
+      "lemma": "sluggish",
+      "level": "C1",
+      "hebrew": "אִטִּי, רָפֶה",
+      "explanation_hebrew": "נָע אוֹ מִתְפַּתֵּחַ לְאַט מְאֹד",
+      "pronunciation_hebrew": "סְלַאגִ'ישׁ",
+      "example": "People worry about a sluggish economy."
+    },
+    {
+      "word": "scepticism",
+      "lemma": "scepticism",
+      "level": "C1",
+      "hebrew": "סַפְקָנוּת",
+      "explanation_hebrew": "גִּישָׁה שֶׁל סָפֵק וְאִי אֵמוּן",
+      "pronunciation_hebrew": "סְקֶפְּטִיסִיזְם",
+      "example": "This kind of scepticism worries Beijing."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "expansive",
+      "type": "english_to_hebrew",
+      "question": "What does “expansive” mean?",
+      "options": [
+        "הִתְמוֹדְדוּת, תַּחֲרוּת",
+        "חַד, בּוֹלֵט",
+        "פִּגּוּמִים",
+        "נִרְחָב, מִשְׂתָּרֵעַ"
+      ],
+      "correct_answer": "נִרְחָב, מִשְׂתָּרֵעַ",
+      "explanation_hebrew": "“expansive” = נִרְחָב, מִשְׂתָּרֵעַ — גָּדוֹל מְאֹד וּמִתְפַּשֵּׁט עַל שֶׁטַח רָחָב"
+    },
+    {
+      "id": "C-q2",
+      "word": "frontier",
+      "type": "hebrew_to_english",
+      "question": "″סְפָר, חֲזִית″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "stark",
+        "frontier",
+        "relocated",
+        "grave"
+      ],
+      "correct_answer": "frontier",
+      "explanation_hebrew": "סְפָר, חֲזִית = “frontier” — גְּבוּל אוֹ תְּחוּם חָדָשׁ שֶׁטֶּרֶם נֶחְקַר"
+    },
+    {
+      "id": "C-q3",
+      "word": "slew",
+      "type": "english_to_hebrew",
+      "question": "What does “slew” mean?",
+      "options": [
+        "מִסְגֶּרֶת",
+        "שֶׁפַע, כַּמּוּת גְּדוֹלָה",
+        "הֻעְתַּק, פֻּנָּה",
+        "עָמִית, מַקְבִּיל"
+      ],
+      "correct_answer": "שֶׁפַע, כַּמּוּת גְּדוֹלָה",
+      "explanation_hebrew": "“slew” = שֶׁפַע, כַּמּוּת גְּדוֹלָה — מִסְפָּר גָּדוֹל מְאֹד שֶׁל דְּבָרִים"
+    },
+    {
+      "id": "C-q4",
+      "word": "counterpart",
+      "type": "hebrew_to_english",
+      "question": "″עָמִית, מַקְבִּיל″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "innovate",
+        "stark",
+        "scaffolding",
+        "counterpart"
+      ],
+      "correct_answer": "counterpart",
+      "explanation_hebrew": "עָמִית, מַקְבִּיל = “counterpart” — אָדָם בַּעַל תַּפְקִיד מַקְבִּיל בְּצַד אַחֵר"
+    },
+    {
+      "id": "C-q5",
+      "word": "scaffolding",
+      "type": "english_to_hebrew",
+      "question": "What does “scaffolding” mean?",
+      "options": [
+        "אִטִּי, רָפֶה",
+        "סְפָר, חֲזִית",
+        "הַגְבָּלוֹת",
+        "פִּגּוּמִים"
+      ],
+      "correct_answer": "פִּגּוּמִים",
+      "explanation_hebrew": "“scaffolding” = פִּגּוּמִים — מִבְנֶה זְמַנִּי הַתּוֹמֵךְ בְּעוֹבְדִים בַּבְּנִיָּה"
+    },
+    {
+      "id": "C-q6",
+      "word": "precision",
+      "type": "hebrew_to_english",
+      "question": "″דִּיּוּק″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "expansive",
+        "precision",
+        "affordable",
+        "relocated"
+      ],
+      "correct_answer": "precision",
+      "explanation_hebrew": "דִּיּוּק = “precision” — רָמָה גְּבוֹהָה שֶׁל דַּיְקָנוּת"
+    },
+    {
+      "id": "C-q7",
+      "word": "infrastructure",
+      "type": "english_to_hebrew",
+      "question": "What does “infrastructure” mean?",
+      "options": [
+        "תַּשְׁתִּית",
+        "לְהַטְמִיעַ, לְשַׁבֵּץ",
+        "הַגְבָּלוֹת",
+        "הֻעְתַּק, פֻּנָּה"
+      ],
+      "correct_answer": "תַּשְׁתִּית",
+      "explanation_hebrew": "“infrastructure” = תַּשְׁתִּית — מַעֲרָכוֹת בְּסִיסִיּוֹת כְּמוֹ דְּרָכִים וְחַשְׁמַל"
+    },
+    {
+      "id": "C-q8",
+      "word": "contest",
+      "type": "hebrew_to_english",
+      "question": "″הִתְמוֹדְדוּת, תַּחֲרוּת″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "contest",
+        "stark",
+        "dismissed",
+        "counterpart"
+      ],
+      "correct_answer": "contest",
+      "explanation_hebrew": "הִתְמוֹדְדוּת, תַּחֲרוּת = “contest” — מַאֲבָק אוֹ תַּחֲרוּת בֵּין צְדָדִים"
+    },
+    {
+      "id": "C-q9",
+      "word": "embed",
+      "type": "english_to_hebrew",
+      "question": "What does “embed” mean?",
+      "options": [
+        "לְהַטְמִיעַ, לְשַׁבֵּץ",
+        "סְפָר, חֲזִית",
+        "לְחַדֵּשׁ",
+        "פִּצּוּי"
+      ],
+      "correct_answer": "לְהַטְמִיעַ, לְשַׁבֵּץ",
+      "explanation_hebrew": "“embed” = לְהַטְמִיעַ, לְשַׁבֵּץ — לְשַׁלֵּב מַשֶּׁהוּ בְּאֹפֶן קָבוּעַ בְּתוֹךְ מַשֶּׁהוּ אַחֵר"
+    },
+    {
+      "id": "C-q10",
+      "word": "restrictions",
+      "type": "hebrew_to_english",
+      "question": "″הַגְבָּלוֹת″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "conformity",
+        "scepticism",
+        "restrictions",
+        "soured"
+      ],
+      "correct_answer": "restrictions",
+      "explanation_hebrew": "הַגְבָּלוֹת = “restrictions” — כְּלָלִים הַמּוֹנְעִים אוֹ מַגְבִּילִים פְּעֻלּוֹת"
+    },
+    {
+      "id": "C-q11",
+      "word": "soured",
+      "type": "english_to_hebrew",
+      "question": "What does “soured” mean?",
+      "options": [
+        "חָמוּר",
+        "סַפְקָנוּת",
+        "דָּחָה, בִּטֵּל",
+        "הֶחְמִיץ, הִתְקַלְקֵל"
+      ],
+      "correct_answer": "הֶחְמִיץ, הִתְקַלְקֵל",
+      "explanation_hebrew": "“soured” = הֶחְמִיץ, הִתְקַלְקֵל — נַעֲשָׂה גָּרוּעַ אוֹ לֹא נָעִים"
+    },
+    {
+      "id": "C-q12",
+      "word": "recruited",
+      "type": "hebrew_to_english",
+      "question": "″גֻּיַּס″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "relocated",
+        "slew",
+        "scepticism",
+        "recruited"
+      ],
+      "correct_answer": "recruited",
+      "explanation_hebrew": "גֻּיַּס = “recruited” — נִבְחַר וְהֻזְמַן לְהִצְטָרֵף לְאִרְגּוּן"
+    },
+    {
+      "id": "C-q13",
+      "word": "stark",
+      "type": "english_to_hebrew",
+      "question": "What does “stark” mean?",
+      "options": [
+        "עָמִית, מַקְבִּיל",
+        "חַד, בּוֹלֵט",
+        "לְהַטְמִיעַ, לְשַׁבֵּץ",
+        "חָמוּר"
+      ],
+      "correct_answer": "חַד, בּוֹלֵט",
+      "explanation_hebrew": "“stark” = חַד, בּוֹלֵט — בָּרוּר וְחָרִיף בְּאֹפֶן מַדְאִיג"
+    },
+    {
+      "id": "C-q14",
+      "word": "grave",
+      "type": "hebrew_to_english",
+      "question": "″חָמוּר″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "soured",
+        "restrictions",
+        "grave",
+        "sluggish"
+      ],
+      "correct_answer": "grave",
+      "explanation_hebrew": "חָמוּר = “grave” — רְצִינִי וּמְסֻכָּן מְאֹד"
+    },
+    {
+      "id": "C-q15",
+      "word": "dismissed",
+      "type": "english_to_hebrew",
+      "question": "What does “dismissed” mean?",
+      "options": [
+        "פִּגּוּמִים",
+        "סְפָר, חֲזִית",
+        "לְהִתְגַּבֵּר עַל",
+        "דָּחָה, בִּטֵּל"
+      ],
+      "correct_answer": "דָּחָה, בִּטֵּל",
+      "explanation_hebrew": "“dismissed” = דָּחָה, בִּטֵּל — הֶחְלִיט שֶׁמַּשֶּׁהוּ אֵינוֹ חָשׁוּב אוֹ נָכוֹן"
+    },
+    {
+      "id": "C-q16",
+      "word": "touting",
+      "type": "hebrew_to_english",
+      "question": "″מְקַדֵּם, מְשַׁבֵּחַ″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "recruited",
+        "scaffolding",
+        "framework",
+        "touting"
+      ],
+      "correct_answer": "touting",
+      "explanation_hebrew": "מְקַדֵּם, מְשַׁבֵּחַ = “touting” — מְפַרְסֵם מַשֶּׁהוּ בְּהִתְלַהֲבוּת כְּדֵי לְשַׁכְנֵעַ"
+    },
+    {
+      "id": "C-q17",
+      "word": "affordable",
+      "type": "english_to_hebrew",
+      "question": "What does “affordable” mean?",
+      "options": [
+        "תַּשְׁתִּית",
+        "נִרְחָב, מִשְׂתָּרֵעַ",
+        "בַּר הַשָּׂגָה, זוֹל",
+        "הֻעְתַּק, פֻּנָּה"
+      ],
+      "correct_answer": "בַּר הַשָּׂגָה, זוֹל",
+      "explanation_hebrew": "“affordable” = בַּר הַשָּׂגָה, זוֹל — שֶׁאֶפְשָׁר לְהַרְשׁוֹת לְעַצְמְךָ מִבְּחִינָה כַּסְפִּית"
+    },
+    {
+      "id": "C-q18",
+      "word": "innovate",
+      "type": "hebrew_to_english",
+      "question": "″לְחַדֵּשׁ″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "touting",
+        "dismissed",
+        "innovate",
+        "contest"
+      ],
+      "correct_answer": "innovate",
+      "explanation_hebrew": "לְחַדֵּשׁ = “innovate” — לְפַתֵּחַ רַעֲיוֹנוֹת אוֹ שִׁיטוֹת חֲדָשִׁים"
+    },
+    {
+      "id": "C-q19",
+      "word": "overcome",
+      "type": "english_to_hebrew",
+      "question": "What does “overcome” mean?",
+      "options": [
+        "שֶׁפַע, כַּמּוּת גְּדוֹלָה",
+        "לְהִתְגַּבֵּר עַל",
+        "הֻעְתַּק, פֻּנָּה",
+        "הִתְמוֹדְדוּת, תַּחֲרוּת"
+      ],
+      "correct_answer": "לְהִתְגַּבֵּר עַל",
+      "explanation_hebrew": "“overcome” = לְהִתְגַּבֵּר עַל — לְהַצְלִיחַ לְנַצֵּחַ קֹשִׁי אוֹ מִכְשׁוֹל"
+    },
+    {
+      "id": "C-q20",
+      "word": "framework",
+      "type": "hebrew_to_english",
+      "question": "″מִסְגֶּרֶת″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "relocated",
+        "framework",
+        "stark",
+        "compensation"
+      ],
+      "correct_answer": "framework",
+      "explanation_hebrew": "מִסְגֶּרֶת = “framework” — מַעֲרֶכֶת כְּלָלִים אוֹ עֶקְרוֹנוֹת מְאַרְגֶּנֶת"
+    },
+    {
+      "id": "C-q21",
+      "word": "relocated",
+      "type": "english_to_hebrew",
+      "question": "What does “relocated” mean?",
+      "options": [
+        "שֶׁפַע, כַּמּוּת גְּדוֹלָה",
+        "הֻעְתַּק, פֻּנָּה",
+        "נִרְחָב, מִשְׂתָּרֵעַ",
+        "פִּצּוּי"
+      ],
+      "correct_answer": "הֻעְתַּק, פֻּנָּה",
+      "explanation_hebrew": "“relocated” = הֻעְתַּק, פֻּנָּה — הֻעֲבַר לִמְקוֹם מְגוּרִים אוֹ פְּעִילוּת אַחֵר"
+    },
+    {
+      "id": "C-q22",
+      "word": "compensation",
+      "type": "hebrew_to_english",
+      "question": "″פִּצּוּי″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "framework",
+        "compensation",
+        "affordable",
+        "conformity"
+      ],
+      "correct_answer": "compensation",
+      "explanation_hebrew": "פִּצּוּי = “compensation” — תַּשְׁלוּם עֲבוּר נֶזֶק אוֹ אֹבְדָן"
+    },
+    {
+      "id": "C-q23",
+      "word": "conformity",
+      "type": "english_to_hebrew",
+      "question": "What does “conformity” mean?",
+      "options": [
+        "תַּשְׁתִּית",
+        "הַגְבָּלוֹת",
+        "לְחַדֵּשׁ",
+        "קוֹנְפוֹרְמִיּוּת, צִיּוּת"
+      ],
+      "correct_answer": "קוֹנְפוֹרְמִיּוּת, צִיּוּת",
+      "explanation_hebrew": "“conformity” = קוֹנְפוֹרְמִיּוּת, צִיּוּת — הִתְנַהֲגוּת לְפִי כְּלָלִים וְצִפִּיּוֹת מְקֻבָּלִים"
+    },
+    {
+      "id": "C-q24",
+      "word": "sluggish",
+      "type": "hebrew_to_english",
+      "question": "″אִטִּי, רָפֶה″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "sluggish",
+        "grave",
+        "affordable",
+        "contest"
+      ],
+      "correct_answer": "sluggish",
+      "explanation_hebrew": "אִטִּי, רָפֶה = “sluggish” — נָע אוֹ מִתְפַּתֵּחַ לְאַט מְאֹד"
+    },
+    {
+      "id": "C-q25",
+      "word": "scepticism",
+      "type": "english_to_hebrew",
+      "question": "What does “scepticism” mean?",
+      "options": [
+        "סַפְקָנוּת",
+        "קוֹנְפוֹרְמִיּוּת, צִיּוּת",
+        "עָמִית, מַקְבִּיל",
+        "חָמוּר"
+      ],
+      "correct_answer": "סַפְקָנוּת",
+      "explanation_hebrew": "“scepticism” = סַפְקָנוּת — גִּישָׁה שֶׁל סָפֵק וְאִי אֵמוּן"
+    }
+  ]
+}

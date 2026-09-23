@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-23",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Dolly Parton free book scheme to expand in London",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ckwyz06qg983o",
+  "published_at": "2026-09-22T20:16:43+00:00",
+  "age_hours_at_selection": 5.9,
+  "word_count": 459,
+  "generated_at": "2026-09-23T02:10:56.246030+00:00",
+  "difficulty_reason": "Short, human-interest story with a clear single narrative, everyday vocabulary (mostly B1/B2) and almost no background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "scheme",
+      "lemma": "scheme",
+      "level": "B1",
+      "hebrew": "תָּכְנִית",
+      "explanation_hebrew": "תָּכְנִית מְאֻרְגֶּנֶת לְמַטָּרָה מְסֻיֶּמֶת",
+      "pronunciation_hebrew": "סְקִים",
+      "example": "The government launched a new scheme to help families."
+    },
+    {
+      "word": "boroughs",
+      "lemma": "borough",
+      "level": "B2",
+      "hebrew": "רְבָעִים עִירוֹנִיִּים",
+      "explanation_hebrew": "אֵזוֹרֵי מִנְהָל בְּתוֹךְ עִיר גְּדוֹלָה",
+      "pronunciation_hebrew": "בָּארוֹז",
+      "example": "London is divided into many boroughs."
+    },
+    {
+      "word": "expand",
+      "lemma": "expand",
+      "level": "B1",
+      "hebrew": "לְהַרְחִיב",
+      "explanation_hebrew": "לְהַגְדִּיל אוֹ לְהַגְבִּיר בְּהֶקֵּף",
+      "pronunciation_hebrew": "אִיקְסְפֵּנְד",
+      "example": "The company plans to expand into new markets."
+    },
+    {
+      "word": "tribute",
+      "lemma": "tribute",
+      "level": "B2",
+      "hebrew": "מְחֻוָּה, אוֹת כָּבוֹד",
+      "explanation_hebrew": "מַעֲשֶׂה שֶׁמַּבִּיעַ כָּבוֹד אוֹ הוֹקָרָה",
+      "pronunciation_hebrew": "טְרִיבְּיוּט",
+      "example": "The concert was a tribute to the late singer."
+    },
+    {
+      "word": "frequently",
+      "lemma": "frequently",
+      "level": "B2",
+      "hebrew": "לְעִתִּים קְרוֹבוֹת",
+      "explanation_hebrew": "שׁוּב וָשׁוּב, בְּתָדִירוּת גְּבוֹהָה",
+      "pronunciation_hebrew": "פְרִיקְוֶונְטְלִי",
+      "example": "Children who are read to frequently learn faster."
+    },
+    {
+      "word": "eligible",
+      "lemma": "eligible",
+      "level": "B2",
+      "hebrew": "זַכַּאי",
+      "explanation_hebrew": "שֶׁעוֹמֵד בַּתְּנָאִים לְקַבֵּל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "אֶלִיגִ'יבְּל",
+      "example": "Only residents are eligible for the discount."
+    },
+    {
+      "word": "confidence",
+      "lemma": "confidence",
+      "level": "B1",
+      "hebrew": "בִּטָּחוֹן עַצְמִי",
+      "explanation_hebrew": "תְּחוּשָׁה שֶׁל אֱמוּן בְּיָכְלוֹת עַצְמוֹ",
+      "pronunciation_hebrew": "קוֹנְפִידֶנְס",
+      "example": "She spoke with great confidence."
+    },
+    {
+      "word": "pleasure",
+      "lemma": "pleasure",
+      "level": "B1",
+      "hebrew": "הֲנָאָה, עֹנֶג",
+      "explanation_hebrew": "תְּחוּשָׁה נְעִימָה שֶׁל שִׂמְחָה",
+      "pronunciation_hebrew": "פְּלֶז'ֶר",
+      "example": "Reading for pleasure helps children learn."
+    },
+    {
+      "word": "educator",
+      "lemma": "educator",
+      "level": "B2",
+      "hebrew": "מְחַנֵּךְ",
+      "explanation_hebrew": "אָדָם שֶׁעוֹסֵק בְּהוֹרָאָה וּבְחִנּוּךְ",
+      "pronunciation_hebrew": "אֶדְיוּקֵייטוֹר",
+      "example": "She is a respected educator in her field."
+    },
+    {
+      "word": "pressure",
+      "lemma": "pressure",
+      "level": "B1",
+      "hebrew": "לַחַץ",
+      "explanation_hebrew": "הַרְגָּשָׁה שֶׁל מַעֲמָס אוֹ דְּחִיפוּת",
+      "pronunciation_hebrew": "פְּרֶשֶׁר",
+      "example": "The free books take pressure off parents."
+    },
+    {
+      "word": "expensive",
+      "lemma": "expensive",
+      "level": "B1",
+      "hebrew": "יָקָר",
+      "explanation_hebrew": "שֶׁעוֹלֶה הַרְבֵּה כֶּסֶף",
+      "pronunciation_hebrew": "אִיקְסְפֶּנְסִיב",
+      "example": "Buying new books can be expensive."
+    },
+    {
+      "word": "benefit",
+      "lemma": "benefit",
+      "level": "B1",
+      "hebrew": "לְהַרְוִיחַ, לְהֵנוֹת",
+      "explanation_hebrew": "לְקַבֵּל תּוֹעֶלֶת אוֹ יִתְרוֹן",
+      "pronunciation_hebrew": "בֶּנֶפִיט",
+      "example": "Many families benefit from the free scheme."
+    },
+    {
+      "word": "initiative",
+      "lemma": "initiative",
+      "level": "B2",
+      "hebrew": "יָזְמָה",
+      "explanation_hebrew": "תָּכְנִית אוֹ פְּעֻלָּה חֲדָשָׁה שֶׁמַּתְחִילִים",
+      "pronunciation_hebrew": "אִינִישְׁיָטִיב",
+      "example": "The reading initiative reached thousands of children."
+    },
+    {
+      "word": "grateful",
+      "lemma": "grateful",
+      "level": "B1",
+      "hebrew": "אֲסִיר תּוֹדָה",
+      "explanation_hebrew": "מַרְגִּישׁ הוֹקָרָה עַל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "גְרֵייטְפוּל",
+      "example": "We are grateful for your support."
+    },
+    {
+      "word": "meaningful",
+      "lemma": "meaningful",
+      "level": "B2",
+      "hebrew": "מַשְׁמָעוּתִי",
+      "explanation_hebrew": "שֶׁיֵּשׁ לוֹ עֵרֶךְ אוֹ מַשְׁמָעוּת",
+      "pronunciation_hebrew": "מִינִינְגְפוּל",
+      "example": "It was a meaningful gift for the family."
+    },
+    {
+      "word": "universal",
+      "lemma": "universal",
+      "level": "B2",
+      "hebrew": "כְּלָלִי, אוּנִיבֶרְסָלִי",
+      "explanation_hebrew": "שֶׁחָל עַל כֻּלָּם בְּלִי יוֹצֵא מִן הַכְּלָל",
+      "pronunciation_hebrew": "יוּנִיבֶרְסָל",
+      "example": "The scheme is universal and open to all."
+    },
+    {
+      "word": "participating",
+      "lemma": "participate",
+      "level": "B2",
+      "hebrew": "מִשְׁתַּתֵּף",
+      "explanation_hebrew": "שֶׁלּוֹקֵחַ חֵלֶק בְּמַשֶּׁהוּ",
+      "pronunciation_hebrew": "פַּרְטִיסִיפֵּייטִינְג",
+      "example": "Every child in a participating area can sign up."
+    },
+    {
+      "word": "regardless",
+      "lemma": "regardless",
+      "level": "B2",
+      "hebrew": "לְלֹא קֶשֶׁר, בְּלִי הֶבְדֵּל",
+      "explanation_hebrew": "בְּלִי תְּלוּת בִּתְנָאִים אֲחֵרִים",
+      "pronunciation_hebrew": "רִיגַארְדְלֶס",
+      "example": "Anyone can join regardless of income."
+    },
+    {
+      "word": "income",
+      "lemma": "income",
+      "level": "B1",
+      "hebrew": "הַכְנָסָה",
+      "explanation_hebrew": "הַכֶּסֶף שֶׁאָדָם מַרְוִיחַ",
+      "pronunciation_hebrew": "אִינְקַאם",
+      "example": "The service is free regardless of family income."
+    },
+    {
+      "word": "delivered",
+      "lemma": "deliver",
+      "level": "B1",
+      "hebrew": "נִמְסַר, סֻפַּק",
+      "explanation_hebrew": "הוּבָא אוֹ נִשְׁלַח לִמְקוֹם הַיַּעַד",
+      "pronunciation_hebrew": "דִּילִיבֶרְד",
+      "example": "Millions of books were delivered to children."
+    },
+    {
+      "word": "proud",
+      "lemma": "proud",
+      "level": "B1",
+      "hebrew": "גֵּאֶה",
+      "explanation_hebrew": "מַרְגִּישׁ סִפּוּק וְכָבוֹד עַל הֶשֵּׂג",
+      "pronunciation_hebrew": "פְּרַאוּד",
+      "example": "She was proud of her daughter's progress."
+    },
+    {
+      "word": "constantly",
+      "lemma": "constantly",
+      "level": "B2",
+      "hebrew": "לְלֹא הֶרֶף, כᵊל הַזְּמַן",
+      "explanation_hebrew": "שׁוּב וָשׁוּב, בְּאֹפֶן מַתְמִיד",
+      "pronunciation_hebrew": "קוֹנְסְטַנְטְלִי",
+      "example": "He was constantly encouraging new ideas."
+    },
+    {
+      "word": "generations",
+      "lemma": "generation",
+      "level": "B2",
+      "hebrew": "דּוֹרוֹת",
+      "explanation_hebrew": "קְבוּצוֹת אֲנָשִׁים מֵאוֹתוֹ גִּיל בְּתוֹךְ מִשְׁפָּחָה",
+      "pronunciation_hebrew": "גֶ'נֶרֵיישְׁנְז",
+      "example": "The tradition lived on for generations."
+    },
+    {
+      "word": "announcement",
+      "lemma": "announcement",
+      "level": "B1",
+      "hebrew": "הוֹדָעָה",
+      "explanation_hebrew": "הַצְהָרָה רִשְׁמִית עַל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "אֲנַאוּנְסְמֶנְט",
+      "example": "The announcement was made this morning."
+    },
+    {
+      "word": "extraordinary",
+      "lemma": "extraordinary",
+      "level": "B2",
+      "hebrew": "יוֹצֵא דֹּפֶן",
+      "explanation_hebrew": "מְיֻחָד מְאֹד, לֹא רָגִיל",
+      "pronunciation_hebrew": "אִיקְסְטְרוֹרְדִינֶרִי",
+      "example": "A simple book has extraordinary power."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "scheme",
+      "type": "english_to_hebrew",
+      "question": "What does “scheme” mean?",
+      "options": [
+        "תָּכְנִית",
+        "דּוֹרוֹת",
+        "גֵּאֶה",
+        "מַשְׁמָעוּתִי"
+      ],
+      "correct_answer": "תָּכְנִית",
+      "explanation_hebrew": "“scheme” = תָּכְנִית — תָּכְנִית מְאֻרְגֶּנֶת לְמַטָּרָה מְסֻיֶּמֶת"
+    },
+    {
+      "id": "A-q2",
+      "word": "boroughs",
+      "type": "hebrew_to_english",
+      "question": "″רְבָעִים עִירוֹנִיִּים″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "educator",
+        "boroughs",
+        "initiative",
+        "tribute"
+      ],
+      "correct_answer": "boroughs",
+      "explanation_hebrew": "רְבָעִים עִירוֹנִיִּים = “boroughs” — אֵזוֹרֵי מִנְהָל בְּתוֹךְ עִיר גְּדוֹלָה"
+    },
+    {
+      "id": "A-q3",
+      "word": "expand",
+      "type": "english_to_hebrew",
+      "question": "What does “expand” mean?",
+      "options": [
+        "יוֹצֵא דֹּפֶן",
+        "רְבָעִים עִירוֹנִיִּים",
+        "לְהַרְחִיב",
+        "לְלֹא קֶשֶׁר, בְּלִי הֶבְדֵּל"
+      ],
+      "correct_answer": "לְהַרְחִיב",
+      "explanation_hebrew": "“expand” = לְהַרְחִיב — לְהַגְדִּיל אוֹ לְהַגְבִּיר בְּהֶקֵּף"
+    },
+    {
+      "id": "A-q4",
+      "word": "tribute",
+      "type": "hebrew_to_english",
+      "question": "″מְחֻוָּה, אוֹת כָּבוֹד″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "tribute",
+        "delivered",
+        "pleasure",
+        "constantly"
+      ],
+      "correct_answer": "tribute",
+      "explanation_hebrew": "מְחֻוָּה, אוֹת כָּבוֹד = “tribute” — מַעֲשֶׂה שֶׁמַּבִּיעַ כָּבוֹד אוֹ הוֹקָרָה"
+    },
+    {
+      "id": "A-q5",
+      "word": "frequently",
+      "type": "english_to_hebrew",
+      "question": "What does “frequently” mean?",
+      "options": [
+        "לְעִתִּים קְרוֹבוֹת",
+        "יוֹצֵא דֹּפֶן",
+        "רְבָעִים עִירוֹנִיִּים",
+        "אֲסִיר תּוֹדָה"
+      ],
+      "correct_answer": "לְעִתִּים קְרוֹבוֹת",
+      "explanation_hebrew": "“frequently” = לְעִתִּים קְרוֹבוֹת — שׁוּב וָשׁוּב, בְּתָדִירוּת גְּבוֹהָה"
+    },
+    {
+      "id": "A-q6",
+      "word": "eligible",
+      "type": "hebrew_to_english",
+      "question": "″זַכַּאי″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "eligible",
+        "income",
+        "expand",
+        "extraordinary"
+      ],
+      "correct_answer": "eligible",
+      "explanation_hebrew": "זַכַּאי = “eligible” — שֶׁעוֹמֵד בַּתְּנָאִים לְקַבֵּל מַשֶּׁהוּ"
+    },
+    {
+      "id": "A-q7",
+      "word": "confidence",
+      "type": "english_to_hebrew",
+      "question": "What does “confidence” mean?",
+      "options": [
+        "יָקָר",
+        "בִּטָּחוֹן עַצְמִי",
+        "גֵּאֶה",
+        "מְחֻוָּה, אוֹת כָּבוֹד"
+      ],
+      "correct_answer": "בִּטָּחוֹן עַצְמִי",
+      "explanation_hebrew": "“confidence” = בִּטָּחוֹן עַצְמִי — תְּחוּשָׁה שֶׁל אֱמוּן בְּיָכְלוֹת עַצְמוֹ"
+    },
+    {
+      "id": "A-q8",
+      "word": "pleasure",
+      "type": "hebrew_to_english",
+      "question": "″הֲנָאָה, עֹנֶג″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "eligible",
+        "expensive",
+        "income",
+        "pleasure"
+      ],
+      "correct_answer": "pleasure",
+      "explanation_hebrew": "הֲנָאָה, עֹנֶג = “pleasure” — תְּחוּשָׁה נְעִימָה שֶׁל שִׂמְחָה"
+    },
+    {
+      "id": "A-q9",
+      "word": "educator",
+      "type": "english_to_hebrew",
+      "question": "What does “educator” mean?",
+      "options": [
+        "אֲסִיר תּוֹדָה",
+        "לַחַץ",
+        "רְבָעִים עִירוֹנִיִּים",
+        "מְחַנֵּךְ"
+      ],
+      "correct_answer": "מְחַנֵּךְ",
+      "explanation_hebrew": "“educator” = מְחַנֵּךְ — אָדָם שֶׁעוֹסֵק בְּהוֹרָאָה וּבְחִנּוּךְ"
+    },
+    {
+      "id": "A-q10",
+      "word": "pressure",
+      "type": "hebrew_to_english",
+      "question": "″לַחַץ″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "meaningful",
+        "expensive",
+        "pressure",
+        "tribute"
+      ],
+      "correct_answer": "pressure",
+      "explanation_hebrew": "לַחַץ = “pressure” — הַרְגָּשָׁה שֶׁל מַעֲמָס אוֹ דְּחִיפוּת"
+    },
+    {
+      "id": "A-q11",
+      "word": "expensive",
+      "type": "english_to_hebrew",
+      "question": "What does “expensive” mean?",
+      "options": [
+        "זַכַּאי",
+        "דּוֹרוֹת",
+        "יָקָר",
+        "מַשְׁמָעוּתִי"
+      ],
+      "correct_answer": "יָקָר",
+      "explanation_hebrew": "“expensive” = יָקָר — שֶׁעוֹלֶה הַרְבֵּה כֶּסֶף"
+    },
+    {
+      "id": "A-q12",
+      "word": "benefit",
+      "type": "hebrew_to_english",
+      "question": "″לְהַרְוִיחַ, לְהֵנוֹת″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "educator",
+        "expand",
+        "benefit",
+        "universal"
+      ],
+      "correct_answer": "benefit",
+      "explanation_hebrew": "לְהַרְוִיחַ, לְהֵנוֹת = “benefit” — לְקַבֵּל תּוֹעֶלֶת אוֹ יִתְרוֹן"
+    },
+    {
+      "id": "A-q13",
+      "word": "initiative",
+      "type": "english_to_hebrew",
+      "question": "What does “initiative” mean?",
+      "options": [
+        "לְלֹא קֶשֶׁר, בְּלִי הֶבְדֵּל",
+        "יָזְמָה",
+        "רְבָעִים עִירוֹנִיִּים",
+        "הַכְנָסָה"
+      ],
+      "correct_answer": "יָזְמָה",
+      "explanation_hebrew": "“initiative” = יָזְמָה — תָּכְנִית אוֹ פְּעֻלָּה חֲדָשָׁה שֶׁמַּתְחִילִים"
+    },
+    {
+      "id": "A-q14",
+      "word": "grateful",
+      "type": "hebrew_to_english",
+      "question": "″אֲסִיר תּוֹדָה″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "universal",
+        "proud",
+        "grateful",
+        "educator"
+      ],
+      "correct_answer": "grateful",
+      "explanation_hebrew": "אֲסִיר תּוֹדָה = “grateful” — מַרְגִּישׁ הוֹקָרָה עַל מַשֶּׁהוּ"
+    },
+    {
+      "id": "A-q15",
+      "word": "meaningful",
+      "type": "english_to_hebrew",
+      "question": "What does “meaningful” mean?",
+      "options": [
+        "כְּלָלִי, אוּנִיבֶרְסָלִי",
+        "מַשְׁמָעוּתִי",
+        "לְלֹא קֶשֶׁר, בְּלִי הֶבְדֵּל",
+        "בִּטָּחוֹן עַצְמִי"
+      ],
+      "correct_answer": "מַשְׁמָעוּתִי",
+      "explanation_hebrew": "“meaningful” = מַשְׁמָעוּתִי — שֶׁיֵּשׁ לוֹ עֵרֶךְ אוֹ מַשְׁמָעוּת"
+    },
+    {
+      "id": "A-q16",
+      "word": "universal",
+      "type": "hebrew_to_english",
+      "question": "″כְּלָלִי, אוּנִיבֶרְסָלִי″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "expand",
+        "universal",
+        "confidence",
+        "eligible"
+      ],
+      "correct_answer": "universal",
+      "explanation_hebrew": "כְּלָלִי, אוּנִיבֶרְסָלִי = “universal” — שֶׁחָל עַל כֻּלָּם בְּלִי יוֹצֵא מִן הַכְּלָל"
+    },
+    {
+      "id": "A-q17",
+      "word": "participating",
+      "type": "english_to_hebrew",
+      "question": "What does “participating” mean?",
+      "options": [
+        "תָּכְנִית",
+        "מִשְׁתַּתֵּף",
+        "בִּטָּחוֹן עַצְמִי",
+        "כְּלָלִי, אוּנִיבֶרְסָלִי"
+      ],
+      "correct_answer": "מִשְׁתַּתֵּף",
+      "explanation_hebrew": "“participating” = מִשְׁתַּתֵּף — שֶׁלּוֹקֵחַ חֵלֶק בְּמַשֶּׁהוּ"
+    },
+    {
+      "id": "A-q18",
+      "word": "regardless",
+      "type": "hebrew_to_english",
+      "question": "″לְלֹא קֶשֶׁר, בְּלִי הֶבְדֵּל″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "income",
+        "regardless",
+        "frequently",
+        "proud"
+      ],
+      "correct_answer": "regardless",
+      "explanation_hebrew": "לְלֹא קֶשֶׁר, בְּלִי הֶבְדֵּל = “regardless” — בְּלִי תְּלוּת בִּתְנָאִים אֲחֵרִים"
+    },
+    {
+      "id": "A-q19",
+      "word": "income",
+      "type": "english_to_hebrew",
+      "question": "What does “income” mean?",
+      "options": [
+        "כְּלָלִי, אוּנִיבֶרְסָלִי",
+        "הַכְנָסָה",
+        "לַחַץ",
+        "יוֹצֵא דֹּפֶן"
+      ],
+      "correct_answer": "הַכְנָסָה",
+      "explanation_hebrew": "“income” = הַכְנָסָה — הַכֶּסֶף שֶׁאָדָם מַרְוִיחַ"
+    },
+    {
+      "id": "A-q20",
+      "word": "delivered",
+      "type": "hebrew_to_english",
+      "question": "″נִמְסַר, סֻפַּק″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "confidence",
+        "delivered",
+        "benefit",
+        "educator"
+      ],
+      "correct_answer": "delivered",
+      "explanation_hebrew": "נִמְסַר, סֻפַּק = “delivered” — הוּבָא אוֹ נִשְׁלַח לִמְקוֹם הַיַּעַד"
+    },
+    {
+      "id": "A-q21",
+      "word": "proud",
+      "type": "english_to_hebrew",
+      "question": "What does “proud” mean?",
+      "options": [
+        "גֵּאֶה",
+        "הוֹדָעָה",
+        "לְלֹא קֶשֶׁר, בְּלִי הֶבְדֵּל",
+        "מִשְׁתַּתֵּף"
+      ],
+      "correct_answer": "גֵּאֶה",
+      "explanation_hebrew": "“proud” = גֵּאֶה — מַרְגִּישׁ סִפּוּק וְכָבוֹד עַל הֶשֵּׂג"
+    },
+    {
+      "id": "A-q22",
+      "word": "constantly",
+      "type": "hebrew_to_english",
+      "question": "″לְלֹא הֶרֶף, כᵊל הַזְּמַן″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "pleasure",
+        "extraordinary",
+        "proud",
+        "constantly"
+      ],
+      "correct_answer": "constantly",
+      "explanation_hebrew": "לְלֹא הֶרֶף, כᵊל הַזְּמַן = “constantly” — שׁוּב וָשׁוּב, בְּאֹפֶן מַתְמִיד"
+    },
+    {
+      "id": "A-q23",
+      "word": "generations",
+      "type": "english_to_hebrew",
+      "question": "What does “generations” mean?",
+      "options": [
+        "נִמְסַר, סֻפַּק",
+        "מַשְׁמָעוּתִי",
+        "לְעִתִּים קְרוֹבוֹת",
+        "דּוֹרוֹת"
+      ],
+      "correct_answer": "דּוֹרוֹת",
+      "explanation_hebrew": "“generations” = דּוֹרוֹת — קְבוּצוֹת אֲנָשִׁים מֵאוֹתוֹ גִּיל בְּתוֹךְ מִשְׁפָּחָה"
+    },
+    {
+      "id": "A-q24",
+      "word": "announcement",
+      "type": "hebrew_to_english",
+      "question": "″הוֹדָעָה″ — איזו מילה באנגלית מתאימה?",
+      "options": [
+        "expensive",
+        "expand",
+        "benefit",
+        "announcement"
+      ],
+      "correct_answer": "announcement",
+      "explanation_hebrew": "הוֹדָעָה = “announcement” — הַצְהָרָה רִשְׁמִית עַל מַשֶּׁהוּ"
+    },
+    {
+      "id": "A-q25",
+      "word": "extraordinary",
+      "type": "english_to_hebrew",
+      "question": "What does “extraordinary” mean?",
+      "options": [
+        "הֲנָאָה, עֹנֶג",
+        "הוֹדָעָה",
+        "רְבָעִים עִירוֹנִיִּים",
+        "יוֹצֵא דֹּפֶן"
+      ],
+      "correct_answer": "יוֹצֵא דֹּפֶן",
+      "explanation_hebrew": "“extraordinary” = יוֹצֵא דֹּפֶן — מְיֻחָד מְאֹד, לֹא רָגִיל"
+    }
+  ]
+}
