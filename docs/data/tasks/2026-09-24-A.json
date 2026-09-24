@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-24",
+  "article_id": "A",
+  "article_title": "Bentley's first electric car, the Torcal, to be built in Crewe",
+  "article_url": "https://www.bbc.co.uk/news/articles/c65ymznkr291o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "Bentley has unveiled its first fully electric car and is upgrading its Crewe factory to build it.",
+        "Bentley is closing its Crewe factory and moving production abroad.",
+        "The UK government has cancelled its plans to support electric vehicles.",
+        "Bentley has decided to produce only petrol-powered racing cars."
+      ],
+      "correct_answer": "Bentley has unveiled its first fully electric car and is upgrading its Crewe factory to build it.",
+      "explanation_hebrew": "הכתבה עוסקת בחשיפת ה־Torcal, הרכב החשמלי הראשון של בנטלי, ובהשקעה בקו ייצור חדש במפעל בקרו."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much has Bentley invested in upgrading its Cheshire factory?",
+      "difficulty": "A",
+      "options": [
+        "£170m",
+        "£350m",
+        "£500m",
+        "£7.5bn"
+      ],
+      "correct_answer": "£350m",
+      "explanation_hebrew": "לפי הכתבה, בנטלי השקיעה 350 מיליון ליש״ט בשדרוג המפעל בצ'שייר."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “strong headwinds” mean for the UK motor industry?",
+      "difficulty": "A",
+      "options": [
+        "Favourable weather for testing cars",
+        "A rapid rise in customer demand",
+        "Serious difficulties or pressures",
+        "New rules about factory ventilation"
+      ],
+      "correct_answer": "Serious difficulties or pressures",
+      "explanation_hebrew": "הביטוי strong headwinds משמש באופן מטפורי לתיאור קשיים ולחצים משמעותיים העומדים בפני תעשיית הרכב."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What range does Bentley claim for the Torcal's 113kWh battery?",
+      "difficulty": "A",
+      "options": [
+        "Up to 162 miles",
+        "Up to 203 miles",
+        "Up to 300 miles",
+        "Up to 375 miles"
+      ],
+      "correct_answer": "Up to 375 miles",
+      "explanation_hebrew": "בנטלי טוענת שסוללת ה־113 קוט״ש מאפשרת טווח של עד 375 מייל, שהם כ־600 ק״מ."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “future-proof the industry” most nearly mean?",
+      "difficulty": "A",
+      "options": [
+        "Prepare the industry to remain successful as technology and demand change",
+        "Guarantee that every future car will be built by hand",
+        "Protect factories from physical damage caused by storms",
+        "Stop companies from introducing any new models"
+      ],
+      "correct_answer": "Prepare the industry to remain successful as technology and demand change",
+      "explanation_hebrew": "future-proof פירושו להתאים את התעשייה לשינויים עתידיים כדי שתוכל להמשיך לפעול ולהצליח."
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did the government say the Torcal investment could help the wider supply chain?",
+      "difficulty": "A",
+      "options": [
+        "Bentley plans to buy all components from one overseas supplier.",
+        "More than 700 businesses supply Bentley, including 82 close to Crewe.",
+        "The new car will not require any manufactured parts.",
+        "Every UK car factory will build part of the Torcal."
+      ],
+      "correct_answer": "More than 700 businesses supply Bentley, including 82 close to Crewe.",
+      "explanation_hebrew": "הכתבה מציינת שלבנטלי יותר מ־700 ספקים, ובהם 82 עסקים ברדיוס של 50 מייל מקרו, ולכן ההשקעה עשויה לחזק את שרשרת האספקה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two performance or charging facts about the Torcal mentioned in the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני נתונים מדויקים מן הכתבה בנוגע לטווח, טעינה, מהירות מרבית או תאוצה.",
+      "expected_points": [
+        "The battery range is up to 375 miles (600km).",
+        "It can charge from 10% to 80% in under 20 minutes with a 400kW charger.",
+        "The Torcal S can reach 162mph and accelerate to 60mph in 2.8 seconds.",
+        "The standard model can reach 155mph and accelerate to 60mph in 3.3 seconds."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is building the Torcal in Crewe important for the local economy?",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להסיק מן הכתבה לפחות השפעה מקומית אחת ולבסס אותה בפרט עובדתי.",
+      "expected_points": [
+        "The investment is expected to support 4,000 high-value local jobs.",
+        "Nearby suppliers may benefit because 82 supplier businesses are within 50 miles.",
+        "The upgraded production line keeps advanced manufacturing activity at Bentley's long-standing Crewe headquarters."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Bentley's Torcal announcement in three or four sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את סוג הרכב, מקום הייצור, ההשקעה או השדרוג, ולפחות נתון אחד על הרכב או ההשפעה הכלכלית.",
+      "expected_points": [
+        "The Torcal is Bentley's first fully electric car.",
+        "It will be produced on a new line at the Crewe factory after a £350m investment.",
+        "The vehicle combines luxury with electric performance and fast charging.",
+        "The project is expected to support jobs and suppliers."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, explain one potential benefit and one challenge of Bentley's move into electric cars.",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להציג תועלת ואתגר נפרדים, להביא ראיה מן הכתבה לכל אחד, ולהסביר את הקשר.",
+      "expected_points": [
+        "Benefits may include jobs, stronger supply chains, modernised production or preparation for the EV transition.",
+        "Challenges may include difficult conditions in the UK motor industry or calls to slow the move to a fully electric future.",
+        "The response should use article evidence rather than a general opinion."
+      ]
+    }
+  ]
+}

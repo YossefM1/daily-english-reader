@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-24",
+  "article_id": "C",
+  "article_title": "Dopamine sites: India and the world are discovering the thrill of shopping without buying",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central question does the article explore through “dopamine sites” such as FoodNeverComes?",
+      "difficulty": "C",
+      "options": [
+        "Whether the anticipation and ritual of buying can be rewarding even when no real purchase occurs",
+        "Whether artificial intelligence can deliver restaurant meals faster than human riders",
+        "Why consumers no longer enjoy browsing products online",
+        "How fake travel sites can replace all real holidays"
+      ],
+      "correct_answer": "Whether the anticipation and ritual of buying can be rewarding even when no real purchase occurs",
+      "explanation_hebrew": "הכתבה בוחנת האם הציפייה, החיפוש וטקס ההזמנה עצמם מספקים תגמול, גם ללא קנייה או צריכה ממשית."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happens after a user completes a fake order on FoodNeverComes?",
+      "difficulty": "C",
+      "options": [
+        "Real food arrives without a bill.",
+        "The site simulates delivery, including a dummy AI-generated call, but no food exists.",
+        "The user receives a cash reward from a restaurant.",
+        "The order is automatically sent to a real delivery platform."
+      ],
+      "correct_answer": "The site simulates delivery, including a dummy AI-generated call, but no food exists.",
+      "explanation_hebrew": "האתר מדמה את חוויית המשלוח ואף יוצר שיחת AI פיקטיבית, אך בפועל לא הוזמן ולא נשלח מזון."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Ravi Dhar mean by “anticipatory utility”?",
+      "difficulty": "C",
+      "options": [
+        "The financial value of returning unwanted products",
+        "The practical usefulness of planning meals in advance",
+        "The pleasure people gain from looking forward to consumption",
+        "The ability of an algorithm to predict delivery times"
+      ],
+      "correct_answer": "The pleasure people gain from looking forward to consumption",
+      "explanation_hebrew": "anticipatory utility הוא הערך או העונג שמופקים מן הציפייה לצריכה עתידית, עוד לפני קבלת המוצר או החוויה."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In Kent Berridge's explanation, what is “incentive salience”?",
+      "difficulty": "C",
+      "options": [
+        "The satisfaction felt after owning a desired object",
+        "A price discount that makes a product affordable",
+        "The habit of comparing several products objectively",
+        "The motivational pull that makes a tempting object or cue strongly wanted"
+      ],
+      "correct_answer": "The motivational pull that makes a tempting object or cue strongly wanted",
+      "explanation_hebrew": "המונח מתאר את הכוח המוטיבציוני שמעניק לגירוי בולטות וגורם לנו לרצות לרדוף אחריו, גם אם ההנאה הסופית תהיה חלשה."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does Berridge distinguish “wanting” from “liking”?",
+      "difficulty": "C",
+      "options": [
+        "Wanting is the drive to pursue something; liking is the pleasure of having it.",
+        "Wanting applies only to food, while liking applies only to shopping.",
+        "Wanting is conscious, while liking is always unconscious.",
+        "Wanting and liking are identical processes controlled in exactly the same way."
+      ],
+      "correct_answer": "Wanting is the drive to pursue something; liking is the pleasure of having it.",
+      "explanation_hebrew": "ברידג' מפריד בין הדחף להשיג דבר לבין ההנאה ממנו לאחר ההשגה; דופמין קשור בעיקר ל־wanting."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Dhar suggest by calling simulated shopping a possible “release valve”?",
+      "difficulty": "C",
+      "options": [
+        "It could permanently eliminate all consumer desire.",
+        "It might provide a safer outlet for an urge without a real purchase.",
+        "It forces users to reveal their spending data.",
+        "It increases the pressure to buy expensive products immediately."
+      ],
+      "correct_answer": "It might provide a safer outlet for an urge without a real purchase.",
+      "explanation_hebrew": "release valve הוא דימוי למנגנון שמפחית לחץ; כאן הכוונה לכך שסימולציה עשויה לתת פורקן לדחף בלי לבצע קנייה אמיתית."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two pieces of evidence showing the scale or detail of FoodNeverComes.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שני נתונים מספריים או מאפיינים מדויקים של האתר מן הכתבה.",
+      "expected_points": [
+        "It attracted more than 2.7 million visitors after launching in June.",
+        "It offers 22 fake kitchens or cuisines.",
+        "It includes 327 dishes and 319 real recipes.",
+        "It provides fake prices, checkout and a fictional delivery experience."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do the experts disagree about whether dopamine sites reduce or reinforce compulsive consumption?",
+      "difficulty": "C",
+      "rubric_hebrew": "התשובה צריכה להסביר את שני הכיוונים האפשריים ולהתייחס לחוסר בראיות אמפיריות או להבדלים בין משתמשים.",
+      "expected_points": [
+        "Simulated consumption may satisfy or redirect the urge without spending money.",
+        "Repeating the ordering ritual may rehearse and strengthen the same addictive neural networks.",
+        "The novelty may wear off, limiting repeated use.",
+        "Evidence is still limited and the effect may depend on the individual."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how dopamine sites work and what the article says about the psychology behind them.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לתאר את הסימולציה ללא צריכה אמיתית, להסביר את ההבחנה בין wanting ל־liking או את תפקיד הציפייה, ולהציג לפחות אי־ודאות אחת לגבי ההשפעה.",
+      "expected_points": [
+        "The sites reproduce shopping, ordering or travel rituals without delivering a real product or experience.",
+        "Anticipation and reward cues can create wanting even when ownership or consumption is absent.",
+        "Dopamine is presented as a driver of motivation rather than simply a pleasure chemical.",
+        "Experts are unsure whether the sites provide harmless release or reinforce compulsive habits."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, assess whether dopamine sites are more likely to help users control consumption or strengthen unhealthy habits.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לנסח טענה מנומקת, להשתמש בלפחות שתי ראיות או עמדות מומחים מן הכתבה, להתייחס לטיעון הנגדי ולסיים במסקנה זהירה.",
+      "expected_points": [
+        "Evidence for benefit includes avoiding payment or consumption and Dhar's comparison with effective simulated consumption in gaming.",
+        "Evidence for harm includes Lembke's concern that repeated rituals may reinforce addictive neural networks.",
+        "Berridge expects novelty to fade, while the founders' experiences suggest browsing itself can satisfy some users.",
+        "A strong conclusion should acknowledge that empirical evidence is not yet sufficient and effects may vary by person."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-24",
+  "article_id": "B",
+  "article_title": "New vocational GCSE subjects to be introduced in schools",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the education reforms described in the article?",
+      "difficulty": "B",
+      "options": [
+        "To introduce vocational GCSEs and expand work experience so education connects more clearly with careers",
+        "To remove all academic GCSE subjects from schools in England",
+        "To require every pupil to leave school and begin work at 14",
+        "To replace colleges with private training companies"
+      ],
+      "correct_answer": "To introduce vocational GCSEs and expand work experience so education connects more clearly with careers",
+      "explanation_hebrew": "הרפורמות נועדו להוסיף GCSE מקצועיים ולהרחיב התנסות בעבודה, כדי ליצור חיבור ברור יותר בין הלימודים לקריירה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When are the new vocational GCSEs planned to be introduced in England?",
+      "difficulty": "B",
+      "options": [
+        "2026",
+        "2029",
+        "2032",
+        "2035"
+      ],
+      "correct_answer": "2029",
+      "explanation_hebrew": "לפי הכתבה, המקצועות החדשים מתוכננים להיכנס לבתי הספר באנגליה בשנת 2029."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the phrase “a clear pathway” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "A new walking route between schools and colleges",
+        "A rule that all teenagers must choose the same career",
+        "A structured route from qualifications to further study and work",
+        "A list of buildings that schools must construct"
+      ],
+      "correct_answer": "A structured route from qualifications to further study and work",
+      "explanation_hebrew": "pathway בהקשר זה הוא מסלול מובנה שמאפשר לתלמיד להתקדם מלימודי GCSE להכשרה נוספת ולעבודה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who will set national standards for the new qualifications?",
+      "difficulty": "B",
+      "options": [
+        "Individual schools",
+        "Local employers",
+        "Further education colleges",
+        "Ofqual"
+      ],
+      "correct_answer": "Ofqual",
+      "explanation_hebrew": "הרגולטור Ofqual יקבע את התקנים הארציים כדי שהציונים יהיו תואמים לרמת GCSE אחרים."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When the headteacher says the new courses must be “robust”, what does he mean?",
+      "difficulty": "B",
+      "options": [
+        "They must be rigorous, reliable and properly supported.",
+        "They must use only heavy industrial equipment.",
+        "They must be shorter than existing courses.",
+        "They must avoid all examinations and assessment."
+      ],
+      "correct_answer": "They must be rigorous, reliable and properly supported.",
+      "explanation_hebrew": "robust כאן פירושו תוכניות חזקות ואמינות מבחינה לימודית, עם כוח אדם, מתקנים והערכה מתאימים."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What practical difficulty did several education leaders identify?",
+      "difficulty": "B",
+      "options": [
+        "Students are legally forbidden to take vocational subjects.",
+        "Schools may lack specialist staff, facilities and sufficient resources.",
+        "Employers have already provided too many placements.",
+        "Ofqual has refused to regulate the new qualifications."
+      ],
+      "correct_answer": "Schools may lack specialist staff, facilities and sufficient resources.",
+      "explanation_hebrew": "מנהלים וארגוני חינוך הזהירו שיהיה צורך במורים מומחים, מתקנים מתאימים והשקעה מתמשכת."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two examples of subjects that could become vocational GCSEs.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני מקצועות אפשריים שמופיעים במפורש בכתבה.",
+      "expected_points": [
+        "Building and construction",
+        "Business management and finance",
+        "Child development"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might cooperation between schools and further education colleges help the reforms succeed?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסיק כיצד שיתוף פעולה פותר בעיה מעשית, ולהשתמש בפרטים מן הכתבה.",
+      "expected_points": [
+        "Colleges may already have industry-standard facilities.",
+        "Colleges may have qualified technical and vocational staff.",
+        "Cooperation could make learning genuinely employment-focused while reducing the burden on schools."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the proposed vocational education reforms and the main concerns about implementing them.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך להזכיר את ה־VGCSE, יעד ההתנסות בעבודה, מטרת המסלול המקצועי ולפחות חשש מרכזי אחד.",
+      "expected_points": [
+        "Vocational GCSEs are planned from 2029 alongside core academic subjects.",
+        "Employers are being asked to help create 200,000 work-experience opportunities.",
+        "The reforms aim to create clearer routes into college courses and work.",
+        "Concerns include staffing, facilities, funding and the risk of lowering expectations for some pupils."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, evaluate whether vocational GCSEs could improve education for teenagers.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג עמדה מאוזנת, עם ראיה אחת לפחות ליתרון וראיה אחת לפחות לסיכון או לקושי ביישום.",
+      "expected_points": [
+        "Possible benefits include practical learning, confidence, career relevance and clearer progression routes.",
+        "Possible risks include shortages of specialist teachers, conversion costs and unequal steering of disadvantaged pupils.",
+        "The conclusion should weigh the benefits against the implementation concerns."
+      ]
+    }
+  ]
+}
