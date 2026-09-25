@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-25",
+  "article_id": "A",
+  "article_title": "Catherine Zeta-Jones bases new role on funny Welsh people she knows",
+  "article_url": "https://www.bbc.co.uk/news/articles/cq2e0lr39dv7o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "How Catherine Zeta-Jones used her Welsh background and accent to shape her role in Kill Jackie",
+        "Why Catherine Zeta-Jones has decided to stop acting in television dramas",
+        "How the original Kill Jackie novel was filmed without any changes",
+        "Why Welsh actors are no longer allowed to use regional accents"
+      ],
+      "correct_answer": "How Catherine Zeta-Jones used her Welsh background and accent to shape her role in Kill Jackie",
+      "explanation_hebrew": "הכתבה מתמקדת בכך שזיטה־ג'ונס עיצבה את הדמות בעזרת אנשים שהיא מכירה בוויילס והשתמשה לראשונה במבטא הסוונסי שלה בתפקיד דרמטי."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who is Jackie Price in the new series?",
+      "difficulty": "A",
+      "options": [
+        "A police officer investigating Hollywood actors",
+        "A former cocaine dealer being targeted by hitmen",
+        "A singer preparing for a concert in Swansea",
+        "A football manager working in Wrexham"
+      ],
+      "correct_answer": "A former cocaine dealer being targeted by hitmen",
+      "explanation_hebrew": "בכתבה נאמר שג'קי פרייס היא סוחרת קוקאין לשעבר שרוצחים שכירים מנסים לפגוע בה."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Zeta-Jones mean when she says the adaptation “flipped” the book's central character?",
+      "difficulty": "A",
+      "options": [
+        "The story was changed from a drama into a documentary.",
+        "The character moved from Wales to the United States.",
+        "The male character Jack was changed into a female character for her.",
+        "The ending of the book was shown before the beginning."
+      ],
+      "correct_answer": "The male character Jack was changed into a female character for her.",
+      "explanation_hebrew": "flipped מתאר כאן שינוי מרכזי בעיבוד: הדמות הגברית ג'ק מן הספר הפכה לדמות הנשית ג'קי."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was new for Zeta-Jones about making Kill Jackie?",
+      "difficulty": "A",
+      "options": [
+        "It was her first role as an actor.",
+        "It was her first time working with a creative team.",
+        "It was her first series based on a book.",
+        "It was her first drama filmed in Wales and her first role using her Swansea accent."
+      ],
+      "correct_answer": "It was her first drama filmed in Wales and her first role using her Swansea accent.",
+      "explanation_hebrew": "זהו התפקיד הראשון שבו השתמשה במבטא הסוונסי שלה והדרמה הראשונה שלה שצולמה בוויילס."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When Zeta-Jones says her Welsh choices would “ground” her in the character, what does “ground” mean?",
+      "difficulty": "A",
+      "options": [
+        "Make her performance feel more real and connected to a familiar background",
+        "Prevent her from travelling during filming",
+        "Make the character less important to the story",
+        "Force her to speak without any accent"
+      ],
+      "correct_answer": "Make her performance feel more real and connected to a familiar background",
+      "explanation_hebrew": "ground פירושו לעגן את המשחק במשהו מוכר ואמיתי, וכך להוסיף לדמות אמינות וגוונים שהיא מכירה מחייה."
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Tom Jones become part of one scene in the series?",
+      "difficulty": "A",
+      "options": [
+        "He appears as Jackie's brother.",
+        "His song accompanies a security system hidden behind prints of him.",
+        "He directed the scene in Swansea.",
+        "He plays one of the hitmen chasing Jackie."
+      ],
+      "correct_answer": "His song accompanies a security system hidden behind prints of him.",
+      "explanation_hebrew": "זיטה־ג'ונס הציעה להשתמש בשיר של טום ג'ונס ובתמונות בסגנון אנדי וורהול שמאחוריהן מסתתרת מערכת אבטחה עם כלי נשק."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons Zeta-Jones wanted Jackie Price to be Welsh.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי סיבות מפורשות או משתמעות מן הכתבה ולנסח אותן בקצרה.",
+      "expected_points": [
+        "She had never played a role using her real Swansea accent.",
+        "She had never filmed a drama in Wales.",
+        "Her Welsh background helped ground the character and add nuances she understood.",
+        "She drew inspiration from funny, real and tough people she knows in Wales."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did fans respond strongly to Zeta-Jones using her Welsh accent?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסיק מדוע הבחירה במבטא הייתה משמעותית למעריצים ולבסס את התשובה בפרט מן הכתבה.",
+      "expected_points": [
+        "Fans rarely hear her use her own Welsh accent in a dramatic role.",
+        "The accent highlighted her continuing connection and pride in Wales.",
+        "Comments described excitement at hearing her sound Welsh, and she said their reaction made her happy."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how Zeta-Jones changed and personalised the character of Jackie Price.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך להזכיר את השינוי מן הספר, המבטא הוולשי, מקור ההשראה ולפחות תרומה יצירתית אחת שלה.",
+      "expected_points": [
+        "The book's male American character Jack was adapted into the female Jackie Price.",
+        "Zeta-Jones chose to make Jackie Welsh and use her Swansea accent.",
+        "She based aspects of the performance on comedic and tough people she knows in Wales.",
+        "As executive producer, she also contributed ideas such as the Tom Jones security-system scene."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, explain how an actor's personal background can make a fictional character feel more authentic.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג טענה ברורה, להשתמש בשתי ראיות לפחות מן הכתבה ולהסביר כיצד הן מוסיפות אמינות לדמות.",
+      "expected_points": [
+        "Her Swansea accent made the character sound real and connected to a specific place.",
+        "People she knows in Wales inspired both the humour and toughness of Jackie.",
+        "Her knowledge of Welsh culture helped her add details and nuances to the performance."
+      ]
+    }
+  ]
+}

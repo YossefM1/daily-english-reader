@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-25",
+  "article_id": "C",
+  "article_title": "X-planes: Are they needed in the new era of drones?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central issue does the article examine?",
+      "difficulty": "C",
+      "options": [
+        "Whether experimental crewed aircraft still have value when drones and computer modelling are increasingly capable",
+        "Whether Concorde should immediately return to commercial service",
+        "Why Nasa has stopped testing aircraft in flight",
+        "How Ukraine became the first country to build an X-plane"
+      ],
+      "correct_answer": "Whether experimental crewed aircraft still have value when drones and computer modelling are increasingly capable",
+      "explanation_hebrew": "הכתבה בוחנת האם עדיין יש צורך במטוסי ניסוי מאוישים לצד רחפנים, סימולטורים ומודלים ממוחשבים, ומציגה טיעונים בעד שתי הגישות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the X-59 designed primarily to demonstrate?",
+      "difficulty": "C",
+      "options": [
+        "A new method for launching spacecraft from bombers",
+        "That an elongated shape can reduce a sonic boom to a more acceptable sound",
+        "That passenger aircraft can fly without landing gear",
+        "A fully autonomous fighter controlled only from the ground"
+      ],
+      "correct_answer": "That an elongated shape can reduce a sonic boom to a more acceptable sound",
+      "explanation_hebrew": "המטרה המצומצמת של X-59 היא להחליש את הבום העל־קולי באמצעות חרטום מוארך ולהפוך אותו לרעש נסבל יותר."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the article mean when it says the X-59 has a remarkable “lineage”?",
+      "difficulty": "C",
+      "options": [
+        "It was built entirely from one older aircraft.",
+        "Its pilots all belong to the same family.",
+        "It belongs to a long historical sequence of experimental X-planes.",
+        "It can trace its flight path without satellite navigation."
+      ],
+      "correct_answer": "It belongs to a long historical sequence of experimental X-planes.",
+      "explanation_hebrew": "lineage פירושו שושלת או רצף היסטורי; X-59 מוצג כהמשך למסורת מטוסי הניסוי שהחלה ב־X-1 בשנת 1947."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Nasa decide that an uncrewed X-59 would not necessarily be cheaper?",
+      "difficulty": "C",
+      "options": [
+        "Drones are unable to travel faster than sound.",
+        "The aircraft was too small to hold remote-control equipment.",
+        "Nasa had no experience with uncrewed X-planes.",
+        "Certifying a fast robot aircraft over urban areas would add cost and complexity."
+      ],
+      "correct_answer": "Certifying a fast robot aircraft over urban areas would add cost and complexity.",
+      "explanation_hebrew": "הסרת הטייס הייתה מחייבת אישור מורכב ויקר למטוס רובוטי מהיר שטס מעל אזורים עירוניים, ולכן לא הבטיחה חיסכון."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what is a technology “testbed”?",
+      "difficulty": "C",
+      "options": [
+        "A platform used to try and evaluate new systems or designs in realistic conditions",
+        "A bedroom reserved for test pilots between flights",
+        "A computer model that can never be flown",
+        "A factory that produces aircraft for regular passenger service"
+      ],
+      "correct_answer": "A platform used to try and evaluate new systems or designs in realistic conditions",
+      "explanation_hebrew": "testbed הוא פלטפורמת ניסוי המשמשת לבדיקת טכנולוגיות ומערכות בפועל לפני שילובן בכלי מבצעי או מסחרי."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Guy Gratton argue that removing pilots can reduce the quality of flight testing?",
+      "difficulty": "C",
+      "options": [
+        "Pilots always make aircraft cheaper to manufacture.",
+        "Human pilots can notice lessons and behaviour that ground teams may miss.",
+        "Ground crews are legally forbidden to monitor drones.",
+        "Crewed aircraft never require certification."
+      ],
+      "correct_answer": "Human pilots can notice lessons and behaviour that ground teams may miss.",
+      "explanation_hebrew": "גרטון טוען שטייס בתוך המטוס מספק משוב ישיר ומזהה תופעות שעלולות ללכת לאיבוד כאשר המידע מגיע בעקיפין לצוותי קרקע."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two examples from the article of how earlier experimental aircraft advanced aviation.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שני מטוסי ניסוי או תוכניות ולתאר בקצרה את ההישג או התרומה של כל אחד.",
+      "expected_points": [
+        "The Bell X-1 became the first aircraft to break the sound barrier in 1947.",
+        "The X-15 reached Mach 6.7 and helped develop heat-resistant materials used for the Space Shuttle.",
+        "The X-48 tested a blended wing-and-fuselage lifting-body concept.",
+        "The UK's EAP tested core systems that later contributed to the Typhoon fighter."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the article suggest future X-planes will probably be uncrewed only in some cases?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את תנאי ההחלטה ולשלב לפחות שיקול אחד לטובת כלי בלתי מאויש ושיקול אחד לטובת טייס.",
+      "expected_points": [
+        "Uncrewed aircraft may be suitable when the research does not concern piloting and when they reduce cost or risk.",
+        "A crew may be preferable when pilot feedback is part of the technology being studied.",
+        "Certification and large ground teams can make drones more expensive or complicated than expected.",
+        "Aircraft intended to carry people may require lessons that are best captured with a human in the loop."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the X-plane approach and explain how the X-59 illustrates it.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך להסביר את עקרון המטרה המצומצמת, את בעיית הבום העל־קולי, את תכנון X-59 ואת דרך איסוף הראיות.",
+      "expected_points": [
+        "X-planes are built around a small number of focused questions to control cost.",
+        "The X-59 tests whether its long nose can turn sonic booms into acceptable background sounds.",
+        "It reuses components from several existing aircraft while serving one main research goal.",
+        "Nasa combines flight data with community surveys over selected US towns."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, evaluate whether crewed experimental aircraft remain necessary in modern aerospace research.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג עמדה מאוזנת, להשתמש בלפחות שתי ראיות מן הכתבה, להתייחס ליתרונות כלי טיס בלתי מאוישים ולסיים במסקנה מנומקת.",
+      "expected_points": [
+        "Drones can reduce scale, risk or cost, as illustrated by the small X-48.",
+        "However, autonomous certification and large ground teams can create hidden costs.",
+        "Pilots can identify behaviour and practical lessons that indirect monitoring or simulation may miss.",
+        "The best choice depends on whether the research concerns piloting, human transport and cost-effectiveness."
+      ]
+    }
+  ]
+}

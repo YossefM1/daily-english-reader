@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-25",
+  "article_id": "B",
+  "article_title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
+  "article_url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Why more young people are choosing strength-based, social exercise while cardio remains important",
+        "Why all UK gyms are removing treadmills and exercise bikes",
+        "Why strength training has been proven to replace every other form of exercise",
+        "Why young people are spending less money on health and fitness"
+      ],
+      "correct_answer": "Why more young people are choosing strength-based, social exercise while cardio remains important",
+      "explanation_hebrew": "הכתבה מתארת את העלייה באימוני כוח ובפעילות חברתית בקרב צעירים, אך גם מדגישה שריצה ואירובי עדיין נפוצים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Will Seward's workouts change over time?",
+      "difficulty": "B",
+      "options": [
+        "He stopped exercising when he left secondary school.",
+        "He moved from running machines and bikes toward more explosive weight training.",
+        "He replaced gym workouts with only long-distance swimming.",
+        "He began training once a month instead of three times a week."
+      ],
+      "correct_answer": "He moved from running machines and bikes toward more explosive weight training.",
+      "explanation_hebrew": "ויל התחיל בעיקר במכשירי ריצה ואופניים, ובהמשך עבר לאימוני משקולות מתפרצים כדי לפתח כוח ואתלטיות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the question “Do numbers bear that out?” mean?",
+      "difficulty": "B",
+      "options": [
+        "Can gym members lift those exact weights?",
+        "Are exercise costs written correctly?",
+        "Do the available statistics support that claim?",
+        "Do young people understand mathematical data?"
+      ],
+      "correct_answer": "Do the available statistics support that claim?",
+      "explanation_hebrew": "bear that out פירושו לאשש או לתמוך בטענה. הכתבה שואלת האם הנתונים מאשרים את הרושם שיש יותר אימוני כוח."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which benefit is linked in the article to doing the recommended strength training each week?",
+      "difficulty": "B",
+      "options": [
+        "It guarantees professional athletic success.",
+        "It removes the need for any aerobic activity.",
+        "It prevents every case of osteoporosis.",
+        "It may lower cardiovascular risk while protecting the brain and boosting self-esteem."
+      ],
+      "correct_answer": "It may lower cardiovascular risk while protecting the brain and boosting self-esteem.",
+      "explanation_hebrew": "המחקר המתואר קושר כשעתיים של אימוני כוח להפחתת הסיכון למוות ממחלות לב או שבץ, להגנת המוח ולשיפור ההערכה העצמית."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Dr Al-Zubaidi mean by an “enormous ecosystem” for active people?",
+      "difficulty": "B",
+      "options": [
+        "A wide network of gyms, clubs, apps, social media and wearable technology",
+        "A protected natural area used for outdoor exercise",
+        "A single government programme controlling all fitness activities",
+        "A medical system available only to professional athletes"
+      ],
+      "correct_answer": "A wide network of gyms, clubs, apps, social media and wearable technology",
+      "explanation_hebrew": "ecosystem משמש כאן באופן מטפורי לרשת רחבה של שירותים, קהילות וטכנולוגיות שמקיפות ותומכות באנשים פעילים."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does Cordelia Sheridan describe her gym membership as an “essential utility bill”?",
+      "difficulty": "B",
+      "options": [
+        "Her employer legally requires her to pay for a gym.",
+        "She treats the £45 monthly cost as a priority because exercise is central to her routine.",
+        "The gym provides electricity to her home.",
+        "She receives free meals whenever she pays the bill."
+      ],
+      "correct_answer": "She treats the £45 monthly cost as a priority because exercise is central to her routine.",
+      "explanation_hebrew": "קורדליה רואה בדמי המנוי הוצאה חיונית וקבועה, בדומה לחשבון שירות, מפני שהאימון חשוב מאוד בשגרת חייה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons mentioned in the article for the growing appeal of strength training.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתי סיבות שונות שמופיעות בכתבה ולתמוך בכל אחת בפרט רלוונטי.",
+      "expected_points": [
+        "It can improve body composition and shape relatively quickly.",
+        "People value becoming stronger, healthier and more athletic.",
+        "Strength training may provide health benefits for bones, the heart, brain and self-esteem.",
+        "Social media influencers make the activity visible and achievable.",
+        "Hybrid and group-based workouts are sociable, competitive and enjoyable."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might social connection be especially important in current exercise habits?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסיק מן הכתבה כיצד שינויים בחיי העבודה והקהילה הופכים פעילות חברתית למושכת, ולהביא פרט תומך.",
+      "expected_points": [
+        "Working from home can reduce everyday contact, especially for young adults.",
+        "Nearby gyms, running clubs and community activities provide connection and routine.",
+        "People may keep exercising because an activity is enjoyable and sociable, not only because it prevents disease."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how exercise habits among younger adults are changing, according to the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את העלייה באימוני כוח, את תפקיד החברה או הרשתות, את מקומה המתמשך של הריצה ופרט אחד על עלויות או סדרי עדיפויות.",
+      "expected_points": [
+        "More young adults are using gyms, machines and weights than nine years ago.",
+        "Strength and hybrid training appeal because of visible progress, health benefits and social connection.",
+        "Running remains highly popular, especially through organised events such as parkrun.",
+        "Many young adults treat fitness spending as a high priority despite tight budgets."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, evaluate whether social enjoyment or health benefits are the stronger reason young people exercise.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לבחור עמדה או להציג איזון, להשתמש בלפחות שתי ראיות מן הכתבה ולהסביר כיצד הן תומכות במסקנה.",
+      "expected_points": [
+        "Health evidence may include stronger bodies, improved mood, lower cardiovascular risk and bone protection.",
+        "Social evidence may include hybrid training, running clubs, parkrun and the attraction of enjoyable group activities.",
+        "A strong response should acknowledge that both motives can reinforce each other."
+      ]
+    }
+  ]
+}
