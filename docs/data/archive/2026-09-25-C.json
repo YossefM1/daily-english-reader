@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-25",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "X-planes: Are they needed in the new era of drones?",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo",
+  "published_at": "2026-09-24T23:03:53+00:00",
+  "age_hours_at_selection": 3.15,
+  "word_count": 1046,
+  "generated_at": "2026-09-25T02:12:51.300019+00:00",
+  "difficulty_reason": "A dense analytical technology piece with long sentences, technical aviation terms and expert quotes; more B2/C1/C2 vocabulary and some background knowledge of aircraft.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "cannibalised",
+      "lemma": "cannibalise",
+      "level": "C2",
+      "hebrew": "פֹּרַק לצורך חלקים",
+      "explanation_hebrew": "לפרק מכשיר כדי להשתמש בחלקים שלו במקום אחר.",
+      "pronunciation_hebrew": "קַנִיבַּלַייזְד",
+      "example": "Old machines were cannibalised for spare parts."
+    },
+    {
+      "word": "cockpit",
+      "lemma": "cockpit",
+      "level": "B2",
+      "hebrew": "תָּא טַיָּס",
+      "explanation_hebrew": "החלק שבו יושב הטייס ושולט במטוס.",
+      "pronunciation_hebrew": "קוֹקְפִּיט",
+      "example": "The pilot sat in the cockpit."
+    },
+    {
+      "word": "contraption",
+      "lemma": "contraption",
+      "level": "C1",
+      "hebrew": "מִתְקָן מוּזָר, הַמְצָאָה מְשֻׁנָּה",
+      "explanation_hebrew": "מכשיר מוזר ומורכב, לרוב מאולתר.",
+      "pronunciation_hebrew": "קוֹנְטְרַפְּשְׁן",
+      "example": "He built a strange contraption out of wood."
+    },
+    {
+      "word": "eccentric",
+      "lemma": "eccentric",
+      "level": "C1",
+      "hebrew": "תִּמְהוֹנִי, מְשֻׁנֶּה",
+      "explanation_hebrew": "יוצא דופן ומוזר בהתנהגות או בעיצוב.",
+      "pronunciation_hebrew": "אֶקְסֶנְטְרִיק",
+      "example": "The inventor had an eccentric personality."
+    },
+    {
+      "word": "shockwave",
+      "lemma": "shockwave",
+      "level": "C1",
+      "hebrew": "גַּל הֶלֶם",
+      "explanation_hebrew": "גל אנרגיה חזק שנוצר מפיצוץ או מהירות.",
+      "pronunciation_hebrew": "שׁוֹקְוֵייב",
+      "example": "The explosion sent out a powerful shockwave."
+    },
+    {
+      "word": "restricted",
+      "lemma": "restrict",
+      "level": "B2",
+      "hebrew": "הִגְבִּיל, מֻגְבָּל",
+      "explanation_hebrew": "להגביל או למנוע גישה או תנועה.",
+      "pronunciation_hebrew": "רִיסְטְרִיקְטֶד",
+      "example": "Access to the area is restricted."
+    },
+    {
+      "word": "lucrative",
+      "lemma": "lucrative",
+      "level": "C1",
+      "hebrew": "רְוָוחִי, מַכְנִיס",
+      "explanation_hebrew": "שמכניס הרבה כסף ורווח.",
+      "pronunciation_hebrew": "לוּקְרָטִיב",
+      "example": "He signed a lucrative business deal."
+    },
+    {
+      "word": "elongated",
+      "lemma": "elongate",
+      "level": "C1",
+      "hebrew": "מוּאָרָךְ",
+      "explanation_hebrew": "ארוך וצר יותר מהרגיל.",
+      "pronunciation_hebrew": "אִילוֹנְגֵייטֶד",
+      "example": "The building has an elongated shape."
+    },
+    {
+      "word": "supersonic",
+      "lemma": "supersonic",
+      "level": "C1",
+      "hebrew": "עַל-קוֹלִי",
+      "explanation_hebrew": "מהיר יותר ממהירות הקול.",
+      "pronunciation_hebrew": "סוּפֶּרְסוֹנִיק",
+      "example": "The jet flies at supersonic speed."
+    },
+    {
+      "word": "tolerable",
+      "lemma": "tolerable",
+      "level": "B2",
+      "hebrew": "נִסְבָּל",
+      "explanation_hebrew": "דבר שאפשר לסבול או לשאת אותו.",
+      "pronunciation_hebrew": "טוֹלֶרֶבְּל",
+      "example": "The pain was uncomfortable but tolerable."
+    },
+    {
+      "word": "bizarre",
+      "lemma": "bizarre",
+      "level": "C1",
+      "hebrew": "מוּזָר מְאוֹד, תָּמוּהַּ",
+      "explanation_hebrew": "מוזר ולא רגיל בצורה בולטת.",
+      "pronunciation_hebrew": "בִּיזַאר",
+      "example": "They told a bizarre story about a ghost."
+    },
+    {
+      "word": "boasts",
+      "lemma": "boast",
+      "level": "B2",
+      "hebrew": "מִתְהַדֵּר בְּ, נֶהֱנֶה מ",
+      "explanation_hebrew": "מתגאה בכך שיש לו תכונה טובה.",
+      "pronunciation_hebrew": "בּוֹוסְטְס",
+      "example": "The hotel boasts a beautiful garden."
+    },
+    {
+      "word": "lineage",
+      "lemma": "lineage",
+      "level": "C1",
+      "hebrew": "שׁוֹשֶׁלֶת, יִחוּס",
+      "explanation_hebrew": "שרשרת של דורות או מוצא משפחתי.",
+      "pronunciation_hebrew": "לִינִיאֵג'",
+      "example": "The family has a long royal lineage."
+    },
+    {
+      "word": "veteran",
+      "lemma": "veteran",
+      "level": "B2",
+      "hebrew": "וָתִיק, בַּעַל וֶתֶק רב",
+      "explanation_hebrew": "אדם עם ניסיון רב בתחום מסוים.",
+      "pronunciation_hebrew": "וֶטֶרָן",
+      "example": "She is a veteran teacher with thirty years of experience."
+    },
+    {
+      "word": "suppressing",
+      "lemma": "suppress",
+      "level": "C1",
+      "hebrew": "דִּכּוּי, הַחְלָשָׁה",
+      "explanation_hebrew": "לעצור, להחליש או למנוע משהו.",
+      "pronunciation_hebrew": "סַפְּרֶסִינְג",
+      "example": "The device works by suppressing loud noise."
+    },
+    {
+      "word": "calibre",
+      "lemma": "calibre",
+      "level": "C1",
+      "hebrew": "קוֹטֶר (של כדור/קנה)",
+      "explanation_hebrew": "המידה של קוטר כדור או קנה נשק.",
+      "pronunciation_hebrew": "קַלִיבֶּר",
+      "example": "The rifle uses a small calibre bullet."
+    },
+    {
+      "word": "legendary",
+      "lemma": "legendary",
+      "level": "B2",
+      "hebrew": "אַגָּדִי, מְפֻרְסָם מְאוֹד",
+      "explanation_hebrew": "מפורסם מאוד ומוערך, כמעט מיתולוגי.",
+      "pronunciation_hebrew": "לֶגֶ'נְדֶרִי",
+      "example": "He was a legendary football player."
+    },
+    {
+      "word": "conjunction",
+      "lemma": "conjunction",
+      "level": "C1",
+      "hebrew": "שִׁלּוּב, צֵרוּף",
+      "explanation_hebrew": "חיבור של שני דברים יחד.",
+      "pronunciation_hebrew": "קוֹנְגַ'נְקְשְׁן",
+      "example": "The test is done in conjunction with a survey."
+    },
+    {
+      "word": "instantaneous",
+      "lemma": "instantaneous",
+      "level": "C1",
+      "hebrew": "מִיָּדִי",
+      "explanation_hebrew": "קורה מיד, ללא כל השהיה.",
+      "pronunciation_hebrew": "אִינְסְטַנְטֵנְיוּס",
+      "example": "The response was almost instantaneous."
+    },
+    {
+      "word": "certifying",
+      "lemma": "certify",
+      "level": "C1",
+      "hebrew": "הַסְמָכָה, מַתַּן אִישּׁוּר רשמי",
+      "explanation_hebrew": "לאשר באופן רשמי שמשהו עומד בתקן.",
+      "pronunciation_hebrew": "סֶרְטִיפַייִנְג",
+      "example": "Certifying a new aircraft takes years."
+    },
+    {
+      "word": "resemble",
+      "lemma": "resemble",
+      "level": "B2",
+      "hebrew": "לִדְמוֹת ל",
+      "explanation_hebrew": "להיות דומה למשהו אחר.",
+      "pronunciation_hebrew": "רִיזֶמְבְּל",
+      "example": "The model was built to resemble a real plane."
+    },
+    {
+      "word": "caveats",
+      "lemma": "caveat",
+      "level": "C1",
+      "hebrew": "הִסְתַּיְּגֻיּוֹת, אַזְהָרוֹת",
+      "explanation_hebrew": "תנאים או הסתייגויות שמוסיפים לאמירה.",
+      "pronunciation_hebrew": "קַוֵיאַטְס",
+      "example": "He agreed, but added a few caveats."
+    },
+    {
+      "word": "facet",
+      "lemma": "facet",
+      "level": "C1",
+      "hebrew": "הֶיבֵּט, פָּן",
+      "explanation_hebrew": "צד או היבט מסוים של דבר מורכב.",
+      "pronunciation_hebrew": "פַאסֶט",
+      "example": "Each facet of the plan was carefully checked."
+    },
+    {
+      "word": "demonstrator",
+      "lemma": "demonstrator",
+      "level": "C1",
+      "hebrew": "דֶּגֶם הַדְגָּמָה",
+      "explanation_hebrew": "דגם ניסיוני שנבנה כדי להוכיח רעיון.",
+      "pronunciation_hebrew": "דֶמוֹנְסְטְרֵייטֶר",
+      "example": "The company built a technology demonstrator to test new ideas."
+    },
+    {
+      "word": "underlines",
+      "lemma": "underline",
+      "level": "C1",
+      "hebrew": "מַדְגִּישׁ, מַבְלִיט",
+      "explanation_hebrew": "מדגיש או מחזק נקודה מסוימת.",
+      "pronunciation_hebrew": "אַנְדֶרְלַיינְס",
+      "example": "This success underlines the team's hard work."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "cannibalised",
+      "type": "english_to_hebrew",
+      "question": "What does “cannibalised” mean?",
+      "options": [
+        "פֹּרַק לצורך חלקים",
+        "תָּא טַיָּס",
+        "תִּמְהוֹנִי, מְשֻׁנֶּה",
+        "מִתְקָן מוּזָר, הַמְצָאָה מְשֻׁנָּה"
+      ],
+      "correct_answer": "פֹּרַק לצורך חלקים",
+      "explanation_hebrew": "“cannibalised” פירושו פֹּרַק לצורך חלקים."
+    },
+    {
+      "id": "C-q2",
+      "word": "cockpit",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “תָּא טַיָּס”?",
+      "options": [
+        "cockpit",
+        "eccentric",
+        "shockwave",
+        "contraption"
+      ],
+      "correct_answer": "cockpit",
+      "explanation_hebrew": "המילה “cockpit” פירושה תָּא טַיָּס."
+    },
+    {
+      "id": "C-q3",
+      "word": "contraption",
+      "type": "english_to_hebrew",
+      "question": "What does “contraption” mean?",
+      "options": [
+        "גַּל הֶלֶם",
+        "תִּמְהוֹנִי, מְשֻׁנֶּה",
+        "הִגְבִּיל, מֻגְבָּל",
+        "מִתְקָן מוּזָר, הַמְצָאָה מְשֻׁנָּה"
+      ],
+      "correct_answer": "מִתְקָן מוּזָר, הַמְצָאָה מְשֻׁנָּה",
+      "explanation_hebrew": "“contraption” פירושו מִתְקָן מוּזָר, הַמְצָאָה מְשֻׁנָּה."
+    },
+    {
+      "id": "C-q4",
+      "word": "eccentric",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “תִּמְהוֹנִי, מְשֻׁנֶּה”?",
+      "options": [
+        "lucrative",
+        "eccentric",
+        "restricted",
+        "shockwave"
+      ],
+      "correct_answer": "eccentric",
+      "explanation_hebrew": "המילה “eccentric” פירושה תִּמְהוֹנִי, מְשֻׁנֶּה."
+    },
+    {
+      "id": "C-q5",
+      "word": "shockwave",
+      "type": "english_to_hebrew",
+      "question": "What does “shockwave” mean?",
+      "options": [
+        "הִגְבִּיל, מֻגְבָּל",
+        "רְוָוחִי, מַכְנִיס",
+        "גַּל הֶלֶם",
+        "מוּאָרָךְ"
+      ],
+      "correct_answer": "גַּל הֶלֶם",
+      "explanation_hebrew": "“shockwave” פירושו גַּל הֶלֶם."
+    },
+    {
+      "id": "C-q6",
+      "word": "restricted",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “הִגְבִּיל, מֻגְבָּל”?",
+      "options": [
+        "restricted",
+        "lucrative",
+        "elongated",
+        "supersonic"
+      ],
+      "correct_answer": "restricted",
+      "explanation_hebrew": "המילה “restricted” פירושה הִגְבִּיל, מֻגְבָּל."
+    },
+    {
+      "id": "C-q7",
+      "word": "lucrative",
+      "type": "english_to_hebrew",
+      "question": "What does “lucrative” mean?",
+      "options": [
+        "מוּאָרָךְ",
+        "עַל-קוֹלִי",
+        "רְוָוחִי, מַכְנִיס",
+        "נִסְבָּל"
+      ],
+      "correct_answer": "רְוָוחִי, מַכְנִיס",
+      "explanation_hebrew": "“lucrative” פירושו רְוָוחִי, מַכְנִיס."
+    },
+    {
+      "id": "C-q8",
+      "word": "elongated",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “מוּאָרָךְ”?",
+      "options": [
+        "elongated",
+        "tolerable",
+        "supersonic",
+        "bizarre"
+      ],
+      "correct_answer": "elongated",
+      "explanation_hebrew": "המילה “elongated” פירושה מוּאָרָךְ."
+    },
+    {
+      "id": "C-q9",
+      "word": "supersonic",
+      "type": "english_to_hebrew",
+      "question": "What does “supersonic” mean?",
+      "options": [
+        "נִסְבָּל",
+        "מִתְהַדֵּר בְּ, נֶהֱנֶה מ",
+        "עַל-קוֹלִי",
+        "מוּזָר מְאוֹד, תָּמוּהַּ"
+      ],
+      "correct_answer": "עַל-קוֹלִי",
+      "explanation_hebrew": "“supersonic” פירושו עַל-קוֹלִי."
+    },
+    {
+      "id": "C-q10",
+      "word": "tolerable",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “נִסְבָּל”?",
+      "options": [
+        "boasts",
+        "tolerable",
+        "bizarre",
+        "lineage"
+      ],
+      "correct_answer": "tolerable",
+      "explanation_hebrew": "המילה “tolerable” פירושה נִסְבָּל."
+    },
+    {
+      "id": "C-q11",
+      "word": "bizarre",
+      "type": "english_to_hebrew",
+      "question": "What does “bizarre” mean?",
+      "options": [
+        "שׁוֹשֶׁלֶת, יִחוּס",
+        "מוּזָר מְאוֹד, תָּמוּהַּ",
+        "וָתִיק, בַּעַל וֶתֶק רב",
+        "מִתְהַדֵּר בְּ, נֶהֱנֶה מ"
+      ],
+      "correct_answer": "מוּזָר מְאוֹד, תָּמוּהַּ",
+      "explanation_hebrew": "“bizarre” פירושו מוּזָר מְאוֹד, תָּמוּהַּ."
+    },
+    {
+      "id": "C-q12",
+      "word": "boasts",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “מִתְהַדֵּר בְּ, נֶהֱנֶה מ”?",
+      "options": [
+        "veteran",
+        "lineage",
+        "boasts",
+        "suppressing"
+      ],
+      "correct_answer": "boasts",
+      "explanation_hebrew": "המילה “boasts” פירושה מִתְהַדֵּר בְּ, נֶהֱנֶה מ."
+    },
+    {
+      "id": "C-q13",
+      "word": "lineage",
+      "type": "english_to_hebrew",
+      "question": "What does “lineage” mean?",
+      "options": [
+        "דִּכּוּי, הַחְלָשָׁה",
+        "קוֹטֶר (של כדור/קנה)",
+        "שׁוֹשֶׁלֶת, יִחוּס",
+        "וָתִיק, בַּעַל וֶתֶק רב"
+      ],
+      "correct_answer": "שׁוֹשֶׁלֶת, יִחוּס",
+      "explanation_hebrew": "“lineage” פירושו שׁוֹשֶׁלֶת, יִחוּס."
+    },
+    {
+      "id": "C-q14",
+      "word": "veteran",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “וָתִיק, בַּעַל וֶתֶק רב”?",
+      "options": [
+        "legendary",
+        "suppressing",
+        "calibre",
+        "veteran"
+      ],
+      "correct_answer": "veteran",
+      "explanation_hebrew": "המילה “veteran” פירושה וָתִיק, בַּעַל וֶתֶק רב."
+    },
+    {
+      "id": "C-q15",
+      "word": "suppressing",
+      "type": "english_to_hebrew",
+      "question": "What does “suppressing” mean?",
+      "options": [
+        "שִׁלּוּב, צֵרוּף",
+        "אַגָּדִי, מְפֻרְסָם מְאוֹד",
+        "דִּכּוּי, הַחְלָשָׁה",
+        "קוֹטֶר (של כדור/קנה)"
+      ],
+      "correct_answer": "דִּכּוּי, הַחְלָשָׁה",
+      "explanation_hebrew": "“suppressing” פירושו דִּכּוּי, הַחְלָשָׁה."
+    },
+    {
+      "id": "C-q16",
+      "word": "calibre",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “קוֹטֶר (של כדור/קנה)”?",
+      "options": [
+        "legendary",
+        "calibre",
+        "instantaneous",
+        "conjunction"
+      ],
+      "correct_answer": "calibre",
+      "explanation_hebrew": "המילה “calibre” פירושה קוֹטֶר (של כדור/קנה)."
+    },
+    {
+      "id": "C-q17",
+      "word": "legendary",
+      "type": "english_to_hebrew",
+      "question": "What does “legendary” mean?",
+      "options": [
+        "שִׁלּוּב, צֵרוּף",
+        "אַגָּדִי, מְפֻרְסָם מְאוֹד",
+        "הַסְמָכָה, מַתַּן אִישּׁוּר רשמי",
+        "מִיָּדִי"
+      ],
+      "correct_answer": "אַגָּדִי, מְפֻרְסָם מְאוֹד",
+      "explanation_hebrew": "“legendary” פירושו אַגָּדִי, מְפֻרְסָם מְאוֹד."
+    },
+    {
+      "id": "C-q18",
+      "word": "conjunction",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “שִׁלּוּב, צֵרוּף”?",
+      "options": [
+        "resemble",
+        "certifying",
+        "instantaneous",
+        "conjunction"
+      ],
+      "correct_answer": "conjunction",
+      "explanation_hebrew": "המילה “conjunction” פירושה שִׁלּוּב, צֵרוּף."
+    },
+    {
+      "id": "C-q19",
+      "word": "instantaneous",
+      "type": "english_to_hebrew",
+      "question": "What does “instantaneous” mean?",
+      "options": [
+        "מִיָּדִי",
+        "הַסְמָכָה, מַתַּן אִישּׁוּר רשמי",
+        "הִסְתַּיְּגֻיּוֹת, אַזְהָרוֹת",
+        "לִדְמוֹת ל"
+      ],
+      "correct_answer": "מִיָּדִי",
+      "explanation_hebrew": "“instantaneous” פירושו מִיָּדִי."
+    },
+    {
+      "id": "C-q20",
+      "word": "certifying",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “הַסְמָכָה, מַתַּן אִישּׁוּר רשמי”?",
+      "options": [
+        "caveats",
+        "certifying",
+        "facet",
+        "resemble"
+      ],
+      "correct_answer": "certifying",
+      "explanation_hebrew": "המילה “certifying” פירושה הַסְמָכָה, מַתַּן אִישּׁוּר רשמי."
+    },
+    {
+      "id": "C-q21",
+      "word": "resemble",
+      "type": "english_to_hebrew",
+      "question": "What does “resemble” mean?",
+      "options": [
+        "הֶיבֵּט, פָּן",
+        "הִסְתַּיְּגֻיּוֹת, אַזְהָרוֹת",
+        "לִדְמוֹת ל",
+        "דֶּגֶם הַדְגָּמָה"
+      ],
+      "correct_answer": "לִדְמוֹת ל",
+      "explanation_hebrew": "“resemble” פירושו לִדְמוֹת ל."
+    },
+    {
+      "id": "C-q22",
+      "word": "caveats",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “הִסְתַּיְּגֻיּוֹת, אַזְהָרוֹת”?",
+      "options": [
+        "underlines",
+        "demonstrator",
+        "facet",
+        "caveats"
+      ],
+      "correct_answer": "caveats",
+      "explanation_hebrew": "המילה “caveats” פירושה הִסְתַּיְּגֻיּוֹת, אַזְהָרוֹת."
+    },
+    {
+      "id": "C-q23",
+      "word": "facet",
+      "type": "english_to_hebrew",
+      "question": "What does “facet” mean?",
+      "options": [
+        "דֶּגֶם הַדְגָּמָה",
+        "פֹּרַק לצורך חלקים",
+        "הֶיבֵּט, פָּן",
+        "מַדְגִּישׁ, מַבְלִיט"
+      ],
+      "correct_answer": "הֶיבֵּט, פָּן",
+      "explanation_hebrew": "“facet” פירושו הֶיבֵּט, פָּן."
+    },
+    {
+      "id": "C-q24",
+      "word": "demonstrator",
+      "type": "hebrew_to_english",
+      "question": "‏איזו מילה באנגלית פירושה “דֶּגֶם הַדְגָּמָה”?",
+      "options": [
+        "demonstrator",
+        "cannibalised",
+        "cockpit",
+        "underlines"
+      ],
+      "correct_answer": "demonstrator",
+      "explanation_hebrew": "המילה “demonstrator” פירושה דֶּגֶם הַדְגָּמָה."
+    },
+    {
+      "id": "C-q25",
+      "word": "underlines",
+      "type": "english_to_hebrew",
+      "question": "What does “underlines” mean?",
+      "options": [
+        "מִתְקָן מוּזָר, הַמְצָאָה מְשֻׁנָּה",
+        "מַדְגִּישׁ, מַבְלִיט",
+        "פֹּרַק לצורך חלקים",
+        "תָּא טַיָּס"
+      ],
+      "correct_answer": "מַדְגִּישׁ, מַבְלִיט",
+      "explanation_hebrew": "“underlines” פירושו מַדְגִּישׁ, מַבְלִיט."
+    }
+  ]
+}
