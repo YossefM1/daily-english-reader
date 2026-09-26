@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-26",
+  "article_id": "A",
+  "article_title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Two men were arrested after leaving New York sewers, amid several similar incidents and safety concerns.",
+        "New York plans to turn its sewer system into a public tourist route.",
+        "Police proved that a political attack had been planned near the United Nations.",
+        "The city is replacing every manhole after a major engineering failure."
+      ],
+      "correct_answer": "Two men were arrested after leaving New York sewers, amid several similar incidents and safety concerns.",
+      "explanation_hebrew": "הכתבה מתמקדת במעצר שני גברים שיצאו ממערכת הביוב, באירועים דומים ובאזהרות מפני הסכנה שבכניסה לביוב."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did the NYPD carry out additional security sweeps?",
+      "difficulty": "A",
+      "options": [
+        "A storm had flooded every street in Manhattan.",
+        "The incident happened near a sensitive location during the UN General Assembly.",
+        "The arrested men said they had found a dangerous gas leak.",
+        "A hotel asked police to search for missing valuables."
+      ],
+      "correct_answer": "The incident happened near a sensitive location during the UN General Assembly.",
+      "explanation_hebrew": "המשטרה אמרה שהאירוע התאים למקרים של חיפוש גרוטאות, אך נקטה זהירות נוספת בגלל העצרת הכללית של האו״ם ורגישות המקום."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “an abundance of caution” mean?",
+      "difficulty": "A",
+      "options": [
+        "A shortage of police officers",
+        "A legal order to close the streets",
+        "Taking more precautions than usual to reduce risk",
+        "A large amount of valuable metal underground"
+      ],
+      "correct_answer": "Taking more precautions than usual to reduce risk",
+      "explanation_hebrew": "הביטוי an abundance of caution פירושו נקיטת אמצעי זהירות רבים במיוחד כדי לצמצם סיכון."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened to Kevin Rodriguez and Samuel Reveron after their Friday hearing?",
+      "difficulty": "A",
+      "options": [
+        "They were sent to federal prison immediately.",
+        "They admitted entering the sewer to steal metal.",
+        "They remained missing after fleeing the scene.",
+        "They pleaded not guilty and were released from custody."
+      ],
+      "correct_answer": "They pleaded not guilty and were released from custody.",
+      "explanation_hebrew": "לפי רישומי בית המשפט, השניים כפרו באשמה ושוחררו ממעצר לאחר הדיון."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What explanation did police give for several people entering the sewer system after storms?",
+      "difficulty": "A",
+      "options": [
+        "They may have been searching for valuables and scrap metal.",
+        "They were inspecting pipes for the city.",
+        "They were filming an official documentary.",
+        "They were using a legal underground shortcut."
+      ],
+      "correct_answer": "They may have been searching for valuables and scrap metal.",
+      "explanation_hebrew": "ה־NYPD מסר כי היו מקרים שבהם אנשים נכנסו למערכת הביוב לאחר סערה כדי לחפש חפצי ערך וגרוטאות מתכת."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article mention toxic gases, flooding and confined spaces?",
+      "difficulty": "A",
+      "options": [
+        "To explain why officers wear blue overalls",
+        "To show why sewer metal is expensive",
+        "To support the warning that entering sewers is dangerous as well as illegal",
+        "To prove that the arrested men caused a flood"
+      ],
+      "correct_answer": "To support the warning that entering sewers is dangerous as well as illegal",
+      "explanation_hebrew": "הסיכונים האלה מסבירים מדוע הרשויות מזהירות את הציבור שלא להיכנס לצינורות, לניקוזים או לבורות ביוב."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two details showing that the September arrests were part of a wider pattern.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני אירועים קודמים שונים מן הכתבה ולתאר בקצרה מה נראה בכל אחד.",
+      "expected_points": [
+        "In August, surveillance footage showed someone emerging from a manhole in Queens.",
+        "Also in August, three people in overalls and headlamps were seen climbing from a manhole near Penn Station.",
+        "In May, a group was filmed moving a manhole cover and climbing into a sewer in South Brooklyn."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why were police cautious about the incident without saying it was a political plot?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את שני צדי השיקול: ההסבר הרגיל של חיפוש חפצים והרגישות הביטחונית של הזמן והמקום.",
+      "expected_points": [
+        "Police said the incident matched earlier cases involving people looking for valuables or scrap metal.",
+        "The manhole was near a hotel where Benjamin Netanyahu was reportedly expected during the UN General Assembly.",
+        "Because the location and timing were sensitive, police and federal partners conducted extra sweeps."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the arrests, the police response and the public-safety warning.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול מי נעצר ומדוע, מדוע נערכו סריקות נוספות, ומהן הסכנות המרכזיות בכניסה לביוב.",
+      "expected_points": [
+        "Two Queens men were arrested on conspiracy and trespassing charges after allegedly leaving a manhole and fleeing.",
+        "Police treated the location with extra caution during the UN General Assembly and worked with federal partners.",
+        "Officials warned that sewer entry is illegal and can expose people to toxic gas, flooding and confined-space hazards."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, explain how officials balanced investigation with public reassurance.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג טענה ברורה, להביא לפחות שתי ראיות מן הכתבה ולהבחין בין בדיקת סיכון ביטחוני לבין המסקנה הזהירה של המשטרה.",
+      "expected_points": [
+        "Officials conducted additional security sweeps because of the UN event and sensitive location.",
+        "Police also said the incident fit a known pattern of people searching sewers for valuables or scrap.",
+        "The article reports charges and alleged conduct without claiming that a larger political conspiracy was proved.",
+        "The safety warning gives the public practical reasons to stay out of sewers."
+      ]
+    }
+  ]
+}

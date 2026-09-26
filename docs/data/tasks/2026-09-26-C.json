@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-26",
+  "article_id": "C",
+  "article_title": "How the bare nails trend became a class issue",
+  "article_url": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main argument about the bare-nails trend?",
+      "difficulty": "C",
+      "options": [
+        "A seemingly simple beauty choice has become entangled with ideas about wealth, taste, class and cultural identity.",
+        "Bare nails are medically healthier for every person in every circumstance.",
+        "Nail polish has disappeared because it is no longer manufactured.",
+        "The trend matters only because celebrities dislike bright colours."
+      ],
+      "correct_answer": "A seemingly simple beauty choice has become entangled with ideas about wealth, taste, class and cultural identity.",
+      "explanation_hebrew": "הכתבה טוענת שהמראה ה״טבעי״ אינו רק בחירה אסתטית; הדיון סביבו קושר בין טעם, מעמד, עושר וזהות תרבותית."
+    },
+    {
+      "id": "C-2",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can “bare” nails still represent luxury rather than a lack of effort?",
+      "difficulty": "C",
+      "options": [
+        "Natural nails cannot be maintained at home.",
+        "The polished natural look may require time, healthy nails, grooming and professional care.",
+        "Only members of the nobility are legally allowed to wear them.",
+        "The look always includes expensive coloured extensions."
+      ],
+      "correct_answer": "The polished natural look may require time, healthy nails, grooming and professional care.",
+      "explanation_hebrew": "המראה נראה חסר מאמץ, אך עשוי לדרוש טיפוח, זמן ומשאבים—ולכן הוא יכול לתפקד כסימן למותרות."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean to “conflate” bare nails with good taste?",
+      "difficulty": "C",
+      "options": [
+        "To measure the cost of two manicure styles",
+        "To copy a celebrity's exact nail shape",
+        "To treat a particular nail style and refined taste as though they were the same thing",
+        "To remove every product from the nails"
+      ],
+      "correct_answer": "To treat a particular nail style and refined taste as though they were the same thing",
+      "explanation_hebrew": "conflate פירושו לערבב שני רעיונות שונים ולהציגם כאילו הם זהים—כאן, מראה ציפורניים מסוים ו״טעם טוב״."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which historical pattern does the article use to challenge the idea that nail fashion is socially neutral?",
+      "difficulty": "C",
+      "options": [
+        "Nails have always been unrelated to work or status.",
+        "Colourful nails were invented only after social media.",
+        "Every culture has treated long nails as a sign of poverty.",
+        "Nail colour and length have previously signalled hierarchy, wealth or freedom from manual labour."
+      ],
+      "correct_answer": "Nail colour and length have previously signalled hierarchy, wealth or freedom from manual labour.",
+      "explanation_hebrew": "הכתבה מציבה את הטרנד בתוך היסטוריה שבה צבע ואורך הציפורניים סימנו היררכיה, עושר והיעדר עבודה ידנית."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do critics describe the trend's language as potentially classist?",
+      "difficulty": "C",
+      "options": [
+        "Calling one restrained style “refined” can stigmatise expressive nail art and the communities associated with it.",
+        "Bare nails require a government licence.",
+        "The trend prevents people from buying any beauty products.",
+        "All professional nail artists oppose natural nails."
+      ],
+      "correct_answer": "Calling one restrained style “refined” can stigmatise expressive nail art and the communities associated with it.",
+      "explanation_hebrew": "כאשר מראה מאופק מתואר כ״מעודן״ או ״יקר״, סגנונות בולטים עלולים להיות מתויגים כזולים ובכך להנציח הבדלים מעמדיים ותרבותיים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article's argument, what would “cultural erasure” mean?",
+      "difficulty": "C",
+      "options": [
+        "Removing old polish before a manicure",
+        "Forgetting the name of a viral trend",
+        "Reducing the cost of beauty treatments",
+        "Ignoring or wiping away the cultural history and meaning of expressive nail art"
+      ],
+      "correct_answer": "Ignoring or wiping away the cultural history and meaning of expressive nail art",
+      "explanation_hebrew": "erasure בהקשר זה היא מחיקה או טשטוש של ההיסטוריה והמשמעות התרבותית של אמנות ציפורניים בולטת."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons discussed for why people may choose bare or nearly bare nails.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שתי סיבות שונות מן הכתבה ולהסביר בקצרה כיצד כל אחת מובילה לבחירה במראה הטבעי.",
+      "expected_points": [
+        "Some people want healthier nails after damage from gels, acrylics or repeated manicures.",
+        "Busy people may not have the time or mental bandwidth for regular salon appointments.",
+        "The cost of repeated manicures can make a simple look attractive during economic pressure.",
+        "Some people prefer the minimalist or quiet-luxury aesthetic.",
+        "Others may be responding to beauty fatigue and constant consumer trends."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How can the same bare-nails look communicate opposite class messages?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את הסתירה: מצד אחד זמן, טיפוח ו״עושר שקט״; מצד אחר חיסכון בכסף ובזמן בתקופה כלכלית קשה.",
+      "expected_points": [
+        "For wealthy consumers, immaculate natural nails may signal time, health investment and freedom from obvious display.",
+        "For others, skipping salon appointments may reflect limited money or time.",
+        "Social media can frame identical choices differently depending on who wears the look and how it is described.",
+        "The meaning comes from social interpretation, not from the nails alone."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the article connects beauty trends, class and cultural expression.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול את עליית המראה הטבעי, את קישורו לעושר ולטעם, את הביקורת המעמדית ואת חשיבות אמנות הציפורניים כביטוי תרבותי.",
+      "expected_points": [
+        "Bare or barely polished nails have become a prominent beauty trend.",
+        "Online discourse presents the look as effortless, refined or a marker of status.",
+        "Critics argue that this can label colourful styles as tacky and reproduce class-based standards.",
+        "Expressive nail art has cultural histories and meanings that should not be erased.",
+        "Individual preference is different from treating one aesthetic as morally or socially superior."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, evaluate whether calling bare nails “good taste” is harmless fashion language.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג עמדה מורכבת, להשתמש בלפחות שתי ראיות או דוגמאות מן הכתבה, להתייחס לבחירה אישית ולסיים במסקנה על כוחן של מילות טעם ומעמד.",
+      "expected_points": [
+        "The phrase may describe a genuine personal preference for simplicity or nail health.",
+        "However, taste labels can operate as euphemisms for class and privilege.",
+        "Calling restraint refined may stigmatise bold styles and the people or cultures associated with them.",
+        "Historical examples show that nail appearance has long been used to communicate social rank.",
+        "A strong response should separate freedom to choose bare nails from claims that they are inherently superior."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-26",
+  "article_id": "B",
+  "article_title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central development reported in the article?",
+      "difficulty": "B",
+      "options": [
+        "Iran says it has offered the US a conditional plan to reopen the Strait of Hormuz within seven days.",
+        "The US has permanently closed the Strait of Hormuz to all shipping.",
+        "Iran and the US have already signed a final peace treaty at the UN.",
+        "Oil tankers have stopped using every route in the Gulf."
+      ],
+      "correct_answer": "Iran says it has offered the US a conditional plan to reopen the Strait of Hormuz within seven days.",
+      "explanation_hebrew": "האירוע המרכזי הוא הצעת איראן לארה״ב לפתוח מחדש את המצר בתוך שבעה ימים, אם יתקיימו תנאים מסוימים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How was Iran's proposal communicated to the United States?",
+      "difficulty": "B",
+      "options": [
+        "Through a public vote at the UN",
+        "Through mediators",
+        "Through direct military talks in the strait",
+        "Through oil companies"
+      ],
+      "correct_answer": "Through mediators",
+      "explanation_hebrew": "שר החוץ האיראני אמר שהתוכנית הועברה לארה״ב באמצעות מתווכים."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “normal maritime passage restored” mean in this context?",
+      "difficulty": "B",
+      "options": [
+        "Naval forces would take control of every commercial vessel.",
+        "A new land route would replace the strait.",
+        "Ships would again be able to travel through the waterway normally.",
+        "Only Iranian tankers would receive permission to sail."
+      ],
+      "correct_answer": "Ships would again be able to travel through the waterway normally.",
+      "explanation_hebrew": "maritime passage הוא מעבר ימי; restored פירושו שהשיט הרגיל במצר יוכל להתחדש."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why is the Strait of Hormuz economically important, according to the article?",
+      "difficulty": "B",
+      "options": [
+        "It contains most of the world's shipbuilding factories.",
+        "It is the only route used by passenger ships in Asia.",
+        "It controls all food exports from the Middle East.",
+        "About 20% of the world's oil and liquefied natural gas used to pass through it before the war."
+      ],
+      "correct_answer": "About 20% of the world's oil and liquefied natural gas used to pass through it before the war.",
+      "explanation_hebrew": "הכתבה מסבירה שלפני המלחמה עברו במצר כ־20% מן הנפט והגז הטבעי הנוזלי בעולם, ולכן לסגירתו השפעה רחבה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the US official say about current contacts with Iran?",
+      "difficulty": "B",
+      "options": [
+        "Positive discussions were taking place through mediators, but the official would not detail Iran's plan.",
+        "All communication had ended after the UN meeting.",
+        "The US had accepted every condition immediately.",
+        "The talks concerned shipping only and excluded nuclear issues."
+      ],
+      "correct_answer": "Positive discussions were taking place through mediators, but the official would not detail Iran's plan.",
+      "explanation_hebrew": "גורם אמריקאי אמר שמתקיימים דיונים חיוביים באמצעות מתווכים, לרבות בנושאי גרעין, אך לא פירט על התוכנית."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why has the strait's closure increased pressure for an agreement?",
+      "difficulty": "B",
+      "options": [
+        "It ended all UN meetings in New York.",
+        "It prevented Iran from speaking to mediators.",
+        "It disrupted a major energy route and contributed to volatile prices.",
+        "It made the June memorandum legally invalid."
+      ],
+      "correct_answer": "It disrupted a major energy route and contributed to volatile prices.",
+      "explanation_hebrew": "חסימת נתיב אנרגיה מרכזי גרמה לתנודות מחירים והגבירה את הלחץ להגיע להסדר."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "State two conditions or actions linked in the report to reopening the strait.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני תנאים או צעדים קונקרטיים שנקשרו להצעה או למזכר ההבנות.",
+      "expected_points": [
+        "The United States would have to accept the terms contained in the June memorandum of understanding.",
+        "Reported provisions included easing or lifting the naval blockade.",
+        "The plan was linked to sanctions relief for Iranian oil sales.",
+        "A ceasefire and a return to negotiations were part of the wider proposed arrangement."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might both Iran and the United States present themselves as being in no hurry?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד כל צד עשוי להשתמש בזמן ובעמדה הפומבית כמנוף במשא ומתן, תוך הסתמכות על פרטים מן הכתבה.",
+      "expected_points": [
+        "Iran says the choice rests with the US and can use the strait as leverage.",
+        "A US official said Washington was in a strong position and was not rushing.",
+        "The approaching US midterm elections and energy-price pressure may affect the political timetable.",
+        "Public claims of patience can strengthen each side's bargaining position."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the proposal, its background and its economic significance.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את לוח הזמנים, התנאים או מזכר יוני, את רקע הלחימה והחסימה, ואת חשיבות המצר לשוק האנרגיה.",
+      "expected_points": [
+        "Iran says the strait could reopen within seven days after the US accepts required conditions.",
+        "The proposal refers back to a June memorandum connected to a ceasefire and negotiations.",
+        "The current crisis followed attacks, retaliation and the blocking of the strait.",
+        "The strait carried a major share of global oil and LNG, so disruption has affected prices."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, assess whether the seven-day proposal is mainly a peace initiative or a bargaining tool.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג עמדה מנומקת או מאוזנת, להשתמש בלפחות שתי ראיות מן הכתבה ולהסביר גם את ממד השלום וגם את ממד הלחץ.",
+      "expected_points": [
+        "It can be seen as a peace initiative because it offers reopening, normal shipping and renewed talks.",
+        "It is conditional rather than immediate, tying action to US acceptance of earlier terms.",
+        "Control of a vital energy route gives Iran leverage, while sanctions and military pressure give the US leverage.",
+        "A strong response should distinguish the proposed timetable from a completed agreement."
+      ]
+    }
+  ]
+}
