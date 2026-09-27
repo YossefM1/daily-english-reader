@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-27",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "White House bars CNN from travelling with Trump on Air Force One",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o",
+  "published_at": "2026-09-26T19:16:14+00:00",
+  "age_hours_at_selection": 6.95,
+  "word_count": 411,
+  "generated_at": "2026-09-27T02:13:12.205816+00:00",
+  "difficulty_reason": "Short, direct news report with simple structure, mostly B1/B2 vocabulary and little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "barred",
+      "lemma": "bar",
+      "level": "B2",
+      "hebrew": "חָסוּם, מוּרְחָק",
+      "explanation_hebrew": "למנוע כניסה או השתתפות של מישהו",
+      "pronunciation_hebrew": "בַּארְד",
+      "example": "She was barred from entering the club."
+    },
+    {
+      "word": "broadcaster",
+      "lemma": "broadcaster",
+      "level": "B2",
+      "hebrew": "גּוּף שִׁדּוּר, תַּחֲנַת שִׁדּוּר",
+      "explanation_hebrew": "חברה או ארגון שמשדר תוכן טלוויזיה או רדיו",
+      "pronunciation_hebrew": "בְּרוֹדְקָאסְטֶר",
+      "example": "The broadcaster aired the game live."
+    },
+    {
+      "word": "battle",
+      "lemma": "battle",
+      "level": "B1",
+      "hebrew": "מַאֲבָק, קְרָב",
+      "explanation_hebrew": "מאבק ממושך בין שני צדדים",
+      "pronunciation_hebrew": "בַּאטְל",
+      "example": "They are in a battle over the new law."
+    },
+    {
+      "word": "outlets",
+      "lemma": "outlet",
+      "level": "B2",
+      "hebrew": "כְּלֵי תִּקְשׁוֹרֶת",
+      "explanation_hebrew": "אמצעי מדיה שמפרסמים חדשות",
+      "pronunciation_hebrew": "אַאוּטְלֶטְס",
+      "example": "Several news outlets reported the story."
+    },
+    {
+      "word": "scheduled",
+      "lemma": "schedule",
+      "level": "B1",
+      "hebrew": "מְתֻזְמָן, קָבוּעַ מֵרֹאשׁ",
+      "explanation_hebrew": "מתוכנן להתרחש בזמן מסוים",
+      "pronunciation_hebrew": "סְקֶדְ'וּלְד",
+      "example": "The flight is scheduled for noon."
+    },
+    {
+      "word": "tentative",
+      "lemma": "tentative",
+      "level": "B2",
+      "hebrew": "רָאשׁוֹנִי, זְמַנִּי, לֹא סוֹפִי",
+      "explanation_hebrew": "לא סופי, עשוי עוד להשתנות",
+      "pronunciation_hebrew": "טֶנְטָטִיב",
+      "example": "We made a tentative plan for Friday."
+    },
+    {
+      "word": "accusing",
+      "lemma": "accuse",
+      "level": "B1",
+      "hebrew": "מַאֲשִׁים",
+      "explanation_hebrew": "טוען שמישהו עשה משהו רע",
+      "pronunciation_hebrew": "אַקְיוּזִינְג",
+      "example": "He is accusing them of lying."
+    },
+    {
+      "word": "administration",
+      "lemma": "administration",
+      "level": "B1",
+      "hebrew": "מִמְשָׁל, הַנְהָלָה",
+      "explanation_hebrew": "הצוות שמנהל מדינה או ארגון",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵיישֶׁן",
+      "example": "The administration announced new rules."
+    },
+    {
+      "word": "pursuing",
+      "lemma": "pursue",
+      "level": "B2",
+      "hebrew": "נוֹקֵט, רוֹדֵף אַחֲרֵי",
+      "explanation_hebrew": "פועל כדי להשיג מטרה מסוימת",
+      "pronunciation_hebrew": "פֶּרְסוּאִינְג",
+      "example": "They are pursuing legal action."
+    },
+    {
+      "word": "violating",
+      "lemma": "violate",
+      "level": "B2",
+      "hebrew": "מֵפֵר, עוֹבֵר עַל",
+      "explanation_hebrew": "פועל בניגוד לחוק או לכלל",
+      "pronunciation_hebrew": "וַיְאוֹלֵייטִינְג",
+      "example": "The company is violating the rules."
+    },
+    {
+      "word": "constitutional",
+      "lemma": "constitutional",
+      "level": "B2",
+      "hebrew": "חֻקָּתִי",
+      "explanation_hebrew": "הנוגע לחוקה של מדינה",
+      "pronunciation_hebrew": "קוֹנְסְטִיטְיוּשֶׁנָל",
+      "example": "Free speech is a constitutional right."
+    },
+    {
+      "word": "rotation",
+      "lemma": "rotation",
+      "level": "B2",
+      "hebrew": "רוֹטַצְיָה, סֵבֶב",
+      "explanation_hebrew": "החלפה מחזורית של אנשים בתפקיד",
+      "pronunciation_hebrew": "רוֹטֵיישֶׁן",
+      "example": "The nurses work in rotation."
+    },
+    {
+      "word": "coverage",
+      "lemma": "coverage",
+      "level": "B1",
+      "hebrew": "סִקּוּר תִּקְשׁוֹרְתִּי",
+      "explanation_hebrew": "דיווח של התקשורת על אירוע",
+      "pronunciation_hebrew": "קַאבֶרִידְג'",
+      "example": "The event got wide media coverage."
+    },
+    {
+      "word": "paused",
+      "lemma": "pause",
+      "level": "B1",
+      "hebrew": "הִשְׁהָה, עָצַר זְמַנִּית",
+      "explanation_hebrew": "הפסיק משהו באופן זמני",
+      "pronunciation_hebrew": "פּוֹזְד",
+      "example": "They paused the broadcast for a moment."
+    },
+    {
+      "word": "solidarity",
+      "lemma": "solidarity",
+      "level": "B2",
+      "hebrew": "סוֹלִידָרִיּוּת, הִזְדַּהוּת",
+      "explanation_hebrew": "תמיכה הדדית בין אנשים בעלי מטרה משותפת",
+      "pronunciation_hebrew": "סוֹלִידָרִיטִי",
+      "example": "The workers stood in solidarity."
+    },
+    {
+      "word": "launched",
+      "lemma": "launch",
+      "level": "B1",
+      "hebrew": "הִשִּׁיק, יָזַם",
+      "explanation_hebrew": "התחיל או פתח מיזם או מוצר חדש",
+      "pronunciation_hebrew": "לוֹנְצְ'ד",
+      "example": "They launched a new channel."
+    },
+    {
+      "word": "streaming",
+      "lemma": "streaming",
+      "level": "B1",
+      "hebrew": "הַזְרָמַת שִׁדּוּר, סְטְרִימִינְג",
+      "explanation_hebrew": "צפייה בתוכן דרך האינטרנט בזמן אמת",
+      "pronunciation_hebrew": "סְטְרִימִינְג",
+      "example": "We watched the game on a streaming channel."
+    },
+    {
+      "word": "federal",
+      "lemma": "federal",
+      "level": "B2",
+      "hebrew": "פֶדֶרָלִי",
+      "explanation_hebrew": "הקשור לממשלה המרכזית בפדרציה",
+      "pronunciation_hebrew": "פֶדֶרָל",
+      "example": "A federal judge ruled on the case."
+    },
+    {
+      "word": "ruled",
+      "lemma": "rule",
+      "level": "B1",
+      "hebrew": "פָּסַק, הֶחֱלִיט",
+      "explanation_hebrew": "קבע החלטה משפטית רשמית",
+      "pronunciation_hebrew": "רוּלְד",
+      "example": "The court ruled in her favour."
+    },
+    {
+      "word": "denied",
+      "lemma": "deny",
+      "level": "B1",
+      "hebrew": "מָנַע, סֵרֵב לָתֵת",
+      "explanation_hebrew": "לא איפשר למישהו לקבל משהו",
+      "pronunciation_hebrew": "דִינַייְד",
+      "example": "He was denied entry to the building."
+    },
+    {
+      "word": "assigned",
+      "lemma": "assign",
+      "level": "B1",
+      "hebrew": "מֻקְצֶה, מְמֻנֶּה עַל",
+      "explanation_hebrew": "קיבל תפקיד או משימה מסוימת",
+      "pronunciation_hebrew": "אַסַיינְד",
+      "example": "She was assigned to cover the story."
+    },
+    {
+      "word": "arrivals",
+      "lemma": "arrival",
+      "level": "B1",
+      "hebrew": "הַגָּעוֹת, הַמַּגִּיעִים",
+      "explanation_hebrew": "אנשים או דברים שמגיעים למקום",
+      "pronunciation_hebrew": "אַרַייבַלְז",
+      "example": "The reporters waited for the arrivals at the airport."
+    },
+    {
+      "word": "criticised",
+      "lemma": "criticise",
+      "level": "B1",
+      "hebrew": "מָתַח בִּקֹּרֶת",
+      "explanation_hebrew": "הביע דעה שלילית על מישהו או משהו",
+      "pronunciation_hebrew": "קְרִיטִיסַייזְד",
+      "example": "The leader criticised the media."
+    },
+    {
+      "word": "dubbing",
+      "lemma": "dub",
+      "level": "C1",
+      "hebrew": "מְכַנֶּה, נוֹתֵן כִּנּוּי",
+      "explanation_hebrew": "נותן שם או כינוי למישהו או משהו",
+      "pronunciation_hebrew": "דַּאבִּינְג",
+      "example": "Critics kept dubbing the plan a failure."
+    },
+    {
+      "word": "resumed",
+      "lemma": "resume",
+      "level": "B2",
+      "hebrew": "חִדֵּשׁ, הִתְחִיל מֵחָדָשׁ",
+      "explanation_hebrew": "המשיך פעילות אחרי הפסקה",
+      "pronunciation_hebrew": "רִיזְיוּמְד",
+      "example": "Coverage resumed after the break."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "barred",
+      "type": "english_to_hebrew",
+      "question": "What does “barred” mean?",
+      "options": [
+        "כְּלֵי תִּקְשׁוֹרֶת",
+        "גּוּף שִׁדּוּר, תַּחֲנַת שִׁדּוּר",
+        "מַאֲבָק, קְרָב",
+        "חָסוּם, מוּרְחָק"
+      ],
+      "correct_answer": "חָסוּם, מוּרְחָק",
+      "explanation_hebrew": "“barred” פירושו מוּרְחָק."
+    },
+    {
+      "id": "A-q2",
+      "word": "broadcaster",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גּוּף שִׁדּוּר”?",
+      "options": [
+        "broadcaster",
+        "outlets",
+        "battle",
+        "scheduled"
+      ],
+      "correct_answer": "broadcaster",
+      "explanation_hebrew": "המילה “broadcaster” באנגלית פירושה גּוּף שִׁדּוּר."
+    },
+    {
+      "id": "A-q3",
+      "word": "battle",
+      "type": "english_to_hebrew",
+      "question": "What does “battle” mean?",
+      "options": [
+        "כְּלֵי תִּקְשׁוֹרֶת",
+        "מְתֻזְמָן, קָבוּעַ מֵרֹאשׁ",
+        "רָאשׁוֹנִי, זְמַנִּי, לֹא סוֹפִי",
+        "מַאֲבָק, קְרָב"
+      ],
+      "correct_answer": "מַאֲבָק, קְרָב",
+      "explanation_hebrew": "“battle” פירושו מַאֲבָק."
+    },
+    {
+      "id": "A-q4",
+      "word": "outlets",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “כְּלֵי תִּקְשׁוֹרֶת”?",
+      "options": [
+        "outlets",
+        "scheduled",
+        "tentative",
+        "accusing"
+      ],
+      "correct_answer": "outlets",
+      "explanation_hebrew": "המילה “outlets” באנגלית פירושה כְּלֵי תִּקְשׁוֹרֶת."
+    },
+    {
+      "id": "A-q5",
+      "word": "scheduled",
+      "type": "english_to_hebrew",
+      "question": "What does “scheduled” mean?",
+      "options": [
+        "מְתֻזְמָן, קָבוּעַ מֵרֹאשׁ",
+        "רָאשׁוֹנִי, זְמַנִּי, לֹא סוֹפִי",
+        "מַאֲשִׁים",
+        "מִמְשָׁל, הַנְהָלָה"
+      ],
+      "correct_answer": "מְתֻזְמָן, קָבוּעַ מֵרֹאשׁ",
+      "explanation_hebrew": "“scheduled” פירושו מְתֻזְמָן."
+    },
+    {
+      "id": "A-q6",
+      "word": "tentative",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זְמַנִּי, לֹא סוֹפִי”?",
+      "options": [
+        "accusing",
+        "administration",
+        "tentative",
+        "pursuing"
+      ],
+      "correct_answer": "tentative",
+      "explanation_hebrew": "המילה “tentative” באנגלית פירושה זְמַנִּי, לֹא סוֹפִי."
+    },
+    {
+      "id": "A-q7",
+      "word": "accusing",
+      "type": "english_to_hebrew",
+      "question": "What does “accusing” mean?",
+      "options": [
+        "מִמְשָׁל, הַנְהָלָה",
+        "מַאֲשִׁים",
+        "מֵפֵר, עוֹבֵר עַל",
+        "נוֹקֵט, רוֹדֵף אַחֲרֵי"
+      ],
+      "correct_answer": "מַאֲשִׁים",
+      "explanation_hebrew": "“accusing” פירושו מַאֲשִׁים."
+    },
+    {
+      "id": "A-q8",
+      "word": "administration",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מִמְשָׁל”?",
+      "options": [
+        "administration",
+        "constitutional",
+        "pursuing",
+        "violating"
+      ],
+      "correct_answer": "administration",
+      "explanation_hebrew": "המילה “administration” באנגלית פירושה מִמְשָׁל."
+    },
+    {
+      "id": "A-q9",
+      "word": "pursuing",
+      "type": "english_to_hebrew",
+      "question": "What does “pursuing” mean?",
+      "options": [
+        "חֻקָּתִי",
+        "נוֹקֵט, רוֹדֵף אַחֲרֵי",
+        "רוֹטַצְיָה, סֵבֶב",
+        "מֵפֵר, עוֹבֵר עַל"
+      ],
+      "correct_answer": "נוֹקֵט, רוֹדֵף אַחֲרֵי",
+      "explanation_hebrew": "“pursuing” פירושו נוֹקֵט."
+    },
+    {
+      "id": "A-q10",
+      "word": "violating",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מֵפֵר”?",
+      "options": [
+        "violating",
+        "coverage",
+        "rotation",
+        "constitutional"
+      ],
+      "correct_answer": "violating",
+      "explanation_hebrew": "המילה “violating” באנגלית פירושה מֵפֵר."
+    },
+    {
+      "id": "A-q11",
+      "word": "constitutional",
+      "type": "english_to_hebrew",
+      "question": "What does “constitutional” mean?",
+      "options": [
+        "רוֹטַצְיָה, סֵבֶב",
+        "סִקּוּר תִּקְשׁוֹרְתִּי",
+        "חֻקָּתִי",
+        "הִשְׁהָה, עָצַר זְמַנִּית"
+      ],
+      "correct_answer": "חֻקָּתִי",
+      "explanation_hebrew": "“constitutional” פירושו חֻקָּתִי."
+    },
+    {
+      "id": "A-q12",
+      "word": "rotation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רוֹטַצְיָה”?",
+      "options": [
+        "coverage",
+        "paused",
+        "solidarity",
+        "rotation"
+      ],
+      "correct_answer": "rotation",
+      "explanation_hebrew": "המילה “rotation” באנגלית פירושה רוֹטַצְיָה."
+    },
+    {
+      "id": "A-q13",
+      "word": "coverage",
+      "type": "english_to_hebrew",
+      "question": "What does “coverage” mean?",
+      "options": [
+        "סוֹלִידָרִיּוּת, הִזְדַּהוּת",
+        "סִקּוּר תִּקְשׁוֹרְתִּי",
+        "הִשְׁהָה, עָצַר זְמַנִּית",
+        "הִשִּׁיק, יָזַם"
+      ],
+      "correct_answer": "סִקּוּר תִּקְשׁוֹרְתִּי",
+      "explanation_hebrew": "“coverage” פירושו סִקּוּר."
+    },
+    {
+      "id": "A-q14",
+      "word": "paused",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הִשְׁהָה”?",
+      "options": [
+        "paused",
+        "launched",
+        "streaming",
+        "solidarity"
+      ],
+      "correct_answer": "paused",
+      "explanation_hebrew": "המילה “paused” באנגלית פירושה הִשְׁהָה."
+    },
+    {
+      "id": "A-q15",
+      "word": "solidarity",
+      "type": "english_to_hebrew",
+      "question": "What does “solidarity” mean?",
+      "options": [
+        "הַזְרָמַת שִׁדּוּר, סְטְרִימִינְג",
+        "פֶדֶרָלִי",
+        "סוֹלִידָרִיּוּת, הִזְדַּהוּת",
+        "הִשִּׁיק, יָזַם"
+      ],
+      "correct_answer": "סוֹלִידָרִיּוּת, הִזְדַּהוּת",
+      "explanation_hebrew": "“solidarity” פירושו הִזְדַּהוּת."
+    },
+    {
+      "id": "A-q16",
+      "word": "launched",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הִשִּׁיק”?",
+      "options": [
+        "ruled",
+        "streaming",
+        "federal",
+        "launched"
+      ],
+      "correct_answer": "launched",
+      "explanation_hebrew": "המילה “launched” באנגלית פירושה הִשִּׁיק."
+    },
+    {
+      "id": "A-q17",
+      "word": "streaming",
+      "type": "english_to_hebrew",
+      "question": "What does “streaming” mean?",
+      "options": [
+        "פֶדֶרָלִי",
+        "הַזְרָמַת שִׁדּוּר, סְטְרִימִינְג",
+        "פָּסַק, הֶחֱלִיט",
+        "מָנַע, סֵרֵב לָתֵת"
+      ],
+      "correct_answer": "הַזְרָמַת שִׁדּוּר, סְטְרִימִינְג",
+      "explanation_hebrew": "“streaming” פירושו סְטְרִימִינְג."
+    },
+    {
+      "id": "A-q18",
+      "word": "federal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פֶדֶרָלִי”?",
+      "options": [
+        "federal",
+        "denied",
+        "assigned",
+        "ruled"
+      ],
+      "correct_answer": "federal",
+      "explanation_hebrew": "המילה “federal” באנגלית פירושה פֶדֶרָלִי."
+    },
+    {
+      "id": "A-q19",
+      "word": "ruled",
+      "type": "english_to_hebrew",
+      "question": "What does “ruled” mean?",
+      "options": [
+        "הַגָּעוֹת, הַמַּגִּיעִים",
+        "מֻקְצֶה, מְמֻנֶּה עַל",
+        "מָנַע, סֵרֵב לָתֵת",
+        "פָּסַק, הֶחֱלִיט"
+      ],
+      "correct_answer": "פָּסַק, הֶחֱלִיט",
+      "explanation_hebrew": "“ruled” פירושו פָּסַק."
+    },
+    {
+      "id": "A-q20",
+      "word": "denied",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מָנַע”?",
+      "options": [
+        "assigned",
+        "arrivals",
+        "denied",
+        "criticised"
+      ],
+      "correct_answer": "denied",
+      "explanation_hebrew": "המילה “denied” באנגלית פירושה מָנַע."
+    },
+    {
+      "id": "A-q21",
+      "word": "assigned",
+      "type": "english_to_hebrew",
+      "question": "What does “assigned” mean?",
+      "options": [
+        "הַגָּעוֹת, הַמַּגִּיעִים",
+        "מְכַנֶּה, נוֹתֵן כִּנּוּי",
+        "מֻקְצֶה, מְמֻנֶּה עַל",
+        "מָתַח בִּקֹּרֶת"
+      ],
+      "correct_answer": "מֻקְצֶה, מְמֻנֶּה עַל",
+      "explanation_hebrew": "“assigned” פירושו מֻקְצֶה."
+    },
+    {
+      "id": "A-q22",
+      "word": "arrivals",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַגָּעוֹת”?",
+      "options": [
+        "arrivals",
+        "criticised",
+        "resumed",
+        "dubbing"
+      ],
+      "correct_answer": "arrivals",
+      "explanation_hebrew": "המילה “arrivals” באנגלית פירושה הַגָּעוֹת."
+    },
+    {
+      "id": "A-q23",
+      "word": "criticised",
+      "type": "english_to_hebrew",
+      "question": "What does “criticised” mean?",
+      "options": [
+        "מְכַנֶּה, נוֹתֵן כִּנּוּי",
+        "חִדֵּשׁ, הִתְחִיל מֵחָדָשׁ",
+        "חָסוּם, מוּרְחָק",
+        "מָתַח בִּקֹּרֶת"
+      ],
+      "correct_answer": "מָתַח בִּקֹּרֶת",
+      "explanation_hebrew": "“criticised” פירושו מָתַח בִּקֹּרֶת."
+    },
+    {
+      "id": "A-q24",
+      "word": "dubbing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְכַנֶּה”?",
+      "options": [
+        "barred",
+        "dubbing",
+        "resumed",
+        "broadcaster"
+      ],
+      "correct_answer": "dubbing",
+      "explanation_hebrew": "המילה “dubbing” באנגלית פירושה מְכַנֶּה."
+    },
+    {
+      "id": "A-q25",
+      "word": "resumed",
+      "type": "english_to_hebrew",
+      "question": "What does “resumed” mean?",
+      "options": [
+        "חָסוּם, מוּרְחָק",
+        "גּוּף שִׁדּוּר, תַּחֲנַת שִׁדּוּר",
+        "חִדֵּשׁ, הִתְחִיל מֵחָדָשׁ",
+        "מַאֲבָק, קְרָב"
+      ],
+      "correct_answer": "חִדֵּשׁ, הִתְחִיל מֵחָדָשׁ",
+      "explanation_hebrew": "“resumed” פירושו חִדֵּשׁ."
+    }
+  ]
+}
