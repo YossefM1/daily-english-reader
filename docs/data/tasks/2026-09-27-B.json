@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-27",
+  "article_id": "B",
+  "article_title": "Heathrow Airport warns third runway could be delayed by four years",
+  "article_url": "https://www.bbc.co.uk/news/articles/crx2zz401935o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central development in the article?",
+      "difficulty": "B",
+      "options": [
+        "Heathrow warns that planning and regulatory obstacles could push the third runway's opening from 2035 to 2039.",
+        "The government has cancelled Heathrow's third runway permanently.",
+        "Heathrow has already completed a third runway four years early.",
+        "Airlines have agreed to finance the entire project without regulation."
+      ],
+      "correct_answer": "Heathrow warns that planning and regulatory obstacles could push the third runway's opening from 2035 to 2039.",
+      "explanation_hebrew": "הכתבה מדווחת שהיעד לשנת 2035 נעשה קשה להשגה ושקשיי תכנון ורגולציה עלולים לדחות את פתיחת המסלול עד 2039."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What planning timetable does Heathrow now describe?",
+      "difficulty": "B",
+      "options": [
+        "Approval in 2035 and construction completed in 2049",
+        "Planning permission by 2029, followed by opening within a decade",
+        "Immediate construction without a planning application",
+        "A public consultation only after the runway opens"
+      ],
+      "correct_answer": "Planning permission by 2029, followed by opening within a decade",
+      "explanation_hebrew": "הית׳רו מקווה לקבל היתר תכנון עד 2029 ולפתוח את המסלול בתוך עשור לאחר מכן."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What are “regulatory bottlenecks” in this context?",
+      "difficulty": "B",
+      "options": [
+        "Narrow roads used by airport buses",
+        "Shortages of aircraft fuel",
+        "Rules and approval processes that slow the project",
+        "Limits on the number of passengers in each terminal"
+      ],
+      "correct_answer": "Rules and approval processes that slow the project",
+      "explanation_hebrew": "bottlenecks הוא ביטוי מטפורי לצווארי בקבוק—שלבים רגולטוריים או תכנוניים שמעכבים את התקדמות הפרויקט."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which major physical change would the expansion require?",
+      "difficulty": "B",
+      "options": [
+        "Closing all four passenger terminals",
+        "Moving Heathrow outside London",
+        "Replacing the M25 with a railway",
+        "Rerouting part of the M25 through a tunnel beneath the new runway"
+      ],
+      "correct_answer": "Rerouting part of the M25 through a tunnel beneath the new runway",
+      "explanation_hebrew": "התוכנית כוללת הסטת קטע מכביש M25 בין צמתים 14 ו־15 לתוך מנהרה מתחת למסלול החדש."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What economic benefit is associated with the project?",
+      "difficulty": "B",
+      "options": [
+        "It is expected to create about 100,000 jobs and support economic growth.",
+        "It would eliminate all airport charges for passengers.",
+        "It would reduce Heathrow to one terminal and two runways.",
+        "It would replace aviation with rail travel."
+      ],
+      "correct_answer": "It is expected to create about 100,000 jobs and support economic growth.",
+      "explanation_hebrew": "תומכי התוכנית מציגים אותה כמקור לכ־100,000 משרות וכחיזוק משמעותי לכלכלה."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do environmental campaigners and nearby residents oppose the expansion?",
+      "difficulty": "B",
+      "options": [
+        "They want Heathrow to handle more flights immediately.",
+        "They believe planning permission has already expired.",
+        "They are concerned about noise, air pollution, climate effects and disruption to local communities.",
+        "They oppose all consultation with the Department for Transport."
+      ],
+      "correct_answer": "They are concerned about noise, air pollution, climate effects and disruption to local communities.",
+      "explanation_hebrew": "ההתנגדות קשורה לרעש, זיהום אוויר, שינוי האקלים ופגיעה בקהילות המקומיות ובבתים הסמוכים."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two examples of construction or local disruption required by the runway plan.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתי עבודות או השפעות מקומיות קונקרטיות שמופיעות בכתבה.",
+      "expected_points": [
+        "Hundreds of homes would be demolished.",
+        "Rivers would be diverted.",
+        "The M25 would be rerouted between junctions 14 and 15 through a tunnel under the runway.",
+        "Additional terminal and supporting infrastructure would need to be built."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does Heathrow argue that simplifying the planning process is necessary?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין תהליך האישור, יעד 2029, משך הבנייה והסיכון לפספס את שנת 2035.",
+      "expected_points": [
+        "The airport wants planning permission by 2029 before beginning the long construction phase.",
+        "Its core scenario requires about a decade from permission to opening.",
+        "Regulatory and policy delays reduce the chance of meeting the government's 2035 target.",
+        "A clearer framework would let Heathrow, ministers, airlines and other stakeholders progress the application faster."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the timetable, expected benefits and main objections to Heathrow's third-runway plan.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את המעבר האפשרי מ־2035 ל־2039, היתר התכנון, תועלת כלכלית אחת ושתי התנגדויות או עלויות.",
+      "expected_points": [
+        "Heathrow says the runway may open in 2039 rather than the government's 2035 target.",
+        "The airport hopes to secure planning permission by 2029 and build within a decade.",
+        "Supporters expect jobs, more capacity and economic growth.",
+        "Opponents cite homes, road and river changes, noise, pollution and climate obligations.",
+        "The estimated project cost and regulatory process remain major challenges."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, assess whether faster approval of the runway would be worth the trade-offs.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג עמדה מאוזנת, להשתמש בלפחות שתי ראיות מן הכתבה, להשוות תועלות כלכליות לעלויות סביבתיות וחברתיות ולסיים במסקנה.",
+      "expected_points": [
+        "Faster approval could reduce delay and support jobs, airport capacity and economic growth.",
+        "The project is complex and expensive, so regulation can protect passengers, taxpayers and local communities.",
+        "Construction would affect homes, rivers and the M25.",
+        "Noise, air pollution and climate commitments require serious assessment.",
+        "A strong response should distinguish streamlining decisions from removing necessary safeguards."
+      ]
+    }
+  ]
+}

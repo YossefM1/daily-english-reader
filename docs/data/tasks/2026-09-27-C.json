@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-27",
+  "article_id": "C",
+  "article_title": "Budget 2026: The two big calls Chancellor John Healey has to make",
+  "article_url": "https://www.bbc.co.uk/news/articles/cklye5e40531o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What broad challenge does the article say Chancellor John Healey faces before his first Budget?",
+      "difficulty": "C",
+      "options": [
+        "He must protect fiscal credibility in turbulent bond markets while deciding how to address weak long-term productivity.",
+        "He must choose a new currency and leave international bond markets.",
+        "He must decide whether to cancel the Budget and close the Treasury.",
+        "He must replace all taxes with borrowing before inflation falls."
+      ],
+      "correct_answer": "He must protect fiscal credibility in turbulent bond markets while deciding how to address weak long-term productivity.",
+      "explanation_hebrew": "הכתבה מציגה שתי הכרעות קשורות: שמירה על אמון השווקים ומרווח תקציבי, לצד טיפול בבעיה המבנית של פריון וצמיחה."
+    },
+    {
+      "id": "C-2",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does a government bond's “yield” mean in the article?",
+      "difficulty": "C",
+      "options": [
+        "The total number of bonds printed each year",
+        "The effective return demanded by investors, which influences government borrowing costs",
+        "The amount of tax collected from bondholders",
+        "The productivity of public-sector workers"
+      ],
+      "correct_answer": "The effective return demanded by investors, which influences government borrowing costs",
+      "explanation_hebrew": "yield היא התשואה שמשקיעים דורשים על אג״ח ממשלתיות; כאשר היא עולה, עלות המימון של הממשלה עולה."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is the Chancellor's fiscal “headroom”?",
+      "difficulty": "C",
+      "options": [
+        "The physical office above the Treasury",
+        "Permission to ignore the fiscal rules during a war",
+        "The margin available before forecasts would breach the government's fiscal rules",
+        "A fund reserved only for infrastructure outside London"
+      ],
+      "correct_answer": "The margin available before forecasts would breach the government's fiscal rules",
+      "explanation_hebrew": "headroom הוא מרווח הביטחון בין תחזית התקציב לבין הגבול שקובעים הכללים הפיסקליים."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why do higher bond yields make Healey's Budget choices harder?",
+      "difficulty": "C",
+      "options": [
+        "They automatically increase productivity.",
+        "They prevent the government from collecting income tax.",
+        "They guarantee that inflation will fall quickly.",
+        "They raise projected debt-interest costs and reduce fiscal room for spending or tax choices."
+      ],
+      "correct_answer": "They raise projected debt-interest costs and reduce fiscal room for spending or tax choices.",
+      "explanation_hebrew": "תשואות גבוהות מגדילות את הוצאות הריבית הצפויות וכך מצמצמות את המרווח לפעולות תקציביות אחרות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could de-escalation in the Middle East improve the Budget backdrop?",
+      "difficulty": "C",
+      "options": [
+        "It could ease energy-price and inflation pressure, which may also calm bond markets.",
+        "It would remove the need for any UK taxes.",
+        "It would directly increase Britain's working-age population.",
+        "It would make the fiscal rules legally unnecessary."
+      ],
+      "correct_answer": "It could ease energy-price and inflation pressure, which may also calm bond markets.",
+      "explanation_hebrew": "ירידה במתח עשויה להפחית לחץ על מחירי האנרגיה והאינפלציה, ובכך גם להקל על תשואות האג״ח ועלויות החוב."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “fiscal consolidation” refer to?",
+      "difficulty": "C",
+      "options": [
+        "Combining several government departments into one",
+        "Separating tax policy from public spending",
+        "Expanding borrowing without limits",
+        "Measures such as tax rises or spending restraint intended to strengthen the public finances"
+      ],
+      "correct_answer": "Measures such as tax rises or spending restraint intended to strengthen the public finances",
+      "explanation_hebrew": "fiscal consolidation הוא צמצום הגירעון או חיזוק מצב התקציב באמצעות העלאות מסים, ריסון הוצאות או שילוב ביניהם."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three factors discussed in the article that can reduce the Chancellor's room for manoeuvre.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה גורמים שונים ולהסביר בקצרה כיצד כל אחד מצמצם את מרווח הפעולה.",
+      "expected_points": [
+        "Higher government bond yields increase forecast debt-interest payments.",
+        "Inflation, including energy-price pressure, can keep borrowing costs high and raise public spending costs.",
+        "Weaker growth reduces expected tax receipts and worsens fiscal forecasts.",
+        "Borrowing running above forecast can consume fiscal headroom.",
+        "Existing spending promises and tax commitments limit the available policy choices."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why would a short-term fall in bond yields not solve the UK's structural productivity problem?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להבחין בין הקלה מחזורית או זמנית בעלויות המימון לבין בעיות מבניות הדורשות השקעה ורפורמה לאורך זמן.",
+      "expected_points": [
+        "Lower yields would reduce borrowing costs and improve near-term headroom.",
+        "Productivity depends on long-term factors such as investment, skills, infrastructure, technology and intangible assets.",
+        "A market turnaround can change forecasts quickly, but structural reforms take years to affect output.",
+        "The Chancellor must avoid treating temporary financial relief as a substitute for a growth strategy."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the two linked decisions facing Healey and the economic forces shaping them.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול אמון שוק ומרווח תקציבי, אפשרויות של מסים או הוצאות, בעיית הפריון והשפעת אינפלציה ותשואות אג״ח.",
+      "expected_points": [
+        "Healey must decide how much fiscal headroom to rebuild or preserve in order to reassure investors.",
+        "That choice may require tax increases, spending restraint or accepting a smaller buffer.",
+        "He must also decide how to support productivity and long-term growth rather than relying only on consolidation.",
+        "Bond yields, inflation, energy prices, borrowing forecasts and possible geopolitical de-escalation affect the immediate calculation.",
+        "The article stresses the tension between short-term credibility and long-term economic capacity."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, evaluate whether Healey should prioritise a larger fiscal buffer or investment aimed at productivity.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג עמדה מנומקת או איזון, להשתמש בלפחות שלוש נקודות מן הכתבה, להתייחס לסיכון השוק ולצמיחה ארוכת טווח ולסיים בהמלצה ברורה.",
+      "expected_points": [
+        "A larger buffer can reassure bond investors and protect the Budget against inflation, war or forecast errors.",
+        "Rebuilding headroom through excessive tax rises or spending cuts could weaken demand and investment.",
+        "Productivity investment can improve long-term revenues and living standards but may take time and involve execution risk.",
+        "High yields make debt-financed investment more expensive, so project quality matters.",
+        "A balanced answer may support credible headroom together with targeted investment in infrastructure, skills, technology and intangible assets."
+      ]
+    }
+  ]
+}

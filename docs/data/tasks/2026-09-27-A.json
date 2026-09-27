@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-27",
+  "article_id": "A",
+  "article_title": "White House bars CNN from travelling with Trump on Air Force One",
+  "article_url": "https://www.bbc.co.uk/news/articles/cxq633770y16o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "CNN was excluded from travelling with President Trump amid a wider dispute over White House media access.",
+        "CNN cancelled all reporting from Washington because of a technical problem.",
+        "The White House ended the practice of allowing any journalists on Air Force One.",
+        "President Trump cancelled his trip to Tennessee after a court ruling."
+      ],
+      "correct_answer": "CNN was excluded from travelling with President Trump amid a wider dispute over White House media access.",
+      "explanation_hebrew": "הכתבה עוסקת בהוצאת CNN מרשימת כלי התקשורת לטיסה עם הנשיא, כחלק מעימות רחב יותר על גישת עיתונאים לבית הלבן."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did CNN learn it was no longer scheduled to travel on Air Force One?",
+      "difficulty": "A",
+      "options": [
+        "A judge announced it during a hearing.",
+        "A White House note released on Friday night did not list CNN on the media schedule.",
+        "Another television network replaced CNN during a live broadcast.",
+        "The airline told CNN that the flight had been cancelled."
+      ],
+      "correct_answer": "A White House note released on Friday night did not list CNN on the media schedule.",
+      "explanation_hebrew": "CNN הייתה אמורה להצטרף לטיסה, אך שמה לא הופיע בהודעת לוח הזמנים התקשורתי שפרסם הבית הלבן ביום שישי בלילה."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “tentative schedule” mean in this report?",
+      "difficulty": "A",
+      "options": [
+        "A schedule approved permanently by a court",
+        "A secret list available only to federal officials",
+        "A provisional schedule that may still change",
+        "A timetable created by the television networks"
+      ],
+      "correct_answer": "A provisional schedule that may still change",
+      "explanation_hebrew": "tentative פירושו זמני או לא סופי; לוח הזמנים עדיין עשוי להשתנות."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which outlets had Trump previously banned from the White House?",
+      "difficulty": "A",
+      "options": [
+        "ABC, CBS and NBC",
+        "BBC, Reuters and Fox News",
+        "CNN, Fox News and Politico",
+        "CNN, Politico and MS NOW"
+      ],
+      "correct_answer": "CNN, Politico and MS NOW",
+      "explanation_hebrew": "הכתבה מציינת שטראמפ אסר קודם לכן על עיתונאים מ־CNN, Politico ו־MS NOW להיכנס לבית הלבן."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did four television networks show solidarity with the banned outlets?",
+      "difficulty": "A",
+      "options": [
+        "They paused their broadcasts of the president.",
+        "They replaced CNN on Air Force One.",
+        "They launched a joint government streaming channel.",
+        "They refused to cover the Tennessee football game permanently."
+      ],
+      "correct_answer": "They paused their broadcasts of the president.",
+      "explanation_hebrew": "ABC, CBS, Fox News ו־NBC עצרו זמנית את שידורי הסיקור של הנשיא כאות סולידריות עם כלי התקשורת שנאסרו."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is the federal judge's ruling important to the story?",
+      "difficulty": "A",
+      "options": [
+        "It decided which college football team could host the president.",
+        "It required every network to travel on Air Force One.",
+        "It suggested the media ban was likely unconstitutional and required access to be restored for now.",
+        "It allowed the White House to replace all television coverage with Trump TV."
+      ],
+      "correct_answer": "It suggested the media ban was likely unconstitutional and required access to be restored for now.",
+      "explanation_hebrew": "פסק הדין חשוב מפני שהוא קבע שהאיסור כנראה אינו חוקתי והורה לאפשר לכלי התקשורת לחזור, לפחות זמנית."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two actions taken by media organisations in response to the White House restrictions.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי תגובות שונות של כלי התקשורת ולתאר בקצרה מה הייתה מטרת כל תגובה.",
+      "expected_points": [
+        "CNN, Politico and MS NOW said they were pursuing legal action.",
+        "The outlets argued that their free-speech and press rights had been violated.",
+        "ABC, CBS, Fox News and NBC paused presidential coverage in solidarity.",
+        "Regular television coverage resumed after reporters were allowed back inside."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the article show that the access dispute was not fully resolved after the court order?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להביא לפחות שני פרטים שמראים פער בין פסק הדין לבין הגישה בפועל.",
+      "expected_points": [
+        "CNN was still removed from the Air Force One media schedule.",
+        "Some CNN and MS NOW reporters were denied entry to cover arrivals at the state dinner for Xi Jinping.",
+        "The White House continued to argue that reporters do not have unrestricted access to every event.",
+        "Coverage resumed in some settings, but restrictions continued in others."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the events that led from the original media ban to CNN's exclusion from Air Force One.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את האיסור המקורי, תגובת כלי התקשורת, פסק הדין והוצאת CNN מלוח הטיסה.",
+      "expected_points": [
+        "Trump barred journalists from CNN, Politico and MS NOW after accusing them of false reporting.",
+        "The outlets considered legal action and other networks paused coverage in solidarity.",
+        "A federal judge said the ban was likely unconstitutional and ordered access restored for now.",
+        "Despite that ruling, CNN was omitted from the Air Force One media schedule for the Tennessee trip."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, explain why access to presidential events matters for freedom of the press.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג טענה ברורה, להשתמש בשתי ראיות לפחות מן הכתבה ולהסביר את הקשר בין גישה פיזית לאירועים לבין יכולת לסקר את הנשיא.",
+      "expected_points": [
+        "Travelling with the president and entering official events allow reporters to observe and question government actions.",
+        "Excluding selected outlets can limit their ability to report at the same time as competitors.",
+        "The outlets linked the restrictions to constitutional freedoms of speech and the press.",
+        "The judge's ruling indicates that selective access can raise constitutional concerns.",
+        "The solidarity action by other networks shows that the issue affected the wider press corps."
+      ]
+    }
+  ]
+}
