@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-28",
+  "article_id": "A",
+  "article_title": "Two bodies found after avalanche hits Himalayan climbing group",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main event reported in the article?",
+      "difficulty": "A",
+      "options": [
+        "Rescuers recovered two bodies after an avalanche hit a climbing group on Himlung Himal, while others remained missing.",
+        "All climbers safely reached the summit after a week of clear weather.",
+        "Nepal closed every Himalayan mountain to expeditions for the year.",
+        "A helicopter accident caused the evacuation of a village in Kathmandu."
+      ],
+      "correct_answer": "Rescuers recovered two bodies after an avalanche hit a climbing group on Himlung Himal, while others remained missing.",
+      "explanation_hebrew": "הכתבה עוסקת במפולת בהר הימלונג, במציאת שתי גופות ובהמשך החיפושים אחר נעדרים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the avalanche strike?",
+      "difficulty": "A",
+      "options": [
+        "At Mount Everest's southern base camp",
+        "On Himlung Himal in Nepal's Manang district",
+        "In a valley near Kathmandu airport",
+        "On Broad Peak in Pakistan"
+      ],
+      "correct_answer": "On Himlung Himal in Nepal's Manang district",
+      "explanation_hebrew": "האירוע התרחש בהר הימלונג שבמחוז מנאנג בנפאל."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “hampered” mean in the report's description of the rescue?",
+      "difficulty": "A",
+      "options": [
+        "Completed earlier than expected",
+        "Made safer by new equipment",
+        "Made more difficult or delayed",
+        "Moved to a different country"
+      ],
+      "correct_answer": "Made more difficult or delayed",
+      "explanation_hebrew": "המילה hampered מתארת כיצד מזג האוויר והתנאים הקשים הפריעו למאמצי החילוץ ועיכבו אותם."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who were among the people reported missing after the avalanche?",
+      "difficulty": "A",
+      "options": [
+        "Only tourists visiting a nearby city",
+        "Road workers repairing a bridge",
+        "Passengers from a commercial flight",
+        "Climbers and expedition support staff"
+      ],
+      "correct_answer": "Climbers and expedition support staff",
+      "explanation_hebrew": "הנעדרים כללו מטפסים ואנשי צוות שסייעו למשלחות הטיפוס."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What conditions were affecting the mountain region at the time?",
+      "difficulty": "A",
+      "options": [
+        "Persistent rain and snowfall",
+        "A long period of heat and drought",
+        "Strong desert winds with no snow",
+        "Calm weather and unusually high visibility"
+      ],
+      "correct_answer": "Persistent rain and snowfall",
+      "explanation_hebrew": "הכתבה מציינת גשם ושלג מתמשכים, שהחמירו את הסכנה באזור ההררי."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are helicopters especially useful in this rescue operation?",
+      "difficulty": "A",
+      "options": [
+        "They can replace climbing permits.",
+        "They can stop further snowfall.",
+        "They can reach a remote high-altitude site and carry rescuers or recovered victims.",
+        "They can repair damaged communications from the air."
+      ],
+      "correct_answer": "They can reach a remote high-altitude site and carry rescuers or recovered victims.",
+      "explanation_hebrew": "מסוקים מאפשרים גישה מהירה לאתר גבוה ומרוחק כאשר דרכים ותנאי שטח מקשים על הגעה רגילה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two factors that made the search and rescue operation difficult.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני גורמים קונקרטיים מן הכתבה ולהסביר בקצרה כיצד הפריעו לחיפוש.",
+      "expected_points": [
+        "The site is a remote, high-altitude climbing area.",
+        "Persistent rain and snowfall created dangerous conditions.",
+        "Darkness forced rescuers to suspend operations.",
+        "Flooding, debris, electricity failures or network disruption complicated access and communication."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why would a weather warning cause expedition teams to leave the mountain slopes?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין האזהרה לבין סכנת מפולות, שלג כבד והיכולת להגיע למקום בטוח לפני הידרדרות התנאים.",
+      "expected_points": [
+        "Heavy snowfall can increase avalanche risk.",
+        "Bad weather can block routes and make rescue flights harder.",
+        "Leaving early reduces the number of people exposed at high altitude.",
+        "Some people reportedly remained behind despite the warning, showing the consequence of delayed evacuation."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the avalanche, the rescue response and the wider weather conditions described in the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך להזכיר את מיקום האסון, שתי הגופות, הנעדרים, פעולת החילוץ ומזג האוויר המסוכן.",
+      "expected_points": [
+        "An avalanche struck a climbing group on Himlung Himal in Nepal's Manang district.",
+        "Two bodies were recovered and other climbers or support staff remained missing.",
+        "Rescuers and helicopters were sent to the area, but operations were difficult and interrupted.",
+        "Persistent rain and snowfall also caused flooding, landslides and disruption in the wider region."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using details from the article, suggest two safety measures that could reduce the risk to Himalayan climbing teams during severe weather.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציע שני צעדים מעשיים, לקשר כל אחד לפרט מן הכתבה ולהסביר כיצד הוא מצמצם סיכון.",
+      "expected_points": [
+        "Expedition teams should act promptly on weather warnings and evacuate exposed slopes.",
+        "Operators should maintain reliable emergency communication and check-in systems.",
+        "Rescue teams and helicopter access should be planned before expeditions enter remote areas.",
+        "Climbing schedules should allow cancellation when persistent snowfall raises avalanche danger."
+      ]
+    }
+  ]
+}

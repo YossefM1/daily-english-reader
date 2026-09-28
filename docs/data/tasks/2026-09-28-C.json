@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-28",
+  "article_id": "C",
+  "article_title": "Why some Indian civil servants become heroes for doing their jobs",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central paradox does the article examine?",
+      "difficulty": "C",
+      "options": [
+        "India has no civil service even though it has many government departments.",
+        "Citizens oppose every official who enforces food-safety rules.",
+        "Civil servants can become public heroes for performing routine duties in a system associated with delay, weak enforcement and political interference.",
+        "Popular officials always remain in the same post for decades."
+      ],
+      "correct_answer": "Civil servants can become public heroes for performing routine duties in a system associated with delay, weak enforcement and political interference.",
+      "explanation_hebrew": "הכתבה בוחנת מדוע אכיפה יעילה של חובות רגילות נתפסת כיוצאת דופן במערכת המזוהה עם עיכובים והתערבות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What kind of work brought Tukaram Mundhe renewed public attention in Maharashtra?",
+      "difficulty": "C",
+      "options": [
+        "Strict enforcement of food-safety and hygiene rules",
+        "Organising an international film festival",
+        "Running a private restaurant chain",
+        "Campaigning to abolish the civil service"
+      ],
+      "correct_answer": "Strict enforcement of food-safety and hygiene rules",
+      "explanation_hebrew": "מונדה זכה לתשומת לב בשל אכיפה נוקשה של כללי בטיחות מזון והיגיינה במסגרת רשות המזון והתרופות במהרשטרה."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “machinery” mean when the article refers to the machinery of government?",
+      "difficulty": "C",
+      "options": [
+        "Factory equipment purchased by the state",
+        "The administrative system and institutions through which government operates",
+        "Vehicles used by food inspectors",
+        "Voting machines in local elections"
+      ],
+      "correct_answer": "The administrative system and institutions through which government operates",
+      "explanation_hebrew": "בהקשר זה machinery אינו מכונות פיזיות אלא מנגנון הממשל—הגופים, הנהלים והפקידים שמיישמים מדיניות."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can an officer who responds quickly and enforces existing rules gain exceptional popularity?",
+      "difficulty": "C",
+      "options": [
+        "Citizens are unfamiliar with any government rules.",
+        "The officer is automatically elected to political office.",
+        "The national government awards every inspector celebrity status.",
+        "Effective, visible public service contrasts sharply with citizens' usual experience of delay and indifference."
+      ],
+      "correct_answer": "Effective, visible public service contrasts sharply with citizens' usual experience of delay and indifference.",
+      "explanation_hebrew": "הפופולריות נוצרת מן הפער בין שירות מהיר ונראה לעין לבין חוויות רגילות של סחבת ואדישות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What criticism can be made of rigid or selective enforcement?",
+      "difficulty": "C",
+      "options": [
+        "It can disproportionately harm vulnerable people while powerful interests escape equal scrutiny.",
+        "It always eliminates corruption permanently.",
+        "It guarantees that every regulation is fair.",
+        "It prevents officials from receiving public praise."
+      ],
+      "correct_answer": "It can disproportionately harm vulnerable people while powerful interests escape equal scrutiny.",
+      "explanation_hebrew": "אכיפה נוקשה או בררנית עלולה לפגוע יותר ברוכלים, מהגרים ואוכלוסיות פגיעות בלי לטפל באופן שווה בבעלי כוח."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What are “bureaucratic hurdles” in the article's context?",
+      "difficulty": "C",
+      "options": [
+        "Physical barriers outside government offices",
+        "Competitive sports for public employees",
+        "Administrative procedures and delays that make action difficult",
+        "Special rewards for senior officials"
+      ],
+      "correct_answer": "Administrative procedures and delays that make action difficult",
+      "explanation_hebrew": "bureaucratic hurdles הם מכשולים מנהליים—נהלים, אישורים ועיכובים שמקשים על ביצוע פעולה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three examples of problems that strict civil servants in the article try to confront.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלוש בעיות שונות שהכתבה קושרת לעבודת הפקידים, עם דוגמה קצרה לכל אחת.",
+      "expected_points": [
+        "Poor food hygiene, unsafe establishments or expired products.",
+        "Unauthorised construction and encroachments on public land.",
+        "Bribery, corruption or officials who remain indifferent to complaints.",
+        "Administrative delay and weak enforcement of existing rules.",
+        "Powerful interests intervening to block or reverse enforcement."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might frequent transfers weaken both an individual officer's reforms and the civil service as a whole?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את ההשפעה על רציפות, תמריצים, עצמאות מוסדית ויכולת לבנות שינוי ארוך טווח.",
+      "expected_points": [
+        "A transferred officer may leave before reforms are fully implemented.",
+        "Successors may reverse enforcement or return to older practices.",
+        "Frequent transfers can signal that political resistance is rewarded.",
+        "Officials may avoid difficult decisions if strong enforcement threatens their careers.",
+        "Public service becomes dependent on individual heroes instead of durable institutions."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why some Indian civil servants become celebrated and why the article treats that admiration critically.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול שירות נראה לעין, כשלי מערכת, דוגמת מונדה ולפחות שתי מגבלות של מודל ה׳גיבור׳.",
+      "expected_points": [
+        "Officials such as Tukaram Mundhe become popular by enforcing rules and responding visibly to public problems.",
+        "Their actions stand out against red tape, delayed services, corruption and weak enforcement.",
+        "Public admiration reflects demand for effective and accountable government.",
+        "Hero-centred governance can become a spectacle and may hide the need for institutional reform.",
+        "Rigid or selective enforcement can harm vulnerable groups, while transfers and political intervention limit lasting change."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, assess whether strong individual officers or stronger institutions are more important for improving governance.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג טיעון מאוזן, להשתמש בלפחות שלוש ראיות מן הכתבה, לדון ביתרונות ובסיכונים ולסיים במסקנה ברורה.",
+      "expected_points": [
+        "Determined officers can expose violations, accelerate enforcement and demonstrate what effective service looks like.",
+        "Their visibility can mobilise public support and pressure other officials to act.",
+        "Frequent transfers and political intervention make individual achievements fragile.",
+        "Rules applied rigidly or selectively can impose disproportionate costs on vulnerable people.",
+        "Stronger institutions need transparent procedures, equal enforcement, accountability and continuity beyond one celebrated officer."
+      ]
+    }
+  ]
+}

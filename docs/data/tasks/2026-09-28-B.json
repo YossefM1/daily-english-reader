@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-28",
+  "article_id": "B",
+  "article_title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What was Pope Leo's central message about abuse during his visit to Lourdes?",
+      "difficulty": "B",
+      "options": [
+        "The Church should discuss abuse only in private.",
+        "The abuse crisis is a scourge that must be rooted out through vigilance and determined action.",
+        "Existing compensation measures have completely solved the crisis.",
+        "Responsibility belongs only to civil authorities."
+      ],
+      "correct_answer": "The abuse crisis is a scourge that must be rooted out through vigilance and determined action.",
+      "explanation_hebrew": "האפיפיור תיאר את ההתעללות כנגע שיש לעקור וקרא לערנות, נחישות ופעולה מתמשכת."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Whom did the Pope address about confronting abuse before leading a service in Lourdes?",
+      "difficulty": "B",
+      "options": [
+        "French airline executives",
+        "International sports officials",
+        "French bishops",
+        "Mountain rescue workers"
+      ],
+      "correct_answer": "French bishops",
+      "explanation_hebrew": "הדברים על ההתמודדות עם ההתעללות נאמרו לבישופים הצרפתים במהלך הביקור בלורד."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “scourge” mean in the Pope's remarks?",
+      "difficulty": "B",
+      "options": [
+        "A brief disagreement",
+        "A religious festival",
+        "A private legal document",
+        "A severe and widespread source of suffering"
+      ],
+      "correct_answer": "A severe and widespread source of suffering",
+      "explanation_hebrew": "scourge פירושו נגע או מכה קשה ונרחבת; כאן הכוונה למשבר ההתעללות בכנסייה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did a major 2021 inquiry estimate about abuse in the French Catholic Church?",
+      "difficulty": "B",
+      "options": [
+        "About 330,000 children were abused by clergy or lay Church workers over seven decades.",
+        "Seven people had reported abuse during a single year.",
+        "Every allegation had already been examined in court.",
+        "The inquiry found no institutional failures."
+      ],
+      "correct_answer": "About 330,000 children were abused by clergy or lay Church workers over seven decades.",
+      "explanation_hebrew": "החקירה העריכה שכ־330 אלף ילדים נפגעו מאנשי דת ומעובדים חילוניים הקשורים לכנסייה במשך שבעה עשורים."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Pope Leo do in Lourdes in addition to speaking publicly about abuse?",
+      "difficulty": "B",
+      "options": [
+        "He announced the closure of every French diocese.",
+        "He met privately with seven survivors of abuse.",
+        "He cancelled all meetings with survivors' groups.",
+        "He appointed a civil judge to lead the Vatican."
+      ],
+      "correct_answer": "He met privately with seven survivors of abuse.",
+      "explanation_hebrew": "במהלך הביקור בלורד הוא נפגש באופן פרטי עם שבעה שורדי התעללות."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do survivors and campaigners continue to demand accountability despite reforms already introduced?",
+      "difficulty": "B",
+      "options": [
+        "They believe the subject should be removed from public discussion.",
+        "They want the pilgrimage site to stop receiving visitors.",
+        "They argue that compensation and safeguarding steps have not yet produced sufficient institutional change or justice.",
+        "They oppose any independent investigation."
+      ],
+      "correct_answer": "They argue that compensation and safeguarding steps have not yet produced sufficient institutional change or justice.",
+      "explanation_hebrew": "הנפגעים טוענים שצעדים קיימים אינם מספיקים ללא אחריות מוסדית, שינוי מערכתי וטיפול עקבי בתלונות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two actions or commitments described in the article for responding to Church abuse.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני צעדים ממשיים או התחייבויות ולחבר אותם לאחריות כלפי הנפגעים.",
+      "expected_points": [
+        "Pope Leo called for continued vigilance and determination to root out abuse.",
+        "He met survivors and listened to their testimony.",
+        "French bishops introduced compensation and safeguarding measures after the inquiry.",
+        "Church leaders were urged to remain accountable and create safer conditions for children and vulnerable people."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is Lourdes a particularly significant setting for the Pope's message?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר גם את חשיבות המקום כאתר עלייה לרגל וגם את הקשר שלו למשבר ההתעללות.",
+      "expected_points": [
+        "Lourdes is one of Catholicism's most important pilgrimage sites and attracts large numbers of worshippers.",
+        "The Pope's public message there reaches both Church leaders and ordinary believers.",
+        "The sanctuary contains mosaics by Marko Rupnik, a priest accused of sexual abuse.",
+        "Meeting survivors at the site connects religious symbolism with demands for accountability."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the Pope's message, the evidence about the scale of abuse in France and the response of survivors.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את דברי האפיפיור, נתון מרכזי מן החקירה, המפגש עם הנפגעים והדרישה לאחריות.",
+      "expected_points": [
+        "Pope Leo called abuse a scourge that must be rooted out with vigilance and perseverance.",
+        "A 2021 inquiry estimated that about 330,000 children were abused in Church settings over seven decades.",
+        "The Pope met seven survivors during his visit to Lourdes.",
+        "Survivors and advocates say compensation and safeguarding measures must be accompanied by deeper accountability and reform."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, evaluate whether public statements and private meetings are enough to rebuild trust in the Church.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג עמדה מנומקת, להשתמש בלפחות שלוש ראיות מן הכתבה ולהבחין בין מחוות סמליות לבין שינוי מוסדי.",
+      "expected_points": [
+        "Public condemnation can acknowledge the scale and seriousness of abuse.",
+        "Meeting survivors can demonstrate willingness to listen to testimony directly.",
+        "The 2021 inquiry and continuing allegations show that trust requires more than words.",
+        "Independent accountability, safeguarding, reparations and transparent handling of allegations are needed for lasting reform.",
+        "A balanced answer may view the Pope's actions as important but incomplete steps."
+      ]
+    }
+  ]
+}
