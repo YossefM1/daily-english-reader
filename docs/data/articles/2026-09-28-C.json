@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-28",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Why some Indian civil servants become heroes for doing their jobs",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo",
+  "published_at": "2026-09-27T23:01:37+00:00",
+  "age_hours_at_selection": 3.15,
+  "word_count": 1067,
+  "generated_at": "2026-09-28T02:10:43.864064+00:00",
+  "difficulty_reason": "Longer analytical feature with dense argument, several sources and abstract ideas about bureaucracy and governance; richer B2/C1/C2 vocabulary and more background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "machinery",
+      "lemma": "machinery",
+      "level": "B2",
+      "hebrew": "מנגנון / מערכת",
+      "explanation_hebrew": "מכלול חלקים שגורמים למערכת לפעול",
+      "pronunciation_hebrew": "מָשִׁינֶרִי",
+      "example": "India's vast government machinery."
+    },
+    {
+      "word": "enforcement",
+      "lemma": "enforcement",
+      "level": "C1",
+      "hebrew": "אכיפה",
+      "explanation_hebrew": "הפעלה של חוקים והכרחתם",
+      "pronunciation_hebrew": "אֶנְפוֹרְסְמֶנְט",
+      "example": "He led several enforcement drives."
+    },
+    {
+      "word": "uncovering",
+      "lemma": "uncover",
+      "level": "B2",
+      "hebrew": "חושף / מגלה",
+      "explanation_hebrew": "מגלה משהו שהיה נסתר",
+      "pronunciation_hebrew": "אַנְקָאבֶרִינְג",
+      "example": "Inspections uncovering poor hygiene."
+    },
+    {
+      "word": "hygiene",
+      "lemma": "hygiene",
+      "level": "B2",
+      "hebrew": "היגיינה / תברואה",
+      "explanation_hebrew": "שמירה על ניקיון למניעת מחלות",
+      "pronunciation_hebrew": "הַייגִ'ין",
+      "example": "They found poor hygiene in kitchens."
+    },
+    {
+      "word": "expired",
+      "lemma": "expire",
+      "level": "B2",
+      "hebrew": "פג תוקף",
+      "explanation_hebrew": "שאינו תקף עוד לאחר שעבר זמנו",
+      "pronunciation_hebrew": "אֶקְסְפַּיירְד",
+      "example": "Inspectors found expired food."
+    },
+    {
+      "word": "encroachments",
+      "lemma": "encroachment",
+      "level": "C1",
+      "hebrew": "הסגות גבול / פלישות",
+      "explanation_hebrew": "בנייה או שימוש בשטח ללא רשות",
+      "pronunciation_hebrew": "אֶנְקְרוֹצְ'מֶנְטְס",
+      "example": "He acted against illegal encroachments."
+    },
+    {
+      "word": "bribes",
+      "lemma": "bribe",
+      "level": "B2",
+      "hebrew": "שוחד",
+      "explanation_hebrew": "כסף הניתן שלא כדין תמורת טובה",
+      "pronunciation_hebrew": "בְּרַייבְּס",
+      "example": "Officials are accused of taking bribes."
+    },
+    {
+      "word": "indifferent",
+      "lemma": "indifferent",
+      "level": "C1",
+      "hebrew": "אדיש",
+      "explanation_hebrew": "חסר עניין או אכפתיות",
+      "pronunciation_hebrew": "אִינְדִיפֶרֶנְט",
+      "example": "People faced indifferent treatment."
+    },
+    {
+      "word": "bureaucratic",
+      "lemma": "bureaucratic",
+      "level": "C1",
+      "hebrew": "ביורוקרטי",
+      "explanation_hebrew": "קשור לנהלים רשמיים מסובכים",
+      "pronunciation_hebrew": "בְּיוּרוֹקְרָטִיק",
+      "example": "Bureaucratic hurdles slow everything down."
+    },
+    {
+      "word": "hurdles",
+      "lemma": "hurdle",
+      "level": "B2",
+      "hebrew": "מכשולים",
+      "explanation_hebrew": "קשיים שיש להתגבר עליהם",
+      "pronunciation_hebrew": "הֶרְדְלְז",
+      "example": "Citizens face many bureaucratic hurdles."
+    },
+    {
+      "word": "governance",
+      "lemma": "governance",
+      "level": "C1",
+      "hebrew": "ממשל / ניהול",
+      "explanation_hebrew": "הדרך שבה מנהלים מדינה או ארגון",
+      "pronunciation_hebrew": "גָאבֶרְנֶנְס",
+      "example": "Efficient governance stands out as rare."
+    },
+    {
+      "word": "prominent",
+      "lemma": "prominent",
+      "level": "B2",
+      "hebrew": "בולט / חשוב",
+      "explanation_hebrew": "ידוע ובעל חשיבות רבה",
+      "pronunciation_hebrew": "פְּרוֹמִינֶנְט",
+      "example": "One prominent example is a former official."
+    },
+    {
+      "word": "fearlessly",
+      "lemma": "fearlessly",
+      "level": "C1",
+      "hebrew": "ללא פחד",
+      "explanation_hebrew": "בלי לפחד ובאומץ",
+      "pronunciation_hebrew": "פִירְלֶסְלִי",
+      "example": "He enforced the rules fearlessly."
+    },
+    {
+      "word": "intervening",
+      "lemma": "intervene",
+      "level": "C1",
+      "hebrew": "מתערב",
+      "explanation_hebrew": "נכנס לעניין כדי להשפיע עליו",
+      "pronunciation_hebrew": "אִינְטֶרְוִינִינְג",
+      "example": "He became known after intervening in a deal."
+    },
+    {
+      "word": "controversial",
+      "lemma": "controversial",
+      "level": "B2",
+      "hebrew": "שנוי במחלוקת",
+      "explanation_hebrew": "שגורם לחילוקי דעות חריפים",
+      "pronunciation_hebrew": "קוֹנְטְרוֹוֶרְשַׁל",
+      "example": "A controversial land transaction."
+    },
+    {
+      "word": "confronting",
+      "lemma": "confront",
+      "level": "B2",
+      "hebrew": "מתעמת / מתייצב מול",
+      "explanation_hebrew": "עומד באומץ מול קושי או אדם",
+      "pronunciation_hebrew": "קוֹנְפְרוֹנְטִינְג",
+      "example": "He was praised for confronting a mob."
+    },
+    {
+      "word": "rigidly",
+      "lemma": "rigidly",
+      "level": "C1",
+      "hebrew": "בנוקשות",
+      "explanation_hebrew": "בצורה קשוחה ולא גמישה",
+      "pronunciation_hebrew": "רִיגִ'ידְלִי",
+      "example": "He applied the rules too rigidly."
+    },
+    {
+      "word": "criticised",
+      "lemma": "criticise",
+      "level": "B2",
+      "hebrew": "מתח ביקורת",
+      "explanation_hebrew": "הביע דעה שלילית על משהו",
+      "pronunciation_hebrew": "קְרִיטִיסַייזְד",
+      "example": "He was criticised by the industry."
+    },
+    {
+      "word": "selective",
+      "lemma": "selective",
+      "level": "B2",
+      "hebrew": "בררני / סלקטיבי",
+      "explanation_hebrew": "בוחר רק חלק ולא את הכול",
+      "pronunciation_hebrew": "סֶלֶקְטִיב",
+      "example": "Critics called his action selective."
+    },
+    {
+      "word": "disproportionately",
+      "lemma": "disproportionately",
+      "level": "C2",
+      "hebrew": "באופן לא מידתי",
+      "explanation_hebrew": "יותר מדי ביחס למה שמתאים",
+      "pronunciation_hebrew": "דִיסְפְּרוֹפּוֹרְשֶׁנֶטְלִי",
+      "example": "It disproportionately affects the poor."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פגיע / חשוף",
+      "explanation_hebrew": "קל להיפגע או להיות מנוצל",
+      "pronunciation_hebrew": "וַואלְנֶרֶבְּל",
+      "example": "The action hurt vulnerable people."
+    },
+    {
+      "word": "unauthorised",
+      "lemma": "unauthorised",
+      "level": "C1",
+      "hebrew": "לא מורשה",
+      "explanation_hebrew": "ללא אישור או היתר רשמי",
+      "pronunciation_hebrew": "אַנְאוֹתוֹרַייזְד",
+      "example": "The stall was an unauthorised structure."
+    },
+    {
+      "word": "migrate",
+      "lemma": "migrate",
+      "level": "B2",
+      "hebrew": "נודד / מהגר",
+      "explanation_hebrew": "עובר לגור במקום אחר",
+      "pronunciation_hebrew": "מַייגְרֵייט",
+      "example": "Millions migrate to cities for work."
+    },
+    {
+      "word": "entails",
+      "lemma": "entail",
+      "level": "C1",
+      "hebrew": "כרוך ב / מצריך",
+      "explanation_hebrew": "מחייב או כולל בהכרח",
+      "pronunciation_hebrew": "אֶנְטֵיילְז",
+      "example": "Standing up to pressure entails costs."
+    },
+    {
+      "word": "spectacle",
+      "lemma": "spectacle",
+      "level": "C1",
+      "hebrew": "מחזה / ראווה",
+      "explanation_hebrew": "אירוע מרהיב שמושך תשומת לב",
+      "pronunciation_hebrew": "סְפֶּקְטֶקְל",
+      "example": "His inspections became a public spectacle."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "machinery",
+      "type": "english_to_hebrew",
+      "question": "What does “machinery” mean?",
+      "options": [
+        "גינה",
+        "מנגנון / מערכת",
+        "ספרייה",
+        "חנות"
+      ],
+      "correct_answer": "מנגנון / מערכת",
+      "explanation_hebrew": "machinery = מכלול חלקים שגורמים למערכת לפעול."
+    },
+    {
+      "id": "C-q2",
+      "word": "enforcement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"אכיפה\"?",
+      "options": [
+        "enforcement",
+        "celebration",
+        "invitation",
+        "description"
+      ],
+      "correct_answer": "enforcement",
+      "explanation_hebrew": "enforcement = הפעלה של חוקים והכרחתם."
+    },
+    {
+      "id": "C-q3",
+      "word": "uncovering",
+      "type": "english_to_hebrew",
+      "question": "What does “uncovering” mean?",
+      "options": [
+        "חושף / מגלה",
+        "סוגר",
+        "מוכר",
+        "מסתיר"
+      ],
+      "correct_answer": "חושף / מגלה",
+      "explanation_hebrew": "uncovering = מגלה משהו שהיה נסתר."
+    },
+    {
+      "id": "C-q4",
+      "word": "hygiene",
+      "type": "english_to_hebrew",
+      "question": "What does “hygiene” mean?",
+      "options": [
+        "עושר",
+        "שתיקה",
+        "מהירות",
+        "היגיינה / תברואה"
+      ],
+      "correct_answer": "היגיינה / תברואה",
+      "explanation_hebrew": "hygiene = שמירה על ניקיון למניעת מחלות."
+    },
+    {
+      "id": "C-q5",
+      "word": "expired",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"פג תוקף\"?",
+      "options": [
+        "fresh",
+        "cooked",
+        "expired",
+        "frozen"
+      ],
+      "correct_answer": "expired",
+      "explanation_hebrew": "expired = שאינו תקף עוד לאחר שעבר זמנו."
+    },
+    {
+      "id": "C-q6",
+      "word": "encroachments",
+      "type": "english_to_hebrew",
+      "question": "What does “encroachments” mean?",
+      "options": [
+        "מתנות",
+        "הבטחות",
+        "הסגות גבול / פלישות",
+        "חופשות"
+      ],
+      "correct_answer": "הסגות גבול / פלישות",
+      "explanation_hebrew": "encroachments = בנייה או שימוש בשטח ללא רשות."
+    },
+    {
+      "id": "C-q7",
+      "word": "bribes",
+      "type": "english_to_hebrew",
+      "question": "What does “bribes” mean?",
+      "options": [
+        "קנסות",
+        "מתנות חוקיות",
+        "שוחד",
+        "הלוואות"
+      ],
+      "correct_answer": "שוחד",
+      "explanation_hebrew": "bribes = כסף הניתן שלא כדין תמורת טובה."
+    },
+    {
+      "id": "C-q8",
+      "word": "indifferent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"אדיש\"?",
+      "options": [
+        "angry",
+        "indifferent",
+        "excited",
+        "kind"
+      ],
+      "correct_answer": "indifferent",
+      "explanation_hebrew": "indifferent = חסר עניין או אכפתיות."
+    },
+    {
+      "id": "C-q9",
+      "word": "bureaucratic",
+      "type": "english_to_hebrew",
+      "question": "What does “bureaucratic” mean?",
+      "options": [
+        "מדעי",
+        "ספורטיבי",
+        "ביורוקרטי",
+        "אומנותי"
+      ],
+      "correct_answer": "ביורוקרטי",
+      "explanation_hebrew": "bureaucratic = קשור לנהלים רשמיים מסובכים."
+    },
+    {
+      "id": "C-q10",
+      "word": "hurdles",
+      "type": "english_to_hebrew",
+      "question": "What does “hurdles” mean?",
+      "options": [
+        "חגים",
+        "כלים",
+        "פרסים",
+        "מכשולים"
+      ],
+      "correct_answer": "מכשולים",
+      "explanation_hebrew": "hurdles = קשיים שיש להתגבר עליהם."
+    },
+    {
+      "id": "C-q11",
+      "word": "governance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"ממשל / ניהול\"?",
+      "options": [
+        "distance",
+        "weather",
+        "governance",
+        "silence"
+      ],
+      "correct_answer": "governance",
+      "explanation_hebrew": "governance = הדרך שבה מנהלים מדינה או ארגון."
+    },
+    {
+      "id": "C-q12",
+      "word": "prominent",
+      "type": "english_to_hebrew",
+      "question": "What does “prominent” mean?",
+      "options": [
+        "בולט / חשוב",
+        "עייף",
+        "נסתר",
+        "זול"
+      ],
+      "correct_answer": "בולט / חשוב",
+      "explanation_hebrew": "prominent = ידוע ובעל חשיבות רבה."
+    },
+    {
+      "id": "C-q13",
+      "word": "fearlessly",
+      "type": "english_to_hebrew",
+      "question": "What does “fearlessly” mean?",
+      "options": [
+        "בשקט",
+        "באיטיות",
+        "בעצלות",
+        "ללא פחד"
+      ],
+      "correct_answer": "ללא פחד",
+      "explanation_hebrew": "fearlessly = בלי לפחד ובאומץ."
+    },
+    {
+      "id": "C-q14",
+      "word": "intervening",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"מתערב\"?",
+      "options": [
+        "selling",
+        "resting",
+        "hiding",
+        "intervening"
+      ],
+      "correct_answer": "intervening",
+      "explanation_hebrew": "intervening = נכנס לעניין כדי להשפיע עליו."
+    },
+    {
+      "id": "C-q15",
+      "word": "controversial",
+      "type": "english_to_hebrew",
+      "question": "What does “controversial” mean?",
+      "options": [
+        "שנוי במחלוקת",
+        "מוסכם",
+        "משעמם",
+        "זול"
+      ],
+      "correct_answer": "שנוי במחלוקת",
+      "explanation_hebrew": "controversial = שגורם לחילוקי דעות חריפים."
+    },
+    {
+      "id": "C-q16",
+      "word": "confronting",
+      "type": "english_to_hebrew",
+      "question": "What does “confronting” mean?",
+      "options": [
+        "עוזר ל",
+        "מתעמת / מתייצב מול",
+        "מתעלם מ",
+        "בורח מ"
+      ],
+      "correct_answer": "מתעמת / מתייצב מול",
+      "explanation_hebrew": "confronting = עומד באומץ מול קושי או אדם."
+    },
+    {
+      "id": "C-q17",
+      "word": "rigidly",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"בנוקשות\"?",
+      "options": [
+        "rigidly",
+        "rarely",
+        "freely",
+        "gently"
+      ],
+      "correct_answer": "rigidly",
+      "explanation_hebrew": "rigidly = בצורה קשוחה ולא גמישה."
+    },
+    {
+      "id": "C-q18",
+      "word": "criticised",
+      "type": "english_to_hebrew",
+      "question": "What does “criticised” mean?",
+      "options": [
+        "שיבח",
+        "מימן",
+        "מתח ביקורת",
+        "ארגן"
+      ],
+      "correct_answer": "מתח ביקורת",
+      "explanation_hebrew": "criticised = הביע דעה שלילית על משהו."
+    },
+    {
+      "id": "C-q19",
+      "word": "selective",
+      "type": "english_to_hebrew",
+      "question": "What does “selective” mean?",
+      "options": [
+        "בררני / סלקטיבי",
+        "נדיב",
+        "שקט",
+        "מהיר"
+      ],
+      "correct_answer": "בררני / סלקטיבי",
+      "explanation_hebrew": "selective = בוחר רק חלק ולא את הכול."
+    },
+    {
+      "id": "C-q20",
+      "word": "disproportionately",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"באופן לא מידתי\"?",
+      "options": [
+        "equally",
+        "quietly",
+        "disproportionately",
+        "clearly"
+      ],
+      "correct_answer": "disproportionately",
+      "explanation_hebrew": "disproportionately = יותר מדי ביחס למה שמתאים."
+    },
+    {
+      "id": "C-q21",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "מנוסה",
+        "עשיר",
+        "פגיע / חשוף",
+        "חזק"
+      ],
+      "correct_answer": "פגיע / חשוף",
+      "explanation_hebrew": "vulnerable = קל להיפגע או להיות מנוצל."
+    },
+    {
+      "id": "C-q22",
+      "word": "unauthorised",
+      "type": "english_to_hebrew",
+      "question": "What does “unauthorised” mean?",
+      "options": [
+        "לא מורשה",
+        "יקר",
+        "גדול",
+        "רשמי"
+      ],
+      "correct_answer": "לא מורשה",
+      "explanation_hebrew": "unauthorised = ללא אישור או היתר רשמי."
+    },
+    {
+      "id": "C-q23",
+      "word": "migrate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"נודד / מהגר\"?",
+      "options": [
+        "remain",
+        "migrate",
+        "return",
+        "rest"
+      ],
+      "correct_answer": "migrate",
+      "explanation_hebrew": "migrate = עובר לגור במקום אחר."
+    },
+    {
+      "id": "C-q24",
+      "word": "entails",
+      "type": "english_to_hebrew",
+      "question": "What does “entails” mean?",
+      "options": [
+        "מונע",
+        "כרוך ב / מצריך",
+        "מסיים",
+        "מבטל"
+      ],
+      "correct_answer": "כרוך ב / מצריך",
+      "explanation_hebrew": "entails = מחייב או כולל בהכרח."
+    },
+    {
+      "id": "C-q25",
+      "word": "spectacle",
+      "type": "english_to_hebrew",
+      "question": "What does “spectacle” mean?",
+      "options": [
+        "שגרה",
+        "שקט",
+        "מחזה / ראווה",
+        "סוד"
+      ],
+      "correct_answer": "מחזה / ראווה",
+      "explanation_hebrew": "spectacle = אירוע מרהיב שמושך תשומת לב."
+    }
+  ]
+}
