@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-29",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "OpenAI scraps rollout of new model over safety concerns",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-09-29T01:51:25+00:00",
+  "age_hours_at_selection": 0.3,
+  "word_count": 589,
+  "generated_at": "2026-09-29T02:09:39.539992+00:00",
+  "difficulty_reason": "Short, direct news report with a clear single storyline and mostly B1/B2 vocabulary; little specialist background knowledge is needed beyond a basic idea of AI.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "concerns",
+      "lemma": "concern",
+      "level": "B1",
+      "hebrew": "דאגות",
+      "explanation_hebrew": "תחושות של חשש או אי-שקט לגבי משהו",
+      "pronunciation_hebrew": "קוֹנְסֶרְנְז",
+      "example": "The report raised serious concerns about safety."
+    },
+    {
+      "word": "confirmed",
+      "lemma": "confirm",
+      "level": "B1",
+      "hebrew": "אישר",
+      "explanation_hebrew": "מסר שמשהו נכון או ודאי",
+      "pronunciation_hebrew": "קוֹנְפֶרְמְד",
+      "example": "The company confirmed the news on Tuesday."
+    },
+    {
+      "word": "performs",
+      "lemma": "perform",
+      "level": "B1",
+      "hebrew": "מבצע",
+      "explanation_hebrew": "עושה משימה או פעולה",
+      "pronunciation_hebrew": "פֶּרְפוֹרְמְז",
+      "example": "The system performs many tasks by itself."
+    },
+    {
+      "word": "browsing",
+      "lemma": "browse",
+      "level": "B2",
+      "hebrew": "גלישה",
+      "explanation_hebrew": "עיון או חיפוש באתרי אינטרנט",
+      "pronunciation_hebrew": "בְּרַאוּזִינְג",
+      "example": "She spent the evening browsing the web."
+    },
+    {
+      "word": "standards",
+      "lemma": "standard",
+      "level": "B1",
+      "hebrew": "סטנדרטים",
+      "explanation_hebrew": "רמות איכות שנקבעו כדרישה",
+      "pronunciation_hebrew": "סְטֶנְדַרְדְז",
+      "example": "The product did not meet our standards."
+    },
+    {
+      "word": "incidents",
+      "lemma": "incident",
+      "level": "B2",
+      "hebrew": "אירועים",
+      "explanation_hebrew": "מקרים, לעיתים לא נעימים או חריגים",
+      "pronunciation_hebrew": "אִינְסִידֶנְטְס",
+      "example": "There were several security incidents last week."
+    },
+    {
+      "word": "occurred",
+      "lemma": "occur",
+      "level": "B2",
+      "hebrew": "התרחש",
+      "explanation_hebrew": "קרה או אירע",
+      "pronunciation_hebrew": "אוֹקֶרְד",
+      "example": "The problem occurred in June."
+    },
+    {
+      "word": "accessed",
+      "lemma": "access",
+      "level": "B2",
+      "hebrew": "ניגש אל",
+      "explanation_hebrew": "הגיע אל מידע או מערכת והשתמש בהם",
+      "pronunciation_hebrew": "אֶקְסֶסְד",
+      "example": "The program accessed private data without permission."
+    },
+    {
+      "word": "breaches",
+      "lemma": "breach",
+      "level": "C1",
+      "hebrew": "הפרות",
+      "explanation_hebrew": "מקרים של פריצה או הפרת כללים ואבטחה",
+      "pronunciation_hebrew": "בְּרִיצִ'יז",
+      "example": "Data breaches can expose users' information."
+    },
+    {
+      "word": "intensified",
+      "lemma": "intensify",
+      "level": "C1",
+      "hebrew": "התעצם",
+      "explanation_hebrew": "הפך חזק או עז יותר",
+      "pronunciation_hebrew": "אִינְטֶנְסִיפַייד",
+      "example": "The debate intensified in recent weeks."
+    },
+    {
+      "word": "debate",
+      "lemma": "debate",
+      "level": "B1",
+      "hebrew": "ויכוח",
+      "explanation_hebrew": "דיון ציבורי בין דעות שונות",
+      "pronunciation_hebrew": "דִיבֵּייט",
+      "example": "There is a growing debate about the risks."
+    },
+    {
+      "word": "risks",
+      "lemma": "risk",
+      "level": "B1",
+      "hebrew": "סיכונים",
+      "explanation_hebrew": "סכנות אפשריות או תוצאות שליליות",
+      "pronunciation_hebrew": "רִיסְקְס",
+      "example": "Experts warned about the risks of the technology."
+    },
+    {
+      "word": "urged",
+      "lemma": "urge",
+      "level": "B2",
+      "hebrew": "קרא ל־ / דחק",
+      "explanation_hebrew": "עודד בתוקף לעשות משהו",
+      "pronunciation_hebrew": "אֶרְגְ'ד",
+      "example": "Leaders urged the industry to slow down."
+    },
+    {
+      "word": "industry",
+      "lemma": "industry",
+      "level": "B1",
+      "hebrew": "תעשייה",
+      "explanation_hebrew": "ענף כלכלי שלם של חברות ופעילות",
+      "pronunciation_hebrew": "אִינְדַסְטְרִי",
+      "example": "The whole industry is watching the change."
+    },
+    {
+      "word": "pace",
+      "lemma": "pace",
+      "level": "B2",
+      "hebrew": "קצב",
+      "explanation_hebrew": "מהירות שבה משהו מתרחש או מתקדם",
+      "pronunciation_hebrew": "פֵּייס",
+      "example": "They want to slow the pace of development."
+    },
+    {
+      "word": "instance",
+      "lemma": "instance",
+      "level": "B2",
+      "hebrew": "מקרה / דוגמה",
+      "explanation_hebrew": "דוגמה מסוימת של משהו",
+      "pronunciation_hebrew": "אִינְסְטַנְס",
+      "example": "This is a rare instance of a delay."
+    },
+    {
+      "word": "release",
+      "lemma": "release",
+      "level": "B1",
+      "hebrew": "שחרור / הוצאה לשוק",
+      "explanation_hebrew": "הפצה של מוצר חדש לציבור",
+      "pronunciation_hebrew": "רִילִיס",
+      "example": "The company delayed the release of its model."
+    },
+    {
+      "word": "scrutiny",
+      "lemma": "scrutiny",
+      "level": "C1",
+      "hebrew": "בחינה מדוקדקת",
+      "explanation_hebrew": "בדיקה קפדנית ומעמיקה",
+      "pronunciation_hebrew": "סְקְרוּטִינִי",
+      "example": "Its controls came under intense scrutiny."
+    },
+    {
+      "word": "rogue",
+      "lemma": "rogue",
+      "level": "C1",
+      "hebrew": "סורר / פורע חוק",
+      "explanation_hebrew": "פועל באופן עצמאי ומזיק, בניגוד לכללים",
+      "pronunciation_hebrew": "רוֹג",
+      "example": "A rogue agent hacked into the systems."
+    },
+    {
+      "word": "criticised",
+      "lemma": "criticise",
+      "level": "B2",
+      "hebrew": "מתח ביקורת",
+      "explanation_hebrew": "אמר שמשהו לא טוב או לא נכון",
+      "pronunciation_hebrew": "קְרִיטִיסַייזְד",
+      "example": "Officials criticised the slow response."
+    },
+    {
+      "word": "generic",
+      "lemma": "generic",
+      "level": "B2",
+      "hebrew": "כללי / גנרי",
+      "explanation_hebrew": "לא ספציפי, מתאים למקרים רבים",
+      "pronunciation_hebrew": "גֶ'נֶרִיק",
+      "example": "They sent a generic email instead of a personal one."
+    },
+    {
+      "word": "statement",
+      "lemma": "statement",
+      "level": "B1",
+      "hebrew": "הצהרה / הודעה",
+      "explanation_hebrew": "אמירה רשמית וכתובה",
+      "pronunciation_hebrew": "סְטֵייטְמֶנְט",
+      "example": "The firm apologised in a public statement."
+    },
+    {
+      "word": "prompting",
+      "lemma": "prompt",
+      "level": "B2",
+      "hebrew": "גורם ל־ / מעורר",
+      "explanation_hebrew": "מביא לכך שמשהו יקרה",
+      "pronunciation_hebrew": "פְּרוֹמְפְּטִינְג",
+      "example": "The hack, prompting calls for tighter rules."
+    },
+    {
+      "word": "dismissed",
+      "lemma": "dismiss",
+      "level": "B2",
+      "hebrew": "דחה / ביטל",
+      "explanation_hebrew": "לא התייחס למשהו ברצינות",
+      "pronunciation_hebrew": "דִיסְמִיסְד",
+      "example": "He dismissed the concerns as unimportant."
+    },
+    {
+      "word": "sufficient",
+      "lemma": "sufficient",
+      "level": "B2",
+      "hebrew": "מספיק / מספק",
+      "explanation_hebrew": "כמות מספקת לצורך מסוים",
+      "pronunciation_hebrew": "סַפִישֶׁנְט",
+      "example": "They argued the current laws are sufficient."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "concerns",
+      "type": "english_to_hebrew",
+      "question": "What does “concerns” mean?",
+      "options": [
+        "אישר",
+        "מבצע",
+        "דאגות",
+        "גלישה"
+      ],
+      "correct_answer": "דאגות",
+      "explanation_hebrew": "“concerns” פירושו דאגות. תחושות של חשש או אי-שקט לגבי משהו."
+    },
+    {
+      "id": "A-q2",
+      "word": "confirmed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אישר”?",
+      "options": [
+        "confirmed",
+        "performs",
+        "browsing",
+        "standards"
+      ],
+      "correct_answer": "confirmed",
+      "explanation_hebrew": "המילה “confirmed” פירושה אישר. מסר שמשהו נכון או ודאי."
+    },
+    {
+      "id": "A-q3",
+      "word": "performs",
+      "type": "english_to_hebrew",
+      "question": "What does “performs” mean?",
+      "options": [
+        "סטנדרטים",
+        "גלישה",
+        "אירועים",
+        "מבצע"
+      ],
+      "correct_answer": "מבצע",
+      "explanation_hebrew": "“performs” פירושו מבצע. עושה משימה או פעולה."
+    },
+    {
+      "id": "A-q4",
+      "word": "browsing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גלישה”?",
+      "options": [
+        "incidents",
+        "browsing",
+        "standards",
+        "occurred"
+      ],
+      "correct_answer": "browsing",
+      "explanation_hebrew": "המילה “browsing” פירושה גלישה. עיון או חיפוש באתרי אינטרנט."
+    },
+    {
+      "id": "A-q5",
+      "word": "standards",
+      "type": "english_to_hebrew",
+      "question": "What does “standards” mean?",
+      "options": [
+        "התרחש",
+        "ניגש אל",
+        "סטנדרטים",
+        "אירועים"
+      ],
+      "correct_answer": "סטנדרטים",
+      "explanation_hebrew": "“standards” פירושו סטנדרטים. רמות איכות שנקבעו כדרישה."
+    },
+    {
+      "id": "A-q6",
+      "word": "incidents",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אירועים”?",
+      "options": [
+        "breaches",
+        "occurred",
+        "incidents",
+        "accessed"
+      ],
+      "correct_answer": "incidents",
+      "explanation_hebrew": "המילה “incidents” פירושה אירועים. מקרים, לעיתים לא נעימים או חריגים."
+    },
+    {
+      "id": "A-q7",
+      "word": "occurred",
+      "type": "english_to_hebrew",
+      "question": "What does “occurred” mean?",
+      "options": [
+        "התעצם",
+        "ניגש אל",
+        "הפרות",
+        "התרחש"
+      ],
+      "correct_answer": "התרחש",
+      "explanation_hebrew": "“occurred” פירושו התרחש. קרה או אירע."
+    },
+    {
+      "id": "A-q8",
+      "word": "accessed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ניגש אל”?",
+      "options": [
+        "breaches",
+        "accessed",
+        "intensified",
+        "debate"
+      ],
+      "correct_answer": "accessed",
+      "explanation_hebrew": "המילה “accessed” פירושה ניגש אל. הגיע אל מידע או מערכת והשתמש בהם."
+    },
+    {
+      "id": "A-q9",
+      "word": "breaches",
+      "type": "english_to_hebrew",
+      "question": "What does “breaches” mean?",
+      "options": [
+        "התעצם",
+        "הפרות",
+        "ויכוח",
+        "סיכונים"
+      ],
+      "correct_answer": "הפרות",
+      "explanation_hebrew": "“breaches” פירושו הפרות. מקרים של פריצה או הפרת כללים ואבטחה."
+    },
+    {
+      "id": "A-q10",
+      "word": "intensified",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התעצם”?",
+      "options": [
+        "risks",
+        "intensified",
+        "urged",
+        "debate"
+      ],
+      "correct_answer": "intensified",
+      "explanation_hebrew": "המילה “intensified” פירושה התעצם. הפך חזק או עז יותר."
+    },
+    {
+      "id": "A-q11",
+      "word": "debate",
+      "type": "english_to_hebrew",
+      "question": "What does “debate” mean?",
+      "options": [
+        "קרא ל־ / דחק",
+        "תעשייה",
+        "סיכונים",
+        "ויכוח"
+      ],
+      "correct_answer": "ויכוח",
+      "explanation_hebrew": "“debate” פירושו ויכוח. דיון ציבורי בין דעות שונות."
+    },
+    {
+      "id": "A-q12",
+      "word": "risks",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סיכונים”?",
+      "options": [
+        "industry",
+        "risks",
+        "pace",
+        "urged"
+      ],
+      "correct_answer": "risks",
+      "explanation_hebrew": "המילה “risks” פירושה סיכונים. סכנות אפשריות או תוצאות שליליות."
+    },
+    {
+      "id": "A-q13",
+      "word": "urged",
+      "type": "english_to_hebrew",
+      "question": "What does “urged” mean?",
+      "options": [
+        "תעשייה",
+        "מקרה / דוגמה",
+        "קרא ל־ / דחק",
+        "קצב"
+      ],
+      "correct_answer": "קרא ל־ / דחק",
+      "explanation_hebrew": "“urged” פירושו קרא ל־ / דחק. עודד בתוקף לעשות משהו."
+    },
+    {
+      "id": "A-q14",
+      "word": "industry",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תעשייה”?",
+      "options": [
+        "industry",
+        "pace",
+        "release",
+        "instance"
+      ],
+      "correct_answer": "industry",
+      "explanation_hebrew": "המילה “industry” פירושה תעשייה. ענף כלכלי שלם של חברות ופעילות."
+    },
+    {
+      "id": "A-q15",
+      "word": "pace",
+      "type": "english_to_hebrew",
+      "question": "What does “pace” mean?",
+      "options": [
+        "בחינה מדוקדקת",
+        "שחרור / הוצאה לשוק",
+        "קצב",
+        "מקרה / דוגמה"
+      ],
+      "correct_answer": "קצב",
+      "explanation_hebrew": "“pace” פירושו קצב. מהירות שבה משהו מתרחש או מתקדם."
+    },
+    {
+      "id": "A-q16",
+      "word": "instance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מקרה / דוגמה”?",
+      "options": [
+        "rogue",
+        "instance",
+        "scrutiny",
+        "release"
+      ],
+      "correct_answer": "instance",
+      "explanation_hebrew": "המילה “instance” פירושה מקרה / דוגמה. דוגמה מסוימת של משהו."
+    },
+    {
+      "id": "A-q17",
+      "word": "release",
+      "type": "english_to_hebrew",
+      "question": "What does “release” mean?",
+      "options": [
+        "מתח ביקורת",
+        "שחרור / הוצאה לשוק",
+        "סורר / פורע חוק",
+        "בחינה מדוקדקת"
+      ],
+      "correct_answer": "שחרור / הוצאה לשוק",
+      "explanation_hebrew": "“release” פירושו שחרור / הוצאה לשוק. הפצה של מוצר חדש לציבור."
+    },
+    {
+      "id": "A-q18",
+      "word": "scrutiny",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בחינה מדוקדקת”?",
+      "options": [
+        "scrutiny",
+        "criticised",
+        "generic",
+        "rogue"
+      ],
+      "correct_answer": "scrutiny",
+      "explanation_hebrew": "המילה “scrutiny” פירושה בחינה מדוקדקת. בדיקה קפדנית ומעמיקה."
+    },
+    {
+      "id": "A-q19",
+      "word": "rogue",
+      "type": "english_to_hebrew",
+      "question": "What does “rogue” mean?",
+      "options": [
+        "סורר / פורע חוק",
+        "הצהרה / הודעה",
+        "כללי / גנרי",
+        "מתח ביקורת"
+      ],
+      "correct_answer": "סורר / פורע חוק",
+      "explanation_hebrew": "“rogue” פירושו סורר / פורע חוק. פועל באופן עצמאי ומזיק, בניגוד לכללים."
+    },
+    {
+      "id": "A-q20",
+      "word": "criticised",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מתח ביקורת”?",
+      "options": [
+        "generic",
+        "prompting",
+        "criticised",
+        "statement"
+      ],
+      "correct_answer": "criticised",
+      "explanation_hebrew": "המילה “criticised” פירושה מתח ביקורת. אמר שמשהו לא טוב או לא נכון."
+    },
+    {
+      "id": "A-q21",
+      "word": "generic",
+      "type": "english_to_hebrew",
+      "question": "What does “generic” mean?",
+      "options": [
+        "דחה / ביטל",
+        "כללי / גנרי",
+        "הצהרה / הודעה",
+        "גורם ל־ / מעורר"
+      ],
+      "correct_answer": "כללי / גנרי",
+      "explanation_hebrew": "“generic” פירושו כללי / גנרי. לא ספציפי, מתאים למקרים רבים."
+    },
+    {
+      "id": "A-q22",
+      "word": "statement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הצהרה / הודעה”?",
+      "options": [
+        "sufficient",
+        "prompting",
+        "statement",
+        "dismissed"
+      ],
+      "correct_answer": "statement",
+      "explanation_hebrew": "המילה “statement” פירושה הצהרה / הודעה. אמירה רשמית וכתובה."
+    },
+    {
+      "id": "A-q23",
+      "word": "prompting",
+      "type": "english_to_hebrew",
+      "question": "What does “prompting” mean?",
+      "options": [
+        "גורם ל־ / מעורר",
+        "דאגות",
+        "מספיק / מספק",
+        "דחה / ביטל"
+      ],
+      "correct_answer": "גורם ל־ / מעורר",
+      "explanation_hebrew": "“prompting” פירושו גורם ל־ / מעורר. מביא לכך שמשהו יקרה."
+    },
+    {
+      "id": "A-q24",
+      "word": "dismissed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דחה / ביטל”?",
+      "options": [
+        "confirmed",
+        "dismissed",
+        "sufficient",
+        "concerns"
+      ],
+      "correct_answer": "dismissed",
+      "explanation_hebrew": "המילה “dismissed” פירושה דחה / ביטל. לא התייחס למשהו ברצינות."
+    },
+    {
+      "id": "A-q25",
+      "word": "sufficient",
+      "type": "english_to_hebrew",
+      "question": "What does “sufficient” mean?",
+      "options": [
+        "אישר",
+        "מבצע",
+        "מספיק / מספק",
+        "דאגות"
+      ],
+      "correct_answer": "מספיק / מספק",
+      "explanation_hebrew": "“sufficient” פירושו מספיק / מספק. כמות מספקת לצורך מסוים."
+    }
+  ]
+}
