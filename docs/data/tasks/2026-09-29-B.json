@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-29",
+  "article_id": "B",
+  "article_title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What question does the article investigate about university content-creation degrees?",
+      "difficulty": "B",
+      "options": [
+        "Whether all social-media platforms should close",
+        "Whether a degree costing about £30,000 provides enough value for aspiring creators",
+        "Whether universities should stop teaching business subjects",
+        "Whether creators should work only for traditional television"
+      ],
+      "correct_answer": "Whether a degree costing about £30,000 provides enough value for aspiring creators",
+      "explanation_hebrew": "הכתבה בוחנת אם תואר יקר ביצירת תוכן מעניק יתרונות שמצדיקים עלות של כ־30 אלף ליש״ט."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which benefits of studying the degree are described in the article?",
+      "difficulty": "B",
+      "options": [
+        "A guaranteed million followers",
+        "Access to equipment, industry contacts and structured professional learning",
+        "Automatic employment by every social-media platform",
+        "Freedom from producing any practical work"
+      ],
+      "correct_answer": "Access to equipment, industry contacts and structured professional learning",
+      "explanation_hebrew": "בין היתרונות המתוארים: ציוד מקצועי, קשרים בתעשייה ומסגרת לימודים מסודרת לפיתוח מיומנויות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “monetise” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "Delete old content",
+        "Copy another creator's style",
+        "Turn content into a source of income",
+        "Study without using the internet"
+      ],
+      "correct_answer": "Turn content into a source of income",
+      "explanation_hebrew": "monetise פירושו להפוך תוכן למקור הכנסה, למשל באמצעות עסקאות עם מותגים או מקורות רווח אחרים."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “saturated” suggest about the online market for creator advice?",
+      "difficulty": "B",
+      "options": [
+        "It is available only inside universities.",
+        "It has no information at all.",
+        "It is controlled by one creator.",
+        "It is already very full of competing content and free advice."
+      ],
+      "correct_answer": "It is already very full of competing content and free advice.",
+      "explanation_hebrew": "saturated פירושו רווי או גדוש; בהקשר הזה כבר יש ברשת שפע עצום של עצות ותוכן מתחרה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What concern is raised by the length and cost of the qualification?",
+      "difficulty": "B",
+      "options": [
+        "Students are not allowed to create content during the course.",
+        "People can learn many creator skills online without committing to a long, expensive degree.",
+        "The degree contains no practical equipment.",
+        "Universities refuse to teach business strategy."
+      ],
+      "correct_answer": "People can learn many creator skills online without committing to a long, expensive degree.",
+      "explanation_hebrew": "הספק נובע מכך שחלק גדול מן הידע זמין בחינם ברשת, ולכן יש השואלים אם כדאי להתחייב לתואר ארוך ויקר."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are transferable skills important in evaluating the degree?",
+      "difficulty": "B",
+      "options": [
+        "They guarantee viral success on every platform.",
+        "They remove the need for creativity.",
+        "They can be used in several careers even if a graduate does not become a full-time influencer.",
+        "They prevent social-media platforms from changing."
+      ],
+      "correct_answer": "They can be used in several careers even if a graduate does not become a full-time influencer.",
+      "explanation_hebrew": "כישורים הניתנים להעברה—כמו הפקה, אסטרטגיה וניתוח נתונים—עשויים לסייע גם במקצועות אחרים ולא רק בקריירה כמשפיען."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three things students may gain from a university content-creation course.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה יתרונות קונקרטיים שהכתבה מייחסת למסלול ולנסח כיצד כל אחד יכול לסייע לקריירה.",
+      "expected_points": [
+        "Access to professional equipment or studio facilities.",
+        "Industry contacts and networking opportunities.",
+        "A recognised qualification and a clearer career pathway.",
+        "Practical training in creativity, production and content strategy.",
+        "Business skills for monetising work and using data to adapt strategies.",
+        "Transferable professional skills that apply beyond influencing."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might a successful creator still say that a degree is not necessary for everyone?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את החלופות הזמינות, את אי־הוודאות בהכנסות ואת ההבדל בין מסגרת לימודית לבין ניסיון מעשי.",
+      "expected_points": [
+        "Free online advice makes self-directed learning possible.",
+        "Creators can build a niche by publishing and testing content directly.",
+        "Success and income are not guaranteed by a qualification.",
+        "A long course requires a major financial and time commitment.",
+        "Some learners may value university equipment, contacts and structure more than others."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the strongest arguments for and against paying for a content-creation degree.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך להציג באופן מאוזן לפחות שני יתרונות ושני חסרונות, ולחזור לשאלת התמורה ביחס לעלות.",
+      "expected_points": [
+        "Supporters point to equipment, expert teaching, contacts and a structured pathway.",
+        "The degree can teach creative, professional and business skills, including monetisation and strategy.",
+        "The skills may transfer to jobs beyond being an influencer.",
+        "Critics note the roughly £30,000 cost and the long commitment.",
+        "Much advice is available free online, while creator income remains uncertain.",
+        "The value depends on the student's goals, learning style and use of the opportunities."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, advise an aspiring creator how to decide whether this degree is worth the cost.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג מסגרת החלטה ברורה, להשתמש בלפחות ארבע ראיות מן הכתבה ולתת המלצה מותנית ולא תשובה כללית בלבד.",
+      "expected_points": [
+        "Compare tuition and living costs with affordable or free alternatives.",
+        "Assess whether access to equipment, contacts and structured feedback is personally valuable.",
+        "Check the course's practical modules, graduate outcomes and industry links.",
+        "Consider whether transferable skills support a broader career plan.",
+        "Test interest by creating content and trying to monetise it before committing.",
+        "Recognise that a degree can provide a pathway but cannot guarantee income or audience growth."
+      ]
+    }
+  ]
+}

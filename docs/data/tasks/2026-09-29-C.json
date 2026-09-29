@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-29",
+  "article_id": "C",
+  "article_title": "Could psychedelic therapy become NHS treatment for mental health?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmvgy9ew7815o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What possibility does the article examine?",
+      "difficulty": "C",
+      "options": [
+        "Replacing all NHS mental-health care with mobile apps",
+        "Using psychedelic-assisted therapy as a future NHS treatment, while weighing evidence, regulation and risk",
+        "Making psychedelic drugs freely available without therapy",
+        "Ending clinical research into chronic anxiety"
+      ],
+      "correct_answer": "Using psychedelic-assisted therapy as a future NHS treatment, while weighing evidence, regulation and risk",
+      "explanation_hebrew": "הכתבה בוחנת האם טיפול פסיכדלי מלווה יכול להשתלב בעתיד ב־NHS, לצד שאלות על ראיות, פיקוח וסיכונים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How were participants treated in the clinical setting described?",
+      "difficulty": "C",
+      "options": [
+        "They took substances alone at home.",
+        "They received a psychoactive compound in a controlled setting with careful monitoring.",
+        "They were given only an online questionnaire.",
+        "They were promised permanent recovery after one hour."
+      ],
+      "correct_answer": "They received a psychoactive compound in a controlled setting with careful monitoring.",
+      "explanation_hebrew": "הטיפול המתואר נעשה בסביבה מבוקרת, עם הכנה ומעקב מקצועי אחר המשתתפים, ולא כשימוש עצמאי."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “unregulated” mean in the article's warning about treatment abroad?",
+      "difficulty": "C",
+      "options": [
+        "Funded by the NHS",
+        "Scientifically proven forever",
+        "Operating without adequate official rules or supervision",
+        "Available only to researchers"
+      ],
+      "correct_answer": "Operating without adequate official rules or supervision",
+      "explanation_hebrew": "unregulated פירושו ללא פיקוח או הסדרה רשמית מספקת; הדבר מגדיל את הסיכון לפרקטיקות לא בטוחות או לא אתיות."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “temper expectations” mean in the researchers' comments?",
+      "difficulty": "C",
+      "options": [
+        "Ignore every positive result",
+        "Make treatment physically warmer",
+        "End all patient follow-up",
+        "Reduce overly optimistic hopes until stronger evidence is available"
+      ],
+      "correct_answer": "Reduce overly optimistic hopes until stronger evidence is available",
+      "explanation_hebrew": "temper expectations פירושו למתן ציפיות; החוקרים מבקשים לא להסיק מסקנות גדולות מדי לפני שיש ראיות חזקות וארוכות טווח."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What legal classification complicates research and possible medical access in the UK?",
+      "difficulty": "C",
+      "options": [
+        "The substances are ordinary pharmacy products.",
+        "They are treated as Class A and Schedule 1 substances.",
+        "They are regulated only as food supplements.",
+        "They can be prescribed by anyone without approval."
+      ],
+      "correct_answer": "They are treated as Class A and Schedule 1 substances.",
+      "explanation_hebrew": "הכתבה מציינת סיווג כ־Class A וכחומרי Schedule 1, שמטיל מגבלות כבדות על מחקר, אחסון ושימוש רפואי."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article stress preparation and follow-up rather than presenting the drug alone as the treatment?",
+      "difficulty": "C",
+      "options": [
+        "The compound has no effect on the brain.",
+        "Preparation is needed only to complete paperwork.",
+        "Therapeutic support helps patients interpret difficult experiences and assess whether benefits last.",
+        "Follow-up guarantees that every patient will recover."
+      ],
+      "correct_answer": "Therapeutic support helps patients interpret difficult experiences and assess whether benefits last.",
+      "explanation_hebrew": "הטיפול כולל יותר מן החומר עצמו: הכנה, ליווי ועיבוד לאחר החוויה מסייעים להתמודד עם רגשות ולבדוק אם השינוי נשמר."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three safeguards or limitations described in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה מנגנוני זהירות או מגבלות קונקרטיים ולהסביר בקצרה את חשיבותם.",
+      "expected_points": [
+        "Participants are carefully screened and monitored in a controlled setting.",
+        "Treatment involves extensive preparation and therapeutic support.",
+        "Researchers caution that it is not yet clear whether benefits are sustained.",
+        "The substances' Class A and Schedule 1 status restricts access and research.",
+        "Experts warn against self-medication and unregulated overseas providers.",
+        "More evidence is needed before routine NHS adoption."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can a transformative personal account be persuasive but insufficient evidence for NHS adoption?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להבחין בין עדות אישית לבין ראיות קליניות, ולדון ביעילות, בטיחות, הכללה ומעקב ארוך טווח.",
+      "expected_points": [
+        "A personal story can show meaningful change in one person's anxiety or grief.",
+        "Individual experiences may not represent all patients.",
+        "Clinical trials are needed to compare outcomes and identify harms.",
+        "Long-term follow-up is required to know whether benefits are sustained.",
+        "The NHS also needs regulated protocols, trained staff and cost-effectiveness evidence."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the potential benefits, proposed mechanism and main cautions surrounding psychedelic-assisted therapy.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול תועלת אפשרית, הסבר על שינוי דפוסי חשיבה, תנאי טיפול מבוקרים ולפחות שלוש הסתייגויות.",
+      "expected_points": [
+        "Some participants with chronic anxiety or distress report major shifts in perspective and symptoms.",
+        "Psychoactive compounds may disrupt fixed thought patterns and open new perspectives.",
+        "The intervention is delivered with preparation, monitoring and therapy in a controlled setting.",
+        "Researchers warn that evidence is still developing and durability is uncertain.",
+        "Legal classification and regulation create barriers to NHS use.",
+        "Unregulated treatment and self-medication can be dangerous."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, assess what would need to happen before psychedelic-assisted therapy could responsibly become an NHS treatment.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לנסח הערכה מאוזנת, להשתמש בלפחות ארבע ראיות מן הכתבה ולשלב דרישות מחקריות, קליניות, משפטיות ואתיות.",
+      "expected_points": [
+        "Larger controlled trials should establish effectiveness, risks and which patients may benefit.",
+        "Long-term follow-up should test whether reported improvements are sustained.",
+        "Clear screening, preparation, dosing, monitoring and integration protocols are required.",
+        "Clinicians need specialist training and services need adequate staffing and facilities.",
+        "Regulators would need to address Class A and Schedule 1 restrictions for approved medical use.",
+        "The NHS should guard against unethical or unregulated practice and provide informed consent.",
+        "Cost, accessibility and comparison with existing treatments should be assessed."
+      ]
+    }
+  ]
+}
