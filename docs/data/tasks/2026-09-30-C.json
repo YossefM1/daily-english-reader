@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-30",
+  "article_id": "C",
+  "article_title": "The start-ups hoping to return battery making to the US",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What opportunity and challenge does the article examine?",
+      "difficulty": "C",
+      "options": [
+        "Replacing every lithium-ion battery in smartphones this year",
+        "Building a US sodium-ion battery industry using local materials while competing with China's manufacturing lead",
+        "Ending renewable-energy storage projects",
+        "Importing all future batteries from Europe"
+      ],
+      "correct_answer": "Building a US sodium-ion battery industry using local materials while competing with China's manufacturing lead",
+      "explanation_hebrew": "הכתבה בוחנת את האפשרות לבנות בארה״ב תעשיית סוללות נתרן־יון מחומרים מקומיים, לצד פערי עלות, קנה מידה ותחרות מול סין."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why are sodium-ion batteries attractive for stationary energy storage?",
+      "difficulty": "C",
+      "options": [
+        "They have the highest energy density for tiny phones.",
+        "They may be cheaper, tolerate a wider temperature range and require less cooling.",
+        "They contain no electrolyte or electrodes.",
+        "They can generate electricity without being charged."
+      ],
+      "correct_answer": "They may be cheaper, tolerate a wider temperature range and require less cooling.",
+      "explanation_hebrew": "לסוללות נתרן־יון יש פוטנציאל לעלות נמוכה, פעולה בטווח טמפרטורות רחב וצורכי קירור קטנים יותר—יתרונות חשובים לאגירה נייחת."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “floundered” mean when the article discusses earlier US battery companies?",
+      "difficulty": "C",
+      "options": [
+        "Expanded without difficulty",
+        "Received automatic certification",
+        "Struggled and failed to make steady progress",
+        "Moved all production to Michigan"
+      ],
+      "correct_answer": "Struggled and failed to make steady progress",
+      "explanation_hebrew": "floundered פירושו התקשה ולא הצליח להתקדם באופן יציב; הכתבה מציינת שחברות אמריקאיות בתחום נכשלו או הסתבכו בעבר."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What safety concern was raised about Unigrid's cathode material?",
+      "difficulty": "C",
+      "options": [
+        "Sodium can never store electricity.",
+        "The cathode contains no active material.",
+        "The battery works only below freezing.",
+        "Under some conditions chromium-3 might form toxic, cancer-causing chromium-6."
+      ],
+      "correct_answer": "Under some conditions chromium-3 might form toxic, cancer-causing chromium-6.",
+      "explanation_hebrew": "המחלוקת נוגעת לאפשרות שבתנאים מסוימים כרום־3 שבקתודה יהפוך לכרום־6 רעיל ומסרטן."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Unigrid respond to the chromium safety concern?",
+      "difficulty": "C",
+      "options": [
+        "It admitted the battery had never been tested.",
+        "It said the concern was overblown and cited certification and tests that did not produce chromium-6.",
+        "It stopped selling every battery immediately.",
+        "It removed all voltage controls from the system."
+      ],
+      "correct_answer": "It said the concern was overblown and cited certification and tests that did not produce chromium-6.",
+      "explanation_hebrew": "Unigrid טענה שהחשש מוגזם, הדגישה בדיקות והסמכה לאירופה ואמרה שבדיקות צד שלישי לא הצליחו ליצור כרום־6."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are sodium-ion batteries more likely to dominate large storage systems than smartphones?",
+      "difficulty": "C",
+      "options": [
+        "Large systems never need safety certification.",
+        "Phones cannot use rechargeable batteries.",
+        "Lower energy density makes sodium-ion cells larger and heavier for the same power, which matters less in stationary systems.",
+        "Sodium-ion batteries operate only inside data centres."
+      ],
+      "correct_answer": "Lower energy density makes sodium-ion cells larger and heavier for the same power, which matters less in stationary systems.",
+      "explanation_hebrew": "צפיפות האנרגיה הנמוכה מחייבת סוללה גדולה וכבדה יותר; החיסרון משמעותי בטלפון אך פחות קריטי במתקן אגירה קבוע."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three ways US start-ups hope to build a domestic sodium-ion battery industry.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלוש אסטרטגיות או תוכניות קונקרטיות מן הכתבה ולזהות את החברה או היעד כשאפשר.",
+      "expected_points": [
+        "Unigrid hopes eventually to source sodium-ion cells in the US.",
+        "Emerald Battery Labs is developing vehicle auxiliary batteries and new anodes for US-made cells.",
+        "Peak Energy and GM aim to build a US supply chain and a Michigan facility by the end of 2028.",
+        "Alsym plans to ship hundreds of megawatt hours of US-made batteries by 2027.",
+        "Companies target grid storage, data centres and commercial fleets rather than only consumer electronics.",
+        "US production could use locally sourced materials and reduce supply-chain dependence."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does relying on China-sourced cells both help and weaken the US start-ups' strategy?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את היתרון לטווח הקצר ואת הסתירה מול יעד הייצור המקומי והעצמאות בשרשרת האספקה.",
+      "expected_points": [
+        "Chinese cells let start-ups reach customers and test products sooner.",
+        "China already has manufacturing scale and technical experience.",
+        "Using imported cells reduces the initial capital and time needed to launch.",
+        "Dependence on China conflicts with the goal of a domestic US supply chain.",
+        "Future US cells may cost more, so switching suppliers creates commercial uncertainty.",
+        "The arrangement can be a bridge while local factories and materials develop."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the case for sodium-ion batteries and the main obstacles facing US producers.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול יתרונות טכנולוגיים וכלכליים, שימושים מתאימים, סוגיות בטיחות, תחרות מסין ואתגרי עלות וייצור.",
+      "expected_points": [
+        "Sodium-ion batteries may use abundant local materials, cost less and work across a wide temperature range.",
+        "They may reduce cooling needs and support homes, grids and data centres.",
+        "Their lower energy density makes them less suitable for small devices.",
+        "Cathode chemistry, fire risk, longevity and certification still require careful testing.",
+        "China currently leads cell manufacturing, and several US firms still rely on Chinese cells.",
+        "Current sodium-ion prices can exceed cheap LFP batteries, while mass production remains difficult.",
+        "US start-ups see domestic demand and renewable-energy storage as an opportunity."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, assess whether the US should support domestic sodium-ion battery production.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג הערכה מאוזנת, להשתמש בלפחות ארבע ראיות מן הכתבה ולדון בביטחון אנרגטי, עלות, בטיחות, ייצור ויישומים.",
+      "expected_points": [
+        "Domestic production could reduce dependence on foreign materials and manufacturing.",
+        "Local sodium-based supply chains may improve energy security and support renewable storage.",
+        "Data-centre and grid demand could provide a large market.",
+        "US firms face China's scale advantage and uncertain production costs.",
+        "Cheap LFP batteries currently compete strongly on price.",
+        "Chromium chemistry and fire risks show the need for independent testing and certification.",
+        "Lower energy density limits some markets but not stationary storage.",
+        "Support could be conditional on safety, domestic sourcing milestones and demonstrated commercial reliability."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-30",
+  "article_id": "B",
+  "article_title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
+  "article_url": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly trying to help readers do?",
+      "difficulty": "B",
+      "options": [
+        "Learn how to create deepfake videos",
+        "Recognise signs that a loved one is being scammed and respond effectively",
+        "Choose an online dating platform",
+        "Send money safely to people met online"
+      ],
+      "correct_answer": "Recognise signs that a loved one is being scammed and respond effectively",
+      "explanation_hebrew": "הכתבה משתמשת בסיפורה של הלן כדי ללמד כיצד לזהות סימני הונאה וכיצד לסייע לקורבן באופן רגוע ומעשי."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What first alerted Helen that something was wrong?",
+      "difficulty": "B",
+      "options": [
+        "Her mother closed every bank account.",
+        "Her mother accidentally sent Helen messages intended for the scammers.",
+        "A police officer found the criminals immediately.",
+        "The scammers returned all the money."
+      ],
+      "correct_answer": "Her mother accidentally sent Helen messages intended for the scammers.",
+      "explanation_hebrew": "הלן הבינה לראשונה שמשהו אינו כשורה כשאמה שלחה אליה בטעות הודעות שיועדו לנוכלים."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “evasive” mean when describing a possible scam victim's behaviour?",
+      "difficulty": "B",
+      "options": [
+        "Willing to explain every detail",
+        "Openly angry with the bank",
+        "Avoiding clear answers or hiding information",
+        "Unable to use a telephone"
+      ],
+      "correct_answer": "Avoiding clear answers or hiding information",
+      "explanation_hebrew": "evasive מתאר אדם שמתחמק מתשובות ברורות או מסתיר מידע—אחד מסימני האזהרה האפשריים שמוזכרים בכתבה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What made Helen suspect that the video caller was using a deepfake?",
+      "difficulty": "B",
+      "options": [
+        "He refused to discuss money.",
+        "He spoke a different language.",
+        "The call came from a bank.",
+        "The image was fuzzy and the voice did not match the person's movements."
+      ],
+      "correct_answer": "The image was fuzzy and the voice did not match the person's movements.",
+      "explanation_hebrew": "הלן הבחינה שהתמונה מטושטשת ושהקול אינו מסונכרן עם תנועות הדמות—רמזים לכך שמדובר בזיוף עמוק."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are families advised to be “curious but not confrontational”?",
+      "difficulty": "B",
+      "options": [
+        "Confrontation makes banks return money faster.",
+        "Calm, open questions can preserve trust and make the victim more willing to share information.",
+        "Victims are legally required to answer relatives.",
+        "Scammers stop contacting anyone who sounds curious."
+      ],
+      "correct_answer": "Calm, open questions can preserve trust and make the victim more willing to share information.",
+      "explanation_hebrew": "גישה תוקפנית עלולה לעורר בושה והתגוננות; שאלות רגועות ופתוחות מסייעות לשמור על אמון ולאסוף מידע."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which action helped Helen place financial safeguards on her mother's accounts?",
+      "difficulty": "B",
+      "options": [
+        "She created another social-media profile.",
+        "She sent the scammer a warning message.",
+        "She used lasting power of attorney and contacted the bank.",
+        "She bought more gift cards to trace the money."
+      ],
+      "correct_answer": "She used lasting power of attorney and contacted the bank.",
+      "explanation_hebrew": "להלן היה ייפוי כוח מתמשך, ולכן יכלה לפעול בשם אמה ולשתף את הבנק בהקמת הגנות על החשבונות."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List four warning signs that may show a loved one is being scammed.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין ארבעה סימנים שונים שמופיעים בכתבה, בלי להסתפק באמירה כללית על התנהגות מוזרה.",
+      "expected_points": [
+        "A change in behaviour or mood.",
+        "Becoming evasive or secretive.",
+        "Frequent visits to the bank or post office.",
+        "Buying gift cards or shopping in unusual ways.",
+        "Unusual transfers or opening new accounts.",
+        "Online or phone communication that is out of character."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might shame make it harder for a scam victim to accept help?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד הקשר הרגשי, תחושת הבושה והאיום על האמון מקשים על הקורבן להכיר בהונאה.",
+      "expected_points": [
+        "The victim may believe the relationship is genuine and emotionally important.",
+        "Admitting the scam can feel like admitting a serious mistake.",
+        "Direct criticism may make the victim feel judged or humiliated.",
+        "The scammer may have isolated the victim or encouraged secrecy.",
+        "Patient, careful language and an impartial helper may reduce defensiveness."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how Helen discovered the scam and the steps used to protect her mother.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את סכום הכסף, סימני האזהרה, הזיוף העמוק, הגישה המשפחתית, פעולת הבנק ואיפוס טביעת הרגל הדיגיטלית.",
+      "expected_points": [
+        "Helen's mother sent £140,000 to romance scammers after false medical and kidnapping stories.",
+        "Accidental messages, secrecy and unusual calls alerted Helen.",
+        "A fuzzy, out-of-sync video helped Helen identify a deepfake.",
+        "Helen tried a calm approach, contacted the bank and used lasting power of attorney.",
+        "The bank added safeguards and returned £45,000.",
+        "Helen changed contact details and eventually limited the phone to calls and texts."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, write a practical response plan for a family that suspects an older relative is being scammed.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לבנות תוכנית מסודרת עם לפחות חמישה צעדים, לנמק כל צעד ולקשר אותו לפרטים ולהמלצות שבכתבה.",
+      "expected_points": [
+        "Observe specific changes in behaviour, communication and finances.",
+        "Ask open questions calmly rather than making accusations.",
+        "Save evidence and check suspicious photos, calls or payment stories.",
+        "Contact the person's bank so it can monitor and safeguard the account.",
+        "Use lawful authority such as power of attorney when available and appropriate.",
+        "Ask police, fraud specialists or an impartial trusted person for help.",
+        "Reset phone numbers, email and social-media accounts to cut off repeat contact.",
+        "Support the victim emotionally and avoid language that increases shame."
+      ]
+    }
+  ]
+}

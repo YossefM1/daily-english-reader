@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-30",
+  "article_id": "A",
+  "article_title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main development reported in the article?",
+      "difficulty": "A",
+      "options": [
+        "Six Flags will permanently retire the X2 rollercoaster after lawsuits and hundreds of alleged brain injuries.",
+        "Six Flags will build a second X2 ride in another state.",
+        "The X2 reopened after a short weather closure.",
+        "California banned every rollercoaster in the state."
+      ],
+      "correct_answer": "Six Flags will permanently retire the X2 rollercoaster after lawsuits and hundreds of alleged brain injuries.",
+      "explanation_hebrew": "האירוע המרכזי הוא החלטת Six Flags לסגור לצמיתות את X2 על רקע תביעות וטענות של מאות נוסעים לפגיעות מוחיות."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did the park say it was retiring X2 even though the ride had passed safety tests?",
+      "difficulty": "A",
+      "options": [
+        "The park had run out of electricity.",
+        "Guest confidence had been affected, and the park said closure was the right thing to do.",
+        "The ride was moved to Europe.",
+        "The manufacturer requested a temporary repaint."
+      ],
+      "correct_answer": "Guest confidence had been affected, and the park said closure was the right thing to do.",
+      "explanation_hebrew": "הנהלת הפארק אמרה שהמתקן עבר בדיקות, אך אמון המבקרים נפגע ולכן החליטה שהסגירה היא הצעד הנכון."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “cornerstone” mean in the statement that ride safety is a cornerstone of the business?",
+      "difficulty": "A",
+      "options": [
+        "A decorative part of the ride",
+        "A legal payment to plaintiffs",
+        "A basic and essential principle",
+        "A temporary repair"
+      ],
+      "correct_answer": "A basic and essential principle",
+      "explanation_hebrew": "cornerstone פירושה אבן יסוד—עיקרון בסיסי וחיוני. החברה מציגה את בטיחות המתקנים כערך מרכזי בעסק."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which statement correctly describes the history of the ride?",
+      "difficulty": "A",
+      "options": [
+        "It first opened in 2022 and never changed.",
+        "It has always been called X2 and used the same trains.",
+        "It operated only for one summer.",
+        "It opened as X in 2002, later received lighter trains, and reopened as X2 in 2008."
+      ],
+      "correct_answer": "It opened as X in 2002, later received lighter trains, and reopened as X2 in 2008.",
+      "explanation_hebrew": "המתקן נפתח בשם X בשנת 2002, נסגר לתיקונים ולהחלפת הרכבות, ונפתח מחדש בשם X2 בשנת 2008."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “plaintiffs” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "Engineers who inspect rides",
+        "People who bring a civil case to court",
+        "Visitors who buy annual passes",
+        "Employees who operate rollercoasters"
+      ],
+      "correct_answer": "People who bring a civil case to court",
+      "explanation_hebrew": "plaintiffs הם תובעים—אנשים שמגישים תביעה אזרחית לבית המשפט נגד צד אחר."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do lawyers for injured riders say the permanent closure is not enough?",
+      "difficulty": "A",
+      "options": [
+        "They want the ride to become faster.",
+        "They believe safety tests should be cancelled.",
+        "The closure may protect future visitors but cannot undo injuries, surgery or a death already alleged.",
+        "They want Six Flags to shorten waiting times."
+      ],
+      "correct_answer": "The closure may protect future visitors but cannot undo injuries, surgery or a death already alleged.",
+      "explanation_hebrew": "עורכי הדין מברכים על הגנה עתידית, אך מדגישים שהסגירה אינה מתקנת את הפגיעות החמורות ואת האובדן שכבר התרחשו לפי הטענות."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three details that show the seriousness of the allegations against X2.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה פרטים קונקרטיים מן הכתבה שממחישים את חומרת הטענות.",
+      "expected_points": [
+        "Hundreds of people contacted a law firm alleging injuries linked to the ride.",
+        "Some riders allegedly suffered catastrophic or traumatic brain injuries.",
+        "Some people reportedly needed emergency brain surgery.",
+        "A wrongful-death lawsuit concerned a 22-year-old who died after riding X2 in 2022.",
+        "Multiple civil lawsuits were filed against the park."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why can a ride passing safety tests still fail to maintain public confidence?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הפער בין עמידה בבדיקות פורמליות לבין ניסיון המבקרים, טענות חוזרות, תביעות ואמון הציבור.",
+      "expected_points": [
+        "Formal tests may not detect every design flaw or real-world risk.",
+        "Repeated injury allegations can make visitors question whether tests are sufficient.",
+        "Severe outcomes have a stronger effect on trust than a general safety statement.",
+        "Delayed action can make the company appear reactive rather than proactive."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise X2's history, the injury allegations and Six Flags' decision.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את התפתחות המתקן, היקף השימוש, הטענות לפגיעות, התביעות והסיבה שנמסרה לסגירה.",
+      "expected_points": [
+        "The ride opened as X in 2002 and reopened as X2 with lighter trains in 2008.",
+        "Its seats spin 360 degrees, and the park says more than 16 million people rode it.",
+        "Hundreds alleged injuries, and several civil lawsuits described severe brain damage.",
+        "A previous wrongful-death case was settled.",
+        "Six Flags permanently retired X2, citing safety and lost guest confidence despite passed tests."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, assess whether amusement-ride safety should rely mainly on company testing or stronger outside oversight.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג עמדה מנומקת, להשתמש בלפחות שלוש ראיות מן הכתבה ולהתייחס גם לבדיקות החברה וגם לפיקוח חיצוני.",
+      "expected_points": [
+        "Company testing can provide regular technical checks and operational data.",
+        "X2 reportedly passed many tests despite later serious allegations.",
+        "Design problems, lawsuits and severe outcomes suggest internal testing may be insufficient alone.",
+        "Independent regulators can investigate patterns across riders and require transparent reporting.",
+        "A proactive system should act on early warning signs before public confidence collapses.",
+        "A balanced answer may support both company responsibility and independent oversight."
+      ]
+    }
+  ]
+}
