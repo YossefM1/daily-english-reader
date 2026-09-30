@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-30",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "The start-ups hoping to return battery making to the US",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro",
+  "published_at": "2026-09-29T23:06:50+00:00",
+  "age_hours_at_selection": 3.04,
+  "word_count": 1202,
+  "generated_at": "2026-09-30T02:09:29.092440+00:00",
+  "difficulty_reason": "Long, information-dense analysis with technical and economic detail; B2/C1/C2 vocabulary and background knowledge of technology and markets.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "heatwaves",
+      "lemma": "heatwave",
+      "level": "B2",
+      "hebrew": "גלי חום",
+      "explanation_hebrew": "תקופות של חום קיצוני ומתמשך",
+      "pronunciation_hebrew": "הִיטְוֵויבְז",
+      "example": "Europe suffered several heatwaves this summer."
+    },
+    {
+      "word": "scorched",
+      "lemma": "scorch",
+      "level": "C1",
+      "hebrew": "צרב / חרך",
+      "explanation_hebrew": "גרם נזק על ידי חום עז",
+      "pronunciation_hebrew": "סְקוֹרְצְ'ט",
+      "example": "The sun scorched the dry fields."
+    },
+    {
+      "word": "uptick",
+      "lemma": "uptick",
+      "level": "C1",
+      "hebrew": "עלייה קלה",
+      "explanation_hebrew": "גידול או שיפור מתון",
+      "pronunciation_hebrew": "אַפְּטִיק",
+      "example": "There was an uptick in sales."
+    },
+    {
+      "word": "sweltering",
+      "lemma": "swelter",
+      "level": "C2",
+      "hebrew": "מזיע מחום / חם להחריד",
+      "explanation_hebrew": "חם ולוהט בצורה לא נעימה",
+      "pronunciation_hebrew": "סְוֶלְטֶרִינְג",
+      "example": "We sat outside in the sweltering heat."
+    },
+    {
+      "word": "emerging",
+      "lemma": "emerge",
+      "level": "B2",
+      "hebrew": "מתפתח / מתהווה",
+      "explanation_hebrew": "חדש ובתהליך של צמיחה",
+      "pronunciation_hebrew": "אִימֶרְגִ'ינְג",
+      "example": "Solar power is an emerging technology."
+    },
+    {
+      "word": "floundered",
+      "lemma": "flounder",
+      "level": "C2",
+      "hebrew": "התקשה / נאבק בכישלון",
+      "explanation_hebrew": "נאבק בלי הצלחה",
+      "pronunciation_hebrew": "פְלַאונְדֶרְד",
+      "example": "The business floundered after the crisis."
+    },
+    {
+      "word": "dominates",
+      "lemma": "dominate",
+      "level": "B2",
+      "hebrew": "שולט / דומיננטי",
+      "explanation_hebrew": "מחזיק בעמדת כוח ושליטה",
+      "pronunciation_hebrew": "דוֹמִינֵייטְס",
+      "example": "One company dominates the market."
+    },
+    {
+      "word": "cathode",
+      "lemma": "cathode",
+      "level": "C2",
+      "hebrew": "קתודה",
+      "explanation_hebrew": "הקוטב השלילי בסוללה",
+      "pronunciation_hebrew": "קַתּוֹד",
+      "example": "Electrons flow from the cathode."
+    },
+    {
+      "word": "anode",
+      "lemma": "anode",
+      "level": "C2",
+      "hebrew": "אנודה",
+      "explanation_hebrew": "הקוטב החיובי בסוללה",
+      "pronunciation_hebrew": "אַנוֹד",
+      "example": "The battery has an anode and a cathode."
+    },
+    {
+      "word": "discharging",
+      "lemma": "discharge",
+      "level": "C1",
+      "hebrew": "פורק (מטען)",
+      "explanation_hebrew": "משחרר מטען חשמלי אגור",
+      "pronunciation_hebrew": "דִיסְצַ'ארְגִ'ינְג",
+      "example": "The battery is discharging quickly."
+    },
+    {
+      "word": "toxic",
+      "lemma": "toxic",
+      "level": "B2",
+      "hebrew": "רעיל",
+      "explanation_hebrew": "מזיק או מסוכן לבריאות",
+      "pronunciation_hebrew": "טוֹקְסִיק",
+      "example": "The factory released toxic waste."
+    },
+    {
+      "word": "mitigated",
+      "lemma": "mitigate",
+      "level": "C1",
+      "hebrew": "הופחת / מוזער",
+      "explanation_hebrew": "הוקטן בחומרתו",
+      "pronunciation_hebrew": "מִיטִיגֵייטֶד",
+      "example": "The risk can be mitigated with care."
+    },
+    {
+      "word": "voltage",
+      "lemma": "voltage",
+      "level": "B2",
+      "hebrew": "מתח חשמלי",
+      "explanation_hebrew": "עוצמת הכוח החשמלי במעגל",
+      "pronunciation_hebrew": "ווֹלְטֵגֶ'",
+      "example": "High voltage can be dangerous."
+    },
+    {
+      "word": "overblown",
+      "lemma": "overblown",
+      "level": "C2",
+      "hebrew": "מוגזם / מנופח",
+      "explanation_hebrew": "הוצג כחמור יותר מהמציאות",
+      "pronunciation_hebrew": "אוֹבֶרְבְּלוֹאְן",
+      "example": "The fears turned out to be overblown."
+    },
+    {
+      "word": "certification",
+      "lemma": "certify",
+      "level": "C1",
+      "hebrew": "אישור / הסמכה",
+      "explanation_hebrew": "תעודה רשמית שמאשרת תקן",
+      "pronunciation_hebrew": "סֶרְטִיפִיקֵיישֶׁן",
+      "example": "The product passed safety certification."
+    },
+    {
+      "word": "electrolyte",
+      "lemma": "electrolyte",
+      "level": "C2",
+      "hebrew": "אלקטרוליט",
+      "explanation_hebrew": "חומר המוליך חשמל בסוללה",
+      "pronunciation_hebrew": "אִילֶקְטְרוֹלַייט",
+      "example": "The electrolyte separates the two poles."
+    },
+    {
+      "word": "longevity",
+      "lemma": "longevity",
+      "level": "C1",
+      "hebrew": "אורך חיים / עמידות",
+      "explanation_hebrew": "משך הזמן שמשהו נמשך",
+      "pronunciation_hebrew": "לוֹנְגֶ'בִיטִי",
+      "example": "Good care improves a battery's longevity."
+    },
+    {
+      "word": "reliability",
+      "lemma": "reliable",
+      "level": "B2",
+      "hebrew": "אמינות",
+      "explanation_hebrew": "היכולת לסמוך על משהו שיעבוד",
+      "pronunciation_hebrew": "רִילַייאַבִּילִיטִי",
+      "example": "The car is known for its reliability."
+    },
+    {
+      "word": "auxiliary",
+      "lemma": "auxiliary",
+      "level": "C2",
+      "hebrew": "עזר / משני",
+      "explanation_hebrew": "נוסף ותומך במערכת הראשית",
+      "pronunciation_hebrew": "אוֹגְזִילְיָארִי",
+      "example": "The ship has an auxiliary engine."
+    },
+    {
+      "word": "insurmountable",
+      "lemma": "insurmountable",
+      "level": "C2",
+      "hebrew": "בלתי עביר / שאין להתגבר עליו",
+      "explanation_hebrew": "קשה מדי מכדי להתגבר עליו",
+      "pronunciation_hebrew": "אִינְסֶרְמַאונְטַבֶּל",
+      "example": "The problem was not insurmountable."
+    },
+    {
+      "word": "emissions",
+      "lemma": "emission",
+      "level": "B2",
+      "hebrew": "פליטות",
+      "explanation_hebrew": "חומרים המשתחררים לאוויר",
+      "pronunciation_hebrew": "אִימִישֶׁנְז",
+      "example": "Cars produce harmful emissions."
+    },
+    {
+      "word": "renewable",
+      "lemma": "renewable",
+      "level": "B2",
+      "hebrew": "מתחדש",
+      "explanation_hebrew": "מקור אנרגיה שאינו נגמר",
+      "pronunciation_hebrew": "רִינְיוּאַבֶּל",
+      "example": "Wind is a renewable energy source."
+    },
+    {
+      "word": "wastage",
+      "lemma": "wastage",
+      "level": "C1",
+      "hebrew": "בזבוז",
+      "explanation_hebrew": "אובדן מיותר של משאבים",
+      "pronunciation_hebrew": "וֵויסְטֵגֶ'",
+      "example": "We must reduce food wastage."
+    },
+    {
+      "word": "touted",
+      "lemma": "tout",
+      "level": "C2",
+      "hebrew": "הוצג בשבחים / קודם",
+      "explanation_hebrew": "הוצג כמעולה או מומלץ",
+      "pronunciation_hebrew": "טַאוטֶד",
+      "example": "The drug was touted as a cure."
+    },
+    {
+      "word": "constitutes",
+      "lemma": "constitute",
+      "level": "C1",
+      "hebrew": "מהווה / מרכיב",
+      "explanation_hebrew": "נחשב או מרכיב את משהו",
+      "pronunciation_hebrew": "קוֹנְסְטִיטְיוּטְס",
+      "example": "This constitutes a serious breach."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "heatwaves",
+      "type": "english_to_hebrew",
+      "question": "What does “heatwaves” mean?",
+      "options": [
+        "שולט / דומיננטי",
+        "גלי חום",
+        "מתפתח / מתהווה",
+        "עלייה קלה"
+      ],
+      "correct_answer": "גלי חום",
+      "explanation_hebrew": "“heatwaves” פירושו גלי חום."
+    },
+    {
+      "id": "C-q2",
+      "word": "scorched",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “צרב / חרך”?",
+      "options": [
+        "scorched",
+        "cathode",
+        "sweltering",
+        "floundered"
+      ],
+      "correct_answer": "scorched",
+      "explanation_hebrew": "המילה “scorched” פירושה צרב / חרך."
+    },
+    {
+      "id": "C-q3",
+      "word": "uptick",
+      "type": "english_to_hebrew",
+      "question": "What does “uptick” mean?",
+      "options": [
+        "שולט / דומיננטי",
+        "עלייה קלה",
+        "אנודה",
+        "מתפתח / מתהווה"
+      ],
+      "correct_answer": "עלייה קלה",
+      "explanation_hebrew": "“uptick” פירושו עלייה קלה."
+    },
+    {
+      "id": "C-q4",
+      "word": "sweltering",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מזיע מחום / חם להחריד”?",
+      "options": [
+        "cathode",
+        "discharging",
+        "sweltering",
+        "floundered"
+      ],
+      "correct_answer": "sweltering",
+      "explanation_hebrew": "המילה “sweltering” פירושה מזיע מחום / חם להחריד."
+    },
+    {
+      "id": "C-q5",
+      "word": "emerging",
+      "type": "english_to_hebrew",
+      "question": "What does “emerging” mean?",
+      "options": [
+        "רעיל",
+        "אנודה",
+        "שולט / דומיננטי",
+        "מתפתח / מתהווה"
+      ],
+      "correct_answer": "מתפתח / מתהווה",
+      "explanation_hebrew": "“emerging” פירושו מתפתח / מתהווה."
+    },
+    {
+      "id": "C-q6",
+      "word": "floundered",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התקשה / נאבק בכישלון”?",
+      "options": [
+        "mitigated",
+        "discharging",
+        "cathode",
+        "floundered"
+      ],
+      "correct_answer": "floundered",
+      "explanation_hebrew": "המילה “floundered” פירושה התקשה / נאבק בכישלון."
+    },
+    {
+      "id": "C-q7",
+      "word": "dominates",
+      "type": "english_to_hebrew",
+      "question": "What does “dominates” mean?",
+      "options": [
+        "שולט / דומיננטי",
+        "רעיל",
+        "מתח חשמלי",
+        "אנודה"
+      ],
+      "correct_answer": "שולט / דומיננטי",
+      "explanation_hebrew": "“dominates” פירושו שולט / דומיננטי."
+    },
+    {
+      "id": "C-q8",
+      "word": "cathode",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קתודה”?",
+      "options": [
+        "mitigated",
+        "cathode",
+        "overblown",
+        "discharging"
+      ],
+      "correct_answer": "cathode",
+      "explanation_hebrew": "המילה “cathode” פירושה קתודה."
+    },
+    {
+      "id": "C-q9",
+      "word": "anode",
+      "type": "english_to_hebrew",
+      "question": "What does “anode” mean?",
+      "options": [
+        "מתח חשמלי",
+        "אנודה",
+        "רעיל",
+        "אישור / הסמכה"
+      ],
+      "correct_answer": "אנודה",
+      "explanation_hebrew": "“anode” פירושו אנודה."
+    },
+    {
+      "id": "C-q10",
+      "word": "discharging",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פורק (מטען)”?",
+      "options": [
+        "mitigated",
+        "discharging",
+        "electrolyte",
+        "overblown"
+      ],
+      "correct_answer": "discharging",
+      "explanation_hebrew": "המילה “discharging” פירושה פורק (מטען)."
+    },
+    {
+      "id": "C-q11",
+      "word": "toxic",
+      "type": "english_to_hebrew",
+      "question": "What does “toxic” mean?",
+      "options": [
+        "רעיל",
+        "אישור / הסמכה",
+        "אורך חיים / עמידות",
+        "מתח חשמלי"
+      ],
+      "correct_answer": "רעיל",
+      "explanation_hebrew": "“toxic” פירושו רעיל."
+    },
+    {
+      "id": "C-q12",
+      "word": "mitigated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הופחת / מוזער”?",
+      "options": [
+        "reliability",
+        "electrolyte",
+        "overblown",
+        "mitigated"
+      ],
+      "correct_answer": "mitigated",
+      "explanation_hebrew": "המילה “mitigated” פירושה הופחת / מוזער."
+    },
+    {
+      "id": "C-q13",
+      "word": "voltage",
+      "type": "english_to_hebrew",
+      "question": "What does “voltage” mean?",
+      "options": [
+        "אורך חיים / עמידות",
+        "מתח חשמלי",
+        "אישור / הסמכה",
+        "עזר / משני"
+      ],
+      "correct_answer": "מתח חשמלי",
+      "explanation_hebrew": "“voltage” פירושו מתח חשמלי."
+    },
+    {
+      "id": "C-q14",
+      "word": "overblown",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוגזם / מנופח”?",
+      "options": [
+        "reliability",
+        "electrolyte",
+        "insurmountable",
+        "overblown"
+      ],
+      "correct_answer": "overblown",
+      "explanation_hebrew": "המילה “overblown” פירושה מוגזם / מנופח."
+    },
+    {
+      "id": "C-q15",
+      "word": "certification",
+      "type": "english_to_hebrew",
+      "question": "What does “certification” mean?",
+      "options": [
+        "אישור / הסמכה",
+        "פליטות",
+        "עזר / משני",
+        "אורך חיים / עמידות"
+      ],
+      "correct_answer": "אישור / הסמכה",
+      "explanation_hebrew": "“certification” פירושו אישור / הסמכה."
+    },
+    {
+      "id": "C-q16",
+      "word": "electrolyte",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אלקטרוליט”?",
+      "options": [
+        "reliability",
+        "renewable",
+        "electrolyte",
+        "insurmountable"
+      ],
+      "correct_answer": "electrolyte",
+      "explanation_hebrew": "המילה “electrolyte” פירושה אלקטרוליט."
+    },
+    {
+      "id": "C-q17",
+      "word": "longevity",
+      "type": "english_to_hebrew",
+      "question": "What does “longevity” mean?",
+      "options": [
+        "אורך חיים / עמידות",
+        "בזבוז",
+        "עזר / משני",
+        "פליטות"
+      ],
+      "correct_answer": "אורך חיים / עמידות",
+      "explanation_hebrew": "“longevity” פירושו אורך חיים / עמידות."
+    },
+    {
+      "id": "C-q18",
+      "word": "reliability",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אמינות”?",
+      "options": [
+        "touted",
+        "insurmountable",
+        "reliability",
+        "renewable"
+      ],
+      "correct_answer": "reliability",
+      "explanation_hebrew": "המילה “reliability” פירושה אמינות."
+    },
+    {
+      "id": "C-q19",
+      "word": "auxiliary",
+      "type": "english_to_hebrew",
+      "question": "What does “auxiliary” mean?",
+      "options": [
+        "עזר / משני",
+        "מהווה / מרכיב",
+        "פליטות",
+        "בזבוז"
+      ],
+      "correct_answer": "עזר / משני",
+      "explanation_hebrew": "“auxiliary” פירושו עזר / משני."
+    },
+    {
+      "id": "C-q20",
+      "word": "insurmountable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בלתי עביר / שאין להתגבר עליו”?",
+      "options": [
+        "touted",
+        "renewable",
+        "heatwaves",
+        "insurmountable"
+      ],
+      "correct_answer": "insurmountable",
+      "explanation_hebrew": "המילה “insurmountable” פירושה בלתי עביר / שאין להתגבר עליו."
+    },
+    {
+      "id": "C-q21",
+      "word": "emissions",
+      "type": "english_to_hebrew",
+      "question": "What does “emissions” mean?",
+      "options": [
+        "פליטות",
+        "מהווה / מרכיב",
+        "בזבוז",
+        "צרב / חרך"
+      ],
+      "correct_answer": "פליטות",
+      "explanation_hebrew": "“emissions” פירושו פליטות."
+    },
+    {
+      "id": "C-q22",
+      "word": "renewable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מתחדש”?",
+      "options": [
+        "renewable",
+        "touted",
+        "uptick",
+        "heatwaves"
+      ],
+      "correct_answer": "renewable",
+      "explanation_hebrew": "המילה “renewable” פירושה מתחדש."
+    },
+    {
+      "id": "C-q23",
+      "word": "wastage",
+      "type": "english_to_hebrew",
+      "question": "What does “wastage” mean?",
+      "options": [
+        "מהווה / מרכיב",
+        "צרב / חרך",
+        "מזיע מחום / חם להחריד",
+        "בזבוז"
+      ],
+      "correct_answer": "בזבוז",
+      "explanation_hebrew": "“wastage” פירושו בזבוז."
+    },
+    {
+      "id": "C-q24",
+      "word": "touted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הוצג בשבחים / קודם”?",
+      "options": [
+        "uptick",
+        "emerging",
+        "heatwaves",
+        "touted"
+      ],
+      "correct_answer": "touted",
+      "explanation_hebrew": "המילה “touted” פירושה הוצג בשבחים / קודם."
+    },
+    {
+      "id": "C-q25",
+      "word": "constitutes",
+      "type": "english_to_hebrew",
+      "question": "What does “constitutes” mean?",
+      "options": [
+        "התקשה / נאבק בכישלון",
+        "מהווה / מרכיב",
+        "צרב / חרך",
+        "מזיע מחום / חם להחריד"
+      ],
+      "correct_answer": "מהווה / מרכיב",
+      "explanation_hebrew": "“constitutes” פירושו מהווה / מרכיב."
+    }
+  ]
+}
