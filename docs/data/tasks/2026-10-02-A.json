@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-02",
+  "article_id": "A",
+  "article_title": "OpenAI fires three workers over mishandling 'sensitive information'",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main reason OpenAI gave for dismissing the three researchers?",
+      "difficulty": "A",
+      "options": [
+        "They mishandled sensitive company information outside established procedures.",
+        "They publicly demanded a pause in all AI development.",
+        "They refused to attend a White House technology meeting.",
+        "They caused a financial loss by cancelling a model launch."
+      ],
+      "correct_answer": "They mishandled sensitive company information outside established procedures.",
+      "explanation_hebrew": "OpenAI מסרה שהעובדים טיפלו במידע רגיש מחוץ לנהלים ובכך הפרו את מדיניות החברה ואת האמון."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the BBC say about why the former employees were not dismissed?",
+      "difficulty": "A",
+      "options": [
+        "For working with safety researchers",
+        "For warning more than 100 organisations",
+        "For raising concerns about AI safety",
+        "For reviewing the activity of AI agents"
+      ],
+      "correct_answer": "For raising concerns about AI safety",
+      "explanation_hebrew": "לפי הכתבה, הם לא פוטרו משום שהעלו חששות בטיחותיים, אלא בשל הטיפול הנטען במידע רגיש."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “autonomously” mean when describing AI agents?",
+      "difficulty": "A",
+      "options": [
+        "Only after a human writes every step",
+        "With no connection to the internet",
+        "By copying another company’s model",
+        "By carrying out tasks independently from simple instructions"
+      ],
+      "correct_answer": "By carrying out tasks independently from simple instructions",
+      "explanation_hebrew": "הכתבה מתארת סוכני AI שמבצעים משימות באופן עצמאי על בסיס הוראות פשוטות."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did OpenAI say being notified about an AI-related incident did not necessarily mean?",
+      "difficulty": "A",
+      "options": [
+        "That private information was accessed or a system was compromised",
+        "That the organisation used an OpenAI product",
+        "That the incident was reported to the US president",
+        "That the organisation had external safety researchers"
+      ],
+      "correct_answer": "That private information was accessed or a system was compromised",
+      "explanation_hebrew": "OpenAI הבהירה שעצם קבלת ההודעה אינה מוכיחה שמידע פרטי נחשף או שמערכת נפרצה."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article mention the Hugging Face breach and attacks on government websites?",
+      "difficulty": "A",
+      "options": [
+        "To show why OpenAI has faced stronger scrutiny over AI-agent safety",
+        "To prove the dismissed researchers planned the attacks",
+        "To explain why Hugging Face hired the researchers",
+        "To show that every notified organisation lost private data"
+      ],
+      "correct_answer": "To show why OpenAI has faced stronger scrutiny over AI-agent safety",
+      "explanation_hebrew": "האירועים מובאים כרקע לבחינה הציבורית הגוברת של הסיכונים והפיקוח על סוכני AI."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “morally binding” suggest about the agreement announced after the White House meeting?",
+      "difficulty": "A",
+      "options": [
+        "It was a criminal law with prison penalties.",
+        "It was limited to government websites.",
+        "It relied mainly on a voluntary ethical commitment.",
+        "It required every AI company to stop research."
+      ],
+      "correct_answer": "It relied mainly on a voluntary ethical commitment.",
+      "explanation_hebrew": "הביטוי מצביע על התחייבות מוסרית ולא בהכרח על חוק אכיף, ולכן מומחים ביקרו את ההסתמכות על רגולציה עצמית."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name the outside group involved in the work and state what that group does.",
+      "difficulty": "A",
+      "rubric_hebrew": "תשובה מלאה תציין שמדובר בארגון חיצוני להערכת AI ותסביר שהוא מנתח או מעריך מודלים של בינה מלאכותית.",
+      "expected_points": [
+        "An external AI evaluation organisation was involved.",
+        "It analyses or evaluates artificial-intelligence models."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise in two sentences how the dismissals connect to the wider debate about AI safety.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין הטיפול במידע והפיטורים לבין הדיון הרחב בסוכנים אוטונומיים, תקריות פריצה והצורך בפיקוח.",
+      "expected_points": [
+        "OpenAI said three workers violated information-handling policies.",
+        "The case occurred amid scrutiny of autonomous agents and calls for stronger AI safeguards or oversight."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might critics consider the White House agreement insufficient protection against AI risks? Use one detail from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שההסכם מאפשר בעיקר רגולציה עצמית או שאינו פיקוח חיצוני מחייב, ולתמוך בפרט מהכתבה.",
+      "expected_points": [
+        "The agreement was described as morally binding rather than clearly enforceable.",
+        "Experts criticised it because AI companies could regulate themselves."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining why careful handling of sensitive information matters in AI safety research.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח פסקה עניינית המקשרת סודיות, אמון ארגוני, נהלים וסיכון אפשרי למערכות או לארגונים.",
+      "expected_points": [
+        "Sensitive information can expose systems, organisations, or safety work to risk.",
+        "Following procedures protects trust and enables responsible investigation or oversight."
+      ]
+    }
+  ]
+}

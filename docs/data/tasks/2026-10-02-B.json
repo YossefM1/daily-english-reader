@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-02",
+  "article_id": "B",
+  "article_title": "Why Gen Z are opting out of workplace pensions",
+  "article_url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central tension does the article explore?",
+      "difficulty": "B",
+      "options": [
+        "Young workers balancing immediate living costs against long-term pension security",
+        "Employers replacing workplace pensions with state pensions",
+        "Retirees choosing whether to return to full-time work",
+        "The NHS ending employer pension contributions"
+      ],
+      "correct_answer": "Young workers balancing immediate living costs against long-term pension security",
+      "explanation_hebrew": "הכתבה מתמקדת בצעירים שמוותרים זמנית על חיסכון לפנסיה כדי להתמודד עם הוצאות מיידיות, למרות המחיר העתידי."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Hassan Nassar pause his NHS pension contributions?",
+      "difficulty": "B",
+      "options": [
+        "He planned to retire outside the UK.",
+        "He had become self-employed.",
+        "He needed money for family care, housing and current repayments.",
+        "The NHS stopped contributing to his pension."
+      ],
+      "correct_answer": "He needed money for family care, housing and current repayments.",
+      "explanation_hebrew": "חסן ציין טיפול בבן משפחה חולה, חיסכון לבית, שכר דירה והחזרי הלוואת סטודנטים."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “compound” mean in the article’s discussion of pension growth?",
+      "difficulty": "B",
+      "options": [
+        "To lock money away without any return",
+        "To grow through returns added to earlier savings and returns",
+        "To combine a state pension with rent payments",
+        "To reduce the employer’s minimum contribution"
+      ],
+      "correct_answer": "To grow through returns added to earlier savings and returns",
+      "explanation_hebrew": "ריבית דריבית היא צמיחה שבה התשואה מצטרפת לחיסכון וגם היא ממשיכה לצבור תשואה לאורך זמן."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which change did DWP data show for eligible 22-to-29-year-olds who had recently started a job?",
+      "difficulty": "B",
+      "options": [
+        "Their opt-out rate fell from 11.5% to 6.6%.",
+        "Their pension age rose from 57 to 60.",
+        "Their minimum contribution doubled to 10%.",
+        "Their opt-out rate rose from 6.6% to 11.5%."
+      ],
+      "correct_answer": "Their opt-out rate rose from 6.6% to 11.5%.",
+      "explanation_hebrew": "הנתונים השוו את שלושת החודשים עד דצמבר: 6.6% בשנת 2020 לעומת 11.5% בשנה האחרונה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is opting out especially costly for a worker in their twenties, according to April Leeson?",
+      "difficulty": "B",
+      "options": [
+        "They lose employer contributions and decades of compound growth.",
+        "They permanently lose eligibility for the state pension.",
+        "They must immediately repay all earlier tax relief.",
+        "They cannot rejoin a workplace scheme later."
+      ],
+      "correct_answer": "They lose employer contributions and decades of compound growth.",
+      "explanation_hebrew": "היא מדגישה גם את כסף המעסיק שנאבד וגם את הזמן הארוך שבו החיסכון המוקדם יכול לצמוח בריבית דריבית."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In Evie’s situation, what does “impractical” mean?",
+      "difficulty": "B",
+      "options": [
+        "Legally forbidden by her employer",
+        "Guaranteed to produce a loss",
+        "Difficult to do given her current expenses and goals",
+        "Suitable only for workers over 30"
+      ],
+      "correct_answer": "Difficult to do given her current expenses and goals",
+      "explanation_hebrew": "עבור אווי, הפרשה לפנסיה אינה מעשית כרגע בגלל שכר דירה, מזון, נסיעות ויעדים כמו בית ורכב."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "State the normal age and earnings conditions for automatic workplace-pension enrolment described in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין גיל 22 ומעלה והכנסה מעל 10,000 ליש״ט, תוך הכרה בכך שיש חריגים.",
+      "expected_points": [
+        "The worker is normally aged 22 or above.",
+        "The worker normally earns more than £10,000, although exceptions exist."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Hassan’s short-term decision and its possible long-term cost.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר את ההפסקה הזמנית בשל לחץ תזרימי ואת אובדן החיסכון והריבית העתידית שהוערכו ב־5,000–10,000 ליש״ט.",
+      "expected_points": [
+        "He paused contributions for roughly six to twelve months to meet immediate financial needs.",
+        "He estimates the missed saving and compound growth could reduce retirement income by £5,000 to £10,000."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How do Evie’s and Kharlee’s experiences support the pensions minister’s warning?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין לחצי ההווה והפסקת ההפרשות לבין חיסכון פרטי נמוך יותר וחשש מפרישה לא נוחה בעתיד.",
+      "expected_points": [
+        "Evie prioritises present housing and living costs over pension saving.",
+        "Kharlee believes repeated pauses cost about £5,000 and now worries about retirement security."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph advising a young worker who is considering opting out, using evidence from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "הפסקה צריכה להכיר בלחץ יוקר המחיה אך גם להסביר אובדן תרומת מעסיק וריבית דריבית; אפשר להציע הפחתת הפרשה אם המעסיק מאפשר.",
+      "expected_points": [
+        "Acknowledge immediate pressures such as rent, debt, family care or saving for housing.",
+        "Explain the value of employer contributions and long-term compound growth.",
+        "Mention reducing contributions or returning to the scheme as possible alternatives when available."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-02",
+  "article_id": "C",
+  "article_title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What contrast structures the article?",
+      "difficulty": "C",
+      "options": [
+        "Wealthy exiles’ ambitious plans for post-regime Cuba versus uncertainty and hardship on the island",
+        "Cuba’s successful energy reforms versus Florida’s worsening blackouts",
+        "Miami investors’ opposition to private enterprise versus Havana’s support for it",
+        "The CANCC’s rejection of land claims versus the Cuban government’s demand for restitution"
+      ],
+      "correct_answer": "Wealthy exiles’ ambitious plans for post-regime Cuba versus uncertainty and hardship on the island",
+      "explanation_hebrew": "הכתבה מעמתת את התכניות והאופטימיות במיאמי עם חוסר הוודאות, המחסור והמשבר התשתיתי בקובה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What has the CANCC prepared for a possible political transition in Cuba?",
+      "difficulty": "C",
+      "options": [
+        "A treaty ending the US embargo immediately",
+        "A plan to move Cuban residents to Florida",
+        "A stock-exchange proposal and committees on infrastructure and food security",
+        "A programme to restore sugar production only"
+      ],
+      "correct_answer": "A stock-exchange proposal and committees on infrastructure and food security",
+      "explanation_hebrew": "הארגון ניסח הצעה לבורסה קובנית והקים ועדות בנושאים כמו אנרגיה וביטחון מזון."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When the attendees call Cuba’s reforms “cosmetic”, what do they mean?",
+      "difficulty": "C",
+      "options": [
+        "The reforms focus mainly on medical tourism.",
+        "The reforms are attractive but too expensive.",
+        "The reforms were designed by foreign investors.",
+        "The reforms change appearances without giving meaningful investor guarantees."
+      ],
+      "correct_answer": "The reforms change appearances without giving meaningful investor guarantees.",
+      "explanation_hebrew": "במילה “cosmetic” הכוונה לשינויים חיצוניים או שטחיים שאינם מספקים ביטחון ממשי למשקיעים."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does Mike Bustamante doubt that a dramatic US move against Cuba is near?",
+      "difficulty": "C",
+      "options": [
+        "The US administration is focused on elections and the Iran war, with little appetite for another foreign venture.",
+        "Cuban Americans have stopped supporting political change.",
+        "The fuel blockade ended and Cuba’s economy recovered.",
+        "CANCC members withdrew all of their proposals."
+      ],
+      "correct_answer": "The US administration is focused on elections and the Iran war, with little appetite for another foreign venture.",
+      "explanation_hebrew": "בוסטמנטה מצביע על בחירות האמצע המתקרבות ועל הסתבכות ארה״ב במלחמת איראן כסיבות לזהירות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article highlight Cuba’s nationwide blackout shortly after the Miami meeting?",
+      "difficulty": "C",
+      "options": [
+        "To show the sharp gap between polished planning in Miami and Cuba’s immediate crisis",
+        "To prove the CANCC caused the blackout",
+        "To demonstrate that the electrical grid needs no investment",
+        "To explain why Miami families oppose humanitarian aid"
+      ],
+      "correct_answer": "To show the sharp gap between polished planning in Miami and Cuba’s immediate crisis",
+      "explanation_hebrew": "האפלה מדגישה את הפער בין השיח הנינוח והתכניות הגדולות במיאמי לבין המצוקה היומיומית בקובה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “restitution” mean in Juan Omar Sixto’s claim?",
+      "difficulty": "C",
+      "options": [
+        "Permission to open several private companies",
+        "A promise not to invest in Cuban land",
+        "The return of property or compensation for what was taken",
+        "The removal of families from nationalised homes"
+      ],
+      "correct_answer": "The return of property or compensation for what was taken",
+      "explanation_hebrew": "סיקסטו מבקש השבה או פיצוי על הקרקעות והנכסים שהולאמו, ולא פינוי משפחות מהבתים."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two economic liberalisation measures recently announced by Cuba’s leadership.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שניים: ביטול תקרת העובדים בעסק פרטי, העסקה ופיטורים ישירים, או בעלות על כמה מפעלים גם לקובנים־אמריקנים.",
+      "expected_points": [
+        "One valid measure: lifting the cap on employees in a private business.",
+        "Another valid measure: direct hiring and firing, or ownership of multiple enterprises including by Cuban Americans."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the competing arguments about foreign investment in Cuban agricultural land.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג מצד אחד צורך בכסף, טכנולוגיה וייצור מזון, ומצד שני חשש מרכישת אדמות ורגישות היסטורית סביב הפקעה, עבדות ורפורמת קרקעות.",
+      "expected_points": [
+        "Supporters argue investors could bring capital and technology and reduce dependence on food imports.",
+        "Critics or residents may fear foreign control and dispute historic ownership and land-reform claims."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain the irony the reporter identifies in the exiles’ reconstruction plans.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהמתכננים תומכים באמברגו ובמצור הדלק שמחריפים את הסבל, אך מציעים לבנות מחדש את קובה בלי מעורבות רוב תושביה.",
+      "expected_points": [
+        "Some planners support policies that contribute to Cuba’s current misery.",
+        "They are designing reconstruction largely without input from most people living in Cuba."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Evaluate whether the CANCC’s plans appear ready for implementation. Support your answer with at least three article details.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג עמדה מנומקת עם שלושה פרטים לפחות, כגון ועדות ותכניות קיימות מול אי־ודאות פוליטית, אפלות, מחסור, עלות רשת החשמל ומחלוקות קרקע.",
+      "expected_points": [
+        "Evidence of preparation includes the stock-exchange proposal and sector committees.",
+        "Evidence of uncertainty includes no clear transition path and doubts about further US escalation.",
+        "Practical obstacles include blackouts, shortages, disputed land titles and an estimated $8bn–$10bn grid repair cost."
+      ]
+    }
+  ]
+}
