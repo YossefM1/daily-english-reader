@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-02",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo",
+  "published_at": "2026-10-02T01:34:56+00:00",
+  "age_hours_at_selection": 0.58,
+  "word_count": 457,
+  "generated_at": "2026-10-02T02:09:29.687241+00:00",
+  "difficulty_reason": "Short, direct news report with a clear single story and mostly B1/B2 vocabulary; little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "allegedly",
+      "lemma": "allegedly",
+      "level": "B2",
+      "hebrew": "לכאורה",
+      "explanation_hebrew": "משהו שנטען אך לא הוכח",
+      "pronunciation_hebrew": "אָלֶגֶ'דְלִי",
+      "example": "He allegedly broke the rules."
+    },
+    {
+      "word": "mishandling",
+      "lemma": "mishandle",
+      "level": "B2",
+      "hebrew": "טיפול לקוי",
+      "explanation_hebrew": "טיפול שגוי או לא נכון במשהו",
+      "pronunciation_hebrew": "מִיסְהַנְדְלִינְג",
+      "example": "The mishandling of data caused problems."
+    },
+    {
+      "word": "external",
+      "lemma": "external",
+      "level": "B1",
+      "hebrew": "חיצוני",
+      "explanation_hebrew": "משהו שנמצא מחוץ לארגון או לגוף",
+      "pronunciation_hebrew": "אֶקְסְטֶרְנַל",
+      "example": "They hired an external expert."
+    },
+    {
+      "word": "investigation",
+      "lemma": "investigation",
+      "level": "B1",
+      "hebrew": "חקירה",
+      "explanation_hebrew": "בדיקה מסודרת כדי לגלות עובדות",
+      "pronunciation_hebrew": "אִינְבֶסְטִיגֵיישֶן",
+      "example": "The investigation lasted two months."
+    },
+    {
+      "word": "confirmed",
+      "lemma": "confirm",
+      "level": "B1",
+      "hebrew": "אישר",
+      "explanation_hebrew": "קבע שמשהו נכון או ודאי",
+      "pronunciation_hebrew": "קוֹנְפֶרְמְד",
+      "example": "She confirmed the meeting time."
+    },
+    {
+      "word": "sensitive",
+      "lemma": "sensitive",
+      "level": "B2",
+      "hebrew": "רגיש",
+      "explanation_hebrew": "מידע שצריך להישמר בסוד",
+      "pronunciation_hebrew": "סֶנְסִיטִיב",
+      "example": "This is sensitive information."
+    },
+    {
+      "word": "procedures",
+      "lemma": "procedure",
+      "level": "B2",
+      "hebrew": "נהלים",
+      "explanation_hebrew": "דרכים רשמיות לעשות משהו",
+      "pronunciation_hebrew": "פְּרוֹסִיגֶ'רְז",
+      "example": "Follow the safety procedures."
+    },
+    {
+      "word": "violating",
+      "lemma": "violate",
+      "level": "B2",
+      "hebrew": "מפר",
+      "explanation_hebrew": "שובר חוק או כלל",
+      "pronunciation_hebrew": "וַיוֹלֵייטִינְג",
+      "example": "He was violating the rules."
+    },
+    {
+      "word": "policies",
+      "lemma": "policy",
+      "level": "B1",
+      "hebrew": "מדיניות",
+      "explanation_hebrew": "כללים רשמיים של ארגון",
+      "pronunciation_hebrew": "פּוֹלִיסִיז",
+      "example": "The company changed its policies."
+    },
+    {
+      "word": "essential",
+      "lemma": "essential",
+      "level": "B1",
+      "hebrew": "חיוני",
+      "explanation_hebrew": "הכרחי וחשוב מאוד",
+      "pronunciation_hebrew": "אֶסֶנְשֶל",
+      "example": "Water is essential for life."
+    },
+    {
+      "word": "sacked",
+      "lemma": "sack",
+      "level": "B2",
+      "hebrew": "פוטר",
+      "explanation_hebrew": "הודח מהעבודה",
+      "pronunciation_hebrew": "סַאקְט",
+      "example": "He was sacked last week."
+    },
+    {
+      "word": "intensified",
+      "lemma": "intensify",
+      "level": "C1",
+      "hebrew": "התעצם",
+      "explanation_hebrew": "נעשה חזק יותר",
+      "pronunciation_hebrew": "אִינְטֶנְסִיפַייד",
+      "example": "The debate intensified."
+    },
+    {
+      "word": "concerns",
+      "lemma": "concern",
+      "level": "B1",
+      "hebrew": "חששות",
+      "explanation_hebrew": "דאגות או עניינים מטרידים",
+      "pronunciation_hebrew": "קוֹנְסֶרְנְז",
+      "example": "She raised safety concerns."
+    },
+    {
+      "word": "scrutiny",
+      "lemma": "scrutiny",
+      "level": "C1",
+      "hebrew": "בחינה מדוקדקת",
+      "explanation_hebrew": "בדיקה קפדנית ומעמיקה",
+      "pronunciation_hebrew": "סְקְרוּטִינִי",
+      "example": "The plan came under scrutiny."
+    },
+    {
+      "word": "rogue",
+      "lemma": "rogue",
+      "level": "C1",
+      "hebrew": "סורר",
+      "explanation_hebrew": "פועל באופן בלתי צפוי ומזיק",
+      "pronunciation_hebrew": "רוֹג",
+      "example": "A rogue program hacked the system."
+    },
+    {
+      "word": "platforms",
+      "lemma": "platform",
+      "level": "B1",
+      "hebrew": "פלטפורמות",
+      "explanation_hebrew": "מערכות או אתרים מקוונים",
+      "pronunciation_hebrew": "פְּלַאטְפוֹרְמְז",
+      "example": "The data was on several platforms."
+    },
+    {
+      "word": "breached",
+      "lemma": "breach",
+      "level": "C1",
+      "hebrew": "פרץ",
+      "explanation_hebrew": "נכנס ללא רשות או הפר",
+      "pronunciation_hebrew": "בְּרִיצְ'ט",
+      "example": "Hackers breached the website."
+    },
+    {
+      "word": "conduct",
+      "lemma": "conduct",
+      "level": "B2",
+      "hebrew": "לערוך",
+      "explanation_hebrew": "לבצע או לנהל פעולה",
+      "pronunciation_hebrew": "קוֹנְדַקְט",
+      "example": "They will conduct a review."
+    },
+    {
+      "word": "execute",
+      "lemma": "execute",
+      "level": "B2",
+      "hebrew": "לבצע",
+      "explanation_hebrew": "לבצע משימה או פקודה",
+      "pronunciation_hebrew": "אֶקְסִיקְיוּט",
+      "example": "The agent can execute tasks."
+    },
+    {
+      "word": "autonomously",
+      "lemma": "autonomously",
+      "level": "C1",
+      "hebrew": "באופן עצמאי",
+      "explanation_hebrew": "ללא פיקוח או עזרה",
+      "pronunciation_hebrew": "אוֹטוֹנוֹמַסְלִי",
+      "example": "The robot works autonomously."
+    },
+    {
+      "word": "notified",
+      "lemma": "notify",
+      "level": "B1",
+      "hebrew": "הודיע",
+      "explanation_hebrew": "מסר מידע באופן רשמי",
+      "pronunciation_hebrew": "נוֹטִיפַייד",
+      "example": "We notified the users."
+    },
+    {
+      "word": "incidents",
+      "lemma": "incident",
+      "level": "B1",
+      "hebrew": "אירועים",
+      "explanation_hebrew": "מקרים או תקריות",
+      "pronunciation_hebrew": "אִינְסִידֶנְטְס",
+      "example": "Several incidents were reported."
+    },
+    {
+      "word": "compromised",
+      "lemma": "compromise",
+      "level": "C1",
+      "hebrew": "נפרץ",
+      "explanation_hebrew": "נפגע או נחשף לסכנה",
+      "pronunciation_hebrew": "קוֹמְפְּרוֹמַייזְד",
+      "example": "The account was compromised."
+    },
+    {
+      "word": "measures",
+      "lemma": "measure",
+      "level": "B2",
+      "hebrew": "צעדים",
+      "explanation_hebrew": "פעולות שננקטות למטרה מסוימת",
+      "pronunciation_hebrew": "מֶזֶ'רְז",
+      "example": "They took safety measures."
+    },
+    {
+      "word": "oversight",
+      "lemma": "oversight",
+      "level": "C1",
+      "hebrew": "פיקוח",
+      "explanation_hebrew": "מעקב ובקרה על פעילות",
+      "pronunciation_hebrew": "אוֹבֶרְסַייט",
+      "example": "The industry needs more oversight."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "allegedly",
+      "type": "english_to_hebrew",
+      "question": "What does “allegedly” mean?",
+      "options": [
+        "סורר",
+        "חיצוני",
+        "מדיניות",
+        "לכאורה"
+      ],
+      "correct_answer": "לכאורה",
+      "explanation_hebrew": "“allegedly” פירושו לכאורה."
+    },
+    {
+      "id": "A-q2",
+      "word": "mishandling",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “טיפול לקוי”?",
+      "options": [
+        "mishandling",
+        "platforms",
+        "essential",
+        "investigation"
+      ],
+      "correct_answer": "mishandling",
+      "explanation_hebrew": "המילה “mishandling” פירושה טיפול לקוי."
+    },
+    {
+      "id": "A-q3",
+      "word": "external",
+      "type": "english_to_hebrew",
+      "question": "What does “external” mean?",
+      "options": [
+        "חיצוני",
+        "פרץ",
+        "אישר",
+        "פוטר"
+      ],
+      "correct_answer": "חיצוני",
+      "explanation_hebrew": "“external” פירושו חיצוני."
+    },
+    {
+      "id": "A-q4",
+      "word": "investigation",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “חקירה”?",
+      "options": [
+        "sensitive",
+        "investigation",
+        "conduct",
+        "intensified"
+      ],
+      "correct_answer": "investigation",
+      "explanation_hebrew": "המילה “investigation” פירושה חקירה."
+    },
+    {
+      "id": "A-q5",
+      "word": "confirmed",
+      "type": "english_to_hebrew",
+      "question": "What does “confirmed” mean?",
+      "options": [
+        "חששות",
+        "לבצע",
+        "אישר",
+        "נהלים"
+      ],
+      "correct_answer": "אישר",
+      "explanation_hebrew": "“confirmed” פירושו אישר."
+    },
+    {
+      "id": "A-q6",
+      "word": "sensitive",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “רגיש”?",
+      "options": [
+        "sensitive",
+        "violating",
+        "autonomously",
+        "scrutiny"
+      ],
+      "correct_answer": "sensitive",
+      "explanation_hebrew": "המילה “sensitive” פירושה רגיש."
+    },
+    {
+      "id": "A-q7",
+      "word": "procedures",
+      "type": "english_to_hebrew",
+      "question": "What does “procedures” mean?",
+      "options": [
+        "סורר",
+        "מדיניות",
+        "הודיע",
+        "נהלים"
+      ],
+      "correct_answer": "נהלים",
+      "explanation_hebrew": "“procedures” פירושו נהלים."
+    },
+    {
+      "id": "A-q8",
+      "word": "violating",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “מפר”?",
+      "options": [
+        "incidents",
+        "violating",
+        "platforms",
+        "essential"
+      ],
+      "correct_answer": "violating",
+      "explanation_hebrew": "המילה “violating” פירושה מפר."
+    },
+    {
+      "id": "A-q9",
+      "word": "policies",
+      "type": "english_to_hebrew",
+      "question": "What does “policies” mean?",
+      "options": [
+        "נפרץ",
+        "פוטר",
+        "פרץ",
+        "מדיניות"
+      ],
+      "correct_answer": "מדיניות",
+      "explanation_hebrew": "“policies” פירושו מדיניות."
+    },
+    {
+      "id": "A-q10",
+      "word": "essential",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “חיוני”?",
+      "options": [
+        "measures",
+        "conduct",
+        "essential",
+        "intensified"
+      ],
+      "correct_answer": "essential",
+      "explanation_hebrew": "המילה “essential” פירושה חיוני."
+    },
+    {
+      "id": "A-q11",
+      "word": "sacked",
+      "type": "english_to_hebrew",
+      "question": "What does “sacked” mean?",
+      "options": [
+        "לבצע",
+        "חששות",
+        "פוטר",
+        "פיקוח"
+      ],
+      "correct_answer": "פוטר",
+      "explanation_hebrew": "“sacked” פירושו פוטר."
+    },
+    {
+      "id": "A-q12",
+      "word": "intensified",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “התעצם”?",
+      "options": [
+        "allegedly",
+        "scrutiny",
+        "autonomously",
+        "intensified"
+      ],
+      "correct_answer": "intensified",
+      "explanation_hebrew": "המילה “intensified” פירושה התעצם."
+    },
+    {
+      "id": "A-q13",
+      "word": "concerns",
+      "type": "english_to_hebrew",
+      "question": "What does “concerns” mean?",
+      "options": [
+        "טיפול לקוי",
+        "חששות",
+        "סורר",
+        "הודיע"
+      ],
+      "correct_answer": "חששות",
+      "explanation_hebrew": "“concerns” פירושו חששות."
+    },
+    {
+      "id": "A-q14",
+      "word": "scrutiny",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “בחינה מדוקדקת”?",
+      "options": [
+        "scrutiny",
+        "platforms",
+        "incidents",
+        "external"
+      ],
+      "correct_answer": "scrutiny",
+      "explanation_hebrew": "המילה “scrutiny” פירושה בחינה מדוקדקת."
+    },
+    {
+      "id": "A-q15",
+      "word": "rogue",
+      "type": "english_to_hebrew",
+      "question": "What does “rogue” mean?",
+      "options": [
+        "פרץ",
+        "סורר",
+        "חקירה",
+        "נפרץ"
+      ],
+      "correct_answer": "סורר",
+      "explanation_hebrew": "“rogue” פירושו סורר."
+    },
+    {
+      "id": "A-q16",
+      "word": "platforms",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “פלטפורמות”?",
+      "options": [
+        "measures",
+        "confirmed",
+        "platforms",
+        "conduct"
+      ],
+      "correct_answer": "platforms",
+      "explanation_hebrew": "המילה “platforms” פירושה פלטפורמות."
+    },
+    {
+      "id": "A-q17",
+      "word": "breached",
+      "type": "english_to_hebrew",
+      "question": "What does “breached” mean?",
+      "options": [
+        "רגיש",
+        "פיקוח",
+        "פרץ",
+        "לבצע"
+      ],
+      "correct_answer": "פרץ",
+      "explanation_hebrew": "“breached” פירושו פרץ."
+    },
+    {
+      "id": "A-q18",
+      "word": "conduct",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “לערוך”?",
+      "options": [
+        "conduct",
+        "procedures",
+        "autonomously",
+        "allegedly"
+      ],
+      "correct_answer": "conduct",
+      "explanation_hebrew": "המילה “conduct” פירושה לערוך."
+    },
+    {
+      "id": "A-q19",
+      "word": "execute",
+      "type": "english_to_hebrew",
+      "question": "What does “execute” mean?",
+      "options": [
+        "הודיע",
+        "לבצע",
+        "טיפול לקוי",
+        "מפר"
+      ],
+      "correct_answer": "לבצע",
+      "explanation_hebrew": "“execute” פירושו לבצע."
+    },
+    {
+      "id": "A-q20",
+      "word": "autonomously",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “באופן עצמאי”?",
+      "options": [
+        "incidents",
+        "autonomously",
+        "external",
+        "policies"
+      ],
+      "correct_answer": "autonomously",
+      "explanation_hebrew": "המילה “autonomously” פירושה באופן עצמאי."
+    },
+    {
+      "id": "A-q21",
+      "word": "notified",
+      "type": "english_to_hebrew",
+      "question": "What does “notified” mean?",
+      "options": [
+        "חקירה",
+        "חיוני",
+        "הודיע",
+        "נפרץ"
+      ],
+      "correct_answer": "הודיע",
+      "explanation_hebrew": "“notified” פירושו הודיע."
+    },
+    {
+      "id": "A-q22",
+      "word": "incidents",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “אירועים”?",
+      "options": [
+        "incidents",
+        "measures",
+        "confirmed",
+        "sacked"
+      ],
+      "correct_answer": "incidents",
+      "explanation_hebrew": "המילה “incidents” פירושה אירועים."
+    },
+    {
+      "id": "A-q23",
+      "word": "compromised",
+      "type": "english_to_hebrew",
+      "question": "What does “compromised” mean?",
+      "options": [
+        "פיקוח",
+        "רגיש",
+        "התעצם",
+        "נפרץ"
+      ],
+      "correct_answer": "נפרץ",
+      "explanation_hebrew": "“compromised” פירושו נפרץ."
+    },
+    {
+      "id": "A-q24",
+      "word": "measures",
+      "type": "hebrew_to_english",
+      "question": "⃑ איזו מילה באנגלית פירושה “צעדים”?",
+      "options": [
+        "procedures",
+        "allegedly",
+        "concerns",
+        "measures"
+      ],
+      "correct_answer": "measures",
+      "explanation_hebrew": "המילה “measures” פירושה צעדים."
+    },
+    {
+      "id": "A-q25",
+      "word": "oversight",
+      "type": "english_to_hebrew",
+      "question": "What does “oversight” mean?",
+      "options": [
+        "פיקוח",
+        "בחינה מדוקדקת",
+        "טיפול לקוי",
+        "מפר"
+      ],
+      "correct_answer": "פיקוח",
+      "explanation_hebrew": "“oversight” פירושו פיקוח."
+    }
+  ]
+}
