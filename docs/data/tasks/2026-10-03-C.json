@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-03",
+  "article_id": "C",
+  "article_title": "Ethiopia and Eritrea cut diplomatic ties as Tigray conflict escalates",
+  "article_url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article’s central concern?",
+      "difficulty": "C",
+      "options": [
+        "Renewed fighting and diplomatic ruptures could widen instability across the Horn of Africa",
+        "Ethiopia and Eritrea are negotiating a new trade union",
+        "The TPLF has accepted a permanent ceasefire with federal forces",
+        "Egypt has approved Ethiopia’s dam without conditions"
+      ],
+      "correct_answer": "Renewed fighting and diplomatic ruptures could widen instability across the Horn of Africa",
+      "explanation_hebrew": "הכתבה קושרת בין הלחימה בצפון אתיופיה, ניתוק היחסים עם אריתריאה והמתיחות עם מצרים לחשש מעימות אזורי רחב."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What immediate action led Eritrea to sever diplomatic ties with Ethiopia?",
+      "difficulty": "C",
+      "options": [
+        "Ethiopia closed its Asmara embassy and ordered ten Eritrean diplomats to leave",
+        "Eritrea occupied the Grand Ethiopian Renaissance Dam",
+        "Egypt deployed troops to Mekelle",
+        "The TPLF expelled all Eritrean residents from Tigray"
+      ],
+      "correct_answer": "Ethiopia closed its Asmara embassy and ordered ten Eritrean diplomats to leave",
+      "explanation_hebrew": "אתיופיה סגרה את שגרירותה באסמרה והורתה לעשרה דיפלומטים אריתריאים לצאת בתוך 48 שעות; אריתריאה הגיבה בצעד הדדי."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “reciprocal action” mean in Eritrea’s response?",
+      "difficulty": "C",
+      "options": [
+        "A secret military agreement with Egypt",
+        "A matching response to Ethiopia’s diplomatic measures",
+        "A request for humanitarian assistance",
+        "A reversal of Eritrean independence"
+      ],
+      "correct_answer": "A matching response to Ethiopia’s diplomatic measures",
+      "explanation_hebrew": "“Reciprocal” פירושו הדדי: אריתריאה השיבה בצעד מקביל לצעד האתיופי."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why have relations between Ethiopia and Egypt long been strained?",
+      "difficulty": "C",
+      "options": [
+        "A dispute over access to Eritrean ports",
+        "Egypt’s support for the Fano militia",
+        "Competition over elections in Tigray",
+        "Concern about the GERD dam’s effect on Egypt’s Nile water"
+      ],
+      "correct_answer": "Concern about the GERD dam’s effect on Egypt’s Nile water",
+      "explanation_hebrew": "מצרים תלויה בנילוס וחוששת שהסכר ההידרואלקטרי הגדול של אתיופיה ישפיע על חלקה במי הנהר."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article repeatedly note that some battlefield claims could not be independently verified?",
+      "difficulty": "C",
+      "options": [
+        "Communications are cut and the BBC cannot report from Tigray, limiting reliable evidence",
+        "All parties have agreed not to discuss the conflict",
+        "The fighting occurs entirely outside Ethiopia",
+        "The African Union has banned journalists from Africa"
+      ],
+      "correct_answer": "Communications are cut and the BBC cannot report from Tigray, limiting reliable evidence",
+      "explanation_hebrew": "ניתוק האינטרנט והטלפון והיעדר גישה עיתונאית לטיגראי מקשים לאמת טענות של כל הצדדים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “rapprochement” refer to?",
+      "difficulty": "C",
+      "options": [
+        "The creation of a rebel alliance",
+        "The closure of humanitarian roads",
+        "The restoration and improvement of Ethiopia-Eritrea relations in 2018",
+        "The construction of the Nile dam"
+      ],
+      "correct_answer": "The restoration and improvement of Ethiopia-Eritrea relations in 2018",
+      "explanation_hebrew": "המונח מתאר התקרבות ושיקום יחסים, כפי שקרה ב־2018 אחרי שני עשורים של עוינות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "State two reasons Ethiopia-Eritrea relations deteriorated after their alliance in the 2020–2022 Tigray war.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שני גורמים מהכתבה: טענת אתיופיה לתמיכת אריתריאה בברית מורדים, המחלוקת על גישה ישירה לים האדום, או חשש אריתריאי משאיפות לנמליה.",
+      "expected_points": [
+        "Ethiopia accuses Eritrea of backing a new rebel alliance, which Eritrea denies.",
+        "Tensions also centre on Ethiopia’s push for direct Red Sea access and Eritrea’s concern about ambitions over its ports."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the conflict has expanded beyond a dispute between the Ethiopian government and the TPLF.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את ברית שבע התנועות, הטענות למעורבות אריתריאה, חילופי גירוש עם מצרים והלחימה בטיגראי, אפאר ואמהרה.",
+      "expected_points": [
+        "The TPLF formed an alliance with six other armed movements, including Fano.",
+        "Eritrea is accused of supporting or joining the fighting, while diplomatic tensions also involve Egypt.",
+        "Fighting and displacement extend across Tigray, Afar and Amhara."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain why the latest diplomatic breakdown is described as a dramatic reversal from 2018.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשוות בין פתיחת הגבול, איחוד משפחות ונובל השלום לבין ניתוק היחסים, גירוש דיפלומטים וחזרת העוינות.",
+      "expected_points": [
+        "In 2018 Abiy restored relations after two decades of hostility and reopened the border.",
+        "That rapprochement helped earn him the Nobel Peace Prize.",
+        "The countries have now expelled diplomats and severed ties amid renewed accusations and conflict."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Assess the main risks to civilians if the conflict continues, using at least three details from the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לדון בשלושה סיכונים לפחות: הרוגים, עקירה, תקיפות אוויריות ורחפנים, פגיעה בתשתיות, חסימת סיוע, סגירת דרכים וניתוק תקשורת.",
+      "expected_points": [
+        "Civilian deaths and mass displacement are already reported in northern regions.",
+        "Drone activity, air strikes and fighting threaten vital infrastructure.",
+        "Road closures, insecurity and communication cuts restrict safe and unhindered humanitarian access."
+      ]
+    }
+  ]
+}

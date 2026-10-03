@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-03",
+  "article_id": "B",
+  "article_title": "Riot police clash with students as education protests rage in France",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What development is at the centre of the article?",
+      "difficulty": "B",
+      "options": [
+        "Education protests spread across France and escalated into violent clashes and disruption",
+        "Teachers ended a national strike after winning higher salaries",
+        "France closed every secondary school ahead of an election",
+        "Police withdrew after students accepted planned budget cuts"
+      ],
+      "correct_answer": "Education protests spread across France and escalated into violent clashes and disruption",
+      "explanation_hebrew": "המחאה על תנאי החינוך התרחבה למאות בתי ספר והסלימה לעימותים, הצתות, פציעות ומעצרים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which school conditions did students initially object to?",
+      "difficulty": "B",
+      "options": [
+        "Short school days and too many teachers",
+        "A ban on university applications",
+        "Lack of teachers, crowded classrooms and run-down buildings",
+        "The removal of all school sports"
+      ],
+      "correct_answer": "Lack of teachers, crowded classrooms and run-down buildings",
+      "explanation_hebrew": "התלמידים מחו על מחסור במורים, כיתות צפופות ומבנים מוזנחים, לצד טענות נוספות על שעות וחום."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What did the education minister mean when he said the movement had been “hijacked” by non-students?",
+      "difficulty": "B",
+      "options": [
+        "Its websites had been attacked by hackers.",
+        "Its direction had been taken over by outsiders.",
+        "Its leaders had travelled to another city.",
+        "Its demands had been accepted by the government."
+      ],
+      "correct_answer": "Its direction had been taken over by outsiders.",
+      "explanation_hebrew": "כאן “hijacked” פירושו שהמחאה השתלטה או הוסטה בידי אנשים שאינם תלמידים."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did BBC Verify authenticate?",
+      "difficulty": "B",
+      "options": [
+        "A government list of all 1,747 arrests",
+        "Pictures of damage at every affected school",
+        "Audio of ministers planning education cuts",
+        "Two videos showing a police officer being chased and beaten"
+      ],
+      "correct_answer": "Two videos showing a police officer being chased and beaten",
+      "explanation_hebrew": "BBC Verify אימת שני סרטונים שבהם נראה שוטר נרדף, נופל ומוכה בראשו."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article quote both ministers and 16-year-old protester Lola?",
+      "difficulty": "B",
+      "options": [
+        "To present conflicting views about whether police action restored order or increased anger",
+        "To prove that all protesters supported violence",
+        "To show that Lola was speaking for the education ministry",
+        "To explain why the presidential election was cancelled"
+      ],
+      "correct_answer": "To present conflicting views about whether police action restored order or increased anger",
+      "explanation_hebrew": "השרים מתארים הידרדרות לאלימות, בעוד לולה טוענת שפעולות המשטרה החריפו את הכעס."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this report, what does “deployed” mean in the sentence about tear gas in Strasbourg?",
+      "difficulty": "B",
+      "options": [
+        "Stored for a later investigation",
+        "Declared illegal by a court",
+        "Used or put into action by police",
+        "Thrown at officers by students"
+      ],
+      "correct_answer": "Used or put into action by police",
+      "explanation_hebrew": "המשטרה הפעילה או השתמשה בגז מדמיע מחשש שהמצב יהפוך עוין יותר."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two figures that demonstrate the scale of the unrest.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני נתונים מדויקים, כגון 735 בתי ספר, 1,747 עצורים, 65 אנשי צוות פצועים או נזק של יותר משני מיליון אירו בנאנט.",
+      "expected_points": [
+        "One valid scale figure: 735 of 3,700 schools were affected or 1,747 people were arrested.",
+        "A second valid figure: at least 65 staff were injured or one Nantes school suffered over €2m in damage."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how an education protest developed into a wider public-order crisis.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר את דרישות החינוך הראשוניות ואת ההתרחבות לחסימות, הצתות, השלכת חפצים, אלימות ומעצרים.",
+      "expected_points": [
+        "Students began by protesting staffing, overcrowding, buildings, hours and funding.",
+        "The movement spread nationwide and included blockades, fires, projectiles, assaults and large-scale arrests."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might authorities and parents interpret the same protests differently?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג את דאגת הרשויות לביטחון ולנזק מול דאגת הורים ותלמידים לתנאי החינוך, זכויות המחאה ואלימות המשטרה.",
+      "expected_points": [
+        "Authorities emphasise violence, weapons, injuries and property damage.",
+        "Students and unions emphasise education grievances and protest rights, while parents fear children being caught in escalation."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph on whether the protests still served their original educational purpose.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשתמש לפחות בשני פרטים מהכתבה ולהציג גם את התלונות הלגיטימיות וגם את השפעת האלימות או מעורבות גורמים חיצוניים.",
+      "expected_points": [
+        "Mention concrete education complaints such as staffing, overcrowding, buildings or budget cuts.",
+        "Explain how violence, arrests and alleged non-student involvement may have shifted attention from those demands.",
+        "Reach a reasoned conclusion rather than a one-sided claim."
+      ]
+    }
+  ]
+}
