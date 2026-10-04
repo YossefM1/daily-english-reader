@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-04",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Why Canada is preparing for a (long shot) US invasion",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o",
+  "published_at": "2026-10-03T23:30:06+00:00",
+  "age_hours_at_selection": 2.67,
+  "word_count": 1228,
+  "generated_at": "2026-10-04T02:10:12.290752+00:00",
+  "difficulty_reason": "Long analytical piece dense with military, diplomatic and historical context; complex sentences and abstract B2/C1/C2 vocabulary requiring background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "acquiring",
+      "lemma": "acquire",
+      "level": "C1",
+      "hebrew": "רְכִישָׁה / לְהַשִּׂיג",
+      "explanation_hebrew": "להשיג או לקבל בעלות על משהו",
+      "pronunciation_hebrew": "אַקְוַוייְרִינְג",
+      "example": "The firm is acquiring new assets."
+    },
+    {
+      "word": "scenario",
+      "lemma": "scenario",
+      "level": "B2",
+      "hebrew": "תַּרְחִישׁ",
+      "explanation_hebrew": "מצב אפשרי שעלול לקרות",
+      "pronunciation_hebrew": "סֶנַארְיוֹ",
+      "example": "We planned for the worst scenario."
+    },
+    {
+      "word": "improbable",
+      "lemma": "improbable",
+      "level": "C1",
+      "hebrew": "בִּלְתִּי סָבִיר",
+      "explanation_hebrew": "לא סביר שיקרה",
+      "pronunciation_hebrew": "אִימְפְּרוֹבַּבְּל",
+      "example": "An attack seems improbable."
+    },
+    {
+      "word": "redefined",
+      "lemma": "redefine",
+      "level": "C1",
+      "hebrew": "הֻגְדַּר מֵחָדָשׁ",
+      "explanation_hebrew": "קיבל משמעות או צורה חדשה",
+      "pronunciation_hebrew": "רִידִיפַיְינְד",
+      "example": "The role was redefined."
+    },
+    {
+      "word": "tariffs",
+      "lemma": "tariff",
+      "level": "C1",
+      "hebrew": "מִכְסֵי מֶכֶס",
+      "explanation_hebrew": "מסים על סחורות מיובאות",
+      "pronunciation_hebrew": "טַארִיפְס",
+      "example": "The tariffs raised prices."
+    },
+    {
+      "word": "exert",
+      "lemma": "exert",
+      "level": "C1",
+      "hebrew": "לְהַפְעִיל (לַחַץ)",
+      "explanation_hebrew": "להשתמש בכוח או בהשפעה",
+      "pronunciation_hebrew": "אֶקְזֶרְט",
+      "example": "They exert pressure on rivals."
+    },
+    {
+      "word": "obtain",
+      "lemma": "obtain",
+      "level": "B2",
+      "hebrew": "לְהַשִּׂיג",
+      "explanation_hebrew": "לקבל או להשיג משהו",
+      "pronunciation_hebrew": "אוֹבְּטֵיין",
+      "example": "He hopes to obtain a visa."
+    },
+    {
+      "word": "collaborate",
+      "lemma": "collaborate",
+      "level": "B2",
+      "hebrew": "לְשַׁתֵּף פְּעֻלָּה",
+      "explanation_hebrew": "לעבוד יחד עם אחרים",
+      "pronunciation_hebrew": "קוֹלַבּוֹרֵייט",
+      "example": "The teams collaborate closely."
+    },
+    {
+      "word": "alliance",
+      "lemma": "alliance",
+      "level": "B2",
+      "hebrew": "בְּרִית",
+      "explanation_hebrew": "הסכם שיתוף בין צדדים",
+      "pronunciation_hebrew": "אַלַייאַנְס",
+      "example": "The two nations formed an alliance."
+    },
+    {
+      "word": "mandates",
+      "lemma": "mandate",
+      "level": "C1",
+      "hebrew": "מְחַיֵּב / מַסְמִיךְ",
+      "explanation_hebrew": "נותן סמכות או מחייב בחוק",
+      "pronunciation_hebrew": "מַנְדֵייטְס",
+      "example": "The treaty mandates cooperation."
+    },
+    {
+      "word": "discreet",
+      "lemma": "discreet",
+      "level": "C1",
+      "hebrew": "דִּיסְקְרֶטִי / זָהִיר",
+      "explanation_hebrew": "נעשה בשקט ובזהירות",
+      "pronunciation_hebrew": "דִיסְקְרִיט",
+      "example": "He made discreet inquiries."
+    },
+    {
+      "word": "integrated",
+      "lemma": "integrate",
+      "level": "C1",
+      "hebrew": "מְשֻׁלָּב",
+      "explanation_hebrew": "חובר יחד למערכת אחת",
+      "pronunciation_hebrew": "אִינְטֶגְרֵייטֶד",
+      "example": "Their economies are integrated."
+    },
+    {
+      "word": "tenet",
+      "lemma": "tenet",
+      "level": "C2",
+      "hebrew": "עִקָּרוֹן יְסוֹד",
+      "explanation_hebrew": "אמונה או עיקרון מרכזי",
+      "pronunciation_hebrew": "טֶנֶט",
+      "example": "Honesty is a core tenet of the group."
+    },
+    {
+      "word": "resistance",
+      "lemma": "resistance",
+      "level": "B2",
+      "hebrew": "הִתְנַגְּדוּת",
+      "explanation_hebrew": "התנגדות או עמידה מול כוח",
+      "pronunciation_hebrew": "רִיזִיסְטַנְס",
+      "example": "There was strong resistance to the plan."
+    },
+    {
+      "word": "foundational",
+      "lemma": "foundational",
+      "level": "C1",
+      "hebrew": "יְסוֹדִי",
+      "explanation_hebrew": "מהווה בסיס למשהו",
+      "pronunciation_hebrew": "פַאוּנְדֵיישְׁנַל",
+      "example": "Trust is foundational to teamwork."
+    },
+    {
+      "word": "colonies",
+      "lemma": "colony",
+      "level": "B2",
+      "hebrew": "מוֹשָׁבוֹת",
+      "explanation_hebrew": "אזורים שנשלטים על ידי מדינה אחרת",
+      "pronunciation_hebrew": "קוֹלוֹנִיז",
+      "example": "The colonies sought independence."
+    },
+    {
+      "word": "loyal",
+      "lemma": "loyal",
+      "level": "B2",
+      "hebrew": "נֶאֱמָן",
+      "explanation_hebrew": "נאמן למישהו או למשהו",
+      "pronunciation_hebrew": "לוֹיאַל",
+      "example": "He stayed loyal to his friends."
+    },
+    {
+      "word": "rebelled",
+      "lemma": "rebel",
+      "level": "B2",
+      "hebrew": "מָרַד",
+      "explanation_hebrew": "התקומם נגד שלטון",
+      "pronunciation_hebrew": "רִיבֶּלְד",
+      "example": "The people rebelled against the king."
+    },
+    {
+      "word": "stalemate",
+      "lemma": "stalemate",
+      "level": "C1",
+      "hebrew": "מָבוֹי סָתוּם",
+      "explanation_hebrew": "מצב ללא הכרעה בין צדדים",
+      "pronunciation_hebrew": "סְטֵיילְמֵייט",
+      "example": "The talks ended in a stalemate."
+    },
+    {
+      "word": "retaliation",
+      "lemma": "retaliation",
+      "level": "C1",
+      "hebrew": "תְּגוּבַת נֶקֶם",
+      "explanation_hebrew": "פעולת נקם בתגובה לפגיעה",
+      "pronunciation_hebrew": "רִיטַלִיֵיישְׁן",
+      "example": "The attack was in retaliation."
+    },
+    {
+      "word": "contemplated",
+      "lemma": "contemplate",
+      "level": "C1",
+      "hebrew": "שָׁקַל",
+      "explanation_hebrew": "חשב ברצינות על אפשרות",
+      "pronunciation_hebrew": "קוֹנְטֶמְפְּלֵייטֶד",
+      "example": "She contemplated moving abroad."
+    },
+    {
+      "word": "envisage",
+      "lemma": "envisage",
+      "level": "C1",
+      "hebrew": "לְדַמְיֵן / לַחֲזוֹת",
+      "explanation_hebrew": "לדמיין מצב עתידי",
+      "pronunciation_hebrew": "אֶנְבִיזֶגֹ'",
+      "example": "I can't envisage such a change."
+    },
+    {
+      "word": "drastically",
+      "lemma": "drastically",
+      "level": "B2",
+      "hebrew": "בְּאֹפֶן קִיצוֹנִי",
+      "explanation_hebrew": "בצורה חזקה ומשמעותית",
+      "pronunciation_hebrew": "דְרַסְטִיקְלִי",
+      "example": "Prices fell drastically."
+    },
+    {
+      "word": "overwhelmed",
+      "lemma": "overwhelm",
+      "level": "B2",
+      "hebrew": "הֻצַף / הֻכְרַע",
+      "explanation_hebrew": "גבר עליו כוח גדול מדי",
+      "pronunciation_hebrew": "אוֹבֶרְוֶולְמְד",
+      "example": "The defenders were overwhelmed."
+    },
+    {
+      "word": "deteriorate",
+      "lemma": "deteriorate",
+      "level": "C1",
+      "hebrew": "לְהִדַּרְדֵּר",
+      "explanation_hebrew": "להפוך לגרוע יותר",
+      "pronunciation_hebrew": "דִיטִירְיוֹרֵייט",
+      "example": "Relations began to deteriorate."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "acquiring",
+      "type": "english_to_hebrew",
+      "question": "What does “acquiring” mean?",
+      "options": [
+        "הֻגְדַּר מֵחָדָשׁ",
+        "תַּרְחִישׁ",
+        "רְכִישָׁה / לְהַשִּׂיג",
+        "בִּלְתִּי סָבִיר"
+      ],
+      "correct_answer": "רְכִישָׁה / לְהַשִּׂיג",
+      "explanation_hebrew": "“acquiring” פירושו רְכִישָׁה / לְהַשִּׂיג – להשיג או לקבל בעלות על משהו."
+    },
+    {
+      "id": "C-q2",
+      "word": "scenario",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨תַּרְחִישׁ⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "improbable",
+        "scenario",
+        "redefined",
+        "tariffs"
+      ],
+      "correct_answer": "scenario",
+      "explanation_hebrew": "תַּרְחִישׁ באנגלית הוא “scenario” – מצב אפשרי שעלול לקרות."
+    },
+    {
+      "id": "C-q3",
+      "word": "improbable",
+      "type": "english_to_hebrew",
+      "question": "What does “improbable” mean?",
+      "options": [
+        "מִכְסֵי מֶכֶס",
+        "הֻגְדַּר מֵחָדָשׁ",
+        "בִּלְתִּי סָבִיר",
+        "לְהַפְעִיל (לַחַץ)"
+      ],
+      "correct_answer": "בִּלְתִּי סָבִיר",
+      "explanation_hebrew": "“improbable” פירושו בִּלְתִּי סָבִיר – לא סביר שיקרה."
+    },
+    {
+      "id": "C-q4",
+      "word": "redefined",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨הֻגְדַּר מֵחָדָשׁ⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "tariffs",
+        "obtain",
+        "redefined",
+        "exert"
+      ],
+      "correct_answer": "redefined",
+      "explanation_hebrew": "הֻגְדַּר מֵחָדָשׁ באנגלית הוא “redefined” – קיבל משמעות או צורה חדשה."
+    },
+    {
+      "id": "C-q5",
+      "word": "tariffs",
+      "type": "english_to_hebrew",
+      "question": "What does “tariffs” mean?",
+      "options": [
+        "מִכְסֵי מֶכֶס",
+        "לְהַפְעִיל (לַחַץ)",
+        "לְהַשִּׂיג",
+        "לְשַׁתֵּף פְּעֻלָּה"
+      ],
+      "correct_answer": "מִכְסֵי מֶכֶס",
+      "explanation_hebrew": "“tariffs” פירושו מִכְסֵי מֶכֶס – מסים על סחורות מיובאות."
+    },
+    {
+      "id": "C-q6",
+      "word": "exert",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨לְהַפְעִיל (לַחַץ)⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "exert",
+        "obtain",
+        "collaborate",
+        "alliance"
+      ],
+      "correct_answer": "exert",
+      "explanation_hebrew": "לְהַפְעִיל (לַחַץ) באנגלית הוא “exert” – להשתמש בכוח או בהשפעה."
+    },
+    {
+      "id": "C-q7",
+      "word": "obtain",
+      "type": "english_to_hebrew",
+      "question": "What does “obtain” mean?",
+      "options": [
+        "לְשַׁתֵּף פְּעֻלָּה",
+        "בְּרִית",
+        "לְהַשִּׂיג",
+        "מְחַיֵּב / מַסְמִיךְ"
+      ],
+      "correct_answer": "לְהַשִּׂיג",
+      "explanation_hebrew": "“obtain” פירושו לְהַשִּׂיג – לקבל או להשיג משהו."
+    },
+    {
+      "id": "C-q8",
+      "word": "collaborate",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨לְשַׁתֵּף פְּעֻלָּה⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "mandates",
+        "discreet",
+        "alliance",
+        "collaborate"
+      ],
+      "correct_answer": "collaborate",
+      "explanation_hebrew": "לְשַׁתֵּף פְּעֻלָּה באנגלית הוא “collaborate” – לעבוד יחד עם אחרים."
+    },
+    {
+      "id": "C-q9",
+      "word": "alliance",
+      "type": "english_to_hebrew",
+      "question": "What does “alliance” mean?",
+      "options": [
+        "מְחַיֵּב / מַסְמִיךְ",
+        "בְּרִית",
+        "דִּיסְקְרֶטִי / זָהִיר",
+        "מְשֻׁלָּב"
+      ],
+      "correct_answer": "בְּרִית",
+      "explanation_hebrew": "“alliance” פירושו בְּרִית – הסכם שיתוף בין צדדים."
+    },
+    {
+      "id": "C-q10",
+      "word": "mandates",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨מְחַיֵּב / מַסְמִיךְ⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "tenet",
+        "integrated",
+        "discreet",
+        "mandates"
+      ],
+      "correct_answer": "mandates",
+      "explanation_hebrew": "מְחַיֵּב / מַסְמִיךְ באנגלית הוא “mandates” – נותן סמכות או מחייב בחוק."
+    },
+    {
+      "id": "C-q11",
+      "word": "discreet",
+      "type": "english_to_hebrew",
+      "question": "What does “discreet” mean?",
+      "options": [
+        "דִּיסְקְרֶטִי / זָהִיר",
+        "עִקָּרוֹן יְסוֹד",
+        "הִתְנַגְּדוּת",
+        "מְשֻׁלָּב"
+      ],
+      "correct_answer": "דִּיסְקְרֶטִי / זָהִיר",
+      "explanation_hebrew": "“discreet” פירושו דִּיסְקְרֶטִי / זָהִיר – נעשה בשקט ובזהירות."
+    },
+    {
+      "id": "C-q12",
+      "word": "integrated",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨מְשֻׁלָּב⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "foundational",
+        "integrated",
+        "resistance",
+        "tenet"
+      ],
+      "correct_answer": "integrated",
+      "explanation_hebrew": "מְשֻׁלָּב באנגלית הוא “integrated” – חובר יחד למערכת אחת."
+    },
+    {
+      "id": "C-q13",
+      "word": "tenet",
+      "type": "english_to_hebrew",
+      "question": "What does “tenet” mean?",
+      "options": [
+        "יְסוֹדִי",
+        "מוֹשָׁבוֹת",
+        "הִתְנַגְּדוּת",
+        "עִקָּרוֹן יְסוֹד"
+      ],
+      "correct_answer": "עִקָּרוֹן יְסוֹד",
+      "explanation_hebrew": "“tenet” פירושו עִקָּרוֹן יְסוֹד – אמונה או עיקרון מרכזי."
+    },
+    {
+      "id": "C-q14",
+      "word": "resistance",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨הִתְנַגְּדוּת⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "loyal",
+        "colonies",
+        "resistance",
+        "foundational"
+      ],
+      "correct_answer": "resistance",
+      "explanation_hebrew": "הִתְנַגְּדוּת באנגלית הוא “resistance” – התנגדות או עמידה מול כוח."
+    },
+    {
+      "id": "C-q15",
+      "word": "foundational",
+      "type": "english_to_hebrew",
+      "question": "What does “foundational” mean?",
+      "options": [
+        "יְסוֹדִי",
+        "מָרַד",
+        "מוֹשָׁבוֹת",
+        "נֶאֱמָן"
+      ],
+      "correct_answer": "יְסוֹדִי",
+      "explanation_hebrew": "“foundational” פירושו יְסוֹדִי – מהווה בסיס למשהו."
+    },
+    {
+      "id": "C-q16",
+      "word": "colonies",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨מוֹשָׁבוֹת⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "colonies",
+        "rebelled",
+        "stalemate",
+        "loyal"
+      ],
+      "correct_answer": "colonies",
+      "explanation_hebrew": "מוֹשָׁבוֹת באנגלית הוא “colonies” – אזורים שנשלטים על ידי מדינה אחרת."
+    },
+    {
+      "id": "C-q17",
+      "word": "loyal",
+      "type": "english_to_hebrew",
+      "question": "What does “loyal” mean?",
+      "options": [
+        "מָבוֹי סָתוּם",
+        "תְּגוּבַת נֶקֶם",
+        "נֶאֱמָן",
+        "מָרַד"
+      ],
+      "correct_answer": "נֶאֱמָן",
+      "explanation_hebrew": "“loyal” פירושו נֶאֱמָן – נאמן למישהו או למשהו."
+    },
+    {
+      "id": "C-q18",
+      "word": "rebelled",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨מָרַד⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "retaliation",
+        "contemplated",
+        "rebelled",
+        "stalemate"
+      ],
+      "correct_answer": "rebelled",
+      "explanation_hebrew": "מָרַד באנגלית הוא “rebelled” – התקומם נגד שלטון."
+    },
+    {
+      "id": "C-q19",
+      "word": "stalemate",
+      "type": "english_to_hebrew",
+      "question": "What does “stalemate” mean?",
+      "options": [
+        "שָׁקַל",
+        "מָבוֹי סָתוּם",
+        "לְדַמְיֵן / לַחֲזוֹת",
+        "תְּגוּבַת נֶקֶם"
+      ],
+      "correct_answer": "מָבוֹי סָתוּם",
+      "explanation_hebrew": "“stalemate” פירושו מָבוֹי סָתוּם – מצב ללא הכרעה בין צדדים."
+    },
+    {
+      "id": "C-q20",
+      "word": "retaliation",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨תְּגוּבַת נֶקֶם⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "envisage",
+        "contemplated",
+        "retaliation",
+        "drastically"
+      ],
+      "correct_answer": "retaliation",
+      "explanation_hebrew": "תְּגוּבַת נֶקֶם באנגלית הוא “retaliation” – פעולת נקם בתגובה לפגיעה."
+    },
+    {
+      "id": "C-q21",
+      "word": "contemplated",
+      "type": "english_to_hebrew",
+      "question": "What does “contemplated” mean?",
+      "options": [
+        "לְדַמְיֵן / לַחֲזוֹת",
+        "שָׁקַל",
+        "בְּאֹפֶן קִיצוֹנִי",
+        "הֻצַף / הֻכְרַע"
+      ],
+      "correct_answer": "שָׁקַל",
+      "explanation_hebrew": "“contemplated” פירושו שָׁקַל – חשב ברצינות על אפשרות."
+    },
+    {
+      "id": "C-q22",
+      "word": "envisage",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨לְדַמְיֵן / לַחֲזוֹת⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "deteriorate",
+        "drastically",
+        "envisage",
+        "overwhelmed"
+      ],
+      "correct_answer": "envisage",
+      "explanation_hebrew": "לְדַמְיֵן / לַחֲזוֹת באנגלית הוא “envisage” – לדמיין מצב עתידי."
+    },
+    {
+      "id": "C-q23",
+      "word": "drastically",
+      "type": "english_to_hebrew",
+      "question": "What does “drastically” mean?",
+      "options": [
+        "לְהִדַּרְדֵּר",
+        "בְּאֹפֶן קִיצוֹנִי",
+        "רְכִישָׁה / לְהַשִּׂיג",
+        "הֻצַף / הֻכְרַע"
+      ],
+      "correct_answer": "בְּאֹפֶן קִיצוֹנִי",
+      "explanation_hebrew": "“drastically” פירושו בְּאֹפֶן קִיצוֹנִי – בצורה חזקה ומשמעותית."
+    },
+    {
+      "id": "C-q24",
+      "word": "overwhelmed",
+      "type": "hebrew_to_english",
+      "question": "⁩⁨הֻצַף / הֻכְרַע⁩⁨ – איזו מילה באנגלית מתאימה?",
+      "options": [
+        "scenario",
+        "overwhelmed",
+        "acquiring",
+        "deteriorate"
+      ],
+      "correct_answer": "overwhelmed",
+      "explanation_hebrew": "הֻצַף / הֻכְרַע באנגלית הוא “overwhelmed” – גבר עליו כוח גדול מדי."
+    },
+    {
+      "id": "C-q25",
+      "word": "deteriorate",
+      "type": "english_to_hebrew",
+      "question": "What does “deteriorate” mean?",
+      "options": [
+        "תַּרְחִישׁ",
+        "לְהִדַּרְדֵּר",
+        "בִּלְתִּי סָבִיר",
+        "רְכִישָׁה / לְהַשִּׂיג"
+      ],
+      "correct_answer": "לְהִדַּרְדֵּר",
+      "explanation_hebrew": "“deteriorate” פירושו לְהִדַּרְדֵּר – להפוך לגרוע יותר."
+    }
+  ]
+}
