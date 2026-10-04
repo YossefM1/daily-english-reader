@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-04",
+  "article_id": "A",
+  "article_title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why was the humpback whale sighting especially memorable for wildlife cameraman Dan Abbot?",
+      "difficulty": "A",
+      "options": [
+        "It happened unexpectedly during a blue shark trip, despite his previous whale experience.",
+        "It was the first whale ever recorded anywhere in Welsh waters.",
+        "It occurred beside the harbour before the boat left shore.",
+        "It proved that humpbacks now live permanently in the Celtic Deep."
+      ],
+      "correct_answer": "It happened unexpectedly during a blue shark trip, despite his previous whale experience.",
+      "explanation_hebrew": "אבוט כבר ראה לווייתנים גדולי־סנפיר בעבר, אך הפעם המפגש הלא מתוכנן במהלך טיול כרישים הפך אותו למיוחד במיוחד."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was the group originally scheduled to do on 25 September?",
+      "difficulty": "A",
+      "options": [
+        "Track fin whales near the Pembrokeshire coast",
+        "Film a documentary from a nearby beach",
+        "Snorkel with blue sharks offshore",
+        "Count dolphins for Sea Trust"
+      ],
+      "correct_answer": "Snorkel with blue sharks offshore",
+      "explanation_hebrew": "הקבוצה יצאה לטיול שנקבע מראש לשנורקלינג עם כרישים כחולים, כ־25–30 מייל מהחוף."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In context, what does “suspected” mean when Abbot first considered what kind of whale it was?",
+      "difficulty": "A",
+      "options": [
+        "Proved beyond doubt",
+        "Thought was possible before confirming",
+        "Reported to the authorities",
+        "Had photographed previously"
+      ],
+      "correct_answer": "Thought was possible before confirming",
+      "explanation_hebrew": "בתחילה אבוט חשב שאולי מדובר בלווייתן מינקי או סנפיר, לפני שאסף סימני זיהוי נוספים."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which combination helped Abbot identify the animal as a humpback whale?",
+      "difficulty": "A",
+      "options": [
+        "A straight dorsal fin and no visible tail",
+        "A blue-grey head and a very small blow",
+        "Two calves swimming beside the boat",
+        "A white pectoral fin, a lifted tail and barnacles near the head"
+      ],
+      "correct_answer": "A white pectoral fin, a lifted tail and barnacles near the head",
+      "explanation_hebrew": "הסנפיר החזי הלבן, הרמת הזנב והבלוטים בחזית הראש היו סימני הזיהוי שתיאר אבוט."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the guests' excitement rise even further when the whale appeared?",
+      "difficulty": "A",
+      "options": [
+        "They had already enjoyed several hours of successful wildlife sightings.",
+        "They had been told that no sharks would be seen that day.",
+        "They were returning after a disappointing ten-minute trip.",
+        "They expected the whale to follow the boat back to harbour."
+      ],
+      "correct_answer": "They had already enjoyed several hours of successful wildlife sightings.",
+      "explanation_hebrew": "האורחים כבר היו במצב רוח מרומם אחרי טיול של ארבע שעות עם כרישים וחיות נוספות, ולכן ההפתעה הוסיפה לשיא."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “not unheard of” mean in Lloyd Nelmes's description of humpback sightings in the area?",
+      "difficulty": "A",
+      "options": [
+        "They have never been recorded.",
+        "They happen every week.",
+        "They are rare, but they do sometimes occur.",
+        "They are heard but usually not seen."
+      ],
+      "correct_answer": "They are rare, but they do sometimes occur.",
+      "explanation_hebrew": "נלמס אמר שהמראות נדירים אך אינם חסרי תקדים, ומתרחשים בערך אחת לשנתיים או שלוש."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two examples of feeding wildlife mentioned in or near the Celtic Deep around the sighting.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני פרטים נכונים, כגון טונה כחולת־סנפיר, דולפינים, סולות או שישה לווייתני סנפיר שנראו ביום הקודם.",
+      "expected_points": [
+        "Bluefin tuna, dolphins and gannets were feeding during the trip.",
+        "The previous day, six fin whales and more than 1,000 dolphins were seen amid intense feeding activity."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the group noticed and then identified the humpback whale.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לתאר את נשיפת הלווייתן שזוהתה בידי אורח, את ההשערה הראשונית ואת סימני הזיהוי שהובילו למסקנה.",
+      "expected_points": [
+        "A guest first noticed the whale's blow in the distance.",
+        "Abbot initially considered more common minke or fin whales.",
+        "The white pectoral fin, raised tail and head barnacles indicated a humpback."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What possible explanation does the article give for humpback sightings becoming more common in Welsh waters?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשור בין שפע המזון באזור לבין האפשרות של עלייה בתצפיות, תוך הצגה כהסבר אפשרי ולא כעובדה מוכחת.",
+      "expected_points": [
+        "Nelmes suggested that abundant food may attract humpbacks to the area.",
+        "The article supports this possibility with descriptions of intense feeding by several marine species."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining how surprise can make an experienced wildlife encounter feel special. Use details from Abbot's experience.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח טענה ברורה, להשתמש בשני פרטים מהכתבה ולהסביר כיצד חוסר התכנון השפיע על תגובתו של אבוט.",
+      "expected_points": [
+        "Abbot had seen humpbacks before and normally remained calm around wildlife.",
+        "This whale appeared on an unrelated shark trip, making the encounter unexpected.",
+        "His quiet reaction and the guests' excitement show how surprise increased its emotional impact."
+      ]
+    }
+  ]
+}

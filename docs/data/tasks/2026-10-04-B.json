@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-04",
+  "article_id": "B",
+  "article_title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm2kej47095no",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central reason tens of thousands of people protested across Spain?",
+      "difficulty": "B",
+      "options": [
+        "They opposed a new national statistics survey.",
+        "They demanded stronger protection for tenants after housing measures failed in parliament.",
+        "They wanted the government to build a new arts centre in Valencia.",
+        "They supported higher taxes on long-term renters."
+      ],
+      "correct_answer": "They demanded stronger protection for tenants after housing measures failed in parliament.",
+      "explanation_hebrew": "המפגינים דרשו הגנות חזקות יותר לשוכרים לאחר שהממשלה לא הצליחה להעביר את חקיקת החירום בתחום הדיור."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened during clashes near the real estate summit in Valencia?",
+      "difficulty": "B",
+      "options": [
+        "The summit was moved to Madrid without incident.",
+        "Police joined the march and removed the barriers.",
+        "No injuries or arrests were reported.",
+        "Nine police officers were injured and five people were arrested."
+      ],
+      "correct_answer": "Nine police officers were injured and five people were arrested.",
+      "explanation_hebrew": "לפי RTVE, תשעה שוטרים נפצעו וחמישה אנשים נעצרו בעימותים בוולנסיה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “insufficient” mean when the Tenants' Union describes the proposed measures?",
+      "difficulty": "B",
+      "options": [
+        "Not enough to solve the problem",
+        "Certain to pass immediately",
+        "Too expensive to discuss",
+        "Limited to one city"
+      ],
+      "correct_answer": "Not enough to solve the problem",
+      "explanation_hebrew": "איגוד השוכרים סבר שהצעדים אינם מספקים, כלומר אינם חזקים או רחבים דיים כדי להתמודד עם המשבר."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which demand was included in the second housing decree rejected by MPs?",
+      "difficulty": "B",
+      "options": [
+        "A ban on all tourist visits to Madrid",
+        "The sale of public housing to investment funds",
+        "Automatic renewal of rental contracts",
+        "A reduction in the number of new homes"
+      ],
+      "correct_answer": "Automatic renewal of rental contracts",
+      "explanation_hebrew": "הצו השני כלל חידוש אוטומטי של חוזי שכירות, דרישה מרכזית של השמאל ושל איגוד השוכרים."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did opposition from Together for Catalonia help doom the decrees?",
+      "difficulty": "B",
+      "options": [
+        "The party controlled the national statistics institute.",
+        "The minority government needed support from smaller nationalist parties.",
+        "The party had organised every housing march in Spain.",
+        "Its MPs could cancel the protests without a vote."
+      ],
+      "correct_answer": "The minority government needed support from smaller nationalist parties.",
+      "explanation_hebrew": "לקואליציה לא היה רוב בפרלמנט, ולכן היא הייתה תלויה בתמיכת מפלגות לאומניות קטנות; התנגדות JxCat הכריעה נגד הצווים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “triggered” mean in the statement that the eviction triggered nationwide protests?",
+      "difficulty": "B",
+      "options": [
+        "Measured the size of",
+        "Ended without warning",
+        "Was ignored during",
+        "Caused or set off"
+      ],
+      "correct_answer": "Caused or set off",
+      "explanation_hebrew": "הפינוי עורר או הצית את גל המחאות ברחבי ספרד."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two statistics from the article that illustrate Spain's housing crisis.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני נתונים מדויקים, למשל מחסור של 700,000 בתים, עליית מחירים של 12.2%, עליית שכירות של 8.5% או 9.7% במדריד.",
+      "expected_points": [
+        "The Bank of Spain estimates a shortage of 700,000 homes.",
+        "House prices rose 12.2% in the year to the second quarter of 2026, while rental costs rose 8.5% in 2025."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the events that connected Maricarmen Abascal's eviction, the proposed decrees and the continuing protests.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג את הפינוי והזעם הציבורי, את ניסוח הצווים ודחייתם, ואת העובדה שהמחאות נמשכו גם לאחר הסדר חזרתה לדירה.",
+      "expected_points": [
+        "The eviction of 87-year-old Maricarmen Abascal after a sharp rent rise sparked nationwide anger.",
+        "The government drafted two emergency decrees to answer the backlash, but parliament rejected both.",
+        "Her landlord later negotiated her return at low rent, yet the wider protests continued."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might the failed votes increase speculation about an early general election?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שהכישלון מדגים את חולשת ממשלת המיעוט ואת הקושי שלה להשיג רוב לצעדים מרכזיים.",
+      "expected_points": [
+        "Sánchez's coalition does not command a parliamentary majority.",
+        "Defeat on a major housing response shows dependence on smaller parties and difficulty passing policy.",
+        "That political weakness can make an election before next summer seem more likely."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, write a short paragraph explaining why protesters believed urgent action was necessary.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשתמש לפחות בשני פרטים קונקרטיים מהכתבה ולקשור אותם לטענה על דחיפות.",
+      "expected_points": [
+        "Use evidence such as rising rents, the 700,000-home shortage or Abascal's eviction.",
+        "Explain the effect on tenants, including displacement or unaffordable homes.",
+        "Connect the evidence to demands for rent controls, eviction protection or other immediate measures."
+      ]
+    }
+  ]
+}

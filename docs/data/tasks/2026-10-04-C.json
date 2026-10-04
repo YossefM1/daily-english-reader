@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-04",
+  "article_id": "C",
+  "article_title": "Why Canada is preparing for a (long shot) US invasion",
+  "article_url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why is Canada considering a possible US invasion even though experts call it highly improbable?",
+      "difficulty": "C",
+      "options": [
+        "Canada expects an attack within one week.",
+        "Nato has ordered Canada to leave NORAD.",
+        "Leaders view planning for unlikely threats as responsible risk management amid changing relations.",
+        "The United States has formally declared war on Canada."
+      ],
+      "correct_answer": "Leaders view planning for unlikely threats as responsible risk management amid changing relations.",
+      "explanation_hebrew": "קרני תיאר את ההיערכות כניהול סיכונים: הסיכוי נמוך מאוד, אך היחסים המשתנים מחייבים לשקול תרחישים אפשריים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which defence arrangement do Canada and the US use for joint Arctic missions?",
+      "difficulty": "C",
+      "options": [
+        "The North American Aerospace Defence Command (NORAD)",
+        "The European Union's defence council",
+        "A Canadian-British naval command",
+        "The United Nations peacekeeping force"
+      ],
+      "correct_answer": "The North American Aerospace Defence Command (NORAD)",
+      "explanation_hebrew": "שתי המדינות מקיימות משימות הגנה משותפות באזור הארקטי במסגרת NORAD."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “discreet” mean when Coates discusses possible methods such as cyberwarfare?",
+      "difficulty": "C",
+      "options": [
+        "Publicly announced in advance",
+        "Limited to naval combat",
+        "Required by an alliance treaty",
+        "Less obvious or more covert"
+      ],
+      "correct_answer": "Less obvious or more covert",
+      "explanation_hebrew": "קואטס העריך שעימות עשוי להתחיל באמצעים פחות גלויים, כגון לוחמת סייבר, ולא בהסתערות חמושה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened when American forces invaded British North American colonies during the War of 1812?",
+      "difficulty": "C",
+      "options": [
+        "They permanently annexed all the colonies.",
+        "Repeated invasions ended in a stalemate.",
+        "Canada immediately became independent.",
+        "The Royal Navy withdrew without fighting."
+      ],
+      "correct_answer": "Repeated invasions ended in a stalemate.",
+      "explanation_hebrew": "הכתבה מציינת שהפלישות החוזרות לאזורים שהפכו לקנדה הסתיימו בקיפאון צבאי."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article describe deep Canada-US defence integration as both protection and a concern?",
+      "difficulty": "C",
+      "options": [
+        "It prevents Canada from joining any alliances.",
+        "It makes all military planning unnecessary.",
+        "Co-operation helps defend Canada but may also give the US valuable knowledge about it.",
+        "It requires Canadian troops to serve only in the US."
+      ],
+      "correct_answer": "Co-operation helps defend Canada but may also give the US valuable knowledge about it.",
+      "explanation_hebrew": "שיתוף הפעולה מספק מידע והגנה חשובים, אך שמידט מציין שהוא גם עשוי לחשוף ידע שיוכל לשמש נגד קנדה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the historical section, what does it mean that military planners “envisage” different scenarios?",
+      "difficulty": "C",
+      "options": [
+        "They imagine and consider them in advance.",
+        "They publish them as confirmed events.",
+        "They refuse to discuss them.",
+        "They replace them with economic forecasts."
+      ],
+      "correct_answer": "They imagine and consider them in advance.",
+      "explanation_hebrew": "המילה מתארת דמיון ובחינה מראש של תרחישים אפשריים, גם כאשר הם אינם סבירים."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "According to the reported Canadian model, what could happen in the first phase of a US attack?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שהעמדות האסטרטגיות עלולות להיות מוכרעות בתוך שבוע, שהצבא יהיה בנחיתות מספרית ושקנדה עשויה לעבור ללוחמת גרילה.",
+      "expected_points": [
+        "Canada's strategic positions could be overwhelmed within a week.",
+        "Outnumbered Canadian forces could resort to guerrilla-type warfare.",
+        "France and Britain could be asked to provide support and defence."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the main reasons experts in the article think a US invasion is unlikely.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את הבריתות ושיתוף הפעולה הביטחוני, את הקשרים בין החיילים ואת הקושי להשיג תמיכה אמריקאית לפקודת פלישה.",
+      "expected_points": [
+        "Canada and the US are Nato allies, conduct NORAD missions and share intelligence.",
+        "Their militaries train together and have strong professional ties.",
+        "Experts expect resistance inside the US military to an order viewed as illegal or immoral."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What does Canada's return to invasion planning suggest about the wider international order?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהיערכות לתרחיש שבעבר כמעט לא ניתן היה לדמיין משקפת שינוי חד באמון, ביחסים ובאי־הוודאות הגאופוליטית.",
+      "expected_points": [
+        "Planning for an American attack was considered almost unthinkable for a century.",
+        "Tariffs, annexation rhetoric and changing relations have weakened assumptions about a stable alliance.",
+        "The preparations signal a more unpredictable global order and reduced trust."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph evaluating whether preparing for an extremely unlikely invasion is reasonable, using evidence from the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג עמדה, לשלב לפחות שני פרטים מהכתבה ולהכיר במתח בין הסתברות נמוכה לבין ההשלכות האפשריות.",
+      "expected_points": [
+        "State a clear judgment about risk planning.",
+        "Use evidence such as Carney's risk-management argument, historical contingency plans or current military gaps.",
+        "Acknowledge both the low probability and the potentially severe consequences of being unprepared."
+      ]
+    }
+  ]
+}
