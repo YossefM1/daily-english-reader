@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-05",
+  "article_id": "C",
+  "article_title": "How India became dangerously addicted to Chinese imports",
+  "article_url": "https://www.bbc.co.uk/news/articles/c5pve834grpno",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central argument about India-China trade?",
+      "difficulty": "C",
+      "options": [
+        "India has fully replaced Chinese inputs with domestic production.",
+        "Political relations alone have eliminated India's trade deficit.",
+        "Toy tariffs caused India to stop trading with China entirely.",
+        "Despite success in toys and some finished goods, India's industrial dependence on Chinese imports has deepened."
+      ],
+      "correct_answer": "Despite success in toys and some finished goods, India's industrial dependence on Chinese imports has deepened.",
+      "explanation_hebrew": "ענף הצעצועים הוא חריג מוצלח, אך התלות של התעשייה ההודית ברכיבים, חומרי גלם ומכונות מסין ממשיכה להעמיק."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened after India raised toy tariffs and introduced quality controls?",
+      "difficulty": "C",
+      "options": [
+        "Toy imports fell sharply while Indian toy exports rose.",
+        "Chinese toys increased their share beyond 90%.",
+        "Domestic toy firms stopped producing altogether.",
+        "India removed all customs duties on toys."
+      ],
+      "correct_answer": "Toy imports fell sharply while Indian toy exports rose.",
+      "explanation_hebrew": "יבוא הצעצועים ירד מכמעט 300 מיליון דולר ב־2020 ל־100 מיליון, בעוד היצוא עלה מכ־129 מיליון ל־200 מיליון דולר."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “asymmetric” mean when experts describe India-China trade?",
+      "difficulty": "C",
+      "options": [
+        "Based entirely on equal exchanges",
+        "Unequal or unbalanced between the two sides",
+        "Restricted to agricultural goods",
+        "Growing at exactly the same rate"
+      ],
+      "correct_answer": "Unequal or unbalanced between the two sides",
+      "explanation_hebrew": "המילה מתארת מערכת יחסים שאינה מאוזנת, שבה הודו תלויה הרבה יותר ביבוא מסין מכפי שסין תלויה ביצוא מהודו."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did India's trade deficit with China change between 2020 and 2026?",
+      "difficulty": "C",
+      "options": [
+        "It fell from $112bn to $44bn.",
+        "It stayed close to $20bn.",
+        "It disappeared as exports doubled.",
+        "It rose from $44bn to about $112bn."
+      ],
+      "correct_answer": "It rose from $44bn to about $112bn.",
+      "explanation_hebrew": "למרות מתיחות פוליטית והגבלות, הגירעון המסחרי תפח מ־44 מיליארד דולר ב־2020 לכ־112 מיליארד השנה."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could an interruption of Chinese imports disrupt Indian production rather than only consumption?",
+      "difficulty": "C",
+      "options": [
+        "India imports many components, machinery and raw materials used to make goods.",
+        "All Chinese imports are luxury products bought by consumers.",
+        "India exports every industrial component it produces.",
+        "Chinese firms own every retail shop in India."
+      ],
+      "correct_answer": "India imports many components, machinery and raw materials used to make goods.",
+      "explanation_hebrew": "התעשייה ההודית משתמשת ברכיבים, מכונות וחומרי גלם סיניים בתהליך הייצור עצמו, ולכן עצירתם תפגע במפעלים ולא רק בצרכנים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “leverage” mean when discussing Beijing's position?",
+      "difficulty": "C",
+      "options": [
+        "A published customs schedule",
+        "A reduction in manufacturing output",
+        "Influence or bargaining power over Indian industry",
+        "A physical tool used in factories"
+      ],
+      "correct_answer": "Influence or bargaining power over Indian industry",
+      "explanation_hebrew": "התלות ביבוא מעניקה לבייג'ינג כוח השפעה ומיקוח מול התעשייה ההודית."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two figures that demonstrate the scale or composition of India's dependence on Chinese imports.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שני נתונים מדויקים, כגון יותר מ־30% מהיבוא התעשייתי, תלות ביותר מ־100 מוצרים קריטיים, 36% ציוד חשמלי ואלקטרוניקה או 21.7% מכונות.",
+      "expected_points": [
+        "China supplies more than 30% of India's industrial imports, and India depends on it for over 100 critical products.",
+        "Electrical machinery and electronics account for 36% of imports, while machinery and mechanical appliances account for 21.7%."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's proposed long-term approach to reducing India's trade dependence.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול חיזוק ייצור מקומי ומדיניות ענפית, שיפור תשתיות בסיס כמו חשמל, אשראי ולוגיסטיקה, וסינון השקעות לפי העברת טכנולוגיה וערך מקומי.",
+      "expected_points": [
+        "Strengthen domestic manufacturing through sector-specific industrial policy.",
+        "Improve affordable power and credit, efficient logistics and stable regulation.",
+        "Prioritise investment that transfers technology, adds local value, builds domestic components and supports exports."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might improving diplomatic relations fail to correct the economic imbalance?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהתלות התעשייתית כבר מושרשת, הגישה לשוק הסיני מוגבלת, ורכיבים זולים מסין ממשיכים לזרום; נדרשים צעדים כלכליים והדדיות ולא רק הפשרה מדינית.",
+      "expected_points": [
+        "Chinese inputs are deeply entrenched in Indian production and hard to substitute quickly.",
+        "Indian exporters still face tariff and non-tariff barriers in China.",
+        "Political normalisation without reciprocal market access could leave economic dependence unchanged."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph evaluating whether the toy-sector strategy can be copied across the whole Indian economy.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג עמדה מאוזנת, להזכיר את הצלחת המכסים ובקרת האיכות בצעצועים, ולהסביר מדוע ענפי תעשייה מורכבים התלויים ברכיבים ומכונות דורשים צעדים נוספים.",
+      "expected_points": [
+        "Use the toy example as evidence that tariffs and quality standards can support local production.",
+        "Recognise that complex industries rely on Chinese components, machinery and raw materials.",
+        "Conclude that broader replication would require manufacturing capacity, infrastructure, technology transfer and market access."
+      ]
+    }
+  ]
+}

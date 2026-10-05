@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-05",
+  "article_id": "B",
+  "article_title": "Yemen government announces all-out war to reclaim land from Houthis",
+  "article_url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What major development does the article report?",
+      "difficulty": "B",
+      "options": [
+        "The Houthis agreed to leave Sanaa peacefully.",
+        "Yemen's internationally recognised government announced operations to retake all Houthi-held territory.",
+        "Saudi Arabia withdrew from every part of the conflict.",
+        "The Bab al-Mandab Strait was opened under a new peace agreement."
+      ],
+      "correct_answer": "Yemen's internationally recognised government announced operations to retake all Houthi-held territory.",
+      "explanation_hebrew": "נשיא ממשלת תימן המוכרת בין־לאומית הכריז על מבצעים צבאיים להשבת כל השטח שבידי החות'ים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What recent Houthi gain helped prompt the government's fierce announcement?",
+      "difficulty": "B",
+      "options": [
+        "Control of Saudi oil fields near Riyadh",
+        "A formal alliance with the Yemeni government",
+        "The capture of all government institutions in Aden",
+        "Control of Yemen's coastline, including the Bab al-Mandab shipping lane"
+      ],
+      "correct_answer": "Control of Yemen's coastline, including the Bab al-Mandab shipping lane",
+      "explanation_hebrew": "המתקפה החות'ית בחודש הקודם השתלטה על קו החוף ועל נתיב השיט החיוני בבאב אל־מנדב."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “sustained” mean in the description of attacks on Sanaa?",
+      "difficulty": "B",
+      "options": [
+        "Continuing over a period of time",
+        "Limited to a single warning",
+        "Secretly cancelled",
+        "Directed only at civilians"
+      ],
+      "correct_answer": "Continuing over a period of time",
+      "explanation_hebrew": "המילה מתארת תקיפות שנמשכות לאורך זמן ולא אירוע חד־פעמי."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How have the Houthis affected the key city of Taiz?",
+      "difficulty": "B",
+      "options": [
+        "They moved Yemen's government there.",
+        "They handed its supply route to Saudi Arabia.",
+        "They cut the route to Aden, effectively encircling and isolating the city.",
+        "They abandoned every position near the city."
+      ],
+      "correct_answer": "They cut the route to Aden, effectively encircling and isolating the city.",
+      "explanation_hebrew": "לפי המקורות, החות'ים ניתקו את נתיב האספקה המחבר את תעז לעדן ובכך כיתרו ובודדו אותה למעשה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article say Saudi approval was probably needed before al-Alimi's announcement?",
+      "difficulty": "B",
+      "options": [
+        "Saudi Arabia remains the Yemeni government's key backer.",
+        "Saudi Arabia controls all Houthi media channels.",
+        "Al-Alimi is legally the president of Saudi Arabia.",
+        "The United Nations required Riyadh to write the speech."
+      ],
+      "correct_answer": "Saudi Arabia remains the Yemeni government's key backer.",
+      "explanation_hebrew": "ערב הסעודית היא התומכת המרכזית בממשלת אל־עלימי, ולכן הכרזה כה חריפה כנראה דרשה אור ירוק מריאד."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “lifeblood” suggest about oil for Saudi Arabia?",
+      "difficulty": "B",
+      "options": [
+        "It is used only for military vehicles.",
+        "It is less important than coastal trade.",
+        "It is an essential source of economic strength.",
+        "It has already been completely exhausted."
+      ],
+      "correct_answer": "It is an essential source of economic strength.",
+      "explanation_hebrew": "השימוש במילה מדגיש שהנפט חיוני לכלכלה הסעודית ומהווה מקור מרכזי לעוצמתה הכלכלית."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two targets or locations mentioned in the exchange of strikes between the Houthis and their opponents.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני יעדים או אזורים נכונים, כגון אתרי ארמקו בריאד ובח'ורייס, צנעא, סעדה או עמדות ליד תעז.",
+      "expected_points": [
+        "Houthi claims included Aramco sites in Riyadh and the oil-rich Khurais area.",
+        "Government or Saudi-led strikes were reported in Sanaa, Saada and positions near Taiz."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the conflict developed from 2014 to the new all-out-war announcement.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את השתלטות החות'ים על צנעא ב־2014, ההתערבות הסעודית ב־2015, תקופת הרגיעה, חידוש הלחימה ביולי והמתקפה על החוף שהובילה להסלמה הנוכחית.",
+      "expected_points": [
+        "The Houthis seized Sanaa in 2014, and a Saudi-led coalition intervened in 2015.",
+        "After years of relative calm, fighting reignited in July amid wider regional conflict.",
+        "A rapid Houthi offensive captured the Red Sea coast, leading the government to announce operations to retake territory."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why could renewed war in Yemen affect countries beyond Yemen and Saudi Arabia?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשור בין תקיפת מתקני הנפט, נתיבי השיט בבאב אל־מנדב והורמוז, מחירי או אספקת האנרגיה והכלכלה העולמית.",
+      "expected_points": [
+        "Attacks on Saudi oil facilities threaten a major source of global energy supply.",
+        "Control of the Bab al-Mandab affects a vital international shipping lane.",
+        "Disruption to oil exports or shipping could have consequences for the global economy."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, write a short paragraph explaining why Taiz is strategically important in the current fighting.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתעז בשליטת הממשלה, שהיא בחזית, ושנתיב האספקה לעדן נותק; יש להסביר כיצד בידוד העיר מסייע לחות'ים.",
+      "expected_points": [
+        "Taiz is a key government-held city on the frontline.",
+        "Its route to Aden, the government's interim capital, is a vital supply link.",
+        "Cutting the route encircles the city and advances the Houthis' military objective without full capture."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-05",
+  "article_id": "A",
+  "article_title": "The job interview question you don't have to answer",
+  "article_url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main advice about being asked for your current salary in a UK job interview?",
+      "difficulty": "A",
+      "options": [
+        "You may choose not to disclose it and can redirect the discussion to expectations, skills and market value.",
+        "You must provide it because UK law requires every applicant to answer.",
+        "You should always claim a much higher salary to improve the offer.",
+        "You should refuse to discuss any aspect of pay during the interview."
+      ],
+      "correct_answer": "You may choose not to disclose it and can redirect the discussion to expectations, skills and market value.",
+      "explanation_hebrew": "בבריטניה מעסיק רשאי לשאול על השכר הנוכחי, אך המועמד אינו חייב לחשוף אותו ויכול לדבר על ציפיות שכר, כישורים וערך שוק."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Louise Rudd say employers should do if they ask applicants about salary?",
+      "difficulty": "A",
+      "options": [
+        "Ask only candidates who have worked abroad",
+        "Wait until after the employee starts work",
+        "Ask every applicant the same questions so they are treated fairly",
+        "Report every answer to the government"
+      ],
+      "correct_answer": "Ask every applicant the same questions so they are treated fairly",
+      "explanation_hebrew": "ראד אמרה שאם מעסיקים בוחרים לשאול על שכר, עליהם לשאול את כל המועמדים אותן שאלות כדי להבטיח יחס הוגן."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “obliged” mean in the statement that applicants are not obliged to reveal their salary?",
+      "difficulty": "A",
+      "options": [
+        "Encouraged by friends",
+        "Legally or formally required",
+        "Paid extra money",
+        "Judged by a recruiter"
+      ],
+      "correct_answer": "Legally or formally required",
+      "explanation_hebrew": "המילה מתארת חובה רשמית או משפטית; הכתבה מבהירה שלמועמדים אין חובה כזו לחשוף את שכרם."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which change is being introduced across the European Union?",
+      "difficulty": "A",
+      "options": [
+        "All salaries will be set by the EU.",
+        "Applicants will be banned from discussing benefits.",
+        "Employers must hire the highest-paid candidate.",
+        "Employers will be banned from asking about salary history."
+      ],
+      "correct_answer": "Employers will be banned from asking about salary history.",
+      "explanation_hebrew": "הכתבה מציינת שכללים חדשים באיחוד האירופי יאסרו על מעסיקים לשאול על היסטוריית שכר."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the Fawcett Society oppose questions about previous pay?",
+      "difficulty": "A",
+      "options": [
+        "They can carry past pay inequalities into a new employer's offer.",
+        "They make interviews too short to assess experience.",
+        "They prevent companies from advertising open roles.",
+        "They force candidates to accept jobs immediately."
+      ],
+      "correct_answer": "They can carry past pay inequalities into a new employer's offer.",
+      "explanation_hebrew": "האגודה טוענת שהסתמכות על שכר קודם עלולה לשמר פערים היסטוריים הקשורים למגדר, גזע ומוגבלות."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “outweigh” mean when the article says the risks of lying can outweigh the reward?",
+      "difficulty": "A",
+      "options": [
+        "Be hidden by",
+        "Be equal to",
+        "Be greater or more important than",
+        "Be calculated after"
+      ],
+      "correct_answer": "Be greater or more important than",
+      "explanation_hebrew": "בהקשר זה, הסיכונים של שקר בריאיון עלולים להיות גדולים או חשובים יותר מן התועלת האפשרית."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two protected characteristics on which UK employers must not discriminate against applicants.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני מאפיינים מוגנים המופיעים בכתבה, כגון גיל, מוגבלות, גזע, דת, מין, היריון ואימהות או נטייה מינית.",
+      "expected_points": [
+        "Accept any two listed characteristics, including age, disability, race, religion or belief, sex, pregnancy and maternity, or sexual orientation.",
+        "The answer must identify characteristics rather than general claims about fairness."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise three alternatives the article suggests when an applicant does not want to reveal current salary.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול שלוש חלופות מן הכתבה: ציפיות שכר או טווח התפקיד, כישורים וניסיון, ערך ותרומה, והיכרות עם שכר השוק.",
+      "expected_points": [
+        "State salary expectations or show knowledge of the role's salary range.",
+        "Focus on skills, experience and the value the candidate can bring.",
+        "Research the market rate and discuss the benefits or package that matter."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might researching the market rate strengthen a candidate's position in a salary discussion?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שמחקר מספק בסיס מציאותי לציפייה, מאפשר להצדיק אותה לפי התפקיד והתרומה, ומפחית תלות בשכר הקודם.",
+      "expected_points": [
+        "Market research provides an evidence-based salary range for the role.",
+        "It helps the candidate explain their value with confidence and realism.",
+        "It shifts the discussion away from salary history and toward the new role."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short, professional answer an applicant could give when asked, “What is your current salary?” without revealing the figure.",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להיות מנומסת ומקצועית, לא לחשוף מספר, ולהפנות את השיחה לטווח השכר, לכישורים או לערך שהתפקיד דורש.",
+      "expected_points": [
+        "Politely decline or avoid stating the current salary.",
+        "Refer to salary expectations or the advertised market range.",
+        "Connect the requested package to skills, experience or contribution."
+      ]
+    }
+  ]
+}
