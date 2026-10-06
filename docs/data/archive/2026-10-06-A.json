@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-06",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Jeffrey Archer: Best-selling author and former politician dies aged 86",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo",
+  "published_at": "2026-10-05T21:41:53+00:00",
+  "age_hours_at_selection": 4.5,
+  "word_count": 583,
+  "generated_at": "2026-10-06T02:11:41.343418+00:00",
+  "difficulty_reason": "Short obituary with a clear, chronological life story and short direct sentences; mostly B1/B2 vocabulary with a little legal terminology and low background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "bestselling",
+      "lemma": "bestselling",
+      "level": "B2",
+      "hebrew": "רב-מכר",
+      "explanation_hebrew": "נמכר בכמויות עצומות",
+      "pronunciation_hebrew": "בֶּסְטְסֶלִינְג",
+      "example": "It was a bestselling novel."
+    },
+    {
+      "word": "career",
+      "lemma": "career",
+      "level": "B1",
+      "hebrew": "קַרְיֶרָה",
+      "explanation_hebrew": "מסלול התקדמות מקצועי לאורך השנים",
+      "pronunciation_hebrew": "קַרְיִיר",
+      "example": "She had a long career in medicine."
+    },
+    {
+      "word": "statement",
+      "lemma": "statement",
+      "level": "B1",
+      "hebrew": "הַצְהָרָה",
+      "explanation_hebrew": "הודעה רשמית",
+      "pronunciation_hebrew": "סְטֵייטְמֶנְט",
+      "example": "He made a short statement to the press."
+    },
+    {
+      "word": "publisher",
+      "lemma": "publisher",
+      "level": "B2",
+      "hebrew": "הוֹצָאָה לָאוֹר",
+      "explanation_hebrew": "חברה שמוציאה ספרים לאור",
+      "pronunciation_hebrew": "פָּבְּלִישֶׁר",
+      "example": "The publisher printed the book."
+    },
+    {
+      "word": "suddenly",
+      "lemma": "suddenly",
+      "level": "B1",
+      "hebrew": "פִּתְאוֹם",
+      "explanation_hebrew": "בלי אזהרה מוקדמת",
+      "pronunciation_hebrew": "סָאדֶנְלִי",
+      "example": "He suddenly stood up."
+    },
+    {
+      "word": "peacefully",
+      "lemma": "peacefully",
+      "level": "B2",
+      "hebrew": "בְּשַׁלְוָה",
+      "explanation_hebrew": "באופן רגוע ושליו",
+      "pronunciation_hebrew": "פִּיסְפוּלִי",
+      "example": "She slept peacefully."
+    },
+    {
+      "word": "jailed",
+      "lemma": "jail",
+      "level": "B2",
+      "hebrew": "נִכְלָא",
+      "explanation_hebrew": "נשלח לכלא",
+      "pronunciation_hebrew": "גֵ'ייל'ד",
+      "example": "He was jailed for theft."
+    },
+    {
+      "word": "perjury",
+      "lemma": "perjury",
+      "level": "C1",
+      "hebrew": "עֵדוּת שֶׁקֶר",
+      "explanation_hebrew": "מסירת עדות שקר בבית משפט",
+      "pronunciation_hebrew": "פֶּרְגֶ'רִי",
+      "example": "He was charged with perjury."
+    },
+    {
+      "word": "guilty",
+      "lemma": "guilty",
+      "level": "B1",
+      "hebrew": "אָשֵׁם",
+      "explanation_hebrew": "אחראי לביצוע עבירה",
+      "pronunciation_hebrew": "גִילְטִי",
+      "example": "The court found him guilty."
+    },
+    {
+      "word": "cheating",
+      "lemma": "cheat",
+      "level": "B1",
+      "hebrew": "רַמָּאוּת",
+      "explanation_hebrew": "הונאה או התנהגות לא הוגנת",
+      "pronunciation_hebrew": "צִ'יטִינְג",
+      "example": "Cheating in exams is forbidden."
+    },
+    {
+      "word": "libel",
+      "lemma": "libel",
+      "level": "C1",
+      "hebrew": "הוֹצָאַת דִּיבָּה",
+      "explanation_hebrew": "פרסום כתוב שמכפיש אדם",
+      "pronunciation_hebrew": "לַייבֶּל",
+      "example": "He sued the paper for libel."
+    },
+    {
+      "word": "constituency",
+      "lemma": "constituency",
+      "level": "C1",
+      "hebrew": "אֵזוֹר בְּחִירָה",
+      "explanation_hebrew": "אזור שבוחר נציג לפרלמנט",
+      "pronunciation_hebrew": "קוֹנְסְטִיטְיוּאֶנְסִי",
+      "example": "She visited her constituency."
+    },
+    {
+      "word": "elected",
+      "lemma": "elect",
+      "level": "B2",
+      "hebrew": "נִבְחַר",
+      "explanation_hebrew": "נבחר בהצבעה",
+      "pronunciation_hebrew": "אִילֶקְטֶד",
+      "example": "He was elected mayor."
+    },
+    {
+      "word": "deputy",
+      "lemma": "deputy",
+      "level": "B2",
+      "hebrew": "סְגָן",
+      "explanation_hebrew": "אדם שני בדרגה אחרי הבכיר",
+      "pronunciation_hebrew": "דֶּפְּיוּטִי",
+      "example": "She is the deputy manager."
+    },
+    {
+      "word": "damages",
+      "lemma": "damages",
+      "level": "B2",
+      "hebrew": "פִּיצוּיִים",
+      "explanation_hebrew": "כסף שנפסק כפיצוי",
+      "pronunciation_hebrew": "דָּמִגֶ'ז",
+      "example": "The court awarded him damages."
+    },
+    {
+      "word": "released",
+      "lemma": "release",
+      "level": "B1",
+      "hebrew": "שׁוּחְרַר",
+      "explanation_hebrew": "הוצא לחופשי",
+      "pronunciation_hebrew": "רִילִיסְד",
+      "example": "He was released from prison."
+    },
+    {
+      "word": "retired",
+      "lemma": "retire",
+      "level": "B1",
+      "hebrew": "פָּרַשׁ",
+      "explanation_hebrew": "סיים את עבודתו בגיל מבוגר",
+      "pronunciation_hebrew": "רִיטַייֶרְד",
+      "example": "She retired at 65."
+    },
+    {
+      "word": "storyteller",
+      "lemma": "storyteller",
+      "level": "B2",
+      "hebrew": "מְסַפֵּר סִיפּוּרִים",
+      "explanation_hebrew": "אדם שמספר סיפורים היטב",
+      "pronunciation_hebrew": "סְטוֹרִיטֶלֶר",
+      "example": "He was a gifted storyteller."
+    },
+    {
+      "word": "broadcaster",
+      "lemma": "broadcaster",
+      "level": "B2",
+      "hebrew": "שַׁדָּר",
+      "explanation_hebrew": "מי שמנחה בטלוויזיה או ברדיו",
+      "pronunciation_hebrew": "בְּרוֹדְקַאסְטֶר",
+      "example": "The broadcaster interviewed him."
+    },
+    {
+      "word": "tribute",
+      "lemma": "tribute",
+      "level": "B2",
+      "hebrew": "מַחֲוַת כָּבוֹד",
+      "explanation_hebrew": "ביטוי של כבוד והערכה",
+      "pronunciation_hebrew": "טְרִיבְּיוּט",
+      "example": "They paid tribute to her."
+    },
+    {
+      "word": "engaging",
+      "lemma": "engaging",
+      "level": "B2",
+      "hebrew": "מְרַתֵּק",
+      "explanation_hebrew": "מושך ומעניין",
+      "pronunciation_hebrew": "אִינְגֵּייגִ'ינְג",
+      "example": "He gave an engaging talk."
+    },
+    {
+      "word": "thrill",
+      "lemma": "thrill",
+      "level": "B2",
+      "hebrew": "רִיגּוּשׁ",
+      "explanation_hebrew": "תחושת התרגשות חזקה",
+      "pronunciation_hebrew": "תְּרִיל",
+      "example": "It was a thrill to meet her."
+    },
+    {
+      "word": "generation",
+      "lemma": "generation",
+      "level": "B1",
+      "hebrew": "דּוֹר",
+      "explanation_hebrew": "קבוצת אנשים בני אותו גיל",
+      "pronunciation_hebrew": "גֶ'נֶרֵיישֶׁן",
+      "example": "The younger generation loves it."
+    },
+    {
+      "word": "anniversary",
+      "lemma": "anniversary",
+      "level": "B1",
+      "hebrew": "יוֹם שָׁנָה",
+      "explanation_hebrew": "ציון שנה לאירוע",
+      "pronunciation_hebrew": "אָנִיבֶרְסָרִי",
+      "example": "They celebrated their anniversary."
+    },
+    {
+      "word": "saddened",
+      "lemma": "sadden",
+      "level": "B2",
+      "hebrew": "נֶעֱצַב",
+      "explanation_hebrew": "הורגש עצב וצער",
+      "pronunciation_hebrew": "סָאדֶנְד",
+      "example": "We were saddened by the news."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "bestselling",
+      "type": "english_to_hebrew",
+      "question": "What does “bestselling” mean?",
+      "options": [
+        "הוֹצָאָה לָאוֹר",
+        "רב-מכר",
+        "קַרְיֶרָה",
+        "הַצְהָרָה"
+      ],
+      "correct_answer": "רב-מכר",
+      "explanation_hebrew": "המילה \"bestselling\" פירושה רב-מכר."
+    },
+    {
+      "id": "A-q2",
+      "word": "career",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קַרְיֶרָה”?",
+      "options": [
+        "statement",
+        "career",
+        "suddenly",
+        "publisher"
+      ],
+      "correct_answer": "career",
+      "explanation_hebrew": "המילה \"קַרְיֶרָה\" באנגלית היא \"career\"."
+    },
+    {
+      "id": "A-q3",
+      "word": "statement",
+      "type": "english_to_hebrew",
+      "question": "What does “statement” mean?",
+      "options": [
+        "הַצְהָרָה",
+        "הוֹצָאָה לָאוֹר",
+        "פִּתְאוֹם",
+        "בְּשַׁלְוָה"
+      ],
+      "correct_answer": "הַצְהָרָה",
+      "explanation_hebrew": "המילה \"statement\" פירושה הַצְהָרָה."
+    },
+    {
+      "id": "A-q4",
+      "word": "publisher",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הוֹצָאָה לָאוֹר”?",
+      "options": [
+        "peacefully",
+        "jailed",
+        "publisher",
+        "suddenly"
+      ],
+      "correct_answer": "publisher",
+      "explanation_hebrew": "המילה \"הוֹצָאָה לָאוֹר\" באנגלית היא \"publisher\"."
+    },
+    {
+      "id": "A-q5",
+      "word": "suddenly",
+      "type": "english_to_hebrew",
+      "question": "What does “suddenly” mean?",
+      "options": [
+        "פִּתְאוֹם",
+        "נִכְלָא",
+        "בְּשַׁלְוָה",
+        "עֵדוּת שֶׁקֶר"
+      ],
+      "correct_answer": "פִּתְאוֹם",
+      "explanation_hebrew": "המילה \"suddenly\" פירושה פִּתְאוֹם."
+    },
+    {
+      "id": "A-q6",
+      "word": "peacefully",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בְּשַׁלְוָה”?",
+      "options": [
+        "jailed",
+        "perjury",
+        "peacefully",
+        "guilty"
+      ],
+      "correct_answer": "peacefully",
+      "explanation_hebrew": "המילה \"בְּשַׁלְוָה\" באנגלית היא \"peacefully\"."
+    },
+    {
+      "id": "A-q7",
+      "word": "jailed",
+      "type": "english_to_hebrew",
+      "question": "What does “jailed” mean?",
+      "options": [
+        "אָשֵׁם",
+        "נִכְלָא",
+        "עֵדוּת שֶׁקֶר",
+        "רַמָּאוּת"
+      ],
+      "correct_answer": "נִכְלָא",
+      "explanation_hebrew": "המילה \"jailed\" פירושה נִכְלָא."
+    },
+    {
+      "id": "A-q8",
+      "word": "perjury",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עֵדוּת שֶׁקֶר”?",
+      "options": [
+        "cheating",
+        "libel",
+        "perjury",
+        "guilty"
+      ],
+      "correct_answer": "perjury",
+      "explanation_hebrew": "המילה \"עֵדוּת שֶׁקֶר\" באנגלית היא \"perjury\"."
+    },
+    {
+      "id": "A-q9",
+      "word": "guilty",
+      "type": "english_to_hebrew",
+      "question": "What does “guilty” mean?",
+      "options": [
+        "רַמָּאוּת",
+        "אֵזוֹר בְּחִירָה",
+        "הוֹצָאַת דִּיבָּה",
+        "אָשֵׁם"
+      ],
+      "correct_answer": "אָשֵׁם",
+      "explanation_hebrew": "המילה \"guilty\" פירושה אָשֵׁם."
+    },
+    {
+      "id": "A-q10",
+      "word": "cheating",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רַמָּאוּת”?",
+      "options": [
+        "cheating",
+        "constituency",
+        "libel",
+        "elected"
+      ],
+      "correct_answer": "cheating",
+      "explanation_hebrew": "המילה \"רַמָּאוּת\" באנגלית היא \"cheating\"."
+    },
+    {
+      "id": "A-q11",
+      "word": "libel",
+      "type": "english_to_hebrew",
+      "question": "What does “libel” mean?",
+      "options": [
+        "הוֹצָאַת דִּיבָּה",
+        "אֵזוֹר בְּחִירָה",
+        "נִבְחַר",
+        "סְגָן"
+      ],
+      "correct_answer": "הוֹצָאַת דִּיבָּה",
+      "explanation_hebrew": "המילה \"libel\" פירושה הוֹצָאַת דִּיבָּה."
+    },
+    {
+      "id": "A-q12",
+      "word": "constituency",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אֵזוֹר בְּחִירָה”?",
+      "options": [
+        "constituency",
+        "damages",
+        "elected",
+        "deputy"
+      ],
+      "correct_answer": "constituency",
+      "explanation_hebrew": "המילה \"אֵזוֹר בְּחִירָה\" באנגלית היא \"constituency\"."
+    },
+    {
+      "id": "A-q13",
+      "word": "elected",
+      "type": "english_to_hebrew",
+      "question": "What does “elected” mean?",
+      "options": [
+        "נִבְחַר",
+        "סְגָן",
+        "שׁוּחְרַר",
+        "פִּיצוּיִים"
+      ],
+      "correct_answer": "נִבְחַר",
+      "explanation_hebrew": "המילה \"elected\" פירושה נִבְחַר."
+    },
+    {
+      "id": "A-q14",
+      "word": "deputy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סְגָן”?",
+      "options": [
+        "released",
+        "deputy",
+        "retired",
+        "damages"
+      ],
+      "correct_answer": "deputy",
+      "explanation_hebrew": "המילה \"סְגָן\" באנגלית היא \"deputy\"."
+    },
+    {
+      "id": "A-q15",
+      "word": "damages",
+      "type": "english_to_hebrew",
+      "question": "What does “damages” mean?",
+      "options": [
+        "מְסַפֵּר סִיפּוּרִים",
+        "שׁוּחְרַר",
+        "פִּיצוּיִים",
+        "פָּרַשׁ"
+      ],
+      "correct_answer": "פִּיצוּיִים",
+      "explanation_hebrew": "המילה \"damages\" פירושה פִּיצוּיִים."
+    },
+    {
+      "id": "A-q16",
+      "word": "released",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שׁוּחְרַר”?",
+      "options": [
+        "retired",
+        "broadcaster",
+        "released",
+        "storyteller"
+      ],
+      "correct_answer": "released",
+      "explanation_hebrew": "המילה \"שׁוּחְרַר\" באנגלית היא \"released\"."
+    },
+    {
+      "id": "A-q17",
+      "word": "retired",
+      "type": "english_to_hebrew",
+      "question": "What does “retired” mean?",
+      "options": [
+        "פָּרַשׁ",
+        "מְסַפֵּר סִיפּוּרִים",
+        "שַׁדָּר",
+        "מַחֲוַת כָּבוֹד"
+      ],
+      "correct_answer": "פָּרַשׁ",
+      "explanation_hebrew": "המילה \"retired\" פירושה פָּרַשׁ."
+    },
+    {
+      "id": "A-q18",
+      "word": "storyteller",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְסַפֵּר סִיפּוּרִים”?",
+      "options": [
+        "tribute",
+        "storyteller",
+        "broadcaster",
+        "engaging"
+      ],
+      "correct_answer": "storyteller",
+      "explanation_hebrew": "המילה \"מְסַפֵּר סִיפּוּרִים\" באנגלית היא \"storyteller\"."
+    },
+    {
+      "id": "A-q19",
+      "word": "broadcaster",
+      "type": "english_to_hebrew",
+      "question": "What does “broadcaster” mean?",
+      "options": [
+        "מַחֲוַת כָּבוֹד",
+        "מְרַתֵּק",
+        "שַׁדָּר",
+        "רִיגּוּשׁ"
+      ],
+      "correct_answer": "שַׁדָּר",
+      "explanation_hebrew": "המילה \"broadcaster\" פירושה שַׁדָּר."
+    },
+    {
+      "id": "A-q20",
+      "word": "tribute",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַחֲוַת כָּבוֹד”?",
+      "options": [
+        "engaging",
+        "generation",
+        "tribute",
+        "thrill"
+      ],
+      "correct_answer": "tribute",
+      "explanation_hebrew": "המילה \"מַחֲוַת כָּבוֹד\" באנגלית היא \"tribute\"."
+    },
+    {
+      "id": "A-q21",
+      "word": "engaging",
+      "type": "english_to_hebrew",
+      "question": "What does “engaging” mean?",
+      "options": [
+        "יוֹם שָׁנָה",
+        "מְרַתֵּק",
+        "רִיגּוּשׁ",
+        "דּוֹר"
+      ],
+      "correct_answer": "מְרַתֵּק",
+      "explanation_hebrew": "המילה \"engaging\" פירושה מְרַתֵּק."
+    },
+    {
+      "id": "A-q22",
+      "word": "thrill",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רִיגּוּשׁ”?",
+      "options": [
+        "generation",
+        "thrill",
+        "saddened",
+        "anniversary"
+      ],
+      "correct_answer": "thrill",
+      "explanation_hebrew": "המילה \"רִיגּוּשׁ\" באנגלית היא \"thrill\"."
+    },
+    {
+      "id": "A-q23",
+      "word": "generation",
+      "type": "english_to_hebrew",
+      "question": "What does “generation” mean?",
+      "options": [
+        "נֶעֱצַב",
+        "דּוֹר",
+        "יוֹם שָׁנָה",
+        "רב-מכר"
+      ],
+      "correct_answer": "דּוֹר",
+      "explanation_hebrew": "המילה \"generation\" פירושה דּוֹר."
+    },
+    {
+      "id": "A-q24",
+      "word": "anniversary",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יוֹם שָׁנָה”?",
+      "options": [
+        "bestselling",
+        "career",
+        "saddened",
+        "anniversary"
+      ],
+      "correct_answer": "anniversary",
+      "explanation_hebrew": "המילה \"יוֹם שָׁנָה\" באנגלית היא \"anniversary\"."
+    },
+    {
+      "id": "A-q25",
+      "word": "saddened",
+      "type": "english_to_hebrew",
+      "question": "What does “saddened” mean?",
+      "options": [
+        "נֶעֱצַב",
+        "הַצְהָרָה",
+        "קַרְיֶרָה",
+        "רב-מכר"
+      ],
+      "correct_answer": "נֶעֱצַב",
+      "explanation_hebrew": "המילה \"saddened\" פירושה נֶעֱצַב."
+    }
+  ]
+}

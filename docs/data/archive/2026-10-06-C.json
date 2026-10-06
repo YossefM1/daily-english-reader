@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-06",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Nifty: Five reasons India's markets are sinking even when its economy is growing",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo",
+  "published_at": "2026-10-05T23:13:11+00:00",
+  "age_hours_at_selection": 2.98,
+  "word_count": 1000,
+  "generated_at": "2026-10-06T02:11:41.343418+00:00",
+  "difficulty_reason": "Dense analytical finance piece with abstract economic argument and technical market vocabulary; demanding B2/C1/C2 terms and background knowledge of markets assumed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "enviable",
+      "lemma": "enviable",
+      "level": "C1",
+      "hebrew": "מְעוֹרֵר קִנְאָה",
+      "explanation_hebrew": "טוב במידה שמעוררת קנאה",
+      "pronunciation_hebrew": "אֶנְבִיאַבֶּל",
+      "example": "She has an enviable job."
+    },
+    {
+      "word": "equity",
+      "lemma": "equity",
+      "level": "C1",
+      "hebrew": "מְנָיוֹת",
+      "explanation_hebrew": "הון בצורת מניות בחברה",
+      "pronunciation_hebrew": "אֶקְוִוִיטִי",
+      "example": "He invested in equity markets."
+    },
+    {
+      "word": "correction",
+      "lemma": "correction",
+      "level": "B2",
+      "hebrew": "תִּיקּוּן בַּשּׁוּק",
+      "explanation_hebrew": "ירידה מתוקנת במחירי מניות",
+      "pronunciation_hebrew": "קוֹרֶקְשֶׁן",
+      "example": "The market saw a sharp correction."
+    },
+    {
+      "word": "intensified",
+      "lemma": "intensify",
+      "level": "B2",
+      "hebrew": "הִתְעַצֵּם",
+      "explanation_hebrew": "נעשה חזק ועז יותר",
+      "pronunciation_hebrew": "אִינְטֶנְסִיפַייד",
+      "example": "The storm intensified overnight."
+    },
+    {
+      "word": "benchmark",
+      "lemma": "benchmark",
+      "level": "C1",
+      "hebrew": "מַדֵּד יִיחוּס",
+      "explanation_hebrew": "אמת מידה להשוואה",
+      "pronunciation_hebrew": "בֶּנְצְ'מַארְק",
+      "example": "It is the industry benchmark."
+    },
+    {
+      "word": "erode",
+      "lemma": "erode",
+      "level": "C1",
+      "hebrew": "לִשְׁחוֹק",
+      "explanation_hebrew": "להישחק בהדרגה",
+      "pronunciation_hebrew": "אִירוֹוד",
+      "example": "Inflation can erode savings."
+    },
+    {
+      "word": "aggregate",
+      "lemma": "aggregate",
+      "level": "C1",
+      "hebrew": "סַךְ הַכֹּל",
+      "explanation_hebrew": "סכום כולל ומצטבר",
+      "pronunciation_hebrew": "אַגְרֶגֶט",
+      "example": "In aggregate, sales rose."
+    },
+    {
+      "word": "withdrawn",
+      "lemma": "withdraw",
+      "level": "B2",
+      "hebrew": "נִמְשַׁךְ הַחוּצָה",
+      "explanation_hebrew": "הוצא או נמשך החוצה",
+      "pronunciation_hebrew": "וִידְדְרוֹן",
+      "example": "Funds were withdrawn quickly."
+    },
+    {
+      "word": "staggering",
+      "lemma": "staggering",
+      "level": "C1",
+      "hebrew": "מַדְהִים",
+      "explanation_hebrew": "גדול במידה מפתיעה",
+      "pronunciation_hebrew": "סְטַאגֶרִינְג",
+      "example": "A staggering amount of money."
+    },
+    {
+      "word": "institutional",
+      "lemma": "institutional",
+      "level": "C1",
+      "hebrew": "מוֹסָדִי",
+      "explanation_hebrew": "הקשור למוסדות פיננסיים גדולים",
+      "pronunciation_hebrew": "אִינְסְטִיטְיוּשֶׁנַל",
+      "example": "Institutional investors sold."
+    },
+    {
+      "word": "domestic",
+      "lemma": "domestic",
+      "level": "B2",
+      "hebrew": "מְקוֹמִי",
+      "explanation_hebrew": "פנים-ארצי, של המדינה עצמה",
+      "pronunciation_hebrew": "דוֹמֶסְטִיק",
+      "example": "Domestic demand grew."
+    },
+    {
+      "word": "instruments",
+      "lemma": "instrument",
+      "level": "B2",
+      "hebrew": "מַכְשִׁירִים פִינַנְסִיִּים",
+      "explanation_hebrew": "אמצעי השקעה שונים",
+      "pronunciation_hebrew": "אִינְסְטְרוּמֶנְטְס",
+      "example": "Financial instruments vary."
+    },
+    {
+      "word": "faltering",
+      "lemma": "falter",
+      "level": "C1",
+      "hebrew": "נֶחֱלָשׁ",
+      "explanation_hebrew": "מאבד כוח ויציבות",
+      "pronunciation_hebrew": "פוֹלְטֶרִינְג",
+      "example": "A faltering economy worries all."
+    },
+    {
+      "word": "consumption",
+      "lemma": "consumption",
+      "level": "B2",
+      "hebrew": "צְרִיכָה",
+      "explanation_hebrew": "שימוש במוצרים ובשירותים",
+      "pronunciation_hebrew": "קוֹנְסַמְפְּשֶׁן",
+      "example": "Energy consumption rose."
+    },
+    {
+      "word": "inflation",
+      "lemma": "inflation",
+      "level": "B2",
+      "hebrew": "אִינְפְלַצְיָה",
+      "explanation_hebrew": "עליית מחירים כללית",
+      "pronunciation_hebrew": "אִינְפְלֵיישֶׁן",
+      "example": "Inflation hurt savings."
+    },
+    {
+      "word": "persistent",
+      "lemma": "persistent",
+      "level": "B2",
+      "hebrew": "מַתְמִיד",
+      "explanation_hebrew": "נמשך לאורך זמן ולא חולף",
+      "pronunciation_hebrew": "פֶּרְסִיסְטֶנְט",
+      "example": "It was a persistent problem."
+    },
+    {
+      "word": "hovered",
+      "lemma": "hover",
+      "level": "C1",
+      "hebrew": "נָע סְבִיב",
+      "explanation_hebrew": "נשאר בטווח צר",
+      "pronunciation_hebrew": "הוֹבֶרְד",
+      "example": "Prices hovered around $90."
+    },
+    {
+      "word": "variable",
+      "lemma": "variable",
+      "level": "B2",
+      "hebrew": "מִשְׁתַּנֶּה",
+      "explanation_hebrew": "גורם שערכו משתנה",
+      "pronunciation_hebrew": "וֶרִיאַבֶּל",
+      "example": "Price is a key variable."
+    },
+    {
+      "word": "absorb",
+      "lemma": "absorb",
+      "level": "B2",
+      "hebrew": "לִסְפּוֹג",
+      "explanation_hebrew": "לקלוט ולהתמודד עם",
+      "pronunciation_hebrew": "אַבְּזוֹרְבּ",
+      "example": "Markets can absorb some shocks."
+    },
+    {
+      "word": "margins",
+      "lemma": "margin",
+      "level": "B2",
+      "hebrew": "שׁוּלֵי רֶוַוח",
+      "explanation_hebrew": "ההפרש בין עלות למחיר",
+      "pronunciation_hebrew": "מַארְגִ'ינְז",
+      "example": "Profit margins fell this year."
+    },
+    {
+      "word": "diversified",
+      "lemma": "diversify",
+      "level": "C1",
+      "hebrew": "גִּיוֵּן",
+      "explanation_hebrew": "הרחיב את מגוון המקורות",
+      "pronunciation_hebrew": "דַייבֶרְסִיפַייד",
+      "example": "They diversified their income."
+    },
+    {
+      "word": "yield",
+      "lemma": "yield",
+      "level": "C1",
+      "hebrew": "תְּשׁוּאָה",
+      "explanation_hebrew": "הרווח המתקבל מהשקעה",
+      "pronunciation_hebrew": "יִילְד",
+      "example": "The bond's yield rose."
+    },
+    {
+      "word": "emerging",
+      "lemma": "emerging",
+      "level": "B2",
+      "hebrew": "מִתְפַּתֵּחַ",
+      "explanation_hebrew": "בתהליך צמיחה והתהוות",
+      "pronunciation_hebrew": "אִימֶרְגִ'ינְג",
+      "example": "Emerging markets are risky."
+    },
+    {
+      "word": "valuations",
+      "lemma": "valuation",
+      "level": "C1",
+      "hebrew": "הַעֲרָכוֹת שׁוֹוִי",
+      "explanation_hebrew": "הערכת הערך של מניות",
+      "pronunciation_hebrew": "וַלְיוּאֵיישֶׁנְז",
+      "example": "Stock valuations are high."
+    },
+    {
+      "word": "resilience",
+      "lemma": "resilience",
+      "level": "C1",
+      "hebrew": "חוֹסֶן",
+      "explanation_hebrew": "יכולת להתאושש מקושי",
+      "pronunciation_hebrew": "רִיזִילְיֶנְס",
+      "example": "Economic resilience matters."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "enviable",
+      "type": "english_to_hebrew",
+      "question": "What does “enviable” mean?",
+      "options": [
+        "הִתְעַצֵּם",
+        "מְנָיוֹת",
+        "מְעוֹרֵר קִנְאָה",
+        "תִּיקּוּן בַּשּׁוּק"
+      ],
+      "correct_answer": "מְעוֹרֵר קִנְאָה",
+      "explanation_hebrew": "המילה \"enviable\" פירושה מְעוֹרֵר קִנְאָה."
+    },
+    {
+      "id": "C-q2",
+      "word": "equity",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְנָיוֹת”?",
+      "options": [
+        "intensified",
+        "equity",
+        "benchmark",
+        "correction"
+      ],
+      "correct_answer": "equity",
+      "explanation_hebrew": "המילה \"מְנָיוֹת\" באנגלית היא \"equity\"."
+    },
+    {
+      "id": "C-q3",
+      "word": "correction",
+      "type": "english_to_hebrew",
+      "question": "What does “correction” mean?",
+      "options": [
+        "תִּיקּוּן בַּשּׁוּק",
+        "לִשְׁחוֹק",
+        "מַדֵּד יִיחוּס",
+        "הִתְעַצֵּם"
+      ],
+      "correct_answer": "תִּיקּוּן בַּשּׁוּק",
+      "explanation_hebrew": "המילה \"correction\" פירושה תִּיקּוּן בַּשּׁוּק."
+    },
+    {
+      "id": "C-q4",
+      "word": "intensified",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הִתְעַצֵּם”?",
+      "options": [
+        "aggregate",
+        "benchmark",
+        "intensified",
+        "erode"
+      ],
+      "correct_answer": "intensified",
+      "explanation_hebrew": "המילה \"הִתְעַצֵּם\" באנגלית היא \"intensified\"."
+    },
+    {
+      "id": "C-q5",
+      "word": "benchmark",
+      "type": "english_to_hebrew",
+      "question": "What does “benchmark” mean?",
+      "options": [
+        "לִשְׁחוֹק",
+        "סַךְ הַכֹּל",
+        "מַדֵּד יִיחוּס",
+        "נִמְשַׁךְ הַחוּצָה"
+      ],
+      "correct_answer": "מַדֵּד יִיחוּס",
+      "explanation_hebrew": "המילה \"benchmark\" פירושה מַדֵּד יִיחוּס."
+    },
+    {
+      "id": "C-q6",
+      "word": "erode",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לִשְׁחוֹק”?",
+      "options": [
+        "erode",
+        "withdrawn",
+        "aggregate",
+        "staggering"
+      ],
+      "correct_answer": "erode",
+      "explanation_hebrew": "המילה \"לִשְׁחוֹק\" באנגלית היא \"erode\"."
+    },
+    {
+      "id": "C-q7",
+      "word": "aggregate",
+      "type": "english_to_hebrew",
+      "question": "What does “aggregate” mean?",
+      "options": [
+        "מַדְהִים",
+        "מוֹסָדִי",
+        "סַךְ הַכֹּל",
+        "נִמְשַׁךְ הַחוּצָה"
+      ],
+      "correct_answer": "סַךְ הַכֹּל",
+      "explanation_hebrew": "המילה \"aggregate\" פירושה סַךְ הַכֹּל."
+    },
+    {
+      "id": "C-q8",
+      "word": "withdrawn",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִמְשַׁךְ הַחוּצָה”?",
+      "options": [
+        "withdrawn",
+        "institutional",
+        "staggering",
+        "domestic"
+      ],
+      "correct_answer": "withdrawn",
+      "explanation_hebrew": "המילה \"נִמְשַׁךְ הַחוּצָה\" באנגלית היא \"withdrawn\"."
+    },
+    {
+      "id": "C-q9",
+      "word": "staggering",
+      "type": "english_to_hebrew",
+      "question": "What does “staggering” mean?",
+      "options": [
+        "מְקוֹמִי",
+        "מַדְהִים",
+        "מוֹסָדִי",
+        "מַכְשִׁירִים פִינַנְסִיִּים"
+      ],
+      "correct_answer": "מַדְהִים",
+      "explanation_hebrew": "המילה \"staggering\" פירושה מַדְהִים."
+    },
+    {
+      "id": "C-q10",
+      "word": "institutional",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוֹסָדִי”?",
+      "options": [
+        "instruments",
+        "faltering",
+        "domestic",
+        "institutional"
+      ],
+      "correct_answer": "institutional",
+      "explanation_hebrew": "המילה \"מוֹסָדִי\" באנגלית היא \"institutional\"."
+    },
+    {
+      "id": "C-q11",
+      "word": "domestic",
+      "type": "english_to_hebrew",
+      "question": "What does “domestic” mean?",
+      "options": [
+        "צְרִיכָה",
+        "מַכְשִׁירִים פִינַנְסִיִּים",
+        "נֶחֱלָשׁ",
+        "מְקוֹמִי"
+      ],
+      "correct_answer": "מְקוֹמִי",
+      "explanation_hebrew": "המילה \"domestic\" פירושה מְקוֹמִי."
+    },
+    {
+      "id": "C-q12",
+      "word": "instruments",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַכְשִׁירִים פִינַנְסִיִּים”?",
+      "options": [
+        "inflation",
+        "instruments",
+        "consumption",
+        "faltering"
+      ],
+      "correct_answer": "instruments",
+      "explanation_hebrew": "המילה \"מַכְשִׁירִים פִינַנְסִיִּים\" באנגלית היא \"instruments\"."
+    },
+    {
+      "id": "C-q13",
+      "word": "faltering",
+      "type": "english_to_hebrew",
+      "question": "What does “faltering” mean?",
+      "options": [
+        "נֶחֱלָשׁ",
+        "צְרִיכָה",
+        "אִינְפְלַצְיָה",
+        "מַתְמִיד"
+      ],
+      "correct_answer": "נֶחֱלָשׁ",
+      "explanation_hebrew": "המילה \"faltering\" פירושה נֶחֱלָשׁ."
+    },
+    {
+      "id": "C-q14",
+      "word": "consumption",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “צְרִיכָה”?",
+      "options": [
+        "consumption",
+        "inflation",
+        "persistent",
+        "hovered"
+      ],
+      "correct_answer": "consumption",
+      "explanation_hebrew": "המילה \"צְרִיכָה\" באנגלית היא \"consumption\"."
+    },
+    {
+      "id": "C-q15",
+      "word": "inflation",
+      "type": "english_to_hebrew",
+      "question": "What does “inflation” mean?",
+      "options": [
+        "מִשְׁתַּנֶּה",
+        "אִינְפְלַצְיָה",
+        "נָע סְבִיב",
+        "מַתְמִיד"
+      ],
+      "correct_answer": "אִינְפְלַצְיָה",
+      "explanation_hebrew": "המילה \"inflation\" פירושה אִינְפְלַצְיָה."
+    },
+    {
+      "id": "C-q16",
+      "word": "persistent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַתְמִיד”?",
+      "options": [
+        "variable",
+        "absorb",
+        "persistent",
+        "hovered"
+      ],
+      "correct_answer": "persistent",
+      "explanation_hebrew": "המילה \"מַתְמִיד\" באנגלית היא \"persistent\"."
+    },
+    {
+      "id": "C-q17",
+      "word": "hovered",
+      "type": "english_to_hebrew",
+      "question": "What does “hovered” mean?",
+      "options": [
+        "מִשְׁתַּנֶּה",
+        "שׁוּלֵי רֶוַוח",
+        "נָע סְבִיב",
+        "לִסְפּוֹג"
+      ],
+      "correct_answer": "נָע סְבִיב",
+      "explanation_hebrew": "המילה \"hovered\" פירושה נָע סְבִיב."
+    },
+    {
+      "id": "C-q18",
+      "word": "variable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מִשְׁתַּנֶּה”?",
+      "options": [
+        "margins",
+        "variable",
+        "absorb",
+        "diversified"
+      ],
+      "correct_answer": "variable",
+      "explanation_hebrew": "המילה \"מִשְׁתַּנֶּה\" באנגלית היא \"variable\"."
+    },
+    {
+      "id": "C-q19",
+      "word": "absorb",
+      "type": "english_to_hebrew",
+      "question": "What does “absorb” mean?",
+      "options": [
+        "שׁוּלֵי רֶוַוח",
+        "לִסְפּוֹג",
+        "גִּיוֵּן",
+        "תְּשׁוּאָה"
+      ],
+      "correct_answer": "לִסְפּוֹג",
+      "explanation_hebrew": "המילה \"absorb\" פירושה לִסְפּוֹג."
+    },
+    {
+      "id": "C-q20",
+      "word": "margins",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שׁוּלֵי רֶוַוח”?",
+      "options": [
+        "yield",
+        "diversified",
+        "emerging",
+        "margins"
+      ],
+      "correct_answer": "margins",
+      "explanation_hebrew": "המילה \"שׁוּלֵי רֶוַוח\" באנגלית היא \"margins\"."
+    },
+    {
+      "id": "C-q21",
+      "word": "diversified",
+      "type": "english_to_hebrew",
+      "question": "What does “diversified” mean?",
+      "options": [
+        "מִתְפַּתֵּחַ",
+        "תְּשׁוּאָה",
+        "הַעֲרָכוֹת שׁוֹוִי",
+        "גִּיוֵּן"
+      ],
+      "correct_answer": "גִּיוֵּן",
+      "explanation_hebrew": "המילה \"diversified\" פירושה גִּיוֵּן."
+    },
+    {
+      "id": "C-q22",
+      "word": "yield",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תְּשׁוּאָה”?",
+      "options": [
+        "valuations",
+        "emerging",
+        "resilience",
+        "yield"
+      ],
+      "correct_answer": "yield",
+      "explanation_hebrew": "המילה \"תְּשׁוּאָה\" באנגלית היא \"yield\"."
+    },
+    {
+      "id": "C-q23",
+      "word": "emerging",
+      "type": "english_to_hebrew",
+      "question": "What does “emerging” mean?",
+      "options": [
+        "מִתְפַּתֵּחַ",
+        "חוֹסֶן",
+        "הַעֲרָכוֹת שׁוֹוִי",
+        "מְעוֹרֵר קִנְאָה"
+      ],
+      "correct_answer": "מִתְפַּתֵּחַ",
+      "explanation_hebrew": "המילה \"emerging\" פירושה מִתְפַּתֵּחַ."
+    },
+    {
+      "id": "C-q24",
+      "word": "valuations",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַעֲרָכוֹת שׁוֹוִי”?",
+      "options": [
+        "resilience",
+        "equity",
+        "enviable",
+        "valuations"
+      ],
+      "correct_answer": "valuations",
+      "explanation_hebrew": "המילה \"הַעֲרָכוֹת שׁוֹוִי\" באנגלית היא \"valuations\"."
+    },
+    {
+      "id": "C-q25",
+      "word": "resilience",
+      "type": "english_to_hebrew",
+      "question": "What does “resilience” mean?",
+      "options": [
+        "חוֹסֶן",
+        "תִּיקּוּן בַּשּׁוּק",
+        "מְעוֹרֵר קִנְאָה",
+        "מְנָיוֹת"
+      ],
+      "correct_answer": "חוֹסֶן",
+      "explanation_hebrew": "המילה \"resilience\" פירושה חוֹסֶן."
+    }
+  ]
+}
