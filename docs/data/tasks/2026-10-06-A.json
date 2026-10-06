@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-06",
+  "article_id": "A",
+  "article_title": "Jeffrey Archer: Best-selling author and former politician dies aged 86",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "The death and varied career of author and former politician Jeffrey Archer",
+        "A new law about British publishers and political memoirs",
+        "The reopening of Wellington School after a long closure",
+        "A dispute over who owns the rights to Kane and Abel"
+      ],
+      "correct_answer": "The death and varied career of author and former politician Jeffrey Archer",
+      "explanation_hebrew": "הכתבה מסכמת את מותו של ג'פרי ארצ'ר ואת הקריירות הבולטות שלו כסופר וכפוליטיקאי, כולל תקופת המאסר."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to HarperCollins, what was Archer doing on the day before he died?",
+      "difficulty": "A",
+      "options": [
+        "Attending a Conservative Party conference",
+        "Teaching a writing class at Wellington School",
+        "Signing books with broadcaster Gyles Brandreth at a London theatre",
+        "Visiting the House of Lords for a debate"
+      ],
+      "correct_answer": "Signing books with broadcaster Gyles Brandreth at a London theatre",
+      "explanation_hebrew": "המו״ל מסר שביום ראשון ארצ'ר חתם על ספרים עם גיילס ברנדרת' בתיאטרון Leicester Square בלונדון."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “perjury” mean in the context of Archer's 2001 conviction?",
+      "difficulty": "A",
+      "options": [
+        "Publishing a book without permission",
+        "Lying while under oath in a legal case",
+        "Leaving public office before an election",
+        "Receiving money from a newspaper"
+      ],
+      "correct_answer": "Lying while under oath in a legal case",
+      "explanation_hebrew": "בהקשר המשפטי, perjury פירושה עדות שקר או שקר תחת שבועה; ארצ'ר הורשע בכך לאחר משפט הדיבה."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many books did the article say Archer sold during his five-decade writing career?",
+      "difficulty": "A",
+      "options": [
+        "About 30 million",
+        "Exactly 86 million",
+        "Nearly 150 million",
+        "More than 300 million"
+      ],
+      "correct_answer": "More than 300 million",
+      "explanation_hebrew": "הכתבה מציינת שארצ'ר מכר יותר מ־300 מיליון ספרים לאורך קריירת כתיבה שנמשכה חמישה עשורים."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article mention that Archer was writing and signing books shortly before his death?",
+      "difficulty": "A",
+      "options": [
+        "To show that he remained actively involved in writing and meeting readers",
+        "To suggest that his publisher had stopped supporting him",
+        "To prove that his political career was about to restart",
+        "To explain why his final novel had been cancelled"
+      ],
+      "correct_answer": "To show that he remained actively involved in writing and meeting readers",
+      "explanation_hebrew": "הפרטים על כתיבה בין מפגשים וחתימה למעריצים מדגישים שהוא המשיך ליצור ולעסוק בקוראים ממש עד מותו."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In Brandreth's tribute, what does “self-deprecating” most nearly mean?",
+      "difficulty": "A",
+      "options": [
+        "Proud of every past achievement",
+        "Unwilling to speak in public",
+        "Able to joke modestly about himself",
+        "Critical of everyone around him"
+      ],
+      "correct_answer": "Able to joke modestly about himself",
+      "explanation_hebrew": "המילה מתארת אדם שמקטין את עצמו בהומור או צוחק על עצמו בצניעות; כך ברנדרת' תיאר את ארצ'ר."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two facts about Archer's political career before and after prison.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי עובדות מדויקות, אחת יכולה להיות על כהונתו כחבר פרלמנט או סגן יו״ר המפלגה, ואחת על המאסר, השחרור, החזרה לבית הלורדים או הפרישה.",
+      "expected_points": [
+        "Accept any two accurate facts: elected MP for Louth in 1969",
+        "served five years",
+        "became Conservative Party deputy chairman",
+        "jailed for four years in 2001",
+        "released in 2003",
+        "returned to the House of Lords",
+        "retired in 2024."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Archer's life as presented in the article, including his writing, politics and legal troubles.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך להזכיר את הצלחתו העצומה כסופר, את הקריירה במפלגה השמרנית, ואת ההרשעה והמאסר שהכתימו אותה.",
+      "expected_points": [
+        "He sold more than 300 million books over a five-decade career.",
+        "He served as an MP and later as Conservative Party deputy chairman.",
+        "He was jailed in 2001 for perjury and perverting the course of justice after his libel case.",
+        "He later returned to the House of Lords and continued publishing until shortly before his death."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How do the tributes from Brandreth, HarperCollins and Nadhim Zahawi build a picture of Archer's personality?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד הפרטים בעדויות משלימים זה את זה: מספר סיפורים כריזמטי ומצחיק, חרוץ מאוד, חם ובעל אנרגיה רבה.",
+      "expected_points": [
+        "Brandreth portrays him as funny, engaging and a great storyteller.",
+        "His editor stresses his hard work, repeated drafting and teamwork.",
+        "Zahawi highlights his wit, warmth and boundless energy.",
+        "The response should combine the quotations into an overall character portrait."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short newspaper-style concluding paragraph for this obituary using only facts from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "הפסקה צריכה להיות תמציתית, עובדתית ובסגנון חדשותי, ולשלב לפחות שניים: ספרו האחרון, משפחתו, מורשתו הספרותית או מחוות ההספד.",
+      "expected_points": [
+        "Use only article-supported facts.",
+        "Mention at least two relevant closing details, such as the final novel Adam and Eve, his wife Mary and family, book sales, or tributes.",
+        "Maintain a neutral newspaper tone."
+      ]
+    }
+  ]
+}

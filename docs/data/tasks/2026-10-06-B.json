@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-06",
+  "article_id": "B",
+  "article_title": "France braces for national day of student protests after injuries and mass arrests",
+  "article_url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central focus of the article?",
+      "difficulty": "B",
+      "options": [
+        "The history of France's 1968 worker strikes",
+        "A planned national day of action after escalating student protests, injuries and arrests",
+        "A proposal to close all French universities permanently",
+        "A teachers' campaign to replace the education minister"
+      ],
+      "correct_answer": "A planned national day of action after escalating student protests, injuries and arrests",
+      "explanation_hebrew": "הכתבה עוסקת ביום מחאה ארצי מתוכנן בעקבות התרחבות מחאות התלמידים, הפציעות הקשות ואלפי המעצרים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which complaints helped start the student protests?",
+      "difficulty": "B",
+      "options": [
+        "Higher university tuition for foreign students only",
+        "A ban on political organisations in schools",
+        "Shorter holidays and too many sports lessons",
+        "Overcrowded classrooms, run-down buildings and a lack of teachers"
+      ],
+      "correct_answer": "Overcrowded classrooms, run-down buildings and a lack of teachers",
+      "explanation_hebrew": "הכתבה מונה כיתות צפופות, מבנים מוזנחים ומחסור במורים בין הסיבות המרכזיות למחאה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “blockading” mean in the sentence about students blockading hundreds of schools?",
+      "difficulty": "B",
+      "options": [
+        "Blocking access to the schools",
+        "Repairing school entrances",
+        "Holding lessons outdoors",
+        "Moving students to other buildings"
+      ],
+      "correct_answer": "Blocking access to the schools",
+      "explanation_hebrew": "בהקשר המחאה, blockading פירושו חסימת הכניסה או הגישה לבתי הספר."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What proportion of the 5,060 people arrested were minors, according to the justice ministry?",
+      "difficulty": "B",
+      "options": [
+        "13%",
+        "About half",
+        "87%",
+        "All of them"
+      ],
+      "correct_answer": "87%",
+      "explanation_hebrew": "משרד המשפטים הצרפתי דיווח כי 87% מהעצורים היו קטינים ו־13% היו מבוגרים."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article describe the government's measures as failing to end the dispute?",
+      "difficulty": "B",
+      "options": [
+        "The prime minister refused to discuss school conditions at all",
+        "The USL said the promises offered nothing concrete while students continued to face the same problems",
+        "All schools had already returned to normal",
+        "The teachers' union opposed every form of student action"
+      ],
+      "correct_answer": "The USL said the promises offered nothing concrete while students continued to face the same problems",
+      "explanation_hebrew": "למרות הבטחת הממשלה לשינויים נראים לעין, ארגון USL טען שאין הצעה קונקרטית ולכן המבוי הסתום נמשך."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “proportionate” mean when the interior minister describes the policing?",
+      "difficulty": "B",
+      "options": [
+        "Secret and unreported",
+        "Limited to adult protesters",
+        "Controlled by student unions",
+        "Appropriate in scale to the situation"
+      ],
+      "correct_answer": "Appropriate in scale to the situation",
+      "explanation_hebrew": "השר טען שהשיטור היה מידתי — כלומר מתאים בהיקפו ובחומרתו למצב — בתגובה לטענה על שימוש בכוח מופרז."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the two serious student injuries highlighted in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר את שתי הפציעות: נער בן 15 שאיבד את ידו בעימות ליד Lens, ועדן בן 14 שסבל משבר כפול בלסת לאחר שנפגע לפי הדיווח מרימון גז מדמיע.",
+      "expected_points": [
+        "A 15-year-old boy's hand was blown off during a confrontation near a school in Lens; officials said the injury was not life-threatening.",
+        "Eden, 14, reportedly suffered a double jaw fracture after being struck in the head by a tear gas grenade and underwent major surgery."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the sequence from the start of the demonstrations to the planned nationwide action on Tuesday.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לתאר את תחילת המחאה בפריז בספטמבר, התפשטותה ברחבי צרפת והצטרפות סטודנטים, ההסלמה בחסימות, עימותים, פציעות ומעצרים, והקריאה ליום פעולה ארצי.",
+      "expected_points": [
+        "The demonstrations began in Paris in September over education conditions.",
+        "They spread nationwide, with university students joining high-school students.",
+        "Blockades, fires and clashes brought serious injuries and more than 5,000 arrests.",
+        "The USL and supporting groups called for nationwide action on Tuesday after rejecting the government's response as insufficient."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How has the protest movement become politically polarised, according to the article?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות בין הטענות: הממשלה והימין הקיצוני מאשימים את השמאל בליבוי מהומות, בעוד Mélenchon מאשים את המשטרה בניצול לרעה של כוח ותומך בהרחבת המחאה.",
+      "expected_points": [
+        "The government and hard-right figures accuse the hard left of fuelling or organising riots.",
+        "Marine Le Pen calls for a new anti-rioting law.",
+        "Mélenchon blames police abuses and urges people to protect youth demonstrations.",
+        "The Marseille mayor recognises legitimate concerns but calls for calm."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced two-sentence news brief that presents both the students' demands and the authorities' response.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג באופן ניטרלי את דרישות התלמידים להשקעה ותנאי לימוד טובים יותר, לצד הבטחות הממשלה לשינויים והצהרתה שלא תוותר מול אלימות.",
+      "expected_points": [
+        "State the students' concerns about overcrowding, buildings, staffing or investment.",
+        "Mention the government's promised measures or visible changes.",
+        "Include the authorities' position against violence or claim that policing was proportionate.",
+        "Use neutral news language."
+      ]
+    }
+  ]
+}

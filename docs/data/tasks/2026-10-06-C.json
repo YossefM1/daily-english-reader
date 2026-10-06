@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-06",
+  "article_id": "C",
+  "article_title": "Nifty: Five reasons India's markets are sinking even when its economy is growing",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What puzzle does the article set out to explain?",
+      "difficulty": "C",
+      "options": [
+        "Why India's economy has stopped growing completely",
+        "Why Korean investors are buying only Indian government bonds",
+        "Why Indian stock markets are weak even though the economy is growing above 7%",
+        "Why India no longer imports crude oil"
+      ],
+      "correct_answer": "Why Indian stock markets are weak even though the economy is growing above 7%",
+      "explanation_hebrew": "הכתבה מסבירה את הפער בין צמיחת הכלכלה ההודית ביותר מ־7% לבין הביצועים החלשים של שוק המניות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much did foreign institutional investors withdraw from Indian markets in the past two years, according to Bernstein Research?",
+      "difficulty": "C",
+      "options": [
+        "$40bn",
+        "$125bn",
+        "$900bn",
+        "$5bn"
+      ],
+      "correct_answer": "$40bn",
+      "explanation_hebrew": "לפי נתוני Bernstein Research, משקיעים מוסדיים זרים משכו 40 מיליארד דולר בשנתיים האחרונות."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “erode” mean when the article says investors saw their wealth erode by about 15%?",
+      "difficulty": "C",
+      "options": [
+        "Increase suddenly",
+        "Remain unchanged",
+        "Move into mutual funds",
+        "Gradually decrease in value"
+      ],
+      "correct_answer": "Gradually decrease in value",
+      "explanation_hebrew": "בהקשר זה erode פירושו להישחק או לרדת בהדרגה בערך; המשקיעים איבדו בערך 15% מהונם."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why do high US bond yields draw money away from Indian equities?",
+      "difficulty": "C",
+      "options": [
+        "US bonds guarantee profits of 170%",
+        "They are seen as safer investments while offering yields above 5%",
+        "Indian law prevents foreigners from owning shares",
+        "Oil companies are required to buy them"
+      ],
+      "correct_answer": "They are seen as safer investments while offering yields above 5%",
+      "explanation_hebrew": "אג״ח ממשלת ארה״ב נחשבות השקעה כמעט נטולת סיכון ומציעות תשואה מעל 5%, ולכן הן מושכות כסף מנכסים מסוכנים יותר בשווקים מתעוררים."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is the fall in Indian shares especially worrying for households?",
+      "difficulty": "C",
+      "options": [
+        "Households are forbidden from selling mutual funds",
+        "All domestic banks have closed their savings accounts",
+        "Many more households now hold stocks and mutual funds while also facing weak jobs, inflation and consumption",
+        "Only foreign investors are exposed to the losses"
+      ],
+      "correct_answer": "Many more households now hold stocks and mutual funds while also facing weak jobs, inflation and consumption",
+      "explanation_hebrew": "מספר ההודים שמשקיעים במניות ובקרנות עלה מאוד, ולכן הירידות פוגעות בחיסכון של משקי בית שכבר מתמודדים עם שוק עבודה חלש ואינפלציה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “resilience” refer to in the final paragraph?",
+      "difficulty": "C",
+      "options": [
+        "Indian savers continuing their monthly mutual-fund investments despite the correction",
+        "Foreign investors withdrawing all their funds",
+        "Oil prices remaining above $100 forever",
+        "Indian large companies avoiding all competition"
+      ],
+      "correct_answer": "Indian savers continuing their monthly mutual-fund investments despite the correction",
+      "explanation_hebrew": "החוסן הוא המשך ההפקדות החודשיות של החוסכים ההודים לקרנות נאמנות למרות הירידות והחרדה הגוברת."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List the five reasons the article gives for the weakness of India's stock market.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין את כל חמשת הגורמים בכותרות הכתבה: זעזועי אנרגיה מתמשכים, ריבית עולמית עולה, רופי נחלש, תמחור מניות עדיין גבוה יחסית והחולשה בתחום ה־AI או הכלכלה החדשה.",
+      "expected_points": [
+        "Persistent energy shocks linked to Middle East conflict.",
+        "Rising global interest rates.",
+        "A falling rupee.",
+        "Indian shares remain relatively expensive compared with earnings and rival emerging markets.",
+        "India lacks large globally competitive AI or new-economy companies."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how oil prices affect India's markets through several connected channels.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את שרשרת ההשפעה: הודו מייבאת מעל 90% מהנפט, השיבוש במצר הורמוז מעלה מחירים, ומחיר גבוה מגביר אינפלציה, ריבית ולחץ על רווחי החברות ושולי הרווח.",
+      "expected_points": [
+        "India imports more than 90% of its crude needs, with much of its energy passing through the Strait of Hormuz.",
+        "Shipping disruption has kept crude near $90–$100 a barrel.",
+        "Prices above $100 would pressure inflation, company earnings and profit margins.",
+        "Higher inflation contributes to rising interest rates and weaker demand for riskier equities."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does India's missing AI sector matter to foreign investors, according to the article?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין רווחי ה־AI הגבוהים בעולם, אופיין הישן יחסית של חברות הענק ההודיות, הקנה המידה הקטן של החדשנות המקומית והצורך בתעשיות תחרותיות גלובלית.",
+      "expected_points": [
+        "A large share of current global profit growth is concentrated in AI and the new economy.",
+        "Many Indian large-cap companies represent older industries and are not investing enough in the future.",
+        "Promising Indian areas such as semiconductors, space and deep tech remain too small to influence major allocation decisions.",
+        "Foreign capital is more likely to return if India builds globally competitive firms in these sectors."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief investor note explaining one factor that could help Indian markets recover and one risk that could prevent recovery.",
+      "difficulty": "C",
+      "rubric_hebrew": "הפתק צריך לבחור גורם חיובי מן הכתבה, כגון ירידת מתיחות גיאופוליטית או תמחור אטרקטיבי יותר, ולצדו סיכון כמו מחירי אנרגיה גבוהים, מתיחות סחר או תיקון עמוק יותר.",
+      "expected_points": [
+        "Identify one article-supported positive factor: easing geopolitical tensions, more attractive valuations, continued domestic flows, or competitive emerging industries.",
+        "Identify one article-supported risk: high energy prices, trade tensions, high rates, weak currency, or a deeper correction.",
+        "Explain briefly how each factor could affect investor flows or company performance."
+      ]
+    }
+  ]
+}
