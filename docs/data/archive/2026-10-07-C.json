@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-07",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Nepal floods: Many of those swept away aren't officially dead, leaving families in limbo",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-10-06T22:17:56+00:00",
+  "age_hours_at_selection": 3.9,
+  "word_count": 1248,
+  "generated_at": "2026-10-07T02:12:03.204024+00:00",
+  "difficulty_reason": "Long, information-dense report weaving legal, financial and humanitarian threads; denser sentences and B2/C1/C2 vocabulary that assume some background on disasters and law.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "honouring",
+      "lemma": "honour",
+      "level": "B2",
+      "hebrew": "לחלוק כבוד",
+      "explanation_hebrew": "להביע כבוד למישהו, לעיתים לנפטר",
+      "pronunciation_hebrew": "אוֹנֶרִינְג",
+      "example": "Families gathered, honouring their loved ones."
+    },
+    {
+      "word": "effigy",
+      "lemma": "effigy",
+      "level": "C2",
+      "hebrew": "בובה סמלית",
+      "explanation_hebrew": "דמות המייצגת אדם, לעיתים בטקס",
+      "pronunciation_hebrew": "אֶפִיגִ'י",
+      "example": "They made an effigy to represent the dead."
+    },
+    {
+      "word": "sacred",
+      "lemma": "sacred",
+      "level": "B2",
+      "hebrew": "קדוש",
+      "explanation_hebrew": "בעל משמעות דתית וקדושה",
+      "pronunciation_hebrew": "סֵייקְרֶד",
+      "example": "The grass is considered sacred."
+    },
+    {
+      "word": "onslaught",
+      "lemma": "onslaught",
+      "level": "C1",
+      "hebrew": "שטף עז",
+      "explanation_hebrew": "התקפה חזקה ועוצמתית",
+      "pronunciation_hebrew": "אוֹנְסְלוֹט",
+      "example": "They were caught in the water's onslaught."
+    },
+    {
+      "word": "presumed",
+      "lemma": "presume",
+      "level": "C1",
+      "hebrew": "מניחים ש-",
+      "explanation_hebrew": "להניח שמשהו נכון בלי ודאות מלאה",
+      "pronunciation_hebrew": "פְּרִיזְיוּמְד",
+      "example": "A missing person is presumed dead after years."
+    },
+    {
+      "word": "provision",
+      "lemma": "provision",
+      "level": "C1",
+      "hebrew": "סעיף",
+      "explanation_hebrew": "סעיף או תנאי בחוק או בהסכם",
+      "pronunciation_hebrew": "פְּרוֹבִיזָ'ן",
+      "example": "The law has no provision for disasters."
+    },
+    {
+      "word": "compensation",
+      "lemma": "compensation",
+      "level": "B2",
+      "hebrew": "פיצוי",
+      "explanation_hebrew": "כסף הניתן על נזק או אובדן",
+      "pronunciation_hebrew": "קוֹמְפֶּנְסֵיישָׁן",
+      "example": "Families need flood compensation."
+    },
+    {
+      "word": "inheritance",
+      "lemma": "inheritance",
+      "level": "B2",
+      "hebrew": "ירושה",
+      "explanation_hebrew": "רכוש שעובר אחרי מות אדם",
+      "pronunciation_hebrew": "אִינְהֶרִיטֶנְס",
+      "example": "The issue also affects inheritance."
+    },
+    {
+      "word": "bereavement",
+      "lemma": "bereavement",
+      "level": "C1",
+      "hebrew": "שכול",
+      "explanation_hebrew": "מצב של אובדן אדם קרוב שנפטר",
+      "pronunciation_hebrew": "בִּירִיבְמֶנְט",
+      "example": "They received bereavement compensation."
+    },
+    {
+      "word": "administrative",
+      "lemma": "administrative",
+      "level": "B2",
+      "hebrew": "מנהלי",
+      "explanation_hebrew": "הקשור לניהול ולנהלים רשמיים",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵייטִיב",
+      "example": "They are stuck in an administrative nightmare."
+    },
+    {
+      "word": "outdated",
+      "lemma": "outdated",
+      "level": "B2",
+      "hebrew": "מיושן",
+      "explanation_hebrew": "לא מתאים עוד לזמן הנוכחי",
+      "pronunciation_hebrew": "אַאוּטְדֵייטֶד",
+      "example": "The law is outdated."
+    },
+    {
+      "word": "constitutional",
+      "lemma": "constitutional",
+      "level": "C1",
+      "hebrew": "חוקתי",
+      "explanation_hebrew": "הקשור לחוקה של מדינה",
+      "pronunciation_hebrew": "קוֹנְסְטִיטְיוּשָׁנָל",
+      "example": "A constitutional law expert spoke to the BBC."
+    },
+    {
+      "word": "devastating",
+      "lemma": "devastating",
+      "level": "B2",
+      "hebrew": "הרסני",
+      "explanation_hebrew": "גורם נזק או צער עצום",
+      "pronunciation_hebrew": "דֶבַסְטֵייטִינְג",
+      "example": "It was a devastating loss."
+    },
+    {
+      "word": "navigate",
+      "lemma": "navigate",
+      "level": "B2",
+      "hebrew": "להתמודד",
+      "explanation_hebrew": "למצוא דרך במצב מורכב",
+      "pronunciation_hebrew": "נַבִיגֵייט",
+      "example": "The loss is hard to navigate."
+    },
+    {
+      "word": "municipality",
+      "lemma": "municipality",
+      "level": "C1",
+      "hebrew": "רשות מקומית",
+      "explanation_hebrew": "הגוף המנהל עיר או אזור",
+      "pronunciation_hebrew": "מְיוּנִיסִיפָּלִיטִי",
+      "example": "He went to the local municipality office."
+    },
+    {
+      "word": "uncertainty",
+      "lemma": "uncertainty",
+      "level": "B2",
+      "hebrew": "חוסר ודאות",
+      "explanation_hebrew": "מצב שבו לא יודעים מה יקרה",
+      "pronunciation_hebrew": "אַנְסֶרְטֶנְטִי",
+      "example": "There is so much uncertainty."
+    },
+    {
+      "word": "authorities",
+      "lemma": "authority",
+      "level": "B2",
+      "hebrew": "רשויות",
+      "explanation_hebrew": "גופים בעלי סמכות רשמית",
+      "pronunciation_hebrew": "אוֹתוֹרִיטִיז",
+      "example": "Authorities took DNA samples."
+    },
+    {
+      "word": "staggering",
+      "lemma": "staggering",
+      "level": "C1",
+      "hebrew": "עצום",
+      "explanation_hebrew": "גדול או מפתיע במידה קיצונית",
+      "pronunciation_hebrew": "סְטַגֶרִינְג",
+      "example": "The damage was staggering."
+    },
+    {
+      "word": "bustling",
+      "lemma": "bustling",
+      "level": "C1",
+      "hebrew": "הומה",
+      "explanation_hebrew": "מלא תנועה, רעש ופעילות",
+      "pronunciation_hebrew": "בַּאסְלִינְג",
+      "example": "There was no sign of its bustling market."
+    },
+    {
+      "word": "straddles",
+      "lemma": "straddle",
+      "level": "C2",
+      "hebrew": "משתרע על פני",
+      "explanation_hebrew": "נמצא על שני צדדים או אזורים",
+      "pronunciation_hebrew": "סְטְרַדְלְס",
+      "example": "The village straddles two districts."
+    },
+    {
+      "word": "resolve",
+      "lemma": "resolve",
+      "level": "B2",
+      "hebrew": "לפתור",
+      "explanation_hebrew": "למצוא פתרון לבעיה",
+      "pronunciation_hebrew": "רִיזוֹלְב",
+      "example": "They urged the government to resolve the issue."
+    },
+    {
+      "word": "entitled",
+      "lemma": "entitled",
+      "level": "C1",
+      "hebrew": "זכאי",
+      "explanation_hebrew": "בעל זכות לקבל משהו",
+      "pronunciation_hebrew": "אֶנְטַייטֶלְד",
+      "example": "Families are entitled to funds."
+    },
+    {
+      "word": "liabilities",
+      "lemma": "liability",
+      "level": "C1",
+      "hebrew": "התחייבויות",
+      "explanation_hebrew": "חובות או אחריות משפטית",
+      "pronunciation_hebrew": "לַייאַבִּילִיטִיז",
+      "example": "Officials want to avoid future liabilities."
+    },
+    {
+      "word": "amend",
+      "lemma": "amend",
+      "level": "C1",
+      "hebrew": "לתקן חוק",
+      "explanation_hebrew": "לשנות או לתקן טקסט רשמי או חוק",
+      "pronunciation_hebrew": "אַמֶנְד",
+      "example": "The government is ready to amend the law."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פגיע",
+      "explanation_hebrew": "חשוף לסכנה או לפגיעה",
+      "pronunciation_hebrew": "וַלְנֶרַבְּל",
+      "example": "Nepal is one of the most vulnerable countries."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "honouring",
+      "type": "english_to_hebrew",
+      "question": "What does “honouring” mean?",
+      "options": [
+        "לחלוק כבוד",
+        "קדוש",
+        "שכול",
+        "מניחים ש-"
+      ],
+      "correct_answer": "לחלוק כבוד",
+      "explanation_hebrew": "“honouring” פירושו בעברית הוא “לחלוק כבוד”."
+    },
+    {
+      "id": "C-q2",
+      "word": "effigy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בובה סמלית”?",
+      "options": [
+        "effigy",
+        "provision",
+        "onslaught",
+        "administrative"
+      ],
+      "correct_answer": "effigy",
+      "explanation_hebrew": "המילה “effigy” פירושה “בובה סמלית”."
+    },
+    {
+      "id": "C-q3",
+      "word": "sacred",
+      "type": "english_to_hebrew",
+      "question": "What does “sacred” mean?",
+      "options": [
+        "קדוש",
+        "פיצוי",
+        "מיושן",
+        "מניחים ש-"
+      ],
+      "correct_answer": "קדוש",
+      "explanation_hebrew": "“sacred” פירושו בעברית הוא “קדוש”."
+    },
+    {
+      "id": "C-q4",
+      "word": "onslaught",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שטף עז”?",
+      "options": [
+        "provision",
+        "onslaught",
+        "inheritance",
+        "constitutional"
+      ],
+      "correct_answer": "onslaught",
+      "explanation_hebrew": "המילה “onslaught” פירושה “שטף עז”."
+    },
+    {
+      "id": "C-q5",
+      "word": "presumed",
+      "type": "english_to_hebrew",
+      "question": "What does “presumed” mean?",
+      "options": [
+        "שכול",
+        "מניחים ש-",
+        "פיצוי",
+        "הרסני"
+      ],
+      "correct_answer": "מניחים ש-",
+      "explanation_hebrew": "“presumed” פירושו בעברית הוא “מניחים ש-”."
+    },
+    {
+      "id": "C-q6",
+      "word": "provision",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סעיף”?",
+      "options": [
+        "navigate",
+        "provision",
+        "administrative",
+        "inheritance"
+      ],
+      "correct_answer": "provision",
+      "explanation_hebrew": "המילה “provision” פירושה “סעיף”."
+    },
+    {
+      "id": "C-q7",
+      "word": "compensation",
+      "type": "english_to_hebrew",
+      "question": "What does “compensation” mean?",
+      "options": [
+        "פיצוי",
+        "רשות מקומית",
+        "מיושן",
+        "שכול"
+      ],
+      "correct_answer": "פיצוי",
+      "explanation_hebrew": "“compensation” פירושו בעברית הוא “פיצוי”."
+    },
+    {
+      "id": "C-q8",
+      "word": "inheritance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ירושה”?",
+      "options": [
+        "administrative",
+        "constitutional",
+        "uncertainty",
+        "inheritance"
+      ],
+      "correct_answer": "inheritance",
+      "explanation_hebrew": "המילה “inheritance” פירושה “ירושה”."
+    },
+    {
+      "id": "C-q9",
+      "word": "bereavement",
+      "type": "english_to_hebrew",
+      "question": "What does “bereavement” mean?",
+      "options": [
+        "שכול",
+        "מיושן",
+        "רשויות",
+        "הרסני"
+      ],
+      "correct_answer": "שכול",
+      "explanation_hebrew": "“bereavement” פירושו בעברית הוא “שכול”."
+    },
+    {
+      "id": "C-q10",
+      "word": "administrative",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מנהלי”?",
+      "options": [
+        "constitutional",
+        "staggering",
+        "navigate",
+        "administrative"
+      ],
+      "correct_answer": "administrative",
+      "explanation_hebrew": "המילה “administrative” פירושה “מנהלי”."
+    },
+    {
+      "id": "C-q11",
+      "word": "outdated",
+      "type": "english_to_hebrew",
+      "question": "What does “outdated” mean?",
+      "options": [
+        "הרסני",
+        "הומה",
+        "מיושן",
+        "רשות מקומית"
+      ],
+      "correct_answer": "מיושן",
+      "explanation_hebrew": "“outdated” פירושו בעברית הוא “מיושן”."
+    },
+    {
+      "id": "C-q12",
+      "word": "constitutional",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חוקתי”?",
+      "options": [
+        "uncertainty",
+        "straddles",
+        "navigate",
+        "constitutional"
+      ],
+      "correct_answer": "constitutional",
+      "explanation_hebrew": "המילה “constitutional” פירושה “חוקתי”."
+    },
+    {
+      "id": "C-q13",
+      "word": "devastating",
+      "type": "english_to_hebrew",
+      "question": "What does “devastating” mean?",
+      "options": [
+        "הרסני",
+        "רשויות",
+        "לפתור",
+        "רשות מקומית"
+      ],
+      "correct_answer": "הרסני",
+      "explanation_hebrew": "“devastating” פירושו בעברית הוא “הרסני”."
+    },
+    {
+      "id": "C-q14",
+      "word": "navigate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “להתמודד”?",
+      "options": [
+        "entitled",
+        "navigate",
+        "uncertainty",
+        "staggering"
+      ],
+      "correct_answer": "navigate",
+      "explanation_hebrew": "המילה “navigate” פירושה “להתמודד”."
+    },
+    {
+      "id": "C-q15",
+      "word": "municipality",
+      "type": "english_to_hebrew",
+      "question": "What does “municipality” mean?",
+      "options": [
+        "התחייבויות",
+        "רשות מקומית",
+        "הומה",
+        "רשויות"
+      ],
+      "correct_answer": "רשות מקומית",
+      "explanation_hebrew": "“municipality” פירושו בעברית הוא “רשות מקומית”."
+    },
+    {
+      "id": "C-q16",
+      "word": "uncertainty",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חוסר ודאות”?",
+      "options": [
+        "amend",
+        "staggering",
+        "uncertainty",
+        "straddles"
+      ],
+      "correct_answer": "uncertainty",
+      "explanation_hebrew": "המילה “uncertainty” פירושה “חוסר ודאות”."
+    },
+    {
+      "id": "C-q17",
+      "word": "authorities",
+      "type": "english_to_hebrew",
+      "question": "What does “authorities” mean?",
+      "options": [
+        "רשויות",
+        "לפתור",
+        "הומה",
+        "פגיע"
+      ],
+      "correct_answer": "רשויות",
+      "explanation_hebrew": "“authorities” פירושו בעברית הוא “רשויות”."
+    },
+    {
+      "id": "C-q18",
+      "word": "staggering",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עצום”?",
+      "options": [
+        "staggering",
+        "straddles",
+        "honouring",
+        "entitled"
+      ],
+      "correct_answer": "staggering",
+      "explanation_hebrew": "המילה “staggering” פירושה “עצום”."
+    },
+    {
+      "id": "C-q19",
+      "word": "bustling",
+      "type": "english_to_hebrew",
+      "question": "What does “bustling” mean?",
+      "options": [
+        "התחייבויות",
+        "בובה סמלית",
+        "הומה",
+        "לפתור"
+      ],
+      "correct_answer": "הומה",
+      "explanation_hebrew": "“bustling” פירושו בעברית הוא “הומה”."
+    },
+    {
+      "id": "C-q20",
+      "word": "straddles",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “משתרע על פני”?",
+      "options": [
+        "straddles",
+        "sacred",
+        "entitled",
+        "amend"
+      ],
+      "correct_answer": "straddles",
+      "explanation_hebrew": "המילה “straddles” פירושה “משתרע על פני”."
+    },
+    {
+      "id": "C-q21",
+      "word": "resolve",
+      "type": "english_to_hebrew",
+      "question": "What does “resolve” mean?",
+      "options": [
+        "פגיע",
+        "לפתור",
+        "שטף עז",
+        "התחייבויות"
+      ],
+      "correct_answer": "לפתור",
+      "explanation_hebrew": "“resolve” פירושו בעברית הוא “לפתור”."
+    },
+    {
+      "id": "C-q22",
+      "word": "entitled",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זכאי”?",
+      "options": [
+        "honouring",
+        "presumed",
+        "entitled",
+        "amend"
+      ],
+      "correct_answer": "entitled",
+      "explanation_hebrew": "המילה “entitled” פירושה “זכאי”."
+    },
+    {
+      "id": "C-q23",
+      "word": "liabilities",
+      "type": "english_to_hebrew",
+      "question": "What does “liabilities” mean?",
+      "options": [
+        "בובה סמלית",
+        "סעיף",
+        "פגיע",
+        "התחייבויות"
+      ],
+      "correct_answer": "התחייבויות",
+      "explanation_hebrew": "“liabilities” פירושו בעברית הוא “התחייבויות”."
+    },
+    {
+      "id": "C-q24",
+      "word": "amend",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לתקן חוק”?",
+      "options": [
+        "compensation",
+        "amend",
+        "sacred",
+        "honouring"
+      ],
+      "correct_answer": "amend",
+      "explanation_hebrew": "המילה “amend” פירושה “לתקן חוק”."
+    },
+    {
+      "id": "C-q25",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "ירושה",
+        "בובה סמלית",
+        "שטף עז",
+        "פגיע"
+      ],
+      "correct_answer": "פגיע",
+      "explanation_hebrew": "“vulnerable” פירושו בעברית הוא “פגיע”."
+    }
+  ]
+}
