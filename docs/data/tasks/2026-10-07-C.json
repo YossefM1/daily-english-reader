@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-07",
+  "article_id": "C",
+  "article_title": "Nepal floods: Many of those swept away aren't officially dead, leaving families in limbo",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central problem does the article examine?",
+      "difficulty": "C",
+      "options": [
+        "Why Nepal has stopped all traditional funerals after the floods",
+        "Why recovered bodies cannot be buried before DNA testing",
+        "Why flood survivors are refusing government compensation",
+        "How Nepal's 12-year presumption-of-death rule leaves families of missing flood victims without legal and financial closure"
+      ],
+      "correct_answer": "How Nepal's 12-year presumption-of-death rule leaves families of missing flood victims without legal and financial closure",
+      "explanation_hebrew": "הכתבה עוסקת בפער בין הידיעה המעשית שהנעדרים מתו לבין החוק שממתין 12 שנים, ובכך מונע ממשפחות תעודות פטירה, פיצויים וירושה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why do some families make effigies from sacred kusha grass?",
+      "difficulty": "C",
+      "options": [
+        "To represent missing people whose bodies were not recovered and allow last rites",
+        "To mark houses that qualify for reconstruction loans",
+        "To help DNA teams identify buried bodies",
+        "To warn villages about another flood"
+      ],
+      "correct_answer": "To represent missing people whose bodies were not recovered and allow last rites",
+      "explanation_hebrew": "במסורת ההינדית בובת kusha מסמלת את המת כאשר אין גופה, וכך מאפשרת למשפחה לקיים טקסי פרידה."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the headline, what does “in limbo” mean?",
+      "difficulty": "C",
+      "options": [
+        "Living safely in temporary housing",
+        "Waiting for rescue teams to reopen roads",
+        "Stuck in an unresolved and uncertain situation",
+        "Celebrating a religious ceremony"
+      ],
+      "correct_answer": "Stuck in an unresolved and uncertain situation",
+      "explanation_hebrew": "In limbo מתאר מצב לא פתור של המתנה ואי־ודאות: המשפחות אינן מקבלות הכרה משפטית במוות ואינן יכולות להתקדם."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which legal rule is creating difficulty for families of the missing?",
+      "difficulty": "C",
+      "options": [
+        "A body must be identified within 30 days.",
+        "Only a national court may issue any death certificate.",
+        "Compensation is available only to property owners.",
+        "A missing person is normally presumed dead only after 12 years."
+      ],
+      "correct_answer": "A missing person is normally presumed dead only after 12 years.",
+      "explanation_hebrew": "לפי החוק הנפאלי אדם נעדר נחשב מת רק לאחר 12 שנים, ואין בחוק הוראה מתאימה במיוחד לאסון מסוג זה."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are death certificates described as financially vital for the families?",
+      "difficulty": "C",
+      "options": [
+        "They are required to receive compensation and handle property or inheritance matters.",
+        "They guarantee that every destroyed home will be rebuilt immediately.",
+        "They allow relatives to avoid all future debts.",
+        "They replace the need for census estimates of damage."
+      ],
+      "correct_answer": "They are required to receive compensation and handle property or inheritance matters.",
+      "explanation_hebrew": "ללא תעודת פטירה המשפחות אינן יכולות לקבל הוצאות קבורה ופיצויי שכול, וגם העברת נכסים וירושה מתעכבות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “liabilities” mean when officials say legal boundaries are needed to avoid future liabilities?",
+      "difficulty": "C",
+      "options": [
+        "Religious duties owed to flood victims",
+        "Possible future legal or financial responsibilities",
+        "Lists of missing people kept by municipalities",
+        "Loans already repaid by the government"
+      ],
+      "correct_answer": "Possible future legal or financial responsibilities",
+      "explanation_hebrew": "בהקשר זה liabilities הן חבויות או אחריות משפטית וכספית שעלולות להיווצר אם הרשויות יאשרו מקרי מוות ללא בסיס חוקי מספק."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give four figures that show the scale of the disaster and its aftermath.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין ארבעה נתונים מדויקים מן הכתבה, כגון יותר מ־5,000 נעדרים, יותר מ־1,400 גופות שנמצאו, 7,570 מבנים פרטיים שנפגעו, כמעט 33,000 דיירים, נזק של 123 מיליון ליש״ט לרכוש אישי או עלות שיקום של 3.6 מיליארד ליש״ט.",
+      "expected_points": [
+        "More than 5,000 people remain missing.",
+        "More than 1,400 bodies have been recovered.",
+        "7,570 private buildings were damaged or destroyed, housing nearly 33,000 people.",
+        "Personal belongings losses were estimated at £123m across more than 8,300 households.",
+        "The reconstruction bill could reach £3.6bn."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the legal rule turns bereavement into an administrative crisis for families such as Lawat's.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לקשר בין היעדר גופות, כלל 12 השנים, סירוב או עיכוב תעודת הפטירה, והחסימה של פיצויים, ירושה והעברת רכוש.",
+      "expected_points": [
+        "Many bodies have not been recovered, although relatives believe the missing are dead.",
+        "Nepal's general rule waits 12 years before presuming a missing person dead and lacks a clear disaster provision.",
+        "Local officials therefore hesitate or refuse to issue death certificates.",
+        "Without certificates, families cannot access funeral and bereavement payments or settle property and inheritance matters."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does the article connect Nepal's reconstruction needs with climate justice?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שנפאל פולטת מעט גזי חממה אך פגיעה מאוד להתחממות, שהשיקום עולה יותר מ־10% מהתמ״ג, ושמימון באמצעות הלוואות יכביד על כלכלה קטנה; לכן ראש הממשלה מבקש מענקים.",
+      "expected_points": [
+        "Nepal is among the world's lowest greenhouse-gas emitters but is highly vulnerable to global warming.",
+        "Rebuilding may cost more than 10% of national GDP.",
+        "New loans would add debt to a small economy already facing enormous losses.",
+        "The prime minister argues for grant-based international support for climate-driven destruction."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a concise policy recommendation that could help families now while protecting the government from false claims.",
+      "difficulty": "C",
+      "rubric_hebrew": "ההמלצה צריכה להציע מסלול חריג לאסונות: ראיות ועדויות, רישום זמני או חזקת מוות מזורזת, בדיקה מוסמכת וזכות לעדכון, כדי לאפשר סיוע תוך צמצום טעויות וחבויות.",
+      "expected_points": [
+        "Create a disaster-specific expedited process rather than applying the ordinary 12-year wait.",
+        "Require documented evidence such as witness accounts, official missing-person records and available DNA information.",
+        "Allow a reviewable provisional or presumed-death certificate for compensation and estate matters.",
+        "Include safeguards, audits or appeal procedures to reduce false claims and future liability."
+      ]
+    }
+  ]
+}

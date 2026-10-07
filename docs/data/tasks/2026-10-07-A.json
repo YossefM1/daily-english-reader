@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-07",
+  "article_id": "A",
+  "article_title": "Roll-out begins for passport-free UK airport e-gates",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly reporting?",
+      "difficulty": "A",
+      "options": [
+        "UK airports are replacing all Border Force officers with machines.",
+        "A new contactless e-gate system will let arriving passengers pass without showing a passport at the gate.",
+        "East Midlands Airport is closing its immigration hall until 2027.",
+        "Children under eight will be the only travellers allowed to use e-gates."
+      ],
+      "correct_answer": "A new contactless e-gate system will let arriving passengers pass without showing a passport at the gate.",
+      "explanation_hebrew": "הכתבה מדווחת על מערכת e-gate חדשה ללא מגע, שבאמצעות זיהוי פנים מאפשרת לנוסעים נכנסים לעבור בלי להציג את הדרכון בשער."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which airport became the first to offer the new contactless e-gates?",
+      "difficulty": "A",
+      "options": [
+        "Heathrow Airport",
+        "Gatwick Airport",
+        "East Midlands Airport",
+        "Manchester Airport"
+      ],
+      "correct_answer": "East Midlands Airport",
+      "explanation_hebrew": "לפי הכתבה, East Midlands Airport היה נמל התעופה הראשון שהפעיל את הטכנולוגיה החדשה."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “rolled out” mean?",
+      "difficulty": "A",
+      "options": [
+        "Removed after testing",
+        "Introduced gradually in more places",
+        "Moved along the airport floor",
+        "Restricted to one passenger group"
+      ],
+      "correct_answer": "Introduced gradually in more places",
+      "explanation_hebrew": "בהקשר זה rolled out פירושו שהמערכת תושק ותורחב בהדרגה מנמל תעופה אחד לכל נמלי התעופה בבריטניה."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happens if the facial check cannot verify a traveller automatically?",
+      "difficulty": "A",
+      "options": [
+        "The traveller must book a new flight.",
+        "The gate keeps the traveller's passport.",
+        "The traveller is sent back to the departure country immediately.",
+        "The traveller may need to scan a passport or speak to a Border Force officer."
+      ],
+      "correct_answer": "The traveller may need to scan a passport or speak to a Border Force officer.",
+      "explanation_hebrew": "אם נדרשות בדיקות נוספות, הנוסע יצטרך להניח את הדרכון על הקורא או יופנה לקצין Border Force."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the Home Office tell passengers to keep their passports with them?",
+      "difficulty": "A",
+      "options": [
+        "Some travellers may still need the document for extra checks.",
+        "Airports plan to collect passports after every flight.",
+        "The facial technology works only when a passport is held up.",
+        "Passengers must show passports to use airport shops."
+      ],
+      "correct_answer": "Some travellers may still need the document for extra checks.",
+      "explanation_hebrew": "אף שהמעבר אמור להיות ללא הצגת דרכון, המערכת אינה מבטלת בדיקות נוספות; לכן עדיין ייתכן צורך בדרכון."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “robust” mean in the phrase “robust border security”?",
+      "difficulty": "A",
+      "options": [
+        "Temporary and experimental",
+        "Quiet and invisible",
+        "Strong and reliable",
+        "Slow but inexpensive"
+      ],
+      "correct_answer": "Strong and reliable",
+      "explanation_hebrew": "בהקשר של אבטחת גבולות, robust מתאר מערכת חזקה, אמינה ועמידה, לא מערכת חלשה או זמנית."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the three main steps the new e-gate uses to check an arriving passenger.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שהמצלמה מצלמת את פני הנוסע, משווה את התמונה למידע ההגירה, הנסיעה והדרכון, ופותחת את המחסום אוטומטית אם האימות מצליח.",
+      "expected_points": [
+        "The passenger's photograph is taken as they approach the gate.",
+        "The image is checked against immigration, travel and passport information.",
+        "The barrier opens automatically if the passenger is verified."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the expected benefits and the safeguards of the new system.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את המהירות והזרימה המשופרת, לצד המשך הפיקוח של קציני הגבול והאפשרות לבדיקת דרכון או בדיקה אנושית.",
+      "expected_points": [
+        "Testing found the contactless system could be up to 25% faster than passport scanning.",
+        "Airport and government officials expect smoother, faster passenger journeys.",
+        "Border Force officers will continue monitoring the gates and helping travellers.",
+        "Extra checks can still require a passport scan or referral to an officer."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might the changes to the immigration hall and the contactless gates work well together at East Midlands Airport?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר ששינויי האולם משפרים את זרימת הנוסעים, והטכנולוגיה מקצרת את זמן הבדיקה; יחד הם מפחיתים עיכובים תוך שמירה על פיקוח.",
+      "expected_points": [
+        "The immigration-hall changes were designed to improve passenger flow.",
+        "The faster contactless gates can reduce time spent at each checkpoint.",
+        "Together, layout and technology may reduce queues while officers retain oversight."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short airport announcement explaining the new e-gate process to arriving passengers.",
+      "difficulty": "A",
+      "rubric_hebrew": "ההודעה צריכה להיות ברורה ומעשית: להתקרב לשער, להביט במצלמה, להמתין לאימות, לשמור את הדרכון זמין ולפנות לאיש צוות אם מתבקשים.",
+      "expected_points": [
+        "Tell passengers that a photograph will be taken and checked automatically.",
+        "Explain that the barrier opens after successful verification.",
+        "Remind passengers to keep their passports available.",
+        "Mention that staff may request a passport scan or further check."
+      ]
+    }
+  ]
+}

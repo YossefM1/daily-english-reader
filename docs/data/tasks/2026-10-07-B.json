@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-07",
+  "article_id": "B",
+  "article_title": "'That nagging feeling of dread': Is 'hang-xiety' a real thing?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main conclusion about “hang-xiety”?",
+      "difficulty": "B",
+      "options": [
+        "It is only a social-media myth with no physical basis.",
+        "It is caused entirely by embarrassment about messages sent while drinking.",
+        "It is a real anxious state linked to alcohol's effects on the brain, sleep and psychology.",
+        "It affects everyone in direct proportion to the amount they drink."
+      ],
+      "correct_answer": "It is a real anxious state linked to alcohol's effects on the brain, sleep and psychology.",
+      "explanation_hebrew": "הכתבה מסבירה ש־hang-xiety היא תופעה ממשית הנובעת משילוב של שינויים מוחיים, שינה פגועה ופרשנות פסיכולוגית חרדתית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What percentage of hungover students in the 2023 study reported anxiety symptoms?",
+      "difficulty": "B",
+      "options": [
+        "5.0%",
+        "18.3%",
+        "50.0%",
+        "97.0%"
+      ],
+      "correct_answer": "18.3%",
+      "explanation_hebrew": "מחקר מ־2023 בקרב יותר מ־5,000 סטודנטים מצא כי 18.3% דיווחו על תסמיני חרדה בזמן חמרמורת."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “a nagging feeling of dread”, what does “nagging” suggest?",
+      "difficulty": "B",
+      "options": [
+        "A feeling that keeps returning and is difficult to ignore",
+        "A feeling that disappears as soon as someone wakes",
+        "A loud warning from another person",
+        "A pleasant memory of the previous evening"
+      ],
+      "correct_answer": "A feeling that keeps returning and is difficult to ignore",
+      "explanation_hebrew": "Nagging מתאר תחושה מטרידה ומתמשכת שחוזרת שוב ושוב וקשה להתעלם ממנה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does alcohol initially affect GABA and glutamate?",
+      "difficulty": "B",
+      "options": [
+        "It suppresses both chemicals equally.",
+        "It blocks GABA and increases glutamate.",
+        "It has no effect until the following morning.",
+        "It enhances GABA's calming effect and suppresses some glutamate activity."
+      ],
+      "correct_answer": "It enhances GABA's calming effect and suppresses some glutamate activity.",
+      "explanation_hebrew": "האלכוהול מחזק את פעילות GABA, שפועלת כבלם במוח, ומדכא חלק מפעילות הגלוטמט, ולכן נוצרת תחושת רגיעה והפחתת עכבות."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why were shy drinkers especially vulnerable to anxiety the next morning?",
+      "difficulty": "B",
+      "options": [
+        "They drank only water during the study.",
+        "Alcohol reduced their social anxiety temporarily, followed by a stronger rebound as it wore off.",
+        "They slept longer than the sober control group.",
+        "They had no anxiety before drinking."
+      ],
+      "correct_answer": "Alcohol reduced their social anxiety temporarily, followed by a stronger rebound as it wore off.",
+      "explanation_hebrew": "אצל אנשים ביישנים האלכוהול הרגיע זמנית את המתח החברתי, אך עם דעיכת השפעתו נוצרה תגובת rebound חזקה יותר למחרת."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “reframe” mean in the advice to reframe anxious thoughts?",
+      "difficulty": "B",
+      "options": [
+        "Record every detail of the night before",
+        "Prove that the feared event definitely happened",
+        "Interpret the thoughts from a different, less catastrophic perspective",
+        "Ignore all physical symptoms permanently"
+      ],
+      "correct_answer": "Interpret the thoughts from a different, less catastrophic perspective",
+      "explanation_hebrew": "Reframe פירושו לשנות את דרך הפרשנות: לראות בחרדה מצב זמני של הגוף והמוח ולא הוכחה שקרה אסון חברתי."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three reasons why a person may feel more anxious after drinking, according to the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה גורמים נתמכים: rebound במערכת העצבים לאחר שינויי GABA וגלוטמט, שינת REM משובשת, התייבשות או מחסור בשינה, ופרשנות פסיכולוגית של אירועים תמימים כמביכים.",
+      "expected_points": [
+        "The nervous system can rebound towards greater alertness and arousal as alcohol wears off.",
+        "Alcohol disrupts sleep, including REM sleep that supports emotional regulation.",
+        "Dehydration and sleep deprivation reduce the ability to cope with anxious thoughts.",
+        "Ordinary memories may be reinterpreted as embarrassing and feed a worry spiral."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's practical advice for preventing or managing hang-xiety.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לסכם את ההמלצות: להפחית שתייה, לשתות מים ולאכול, לא להשתמש באלכוהול להסוואת מתח, לדבר עם חבר או רופא, ולמסגר מחדש את המחשבות.",
+      "expected_points": [
+        "Moderate alcohol intake rather than relying on a cure afterwards.",
+        "Drink water between alcoholic drinks and eat during the night out.",
+        "Follow the UK guideline of no more than 14 units a week spread across several days.",
+        "Do not use alcohol to manage stress; seek support from a friend or GP if needed.",
+        "Recognise hang-xiety as temporary and reframe catastrophic thoughts."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain how poor sleep can intensify the psychological spiral described in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין שינה קלה ומקוטעת, פגיעה ב־REM ובוויסות רגשי, מוח עייף ותגובתי יותר לדאגה, והזנה הדדית בין דאגה לחשיבה משובשת.",
+      "expected_points": [
+        "Alcohol can make a person fall asleep quickly without giving restorative sleep.",
+        "Disrupted REM sleep weakens emotional regulation.",
+        "A tired, dehydrated brain is more reactive to worry.",
+        "Worry disrupts thinking, which can then generate more worry."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief supportive message to a friend experiencing hang-xiety, using advice from the article without diagnosing them.",
+      "difficulty": "B",
+      "rubric_hebrew": "המסר צריך להיות אמפתי ולא שיפוטי, להזכיר שהתחושה עשויה להיות זמנית, להציע מים, אוכל ומנוחה, ולהמליץ לפנות לחבר קרוב או לרופא אם הקושי נמשך.",
+      "expected_points": [
+        "Acknowledge that the anxious feeling can be real and distressing.",
+        "Suggest practical steps such as water, food, rest and avoiding more alcohol.",
+        "Encourage reframing the fear as a temporary after-effect rather than proof of catastrophe.",
+        "Suggest speaking to a trusted person or GP if the person is struggling."
+      ]
+    }
+  ]
+}
