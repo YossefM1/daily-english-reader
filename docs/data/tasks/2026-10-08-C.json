@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "What independence could mean for oil-rich Alberta's economy",
+  "article_url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly examining?",
+      "difficulty": "C",
+      "options": [
+        "Why Alberta plans to stop producing oil and gas",
+        "How Canada distributes equalisation payments to every province",
+        "The competing economic claims about whether Alberta would gain or lose from independence",
+        "Why Alberta's referendum will immediately make the province independent"
+      ],
+      "correct_answer": "The competing economic claims about whether Alberta would gain or lose from independence",
+      "explanation_hebrew": "הכתבה בוחנת את התחזיות המנוגדות: תומכי העצמאות חוזים חיסכון ועודף, ומתנגדים מזהירים מעלויות, חוב ואי־ודאות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What two choices will Albertans have in the 19 October vote?",
+      "difficulty": "C",
+      "options": [
+        "Remain in Canada or move toward a later binding independence referendum",
+        "Join the United States or remain in Canada",
+        "Approve a constitution or elect a new premier",
+        "End oil exports or increase federal taxes"
+      ],
+      "correct_answer": "Remain in Canada or move toward a later binding independence referendum",
+      "explanation_hebrew": "ההצבעה אינה פרישה מיידית: התושבים יבחרו בין הישארות בקנדה לבין התקדמות למשאל עם מחייב במועד מאוחר יותר."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “windfall” mean when economists question the projected benefits of separation?",
+      "difficulty": "C",
+      "options": [
+        "A permanent fall in oil production",
+        "A legal duty to repay national debt",
+        "A long period of political negotiations",
+        "A large and unexpected financial gain"
+      ],
+      "correct_answer": "A large and unexpected financial gain",
+      "explanation_hebrew": "windfall הוא רווח כספי גדול ובלתי צפוי; הכלכלנים מטילים ספק בכך שהעצמאות תניב רווח כזה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What range did the Alberta government-commissioned report give for separation costs over five years?",
+      "difficulty": "C",
+      "options": [
+        "C$24bn to C$46bn",
+        "C$50bn to C$170bn",
+        "C$258bn to C$333bn",
+        "Exactly C$400bn"
+      ],
+      "correct_answer": "C$50bn to C$170bn",
+      "explanation_hebrew": "הדוח שהזמינה ממשלת אלברטה העריך את עלויות הפרישה בטווח של 50 עד 170 מיליארד דולר קנדי במשך חמש שנים."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could prolonged uncertainty reduce investment in Alberta?",
+      "difficulty": "C",
+      "options": [
+        "Independent Alberta would ban foreign companies.",
+        "Canada would immediately stop buying Alberta's oil.",
+        "Investors may hesitate when future laws, trade arrangements and economic conditions are unclear.",
+        "All provincial infrastructure would have to close during negotiations."
+      ],
+      "correct_answer": "Investors may hesitate when future laws, trade arrangements and economic conditions are unclear.",
+      "explanation_hebrew": "אי־ודאות לגבי מעמד המחוז, הסדרי הסחר והכללים העתידיים מגדילה סיכון ולכן עלולה לגרום למשקיעים לדחות השקעות."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Roughly what share of Albertans say they plan to support moving toward a binding separation referendum?",
+      "difficulty": "C",
+      "options": [
+        "20% to 25%",
+        "About 50%",
+        "More than 75%",
+        "Less than 5%"
+      ],
+      "correct_answer": "20% to 25%",
+      "explanation_hebrew": "לפי סקרי דעת הקהל המובאים בכתבה, כ־20% עד 25% מתושבי אלברטה מתכננים לתמוך בהתקדמות למשאל מחייב."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What new institutions and responsibilities might an independent Alberta have to create or assume?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין לפחות שלושה תחומים: גביית מסים, ביטחון לאומי, חוקה ומערכת משפט, פנסיות, חלוקת נכסים פדרליים וחלק מהחוב הלאומי.",
+      "expected_points": [
+        "Create agencies to administer taxes and national security.",
+        "Develop a constitution and its own legal and court systems.",
+        "Establish pension arrangements.",
+        "Negotiate federal assets such as national parks and military bases.",
+        "Assume a negotiated share of Canada's national debt."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Compare the main economic case for independence with the main economic case against it.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשוות בין הטענה לשמירת מסים והכנסות מנפט ויצירת עודף, לבין העלויות של הקמת מדינה, החוב, הפגיעה במסחר ובהשקעות ואי־הוודאות.",
+      "expected_points": [
+        "Supporters say Alberta could keep more federal tax contributions and resource wealth within the province.",
+        "The Alberta Prosperity Project projects savings and an annual surplus after new national expenses.",
+        "Opponents point to transition costs, a share of national debt and the expense of building state institutions.",
+        "They also warn of lower investment, trade disruption, reduced GDP and prolonged uncertainty."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why do supporters and opponents reach such different estimates of Alberta's post-independence finances?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהצדדים מניחים הנחות שונות לגבי הכנסות שיישארו באלברטה, הוצאות חדשות, חוב, סחר, השקעות ומשך תהליך הפרישה.",
+      "expected_points": [
+        "Supporters emphasise federal taxes and resource revenues that Alberta might retain.",
+        "They estimate that new costs such as defence and diplomacy would still leave a surplus.",
+        "Opponents include large transition costs, debt obligations and possible losses in trade and investment.",
+        "Long-term outcomes depend on uncertain negotiations and investor behaviour."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short briefing for an undecided voter explaining which economic figures should be treated cautiously and why.",
+      "difficulty": "C",
+      "rubric_hebrew": "התדריך צריך להציג נתונים משני הצדדים, להבחין בין תחזית לעובדה, ולהסביר שאי־ודאות לגבי חוב, עלויות מעבר, סחר והשקעות מגבילה את הדיוק.",
+      "expected_points": [
+        "Identify supporters' projected C$24bn–C$46bn annual surplus as an estimate based on assumptions.",
+        "Mention government and think-tank estimates for transition costs and additional debt.",
+        "Explain that future trade, investment and negotiation outcomes are uncertain.",
+        "Advise comparing methodologies and assumptions rather than accepting a single headline number."
+      ]
+    }
+  ]
+}

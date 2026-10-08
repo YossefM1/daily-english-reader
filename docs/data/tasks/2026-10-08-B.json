@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central contrast in the article?",
+      "difficulty": "B",
+      "options": [
+        "OpenAI says teen use is generally brief and protected by new safeguards, while Common Sense Media says the product still poses unacceptable risks.",
+        "Parents want more homework help, while schools want ChatGPT removed from classrooms.",
+        "Teenagers prefer image tools, while adults mainly use text chatbots.",
+        "OpenAI and Common Sense Media agree that all safety tests were successful."
+      ],
+      "correct_answer": "OpenAI says teen use is generally brief and protected by new safeguards, while Common Sense Media says the product still poses unacceptable risks.",
+      "explanation_hebrew": "הכתבה מעמתת בין טענת OpenAI על שימוש קצר וממוקד למידה ומנגנוני בטיחות, לבין מחקר שטוען שהסיכונים עדיין אינם קבילים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to OpenAI, how much time does the average teen spend using ChatGPT each day?",
+      "difficulty": "B",
+      "options": [
+        "About one hour",
+        "More than three hours",
+        "Less than 15 minutes",
+        "Exactly 30 minutes"
+      ],
+      "correct_answer": "Less than 15 minutes",
+      "explanation_hebrew": "OpenAI מסרה שהשימוש היומי הממוצע של בני נוער הוא פחות מ־15 דקות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What are “guardrails” in the context of the article?",
+      "difficulty": "B",
+      "options": [
+        "Legal cases filed against a technology company",
+        "Safety limits and protections built into the chatbot",
+        "Reports measuring how long teenagers study",
+        "Messages that encourage users to continue chatting"
+      ],
+      "correct_answer": "Safety limits and protections built into the chatbot",
+      "explanation_hebrew": "guardrails הם מנגנוני הגנה והגבלות שנועדו לצמצם תגובות או דפוסי שימוש מסוכנים."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened when Common Sense Media tested hour-long sensitive conversations on newly linked parent-teen accounts?",
+      "difficulty": "B",
+      "options": [
+        "Every conversation produced an immediate police report.",
+        "The chatbot ended all conversations after 15 minutes.",
+        "Parents received several alerts about each topic.",
+        "Parents received no alerts during those tests."
+      ],
+      "correct_answer": "Parents received no alerts during those tests.",
+      "explanation_hebrew": "לפי המחקר, שיחות רגישות שנמשכו שעה בחשבונות חדשים המקושרים להורים לא יצרו אף התראה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did OpenAI question whether Common Sense Media's alert test reflected normal product use?",
+      "difficulty": "B",
+      "options": [
+        "The researchers tested only adult accounts.",
+        "The tests may have begun and ended before the parental controls had fully activated.",
+        "The researchers used a different chatbot made by another company.",
+        "The test conversations did not include any sensitive subjects."
+      ],
+      "correct_answer": "The tests may have begun and ended before the parental controls had fully activated.",
+      "explanation_hebrew": "OpenAI טענה שהבדיקה עלולה הייתה להסתיים לפני שהבקרות ההוריות הופעלו במלואן, ולכן לדעתה המתודולוגיה לא שיקפה שימוש אמיתי."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which safety weakness did Common Sense Media report?",
+      "difficulty": "B",
+      "options": [
+        "ChatGPT did not reliably recommend a crisis hotline or professional help.",
+        "ChatGPT refused to help with any schoolwork.",
+        "The chatbot sent too many alerts about ordinary homework.",
+        "The system allowed teens to disable every safety feature."
+      ],
+      "correct_answer": "ChatGPT did not reliably recommend a crisis hotline or professional help.",
+      "explanation_hebrew": "המחקר מצא שבשיחות מסוכנות המערכת לא הפנתה באופן עקבי לקו סיוע או לעזרה מקצועית."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List three protections OpenAI says are included in the teen experience.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה מנגנונים ספציפיים, כגון הגבלת שפה רומנטית או תלותית, חסימת תמונות מיניות, תזכורות הפסקה, והתרעות להורים בחשבונות מקושרים.",
+      "expected_points": [
+        "The system limits romantic or emotionally dependent language and claims of consciousness.",
+        "It blocks sexualised imagery and warns about sensitive images.",
+        "It gives break reminders during long sessions.",
+        "Linked parents can receive notifications about discussions of self-harm or disordered eating."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence each side uses to support its assessment of teen safety.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך להציג את נתוני OpenAI על שימוש קצר, הפסקות ולמידה, ואת ממצאי Common Sense Media על כשלי התראות, תגובות לסיכון ושפה אנתרופומורפית.",
+      "expected_points": [
+        "OpenAI points to average use under 15 minutes, quick responses to break reminders and mostly learning-related prompts during long sessions.",
+        "OpenAI also highlights teen-specific content limits and parental notifications.",
+        "Common Sense Media found that important safeguards failed in suicide, self-harm and disordered-eating scenarios.",
+        "Its tests also found missed parent alerts and continuing friend-like or anthropomorphic language."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might missed parental alerts create “false confidence”, as Tom Siegel argues?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שהורים עלולים להניח שהיעדר התראה פירושו שאין סיכון, אף שבפועל השיחה הרגישה לא זוהתה או לא דווחה.",
+      "expected_points": [
+        "Parents may believe the system will always warn them about dangerous conversations.",
+        "A missing alert can be mistaken for evidence that no problem exists.",
+        "The tests showed that some sensitive conversations produced no notification.",
+        "That gap could delay human support when it is needed."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced recommendation to a parent deciding whether a teenager should use ChatGPT.",
+      "difficulty": "B",
+      "rubric_hebrew": "ההמלצה צריכה לשקף גם את כלי הבטיחות והשימוש הלימודי וגם את מגבלותיהם, ולהציע פיקוח אנושי ושיחה פתוחה במקום הסתמכות מלאה על התרעות.",
+      "expected_points": [
+        "Mention possible learning benefits and the fact that average reported use is brief.",
+        "Acknowledge the teen safeguards and parental-control features.",
+        "Explain that independent testing found serious gaps in alerts and crisis responses.",
+        "Recommend active parental supervision and access to qualified human help for sensitive issues."
+      ]
+    }
+  ]
+}

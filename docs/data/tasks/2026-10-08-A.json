@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Chinese runner dropped by sponsor after riding bike in marathon",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A marathon introduced bicycles for runners who became unwell.",
+        "A Chinese fitness influencer lost a sponsorship after admitting she used a bicycle during the Berlin Marathon.",
+        "A sports brand cancelled all of its contracts with online influencers.",
+        "Berlin Marathon organisers changed the route after incorrect split times."
+      ],
+      "correct_answer": "A Chinese fitness influencer lost a sponsorship after admitting she used a bicycle during the Berlin Marathon.",
+      "explanation_hebrew": "הכתבה עוסקת בסון יואניואן, שהודתה כי רכבה על אופניים במהלך מרתון ברלין ובעקבות זאת איבדה את החסות של Brooks."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which company ended its sponsorship deal with Sun Yuanyuan?",
+      "difficulty": "A",
+      "options": [
+        "OMTIU",
+        "Rednote",
+        "Brooks",
+        "Berlin Marathon"
+      ],
+      "correct_answer": "Brooks",
+      "explanation_hebrew": "חברת נעלי הריצה Brooks הודיעה שסיימה את ההתקשרות עם סון לאחר שבדקה את העובדות."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In Brooks's statement, what does “integrity” most nearly mean?",
+      "difficulty": "A",
+      "options": [
+        "The ability to run very fast",
+        "The popularity of a sports brand",
+        "The accuracy of a GPS device",
+        "Honest behaviour and strong moral principles"
+      ],
+      "correct_answer": "Honest behaviour and strong moral principles",
+      "explanation_hebrew": "בהקשר של ערכי ספורט כמו הוגנות וכבוד, integrity פירושו יושר והתנהגות מוסרית."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What evidence did the monitoring account OMTIU publish?",
+      "difficulty": "A",
+      "options": [
+        "A photograph that appeared to show Sun on a bicycle between 35km and 40km",
+        "A video of Sun leaving the race before the start",
+        "A statement from Brooks approving the shortcut",
+        "A GPS record showing she completed an extra five kilometres"
+      ],
+      "correct_answer": "A photograph that appeared to show Sun on a bicycle between 35km and 40km",
+      "explanation_hebrew": "OMTIU פרסם תמונה שנראתה כמציגה את סון על אופניים בקטע שבין 35 ל־40 קילומטר."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did Sun's unusually fast 35km-to-40km split raise suspicion?",
+      "difficulty": "A",
+      "options": [
+        "It showed that she had started the race too slowly.",
+        "It proved that the official course was shorter than advertised.",
+        "It matched the part of the course where she appeared to use a bicycle.",
+        "It meant that all her earlier split times were missing."
+      ],
+      "correct_answer": "It matched the part of the course where she appeared to use a bicycle.",
+      "explanation_hebrew": "ההאצה החריגה התרחשה באותו קטע שבו התמונה הצביעה לכאורה על שימוש באופניים, ולכן חיזקה את החשד לקיצור דרך."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “concealed” mean when Sun said she deliberately concealed what she had done?",
+      "difficulty": "A",
+      "options": [
+        "Repeated publicly",
+        "Kept hidden",
+        "Explained clearly",
+        "Forgot completely"
+      ],
+      "correct_answer": "Kept hidden",
+      "explanation_hebrew": "concealed פירושו הסתירה או שמרה בסוד; סון הודתה שלא גילתה בכוונה את השימוש באופניים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What consequences did Sun face after the incident became public?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין לפחות שתי תוצאות מרכזיות: פסילת זמן הסיום שלה, סיום החסות של Brooks, והביקורת הציבורית שבעקבות החשיפה.",
+      "expected_points": [
+        "Berlin Marathon organisers disqualified her finishing time.",
+        "Brooks terminated its sponsorship agreement with her.",
+        "She faced public criticism after the evidence and her admission were shared online."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the suspected rule-breaking was discovered and confirmed.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לקשר בין פרסום התמונה וה־splits על ידי OMTIU, הודאתה של סון, ותגובות המארגנים והספונסר.",
+      "expected_points": [
+        "OMTIU highlighted a photograph and an unusually fast split between 35km and 40km.",
+        "Sun admitted on Rednote that she had used a bicycle and hidden it.",
+        "The race organisers disqualified her result.",
+        "Brooks verified the facts and ended the sponsorship."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why would an athletics sponsor treat this incident as a serious breach rather than a minor mistake?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהשימוש באופניים העניק יתרון לא הוגן, הוסתר בכוונה, ופגע באמינות התוצאה ובערכי היושר, ההוגנות והכבוד של הספורט.",
+      "expected_points": [
+        "Using a bicycle gave an unfair advantage in a running event.",
+        "Sun said she deliberately hid the rule-breaking.",
+        "The conduct undermined trust in the result and in the athlete's public claims.",
+        "Brooks explicitly linked its decision to integrity, fairness and respect."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short statement Sun could give to runners that accepts responsibility without making excuses.",
+      "difficulty": "A",
+      "rubric_hebrew": "התגובה צריכה לכלול הודאה ברורה, הכרה בפגיעה בהוגנות, התנצלות וקבלה של ההשלכות, בלי להצדיק את המעשה בשל מצבה הגופני.",
+      "expected_points": [
+        "Admit using the bicycle and hiding the action.",
+        "Acknowledge that feeling unwell did not justify breaking the rules.",
+        "Apologise for disrespecting other runners and the sport.",
+        "Accept the disqualification and sponsorship consequences."
+      ]
+    }
+  ]
+}
