@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-09",
+  "article_id": "C",
+  "article_title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly examining?",
+      "difficulty": "C",
+      "options": [
+        "Why Madrid plans to ban all private renting",
+        "How one investment company controls most Spanish homes",
+        "Competing explanations for Spain's housing crisis, including investor behaviour, supply shortages, tourism and weak purchasing power",
+        "Why rural Spain has no empty properties"
+      ],
+      "correct_answer": "Competing explanations for Spain's housing crisis, including investor behaviour, supply shortages, tourism and weak purchasing power",
+      "explanation_hebrew": "הכתבה מציגה את טענות המפגינים נגד קרנות ובעלי דירות, לצד נתונים המדגישים מחסור בהיצע, שינוי דמוגרפי, תיירות מקומית ושכר מפגר."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to the article, what happened after Congress rejected Pedro Sánchez's emergency housing reforms?",
+      "difficulty": "C",
+      "options": [
+        "Sánchez called a snap election for the following month.",
+        "The Bank of Spain bought empty homes.",
+        "All short-term tourist accommodation was banned.",
+        "The protesters ended their camp in Puerta del Sol."
+      ],
+      "correct_answer": "Sánchez called a snap election for the following month.",
+      "explanation_hebrew": "דחיית חבילת הצעדים בקונגרס הובילה את ראש הממשלה פדרו סנצ׳ס להכריז על בחירות בזק בחודש שלאחר מכן."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “vulture funds” imply in the protesters' use of the term?",
+      "difficulty": "C",
+      "options": [
+        "Public charities that build affordable homes",
+        "Small family landlords living in rural areas",
+        "Funds accused of exploiting distress or scarcity to make large profits",
+        "Banks that offer low-interest mortgages"
+      ],
+      "correct_answer": "Funds accused of exploiting distress or scarcity to make large profits",
+      "explanation_hebrew": "המונח הטעון vulture funds מתאר בעיני המפגינים קרנות שמנצלות מצוקה ומחסור בדיור כדי להעלות מחירים ולהרוויח."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does Jorge Galindo identify as the main cause of rising rents?",
+      "difficulty": "C",
+      "options": [
+        "A nationwide concentration of rental homes in one company",
+        "A shortage of housing supply compared with demand",
+        "The existence of 3.8 million empty urban apartments",
+        "A fall in the number of households since 2021"
+      ],
+      "correct_answer": "A shortage of housing supply compared with demand",
+      "explanation_hebrew": "גלינדו אומר שהגורם המרכזי הוא מחסור בהיצע ביחס לביקוש, ולא ריכוז ניכר של נכסי שכירות בידי מספר קטן של חברות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do the 3.8 million empty properties not necessarily solve the housing shortage in Spain's cities?",
+      "difficulty": "C",
+      "options": [
+        "Most empty homes are already owned by protesters.",
+        "Spanish law requires every empty home to be demolished.",
+        "They are all being used as tourist accommodation.",
+        "Many are in depopulated rural areas, need renovation or are tied up in inheritance disputes."
+      ],
+      "correct_answer": "Many are in depopulated rural areas, need renovation or are tied up in inheritance disputes.",
+      "explanation_hebrew": "מספר כולל של נכסים ריקים אינו משקף זמינות בערים: רבים נמצאים באזורים כפריים, דורשים שיפוץ או נתונים במחלוקות משפטיות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “shortfall” mean in the estimate of 750,000 homes?",
+      "difficulty": "C",
+      "options": [
+        "A lack or deficit compared with what is needed",
+        "A sudden increase in construction costs",
+        "A tax imposed on property owners",
+        "A transfer of homes to public ownership"
+      ],
+      "correct_answer": "A lack or deficit compared with what is needed",
+      "explanation_hebrew": "shortfall פירושו מחסור או פער בין הכמות הדרושה לבין הכמות הקיימת; הבנק מעריך שחסרות כ־750 אלף דירות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What evidence does the article give that housing demand has grown faster than supply since 2021?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שנוספו כ־1.2 מיליון משקי בית בין 2021 ל־2025, בין היתר עקב הגירה, בעוד שנבנו פחות מחצי מיליון בתים.",
+      "expected_points": [
+        "About 1.2 million new households were formed between 2021 and 2025.",
+        "Migration was an important driver of household growth and recent economic expansion.",
+        "Fewer than 500,000 new homes were built during the same period.",
+        "Construction capacity, material costs and legal obstacles limited supply."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the protesters' diagnosis of the crisis and the data-based counterargument presented by Galindo.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך להשוות בין הטענה שקרנות, בעלי דירות ו־Airbnb מנצלים מחסור ומעלים שכר דירה, לבין נתוני בעלות החברות והפער המבני בין היצע לביקוש.",
+      "expected_points": [
+        "Protesters blame landlords, investment funds and short-term rentals for treating housing as a speculative business.",
+        "They point to rent hikes, empty homes and Maricarmen Abascal's eviction as evidence of abusive practices.",
+        "Galindo notes that companies own only about 8% of rented properties and says ownership is not highly concentrated.",
+        "He and the Bank of Spain emphasise a large supply shortfall caused by household growth outpacing construction."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might short-term tourist accommodation raise prices sharply in some places without being the main national cause of Spain's housing crisis?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהמרת דירות לתיירות מפחיתה היצע מקומי באזורים מבוקשים, אך השפעתה מרוכזת בערים ואתרי תיירות ואינה מסבירה לבדה את המחסור הארצי.",
+      "expected_points": [
+        "Tourist rentals can remove homes from the long-term market in popular neighbourhoods.",
+        "That local reduction in supply can raise rents in specific urban or tourist areas.",
+        "The scale of short-term accommodation varies greatly across Spain.",
+        "National data also point to broader household growth, weak construction and lagging wages."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief policy recommendation that addresses both housing supply and the immediate pressure on renters.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע שילוב מאוזן: האצת בנייה ושיפוץ באזורים נדרשים, טיפול בחסמים, הגנה זמנית על שוכרים, מדיניות ממוקדת לדיור תיירותי ותמריצים להחזרת דירות לשוק.",
+      "expected_points": [
+        "Increase construction and renovation where demand is highest.",
+        "Reduce legal and planning barriers while maintaining safety and quality standards.",
+        "Use targeted renter protections or assistance for households facing severe rent burdens.",
+        "Regulate short-term rentals according to local conditions and encourage usable empty homes back into the market.",
+        "Recognise that lagging real incomes also affect affordability."
+      ]
+    }
+  ]
+}

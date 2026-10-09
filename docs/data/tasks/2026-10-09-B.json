@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-09",
+  "article_id": "B",
+  "article_title": "White House blocks Microsoft from foreign worker hiring program",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central dispute described in the article?",
+      "difficulty": "B",
+      "options": [
+        "The White House has blocked Microsoft and seven other firms from new or pending PERM applications after accusing them of abusing foreign-worker programs, while Microsoft disputes the claims.",
+        "Microsoft has decided to stop hiring all US workers and move its headquarters abroad.",
+        "US technology firms are asking Congress to abolish every skilled-worker visa.",
+        "The government has awarded Microsoft a new contract to process visa applications."
+      ],
+      "correct_answer": "The White House has blocked Microsoft and seven other firms from new or pending PERM applications after accusing them of abusing foreign-worker programs, while Microsoft disputes the claims.",
+      "explanation_hebrew": "הכתבה מתארת חסימה ממשלתית של בקשות PERM בעקבות האשמות לניצול התוכניות, מול תגובת Microsoft שמכחישה החלפה או שכר נמוך."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What action did the US government announce against Microsoft and the seven other companies?",
+      "difficulty": "B",
+      "options": [
+        "It cancelled all of their existing H1b visas.",
+        "It ordered them to rehire every laid-off worker.",
+        "It stopped processing their new and pending PERM applications.",
+        "It prohibited them from operating outside the US."
+      ],
+      "correct_answer": "It stopped processing their new and pending PERM applications.",
+      "explanation_hebrew": "שר העבודה הודיע שהממשלה לא תטפל בבקשות PERM חדשות או תלויות ועומדות של שמונה החברות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “barred” mean in the headline and opening paragraph?",
+      "difficulty": "B",
+      "options": [
+        "Praised publicly",
+        "Prevented or officially prohibited",
+        "Asked to provide evidence",
+        "Paid additional compensation"
+      ],
+      "correct_answer": "Prevented or officially prohibited",
+      "explanation_hebrew": "barred פירושו נחסם או נאסר באופן רשמי; החברות מנועות כרגע משימוש במסלול המתואר."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Microsoft respond to the claim that it was replacing US employees with cheaper foreign workers?",
+      "difficulty": "B",
+      "options": [
+        "It said every H1b filing was for a new employee.",
+        "It admitted foreign workers receive lower salaries.",
+        "It said it had filed no visa applications that year.",
+        "It said 80% of its H1b filings involved existing employees and that international hires receive the same compensation as US workers."
+      ],
+      "correct_answer": "It said 80% of its H1b filings involved existing employees and that international hires receive the same compensation as US workers.",
+      "explanation_hebrew": "Microsoft השיבה שרוב הבקשות נגעו לעובדים קיימים ושעובדים בינלאומיים מקבלים שכר באותה רמה כמו עובדים אמריקאים."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article mention that Satya Nadella received a technology medal at the White House on the same day?",
+      "difficulty": "B",
+      "options": [
+        "To prove Microsoft had already won its visa case",
+        "To show that Nadella controls the Department of Labor",
+        "To highlight the contrast between official praise for Microsoft's technology and sharp criticism of its hiring practices",
+        "To explain why Microsoft stopped paying foreign workers"
+      ],
+      "correct_answer": "To highlight the contrast between official praise for Microsoft's technology and sharp criticism of its hiring practices",
+      "explanation_hebrew": "האזכור מדגיש ניגוד: הבית הלבן כיבד את מנכ״ל Microsoft על חדשנות ובאותו יום תקף בחריפות את מדיניות ההעסקה של החברה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what is a “pathway” to permanent residence?",
+      "difficulty": "B",
+      "options": [
+        "A route or process that can lead to permanent status",
+        "A temporary salary reduction",
+        "A numerical limit on yearly visas",
+        "A conference for technology executives"
+      ],
+      "correct_answer": "A route or process that can lead to permanent status",
+      "explanation_hebrew": "pathway פירושו מסלול או תהליך; תוכנית PERM יכולה להוביל לגרין קארד ולשהייה קבועה בארה״ב."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain the relationship between the H1b and PERM programs as described in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר ש־H1b מיועדת לעובדים מיומנים או מתמחים ונחשבת שלב מקדים אפשרי, ואילו PERM הוא מסלול לתושבות קבע ולעיתים לגרין קארד.",
+      "expected_points": [
+        "The H1b program allows companies to employ highly skilled or specialised international workers.",
+        "The annual number of H1b visas is capped at 85,000.",
+        "H1b status can be a precursor for workers seeking the PERM process.",
+        "PERM can lead to permanent US residence and often a Green Card."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence used by JD Vance and the counter-evidence offered by Microsoft.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את ההשוואה בין כ־6,000 פיטורים ל־6,800 בקשות H1b, ואת תשובת Microsoft לגבי 80% עובדים קיימים, שכר שווה ורוב עובדים אמריקאים.",
+      "expected_points": [
+        "Vance linked about 6,000 layoffs with 6,800 H1b applications during a similar period.",
+        "He argued this showed foreign workers were replacing domestic workers and undercutting wages.",
+        "Microsoft said 80% of its recent H1b filings were for people already employed by the company.",
+        "Microsoft said foreign hires receive the same compensation as US workers and that most US employees are American."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might the proposed removal of the 60-day grace period make sponsored workers more dependent on their employers?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שכיום לעובד שפוטר יש 60 יום לחפש פתרון, והסרת התקופה עלולה לחייב יציאה מיידית יותר מארה״ב ולהגדיל את תלותו במעסיק נותן החסות.",
+      "expected_points": [
+        "A sponsored worker may have to leave the US after losing the sponsoring job.",
+        "The current 60-day period gives some time to seek another lawful option.",
+        "Removing it would reduce the time available after dismissal or layoff.",
+        "That consequence could increase the worker's dependence on the sponsoring employer."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced policy note identifying what evidence would help assess whether skilled-worker visas replace US workers or fill genuine shortages.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע נתונים על סוג המשרות, עובדים קיימים לעומת חדשים, פיטורים וגיוסים, שכר, מחסור בכישורים וההשוואה לעובדים מקומיים, בלי לאמץ אוטומטית צד אחד.",
+      "expected_points": [
+        "Separate applications for existing workers from those for new hires.",
+        "Compare layoffs and visa hiring by role, location and time rather than only total numbers.",
+        "Examine whether qualified domestic applicants were available for the specialised jobs.",
+        "Compare wages and compensation for international and US workers in equivalent roles."
+      ]
+    }
+  ]
+}

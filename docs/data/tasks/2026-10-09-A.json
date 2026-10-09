@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-09",
+  "article_id": "A",
+  "article_title": "Adidas sues Australian label White Fox over four stripes design",
+  "article_url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "White Fox is buying Adidas stores in Australia.",
+        "Adidas is suing White Fox over clothing designs with four stripes that it says resemble its trademark.",
+        "Australian courts have banned all advertising by fashion influencers.",
+        "Adidas is launching a new four-stripe logo for younger shoppers."
+      ],
+      "correct_answer": "Adidas is suing White Fox over clothing designs with four stripes that it says resemble its trademark.",
+      "explanation_hebrew": "הכתבה עוסקת בתביעה של Adidas נגד White Fox בטענה שעיצוב ארבעת הפסים דומה באופן מטעה לסימן המסחר שלה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Since when does Adidas say it has repeatedly asked White Fox to stop selling and promoting the disputed clothes?",
+      "difficulty": "A",
+      "options": [
+        "Since 2013",
+        "Since June 2025",
+        "Since March",
+        "Since Friday"
+      ],
+      "correct_answer": "Since March",
+      "explanation_hebrew": "לפי Adidas, החברה ביקשה שוב ושוב מ־White Fox להפסיק את המכירה והפרסום מאז חודש מרץ."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “deceptively similar”, what does “deceptively” suggest?",
+      "difficulty": "A",
+      "options": [
+        "The designs are made in different countries.",
+        "The similarity is easy for every buyer to ignore.",
+        "The products are sold only online.",
+        "The similarity could mislead people into thinking the brands are connected."
+      ],
+      "correct_answer": "The similarity could mislead people into thinking the brands are connected.",
+      "explanation_hebrew": "deceptively מציין דמיון שעלול להטעות צרכנים ולגרום להם לחשוב שיש קשר או אישור בין המותגים."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What feature of the White Fox design does Adidas describe in its court documents?",
+      "difficulty": "A",
+      "options": [
+        "Four parallel stripes of equal width",
+        "Three curved stripes of different colours",
+        "A single stripe across each sleeve",
+        "Five stripes placed only on shoes"
+      ],
+      "correct_answer": "Four parallel stripes of equal width",
+      "explanation_hebrew": "במסמכי בית המשפט Adidas מתארת בגדים עם ארבעה פסים מקבילים וברוחב שווה."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Adidas mention advertisements showing White Fox products together with genuine Adidas items?",
+      "difficulty": "A",
+      "options": [
+        "To prove White Fox sells only sports shoes",
+        "To show that Adidas supplied the clothes to White Fox",
+        "To argue that consumers might assume Adidas approved or is associated with White Fox",
+        "To explain why White Fox's prices increased"
+      ],
+      "correct_answer": "To argue that consumers might assume Adidas approved or is associated with White Fox",
+      "explanation_hebrew": "השילוב של פריטי White Fox עם מוצרים מקוריים של Adidas עשוי ליצור אצל צרכנים רושם מוטעה של קשר או אישור."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “infringement” mean in the article's legal context?",
+      "difficulty": "A",
+      "options": [
+        "A successful advertising campaign",
+        "A violation of a legal right such as a trademark",
+        "A reduction in company revenue",
+        "A private agreement between two brands"
+      ],
+      "correct_answer": "A violation of a legal right such as a trademark",
+      "explanation_hebrew": "בהקשר המשפטי infringement פירושו הפרה של זכות חוקית, כאן סימן המסחר של Adidas."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What changes does Adidas allege were made to the online image of White Fox socks after court proceedings began?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שבתחילה הוסר דיגיטלית פס אחד מנעלי Adidas הוורודות, ובהמשך נמחקו מהתמונה כל שלושת הפסים.",
+      "expected_points": [
+        "The model in the listing was wearing pink Adidas shoes.",
+        "A few days after proceedings were lodged, one stripe was digitally removed from the shoes.",
+        "About a week later, all three Adidas stripes were removed from the image."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Adidas's case against White Fox and the remedy it is seeking.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את הדמיון הנטען בין ארבעת הפסים לסימן המסחר, החשש להטעיית צרכנים, הראיות בפרסומות, והדרישה לרווחים, ריבית והוצאות.",
+      "expected_points": [
+        "Adidas says White Fox's four equal parallel stripes are substantially identical or deceptively similar to its trademark.",
+        "It argues the advertising may make consumers believe the companies are associated or that Adidas approved the design.",
+        "Adidas submitted product comparisons and advertising images as evidence.",
+        "It seeks damages including profits from the disputed products, interest and costs."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why could Adidas's long trademark history and reputation in Australia strengthen its claim?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שסימן מוכר ורשום מאז 1957 קל יותר לקשר ל־Adidas, ולכן עיצוב דומה עלול לנצל את המוניטין ולבלבל צרכנים.",
+      "expected_points": [
+        "Adidas says the three-stripe mark has been registered in Australia since 1957.",
+        "A well-known mark is more likely to be recognised by consumers.",
+        "A similar design could benefit from Adidas's established reputation.",
+        "Consumer recognition could support the claim that the four stripes create a misleading association."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short neutral news brief explaining the dispute without deciding which company is right.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג את טענת Adidas, את העובדה ש־White Fox סירבה להפסיק את המכירה, את מועד הדיון ואת העובדה ששני הצדדים לא מסרו תגובה, בלי לקבוע אשמה.",
+      "expected_points": [
+        "State that Adidas has filed a trademark case over White Fox's four-stripe clothing.",
+        "Describe Adidas's allegation that the design may mislead consumers.",
+        "Mention that White Fox did not stop selling the products after requests from Adidas.",
+        "Note that the first hearing is due on Friday and both law firms declined to comment."
+      ]
+    }
+  ]
+}
