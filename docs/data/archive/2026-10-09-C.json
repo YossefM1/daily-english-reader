@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-09",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-10-08T19:10:06+00:00",
+  "age_hours_at_selection": 7.03,
+  "word_count": 1122,
+  "generated_at": "2026-10-09T02:11:54.109754+00:00",
+  "difficulty_reason": "Longer, analytical piece with dense sentences, quoted data and economic argument; B2/C1/C2 vocabulary and background knowledge of housing markets and economics.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "graduate",
+      "lemma": "graduate",
+      "level": "B2",
+      "hebrew": "בּוֹגֵר",
+      "explanation_hebrew": "מִי שֶׁסִּיֵּם לִמּוּדִים בָּאוּנִיבֶרְסִיטָה",
+      "pronunciation_hebrew": "גְרַדְ'וּאֵט",
+      "example": "She is a recent university graduate."
+    },
+    {
+      "word": "pitched",
+      "lemma": "pitch",
+      "level": "C1",
+      "hebrew": "הֵקִים אֹהֶל",
+      "explanation_hebrew": "הֵקִים אוֹ הִצִּיב אֹהֶל",
+      "pronunciation_hebrew": "פִּיצְ'ט",
+      "example": "Protesters pitched their tents in the square."
+    },
+    {
+      "word": "diagnosing",
+      "lemma": "diagnose",
+      "level": "C1",
+      "hebrew": "מְאַבְחֵן",
+      "explanation_hebrew": "מְזַהֶה אֶת הַסִּבָּה לִבְעָיָה",
+      "pronunciation_hebrew": "דַייאַגְנוֹזִינְג",
+      "example": "They have no doubts when diagnosing the cause."
+    },
+    {
+      "word": "landlords",
+      "lemma": "landlord",
+      "level": "B2",
+      "hebrew": "בַּעֲלֵי דִּירוֹת / מַשְׂכִּירִים",
+      "explanation_hebrew": "אֲנָשִׁים שֶׁמַּשְׂכִּירִים נְכָסִים",
+      "pronunciation_hebrew": "לֶנְדְלוֹרְדְז",
+      "example": "Landlords are raising the rent."
+    },
+    {
+      "word": "hike",
+      "lemma": "hike",
+      "level": "C1",
+      "hebrew": "מַעֲלֶה בְּחַדּוּת",
+      "explanation_hebrew": "מַעֲלֶה מְחִיר אוֹ שָׂכָר בְּחַדּוּת",
+      "pronunciation_hebrew": "הַייְק",
+      "example": "Funds hike up the rent to force people out."
+    },
+    {
+      "word": "abusive",
+      "lemma": "abusive",
+      "level": "C1",
+      "hebrew": "פּוֹגְעָנִי / מְנַצֵּל",
+      "explanation_hebrew": "מִתְנַהֵג בְּצוּרָה פּוֹגַעַת אוֹ מְנַצֶּלֶת",
+      "pronunciation_hebrew": "אַבְּיוּסִיב",
+      "example": "He called it an abusive business."
+    },
+    {
+      "word": "decent",
+      "lemma": "decent",
+      "level": "B2",
+      "hebrew": "הָגוּן / רָאוּי",
+      "explanation_hebrew": "בְּרָמָה טוֹבָה וּמְכֻבֶּדֶת",
+      "pronunciation_hebrew": "דִיסֶנְט",
+      "example": "Everyone deserves a decent home."
+    },
+    {
+      "word": "tackle",
+      "lemma": "tackle",
+      "level": "B2",
+      "hebrew": "לְהִתְמוֹדֵד עִם",
+      "explanation_hebrew": "לְטַפֵּל בִּבְעָיָה בְּאֹפֶן נֶחְרָץ",
+      "pronunciation_hebrew": "טַאקֶל",
+      "example": "The government tried to tackle the housing problem."
+    },
+    {
+      "word": "legislating",
+      "lemma": "legislate",
+      "level": "C1",
+      "hebrew": "מְחוֹקֵק",
+      "explanation_hebrew": "מְחוֹקֵק חֻקִּים",
+      "pronunciation_hebrew": "לֶגִ'יסְלֵייְטִינְג",
+      "example": "He said he was legislating against speculation."
+    },
+    {
+      "word": "speculate",
+      "lemma": "speculate",
+      "level": "C1",
+      "hebrew": "לְסַפְסֵר / לְהַמֵּר",
+      "explanation_hebrew": "לְהַשְׁקִיעַ בְּתִקְוָה לְרֶוַח מָהִיר",
+      "pronunciation_hebrew": "סְפֶּקְיוּלֵייְט",
+      "example": "Some buy homes only to speculate."
+    },
+    {
+      "word": "prompting",
+      "lemma": "prompt",
+      "level": "C1",
+      "hebrew": "גּוֹרֵם לְ / מֵבִיא לִידֵי",
+      "explanation_hebrew": "גּוֹרֵם לְמַשֶּׁהוּ לִקְרוֹת",
+      "pronunciation_hebrew": "פְּרוֹמְפְּטִינְג",
+      "example": "The vote failed, prompting a snap election."
+    },
+    {
+      "word": "sparked",
+      "lemma": "spark",
+      "level": "C1",
+      "hebrew": "הִצִּית / עוֹרֵר",
+      "explanation_hebrew": "גָּרַם לְהַתְחָלָה שֶׁל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "סְפַּארְקְט",
+      "example": "One case sparked the protest movement."
+    },
+    {
+      "word": "evicted",
+      "lemma": "evict",
+      "level": "C1",
+      "hebrew": "פֻּנָּה / גֹּרַשׁ",
+      "explanation_hebrew": "הֻרְחַק מִדִּירָתוֹ בְּכֹחַ הַחֹק",
+      "pronunciation_hebrew": "אִיבִיקְטֶד",
+      "example": "She was evicted from her home."
+    },
+    {
+      "word": "persuade",
+      "lemma": "persuade",
+      "level": "B2",
+      "hebrew": "לְשַׁכְנֵעַ",
+      "explanation_hebrew": "לִגְרֹם לְמִישֶׁהוּ לְהַסְכִּים",
+      "pronunciation_hebrew": "פֶּרְסְוֵייְד",
+      "example": "They tried to persuade her to leave."
+    },
+    {
+      "word": "backlash",
+      "lemma": "backlash",
+      "level": "C1",
+      "hebrew": "תְּגוּבַת נֶגֶד",
+      "explanation_hebrew": "תְּגוּבָה שְׁלִילִית חֲזָקָה מֵהַצִּבּוּר",
+      "pronunciation_hebrew": "בֶּקְלַאשׁ",
+      "example": "The eviction caused a social backlash."
+    },
+    {
+      "word": "soaring",
+      "lemma": "soar",
+      "level": "C1",
+      "hebrew": "מְזַנֵּק / מַמְרִיא",
+      "explanation_hebrew": "עוֹלֶה מְאֹד וּבִמְהִירוּת",
+      "pronunciation_hebrew": "סוֹרִינְג",
+      "example": "Families struggle with a soaring rental market."
+    },
+    {
+      "word": "affordable",
+      "lemma": "affordable",
+      "level": "B2",
+      "hebrew": "בַּר־הַשָּׂגָה",
+      "explanation_hebrew": "שֶׁאֶפְשָׁר לְהַרְשׁוֹת לְעַצְמוֹ",
+      "pronunciation_hebrew": "אַפוֹרְדַבֶּל",
+      "example": "She is looking for affordable housing."
+    },
+    {
+      "word": "perceived",
+      "lemma": "perceive",
+      "level": "C1",
+      "hebrew": "נִתְפָּס כְּ",
+      "explanation_hebrew": "נֶחְשָׁב אוֹ מוּבָן בְּצוּרָה מְסֻיֶּמֶת",
+      "pronunciation_hebrew": "פֶּרְסִיבְד",
+      "example": "People want action against those perceived as powerful."
+    },
+    {
+      "word": "expropriation",
+      "lemma": "expropriation",
+      "level": "C2",
+      "hebrew": "הַפְקָעָה",
+      "explanation_hebrew": "נְטִילַת רְכוּשׁ בִּידֵי הַמְּדִינָה",
+      "pronunciation_hebrew": "אֶקְסְפְּרוֹפְּרִיאֵיְשֶׁן",
+      "example": "Many supported the expropriation of empty homes."
+    },
+    {
+      "word": "accumulation",
+      "lemma": "accumulation",
+      "level": "C1",
+      "hebrew": "הִצְטַבְּרוּת / צְבִירָה",
+      "explanation_hebrew": "כְּמוּת שֶׁהוֹלֶכֶת וְגֹדֶלֶת לְאַט",
+      "pronunciation_hebrew": "אַקְיוּמְיוּלֵיְשֶׁן",
+      "example": "There is no notable accumulation of rentals by a few owners."
+    },
+    {
+      "word": "shortfall",
+      "lemma": "shortfall",
+      "level": "C1",
+      "hebrew": "גֵּרָעוֹן / מַחְסוֹר",
+      "explanation_hebrew": "פַּעַר בֵּין מָה שֶׁיֵּשׁ לְמָה שֶׁצָּרִיךְ",
+      "pronunciation_hebrew": "שׁוֹרְטְפוֹל",
+      "example": "Spain has a housing shortfall of many homes."
+    },
+    {
+      "word": "acute",
+      "lemma": "acute",
+      "level": "C1",
+      "hebrew": "חָרִיף / חָמוּר",
+      "explanation_hebrew": "חָמוּר וְדָחוּף בְּמִדָּה רַבָּה",
+      "pronunciation_hebrew": "אַקְיוּט",
+      "example": "The crisis is most acute in cities."
+    },
+    {
+      "word": "consensus",
+      "lemma": "consensus",
+      "level": "C1",
+      "hebrew": "הַסְכָּמָה רְחָבָה",
+      "explanation_hebrew": "הַסְכָּמָה כְּלָלִית בֵּין רֹב הַצְּדָדִים",
+      "pronunciation_hebrew": "קוֹנְסֶנְסֶס",
+      "example": "There was no political consensus on building."
+    },
+    {
+      "word": "aggravated",
+      "lemma": "aggravate",
+      "level": "C1",
+      "hebrew": "הֶחְמִיר",
+      "explanation_hebrew": "גָּרַם לְמַצָּב לִהְיוֹת גָּרוּעַ יוֹתֵר",
+      "pronunciation_hebrew": "אַגְרַבֵייְטֶד",
+      "example": "Low salaries have aggravated the crisis."
+    },
+    {
+      "word": "culprit",
+      "lemma": "culprit",
+      "level": "C1",
+      "hebrew": "הָאַשֵׁם / הַגּוֹרֵם",
+      "explanation_hebrew": "הַגּוֹרֵם הָאַחְרַאי לִבְעָיָה",
+      "pronunciation_hebrew": "קַלְפְּרִיט",
+      "example": "Airbnb has been identified as a culprit."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "graduate",
+      "type": "english_to_hebrew",
+      "question": "What does “graduate” mean?",
+      "options": [
+        "בּוֹגֵר",
+        "הַסְכָּמָה רְחָבָה",
+        "בַּר־הַשָּׂגָה",
+        "פּוֹגְעָנִי / מְנַצֵּל"
+      ],
+      "correct_answer": "בּוֹגֵר",
+      "explanation_hebrew": "“graduate” פירושו בּוֹגֵר: מִי שֶׁסִּיֵּם לִמּוּדִים בָּאוּנִיבֶרְסִיטָה"
+    },
+    {
+      "id": "C-q2",
+      "word": "pitched",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הֵקִים אֹהֶל”?",
+      "options": [
+        "culprit",
+        "graduate",
+        "pitched",
+        "expropriation"
+      ],
+      "correct_answer": "pitched",
+      "explanation_hebrew": "המילה “pitched” פירושה הֵקִים אֹהֶל: הֵקִים אוֹ הִצִּיב אֹהֶל"
+    },
+    {
+      "id": "C-q3",
+      "word": "diagnosing",
+      "type": "english_to_hebrew",
+      "question": "What does “diagnosing” mean?",
+      "options": [
+        "חָרִיף / חָמוּר",
+        "פּוֹגְעָנִי / מְנַצֵּל",
+        "מְאַבְחֵן",
+        "הִצִּית / עוֹרֵר"
+      ],
+      "correct_answer": "מְאַבְחֵן",
+      "explanation_hebrew": "“diagnosing” פירושו מְאַבְחֵן: מְזַהֶה אֶת הַסִּבָּה לִבְעָיָה"
+    },
+    {
+      "id": "C-q4",
+      "word": "landlords",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בַּעֲלֵי דִּירוֹת / מַשְׂכִּירִים”?",
+      "options": [
+        "sparked",
+        "landlords",
+        "pitched",
+        "acute"
+      ],
+      "correct_answer": "landlords",
+      "explanation_hebrew": "המילה “landlords” פירושה בַּעֲלֵי דִּירוֹת / מַשְׂכִּירִים: אֲנָשִׁים שֶׁמַּשְׂכִּירִים נְכָסִים"
+    },
+    {
+      "id": "C-q5",
+      "word": "hike",
+      "type": "english_to_hebrew",
+      "question": "What does “hike” mean?",
+      "options": [
+        "בַּר־הַשָּׂגָה",
+        "בַּעֲלֵי דִּירוֹת / מַשְׂכִּירִים",
+        "מַעֲלֶה בְּחַדּוּת",
+        "מְאַבְחֵן"
+      ],
+      "correct_answer": "מַעֲלֶה בְּחַדּוּת",
+      "explanation_hebrew": "“hike” פירושו מַעֲלֶה בְּחַדּוּת: מַעֲלֶה מְחִיר אוֹ שָׂכָר בְּחַדּוּת"
+    },
+    {
+      "id": "C-q6",
+      "word": "abusive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פּוֹגְעָנִי / מְנַצֵּל”?",
+      "options": [
+        "consensus",
+        "affordable",
+        "soaring",
+        "abusive"
+      ],
+      "correct_answer": "abusive",
+      "explanation_hebrew": "המילה “abusive” פירושה פּוֹגְעָנִי / מְנַצֵּל: מִתְנַהֵג בְּצוּרָה פּוֹגַעַת אוֹ מְנַצֶּלֶת"
+    },
+    {
+      "id": "C-q7",
+      "word": "decent",
+      "type": "english_to_hebrew",
+      "question": "What does “decent” mean?",
+      "options": [
+        "גֵּרָעוֹן / מַחְסוֹר",
+        "הֵקִים אֹהֶל",
+        "הָגוּן / רָאוּי",
+        "בּוֹגֵר"
+      ],
+      "correct_answer": "הָגוּן / רָאוּי",
+      "explanation_hebrew": "“decent” פירושו הָגוּן / רָאוּי: בְּרָמָה טוֹבָה וּמְכֻבֶּדֶת"
+    },
+    {
+      "id": "C-q8",
+      "word": "tackle",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהִתְמוֹדֵד עִם”?",
+      "options": [
+        "consensus",
+        "hike",
+        "tackle",
+        "persuade"
+      ],
+      "correct_answer": "tackle",
+      "explanation_hebrew": "המילה “tackle” פירושה לְהִתְמוֹדֵד עִם: לְטַפֵּל בִּבְעָיָה בְּאֹפֶן נֶחְרָץ"
+    },
+    {
+      "id": "C-q9",
+      "word": "legislating",
+      "type": "english_to_hebrew",
+      "question": "What does “legislating” mean?",
+      "options": [
+        "מְחוֹקֵק",
+        "הַסְכָּמָה רְחָבָה",
+        "מְאַבְחֵן",
+        "הָגוּן / רָאוּי"
+      ],
+      "correct_answer": "מְחוֹקֵק",
+      "explanation_hebrew": "“legislating” פירושו מְחוֹקֵק: מְחוֹקֵק חֻקִּים"
+    },
+    {
+      "id": "C-q10",
+      "word": "speculate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְסַפְסֵר / לְהַמֵּר”?",
+      "options": [
+        "diagnosing",
+        "speculate",
+        "accumulation",
+        "sparked"
+      ],
+      "correct_answer": "speculate",
+      "explanation_hebrew": "המילה “speculate” פירושה לְסַפְסֵר / לְהַמֵּר: לְהַשְׁקִיעַ בְּתִקְוָה לְרֶוַח מָהִיר"
+    },
+    {
+      "id": "C-q11",
+      "word": "prompting",
+      "type": "english_to_hebrew",
+      "question": "What does “prompting” mean?",
+      "options": [
+        "בַּר־הַשָּׂגָה",
+        "הִצְטַבְּרוּת / צְבִירָה",
+        "גּוֹרֵם לְ / מֵבִיא לִידֵי",
+        "מַעֲלֶה בְּחַדּוּת"
+      ],
+      "correct_answer": "גּוֹרֵם לְ / מֵבִיא לִידֵי",
+      "explanation_hebrew": "“prompting” פירושו גּוֹרֵם לְ / מֵבִיא לִידֵי: גּוֹרֵם לְמַשֶּׁהוּ לִקְרוֹת"
+    },
+    {
+      "id": "C-q12",
+      "word": "sparked",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הִצִּית / עוֹרֵר”?",
+      "options": [
+        "prompting",
+        "legislating",
+        "shortfall",
+        "sparked"
+      ],
+      "correct_answer": "sparked",
+      "explanation_hebrew": "המילה “sparked” פירושה הִצִּית / עוֹרֵר: גָּרַם לְהַתְחָלָה שֶׁל מַשֶּׁהוּ"
+    },
+    {
+      "id": "C-q13",
+      "word": "evicted",
+      "type": "english_to_hebrew",
+      "question": "What does “evicted” mean?",
+      "options": [
+        "פֻּנָּה / גֹּרַשׁ",
+        "נִתְפָּס כְּ",
+        "תְּגוּבַת נֶגֶד",
+        "חָרִיף / חָמוּר"
+      ],
+      "correct_answer": "פֻּנָּה / גֹּרַשׁ",
+      "explanation_hebrew": "“evicted” פירושו פֻּנָּה / גֹּרַשׁ: הֻרְחַק מִדִּירָתוֹ בְּכֹחַ הַחֹק"
+    },
+    {
+      "id": "C-q14",
+      "word": "persuade",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְשַׁכְנֵעַ”?",
+      "options": [
+        "soaring",
+        "evicted",
+        "persuade",
+        "aggravated"
+      ],
+      "correct_answer": "persuade",
+      "explanation_hebrew": "המילה “persuade” פירושה לְשַׁכְנֵעַ: לִגְרֹם לְמִישֶׁהוּ לְהַסְכִּים"
+    },
+    {
+      "id": "C-q15",
+      "word": "backlash",
+      "type": "english_to_hebrew",
+      "question": "What does “backlash” mean?",
+      "options": [
+        "תְּגוּבַת נֶגֶד",
+        "הַסְכָּמָה רְחָבָה",
+        "הִצְטַבְּרוּת / צְבִירָה",
+        "בַּר־הַשָּׂגָה"
+      ],
+      "correct_answer": "תְּגוּבַת נֶגֶד",
+      "explanation_hebrew": "“backlash” פירושו תְּגוּבַת נֶגֶד: תְּגוּבָה שְׁלִילִית חֲזָקָה מֵהַצִּבּוּר"
+    },
+    {
+      "id": "C-q16",
+      "word": "soaring",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְזַנֵּק / מַמְרִיא”?",
+      "options": [
+        "soaring",
+        "aggravated",
+        "shortfall",
+        "backlash"
+      ],
+      "correct_answer": "soaring",
+      "explanation_hebrew": "המילה “soaring” פירושה מְזַנֵּק / מַמְרִיא: עוֹלֶה מְאֹד וּבִמְהִירוּת"
+    },
+    {
+      "id": "C-q17",
+      "word": "affordable",
+      "type": "english_to_hebrew",
+      "question": "What does “affordable” mean?",
+      "options": [
+        "הִצְטַבְּרוּת / צְבִירָה",
+        "הַסְכָּמָה רְחָבָה",
+        "בַּר־הַשָּׂגָה",
+        "הַפְקָעָה"
+      ],
+      "correct_answer": "בַּר־הַשָּׂגָה",
+      "explanation_hebrew": "“affordable” פירושו בַּר־הַשָּׂגָה: שֶׁאֶפְשָׁר לְהַרְשׁוֹת לְעַצְמוֹ"
+    },
+    {
+      "id": "C-q18",
+      "word": "perceived",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִתְפָּס כְּ”?",
+      "options": [
+        "graduate",
+        "soaring",
+        "diagnosing",
+        "perceived"
+      ],
+      "correct_answer": "perceived",
+      "explanation_hebrew": "המילה “perceived” פירושה נִתְפָּס כְּ: נֶחְשָׁב אוֹ מוּבָן בְּצוּרָה מְסֻיֶּמֶת"
+    },
+    {
+      "id": "C-q19",
+      "word": "expropriation",
+      "type": "english_to_hebrew",
+      "question": "What does “expropriation” mean?",
+      "options": [
+        "הֶחְמִיר",
+        "נִתְפָּס כְּ",
+        "לְהִתְמוֹדֵד עִם",
+        "הַפְקָעָה"
+      ],
+      "correct_answer": "הַפְקָעָה",
+      "explanation_hebrew": "“expropriation” פירושו הַפְקָעָה: נְטִילַת רְכוּשׁ בִּידֵי הַמְּדִינָה"
+    },
+    {
+      "id": "C-q20",
+      "word": "accumulation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הִצְטַבְּרוּת / צְבִירָה”?",
+      "options": [
+        "pitched",
+        "culprit",
+        "persuade",
+        "accumulation"
+      ],
+      "correct_answer": "accumulation",
+      "explanation_hebrew": "המילה “accumulation” פירושה הִצְטַבְּרוּת / צְבִירָה: כְּמוּת שֶׁהוֹלֶכֶת וְגֹדֶלֶת לְאַט"
+    },
+    {
+      "id": "C-q21",
+      "word": "shortfall",
+      "type": "english_to_hebrew",
+      "question": "What does “shortfall” mean?",
+      "options": [
+        "גֵּרָעוֹן / מַחְסוֹר",
+        "הִצְטַבְּרוּת / צְבִירָה",
+        "הָגוּן / רָאוּי",
+        "הָאַשֵׁם / הַגּוֹרֵם"
+      ],
+      "correct_answer": "גֵּרָעוֹן / מַחְסוֹר",
+      "explanation_hebrew": "“shortfall” פירושו גֵּרָעוֹן / מַחְסוֹר: פַּעַר בֵּין מָה שֶׁיֵּשׁ לְמָה שֶׁצָּרִיךְ"
+    },
+    {
+      "id": "C-q22",
+      "word": "acute",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חָרִיף / חָמוּר”?",
+      "options": [
+        "expropriation",
+        "sparked",
+        "perceived",
+        "acute"
+      ],
+      "correct_answer": "acute",
+      "explanation_hebrew": "המילה “acute” פירושה חָרִיף / חָמוּר: חָמוּר וְדָחוּף בְּמִדָּה רַבָּה"
+    },
+    {
+      "id": "C-q23",
+      "word": "consensus",
+      "type": "english_to_hebrew",
+      "question": "What does “consensus” mean?",
+      "options": [
+        "מְאַבְחֵן",
+        "הֶחְמִיר",
+        "בַּר־הַשָּׂגָה",
+        "הַסְכָּמָה רְחָבָה"
+      ],
+      "correct_answer": "הַסְכָּמָה רְחָבָה",
+      "explanation_hebrew": "“consensus” פירושו הַסְכָּמָה רְחָבָה: הַסְכָּמָה כְּלָלִית בֵּין רֹב הַצְּדָדִים"
+    },
+    {
+      "id": "C-q24",
+      "word": "aggravated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הֶחְמִיר”?",
+      "options": [
+        "shortfall",
+        "soaring",
+        "accumulation",
+        "aggravated"
+      ],
+      "correct_answer": "aggravated",
+      "explanation_hebrew": "המילה “aggravated” פירושה הֶחְמִיר: גָּרַם לְמַצָּב לִהְיוֹת גָּרוּעַ יוֹתֵר"
+    },
+    {
+      "id": "C-q25",
+      "word": "culprit",
+      "type": "english_to_hebrew",
+      "question": "What does “culprit” mean?",
+      "options": [
+        "לְהִתְמוֹדֵד עִם",
+        "גּוֹרֵם לְ / מֵבִיא לִידֵי",
+        "מְזַנֵּק / מַמְרִיא",
+        "הָאַשֵׁם / הַגּוֹרֵם"
+      ],
+      "correct_answer": "הָאַשֵׁם / הַגּוֹרֵם",
+      "explanation_hebrew": "“culprit” פירושו הָאַשֵׁם / הַגּוֹרֵם: הַגּוֹרֵם הָאַחְרַאי לִבְעָיָה"
+    }
+  ]
+}
