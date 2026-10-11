@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-11",
+  "article_id": "C",
+  "article_title": "I was told I had depression for 14 years until I got sectioned - it was bipolar",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "C",
+      "options": [
+        "Why antidepressants cure every form of bipolar disorder",
+        "How universities train psychiatrists to diagnose weather-related beliefs",
+        "Why people with bipolar disorder should avoid working full-time",
+        "How bipolar disorder can be mistaken for depression for years, and why better screening matters"
+      ],
+      "correct_answer": "How bipolar disorder can be mistaken for depression for years, and why better screening matters",
+      "explanation_hebrew": "הכתבה מתארת אבחונים מאוחרים של קימברלי וג'קי ומציגה את קריאת המומחים לשיפור הסינון למאניה ולהיפומאניה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What event led doctors to diagnose Kimberley Atkinson with bipolar disorder?",
+      "difficulty": "C",
+      "options": [
+        "She began working for the NHS.",
+        "She was admitted to a psychiatric ward after increasingly erratic and delusional behaviour.",
+        "She asked her GP for a routine family-history test.",
+        "She stopped experiencing depression while studying."
+      ],
+      "correct_answer": "She was admitted to a psychiatric ward after increasingly erratic and delusional behaviour.",
+      "explanation_hebrew": "לאחר התנהגות לא יציבה ומחשבות שווא, קימברלי אושפזה בניגוד לרצונה; שם הרופאים זיהו שמדובר בהפרעה דו־קוטבית."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “hypomania” mean as used in the article?",
+      "difficulty": "C",
+      "options": [
+        "A period of unusually high energy or mood that is less severe than full mania",
+        "A form of depression caused only by medication",
+        "A controlled seizure used in hospital treatment",
+        "A complete and permanent break from reality"
+      ],
+      "correct_answer": "A period of unusually high energy or mood that is less severe than full mania",
+      "explanation_hebrew": "הכתבה מגדירה hypomania כתקופה של אנרגיה, פעילות או מצב רוח גבוהים מהרגיל, אך פחות חמורה ממאניה מלאה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What screening does Prof Danny Smith say health professionals should perform?",
+      "difficulty": "C",
+      "options": [
+        "Ask only how long a patient has felt sad.",
+        "Check whether patients have used social media.",
+        "Ask about mania symptoms and a family history of bipolar disorder.",
+        "Refer every depressed patient directly for electroconvulsive therapy."
+      ],
+      "correct_answer": "Ask about mania symptoms and a family history of bipolar disorder.",
+      "explanation_hebrew": "פרופ' סמית קורא לשאול על תסמיני מאניה ועל היסטוריה משפחתית של ההפרעה כדי לזהות אפשרות של דו־קוטביות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is bipolar II described as particularly difficult to diagnose?",
+      "difficulty": "C",
+      "options": [
+        "It never includes depressive periods.",
+        "Its elevated periods are less severe, while depression may be more frequent and more noticeable.",
+        "It can be identified only through brain scans.",
+        "People with it always refuse psychiatric assessment."
+      ],
+      "correct_answer": "Its elevated periods are less severe, while depression may be more frequent and more noticeable.",
+      "explanation_hebrew": "בדו־קוטביות מסוג II תקופות ההיפומאניה מתונות יותר, בעוד שהדיכאון עשוי לבלוט, ולכן האבחנה עלולה להתמקד בדיכאון בלבד."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what does “underdiagnosed” mean?",
+      "difficulty": "C",
+      "options": [
+        "Diagnosed immediately in every case",
+        "Treated only with talking therapy",
+        "Caused by a lack of sleep",
+        "Identified in fewer people than probably have the condition"
+      ],
+      "correct_answer": "Identified in fewer people than probably have the condition",
+      "explanation_hebrew": "underdiagnosed פירושו שההפרעה מאובחנת אצל פחות אנשים ממספר האנשים שסביר כי חיים איתה בפועל."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "How did Jacqui Armstrong's experience reveal signs of bipolar disorder beyond depression?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין את תקופות ההיפומאניה, מאפייניהן, ההידרדרות שאחריהן והאבחון לאחר שנשאלה על תסמינים אלה.",
+      "expected_points": [
+        "Alongside depression, Jacqui experienced episodes of hypomania.",
+        "She described unusual confidence, many ideas, sociability and attempts to fill her diary.",
+        "She said the high energy could lead into a breakdown.",
+        "A psychiatrist finally asked about hypomania, leading to assessment and a bipolar II diagnosis."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Kimberley's path from an initial depression diagnosis to her current situation.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר את 14 שנות האבחנה בדיכאון, הופעת תסמיני המאניה והאשפוז, האבחנה החדשה והיציבות לאחר טיפול מתאים.",
+      "expected_points": [
+        "Kimberley was treated for depression for 14 years, but antidepressants did not explain her changing moods.",
+        "Her thinking became erratic and delusional, culminating in an involuntary psychiatric admission.",
+        "Doctors diagnosed bipolar I and she later accepted that the diagnosis explained years of symptoms.",
+        "With the right medication she is stable, works full-time for the NHS and has had no manic episode for four years."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might routine questions about high-energy periods shorten delays in bipolar diagnosis?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שמטופלים פונים בדרך כלל בזמן דיכאון ולא רואים באנרגיה גבוהה בעיה, ולכן שאלות יזומות יכולות לחשוף מאניה או היפומאניה ולהוביל להפניה.",
+      "expected_points": [
+        "Patients often seek help for depression rather than for feeling energetic or creative.",
+        "They may not recognise reduced sleep, racing thoughts or unusual confidence as symptoms.",
+        "Direct questions can reveal past mania or hypomania that would otherwise be missed.",
+        "Identifying those signs can prompt psychiatric referral and a more accurate diagnosis."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced public-health message based on the article about seeking the right diagnosis for mood changes.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לעודד פנייה לאיש מקצוע, אזכור מלא של תקופות נמוכות וגבוהות והיסטוריה משפחתית, בלי אבחון עצמי; יש להדגיש שהמצב ניתן לניהול בטיפול מתאים.",
+      "expected_points": [
+        "Encourage people with significant mood changes to speak to a qualified health professional.",
+        "Suggest describing both depressive periods and unusually energetic, sleepless or irritable periods.",
+        "Mention that family history may be relevant to assessment.",
+        "Avoid self-diagnosis and note that bipolar disorder can be highly manageable with proper diagnosis and treatment."
+      ]
+    }
+  ]
+}

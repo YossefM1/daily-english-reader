@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-11",
+  "article_id": "A",
+  "article_title": "Man dies after tiger attack at Yorkshire Wildlife Park",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A tiger escaped from Yorkshire Wildlife Park and entered Doncaster.",
+        "A man died after entering a tiger enclosure at Yorkshire Wildlife Park, prompting a police investigation.",
+        "The park announced a new breeding programme for Amur tigers.",
+        "Visitors protested against the closure of a wildlife attraction."
+      ],
+      "correct_answer": "A man died after entering a tiger enclosure at Yorkshire Wildlife Park, prompting a police investigation.",
+      "explanation_hebrew": "הכתבה מדווחת על אדם שנכנס למתחם נמרים, הותקף ומת, ועל חקירת האירוע בידי המשטרה והרשויות."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did police say about the tiger after the incident?",
+      "difficulty": "A",
+      "options": [
+        "It escaped into the wider park.",
+        "It was moved to another wildlife park.",
+        "It was uninjured and remained inside its enclosure.",
+        "It was treated by an air-ambulance crew."
+      ],
+      "correct_answer": "It was uninjured and remained inside its enclosure.",
+      "explanation_hebrew": "המשטרה מסרה שהנמר לא נפגע ונשאר בתוך המתחם, ולכן לא נשקפה סכנה רחבה לציבור."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “ascertain what happened” mean?",
+      "difficulty": "A",
+      "options": [
+        "Announce a new attraction",
+        "Protect the tiger from visitors",
+        "Close the park permanently",
+        "Establish the facts of the incident"
+      ],
+      "correct_answer": "Establish the facts of the incident",
+      "explanation_hebrew": "ascertain פירושו לברר או לקבוע בוודאות; הפארק עובד עם הרשויות כדי להבין את עובדות האירוע."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When were South Yorkshire Police called to the park?",
+      "difficulty": "A",
+      "options": [
+        "At 13:35 BST",
+        "At the park's opening time",
+        "Late on Sunday evening",
+        "After the weekend closure ended"
+      ],
+      "correct_answer": "At 13:35 BST",
+      "explanation_hebrew": "לפי הכתבה, המשטרה הוזעקה בשעה 13:35 לפי שעון הקיץ הבריטי."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did police ask people not to share videos of the incident online?",
+      "difficulty": "A",
+      "options": [
+        "The videos advertised a competing park.",
+        "The footage showed an escaped tiger.",
+        "Sharing such footage could distress the man's family and interfere with respectful handling of the death.",
+        "The park planned to sell the footage to broadcasters."
+      ],
+      "correct_answer": "Sharing such footage could distress the man's family and interfere with respectful handling of the death.",
+      "explanation_hebrew": "המשטרה ציינה שמשפחתו של האיש עודכנה ונתמכת; הבקשה לא להפיץ סרטונים נועדה להגן על כבודה ורגשותיה."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “evacuated” mean in the witness's account?",
+      "difficulty": "A",
+      "options": [
+        "Visitors were asked to photograph the enclosure.",
+        "People were moved away from the area for safety.",
+        "The tigers were released into a larger reserve.",
+        "Staff opened the park to emergency vehicles."
+      ],
+      "correct_answer": "People were moved away from the area for safety.",
+      "explanation_hebrew": "evacuated פירושו שפינו אנשים מהמקום כדי להרחיקם מסכנה אפשרית."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What did witness Karmelle Pelham observe during the emergency response?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין לפחות שלושה פרטים מדויקים מעדותה, כגון הפינוי, קולות דמויי ירי, מסוק האמבולנס והיריעה השחורה.",
+      "expected_points": [
+        "Visitors were evacuated from the area.",
+        "She heard sounds that resembled gunshots.",
+        "An air ambulance circled above the park.",
+        "A black tarpaulin was placed over the enclosure."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the incident and the immediate response by the park and police.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול כניסה למתחם, התקפת הנמר ומות האיש, הפעלת נוהלי החירום, סגירת הפארק והחקירה, וכן שהנמר נשאר במתחם.",
+      "expected_points": [
+        "A man entered a tiger enclosure and was attacked, dying at the scene.",
+        "The park immediately activated its emergency procedures and visitors were evacuated.",
+        "Police and other authorities began work to establish what happened.",
+        "The park closed for the rest of the weekend, while the uninjured tiger remained in its enclosure."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How do the enclosure details help explain why police said there was no wider risk to the public?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין הישארות הנמר במתחם לבין אמצעי ההפרדה המתוארים: גידור גבוה ומעבר מבקרים מוגבה.",
+      "expected_points": [
+        "Police said the tiger remained within its enclosure.",
+        "Photographs show high fencing above the area where the tigers roam.",
+        "Visitors normally view the animals from a high walkway.",
+        "These barriers support the conclusion that the danger was contained rather than spreading through the park."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short, factual safety update for park visitors based only on the report.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב עדכון ניטרלי הכולל את סגירת הפארק, היעדר סכנה רחבה, הישארות הנמר במתחם ושיתוף הפעולה עם הרשויות, בלי השערות.",
+      "expected_points": [
+        "State that the park is closed for the rest of the weekend.",
+        "Say that police reported no wider risk to the public.",
+        "Mention that the tiger was uninjured and remained in its enclosure.",
+        "Explain that the park is working with authorities to determine what happened."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-11",
+  "article_id": "B",
+  "article_title": "King Charles warns malicious online actors are evolving their tactics",
+  "article_url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central message of the article?",
+      "difficulty": "B",
+      "options": [
+        "The NCSC will be replaced by a private cyber-security company.",
+        "Asos has closed its shopping app permanently after a breach.",
+        "King Charles warned that hostile online actors are using evolving technologies, while praising the NCSC's work protecting the UK.",
+        "The King asked technology companies to stop developing all AI systems."
+      ],
+      "correct_answer": "King Charles warned that hostile online actors are using evolving technologies, while praising the NCSC's work protecting the UK.",
+      "explanation_hebrew": "הכתבה משלבת את אזהרת המלך מפני תוקפים מקוונים המשתמשים בטכנולוגיות מתפתחות עם שבח לפעילות ה־NCSC בעשור האחרון."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did King Charles write to the National Cyber Security Centre?",
+      "difficulty": "B",
+      "options": [
+        "To mark the centre's 10th anniversary",
+        "To announce a new online retailer",
+        "To investigate the Asos breach personally",
+        "To appoint a new head of GCHQ"
+      ],
+      "correct_answer": "To mark the centre's 10th anniversary",
+      "explanation_hebrew": "המכתב פורסם לציון עשור להקמת המרכז הלאומי לאבטחת סייבר."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the King's letter, what does “resilient” most nearly mean when describing the online environment?",
+      "difficulty": "B",
+      "options": [
+        "Completely free of technology",
+        "Controlled only by government agencies",
+        "Designed mainly for shopping",
+        "Able to withstand and recover from threats"
+      ],
+      "correct_answer": "Able to withstand and recover from threats",
+      "explanation_hebrew": "resilient מתאר מערכת שמסוגלת לעמוד בפני איומים ולהתאושש מהם."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which achievement did the King attribute to the NCSC?",
+      "difficulty": "B",
+      "options": [
+        "Creating the Asos shopping application",
+        "Safeguarding democratic institutions and critical infrastructure",
+        "Regulating every frontier AI model worldwide",
+        "Publishing customers' personal details after cyber attacks"
+      ],
+      "correct_answer": "Safeguarding democratic institutions and critical infrastructure",
+      "explanation_hebrew": "המלך מנה בין הישגי המרכז הגנה מפני מתקפות, שמירה על מוסדות דמוקרטיים והגנה על תשתיות קריטיות."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the King say much of the NCSC's work cannot be praised publicly?",
+      "difficulty": "B",
+      "options": [
+        "Cyber-security operations often involve sensitive or secret information.",
+        "The centre has not recorded its achievements.",
+        "The NCSC works only outside the United Kingdom.",
+        "Public praise would automatically close online services."
+      ],
+      "correct_answer": "Cyber-security operations often involve sensitive or secret information.",
+      "explanation_hebrew": "זו מסקנה סבירה מדבריו: פעילות הגנתית נגד איומי סייבר כרוכה לעיתים בפרטים רגישים שלא ניתן לפרסם."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “unauthorised activity” mean in Asos's description of the incident?",
+      "difficulty": "B",
+      "options": [
+        "An approved update to its app",
+        "A public advertising campaign",
+        "Access or actions that were not permitted",
+        "A planned change to customer accounts"
+      ],
+      "correct_answer": "Access or actions that were not permitted",
+      "explanation_hebrew": "unauthorised פירושו שלא קיבל אישור; כאן מדובר בפעילות אסורה הקשורה לפלטפורמות צד שלישי."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What happened in the Asos cyber incident described in the article?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שהאקרים השתמשו במערכת האפליקציה לשליחת הודעה, שהאירוע נגע אולי למיליוני אנשים ושנחשפו פרטים אישיים נרחבים יותר משנמסר תחילה.",
+      "expected_points": [
+        "Cyber criminals used Asos's own app system to send a pop-up notification.",
+        "The notification may have reached millions of people.",
+        "Hackers claimed to hold detailed user profiles, including contact details and dates of birth.",
+        "Asos investigated unauthorised activity involving third-party platforms."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the article connects the King's letter, the NCSC's role and recent cyber threats.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין אזהרת המלך, תפקידי ה־NCSC, דוגמת הפריצה ל־Asos והצורך בחוסן דיגיטלי.",
+      "expected_points": [
+        "The King warned that malicious actors are evolving their tactics with automated technologies.",
+        "He praised the NCSC for a decade of defending the UK, its institutions and infrastructure.",
+        "The recent Asos incident illustrates the scale and personal impact of current cyber threats.",
+        "The letter argues that strong cyber security is necessary for a safer, more resilient digital environment."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does the article include both cyber-security threats and the King's separate warning about frontier AI?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר ששני הנושאים מדגימים כיצד טכנולוגיות חזקות ומתפתחות יכולות להועיל אך גם לשמש גורמים עוינים, ולכן נדרשים הגנה ופיקוח.",
+      "expected_points": [
+        "Both sections concern rapidly evolving technology.",
+        "Automated tools and advanced AI can create opportunities as well as serious risks.",
+        "The King warned about misuse by malicious actors or technology falling into the wrong hands.",
+        "Together, the examples reinforce the need for security, regulation and human responsibility."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief neutral paragraph explaining the King's view of responsible technological development.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לשלב את הצורך בקידמה עם הגנת האנושות, הקהילה והטבע, וכן התמודדות עם סיכוני סייבר ו־AI בלי ניסוח דרמטי או מידע חיצוני.",
+      "expected_points": [
+        "Acknowledge that new technologies can provide benefits.",
+        "Explain that strong cyber security is fundamental to managing risks.",
+        "Mention the danger of malicious use of automated systems or advanced AI.",
+        "State the King's view that technology should remain in the service of humanity, community and the natural world."
+      ]
+    }
+  ]
+}
