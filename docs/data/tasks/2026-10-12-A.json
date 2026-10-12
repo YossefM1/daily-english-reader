@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-12",
+  "article_id": "A",
+  "article_title": "Orangutans released back into Borneo forest after devastating fires",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Indonesia is building a new zoo for orangutans.",
+        "Eight rescued orangutans were released into a suitable Borneo forest reserve after wildfires destroyed or threatened their habitats.",
+        "Scientists discovered a new orangutan species in Sumatra.",
+        "Plantation owners moved their cattle away from forest fires."
+      ],
+      "correct_answer": "Eight rescued orangutans were released into a suitable Borneo forest reserve after wildfires destroyed or threatened their habitats.",
+      "explanation_hebrew": "הכתבה מתארת את שחרורם של שמונה אורנגאוטנים שניצלו משריפות, לאחר שנמצא עבורם אזור טבעי מתאים ובטוח."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which animals were among the eight orangutans released on Friday?",
+      "difficulty": "A",
+      "options": [
+        "Three mothers, their three daughters and two adult males",
+        "Eight adult males from one plantation",
+        "Four mothers and four newborn babies",
+        "Two mothers, two daughters and four adult females"
+      ],
+      "correct_answer": "Three mothers, their three daughters and two adult males",
+      "explanation_hebrew": "לפי הכתבה שוחררו שלוש אימהות, שלוש בנותיהן ושני זכרים בוגרים."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “incinerated” mean in the sentence about the forestry around Mama Nopi?",
+      "difficulty": "A",
+      "options": [
+        "Protected by conservation workers",
+        "Changed into farmland slowly",
+        "Completely burned by fire",
+        "Covered by flood water"
+      ],
+      "correct_answer": "Completely burned by fire",
+      "explanation_hebrew": "incinerated פירושו נשרף כליל; השריפות השמידו את היער שסביב האורנגאוטנים."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was the release reserve selected?",
+      "difficulty": "A",
+      "options": [
+        "It was close to a large city.",
+        "It contained only plantation trees.",
+        "It had empty cages for all 46 rescued animals.",
+        "It had food and water and was connected to other forested areas."
+      ],
+      "correct_answer": "It had food and water and was connected to other forested areas.",
+      "explanation_hebrew": "השמורה נבחרה משום שיש בה מזון ומים והיא מחוברת לאזורים מיוערים נוספים, דבר שמגדיל את סיכויי ההישרדות."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did fires force some orangutans closer to humans?",
+      "difficulty": "A",
+      "options": [
+        "Rescuers trained them to visit villages.",
+        "The fires reduced food and safe forest routes, leaving the animals in or near plantations.",
+        "The orangutans preferred crops to natural food.",
+        "The reserve required them to cross a town."
+      ],
+      "correct_answer": "The fires reduced food and safe forest routes, leaving the animals in or near plantations.",
+      "explanation_hebrew": "השריפות צמצמו את היער, המזון ונתיבי התנועה הבטוחים, ולכן האורנגאוטנים נותרו באזורים חקלאיים קרובים לבני אדם."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “volatile” mean when describing weather patterns?",
+      "difficulty": "A",
+      "options": [
+        "Stable and easy to predict",
+        "Likely to change suddenly and become more extreme",
+        "Cooler in every season",
+        "Limited to coastal areas"
+      ],
+      "correct_answer": "Likely to change suddenly and become more extreme",
+      "explanation_hebrew": "volatile מתאר דפוסים בלתי יציבים שעלולים להשתנות במהירות ולהיות קיצוניים יותר."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What happened to Mama Man and her baby before they were evacuated?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שהם נוטרו מאז יוני באזור מטעים ליד חלקת יער קטנה, שהאש צמצמה עוד יותר את מרחב התנועה ושסכנת החשיפה ללהבות הובילה לפינוי.",
+      "expected_points": [
+        "Rescuers had monitored them since June.",
+        "They were living in a plantation area beside a small forest patch.",
+        "Nearby fires further restricted their roaming area and safe route to other forest.",
+        "They were evacuated in early September because of the threat from the blazes."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why the orangutans were rescued and why they were later moved to the reserve.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את השריפות ופגיעה בבית הגידול, מחסור במזון וקרבה לבני אדם, וכן את יתרונות השמורה שנבחרה.",
+      "expected_points": [
+        "Wildfires burned and fragmented the orangutans' original habitats.",
+        "The damage limited food and safe movement and pushed some animals toward plantations and people.",
+        "The animals were rescued when remaining in those areas became unsafe.",
+        "The new reserve offers food, water and links to other forests, giving them a better chance to survive naturally."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How can plantation development make wildfire damage more serious for orangutans?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין פינוי יער למטעים, החלפת יער צפוף ועמיד יותר לצמחייה דלילה, פיצול בית הגידול והתפשטות אש קלה יותר.",
+      "expected_points": [
+        "Land clearing replaces natural forest with plantation vegetation.",
+        "The article says natural forests are more fire-resistant than the less dense and shaded replacement vegetation.",
+        "Plantations fragment orangutan habitat and reduce safe routes between forest areas.",
+        "When fires spread, animals can lose food and become trapped near humans."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short conservation update explaining the release without claiming that all danger has ended.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את מספר האורנגאוטנים, סיבת החילוץ, התאמת השמורה והמשך הסכנות משריפות, שינוי אקלים ופגיעה בבתי גידול.",
+      "expected_points": [
+        "State that eight rescued orangutans were released into a Borneo reserve.",
+        "Explain that wildfires had made their former habitats unsafe.",
+        "Mention that the reserve has food, water and connections to other forests.",
+        "Acknowledge continuing threats from fires, climate change and habitat loss."
+      ]
+    }
+  ]
+}

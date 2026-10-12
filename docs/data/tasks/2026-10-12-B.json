@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-12",
+  "article_id": "B",
+  "article_title": "AI is less regulated than milk, Microsoft president says",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main argument Brad Smith makes in the article?",
+      "difficulty": "B",
+      "options": [
+        "AI companies should stop all product development immediately.",
+        "Only Microsoft should be allowed to test advanced AI.",
+        "AI needs enforceable global safety rules because voluntary company promises are not sufficient.",
+        "The United States should copy every existing EU technology law."
+      ],
+      "correct_answer": "AI needs enforceable global safety rules because voluntary company promises are not sufficient.",
+      "explanation_hebrew": "סמית טוען שנדרשים כללי בטיחות גלובליים ומחייבים, משום שפיקוח עצמי והצהרות מרצון אינם מספיקים מול חברות פחות אחראיות."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which requirement did Smith propose for an AI-related incident?",
+      "difficulty": "B",
+      "options": [
+        "Firms should write incident reports and notify victims if an AI system goes rogue.",
+        "Every AI product should be manufactured in the UK.",
+        "Consumers should inspect AI systems without expert help.",
+        "Companies should delete all models involved in minor errors."
+      ],
+      "correct_answer": "Firms should write incident reports and notify victims if an AI system goes rogue.",
+      "explanation_hebrew": "סמית הציע חובה חוקית להכין דוחות אירוע ולהודיע לנפגעים אם מערכת AI יוצאת משליטה או גורמת לפריצה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “vet new AI technology” mean in this context?",
+      "difficulty": "B",
+      "options": [
+        "Sell the technology to hospitals",
+        "Describe it in an advertisement",
+        "Examine and evaluate it carefully before release",
+        "Allow it to regulate itself"
+      ],
+      "correct_answer": "Examine and evaluate it carefully before release",
+      "explanation_hebrew": "vet פירושו לבדוק ולהעריך בקפידה; סמית מציע שמעריכים ממשלתיים עצמאיים יבחנו טכנולוגיות חדשות לפני השקה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does Smith believe the UK could lead global AI rule-making?",
+      "difficulty": "B",
+      "options": [
+        "It has banned all foreign AI firms.",
+        "It owns the largest AI company in the world.",
+        "Its laws already regulate AI more strictly than milk.",
+        "It has strong technical capability through the AI Security Institute and may be more acceptable to Washington than the EU."
+      ],
+      "correct_answer": "It has strong technical capability through the AI Security Institute and may be more acceptable to Washington than the EU.",
+      "explanation_hebrew": "סמית מצביע על היכולת הטכנית של מכון אבטחת ה־AI הבריטי ועל יחס חיובי יותר של וושינגטון לבריטניה לעומת בריסל."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Smith compare AI regulation with rules for milk and washing machines?",
+      "difficulty": "B",
+      "options": [
+        "To show that familiar products receive routine safety oversight while powerful AI has fewer formal safeguards",
+        "To argue that AI should be sold in supermarkets",
+        "To claim that washing machines are more dangerous than AI",
+        "To suggest food inspectors should design AI models"
+      ],
+      "correct_answer": "To show that familiar products receive routine safety oversight while powerful AI has fewer formal safeguards",
+      "explanation_hebrew": "ההשוואה מדגישה את הפער: מוצרים יומיומיים כפופים לכללי בטיחות ובדיקות, בעוד שטכנולוגיית AI חזקה עדיין אינה מפוקחת באותה מידה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is an AI “kill switch” as described in the article?",
+      "difficulty": "B",
+      "options": [
+        "A programme that permanently removes the internet",
+        "A control that can pause or slow an AI system if it gets out of control",
+        "A rule preventing independent evaluation",
+        "A tool for increasing a model's speed"
+      ],
+      "correct_answer": "A control that can pause or slow an AI system if it gets out of control",
+      "explanation_hebrew": "הכתבה מסבירה ש־kill switch הוא מעין בלם חירום שמאפשר לעצור או להאט מערכת AI אם היא יוצאת משליטה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What did US technology executives agree to in the document signed at the White House?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין עבודה עם מבקרים עצמאיים, בדיקה שהמערכות פועלות כמתוכנן ומניעת חדירה או גישה בלתי מכוונת למערכות טכניות.",
+      "expected_points": [
+        "The companies agreed to work with independent auditors.",
+        "Auditors would assess whether AI systems operate as intended.",
+        "The companies would seek to ensure the systems do not hack or access technical systems in unintended ways.",
+        "The agreement was described as morally binding rather than a complete legal regime."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Smith's proposed approach to making advanced AI safer.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול כללים גלובליים מחייבים, הערכה חיצונית, בלמי חירום, דיווח על אירועים והודעה לנפגעים, וכן את תפקיד בריטניה.",
+      "expected_points": [
+        "Create global, enforceable safety rules rather than relying only on self-regulation.",
+        "Require independent evaluators to examine some AI products before release.",
+        "Give firms emergency brakes and require incident reports and victim notification.",
+        "Use the UK's technical expertise and diplomatic position to help bring countries and companies together."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does Smith say self-regulation may protect the public only partly?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שחברות אחראיות עשויות לציית מרצון, אך חברות פחות אחראיות אינן מחויבות לכך; לכן דרושים כללים ואכיפה אחידים.",
+      "expected_points": [
+        "Responsible companies may follow voluntary standards.",
+        "Less responsible firms may choose not to make the same safety commitments.",
+        "Risks can affect victims and cyber-security beyond a single company.",
+        "Binding rules and external checks would apply more consistently across the sector."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief neutral policy note presenting both Smith's and Trump's positions on AI regulation.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג ללא הטיה את דרישת סמית לכללים מחייבים ואת העדפת טראמפ לפיקוח עצמי כדי לשמור על תחרותיות מול סין.",
+      "expected_points": [
+        "Explain that Smith views AI as both a useful tool and a possible weapon requiring urgent safeguards.",
+        "List at least two safeguards he proposes, such as external evaluation, incident reporting or emergency brakes.",
+        "State that Trump favours industry self-regulation.",
+        "Explain that Trump's stated concern is preventing US firms from losing ground to Chinese competitors."
+      ]
+    }
+  ]
+}

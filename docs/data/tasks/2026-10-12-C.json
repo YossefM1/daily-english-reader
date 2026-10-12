@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-12",
+  "article_id": "C",
+  "article_title": "US ranchers wrestle with soaring costs - and their loyalty to Trump",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central tension does the article examine?",
+      "difficulty": "C",
+      "options": [
+        "Whether Nebraska should replace cattle farming with technology firms",
+        "How ranchers can avoid every effect of drought by importing beef",
+        "Why all farmers in Nebraska now support an independent Senate candidate",
+        "How mounting agricultural costs and policy shocks are testing some conservative ranchers' loyalty to Donald Trump"
+      ],
+      "correct_answer": "How mounting agricultural costs and policy shocks are testing some conservative ranchers' loyalty to Donald Trump",
+      "explanation_hebrew": "הכתבה בוחנת כיצד עלויות עולות והחלטות ממשל פוגעות בחקלאים שמרנים, אך אינן מובילות בהכרח לנטישה מלאה של טראמפ."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What combination of events sharply increased Yvette Mannon's costs?",
+      "difficulty": "C",
+      "options": [
+        "A flood destroyed her cattle and reduced steel prices.",
+        "A wildfire destroyed grazing land and fencing, while steel and diesel costs rose.",
+        "She bought a second ranch just before cattle prices increased.",
+        "New environmental rules forced her to sell all 300 cattle."
+      ],
+      "correct_answer": "A wildfire destroyed grazing land and fencing, while steel and diesel costs rose.",
+      "explanation_hebrew": "השריפה החריבה שטחי מרעה וגדרות; במקביל מחירי הפלדה והסולר עלו, והיא נאלצה גם לספק חציר מדי יום."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “the cattle market tanked” mean in the article?",
+      "difficulty": "C",
+      "options": [
+        "The market rose gradually after the import announcement.",
+        "Cattle were moved into storage tanks.",
+        "The market fell sharply and suddenly.",
+        "The market stopped measuring cattle by weight."
+      ],
+      "correct_answer": "The market fell sharply and suddenly.",
+      "explanation_hebrew": "tanked הוא ביטוי לירידה חדה ומהירה; לפי הכתבה השוק צנח מיד לאחר ההודעה על יבוא הבשר."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did the Trump administration announce duty-free foreign beef imports?",
+      "difficulty": "C",
+      "options": [
+        "To rebuild fences destroyed by wildfire",
+        "To raise cattle prices before the autumn sales period",
+        "To help Nebraska feedlots buy more machinery",
+        "To try to lower consumer beef prices"
+      ],
+      "correct_answer": "To try to lower consumer beef prices",
+      "explanation_hebrew": "הממשל הודיע על יבוא 300 אלף טונות של בשר ללא מכס במטרה להוזיל מחירים לצרכנים."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can a price drop from $240 to $225 per hundredweight be severe for Jake Wolfinger?",
+      "difficulty": "C",
+      "options": [
+        "Applied across thousands of cattle, the lower price can reduce revenue by hundreds of dollars per animal.",
+        "It forces him to replace all cattle with imported beef.",
+        "It automatically doubles the cost of every gallon of diesel.",
+        "The smaller price makes his feedlot legally dilapidated."
+      ],
+      "correct_answer": "Applied across thousands of cattle, the lower price can reduce revenue by hundreds of dollars per animal.",
+      "explanation_hebrew": "הפרש קטן יחסית ליחידת משקל מצטבר לסכום גדול כאשר מדובר באלפי בעלי חיים, ולכן ההפסד לכל ראש עשוי להגיע למאות דולרים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “reassessing their political allegiances” mean?",
+      "difficulty": "C",
+      "options": [
+        "Calculating the weight of cattle again",
+        "Changing the boundaries of their ranches",
+        "Reviewing which political leaders or parties they support",
+        "Applying for larger bank credit lines"
+      ],
+      "correct_answer": "Reviewing which political leaders or parties they support",
+      "explanation_hebrew": "הביטוי מתאר בחינה מחדש של הנאמנות והתמיכה הפוליטית בעקבות הלחצים הכלכליים ומדיניות הממשלה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What economic pressures does the article identify across Nebraska agriculture?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין לפחות ארבעה לחצים מדויקים: סולר ודשן, מכסים על ציוד וחומרים, יבוא בשר, שוק בקר יורד, בצורת או צורך באשראי.",
+      "expected_points": [
+        "The Iran War drove diesel and fertiliser prices sharply higher.",
+        "Tariffs increased costs for machinery, repairs, steel and lumber.",
+        "Foreign beef imports and other policy decisions destabilised cattle markets.",
+        "Drought, low herd numbers and a market downturn added pressure.",
+        "Some producers lost hundreds of dollars per animal or needed larger credit lines."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the range of political reactions among the ranchers and farmers interviewed.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את תחושת הבגידה והביקורת לצד המשך התמיכה מטעמים שמרניים, וכן דוגמאות לג'נקינס, וולפינגר, קימבל, קנטרל ובייטי.",
+      "expected_points": [
+        "Mannon felt betrayed and expected agriculture to express frustration at the midterms.",
+        "Jenkins, a long-time Trump critic, viewed the president's policies as impractical and harmful.",
+        "Wolfinger and Kimball criticised some decisions but did not blame Trump for every problem and retained substantial support.",
+        "Cantrell prioritised government efficiency and conservative values, while Batie said some Republicans were no longer Trump supporters."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why have economic complaints not automatically ended Trump's support among many Nebraska voters?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהזהות השמרנית, סוגיות חברתיות, הרצון בצמצום ממשל והאמונה בכיוון הכללי של טראמפ מתקיימים לצד ביקורת כלכלית.",
+      "expected_points": [
+        "Many voters identify strongly as conservatives or Republicans.",
+        "Trump's positions on abortion, Christianity and government waste align with their values.",
+        "Some distinguish long-term cost trends or the Iran War from policies they attribute directly to Trump.",
+        "Supporters may criticise particular interventions while still believing his overall direction is right."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced analytical paragraph explaining how policy uncertainty affects ranch business decisions.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין הכרזות פתאומיות, מכסים, יבוא ועלויות דלק לבין תכנון, אשראי, הכנסות והשקעות, תוך הכרה גם במחזוריות הטבעית של שוק הבקר.",
+      "expected_points": [
+        "Ranchers make long-term plans for herds, equipment, fencing and feed.",
+        "Sudden tariff, import or border decisions can change both costs and sale prices.",
+        "Unpredictability can reduce margins and force operators to seek more credit or delay investment.",
+        "The article also notes that cattle markets naturally move through long cycles, so policy is one factor among several."
+      ]
+    }
+  ]
+}
