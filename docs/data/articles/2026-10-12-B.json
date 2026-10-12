@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-12",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "AI is less regulated than milk, Microsoft president says",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo",
+  "published_at": "2026-10-11T23:07:35+00:00",
+  "age_hours_at_selection": 3.05,
+  "word_count": 687,
+  "generated_at": "2026-10-12T02:10:25.562058+00:00",
+  "difficulty_reason": "Moderate sentence complexity on a tech-policy topic with some background needed; useful B1/B2/C1 vocabulary around regulation and technology.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "regulated",
+      "lemma": "regulate",
+      "level": "B2",
+      "hebrew": "מפוקח",
+      "explanation_hebrew": "כפוף לחוקים ותקנות",
+      "pronunciation_hebrew": "רֶגְיוּלֵייטֶד",
+      "example": "The industry is heavily regulated."
+    },
+    {
+      "word": "obligation",
+      "lemma": "obligation",
+      "level": "B2",
+      "hebrew": "חובה",
+      "explanation_hebrew": "דבר שחייבים לעשות",
+      "pronunciation_hebrew": "אוֹבְּלִיגֵיישֶן",
+      "example": "Companies have a legal obligation to report."
+    },
+    {
+      "word": "breached",
+      "lemma": "breach",
+      "level": "C1",
+      "hebrew": "נפרץ",
+      "explanation_hebrew": "נשבר או נחדר",
+      "pronunciation_hebrew": "בְּרִיצְ'ד",
+      "example": "The security system was breached."
+    },
+    {
+      "word": "rogue",
+      "lemma": "rogue",
+      "level": "C1",
+      "hebrew": "סורר",
+      "explanation_hebrew": "פועל שלא כשורה ומחוץ לשליטה",
+      "pronunciation_hebrew": "רוֹג",
+      "example": "A rogue program caused the damage."
+    },
+    {
+      "word": "evaluators",
+      "lemma": "evaluator",
+      "level": "C1",
+      "hebrew": "מעריכים",
+      "explanation_hebrew": "אנשים שבודקים ומעריכים",
+      "pronunciation_hebrew": "אִיוָואלְיוּאֵייטוֹרְס",
+      "example": "Outside evaluators tested the product."
+    },
+    {
+      "word": "sector",
+      "lemma": "sector",
+      "level": "B2",
+      "hebrew": "מגזר",
+      "explanation_hebrew": "תחום או ענף בכלכלה",
+      "pronunciation_hebrew": "סֶקְטוֹר",
+      "example": "The tech sector is growing fast."
+    },
+    {
+      "word": "rivals",
+      "lemma": "rival",
+      "level": "B2",
+      "hebrew": "מתחרים",
+      "explanation_hebrew": "מי שמתחרה בך",
+      "pronunciation_hebrew": "רַייבֶלְס",
+      "example": "US firms compete with foreign rivals."
+    },
+    {
+      "word": "inspection",
+      "lemma": "inspection",
+      "level": "B2",
+      "hebrew": "בדיקה",
+      "explanation_hebrew": "בחינה מדוקדקת ופיקוח",
+      "pronunciation_hebrew": "אִינְספֶּקְשֶן",
+      "example": "Each product goes through inspection."
+    },
+    {
+      "word": "threat",
+      "lemma": "threat",
+      "level": "B1",
+      "hebrew": "איום",
+      "explanation_hebrew": "דבר שעלול לגרום נזק",
+      "pronunciation_hebrew": "תְרֶט",
+      "example": "Experts see AI as a threat."
+    },
+    {
+      "word": "slowdown",
+      "lemma": "slowdown",
+      "level": "B2",
+      "hebrew": "האטה",
+      "explanation_hebrew": "ירידה בקצב",
+      "pronunciation_hebrew": "סְלוֹאַדַאוּן",
+      "example": "They called for a slowdown in development."
+    },
+    {
+      "word": "urgently",
+      "lemma": "urgently",
+      "level": "B2",
+      "hebrew": "בדחיפות",
+      "explanation_hebrew": "באופן מיידי ודחוף",
+      "pronunciation_hebrew": "אֶרְגֶ'נְטְלִי",
+      "example": "The problem must be solved urgently."
+    },
+    {
+      "word": "requirement",
+      "lemma": "requirement",
+      "level": "B1",
+      "hebrew": "דרישה",
+      "explanation_hebrew": "תנאי הכרחי",
+      "pronunciation_hebrew": "רִיקְוַוייאֶרְמֶנְט",
+      "example": "There is a requirement to report incidents."
+    },
+    {
+      "word": "incident",
+      "lemma": "incident",
+      "level": "B2",
+      "hebrew": "תקרית",
+      "explanation_hebrew": "מקרה, לרוב בעייתי",
+      "pronunciation_hebrew": "אִינְסִידֶנְט",
+      "example": "Firms must write incident reports."
+    },
+    {
+      "word": "independent",
+      "lemma": "independent",
+      "level": "B1",
+      "hebrew": "עצמאי",
+      "explanation_hebrew": "בלתי תלוי באחרים",
+      "pronunciation_hebrew": "אִינְדִיפֶּנְדֶנְט",
+      "example": "An independent body checked the results."
+    },
+    {
+      "word": "vet",
+      "lemma": "vet",
+      "level": "C1",
+      "hebrew": "לבדוק ביסודיות",
+      "explanation_hebrew": "לבחון בקפידה לפני אישור",
+      "pronunciation_hebrew": "וֶט",
+      "example": "Experts vet new technology."
+    },
+    {
+      "word": "capability",
+      "lemma": "capability",
+      "level": "B2",
+      "hebrew": "יכולת",
+      "explanation_hebrew": "כושר לעשות דבר",
+      "pronunciation_hebrew": "קֵייפָּבִּילִיטִי",
+      "example": "The country has great technical capability."
+    },
+    {
+      "word": "opposed",
+      "lemma": "opposed",
+      "level": "B2",
+      "hebrew": "מתנגד",
+      "explanation_hebrew": "נגד דבר מה",
+      "pronunciation_hebrew": "אוֹפּוֹזְד",
+      "example": "He is opposed to the new rules."
+    },
+    {
+      "word": "accepting",
+      "lemma": "accepting",
+      "level": "B1",
+      "hebrew": "מקבל",
+      "explanation_hebrew": "מוכן להסכים ולקבל",
+      "pronunciation_hebrew": "אַקְסֶפְּטִינְג",
+      "example": "They are more accepting of change."
+    },
+    {
+      "word": "standards",
+      "lemma": "standard",
+      "level": "B1",
+      "hebrew": "תקנים",
+      "explanation_hebrew": "כללים מקובלים ומחייבים",
+      "pronunciation_hebrew": "סְטַנְדַרְדְס",
+      "example": "The UK could set global standards."
+    },
+    {
+      "word": "strength",
+      "lemma": "strength",
+      "level": "B1",
+      "hebrew": "חוזק",
+      "explanation_hebrew": "תכונה חיובית ויתרון",
+      "pronunciation_hebrew": "סְטְרֶנְגְת",
+      "example": "That is a real strength."
+    },
+    {
+      "word": "escaped",
+      "lemma": "escape",
+      "level": "B1",
+      "hebrew": "חמק",
+      "explanation_hebrew": "יצא מכלל שליטה",
+      "pronunciation_hebrew": "אִיסְקֵייפְּט",
+      "example": "Some AI agents have escaped control."
+    },
+    {
+      "word": "auditors",
+      "lemma": "auditor",
+      "level": "C1",
+      "hebrew": "מבקרים",
+      "explanation_hebrew": "בודקים חיצוניים בלתי תלויים",
+      "pronunciation_hebrew": "אוֹדִיטוֹרְס",
+      "example": "Independent auditors reviewed the systems."
+    },
+    {
+      "word": "assess",
+      "lemma": "assess",
+      "level": "B2",
+      "hebrew": "להעריך",
+      "explanation_hebrew": "לשפוט מצב או ערך",
+      "pronunciation_hebrew": "אַסֶס",
+      "example": "They will assess whether it works."
+    },
+    {
+      "word": "sufficient",
+      "lemma": "sufficient",
+      "level": "B2",
+      "hebrew": "מספיק",
+      "explanation_hebrew": "מספק את הצורך",
+      "pronunciation_hebrew": "סַפִישֶנְט",
+      "example": "One step is not sufficient."
+    },
+    {
+      "word": "responsible",
+      "lemma": "responsible",
+      "level": "B1",
+      "hebrew": "אחראי",
+      "explanation_hebrew": "נוהג בזהירות ובאחריות",
+      "pronunciation_hebrew": "רִיספּוֹנְסִיבֶּל",
+      "example": "Responsible firms follow the rules."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "regulated",
+      "type": "english_to_hebrew",
+      "question": "What does “regulated” mean?",
+      "options": [
+        "חובה",
+        "נפרץ",
+        "מפוקח",
+        "סורר"
+      ],
+      "correct_answer": "מפוקח",
+      "explanation_hebrew": "“regulated” פירושו מפוקח."
+    },
+    {
+      "id": "B-q2",
+      "word": "obligation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘חובה’?",
+      "options": [
+        "obligation",
+        "breached",
+        "evaluators",
+        "rogue"
+      ],
+      "correct_answer": "obligation",
+      "explanation_hebrew": "המילה “obligation” פירושה חובה."
+    },
+    {
+      "id": "B-q3",
+      "word": "breached",
+      "type": "english_to_hebrew",
+      "question": "What does “breached” mean?",
+      "options": [
+        "מגזר",
+        "נפרץ",
+        "סורר",
+        "מעריכים"
+      ],
+      "correct_answer": "נפרץ",
+      "explanation_hebrew": "“breached” פירושו נפרץ."
+    },
+    {
+      "id": "B-q4",
+      "word": "rogue",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘סורר’?",
+      "options": [
+        "sector",
+        "rivals",
+        "evaluators",
+        "rogue"
+      ],
+      "correct_answer": "rogue",
+      "explanation_hebrew": "המילה “rogue” פירושה סורר."
+    },
+    {
+      "id": "B-q5",
+      "word": "evaluators",
+      "type": "english_to_hebrew",
+      "question": "What does “evaluators” mean?",
+      "options": [
+        "בדיקה",
+        "מגזר",
+        "מעריכים",
+        "מתחרים"
+      ],
+      "correct_answer": "מעריכים",
+      "explanation_hebrew": "“evaluators” פירושו מעריכים."
+    },
+    {
+      "id": "B-q6",
+      "word": "sector",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מגזר’?",
+      "options": [
+        "sector",
+        "inspection",
+        "threat",
+        "rivals"
+      ],
+      "correct_answer": "sector",
+      "explanation_hebrew": "המילה “sector” פירושה מגזר."
+    },
+    {
+      "id": "B-q7",
+      "word": "rivals",
+      "type": "english_to_hebrew",
+      "question": "What does “rivals” mean?",
+      "options": [
+        "מתחרים",
+        "בדיקה",
+        "איום",
+        "האטה"
+      ],
+      "correct_answer": "מתחרים",
+      "explanation_hebrew": "“rivals” פירושו מתחרים."
+    },
+    {
+      "id": "B-q8",
+      "word": "inspection",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘בדיקה’?",
+      "options": [
+        "inspection",
+        "slowdown",
+        "urgently",
+        "threat"
+      ],
+      "correct_answer": "inspection",
+      "explanation_hebrew": "המילה “inspection” פירושה בדיקה."
+    },
+    {
+      "id": "B-q9",
+      "word": "threat",
+      "type": "english_to_hebrew",
+      "question": "What does “threat” mean?",
+      "options": [
+        "בדחיפות",
+        "האטה",
+        "דרישה",
+        "איום"
+      ],
+      "correct_answer": "איום",
+      "explanation_hebrew": "“threat” פירושו איום."
+    },
+    {
+      "id": "B-q10",
+      "word": "slowdown",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘האטה’?",
+      "options": [
+        "requirement",
+        "incident",
+        "urgently",
+        "slowdown"
+      ],
+      "correct_answer": "slowdown",
+      "explanation_hebrew": "המילה “slowdown” פירושה האטה."
+    },
+    {
+      "id": "B-q11",
+      "word": "urgently",
+      "type": "english_to_hebrew",
+      "question": "What does “urgently” mean?",
+      "options": [
+        "בדחיפות",
+        "עצמאי",
+        "תקרית",
+        "דרישה"
+      ],
+      "correct_answer": "בדחיפות",
+      "explanation_hebrew": "“urgently” פירושו בדחיפות."
+    },
+    {
+      "id": "B-q12",
+      "word": "requirement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘דרישה’?",
+      "options": [
+        "incident",
+        "independent",
+        "vet",
+        "requirement"
+      ],
+      "correct_answer": "requirement",
+      "explanation_hebrew": "המילה “requirement” פירושה דרישה."
+    },
+    {
+      "id": "B-q13",
+      "word": "incident",
+      "type": "english_to_hebrew",
+      "question": "What does “incident” mean?",
+      "options": [
+        "לבדוק ביסודיות",
+        "תקרית",
+        "עצמאי",
+        "יכולת"
+      ],
+      "correct_answer": "תקרית",
+      "explanation_hebrew": "“incident” פירושו תקרית."
+    },
+    {
+      "id": "B-q14",
+      "word": "independent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘עצמאי’?",
+      "options": [
+        "capability",
+        "independent",
+        "vet",
+        "opposed"
+      ],
+      "correct_answer": "independent",
+      "explanation_hebrew": "המילה “independent” פירושה עצמאי."
+    },
+    {
+      "id": "B-q15",
+      "word": "vet",
+      "type": "english_to_hebrew",
+      "question": "What does “vet” mean?",
+      "options": [
+        "יכולת",
+        "מקבל",
+        "לבדוק ביסודיות",
+        "מתנגד"
+      ],
+      "correct_answer": "לבדוק ביסודיות",
+      "explanation_hebrew": "“vet” פירושו לבדוק ביסודיות."
+    },
+    {
+      "id": "B-q16",
+      "word": "capability",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘יכולת’?",
+      "options": [
+        "standards",
+        "accepting",
+        "capability",
+        "opposed"
+      ],
+      "correct_answer": "capability",
+      "explanation_hebrew": "המילה “capability” פירושה יכולת."
+    },
+    {
+      "id": "B-q17",
+      "word": "opposed",
+      "type": "english_to_hebrew",
+      "question": "What does “opposed” mean?",
+      "options": [
+        "חוזק",
+        "מתנגד",
+        "מקבל",
+        "תקנים"
+      ],
+      "correct_answer": "מתנגד",
+      "explanation_hebrew": "“opposed” פירושו מתנגד."
+    },
+    {
+      "id": "B-q18",
+      "word": "accepting",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מקבל’?",
+      "options": [
+        "escaped",
+        "accepting",
+        "strength",
+        "standards"
+      ],
+      "correct_answer": "accepting",
+      "explanation_hebrew": "המילה “accepting” פירושה מקבל."
+    },
+    {
+      "id": "B-q19",
+      "word": "standards",
+      "type": "english_to_hebrew",
+      "question": "What does “standards” mean?",
+      "options": [
+        "חוזק",
+        "מבקרים",
+        "תקנים",
+        "חמק"
+      ],
+      "correct_answer": "תקנים",
+      "explanation_hebrew": "“standards” פירושו תקנים."
+    },
+    {
+      "id": "B-q20",
+      "word": "strength",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘חוזק’?",
+      "options": [
+        "strength",
+        "escaped",
+        "auditors",
+        "assess"
+      ],
+      "correct_answer": "strength",
+      "explanation_hebrew": "המילה “strength” פירושה חוזק."
+    },
+    {
+      "id": "B-q21",
+      "word": "escaped",
+      "type": "english_to_hebrew",
+      "question": "What does “escaped” mean?",
+      "options": [
+        "מספיק",
+        "להעריך",
+        "מבקרים",
+        "חמק"
+      ],
+      "correct_answer": "חמק",
+      "explanation_hebrew": "“escaped” פירושו חמק."
+    },
+    {
+      "id": "B-q22",
+      "word": "auditors",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מבקרים’?",
+      "options": [
+        "assess",
+        "responsible",
+        "sufficient",
+        "auditors"
+      ],
+      "correct_answer": "auditors",
+      "explanation_hebrew": "המילה “auditors” פירושה מבקרים."
+    },
+    {
+      "id": "B-q23",
+      "word": "assess",
+      "type": "english_to_hebrew",
+      "question": "What does “assess” mean?",
+      "options": [
+        "מספיק",
+        "אחראי",
+        "להעריך",
+        "מפוקח"
+      ],
+      "correct_answer": "להעריך",
+      "explanation_hebrew": "“assess” פירושו להעריך."
+    },
+    {
+      "id": "B-q24",
+      "word": "sufficient",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מספיק’?",
+      "options": [
+        "obligation",
+        "responsible",
+        "regulated",
+        "sufficient"
+      ],
+      "correct_answer": "sufficient",
+      "explanation_hebrew": "המילה “sufficient” פירושה מספיק."
+    },
+    {
+      "id": "B-q25",
+      "word": "responsible",
+      "type": "english_to_hebrew",
+      "question": "What does “responsible” mean?",
+      "options": [
+        "מפוקח",
+        "נפרץ",
+        "אחראי",
+        "חובה"
+      ],
+      "correct_answer": "אחראי",
+      "explanation_hebrew": "“responsible” פירושו אחראי."
+    }
+  ]
+}

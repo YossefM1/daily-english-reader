@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-12",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Orangutans released back into Borneo forest after devastating fires",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o",
+  "published_at": "2026-10-11T19:08:04+00:00",
+  "age_hours_at_selection": 7.04,
+  "word_count": 524,
+  "generated_at": "2026-10-12T02:10:25.562058+00:00",
+  "difficulty_reason": "Short, direct report with a clear single story and low background knowledge; mostly B1/B2 vocabulary and simple news structure.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "captivity",
+      "lemma": "captivity",
+      "level": "B2",
+      "hebrew": "שבי",
+      "explanation_hebrew": "מצב של כליאה והיעדר חופש",
+      "pronunciation_hebrew": "קַפְּטִיבִיטִי",
+      "example": "The animals lived in captivity for years."
+    },
+    {
+      "word": "habitat",
+      "lemma": "habitat",
+      "level": "B2",
+      "hebrew": "בית גידול",
+      "explanation_hebrew": "סביבת המחיה הטבעית של בעל חיים",
+      "pronunciation_hebrew": "הַבִּיטָט",
+      "example": "The forest is the natural habitat of many birds."
+    },
+    {
+      "word": "threatened",
+      "lemma": "threaten",
+      "level": "B1",
+      "hebrew": "מאוים",
+      "explanation_hebrew": "נמצא בסכנה",
+      "pronunciation_hebrew": "תְרֶטֶנְד",
+      "example": "Their home was threatened by the fire."
+    },
+    {
+      "word": "reserve",
+      "lemma": "reserve",
+      "level": "B2",
+      "hebrew": "שמורת טבע",
+      "explanation_hebrew": "אזור מוגן לטבע ולבעלי חיים",
+      "pronunciation_hebrew": "רִיזֶרְב",
+      "example": "They were released into a nature reserve."
+    },
+    {
+      "word": "rescued",
+      "lemma": "rescue",
+      "level": "B1",
+      "hebrew": "חולצו",
+      "explanation_hebrew": "הוצאו מתוך סכנה",
+      "pronunciation_hebrew": "רֶסְקְיוּד",
+      "example": "Firefighters rescued the trapped animals."
+    },
+    {
+      "word": "intensified",
+      "lemma": "intensify",
+      "level": "C1",
+      "hebrew": "התעצם",
+      "explanation_hebrew": "נעשה חזק יותר",
+      "pronunciation_hebrew": "אִינְטֶנְסִיפַייד",
+      "example": "The storm intensified overnight."
+    },
+    {
+      "word": "endangered",
+      "lemma": "endangered",
+      "level": "B2",
+      "hebrew": "בסכנת הכחדה",
+      "explanation_hebrew": "נמצא בסיכון להיעלם מן העולם",
+      "pronunciation_hebrew": "אִינְדֵיינְגֶ'רְד",
+      "example": "Tigers are an endangered species."
+    },
+    {
+      "word": "remain",
+      "lemma": "remain",
+      "level": "B1",
+      "hebrew": "נותרים",
+      "explanation_hebrew": "ממשיכים להתקיים",
+      "pronunciation_hebrew": "רִימֵיין",
+      "example": "Only a few animals remain in the wild."
+    },
+    {
+      "word": "conservation",
+      "lemma": "conservation",
+      "level": "B2",
+      "hebrew": "שימור טבע",
+      "explanation_hebrew": "הגנה ושמירה על הטבע",
+      "pronunciation_hebrew": "קוֹנְסֶרְבֵיישֶן",
+      "example": "Conservation helps protect wildlife."
+    },
+    {
+      "word": "grapple",
+      "lemma": "grapple",
+      "level": "C1",
+      "hebrew": "להתמודד",
+      "explanation_hebrew": "להיאבק בבעיה קשה",
+      "pronunciation_hebrew": "גְרַאפֶּל",
+      "example": "Many countries grapple with wildfires."
+    },
+    {
+      "word": "volatile",
+      "lemma": "volatile",
+      "level": "C1",
+      "hebrew": "הפכפך",
+      "explanation_hebrew": "משתנה בפתאומיות ובלי יציבות",
+      "pronunciation_hebrew": "ווֹלָטָייל",
+      "example": "The weather can be very volatile in spring."
+    },
+    {
+      "word": "relocating",
+      "lemma": "relocate",
+      "level": "C1",
+      "hebrew": "העברה למקום אחר",
+      "explanation_hebrew": "מעבר או העברה למקום חדש",
+      "pronunciation_hebrew": "רִילוֹקֵייטִינְג",
+      "example": "They are relocating the animals to safety."
+    },
+    {
+      "word": "offspring",
+      "lemma": "offspring",
+      "level": "C1",
+      "hebrew": "צאצאים",
+      "explanation_hebrew": "הילדים של בעל חיים",
+      "pronunciation_hebrew": "אוֹפְסְפְּרִינְג",
+      "example": "The mother cared for her offspring."
+    },
+    {
+      "word": "surviving",
+      "lemma": "survive",
+      "level": "B1",
+      "hebrew": "שורדים",
+      "explanation_hebrew": "נשארים בחיים למרות קושי",
+      "pronunciation_hebrew": "סֶרְוַייבִינְג",
+      "example": "The family was surviving in the forest."
+    },
+    {
+      "word": "plantation",
+      "lemma": "plantation",
+      "level": "B2",
+      "hebrew": "מטע",
+      "explanation_hebrew": "שטח חקלאי נטוע בעצים",
+      "pronunciation_hebrew": "פְּלַאנְטֵיישֶן",
+      "example": "They found the ape in a rubber plantation."
+    },
+    {
+      "word": "incinerated",
+      "lemma": "incinerate",
+      "level": "C2",
+      "hebrew": "נשרף כליל",
+      "explanation_hebrew": "נשרף עד תום",
+      "pronunciation_hebrew": "אִינְסִינֶרֵייטֶד",
+      "example": "The fire incinerated the whole forest."
+    },
+    {
+      "word": "surrounding",
+      "lemma": "surrounding",
+      "level": "B1",
+      "hebrew": "הסובב",
+      "explanation_hebrew": "הנמצא מסביב",
+      "pronunciation_hebrew": "סֶראַונְדִינְג",
+      "example": "The surrounding area was damaged."
+    },
+    {
+      "word": "degradation",
+      "lemma": "degradation",
+      "level": "C1",
+      "hebrew": "הידרדרות",
+      "explanation_hebrew": "הרעה והחמרה במצב",
+      "pronunciation_hebrew": "דֶגְרָדֵיישֶן",
+      "example": "Habitat degradation threatens many species."
+    },
+    {
+      "word": "prompted",
+      "lemma": "prompt",
+      "level": "B2",
+      "hebrew": "הניע",
+      "explanation_hebrew": "גרם למשהו לקרות",
+      "pronunciation_hebrew": "פְּרוֹמְפְּטֶד",
+      "example": "The danger prompted a quick rescue."
+    },
+    {
+      "word": "adjacent",
+      "lemma": "adjacent",
+      "level": "C1",
+      "hebrew": "סמוך",
+      "explanation_hebrew": "קרוב מאוד, צמוד אל",
+      "pronunciation_hebrew": "אַדְג'ֵייסֶנְט",
+      "example": "The field is adjacent to the forest."
+    },
+    {
+      "word": "roaming",
+      "lemma": "roam",
+      "level": "B2",
+      "hebrew": "שיטוט חופשי",
+      "explanation_hebrew": "תנועה חופשית באזור",
+      "pronunciation_hebrew": "רוֹמִינְג",
+      "example": "The fire limited their roaming area."
+    },
+    {
+      "word": "exposure",
+      "lemma": "exposure",
+      "level": "B2",
+      "hebrew": "חשיפה",
+      "explanation_hebrew": "מגע לא מוגן עם סכנה",
+      "pronunciation_hebrew": "אִיקְספּוֹזֶ'ר",
+      "example": "Exposure to the fire was dangerous."
+    },
+    {
+      "word": "evacuated",
+      "lemma": "evacuate",
+      "level": "B2",
+      "hebrew": "פונו",
+      "explanation_hebrew": "הוצאו מאזור מסוכן",
+      "pronunciation_hebrew": "אִיוָואקְיוּאֵייטֶד",
+      "example": "The animals were evacuated before the fire."
+    },
+    {
+      "word": "ensure",
+      "lemma": "ensure",
+      "level": "B1",
+      "hebrew": "להבטיח",
+      "explanation_hebrew": "לוודא שדבר יקרה",
+      "pronunciation_hebrew": "אִינְשוּר",
+      "example": "We want to ensure they survive."
+    },
+    {
+      "word": "sustain",
+      "lemma": "sustain",
+      "level": "B2",
+      "hebrew": "לקיים",
+      "explanation_hebrew": "לאפשר המשך קיום",
+      "pronunciation_hebrew": "סַסְטֵיין",
+      "example": "The land could no longer sustain them."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "captivity",
+      "type": "english_to_hebrew",
+      "question": "What does “captivity” mean?",
+      "options": [
+        "שבי",
+        "מאוים",
+        "שמורת טבע",
+        "בית גידול"
+      ],
+      "correct_answer": "שבי",
+      "explanation_hebrew": "“captivity” פירושו שבי."
+    },
+    {
+      "id": "A-q2",
+      "word": "habitat",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘בית גידול’?",
+      "options": [
+        "reserve",
+        "rescued",
+        "threatened",
+        "habitat"
+      ],
+      "correct_answer": "habitat",
+      "explanation_hebrew": "המילה “habitat” פירושה בית גידול."
+    },
+    {
+      "id": "A-q3",
+      "word": "threatened",
+      "type": "english_to_hebrew",
+      "question": "What does “threatened” mean?",
+      "options": [
+        "התעצם",
+        "חולצו",
+        "שמורת טבע",
+        "מאוים"
+      ],
+      "correct_answer": "מאוים",
+      "explanation_hebrew": "“threatened” פירושו מאוים."
+    },
+    {
+      "id": "A-q4",
+      "word": "reserve",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘שמורת טבע’?",
+      "options": [
+        "rescued",
+        "reserve",
+        "endangered",
+        "intensified"
+      ],
+      "correct_answer": "reserve",
+      "explanation_hebrew": "המילה “reserve” פירושה שמורת טבע."
+    },
+    {
+      "id": "A-q5",
+      "word": "rescued",
+      "type": "english_to_hebrew",
+      "question": "What does “rescued” mean?",
+      "options": [
+        "התעצם",
+        "נותרים",
+        "חולצו",
+        "בסכנת הכחדה"
+      ],
+      "correct_answer": "חולצו",
+      "explanation_hebrew": "“rescued” פירושו חולצו."
+    },
+    {
+      "id": "A-q6",
+      "word": "intensified",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘התעצם’?",
+      "options": [
+        "endangered",
+        "remain",
+        "conservation",
+        "intensified"
+      ],
+      "correct_answer": "intensified",
+      "explanation_hebrew": "המילה “intensified” פירושה התעצם."
+    },
+    {
+      "id": "A-q7",
+      "word": "endangered",
+      "type": "english_to_hebrew",
+      "question": "What does “endangered” mean?",
+      "options": [
+        "שימור טבע",
+        "להתמודד",
+        "נותרים",
+        "בסכנת הכחדה"
+      ],
+      "correct_answer": "בסכנת הכחדה",
+      "explanation_hebrew": "“endangered” פירושו בסכנת הכחדה."
+    },
+    {
+      "id": "A-q8",
+      "word": "remain",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘נותרים’?",
+      "options": [
+        "volatile",
+        "grapple",
+        "remain",
+        "conservation"
+      ],
+      "correct_answer": "remain",
+      "explanation_hebrew": "המילה “remain” פירושה נותרים."
+    },
+    {
+      "id": "A-q9",
+      "word": "conservation",
+      "type": "english_to_hebrew",
+      "question": "What does “conservation” mean?",
+      "options": [
+        "שימור טבע",
+        "העברה למקום אחר",
+        "הפכפך",
+        "להתמודד"
+      ],
+      "correct_answer": "שימור טבע",
+      "explanation_hebrew": "“conservation” פירושו שימור טבע."
+    },
+    {
+      "id": "A-q10",
+      "word": "grapple",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘להתמודד’?",
+      "options": [
+        "volatile",
+        "grapple",
+        "offspring",
+        "relocating"
+      ],
+      "correct_answer": "grapple",
+      "explanation_hebrew": "המילה “grapple” פירושה להתמודד."
+    },
+    {
+      "id": "A-q11",
+      "word": "volatile",
+      "type": "english_to_hebrew",
+      "question": "What does “volatile” mean?",
+      "options": [
+        "העברה למקום אחר",
+        "צאצאים",
+        "שורדים",
+        "הפכפך"
+      ],
+      "correct_answer": "הפכפך",
+      "explanation_hebrew": "“volatile” פירושו הפכפך."
+    },
+    {
+      "id": "A-q12",
+      "word": "relocating",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘העברה למקום אחר’?",
+      "options": [
+        "plantation",
+        "surviving",
+        "offspring",
+        "relocating"
+      ],
+      "correct_answer": "relocating",
+      "explanation_hebrew": "המילה “relocating” פירושה העברה למקום אחר."
+    },
+    {
+      "id": "A-q13",
+      "word": "offspring",
+      "type": "english_to_hebrew",
+      "question": "What does “offspring” mean?",
+      "options": [
+        "נשרף כליל",
+        "צאצאים",
+        "שורדים",
+        "מטע"
+      ],
+      "correct_answer": "צאצאים",
+      "explanation_hebrew": "“offspring” פירושו צאצאים."
+    },
+    {
+      "id": "A-q14",
+      "word": "surviving",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘שורדים’?",
+      "options": [
+        "surrounding",
+        "incinerated",
+        "surviving",
+        "plantation"
+      ],
+      "correct_answer": "surviving",
+      "explanation_hebrew": "המילה “surviving” פירושה שורדים."
+    },
+    {
+      "id": "A-q15",
+      "word": "plantation",
+      "type": "english_to_hebrew",
+      "question": "What does “plantation” mean?",
+      "options": [
+        "הסובב",
+        "מטע",
+        "נשרף כליל",
+        "הידרדרות"
+      ],
+      "correct_answer": "מטע",
+      "explanation_hebrew": "“plantation” פירושו מטע."
+    },
+    {
+      "id": "A-q16",
+      "word": "incinerated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘נשרף כליל’?",
+      "options": [
+        "degradation",
+        "incinerated",
+        "surrounding",
+        "prompted"
+      ],
+      "correct_answer": "incinerated",
+      "explanation_hebrew": "המילה “incinerated” פירושה נשרף כליל."
+    },
+    {
+      "id": "A-q17",
+      "word": "surrounding",
+      "type": "english_to_hebrew",
+      "question": "What does “surrounding” mean?",
+      "options": [
+        "סמוך",
+        "הניע",
+        "הידרדרות",
+        "הסובב"
+      ],
+      "correct_answer": "הסובב",
+      "explanation_hebrew": "“surrounding” פירושו הסובב."
+    },
+    {
+      "id": "A-q18",
+      "word": "degradation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘הידרדרות’?",
+      "options": [
+        "degradation",
+        "roaming",
+        "prompted",
+        "adjacent"
+      ],
+      "correct_answer": "degradation",
+      "explanation_hebrew": "המילה “degradation” פירושה הידרדרות."
+    },
+    {
+      "id": "A-q19",
+      "word": "prompted",
+      "type": "english_to_hebrew",
+      "question": "What does “prompted” mean?",
+      "options": [
+        "הניע",
+        "שיטוט חופשי",
+        "סמוך",
+        "חשיפה"
+      ],
+      "correct_answer": "הניע",
+      "explanation_hebrew": "“prompted” פירושו הניע."
+    },
+    {
+      "id": "A-q20",
+      "word": "adjacent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘סמוך’?",
+      "options": [
+        "roaming",
+        "exposure",
+        "adjacent",
+        "evacuated"
+      ],
+      "correct_answer": "adjacent",
+      "explanation_hebrew": "המילה “adjacent” פירושה סמוך."
+    },
+    {
+      "id": "A-q21",
+      "word": "roaming",
+      "type": "english_to_hebrew",
+      "question": "What does “roaming” mean?",
+      "options": [
+        "שיטוט חופשי",
+        "חשיפה",
+        "להבטיח",
+        "פונו"
+      ],
+      "correct_answer": "שיטוט חופשי",
+      "explanation_hebrew": "“roaming” פירושו שיטוט חופשי."
+    },
+    {
+      "id": "A-q22",
+      "word": "exposure",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘חשיפה’?",
+      "options": [
+        "exposure",
+        "ensure",
+        "evacuated",
+        "sustain"
+      ],
+      "correct_answer": "exposure",
+      "explanation_hebrew": "המילה “exposure” פירושה חשיפה."
+    },
+    {
+      "id": "A-q23",
+      "word": "evacuated",
+      "type": "english_to_hebrew",
+      "question": "What does “evacuated” mean?",
+      "options": [
+        "להבטיח",
+        "לקיים",
+        "שבי",
+        "פונו"
+      ],
+      "correct_answer": "פונו",
+      "explanation_hebrew": "“evacuated” פירושו פונו."
+    },
+    {
+      "id": "A-q24",
+      "word": "ensure",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘להבטיח’?",
+      "options": [
+        "ensure",
+        "habitat",
+        "captivity",
+        "sustain"
+      ],
+      "correct_answer": "ensure",
+      "explanation_hebrew": "המילה “ensure” פירושה להבטיח."
+    },
+    {
+      "id": "A-q25",
+      "word": "sustain",
+      "type": "english_to_hebrew",
+      "question": "What does “sustain” mean?",
+      "options": [
+        "לקיים",
+        "שבי",
+        "בית גידול",
+        "מאוים"
+      ],
+      "correct_answer": "לקיים",
+      "explanation_hebrew": "“sustain” פירושו לקיים."
+    }
+  ]
+}
