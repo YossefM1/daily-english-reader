@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-13",
+  "article_id": "A",
+  "article_title": "Qantas flight grounded after bedbug outbreak",
+  "article_url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Qantas introduced a new direct route between Rome and Perth.",
+        "A Qantas flight was cancelled so a plane could be deeply cleaned after bedbugs were found around some seats.",
+        "Australian authorities banned all long-distance flights.",
+        "Passengers refused to board because the flight was too long."
+      ],
+      "correct_answer": "A Qantas flight was cancelled so a plane could be deeply cleaned after bedbugs were found around some seats.",
+      "explanation_hebrew": "הכתבה עוסקת בביטול טיסת Qantas כדי לבצע ניקוי יסודי לאחר שהתגלו פשפשי מיטה במספר קטן של מושבים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened on the previous Perth-to-Rome flight?",
+      "difficulty": "A",
+      "options": [
+        "Passengers complained that bugs were biting them during the nearly 17-hour journey.",
+        "The aircraft landed early because its engines failed.",
+        "All passengers were moved to first class.",
+        "The airline completed a deep clean before take-off."
+      ],
+      "correct_answer": "Passengers complained that bugs were biting them during the nearly 17-hour journey.",
+      "explanation_hebrew": "בטיסה הקודמת, שנמשכה כמעט 17 שעות, נוסעים דיווחו שנעקצו בידי חרקים."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “grounded” mean in this report?",
+      "difficulty": "A",
+      "options": [
+        "The plane was flown without passengers.",
+        "The aircraft was kept from flying while the problem was handled.",
+        "The passengers slept on the airport floor.",
+        "The airline reduced the ticket price."
+      ],
+      "correct_answer": "The aircraft was kept from flying while the problem was handled.",
+      "explanation_hebrew": "grounded פירושו שהמטוס הושבת ולא הורשה לטוס בזמן שבוצע בו ניקוי יסודי."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Qantas assist customers affected by the cancellation?",
+      "difficulty": "A",
+      "options": [
+        "It gave every customer free antihistamines for a year.",
+        "It returned the aircraft to service immediately.",
+        "It asked customers to arrange their own travel.",
+        "It provided accommodation and rebooked them within 48 hours of the original departure."
+      ],
+      "correct_answer": "It provided accommodation and rebooked them within 48 hours of the original departure.",
+      "explanation_hebrew": "Qantas מסרה שסיפקה לנוסעים שנפגעו מקום לינה והזמינה להם טיסות חלופיות בתוך 48 שעות ממועד ההמראה המקורי."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the airline cancel the Rome-to-Perth service instead of using the plane immediately?",
+      "difficulty": "A",
+      "options": [
+        "The route had become legally unavailable.",
+        "The aircraft needed time for engineers and maintenance teams to perform a deep clean.",
+        "The passengers asked for a shorter journey.",
+        "The airline had run out of fuel in Rome."
+      ],
+      "correct_answer": "The aircraft needed time for engineers and maintenance teams to perform a deep clean.",
+      "explanation_hebrew": "הביטול אפשר לצוותי ההנדסה והתחזוקה לבצע ניקוי יסודי לאחר זיהוי הבעיה במושבים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “alternative flights” mean?",
+      "difficulty": "A",
+      "options": [
+        "Flights with no assigned destination",
+        "Private flights operated only by passengers",
+        "Different flights arranged to replace the cancelled service",
+        "Flights that use trains for part of the journey"
+      ],
+      "correct_answer": "Different flights arranged to replace the cancelled service",
+      "explanation_hebrew": "alternative flights הן טיסות אחרות שהוזמנו במקום השירות שבוטל."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What does the article say about bedbugs and their bites?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שפשפשי מיטה הם טפילים קטנים חסרי כנפיים, שהם חיים על בגדים, רהיטים ומצעים, ושעקיצותיהם מגרדות אך בדרך כלל אינן גורמות לבעיה רפואית חמורה.",
+      "expected_points": [
+        "Bedbugs are small, wingless parasites.",
+        "They can live on clothes, furniture and bedding.",
+        "Their bites can be itchy.",
+        "The bites do not usually cause serious health problems."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the incident and Qantas's response.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול תלונות על עקיצות בטיסה הקודמת, זיהוי הבעיה במושבי תיירים, השבתת המטוס לניקוי והסיוע לנוסעים שנפגעו.",
+      "expected_points": [
+        "Passengers on the Perth-to-Rome flight reported being bitten by bugs.",
+        "The airline said an issue was identified on a small number of economy seats.",
+        "The Boeing 787 was grounded for a deep clean, causing the return service to be cancelled.",
+        "Qantas apologised, provided accommodation and arranged replacement flights within 48 hours."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why can a small bedbug problem still cause major travel disruption?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שפשפשים קשים ויקרים להדברה, עלולים להתפשט דרך בגדים וריהוט ודורשים טיפול יסודי, ולכן אפילו כמה מושבים יכולים להשבית כלי תחבורה.",
+      "expected_points": [
+        "Bedbugs can live in fabric, furniture, clothing and bedding.",
+        "They can be difficult and expensive to eliminate.",
+        "A thorough treatment may require time and access to the whole affected area.",
+        "Grounding an aircraft for cleaning can cancel a long-haul service and require many passengers to be rebooked."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short neutral notice to affected passengers using only facts from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול התנצלות, סיבת הביטול בניסוח עובדתי, הניקוי היסודי, הלינה וההזמנה מחדש בתוך 48 שעות, ללא הגזמה.",
+      "expected_points": [
+        "Apologise for the cancellation of the Rome-to-Perth service.",
+        "Explain that a bedbug issue was identified on a small number of economy seats.",
+        "State that the aircraft is undergoing a deep clean.",
+        "Confirm that accommodation and alternative flights within 48 hours are being provided."
+      ]
+    }
+  ]
+}

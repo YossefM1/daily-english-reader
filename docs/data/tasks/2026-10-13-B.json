@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-13",
+  "article_id": "B",
+  "article_title": "I get paid £120,000 a year to make social media videos go viral",
+  "article_url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Why traditional television adverts have disappeared completely",
+        "How professional clippers turn long videos into short social-media clips, creating income opportunities but not guaranteed success",
+        "Why musicians are refusing to use short-form video",
+        "How social-media platforms pay every young user £120,000 a year"
+      ],
+      "correct_answer": "How professional clippers turn long videos into short social-media clips, creating income opportunities but not guaranteed success",
+      "explanation_hebrew": "הכתבה מציגה את עבודת ה־clippers, את פוטנציאל ההכנסה והיתרונות ללקוחות, אך גם מדגישה שרוב העוסקים אינם מרוויחים הרבה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does a clipper usually create content for a client?",
+      "difficulty": "B",
+      "options": [
+        "By watching a longer video, selecting strong moments and turning them into 30-to-60-second vertical clips",
+        "By filming a new feature-length movie for each platform",
+        "By copying traditional adverts without editing them",
+        "By uploading only audio recordings to social media"
+      ],
+      "correct_answer": "By watching a longer video, selecting strong moments and turning them into 30-to-60-second vertical clips",
+      "explanation_hebrew": "העבודה מתחילה בצפייה בסרטון ארוך, בחירת הקטעים הטובים ביותר ועריכתם לסרטונים אנכיים של 30–60 שניות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “lucrative” mean when the article describes clipping?",
+      "difficulty": "B",
+      "options": [
+        "Difficult to learn",
+        "Likely to attract criticism",
+        "Capable of producing a lot of money",
+        "Limited to professional musicians"
+      ],
+      "correct_answer": "Capable of producing a lot of money",
+      "explanation_hebrew": "lucrative פירושו רווחי מאוד; קליפ שמצליח לצבור צפיות רבות יכול להכניס סכום משמעותי."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What first convinced Eknoor Singh that clipping could be highly profitable?",
+      "difficulty": "B",
+      "options": [
+        "He was hired by HBO Max before making any clips.",
+        "He received a university degree in social-media editing.",
+        "He earned $300 from posting a short Dua Lipa video on Instagram.",
+        "He sold his mobile phone for £10,000."
+      ],
+      "correct_answer": "He earned $300 from posting a short Dua Lipa video on Instagram.",
+      "explanation_hebrew": "סינג סיפר שהרוויח 300 דולר מסרטון קצר של דואה ליפה, ואז הבין מיד את פוטנציאל הרווח."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do some companies prefer hiring young clippers to buying traditional social-media adverts?",
+      "difficulty": "B",
+      "options": [
+        "Young clippers are legally required to work for free.",
+        "They may understand short-video audiences better and can generate attention at lower cost.",
+        "Traditional adverts cannot appear on Instagram or YouTube.",
+        "Clippers guarantee that every post will go viral."
+      ],
+      "correct_answer": "They may understand short-video audiences better and can generate attention at lower cost.",
+      "explanation_hebrew": "החברות מקוות שהיכרות הצעירים עם קהל הסרטונים הקצרים תייצר צפיות רבות, לעיתים במחיר נמוך מפרסום מסורתי."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is an “intermediary website” in the clipping business?",
+      "difficulty": "B",
+      "options": [
+        "A platform that connects clippers with companies offering video jobs",
+        "A website used only to watch full-length films",
+        "A government agency that sets social-media salaries",
+        "A tool that guarantees one million views"
+      ],
+      "correct_answer": "A platform that connects clippers with companies offering video jobs",
+      "explanation_hebrew": "intermediary הוא גורם מתווך; האתרים מציגים עבודות זמינות ומחברים בין מותגים לבין עורכי הקליפים."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What benefits and demands does Ethan Weems associate with clipping?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שהוא מרוויח לפחות אלף דולר בחודש, עובד מהבית ומבלה יותר עם משפחתו, אך שהצלחה דורשת צפייה ממושכת והיכרות עמוקה עם התוכן.",
+      "expected_points": [
+        "Weems says clipping brings him at least $1,000 a month.",
+        "It supplements his other video-making work.",
+        "Working from home gives him more time with his wife and young son.",
+        "The article warns that successful clippers may spend many hours watching content."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how clipping works as a business for workers, clients and intermediary platforms.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד הקליפר מקבל תוכן ארוך ויוצר קטעים קצרים, כיצד השכר קשור לצפיות, מה מרוויחים הלקוחות ומה תפקיד אתרי התיווך.",
+      "expected_points": [
+        "Clients provide or promote longer content that clippers turn into short vertical videos.",
+        "Clippers upload selected moments to platforms and may be paid according to views.",
+        "Brands gain relatively cheap promotion designed for younger short-form audiences.",
+        "Intermediary sites list jobs, connect the parties and may charge companies a fee."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does the article warn readers not to treat Singh's income as typical?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסתמך על דברי הביקורת: רוב היוצרים מרוויחים מעט או כלום, נדרשות שעות רבות, ההצלחה תלויה בצפיות ורק מעטים מגיעים להכנסה גבוהה.",
+      "expected_points": [
+        "Singh is presented as a particularly successful example.",
+        "Consultant Lia Haberman says the vast majority in the creator economy make little or nothing.",
+        "Payment depends on obtaining large numbers of views, which is uncertain.",
+        "Analyst Devin Nash says success requires extensive time watching and understanding content."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced short career note for someone considering clipping as a side job.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג יתרונות כגון עבודה מרחוק ופוטנציאל הכנסה לצד הסיכון להכנסה נמוכה, התלות בצפיות והזמן הרב הנדרש.",
+      "expected_points": [
+        "Describe the basic task of finding engaging moments in long videos and editing short vertical clips.",
+        "Mention flexible remote work and possible earnings from successful clips.",
+        "Warn that most people may earn little and that viral success is not guaranteed.",
+        "Note the need for many hours of viewing, platform knowledge and consistent output."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-13",
+  "article_id": "C",
+  "article_title": "Endometriosis centres 'at risk' of closure as women's health 'broken'",
+  "article_url": "https://www.bbc.co.uk/news/articles/cq99znm9j7plo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central issue examined in the article?",
+      "difficulty": "C",
+      "options": [
+        "Whether all endometriosis treatment should move permanently to private hospitals",
+        "Why Wales no longer recognises endometriosis as a chronic condition",
+        "How shortages of dedicated staff, theatre time and funding threaten accredited specialist endometriosis care in Wales",
+        "Why accreditation rules require patients to undergo nine operations"
+      ],
+      "correct_answer": "How shortages of dedicated staff, theatre time and funding threaten accredited specialist endometriosis care in Wales",
+      "explanation_hebrew": "הכתבה מתמקדת במחסור במשאבים ובצוותים רב־תחומיים שמסכן את ההסמכה והקיימות של מרכזי האנדומטריוזיס בוויילס."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was Kelly O'Shea's last operation stopped after about 45 minutes?",
+      "difficulty": "C",
+      "options": [
+        "She chose to leave the hospital.",
+        "The required bowel surgeon was unavailable.",
+        "Her symptoms had completely disappeared.",
+        "The centre had already lost accreditation."
+      ],
+      "correct_answer": "The required bowel surgeon was unavailable.",
+      "explanation_hebrew": "האבחנה של קלי מערבת גם את המעי, אך לאחר שהורדמה התברר שמנתח המעי הנדרש אינו זמין ולכן הטיפול לא בוצע."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “in jeopardy” mean when describing the specialist centres?",
+      "difficulty": "C",
+      "options": [
+        "Working at full capacity",
+        "Likely to receive more funding",
+        "At risk of serious harm, downgrading or closure",
+        "Already transferred to England"
+      ],
+      "correct_answer": "At risk of serious harm, downgrading or closure",
+      "explanation_hebrew": "in jeopardy פירושו בסכנה; המרכזים עלולים לא לעמוד בדרישות, לאבד הסמכה ולהצטמצם או להיסגר."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What must accredited centres provide for complex endometriosis care?",
+      "difficulty": "C",
+      "options": [
+        "Only a GP and an emergency nurse",
+        "A private surgeon chosen by each patient",
+        "One annual clinic without specialist support",
+        "Named multidisciplinary specialists with dedicated time, including gynaecologists, nurses, colorectal surgeons, urologists and radiologists"
+      ],
+      "correct_answer": "Named multidisciplinary specialists with dedicated time, including gynaecologists, nurses, colorectal surgeons, urologists and radiologists",
+      "explanation_hebrew": "דרישות ההסמכה כוללות צוות רב־תחומי מוגדר עם זמן ייעודי: גינקולוגים, אחיות מומחיות, מנתחי מעי, אורולוגים ורדיולוגים."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could losing BSGE accreditation increase costs for NHS Wales?",
+      "difficulty": "C",
+      "options": [
+        "Patients with complex cases could be sent to England for more expensive care.",
+        "Every GP would need to become a surgeon.",
+        "Private hospitals would stop treating endometriosis.",
+        "Accreditation automatically pays patients £20,000."
+      ],
+      "correct_answer": "Patients with complex cases could be sent to England for more expensive care.",
+      "explanation_hebrew": "ללא מרכזים מוסמכים בוויילס, מטופלות יישלחו לאנגליה, והכתבה מציינת שטיפול כזה יעלה יותר ל־NHS Wales."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does relying on staff “goodwill” suggest?",
+      "difficulty": "C",
+      "options": [
+        "The required specialists are formally scheduled and funded.",
+        "The service depends on professionals helping without protected, planned time in the rota.",
+        "Patients are guaranteed shorter waiting lists.",
+        "Accreditation standards no longer apply."
+      ],
+      "correct_answer": "The service depends on professionals helping without protected, planned time in the rota.",
+      "explanation_hebrew": "goodwill מצביע על הסתמכות על נכונות אישית של אנשי מקצוע לסייע, במקום הקצאת זמן קבועה ומתוקצבת במסגרת השירות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "How have resource problems affected Kelly O'Shea's treatment and life?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין לפחות ארבעה פרטים: ניתוחים שלא הושלמו, כאב כרוני, רקמת צלקת, המתנה אפשרית של שנתיים, אובדן אמון ותשלום פרטי של 20 אלף ליש״ט.",
+      "expected_points": [
+        "Required specialists or sufficient theatre time were unavailable during operations.",
+        "Her endometriosis was left untreated despite repeated surgery, adding scar tissue.",
+        "She has lived with daily pain for about three and a half years and put major parts of life on hold.",
+        "She faced a possible wait of up to two years and paid £20,000 for private treatment after losing faith."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why clinicians and officials are considering a national or regional endometriosis service for Wales.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין דרישות ההסמכה, מחסור בתיאטרון ובצוותים, פערי מימון, הסיכון להעברת מטופלות לאנגליה והצורך במודל בר־קיימא.",
+      "expected_points": [
+        "Complex endometriosis requires coordinated multidisciplinary teams and sufficient operating-theatre time.",
+        "Current health-board arrangements do not reliably fund protected staff time or enough operations to meet accreditation thresholds.",
+        "Centres risk downgrading, staff loss or closure, which could send patients to England at higher cost.",
+        "A national or regional commissioning model could pool resources and create a more sustainable service across Wales."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why can minimum annual operation thresholds both support quality and create pressure on under-resourced centres?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהיקף ניתוחים מינימלי שומר על ניסיון ומיומנות, אך מחסור בזמן חדר ניתוח מונע מהמנתחים להגיע לסף ועלול לגרום לאובדן הסמכה ושירות.",
+      "expected_points": [
+        "Performing enough procedures helps specialist surgeons maintain experience and competence.",
+        "Accreditation uses volume thresholds as a quality safeguard.",
+        "Limited theatre capacity can prevent individual surgeons from reaching the required number even when patients need care.",
+        "Failure to meet the threshold may remove accreditation, worsening access and encouraging skilled staff to leave."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a concise policy recommendation based on the evidence in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע מימון בר־קיימא ושירות אזורי או לאומי, זמן מוגן לצוות רב־תחומי וקיבולת חדרי ניתוח, תוך שמירה על הסמכה וצמצום המתנות.",
+      "expected_points": [
+        "Recommend nationally or regionally commissioned specialist endometriosis care.",
+        "Provide sustainable funding for workforce, training, facilities and protected multidisciplinary time.",
+        "Increase theatre capacity so surgeons can treat patients and meet accreditation requirements.",
+        "Monitor waiting times, service continuity and the need to send patients outside Wales."
+      ]
+    }
+  ]
+}
