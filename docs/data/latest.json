@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "I get paid £120,000 a year to make social media videos go viral",
+  "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-  "published_at": "2026-10-12T23:01:45+00:00",
-  "age_hours_at_selection": 3.14,
-  "word_count": 819,
-  "generated_at": "2026-10-13T02:09:58.768677+00:00",
-  "difficulty_reason": "Moderate sentence complexity on a modern social-media topic with several voices and some business vocabulary; useful B1/B2/C1 words and light background knowledge.",
+  "url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go",
+  "published_at": "2026-10-14T00:06:15+00:00",
+  "age_hours_at_selection": 2.1,
+  "word_count": 801,
+  "generated_at": "2026-10-14T02:12:09.266074+00:00",
+  "difficulty_reason": "Moderate-length human-interest feature with descriptive sentences and B1/B2/C1 vocabulary on nature, grief and gardening.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "decent",
-      "lemma": "decent",
+      "word": "grieve",
+      "lemma": "grieve",
       "level": "B2",
-      "hebrew": "הָגוּן / סָבִיר",
-      "explanation_hebrew": "טוב מספיק, ברמה מספקת",
-      "pronunciation_hebrew": "דִּיסֶנְט",
-      "example": "He earns a decent salary."
+      "hebrew": "להתאבל",
+      "explanation_hebrew": "להרגיש צער עמוק על מוות של מישהו",
+      "pronunciation_hebrew": "גְּרִיב",
+      "example": "It takes time to grieve."
     },
     {
-      "word": "professional",
-      "lemma": "professional",
+      "word": "cemetery",
+      "lemma": "cemetery",
+      "level": "B2",
+      "hebrew": "בית קברות",
+      "explanation_hebrew": "מקום שבו קוברים מתים",
+      "pronunciation_hebrew": "סֶמֶטְרִי",
+      "example": "They visited the cemetery."
+    },
+    {
+      "word": "prematurely",
+      "lemma": "prematurely",
+      "level": "C1",
+      "hebrew": "בטרם עת / מוקדם מדי",
+      "explanation_hebrew": "קרה מוקדם מכפי שצריך או מצופה",
+      "pronunciation_hebrew": "פְּרֶמָצְ'רְלִי",
+      "example": "The baby was born prematurely."
+    },
+    {
+      "word": "ashes",
+      "lemma": "ash",
+      "level": "B2",
+      "hebrew": "אפר",
+      "explanation_hebrew": "האבק האפור שנשאר לאחר שריפה",
+      "pronunciation_hebrew": "אֵשִׁיז",
+      "example": "They kept the ashes in an urn."
+    },
+    {
+      "word": "stillness",
+      "lemma": "stillness",
+      "level": "C1",
+      "hebrew": "דממה / שקט",
+      "explanation_hebrew": "מצב של שקט מוחלט וחוסר תנועה",
+      "pronunciation_hebrew": "סְטִילְנֶס",
+      "example": "I love the stillness of early morning."
+    },
+    {
+      "word": "dedicate",
+      "lemma": "dedicate",
+      "level": "B2",
+      "hebrew": "להקדיש",
+      "explanation_hebrew": "לייחד משהו למישהו או למטרה",
+      "pronunciation_hebrew": "דֶּדִיקֵייט",
+      "example": "They dedicate the bench to her."
+    },
+    {
+      "word": "remembrance",
+      "lemma": "remembrance",
+      "level": "C1",
+      "hebrew": "הנצחה / זיכרון",
+      "explanation_hebrew": "מעשה של זכירת אדם או אירוע",
+      "pronunciation_hebrew": "רִימֶמְבְּרַנְס",
+      "example": "A day of remembrance for the fallen."
+    },
+    {
+      "word": "botanist",
+      "lemma": "botanist",
+      "level": "C1",
+      "hebrew": "בוטנאי / חוקר צמחים",
+      "explanation_hebrew": "מדען שחוקר צמחים",
+      "pronunciation_hebrew": "בּוֹטָנִיסְט",
+      "example": "The botanist studied rare flowers."
+    },
+    {
+      "word": "varieties",
+      "lemma": "variety",
+      "level": "B2",
+      "hebrew": "זנים / סוגים",
+      "explanation_hebrew": "סוגים שונים של אותו דבר",
+      "pronunciation_hebrew": "וַרַייאֶטִיז",
+      "example": "There are many varieties of roses."
+    },
+    {
+      "word": "vibrant",
+      "lemma": "vibrant",
+      "level": "B2",
+      "hebrew": "עז / מלא חיים",
+      "explanation_hebrew": "צבעוני, חזק ומלא אנרגיה",
+      "pronunciation_hebrew": "וַייבְּרַנְט",
+      "example": "She wore a vibrant red dress."
+    },
+    {
+      "word": "harmony",
+      "lemma": "harmony",
+      "level": "B2",
+      "hebrew": "הרמוניה / התאמה",
+      "explanation_hebrew": "מצב שבו דברים מתאימים ומשתלבים יחד",
+      "pronunciation_hebrew": "הַארְמֶנִי",
+      "example": "They live in harmony with nature."
+    },
+    {
+      "word": "fragrance",
+      "lemma": "fragrance",
+      "level": "B2",
+      "hebrew": "ניחוח / בושם",
+      "explanation_hebrew": "ריח נעים",
+      "pronunciation_hebrew": "פְרֵייגְרַנְס",
+      "example": "The fragrance of the roses filled the room."
+    },
+    {
+      "word": "scented",
+      "lemma": "scented",
+      "level": "B2",
+      "hebrew": "ריחני / בעל ריח",
+      "explanation_hebrew": "שיש לו ריח, בדרך כלל נעים",
+      "pronunciation_hebrew": "סֶנְטֶד",
+      "example": "She likes scented candles."
+    },
+    {
+      "word": "bloom",
+      "lemma": "bloom",
+      "level": "B2",
+      "hebrew": "פריחה / לפרוח",
+      "explanation_hebrew": "כשפרחים נפתחים, או התקופה שבה הם פתוחים",
+      "pronunciation_hebrew": "בְּלוּם",
+      "example": "The flowers are in bloom."
+    },
+    {
+      "word": "evergreen",
+      "lemma": "evergreen",
+      "level": "C1",
+      "hebrew": "ירוק עד",
+      "explanation_hebrew": "צמח שנשאר ירוק כל השנה",
+      "pronunciation_hebrew": "אֶוֶרגְּרִין",
+      "example": "Pines are evergreen trees."
+    },
+    {
+      "word": "commemoration",
+      "lemma": "commemoration",
+      "level": "C1",
+      "hebrew": "הנצחה / ציון זיכרון",
+      "explanation_hebrew": "מעשה של כבוד וזכירה לאדם או אירוע",
+      "pronunciation_hebrew": "קוֹמֶמוֹרֵיישֶן",
+      "example": "A statue in commemoration of the war."
+    },
+    {
+      "word": "climates",
+      "lemma": "climate",
       "level": "B1",
-      "hebrew": "מִקְצוֹעָן / מִקְצוֹעִי",
-      "explanation_hebrew": "עושה משהו כעבודה או ברמה גבוהה",
-      "pronunciation_hebrew": "פְּרוֹפֶשְׁנָל",
-      "example": "She is a professional photographer."
+      "hebrew": "אקלימים",
+      "explanation_hebrew": "סוגי מזג האוויר האופייניים לאזורים שונים",
+      "pronunciation_hebrew": "קְלַיימֶטְס",
+      "example": "Some plants prefer warm climates."
     },
     {
-      "word": "vertical",
-      "lemma": "vertical",
+      "word": "aroma",
+      "lemma": "aroma",
       "level": "B2",
-      "hebrew": "אֲנָכִי / מְאוּנָּךְ",
-      "explanation_hebrew": "עומד מלמעלה למטה",
-      "pronunciation_hebrew": "וֶרְטִיקָל",
-      "example": "The video is in a vertical format."
+      "hebrew": "ניחוח / ריח",
+      "explanation_hebrew": "ריח חזק ונעים, בעיקר של אוכל או צמחים",
+      "pronunciation_hebrew": "אַרוֹמָה",
+      "example": "I love the aroma of fresh coffee."
     },
     {
-      "word": "viral",
-      "lemma": "viral",
-      "level": "B2",
-      "hebrew": "נְגִיפִי / נָפוֹץ בָּרֶשֶׁת",
-      "explanation_hebrew": "שמתפשט מהר מאוד באינטרנט",
-      "pronunciation_hebrew": "וַיְירָל",
-      "example": "Her video went viral overnight."
-    },
-    {
-      "word": "typically",
-      "lemma": "typically",
-      "level": "B2",
-      "hebrew": "בְּדֶרֶךְ כְּלָל",
-      "explanation_hebrew": "באופן רגיל, לרוב",
-      "pronunciation_hebrew": "טִיפִּיקְלִי",
-      "example": "He typically wakes up early."
-    },
-    {
-      "word": "influencer",
-      "lemma": "influencer",
-      "level": "B2",
-      "hebrew": "מַשְׁפִּיעָן",
-      "explanation_hebrew": "אדם עם קהל גדול שמשפיע באינטרנט",
-      "pronunciation_hebrew": "אִינְפְלוּאֶנְסֶר",
-      "example": "The influencer promoted the brand."
-    },
-    {
-      "word": "demographic",
-      "lemma": "demographic",
+      "word": "likened",
+      "lemma": "liken",
       "level": "C1",
-      "hebrew": "קְבוּצַת אוּכְלוּסִין / פִּלּוּחַ",
-      "explanation_hebrew": "קבוצה של אנשים לפי מאפיינים",
-      "pronunciation_hebrew": "דֶמוֹגְרַפִיק",
-      "example": "The product targets a young demographic."
+      "hebrew": "הושווה / נמשל",
+      "explanation_hebrew": "הושווה למשהו אחר כדי להסבירו",
+      "pronunciation_hebrew": "לַייקֶנְד",
+      "example": "The sound was likened to thunder."
     },
     {
-      "word": "lucrative",
-      "lemma": "lucrative",
+      "word": "medicinal",
+      "lemma": "medicinal",
       "level": "C1",
-      "hebrew": "רְוָוחִי / מַכְנִיס",
-      "explanation_hebrew": "שמביא הרבה כסף",
-      "pronunciation_hebrew": "לוּקְרָטִיב",
-      "example": "Clipping can be a lucrative job."
+      "hebrew": "רפואי / מרפא",
+      "explanation_hebrew": "קשור לריפוי מחלות או בעל תכונות ריפוי",
+      "pronunciation_hebrew": "מֶדִיסִינַל",
+      "example": "The plant has medicinal uses."
     },
     {
-      "word": "instantly",
-      "lemma": "instantly",
+      "word": "plaque",
+      "lemma": "plaque",
       "level": "B2",
-      "hebrew": "מִיָּד / בִּן רֶגַע",
-      "explanation_hebrew": "ברגע זה, מיד",
-      "pronunciation_hebrew": "אִינְסְטַנְטְלִי",
-      "example": "She instantly knew the answer."
+      "hebrew": "לוחית / שלט זיכרון",
+      "explanation_hebrew": "לוח קטן עם כיתוב, לעיתים לזכר מישהו",
+      "pronunciation_hebrew": "פְּלָאק",
+      "example": "A plaque marks the spot."
     },
     {
-      "word": "engaging",
-      "lemma": "engaging",
+      "word": "permanence",
+      "lemma": "permanence",
       "level": "C1",
-      "hebrew": "מוֹשֵׁךְ / מְרַתֵּק",
-      "explanation_hebrew": "מעניין ומושך תשומת לב",
-      "pronunciation_hebrew": "אִינְגֵייגִ'ינְג",
-      "example": "The teacher gave an engaging lesson."
+      "hebrew": "קביעות / תמידיות",
+      "explanation_hebrew": "מצב של משהו שנשאר ואינו משתנה",
+      "pronunciation_hebrew": "פֶּרְמַנֶנְס",
+      "example": "The building gives a sense of permanence."
     },
     {
-      "word": "reaction",
-      "lemma": "reaction",
-      "level": "B1",
-      "hebrew": "תְּגוּבָה",
-      "explanation_hebrew": "מה שאדם עושה בתגובה למשהו",
-      "pronunciation_hebrew": "רִיאֵקְשְׁן",
-      "example": "His reaction made everyone laugh."
+      "word": "rigours",
+      "lemma": "rigour",
+      "level": "C2",
+      "hebrew": "קשיים / תלאות",
+      "explanation_hebrew": "הקשיים והדרישות הקשות של משהו",
+      "pronunciation_hebrew": "רִיגֶרְז",
+      "example": "The rigours of daily life can be tiring."
     },
     {
-      "word": "reveal",
-      "lemma": "reveal",
+      "word": "reflect",
+      "lemma": "reflect",
       "level": "B2",
-      "hebrew": "לַחֲשׂוֹף / לְגַלּוֹת",
-      "explanation_hebrew": "להראות משהו שהיה מוסתר",
-      "pronunciation_hebrew": "רִיבִיל",
-      "example": "He refused to reveal the secret."
+      "hebrew": "להרהר / לחשוב לעומק",
+      "explanation_hebrew": "לחשוב בשקט ובעומק על משהו",
+      "pronunciation_hebrew": "רִיפְלֶקְט",
+      "example": "She likes to reflect on her day."
     },
     {
-      "word": "hosting",
-      "lemma": "host",
+      "word": "comfort",
+      "lemma": "comfort",
       "level": "B2",
-      "hebrew": "מַנְחֶה / מְאָרֵחַ",
-      "explanation_hebrew": "מי שמוביל תוכנית או אירוע",
-      "pronunciation_hebrew": "הוֹוּסְטִינְג",
-      "example": "She is hosting a new podcast."
-    },
-    {
-      "word": "analyses",
-      "lemma": "analyse",
-      "level": "C1",
-      "hebrew": "מְנַתֵּחַ / בּוֹחֵן",
-      "explanation_hebrew": "בודק משהו בקפידה כדי להבין אותו",
-      "pronunciation_hebrew": "אַנָלַיְזֶס",
-      "example": "The show analyses personal finances."
-    },
-    {
-      "word": "consultant",
-      "lemma": "consultant",
-      "level": "B2",
-      "hebrew": "יוֹעֵץ / יוֹעֶצֶת",
-      "explanation_hebrew": "מומחה שנותן עצות מקצועיות",
-      "pronunciation_hebrew": "קוֹנְסַלְטֶנְט",
-      "example": "They hired a business consultant."
-    },
-    {
-      "word": "cautions",
-      "lemma": "caution",
-      "level": "C1",
-      "hebrew": "מַזְהִיר",
-      "explanation_hebrew": "אומר לאנשים להיזהר",
-      "pronunciation_hebrew": "קוֹשֶׁנְז",
-      "example": "The expert cautions against the risk."
-    },
-    {
-      "word": "majority",
-      "lemma": "majority",
-      "level": "B2",
-      "hebrew": "רוֹב",
-      "explanation_hebrew": "החלק הגדול יותר מתוך קבוצה",
-      "pronunciation_hebrew": "מָגַ'וֹרִיטִי",
-      "example": "The majority agreed with the plan."
-    },
-    {
-      "word": "underestimate",
-      "lemma": "underestimate",
-      "level": "C1",
-      "hebrew": "לְהַמְעִיט בְּעֶרֶךְ / לְזַלְזֵל",
-      "explanation_hebrew": "לחשוב שמשהו קטן או קל ממה שהוא",
-      "pronunciation_hebrew": "אַנְדֶרֶאֶסְטִימֵייט",
-      "example": "Don't underestimate how hard it is."
-    },
-    {
-      "word": "prospective",
-      "lemma": "prospective",
-      "level": "C1",
-      "hebrew": "פּוֹטֶנְצְיָאלִי / עָתִידִי",
-      "explanation_hebrew": "שעשוי להיות בעתיד",
-      "pronunciation_hebrew": "פְּרוֹסְפֶּקְטִיב",
-      "example": "They met with prospective clients."
-    },
-    {
-      "word": "intermediary",
-      "lemma": "intermediary",
-      "level": "C1",
-      "hebrew": "מְתַוֵּךְ",
-      "explanation_hebrew": "גורם שמחבר בין שני צדדים",
-      "pronunciation_hebrew": "אִינְטֶרְמִידְיֶרִי",
-      "example": "The website acts as an intermediary."
-    },
-    {
-      "word": "dedicated",
-      "lemma": "dedicated",
-      "level": "B2",
-      "hebrew": "יִיעוּדִי / מוּקְדָּשׁ",
-      "explanation_hebrew": "המיועד למטרה אחת מסוימת",
-      "pronunciation_hebrew": "דֶדִיקֵייטֶד",
-      "example": "There are dedicated sites for this work."
-    },
-    {
-      "word": "traditional",
-      "lemma": "traditional",
-      "level": "B1",
-      "hebrew": "מָסָרְתִּי",
-      "explanation_hebrew": "לפי הדרך הישנה והמקובלת",
-      "pronunciation_hebrew": "טְרָדִישְׁנָל",
-      "example": "They used traditional methods."
-    },
-    {
-      "word": "effective",
-      "lemma": "effective",
-      "level": "B2",
-      "hebrew": "יָעִיל",
-      "explanation_hebrew": "שמשיג את התוצאה הרצויה",
-      "pronunciation_hebrew": "אֶפֶקְטִיב",
-      "example": "The new ad was very effective."
-    },
-    {
-      "word": "embraced",
-      "lemma": "embrace",
-      "level": "C1",
-      "hebrew": "אִימֵּץ / חִיבֵּק בְּחוֹם",
-      "explanation_hebrew": "קיבל בברכה ובהתלהבות",
-      "pronunciation_hebrew": "אִימְבְּרֵייסְד",
-      "example": "Many companies embraced the idea."
-    },
-    {
-      "word": "popularity",
-      "lemma": "popularity",
-      "level": "B2",
-      "hebrew": "פּוֹפּוּלָרִיּוּת",
-      "explanation_hebrew": "מידת ההערכה או האהדה כלפי משהו",
-      "pronunciation_hebrew": "פּוֹפְּיוּלָרִיטִי",
-      "example": "The show's popularity keeps growing."
+      "hebrew": "נחמה",
+      "explanation_hebrew": "תחושה טובה של הקלה ותמיכה בזמן צער",
+      "pronunciation_hebrew": "קַאמְפֶרְט",
+      "example": "Her words gave me comfort."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "decent",
+      "word": "grieve",
       "type": "english_to_hebrew",
-      "question": "What does “decent” mean?",
+      "question": "What does “grieve” mean?",
       "options": [
-        "הָגוּן / סָבִיר",
-        "יִיעוּדִי / מוּקְדָּשׁ",
-        "רְוָוחִי / מַכְנִיס",
-        "מִקְצוֹעָן / מִקְצוֹעִי"
+        "להתאבל",
+        "בית קברות",
+        "אפר",
+        "בטרם עת / מוקדם מדי"
       ],
-      "correct_answer": "הָגוּן / סָבִיר",
-      "explanation_hebrew": "“decent” פירושו הָגוּן / סָבִיר."
+      "correct_answer": "להתאבל",
+      "explanation_hebrew": "“grieve” פירושו להתאבל."
     },
     {
       "id": "B-q2",
-      "word": "professional",
+      "word": "cemetery",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מִקְצוֹעָן / מִקְצוֹעִי”?",
+      "question": "איזו מילה באנגלית פירושה “בית קברות”?",
       "options": [
-        "instantly",
-        "consultant",
-        "reveal",
-        "professional"
+        "cemetery",
+        "stillness",
+        "prematurely",
+        "ashes"
       ],
-      "correct_answer": "professional",
-      "explanation_hebrew": "המילה “professional” פירושה מִקְצוֹעָן / מִקְצוֹעִי."
+      "correct_answer": "cemetery",
+      "explanation_hebrew": "המילה “cemetery” פירושה בית קברות."
     },
     {
       "id": "B-q3",
-      "word": "vertical",
+      "word": "prematurely",
       "type": "english_to_hebrew",
-      "question": "What does “vertical” mean?",
+      "question": "What does “prematurely” mean?",
       "options": [
-        "אֲנָכִי / מְאוּנָּךְ",
-        "מַזְהִיר",
-        "נְגִיפִי / נָפוֹץ בָּרֶשֶׁת",
-        "רוֹב"
+        "בטרם עת / מוקדם מדי",
+        "להקדיש",
+        "דממה / שקט",
+        "אפר"
       ],
-      "correct_answer": "אֲנָכִי / מְאוּנָּךְ",
-      "explanation_hebrew": "“vertical” פירושו אֲנָכִי / מְאוּנָּךְ."
+      "correct_answer": "בטרם עת / מוקדם מדי",
+      "explanation_hebrew": "“prematurely” פירושו בטרם עת / מוקדם מדי."
     },
     {
       "id": "B-q4",
-      "word": "viral",
+      "word": "ashes",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “נְגִיפִי / נָפוֹץ בָּרֶשֶׁת”?",
+      "question": "איזו מילה באנגלית פירושה “אפר”?",
       "options": [
-        "demographic",
-        "professional",
-        "viral",
-        "cautions"
+        "remembrance",
+        "stillness",
+        "dedicate",
+        "ashes"
       ],
-      "correct_answer": "viral",
-      "explanation_hebrew": "המילה “viral” פירושה נְגִיפִי / נָפוֹץ בָּרֶשֶׁת."
+      "correct_answer": "ashes",
+      "explanation_hebrew": "המילה “ashes” פירושה אפר."
     },
     {
       "id": "B-q5",
-      "word": "typically",
+      "word": "stillness",
       "type": "english_to_hebrew",
-      "question": "What does “typically” mean?",
+      "question": "What does “stillness” mean?",
       "options": [
-        "לַחֲשׂוֹף / לְגַלּוֹת",
-        "יִיעוּדִי / מוּקְדָּשׁ",
-        "בְּדֶרֶךְ כְּלָל",
-        "מוֹשֵׁךְ / מְרַתֵּק"
+        "בוטנאי / חוקר צמחים",
+        "הנצחה / זיכרון",
+        "דממה / שקט",
+        "להקדיש"
       ],
-      "correct_answer": "בְּדֶרֶךְ כְּלָל",
-      "explanation_hebrew": "“typically” פירושו בְּדֶרֶךְ כְּלָל."
+      "correct_answer": "דממה / שקט",
+      "explanation_hebrew": "“stillness” פירושו דממה / שקט."
     },
     {
       "id": "B-q6",
-      "word": "influencer",
+      "word": "dedicate",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מַשְׁפִּיעָן”?",
+      "question": "איזו מילה באנגלית פירושה “להקדיש”?",
       "options": [
-        "majority",
-        "instantly",
-        "influencer",
-        "demographic"
+        "varieties",
+        "remembrance",
+        "dedicate",
+        "botanist"
       ],
-      "correct_answer": "influencer",
-      "explanation_hebrew": "המילה “influencer” פירושה מַשְׁפִּיעָן."
+      "correct_answer": "dedicate",
+      "explanation_hebrew": "המילה “dedicate” פירושה להקדיש."
     },
     {
       "id": "B-q7",
-      "word": "demographic",
+      "word": "remembrance",
       "type": "english_to_hebrew",
-      "question": "What does “demographic” mean?",
+      "question": "What does “remembrance” mean?",
       "options": [
-        "יוֹעֵץ / יוֹעֶצֶת",
-        "רוֹב",
-        "יָעִיל",
-        "קְבוּצַת אוּכְלוּסִין / פִּלּוּחַ"
+        "בוטנאי / חוקר צמחים",
+        "הנצחה / זיכרון",
+        "זנים / סוגים",
+        "עז / מלא חיים"
       ],
-      "correct_answer": "קְבוּצַת אוּכְלוּסִין / פִּלּוּחַ",
-      "explanation_hebrew": "“demographic” פירושו קְבוּצַת אוּכְלוּסִין / פִּלּוּחַ."
+      "correct_answer": "הנצחה / זיכרון",
+      "explanation_hebrew": "“remembrance” פירושו הנצחה / זיכרון."
     },
     {
       "id": "B-q8",
-      "word": "lucrative",
+      "word": "botanist",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “רְוָוחִי / מַכְנִיס”?",
+      "question": "איזו מילה באנגלית פירושה “בוטנאי / חוקר צמחים”?",
       "options": [
-        "lucrative",
-        "vertical",
-        "demographic",
-        "engaging"
+        "botanist",
+        "vibrant",
+        "harmony",
+        "varieties"
       ],
-      "correct_answer": "lucrative",
-      "explanation_hebrew": "המילה “lucrative” פירושה רְוָוחִי / מַכְנִיס."
+      "correct_answer": "botanist",
+      "explanation_hebrew": "המילה “botanist” פירושה בוטנאי / חוקר צמחים."
     },
     {
       "id": "B-q9",
-      "word": "instantly",
+      "word": "varieties",
       "type": "english_to_hebrew",
-      "question": "What does “instantly” mean?",
+      "question": "What does “varieties” mean?",
       "options": [
-        "הָגוּן / סָבִיר",
-        "מַזְהִיר",
-        "מִיָּד / בִּן רֶגַע",
-        "רוֹב"
+        "הרמוניה / התאמה",
+        "עז / מלא חיים",
+        "זנים / סוגים",
+        "ניחוח / בושם"
       ],
-      "correct_answer": "מִיָּד / בִּן רֶגַע",
-      "explanation_hebrew": "“instantly” פירושו מִיָּד / בִּן רֶגַע."
+      "correct_answer": "זנים / סוגים",
+      "explanation_hebrew": "“varieties” פירושו זנים / סוגים."
     },
     {
       "id": "B-q10",
-      "word": "engaging",
+      "word": "vibrant",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מוֹשֵׁךְ / מְרַתֵּק”?",
+      "question": "איזו מילה באנגלית פירושה “עז / מלא חיים”?",
       "options": [
-        "underestimate",
-        "consultant",
-        "engaging",
-        "influencer"
+        "harmony",
+        "fragrance",
+        "scented",
+        "vibrant"
       ],
-      "correct_answer": "engaging",
-      "explanation_hebrew": "המילה “engaging” פירושה מוֹשֵׁךְ / מְרַתֵּק."
+      "correct_answer": "vibrant",
+      "explanation_hebrew": "המילה “vibrant” פירושה עז / מלא חיים."
     },
     {
       "id": "B-q11",
-      "word": "reaction",
+      "word": "harmony",
       "type": "english_to_hebrew",
-      "question": "What does “reaction” mean?",
+      "question": "What does “harmony” mean?",
       "options": [
-        "מַשְׁפִּיעָן",
-        "תְּגוּבָה",
-        "רְוָוחִי / מַכְנִיס",
-        "קְבוּצַת אוּכְלוּסִין / פִּלּוּחַ"
+        "פריחה / לפרוח",
+        "הרמוניה / התאמה",
+        "ריחני / בעל ריח",
+        "ניחוח / בושם"
       ],
-      "correct_answer": "תְּגוּבָה",
-      "explanation_hebrew": "“reaction” פירושו תְּגוּבָה."
+      "correct_answer": "הרמוניה / התאמה",
+      "explanation_hebrew": "“harmony” פירושו הרמוניה / התאמה."
     },
     {
       "id": "B-q12",
-      "word": "reveal",
+      "word": "fragrance",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “לַחֲשׂוֹף / לְגַלּוֹת”?",
+      "question": "איזו מילה באנגלית פירושה “ניחוח / בושם”?",
       "options": [
-        "underestimate",
-        "popularity",
-        "reveal",
-        "traditional"
+        "fragrance",
+        "evergreen",
+        "bloom",
+        "scented"
       ],
-      "correct_answer": "reveal",
-      "explanation_hebrew": "המילה “reveal” פירושה לַחֲשׂוֹף / לְגַלּוֹת."
+      "correct_answer": "fragrance",
+      "explanation_hebrew": "המילה “fragrance” פירושה ניחוח / בושם."
     },
     {
       "id": "B-q13",
-      "word": "hosting",
+      "word": "scented",
       "type": "english_to_hebrew",
-      "question": "What does “hosting” mean?",
+      "question": "What does “scented” mean?",
       "options": [
-        "תְּגוּבָה",
-        "מְתַוֵּךְ",
-        "בְּדֶרֶךְ כְּלָל",
-        "מַנְחֶה / מְאָרֵחַ"
+        "פריחה / לפרוח",
+        "ריחני / בעל ריח",
+        "הנצחה / ציון זיכרון",
+        "ירוק עד"
       ],
-      "correct_answer": "מַנְחֶה / מְאָרֵחַ",
-      "explanation_hebrew": "“hosting” פירושו מַנְחֶה / מְאָרֵחַ."
+      "correct_answer": "ריחני / בעל ריח",
+      "explanation_hebrew": "“scented” פירושו ריחני / בעל ריח."
     },
     {
       "id": "B-q14",
-      "word": "analyses",
+      "word": "bloom",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מְנַתֵּחַ / בּוֹחֵן”?",
+      "question": "איזו מילה באנגלית פירושה “פריחה / לפרוח”?",
       "options": [
-        "embraced",
-        "majority",
-        "typically",
-        "analyses"
+        "bloom",
+        "evergreen",
+        "commemoration",
+        "climates"
       ],
-      "correct_answer": "analyses",
-      "explanation_hebrew": "המילה “analyses” פירושה מְנַתֵּחַ / בּוֹחֵן."
+      "correct_answer": "bloom",
+      "explanation_hebrew": "המילה “bloom” פירושה פריחה / לפרוח."
     },
     {
       "id": "B-q15",
-      "word": "consultant",
+      "word": "evergreen",
       "type": "english_to_hebrew",
-      "question": "What does “consultant” mean?",
+      "question": "What does “evergreen” mean?",
       "options": [
-        "פּוֹפּוּלָרִיּוּת",
-        "פּוֹטֶנְצְיָאלִי / עָתִידִי",
-        "מִקְצוֹעָן / מִקְצוֹעִי",
-        "יוֹעֵץ / יוֹעֶצֶת"
+        "ניחוח / ריח",
+        "אקלימים",
+        "ירוק עד",
+        "הנצחה / ציון זיכרון"
       ],
-      "correct_answer": "יוֹעֵץ / יוֹעֶצֶת",
-      "explanation_hebrew": "“consultant” פירושו יוֹעֵץ / יוֹעֶצֶת."
+      "correct_answer": "ירוק עד",
+      "explanation_hebrew": "“evergreen” פירושו ירוק עד."
     },
     {
       "id": "B-q16",
-      "word": "cautions",
+      "word": "commemoration",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מַזְהִיר”?",
+      "question": "איזו מילה באנגלית פירושה “הנצחה / ציון זיכרון”?",
       "options": [
-        "underestimate",
-        "hosting",
-        "lucrative",
-        "cautions"
+        "aroma",
+        "climates",
+        "commemoration",
+        "likened"
       ],
-      "correct_answer": "cautions",
-      "explanation_hebrew": "המילה “cautions” פירושה מַזְהִיר."
+      "correct_answer": "commemoration",
+      "explanation_hebrew": "המילה “commemoration” פירושה הנצחה / ציון זיכרון."
     },
     {
       "id": "B-q17",
-      "word": "majority",
+      "word": "climates",
       "type": "english_to_hebrew",
-      "question": "What does “majority” mean?",
+      "question": "What does “climates” mean?",
       "options": [
-        "מְנַתֵּחַ / בּוֹחֵן",
-        "רוֹב",
-        "יוֹעֵץ / יוֹעֶצֶת",
-        "אִימֵּץ / חִיבֵּק בְּחוֹם"
+        "ניחוח / ריח",
+        "הושווה / נמשל",
+        "רפואי / מרפא",
+        "אקלימים"
       ],
-      "correct_answer": "רוֹב",
-      "explanation_hebrew": "“majority” פירושו רוֹב."
+      "correct_answer": "אקלימים",
+      "explanation_hebrew": "“climates” פירושו אקלימים."
     },
     {
       "id": "B-q18",
-      "word": "underestimate",
+      "word": "aroma",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “לְהַמְעִיט בְּעֶרֶךְ / לְזַלְזֵל”?",
+      "question": "איזו מילה באנגלית פירושה “ניחוח / ריח”?",
       "options": [
-        "embraced",
-        "underestimate",
-        "traditional",
-        "majority"
+        "likened",
+        "aroma",
+        "medicinal",
+        "plaque"
       ],
-      "correct_answer": "underestimate",
-      "explanation_hebrew": "המילה “underestimate” פירושה לְהַמְעִיט בְּעֶרֶךְ / לְזַלְזֵל."
+      "correct_answer": "aroma",
+      "explanation_hebrew": "המילה “aroma” פירושה ניחוח / ריח."
     },
     {
       "id": "B-q19",
-      "word": "prospective",
+      "word": "likened",
       "type": "english_to_hebrew",
-      "question": "What does “prospective” mean?",
+      "question": "What does “likened” mean?",
       "options": [
-        "פּוֹטֶנְצְיָאלִי / עָתִידִי",
-        "יָעִיל",
-        "קְבוּצַת אוּכְלוּסִין / פִּלּוּחַ",
-        "מִקְצוֹעָן / מִקְצוֹעִי"
+        "הושווה / נמשל",
+        "קביעות / תמידיות",
+        "רפואי / מרפא",
+        "לוחית / שלט זיכרון"
       ],
-      "correct_answer": "פּוֹטֶנְצְיָאלִי / עָתִידִי",
-      "explanation_hebrew": "“prospective” פירושו פּוֹטֶנְצְיָאלִי / עָתִידִי."
+      "correct_answer": "הושווה / נמשל",
+      "explanation_hebrew": "“likened” פירושו הושווה / נמשל."
     },
     {
       "id": "B-q20",
-      "word": "intermediary",
+      "word": "medicinal",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מְתַוֵּךְ”?",
+      "question": "איזו מילה באנגלית פירושה “רפואי / מרפא”?",
       "options": [
-        "intermediary",
-        "embraced",
-        "reaction",
-        "typically"
+        "rigours",
+        "permanence",
+        "medicinal",
+        "plaque"
       ],
-      "correct_answer": "intermediary",
-      "explanation_hebrew": "המילה “intermediary” פירושה מְתַוֵּךְ."
+      "correct_answer": "medicinal",
+      "explanation_hebrew": "המילה “medicinal” פירושה רפואי / מרפא."
     },
     {
       "id": "B-q21",
-      "word": "dedicated",
+      "word": "plaque",
       "type": "english_to_hebrew",
-      "question": "What does “dedicated” mean?",
+      "question": "What does “plaque” mean?",
       "options": [
-        "יִיעוּדִי / מוּקְדָּשׁ",
-        "יוֹעֵץ / יוֹעֶצֶת",
-        "רְוָוחִי / מַכְנִיס",
-        "נְגִיפִי / נָפוֹץ בָּרֶשֶׁת"
+        "קשיים / תלאות",
+        "קביעות / תמידיות",
+        "להרהר / לחשוב לעומק",
+        "לוחית / שלט זיכרון"
       ],
-      "correct_answer": "יִיעוּדִי / מוּקְדָּשׁ",
-      "explanation_hebrew": "“dedicated” פירושו יִיעוּדִי / מוּקְדָּשׁ."
+      "correct_answer": "לוחית / שלט זיכרון",
+      "explanation_hebrew": "“plaque” פירושו לוחית / שלט זיכרון."
     },
     {
       "id": "B-q22",
-      "word": "traditional",
+      "word": "permanence",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מָסָרְתִּי”?",
+      "question": "איזו מילה באנגלית פירושה “קביעות / תמידיות”?",
       "options": [
-        "typically",
-        "traditional",
-        "prospective",
-        "effective"
+        "rigours",
+        "permanence",
+        "reflect",
+        "comfort"
       ],
-      "correct_answer": "traditional",
-      "explanation_hebrew": "המילה “traditional” פירושה מָסָרְתִּי."
+      "correct_answer": "permanence",
+      "explanation_hebrew": "המילה “permanence” פירושה קביעות / תמידיות."
     },
     {
       "id": "B-q23",
-      "word": "effective",
+      "word": "rigours",
       "type": "english_to_hebrew",
-      "question": "What does “effective” mean?",
+      "question": "What does “rigours” mean?",
       "options": [
-        "מוֹשֵׁךְ / מְרַתֵּק",
-        "יָעִיל",
-        "קְבוּצַת אוּכְלוּסִין / פִּלּוּחַ",
-        "מַשְׁפִּיעָן"
+        "להרהר / לחשוב לעומק",
+        "קשיים / תלאות",
+        "להתאבל",
+        "נחמה"
       ],
-      "correct_answer": "יָעִיל",
-      "explanation_hebrew": "“effective” פירושו יָעִיל."
+      "correct_answer": "קשיים / תלאות",
+      "explanation_hebrew": "“rigours” פירושו קשיים / תלאות."
     },
     {
       "id": "B-q24",
-      "word": "embraced",
+      "word": "reflect",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “אִימֵּץ / חִיבֵּק בְּחוֹם”?",
+      "question": "איזו מילה באנגלית פירושה “להרהר / לחשוב לעומק”?",
       "options": [
-        "dedicated",
-        "embraced",
-        "hosting",
-        "prospective"
+        "comfort",
+        "grieve",
+        "cemetery",
+        "reflect"
       ],
-      "correct_answer": "embraced",
-      "explanation_hebrew": "המילה “embraced” פירושה אִימֵּץ / חִיבֵּק בְּחוֹם."
+      "correct_answer": "reflect",
+      "explanation_hebrew": "המילה “reflect” פירושה להרהר / לחשוב לעומק."
     },
     {
       "id": "B-q25",
-      "word": "popularity",
+      "word": "comfort",
       "type": "english_to_hebrew",
-      "question": "What does “popularity” mean?",
+      "question": "What does “comfort” mean?",
       "options": [
-        "פּוֹפּוּלָרִיּוּת",
-        "מוֹשֵׁךְ / מְרַתֵּק",
-        "יוֹעֵץ / יוֹעֶצֶת",
-        "מָסָרְתִּי"
+        "בית קברות",
+        "בטרם עת / מוקדם מדי",
+        "להתאבל",
+        "נחמה"
       ],
-      "correct_answer": "פּוֹפּוּלָרִיּוּת",
-      "explanation_hebrew": "“popularity” פירושו פּוֹפּוּלָרִיּוּת."
+      "correct_answer": "נחמה",
+      "explanation_hebrew": "“comfort” פירושו נחמה."
     }
   ]
 }

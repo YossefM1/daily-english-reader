@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-14",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o",
+  "published_at": "2026-10-14T00:17:00+00:00",
+  "age_hours_at_selection": 1.92,
+  "word_count": 648,
+  "generated_at": "2026-10-14T02:12:09.266074+00:00",
+  "difficulty_reason": "Short, clear report with a chronological story and mostly B1/B2 health vocabulary; low background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "diagnosed",
+      "lemma": "diagnose",
+      "level": "B2",
+      "hebrew": "אובחן / נקבעה אבחנה",
+      "explanation_hebrew": "לקבוע שלאדם יש מחלה מסוימת לאחר בדיקות",
+      "pronunciation_hebrew": "דַּיְאַגְנוֹוְזְד",
+      "example": "The doctor diagnosed her with the flu."
+    },
+    {
+      "word": "surgery",
+      "lemma": "surgery",
+      "level": "B2",
+      "hebrew": "ניתוח",
+      "explanation_hebrew": "פעולה רפואית שבה רופא חותך בגוף כדי לטפל",
+      "pronunciation_hebrew": "סֶרְגֶ'רִי",
+      "example": "He needs surgery on his knee."
+    },
+    {
+      "word": "bulletin",
+      "lemma": "bulletin",
+      "level": "B2",
+      "hebrew": "הודעה רשמית / עלון",
+      "explanation_hebrew": "הודעה קצרה ורשמית עם מידע עדכני",
+      "pronunciation_hebrew": "בּוּלֶטִין",
+      "example": "The hospital issued a medical bulletin."
+    },
+    {
+      "word": "underwent",
+      "lemma": "undergo",
+      "level": "C1",
+      "hebrew": "עבר (טיפול או ניתוח)",
+      "explanation_hebrew": "עבר תהליך או טיפול מסוים",
+      "pronunciation_hebrew": "אַנְדֶּרְוֶונְט",
+      "example": "She underwent a long operation."
+    },
+    {
+      "word": "subsequently",
+      "lemma": "subsequently",
+      "level": "C1",
+      "hebrew": "לאחר מכן / בהמשך",
+      "explanation_hebrew": "אחרי משהו אחר, מאוחר יותר",
+      "pronunciation_hebrew": "סַבְּסִיקְוֶונְטְלִי",
+      "example": "He fell ill and subsequently stayed home."
+    },
+    {
+      "word": "complications",
+      "lemma": "complication",
+      "level": "B2",
+      "hebrew": "סיבוכים",
+      "explanation_hebrew": "בעיות נוספות שמופיעות ומקשות על המצב",
+      "pronunciation_hebrew": "קוֹמְפְּלִיקֵיישֶנְז",
+      "example": "There were no complications after surgery."
+    },
+    {
+      "word": "observation",
+      "lemma": "observation",
+      "level": "B2",
+      "hebrew": "השגחה / תצפית",
+      "explanation_hebrew": "מעקב וצפייה כדי לבדוק מה קורה",
+      "pronunciation_hebrew": "אוֹבְּזֶרְוֵיישֶן",
+      "example": "He stayed in hospital for observation."
+    },
+    {
+      "word": "detected",
+      "lemma": "detect",
+      "level": "B2",
+      "hebrew": "זוהה / התגלה",
+      "explanation_hebrew": "נמצא או נתגלה, לעיתים משהו נסתר",
+      "pronunciation_hebrew": "דִּיטֶקְטֶד",
+      "example": "The problem was detected early."
+    },
+    {
+      "word": "routine",
+      "lemma": "routine",
+      "level": "B1",
+      "hebrew": "שגרתי / שגרה",
+      "explanation_hebrew": "רגיל, שנעשה באופן קבוע",
+      "pronunciation_hebrew": "רוּטִין",
+      "example": "It was just a routine check."
+    },
+    {
+      "word": "assured",
+      "lemma": "assure",
+      "level": "B2",
+      "hebrew": "הבטיח / הרגיע",
+      "explanation_hebrew": "אמר למישהו בביטחון כדי להרגיע אותו",
+      "pronunciation_hebrew": "אַשּׁוּרְד",
+      "example": "She assured me everything was fine."
+    },
+    {
+      "word": "radical",
+      "lemma": "radical",
+      "level": "B2",
+      "hebrew": "קיצוני / יסודי",
+      "explanation_hebrew": "חזק ומקיף מאוד, לא חלקי",
+      "pronunciation_hebrew": "רָדִיקַל",
+      "example": "They made a radical change."
+    },
+    {
+      "word": "announced",
+      "lemma": "announce",
+      "level": "B1",
+      "hebrew": "הודיע / הכריז",
+      "explanation_hebrew": "אמר משהו בפומבי לרבים",
+      "pronunciation_hebrew": "אַנָאוּנְסְד",
+      "example": "He announced his decision yesterday."
+    },
+    {
+      "word": "delivering",
+      "lemma": "deliver",
+      "level": "B2",
+      "hebrew": "נשיאה / מסירה (של נאום או ברכה)",
+      "explanation_hebrew": "לומר או למסור משהו, למשל נאום או ברכה",
+      "pronunciation_hebrew": "דִּילִיוֶרִינְג",
+      "example": "She is delivering a speech now."
+    },
+    {
+      "word": "blessing",
+      "lemma": "blessing",
+      "level": "B2",
+      "hebrew": "ברכה",
+      "explanation_hebrew": "מילים טובות או דתיות לטובת מישהו",
+      "pronunciation_hebrew": "בְּלֶסִינְג",
+      "example": "The priest gave a blessing."
+    },
+    {
+      "word": "nodule",
+      "lemma": "nodule",
+      "level": "C1",
+      "hebrew": "גוש קטן / קשרית",
+      "explanation_hebrew": "גוש קטן ברקמה של הגוף",
+      "pronunciation_hebrew": "נוֹדְיוּל",
+      "example": "The doctor found a small nodule."
+    },
+    {
+      "word": "contained",
+      "lemma": "contain",
+      "level": "B2",
+      "hebrew": "תחום / מוגבל",
+      "explanation_hebrew": "נשאר בתוך תחום מסוים ואינו מתפשט",
+      "pronunciation_hebrew": "קוֹנְטֵיינְד",
+      "example": "The fire was contained quickly."
+    },
+    {
+      "word": "advised",
+      "lemma": "advise",
+      "level": "B1",
+      "hebrew": "ייעץ / המליץ",
+      "explanation_hebrew": "אמר למישהו מה כדאי לעשות",
+      "pronunciation_hebrew": "אַדְוַייזְד",
+      "example": "The doctor advised rest."
+    },
+    {
+      "word": "schedule",
+      "lemma": "schedule",
+      "level": "B1",
+      "hebrew": "לוח זמנים",
+      "explanation_hebrew": "תוכנית של זמנים לפעולות שונות",
+      "pronunciation_hebrew": "סְקֶגֶ'וּל",
+      "example": "His schedule is very busy."
+    },
+    {
+      "word": "recover",
+      "lemma": "recover",
+      "level": "B2",
+      "hebrew": "להחלים",
+      "explanation_hebrew": "לחזור לבריאות אחרי מחלה",
+      "pronunciation_hebrew": "רִיקַאבֶר",
+      "example": "It took weeks to recover."
+    },
+    {
+      "word": "confirmed",
+      "lemma": "confirm",
+      "level": "B2",
+      "hebrew": "אישר",
+      "explanation_hebrew": "אמר שמשהו נכון או בטוח",
+      "pronunciation_hebrew": "קוֹנְפֶרְמְד",
+      "example": "Tests confirmed the result."
+    },
+    {
+      "word": "stressed",
+      "lemma": "stress",
+      "level": "B2",
+      "hebrew": "הדגיש",
+      "explanation_hebrew": "אמר משהו בצורה חזקה כדי להבהיר את חשיבותו",
+      "pronunciation_hebrew": "סְטְרֶסְט",
+      "example": "He stressed the need for care."
+    },
+    {
+      "word": "symptoms",
+      "lemma": "symptom",
+      "level": "B2",
+      "hebrew": "תסמינים",
+      "explanation_hebrew": "סימנים בגוף שמראים שיש מחלה",
+      "pronunciation_hebrew": "סִימְפְּטֶמְז",
+      "example": "She had no symptoms at all."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "C1",
+      "hebrew": "פגיע",
+      "explanation_hebrew": "חלש ועלול להיפגע בקלות",
+      "pronunciation_hebrew": "וַלְנֶרַבְּל",
+      "example": "Old people can be vulnerable."
+    },
+    {
+      "word": "serenity",
+      "lemma": "serenity",
+      "level": "C2",
+      "hebrew": "שלווה",
+      "explanation_hebrew": "מצב של רוגע ושקט פנימי",
+      "pronunciation_hebrew": "סֶרֶנִיטִי",
+      "example": "Her serenity calmed everyone."
+    },
+    {
+      "word": "lingered",
+      "lemma": "linger",
+      "level": "C1",
+      "hebrew": "השתהה / נותר",
+      "explanation_hebrew": "נשאר במקום זמן רב מהצפוי",
+      "pronunciation_hebrew": "לִינְגֶרְד",
+      "example": "A few fans lingered after the show."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "diagnosed",
+      "type": "english_to_hebrew",
+      "question": "What does “diagnosed” mean?",
+      "options": [
+        "אובחן / נקבעה אבחנה",
+        "עבר (טיפול או ניתוח)",
+        "ניתוח",
+        "הודעה רשמית / עלון"
+      ],
+      "correct_answer": "אובחן / נקבעה אבחנה",
+      "explanation_hebrew": "“diagnosed” פירושו אובחן / נקבעה אבחנה."
+    },
+    {
+      "id": "A-q2",
+      "word": "surgery",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ניתוח”?",
+      "options": [
+        "underwent",
+        "surgery",
+        "bulletin",
+        "subsequently"
+      ],
+      "correct_answer": "surgery",
+      "explanation_hebrew": "המילה “surgery” פירושה ניתוח."
+    },
+    {
+      "id": "A-q3",
+      "word": "bulletin",
+      "type": "english_to_hebrew",
+      "question": "What does “bulletin” mean?",
+      "options": [
+        "סיבוכים",
+        "הודעה רשמית / עלון",
+        "עבר (טיפול או ניתוח)",
+        "לאחר מכן / בהמשך"
+      ],
+      "correct_answer": "הודעה רשמית / עלון",
+      "explanation_hebrew": "“bulletin” פירושו הודעה רשמית / עלון."
+    },
+    {
+      "id": "A-q4",
+      "word": "underwent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עבר (טיפול או ניתוח)”?",
+      "options": [
+        "complications",
+        "observation",
+        "subsequently",
+        "underwent"
+      ],
+      "correct_answer": "underwent",
+      "explanation_hebrew": "המילה “underwent” פירושה עבר (טיפול או ניתוח)."
+    },
+    {
+      "id": "A-q5",
+      "word": "subsequently",
+      "type": "english_to_hebrew",
+      "question": "What does “subsequently” mean?",
+      "options": [
+        "השגחה / תצפית",
+        "זוהה / התגלה",
+        "סיבוכים",
+        "לאחר מכן / בהמשך"
+      ],
+      "correct_answer": "לאחר מכן / בהמשך",
+      "explanation_hebrew": "“subsequently” פירושו לאחר מכן / בהמשך."
+    },
+    {
+      "id": "A-q6",
+      "word": "complications",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סיבוכים”?",
+      "options": [
+        "observation",
+        "complications",
+        "routine",
+        "detected"
+      ],
+      "correct_answer": "complications",
+      "explanation_hebrew": "המילה “complications” פירושה סיבוכים."
+    },
+    {
+      "id": "A-q7",
+      "word": "observation",
+      "type": "english_to_hebrew",
+      "question": "What does “observation” mean?",
+      "options": [
+        "זוהה / התגלה",
+        "השגחה / תצפית",
+        "שגרתי / שגרה",
+        "הבטיח / הרגיע"
+      ],
+      "correct_answer": "השגחה / תצפית",
+      "explanation_hebrew": "“observation” פירושו השגחה / תצפית."
+    },
+    {
+      "id": "A-q8",
+      "word": "detected",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זוהה / התגלה”?",
+      "options": [
+        "assured",
+        "routine",
+        "radical",
+        "detected"
+      ],
+      "correct_answer": "detected",
+      "explanation_hebrew": "המילה “detected” פירושה זוהה / התגלה."
+    },
+    {
+      "id": "A-q9",
+      "word": "routine",
+      "type": "english_to_hebrew",
+      "question": "What does “routine” mean?",
+      "options": [
+        "הבטיח / הרגיע",
+        "קיצוני / יסודי",
+        "הודיע / הכריז",
+        "שגרתי / שגרה"
+      ],
+      "correct_answer": "שגרתי / שגרה",
+      "explanation_hebrew": "“routine” פירושו שגרתי / שגרה."
+    },
+    {
+      "id": "A-q10",
+      "word": "assured",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הבטיח / הרגיע”?",
+      "options": [
+        "delivering",
+        "radical",
+        "announced",
+        "assured"
+      ],
+      "correct_answer": "assured",
+      "explanation_hebrew": "המילה “assured” פירושה הבטיח / הרגיע."
+    },
+    {
+      "id": "A-q11",
+      "word": "radical",
+      "type": "english_to_hebrew",
+      "question": "What does “radical” mean?",
+      "options": [
+        "הודיע / הכריז",
+        "נשיאה / מסירה (של נאום או ברכה)",
+        "קיצוני / יסודי",
+        "ברכה"
+      ],
+      "correct_answer": "קיצוני / יסודי",
+      "explanation_hebrew": "“radical” פירושו קיצוני / יסודי."
+    },
+    {
+      "id": "A-q12",
+      "word": "announced",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הודיע / הכריז”?",
+      "options": [
+        "nodule",
+        "blessing",
+        "announced",
+        "delivering"
+      ],
+      "correct_answer": "announced",
+      "explanation_hebrew": "המילה “announced” פירושה הודיע / הכריז."
+    },
+    {
+      "id": "A-q13",
+      "word": "delivering",
+      "type": "english_to_hebrew",
+      "question": "What does “delivering” mean?",
+      "options": [
+        "גוש קטן / קשרית",
+        "תחום / מוגבל",
+        "נשיאה / מסירה (של נאום או ברכה)",
+        "ברכה"
+      ],
+      "correct_answer": "נשיאה / מסירה (של נאום או ברכה)",
+      "explanation_hebrew": "“delivering” פירושו נשיאה / מסירה (של נאום או ברכה)."
+    },
+    {
+      "id": "A-q14",
+      "word": "blessing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ברכה”?",
+      "options": [
+        "contained",
+        "nodule",
+        "advised",
+        "blessing"
+      ],
+      "correct_answer": "blessing",
+      "explanation_hebrew": "המילה “blessing” פירושה ברכה."
+    },
+    {
+      "id": "A-q15",
+      "word": "nodule",
+      "type": "english_to_hebrew",
+      "question": "What does “nodule” mean?",
+      "options": [
+        "לוח זמנים",
+        "גוש קטן / קשרית",
+        "תחום / מוגבל",
+        "ייעץ / המליץ"
+      ],
+      "correct_answer": "גוש קטן / קשרית",
+      "explanation_hebrew": "“nodule” פירושו גוש קטן / קשרית."
+    },
+    {
+      "id": "A-q16",
+      "word": "contained",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תחום / מוגבל”?",
+      "options": [
+        "advised",
+        "contained",
+        "recover",
+        "schedule"
+      ],
+      "correct_answer": "contained",
+      "explanation_hebrew": "המילה “contained” פירושה תחום / מוגבל."
+    },
+    {
+      "id": "A-q17",
+      "word": "advised",
+      "type": "english_to_hebrew",
+      "question": "What does “advised” mean?",
+      "options": [
+        "ייעץ / המליץ",
+        "לוח זמנים",
+        "אישר",
+        "להחלים"
+      ],
+      "correct_answer": "ייעץ / המליץ",
+      "explanation_hebrew": "“advised” פירושו ייעץ / המליץ."
+    },
+    {
+      "id": "A-q18",
+      "word": "schedule",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לוח זמנים”?",
+      "options": [
+        "stressed",
+        "recover",
+        "confirmed",
+        "schedule"
+      ],
+      "correct_answer": "schedule",
+      "explanation_hebrew": "המילה “schedule” פירושה לוח זמנים."
+    },
+    {
+      "id": "A-q19",
+      "word": "recover",
+      "type": "english_to_hebrew",
+      "question": "What does “recover” mean?",
+      "options": [
+        "תסמינים",
+        "הדגיש",
+        "אישר",
+        "להחלים"
+      ],
+      "correct_answer": "להחלים",
+      "explanation_hebrew": "“recover” פירושו להחלים."
+    },
+    {
+      "id": "A-q20",
+      "word": "confirmed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אישר”?",
+      "options": [
+        "confirmed",
+        "stressed",
+        "symptoms",
+        "vulnerable"
+      ],
+      "correct_answer": "confirmed",
+      "explanation_hebrew": "המילה “confirmed” פירושה אישר."
+    },
+    {
+      "id": "A-q21",
+      "word": "stressed",
+      "type": "english_to_hebrew",
+      "question": "What does “stressed” mean?",
+      "options": [
+        "הדגיש",
+        "תסמינים",
+        "פגיע",
+        "שלווה"
+      ],
+      "correct_answer": "הדגיש",
+      "explanation_hebrew": "“stressed” פירושו הדגיש."
+    },
+    {
+      "id": "A-q22",
+      "word": "symptoms",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תסמינים”?",
+      "options": [
+        "lingered",
+        "serenity",
+        "vulnerable",
+        "symptoms"
+      ],
+      "correct_answer": "symptoms",
+      "explanation_hebrew": "המילה “symptoms” פירושה תסמינים."
+    },
+    {
+      "id": "A-q23",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "אובחן / נקבעה אבחנה",
+        "שלווה",
+        "פגיע",
+        "השתהה / נותר"
+      ],
+      "correct_answer": "פגיע",
+      "explanation_hebrew": "“vulnerable” פירושו פגיע."
+    },
+    {
+      "id": "A-q24",
+      "word": "serenity",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שלווה”?",
+      "options": [
+        "serenity",
+        "surgery",
+        "diagnosed",
+        "lingered"
+      ],
+      "correct_answer": "serenity",
+      "explanation_hebrew": "המילה “serenity” פירושה שלווה."
+    },
+    {
+      "id": "A-q25",
+      "word": "lingered",
+      "type": "english_to_hebrew",
+      "question": "What does “lingered” mean?",
+      "options": [
+        "הודעה רשמית / עלון",
+        "ניתוח",
+        "אובחן / נקבעה אבחנה",
+        "השתהה / נותר"
+      ],
+      "correct_answer": "השתהה / נותר",
+      "explanation_hebrew": "“lingered” פירושו השתהה / נותר."
+    }
+  ]
+}
