@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-14",
+  "article_id": "A",
+  "article_title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "The Pope cancelled a planned hospital visit because he felt well.",
+        "Pope Leo was diagnosed with lung cancer after successful surgery and is expected to recover in hospital.",
+        "The Vatican announced that all papal travel would stop permanently.",
+        "Doctors found that the Pope's lung nodule was not cancerous."
+      ],
+      "correct_answer": "Pope Leo was diagnosed with lung cancer after successful surgery and is expected to recover in hospital.",
+      "explanation_hebrew": "הכתבה עוסקת באבחון סרטן הריאות של האפיפיור לאחר ניתוח מוצלח ובהמשך ההחלמה הצפוי שלו בבית החולים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did surgeons remove during the operation?",
+      "difficulty": "A",
+      "options": [
+        "The whole lower lobe of his right lung",
+        "A small part of his left lung",
+        "Both lungs",
+        "Only a sample of skin"
+      ],
+      "correct_answer": "The whole lower lobe of his right lung",
+      "explanation_hebrew": "המנתחים הסירו את כל האונה התחתונה של הריאה הימנית כדי להבטיח טיפול יסודי."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “contained” mean when the Pope described the nodule?",
+      "difficulty": "A",
+      "options": [
+        "It had spread throughout his body.",
+        "It was hidden from the doctors.",
+        "It appeared limited to one area.",
+        "It had disappeared without treatment."
+      ],
+      "correct_answer": "It appeared limited to one area.",
+      "explanation_hebrew": "בהקשר זה contained פירושו שהגידול נראה מוגבל לאזור מסוים ולא מפושט."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How long is Pope Leo expected to remain in hospital?",
+      "difficulty": "A",
+      "options": [
+        "One night",
+        "About one month",
+        "Until his Latin America trip ends",
+        "About a week"
+      ],
+      "correct_answer": "About a week",
+      "explanation_hebrew": "לפי הכתבה, האפיפיור צפוי להישאר בבית החולים כשבוע."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why was the Pope's schedule cleared until 20 October?",
+      "difficulty": "A",
+      "options": [
+        "To give him time to recover after surgery",
+        "To allow him to move permanently to the hospital",
+        "Because he had decided to retire",
+        "Because the Vatican was closed to visitors"
+      ],
+      "correct_answer": "To give him time to recover after surgery",
+      "explanation_hebrew": "פינוי לוח הזמנים נועד לאפשר לו לנוח ולהחלים לאחר הניתוח."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “a bolt from the blue” mean?",
+      "difficulty": "A",
+      "options": [
+        "A routine medical result",
+        "An unexpected and shocking event",
+        "A sign of good weather",
+        "A planned public announcement"
+      ],
+      "correct_answer": "An unexpected and shocking event",
+      "explanation_hebrew": "הביטוי a bolt from the blue מתאר ידיעה מפתיעה ומטלטלת שהגיעה ללא ציפייה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What did the Vatican report about the operation and the Pope's condition afterwards?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שהניתוח נמשך 90 דקות, הצליח ללא סיבוכים, שהאפיפיור התעורר כרגיל וחזר לחדרו לאחר השגחה קצרה.",
+      "expected_points": [
+        "The operation lasted about 90 minutes.",
+        "The Vatican said it was successful and had no complications.",
+        "The Pope woke normally after surgery.",
+        "He returned to his room after a brief period of observation."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the lung problem was found, treated and diagnosed.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את הבדיקות השגרתיות, גילוי הגוש בשלב מוקדם, החלטת הרופאים להסירו, הסרת האונה והאבחנה של אדנוקרצינומה.",
+      "expected_points": [
+        "A lung lump was detected during routine checks.",
+        "The Pope said it was found at a very early stage and doctors advised removal.",
+        "Surgeons removed the lower lobe of his right lung.",
+        "Examination confirmed pulmonary adenocarcinoma after the operation."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why are further tests being carried out even though the surgery was successful?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהצלחת הניתוח והיעדר סיבוכים אינם מוכיחים שהמחלה לא התפשטה, ולכן נדרשות בדיקות נוספות.",
+      "expected_points": [
+        "The operation successfully removed the affected lung lobe.",
+        "Doctors still need to determine whether cancer cells have spread elsewhere.",
+        "A successful procedure does not by itself answer every question about the disease.",
+        "The test results can guide later medical decisions."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short, neutral update about Pope Leo's health using only facts from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את האבחנה, הצלחת הניתוח, היעדר הסיבוכים, השהייה הצפויה בבית החולים והבדיקות הנוספות, ללא ניחושים.",
+      "expected_points": [
+        "State that Pope Leo was diagnosed with lung adenocarcinoma after surgery.",
+        "Mention that the lower lobe of his right lung was removed successfully without complications.",
+        "Say that he is expected to remain in hospital for about a week.",
+        "Note that further tests are checking whether the cancer has spread."
+      ]
+    }
+  ]
+}

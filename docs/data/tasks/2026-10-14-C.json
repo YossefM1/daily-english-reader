@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-14",
+  "article_id": "C",
+  "article_title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central theme of the article?",
+      "difficulty": "C",
+      "options": [
+        "China is replacing hospitals with delivery companies.",
+        "Paid companionship services are growing as people across generations experience loneliness and weakened support networks.",
+        "Most elderly people in China have decided to enter retirement homes.",
+        "Mountain tourism has become China's largest industry."
+      ],
+      "correct_answer": "Paid companionship services are growing as people across generations experience loneliness and weakened support networks.",
+      "explanation_hebrew": "הכתבה בוחנת את צמיחת שירותי הליווי בתשלום כתגובה לבדידות ולשינויים ברשתות התמיכה החברתיות בסין."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does Wang Yingwei's team help older clients beyond delivering meals?",
+      "difficulty": "C",
+      "options": [
+        "They arrange international holidays.",
+        "They provide practical help, companionship and repairs that make daily life easier.",
+        "They move every client into a nursing home.",
+        "They offer medical surgery at home."
+      ],
+      "correct_answer": "They provide practical help, companionship and repairs that make daily life easier.",
+      "explanation_hebrew": "הצוות מספק קשר אנושי ועזרה מעשית, כגון התקנת מסנן מים או תיקון מקלחת וציוד ביתי."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “exacerbated” mean in the discussion of urban isolation?",
+      "difficulty": "C",
+      "options": [
+        "Made worse",
+        "Completely solved",
+        "Carefully measured",
+        "Hidden from public view"
+      ],
+      "correct_answer": "Made worse",
+      "explanation_hebrew": "exacerbated פירושו הוחמרה; מבנה החברה ודפוסי האינטראקציה מגבירים את תחושת הבדידות."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why do some young adults hire Liu Yanyan as a medical escort?",
+      "difficulty": "C",
+      "options": [
+        "They want her to diagnose their illnesses.",
+        "Hospitals allow entry only with a paid escort.",
+        "They may feel anxious going alone or uncomfortable asking colleagues for help because of expected reciprocity.",
+        "She guarantees that they will receive test results immediately."
+      ],
+      "correct_answer": "They may feel anxious going alone or uncomfortable asking colleagues for help because of expected reciprocity.",
+      "explanation_hebrew": "צעירים מסוימים חוששים ללכת לבד או חשים שמבקשת עזרה מחבר תיצור מחויבות להחזיר טובה, ולכן משלמים למלווה."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might a paid service feel more predictable than friendship to some clients?",
+      "difficulty": "C",
+      "options": [
+        "The service defines expected support without the same uncertainty or reciprocal obligations.",
+        "Paid companions are legally required to become family members.",
+        "Friendship is banned in large Chinese cities.",
+        "Clients can control every feeling of the companion."
+      ],
+      "correct_answer": "The service defines expected support without the same uncertainty or reciprocal obligations.",
+      "explanation_hebrew": "בשירות בתשלום הציפיות מוגדרות יותר, והלקוח אינו נדרש להתמודד באותה מידה עם אי־ודאות או מחויבות הדדית."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “commodity” mean in the final discussion of human connection?",
+      "difficulty": "C",
+      "options": [
+        "A private thought that cannot be shared",
+        "A basic human need that has also become something bought and sold",
+        "A government ban on companionship",
+        "A medical diagnosis caused by loneliness"
+      ],
+      "correct_answer": "A basic human need that has also become something bought and sold",
+      "explanation_hebrew": "commodity הוא דבר בעל ערך שניתן לקנות ולמכור; הכתבה טוענת שקשר אנושי הפך גם לשירות מסחרי."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What social and personal factors does the article identify as causes of loneliness in China?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין הגירה מהכפר לעיר, מעבר בוגרים בעקבות עבודה, התרחקות ממשפחה וחברים, פרישה, אובדן בן זוג, לחץ חברתי וקושי לבקש עזרה.",
+      "expected_points": [
+        "Rural migrants leave close-knit support networks for cities.",
+        "Graduates move across the country to pursue employment.",
+        "Older people may lose spouses, retire or live far from their children.",
+        "Fast-paced work, relationship pressures and expectations can leave people isolated or reluctant to seek informal help."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the different forms of paid companionship described in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר את ביקורי הבית והארוחות, הליווי הרפואי, ליווי הטיולים והתמיכה הרגשית, ואת הצורך המשותף שכל השירותים ממלאים.",
+      "expected_points": [
+        "Wang Yingwei's team delivers meals, visits elderly clients and solves practical household problems.",
+        "Liu Yanyan accompanies clients to hospitals or collects tests and medication.",
+        "Wang Zhoutao guides hikers and offers encouragement, jokes and practical support.",
+        "All the services sell reliable human presence and emotional connection to people who feel isolated."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What benefits and risks can arise when human connection becomes a paid service?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג באופן מאוזן נגישות, צפיות ברורות וסיוע מעשי מול תלות, אי־שוויון ביחסים והעובדה ששירות פרטי אינו פותר את שורשי הבדידות.",
+      "expected_points": [
+        "Paid services can provide reliable help and companionship when family or friends are unavailable.",
+        "Clear service expectations may reduce anxiety about reciprocity or disappointment.",
+        "Clients may become dependent on a provider they cannot afford indefinitely.",
+        "A commercial relationship is unequal and may address immediate isolation without repairing broader social support networks."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a concise proposal for a community programme inspired by the article but not based only on payment.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע חיבור קבוע בין מתנדבים לתושבים מבודדים, עזרה מעשית וליווי, הכשרה ובדיקות בטיחות, ומנגנון להפניה לשירותים מקצועיים.",
+      "expected_points": [
+        "Create regular matched visits or calls for isolated older adults and newcomers.",
+        "Include practical help with errands, technology or appointments as well as conversation.",
+        "Train and screen volunteers and establish clear boundaries and safeguarding procedures.",
+        "Partner with health and community services for referrals when needs exceed volunteer support."
+      ]
+    }
+  ]
+}

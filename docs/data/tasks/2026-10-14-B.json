@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-14",
+  "article_id": "B",
+  "article_title": "Our memorial garden helps us grieve - a cemetery felt too far away",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "How memorial gardens and plants can help people remember loved ones and cope with grief",
+        "Why cemeteries should replace all public gardens",
+        "How professional gardeners compete to grow rare flowers",
+        "Why indoor plants are unsuitable for remembrance"
+      ],
+      "correct_answer": "How memorial gardens and plants can help people remember loved ones and cope with grief",
+      "explanation_hebrew": "הכתבה מסבירה כיצד מרחבים ירוקים וצמחים יכולים לסייע בזיכרון אדם אהוב ובהתמודדות עם אבל."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Emma Moore create a memorial space at home?",
+      "difficulty": "B",
+      "options": [
+        "She wanted to enter a national gardening contest.",
+        "She needed a place to grow vegetables for her family.",
+        "Visiting a cemetery felt too distant, and she wanted to feel close to Mabel every day.",
+        "Her local cemetery asked her to move Mabel's ashes."
+      ],
+      "correct_answer": "Visiting a cemetery felt too distant, and she wanted to feel close to Mabel every day.",
+      "explanation_hebrew": "אמה הרגישה שביקורים בבית קברות רחוקים ממנה ורצתה מקום יומיומי ואישי לזכר בתה מייבל."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “fizzle out” mean when Emma describes cemetery visits?",
+      "difficulty": "B",
+      "options": [
+        "Become more frequent over time",
+        "Gradually become less frequent and stop",
+        "Turn into a formal ceremony",
+        "Cause plants to grow faster"
+      ],
+      "correct_answer": "Gradually become less frequent and stop",
+      "explanation_hebrew": "fizzle out פירושו לדעוך בהדרגה; אמה חששה שהביקורים יהפכו לנדירים ולבסוף ייפסקו."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which flowers are Emma's favourite in Mabel's garden?",
+      "difficulty": "B",
+      "options": [
+        "Roses",
+        "Chrysanthemums",
+        "Frangipanis",
+        "Lilies"
+      ],
+      "correct_answer": "Lilies",
+      "explanation_hebrew": "אמה ציינה שהחבצלות הן הפרחים האהובים עליה מבין אלה שנשתלו בגינה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does James Wong say people do not need to follow traditional colour rules?",
+      "difficulty": "B",
+      "options": [
+        "Because flower colour is a personal choice and different colours affect people differently",
+        "Because only white flowers can survive in Britain",
+        "Because memorial gardens are legally required to use bright red flowers",
+        "Because colour has no connection to mood or remembrance"
+      ],
+      "correct_answer": "Because flower colour is a personal choice and different colours affect people differently",
+      "explanation_hebrew": "וונג מדגיש שבחירת הצבע אישית: יש מי שנרגע מגוונים רכים ואחרים מתעודדים מצבעים עזים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does a bench's “sense of permanence” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "It can be moved to a new place every day.",
+        "It gives the memorial space a lasting and stable presence.",
+        "It guarantees that grief will disappear.",
+        "It needs no maintenance for decades."
+      ],
+      "correct_answer": "It gives the memorial space a lasting and stable presence.",
+      "explanation_hebrew": "sense of permanence מתאר תחושה שהמקום והזיכרון קבועים, יציבים ונשארים לאורך זמן."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What features did Emma include in Mabel's memorial garden, and how does she use the space?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין את עץ הערבה, הפרחים והאדניות, הספסל עם שמו של מייבל, הנדנדה, ואת הישיבה במקום לצורך מחשבה ונחמה.",
+      "expected_points": [
+        "The family dedicated an area under a willow tree.",
+        "They planted flowers, including lilies, in planters.",
+        "Emma placed a bench with a plaque bearing Mabel's name.",
+        "She sits there, often with tea, to think, reflect and feel comforted."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the practical advice the article gives for creating a memorial space.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול בחירת צמחים לפי מקום ותנאים, שימוש בצבע וריח, מקום ישיבה, ואפשרויות למי שאין לו גינה.",
+      "expected_points": [
+        "Choose plants and colours that feel personally meaningful rather than following fixed traditions.",
+        "Use scented flowers or leaves to engage memory and create a calm atmosphere.",
+        "Add nearby seating to encourage rest, reflection and conversation.",
+        "People without gardens can use suitable house plants, balconies or window boxes."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How can a memorial garden support grief without replacing memories of the person who died?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שהמרחב מספק נקודת מיקוד מוחשית, שקטה וקבועה שמאפשרת מחשבה, שיחה וחיבור לזיכרונות.",
+      "expected_points": [
+        "The garden provides a physical place associated with the loved one.",
+        "Gardening gives the bereaved person a constructive focus.",
+        "Plants, scents and stillness can help bring memories to mind.",
+        "Seating creates time for reflection or conversation while grief continues."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short plan for a memorial space suitable for someone who has only a balcony or windowsill.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע צמחים המתאימים לתנאי המקום, צבע או ריח משמעותיים, סידור בטוח ומקום סמוך לישיבה או שיחה.",
+      "expected_points": [
+        "Select a plant suited to the available light, warmth and space.",
+        "Choose colours or scents connected with the person being remembered.",
+        "Use a stable pot, window box or balcony container.",
+        "If possible, place a chair nearby for reflection or conversation."
+      ]
+    }
+  ]
+}
