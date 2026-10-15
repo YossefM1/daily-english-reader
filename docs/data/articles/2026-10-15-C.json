@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-15",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "How data centres became the sleeper issue that could decide the US midterms",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
+  "published_at": "2026-10-14T23:02:57+00:00",
+  "age_hours_at_selection": 3.12,
+  "word_count": 1385,
+  "generated_at": "2026-10-15T02:10:17.831803+00:00",
+  "difficulty_reason": "Dense political-analysis piece with long sentences, many sources and abstract vocabulary (B2/C1/C2); needs background on US politics and the AI industry.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "backlash",
+      "lemma": "backlash",
+      "level": "C1",
+      "hebrew": "תגובת נגד",
+      "explanation_hebrew": "התנגדות ציבורית חזקה",
+      "pronunciation_hebrew": "בַּקְלַאשׁ",
+      "example": "There was a public backlash."
+    },
+    {
+      "word": "curbing",
+      "lemma": "curb",
+      "level": "C1",
+      "hebrew": "ריסון",
+      "explanation_hebrew": "הגבלה או בלימה של תופעה",
+      "pronunciation_hebrew": "קֶרְבִּינְג",
+      "example": "A law aimed at curbing growth."
+    },
+    {
+      "word": "expansion",
+      "lemma": "expansion",
+      "level": "B2",
+      "hebrew": "התרחבות",
+      "explanation_hebrew": "גדילה והתפשטות",
+      "pronunciation_hebrew": "אִיקְסְפַּנְשְן",
+      "example": "The rapid expansion worried people."
+    },
+    {
+      "word": "sentiment",
+      "lemma": "sentiment",
+      "level": "C1",
+      "hebrew": "הלך רוח",
+      "explanation_hebrew": "תחושה או דעה כללית של ציבור",
+      "pronunciation_hebrew": "סֶנְטִימֶנְט",
+      "example": "Public sentiment has turned against it."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "B2",
+      "hebrew": "תשתית",
+      "explanation_hebrew": "מערכות בסיס כמו דרכים וחשמל",
+      "pronunciation_hebrew": "אִינְפְרַסְטְרַקְצֶ'ר",
+      "example": "Roads are basic infrastructure."
+    },
+    {
+      "word": "embodiment",
+      "lemma": "embodiment",
+      "level": "C2",
+      "hebrew": "התגלמות",
+      "explanation_hebrew": "ייצוג מוחשי של רעיון",
+      "pronunciation_hebrew": "אִימְבּוֹדִימֶנְט",
+      "example": "It is the embodiment of the trend."
+    },
+    {
+      "word": "explosive",
+      "lemma": "explosive",
+      "level": "B2",
+      "hebrew": "מתפרץ",
+      "explanation_hebrew": "מהיר וחזק מאוד",
+      "pronunciation_hebrew": "אִיקְסְפְּלוֹוְסִיב",
+      "example": "There was explosive growth in the field."
+    },
+    {
+      "word": "generators",
+      "lemma": "generator",
+      "level": "B2",
+      "hebrew": "גנרטורים",
+      "explanation_hebrew": "מכשירים שמייצרים חשמל",
+      "pronunciation_hebrew": "גֶ'נֶרֵיְטֶרְז",
+      "example": "The site runs diesel generators."
+    },
+    {
+      "word": "permits",
+      "lemma": "permit",
+      "level": "B2",
+      "hebrew": "היתרים",
+      "explanation_hebrew": "אישורים רשמיים לעשות משהו",
+      "pronunciation_hebrew": "פֶּרְמִיטְס",
+      "example": "They need local permits to build."
+    },
+    {
+      "word": "opposition",
+      "lemma": "opposition",
+      "level": "B2",
+      "hebrew": "התנגדות",
+      "explanation_hebrew": "עמדה נגד משהו",
+      "pronunciation_hebrew": "אוֹפֶּזִישְן",
+      "example": "Opposition grew quickly."
+    },
+    {
+      "word": "pushback",
+      "lemma": "pushback",
+      "level": "C1",
+      "hebrew": "התנגדות נגדית",
+      "explanation_hebrew": "דחייה או מחאה כנגד מהלך",
+      "pronunciation_hebrew": "פּוּשְׁבַּאק",
+      "example": "There was huge pushback from residents."
+    },
+    {
+      "word": "articulates",
+      "lemma": "articulate",
+      "level": "C1",
+      "hebrew": "מנסח בבהירות",
+      "explanation_hebrew": "מבטא רעיון בצורה ברורה",
+      "pronunciation_hebrew": "אַרְטִיקְיוּלֵיְטְס",
+      "example": "Whoever articulates a clear position wins."
+    },
+    {
+      "word": "constituents",
+      "lemma": "constituent",
+      "level": "C1",
+      "hebrew": "בוחרים",
+      "explanation_hebrew": "תושבי אזור בחירה",
+      "pronunciation_hebrew": "קֶנְסְטִיטְיוּאֶנְטְס",
+      "example": "His constituents are unhappy."
+    },
+    {
+      "word": "championed",
+      "lemma": "champion",
+      "level": "C1",
+      "hebrew": "קידם בלהט",
+      "explanation_hebrew": "תמך בנחישות ברעיון",
+      "pronunciation_hebrew": "צֶ'מְפְּיֶנְד",
+      "example": "He championed the new growth."
+    },
+    {
+      "word": "unrestrained",
+      "lemma": "unrestrained",
+      "level": "C1",
+      "hebrew": "חסר רסן",
+      "explanation_hebrew": "ללא הגבלה או שליטה",
+      "pronunciation_hebrew": "אַנְרִיסְטְרֵיְנְד",
+      "example": "They allowed unrestrained growth."
+    },
+    {
+      "word": "conspiracy",
+      "lemma": "conspiracy",
+      "level": "C1",
+      "hebrew": "קשר",
+      "explanation_hebrew": "תוכנית סודית לפגוע",
+      "pronunciation_hebrew": "קֶנְסְפִּירַסִי",
+      "example": "He called it a sick conspiracy."
+    },
+    {
+      "word": "legislation",
+      "lemma": "legislation",
+      "level": "C1",
+      "hebrew": "חקיקה",
+      "explanation_hebrew": "חוקים שמחוקקים או מציעים",
+      "pronunciation_hebrew": "לֶגִ'יסְלֵיְשְן",
+      "example": "They are working on new legislation."
+    },
+    {
+      "word": "advocates",
+      "lemma": "advocate",
+      "level": "B2",
+      "hebrew": "פעילים",
+      "explanation_hebrew": "אנשים שתומכים במטרה ופועלים למענה",
+      "pronunciation_hebrew": "אַדְבֶקֶטְס",
+      "example": "Industry advocates made big claims."
+    },
+    {
+      "word": "enacted",
+      "lemma": "enact",
+      "level": "C1",
+      "hebrew": "חוקק",
+      "explanation_hebrew": "העביר חוק רשמי",
+      "pronunciation_hebrew": "אִינַקְטֶד",
+      "example": "The governor enacted a pause."
+    },
+    {
+      "word": "moratoriums",
+      "lemma": "moratorium",
+      "level": "C2",
+      "hebrew": "הקפאות זמניות",
+      "explanation_hebrew": "עצירות זמניות של פעילות",
+      "pronunciation_hebrew": "מוֹרֶטוֹרִיֶמְז",
+      "example": "Most moratoriums will soon end."
+    },
+    {
+      "word": "appease",
+      "lemma": "appease",
+      "level": "C1",
+      "hebrew": "לפייס",
+      "explanation_hebrew": "להרגיע מישהו כועס",
+      "pronunciation_hebrew": "אַפִּיז",
+      "example": "They acted to appease voters."
+    },
+    {
+      "word": "undeniable",
+      "lemma": "undeniable",
+      "level": "C1",
+      "hebrew": "שאי אפשר להכחיש",
+      "explanation_hebrew": "ברור ואין עליו עוררין",
+      "pronunciation_hebrew": "אַנְדִינַיֶבְּל",
+      "example": "It became an undeniable issue."
+    },
+    {
+      "word": "epicentre",
+      "lemma": "epicentre",
+      "level": "C1",
+      "hebrew": "מוקד",
+      "explanation_hebrew": "המרכז של אירוע או תופעה",
+      "pronunciation_hebrew": "אֶפִּיסֶנְטֶר",
+      "example": "The state was the epicentre of growth."
+    },
+    {
+      "word": "backtracking",
+      "lemma": "backtrack",
+      "level": "C1",
+      "hebrew": "חזרה מעמדה",
+      "explanation_hebrew": "נסיגה מדעה קודמת",
+      "pronunciation_hebrew": "בַּקְטְרַקִינְג",
+      "example": "He was backtracking within months."
+    },
+    {
+      "word": "vociferously",
+      "lemma": "vociferously",
+      "level": "C2",
+      "hebrew": "בקולניות",
+      "explanation_hebrew": "בקול רם ובתקיפות",
+      "pronunciation_hebrew": "ווֹסִיפֶרֶסְלִי",
+      "example": "She was vociferously opposed to it."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "backlash",
+      "type": "english_to_hebrew",
+      "question": "What does “backlash” mean?",
+      "options": [
+        "תשתית",
+        "הקפאות זמניות",
+        "תגובת נגד",
+        "הלך רוח"
+      ],
+      "correct_answer": "תגובת נגד",
+      "explanation_hebrew": "“backlash” פירושו תגובת נגד."
+    },
+    {
+      "id": "C-q2",
+      "word": "curbing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ריסון”?",
+      "options": [
+        "curbing",
+        "undeniable",
+        "explosive",
+        "appease"
+      ],
+      "correct_answer": "curbing",
+      "explanation_hebrew": "המילה “curbing” פירושה ריסון."
+    },
+    {
+      "id": "C-q3",
+      "word": "expansion",
+      "type": "english_to_hebrew",
+      "question": "What does “expansion” mean?",
+      "options": [
+        "ריסון",
+        "התרחבות",
+        "גנרטורים",
+        "התנגדות"
+      ],
+      "correct_answer": "התרחבות",
+      "explanation_hebrew": "“expansion” פירושו התרחבות."
+    },
+    {
+      "id": "C-q4",
+      "word": "sentiment",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הלך רוח”?",
+      "options": [
+        "championed",
+        "sentiment",
+        "curbing",
+        "moratoriums"
+      ],
+      "correct_answer": "sentiment",
+      "explanation_hebrew": "המילה “sentiment” פירושה הלך רוח."
+    },
+    {
+      "id": "C-q5",
+      "word": "infrastructure",
+      "type": "english_to_hebrew",
+      "question": "What does “infrastructure” mean?",
+      "options": [
+        "פעילים",
+        "תשתית",
+        "בוחרים",
+        "קידם בלהט"
+      ],
+      "correct_answer": "תשתית",
+      "explanation_hebrew": "“infrastructure” פירושו תשתית."
+    },
+    {
+      "id": "C-q6",
+      "word": "embodiment",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התגלמות”?",
+      "options": [
+        "opposition",
+        "conspiracy",
+        "explosive",
+        "embodiment"
+      ],
+      "correct_answer": "embodiment",
+      "explanation_hebrew": "המילה “embodiment” פירושה התגלמות."
+    },
+    {
+      "id": "C-q7",
+      "word": "explosive",
+      "type": "english_to_hebrew",
+      "question": "What does “explosive” mean?",
+      "options": [
+        "היתרים",
+        "שאי אפשר להכחיש",
+        "ריסון",
+        "מתפרץ"
+      ],
+      "correct_answer": "מתפרץ",
+      "explanation_hebrew": "“explosive” פירושו מתפרץ."
+    },
+    {
+      "id": "C-q8",
+      "word": "generators",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גנרטורים”?",
+      "options": [
+        "undeniable",
+        "generators",
+        "curbing",
+        "championed"
+      ],
+      "correct_answer": "generators",
+      "explanation_hebrew": "המילה “generators” פירושה גנרטורים."
+    },
+    {
+      "id": "C-q9",
+      "word": "permits",
+      "type": "english_to_hebrew",
+      "question": "What does “permits” mean?",
+      "options": [
+        "חקיקה",
+        "חזרה מעמדה",
+        "תשתית",
+        "היתרים"
+      ],
+      "correct_answer": "היתרים",
+      "explanation_hebrew": "“permits” פירושו היתרים."
+    },
+    {
+      "id": "C-q10",
+      "word": "opposition",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התנגדות”?",
+      "options": [
+        "permits",
+        "opposition",
+        "unrestrained",
+        "pushback"
+      ],
+      "correct_answer": "opposition",
+      "explanation_hebrew": "המילה “opposition” פירושה התנגדות."
+    },
+    {
+      "id": "C-q11",
+      "word": "pushback",
+      "type": "english_to_hebrew",
+      "question": "What does “pushback” mean?",
+      "options": [
+        "קשר",
+        "התנגדות נגדית",
+        "היתרים",
+        "בקולניות"
+      ],
+      "correct_answer": "התנגדות נגדית",
+      "explanation_hebrew": "“pushback” פירושו התנגדות נגדית."
+    },
+    {
+      "id": "C-q12",
+      "word": "articulates",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מנסח בבהירות”?",
+      "options": [
+        "moratoriums",
+        "embodiment",
+        "epicentre",
+        "articulates"
+      ],
+      "correct_answer": "articulates",
+      "explanation_hebrew": "המילה “articulates” פירושה מנסח בבהירות."
+    },
+    {
+      "id": "C-q13",
+      "word": "constituents",
+      "type": "english_to_hebrew",
+      "question": "What does “constituents” mean?",
+      "options": [
+        "קידם בלהט",
+        "מוקד",
+        "בוחרים",
+        "מתפרץ"
+      ],
+      "correct_answer": "בוחרים",
+      "explanation_hebrew": "“constituents” פירושו בוחרים."
+    },
+    {
+      "id": "C-q14",
+      "word": "championed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קידם בלהט”?",
+      "options": [
+        "championed",
+        "infrastructure",
+        "opposition",
+        "sentiment"
+      ],
+      "correct_answer": "championed",
+      "explanation_hebrew": "המילה “championed” פירושה קידם בלהט."
+    },
+    {
+      "id": "C-q15",
+      "word": "unrestrained",
+      "type": "english_to_hebrew",
+      "question": "What does “unrestrained” mean?",
+      "options": [
+        "קשר",
+        "חסר רסן",
+        "התנגדות נגדית",
+        "קידם בלהט"
+      ],
+      "correct_answer": "חסר רסן",
+      "explanation_hebrew": "“unrestrained” פירושו חסר רסן."
+    },
+    {
+      "id": "C-q16",
+      "word": "conspiracy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קשר”?",
+      "options": [
+        "conspiracy",
+        "generators",
+        "curbing",
+        "vociferously"
+      ],
+      "correct_answer": "conspiracy",
+      "explanation_hebrew": "המילה “conspiracy” פירושה קשר."
+    },
+    {
+      "id": "C-q17",
+      "word": "legislation",
+      "type": "english_to_hebrew",
+      "question": "What does “legislation” mean?",
+      "options": [
+        "ריסון",
+        "חסר רסן",
+        "חקיקה",
+        "לפייס"
+      ],
+      "correct_answer": "חקיקה",
+      "explanation_hebrew": "“legislation” פירושו חקיקה."
+    },
+    {
+      "id": "C-q18",
+      "word": "advocates",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פעילים”?",
+      "options": [
+        "advocates",
+        "embodiment",
+        "permits",
+        "curbing"
+      ],
+      "correct_answer": "advocates",
+      "explanation_hebrew": "המילה “advocates” פירושה פעילים."
+    },
+    {
+      "id": "C-q19",
+      "word": "enacted",
+      "type": "english_to_hebrew",
+      "question": "What does “enacted” mean?",
+      "options": [
+        "חוקק",
+        "הקפאות זמניות",
+        "גנרטורים",
+        "היתרים"
+      ],
+      "correct_answer": "חוקק",
+      "explanation_hebrew": "“enacted” פירושו חוקק."
+    },
+    {
+      "id": "C-q20",
+      "word": "moratoriums",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הקפאות זמניות”?",
+      "options": [
+        "pushback",
+        "appease",
+        "moratoriums",
+        "explosive"
+      ],
+      "correct_answer": "moratoriums",
+      "explanation_hebrew": "המילה “moratoriums” פירושה הקפאות זמניות."
+    },
+    {
+      "id": "C-q21",
+      "word": "appease",
+      "type": "english_to_hebrew",
+      "question": "What does “appease” mean?",
+      "options": [
+        "חקיקה",
+        "התנגדות",
+        "לפייס",
+        "התגלמות"
+      ],
+      "correct_answer": "לפייס",
+      "explanation_hebrew": "“appease” פירושו לפייס."
+    },
+    {
+      "id": "C-q22",
+      "word": "undeniable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שאי אפשר להכחיש”?",
+      "options": [
+        "moratoriums",
+        "advocates",
+        "legislation",
+        "undeniable"
+      ],
+      "correct_answer": "undeniable",
+      "explanation_hebrew": "המילה “undeniable” פירושה שאי אפשר להכחיש."
+    },
+    {
+      "id": "C-q23",
+      "word": "epicentre",
+      "type": "english_to_hebrew",
+      "question": "What does “epicentre” mean?",
+      "options": [
+        "גנרטורים",
+        "היתרים",
+        "מוקד",
+        "הלך רוח"
+      ],
+      "correct_answer": "מוקד",
+      "explanation_hebrew": "“epicentre” פירושו מוקד."
+    },
+    {
+      "id": "C-q24",
+      "word": "backtracking",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חזרה מעמדה”?",
+      "options": [
+        "backtracking",
+        "pushback",
+        "unrestrained",
+        "infrastructure"
+      ],
+      "correct_answer": "backtracking",
+      "explanation_hebrew": "המילה “backtracking” פירושה חזרה מעמדה."
+    },
+    {
+      "id": "C-q25",
+      "word": "vociferously",
+      "type": "english_to_hebrew",
+      "question": "What does “vociferously” mean?",
+      "options": [
+        "תשתית",
+        "התגלמות",
+        "בקולניות",
+        "התנגדות נגדית"
+      ],
+      "correct_answer": "בקולניות",
+      "explanation_hebrew": "“vociferously” פירושו בקולניות."
+    }
+  ]
+}

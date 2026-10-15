@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-15",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "I'm 12 and want to try protein powder - should I?",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go",
+  "published_at": "2026-10-15T00:00:35+00:00",
+  "age_hours_at_selection": 2.16,
+  "word_count": 835,
+  "generated_at": "2026-10-15T02:10:17.831803+00:00",
+  "difficulty_reason": "Conversational health feature mixing anecdote and expert advice; moderate sentences and some nutrition vocabulary (B1/B2/C1), with light background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "desperate",
+      "lemma": "desperate",
+      "level": "B2",
+      "hebrew": "נואש",
+      "explanation_hebrew": "רוצה משהו מאוד ומוכן להכל",
+      "pronunciation_hebrew": "דֶסְפֶּרֶט",
+      "example": "He was desperate to try it."
+    },
+    {
+      "word": "hurdle",
+      "lemma": "hurdle",
+      "level": "B2",
+      "hebrew": "מכשול",
+      "explanation_hebrew": "קושי שצריך להתגבר עליו",
+      "pronunciation_hebrew": "הֶרְדְל",
+      "example": "There is one hurdle left to solve."
+    },
+    {
+      "word": "explosion",
+      "lemma": "explosion",
+      "level": "B2",
+      "hebrew": "התפרצות",
+      "explanation_hebrew": "גידול מהיר ועצום",
+      "pronunciation_hebrew": "אִיקְסְפְּלוֹוְז'ן",
+      "example": "There was an explosion of new products."
+    },
+    {
+      "word": "marketed",
+      "lemma": "market",
+      "level": "B2",
+      "hebrew": "שווק",
+      "explanation_hebrew": "הוצג ופורסם למכירה",
+      "pronunciation_hebrew": "מַארְקֶטֶד",
+      "example": "The drink is marketed as healthy."
+    },
+    {
+      "word": "supplements",
+      "lemma": "supplement",
+      "level": "B2",
+      "hebrew": "תוספי תזונה",
+      "explanation_hebrew": "מוצרים שמוסיפים לתזונה",
+      "pronunciation_hebrew": "סַפְּלִמֶנְטְס",
+      "example": "He takes several supplements."
+    },
+    {
+      "word": "sceptical",
+      "lemma": "sceptical",
+      "level": "C1",
+      "hebrew": "ספקן",
+      "explanation_hebrew": "מפקפק ולא בטוח שמשהו נכון",
+      "pronunciation_hebrew": "סְקֶפְּטִיקַל",
+      "example": "I am sceptical about the claims."
+    },
+    {
+      "word": "diet",
+      "lemma": "diet",
+      "level": "B1",
+      "hebrew": "תזונה",
+      "explanation_hebrew": "מה שאדם אוכל בדרך כלל",
+      "pronunciation_hebrew": "דַיְאֶט",
+      "example": "She eats a healthy diet."
+    },
+    {
+      "word": "balanced",
+      "lemma": "balanced",
+      "level": "B2",
+      "hebrew": "מאוזן",
+      "explanation_hebrew": "כולל את כל מה שצריך במידה נכונה",
+      "pronunciation_hebrew": "בַּלַנְסְט",
+      "example": "A balanced diet is important."
+    },
+    {
+      "word": "consequences",
+      "lemma": "consequence",
+      "level": "B2",
+      "hebrew": "השלכות",
+      "explanation_hebrew": "התוצאות של מעשה",
+      "pronunciation_hebrew": "קוֹנְסִיקְוֶנְסִיז",
+      "example": "He didn't think about the consequences."
+    },
+    {
+      "word": "repair",
+      "lemma": "repair",
+      "level": "B1",
+      "hebrew": "לתקן",
+      "explanation_hebrew": "להחזיר משהו למצב תקין",
+      "pronunciation_hebrew": "רִיפֵּאר",
+      "example": "Protein helps repair the body."
+    },
+    {
+      "word": "essential",
+      "lemma": "essential",
+      "level": "B2",
+      "hebrew": "חיוני",
+      "explanation_hebrew": "הכרחי ואי אפשר בלעדיו",
+      "pronunciation_hebrew": "אִיסֶנְשַל",
+      "example": "These are essential amino acids."
+    },
+    {
+      "word": "recommended",
+      "lemma": "recommend",
+      "level": "B1",
+      "hebrew": "מומלץ",
+      "explanation_hebrew": "מוצע כבחירה טובה",
+      "pronunciation_hebrew": "רֶקֶמֶנְדֶד",
+      "example": "This is the recommended amount."
+    },
+    {
+      "word": "nutrients",
+      "lemma": "nutrient",
+      "level": "B2",
+      "hebrew": "חומרים מזינים",
+      "explanation_hebrew": "רכיבים במזון שהגוף צריך",
+      "pronunciation_hebrew": "נְיוּטְרִיֶנְטְס",
+      "example": "Whole foods contain many nutrients."
+    },
+    {
+      "word": "athletes",
+      "lemma": "athlete",
+      "level": "B1",
+      "hebrew": "ספורטאים",
+      "explanation_hebrew": "אנשים שעוסקים בספורט ברמה גבוהה",
+      "pronunciation_hebrew": "אַתְלִיטְס",
+      "example": "Athletes often use supplements."
+    },
+    {
+      "word": "allergies",
+      "lemma": "allergy",
+      "level": "B1",
+      "hebrew": "אלרגיות",
+      "explanation_hebrew": "תגובות גוף רגישות למזון או חומר",
+      "pronunciation_hebrew": "אַלֶרְגִ'יז",
+      "example": "Some people have food allergies."
+    },
+    {
+      "word": "bloating",
+      "lemma": "bloating",
+      "level": "C1",
+      "hebrew": "נפיחות",
+      "explanation_hebrew": "תחושת מלאות ונפיחות בבטן",
+      "pronunciation_hebrew": "בְּלוֹוְטִינְג",
+      "example": "Too much of it can cause bloating."
+    },
+    {
+      "word": "regulated",
+      "lemma": "regulate",
+      "level": "B2",
+      "hebrew": "מפוקח",
+      "explanation_hebrew": "נשלט על ידי חוקים וכללים",
+      "pronunciation_hebrew": "רֶגְיוּלֵיְטֶד",
+      "example": "The market is not tightly regulated."
+    },
+    {
+      "word": "reputable",
+      "lemma": "reputable",
+      "level": "C1",
+      "hebrew": "בעל מוניטין",
+      "explanation_hebrew": "אמין ובעל שם טוב",
+      "pronunciation_hebrew": "רֶפְּיוּטֶבְּל",
+      "example": "Buy from a reputable company."
+    },
+    {
+      "word": "artificial",
+      "lemma": "artificial",
+      "level": "B2",
+      "hebrew": "מלאכותי",
+      "explanation_hebrew": "מיוצר ולא טבעי",
+      "pronunciation_hebrew": "אַרְטִיפִישַל",
+      "example": "It contains artificial ingredients."
+    },
+    {
+      "word": "stimulants",
+      "lemma": "stimulant",
+      "level": "C1",
+      "hebrew": "חומרים ממריצים",
+      "explanation_hebrew": "חומרים שמעלים את הערנות",
+      "pronunciation_hebrew": "סְטִימְיוּלַנְטְס",
+      "example": "Some powders hide stimulants."
+    },
+    {
+      "word": "excreted",
+      "lemma": "excrete",
+      "level": "C2",
+      "hebrew": "מופרש מהגוף",
+      "explanation_hebrew": "מוצא מהגוף כפסולת",
+      "pronunciation_hebrew": "אִיקְסְקְרִיטֶד",
+      "example": "Excess protein is excreted by the body."
+    },
+    {
+      "word": "overloaded",
+      "lemma": "overload",
+      "level": "B2",
+      "hebrew": "עמוס יתר על המידה",
+      "explanation_hebrew": "מועמס מעבר ליכולת",
+      "pronunciation_hebrew": "אוֹוְוֶרְלוֹוְדֶד",
+      "example": "The kidneys can become overloaded."
+    },
+    {
+      "word": "intake",
+      "lemma": "intake",
+      "level": "B2",
+      "hebrew": "צריכה",
+      "explanation_hebrew": "הכמות שנצרכת של מזון",
+      "pronunciation_hebrew": "אִינְטֵיְק",
+      "example": "Try to raise your protein intake."
+    },
+    {
+      "word": "puberty",
+      "lemma": "puberty",
+      "level": "B2",
+      "hebrew": "גיל ההתבגרות",
+      "explanation_hebrew": "השלב שבו הגוף מתבגר",
+      "pronunciation_hebrew": "פְּיוּבֶּרְטִי",
+      "example": "Children grow fast during puberty."
+    },
+    {
+      "word": "rapidly",
+      "lemma": "rapidly",
+      "level": "B2",
+      "hebrew": "במהירות",
+      "explanation_hebrew": "בקצב מהיר מאוד",
+      "pronunciation_hebrew": "רַפִּידְלִי",
+      "example": "Their bodies are growing rapidly."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "desperate",
+      "type": "english_to_hebrew",
+      "question": "What does “desperate” mean?",
+      "options": [
+        "מופרש מהגוף",
+        "נואש",
+        "מאוזן",
+        "מכשול"
+      ],
+      "correct_answer": "נואש",
+      "explanation_hebrew": "“desperate” פירושו נואש."
+    },
+    {
+      "id": "B-q2",
+      "word": "hurdle",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מכשול”?",
+      "options": [
+        "consequences",
+        "allergies",
+        "hurdle",
+        "recommended"
+      ],
+      "correct_answer": "hurdle",
+      "explanation_hebrew": "המילה “hurdle” פירושה מכשול."
+    },
+    {
+      "id": "B-q3",
+      "word": "explosion",
+      "type": "english_to_hebrew",
+      "question": "What does “explosion” mean?",
+      "options": [
+        "מפוקח",
+        "התפרצות",
+        "נפיחות",
+        "שווק"
+      ],
+      "correct_answer": "התפרצות",
+      "explanation_hebrew": "“explosion” פירושו התפרצות."
+    },
+    {
+      "id": "B-q4",
+      "word": "marketed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שווק”?",
+      "options": [
+        "diet",
+        "hurdle",
+        "marketed",
+        "bloating"
+      ],
+      "correct_answer": "marketed",
+      "explanation_hebrew": "המילה “marketed” פירושה שווק."
+    },
+    {
+      "id": "B-q5",
+      "word": "supplements",
+      "type": "english_to_hebrew",
+      "question": "What does “supplements” mean?",
+      "options": [
+        "לתקן",
+        "תוספי תזונה",
+        "מומלץ",
+        "מופרש מהגוף"
+      ],
+      "correct_answer": "תוספי תזונה",
+      "explanation_hebrew": "“supplements” פירושו תוספי תזונה."
+    },
+    {
+      "id": "B-q6",
+      "word": "sceptical",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ספקן”?",
+      "options": [
+        "diet",
+        "consequences",
+        "regulated",
+        "sceptical"
+      ],
+      "correct_answer": "sceptical",
+      "explanation_hebrew": "המילה “sceptical” פירושה ספקן."
+    },
+    {
+      "id": "B-q7",
+      "word": "diet",
+      "type": "english_to_hebrew",
+      "question": "What does “diet” mean?",
+      "options": [
+        "אלרגיות",
+        "תזונה",
+        "צריכה",
+        "מפוקח"
+      ],
+      "correct_answer": "תזונה",
+      "explanation_hebrew": "“diet” פירושו תזונה."
+    },
+    {
+      "id": "B-q8",
+      "word": "balanced",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מאוזן”?",
+      "options": [
+        "repair",
+        "explosion",
+        "diet",
+        "balanced"
+      ],
+      "correct_answer": "balanced",
+      "explanation_hebrew": "המילה “balanced” פירושה מאוזן."
+    },
+    {
+      "id": "B-q9",
+      "word": "consequences",
+      "type": "english_to_hebrew",
+      "question": "What does “consequences” mean?",
+      "options": [
+        "נפיחות",
+        "מפוקח",
+        "נואש",
+        "השלכות"
+      ],
+      "correct_answer": "השלכות",
+      "explanation_hebrew": "“consequences” פירושו השלכות."
+    },
+    {
+      "id": "B-q10",
+      "word": "repair",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לתקן”?",
+      "options": [
+        "repair",
+        "sceptical",
+        "reputable",
+        "allergies"
+      ],
+      "correct_answer": "repair",
+      "explanation_hebrew": "המילה “repair” פירושה לתקן."
+    },
+    {
+      "id": "B-q11",
+      "word": "essential",
+      "type": "english_to_hebrew",
+      "question": "What does “essential” mean?",
+      "options": [
+        "תזונה",
+        "ספקן",
+        "מאוזן",
+        "חיוני"
+      ],
+      "correct_answer": "חיוני",
+      "explanation_hebrew": "“essential” פירושו חיוני."
+    },
+    {
+      "id": "B-q12",
+      "word": "recommended",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מומלץ”?",
+      "options": [
+        "recommended",
+        "rapidly",
+        "reputable",
+        "overloaded"
+      ],
+      "correct_answer": "recommended",
+      "explanation_hebrew": "המילה “recommended” פירושה מומלץ."
+    },
+    {
+      "id": "B-q13",
+      "word": "nutrients",
+      "type": "english_to_hebrew",
+      "question": "What does “nutrients” mean?",
+      "options": [
+        "חומרים מזינים",
+        "תוספי תזונה",
+        "חומרים ממריצים",
+        "חיוני"
+      ],
+      "correct_answer": "חומרים מזינים",
+      "explanation_hebrew": "“nutrients” פירושו חומרים מזינים."
+    },
+    {
+      "id": "B-q14",
+      "word": "athletes",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ספורטאים”?",
+      "options": [
+        "athletes",
+        "supplements",
+        "puberty",
+        "regulated"
+      ],
+      "correct_answer": "athletes",
+      "explanation_hebrew": "המילה “athletes” פירושה ספורטאים."
+    },
+    {
+      "id": "B-q15",
+      "word": "allergies",
+      "type": "english_to_hebrew",
+      "question": "What does “allergies” mean?",
+      "options": [
+        "במהירות",
+        "אלרגיות",
+        "מלאכותי",
+        "מכשול"
+      ],
+      "correct_answer": "אלרגיות",
+      "explanation_hebrew": "“allergies” פירושו אלרגיות."
+    },
+    {
+      "id": "B-q16",
+      "word": "bloating",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נפיחות”?",
+      "options": [
+        "bloating",
+        "balanced",
+        "nutrients",
+        "reputable"
+      ],
+      "correct_answer": "bloating",
+      "explanation_hebrew": "המילה “bloating” פירושה נפיחות."
+    },
+    {
+      "id": "B-q17",
+      "word": "regulated",
+      "type": "english_to_hebrew",
+      "question": "What does “regulated” mean?",
+      "options": [
+        "אלרגיות",
+        "גיל ההתבגרות",
+        "מפוקח",
+        "ספורטאים"
+      ],
+      "correct_answer": "מפוקח",
+      "explanation_hebrew": "“regulated” פירושו מפוקח."
+    },
+    {
+      "id": "B-q18",
+      "word": "reputable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בעל מוניטין”?",
+      "options": [
+        "overloaded",
+        "puberty",
+        "regulated",
+        "reputable"
+      ],
+      "correct_answer": "reputable",
+      "explanation_hebrew": "המילה “reputable” פירושה בעל מוניטין."
+    },
+    {
+      "id": "B-q19",
+      "word": "artificial",
+      "type": "english_to_hebrew",
+      "question": "What does “artificial” mean?",
+      "options": [
+        "תזונה",
+        "מלאכותי",
+        "מכשול",
+        "צריכה"
+      ],
+      "correct_answer": "מלאכותי",
+      "explanation_hebrew": "“artificial” פירושו מלאכותי."
+    },
+    {
+      "id": "B-q20",
+      "word": "stimulants",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חומרים ממריצים”?",
+      "options": [
+        "essential",
+        "stimulants",
+        "supplements",
+        "puberty"
+      ],
+      "correct_answer": "stimulants",
+      "explanation_hebrew": "המילה “stimulants” פירושה חומרים ממריצים."
+    },
+    {
+      "id": "B-q21",
+      "word": "excreted",
+      "type": "english_to_hebrew",
+      "question": "What does “excreted” mean?",
+      "options": [
+        "מאוזן",
+        "אלרגיות",
+        "שווק",
+        "מופרש מהגוף"
+      ],
+      "correct_answer": "מופרש מהגוף",
+      "explanation_hebrew": "“excreted” פירושו מופרש מהגוף."
+    },
+    {
+      "id": "B-q22",
+      "word": "overloaded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עמוס יתר על המידה”?",
+      "options": [
+        "intake",
+        "overloaded",
+        "supplements",
+        "artificial"
+      ],
+      "correct_answer": "overloaded",
+      "explanation_hebrew": "המילה “overloaded” פירושה עמוס יתר על המידה."
+    },
+    {
+      "id": "B-q23",
+      "word": "intake",
+      "type": "english_to_hebrew",
+      "question": "What does “intake” mean?",
+      "options": [
+        "תזונה",
+        "צריכה",
+        "לתקן",
+        "ספקן"
+      ],
+      "correct_answer": "צריכה",
+      "explanation_hebrew": "“intake” פירושו צריכה."
+    },
+    {
+      "id": "B-q24",
+      "word": "puberty",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גיל ההתבגרות”?",
+      "options": [
+        "artificial",
+        "nutrients",
+        "excreted",
+        "puberty"
+      ],
+      "correct_answer": "puberty",
+      "explanation_hebrew": "המילה “puberty” פירושה גיל ההתבגרות."
+    },
+    {
+      "id": "B-q25",
+      "word": "rapidly",
+      "type": "english_to_hebrew",
+      "question": "What does “rapidly” mean?",
+      "options": [
+        "אלרגיות",
+        "במהירות",
+        "לתקן",
+        "עמוס יתר על המידה"
+      ],
+      "correct_answer": "במהירות",
+      "explanation_hebrew": "“rapidly” פירושו במהירות."
+    }
+  ]
+}

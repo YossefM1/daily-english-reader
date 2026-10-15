@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
+  "title": "I'm 12 and want to try protein powder - should I?",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go",
-  "published_at": "2026-10-14T00:06:15+00:00",
-  "age_hours_at_selection": 2.1,
-  "word_count": 801,
-  "generated_at": "2026-10-14T02:12:09.266074+00:00",
-  "difficulty_reason": "Moderate-length human-interest feature with descriptive sentences and B1/B2/C1 vocabulary on nature, grief and gardening.",
+  "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go",
+  "published_at": "2026-10-15T00:00:35+00:00",
+  "age_hours_at_selection": 2.16,
+  "word_count": 835,
+  "generated_at": "2026-10-15T02:10:17.831803+00:00",
+  "difficulty_reason": "Conversational health feature mixing anecdote and expert advice; moderate sentences and some nutrition vocabulary (B1/B2/C1), with light background knowledge.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "grieve",
-      "lemma": "grieve",
+      "word": "desperate",
+      "lemma": "desperate",
       "level": "B2",
-      "hebrew": "להתאבל",
-      "explanation_hebrew": "להרגיש צער עמוק על מוות של מישהו",
-      "pronunciation_hebrew": "גְּרִיב",
-      "example": "It takes time to grieve."
+      "hebrew": "נואש",
+      "explanation_hebrew": "רוצה משהו מאוד ומוכן להכל",
+      "pronunciation_hebrew": "דֶסְפֶּרֶט",
+      "example": "He was desperate to try it."
     },
     {
-      "word": "cemetery",
-      "lemma": "cemetery",
+      "word": "hurdle",
+      "lemma": "hurdle",
       "level": "B2",
-      "hebrew": "בית קברות",
-      "explanation_hebrew": "מקום שבו קוברים מתים",
-      "pronunciation_hebrew": "סֶמֶטְרִי",
-      "example": "They visited the cemetery."
+      "hebrew": "מכשול",
+      "explanation_hebrew": "קושי שצריך להתגבר עליו",
+      "pronunciation_hebrew": "הֶרְדְל",
+      "example": "There is one hurdle left to solve."
     },
     {
-      "word": "prematurely",
-      "lemma": "prematurely",
+      "word": "explosion",
+      "lemma": "explosion",
+      "level": "B2",
+      "hebrew": "התפרצות",
+      "explanation_hebrew": "גידול מהיר ועצום",
+      "pronunciation_hebrew": "אִיקְסְפְּלוֹוְז'ן",
+      "example": "There was an explosion of new products."
+    },
+    {
+      "word": "marketed",
+      "lemma": "market",
+      "level": "B2",
+      "hebrew": "שווק",
+      "explanation_hebrew": "הוצג ופורסם למכירה",
+      "pronunciation_hebrew": "מַארְקֶטֶד",
+      "example": "The drink is marketed as healthy."
+    },
+    {
+      "word": "supplements",
+      "lemma": "supplement",
+      "level": "B2",
+      "hebrew": "תוספי תזונה",
+      "explanation_hebrew": "מוצרים שמוסיפים לתזונה",
+      "pronunciation_hebrew": "סַפְּלִמֶנְטְס",
+      "example": "He takes several supplements."
+    },
+    {
+      "word": "sceptical",
+      "lemma": "sceptical",
       "level": "C1",
-      "hebrew": "בטרם עת / מוקדם מדי",
-      "explanation_hebrew": "קרה מוקדם מכפי שצריך או מצופה",
-      "pronunciation_hebrew": "פְּרֶמָצְ'רְלִי",
-      "example": "The baby was born prematurely."
+      "hebrew": "ספקן",
+      "explanation_hebrew": "מפקפק ולא בטוח שמשהו נכון",
+      "pronunciation_hebrew": "סְקֶפְּטִיקַל",
+      "example": "I am sceptical about the claims."
     },
     {
-      "word": "ashes",
-      "lemma": "ash",
-      "level": "B2",
-      "hebrew": "אפר",
-      "explanation_hebrew": "האבק האפור שנשאר לאחר שריפה",
-      "pronunciation_hebrew": "אֵשִׁיז",
-      "example": "They kept the ashes in an urn."
-    },
-    {
-      "word": "stillness",
-      "lemma": "stillness",
-      "level": "C1",
-      "hebrew": "דממה / שקט",
-      "explanation_hebrew": "מצב של שקט מוחלט וחוסר תנועה",
-      "pronunciation_hebrew": "סְטִילְנֶס",
-      "example": "I love the stillness of early morning."
-    },
-    {
-      "word": "dedicate",
-      "lemma": "dedicate",
-      "level": "B2",
-      "hebrew": "להקדיש",
-      "explanation_hebrew": "לייחד משהו למישהו או למטרה",
-      "pronunciation_hebrew": "דֶּדִיקֵייט",
-      "example": "They dedicate the bench to her."
-    },
-    {
-      "word": "remembrance",
-      "lemma": "remembrance",
-      "level": "C1",
-      "hebrew": "הנצחה / זיכרון",
-      "explanation_hebrew": "מעשה של זכירת אדם או אירוע",
-      "pronunciation_hebrew": "רִימֶמְבְּרַנְס",
-      "example": "A day of remembrance for the fallen."
-    },
-    {
-      "word": "botanist",
-      "lemma": "botanist",
-      "level": "C1",
-      "hebrew": "בוטנאי / חוקר צמחים",
-      "explanation_hebrew": "מדען שחוקר צמחים",
-      "pronunciation_hebrew": "בּוֹטָנִיסְט",
-      "example": "The botanist studied rare flowers."
-    },
-    {
-      "word": "varieties",
-      "lemma": "variety",
-      "level": "B2",
-      "hebrew": "זנים / סוגים",
-      "explanation_hebrew": "סוגים שונים של אותו דבר",
-      "pronunciation_hebrew": "וַרַייאֶטִיז",
-      "example": "There are many varieties of roses."
-    },
-    {
-      "word": "vibrant",
-      "lemma": "vibrant",
-      "level": "B2",
-      "hebrew": "עז / מלא חיים",
-      "explanation_hebrew": "צבעוני, חזק ומלא אנרגיה",
-      "pronunciation_hebrew": "וַייבְּרַנְט",
-      "example": "She wore a vibrant red dress."
-    },
-    {
-      "word": "harmony",
-      "lemma": "harmony",
-      "level": "B2",
-      "hebrew": "הרמוניה / התאמה",
-      "explanation_hebrew": "מצב שבו דברים מתאימים ומשתלבים יחד",
-      "pronunciation_hebrew": "הַארְמֶנִי",
-      "example": "They live in harmony with nature."
-    },
-    {
-      "word": "fragrance",
-      "lemma": "fragrance",
-      "level": "B2",
-      "hebrew": "ניחוח / בושם",
-      "explanation_hebrew": "ריח נעים",
-      "pronunciation_hebrew": "פְרֵייגְרַנְס",
-      "example": "The fragrance of the roses filled the room."
-    },
-    {
-      "word": "scented",
-      "lemma": "scented",
-      "level": "B2",
-      "hebrew": "ריחני / בעל ריח",
-      "explanation_hebrew": "שיש לו ריח, בדרך כלל נעים",
-      "pronunciation_hebrew": "סֶנְטֶד",
-      "example": "She likes scented candles."
-    },
-    {
-      "word": "bloom",
-      "lemma": "bloom",
-      "level": "B2",
-      "hebrew": "פריחה / לפרוח",
-      "explanation_hebrew": "כשפרחים נפתחים, או התקופה שבה הם פתוחים",
-      "pronunciation_hebrew": "בְּלוּם",
-      "example": "The flowers are in bloom."
-    },
-    {
-      "word": "evergreen",
-      "lemma": "evergreen",
-      "level": "C1",
-      "hebrew": "ירוק עד",
-      "explanation_hebrew": "צמח שנשאר ירוק כל השנה",
-      "pronunciation_hebrew": "אֶוֶרגְּרִין",
-      "example": "Pines are evergreen trees."
-    },
-    {
-      "word": "commemoration",
-      "lemma": "commemoration",
-      "level": "C1",
-      "hebrew": "הנצחה / ציון זיכרון",
-      "explanation_hebrew": "מעשה של כבוד וזכירה לאדם או אירוע",
-      "pronunciation_hebrew": "קוֹמֶמוֹרֵיישֶן",
-      "example": "A statue in commemoration of the war."
-    },
-    {
-      "word": "climates",
-      "lemma": "climate",
+      "word": "diet",
+      "lemma": "diet",
       "level": "B1",
-      "hebrew": "אקלימים",
-      "explanation_hebrew": "סוגי מזג האוויר האופייניים לאזורים שונים",
-      "pronunciation_hebrew": "קְלַיימֶטְס",
-      "example": "Some plants prefer warm climates."
+      "hebrew": "תזונה",
+      "explanation_hebrew": "מה שאדם אוכל בדרך כלל",
+      "pronunciation_hebrew": "דַיְאֶט",
+      "example": "She eats a healthy diet."
     },
     {
-      "word": "aroma",
-      "lemma": "aroma",
+      "word": "balanced",
+      "lemma": "balanced",
       "level": "B2",
-      "hebrew": "ניחוח / ריח",
-      "explanation_hebrew": "ריח חזק ונעים, בעיקר של אוכל או צמחים",
-      "pronunciation_hebrew": "אַרוֹמָה",
-      "example": "I love the aroma of fresh coffee."
+      "hebrew": "מאוזן",
+      "explanation_hebrew": "כולל את כל מה שצריך במידה נכונה",
+      "pronunciation_hebrew": "בַּלַנְסְט",
+      "example": "A balanced diet is important."
     },
     {
-      "word": "likened",
-      "lemma": "liken",
-      "level": "C1",
-      "hebrew": "הושווה / נמשל",
-      "explanation_hebrew": "הושווה למשהו אחר כדי להסבירו",
-      "pronunciation_hebrew": "לַייקֶנְד",
-      "example": "The sound was likened to thunder."
-    },
-    {
-      "word": "medicinal",
-      "lemma": "medicinal",
-      "level": "C1",
-      "hebrew": "רפואי / מרפא",
-      "explanation_hebrew": "קשור לריפוי מחלות או בעל תכונות ריפוי",
-      "pronunciation_hebrew": "מֶדִיסִינַל",
-      "example": "The plant has medicinal uses."
-    },
-    {
-      "word": "plaque",
-      "lemma": "plaque",
+      "word": "consequences",
+      "lemma": "consequence",
       "level": "B2",
-      "hebrew": "לוחית / שלט זיכרון",
-      "explanation_hebrew": "לוח קטן עם כיתוב, לעיתים לזכר מישהו",
-      "pronunciation_hebrew": "פְּלָאק",
-      "example": "A plaque marks the spot."
+      "hebrew": "השלכות",
+      "explanation_hebrew": "התוצאות של מעשה",
+      "pronunciation_hebrew": "קוֹנְסִיקְוֶנְסִיז",
+      "example": "He didn't think about the consequences."
     },
     {
-      "word": "permanence",
-      "lemma": "permanence",
+      "word": "repair",
+      "lemma": "repair",
+      "level": "B1",
+      "hebrew": "לתקן",
+      "explanation_hebrew": "להחזיר משהו למצב תקין",
+      "pronunciation_hebrew": "רִיפֵּאר",
+      "example": "Protein helps repair the body."
+    },
+    {
+      "word": "essential",
+      "lemma": "essential",
+      "level": "B2",
+      "hebrew": "חיוני",
+      "explanation_hebrew": "הכרחי ואי אפשר בלעדיו",
+      "pronunciation_hebrew": "אִיסֶנְשַל",
+      "example": "These are essential amino acids."
+    },
+    {
+      "word": "recommended",
+      "lemma": "recommend",
+      "level": "B1",
+      "hebrew": "מומלץ",
+      "explanation_hebrew": "מוצע כבחירה טובה",
+      "pronunciation_hebrew": "רֶקֶמֶנְדֶד",
+      "example": "This is the recommended amount."
+    },
+    {
+      "word": "nutrients",
+      "lemma": "nutrient",
+      "level": "B2",
+      "hebrew": "חומרים מזינים",
+      "explanation_hebrew": "רכיבים במזון שהגוף צריך",
+      "pronunciation_hebrew": "נְיוּטְרִיֶנְטְס",
+      "example": "Whole foods contain many nutrients."
+    },
+    {
+      "word": "athletes",
+      "lemma": "athlete",
+      "level": "B1",
+      "hebrew": "ספורטאים",
+      "explanation_hebrew": "אנשים שעוסקים בספורט ברמה גבוהה",
+      "pronunciation_hebrew": "אַתְלִיטְס",
+      "example": "Athletes often use supplements."
+    },
+    {
+      "word": "allergies",
+      "lemma": "allergy",
+      "level": "B1",
+      "hebrew": "אלרגיות",
+      "explanation_hebrew": "תגובות גוף רגישות למזון או חומר",
+      "pronunciation_hebrew": "אַלֶרְגִ'יז",
+      "example": "Some people have food allergies."
+    },
+    {
+      "word": "bloating",
+      "lemma": "bloating",
       "level": "C1",
-      "hebrew": "קביעות / תמידיות",
-      "explanation_hebrew": "מצב של משהו שנשאר ואינו משתנה",
-      "pronunciation_hebrew": "פֶּרְמַנֶנְס",
-      "example": "The building gives a sense of permanence."
+      "hebrew": "נפיחות",
+      "explanation_hebrew": "תחושת מלאות ונפיחות בבטן",
+      "pronunciation_hebrew": "בְּלוֹוְטִינְג",
+      "example": "Too much of it can cause bloating."
     },
     {
-      "word": "rigours",
-      "lemma": "rigour",
+      "word": "regulated",
+      "lemma": "regulate",
+      "level": "B2",
+      "hebrew": "מפוקח",
+      "explanation_hebrew": "נשלט על ידי חוקים וכללים",
+      "pronunciation_hebrew": "רֶגְיוּלֵיְטֶד",
+      "example": "The market is not tightly regulated."
+    },
+    {
+      "word": "reputable",
+      "lemma": "reputable",
+      "level": "C1",
+      "hebrew": "בעל מוניטין",
+      "explanation_hebrew": "אמין ובעל שם טוב",
+      "pronunciation_hebrew": "רֶפְּיוּטֶבְּל",
+      "example": "Buy from a reputable company."
+    },
+    {
+      "word": "artificial",
+      "lemma": "artificial",
+      "level": "B2",
+      "hebrew": "מלאכותי",
+      "explanation_hebrew": "מיוצר ולא טבעי",
+      "pronunciation_hebrew": "אַרְטִיפִישַל",
+      "example": "It contains artificial ingredients."
+    },
+    {
+      "word": "stimulants",
+      "lemma": "stimulant",
+      "level": "C1",
+      "hebrew": "חומרים ממריצים",
+      "explanation_hebrew": "חומרים שמעלים את הערנות",
+      "pronunciation_hebrew": "סְטִימְיוּלַנְטְס",
+      "example": "Some powders hide stimulants."
+    },
+    {
+      "word": "excreted",
+      "lemma": "excrete",
       "level": "C2",
-      "hebrew": "קשיים / תלאות",
-      "explanation_hebrew": "הקשיים והדרישות הקשות של משהו",
-      "pronunciation_hebrew": "רִיגֶרְז",
-      "example": "The rigours of daily life can be tiring."
+      "hebrew": "מופרש מהגוף",
+      "explanation_hebrew": "מוצא מהגוף כפסולת",
+      "pronunciation_hebrew": "אִיקְסְקְרִיטֶד",
+      "example": "Excess protein is excreted by the body."
     },
     {
-      "word": "reflect",
-      "lemma": "reflect",
+      "word": "overloaded",
+      "lemma": "overload",
       "level": "B2",
-      "hebrew": "להרהר / לחשוב לעומק",
-      "explanation_hebrew": "לחשוב בשקט ובעומק על משהו",
-      "pronunciation_hebrew": "רִיפְלֶקְט",
-      "example": "She likes to reflect on her day."
+      "hebrew": "עמוס יתר על המידה",
+      "explanation_hebrew": "מועמס מעבר ליכולת",
+      "pronunciation_hebrew": "אוֹוְוֶרְלוֹוְדֶד",
+      "example": "The kidneys can become overloaded."
     },
     {
-      "word": "comfort",
-      "lemma": "comfort",
+      "word": "intake",
+      "lemma": "intake",
       "level": "B2",
-      "hebrew": "נחמה",
-      "explanation_hebrew": "תחושה טובה של הקלה ותמיכה בזמן צער",
-      "pronunciation_hebrew": "קַאמְפֶרְט",
-      "example": "Her words gave me comfort."
+      "hebrew": "צריכה",
+      "explanation_hebrew": "הכמות שנצרכת של מזון",
+      "pronunciation_hebrew": "אִינְטֵיְק",
+      "example": "Try to raise your protein intake."
+    },
+    {
+      "word": "puberty",
+      "lemma": "puberty",
+      "level": "B2",
+      "hebrew": "גיל ההתבגרות",
+      "explanation_hebrew": "השלב שבו הגוף מתבגר",
+      "pronunciation_hebrew": "פְּיוּבֶּרְטִי",
+      "example": "Children grow fast during puberty."
+    },
+    {
+      "word": "rapidly",
+      "lemma": "rapidly",
+      "level": "B2",
+      "hebrew": "במהירות",
+      "explanation_hebrew": "בקצב מהיר מאוד",
+      "pronunciation_hebrew": "רַפִּידְלִי",
+      "example": "Their bodies are growing rapidly."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "grieve",
+      "word": "desperate",
       "type": "english_to_hebrew",
-      "question": "What does “grieve” mean?",
+      "question": "What does “desperate” mean?",
       "options": [
-        "להתאבל",
-        "בית קברות",
-        "אפר",
-        "בטרם עת / מוקדם מדי"
+        "מופרש מהגוף",
+        "נואש",
+        "מאוזן",
+        "מכשול"
       ],
-      "correct_answer": "להתאבל",
-      "explanation_hebrew": "“grieve” פירושו להתאבל."
+      "correct_answer": "נואש",
+      "explanation_hebrew": "“desperate” פירושו נואש."
     },
     {
       "id": "B-q2",
-      "word": "cemetery",
+      "word": "hurdle",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “בית קברות”?",
+      "question": "איזו מילה באנגלית פירושה “מכשול”?",
       "options": [
-        "cemetery",
-        "stillness",
-        "prematurely",
-        "ashes"
+        "consequences",
+        "allergies",
+        "hurdle",
+        "recommended"
       ],
-      "correct_answer": "cemetery",
-      "explanation_hebrew": "המילה “cemetery” פירושה בית קברות."
+      "correct_answer": "hurdle",
+      "explanation_hebrew": "המילה “hurdle” פירושה מכשול."
     },
     {
       "id": "B-q3",
-      "word": "prematurely",
+      "word": "explosion",
       "type": "english_to_hebrew",
-      "question": "What does “prematurely” mean?",
+      "question": "What does “explosion” mean?",
       "options": [
-        "בטרם עת / מוקדם מדי",
-        "להקדיש",
-        "דממה / שקט",
-        "אפר"
+        "מפוקח",
+        "התפרצות",
+        "נפיחות",
+        "שווק"
       ],
-      "correct_answer": "בטרם עת / מוקדם מדי",
-      "explanation_hebrew": "“prematurely” פירושו בטרם עת / מוקדם מדי."
+      "correct_answer": "התפרצות",
+      "explanation_hebrew": "“explosion” פירושו התפרצות."
     },
     {
       "id": "B-q4",
-      "word": "ashes",
+      "word": "marketed",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “אפר”?",
+      "question": "איזו מילה באנגלית פירושה “שווק”?",
       "options": [
-        "remembrance",
-        "stillness",
-        "dedicate",
-        "ashes"
+        "diet",
+        "hurdle",
+        "marketed",
+        "bloating"
       ],
-      "correct_answer": "ashes",
-      "explanation_hebrew": "המילה “ashes” פירושה אפר."
+      "correct_answer": "marketed",
+      "explanation_hebrew": "המילה “marketed” פירושה שווק."
     },
     {
       "id": "B-q5",
-      "word": "stillness",
+      "word": "supplements",
       "type": "english_to_hebrew",
-      "question": "What does “stillness” mean?",
+      "question": "What does “supplements” mean?",
       "options": [
-        "בוטנאי / חוקר צמחים",
-        "הנצחה / זיכרון",
-        "דממה / שקט",
-        "להקדיש"
+        "לתקן",
+        "תוספי תזונה",
+        "מומלץ",
+        "מופרש מהגוף"
       ],
-      "correct_answer": "דממה / שקט",
-      "explanation_hebrew": "“stillness” פירושו דממה / שקט."
+      "correct_answer": "תוספי תזונה",
+      "explanation_hebrew": "“supplements” פירושו תוספי תזונה."
     },
     {
       "id": "B-q6",
-      "word": "dedicate",
+      "word": "sceptical",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “להקדיש”?",
+      "question": "איזו מילה באנגלית פירושה “ספקן”?",
       "options": [
-        "varieties",
-        "remembrance",
-        "dedicate",
-        "botanist"
+        "diet",
+        "consequences",
+        "regulated",
+        "sceptical"
       ],
-      "correct_answer": "dedicate",
-      "explanation_hebrew": "המילה “dedicate” פירושה להקדיש."
+      "correct_answer": "sceptical",
+      "explanation_hebrew": "המילה “sceptical” פירושה ספקן."
     },
     {
       "id": "B-q7",
-      "word": "remembrance",
+      "word": "diet",
       "type": "english_to_hebrew",
-      "question": "What does “remembrance” mean?",
+      "question": "What does “diet” mean?",
       "options": [
-        "בוטנאי / חוקר צמחים",
-        "הנצחה / זיכרון",
-        "זנים / סוגים",
-        "עז / מלא חיים"
+        "אלרגיות",
+        "תזונה",
+        "צריכה",
+        "מפוקח"
       ],
-      "correct_answer": "הנצחה / זיכרון",
-      "explanation_hebrew": "“remembrance” פירושו הנצחה / זיכרון."
+      "correct_answer": "תזונה",
+      "explanation_hebrew": "“diet” פירושו תזונה."
     },
     {
       "id": "B-q8",
-      "word": "botanist",
+      "word": "balanced",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “בוטנאי / חוקר צמחים”?",
+      "question": "איזו מילה באנגלית פירושה “מאוזן”?",
       "options": [
-        "botanist",
-        "vibrant",
-        "harmony",
-        "varieties"
+        "repair",
+        "explosion",
+        "diet",
+        "balanced"
       ],
-      "correct_answer": "botanist",
-      "explanation_hebrew": "המילה “botanist” פירושה בוטנאי / חוקר צמחים."
+      "correct_answer": "balanced",
+      "explanation_hebrew": "המילה “balanced” פירושה מאוזן."
     },
     {
       "id": "B-q9",
-      "word": "varieties",
+      "word": "consequences",
       "type": "english_to_hebrew",
-      "question": "What does “varieties” mean?",
+      "question": "What does “consequences” mean?",
       "options": [
-        "הרמוניה / התאמה",
-        "עז / מלא חיים",
-        "זנים / סוגים",
-        "ניחוח / בושם"
+        "נפיחות",
+        "מפוקח",
+        "נואש",
+        "השלכות"
       ],
-      "correct_answer": "זנים / סוגים",
-      "explanation_hebrew": "“varieties” פירושו זנים / סוגים."
+      "correct_answer": "השלכות",
+      "explanation_hebrew": "“consequences” פירושו השלכות."
     },
     {
       "id": "B-q10",
-      "word": "vibrant",
+      "word": "repair",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “עז / מלא חיים”?",
+      "question": "איזו מילה באנגלית פירושה “לתקן”?",
       "options": [
-        "harmony",
-        "fragrance",
-        "scented",
-        "vibrant"
+        "repair",
+        "sceptical",
+        "reputable",
+        "allergies"
       ],
-      "correct_answer": "vibrant",
-      "explanation_hebrew": "המילה “vibrant” פירושה עז / מלא חיים."
+      "correct_answer": "repair",
+      "explanation_hebrew": "המילה “repair” פירושה לתקן."
     },
     {
       "id": "B-q11",
-      "word": "harmony",
+      "word": "essential",
       "type": "english_to_hebrew",
-      "question": "What does “harmony” mean?",
+      "question": "What does “essential” mean?",
       "options": [
-        "פריחה / לפרוח",
-        "הרמוניה / התאמה",
-        "ריחני / בעל ריח",
-        "ניחוח / בושם"
+        "תזונה",
+        "ספקן",
+        "מאוזן",
+        "חיוני"
       ],
-      "correct_answer": "הרמוניה / התאמה",
-      "explanation_hebrew": "“harmony” פירושו הרמוניה / התאמה."
+      "correct_answer": "חיוני",
+      "explanation_hebrew": "“essential” פירושו חיוני."
     },
     {
       "id": "B-q12",
-      "word": "fragrance",
+      "word": "recommended",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “ניחוח / בושם”?",
+      "question": "איזו מילה באנגלית פירושה “מומלץ”?",
       "options": [
-        "fragrance",
-        "evergreen",
-        "bloom",
-        "scented"
+        "recommended",
+        "rapidly",
+        "reputable",
+        "overloaded"
       ],
-      "correct_answer": "fragrance",
-      "explanation_hebrew": "המילה “fragrance” פירושה ניחוח / בושם."
+      "correct_answer": "recommended",
+      "explanation_hebrew": "המילה “recommended” פירושה מומלץ."
     },
     {
       "id": "B-q13",
-      "word": "scented",
+      "word": "nutrients",
       "type": "english_to_hebrew",
-      "question": "What does “scented” mean?",
+      "question": "What does “nutrients” mean?",
       "options": [
-        "פריחה / לפרוח",
-        "ריחני / בעל ריח",
-        "הנצחה / ציון זיכרון",
-        "ירוק עד"
+        "חומרים מזינים",
+        "תוספי תזונה",
+        "חומרים ממריצים",
+        "חיוני"
       ],
-      "correct_answer": "ריחני / בעל ריח",
-      "explanation_hebrew": "“scented” פירושו ריחני / בעל ריח."
+      "correct_answer": "חומרים מזינים",
+      "explanation_hebrew": "“nutrients” פירושו חומרים מזינים."
     },
     {
       "id": "B-q14",
-      "word": "bloom",
+      "word": "athletes",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “פריחה / לפרוח”?",
+      "question": "איזו מילה באנגלית פירושה “ספורטאים”?",
       "options": [
-        "bloom",
-        "evergreen",
-        "commemoration",
-        "climates"
+        "athletes",
+        "supplements",
+        "puberty",
+        "regulated"
       ],
-      "correct_answer": "bloom",
-      "explanation_hebrew": "המילה “bloom” פירושה פריחה / לפרוח."
+      "correct_answer": "athletes",
+      "explanation_hebrew": "המילה “athletes” פירושה ספורטאים."
     },
     {
       "id": "B-q15",
-      "word": "evergreen",
+      "word": "allergies",
       "type": "english_to_hebrew",
-      "question": "What does “evergreen” mean?",
+      "question": "What does “allergies” mean?",
       "options": [
-        "ניחוח / ריח",
-        "אקלימים",
-        "ירוק עד",
-        "הנצחה / ציון זיכרון"
+        "במהירות",
+        "אלרגיות",
+        "מלאכותי",
+        "מכשול"
       ],
-      "correct_answer": "ירוק עד",
-      "explanation_hebrew": "“evergreen” פירושו ירוק עד."
+      "correct_answer": "אלרגיות",
+      "explanation_hebrew": "“allergies” פירושו אלרגיות."
     },
     {
       "id": "B-q16",
-      "word": "commemoration",
+      "word": "bloating",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “הנצחה / ציון זיכרון”?",
+      "question": "איזו מילה באנגלית פירושה “נפיחות”?",
       "options": [
-        "aroma",
-        "climates",
-        "commemoration",
-        "likened"
+        "bloating",
+        "balanced",
+        "nutrients",
+        "reputable"
       ],
-      "correct_answer": "commemoration",
-      "explanation_hebrew": "המילה “commemoration” פירושה הנצחה / ציון זיכרון."
+      "correct_answer": "bloating",
+      "explanation_hebrew": "המילה “bloating” פירושה נפיחות."
     },
     {
       "id": "B-q17",
-      "word": "climates",
+      "word": "regulated",
       "type": "english_to_hebrew",
-      "question": "What does “climates” mean?",
+      "question": "What does “regulated” mean?",
       "options": [
-        "ניחוח / ריח",
-        "הושווה / נמשל",
-        "רפואי / מרפא",
-        "אקלימים"
+        "אלרגיות",
+        "גיל ההתבגרות",
+        "מפוקח",
+        "ספורטאים"
       ],
-      "correct_answer": "אקלימים",
-      "explanation_hebrew": "“climates” פירושו אקלימים."
+      "correct_answer": "מפוקח",
+      "explanation_hebrew": "“regulated” פירושו מפוקח."
     },
     {
       "id": "B-q18",
-      "word": "aroma",
+      "word": "reputable",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “ניחוח / ריח”?",
+      "question": "איזו מילה באנגלית פירושה “בעל מוניטין”?",
       "options": [
-        "likened",
-        "aroma",
-        "medicinal",
-        "plaque"
+        "overloaded",
+        "puberty",
+        "regulated",
+        "reputable"
       ],
-      "correct_answer": "aroma",
-      "explanation_hebrew": "המילה “aroma” פירושה ניחוח / ריח."
+      "correct_answer": "reputable",
+      "explanation_hebrew": "המילה “reputable” פירושה בעל מוניטין."
     },
     {
       "id": "B-q19",
-      "word": "likened",
+      "word": "artificial",
       "type": "english_to_hebrew",
-      "question": "What does “likened” mean?",
+      "question": "What does “artificial” mean?",
       "options": [
-        "הושווה / נמשל",
-        "קביעות / תמידיות",
-        "רפואי / מרפא",
-        "לוחית / שלט זיכרון"
+        "תזונה",
+        "מלאכותי",
+        "מכשול",
+        "צריכה"
       ],
-      "correct_answer": "הושווה / נמשל",
-      "explanation_hebrew": "“likened” פירושו הושווה / נמשל."
+      "correct_answer": "מלאכותי",
+      "explanation_hebrew": "“artificial” פירושו מלאכותי."
     },
     {
       "id": "B-q20",
-      "word": "medicinal",
+      "word": "stimulants",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “רפואי / מרפא”?",
+      "question": "איזו מילה באנגלית פירושה “חומרים ממריצים”?",
       "options": [
-        "rigours",
-        "permanence",
-        "medicinal",
-        "plaque"
+        "essential",
+        "stimulants",
+        "supplements",
+        "puberty"
       ],
-      "correct_answer": "medicinal",
-      "explanation_hebrew": "המילה “medicinal” פירושה רפואי / מרפא."
+      "correct_answer": "stimulants",
+      "explanation_hebrew": "המילה “stimulants” פירושה חומרים ממריצים."
     },
     {
       "id": "B-q21",
-      "word": "plaque",
+      "word": "excreted",
       "type": "english_to_hebrew",
-      "question": "What does “plaque” mean?",
+      "question": "What does “excreted” mean?",
       "options": [
-        "קשיים / תלאות",
-        "קביעות / תמידיות",
-        "להרהר / לחשוב לעומק",
-        "לוחית / שלט זיכרון"
+        "מאוזן",
+        "אלרגיות",
+        "שווק",
+        "מופרש מהגוף"
       ],
-      "correct_answer": "לוחית / שלט זיכרון",
-      "explanation_hebrew": "“plaque” פירושו לוחית / שלט זיכרון."
+      "correct_answer": "מופרש מהגוף",
+      "explanation_hebrew": "“excreted” פירושו מופרש מהגוף."
     },
     {
       "id": "B-q22",
-      "word": "permanence",
+      "word": "overloaded",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “קביעות / תמידיות”?",
+      "question": "איזו מילה באנגלית פירושה “עמוס יתר על המידה”?",
       "options": [
-        "rigours",
-        "permanence",
-        "reflect",
-        "comfort"
+        "intake",
+        "overloaded",
+        "supplements",
+        "artificial"
       ],
-      "correct_answer": "permanence",
-      "explanation_hebrew": "המילה “permanence” פירושה קביעות / תמידיות."
+      "correct_answer": "overloaded",
+      "explanation_hebrew": "המילה “overloaded” פירושה עמוס יתר על המידה."
     },
     {
       "id": "B-q23",
-      "word": "rigours",
+      "word": "intake",
       "type": "english_to_hebrew",
-      "question": "What does “rigours” mean?",
+      "question": "What does “intake” mean?",
       "options": [
-        "להרהר / לחשוב לעומק",
-        "קשיים / תלאות",
-        "להתאבל",
-        "נחמה"
+        "תזונה",
+        "צריכה",
+        "לתקן",
+        "ספקן"
       ],
-      "correct_answer": "קשיים / תלאות",
-      "explanation_hebrew": "“rigours” פירושו קשיים / תלאות."
+      "correct_answer": "צריכה",
+      "explanation_hebrew": "“intake” פירושו צריכה."
     },
     {
       "id": "B-q24",
-      "word": "reflect",
+      "word": "puberty",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “להרהר / לחשוב לעומק”?",
+      "question": "איזו מילה באנגלית פירושה “גיל ההתבגרות”?",
       "options": [
-        "comfort",
-        "grieve",
-        "cemetery",
-        "reflect"
+        "artificial",
+        "nutrients",
+        "excreted",
+        "puberty"
       ],
-      "correct_answer": "reflect",
-      "explanation_hebrew": "המילה “reflect” פירושה להרהר / לחשוב לעומק."
+      "correct_answer": "puberty",
+      "explanation_hebrew": "המילה “puberty” פירושה גיל ההתבגרות."
     },
     {
       "id": "B-q25",
-      "word": "comfort",
+      "word": "rapidly",
       "type": "english_to_hebrew",
-      "question": "What does “comfort” mean?",
+      "question": "What does “rapidly” mean?",
       "options": [
-        "בית קברות",
-        "בטרם עת / מוקדם מדי",
-        "להתאבל",
-        "נחמה"
+        "אלרגיות",
+        "במהירות",
+        "לתקן",
+        "עמוס יתר על המידה"
       ],
-      "correct_answer": "נחמה",
-      "explanation_hebrew": "“comfort” פירושו נחמה."
+      "correct_answer": "במהירות",
+      "explanation_hebrew": "“rapidly” פירושו במהירות."
     }
   ]
 }
