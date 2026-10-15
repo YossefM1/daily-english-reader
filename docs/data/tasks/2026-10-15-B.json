@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-15",
+  "article_id": "B",
+  "article_title": "I'm 12 and want to try protein powder - should I?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm158555dq1go",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main conclusion about protein powder for healthy teenagers?",
+      "difficulty": "B",
+      "options": [
+        "Most healthy teenagers can obtain enough protein from a balanced diet and should seek expert advice before using powders.",
+        "Every teenager needs a protein shake after exercise.",
+        "Protein powder is safer than ordinary food for children.",
+        "Teenagers should replace one meal a day with a supplement."
+      ],
+      "correct_answer": "Most healthy teenagers can obtain enough protein from a balanced diet and should seek expert advice before using powders.",
+      "explanation_hebrew": "המסקנה היא שבני נוער בריאים שאוכלים תזונה מאוזנת יכולים לקבל את החלבון מהמזון, ומומלץ להתייעץ עם איש מקצוע לפני אבקה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happens to proteins after we eat them?",
+      "difficulty": "B",
+      "options": [
+        "They immediately turn into body fat.",
+        "They are stored unchanged in the muscles.",
+        "They break down into amino acids used for growth and repair.",
+        "They replace calcium and iron in the blood."
+      ],
+      "correct_answer": "They break down into amino acids used for growth and repair.",
+      "explanation_hebrew": "חלבונים מתפרקים לחומצות אמינו המסייעות לגוף לגדול ולתקן רקמות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “reputable” mean when the article describes supplement companies?",
+      "difficulty": "B",
+      "options": [
+        "Known to be reliable and trustworthy",
+        "Able to make the cheapest product",
+        "Popular only on social media",
+        "Required to sell medicine"
+      ],
+      "correct_answer": "Known to be reliable and trustworthy",
+      "explanation_hebrew": "reputable פירושו בעל מוניטין אמין; חברות כאלה עשויות לבצע בדיקות חיצוניות כדי לוודא שהתווית תואמת לתכולה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which group might sometimes find protein shakes or powders useful, according to the dietitian?",
+      "difficulty": "B",
+      "options": [
+        "Children who dislike vegetables",
+        "Anyone who wants larger muscles immediately",
+        "All pupils before school",
+        "High-level athletes or people with certain allergies"
+      ],
+      "correct_answer": "High-level athletes or people with certain allergies",
+      "explanation_hebrew": "הדיאטנית מציינת שספורטאי עילית או אנשים עם אלרגיות מסוימות עשויים להפיק תועלת, אך התוספים אינם תחליף לתזונה בריאה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the dietitian warn teenage girls not to focus too narrowly on protein?",
+      "difficulty": "B",
+      "options": [
+        "A narrow focus may cause them to neglect nutrients such as iron and calcium.",
+        "Protein is never needed during puberty.",
+        "Only boys can digest amino acids.",
+        "Iron and calcium are found only in protein powders."
+      ],
+      "correct_answer": "A narrow focus may cause them to neglect nutrients such as iron and calcium.",
+      "explanation_hebrew": "התמקדות יתר בחלבון עלולה לבוא על חשבון רכיבים חיוניים אחרים, ובמיוחד ברזל וסידן."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “not as tightly regulated as medicines” mean?",
+      "difficulty": "B",
+      "options": [
+        "Protein powders are prescribed in every hospital.",
+        "Supplements face less strict control and checking than medicines.",
+        "Medicines and powders follow exactly the same rules.",
+        "Protein powder can be sold only by doctors."
+      ],
+      "correct_answer": "Supplements face less strict control and checking than medicines.",
+      "explanation_hebrew": "הכוונה היא ששוק האבקות נתון לפיקוח ולבדיקות פחות מחמירים מתרופות, ולכן התווית לא תמיד משקפת במדויק את התכולה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What risks or unwanted effects of protein powder are identified in the article?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין תופעות עיכול, סוכר או מרכיבים מלאכותיים וממריצים מוסתרים, פיקוח מוגבל, וסיכון לעומס על הכליות והכבד בצריכת יתר.",
+      "expected_points": [
+        "Possible side effects include bloating, gas, cramps and diarrhoea.",
+        "Some powders contain added sugar, artificial ingredients or hidden stimulants.",
+        "The market is not regulated as strictly as medicines, so labels may not always match contents.",
+        "Excess protein must be excreted and can overload the kidneys and liver."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the experts' advice to teenagers who want more protein.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול תזונה מאוזנת ומזון רגיל תחילה, פיזור החלבון לאורך היום, אי־החלפת ארוחות, והתייעצות מקצועית לפני שימוש קבוע.",
+      "expected_points": [
+        "Most teenagers can meet their protein needs through ordinary food.",
+        "Protein intake should be spread across the day rather than concentrated in one shake.",
+        "Supplements should not replace balanced meals containing micronutrients.",
+        "Improve the diet first and consult a registered dietitian or nutritionist before regular powder use."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why is the claim that a protein shake alone will make muscles grow misleading?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שבניית שריר תלויה באימון, תזונה כוללת, גדילה והתאוששות; הגוף מסוגל לנצל כמות מוגבלת בלבד ותוספים אינם מספקים את כל הרכיבים.",
+      "expected_points": [
+        "Protein supplies amino acids but does not replace exercise and recovery.",
+        "A balanced diet provides energy and micronutrients needed for healthy growth.",
+        "The body can handle only a limited amount of protein and must excrete excess.",
+        "A supplement is useful only in particular circumstances and does not automatically enlarge muscles."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced reply to a healthy 12-year-old asking to use protein powder.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להכיר ברצון להתחזק, להסביר שמזון מאוזן בדרך כלל מספיק, להזכיר סיכונים ותופעות לוואי, ולהמליץ על התייעצות עם דיאטנית או רופא.",
+      "expected_points": [
+        "Acknowledge the young person's interest in sport and strength.",
+        "Explain that a healthy balanced diet normally supplies enough protein at this age.",
+        "Mention that powders can have side effects, variable ingredients and risks when overused.",
+        "Recommend improving food choices first and consulting a registered professional if concerns remain."
+      ]
+    }
+  ]
+}

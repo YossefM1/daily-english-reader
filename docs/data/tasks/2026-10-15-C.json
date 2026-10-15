@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-15",
+  "article_id": "C",
+  "article_title": "How data centres became the sleeper issue that could decide the US midterms",
+  "article_url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central argument of the article?",
+      "difficulty": "C",
+      "options": [
+        "Data-centre expansion has rapidly become a cross-party local backlash that could influence US midterm races.",
+        "Federal senators directly approve every data-centre permit.",
+        "Most American voters consider AI infrastructure unimportant.",
+        "Data centres have already been banned in every US state."
+      ],
+      "correct_answer": "Data-centre expansion has rapidly become a cross-party local backlash that could influence US midterm races.",
+      "explanation_hebrew": "הכתבה טוענת שהתנגדות מקומית למרכזי נתונים הפכה במהירות לסוגיה חוצת מפלגות שעשויה להשפיע על בחירות האמצע."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What scale of growth does the Pew report suggest for US data centres?",
+      "difficulty": "C",
+      "options": [
+        "Their number will fall below 1,000.",
+        "Only one new centre is planned.",
+        "The current total of about 3,000 could double within a few years.",
+        "Every centre will expand to six square miles."
+      ],
+      "correct_answer": "The current total of about 3,000 could double within a few years.",
+      "explanation_hebrew": "לפי הדוח המצוטט, בארה״ב פועלים כ־3,000 מרכזי נתונים ומספרם עשוי להכפיל את עצמו בתוך כמה שנים."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “180-degree turn” mean in the description of the senator?",
+      "difficulty": "C",
+      "options": [
+        "A complete change in position or attention",
+        "A delay of exactly six months",
+        "A return trip between two states",
+        "A technical change inside a computer"
+      ],
+      "correct_answer": "A complete change in position or attention",
+      "explanation_hebrew": "180-degree turn הוא שינוי מוחלט: הסנאטור עבר מחוסר עניין לעיסוק קבוע בהשפעות מרכזי הנתונים ובחקיקה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which concerns did residents in several states raise about data centres?",
+      "difficulty": "C",
+      "options": [
+        "Only the colour of the buildings",
+        "A lack of mobile-phone shops",
+        "Foreign ownership of every project",
+        "Noise, size, construction, resource use and rapid local approvals"
+      ],
+      "correct_answer": "Noise, size, construction, resource use and rapid local approvals",
+      "explanation_hebrew": "התושבים העלו חששות מגודל ובנייה, רעש תפעולי, השפעה על אוויר, מים ואנרגיה ומהירות האישורים."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can data centres create political conflict even within the Republican Party?",
+      "difficulty": "C",
+      "options": [
+        "Local conservative voters may oppose projects that national pro-AI leaders strongly support.",
+        "Republican states do not use the internet.",
+        "Only Democrats live near data centres.",
+        "Federal law requires Republicans to reject every local permit."
+      ],
+      "correct_answer": "Local conservative voters may oppose projects that national pro-AI leaders strongly support.",
+      "explanation_hebrew": "ההתנגדות קיימת גם בקרב שמרנים, ולכן פוליטיקאים מקומיים עלולים להתנגש עם הנהגה לאומית התומכת בצמיחת AI ללא הגבלה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why does the article call data centres a “sleeper issue”?",
+      "difficulty": "C",
+      "options": [
+        "They operate only at night.",
+        "They are built inside hotels.",
+        "They seemed secondary at first but have become unexpectedly important to the election.",
+        "Voters are unaware that computers use electricity."
+      ],
+      "correct_answer": "They seemed secondary at first but have become unexpectedly important to the election.",
+      "explanation_hebrew": "sleeper issue היא סוגיה שנראתה שולית או שקטה, אך צברה כוח ועלולה להשפיע באופן משמעותי על הבחירות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "How have politicians in Arizona, Ohio and Texas responded to public pressure over data centres?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין את עצירת הטבות המס באריזונה, ריכוך התמיכה של הסטד באוהיו, והנסיגה של אבוט בטקסס מתמיכה נלהבת להבעת חששות.",
+      "expected_points": [
+        "Arizona Governor Katie Hobbs enacted a three-year pause on new data-centre tax breaks.",
+        "Ohio Senator John Husted softened his support and said local citizens and officials should decide.",
+        "Texas Governor Greg Abbott shifted from boasting about AI leadership to citing safety and quality-of-life concerns.",
+        "Candidates in these states have made regulation, pauses or opposition part of election campaigns."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the economic and political debate over new data centres.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג טענות לגבי השקעה ומשרות מול ממצאים על מספר משרות מוגבל, חששות סביבתיים וקהילתיים, הטבות מס, והתמריצים של פוליטיקאים להגיב לבוחרים.",
+      "expected_points": [
+        "Supporters say data centres bring investment and better-paying local jobs.",
+        "Research cited in the article estimates only 100–200 local jobs per centre and little effect on wages.",
+        "Residents worry about noise, construction, land, air, water, energy and the approval process.",
+        "Politicians are responding with proposed regulation, tax-break pauses or campaign opposition because voter anger crosses party lines."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might temporary moratoriums fail to resolve the underlying data-centre conflict?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שההקפאות מוגבלות בזמן, אינן קובעות פתרון קבוע למשאבים ולאישורים, והאקלים הפוליטי עלול להשתנות לפני פקיעתן.",
+      "expected_points": [
+        "Many proposed pauses last only one to three years.",
+        "They delay construction without necessarily creating permanent rules for water, energy, pollution or local consent.",
+        "Public attention and political incentives may shift before the pauses expire.",
+        "Companies could resume rapid development if no durable policy replaces the moratorium."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a concise policy framework for deciding whether a local data-centre project should be approved.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע הליך שקוף הכולל שיתוף ציבור, בדיקת צריכת משאבים וזיהום, הערכת תעסוקה והטבות מס, דרישות הפחתה ובקרה מתמשכת.",
+      "expected_points": [
+        "Require transparent disclosure of land, water, energy, emissions, noise and backup-generator use.",
+        "Give local residents meaningful participation before permits or tax incentives are approved.",
+        "Compare credible job and wage benefits with infrastructure costs and public subsidies.",
+        "Set enforceable mitigation, monitoring and review conditions, with clear consequences for non-compliance."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-15",
+  "article_id": "A",
+  "article_title": "Airport drop-off charges to be reviewed after sharp increase",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "The government plans to close several UK airports.",
+        "The government will review airport drop-off fees after large price rises and concerns about fairness.",
+        "All European airports have introduced identical parking charges.",
+        "UK airports have agreed to make every drop-off zone free."
+      ],
+      "correct_answer": "The government will review airport drop-off fees after large price rises and concerns about fairness.",
+      "explanation_hebrew": "הכתבה עוסקת בהחלטת הממשלה לבדוק את דמי ההורדה בנמלי התעופה לאחר עליות חדות וחששות בנוגע להוגנות."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much do Gatwick and Stansted now charge for drop-off?",
+      "difficulty": "A",
+      "options": [
+        "£10",
+        "£7",
+        "£8.50",
+        "£5"
+      ],
+      "correct_answer": "£10",
+      "explanation_hebrew": "לפי הכתבה, גטוויק וסטנסטד העלו את דמי ההורדה מ־7 ליש״ט ל־10 ליש״ט."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “exercise restraint” mean in the government's request to airports?",
+      "difficulty": "A",
+      "options": [
+        "Stop allowing cars at terminals",
+        "Avoid making excessive price increases",
+        "Charge every passenger the same airfare",
+        "Replace drop-off zones with train stations"
+      ],
+      "correct_answer": "Avoid making excessive price increases",
+      "explanation_hebrew": "exercise restraint פירושו לנהוג באיפוק ולהימנע מעליות מחיר מוגזמות, במיוחד כשאין חלופות טובות."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which airport was most expensive on a per-minute basis in the RAC analysis?",
+      "difficulty": "A",
+      "options": [
+        "Belfast International",
+        "Edinburgh",
+        "Gatwick",
+        "London City"
+      ],
+      "correct_answer": "London City",
+      "explanation_hebrew": "לונדון סיטי גבתה 8 ליש״ט לחמש דקות, כלומר 1.60 ליש״ט לדקה — השיעור הגבוה ביותר לדקה."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the government particularly mention airports with limited public transport alternatives?",
+      "difficulty": "A",
+      "options": [
+        "Travellers there may have little practical choice except being dropped off by car.",
+        "Those airports are all publicly owned.",
+        "Public transport is always more expensive than flying.",
+        "They have already removed every drop-off charge."
+      ],
+      "correct_answer": "Travellers there may have little practical choice except being dropped off by car.",
+      "explanation_hebrew": "כאשר התחבורה הציבורית מוגבלת, לנוסעים יש פחות אפשרויות ולכן העלאת דמי ההורדה מכבידה עליהם במיוחד."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what is a “rip-off”?",
+      "difficulty": "A",
+      "options": [
+        "A price people believe is unfairly high",
+        "A free service provided by an airport",
+        "A rapid journey through security",
+        "A tax paid only by airlines"
+      ],
+      "correct_answer": "A price people believe is unfairly high",
+      "explanation_hebrew": "rip-off הוא מחיר או עסקה שנתפסים כיקרים ולא הוגנים; ארבעה מכל חמישה נהגים תיארו כך את העמלות."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What reasons do airports and environmental campaigners give for keeping drop-off charges?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שהעמלות מוצגות כחלק מהמודל העסקי, שדות תעופה בריטיים פרטיים ומשלמים מסים, והחיוב עשוי להפחית עומס וזיהום ולעודד תחבורה ירוקה.",
+      "expected_points": [
+        "The airport industry says the fees are a necessary part of its business model.",
+        "UK airports are generally privately owned and face commercial taxation.",
+        "Charges may encourage travellers to use more environmentally friendly transport.",
+        "The fees can help manage traffic congestion and air pollution around terminals."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the arguments for and against airport drop-off charges.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך להציג את העליות והכעס הציבורי לצד טענות נמלי התעופה לגבי מימון, ניהול תנועה, זיהום ונקודות הורדה חינמיות.",
+      "expected_points": [
+        "Critics point to sharp increases, high per-minute prices and limited understanding of why the charges exist.",
+        "The RAC says major international airports should not charge for dropping off passengers.",
+        "Airports say the fees support their privately funded business model and that free alternatives are available.",
+        "Supporters argue that charging can reduce congestion, pollution and car use."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What information would a fair government review need to compare across airports?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציע השוואה של מחיר וזמן, זמינות נקודות חינמיות ותחבורה ציבורית, עלויות תפעול ומסים, והשפעה על נוסעים, עומס וזיהום.",
+      "expected_points": [
+        "Compare the fee, permitted time and penalty rules at each airport.",
+        "Check whether free drop-off points and realistic public transport alternatives exist.",
+        "Examine airport ownership, taxation and how fee revenue is used.",
+        "Assess effects on accessibility, household costs, congestion and air pollution."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short neutral notice explaining the planned review to airport passengers.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את העליות האחרונות, מטרת הבדיקה להבטיח נגישות והוגנות, בקשת האיפוק מהממשלה, וקיום טיעונים משני הצדדים.",
+      "expected_points": [
+        "State that the government has committed to reviewing airport drop-off charges.",
+        "Mention that average prices at major airports have risen sharply since summer 2025.",
+        "Explain that the review will consider accessibility and fair treatment of passengers.",
+        "Note that airports have been asked to limit rises, while the industry says charges support operations and traffic management."
+      ]
+    }
+  ]
+}
