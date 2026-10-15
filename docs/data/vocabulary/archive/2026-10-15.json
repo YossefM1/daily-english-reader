@@ -1,0 +1,202 @@
+{
+  "version": 2,
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T09:16:44.700282+00:00",
+  "track": "Essential English 3000",
+  "lesson_size": 10,
+  "method": {
+    "name": "Manual known-word override + active retrieval + contextual production + spaced review",
+    "steps": [
+      "manual_known_override",
+      "study",
+      "productive_recall",
+      "context_cloze",
+      "sentence_production"
+    ],
+    "mastery_threshold": 5
+  },
+  "selection": {
+    "new_count": 10,
+    "review_count": 0,
+    "rule": "Manually known words are excluded; due review words are prioritized; remaining places use unseen core words."
+  },
+  "profile_summary": {
+    "bank_size": 113,
+    "known_count": 94,
+    "learning_count": 0,
+    "remaining_count": 19,
+    "profile_updated_at": "2026-07-31T08:24:54.246463+00:00"
+  },
+  "words": [
+    {
+      "id": "core-0066",
+      "word": "demand",
+      "part_of_speech": "noun",
+      "level": "B2",
+      "hebrew": "דרישה / ביקוש",
+      "pronunciation_hebrew": "דִימַנְד",
+      "explanation_hebrew": "צורך חזק במוצר, שירות או פעולה.",
+      "example": "Demand for renewable energy is increasing.",
+      "reason": "new",
+      "position": 1,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0086",
+      "word": "various",
+      "part_of_speech": "adjective",
+      "level": "B2",
+      "hebrew": "שונים / מגוונים",
+      "pronunciation_hebrew": "וֵרִיאֶס",
+      "explanation_hebrew": "כמה סוגים שונים של דברים.",
+      "example": "The course covers various engineering topics.",
+      "reason": "new",
+      "position": 2,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0035",
+      "word": "perform",
+      "part_of_speech": "verb",
+      "level": "B2",
+      "hebrew": "לבצע / לתפקד",
+      "pronunciation_hebrew": "פֶּרְפוֹרְם",
+      "explanation_hebrew": "לעשות פעולה או להראות רמת ביצוע.",
+      "example": "The system performed well under heavy load.",
+      "reason": "new",
+      "position": 3,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0065",
+      "word": "concern",
+      "part_of_speech": "noun",
+      "level": "B2",
+      "hebrew": "דאגה / עניין",
+      "pronunciation_hebrew": "קַנְסֶרְן",
+      "explanation_hebrew": "נושא שמעורר דאגה או תשומת לב.",
+      "example": "Safety is our main concern.",
+      "reason": "new",
+      "position": 4,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0004",
+      "word": "apply",
+      "part_of_speech": "verb",
+      "level": "B1",
+      "hebrew": "להגיש מועמדות / ליישם",
+      "pronunciation_hebrew": "אַפְּלַיי",
+      "explanation_hebrew": "להשתמש בכלל או בשיטה, או לבקש תפקיד באופן רשמי.",
+      "example": "You can apply this method to other problems.",
+      "reason": "new",
+      "position": 5,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0030",
+      "word": "manage",
+      "part_of_speech": "verb",
+      "level": "B1",
+      "hebrew": "לנהל / להצליח",
+      "pronunciation_hebrew": "מֶנֶג'",
+      "explanation_hebrew": "לשלוט במשימה או להצליח לבצע דבר קשה.",
+      "example": "She managed to finish the work on time.",
+      "reason": "new",
+      "position": 6,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0099",
+      "word": "feature",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "תכונה / מאפיין",
+      "pronunciation_hebrew": "פִיצֶ'ר",
+      "explanation_hebrew": "חלק או יכולת בולטים של מוצר או מערכת.",
+      "example": "The app includes a useful review feature.",
+      "reason": "new",
+      "position": 7,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0079",
+      "word": "policy",
+      "part_of_speech": "noun",
+      "level": "B2",
+      "hebrew": "מדיניות",
+      "pronunciation_hebrew": "פּוֹלִיסִי",
+      "explanation_hebrew": "כלל או תוכנית פעולה של ארגון או ממשלה.",
+      "example": "The company changed its privacy policy.",
+      "reason": "new",
+      "position": 8,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0001",
+      "word": "achieve",
+      "part_of_speech": "verb",
+      "level": "B1",
+      "hebrew": "להשיג / להצליח",
+      "pronunciation_hebrew": "אַצִ'יב",
+      "explanation_hebrew": "להצליח להגיע למטרה לאחר מאמץ.",
+      "example": "She worked hard to achieve her goal.",
+      "reason": "new",
+      "position": 9,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0095",
+      "word": "consistent",
+      "part_of_speech": "adjective",
+      "level": "B2",
+      "hebrew": "עקבי",
+      "pronunciation_hebrew": "קַנְסִיסְטֶנְט",
+      "explanation_hebrew": "נשאר באותה רמה או פועל לפי אותו עיקרון.",
+      "example": "The results are consistent with the theory.",
+      "reason": "new",
+      "position": 10,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    }
+  ]
+}
