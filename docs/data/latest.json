@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "I'm 12 and want to try protein powder - should I?",
+  "title": "Is women's health content being 'shadowbanned'?",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go",
-  "published_at": "2026-10-15T00:00:35+00:00",
-  "age_hours_at_selection": 2.16,
-  "word_count": 835,
-  "generated_at": "2026-10-15T02:10:17.831803+00:00",
-  "difficulty_reason": "Conversational health feature mixing anecdote and expert advice; moderate sentences and some nutrition vocabulary (B1/B2/C1), with light background knowledge.",
+  "url": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o",
+  "published_at": "2026-10-16T00:53:58+00:00",
+  "age_hours_at_selection": 1.26,
+  "word_count": 889,
+  "generated_at": "2026-10-16T02:09:46.305978+00:00",
+  "difficulty_reason": "Feature with several voices and moderate sentence complexity; B1/B2/C1 vocabulary around social media moderation and health, with some background on online platforms assumed.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "desperate",
-      "lemma": "desperate",
+      "word": "penalised",
+      "lemma": "penalise",
       "level": "B2",
-      "hebrew": "נואש",
-      "explanation_hebrew": "רוצה משהו מאוד ומוכן להכל",
-      "pronunciation_hebrew": "דֶסְפֶּרֶט",
-      "example": "He was desperate to try it."
+      "hebrew": "נענש / הושת עליו עונש",
+      "explanation_hebrew": "קיבל עונש על מעשה",
+      "pronunciation_hebrew": "פֶּנַלַייזד",
+      "example": "The company was penalised for the error."
     },
     {
-      "word": "hurdle",
-      "lemma": "hurdle",
-      "level": "B2",
-      "hebrew": "מכשול",
-      "explanation_hebrew": "קושי שצריך להתגבר עליו",
-      "pronunciation_hebrew": "הֶרְדְל",
-      "example": "There is one hurdle left to solve."
+      "word": "notification",
+      "lemma": "notification",
+      "level": "B1",
+      "hebrew": "הודעה / התראה",
+      "explanation_hebrew": "הודעה שמודיעה על משהו",
+      "pronunciation_hebrew": "נוֹטִיפִיקֵיישְׁן",
+      "example": "I got a notification on my phone."
     },
     {
-      "word": "explosion",
-      "lemma": "explosion",
+      "word": "offensive",
+      "lemma": "offensive",
       "level": "B2",
-      "hebrew": "התפרצות",
-      "explanation_hebrew": "גידול מהיר ועצום",
-      "pronunciation_hebrew": "אִיקְסְפְּלוֹוְז'ן",
-      "example": "There was an explosion of new products."
+      "hebrew": "פוגעני / מעליב",
+      "explanation_hebrew": "דבר שעלול לפגוע באנשים",
+      "pronunciation_hebrew": "אוֹפֶנְסִיב",
+      "example": "The comment was very offensive."
     },
     {
-      "word": "marketed",
-      "lemma": "market",
+      "word": "scrub",
+      "lemma": "scrub",
       "level": "B2",
-      "hebrew": "שווק",
-      "explanation_hebrew": "הוצג ופורסם למכירה",
-      "pronunciation_hebrew": "מַארְקֶטֶד",
-      "example": "The drink is marketed as healthy."
+      "hebrew": "למחוק / לנקות ביסודיות",
+      "explanation_hebrew": "להסיר משהו לגמרי",
+      "pronunciation_hebrew": "סְקְרַאבּ",
+      "example": "They had to scrub the word from the site."
     },
     {
-      "word": "supplements",
-      "lemma": "supplement",
+      "word": "restrictions",
+      "lemma": "restriction",
       "level": "B2",
-      "hebrew": "תוספי תזונה",
-      "explanation_hebrew": "מוצרים שמוסיפים לתזונה",
-      "pronunciation_hebrew": "סַפְּלִמֶנְטְס",
-      "example": "He takes several supplements."
+      "hebrew": "הגבלות",
+      "explanation_hebrew": "כללים שמגבילים פעולה",
+      "pronunciation_hebrew": "רֶסְטְרִיקְשְׁנְז",
+      "example": "There are restrictions on advertising."
     },
     {
-      "word": "sceptical",
-      "lemma": "sceptical",
+      "word": "significant",
+      "lemma": "significant",
+      "level": "B2",
+      "hebrew": "משמעותי / ניכר",
+      "explanation_hebrew": "גדול וחשוב",
+      "pronunciation_hebrew": "סִיגְנִיפִיקַנְט",
+      "example": "The project had a significant impact."
+    },
+    {
+      "word": "promote",
+      "lemma": "promote",
+      "level": "B2",
+      "hebrew": "לקדם",
+      "explanation_hebrew": "לפרסם או לעודד משהו",
+      "pronunciation_hebrew": "פְּרוֹמוֹט",
+      "example": "They used ads to promote the product."
+    },
+    {
+      "word": "reproductive",
+      "lemma": "reproductive",
       "level": "C1",
-      "hebrew": "ספקן",
-      "explanation_hebrew": "מפקפק ולא בטוח שמשהו נכון",
-      "pronunciation_hebrew": "סְקֶפְּטִיקַל",
-      "example": "I am sceptical about the claims."
+      "hebrew": "הקשור לרבייה",
+      "explanation_hebrew": "הקשור למערכת הרבייה",
+      "pronunciation_hebrew": "רִיפְּרוֹדַקְטִיב",
+      "example": "The clinic offers reproductive health advice."
     },
     {
-      "word": "diet",
-      "lemma": "diet",
-      "level": "B1",
-      "hebrew": "תזונה",
-      "explanation_hebrew": "מה שאדם אוכל בדרך כלל",
-      "pronunciation_hebrew": "דַיְאֶט",
-      "example": "She eats a healthy diet."
-    },
-    {
-      "word": "balanced",
-      "lemma": "balanced",
-      "level": "B2",
-      "hebrew": "מאוזן",
-      "explanation_hebrew": "כולל את כל מה שצריך במידה נכונה",
-      "pronunciation_hebrew": "בַּלַנְסְט",
-      "example": "A balanced diet is important."
-    },
-    {
-      "word": "consequences",
-      "lemma": "consequence",
-      "level": "B2",
-      "hebrew": "השלכות",
-      "explanation_hebrew": "התוצאות של מעשה",
-      "pronunciation_hebrew": "קוֹנְסִיקְוֶנְסִיז",
-      "example": "He didn't think about the consequences."
-    },
-    {
-      "word": "repair",
-      "lemma": "repair",
-      "level": "B1",
-      "hebrew": "לתקן",
-      "explanation_hebrew": "להחזיר משהו למצב תקין",
-      "pronunciation_hebrew": "רִיפֵּאר",
-      "example": "Protein helps repair the body."
-    },
-    {
-      "word": "essential",
-      "lemma": "essential",
-      "level": "B2",
-      "hebrew": "חיוני",
-      "explanation_hebrew": "הכרחי ואי אפשר בלעדיו",
-      "pronunciation_hebrew": "אִיסֶנְשַל",
-      "example": "These are essential amino acids."
-    },
-    {
-      "word": "recommended",
-      "lemma": "recommend",
-      "level": "B1",
-      "hebrew": "מומלץ",
-      "explanation_hebrew": "מוצע כבחירה טובה",
-      "pronunciation_hebrew": "רֶקֶמֶנְדֶד",
-      "example": "This is the recommended amount."
-    },
-    {
-      "word": "nutrients",
-      "lemma": "nutrient",
-      "level": "B2",
-      "hebrew": "חומרים מזינים",
-      "explanation_hebrew": "רכיבים במזון שהגוף צריך",
-      "pronunciation_hebrew": "נְיוּטְרִיֶנְטְס",
-      "example": "Whole foods contain many nutrients."
-    },
-    {
-      "word": "athletes",
-      "lemma": "athlete",
-      "level": "B1",
-      "hebrew": "ספורטאים",
-      "explanation_hebrew": "אנשים שעוסקים בספורט ברמה גבוהה",
-      "pronunciation_hebrew": "אַתְלִיטְס",
-      "example": "Athletes often use supplements."
-    },
-    {
-      "word": "allergies",
-      "lemma": "allergy",
-      "level": "B1",
-      "hebrew": "אלרגיות",
-      "explanation_hebrew": "תגובות גוף רגישות למזון או חומר",
-      "pronunciation_hebrew": "אַלֶרְגִ'יז",
-      "example": "Some people have food allergies."
-    },
-    {
-      "word": "bloating",
-      "lemma": "bloating",
+      "word": "suppressed",
+      "lemma": "suppress",
       "level": "C1",
-      "hebrew": "נפיחות",
-      "explanation_hebrew": "תחושת מלאות ונפיחות בבטן",
-      "pronunciation_hebrew": "בְּלוֹוְטִינְג",
-      "example": "Too much of it can cause bloating."
+      "hebrew": "דוכא / הוסתר",
+      "explanation_hebrew": "נמנע מלהתפשט או להיראות",
+      "pronunciation_hebrew": "סַפְּרֶסְט",
+      "example": "The post's reach was suppressed online."
     },
     {
-      "word": "regulated",
-      "lemma": "regulate",
+      "word": "creators",
+      "lemma": "creator",
       "level": "B2",
-      "hebrew": "מפוקח",
-      "explanation_hebrew": "נשלט על ידי חוקים וכללים",
-      "pronunciation_hebrew": "רֶגְיוּלֵיְטֶד",
-      "example": "The market is not tightly regulated."
+      "hebrew": "יוצרי תוכן",
+      "explanation_hebrew": "אנשים שמייצרים תוכן ברשת",
+      "pronunciation_hebrew": "קְרִיאֵייטוֹרְז",
+      "example": "Many creators post videos daily."
     },
     {
-      "word": "reputable",
-      "lemma": "reputable",
-      "level": "C1",
-      "hebrew": "בעל מוניטין",
-      "explanation_hebrew": "אמין ובעל שם טוב",
-      "pronunciation_hebrew": "רֶפְּיוּטֶבְּל",
-      "example": "Buy from a reputable company."
+      "word": "charities",
+      "lemma": "charity",
+      "level": "B1",
+      "hebrew": "עמותות / ארגוני צדקה",
+      "explanation_hebrew": "ארגונים שעוזרים לאחרים",
+      "pronunciation_hebrew": "צַ'ארִיטִיז",
+      "example": "Several charities raised money for the cause."
     },
     {
-      "word": "artificial",
-      "lemma": "artificial",
+      "word": "sensitivity",
+      "lemma": "sensitivity",
       "level": "B2",
-      "hebrew": "מלאכותי",
-      "explanation_hebrew": "מיוצר ולא טבעי",
-      "pronunciation_hebrew": "אַרְטִיפִישַל",
-      "example": "It contains artificial ingredients."
+      "hebrew": "רגישות",
+      "explanation_hebrew": "מידת הרגישות למשהו",
+      "pronunciation_hebrew": "סֶנְסִיטִיבִיטִי",
+      "example": "A sensitivity filter blurred the image."
     },
     {
-      "word": "stimulants",
-      "lemma": "stimulant",
+      "word": "surveyed",
+      "lemma": "survey",
+      "level": "B2",
+      "hebrew": "סקר / ערך סקר",
+      "explanation_hebrew": "אסף מידע משאלון או סקר",
+      "pronunciation_hebrew": "סֶרְוֵייד",
+      "example": "The group surveyed hundreds of people."
+    },
+    {
+      "word": "clinical",
+      "lemma": "clinical",
       "level": "C1",
-      "hebrew": "חומרים ממריצים",
-      "explanation_hebrew": "חומרים שמעלים את הערנות",
-      "pronunciation_hebrew": "סְטִימְיוּלַנְטְס",
-      "example": "Some powders hide stimulants."
+      "hebrew": "קליני / רפואי",
+      "explanation_hebrew": "הקשור לטיפול רפואי",
+      "pronunciation_hebrew": "קְלִינִיקַל",
+      "example": "She works as a clinical provider."
     },
     {
-      "word": "excreted",
-      "lemma": "excrete",
+      "word": "educators",
+      "lemma": "educator",
+      "level": "B2",
+      "hebrew": "מחנכים / מורים",
+      "explanation_hebrew": "אנשים שמלמדים ומחנכים",
+      "pronunciation_hebrew": "אֶדְיוּקֵייטוֹרְז",
+      "example": "Educators shared useful resources."
+    },
+    {
+      "word": "blur",
+      "lemma": "blur",
+      "level": "B2",
+      "hebrew": "לטשטש",
+      "explanation_hebrew": "להפוך תמונה ללא ברורה",
+      "pronunciation_hebrew": "בְּלֶר",
+      "example": "The app can blur sensitive photos."
+    },
+    {
+      "word": "graphic",
+      "lemma": "graphic",
+      "level": "B2",
+      "hebrew": "גרפי / מפורש ובוטה",
+      "explanation_hebrew": "מתואר בצורה חזותית ובוטה",
+      "pronunciation_hebrew": "גְרַאפִיק",
+      "example": "The film had graphic violence."
+    },
+    {
+      "word": "nudity",
+      "lemma": "nudity",
+      "level": "C1",
+      "hebrew": "עירום",
+      "explanation_hebrew": "מצב של חוסר לבוש",
+      "pronunciation_hebrew": "נְיוּדִיטִי",
+      "example": "The platform bans nudity in photos."
+    },
+    {
+      "word": "moderation",
+      "lemma": "moderation",
+      "level": "C1",
+      "hebrew": "פיקוח / ניהול תוכן",
+      "explanation_hebrew": "בקרה על תוכן באתר",
+      "pronunciation_hebrew": "מוֹדֶרֵיישְׁן",
+      "example": "Content moderation removes harmful posts."
+    },
+    {
+      "word": "algorithm",
+      "lemma": "algorithm",
+      "level": "B2",
+      "hebrew": "אלגוריתם",
+      "explanation_hebrew": "סדרת כללים שמחשב פועל לפיהם",
+      "pronunciation_hebrew": "אַלְגוֹרִיתְם",
+      "example": "The algorithm chooses what you see."
+    },
+    {
+      "word": "breach",
+      "lemma": "breach",
+      "level": "C1",
+      "hebrew": "הפרה / פריצה",
+      "explanation_hebrew": "הפרה של כלל או חוק",
+      "pronunciation_hebrew": "בְּרִיץ'",
+      "example": "The post did not breach the rules."
+    },
+    {
+      "word": "automated",
+      "lemma": "automated",
+      "level": "B2",
+      "hebrew": "אוטומטי / ממוחשב",
+      "explanation_hebrew": "מבוצע על ידי מכונה אוטומטית",
+      "pronunciation_hebrew": "אוֹטוֹמֵייטֶד",
+      "example": "An automated message replied to her."
+    },
+    {
+      "word": "appealed",
+      "lemma": "appeal",
+      "level": "B2",
+      "hebrew": "הגיש ערעור",
+      "explanation_hebrew": "ביקש לבדוק החלטה מחדש",
+      "pronunciation_hebrew": "אַפִּילְד",
+      "example": "The charity appealed the decision."
+    },
+    {
+      "word": "euphemistic",
+      "lemma": "euphemistic",
       "level": "C2",
-      "hebrew": "מופרש מהגוף",
-      "explanation_hebrew": "מוצא מהגוף כפסולת",
-      "pronunciation_hebrew": "אִיקְסְקְרִיטֶד",
-      "example": "Excess protein is excreted by the body."
+      "hebrew": "מלשון נקייה / בלשון עקיפה",
+      "explanation_hebrew": "שימוש במילה עדינה במקום בוטה",
+      "pronunciation_hebrew": "יוּפֶמִיסְטִיק",
+      "example": "They used euphemistic terms online."
     },
     {
-      "word": "overloaded",
-      "lemma": "overload",
-      "level": "B2",
-      "hebrew": "עמוס יתר על המידה",
-      "explanation_hebrew": "מועמס מעבר ליכולת",
-      "pronunciation_hebrew": "אוֹוְוֶרְלוֹוְדֶד",
-      "example": "The kidneys can become overloaded."
-    },
-    {
-      "word": "intake",
-      "lemma": "intake",
-      "level": "B2",
-      "hebrew": "צריכה",
-      "explanation_hebrew": "הכמות שנצרכת של מזון",
-      "pronunciation_hebrew": "אִינְטֵיְק",
-      "example": "Try to raise your protein intake."
-    },
-    {
-      "word": "puberty",
-      "lemma": "puberty",
-      "level": "B2",
-      "hebrew": "גיל ההתבגרות",
-      "explanation_hebrew": "השלב שבו הגוף מתבגר",
-      "pronunciation_hebrew": "פְּיוּבֶּרְטִי",
-      "example": "Children grow fast during puberty."
-    },
-    {
-      "word": "rapidly",
-      "lemma": "rapidly",
-      "level": "B2",
-      "hebrew": "במהירות",
-      "explanation_hebrew": "בקצב מהיר מאוד",
-      "pronunciation_hebrew": "רַפִּידְלִי",
-      "example": "Their bodies are growing rapidly."
+      "word": "conflated",
+      "lemma": "conflate",
+      "level": "C2",
+      "hebrew": "ערבב / בלבל בין",
+      "explanation_hebrew": "טעה בכך שחיבר שני דברים שונים",
+      "pronunciation_hebrew": "קוֹנְפְלֵייטֶד",
+      "example": "The policy conflated nudity with sex."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "desperate",
+      "word": "penalised",
       "type": "english_to_hebrew",
-      "question": "What does “desperate” mean?",
+      "question": "What does “penalised” mean?",
       "options": [
-        "מופרש מהגוף",
-        "נואש",
-        "מאוזן",
-        "מכשול"
+        "הפרה / פריצה",
+        "נענש / הושת עליו עונש",
+        "הודעה / התראה",
+        "הקשור לרבייה"
       ],
-      "correct_answer": "נואש",
-      "explanation_hebrew": "“desperate” פירושו נואש."
+      "correct_answer": "נענש / הושת עליו עונש",
+      "explanation_hebrew": "“penalised” = נענש / הושת עליו עונש. קיבל עונש על מעשה."
     },
     {
       "id": "B-q2",
-      "word": "hurdle",
+      "word": "notification",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מכשול”?",
+      "question": "איזו מילה אנגלית פירושה “הודעה / התראה”?",
       "options": [
-        "consequences",
-        "allergies",
-        "hurdle",
-        "recommended"
+        "charities",
+        "scrub",
+        "automated",
+        "notification"
       ],
-      "correct_answer": "hurdle",
-      "explanation_hebrew": "המילה “hurdle” פירושה מכשול."
+      "correct_answer": "notification",
+      "explanation_hebrew": "הודעה / התראה = “notification”. הודעה שמודיעה על משהו."
     },
     {
       "id": "B-q3",
-      "word": "explosion",
+      "word": "offensive",
       "type": "english_to_hebrew",
-      "question": "What does “explosion” mean?",
+      "question": "What does “offensive” mean?",
       "options": [
-        "מפוקח",
-        "התפרצות",
-        "נפיחות",
-        "שווק"
+        "רגישות",
+        "פוגעני / מעליב",
+        "דוכא / הוסתר",
+        "מחנכים / מורים"
       ],
-      "correct_answer": "התפרצות",
-      "explanation_hebrew": "“explosion” פירושו התפרצות."
+      "correct_answer": "פוגעני / מעליב",
+      "explanation_hebrew": "“offensive” = פוגעני / מעליב. דבר שעלול לפגוע באנשים."
     },
     {
       "id": "B-q4",
-      "word": "marketed",
+      "word": "scrub",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “שווק”?",
+      "question": "איזו מילה אנגלית פירושה “למחוק / לנקות ביסודיות”?",
       "options": [
-        "diet",
-        "hurdle",
-        "marketed",
-        "bloating"
+        "algorithm",
+        "notification",
+        "nudity",
+        "scrub"
       ],
-      "correct_answer": "marketed",
-      "explanation_hebrew": "המילה “marketed” פירושה שווק."
+      "correct_answer": "scrub",
+      "explanation_hebrew": "למחוק / לנקות ביסודיות = “scrub”. להסיר משהו לגמרי."
     },
     {
       "id": "B-q5",
-      "word": "supplements",
+      "word": "restrictions",
       "type": "english_to_hebrew",
-      "question": "What does “supplements” mean?",
+      "question": "What does “restrictions” mean?",
       "options": [
-        "לתקן",
-        "תוספי תזונה",
-        "מומלץ",
-        "מופרש מהגוף"
+        "לטשטש",
+        "נענש / הושת עליו עונש",
+        "גרפי / מפורש ובוטה",
+        "הגבלות"
       ],
-      "correct_answer": "תוספי תזונה",
-      "explanation_hebrew": "“supplements” פירושו תוספי תזונה."
+      "correct_answer": "הגבלות",
+      "explanation_hebrew": "“restrictions” = הגבלות. כללים שמגבילים פעולה."
     },
     {
       "id": "B-q6",
-      "word": "sceptical",
+      "word": "significant",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “ספקן”?",
+      "question": "איזו מילה אנגלית פירושה “משמעותי / ניכר”?",
       "options": [
-        "diet",
-        "consequences",
-        "regulated",
-        "sceptical"
+        "offensive",
+        "notification",
+        "significant",
+        "nudity"
       ],
-      "correct_answer": "sceptical",
-      "explanation_hebrew": "המילה “sceptical” פירושה ספקן."
+      "correct_answer": "significant",
+      "explanation_hebrew": "משמעותי / ניכר = “significant”. גדול וחשוב."
     },
     {
       "id": "B-q7",
-      "word": "diet",
+      "word": "promote",
       "type": "english_to_hebrew",
-      "question": "What does “diet” mean?",
+      "question": "What does “promote” mean?",
       "options": [
-        "אלרגיות",
-        "תזונה",
-        "צריכה",
-        "מפוקח"
+        "משמעותי / ניכר",
+        "לקדם",
+        "סקר / ערך סקר",
+        "הגיש ערעור"
       ],
-      "correct_answer": "תזונה",
-      "explanation_hebrew": "“diet” פירושו תזונה."
+      "correct_answer": "לקדם",
+      "explanation_hebrew": "“promote” = לקדם. לפרסם או לעודד משהו."
     },
     {
       "id": "B-q8",
-      "word": "balanced",
+      "word": "reproductive",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מאוזן”?",
+      "question": "איזו מילה אנגלית פירושה “הקשור לרבייה”?",
       "options": [
-        "repair",
-        "explosion",
-        "diet",
-        "balanced"
+        "blur",
+        "reproductive",
+        "notification",
+        "appealed"
       ],
-      "correct_answer": "balanced",
-      "explanation_hebrew": "המילה “balanced” פירושה מאוזן."
+      "correct_answer": "reproductive",
+      "explanation_hebrew": "הקשור לרבייה = “reproductive”. הקשור למערכת הרבייה."
     },
     {
       "id": "B-q9",
-      "word": "consequences",
+      "word": "suppressed",
       "type": "english_to_hebrew",
-      "question": "What does “consequences” mean?",
+      "question": "What does “suppressed” mean?",
       "options": [
-        "נפיחות",
-        "מפוקח",
-        "נואש",
-        "השלכות"
+        "דוכא / הוסתר",
+        "לקדם",
+        "הודעה / התראה",
+        "רגישות"
       ],
-      "correct_answer": "השלכות",
-      "explanation_hebrew": "“consequences” פירושו השלכות."
+      "correct_answer": "דוכא / הוסתר",
+      "explanation_hebrew": "“suppressed” = דוכא / הוסתר. נמנע מלהתפשט או להיראות."
     },
     {
       "id": "B-q10",
-      "word": "repair",
+      "word": "creators",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “לתקן”?",
+      "question": "איזו מילה אנגלית פירושה “יוצרי תוכן”?",
       "options": [
-        "repair",
-        "sceptical",
-        "reputable",
-        "allergies"
+        "suppressed",
+        "breach",
+        "creators",
+        "charities"
       ],
-      "correct_answer": "repair",
-      "explanation_hebrew": "המילה “repair” פירושה לתקן."
+      "correct_answer": "creators",
+      "explanation_hebrew": "יוצרי תוכן = “creators”. אנשים שמייצרים תוכן ברשת."
     },
     {
       "id": "B-q11",
-      "word": "essential",
+      "word": "charities",
       "type": "english_to_hebrew",
-      "question": "What does “essential” mean?",
+      "question": "What does “charities” mean?",
       "options": [
-        "תזונה",
-        "ספקן",
-        "מאוזן",
-        "חיוני"
+        "אלגוריתם",
+        "משמעותי / ניכר",
+        "עמותות / ארגוני צדקה",
+        "הקשור לרבייה"
       ],
-      "correct_answer": "חיוני",
-      "explanation_hebrew": "“essential” פירושו חיוני."
+      "correct_answer": "עמותות / ארגוני צדקה",
+      "explanation_hebrew": "“charities” = עמותות / ארגוני צדקה. ארגונים שעוזרים לאחרים."
     },
     {
       "id": "B-q12",
-      "word": "recommended",
+      "word": "sensitivity",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מומלץ”?",
+      "question": "איזו מילה אנגלית פירושה “רגישות”?",
       "options": [
-        "recommended",
-        "rapidly",
-        "reputable",
-        "overloaded"
+        "reproductive",
+        "sensitivity",
+        "graphic",
+        "conflated"
       ],
-      "correct_answer": "recommended",
-      "explanation_hebrew": "המילה “recommended” פירושה מומלץ."
+      "correct_answer": "sensitivity",
+      "explanation_hebrew": "רגישות = “sensitivity”. מידת הרגישות למשהו."
     },
     {
       "id": "B-q13",
-      "word": "nutrients",
+      "word": "surveyed",
       "type": "english_to_hebrew",
-      "question": "What does “nutrients” mean?",
+      "question": "What does “surveyed” mean?",
       "options": [
-        "חומרים מזינים",
-        "תוספי תזונה",
-        "חומרים ממריצים",
-        "חיוני"
+        "פוגעני / מעליב",
+        "הפרה / פריצה",
+        "דוכא / הוסתר",
+        "סקר / ערך סקר"
       ],
-      "correct_answer": "חומרים מזינים",
-      "explanation_hebrew": "“nutrients” פירושו חומרים מזינים."
+      "correct_answer": "סקר / ערך סקר",
+      "explanation_hebrew": "“surveyed” = סקר / ערך סקר. אסף מידע משאלון או סקר."
     },
     {
       "id": "B-q14",
-      "word": "athletes",
+      "word": "clinical",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “ספורטאים”?",
+      "question": "איזו מילה אנגלית פירושה “קליני / רפואי”?",
       "options": [
-        "athletes",
-        "supplements",
-        "puberty",
-        "regulated"
+        "restrictions",
+        "graphic",
+        "clinical",
+        "educators"
       ],
-      "correct_answer": "athletes",
-      "explanation_hebrew": "המילה “athletes” פירושה ספורטאים."
+      "correct_answer": "clinical",
+      "explanation_hebrew": "קליני / רפואי = “clinical”. הקשור לטיפול רפואי."
     },
     {
       "id": "B-q15",
-      "word": "allergies",
+      "word": "educators",
       "type": "english_to_hebrew",
-      "question": "What does “allergies” mean?",
+      "question": "What does “educators” mean?",
       "options": [
-        "במהירות",
-        "אלרגיות",
-        "מלאכותי",
-        "מכשול"
+        "עמותות / ארגוני צדקה",
+        "עירום",
+        "מחנכים / מורים",
+        "הגיש ערעור"
       ],
-      "correct_answer": "אלרגיות",
-      "explanation_hebrew": "“allergies” פירושו אלרגיות."
+      "correct_answer": "מחנכים / מורים",
+      "explanation_hebrew": "“educators” = מחנכים / מורים. אנשים שמלמדים ומחנכים."
     },
     {
       "id": "B-q16",
-      "word": "bloating",
+      "word": "blur",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “נפיחות”?",
+      "question": "איזו מילה אנגלית פירושה “לטשטש”?",
       "options": [
-        "bloating",
-        "balanced",
-        "nutrients",
-        "reputable"
+        "blur",
+        "moderation",
+        "suppressed",
+        "offensive"
       ],
-      "correct_answer": "bloating",
-      "explanation_hebrew": "המילה “bloating” פירושה נפיחות."
+      "correct_answer": "blur",
+      "explanation_hebrew": "לטשטש = “blur”. להפוך תמונה ללא ברורה."
     },
     {
       "id": "B-q17",
-      "word": "regulated",
+      "word": "graphic",
       "type": "english_to_hebrew",
-      "question": "What does “regulated” mean?",
+      "question": "What does “graphic” mean?",
       "options": [
-        "אלרגיות",
-        "גיל ההתבגרות",
-        "מפוקח",
-        "ספורטאים"
+        "יוצרי תוכן",
+        "גרפי / מפורש ובוטה",
+        "דוכא / הוסתר",
+        "לקדם"
       ],
-      "correct_answer": "מפוקח",
-      "explanation_hebrew": "“regulated” פירושו מפוקח."
+      "correct_answer": "גרפי / מפורש ובוטה",
+      "explanation_hebrew": "“graphic” = גרפי / מפורש ובוטה. מתואר בצורה חזותית ובוטה."
     },
     {
       "id": "B-q18",
-      "word": "reputable",
+      "word": "nudity",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “בעל מוניטין”?",
+      "question": "איזו מילה אנגלית פירושה “עירום”?",
       "options": [
-        "overloaded",
-        "puberty",
-        "regulated",
-        "reputable"
+        "notification",
+        "nudity",
+        "reproductive",
+        "educators"
       ],
-      "correct_answer": "reputable",
-      "explanation_hebrew": "המילה “reputable” פירושה בעל מוניטין."
+      "correct_answer": "nudity",
+      "explanation_hebrew": "עירום = “nudity”. מצב של חוסר לבוש."
     },
     {
       "id": "B-q19",
-      "word": "artificial",
+      "word": "moderation",
       "type": "english_to_hebrew",
-      "question": "What does “artificial” mean?",
+      "question": "What does “moderation” mean?",
       "options": [
-        "תזונה",
-        "מלאכותי",
-        "מכשול",
-        "צריכה"
+        "לטשטש",
+        "פיקוח / ניהול תוכן",
+        "מחנכים / מורים",
+        "נענש / הושת עליו עונש"
       ],
-      "correct_answer": "מלאכותי",
-      "explanation_hebrew": "“artificial” פירושו מלאכותי."
+      "correct_answer": "פיקוח / ניהול תוכן",
+      "explanation_hebrew": "“moderation” = פיקוח / ניהול תוכן. בקרה על תוכן באתר."
     },
     {
       "id": "B-q20",
-      "word": "stimulants",
+      "word": "algorithm",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “חומרים ממריצים”?",
+      "question": "איזו מילה אנגלית פירושה “אלגוריתם”?",
       "options": [
-        "essential",
-        "stimulants",
-        "supplements",
-        "puberty"
+        "appealed",
+        "charities",
+        "algorithm",
+        "breach"
       ],
-      "correct_answer": "stimulants",
-      "explanation_hebrew": "המילה “stimulants” פירושה חומרים ממריצים."
+      "correct_answer": "algorithm",
+      "explanation_hebrew": "אלגוריתם = “algorithm”. סדרת כללים שמחשב פועל לפיהם."
     },
     {
       "id": "B-q21",
-      "word": "excreted",
+      "word": "breach",
       "type": "english_to_hebrew",
-      "question": "What does “excreted” mean?",
+      "question": "What does “breach” mean?",
       "options": [
-        "מאוזן",
-        "אלרגיות",
-        "שווק",
-        "מופרש מהגוף"
+        "גרפי / מפורש ובוטה",
+        "הודעה / התראה",
+        "קליני / רפואי",
+        "הפרה / פריצה"
       ],
-      "correct_answer": "מופרש מהגוף",
-      "explanation_hebrew": "“excreted” פירושו מופרש מהגוף."
+      "correct_answer": "הפרה / פריצה",
+      "explanation_hebrew": "“breach” = הפרה / פריצה. הפרה של כלל או חוק."
     },
     {
       "id": "B-q22",
-      "word": "overloaded",
+      "word": "automated",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “עמוס יתר על המידה”?",
+      "question": "איזו מילה אנגלית פירושה “אוטומטי / ממוחשב”?",
       "options": [
-        "intake",
-        "overloaded",
-        "supplements",
-        "artificial"
+        "significant",
+        "notification",
+        "automated",
+        "algorithm"
       ],
-      "correct_answer": "overloaded",
-      "explanation_hebrew": "המילה “overloaded” פירושה עמוס יתר על המידה."
+      "correct_answer": "automated",
+      "explanation_hebrew": "אוטומטי / ממוחשב = “automated”. מבוצע על ידי מכונה אוטומטית."
     },
     {
       "id": "B-q23",
-      "word": "intake",
+      "word": "appealed",
       "type": "english_to_hebrew",
-      "question": "What does “intake” mean?",
+      "question": "What does “appealed” mean?",
       "options": [
-        "תזונה",
-        "צריכה",
-        "לתקן",
-        "ספקן"
+        "הקשור לרבייה",
+        "הגיש ערעור",
+        "נענש / הושת עליו עונש",
+        "לטשטש"
       ],
-      "correct_answer": "צריכה",
-      "explanation_hebrew": "“intake” פירושו צריכה."
+      "correct_answer": "הגיש ערעור",
+      "explanation_hebrew": "“appealed” = הגיש ערעור. ביקש לבדוק החלטה מחדש."
     },
     {
       "id": "B-q24",
-      "word": "puberty",
+      "word": "euphemistic",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “גיל ההתבגרות”?",
+      "question": "איזו מילה אנגלית פירושה “מלשון נקייה / בלשון עקיפה”?",
       "options": [
-        "artificial",
-        "nutrients",
-        "excreted",
-        "puberty"
+        "offensive",
+        "significant",
+        "promote",
+        "euphemistic"
       ],
-      "correct_answer": "puberty",
-      "explanation_hebrew": "המילה “puberty” פירושה גיל ההתבגרות."
+      "correct_answer": "euphemistic",
+      "explanation_hebrew": "מלשון נקייה / בלשון עקיפה = “euphemistic”. שימוש במילה עדינה במקום בוטה."
     },
     {
       "id": "B-q25",
-      "word": "rapidly",
+      "word": "conflated",
       "type": "english_to_hebrew",
-      "question": "What does “rapidly” mean?",
+      "question": "What does “conflated” mean?",
       "options": [
-        "אלרגיות",
-        "במהירות",
-        "לתקן",
-        "עמוס יתר על המידה"
+        "נענש / הושת עליו עונש",
+        "הפרה / פריצה",
+        "ערבב / בלבל בין",
+        "פוגעני / מעליב"
       ],
-      "correct_answer": "במהירות",
-      "explanation_hebrew": "“rapidly” פירושו במהירות."
+      "correct_answer": "ערבב / בלבל בין",
+      "explanation_hebrew": "“conflated” = ערבב / בלבל בין. טעה בכך שחיבר שני דברים שונים."
     }
   ]
 }
