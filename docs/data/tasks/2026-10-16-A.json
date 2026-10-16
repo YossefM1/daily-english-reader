@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-16",
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "profile_version_used": 1,
+  "article_id": "A",
+  "article_title": "Suspected fly tippers shamed with council's online CCTV photos",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqgm0jepyl01o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A council is publicly sharing CCTV images to identify and deter suspected fly tippers.",
+        "A London borough has stopped collecting household rubbish.",
+        "Residents are being asked to build new recycling centres.",
+        "The government has banned CCTV use by local councils."
+      ],
+      "correct_answer": "A council is publicly sharing CCTV images to identify and deter suspected fly tippers.",
+      "explanation_hebrew": "הכתבה עוסקת בהחלטת מועצת הילינגדון לפרסם תמונות CCTV של חשודים בהשלכת פסולת כדי לזהותם ולהרתיע אחרים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What response did the council's CCTV posts receive after they were shared?",
+      "difficulty": "A",
+      "options": [
+        "About 8,500 views and 25 comments",
+        "More than 850,000 views and about 2,500 comments",
+        "Nearly half a million fines in one week",
+        "Exactly 1,000 reports from police"
+      ],
+      "correct_answer": "More than 850,000 views and about 2,500 comments",
+      "explanation_hebrew": "אדם בנט אמר שהתמונות קיבלו יותר מ־850 אלף צפיות וכ־2,500 תגובות, ובהן מידע על זהות אפשרית של החשודים."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “fly tipping” mean?",
+      "difficulty": "A",
+      "options": [
+        "Collecting recyclable material from homes",
+        "Leaving a vehicle in a public car park",
+        "Illegally dumping rubbish in public places",
+        "Photographing litter with a security camera"
+      ],
+      "correct_answer": "Illegally dumping rubbish in public places",
+      "explanation_hebrew": "fly tipping הוא השלכה לא חוקית של אשפה במרחב הציבורי, למשל על מדרכה, בשולי דרך או במפרץ חניה."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What fixed penalty does Hillingdon Council say it issues to fly-tipping culprits?",
+      "difficulty": "A",
+      "options": [
+        "£100",
+        "£500",
+        "£750",
+        "£1,000"
+      ],
+      "correct_answer": "£1,000",
+      "explanation_hebrew": "המועצה מסרה שהיא מטילה על האשמים קנס קבוע של 1,000 ליש״ט."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the council plan to show suspects' images in libraries and leisure centres as well as online?",
+      "difficulty": "A",
+      "options": [
+        "To widen public recognition and make potential offenders think twice",
+        "To advertise new library membership cards",
+        "To replace all formal investigations with public voting",
+        "To encourage residents to dump waste indoors"
+      ],
+      "correct_answer": "To widen public recognition and make potential offenders think twice",
+      "explanation_hebrew": "הצגה במקומות ציבוריים מרחיבה את החשיפה, עשויה לסייע בזיהוי החשודים וליצור הרתעה אצל מי ששוקל לבצע עבירה דומה."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “a certain evidential threshold” mean before the council identifies someone online?",
+      "difficulty": "A",
+      "options": [
+        "A minimum number of social-media followers",
+        "A required level of supporting evidence",
+        "A maximum amount of rubbish in one bag",
+        "A deadline for deleting CCTV footage"
+      ],
+      "correct_answer": "A required level of supporting evidence",
+      "explanation_hebrew": "evidential threshold הוא רף ראיות מינימלי שצריך לעמוד בו לפני פרסום זהותו של אדם."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What enforcement actions and identification methods does Hillingdon Council describe?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין פרסום תמונות CCTV ברשתות ובמסכים ציבוריים, קנס קבוע של 1,000 ליש״ט, החרמת וריסוק רכב, ושימוש במידע מהציבור לזיהוי.",
+      "expected_points": [
+        "The council shares CCTV images on social media to identify suspected offenders.",
+        "It also plans to display images on screens in libraries and leisure centres.",
+        "It issues a £1,000 fixed penalty to culprits.",
+        "It seized and crushed a vehicle linked to fly tipping last month."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Hillingdon Council's reasons for its naming-and-shaming campaign and the response to it.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך להציג את חומרת התופעה, רצון המועצה לזהות ולהרתיע, תגובת הציבור הרחבה, והדיון בשאלה אם השיטה תצליח.",
+      "expected_points": [
+        "The council calls fly tipping a serious blight and admits the problem was allowed to grow.",
+        "It publishes CCTV images to identify suspects, hold perpetrators accountable and deter future dumping.",
+        "Residents responded strongly, with hundreds of thousands of views and thousands of comments.",
+        "Gareth Roberts wants to see whether naming and shaming actually prevents fly tipping."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might public images help enforcement but also require careful evidence checks?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהתמונות עשויות להביא מידע וזיהוי ולהרתיע, אך פרסום פנים עלול לפגוע באדם שלא הוכחה אשמתו ולכן נדרש רף ראיות.",
+      "expected_points": [
+        "Wide circulation can help residents recognise suspects and provide information.",
+        "Public exposure may deter people from dumping waste.",
+        "A pictured person has only allegedly committed the offence until the case is proved.",
+        "The council therefore says an evidential threshold must be met before identification."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short neutral public notice explaining how residents can respond to the council's CCTV campaign.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לתאר את מטרת הפרסום, לבקש מידע עובדתי בלבד, להזכיר שמדובר בחשודים לכאורה, ולהסביר את הקנס והצורך בהשלכת פסולת כחוק.",
+      "expected_points": [
+        "Explain that the images relate to suspected illegal waste dumping.",
+        "Invite residents with reliable information to contact the council through an official channel.",
+        "Avoid declaring pictured people guilty and use neutral language such as alleged or suspected.",
+        "Remind readers that fly tipping is unlawful and can lead to a £1,000 fixed penalty."
+      ]
+    }
+  ]
+}

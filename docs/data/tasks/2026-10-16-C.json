@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-16",
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "profile_version_used": 1,
+  "article_id": "C",
+  "article_title": "India's 'cockroach' protesters set to return despite police crackdown",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "C",
+      "options": [
+        "A youth-led movement plans another Delhi protest over electoral reforms and protest rights despite arrests and a major police crackdown.",
+        "India has approved Central Park as its only national election venue.",
+        "The CJP has ended its campaign after the education minister resigned.",
+        "Delhi police have invited opposition parties to organise a joint march."
+      ],
+      "correct_answer": "A youth-led movement plans another Delhi protest over electoral reforms and protest rights despite arrests and a major police crackdown.",
+      "explanation_hebrew": "הכתבה מתארת את כוונת תנועת CJP להפגין שוב בדלהי בדרישה לרפורמות בחירות וזכות המחאה, למרות מעצרים ודיכוי משטרתי."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the CJP call on supporters to gather for Friday's protest?",
+      "difficulty": "C",
+      "options": [
+        "Ramlila Maidan",
+        "Central Park in Connaught Place",
+        "The Election Commission headquarters",
+        "The grounds of the Supreme Court"
+      ],
+      "correct_answer": "Central Park in Connaught Place",
+      "explanation_hebrew": "התנועה קראה לתומכיה להתכנס בסנטרל פארק שבקונוט פלייס, אזור מסחרי עמוס שאינו אתר מחאה מאושר."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “leadership depleted” mean?",
+      "difficulty": "C",
+      "options": [
+        "The movement has gained several new national leaders.",
+        "The organisers have abandoned electoral reform.",
+        "The movement has fewer key leaders available because some are jailed.",
+        "Police have officially recognised the CJP as a political party."
+      ],
+      "correct_answer": "The movement has fewer key leaders available because some are jailed.",
+      "explanation_hebrew": "depleted פירושו מצומצם או מוחלש; שני מארגנים מרכזיים נכלאו ולכן הנהגת התנועה זמינה פחות לקראת המחאה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What change to electoral rolls is at the centre of the CJP's current campaign?",
+      "difficulty": "C",
+      "options": [
+        "A Special Intensive Revision that critics say removed more than 130 million names",
+        "A plan to lower the voting age to sixteen",
+        "A requirement that all voting take place online",
+        "A court order adding 130 million foreign voters"
+      ],
+      "correct_answer": "A Special Intensive Revision that critics say removed more than 130 million names",
+      "explanation_hebrew": "מוקד המחלוקת הוא SIR, עדכון מקיף של פנקסי הבוחרים, שלטענת המבקרים הסיר יותר מ־130 מיליון שמות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the dispute over Jantar Mantar matter beyond the location itself?",
+      "difficulty": "C",
+      "options": [
+        "It is the only place in Delhi with public transport.",
+        "It is close to parliament and symbolically keeps dissent visible near political power.",
+        "It is owned by the CJP's founder.",
+        "It guarantees that every demonstration is legally approved."
+      ],
+      "correct_answer": "It is close to parliament and symbolically keeps dissent visible near political power.",
+      "explanation_hebrew": "ג׳נטר מנטר הוא אתר מחאה היסטורי סמוך לפרלמנט; הרחקת מפגינים ממנו עשויה להפחית את הנראות והלחץ על מוקדי הכוח."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the article mean when it says the demands of separate protest groups have “converged”?",
+      "difficulty": "C",
+      "options": [
+        "They have become increasingly similar or aligned.",
+        "They have been withdrawn after negotiations.",
+        "They concern unrelated local elections.",
+        "They have moved to different cities."
+      ],
+      "correct_answer": "They have become increasingly similar or aligned.",
+      "explanation_hebrew": "converged פירושו התקרבו או התאחדו: אף שהקבוצות פעלו בנפרד, דרישותיהן נעשו דומות יותר."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What measures did police use to prevent the CJP's previous mass demonstration?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין פריסת כוחות רחבה, חסימת כבישים, סגירת תחנות מטרו, מחסומים, יירוט ומעצרים לפני ההתכנסות ופיזור מי שהתאספו במקום אחר.",
+      "expected_points": [
+        "Tens of thousands of police and paramilitary personnel were deployed across Delhi.",
+        "Roads were sealed and metro stations were shut.",
+        "Barricades, interception and mass detentions stopped many protesters before they reached Jantar Mantar.",
+        "People who gathered elsewhere were quickly dispersed."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the CJP developed from its origins to its present electoral campaign.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר את הכינוי שהפך לזהות, מחאות דליפת הבחינות וההתפטרות, המעבר למאבק בפנקסי הבוחרים, והמאבק הרחב יותר על זכות המחאה.",
+      "expected_points": [
+        "The movement began after the chief justice compared some unemployed young people to cockroaches, and Dipke adopted the label.",
+        "It grew online and then mobilised street protests over examination paper leaks.",
+        "Those protests contributed to Education Minister Dharmendra Pradhan's resignation.",
+        "The CJP now challenges the electoral-roll revision and the Election Commission, while also defending the right to protest."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How could the authorities' security response strengthen rather than weaken the CJP's political message?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שמעצרי מנהיגים ועיתונאים, סגירת אתרים ודיווחי אלימות יכולים להרחיב את הסיפור מזיוף בחירות לחירויות אזרחיות, לעורר הזדהות ולקרב קבוצות אופוזיציה.",
+      "expected_points": [
+        "Mass detentions and venue restrictions support the CJP's claim that protest rights are being curtailed.",
+        "Reports and footage of force against detainees can attract public attention and sympathy.",
+        "Jailing organisers can turn them into symbols of resistance rather than ending the campaign.",
+        "The crackdown may align the CJP more closely with students and opposition parties that share electoral concerns."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced briefing on the competing arguments over Friday's planned protest.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את טענות CJP על רפורמת הבחירות וחופש המחאה, את חששות המשטרה והסוחרים מסדר ציבורי ותנועה, את עמדות ועדת הבחירות והממשלה, ולציין שההאשמות שנויות במחלוקת.",
+      "expected_points": [
+        "Explain that the CJP alleges voter-roll irregularities, seeks the election commissioner's resignation and defends visible protest near political power.",
+        "Note that police cite public order and unauthorised gatherings, while a trader raised traffic and business disruption.",
+        "State that the Election Commission and government deny favouring the BJP, and the home minister defends the commission's independence.",
+        "Clarify that Central Park is not an approved protest venue and that the High Court declined to restrain the CJP."
+      ]
+    }
+  ]
+}

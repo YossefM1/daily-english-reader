@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-16",
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "profile_version_used": 1,
+  "article_id": "B",
+  "article_title": "Is women's health content being 'shadowbanned'?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central concern?",
+      "difficulty": "B",
+      "options": [
+        "Social-media systems may wrongly restrict women's health content and reduce access to useful information.",
+        "Health charities have stopped using diagrams in all publications.",
+        "Meta has banned every advert that mentions a medical product.",
+        "Most creators want platforms to remove more educational posts."
+      ],
+      "correct_answer": "Social-media systems may wrongly restrict women's health content and reduce access to useful information.",
+      "explanation_hebrew": "הכתבה בוחנת טענות שתוכן בריאות נשים מוגבל, מטושטש או מוסתר בטעות, וכך מידע רפואי חשוב אינו מגיע לקהל."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Irene Breen say her company had to remove from its website?",
+      "difficulty": "B",
+      "options": [
+        "All photographs of its pillows",
+        "The word “pregnancy” from product names and URLs",
+        "Every customer review written in 2024",
+        "Prices for products sold outside the UK"
+      ],
+      "correct_answer": "The word “pregnancy” from product names and URLs",
+      "explanation_hebrew": "ברין סיפרה שהחברה נאלצה למחוק את המילה pregnancy מכל האתר, משם המוצר ומכתובות ה־URL."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “shadowbanning” mean as used in the article?",
+      "difficulty": "B",
+      "options": [
+        "Charging creators to publish health information",
+        "Permanently deleting a person's account",
+        "Quietly suppressing a post's reach or visibility",
+        "Allowing a post to appear only in printed form"
+      ],
+      "correct_answer": "Quietly suppressing a post's reach or visibility",
+      "explanation_hebrew": "shadowbanning הוא צמצום שקט של החשיפה או הנראות של תוכן, לעיתים בלי שהיוצר מקבל הסבר ברור."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What percentage of nearly 200 respondents in CensHERship's survey said they had experienced restrictions?",
+      "difficulty": "B",
+      "options": [
+        "53%",
+        "65%",
+        "96%",
+        "100%"
+      ],
+      "correct_answer": "96%",
+      "explanation_hebrew": "בדוח של CensHERship, 96% מכמעט 200 יוצרים, ספקים רפואיים, מותגים, עמותות ומחנכים דיווחו על הגבלה כלשהי."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can an early AI moderation mistake keep affecting similar posts?",
+      "difficulty": "B",
+      "options": [
+        "The system may store a mistaken decision and repeat the same pattern later.",
+        "Creators are legally required to copy every rejected post.",
+        "Human reviewers never receive automated flags.",
+        "Platforms delete all historical moderation data immediately."
+      ],
+      "correct_answer": "The system may store a mistaken decision and repeat the same pattern later.",
+      "explanation_hebrew": "ד״ר קרולינה ארה מזהירה שמערכת אוטומטית עלולה לשמור החלטה שגויה ולחזור עליה בתכנים דומים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does O'Neill mean when she calls advertising on TikTok “like an obstacle course”?",
+      "difficulty": "B",
+      "options": [
+        "It requires repeated appeals and effort because content is often flagged or removed.",
+        "It allows only sports videos to be advertised.",
+        "It rewards companies for completing physical challenges.",
+        "It automatically approves every women's health advert."
+      ],
+      "correct_answer": "It requires repeated appeals and effort because content is often flagged or removed.",
+      "explanation_hebrew": "הדימוי obstacle course מתאר תהליך מלא מכשולים: ערעורים, סימון והסרה שגוזלים זמן ומשאבים רבים."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What examples does the article give of women's health content being restricted or misclassified?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין דוגמאות קונקרטיות: כרית הריון, האשטג סרטן הנרתיק, תרשים אנטומי מטושטש, וסרטון אנדומטריוזיס שסווג כתוכן פוליטי.",
+      "expected_points": [
+        "Instagram restricted adverts for pregnancy pillows because of the word “pregnancy”.",
+        "The hashtag #vaginalcancer did not appear on Instagram.",
+        "An Eve Appeal anatomical diagram about vulval cancer was removed and later hidden behind a sensitivity filter.",
+        "A video about endometriosis pain was rejected as political or social-issues content."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the explanations offered by campaigners, researchers and platforms for the restrictions.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג את טענות היוצרים על פגיעה במידע חיוני, את הסבר החוקרים על אלגוריתמים וכללים רחבים, ואת תגובות Meta ו־TikTok על הגבלות, ערעורים ושיפור מערכות.",
+      "expected_points": [
+        "Campaigners say legitimate educational and health content is suppressed, blurred or removed.",
+        "Researchers say AI can misdetect posts and broad policies may confuse nudity with sexual activity.",
+        "Meta says it allows women's health content but applies restrictions to avoid negative user experiences and is consulting health groups.",
+        "TikTok says some posts cannot be promoted to the For You feed, but creators are informed and can appeal."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How can content restrictions reinforce shame around women's health?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שהיוצרים מצנזרים מונחים ונמנעים מנושאים, שהסתרת מידע רפואי מרמזת שהוא מביש, ושקהל עלול לא לזהות תסמינים או לפנות לרופא.",
+      "expected_points": [
+        "Creators replace direct words with euphemisms, symbols or emojis.",
+        "Some avoid women's health topics altogether after repeated restrictions.",
+        "Treating anatomy and disease information as offensive can imply that normal health topics are shameful.",
+        "Reduced visibility may prevent people from recognising symptoms and asking doctors informed questions."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a concise recommendation for improving moderation of women's health content.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע כללים מדויקים, בדיקה אנושית וערעור ברור, בדיקת הטיות אלגוריתמיות, ושיתוף פעולה בין צוותי מדיניות, טכנולוגיה וארגוני בריאות.",
+      "expected_points": [
+        "Distinguish clinical or educational anatomy from sexual or graphic content in policy and training.",
+        "Provide prompt human review and a clear, usable appeals process.",
+        "Audit automated systems for repeated false positives involving women's health terms and images.",
+        "Coordinate policy, moderation and technical teams with women's health organisations."
+      ]
+    }
+  ]
+}
