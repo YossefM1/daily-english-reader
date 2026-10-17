@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-17",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Vaping: Why people who have never smoked are getting hooked",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ck62y33489zqo",
+  "published_at": "2026-10-16T23:49:16+00:00",
+  "age_hours_at_selection": 2.4,
+  "word_count": 1260,
+  "generated_at": "2026-10-17T02:12:59.370151+00:00",
+  "difficulty_reason": "A dense, analytical health feature mixing personal accounts, statistics and expert quotes; longer sentences and B2/C1/C2 vocabulary that assume some background on health and public policy.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "repulsive",
+      "lemma": "repulsive",
+      "level": "C1",
+      "hebrew": "דּוֹחֶה, מְעוֹרֵר גּוֹעַל",
+      "explanation_hebrew": "מעורר סלידה חזקה",
+      "pronunciation_hebrew": "רִיפַּלְסִיב",
+      "example": "She found the strong smell repulsive."
+    },
+    {
+      "word": "vocal",
+      "lemma": "vocal",
+      "level": "B2",
+      "hebrew": "מַבִּיעַ דֵּעָה בְּגָלוּי",
+      "explanation_hebrew": "שמביע את דעתו בפומבי ובתוקף",
+      "pronunciation_hebrew": "ווֹקַל",
+      "example": "He was vocal about his opposition."
+    },
+    {
+      "word": "inhaling",
+      "lemma": "inhale",
+      "level": "B2",
+      "hebrew": "שׁוֹאֵף פְּנִימָה",
+      "explanation_hebrew": "הכנסת אוויר או עשן לריאות",
+      "pronunciation_hebrew": "אִינְהֵיילִינְג",
+      "example": "She kept coughing instead of inhaling."
+    },
+    {
+      "word": "addictive",
+      "lemma": "addictive",
+      "level": "B2",
+      "hebrew": "מְמַכֵּר",
+      "explanation_hebrew": "גורם להתמכרות",
+      "pronunciation_hebrew": "אַדִיקְטִיב",
+      "example": "Nicotine is highly addictive."
+    },
+    {
+      "word": "harmful",
+      "lemma": "harmful",
+      "level": "B1",
+      "hebrew": "מַזִּיק",
+      "explanation_hebrew": "גורם נזק לבריאות או לסביבה",
+      "pronunciation_hebrew": "הַארְמְפוּל",
+      "example": "Smoking is very harmful to health."
+    },
+    {
+      "word": "anxious",
+      "lemma": "anxious",
+      "level": "B1",
+      "hebrew": "חָרֵד, מֻדְאָג",
+      "explanation_hebrew": "מרגיש דאגה או מתח",
+      "pronunciation_hebrew": "אַנְקְשֶׁס",
+      "example": "She feels anxious in large crowds."
+    },
+    {
+      "word": "withdrawal",
+      "lemma": "withdrawal",
+      "level": "C1",
+      "hebrew": "גְּמִילָה",
+      "explanation_hebrew": "תגובת הגוף להפסקת חומר ממכר",
+      "pronunciation_hebrew": "וִידְרוֹאַל",
+      "example": "He had withdrawal symptoms after quitting."
+    },
+    {
+      "word": "irritability",
+      "lemma": "irritability",
+      "level": "C1",
+      "hebrew": "רַגְזָנוּת, עַצְבָּנוּת",
+      "explanation_hebrew": "נטייה להתעצבן בקלות",
+      "pronunciation_hebrew": "אִירִיטֶבִּילִיטִי",
+      "example": "Lack of sleep causes irritability."
+    },
+    {
+      "word": "habitual",
+      "lemma": "habitual",
+      "level": "C1",
+      "hebrew": "מִתּוֹךְ הֶרְגֵּל",
+      "explanation_hebrew": "שנעשה דרך קבע מתוך הרגל",
+      "pronunciation_hebrew": "הַבִּיצ'וּאַל",
+      "example": "Checking the phone became habitual for him."
+    },
+    {
+      "word": "psychological",
+      "lemma": "psychological",
+      "level": "B2",
+      "hebrew": "נַפְשִׁי, פְּסִיכוֹלוֹגִי",
+      "explanation_hebrew": "הקשור לנפש ולמחשבה",
+      "pronunciation_hebrew": "סַייקוֹלוֹגִ'יקַל",
+      "example": "She felt a psychological need for it."
+    },
+    {
+      "word": "regulate",
+      "lemma": "regulate",
+      "level": "C1",
+      "hebrew": "לְוַוסֵּת",
+      "explanation_hebrew": "לשלוט, לאזן או להסדיר",
+      "pronunciation_hebrew": "רֶגְיוּלֵייט",
+      "example": "People use it to regulate their emotions."
+    },
+    {
+      "word": "reliant",
+      "lemma": "reliant",
+      "level": "C1",
+      "hebrew": "תָּלוּי (בְּ-)",
+      "explanation_hebrew": "שזקוק למשהו כדי להתמודד",
+      "pronunciation_hebrew": "רִילַאיְאֶנְט",
+      "example": "She became reliant on the device."
+    },
+    {
+      "word": "frustrated",
+      "lemma": "frustrated",
+      "level": "B2",
+      "hebrew": "מְתֻסְכָּל",
+      "explanation_hebrew": "חש אכזבה וחוסר אונים",
+      "pronunciation_hebrew": "פְרַסְטְרֵייטֶד",
+      "example": "He felt frustrated with the long delay."
+    },
+    {
+      "word": "demotivated",
+      "lemma": "demotivated",
+      "level": "C1",
+      "hebrew": "חֲסַר מוֹטִיבַצְיָה",
+      "explanation_hebrew": "איבד את הרצון לפעול",
+      "pronunciation_hebrew": "דִימוֹטִיבֵייטֶד",
+      "example": "The job left her feeling demotivated."
+    },
+    {
+      "word": "gradually",
+      "lemma": "gradually",
+      "level": "B1",
+      "hebrew": "בְּהַדְרָגָה",
+      "explanation_hebrew": "לאט ובשלבים",
+      "pronunciation_hebrew": "גְרַדְ'וּאַלִי",
+      "example": "He gradually formed the habit."
+    },
+    {
+      "word": "diverted",
+      "lemma": "divert",
+      "level": "C1",
+      "hebrew": "הִסִּיט, הִפְנָה",
+      "explanation_hebrew": "שינה כיוון או מסלול של משהו",
+      "pronunciation_hebrew": "דַייוֶרְטֶד",
+      "example": "The policy diverted them from smoking."
+    },
+    {
+      "word": "exposed",
+      "lemma": "expose",
+      "level": "B2",
+      "hebrew": "חָשׂוּף (לְ-)",
+      "explanation_hebrew": "נתון להשפעה, לסכנה או לגילוי",
+      "pronunciation_hebrew": "אִיקְסְפּוֹוזְד",
+      "example": "They are exposed to far more risk."
+    },
+    {
+      "word": "infer",
+      "lemma": "infer",
+      "level": "C1",
+      "hebrew": "לְהַסִּיק",
+      "explanation_hebrew": "להגיע למסקנה מתוך מידע",
+      "pronunciation_hebrew": "אִינְפֶר",
+      "example": "We can infer that from the data."
+    },
+    {
+      "word": "declined",
+      "lemma": "decline",
+      "level": "B2",
+      "hebrew": "יָרַד, פָּחַת",
+      "explanation_hebrew": "הצטמצם או ירד בכמות",
+      "pronunciation_hebrew": "דִיקְלַייְנְד",
+      "example": "Smoking rates have declined steadily."
+    },
+    {
+      "word": "steadily",
+      "lemma": "steadily",
+      "level": "B2",
+      "hebrew": "בְּהַתְמָדָה, בְּיַצִּיבוּת",
+      "explanation_hebrew": "באופן קבוע ויציב",
+      "pronunciation_hebrew": "סְטֶדִילִי",
+      "example": "The number continues to fall steadily."
+    },
+    {
+      "word": "consultation",
+      "lemma": "consultation",
+      "level": "C1",
+      "hebrew": "הִתְיַעֲצוּת, שִׁימוּעַ",
+      "explanation_hebrew": "תהליך איסוף דעות לפני החלטה",
+      "pronunciation_hebrew": "קוֹנְסַלְטֵיישֶׁן",
+      "example": "The government held a public consultation."
+    },
+    {
+      "word": "prominent",
+      "lemma": "prominent",
+      "level": "C1",
+      "hebrew": "בּוֹלֵט",
+      "explanation_hebrew": "בעל נוכחות וחשיבות ניכרת",
+      "pronunciation_hebrew": "פְּרוֹמִינֶנְט",
+      "example": "The advertising was very prominent."
+    },
+    {
+      "word": "misconception",
+      "lemma": "misconception",
+      "level": "C1",
+      "hebrew": "תְּפִיסָה מֻטְעֵית",
+      "explanation_hebrew": "אמונה שגויה הרווחת אצל רבים",
+      "pronunciation_hebrew": "מִיסְקוֹנְסֶפְּשֶׁן",
+      "example": "There is a misconception that it is safe."
+    },
+    {
+      "word": "cessation",
+      "lemma": "cessation",
+      "level": "C2",
+      "hebrew": "הַפְסָקָה, חֲדִילָה",
+      "explanation_hebrew": "הפסקה של פעילות או הרגל",
+      "pronunciation_hebrew": "סֶסֵיישֶׁן",
+      "example": "The clinic offers smoking cessation support."
+    },
+    {
+      "word": "premature",
+      "lemma": "premature",
+      "level": "C1",
+      "hebrew": "מֻקְדָּם מִדַּי",
+      "explanation_hebrew": "שקורה לפני הזמן הראוי",
+      "pronunciation_hebrew": "פְּרֶמֶצ'וּר",
+      "example": "Smoking causes many premature deaths."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "repulsive",
+      "type": "english_to_hebrew",
+      "question": "What does \"repulsive\" mean?",
+      "options": [
+        "דּוֹחֶה, מְעוֹרֵר גּוֹעַל",
+        "שׁוֹאֵף פְּנִימָה",
+        "מַבִּיעַ דֵּעָה בְּגָלוּי",
+        "מְמַכֵּר"
+      ],
+      "correct_answer": "דּוֹחֶה, מְעוֹרֵר גּוֹעַל",
+      "explanation_hebrew": "„repulsive” פירושו דּוֹחֶה, מְעוֹרֵר גּוֹעַל."
+    },
+    {
+      "id": "C-q2",
+      "word": "vocal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „מַבִּיעַ דֵּעָה בְּגָלוּי”?",
+      "options": [
+        "vocal",
+        "inhaling",
+        "addictive",
+        "harmful"
+      ],
+      "correct_answer": "vocal",
+      "explanation_hebrew": "המילה „vocal” פירושה מַבִּיעַ דֵּעָה בְּגָלוּי."
+    },
+    {
+      "id": "C-q3",
+      "word": "inhaling",
+      "type": "english_to_hebrew",
+      "question": "What does \"inhaling\" mean?",
+      "options": [
+        "מַזִּיק",
+        "מְמַכֵּר",
+        "חָרֵד, מֻדְאָג",
+        "שׁוֹאֵף פְּנִימָה"
+      ],
+      "correct_answer": "שׁוֹאֵף פְּנִימָה",
+      "explanation_hebrew": "„inhaling” פירושו שׁוֹאֵף פְּנִימָה."
+    },
+    {
+      "id": "C-q4",
+      "word": "addictive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „מְמַכֵּר”?",
+      "options": [
+        "anxious",
+        "addictive",
+        "harmful",
+        "withdrawal"
+      ],
+      "correct_answer": "addictive",
+      "explanation_hebrew": "המילה „addictive” פירושה מְמַכֵּר."
+    },
+    {
+      "id": "C-q5",
+      "word": "harmful",
+      "type": "english_to_hebrew",
+      "question": "What does \"harmful\" mean?",
+      "options": [
+        "גְּמִילָה",
+        "מַזִּיק",
+        "חָרֵד, מֻדְאָג",
+        "רַגְזָנוּת, עַצְבָּנוּת"
+      ],
+      "correct_answer": "מַזִּיק",
+      "explanation_hebrew": "„harmful” פירושו מַזִּיק."
+    },
+    {
+      "id": "C-q6",
+      "word": "anxious",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „חָרֵד, מֻדְאָג”?",
+      "options": [
+        "irritability",
+        "anxious",
+        "habitual",
+        "withdrawal"
+      ],
+      "correct_answer": "anxious",
+      "explanation_hebrew": "המילה „anxious” פירושה חָרֵד, מֻדְאָג."
+    },
+    {
+      "id": "C-q7",
+      "word": "withdrawal",
+      "type": "english_to_hebrew",
+      "question": "What does \"withdrawal\" mean?",
+      "options": [
+        "גְּמִילָה",
+        "נַפְשִׁי, פְּסִיכוֹלוֹגִי",
+        "רַגְזָנוּת, עַצְבָּנוּת",
+        "מִתּוֹךְ הֶרְגֵּל"
+      ],
+      "correct_answer": "גְּמִילָה",
+      "explanation_hebrew": "„withdrawal” פירושו גְּמִילָה."
+    },
+    {
+      "id": "C-q8",
+      "word": "irritability",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „רַגְזָנוּת, עַצְבָּנוּת”?",
+      "options": [
+        "habitual",
+        "psychological",
+        "regulate",
+        "irritability"
+      ],
+      "correct_answer": "irritability",
+      "explanation_hebrew": "המילה „irritability” פירושה רַגְזָנוּת, עַצְבָּנוּת."
+    },
+    {
+      "id": "C-q9",
+      "word": "habitual",
+      "type": "english_to_hebrew",
+      "question": "What does \"habitual\" mean?",
+      "options": [
+        "לְוַוסֵּת",
+        "נַפְשִׁי, פְּסִיכוֹלוֹגִי",
+        "מִתּוֹךְ הֶרְגֵּל",
+        "תָּלוּי (בְּ-)"
+      ],
+      "correct_answer": "מִתּוֹךְ הֶרְגֵּל",
+      "explanation_hebrew": "„habitual” פירושו מִתּוֹךְ הֶרְגֵּל."
+    },
+    {
+      "id": "C-q10",
+      "word": "psychological",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „נַפְשִׁי, פְּסִיכוֹלוֹגִי”?",
+      "options": [
+        "psychological",
+        "reliant",
+        "regulate",
+        "frustrated"
+      ],
+      "correct_answer": "psychological",
+      "explanation_hebrew": "המילה „psychological” פירושה נַפְשִׁי, פְּסִיכוֹלוֹגִי."
+    },
+    {
+      "id": "C-q11",
+      "word": "regulate",
+      "type": "english_to_hebrew",
+      "question": "What does \"regulate\" mean?",
+      "options": [
+        "מְתֻסְכָּל",
+        "לְוַוסֵּת",
+        "חֲסַר מוֹטִיבַצְיָה",
+        "תָּלוּי (בְּ-)"
+      ],
+      "correct_answer": "לְוַוסֵּת",
+      "explanation_hebrew": "„regulate” פירושו לְוַוסֵּת."
+    },
+    {
+      "id": "C-q12",
+      "word": "reliant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „תָּלוּי (בְּ-)”?",
+      "options": [
+        "reliant",
+        "gradually",
+        "frustrated",
+        "demotivated"
+      ],
+      "correct_answer": "reliant",
+      "explanation_hebrew": "המילה „reliant” פירושה תָּלוּי (בְּ-)."
+    },
+    {
+      "id": "C-q13",
+      "word": "frustrated",
+      "type": "english_to_hebrew",
+      "question": "What does \"frustrated\" mean?",
+      "options": [
+        "חֲסַר מוֹטִיבַצְיָה",
+        "בְּהַדְרָגָה",
+        "מְתֻסְכָּל",
+        "הִסִּיט, הִפְנָה"
+      ],
+      "correct_answer": "מְתֻסְכָּל",
+      "explanation_hebrew": "„frustrated” פירושו מְתֻסְכָּל."
+    },
+    {
+      "id": "C-q14",
+      "word": "demotivated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „חֲסַר מוֹטִיבַצְיָה”?",
+      "options": [
+        "diverted",
+        "exposed",
+        "gradually",
+        "demotivated"
+      ],
+      "correct_answer": "demotivated",
+      "explanation_hebrew": "המילה „demotivated” פירושה חֲסַר מוֹטִיבַצְיָה."
+    },
+    {
+      "id": "C-q15",
+      "word": "gradually",
+      "type": "english_to_hebrew",
+      "question": "What does \"gradually\" mean?",
+      "options": [
+        "חָשׂוּף (לְ-)",
+        "לְהַסִּיק",
+        "בְּהַדְרָגָה",
+        "הִסִּיט, הִפְנָה"
+      ],
+      "correct_answer": "בְּהַדְרָגָה",
+      "explanation_hebrew": "„gradually” פירושו בְּהַדְרָגָה."
+    },
+    {
+      "id": "C-q16",
+      "word": "diverted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „הִסִּיט, הִפְנָה”?",
+      "options": [
+        "infer",
+        "diverted",
+        "declined",
+        "exposed"
+      ],
+      "correct_answer": "diverted",
+      "explanation_hebrew": "המילה „diverted” פירושה הִסִּיט, הִפְנָה."
+    },
+    {
+      "id": "C-q17",
+      "word": "exposed",
+      "type": "english_to_hebrew",
+      "question": "What does \"exposed\" mean?",
+      "options": [
+        "לְהַסִּיק",
+        "חָשׂוּף (לְ-)",
+        "יָרַד, פָּחַת",
+        "בְּהַתְמָדָה, בְּיַצִּיבוּת"
+      ],
+      "correct_answer": "חָשׂוּף (לְ-)",
+      "explanation_hebrew": "„exposed” פירושו חָשׂוּף (לְ-)."
+    },
+    {
+      "id": "C-q18",
+      "word": "infer",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „לְהַסִּיק”?",
+      "options": [
+        "consultation",
+        "declined",
+        "steadily",
+        "infer"
+      ],
+      "correct_answer": "infer",
+      "explanation_hebrew": "המילה „infer” פירושה לְהַסִּיק."
+    },
+    {
+      "id": "C-q19",
+      "word": "declined",
+      "type": "english_to_hebrew",
+      "question": "What does \"declined\" mean?",
+      "options": [
+        "בְּהַתְמָדָה, בְּיַצִּיבוּת",
+        "הִתְיַעֲצוּת, שִׁימוּעַ",
+        "בּוֹלֵט",
+        "יָרַד, פָּחַת"
+      ],
+      "correct_answer": "יָרַד, פָּחַת",
+      "explanation_hebrew": "„declined” פירושו יָרַד, פָּחַת."
+    },
+    {
+      "id": "C-q20",
+      "word": "steadily",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „בְּהַתְמָדָה, בְּיַצִּיבוּת”?",
+      "options": [
+        "consultation",
+        "prominent",
+        "misconception",
+        "steadily"
+      ],
+      "correct_answer": "steadily",
+      "explanation_hebrew": "המילה „steadily” פירושה בְּהַתְמָדָה, בְּיַצִּיבוּת."
+    },
+    {
+      "id": "C-q21",
+      "word": "consultation",
+      "type": "english_to_hebrew",
+      "question": "What does \"consultation\" mean?",
+      "options": [
+        "הַפְסָקָה, חֲדִילָה",
+        "תְּפִיסָה מֻטְעֵית",
+        "בּוֹלֵט",
+        "הִתְיַעֲצוּת, שִׁימוּעַ"
+      ],
+      "correct_answer": "הִתְיַעֲצוּת, שִׁימוּעַ",
+      "explanation_hebrew": "„consultation” פירושו הִתְיַעֲצוּת, שִׁימוּעַ."
+    },
+    {
+      "id": "C-q22",
+      "word": "prominent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „בּוֹלֵט”?",
+      "options": [
+        "cessation",
+        "misconception",
+        "premature",
+        "prominent"
+      ],
+      "correct_answer": "prominent",
+      "explanation_hebrew": "המילה „prominent” פירושה בּוֹלֵט."
+    },
+    {
+      "id": "C-q23",
+      "word": "misconception",
+      "type": "english_to_hebrew",
+      "question": "What does \"misconception\" mean?",
+      "options": [
+        "תְּפִיסָה מֻטְעֵית",
+        "הַפְסָקָה, חֲדִילָה",
+        "דּוֹחֶה, מְעוֹרֵר גּוֹעַל",
+        "מֻקְדָּם מִדַּי"
+      ],
+      "correct_answer": "תְּפִיסָה מֻטְעֵית",
+      "explanation_hebrew": "„misconception” פירושו תְּפִיסָה מֻטְעֵית."
+    },
+    {
+      "id": "C-q24",
+      "word": "cessation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „הַפְסָקָה, חֲדִילָה”?",
+      "options": [
+        "repulsive",
+        "premature",
+        "vocal",
+        "cessation"
+      ],
+      "correct_answer": "cessation",
+      "explanation_hebrew": "המילה „cessation” פירושה הַפְסָקָה, חֲדִילָה."
+    },
+    {
+      "id": "C-q25",
+      "word": "premature",
+      "type": "english_to_hebrew",
+      "question": "What does \"premature\" mean?",
+      "options": [
+        "מַבִּיעַ דֵּעָה בְּגָלוּי",
+        "מֻקְדָּם מִדַּי",
+        "דּוֹחֶה, מְעוֹרֵר גּוֹעַל",
+        "שׁוֹאֵף פְּנִימָה"
+      ],
+      "correct_answer": "מֻקְדָּם מִדַּי",
+      "explanation_hebrew": "„premature” פירושו מֻקְדָּם מִדַּי."
+    }
+  ]
+}

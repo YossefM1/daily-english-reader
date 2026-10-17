@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Is women's health content being 'shadowbanned'?",
+  "title": "Trial of German steakhouse heiress Christina Block that sparked a huge spy scandal",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o",
-  "published_at": "2026-10-16T00:53:58+00:00",
-  "age_hours_at_selection": 1.26,
-  "word_count": 889,
-  "generated_at": "2026-10-16T02:09:46.305978+00:00",
-  "difficulty_reason": "Feature with several voices and moderate sentence complexity; B1/B2/C1 vocabulary around social media moderation and health, with some background on online platforms assumed.",
+  "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo",
+  "published_at": "2026-10-16T23:07:18+00:00",
+  "age_hours_at_selection": 3.09,
+  "word_count": 920,
+  "generated_at": "2026-10-17T02:12:59.370151+00:00",
+  "difficulty_reason": "A longer narrative with legal and espionage terms and several interconnected people; moderate sentence complexity and some background knowledge, with useful B1/B2/C1 vocabulary.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "penalised",
-      "lemma": "penalise",
-      "level": "B2",
-      "hebrew": "נענש / הושת עליו עונש",
-      "explanation_hebrew": "קיבל עונש על מעשה",
-      "pronunciation_hebrew": "פֶּנַלַייזד",
-      "example": "The company was penalised for the error."
+      "word": "heiress",
+      "lemma": "heiress",
+      "level": "C1",
+      "hebrew": "יוֹרֶשֶׁת",
+      "explanation_hebrew": "אישה היורשת הון או עסק",
+      "pronunciation_hebrew": "אֵרֶס",
+      "example": "The heiress inherited the family business."
     },
     {
-      "word": "notification",
-      "lemma": "notification",
+      "word": "espionage",
+      "lemma": "espionage",
+      "level": "C1",
+      "hebrew": "רִיגּוּל",
+      "explanation_hebrew": "איסוף מידע סודי בחשאי",
+      "pronunciation_hebrew": "אֶסְפְּיוֹנַאז'",
+      "example": "He was arrested on charges of espionage."
+    },
+    {
+      "word": "abduction",
+      "lemma": "abduction",
+      "level": "C1",
+      "hebrew": "חֲטִיפָה",
+      "explanation_hebrew": "לקיחת אדם בכוח ובניגוד לרצונו",
+      "pronunciation_hebrew": "אַבְּדַקְשֶׁן",
+      "example": "The abduction shocked the whole country."
+    },
+    {
+      "word": "custody",
+      "lemma": "custody",
+      "level": "B2",
+      "hebrew": "מִשְׁמוֹרֶת",
+      "explanation_hebrew": "הזכות החוקית לטפל בילד",
+      "pronunciation_hebrew": "קַסְטֶדִי",
+      "example": "The court gave her custody of the children."
+    },
+    {
+      "word": "bitter",
+      "lemma": "bitter",
+      "level": "B2",
+      "hebrew": "מַר, קָשֶׁה",
+      "explanation_hebrew": "מלא כעס ומרירות",
+      "pronunciation_hebrew": "בִּיטֶר",
+      "example": "They had a bitter dispute for years."
+    },
+    {
+      "word": "investigators",
+      "lemma": "investigator",
+      "level": "B2",
+      "hebrew": "חוֹקְרִים",
+      "explanation_hebrew": "אנשים הבודקים פשע או אירוע",
+      "pronunciation_hebrew": "אִינְווֶסְטִיגֵייטֶרְז",
+      "example": "Investigators searched his home carefully."
+    },
+    {
+      "word": "treason",
+      "lemma": "treason",
+      "level": "C1",
+      "hebrew": "בְּגִידָה בַּמְּדִינָה",
+      "explanation_hebrew": "בגידה בארץ המולדת",
+      "pronunciation_hebrew": "טְרִיזֶן",
+      "example": "He was charged with treason."
+    },
+    {
+      "word": "stunned",
+      "lemma": "stun",
+      "level": "B2",
+      "hebrew": "הִדְהִים, זִעְזֵעַ",
+      "explanation_hebrew": "גרם להלם ולתדהמה",
+      "pronunciation_hebrew": "סְטַאנְד",
+      "example": "The surprising news stunned everyone."
+    },
+    {
+      "word": "intelligence",
+      "lemma": "intelligence",
+      "level": "B2",
+      "hebrew": "מוֹדִיעִין",
+      "explanation_hebrew": "שירות איסוף מידע ביטחוני",
+      "pronunciation_hebrew": "אִינְטֶלִיגֶ'נְס",
+      "example": "He once led the intelligence service."
+    },
+    {
+      "word": "allegations",
+      "lemma": "allegation",
+      "level": "C1",
+      "hebrew": "הַאֲשָׁמוֹת",
+      "explanation_hebrew": "טענות על מעשה פסול, ללא הוכחה",
+      "pronunciation_hebrew": "אַלֶגֵיישֶׁנְז",
+      "example": "He firmly denied all the allegations."
+    },
+    {
+      "word": "involvement",
+      "lemma": "involvement",
+      "level": "B2",
+      "hebrew": "מְעוֹרָבוּת",
+      "explanation_hebrew": "השתתפות או חלק במשהו",
+      "pronunciation_hebrew": "אִינְווֹלְבְמֶנְט",
+      "example": "He denied any involvement in the crime."
+    },
+    {
+      "word": "courtroom",
+      "lemma": "courtroom",
+      "level": "B2",
+      "hebrew": "אוּלַם בֵּית הַמִּשְׁפָּט",
+      "explanation_hebrew": "החדר שבו מתקיים משפט",
+      "pronunciation_hebrew": "קוֹרְטְרוּם",
+      "example": "The courtroom was full of reporters."
+    },
+    {
+      "word": "prosecutors",
+      "lemma": "prosecutor",
+      "level": "C1",
+      "hebrew": "תּוֹבְעִים",
+      "explanation_hebrew": "עורכי דין המייצגים את המדינה במשפט",
+      "pronunciation_hebrew": "פְּרוֹסִקְיוּטֶרְז",
+      "example": "Prosecutors presented new evidence."
+    },
+    {
+      "word": "forcible",
+      "lemma": "forcible",
+      "level": "C1",
+      "hebrew": "בִּכְפִיָּה, בְּכוֹחַ",
+      "explanation_hebrew": "שנעשה תוך שימוש בכוח",
+      "pronunciation_hebrew": "פוֹרְסִיבֶּל",
+      "example": "They described the forcible removal of the children."
+    },
+    {
+      "word": "indictment",
+      "lemma": "indictment",
+      "level": "C1",
+      "hebrew": "כְּתַב אִישׁוּם",
+      "explanation_hebrew": "מסמך רשמי המאשים אדם בפשע",
+      "pronunciation_hebrew": "אִינְדַייטְמֶנְט",
+      "example": "The indictment listed several charges."
+    },
+    {
+      "word": "ambushed",
+      "lemma": "ambush",
+      "level": "C1",
+      "hebrew": "תָּקְפוּ בְּמַאֲרָב",
+      "explanation_hebrew": "תקפו בהפתעה ממחבוא",
+      "pronunciation_hebrew": "אַמְבּוּשְׁד",
+      "example": "The men ambushed him in the dark."
+    },
+    {
+      "word": "dragged",
+      "lemma": "drag",
       "level": "B1",
-      "hebrew": "הודעה / התראה",
-      "explanation_hebrew": "הודעה שמודיעה על משהו",
-      "pronunciation_hebrew": "נוֹטִיפִיקֵיישְׁן",
-      "example": "I got a notification on my phone."
+      "hebrew": "גָּרְרוּ",
+      "explanation_hebrew": "משכו משהו בכוח על הקרקע",
+      "pronunciation_hebrew": "דְרַגְד",
+      "example": "They dragged the heavy boxes across the floor."
     },
     {
-      "word": "offensive",
-      "lemma": "offensive",
+      "word": "detention",
+      "lemma": "detention",
       "level": "B2",
-      "hebrew": "פוגעני / מעליב",
-      "explanation_hebrew": "דבר שעלול לפגוע באנשים",
-      "pronunciation_hebrew": "אוֹפֶנְסִיב",
-      "example": "The comment was very offensive."
+      "hebrew": "מַעֲצָר, כְּלִיאָה",
+      "explanation_hebrew": "החזקת אדם ללא חירות",
+      "pronunciation_hebrew": "דִיטֶנְשֶׁן",
+      "example": "He was held in detention for weeks."
     },
     {
-      "word": "scrub",
-      "lemma": "scrub",
-      "level": "B2",
-      "hebrew": "למחוק / לנקות ביסודיות",
-      "explanation_hebrew": "להסיר משהו לגמרי",
-      "pronunciation_hebrew": "סְקְרַאבּ",
-      "example": "They had to scrub the word from the site."
-    },
-    {
-      "word": "restrictions",
-      "lemma": "restriction",
-      "level": "B2",
-      "hebrew": "הגבלות",
-      "explanation_hebrew": "כללים שמגבילים פעולה",
-      "pronunciation_hebrew": "רֶסְטְרִיקְשְׁנְז",
-      "example": "There are restrictions on advertising."
-    },
-    {
-      "word": "significant",
-      "lemma": "significant",
-      "level": "B2",
-      "hebrew": "משמעותי / ניכר",
-      "explanation_hebrew": "גדול וחשוב",
-      "pronunciation_hebrew": "סִיגְנִיפִיקַנְט",
-      "example": "The project had a significant impact."
-    },
-    {
-      "word": "promote",
-      "lemma": "promote",
-      "level": "B2",
-      "hebrew": "לקדם",
-      "explanation_hebrew": "לפרסם או לעודד משהו",
-      "pronunciation_hebrew": "פְּרוֹמוֹט",
-      "example": "They used ads to promote the product."
-    },
-    {
-      "word": "reproductive",
-      "lemma": "reproductive",
-      "level": "C1",
-      "hebrew": "הקשור לרבייה",
-      "explanation_hebrew": "הקשור למערכת הרבייה",
-      "pronunciation_hebrew": "רִיפְּרוֹדַקְטִיב",
-      "example": "The clinic offers reproductive health advice."
-    },
-    {
-      "word": "suppressed",
-      "lemma": "suppress",
-      "level": "C1",
-      "hebrew": "דוכא / הוסתר",
-      "explanation_hebrew": "נמנע מלהתפשט או להיראות",
-      "pronunciation_hebrew": "סַפְּרֶסְט",
-      "example": "The post's reach was suppressed online."
-    },
-    {
-      "word": "creators",
-      "lemma": "creator",
-      "level": "B2",
-      "hebrew": "יוצרי תוכן",
-      "explanation_hebrew": "אנשים שמייצרים תוכן ברשת",
-      "pronunciation_hebrew": "קְרִיאֵייטוֹרְז",
-      "example": "Many creators post videos daily."
-    },
-    {
-      "word": "charities",
-      "lemma": "charity",
-      "level": "B1",
-      "hebrew": "עמותות / ארגוני צדקה",
-      "explanation_hebrew": "ארגונים שעוזרים לאחרים",
-      "pronunciation_hebrew": "צַ'ארִיטִיז",
-      "example": "Several charities raised money for the cause."
-    },
-    {
-      "word": "sensitivity",
-      "lemma": "sensitivity",
-      "level": "B2",
-      "hebrew": "רגישות",
-      "explanation_hebrew": "מידת הרגישות למשהו",
-      "pronunciation_hebrew": "סֶנְסִיטִיבִיטִי",
-      "example": "A sensitivity filter blurred the image."
-    },
-    {
-      "word": "surveyed",
-      "lemma": "survey",
-      "level": "B2",
-      "hebrew": "סקר / ערך סקר",
-      "explanation_hebrew": "אסף מידע משאלון או סקר",
-      "pronunciation_hebrew": "סֶרְוֵייד",
-      "example": "The group surveyed hundreds of people."
-    },
-    {
-      "word": "clinical",
-      "lemma": "clinical",
-      "level": "C1",
-      "hebrew": "קליני / רפואי",
-      "explanation_hebrew": "הקשור לטיפול רפואי",
-      "pronunciation_hebrew": "קְלִינִיקַל",
-      "example": "She works as a clinical provider."
-    },
-    {
-      "word": "educators",
-      "lemma": "educator",
-      "level": "B2",
-      "hebrew": "מחנכים / מורים",
-      "explanation_hebrew": "אנשים שמלמדים ומחנכים",
-      "pronunciation_hebrew": "אֶדְיוּקֵייטוֹרְז",
-      "example": "Educators shared useful resources."
-    },
-    {
-      "word": "blur",
-      "lemma": "blur",
-      "level": "B2",
-      "hebrew": "לטשטש",
-      "explanation_hebrew": "להפוך תמונה ללא ברורה",
-      "pronunciation_hebrew": "בְּלֶר",
-      "example": "The app can blur sensitive photos."
-    },
-    {
-      "word": "graphic",
-      "lemma": "graphic",
-      "level": "B2",
-      "hebrew": "גרפי / מפורש ובוטה",
-      "explanation_hebrew": "מתואר בצורה חזותית ובוטה",
-      "pronunciation_hebrew": "גְרַאפִיק",
-      "example": "The film had graphic violence."
-    },
-    {
-      "word": "nudity",
-      "lemma": "nudity",
-      "level": "C1",
-      "hebrew": "עירום",
-      "explanation_hebrew": "מצב של חוסר לבוש",
-      "pronunciation_hebrew": "נְיוּדִיטִי",
-      "example": "The platform bans nudity in photos."
-    },
-    {
-      "word": "moderation",
-      "lemma": "moderation",
-      "level": "C1",
-      "hebrew": "פיקוח / ניהול תוכן",
-      "explanation_hebrew": "בקרה על תוכן באתר",
-      "pronunciation_hebrew": "מוֹדֶרֵיישְׁן",
-      "example": "Content moderation removes harmful posts."
-    },
-    {
-      "word": "algorithm",
-      "lemma": "algorithm",
-      "level": "B2",
-      "hebrew": "אלגוריתם",
-      "explanation_hebrew": "סדרת כללים שמחשב פועל לפיהם",
-      "pronunciation_hebrew": "אַלְגוֹרִיתְם",
-      "example": "The algorithm chooses what you see."
-    },
-    {
-      "word": "breach",
-      "lemma": "breach",
-      "level": "C1",
-      "hebrew": "הפרה / פריצה",
-      "explanation_hebrew": "הפרה של כלל או חוק",
-      "pronunciation_hebrew": "בְּרִיץ'",
-      "example": "The post did not breach the rules."
-    },
-    {
-      "word": "automated",
-      "lemma": "automated",
-      "level": "B2",
-      "hebrew": "אוטומטי / ממוחשב",
-      "explanation_hebrew": "מבוצע על ידי מכונה אוטומטית",
-      "pronunciation_hebrew": "אוֹטוֹמֵייטֶד",
-      "example": "An automated message replied to her."
-    },
-    {
-      "word": "appealed",
-      "lemma": "appeal",
-      "level": "B2",
-      "hebrew": "הגיש ערעור",
-      "explanation_hebrew": "ביקש לבדוק החלטה מחדש",
-      "pronunciation_hebrew": "אַפִּילְד",
-      "example": "The charity appealed the decision."
-    },
-    {
-      "word": "euphemistic",
-      "lemma": "euphemistic",
+      "word": "grievous",
+      "lemma": "grievous",
       "level": "C2",
-      "hebrew": "מלשון נקייה / בלשון עקיפה",
-      "explanation_hebrew": "שימוש במילה עדינה במקום בוטה",
-      "pronunciation_hebrew": "יוּפֶמִיסְטִיק",
-      "example": "They used euphemistic terms online."
+      "hebrew": "חָמוּר מְאוֹד",
+      "explanation_hebrew": "רציני וחמור ביותר",
+      "pronunciation_hebrew": "גְרִיבֶס",
+      "example": "She suffered grievous injuries in the attack."
     },
     {
-      "word": "conflated",
-      "lemma": "conflate",
+      "word": "abetting",
+      "lemma": "abet",
       "level": "C2",
-      "hebrew": "ערבב / בלבל בין",
-      "explanation_hebrew": "טעה בכך שחיבר שני דברים שונים",
-      "pronunciation_hebrew": "קוֹנְפְלֵייטֶד",
-      "example": "The policy conflated nudity with sex."
+      "hebrew": "סִיּוּעַ לִדְבַר עֲבֵרָה",
+      "explanation_hebrew": "עזרה או עידוד לביצוע פשע",
+      "pronunciation_hebrew": "אַבֶּטִינְג",
+      "example": "He was charged with aiding and abetting."
+    },
+    {
+      "word": "wrongdoing",
+      "lemma": "wrongdoing",
+      "level": "B2",
+      "hebrew": "מַעֲשֶׂה פָּסוּל",
+      "explanation_hebrew": "התנהגות לא חוקית או לא מוסרית",
+      "pronunciation_hebrew": "רוֹנְגְדוּאִינְג",
+      "example": "They all denied any wrongdoing."
+    },
+    {
+      "word": "revenge",
+      "lemma": "revenge",
+      "level": "B2",
+      "hebrew": "נְקָמָה",
+      "explanation_hebrew": "גמול על פגיעה או עוול",
+      "pronunciation_hebrew": "רִיוֶנְג'",
+      "example": "She said he simply wanted revenge."
+    },
+    {
+      "word": "initiative",
+      "lemma": "initiative",
+      "level": "B2",
+      "hebrew": "יוֹזְמָה",
+      "explanation_hebrew": "פעולה עצמאית מתוך החלטה",
+      "pronunciation_hebrew": "אִינִישְׁיאֲטִיב",
+      "example": "They acted on their own initiative."
+    },
+    {
+      "word": "repatriation",
+      "lemma": "repatriation",
+      "level": "C2",
+      "hebrew": "הַחְזָרָה לַמּוֹלֶדֶת",
+      "explanation_hebrew": "החזרת אדם לארצו",
+      "pronunciation_hebrew": "רִיפַּטְרִיאֵיישֶׁן",
+      "example": "The repatriation operation eventually failed."
+    },
+    {
+      "word": "speculation",
+      "lemma": "speculation",
+      "level": "C1",
+      "hebrew": "הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה",
+      "explanation_hebrew": "ניחושים ללא ודאות או הוכחה",
+      "pronunciation_hebrew": "סְפֶּקְיוּלֵיישֶׁן",
+      "example": "The arrest prompted widespread speculation."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "penalised",
+      "word": "heiress",
       "type": "english_to_hebrew",
-      "question": "What does “penalised” mean?",
+      "question": "What does \"heiress\" mean?",
       "options": [
-        "הפרה / פריצה",
-        "נענש / הושת עליו עונש",
-        "הודעה / התראה",
-        "הקשור לרבייה"
+        "יוֹרֶשֶׁת",
+        "מִשְׁמוֹרֶת",
+        "רִיגּוּל",
+        "חֲטִיפָה"
       ],
-      "correct_answer": "נענש / הושת עליו עונש",
-      "explanation_hebrew": "“penalised” = נענש / הושת עליו עונש. קיבל עונש על מעשה."
+      "correct_answer": "יוֹרֶשֶׁת",
+      "explanation_hebrew": "„heiress” פירושו יוֹרֶשֶׁת."
     },
     {
       "id": "B-q2",
-      "word": "notification",
+      "word": "espionage",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “הודעה / התראה”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „רִיגּוּל”?",
       "options": [
-        "charities",
-        "scrub",
-        "automated",
-        "notification"
+        "espionage",
+        "abduction",
+        "custody",
+        "bitter"
       ],
-      "correct_answer": "notification",
-      "explanation_hebrew": "הודעה / התראה = “notification”. הודעה שמודיעה על משהו."
+      "correct_answer": "espionage",
+      "explanation_hebrew": "המילה „espionage” פירושה רִיגּוּל."
     },
     {
       "id": "B-q3",
-      "word": "offensive",
+      "word": "abduction",
       "type": "english_to_hebrew",
-      "question": "What does “offensive” mean?",
+      "question": "What does \"abduction\" mean?",
       "options": [
-        "רגישות",
-        "פוגעני / מעליב",
-        "דוכא / הוסתר",
-        "מחנכים / מורים"
+        "מַר, קָשֶׁה",
+        "מִשְׁמוֹרֶת",
+        "חוֹקְרִים",
+        "חֲטִיפָה"
       ],
-      "correct_answer": "פוגעני / מעליב",
-      "explanation_hebrew": "“offensive” = פוגעני / מעליב. דבר שעלול לפגוע באנשים."
+      "correct_answer": "חֲטִיפָה",
+      "explanation_hebrew": "„abduction” פירושו חֲטִיפָה."
     },
     {
       "id": "B-q4",
-      "word": "scrub",
+      "word": "custody",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “למחוק / לנקות ביסודיות”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „מִשְׁמוֹרֶת”?",
       "options": [
-        "algorithm",
-        "notification",
-        "nudity",
-        "scrub"
+        "investigators",
+        "custody",
+        "treason",
+        "bitter"
       ],
-      "correct_answer": "scrub",
-      "explanation_hebrew": "למחוק / לנקות ביסודיות = “scrub”. להסיר משהו לגמרי."
+      "correct_answer": "custody",
+      "explanation_hebrew": "המילה „custody” פירושה מִשְׁמוֹרֶת."
     },
     {
       "id": "B-q5",
-      "word": "restrictions",
+      "word": "bitter",
       "type": "english_to_hebrew",
-      "question": "What does “restrictions” mean?",
+      "question": "What does \"bitter\" mean?",
       "options": [
-        "לטשטש",
-        "נענש / הושת עליו עונש",
-        "גרפי / מפורש ובוטה",
-        "הגבלות"
+        "בְּגִידָה בַּמְּדִינָה",
+        "חוֹקְרִים",
+        "הִדְהִים, זִעְזֵעַ",
+        "מַר, קָשֶׁה"
       ],
-      "correct_answer": "הגבלות",
-      "explanation_hebrew": "“restrictions” = הגבלות. כללים שמגבילים פעולה."
+      "correct_answer": "מַר, קָשֶׁה",
+      "explanation_hebrew": "„bitter” פירושו מַר, קָשֶׁה."
     },
     {
       "id": "B-q6",
-      "word": "significant",
+      "word": "investigators",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “משמעותי / ניכר”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „חוֹקְרִים”?",
       "options": [
-        "offensive",
-        "notification",
-        "significant",
-        "nudity"
+        "stunned",
+        "investigators",
+        "treason",
+        "intelligence"
       ],
-      "correct_answer": "significant",
-      "explanation_hebrew": "משמעותי / ניכר = “significant”. גדול וחשוב."
+      "correct_answer": "investigators",
+      "explanation_hebrew": "המילה „investigators” פירושה חוֹקְרִים."
     },
     {
       "id": "B-q7",
-      "word": "promote",
+      "word": "treason",
       "type": "english_to_hebrew",
-      "question": "What does “promote” mean?",
+      "question": "What does \"treason\" mean?",
       "options": [
-        "משמעותי / ניכר",
-        "לקדם",
-        "סקר / ערך סקר",
-        "הגיש ערעור"
+        "מוֹדִיעִין",
+        "בְּגִידָה בַּמְּדִינָה",
+        "הַאֲשָׁמוֹת",
+        "הִדְהִים, זִעְזֵעַ"
       ],
-      "correct_answer": "לקדם",
-      "explanation_hebrew": "“promote” = לקדם. לפרסם או לעודד משהו."
+      "correct_answer": "בְּגִידָה בַּמְּדִינָה",
+      "explanation_hebrew": "„treason” פירושו בְּגִידָה בַּמְּדִינָה."
     },
     {
       "id": "B-q8",
-      "word": "reproductive",
+      "word": "stunned",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “הקשור לרבייה”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „הִדְהִים, זִעְזֵעַ”?",
       "options": [
-        "blur",
-        "reproductive",
-        "notification",
-        "appealed"
+        "allegations",
+        "intelligence",
+        "involvement",
+        "stunned"
       ],
-      "correct_answer": "reproductive",
-      "explanation_hebrew": "הקשור לרבייה = “reproductive”. הקשור למערכת הרבייה."
+      "correct_answer": "stunned",
+      "explanation_hebrew": "המילה „stunned” פירושה הִדְהִים, זִעְזֵעַ."
     },
     {
       "id": "B-q9",
-      "word": "suppressed",
+      "word": "intelligence",
       "type": "english_to_hebrew",
-      "question": "What does “suppressed” mean?",
+      "question": "What does \"intelligence\" mean?",
       "options": [
-        "דוכא / הוסתר",
-        "לקדם",
-        "הודעה / התראה",
-        "רגישות"
+        "מוֹדִיעִין",
+        "הַאֲשָׁמוֹת",
+        "מְעוֹרָבוּת",
+        "אוּלַם בֵּית הַמִּשְׁפָּט"
       ],
-      "correct_answer": "דוכא / הוסתר",
-      "explanation_hebrew": "“suppressed” = דוכא / הוסתר. נמנע מלהתפשט או להיראות."
+      "correct_answer": "מוֹדִיעִין",
+      "explanation_hebrew": "„intelligence” פירושו מוֹדִיעִין."
     },
     {
       "id": "B-q10",
-      "word": "creators",
+      "word": "allegations",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “יוצרי תוכן”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „הַאֲשָׁמוֹת”?",
       "options": [
-        "suppressed",
-        "breach",
-        "creators",
-        "charities"
+        "allegations",
+        "prosecutors",
+        "courtroom",
+        "involvement"
       ],
-      "correct_answer": "creators",
-      "explanation_hebrew": "יוצרי תוכן = “creators”. אנשים שמייצרים תוכן ברשת."
+      "correct_answer": "allegations",
+      "explanation_hebrew": "המילה „allegations” פירושה הַאֲשָׁמוֹת."
     },
     {
       "id": "B-q11",
-      "word": "charities",
+      "word": "involvement",
       "type": "english_to_hebrew",
-      "question": "What does “charities” mean?",
+      "question": "What does \"involvement\" mean?",
       "options": [
-        "אלגוריתם",
-        "משמעותי / ניכר",
-        "עמותות / ארגוני צדקה",
-        "הקשור לרבייה"
+        "מְעוֹרָבוּת",
+        "תּוֹבְעִים",
+        "בִּכְפִיָּה, בְּכוֹחַ",
+        "אוּלַם בֵּית הַמִּשְׁפָּט"
       ],
-      "correct_answer": "עמותות / ארגוני צדקה",
-      "explanation_hebrew": "“charities” = עמותות / ארגוני צדקה. ארגונים שעוזרים לאחרים."
+      "correct_answer": "מְעוֹרָבוּת",
+      "explanation_hebrew": "„involvement” פירושו מְעוֹרָבוּת."
     },
     {
       "id": "B-q12",
-      "word": "sensitivity",
+      "word": "courtroom",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “רגישות”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „אוּלַם בֵּית הַמִּשְׁפָּט”?",
       "options": [
-        "reproductive",
-        "sensitivity",
-        "graphic",
-        "conflated"
+        "courtroom",
+        "prosecutors",
+        "indictment",
+        "forcible"
       ],
-      "correct_answer": "sensitivity",
-      "explanation_hebrew": "רגישות = “sensitivity”. מידת הרגישות למשהו."
+      "correct_answer": "courtroom",
+      "explanation_hebrew": "המילה „courtroom” פירושה אוּלַם בֵּית הַמִּשְׁפָּט."
     },
     {
       "id": "B-q13",
-      "word": "surveyed",
+      "word": "prosecutors",
       "type": "english_to_hebrew",
-      "question": "What does “surveyed” mean?",
+      "question": "What does \"prosecutors\" mean?",
       "options": [
-        "פוגעני / מעליב",
-        "הפרה / פריצה",
-        "דוכא / הוסתר",
-        "סקר / ערך סקר"
+        "כְּתַב אִישׁוּם",
+        "תָּקְפוּ בְּמַאֲרָב",
+        "תּוֹבְעִים",
+        "בִּכְפִיָּה, בְּכוֹחַ"
       ],
-      "correct_answer": "סקר / ערך סקר",
-      "explanation_hebrew": "“surveyed” = סקר / ערך סקר. אסף מידע משאלון או סקר."
+      "correct_answer": "תּוֹבְעִים",
+      "explanation_hebrew": "„prosecutors” פירושו תּוֹבְעִים."
     },
     {
       "id": "B-q14",
-      "word": "clinical",
+      "word": "forcible",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “קליני / רפואי”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „בִּכְפִיָּה, בְּכוֹחַ”?",
       "options": [
-        "restrictions",
-        "graphic",
-        "clinical",
-        "educators"
+        "forcible",
+        "indictment",
+        "ambushed",
+        "dragged"
       ],
-      "correct_answer": "clinical",
-      "explanation_hebrew": "קליני / רפואי = “clinical”. הקשור לטיפול רפואי."
+      "correct_answer": "forcible",
+      "explanation_hebrew": "המילה „forcible” פירושה בִּכְפִיָּה, בְּכוֹחַ."
     },
     {
       "id": "B-q15",
-      "word": "educators",
+      "word": "indictment",
       "type": "english_to_hebrew",
-      "question": "What does “educators” mean?",
+      "question": "What does \"indictment\" mean?",
       "options": [
-        "עמותות / ארגוני צדקה",
-        "עירום",
-        "מחנכים / מורים",
-        "הגיש ערעור"
+        "תָּקְפוּ בְּמַאֲרָב",
+        "גָּרְרוּ",
+        "כְּתַב אִישׁוּם",
+        "מַעֲצָר, כְּלִיאָה"
       ],
-      "correct_answer": "מחנכים / מורים",
-      "explanation_hebrew": "“educators” = מחנכים / מורים. אנשים שמלמדים ומחנכים."
+      "correct_answer": "כְּתַב אִישׁוּם",
+      "explanation_hebrew": "„indictment” פירושו כְּתַב אִישׁוּם."
     },
     {
       "id": "B-q16",
-      "word": "blur",
+      "word": "ambushed",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “לטשטש”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „תָּקְפוּ בְּמַאֲרָב”?",
       "options": [
-        "blur",
-        "moderation",
-        "suppressed",
-        "offensive"
+        "grievous",
+        "dragged",
+        "detention",
+        "ambushed"
       ],
-      "correct_answer": "blur",
-      "explanation_hebrew": "לטשטש = “blur”. להפוך תמונה ללא ברורה."
+      "correct_answer": "ambushed",
+      "explanation_hebrew": "המילה „ambushed” פירושה תָּקְפוּ בְּמַאֲרָב."
     },
     {
       "id": "B-q17",
-      "word": "graphic",
+      "word": "dragged",
       "type": "english_to_hebrew",
-      "question": "What does “graphic” mean?",
+      "question": "What does \"dragged\" mean?",
       "options": [
-        "יוצרי תוכן",
-        "גרפי / מפורש ובוטה",
-        "דוכא / הוסתר",
-        "לקדם"
+        "חָמוּר מְאוֹד",
+        "גָּרְרוּ",
+        "מַעֲצָר, כְּלִיאָה",
+        "סִיּוּעַ לִדְבַר עֲבֵרָה"
       ],
-      "correct_answer": "גרפי / מפורש ובוטה",
-      "explanation_hebrew": "“graphic” = גרפי / מפורש ובוטה. מתואר בצורה חזותית ובוטה."
+      "correct_answer": "גָּרְרוּ",
+      "explanation_hebrew": "„dragged” פירושו גָּרְרוּ."
     },
     {
       "id": "B-q18",
-      "word": "nudity",
+      "word": "detention",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “עירום”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „מַעֲצָר, כְּלִיאָה”?",
       "options": [
-        "notification",
-        "nudity",
-        "reproductive",
-        "educators"
+        "detention",
+        "abetting",
+        "grievous",
+        "wrongdoing"
       ],
-      "correct_answer": "nudity",
-      "explanation_hebrew": "עירום = “nudity”. מצב של חוסר לבוש."
+      "correct_answer": "detention",
+      "explanation_hebrew": "המילה „detention” פירושה מַעֲצָר, כְּלִיאָה."
     },
     {
       "id": "B-q19",
-      "word": "moderation",
+      "word": "grievous",
       "type": "english_to_hebrew",
-      "question": "What does “moderation” mean?",
+      "question": "What does \"grievous\" mean?",
       "options": [
-        "לטשטש",
-        "פיקוח / ניהול תוכן",
-        "מחנכים / מורים",
-        "נענש / הושת עליו עונש"
+        "נְקָמָה",
+        "מַעֲשֶׂה פָּסוּל",
+        "חָמוּר מְאוֹד",
+        "סִיּוּעַ לִדְבַר עֲבֵרָה"
       ],
-      "correct_answer": "פיקוח / ניהול תוכן",
-      "explanation_hebrew": "“moderation” = פיקוח / ניהול תוכן. בקרה על תוכן באתר."
+      "correct_answer": "חָמוּר מְאוֹד",
+      "explanation_hebrew": "„grievous” פירושו חָמוּר מְאוֹד."
     },
     {
       "id": "B-q20",
-      "word": "algorithm",
+      "word": "abetting",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “אלגוריתם”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „סִיּוּעַ לִדְבַר עֲבֵרָה”?",
       "options": [
-        "appealed",
-        "charities",
-        "algorithm",
-        "breach"
+        "initiative",
+        "revenge",
+        "wrongdoing",
+        "abetting"
       ],
-      "correct_answer": "algorithm",
-      "explanation_hebrew": "אלגוריתם = “algorithm”. סדרת כללים שמחשב פועל לפיהם."
+      "correct_answer": "abetting",
+      "explanation_hebrew": "המילה „abetting” פירושה סִיּוּעַ לִדְבַר עֲבֵרָה."
     },
     {
       "id": "B-q21",
-      "word": "breach",
+      "word": "wrongdoing",
       "type": "english_to_hebrew",
-      "question": "What does “breach” mean?",
+      "question": "What does \"wrongdoing\" mean?",
       "options": [
-        "גרפי / מפורש ובוטה",
-        "הודעה / התראה",
-        "קליני / רפואי",
-        "הפרה / פריצה"
+        "יוֹזְמָה",
+        "מַעֲשֶׂה פָּסוּל",
+        "נְקָמָה",
+        "הַחְזָרָה לַמּוֹלֶדֶת"
       ],
-      "correct_answer": "הפרה / פריצה",
-      "explanation_hebrew": "“breach” = הפרה / פריצה. הפרה של כלל או חוק."
+      "correct_answer": "מַעֲשֶׂה פָּסוּל",
+      "explanation_hebrew": "„wrongdoing” פירושו מַעֲשֶׂה פָּסוּל."
     },
     {
       "id": "B-q22",
-      "word": "automated",
+      "word": "revenge",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “אוטומטי / ממוחשב”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „נְקָמָה”?",
       "options": [
-        "significant",
-        "notification",
-        "automated",
-        "algorithm"
+        "repatriation",
+        "initiative",
+        "revenge",
+        "speculation"
       ],
-      "correct_answer": "automated",
-      "explanation_hebrew": "אוטומטי / ממוחשב = “automated”. מבוצע על ידי מכונה אוטומטית."
+      "correct_answer": "revenge",
+      "explanation_hebrew": "המילה „revenge” פירושה נְקָמָה."
     },
     {
       "id": "B-q23",
-      "word": "appealed",
+      "word": "initiative",
       "type": "english_to_hebrew",
-      "question": "What does “appealed” mean?",
+      "question": "What does \"initiative\" mean?",
       "options": [
-        "הקשור לרבייה",
-        "הגיש ערעור",
-        "נענש / הושת עליו עונש",
-        "לטשטש"
+        "יוֹרֶשֶׁת",
+        "הַחְזָרָה לַמּוֹלֶדֶת",
+        "יוֹזְמָה",
+        "הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה"
       ],
-      "correct_answer": "הגיש ערעור",
-      "explanation_hebrew": "“appealed” = הגיש ערעור. ביקש לבדוק החלטה מחדש."
+      "correct_answer": "יוֹזְמָה",
+      "explanation_hebrew": "„initiative” פירושו יוֹזְמָה."
     },
     {
       "id": "B-q24",
-      "word": "euphemistic",
+      "word": "repatriation",
       "type": "hebrew_to_english",
-      "question": "איזו מילה אנגלית פירושה “מלשון נקייה / בלשון עקיפה”?",
+      "question": "איזו מילה באנגלית מתאימה למשמעות: „הַחְזָרָה לַמּוֹלֶדֶת”?",
       "options": [
-        "offensive",
-        "significant",
-        "promote",
-        "euphemistic"
+        "repatriation",
+        "espionage",
+        "speculation",
+        "heiress"
       ],
-      "correct_answer": "euphemistic",
-      "explanation_hebrew": "מלשון נקייה / בלשון עקיפה = “euphemistic”. שימוש במילה עדינה במקום בוטה."
+      "correct_answer": "repatriation",
+      "explanation_hebrew": "המילה „repatriation” פירושה הַחְזָרָה לַמּוֹלֶדֶת."
     },
     {
       "id": "B-q25",
-      "word": "conflated",
+      "word": "speculation",
       "type": "english_to_hebrew",
-      "question": "What does “conflated” mean?",
+      "question": "What does \"speculation\" mean?",
       "options": [
-        "נענש / הושת עליו עונש",
-        "הפרה / פריצה",
-        "ערבב / בלבל בין",
-        "פוגעני / מעליב"
+        "הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה",
+        "רִיגּוּל",
+        "חֲטִיפָה",
+        "יוֹרֶשֶׁת"
       ],
-      "correct_answer": "ערבב / בלבל בין",
-      "explanation_hebrew": "“conflated” = ערבב / בלבל בין. טעה בכך שחיבר שני דברים שונים."
+      "correct_answer": "הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה",
+      "explanation_hebrew": "„speculation” פירושו הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה."
     }
   ]
 }
