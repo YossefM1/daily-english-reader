@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-17",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Vaping: Why people who have never smoked are getting hooked",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck62y33489zqo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central question?",
+      "difficulty": "C",
+      "options": [
+        "Why growing numbers of people who never smoked are vaping, what keeps them dependent and how policy and cessation support are responding",
+        "Why cigarette smoking has increased among every UK age group",
+        "Whether all nicotine products should be prescribed by doctors",
+        "How disposable vapes are manufactured outside Britain"
+      ],
+      "correct_answer": "Why growing numbers of people who never smoked are vaping, what keeps them dependent and how policy and cessation support are responding",
+      "explanation_hebrew": "הכתבה בוחנת מדוע מי שלא עישנו מתחילים לאדות, כיצד תלות חברתית, התנהגותית וניקוטינית מתפתחת, ומה נעשה בנושא."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to the ONS data cited, roughly how many UK vapers say they have never smoked?",
+      "difficulty": "C",
+      "options": [
+        "About 110,000",
+        "More than one million",
+        "Nearly five million children",
+        "Exactly 45% of all adults"
+      ],
+      "correct_answer": "More than one million",
+      "explanation_hebrew": "לפי נתוני ONS, יותר ממיליון בני אדם בבריטניה אומרים שמעולם לא עישנו אך הם מאדים."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “psychological dependence” mean in Dr Helen Wall's explanation?",
+      "difficulty": "C",
+      "options": [
+        "A legal requirement to buy nicotine",
+        "A learned emotional or behavioural reliance on vaping",
+        "A lung disease caused only by cigarettes",
+        "A temporary dislike of vape flavours"
+      ],
+      "correct_answer": "A learned emotional or behavioural reliance on vaping",
+      "explanation_hebrew": "psychological dependence היא תלות רגשית או התנהגותית, למשל שימוש באידוי כדי לווסת חרדה או כפעולה אוטומטית."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which age group does the ONS report suggest is most likely to vape?",
+      "difficulty": "C",
+      "options": [
+        "Under-16s",
+        "People aged 18-24",
+        "People aged 25-34",
+        "People over 75"
+      ],
+      "correct_answer": "People aged 25-34",
+      "explanation_hebrew": "הדוח מצביע על בני 25–34 כקבוצה בעלת שיעור האידוי הגבוה ביותר, כמעט אחד מכל שישה."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Prof Sarah Jackson describe the rise in never-smoker vaping as a mixed picture?",
+      "difficulty": "C",
+      "options": [
+        "Some users may have avoided more harmful smoking, while others may be exposed to nicotine risk they would otherwise not face.",
+        "Vaping is more harmful than smoking for every user.",
+        "The ONS counted only people who had quit nicotine completely.",
+        "Marketing affects smokers but cannot influence never-smokers."
+      ],
+      "correct_answer": "Some users may have avoided more harmful smoking, while others may be exposed to nicotine risk they would otherwise not face.",
+      "explanation_hebrew": "ג׳קסון מציגה שני צדדים: ייתכן שאידוי מנע מעישון אצל חלק מהאנשים, אך אחרים התחילו להשתמש בניקוטין בלי שהיו מעשנים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Gracey mean when she calls vaping a “mindless action”?",
+      "difficulty": "C",
+      "options": [
+        "It requires careful planning each time.",
+        "It has become automatic and happens without conscious thought.",
+        "It is permitted only while using social media.",
+        "It no longer contains nicotine."
+      ],
+      "correct_answer": "It has become automatic and happens without conscious thought.",
+      "explanation_hebrew": "mindless action היא פעולה אוטומטית שנעשית כמעט בלי מחשבה, כפי שגרייסי החזיקה בוייפ בזמן גלילה בטלפון."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What social, emotional and marketing factors does the article link to never-smokers starting or continuing to vape?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין נורמליזציה בקרב חברים, חרדה ולחץ, ההרגל הפיזי והדופמין, וכן צבעים, טעמים ושיווק שיוצרים רושם שהמוצר בטוח.",
+      "expected_points": [
+        "Frequent exposure among classmates can make vaping seem normal and encourage experimentation.",
+        "Some people use the hand-to-mouth action to cope with social anxiety, stress or a break-up.",
+        "The repeated action and nicotine reward can become habitual and tied to activities such as doomscrolling.",
+        "Bright colours, sweet flavours and prominent marketing may attract users and create the misconception that vaping is safe and non-addictive."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence and uncertainty about the public-health impact of vaping among never-smokers.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את העלייה במספר המאדים שמעולם לא עישנו, את העובדה שאידוי פחות מזיק מסיגריות אך ממכר ולא ידוע לטווח ארוך, ואת האפשרות למניעת עישון מול יצירת סיכון חדש.",
+      "expected_points": [
+        "More than one million UK vapers report never having smoked, and the number is rising.",
+        "Nicotine is highly addictive; vaping is less harmful than cigarettes, but its long-term effects remain unclear.",
+        "Some people may have vaped instead of beginning to smoke, which would reduce harm.",
+        "Research showing nicotine use rising while smoking falls suggests that some vapers would not otherwise have used nicotine."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might the original quit-smoking message about vaping fail to protect never-smokers?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהמסר 'פחות מזיק מסיגריות' עלול להתפרש כבטוח, שהשיווק והקבלה החברתית מרחיבים את הקהל, ושאין מספיק מסר ותמיכה למי שהתחילו ישירות בוייפ.",
+      "expected_points": [
+        "A relative-risk message for smokers can be misunderstood as meaning that vaping is harmless.",
+        "Attractive flavours, colours and social acceptance can reach people who were never trying to quit cigarettes.",
+        "Nicotine dependence can develop through both chemical withdrawal and repeated emotional or physical habits.",
+        "Public services and messaging were designed mainly around replacing cigarettes, leaving direct-to-vape users with less tailored support."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced public-health recommendation for reducing vaping among never-smokers without discouraging smokers from quitting cigarettes.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להבחין בין מעשנים ללא־מעשנים, להבהיר סיכון יחסי וממכרות, לצמצם שיווק לצעירים, ולשפר תמיכה בגמילה מאידוי תוך שמירה על מסלולי גמילה מעישון.",
+      "expected_points": [
+        "Clearly state that non-smokers and under-18s should not vape, while smokers should receive evidence-based help to stop cigarettes.",
+        "Explain that vaping is less harmful than smoking but is addictive and not risk-free.",
+        "Reduce youth-oriented appeal through marketing, packaging and flavour rules while preserving appropriate cessation pathways for smokers.",
+        "Expand vaping-cessation support, including gradual nicotine reduction, longer intervals between sessions and suitable nicotine replacement therapy."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-17",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Trial of German steakhouse heiress Christina Block that sparked a huge spy scandal",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What two connected stories does the article explain?",
+      "difficulty": "B",
+      "options": [
+        "A Hamburg child-abduction trial and a separate espionage investigation uncovered during related searches",
+        "The sale of a restaurant chain and a dispute over steak prices",
+        "A Danish election and a German intelligence reform",
+        "A television trial and the opening of a new security company"
+      ],
+      "correct_answer": "A Hamburg child-abduction trial and a separate espionage investigation uncovered during related searches",
+      "explanation_hebrew": "הכתבה מתארת את משפט החטיפה בהמבורג ואת חקירת הריגול הנפרדת שנולדה מראיות שנמצאו במהלך החקירה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What do prosecutors allege Christina Block and Andreas Costard organised?",
+      "difficulty": "B",
+      "options": [
+        "A legal appeal to change a Danish custody ruling",
+        "The forcible abduction of two children from their father's home in Denmark",
+        "The purchase of the Block House restaurant chain",
+        "A public investigation into Germany's intelligence service"
+      ],
+      "correct_answer": "The forcible abduction of two children from their father's home in Denmark",
+      "explanation_hebrew": "התביעה טוענת שבלוק וקוסטארד ארגנו חטיפה בכוח של שני הילדים מבית אביהם בדנמרק; שניהם מכחישים עבירה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “in the dock” mean when the article describes Christina Block?",
+      "difficulty": "B",
+      "options": [
+        "Working at a Danish harbour",
+        "Waiting to board a ship",
+        "On trial as a defendant in court",
+        "Giving evidence as a police investigator"
+      ],
+      "correct_answer": "On trial as a defendant in court",
+      "explanation_hebrew": "in the dock הוא ביטוי המתאר נאשם העומד למשפט בבית משפט."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What has Jonathan G admitted?",
+      "difficulty": "B",
+      "options": [
+        "Buying state documents from August Hanning",
+        "Taking part in the operation involving the children, while saying he believed it was a rescue",
+        "Writing the custody decision in Hamburg",
+        "Failing to appear as a witness in the trial"
+      ],
+      "correct_answer": "Taking part in the operation involving the children, while saying he believed it was a rescue",
+      "explanation_hebrew": "יונתן ג׳ הודה במעורבות, אך אמר שסבר שהוא משתתף במבצע חילוץ."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is the article careful to distinguish August Hanning's espionage case from the Hamburg trial?",
+      "difficulty": "B",
+      "options": [
+        "The alleged spying was discovered during the wider investigation but is not part of the current Block court case.",
+        "Hanning is one of the children involved in the custody dispute.",
+        "The Hamburg court has already convicted Hanning of the abduction.",
+        "The espionage charges concern the restaurant company's finances."
+      ],
+      "correct_answer": "The alleged spying was discovered during the wider investigation but is not part of the current Block court case.",
+      "explanation_hebrew": "הראיות נגד האנינג נמצאו בחיפוש הקשור לחקירה, אך אישומי הריגול הם תיק נפרד והוא לא נאשם במשפט בלוק הנוכחי."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “acted on its own initiative” mean in Block's defence?",
+      "difficulty": "B",
+      "options": [
+        "The security team followed a detailed court order.",
+        "The team decided and acted independently without her instruction.",
+        "The children travelled voluntarily on their own.",
+        "The Danish police organised the operation."
+      ],
+      "correct_answer": "The team decided and acted independently without her instruction.",
+      "explanation_hebrew": "on its own initiative פירושו שהצוות החליט ופעל בעצמו; זו טענת ההגנה של בלוק והיא שנויה במחלוקת במשפט."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What does the article say happened during the alleged New Year abduction operation?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר בזהירות כטענת התביעה: מארב ותקיפת האב, הכנסת הילדים לרכב, החלפת כלי רכב, קשירה והעברה בקרוואן לגרמניה.",
+      "expected_points": [
+        "Prosecutors say men ambushed and beat Stephan Hensel during a firework display.",
+        "The boy and girl, then aged 10 and 13, were dragged into a car.",
+        "The group allegedly changed vehicles near the German border and restrained the children.",
+        "They are said to have travelled in a campervan to Baden-Württemberg, where the children were held until 2 January 2024."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the custody dispute and the conflicting claims about responsibility for the operation.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את מגורי הילדים, החלטות בתי המשפט בגרמניה ובדנמרק, הכחשות בלוק והטענה שהצוות פעל לבד, מול עדות ברקאי שהתוכנית הייתה ידועה.",
+      "expected_points": [
+        "After the parents separated, the children lived with Block and later visited their father in Denmark.",
+        "Two younger children were not returned in 2021; a Hamburg court ordered their return, while a Danish court later said they could not be sent back.",
+        "Block denies knowing about an abduction plan and says the Israeli team acted independently.",
+        "Security-team head David Barkay told the court that Block and Costard knew about the planned repatriation operation."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why has the case attracted unusually intense public attention in Germany?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשור בין עושר ופרסום המשפחה, מאבק משמורת דרמטי, טענות לאלימות וחטיפה בינלאומית, קשרים לאנשי מודיעין, ופרשת הריגול הנפרדת.",
+      "expected_points": [
+        "Block is the heir to a familiar and successful German restaurant chain.",
+        "The allegations involve a violent cross-border operation during a bitter family custody dispute.",
+        "Former German and Israeli intelligence figures are alleged to have links to parts of the story.",
+        "Evidence discovered in the investigation led to a separate treason and espionage case against a former intelligence chief."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a concise, legally careful report of the case that separates allegations, admissions and denials.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשתמש במונחים כגון alleged, prosecutors say ו־denies; לציין את הודאת יונתן ג׳ והסתייגותו; ולהפריד בין תיק החטיפה לתיק הריגול של האנינג.",
+      "expected_points": [
+        "Attribute the abduction account to prosecutors and avoid presenting disputed claims as proven facts.",
+        "State that Christina Block and the other defendants deny wrongdoing, except Jonathan G, who admits involvement but describes it as a rescue.",
+        "Mention Block's denial of prior knowledge and Barkay's conflicting testimony.",
+        "Explain that Hanning's espionage charges arose from evidence found during the investigation but are separate from the current Hamburg trial."
+      ]
+    }
+  ]
+}

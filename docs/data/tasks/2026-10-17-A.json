@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-17",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Dame Judi Dench joins call to keep Archers in Birmingham",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw98zj4jn6ryo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "More than 100 people connected with The Archers are urging the BBC to keep recording the programme in Birmingham.",
+        "The BBC has cancelled The Archers after its 75th anniversary.",
+        "Dame Judi Dench has been chosen to build a new studio in Digbeth.",
+        "The fictional village of Ambridge is being moved to London."
+      ],
+      "correct_answer": "More than 100 people connected with The Archers are urging the BBC to keep recording the programme in Birmingham.",
+      "explanation_hebrew": "הכתבה עוסקת בקמפיין של יותר מ־100 אנשי צוות ושחקנים, ובהם ג׳ודי דנץ׳, להשאיר את הקלטת התוכנית בבירמינגהם."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What BBC decision led to the campaign?",
+      "difficulty": "A",
+      "options": [
+        "It decided to shorten every episode.",
+        "It sold the fictional village of Ambridge.",
+        "It shelved plans for a dedicated studio at its new Digbeth headquarters.",
+        "It removed all West Midlands actors from the cast."
+      ],
+      "correct_answer": "It shelved plans for a dedicated studio at its new Digbeth headquarters.",
+      "explanation_hebrew": "הקמפיין החל לאחר שה־BBC גנז את התוכנית להקים אולפן ייעודי במטה החדש בדיגבת׳."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “shelve plans” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "Display the plans in a library",
+        "Postpone or abandon the plans",
+        "Complete the plans ahead of schedule",
+        "Move the plans to a television archive"
+      ],
+      "correct_answer": "Postpone or abandon the plans",
+      "explanation_hebrew": "shelve plans פירושו להניח תוכניות בצד, כלומר לדחות אותן או להפסיק לקדם אותן."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How long has The Archers always been recorded in Birmingham?",
+      "difficulty": "A",
+      "options": [
+        "Since it began, and it celebrated its 75th anniversary this year",
+        "Only since the new Digbeth headquarters opened",
+        "For the past ten years",
+        "Since Dame Judi Dench joined the programme"
+      ],
+      "correct_answer": "Since it began, and it celebrated its 75th anniversary this year",
+      "explanation_hebrew": "לפי הכתבה, התוכנית הוקלטה תמיד בבירמינגהם מאז תחילתה וחגגה השנה 75 שנים."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do supporters compare moving The Archers to moving Coronation Street or EastEnders away from their regions?",
+      "difficulty": "A",
+      "options": [
+        "To argue that regional identity is an important part of each programme",
+        "To suggest that all three programmes use the same actors",
+        "To prove that Birmingham has the cheapest studios in Britain",
+        "To request that the programmes exchange their fictional locations"
+      ],
+      "correct_answer": "To argue that regional identity is an important part of each programme",
+      "explanation_hebrew": "ההשוואה מדגישה שהקשר לאזור הוא חלק מהותי מזהות התוכנית, ולכן העברתה עלולה לפגוע באופייה."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “a tangible impact” mean in the supporters' letter?",
+      "difficulty": "A",
+      "options": [
+        "An effect that is real and noticeable",
+        "A change that exists only in fiction",
+        "A benefit measured only by audience age",
+        "A temporary pause with no consequences"
+      ],
+      "correct_answer": "An effect that is real and noticeable",
+      "explanation_hebrew": "tangible impact הוא השפעה ממשית ומורגשת; החותמים חוששים שהמעבר ישפיע בפועל על אופן יצירת התוכנית."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Who signed or supported the call to keep The Archers in Birmingham?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין יותר מ־100 אנשי צוות בעבר ובהווה, שמות בולטים, נציגי האיגודים, וראש עיריית וסט מידלנדס.",
+      "expected_points": [
+        "More than 100 current and former cast and crew members signed the letter.",
+        "Named supporters include Dame Judi Dench, Felicity Jones and Kellie Bright.",
+        "Representatives of Equity and the Writers' Guild also signed.",
+        "West Midlands Mayor Richard Parker separately called for the programme to remain in Birmingham."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the arguments for keeping The Archers in Birmingham and the BBC's response.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג את חשיבות בירמינגהם לזהות התוכנית, החשש מפיצול ההפקה ופגיעה באיכות, ומנגד את הצורך בחיסכון ואת בדיקת החלופות.",
+      "expected_points": [
+        "Supporters say Birmingham has shaped the programme's identity throughout its 75-year history.",
+        "They warn that separating cast and production teams could harm quality and the show's future.",
+        "They argue a flagship programme deserves suitable facilities that would also benefit Birmingham.",
+        "The BBC says it must save money, remains committed to The Archers and is exploring studio options, including in the West Midlands."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might separating the cast and production teams change the way the programme sounds or feels?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שעבודה משותפת תומכת בתיאום, ביצוע והפקת סאונד, ושהרחקה מהאזור שעליו התוכנית מבוססת עלולה להחליש את האותנטיות.",
+      "expected_points": [
+        "Recording together can support coordination between actors, directors and sound engineers.",
+        "A shared production base can help maintain consistent performance and sound quality.",
+        "The West Midlands setting and local heritage contribute to the programme's identity.",
+        "Moving or splitting teams may weaken continuity and regional authenticity."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short neutral briefing about the disagreement over The Archers' future recording location.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את גניזת האולפן, טענות החותמים, נימוק החיסכון של ה־BBC, והעובדה שטרם התקבלה החלטה סופית על חלופה.",
+      "expected_points": [
+        "State that the BBC shelved plans for a dedicated studio at its new Digbeth headquarters.",
+        "Explain that more than 100 cast and crew members want recording to stay in Birmingham.",
+        "Mention concerns about regional identity, quality and keeping production teams together.",
+        "Note that the BBC cites savings and is still examining alternative studios around the country and in the West Midlands."
+      ]
+    }
+  ]
+}
