@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-18",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Three takeaways from Elon Musk's latest political donations",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly examining?",
+      "options": [
+        "How Elon Musk's recent political donations may influence US congressional races and regulation",
+        "How Tesla plans to move its factories back to California",
+        "Why the Federal Election Commission banned super PACs",
+        "How Democrats funded Donald Trump's 2024 campaign"
+      ],
+      "correct_answer": "How Elon Musk's recent political donations may influence US congressional races and regulation",
+      "explanation_hebrew": "הכתבה מנתחת לאן הופנו תרומותיו האחרונות של מאסק ומה משמעותן האפשרית לבחירות ולסביבה הרגולטורית.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the largest share of Musk's reported third-quarter donations go?",
+      "options": [
+        "America PAC",
+        "The Senate Leadership Fund PAC",
+        "MAGA Inc PAC",
+        "Lone Star Liberty PAC"
+      ],
+      "correct_answer": "The Senate Leadership Fund PAC",
+      "explanation_hebrew": "לפי הדיווחים, 158 מיליון דולר — עיקר הסכום — הועברו ל־Senate Leadership Fund PAC.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “the bulk of the money” mean in the article?",
+      "options": [
+        "Money that was donated secretly",
+        "Money spent outside Texas",
+        "Most of the money",
+        "Money returned after the election"
+      ],
+      "correct_answer": "Most of the money",
+      "explanation_hebrew": "the bulk of פירושו החלק הגדול ביותר או רוב הסכום.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why is the Texas Senate race described as a “bellwether”?",
+      "options": [
+        "It is the only race funded by a super PAC.",
+        "It will decide who becomes US president.",
+        "It is being held earlier than every other election.",
+        "Its result may signal the future direction of Republican power."
+      ],
+      "correct_answer": "Its result may signal the future direction of Republican power.",
+      "explanation_hebrew": "bellwether הוא מדד או סימן למגמה רחבה יותר; כאן התוצאה עשויה להעיד על עתיד כוחם של הרפובליקנים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the article say America PAC did in the Texas contest?",
+      "options": [
+        "It funded Democratic candidate James Talarico.",
+        "It spent money opposing Talarico and supporting Ken Paxton.",
+        "It asked both candidates to support stricter AI rules.",
+        "It moved SpaceX and Tesla out of Texas."
+      ],
+      "correct_answer": "It spent money opposing Talarico and supporting Ken Paxton.",
+      "explanation_hebrew": "הכתבה מתארת הוצאות על תקשורת ושיווק נגד טלריקו ובעד פקסטון.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might lighter regulation in Texas matter to Musk's political spending?",
+      "options": [
+        "Texas prohibits technology companies from donating.",
+        "Musk wants the state to introduce personal income tax.",
+        "Several of Musk's companies operate there and may benefit from fewer restrictions and lower taxes.",
+        "California requires him to support Republican candidates."
+      ],
+      "correct_answer": "Several of Musk's companies operate there and may benefit from fewer restrictions and lower taxes.",
+      "explanation_hebrew": "מאסק העביר חלקים מאימפריית העסקים שלו לטקסס, והכתבה מסבירה שסביבה של פחות רגולציה ומסים עשויה להועיל לעסקיו.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List the main reported destinations and amounts of Musk's recent donations.",
+      "rubric_hebrew": "יש לציין את הסכומים והגופים המרכזיים, תוך הבחנה בין התרומות ברבעון הנוכחי לבין ההקשר של 2024.",
+      "expected_points": [
+        "About $158m went to the Senate Leadership Fund PAC.",
+        "More than $80m went to America PAC, which Musk founded in 2024.",
+        "Another $10m went to Lone Star Liberty PAC, which primarily supports Ken Paxton.",
+        "The total reported for the quarter was upwards of $200m."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's three main takeaways about Musk's donations.",
+      "rubric_hebrew": "יש לכלול את ריכוז הכסף בגוף אחד, המיקוד בטקסס והקשר למגמה רחבה של מנהלי טכנולוגיה המבקשים להשפיע על רגולציה.",
+      "expected_points": [
+        "Most of the money went to one powerful Senate-focused super PAC.",
+        "Texas and the Paxton–Talarico race are a major focus of the spending.",
+        "Musk's business presence in Texas may make the state's regulatory climate important to him.",
+        "The donations fit a broader trend of technology executives supporting politicians associated with lighter regulation."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain why the article says large donations can matter without guaranteeing an election victory.",
+      "rubric_hebrew": "יש להסביר שכסף מממן פרסום וארגון ומעניק יתרון, אך הבוחרים, איכות המועמדים והמרוץ הצמוד עדיין קובעים את התוצאה.",
+      "expected_points": [
+        "Donations can pay for advertising, mailings, phone calls and campaign organisation.",
+        "Large contributions can give one side a fundraising advantage and increase influence.",
+        "The Paxton–Talarico race remains close, showing that money alone does not determine voters' choices.",
+        "The quoted analyst explicitly says fundraising does not guarantee success."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a neutral paragraph explaining the phrase “shaping the regulatory environment through contributions” in this article.",
+      "rubric_hebrew": "יש להגדיר את הביטוי בלי לקבוע כעובדה מניע שלא הוכח; יש לקשור תרומות למדיניות אפשרית בתחומי AI, מרכזי נתונים ורשתות חברתיות.",
+      "expected_points": [
+        "Explain that donors may support politicians whose policies align with their preferred level of regulation.",
+        "Mention growing calls for oversight of AI, data centres or social media.",
+        "Use cautious language that distinguishes the analyst's interpretation from a proven motive.",
+        "Keep the tone neutral and evidence-based."
+      ],
+      "difficulty": "B"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-18",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Comedian Paul Whitehouse mugged at London cashpoint",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main event reported in the article?",
+      "options": [
+        "Paul Whitehouse fought back when someone tried to steal his card at a London cash machine.",
+        "Paul Whitehouse lost a fishing competition with Bob Mortimer.",
+        "A Harry Potter television set was robbed in London.",
+        "Dawn French had a bad reaction to medication."
+      ],
+      "correct_answer": "Paul Whitehouse fought back when someone tried to steal his card at a London cash machine.",
+      "explanation_hebrew": "האירוע המרכזי הוא הניסיון לגנוב את כרטיסו של פול וייטהאוס בכספומט והמאבק שלו בתוקף.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why had Whitehouse gone out on Friday?",
+      "options": [
+        "To record an episode of Gone Fishing",
+        "To collect medication for his wife",
+        "To meet Dawn French in Islington",
+        "To rehearse for the Harry Potter series"
+      ],
+      "correct_answer": "To collect medication for his wife",
+      "explanation_hebrew": "לפי אשתו, הוא יצא להביא עבורה תרופה לאחר תגובה רעה לטיפול.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “retrieved his card” mean?",
+      "options": [
+        "He cancelled the card online.",
+        "He gave the card to the police.",
+        "He got the card back.",
+        "He used the card to buy medicine."
+      ],
+      "correct_answer": "He got the card back.",
+      "explanation_hebrew": "retrieved פירושו השיב לעצמו או קיבל בחזרה; וייטהאוס הצליח לקחת בחזרה את כרטיסו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “the perp scuttling away empty-handed” mean in context?",
+      "options": [
+        "The attacker waited beside the cash machine.",
+        "The attacker called for medical help.",
+        "The attacker returned the stolen money later.",
+        "The attacker hurried away without taking anything."
+      ],
+      "correct_answer": "The attacker hurried away without taking anything.",
+      "explanation_hebrew": "scuttling away מתאר בריחה מהירה, ו־empty-handed אומר שהתוקף לא הצליח לקחת דבר.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did Mine Conkbayir make the Instagram post?",
+      "options": [
+        "To advertise Whitehouse's upcoming television role",
+        "To warn other people to stay alert around cash machines",
+        "To announce a new series of Gone Fishing",
+        "To ask fans to nominate Whitehouse for a Bafta"
+      ],
+      "correct_answer": "To warn other people to stay alert around cash machines",
+      "explanation_hebrew": "היא הסבירה שפרסמה בתקווה לעזור לאחרים להיות מודעים וזהירים כשהם בחוץ.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which statement about Whitehouse's television work is correct?",
+      "options": [
+        "He has presented Gone Fishing since 2008.",
+        "Gone Fishing has never received a Bafta nomination.",
+        "He has been cast as Argus Filch in an upcoming Harry Potter series.",
+        "He plays Bob Mortimer in The Fast Show."
+      ],
+      "correct_answer": "He has been cast as Argus Filch in an upcoming Harry Potter series.",
+      "explanation_hebrew": "הכתבה מציינת שהוא לוהק לתפקיד אב הבית ארגוס פילץ' בסדרת הארי פוטר העתידית של HBO.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe what Conkbayir said happened at the cash machine.",
+      "rubric_hebrew": "יש לציין ניסיון גניבת הכרטיס, המאבק של וייטהאוס, השבת הכרטיס ובריחת התוקף בלי שלל.",
+      "expected_points": [
+        "Someone tried to steal Whitehouse's card at a cash machine behind a Sainsbury's in Islington.",
+        "Whitehouse fought back and recovered the card.",
+        "The attacker fled without taking anything."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the incident and the public response in three or four sentences.",
+      "rubric_hebrew": "יש לסכם את הסיבה ליציאה, ניסיון השוד, האזהרה לציבור והתגובות התומכות של חברים ומעריצים.",
+      "expected_points": [
+        "Whitehouse went out to collect medication for his wife and was attacked at a cash machine.",
+        "He fought back, recovered his card and the attacker escaped empty-handed.",
+        "Conkbayir urged people to be vigilant and aware.",
+        "Friends and fans condemned the attack and wished him a speedy recovery."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What do the quoted reactions from Dawn French and Angela Barnes add to the report?",
+      "rubric_hebrew": "יש להסביר שהציטוטים מדגימים גינוי ציבורי ותמיכה אישית בזוג, ומחזקים את תיאור האירוע כחמור ולא מקובל.",
+      "expected_points": [
+        "They show that fellow comedians publicly condemned the attack.",
+        "They express sympathy and support for Whitehouse and Conkbayir.",
+        "They reinforce the report's description of the incident as serious and unacceptable."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short safety notice inspired by the report, using the words “vigilant”, “aware” and “incident”.",
+      "rubric_hebrew": "יש לכתוב הודעה עניינית שאינה מאשימה את הקורבן, משתמשת נכון בשלוש המילים ומציעה זהירות מעשית ליד כספומט.",
+      "expected_points": [
+        "Use all three required words in context.",
+        "Advise people to pay attention to their surroundings at cash machines.",
+        "Avoid exaggerating beyond the facts of the reported incident."
+      ],
+      "difficulty": "A"
+    }
+  ]
+}

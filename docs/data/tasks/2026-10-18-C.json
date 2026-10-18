@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-18",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "North Korea: What satellite images reveal about Kim Jong Un's summer retreat",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central contrast does the article develop?",
+      "options": [
+        "North Korea's navy is smaller than South Korea's navy.",
+        "Luxury vessels linked to the leadership contrast with severe restrictions and hardship faced by ordinary North Koreans.",
+        "Wonsan receives more tourists than every other Asian resort.",
+        "Satellite images prove exactly where Kim Jong Un was every day."
+      ],
+      "correct_answer": "Luxury vessels linked to the leadership contrast with severe restrictions and hardship faced by ordinary North Koreans.",
+      "explanation_hebrew": "הכתבה מעמתת בין כלי השיט וחיי היוקרה המיוחסים להנהגה לבין עוני, מחסור והגבלות על רוב האזרחים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What distinctive feature was visible on the 80-metre vessel?",
+      "options": [
+        "A helicopter runway and two submarines",
+        "A 50-metre swimming pool with waterslides",
+        "A hotel for 20,000 visitors",
+        "A nuclear research laboratory"
+      ],
+      "correct_answer": "A 50-metre swimming pool with waterslides",
+      "explanation_hebrew": "בתצלומי הלוויין נראה לאורך הסיפון בריכה באורך כ־50 מטרים ומגלשות מים בקצה אחד.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “sat idle for months” mean in context?",
+      "options": [
+        "It travelled without a crew.",
+        "It was hidden under the water.",
+        "It remained unused or inactive.",
+        "It was sold to a foreign tourist."
+      ],
+      "correct_answer": "It remained unused or inactive.",
+      "explanation_hebrew": "idle מתאר דבר שאינו פעיל או אינו בשימוש; הספינה עמדה במתקן התחזוקה במשך חודשים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article avoid saying the vessel movements prove Kim's exact whereabouts?",
+      "options": [
+        "The satellite images were taken in South Korea.",
+        "The vessels are too small to appear in satellite images.",
+        "North Korea published a complete holiday schedule.",
+        "A vessel's location can suggest activity but cannot establish who was aboard."
+      ],
+      "correct_answer": "A vessel's location can suggest activity but cannot establish who was aboard.",
+      "explanation_hebrew": "התנועה חופפת לפערים בהופעותיו הציבוריות, אך מיקום כלי שיט לבדו אינו מוכיח מי היה עליו.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “secluded maritime retreats” suggest about Tae and Sin islands?",
+      "options": [
+        "They are crowded commercial ports.",
+        "They offer private, isolated places away from public view.",
+        "They are official border checkpoints.",
+        "They contain maintenance factories for tourists."
+      ],
+      "correct_answer": "They offer private, isolated places away from public view.",
+      "explanation_hebrew": "secluded פירושו מבודד ומרוחק; האיים מאפשרים פרטיות הרחק מעיני הציבור.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which restriction makes holidays especially difficult for ordinary North Koreans?",
+      "options": [
+        "Only foreign tourists may visit beaches.",
+        "Workers are legally entitled to no annual leave.",
+        "Official permission is required to travel outside one's city or county.",
+        "The Wonsan resort closes during national holidays."
+      ],
+      "correct_answer": "Official permission is required to travel outside one's city or county.",
+      "explanation_hebrew": "הכתבה מציינת שגם כאשר ניתן חופש, נדרש אישור רשמי לנסיעה מחוץ לעיר או למחוז.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What did the BBC's satellite-image analysis show about the four large vessels around Wonsan?",
+      "rubric_hebrew": "יש לציין את גדלי ארבעת כלי השיט, הופעתם החוזרת ליד הווילה, ותנועות מרכזיות של הספינות הגדולות והקטנות יותר.",
+      "expected_points": [
+        "The BBC tracked vessels of about 50m, 55m, 60m and 80m.",
+        "All four appeared repeatedly around Kim's Wonsan villa during the year.",
+        "The 80m vessel moved from a maintenance dock to waters off the Kalma Peninsula and remained there from July.",
+        "The 50m and 55m vessels were seen near Tae and Sin islands, while the 60m vessel was seen near the villa."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the article combines satellite evidence, testimony and economic data.",
+      "rubric_hebrew": "יש להבחין בין ראיות חזותיות, עדויות עריקים ומומחים, ונתונים כלכליים/או״ם; יש לציין גם את גבולות הוודאות.",
+      "expected_points": [
+        "Satellite images document the size, location and repeated movement of several vessels.",
+        "Former officials, defectors and experts explain how the vessels and Wonsan retreats are believed to be used.",
+        "UN and other estimates describe poverty, food shortages and restricted travel among the wider population.",
+        "The article notes that the evidence suggests leadership activity but does not prove ownership or precise personal whereabouts."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why is Wonsan presented as both a personal and political location for the Kim family?",
+      "rubric_hebrew": "יש לקשור את ילדותו של קים בוונסאן, השימוש ההיסטורי בווילות בידי המשפחה והאליטה, והאופן שבו התקשורת הממלכתית ממסגרת ביקורים כחלק מתפקיד רשמי.",
+      "expected_points": [
+        "Biographers and intelligence reports say Kim spent part of his childhood there with his mother.",
+        "The area has been associated with the ruling family since Kim Jong Il's rule.",
+        "Defectors describe villas around Wonsan as retreats for the elite.",
+        "State media tends to frame visits as inspections or guidance rather than private holidays."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph evaluating what the satellite images can and cannot establish.",
+      "rubric_hebrew": "יש לציין מה נראה בפועל, מהי פרשנות סבירה על סמך מקורות נוספים, ומה אינו מוכח — בעלות רשמית, זהות הנוסעים או מיקום מדויק של קים.",
+      "expected_points": [
+        "State that the images show several large vessels moving repeatedly near Wonsan and the Kalma Peninsula.",
+        "Explain that distinctive features and historical imagery support comparisons across time.",
+        "Note that testimony from defectors and experts provides context for likely use by the leadership.",
+        "Make clear that the images alone do not prove official ownership, who was aboard or Kim's exact whereabouts."
+      ],
+      "difficulty": "C"
+    }
+  ]
+}
