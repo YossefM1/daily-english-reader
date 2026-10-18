@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Trial of German steakhouse heiress Christina Block that sparked a huge spy scandal",
+  "title": "Three takeaways from Elon Musk's latest political donations",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo",
-  "published_at": "2026-10-16T23:07:18+00:00",
-  "age_hours_at_selection": 3.09,
-  "word_count": 920,
-  "generated_at": "2026-10-17T02:12:59.370151+00:00",
-  "difficulty_reason": "A longer narrative with legal and espionage terms and several interconnected people; moderate sentence complexity and some background knowledge, with useful B1/B2/C1 vocabulary.",
+  "url": "https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo",
+  "published_at": "2026-10-18T00:41:06+00:00",
+  "age_hours_at_selection": 1.55,
+  "word_count": 712,
+  "generated_at": "2026-10-18T02:14:11.046594+00:00",
+  "difficulty_reason": "משפטים באורך בינוני ואוצר מילים B1/B2/C1 בתחום הפוליטיקה והמימון; דורש רקע מסוים על בחירות בארה\"ב.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "heiress",
-      "lemma": "heiress",
-      "level": "C1",
-      "hebrew": "יוֹרֶשֶׁת",
-      "explanation_hebrew": "אישה היורשת הון או עסק",
-      "pronunciation_hebrew": "אֵרֶס",
-      "example": "The heiress inherited the family business."
-    },
-    {
-      "word": "espionage",
-      "lemma": "espionage",
-      "level": "C1",
-      "hebrew": "רִיגּוּל",
-      "explanation_hebrew": "איסוף מידע סודי בחשאי",
-      "pronunciation_hebrew": "אֶסְפְּיוֹנַאז'",
-      "example": "He was arrested on charges of espionage."
-    },
-    {
-      "word": "abduction",
-      "lemma": "abduction",
-      "level": "C1",
-      "hebrew": "חֲטִיפָה",
-      "explanation_hebrew": "לקיחת אדם בכוח ובניגוד לרצונו",
-      "pronunciation_hebrew": "אַבְּדַקְשֶׁן",
-      "example": "The abduction shocked the whole country."
-    },
-    {
-      "word": "custody",
-      "lemma": "custody",
+      "word": "pouring",
+      "lemma": "pour",
       "level": "B2",
-      "hebrew": "מִשְׁמוֹרֶת",
-      "explanation_hebrew": "הזכות החוקית לטפל בילד",
-      "pronunciation_hebrew": "קַסְטֶדִי",
-      "example": "The court gave her custody of the children."
+      "hebrew": "מזרים",
+      "explanation_hebrew": "שולח כמות גדולה של כסף או משאבים",
+      "pronunciation_hebrew": "פּוֹרִינְג",
+      "example": "The company is pouring money into research."
     },
     {
-      "word": "bitter",
-      "lemma": "bitter",
+      "word": "maintain",
+      "lemma": "maintain",
       "level": "B2",
-      "hebrew": "מַר, קָשֶׁה",
-      "explanation_hebrew": "מלא כעס ומרירות",
-      "pronunciation_hebrew": "בִּיטֶר",
-      "example": "They had a bitter dispute for years."
+      "hebrew": "לשמר",
+      "explanation_hebrew": "לשמור על מצב קיים",
+      "pronunciation_hebrew": "מֵינְטֵיין",
+      "example": "They hope to maintain their lead."
     },
     {
-      "word": "investigators",
-      "lemma": "investigator",
-      "level": "B2",
-      "hebrew": "חוֹקְרִים",
-      "explanation_hebrew": "אנשים הבודקים פשע או אירוע",
-      "pronunciation_hebrew": "אִינְווֶסְטִיגֵייטֶרְז",
-      "example": "Investigators searched his home carefully."
-    },
-    {
-      "word": "treason",
-      "lemma": "treason",
-      "level": "C1",
-      "hebrew": "בְּגִידָה בַּמְּדִינָה",
-      "explanation_hebrew": "בגידה בארץ המולדת",
-      "pronunciation_hebrew": "טְרִיזֶן",
-      "example": "He was charged with treason."
-    },
-    {
-      "word": "stunned",
-      "lemma": "stun",
-      "level": "B2",
-      "hebrew": "הִדְהִים, זִעְזֵעַ",
-      "explanation_hebrew": "גרם להלם ולתדהמה",
-      "pronunciation_hebrew": "סְטַאנְד",
-      "example": "The surprising news stunned everyone."
-    },
-    {
-      "word": "intelligence",
-      "lemma": "intelligence",
-      "level": "B2",
-      "hebrew": "מוֹדִיעִין",
-      "explanation_hebrew": "שירות איסוף מידע ביטחוני",
-      "pronunciation_hebrew": "אִינְטֶלִיגֶ'נְס",
-      "example": "He once led the intelligence service."
-    },
-    {
-      "word": "allegations",
-      "lemma": "allegation",
-      "level": "C1",
-      "hebrew": "הַאֲשָׁמוֹת",
-      "explanation_hebrew": "טענות על מעשה פסול, ללא הוכחה",
-      "pronunciation_hebrew": "אַלֶגֵיישֶׁנְז",
-      "example": "He firmly denied all the allegations."
-    },
-    {
-      "word": "involvement",
-      "lemma": "involvement",
-      "level": "B2",
-      "hebrew": "מְעוֹרָבוּת",
-      "explanation_hebrew": "השתתפות או חלק במשהו",
-      "pronunciation_hebrew": "אִינְווֹלְבְמֶנְט",
-      "example": "He denied any involvement in the crime."
-    },
-    {
-      "word": "courtroom",
-      "lemma": "courtroom",
-      "level": "B2",
-      "hebrew": "אוּלַם בֵּית הַמִּשְׁפָּט",
-      "explanation_hebrew": "החדר שבו מתקיים משפט",
-      "pronunciation_hebrew": "קוֹרְטְרוּם",
-      "example": "The courtroom was full of reporters."
-    },
-    {
-      "word": "prosecutors",
-      "lemma": "prosecutor",
-      "level": "C1",
-      "hebrew": "תּוֹבְעִים",
-      "explanation_hebrew": "עורכי דין המייצגים את המדינה במשפט",
-      "pronunciation_hebrew": "פְּרוֹסִקְיוּטֶרְז",
-      "example": "Prosecutors presented new evidence."
-    },
-    {
-      "word": "forcible",
-      "lemma": "forcible",
-      "level": "C1",
-      "hebrew": "בִּכְפִיָּה, בְּכוֹחַ",
-      "explanation_hebrew": "שנעשה תוך שימוש בכוח",
-      "pronunciation_hebrew": "פוֹרְסִיבֶּל",
-      "example": "They described the forcible removal of the children."
-    },
-    {
-      "word": "indictment",
-      "lemma": "indictment",
-      "level": "C1",
-      "hebrew": "כְּתַב אִישׁוּם",
-      "explanation_hebrew": "מסמך רשמי המאשים אדם בפשע",
-      "pronunciation_hebrew": "אִינְדַייטְמֶנְט",
-      "example": "The indictment listed several charges."
-    },
-    {
-      "word": "ambushed",
-      "lemma": "ambush",
-      "level": "C1",
-      "hebrew": "תָּקְפוּ בְּמַאֲרָב",
-      "explanation_hebrew": "תקפו בהפתעה ממחבוא",
-      "pronunciation_hebrew": "אַמְבּוּשְׁד",
-      "example": "The men ambushed him in the dark."
-    },
-    {
-      "word": "dragged",
-      "lemma": "drag",
+      "word": "donated",
+      "lemma": "donate",
       "level": "B1",
-      "hebrew": "גָּרְרוּ",
-      "explanation_hebrew": "משכו משהו בכוח על הקרקע",
-      "pronunciation_hebrew": "דְרַגְד",
-      "example": "They dragged the heavy boxes across the floor."
+      "hebrew": "תרם",
+      "explanation_hebrew": "נתן כסף או דברים כדי לעזור",
+      "pronunciation_hebrew": "דוֹנֵייטֵד",
+      "example": "He donated a large sum to the campaign."
     },
     {
-      "word": "detention",
-      "lemma": "detention",
+      "word": "quarter",
+      "lemma": "quarter",
       "level": "B2",
-      "hebrew": "מַעֲצָר, כְּלִיאָה",
-      "explanation_hebrew": "החזקת אדם ללא חירות",
-      "pronunciation_hebrew": "דִיטֶנְשֶׁן",
-      "example": "He was held in detention for weeks."
+      "hebrew": "רבעון",
+      "explanation_hebrew": "תקופה של שלושה חודשים",
+      "pronunciation_hebrew": "קְווֹרטֵר",
+      "example": "Sales rose in the last quarter."
     },
     {
-      "word": "grievous",
-      "lemma": "grievous",
-      "level": "C2",
-      "hebrew": "חָמוּר מְאוֹד",
-      "explanation_hebrew": "רציני וחמור ביותר",
-      "pronunciation_hebrew": "גְרִיבֶס",
-      "example": "She suffered grievous injuries in the attack."
-    },
-    {
-      "word": "abetting",
-      "lemma": "abet",
-      "level": "C2",
-      "hebrew": "סִיּוּעַ לִדְבַר עֲבֵרָה",
-      "explanation_hebrew": "עזרה או עידוד לביצוע פשע",
-      "pronunciation_hebrew": "אַבֶּטִינְג",
-      "example": "He was charged with aiding and abetting."
-    },
-    {
-      "word": "wrongdoing",
-      "lemma": "wrongdoing",
-      "level": "B2",
-      "hebrew": "מַעֲשֶׂה פָּסוּל",
-      "explanation_hebrew": "התנהגות לא חוקית או לא מוסרית",
-      "pronunciation_hebrew": "רוֹנְגְדוּאִינְג",
-      "example": "They all denied any wrongdoing."
-    },
-    {
-      "word": "revenge",
-      "lemma": "revenge",
-      "level": "B2",
-      "hebrew": "נְקָמָה",
-      "explanation_hebrew": "גמול על פגיעה או עוול",
-      "pronunciation_hebrew": "רִיוֶנְג'",
-      "example": "She said he simply wanted revenge."
-    },
-    {
-      "word": "initiative",
-      "lemma": "initiative",
-      "level": "B2",
-      "hebrew": "יוֹזְמָה",
-      "explanation_hebrew": "פעולה עצמאית מתוך החלטה",
-      "pronunciation_hebrew": "אִינִישְׁיאֲטִיב",
-      "example": "They acted on their own initiative."
-    },
-    {
-      "word": "repatriation",
-      "lemma": "repatriation",
-      "level": "C2",
-      "hebrew": "הַחְזָרָה לַמּוֹלֶדֶת",
-      "explanation_hebrew": "החזרת אדם לארצו",
-      "pronunciation_hebrew": "רִיפַּטְרִיאֵיישֶׁן",
-      "example": "The repatriation operation eventually failed."
-    },
-    {
-      "word": "speculation",
-      "lemma": "speculation",
+      "word": "filings",
+      "lemma": "filing",
       "level": "C1",
-      "hebrew": "הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה",
-      "explanation_hebrew": "ניחושים ללא ודאות או הוכחה",
-      "pronunciation_hebrew": "סְפֶּקְיוּלֵיישֶׁן",
-      "example": "The arrest prompted widespread speculation."
+      "hebrew": "דיווחים רשמיים",
+      "explanation_hebrew": "מסמכים שמוגשים לרשות רשמית",
+      "pronunciation_hebrew": "פַיילִינְגְז",
+      "example": "The filings revealed large donations."
+    },
+    {
+      "word": "significant",
+      "lemma": "significant",
+      "level": "B2",
+      "hebrew": "משמעותי",
+      "explanation_hebrew": "גדול או חשוב דיו כדי להשפיע",
+      "pronunciation_hebrew": "סִיגְנִיפִיקֵנְט",
+      "example": "They made a significant investment."
+    },
+    {
+      "word": "bulk",
+      "lemma": "bulk",
+      "level": "B2",
+      "hebrew": "עיקר",
+      "explanation_hebrew": "החלק הגדול ביותר של משהו",
+      "pronunciation_hebrew": "בַּאלְק",
+      "example": "The bulk of the money went to one group."
+    },
+    {
+      "word": "backing",
+      "lemma": "back",
+      "level": "B2",
+      "hebrew": "תומך ב",
+      "explanation_hebrew": "נותן תמיכה או עזרה",
+      "pronunciation_hebrew": "בַּאקִינְג",
+      "example": "The fund is backing several candidates."
+    },
+    {
+      "word": "candidates",
+      "lemma": "candidate",
+      "level": "B1",
+      "hebrew": "מועמדים",
+      "explanation_hebrew": "אנשים שמתמודדים על תפקיד",
+      "pronunciation_hebrew": "קַנְדִידֵייטְס",
+      "example": "Both candidates spoke at the event."
+    },
+    {
+      "word": "tough",
+      "lemma": "tough",
+      "level": "B1",
+      "hebrew": "קשה",
+      "explanation_hebrew": "לא קל, מאתגר",
+      "pronunciation_hebrew": "טַאף",
+      "example": "It was a tough race to win."
+    },
+    {
+      "word": "decades",
+      "lemma": "decade",
+      "level": "B2",
+      "hebrew": "עשורים",
+      "explanation_hebrew": "תקופות של עשר שנים",
+      "pronunciation_hebrew": "דֵקֵיידְז",
+      "example": "The seat was held for decades."
+    },
+    {
+      "word": "polling",
+      "lemma": "poll",
+      "level": "B2",
+      "hebrew": "נמדדים בסקרים",
+      "explanation_hebrew": "נבדקים לפי תמיכת הציבור",
+      "pronunciation_hebrew": "פּוֹלִינְג",
+      "example": "The two are polling very closely."
+    },
+    {
+      "word": "outcome",
+      "lemma": "outcome",
+      "level": "B2",
+      "hebrew": "תוצאה",
+      "explanation_hebrew": "הדבר שקורה בסוף תהליך",
+      "pronunciation_hebrew": "אַאוּטְקַאם",
+      "example": "Nobody could predict the outcome."
+    },
+    {
+      "word": "bellwether",
+      "lemma": "bellwether",
+      "level": "C2",
+      "hebrew": "מבשר מגמה",
+      "explanation_hebrew": "סימן שמנבא כיוון או מגמה עתידית",
+      "pronunciation_hebrew": "בֵּלְוֵודֵר",
+      "example": "This state is a bellwether for the election."
+    },
+    {
+      "word": "unlimited",
+      "lemma": "unlimited",
+      "level": "B2",
+      "hebrew": "בלתי מוגבל",
+      "explanation_hebrew": "ללא הגבלה בכמות",
+      "pronunciation_hebrew": "אַנְלִימִיטֵד",
+      "example": "Super Pacs can raise unlimited funds."
+    },
+    {
+      "word": "founded",
+      "lemma": "found",
+      "level": "B2",
+      "hebrew": "ייסד",
+      "explanation_hebrew": "הקים ארגון או חברה",
+      "pronunciation_hebrew": "פַאונְדֵד",
+      "example": "He founded the group last year."
+    },
+    {
+      "word": "opposing",
+      "lemma": "oppose",
+      "level": "B2",
+      "hebrew": "מתנגד ל",
+      "explanation_hebrew": "פועל נגד משהו או מישהו",
+      "pronunciation_hebrew": "אֵפּוֹזִינְג",
+      "example": "They spent money opposing the candidate."
+    },
+    {
+      "word": "frustration",
+      "lemma": "frustration",
+      "level": "B2",
+      "hebrew": "תסכול",
+      "explanation_hebrew": "תחושה של כעס כשדברים לא מצליחים",
+      "pronunciation_hebrew": "פְרַסְטְרֵיישֵׁן",
+      "example": "He left the state out of frustration."
+    },
+    {
+      "word": "regulations",
+      "lemma": "regulation",
+      "level": "B2",
+      "hebrew": "תקנות",
+      "explanation_hebrew": "כללים רשמיים שמסדירים פעילות",
+      "pronunciation_hebrew": "רֵגְיוּלֵיישֵׁנְז",
+      "example": "The firm wanted fewer regulations."
+    },
+    {
+      "word": "corporate",
+      "lemma": "corporate",
+      "level": "B2",
+      "hebrew": "תאגידי",
+      "explanation_hebrew": "קשור לחברות עסקיות גדולות",
+      "pronunciation_hebrew": "קוֹרְפֵּרֵט",
+      "example": "The state has no corporate income tax."
+    },
+    {
+      "word": "typically",
+      "lemma": "typically",
+      "level": "B2",
+      "hebrew": "בדרך כלל",
+      "explanation_hebrew": "באופן שקורה על פי רוב",
+      "pronunciation_hebrew": "טִיפִּיקֵלִי",
+      "example": "They typically support lighter rules."
+    },
+    {
+      "word": "guarantee",
+      "lemma": "guarantee",
+      "level": "B2",
+      "hebrew": "להבטיח",
+      "explanation_hebrew": "לוודא שמשהו בוודאות יקרה",
+      "pronunciation_hebrew": "גַרַנְטִי",
+      "example": "Money alone does not guarantee success."
+    },
+    {
+      "word": "oversight",
+      "lemma": "oversight",
+      "level": "C1",
+      "hebrew": "פיקוח",
+      "explanation_hebrew": "מעקב ובקרה על פעילות",
+      "pronunciation_hebrew": "אוֹבֵרסַיט",
+      "example": "Voters want more oversight of technology."
+    },
+    {
+      "word": "exert",
+      "lemma": "exert",
+      "level": "C1",
+      "hebrew": "להפעיל",
+      "explanation_hebrew": "להשתמש בכוח או בהשפעה",
+      "pronunciation_hebrew": "אֵגְזֵרְט",
+      "example": "They donate money to exert influence."
+    },
+    {
+      "word": "contributions",
+      "lemma": "contribution",
+      "level": "B2",
+      "hebrew": "תרומות",
+      "explanation_hebrew": "כספים שניתנים למטרה או למועמד",
+      "pronunciation_hebrew": "קוֹנְטְרִיבְּיוּשֵׁנְז",
+      "example": "Large contributions shaped the race."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "heiress",
+      "word": "pouring",
       "type": "english_to_hebrew",
-      "question": "What does \"heiress\" mean?",
+      "question": "What does “pouring” mean?",
       "options": [
-        "יוֹרֶשֶׁת",
-        "מִשְׁמוֹרֶת",
-        "רִיגּוּל",
-        "חֲטִיפָה"
+        "תרם",
+        "מזרים",
+        "לשמר",
+        "רבעון"
       ],
-      "correct_answer": "יוֹרֶשֶׁת",
-      "explanation_hebrew": "„heiress” פירושו יוֹרֶשֶׁת."
+      "correct_answer": "מזרים",
+      "explanation_hebrew": "“pouring” פירושו מזרים."
     },
     {
       "id": "B-q2",
-      "word": "espionage",
+      "word": "maintain",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „רִיגּוּל”?",
+      "question": "איזו מילה אנגלית פירושה “לשמר”?",
       "options": [
-        "espionage",
-        "abduction",
-        "custody",
-        "bitter"
+        "filings",
+        "maintain",
+        "quarter",
+        "donated"
       ],
-      "correct_answer": "espionage",
-      "explanation_hebrew": "המילה „espionage” פירושה רִיגּוּל."
+      "correct_answer": "maintain",
+      "explanation_hebrew": "המילה “maintain” פירושה לשמר."
     },
     {
       "id": "B-q3",
-      "word": "abduction",
+      "word": "donated",
       "type": "english_to_hebrew",
-      "question": "What does \"abduction\" mean?",
+      "question": "What does “donated” mean?",
       "options": [
-        "מַר, קָשֶׁה",
-        "מִשְׁמוֹרֶת",
-        "חוֹקְרִים",
-        "חֲטִיפָה"
+        "משמעותי",
+        "רבעון",
+        "דיווחים רשמיים",
+        "תרם"
       ],
-      "correct_answer": "חֲטִיפָה",
-      "explanation_hebrew": "„abduction” פירושו חֲטִיפָה."
+      "correct_answer": "תרם",
+      "explanation_hebrew": "“donated” פירושו תרם."
     },
     {
       "id": "B-q4",
-      "word": "custody",
+      "word": "quarter",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „מִשְׁמוֹרֶת”?",
+      "question": "איזו מילה אנגלית פירושה “רבעון”?",
       "options": [
-        "investigators",
-        "custody",
-        "treason",
-        "bitter"
+        "quarter",
+        "significant",
+        "bulk",
+        "filings"
       ],
-      "correct_answer": "custody",
-      "explanation_hebrew": "המילה „custody” פירושה מִשְׁמוֹרֶת."
+      "correct_answer": "quarter",
+      "explanation_hebrew": "המילה “quarter” פירושה רבעון."
     },
     {
       "id": "B-q5",
-      "word": "bitter",
+      "word": "filings",
       "type": "english_to_hebrew",
-      "question": "What does \"bitter\" mean?",
+      "question": "What does “filings” mean?",
       "options": [
-        "בְּגִידָה בַּמְּדִינָה",
-        "חוֹקְרִים",
-        "הִדְהִים, זִעְזֵעַ",
-        "מַר, קָשֶׁה"
+        "תומך ב",
+        "דיווחים רשמיים",
+        "עיקר",
+        "משמעותי"
       ],
-      "correct_answer": "מַר, קָשֶׁה",
-      "explanation_hebrew": "„bitter” פירושו מַר, קָשֶׁה."
+      "correct_answer": "דיווחים רשמיים",
+      "explanation_hebrew": "“filings” פירושו דיווחים רשמיים."
     },
     {
       "id": "B-q6",
-      "word": "investigators",
+      "word": "significant",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „חוֹקְרִים”?",
+      "question": "איזו מילה אנגלית פירושה “משמעותי”?",
       "options": [
-        "stunned",
-        "investigators",
-        "treason",
-        "intelligence"
+        "candidates",
+        "bulk",
+        "backing",
+        "significant"
       ],
-      "correct_answer": "investigators",
-      "explanation_hebrew": "המילה „investigators” פירושה חוֹקְרִים."
+      "correct_answer": "significant",
+      "explanation_hebrew": "המילה “significant” פירושה משמעותי."
     },
     {
       "id": "B-q7",
-      "word": "treason",
+      "word": "bulk",
       "type": "english_to_hebrew",
-      "question": "What does \"treason\" mean?",
+      "question": "What does “bulk” mean?",
       "options": [
-        "מוֹדִיעִין",
-        "בְּגִידָה בַּמְּדִינָה",
-        "הַאֲשָׁמוֹת",
-        "הִדְהִים, זִעְזֵעַ"
+        "קשה",
+        "עיקר",
+        "מועמדים",
+        "תומך ב"
       ],
-      "correct_answer": "בְּגִידָה בַּמְּדִינָה",
-      "explanation_hebrew": "„treason” פירושו בְּגִידָה בַּמְּדִינָה."
+      "correct_answer": "עיקר",
+      "explanation_hebrew": "“bulk” פירושו עיקר."
     },
     {
       "id": "B-q8",
-      "word": "stunned",
+      "word": "backing",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „הִדְהִים, זִעְזֵעַ”?",
+      "question": "איזו מילה אנגלית פירושה “תומך ב”?",
       "options": [
-        "allegations",
-        "intelligence",
-        "involvement",
-        "stunned"
+        "candidates",
+        "backing",
+        "tough",
+        "decades"
       ],
-      "correct_answer": "stunned",
-      "explanation_hebrew": "המילה „stunned” פירושה הִדְהִים, זִעְזֵעַ."
+      "correct_answer": "backing",
+      "explanation_hebrew": "המילה “backing” פירושה תומך ב."
     },
     {
       "id": "B-q9",
-      "word": "intelligence",
+      "word": "candidates",
       "type": "english_to_hebrew",
-      "question": "What does \"intelligence\" mean?",
+      "question": "What does “candidates” mean?",
       "options": [
-        "מוֹדִיעִין",
-        "הַאֲשָׁמוֹת",
-        "מְעוֹרָבוּת",
-        "אוּלַם בֵּית הַמִּשְׁפָּט"
+        "מועמדים",
+        "קשה",
+        "עשורים",
+        "נמדדים בסקרים"
       ],
-      "correct_answer": "מוֹדִיעִין",
-      "explanation_hebrew": "„intelligence” פירושו מוֹדִיעִין."
+      "correct_answer": "מועמדים",
+      "explanation_hebrew": "“candidates” פירושו מועמדים."
     },
     {
       "id": "B-q10",
-      "word": "allegations",
+      "word": "tough",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „הַאֲשָׁמוֹת”?",
+      "question": "איזו מילה אנגלית פירושה “קשה”?",
       "options": [
-        "allegations",
-        "prosecutors",
-        "courtroom",
-        "involvement"
+        "polling",
+        "outcome",
+        "tough",
+        "decades"
       ],
-      "correct_answer": "allegations",
-      "explanation_hebrew": "המילה „allegations” פירושה הַאֲשָׁמוֹת."
+      "correct_answer": "tough",
+      "explanation_hebrew": "המילה “tough” פירושה קשה."
     },
     {
       "id": "B-q11",
-      "word": "involvement",
+      "word": "decades",
       "type": "english_to_hebrew",
-      "question": "What does \"involvement\" mean?",
+      "question": "What does “decades” mean?",
       "options": [
-        "מְעוֹרָבוּת",
-        "תּוֹבְעִים",
-        "בִּכְפִיָּה, בְּכוֹחַ",
-        "אוּלַם בֵּית הַמִּשְׁפָּט"
+        "עשורים",
+        "נמדדים בסקרים",
+        "מבשר מגמה",
+        "תוצאה"
       ],
-      "correct_answer": "מְעוֹרָבוּת",
-      "explanation_hebrew": "„involvement” פירושו מְעוֹרָבוּת."
+      "correct_answer": "עשורים",
+      "explanation_hebrew": "“decades” פירושו עשורים."
     },
     {
       "id": "B-q12",
-      "word": "courtroom",
+      "word": "polling",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „אוּלַם בֵּית הַמִּשְׁפָּט”?",
+      "question": "איזו מילה אנגלית פירושה “נמדדים בסקרים”?",
       "options": [
-        "courtroom",
-        "prosecutors",
-        "indictment",
-        "forcible"
+        "polling",
+        "bellwether",
+        "unlimited",
+        "outcome"
       ],
-      "correct_answer": "courtroom",
-      "explanation_hebrew": "המילה „courtroom” פירושה אוּלַם בֵּית הַמִּשְׁפָּט."
+      "correct_answer": "polling",
+      "explanation_hebrew": "המילה “polling” פירושה נמדדים בסקרים."
     },
     {
       "id": "B-q13",
-      "word": "prosecutors",
+      "word": "outcome",
       "type": "english_to_hebrew",
-      "question": "What does \"prosecutors\" mean?",
+      "question": "What does “outcome” mean?",
       "options": [
-        "כְּתַב אִישׁוּם",
-        "תָּקְפוּ בְּמַאֲרָב",
-        "תּוֹבְעִים",
-        "בִּכְפִיָּה, בְּכוֹחַ"
+        "ייסד",
+        "מבשר מגמה",
+        "בלתי מוגבל",
+        "תוצאה"
       ],
-      "correct_answer": "תּוֹבְעִים",
-      "explanation_hebrew": "„prosecutors” פירושו תּוֹבְעִים."
+      "correct_answer": "תוצאה",
+      "explanation_hebrew": "“outcome” פירושו תוצאה."
     },
     {
       "id": "B-q14",
-      "word": "forcible",
+      "word": "bellwether",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „בִּכְפִיָּה, בְּכוֹחַ”?",
+      "question": "איזו מילה אנגלית פירושה “מבשר מגמה”?",
       "options": [
-        "forcible",
-        "indictment",
-        "ambushed",
-        "dragged"
+        "bellwether",
+        "opposing",
+        "unlimited",
+        "founded"
       ],
-      "correct_answer": "forcible",
-      "explanation_hebrew": "המילה „forcible” פירושה בִּכְפִיָּה, בְּכוֹחַ."
+      "correct_answer": "bellwether",
+      "explanation_hebrew": "המילה “bellwether” פירושה מבשר מגמה."
     },
     {
       "id": "B-q15",
-      "word": "indictment",
+      "word": "unlimited",
       "type": "english_to_hebrew",
-      "question": "What does \"indictment\" mean?",
+      "question": "What does “unlimited” mean?",
       "options": [
-        "תָּקְפוּ בְּמַאֲרָב",
-        "גָּרְרוּ",
-        "כְּתַב אִישׁוּם",
-        "מַעֲצָר, כְּלִיאָה"
+        "בלתי מוגבל",
+        "תסכול",
+        "ייסד",
+        "מתנגד ל"
       ],
-      "correct_answer": "כְּתַב אִישׁוּם",
-      "explanation_hebrew": "„indictment” פירושו כְּתַב אִישׁוּם."
+      "correct_answer": "בלתי מוגבל",
+      "explanation_hebrew": "“unlimited” פירושו בלתי מוגבל."
     },
     {
       "id": "B-q16",
-      "word": "ambushed",
+      "word": "founded",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „תָּקְפוּ בְּמַאֲרָב”?",
+      "question": "איזו מילה אנגלית פירושה “ייסד”?",
       "options": [
-        "grievous",
-        "dragged",
-        "detention",
-        "ambushed"
+        "frustration",
+        "opposing",
+        "founded",
+        "regulations"
       ],
-      "correct_answer": "ambushed",
-      "explanation_hebrew": "המילה „ambushed” פירושה תָּקְפוּ בְּמַאֲרָב."
+      "correct_answer": "founded",
+      "explanation_hebrew": "המילה “founded” פירושה ייסד."
     },
     {
       "id": "B-q17",
-      "word": "dragged",
+      "word": "opposing",
       "type": "english_to_hebrew",
-      "question": "What does \"dragged\" mean?",
+      "question": "What does “opposing” mean?",
       "options": [
-        "חָמוּר מְאוֹד",
-        "גָּרְרוּ",
-        "מַעֲצָר, כְּלִיאָה",
-        "סִיּוּעַ לִדְבַר עֲבֵרָה"
+        "תסכול",
+        "תאגידי",
+        "תקנות",
+        "מתנגד ל"
       ],
-      "correct_answer": "גָּרְרוּ",
-      "explanation_hebrew": "„dragged” פירושו גָּרְרוּ."
+      "correct_answer": "מתנגד ל",
+      "explanation_hebrew": "“opposing” פירושו מתנגד ל."
     },
     {
       "id": "B-q18",
-      "word": "detention",
+      "word": "frustration",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „מַעֲצָר, כְּלִיאָה”?",
+      "question": "איזו מילה אנגלית פירושה “תסכול”?",
       "options": [
-        "detention",
-        "abetting",
-        "grievous",
-        "wrongdoing"
+        "corporate",
+        "frustration",
+        "typically",
+        "regulations"
       ],
-      "correct_answer": "detention",
-      "explanation_hebrew": "המילה „detention” פירושה מַעֲצָר, כְּלִיאָה."
+      "correct_answer": "frustration",
+      "explanation_hebrew": "המילה “frustration” פירושה תסכול."
     },
     {
       "id": "B-q19",
-      "word": "grievous",
+      "word": "regulations",
       "type": "english_to_hebrew",
-      "question": "What does \"grievous\" mean?",
+      "question": "What does “regulations” mean?",
       "options": [
-        "נְקָמָה",
-        "מַעֲשֶׂה פָּסוּל",
-        "חָמוּר מְאוֹד",
-        "סִיּוּעַ לִדְבַר עֲבֵרָה"
+        "בדרך כלל",
+        "תקנות",
+        "להבטיח",
+        "תאגידי"
       ],
-      "correct_answer": "חָמוּר מְאוֹד",
-      "explanation_hebrew": "„grievous” פירושו חָמוּר מְאוֹד."
+      "correct_answer": "תקנות",
+      "explanation_hebrew": "“regulations” פירושו תקנות."
     },
     {
       "id": "B-q20",
-      "word": "abetting",
+      "word": "corporate",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „סִיּוּעַ לִדְבַר עֲבֵרָה”?",
+      "question": "איזו מילה אנגלית פירושה “תאגידי”?",
       "options": [
-        "initiative",
-        "revenge",
-        "wrongdoing",
-        "abetting"
+        "oversight",
+        "guarantee",
+        "corporate",
+        "typically"
       ],
-      "correct_answer": "abetting",
-      "explanation_hebrew": "המילה „abetting” פירושה סִיּוּעַ לִדְבַר עֲבֵרָה."
+      "correct_answer": "corporate",
+      "explanation_hebrew": "המילה “corporate” פירושה תאגידי."
     },
     {
       "id": "B-q21",
-      "word": "wrongdoing",
+      "word": "typically",
       "type": "english_to_hebrew",
-      "question": "What does \"wrongdoing\" mean?",
+      "question": "What does “typically” mean?",
       "options": [
-        "יוֹזְמָה",
-        "מַעֲשֶׂה פָּסוּל",
-        "נְקָמָה",
-        "הַחְזָרָה לַמּוֹלֶדֶת"
+        "להפעיל",
+        "פיקוח",
+        "להבטיח",
+        "בדרך כלל"
       ],
-      "correct_answer": "מַעֲשֶׂה פָּסוּל",
-      "explanation_hebrew": "„wrongdoing” פירושו מַעֲשֶׂה פָּסוּל."
+      "correct_answer": "בדרך כלל",
+      "explanation_hebrew": "“typically” פירושו בדרך כלל."
     },
     {
       "id": "B-q22",
-      "word": "revenge",
+      "word": "guarantee",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „נְקָמָה”?",
+      "question": "איזו מילה אנגלית פירושה “להבטיח”?",
       "options": [
-        "repatriation",
-        "initiative",
-        "revenge",
-        "speculation"
+        "exert",
+        "oversight",
+        "contributions",
+        "guarantee"
       ],
-      "correct_answer": "revenge",
-      "explanation_hebrew": "המילה „revenge” פירושה נְקָמָה."
+      "correct_answer": "guarantee",
+      "explanation_hebrew": "המילה “guarantee” פירושה להבטיח."
     },
     {
       "id": "B-q23",
-      "word": "initiative",
+      "word": "oversight",
       "type": "english_to_hebrew",
-      "question": "What does \"initiative\" mean?",
+      "question": "What does “oversight” mean?",
       "options": [
-        "יוֹרֶשֶׁת",
-        "הַחְזָרָה לַמּוֹלֶדֶת",
-        "יוֹזְמָה",
-        "הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה"
+        "תרומות",
+        "מזרים",
+        "פיקוח",
+        "להפעיל"
       ],
-      "correct_answer": "יוֹזְמָה",
-      "explanation_hebrew": "„initiative” פירושו יוֹזְמָה."
+      "correct_answer": "פיקוח",
+      "explanation_hebrew": "“oversight” פירושו פיקוח."
     },
     {
       "id": "B-q24",
-      "word": "repatriation",
+      "word": "exert",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה למשמעות: „הַחְזָרָה לַמּוֹלֶדֶת”?",
+      "question": "איזו מילה אנגלית פירושה “להפעיל”?",
       "options": [
-        "repatriation",
-        "espionage",
-        "speculation",
-        "heiress"
+        "exert",
+        "contributions",
+        "pouring",
+        "maintain"
       ],
-      "correct_answer": "repatriation",
-      "explanation_hebrew": "המילה „repatriation” פירושה הַחְזָרָה לַמּוֹלֶדֶת."
+      "correct_answer": "exert",
+      "explanation_hebrew": "המילה “exert” פירושה להפעיל."
     },
     {
       "id": "B-q25",
-      "word": "speculation",
+      "word": "contributions",
       "type": "english_to_hebrew",
-      "question": "What does \"speculation\" mean?",
+      "question": "What does “contributions” mean?",
       "options": [
-        "הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה",
-        "רִיגּוּל",
-        "חֲטִיפָה",
-        "יוֹרֶשֶׁת"
+        "תרם",
+        "מזרים",
+        "תרומות",
+        "לשמר"
       ],
-      "correct_answer": "הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה",
-      "explanation_hebrew": "„speculation” פירושו הַשְׁעָרוֹת, סְפֶּקוּלַצְיָה."
+      "correct_answer": "תרומות",
+      "explanation_hebrew": "“contributions” פירושו תרומות."
     }
   ]
 }

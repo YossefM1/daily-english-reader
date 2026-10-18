@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-18",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Three takeaways from Elon Musk's latest political donations",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo",
+  "published_at": "2026-10-18T00:41:06+00:00",
+  "age_hours_at_selection": 1.55,
+  "word_count": 712,
+  "generated_at": "2026-10-18T02:14:11.046594+00:00",
+  "difficulty_reason": "משפטים באורך בינוני ואוצר מילים B1/B2/C1 בתחום הפוליטיקה והמימון; דורש רקע מסוים על בחירות בארה\"ב.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "pouring",
+      "lemma": "pour",
+      "level": "B2",
+      "hebrew": "מזרים",
+      "explanation_hebrew": "שולח כמות גדולה של כסף או משאבים",
+      "pronunciation_hebrew": "פּוֹרִינְג",
+      "example": "The company is pouring money into research."
+    },
+    {
+      "word": "maintain",
+      "lemma": "maintain",
+      "level": "B2",
+      "hebrew": "לשמר",
+      "explanation_hebrew": "לשמור על מצב קיים",
+      "pronunciation_hebrew": "מֵינְטֵיין",
+      "example": "They hope to maintain their lead."
+    },
+    {
+      "word": "donated",
+      "lemma": "donate",
+      "level": "B1",
+      "hebrew": "תרם",
+      "explanation_hebrew": "נתן כסף או דברים כדי לעזור",
+      "pronunciation_hebrew": "דוֹנֵייטֵד",
+      "example": "He donated a large sum to the campaign."
+    },
+    {
+      "word": "quarter",
+      "lemma": "quarter",
+      "level": "B2",
+      "hebrew": "רבעון",
+      "explanation_hebrew": "תקופה של שלושה חודשים",
+      "pronunciation_hebrew": "קְווֹרטֵר",
+      "example": "Sales rose in the last quarter."
+    },
+    {
+      "word": "filings",
+      "lemma": "filing",
+      "level": "C1",
+      "hebrew": "דיווחים רשמיים",
+      "explanation_hebrew": "מסמכים שמוגשים לרשות רשמית",
+      "pronunciation_hebrew": "פַיילִינְגְז",
+      "example": "The filings revealed large donations."
+    },
+    {
+      "word": "significant",
+      "lemma": "significant",
+      "level": "B2",
+      "hebrew": "משמעותי",
+      "explanation_hebrew": "גדול או חשוב דיו כדי להשפיע",
+      "pronunciation_hebrew": "סִיגְנִיפִיקֵנְט",
+      "example": "They made a significant investment."
+    },
+    {
+      "word": "bulk",
+      "lemma": "bulk",
+      "level": "B2",
+      "hebrew": "עיקר",
+      "explanation_hebrew": "החלק הגדול ביותר של משהו",
+      "pronunciation_hebrew": "בַּאלְק",
+      "example": "The bulk of the money went to one group."
+    },
+    {
+      "word": "backing",
+      "lemma": "back",
+      "level": "B2",
+      "hebrew": "תומך ב",
+      "explanation_hebrew": "נותן תמיכה או עזרה",
+      "pronunciation_hebrew": "בַּאקִינְג",
+      "example": "The fund is backing several candidates."
+    },
+    {
+      "word": "candidates",
+      "lemma": "candidate",
+      "level": "B1",
+      "hebrew": "מועמדים",
+      "explanation_hebrew": "אנשים שמתמודדים על תפקיד",
+      "pronunciation_hebrew": "קַנְדִידֵייטְס",
+      "example": "Both candidates spoke at the event."
+    },
+    {
+      "word": "tough",
+      "lemma": "tough",
+      "level": "B1",
+      "hebrew": "קשה",
+      "explanation_hebrew": "לא קל, מאתגר",
+      "pronunciation_hebrew": "טַאף",
+      "example": "It was a tough race to win."
+    },
+    {
+      "word": "decades",
+      "lemma": "decade",
+      "level": "B2",
+      "hebrew": "עשורים",
+      "explanation_hebrew": "תקופות של עשר שנים",
+      "pronunciation_hebrew": "דֵקֵיידְז",
+      "example": "The seat was held for decades."
+    },
+    {
+      "word": "polling",
+      "lemma": "poll",
+      "level": "B2",
+      "hebrew": "נמדדים בסקרים",
+      "explanation_hebrew": "נבדקים לפי תמיכת הציבור",
+      "pronunciation_hebrew": "פּוֹלִינְג",
+      "example": "The two are polling very closely."
+    },
+    {
+      "word": "outcome",
+      "lemma": "outcome",
+      "level": "B2",
+      "hebrew": "תוצאה",
+      "explanation_hebrew": "הדבר שקורה בסוף תהליך",
+      "pronunciation_hebrew": "אַאוּטְקַאם",
+      "example": "Nobody could predict the outcome."
+    },
+    {
+      "word": "bellwether",
+      "lemma": "bellwether",
+      "level": "C2",
+      "hebrew": "מבשר מגמה",
+      "explanation_hebrew": "סימן שמנבא כיוון או מגמה עתידית",
+      "pronunciation_hebrew": "בֵּלְוֵודֵר",
+      "example": "This state is a bellwether for the election."
+    },
+    {
+      "word": "unlimited",
+      "lemma": "unlimited",
+      "level": "B2",
+      "hebrew": "בלתי מוגבל",
+      "explanation_hebrew": "ללא הגבלה בכמות",
+      "pronunciation_hebrew": "אַנְלִימִיטֵד",
+      "example": "Super Pacs can raise unlimited funds."
+    },
+    {
+      "word": "founded",
+      "lemma": "found",
+      "level": "B2",
+      "hebrew": "ייסד",
+      "explanation_hebrew": "הקים ארגון או חברה",
+      "pronunciation_hebrew": "פַאונְדֵד",
+      "example": "He founded the group last year."
+    },
+    {
+      "word": "opposing",
+      "lemma": "oppose",
+      "level": "B2",
+      "hebrew": "מתנגד ל",
+      "explanation_hebrew": "פועל נגד משהו או מישהו",
+      "pronunciation_hebrew": "אֵפּוֹזִינְג",
+      "example": "They spent money opposing the candidate."
+    },
+    {
+      "word": "frustration",
+      "lemma": "frustration",
+      "level": "B2",
+      "hebrew": "תסכול",
+      "explanation_hebrew": "תחושה של כעס כשדברים לא מצליחים",
+      "pronunciation_hebrew": "פְרַסְטְרֵיישֵׁן",
+      "example": "He left the state out of frustration."
+    },
+    {
+      "word": "regulations",
+      "lemma": "regulation",
+      "level": "B2",
+      "hebrew": "תקנות",
+      "explanation_hebrew": "כללים רשמיים שמסדירים פעילות",
+      "pronunciation_hebrew": "רֵגְיוּלֵיישֵׁנְז",
+      "example": "The firm wanted fewer regulations."
+    },
+    {
+      "word": "corporate",
+      "lemma": "corporate",
+      "level": "B2",
+      "hebrew": "תאגידי",
+      "explanation_hebrew": "קשור לחברות עסקיות גדולות",
+      "pronunciation_hebrew": "קוֹרְפֵּרֵט",
+      "example": "The state has no corporate income tax."
+    },
+    {
+      "word": "typically",
+      "lemma": "typically",
+      "level": "B2",
+      "hebrew": "בדרך כלל",
+      "explanation_hebrew": "באופן שקורה על פי רוב",
+      "pronunciation_hebrew": "טִיפִּיקֵלִי",
+      "example": "They typically support lighter rules."
+    },
+    {
+      "word": "guarantee",
+      "lemma": "guarantee",
+      "level": "B2",
+      "hebrew": "להבטיח",
+      "explanation_hebrew": "לוודא שמשהו בוודאות יקרה",
+      "pronunciation_hebrew": "גַרַנְטִי",
+      "example": "Money alone does not guarantee success."
+    },
+    {
+      "word": "oversight",
+      "lemma": "oversight",
+      "level": "C1",
+      "hebrew": "פיקוח",
+      "explanation_hebrew": "מעקב ובקרה על פעילות",
+      "pronunciation_hebrew": "אוֹבֵרסַיט",
+      "example": "Voters want more oversight of technology."
+    },
+    {
+      "word": "exert",
+      "lemma": "exert",
+      "level": "C1",
+      "hebrew": "להפעיל",
+      "explanation_hebrew": "להשתמש בכוח או בהשפעה",
+      "pronunciation_hebrew": "אֵגְזֵרְט",
+      "example": "They donate money to exert influence."
+    },
+    {
+      "word": "contributions",
+      "lemma": "contribution",
+      "level": "B2",
+      "hebrew": "תרומות",
+      "explanation_hebrew": "כספים שניתנים למטרה או למועמד",
+      "pronunciation_hebrew": "קוֹנְטְרִיבְּיוּשֵׁנְז",
+      "example": "Large contributions shaped the race."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "pouring",
+      "type": "english_to_hebrew",
+      "question": "What does “pouring” mean?",
+      "options": [
+        "תרם",
+        "מזרים",
+        "לשמר",
+        "רבעון"
+      ],
+      "correct_answer": "מזרים",
+      "explanation_hebrew": "“pouring” פירושו מזרים."
+    },
+    {
+      "id": "B-q2",
+      "word": "maintain",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “לשמר”?",
+      "options": [
+        "filings",
+        "maintain",
+        "quarter",
+        "donated"
+      ],
+      "correct_answer": "maintain",
+      "explanation_hebrew": "המילה “maintain” פירושה לשמר."
+    },
+    {
+      "id": "B-q3",
+      "word": "donated",
+      "type": "english_to_hebrew",
+      "question": "What does “donated” mean?",
+      "options": [
+        "משמעותי",
+        "רבעון",
+        "דיווחים רשמיים",
+        "תרם"
+      ],
+      "correct_answer": "תרם",
+      "explanation_hebrew": "“donated” פירושו תרם."
+    },
+    {
+      "id": "B-q4",
+      "word": "quarter",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “רבעון”?",
+      "options": [
+        "quarter",
+        "significant",
+        "bulk",
+        "filings"
+      ],
+      "correct_answer": "quarter",
+      "explanation_hebrew": "המילה “quarter” פירושה רבעון."
+    },
+    {
+      "id": "B-q5",
+      "word": "filings",
+      "type": "english_to_hebrew",
+      "question": "What does “filings” mean?",
+      "options": [
+        "תומך ב",
+        "דיווחים רשמיים",
+        "עיקר",
+        "משמעותי"
+      ],
+      "correct_answer": "דיווחים רשמיים",
+      "explanation_hebrew": "“filings” פירושו דיווחים רשמיים."
+    },
+    {
+      "id": "B-q6",
+      "word": "significant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “משמעותי”?",
+      "options": [
+        "candidates",
+        "bulk",
+        "backing",
+        "significant"
+      ],
+      "correct_answer": "significant",
+      "explanation_hebrew": "המילה “significant” פירושה משמעותי."
+    },
+    {
+      "id": "B-q7",
+      "word": "bulk",
+      "type": "english_to_hebrew",
+      "question": "What does “bulk” mean?",
+      "options": [
+        "קשה",
+        "עיקר",
+        "מועמדים",
+        "תומך ב"
+      ],
+      "correct_answer": "עיקר",
+      "explanation_hebrew": "“bulk” פירושו עיקר."
+    },
+    {
+      "id": "B-q8",
+      "word": "backing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “תומך ב”?",
+      "options": [
+        "candidates",
+        "backing",
+        "tough",
+        "decades"
+      ],
+      "correct_answer": "backing",
+      "explanation_hebrew": "המילה “backing” פירושה תומך ב."
+    },
+    {
+      "id": "B-q9",
+      "word": "candidates",
+      "type": "english_to_hebrew",
+      "question": "What does “candidates” mean?",
+      "options": [
+        "מועמדים",
+        "קשה",
+        "עשורים",
+        "נמדדים בסקרים"
+      ],
+      "correct_answer": "מועמדים",
+      "explanation_hebrew": "“candidates” פירושו מועמדים."
+    },
+    {
+      "id": "B-q10",
+      "word": "tough",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “קשה”?",
+      "options": [
+        "polling",
+        "outcome",
+        "tough",
+        "decades"
+      ],
+      "correct_answer": "tough",
+      "explanation_hebrew": "המילה “tough” פירושה קשה."
+    },
+    {
+      "id": "B-q11",
+      "word": "decades",
+      "type": "english_to_hebrew",
+      "question": "What does “decades” mean?",
+      "options": [
+        "עשורים",
+        "נמדדים בסקרים",
+        "מבשר מגמה",
+        "תוצאה"
+      ],
+      "correct_answer": "עשורים",
+      "explanation_hebrew": "“decades” פירושו עשורים."
+    },
+    {
+      "id": "B-q12",
+      "word": "polling",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “נמדדים בסקרים”?",
+      "options": [
+        "polling",
+        "bellwether",
+        "unlimited",
+        "outcome"
+      ],
+      "correct_answer": "polling",
+      "explanation_hebrew": "המילה “polling” פירושה נמדדים בסקרים."
+    },
+    {
+      "id": "B-q13",
+      "word": "outcome",
+      "type": "english_to_hebrew",
+      "question": "What does “outcome” mean?",
+      "options": [
+        "ייסד",
+        "מבשר מגמה",
+        "בלתי מוגבל",
+        "תוצאה"
+      ],
+      "correct_answer": "תוצאה",
+      "explanation_hebrew": "“outcome” פירושו תוצאה."
+    },
+    {
+      "id": "B-q14",
+      "word": "bellwether",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “מבשר מגמה”?",
+      "options": [
+        "bellwether",
+        "opposing",
+        "unlimited",
+        "founded"
+      ],
+      "correct_answer": "bellwether",
+      "explanation_hebrew": "המילה “bellwether” פירושה מבשר מגמה."
+    },
+    {
+      "id": "B-q15",
+      "word": "unlimited",
+      "type": "english_to_hebrew",
+      "question": "What does “unlimited” mean?",
+      "options": [
+        "בלתי מוגבל",
+        "תסכול",
+        "ייסד",
+        "מתנגד ל"
+      ],
+      "correct_answer": "בלתי מוגבל",
+      "explanation_hebrew": "“unlimited” פירושו בלתי מוגבל."
+    },
+    {
+      "id": "B-q16",
+      "word": "founded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “ייסד”?",
+      "options": [
+        "frustration",
+        "opposing",
+        "founded",
+        "regulations"
+      ],
+      "correct_answer": "founded",
+      "explanation_hebrew": "המילה “founded” פירושה ייסד."
+    },
+    {
+      "id": "B-q17",
+      "word": "opposing",
+      "type": "english_to_hebrew",
+      "question": "What does “opposing” mean?",
+      "options": [
+        "תסכול",
+        "תאגידי",
+        "תקנות",
+        "מתנגד ל"
+      ],
+      "correct_answer": "מתנגד ל",
+      "explanation_hebrew": "“opposing” פירושו מתנגד ל."
+    },
+    {
+      "id": "B-q18",
+      "word": "frustration",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “תסכול”?",
+      "options": [
+        "corporate",
+        "frustration",
+        "typically",
+        "regulations"
+      ],
+      "correct_answer": "frustration",
+      "explanation_hebrew": "המילה “frustration” פירושה תסכול."
+    },
+    {
+      "id": "B-q19",
+      "word": "regulations",
+      "type": "english_to_hebrew",
+      "question": "What does “regulations” mean?",
+      "options": [
+        "בדרך כלל",
+        "תקנות",
+        "להבטיח",
+        "תאגידי"
+      ],
+      "correct_answer": "תקנות",
+      "explanation_hebrew": "“regulations” פירושו תקנות."
+    },
+    {
+      "id": "B-q20",
+      "word": "corporate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “תאגידי”?",
+      "options": [
+        "oversight",
+        "guarantee",
+        "corporate",
+        "typically"
+      ],
+      "correct_answer": "corporate",
+      "explanation_hebrew": "המילה “corporate” פירושה תאגידי."
+    },
+    {
+      "id": "B-q21",
+      "word": "typically",
+      "type": "english_to_hebrew",
+      "question": "What does “typically” mean?",
+      "options": [
+        "להפעיל",
+        "פיקוח",
+        "להבטיח",
+        "בדרך כלל"
+      ],
+      "correct_answer": "בדרך כלל",
+      "explanation_hebrew": "“typically” פירושו בדרך כלל."
+    },
+    {
+      "id": "B-q22",
+      "word": "guarantee",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “להבטיח”?",
+      "options": [
+        "exert",
+        "oversight",
+        "contributions",
+        "guarantee"
+      ],
+      "correct_answer": "guarantee",
+      "explanation_hebrew": "המילה “guarantee” פירושה להבטיח."
+    },
+    {
+      "id": "B-q23",
+      "word": "oversight",
+      "type": "english_to_hebrew",
+      "question": "What does “oversight” mean?",
+      "options": [
+        "תרומות",
+        "מזרים",
+        "פיקוח",
+        "להפעיל"
+      ],
+      "correct_answer": "פיקוח",
+      "explanation_hebrew": "“oversight” פירושו פיקוח."
+    },
+    {
+      "id": "B-q24",
+      "word": "exert",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “להפעיל”?",
+      "options": [
+        "exert",
+        "contributions",
+        "pouring",
+        "maintain"
+      ],
+      "correct_answer": "exert",
+      "explanation_hebrew": "המילה “exert” פירושה להפעיל."
+    },
+    {
+      "id": "B-q25",
+      "word": "contributions",
+      "type": "english_to_hebrew",
+      "question": "What does “contributions” mean?",
+      "options": [
+        "תרם",
+        "מזרים",
+        "תרומות",
+        "לשמר"
+      ],
+      "correct_answer": "תרומות",
+      "explanation_hebrew": "“contributions” פירושו תרומות."
+    }
+  ]
+}

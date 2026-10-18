@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-18",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Comedian Paul Whitehouse mugged at London cashpoint",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o",
+  "published_at": "2026-10-18T00:06:36+00:00",
+  "age_hours_at_selection": 2.13,
+  "word_count": 305,
+  "generated_at": "2026-10-18T02:14:11.046594+00:00",
+  "difficulty_reason": "סיפור קצר וישיר עם משפטים פשוטים, נושא יומיומי ואוצר מילים ברמת B1/B2, בלי צורך בידע רקע.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "mugged",
+      "lemma": "mug",
+      "level": "B2",
+      "hebrew": "הותקף ונשדד",
+      "explanation_hebrew": "התקפה כדי לגנוב כסף או חפצים ברחוב",
+      "pronunciation_hebrew": "מַאגְד",
+      "example": "He was mugged on his way home from work."
+    },
+    {
+      "word": "steal",
+      "lemma": "steal",
+      "level": "B1",
+      "hebrew": "לגנוב",
+      "explanation_hebrew": "לקחת משהו שאינו שלך בלי רשות",
+      "pronunciation_hebrew": "סְטִיל",
+      "example": "Someone tried to steal her bag."
+    },
+    {
+      "word": "retrieved",
+      "lemma": "retrieve",
+      "level": "B2",
+      "hebrew": "השיב לעצמו",
+      "explanation_hebrew": "קיבל בחזרה משהו שאבד או נלקח",
+      "pronunciation_hebrew": "רִיטְרִיבְד",
+      "example": "She retrieved her phone from the taxi."
+    },
+    {
+      "word": "scuttling",
+      "lemma": "scuttle",
+      "level": "C1",
+      "hebrew": "נמלט בחופזה",
+      "explanation_hebrew": "לברוח במהירות בצעדים קטנים",
+      "pronunciation_hebrew": "סְקַאטְלִינְג",
+      "example": "The thief went scuttling down the alley."
+    },
+    {
+      "word": "vigilant",
+      "lemma": "vigilant",
+      "level": "B2",
+      "hebrew": "עֵרני וזהיר",
+      "explanation_hebrew": "שם לב היטב לסכנות אפשריות",
+      "pronunciation_hebrew": "וִיגִ'ילַנְט",
+      "example": "Please stay vigilant in crowded places."
+    },
+    {
+      "word": "medication",
+      "lemma": "medication",
+      "level": "B1",
+      "hebrew": "תרופה",
+      "explanation_hebrew": "חומר שלוקחים כדי לטפל במחלה",
+      "pronunciation_hebrew": "מֶדִיקֵיישֵׁן",
+      "example": "He takes medication for his blood pressure."
+    },
+    {
+      "word": "horrid",
+      "lemma": "horrid",
+      "level": "B2",
+      "hebrew": "נורא ומחריד",
+      "explanation_hebrew": "לא נעים או רע מאוד",
+      "pronunciation_hebrew": "הוֹרִיד",
+      "example": "It was a horrid thing to happen."
+    },
+    {
+      "word": "understatement",
+      "lemma": "understatement",
+      "level": "C1",
+      "hebrew": "לשון המעטה",
+      "explanation_hebrew": "אמירה שמתארת משהו כקטן מכפי שהוא",
+      "pronunciation_hebrew": "אַנְדֵרסְטֵייטְמֵנְט",
+      "example": "Calling it 'a bit cold' was an understatement."
+    },
+    {
+      "word": "encouraged",
+      "lemma": "encourage",
+      "level": "B1",
+      "hebrew": "עודד",
+      "explanation_hebrew": "נתן למישהו ביטחון או מוטיבציה לעשות משהו",
+      "pronunciation_hebrew": "אִנְקַארֵגְ'ד",
+      "example": "Her teacher encouraged her to try again."
+    },
+    {
+      "word": "aware",
+      "lemma": "aware",
+      "level": "B1",
+      "hebrew": "מוּדע",
+      "explanation_hebrew": "יודע על קיומו של משהו",
+      "pronunciation_hebrew": "אַוֵור",
+      "example": "Be aware of your surroundings."
+    },
+    {
+      "word": "flooded",
+      "lemma": "flood",
+      "level": "B2",
+      "hebrew": "הציפו",
+      "explanation_hebrew": "הגיעו או מילאו בכמות גדולה",
+      "pronunciation_hebrew": "פְלַאדֵד",
+      "example": "Fans flooded the page with comments."
+    },
+    {
+      "word": "condemning",
+      "lemma": "condemn",
+      "level": "B2",
+      "hebrew": "מגנה",
+      "explanation_hebrew": "מביע התנגדות חריפה למשהו",
+      "pronunciation_hebrew": "קֵנְדֵמִינְג",
+      "example": "They issued a statement condemning the attack."
+    },
+    {
+      "word": "incident",
+      "lemma": "incident",
+      "level": "B1",
+      "hebrew": "תקרית",
+      "explanation_hebrew": "אירוע, לרוב לא נעים",
+      "pronunciation_hebrew": "אִינְסִידֵנְט",
+      "example": "The incident was reported to the police."
+    },
+    {
+      "word": "utterly",
+      "lemma": "utterly",
+      "level": "B2",
+      "hebrew": "לחלוטין",
+      "explanation_hebrew": "באופן מוחלט, לגמרי",
+      "pronunciation_hebrew": "אַטֵרְלִי",
+      "example": "The situation was utterly unacceptable."
+    },
+    {
+      "word": "recovery",
+      "lemma": "recovery",
+      "level": "B1",
+      "hebrew": "החלמה",
+      "explanation_hebrew": "חזרה למצב בריא או תקין",
+      "pronunciation_hebrew": "רִיקַאבֵרִי",
+      "example": "We wished him a quick recovery."
+    },
+    {
+      "word": "speedy",
+      "lemma": "speedy",
+      "level": "B1",
+      "hebrew": "מהיר",
+      "explanation_hebrew": "שקורה או נעשה במהירות",
+      "pronunciation_hebrew": "סְפִּידִי",
+      "example": "They hoped for a speedy recovery."
+    },
+    {
+      "word": "nominated",
+      "lemma": "nominate",
+      "level": "B2",
+      "hebrew": "היה מועמד",
+      "explanation_hebrew": "הוצע כמתאים לפרס או לתפקיד",
+      "pronunciation_hebrew": "נוֹמִינֵייטֵד",
+      "example": "The film was nominated for an award."
+    },
+    {
+      "word": "cast",
+      "lemma": "cast",
+      "level": "B2",
+      "hebrew": "לוהק לתפקיד",
+      "explanation_hebrew": "נבחר לשחק דמות מסוימת",
+      "pronunciation_hebrew": "קַאסְט",
+      "example": "He was cast as the villain."
+    },
+    {
+      "word": "caretaker",
+      "lemma": "caretaker",
+      "level": "B2",
+      "hebrew": "שרת / אב בית",
+      "explanation_hebrew": "אדם שמתחזק בניין או מקום",
+      "pronunciation_hebrew": "קֵרטֵייקֵר",
+      "example": "The caretaker locked up the school."
+    },
+    {
+      "word": "upcoming",
+      "lemma": "upcoming",
+      "level": "B1",
+      "hebrew": "הקרוב",
+      "explanation_hebrew": "שעומד לקרות בקרוב",
+      "pronunciation_hebrew": "אַפְּקַאמִינְג",
+      "example": "Tickets for the upcoming show sold out."
+    },
+    {
+      "word": "fellow",
+      "lemma": "fellow",
+      "level": "B2",
+      "hebrew": "עמית",
+      "explanation_hebrew": "אדם מאותה קבוצה או מקצוע",
+      "pronunciation_hebrew": "פֵלוֹ",
+      "example": "She thanked her fellow workers."
+    },
+    {
+      "word": "reaction",
+      "lemma": "reaction",
+      "level": "B1",
+      "hebrew": "תגובה",
+      "explanation_hebrew": "מה שאדם עושה או מרגיש בעקבות משהו",
+      "pronunciation_hebrew": "רִיאַקְשֵׁן",
+      "example": "His reaction surprised everyone."
+    },
+    {
+      "word": "treatment",
+      "lemma": "treatment",
+      "level": "B1",
+      "hebrew": "טיפול",
+      "explanation_hebrew": "דרך לטפל במחלה או בבעיה",
+      "pronunciation_hebrew": "טְרִיטְמֵנְט",
+      "example": "She is receiving treatment at the hospital."
+    },
+    {
+      "word": "warning",
+      "lemma": "warning",
+      "level": "B1",
+      "hebrew": "אזהרה",
+      "explanation_hebrew": "הודעה על סכנה אפשרית",
+      "pronunciation_hebrew": "ווֹרנִינְג",
+      "example": "The sign gave a clear warning."
+    },
+    {
+      "word": "alike",
+      "lemma": "alike",
+      "level": "B2",
+      "hebrew": "כאחד",
+      "explanation_hebrew": "באותה מידה, שניהם יחד",
+      "pronunciation_hebrew": "אֵלַייק",
+      "example": "The plan pleased staff and customers alike."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "mugged",
+      "type": "english_to_hebrew",
+      "question": "What does “mugged” mean?",
+      "options": [
+        "הותקף ונשדד",
+        "נמלט בחופזה",
+        "השיב לעצמו",
+        "לגנוב"
+      ],
+      "correct_answer": "הותקף ונשדד",
+      "explanation_hebrew": "“mugged” פירושו הותקף ונשדד."
+    },
+    {
+      "id": "A-q2",
+      "word": "steal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “לגנוב”?",
+      "options": [
+        "vigilant",
+        "scuttling",
+        "retrieved",
+        "steal"
+      ],
+      "correct_answer": "steal",
+      "explanation_hebrew": "המילה “steal” פירושה לגנוב."
+    },
+    {
+      "id": "A-q3",
+      "word": "retrieved",
+      "type": "english_to_hebrew",
+      "question": "What does “retrieved” mean?",
+      "options": [
+        "עֵרני וזהיר",
+        "השיב לעצמו",
+        "תרופה",
+        "נמלט בחופזה"
+      ],
+      "correct_answer": "השיב לעצמו",
+      "explanation_hebrew": "“retrieved” פירושו השיב לעצמו."
+    },
+    {
+      "id": "A-q4",
+      "word": "scuttling",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “נמלט בחופזה”?",
+      "options": [
+        "medication",
+        "horrid",
+        "scuttling",
+        "vigilant"
+      ],
+      "correct_answer": "scuttling",
+      "explanation_hebrew": "המילה “scuttling” פירושה נמלט בחופזה."
+    },
+    {
+      "id": "A-q5",
+      "word": "vigilant",
+      "type": "english_to_hebrew",
+      "question": "What does “vigilant” mean?",
+      "options": [
+        "תרופה",
+        "נורא ומחריד",
+        "עֵרני וזהיר",
+        "לשון המעטה"
+      ],
+      "correct_answer": "עֵרני וזהיר",
+      "explanation_hebrew": "“vigilant” פירושו עֵרני וזהיר."
+    },
+    {
+      "id": "A-q6",
+      "word": "medication",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “תרופה”?",
+      "options": [
+        "medication",
+        "horrid",
+        "understatement",
+        "encouraged"
+      ],
+      "correct_answer": "medication",
+      "explanation_hebrew": "המילה “medication” פירושה תרופה."
+    },
+    {
+      "id": "A-q7",
+      "word": "horrid",
+      "type": "english_to_hebrew",
+      "question": "What does “horrid” mean?",
+      "options": [
+        "לשון המעטה",
+        "עודד",
+        "מוּדע",
+        "נורא ומחריד"
+      ],
+      "correct_answer": "נורא ומחריד",
+      "explanation_hebrew": "“horrid” פירושו נורא ומחריד."
+    },
+    {
+      "id": "A-q8",
+      "word": "understatement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “לשון המעטה”?",
+      "options": [
+        "understatement",
+        "encouraged",
+        "aware",
+        "flooded"
+      ],
+      "correct_answer": "understatement",
+      "explanation_hebrew": "המילה “understatement” פירושה לשון המעטה."
+    },
+    {
+      "id": "A-q9",
+      "word": "encouraged",
+      "type": "english_to_hebrew",
+      "question": "What does “encouraged” mean?",
+      "options": [
+        "עודד",
+        "מוּדע",
+        "הציפו",
+        "מגנה"
+      ],
+      "correct_answer": "עודד",
+      "explanation_hebrew": "“encouraged” פירושו עודד."
+    },
+    {
+      "id": "A-q10",
+      "word": "aware",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “מוּדע”?",
+      "options": [
+        "flooded",
+        "incident",
+        "aware",
+        "condemning"
+      ],
+      "correct_answer": "aware",
+      "explanation_hebrew": "המילה “aware” פירושה מוּדע."
+    },
+    {
+      "id": "A-q11",
+      "word": "flooded",
+      "type": "english_to_hebrew",
+      "question": "What does “flooded” mean?",
+      "options": [
+        "מגנה",
+        "תקרית",
+        "הציפו",
+        "לחלוטין"
+      ],
+      "correct_answer": "הציפו",
+      "explanation_hebrew": "“flooded” פירושו הציפו."
+    },
+    {
+      "id": "A-q12",
+      "word": "condemning",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “מגנה”?",
+      "options": [
+        "incident",
+        "recovery",
+        "condemning",
+        "utterly"
+      ],
+      "correct_answer": "condemning",
+      "explanation_hebrew": "המילה “condemning” פירושה מגנה."
+    },
+    {
+      "id": "A-q13",
+      "word": "incident",
+      "type": "english_to_hebrew",
+      "question": "What does “incident” mean?",
+      "options": [
+        "מהיר",
+        "תקרית",
+        "לחלוטין",
+        "החלמה"
+      ],
+      "correct_answer": "תקרית",
+      "explanation_hebrew": "“incident” פירושו תקרית."
+    },
+    {
+      "id": "A-q14",
+      "word": "utterly",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “לחלוטין”?",
+      "options": [
+        "nominated",
+        "utterly",
+        "recovery",
+        "speedy"
+      ],
+      "correct_answer": "utterly",
+      "explanation_hebrew": "המילה “utterly” פירושה לחלוטין."
+    },
+    {
+      "id": "A-q15",
+      "word": "recovery",
+      "type": "english_to_hebrew",
+      "question": "What does “recovery” mean?",
+      "options": [
+        "מהיר",
+        "החלמה",
+        "היה מועמד",
+        "לוהק לתפקיד"
+      ],
+      "correct_answer": "החלמה",
+      "explanation_hebrew": "“recovery” פירושו החלמה."
+    },
+    {
+      "id": "A-q16",
+      "word": "speedy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “מהיר”?",
+      "options": [
+        "nominated",
+        "caretaker",
+        "cast",
+        "speedy"
+      ],
+      "correct_answer": "speedy",
+      "explanation_hebrew": "המילה “speedy” פירושה מהיר."
+    },
+    {
+      "id": "A-q17",
+      "word": "nominated",
+      "type": "english_to_hebrew",
+      "question": "What does “nominated” mean?",
+      "options": [
+        "הקרוב",
+        "שרת / אב בית",
+        "לוהק לתפקיד",
+        "היה מועמד"
+      ],
+      "correct_answer": "היה מועמד",
+      "explanation_hebrew": "“nominated” פירושו היה מועמד."
+    },
+    {
+      "id": "A-q18",
+      "word": "cast",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “לוהק לתפקיד”?",
+      "options": [
+        "fellow",
+        "caretaker",
+        "upcoming",
+        "cast"
+      ],
+      "correct_answer": "cast",
+      "explanation_hebrew": "המילה “cast” פירושה לוהק לתפקיד."
+    },
+    {
+      "id": "A-q19",
+      "word": "caretaker",
+      "type": "english_to_hebrew",
+      "question": "What does “caretaker” mean?",
+      "options": [
+        "תגובה",
+        "הקרוב",
+        "שרת / אב בית",
+        "עמית"
+      ],
+      "correct_answer": "שרת / אב בית",
+      "explanation_hebrew": "“caretaker” פירושו שרת / אב בית."
+    },
+    {
+      "id": "A-q20",
+      "word": "upcoming",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “הקרוב”?",
+      "options": [
+        "upcoming",
+        "treatment",
+        "fellow",
+        "reaction"
+      ],
+      "correct_answer": "upcoming",
+      "explanation_hebrew": "המילה “upcoming” פירושה הקרוב."
+    },
+    {
+      "id": "A-q21",
+      "word": "fellow",
+      "type": "english_to_hebrew",
+      "question": "What does “fellow” mean?",
+      "options": [
+        "אזהרה",
+        "עמית",
+        "תגובה",
+        "טיפול"
+      ],
+      "correct_answer": "עמית",
+      "explanation_hebrew": "“fellow” פירושו עמית."
+    },
+    {
+      "id": "A-q22",
+      "word": "reaction",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “תגובה”?",
+      "options": [
+        "reaction",
+        "alike",
+        "warning",
+        "treatment"
+      ],
+      "correct_answer": "reaction",
+      "explanation_hebrew": "המילה “reaction” פירושה תגובה."
+    },
+    {
+      "id": "A-q23",
+      "word": "treatment",
+      "type": "english_to_hebrew",
+      "question": "What does “treatment” mean?",
+      "options": [
+        "כאחד",
+        "אזהרה",
+        "הותקף ונשדד",
+        "טיפול"
+      ],
+      "correct_answer": "טיפול",
+      "explanation_hebrew": "“treatment” פירושו טיפול."
+    },
+    {
+      "id": "A-q24",
+      "word": "warning",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה אנגלית פירושה “אזהרה”?",
+      "options": [
+        "alike",
+        "steal",
+        "mugged",
+        "warning"
+      ],
+      "correct_answer": "warning",
+      "explanation_hebrew": "המילה “warning” פירושה אזהרה."
+    },
+    {
+      "id": "A-q25",
+      "word": "alike",
+      "type": "english_to_hebrew",
+      "question": "What does “alike” mean?",
+      "options": [
+        "הותקף ונשדד",
+        "השיב לעצמו",
+        "כאחד",
+        "לגנוב"
+      ],
+      "correct_answer": "כאחד",
+      "explanation_hebrew": "“alike” פירושו כאחד."
+    }
+  ]
+}
