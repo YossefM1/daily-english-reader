@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-19",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly investigating?",
+      "options": [
+        "Claims by two Russians working with Ukrainian intelligence about covert surveillance and sabotage-related activity inside Russia",
+        "A public trial of Ukrainian intelligence officers in Poland",
+        "Russia's official programme for protecting military factories",
+        "A peace agreement between Putin's opponents and the Kremlin"
+      ],
+      "correct_answer": "Claims by two Russians working with Ukrainian intelligence about covert surveillance and sabotage-related activity inside Russia",
+      "explanation_hebrew": "הכתבה חוקרת עדויות נדירות של שני רוסים הטוענים שהם עובדים עם המודיעין האוקראיני בפעילות חשאית בתוך רוסיה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How do Ivan's and Foma's claimed roles differ?",
+      "options": [
+        "Ivan trains volunteers abroad, while Foma builds drones in Russia.",
+        "Ivan describes work connected to military sites and drone operations, while Foma remotely runs a surveillance network.",
+        "Ivan is a journalist, while Foma is a GUR handler.",
+        "Ivan collects housing data, while Foma investigates financial scams."
+      ],
+      "correct_answer": "Ivan describes work connected to military sites and drone operations, while Foma remotely runs a surveillance network.",
+      "explanation_hebrew": "איוון מתאר סיור באתרים והכנות הקשורות לרחפנים; פומה מפעיל מרחוק רשת מתנדבים העוקבת אחר קצינים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “tight-lipped” mean when the article describes the men?",
+      "options": [
+        "Unable to communicate online",
+        "Openly critical of every operation",
+        "Unwilling to reveal much information",
+        "Speaking only through an interpreter"
+      ],
+      "correct_answer": "Unwilling to reveal much information",
+      "explanation_hebrew": "tight-lipped פירושו מסרב או נזהר מאוד מלמסור פרטים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the BBC say the men's detailed claims are impossible to verify fully?",
+      "options": [
+        "The documentary contains no interviews.",
+        "Ukraine denies ever using secret agents.",
+        "All satellite records were destroyed.",
+        "The work is secret, details are withheld, and even handlers acknowledge incomplete knowledge and uncertainty."
+      ],
+      "correct_answer": "The work is secret, details are withheld, and even handlers acknowledge incomplete knowledge and uncertainty.",
+      "explanation_hebrew": "החשאיות, המחסור בפרטים וזהירות המקורות מגבילים אימות עצמאי; גם ה־GUR מודה שאין לו תמונה מלאה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “under duress” mean in the discussion of Ivan's possible loyalties?",
+      "options": [
+        "Acting because of force, threats or severe pressure",
+        "Working without receiving payment",
+        "Travelling with official diplomatic status",
+        "Receiving instructions through coded language"
+      ],
+      "correct_answer": "Acting because of force, threats or severe pressure",
+      "explanation_hebrew": "under duress פירושו לפעול בכפייה או תחת איום; המטפל לא שלל אפשרות שאיוון עובד גם עבור רוסיה מרצון או בכפייה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does Foma say his network does before accepting a surveillance target?",
+      "options": [
+        "It publishes the person's details online.",
+        "It automatically accepts every target proposed by the GUR.",
+        "It asks Russian state media for permission.",
+        "It checks the data independently and decides whether to work on the person."
+      ],
+      "correct_answer": "It checks the data independently and decides whether to work on the person.",
+      "explanation_hebrew": "פומה טוען שהרשת בודקת בעצמה את המידע ורק אז מחליטה אם לקבל את משימת המעקב.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What evidence supports the claim that Ivan and Foma work with Ukraine, and what doubts remain?",
+      "rubric_hebrew": "יש להפריד בין אימות הקשר ל־GUR לבין חוסר היכולת לאמת פעולות מסוימות או נאמנות מלאה.",
+      "expected_points": [
+        "The GUR confirmed that both Ivan and Foma work for the agency.",
+        "Ivan put the journalist in contact with a GUR handler, who called him and spoke in code.",
+        "The broad tactics they describe are consistent with methods acknowledged by Ukrainian authorities.",
+        "Their specific operations cannot be independently verified, and Ivan's handler could not rule out divided loyalty or coercion."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the secrecy and risk-management methods described by Ivan and Foma.",
+      "rubric_hebrew": "יש לכלול מבנה מבוזר, הימנעות מקבוצות וצ׳אטים, אי־ידיעת זהויות, תמיכה לוגיסטית מחוץ לרוסיה והסיכון למאסר או תפיסה.",
+      "expected_points": [
+        "Ivan says there is no clear structure and that he does not know the identities of others involved.",
+        "Foma warns that groups and shared chats leave digital traces that can expose operatives.",
+        "Volunteers inside Russia conduct surveillance while people abroad may provide logistical or digital support.",
+        "The work carries severe risks, including arrest on terrorism charges or discovery while carrying prohibited materials."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does Ivan's ability to leave and return to Russia create both suspicion and a possible alternative explanation?",
+      "rubric_hebrew": "יש להציג את שני הצדדים: חופש התנועה עשוי לעורר חשד לקשר לרשויות, אך פומה טוען לפרצות במערכת; יש לציין גם את טיעון ההתרעה המוקדמת על התקפה.",
+      "expected_points": [
+        "An opposition-linked operative might be expected to face close monitoring, so frequent travel raises questions.",
+        "The handler admitted he could not exclude the possibility that Ivan also worked for Russia.",
+        "Foma argues that gaps in Russian governance or luck can allow people to move without being caught.",
+        "Ivan's advance warning of a later large drone strike could support the claim that he had genuine access to Ukrainian plans."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a source-aware paragraph distinguishing confirmed facts, reported claims and unresolved uncertainty in the article.",
+      "rubric_hebrew": "יש לייחס טענות לאיוון/פומה, לציין מה אישר ה־GUR, ולהבהיר שלא ניתן לאמת את הפעולות או את מספר הפעילים; אין להציג טענות שנויות במחלוקת כעובדות.",
+      "expected_points": [
+        "Identify the GUR's confirmation that the two men work for the agency as a confirmed attribution.",
+        "Present operational details as claims made by Ivan or Foma rather than established fact.",
+        "Note that Ukraine has acknowledged broad tactics such as secret agents and coordinated drone attacks.",
+        "State that individual operations, the estimated number of operatives and Ivan's complete loyalties remain unverified."
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-19",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Don't fall for this - how to protect yourself from AI scams",
+  "article_url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main purpose?",
+      "options": [
+        "To warn consumers about AI-assisted scams and explain how to protect themselves",
+        "To teach retailers how to create AI advertising images",
+        "To compare the prices of British and Chinese products",
+        "To recommend new voice-cloning applications"
+      ],
+      "correct_answer": "To warn consumers about AI-assisted scams and explain how to protect themselves",
+      "explanation_hebrew": "הכתבה מזהירה מפני הונאות המשתמשות בבינה מלאכותית ומציעה צעדי הגנה מעשיים לצרכנים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What may happen after someone orders from one of the fake retailer websites described?",
+      "options": [
+        "The buyer automatically receives a refund.",
+        "The product may never arrive or may be a cheap mass-produced item.",
+        "The website sends the buyer to a genuine High Street shop.",
+        "The seller provides free financial advice."
+      ],
+      "correct_answer": "The product may never arrive or may be a cheap mass-produced item.",
+      "explanation_hebrew": "לפי גורמי תקני המסחר, המוצר עלול לא להגיע כלל או להתברר כפריט זול שיוצר בייצור המוני.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “impersonate” mean when scammers use cloned voices?",
+      "options": [
+        "To investigate someone's identity",
+        "To report someone to the police",
+        "To pretend to be another person",
+        "To translate a person's message"
+      ],
+      "correct_answer": "To pretend to be another person",
+      "explanation_hebrew": "impersonate פירושו להתחזות לאדם אחר; כאן משתמשים בקול או בווידאו מזויפים כדי להיראות כבן משפחה או חבר.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “supercharge scams” suggest in the opening sentence?",
+      "options": [
+        "AI makes scams legal.",
+        "AI removes all financial risk.",
+        "AI limits scams to online shops.",
+        "AI makes scams faster, more convincing or easier to produce at scale."
+      ],
+      "correct_answer": "AI makes scams faster, more convincing or easier to produce at scale.",
+      "explanation_hebrew": "supercharge משמש כאן במשמעות של העצמה משמעותית: הבינה המלאכותית מאפשרת ליצור הונאות משכנעות ובהיקף גדול יותר.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are spelling mistakes less useful than before for identifying scams?",
+      "options": [
+        "AI can generate polished messages without obvious language errors.",
+        "All genuine companies now use informal spelling.",
+        "Scammers are required to employ professional editors.",
+        "Trading standards no longer examine written messages."
+      ],
+      "correct_answer": "AI can generate polished messages without obvious language errors.",
+      "explanation_hebrew": "הכתבה מסבירה שכלי AI יכולים ליצור הודעות דיוג אישיות וללא שגיאות, ולכן אי אפשר עוד להסתמך על שגיאות כתיב ודקדוק.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which action does the article recommend before trusting a business or offer?",
+      "options": [
+        "Pay quickly before the offer expires.",
+        "Trust a company if its website shows British flags.",
+        "Send a gift card to confirm your identity.",
+        "Check the address, authorisation or advert directly through reliable sources."
+      ],
+      "correct_answer": "Check the address, authorisation or advert directly through reliable sources.",
+      "explanation_hebrew": "מומלץ לבדוק כתובת, להשתמש ב־FCA Firm Checker כשמתאים, וליצור קשר ישיר עם העסק כדי לאמת הצעה או מודעת עבודה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name three AI-enabled scam techniques listed in the article.",
+      "rubric_hebrew": "יש לציין שלוש טכניקות קונקרטיות מתוך הכתבה, ולא תיאורים כלליים של הונאה.",
+      "expected_points": [
+        "Rapidly created cloned or new websites that look polished and professional.",
+        "Romance scams that use AI to remember personal details and sustain conversations.",
+        "Deepfake videos or cloned voices that imitate relatives or friends asking for emergency money.",
+        "Personalised, error-free phishing emails, texts or social-media posts produced at scale."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's advice for checking whether a request or offer is genuine.",
+      "rubric_hebrew": "יש לכלול עצירה וחשיבה, מחקר עצמאי, פנייה ישירה, אי־הסתמכות על קול/וידאו והימנעות מהעברת כסף או מידע לאדם שלא פגשנו.",
+      "expected_points": [
+        "Pause before paying, sharing information or acting, especially when there is pressure or urgency.",
+        "Research the organisation, address or regulator independently.",
+        "Contact the business directly to verify job adverts or other claims.",
+        "Do not assume a voice or video proves identity, and do not send money or sensitive information to someone not met in person."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why do pressure and urgency help scammers, according to the article?",
+      "rubric_hebrew": "יש להסביר שהלחץ מצמצם זמן לבדיקה ומעודד תגובה רגשית ומהירה לפני אימות זהות או פרטים.",
+      "expected_points": [
+        "Urgency pushes a potential victim to act before thinking carefully.",
+        "It reduces the time available to check an address, company or person's identity.",
+        "An emergency story can trigger fear or concern, especially when a familiar voice or face is imitated.",
+        "Stopping and verifying independently interrupts the scammer's intended process."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short public warning using the words “genuine”, “urgency” and “impersonate”.",
+      "rubric_hebrew": "יש להשתמש נכון בשלוש המילים, להציע צעד אימות מעשי ולשמור על ניסוח קצר וברור.",
+      "expected_points": [
+        "Use all three required words accurately.",
+        "Explain that a convincing voice, video or website may not be genuine.",
+        "Warn that scammers create urgency and may impersonate trusted people.",
+        "Recommend pausing and verifying through an independent contact method."
+      ],
+      "difficulty": "A"
+    }
+  ]
+}

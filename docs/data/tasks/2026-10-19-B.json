@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-19",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Home sellers cut asking prices on 3,000 properties a day, says Rightmove",
+  "article_url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What overall change in Britain's housing market does the article describe?",
+      "options": [
+        "Thousands of sellers are reducing asking prices as buyers have more choice and tighter budgets.",
+        "Most homes are selling immediately above the original asking price.",
+        "Mortgage rates have fallen to their lowest level in three years.",
+        "The number of available homes has dropped sharply."
+      ],
+      "correct_answer": "Thousands of sellers are reducing asking prices as buyers have more choice and tighter budgets.",
+      "explanation_hebrew": "הכתבה מתארת אלפי הפחתות מחיר ביום, היצע גבוה יותר וכוח מיקוח גדול יותר לקונים בעלי תקציב מוגבל.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was the average price reduction reported by Rightmove?",
+      "options": [
+        "About 3%, or £9,000",
+        "Nearly 7%, or about £21,000",
+        "Exactly 15%, or £39,000",
+        "About 34%, or £119,000"
+      ],
+      "correct_answer": "Nearly 7%, or about £21,000",
+      "explanation_hebrew": "ההפחתה הממוצעת הייתה כמעט 7%, השווה לכ־21 אלף ליש״ט בנכס טיפוסי.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “a glut of homes on the market” mean?",
+      "options": [
+        "A shortage of homes available to buy",
+        "A sudden rise in mortgage approvals",
+        "An excessive supply of homes for sale",
+        "A legal ban on listing leasehold homes"
+      ],
+      "correct_answer": "An excessive supply of homes for sale",
+      "explanation_hebrew": "glut פירושו עודף גדול; בהקשר זה יש מספר רב מאוד של בתים המוצעים למכירה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “buyers were in the driving seat” mean in this context?",
+      "options": [
+        "Buyers had to visit every property by car.",
+        "Buyers were responsible for valuing homes in Scotland.",
+        "Buyers were required to accept the first asking price.",
+        "Buyers had greater influence and bargaining power."
+      ],
+      "correct_answer": "Buyers had greater influence and bargaining power.",
+      "explanation_hebrew": "in the driving seat הוא ביטוי שמשמעותו להיות בעמדת שליטה או השפעה; ההיצע הרב מאפשר לקונים להיות בררנים יותר.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How long did homes with a price reduction typically take to find a buyer?",
+      "options": [
+        "119 days, compared with 39 days for homes kept at one price",
+        "39 days, compared with 119 days for homes kept at one price",
+        "Exactly three years",
+        "Less than one week"
+      ],
+      "correct_answer": "119 days, compared with 39 days for homes kept at one price",
+      "explanation_hebrew": "לפי נתוני Rightmove, נכס שמחירו הופחת מצא קונה בדרך כלל לאחר 119 ימים, לעומת 39 ימים לנכס שתומחר פעם אחת.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can a later price reduction make buyers more cautious?",
+      "options": [
+        "It always proves the property has a structural fault.",
+        "It prevents buyers from obtaining a mortgage.",
+        "A long listing and later cut can make buyers wonder why the home has not sold.",
+        "Estate agents remove all photographs after a reduction."
+      ],
+      "correct_answer": "A long listing and later cut can make buyers wonder why the home has not sold.",
+      "explanation_hebrew": "גם כשאין בעיה בנכס, זמן רב בשוק והפחתה מאוחרת עלולים לעורר שאלות ולפגוע ברושם הראשוני.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Which figures show that supply rose while buyer demand weakened?",
+      "rubric_hebrew": "יש לציין את שינוי מספר הבתים למכירה ואת שינוי העסקאות שסוכמו, כולל תקופת ההשוואה.",
+      "expected_points": [
+        "The number of homes for sale was 5% higher in September than a year earlier.",
+        "The number of sales agreed was 9% lower over the same period.",
+        "Rightmove recorded more than 3,000 asking-price cuts per day on average during September.",
+        "Thirty-four percent of listed homes had a price reduction."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why setting a realistic initial asking price matters in the market described.",
+      "rubric_hebrew": "יש לקשור בין רושם ראשוני, תשומת לב של קונים פעילים, זמן מכירה ארוך, חשד לאחר הפחתה והאפשרות לקבל לבסוף פחות.",
+      "expected_points": [
+        "New listings have their best opportunity to attract active buyers immediately.",
+        "An unrealistic initial price can leave a home online for months.",
+        "A later reduction may make buyers question why the property has not sold.",
+        "Correcting the price later can lead to a final offer below even the revised asking price."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain how higher mortgage rates affect both buyer behaviour and seller pricing.",
+      "rubric_hebrew": "יש להסביר שהחזר חודשי גבוה מצמצם תקציב, גורם לקונים להיות בררנים ומחזק לחץ על מוכרים לתמחר באופן מציאותי.",
+      "expected_points": [
+        "Higher rates increase monthly mortgage costs.",
+        "Buyers therefore work within tighter affordability limits.",
+        "With many homes available, buyers can be more selective and cautious.",
+        "Sellers face stronger pressure to set realistic prices or accept reductions."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a neutral comparison of the Scottish and London figures reported in the article.",
+      "rubric_hebrew": "יש לציין 74% לעומת 30%, את חלון שלושת החודשים ואת הסבר ההערכה העצמאית בסקוטלנד בלי לטעון שהיא הסיבה היחידה.",
+      "expected_points": [
+        "State that 74% of Scottish homes listed in April–June sold within three months, compared with 30% in London.",
+        "Mention Scotland's Home Report system and independent valuation before listing.",
+        "Explain that the valuation may guide sellers towards realistic pricing.",
+        "Avoid claiming the system alone fully explains the regional difference."
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
