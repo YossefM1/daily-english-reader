@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-19",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo",
+  "published_at": "2026-10-19T00:06:25+00:00",
+  "age_hours_at_selection": 2.17,
+  "word_count": 1583,
+  "generated_at": "2026-10-19T02:16:49.793648+00:00",
+  "difficulty_reason": "Long investigative feature with complex sentences, layered sourcing and sensitive political-military context; dense B2/C1/C2 vocabulary and high background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "shadowy",
+      "lemma": "shadowy",
+      "level": "C1",
+      "hebrew": "אָפֵל",
+      "explanation_hebrew": "מסתורי, סמוי ולא ברור",
+      "pronunciation_hebrew": "שַׁדוֹאִי",
+      "example": "They worked in a shadowy world of secrets."
+    },
+    {
+      "word": "sabotage",
+      "lemma": "sabotage",
+      "level": "B2",
+      "hebrew": "חַבָּלָה",
+      "explanation_hebrew": "פגיעה מכוונת בציוד או בפעולה",
+      "pronunciation_hebrew": "סַבּוֹטַאז'",
+      "example": "The factory was damaged by sabotage."
+    },
+    {
+      "word": "saboteurs",
+      "lemma": "saboteur",
+      "level": "C1",
+      "hebrew": "חַבְּלָנִים",
+      "explanation_hebrew": "אנשים שמבצעים חבלה",
+      "pronunciation_hebrew": "סַבּוֹטֶרְז",
+      "example": "The saboteurs targeted military bases."
+    },
+    {
+      "word": "munitions",
+      "lemma": "munitions",
+      "level": "C1",
+      "hebrew": "תַּחְמֹשֶׁת",
+      "explanation_hebrew": "פצצות, כדורים וחומרי לחימה",
+      "pronunciation_hebrew": "מְיוּנִישֶׁנְז",
+      "example": "The attack hit a munitions factory."
+    },
+    {
+      "word": "exile",
+      "lemma": "exile",
+      "level": "B2",
+      "hebrew": "גָּלוּת",
+      "explanation_hebrew": "חיים מחוץ למולדת, לרוב בכפייה",
+      "pronunciation_hebrew": "אֶקְסַייל",
+      "example": "He lives in exile in another country."
+    },
+    {
+      "word": "undercover",
+      "lemma": "undercover",
+      "level": "B2",
+      "hebrew": "חֲשָׁאִי",
+      "explanation_hebrew": "פועל בסתר בלי לחשוף את זהותו",
+      "pronunciation_hebrew": "אַנְדֶרְקַבֶר",
+      "example": "An undercover agent joined the group."
+    },
+    {
+      "word": "surveils",
+      "lemma": "surveil",
+      "level": "C1",
+      "hebrew": "עוֹקֵב",
+      "explanation_hebrew": "משגיח ועוקב אחרי מישהו בסתר",
+      "pronunciation_hebrew": "סֶרְוֵיילְז",
+      "example": "The network surveils senior officers."
+    },
+    {
+      "word": "assassinated",
+      "lemma": "assassinate",
+      "level": "C1",
+      "hebrew": "נִרְצַח",
+      "explanation_hebrew": "נהרג בהתנקשות מתוכננת",
+      "pronunciation_hebrew": "אַסַסִינֵייטֶד",
+      "example": "The general was assassinated in the city."
+    },
+    {
+      "word": "tactics",
+      "lemma": "tactic",
+      "level": "B2",
+      "hebrew": "טַקְטִיקוֹת",
+      "explanation_hebrew": "דרכי פעולה לשם השגת מטרה",
+      "pronunciation_hebrew": "טַקְטִיקְס",
+      "example": "They used careful tactics to avoid capture."
+    },
+    {
+      "word": "legitimate",
+      "lemma": "legitimate",
+      "level": "B2",
+      "hebrew": "לֵגִיטִימִי",
+      "explanation_hebrew": "מוצדק או מותר על פי החוק",
+      "pronunciation_hebrew": "לֶגִ'יטִימֶט",
+      "example": "They claimed the targets were legitimate."
+    },
+    {
+      "word": "regime",
+      "lemma": "regime",
+      "level": "B2",
+      "hebrew": "מִשְׁטָר",
+      "explanation_hebrew": "שלטון, לרוב כזה שאינו דמוקרטי",
+      "pronunciation_hebrew": "רֶז'ִים",
+      "example": "They opposed the ruling regime."
+    },
+    {
+      "word": "formidable",
+      "lemma": "formidable",
+      "level": "C1",
+      "hebrew": "אַדִּיר",
+      "explanation_hebrew": "חזק ומרשים עד כדי הטלת מורא",
+      "pronunciation_hebrew": "פוֹרְמִידַבְּל",
+      "example": "The weapon was a formidable threat."
+    },
+    {
+      "word": "explosives",
+      "lemma": "explosive",
+      "level": "B2",
+      "hebrew": "חָמְרֵי נֶפֶץ",
+      "explanation_hebrew": "חומרים שגורמים לפיצוץ",
+      "pronunciation_hebrew": "אֶקְסְפְּלוֹסִיבְז",
+      "example": "He hid explosives near the airfield."
+    },
+    {
+      "word": "remotely",
+      "lemma": "remotely",
+      "level": "B2",
+      "hebrew": "מֵרָחוֹק",
+      "explanation_hebrew": "ממקום מרוחק, בלי להיות נוכח",
+      "pronunciation_hebrew": "רִימוֹטְלִי",
+      "example": "He trained the volunteers remotely."
+    },
+    {
+      "word": "surveillance",
+      "lemma": "surveillance",
+      "level": "C1",
+      "hebrew": "מַעֲקָב",
+      "explanation_hebrew": "השגחה מתמשכת אחרי אדם או מקום",
+      "pronunciation_hebrew": "סֶרְוֵיילֶנְס",
+      "example": "The officer was under constant surveillance."
+    },
+    {
+      "word": "insider",
+      "lemma": "insider",
+      "level": "B2",
+      "hebrew": "אִישׁ פְּנִים",
+      "explanation_hebrew": "אדם עם גישה למידע סודי מבפנים",
+      "pronunciation_hebrew": "אִינְסַיידֶר",
+      "example": "He had insider knowledge of the system."
+    },
+    {
+      "word": "warehouses",
+      "lemma": "warehouse",
+      "level": "B2",
+      "hebrew": "מַחְסָנִים",
+      "explanation_hebrew": "מבנים גדולים לאחסון סחורה",
+      "pronunciation_hebrew": "וֵורְהַאוּזֶז",
+      "example": "The map showed storage warehouses."
+    },
+    {
+      "word": "logistical",
+      "lemma": "logistical",
+      "level": "C1",
+      "hebrew": "לוֹגִיסְטִי",
+      "explanation_hebrew": "קשור לארגון ולאספקה של משאבים",
+      "pronunciation_hebrew": "לוֹגִ'יסְטִיקַל",
+      "example": "They provided logistical support from abroad."
+    },
+    {
+      "word": "justified",
+      "lemma": "justify",
+      "level": "B2",
+      "hebrew": "מֻצְדָּק",
+      "explanation_hebrew": "שיש לו סיבה טובה והגיונית",
+      "pronunciation_hebrew": "גַ'סְטִיפַייד",
+      "example": "He argued the actions were justified."
+    },
+    {
+      "word": "mitigate",
+      "lemma": "mitigate",
+      "level": "C1",
+      "hebrew": "לְמַתֵּן",
+      "explanation_hebrew": "להקטין חומרה או סיכון",
+      "pronunciation_hebrew": "מִיטִיגֵייט",
+      "example": "They took steps to mitigate the risk."
+    },
+    {
+      "word": "compromised",
+      "lemma": "compromise",
+      "level": "C1",
+      "hebrew": "נֶחְשַׂף",
+      "explanation_hebrew": "אבד לו הסוד או הביטחון; נפגע",
+      "pronunciation_hebrew": "קוֹמְפְּרוֹמַייזְד",
+      "example": "The agent feared being compromised."
+    },
+    {
+      "word": "detained",
+      "lemma": "detain",
+      "level": "B2",
+      "hebrew": "נֶעֱצַר",
+      "explanation_hebrew": "הוחזק בידי הרשויות ונמנעה ממנו חירות",
+      "pronunciation_hebrew": "דִיטֵיינְד",
+      "example": "The whole group could be detained quickly."
+    },
+    {
+      "word": "oblivious",
+      "lemma": "oblivious",
+      "level": "C1",
+      "hebrew": "לֹא מוּדָע",
+      "explanation_hebrew": "אינו שם לב למה שקורה סביבו",
+      "pronunciation_hebrew": "אוֹבְּלִיבִיאֶס",
+      "example": "Some drivers were oblivious to the danger."
+    },
+    {
+      "word": "ideological",
+      "lemma": "ideological",
+      "level": "C1",
+      "hebrew": "אִידֵאוֹלוֹגִי",
+      "explanation_hebrew": "מונע מאמונות ורעיונות עמוקים",
+      "pronunciation_hebrew": "אִידֵאוֹלוֹגִ'יקַל",
+      "example": "He did the work for ideological reasons."
+    },
+    {
+      "word": "duress",
+      "lemma": "duress",
+      "level": "C2",
+      "hebrew": "כְּפִיָּה",
+      "explanation_hebrew": "מצב שבו מכריחים אדם לפעול",
+      "pronunciation_hebrew": "דְיוּרֶס",
+      "example": "He might be working under duress."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "shadowy",
+      "type": "english_to_hebrew",
+      "question": "What does “shadowy” mean?",
+      "options": [
+        "כְּפִיָּה",
+        "אָפֵל",
+        "אִידֵאוֹלוֹגִי",
+        "נִרְצַח"
+      ],
+      "correct_answer": "אָפֵל",
+      "explanation_hebrew": "המילה “shadowy” פירושה אָפֵל."
+    },
+    {
+      "id": "C-q2",
+      "word": "sabotage",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חַבָּלָה”?",
+      "options": [
+        "oblivious",
+        "sabotage",
+        "mitigate",
+        "logistical"
+      ],
+      "correct_answer": "sabotage",
+      "explanation_hebrew": "המילה האנגלית “sabotage” פירושה חַבָּלָה."
+    },
+    {
+      "id": "C-q3",
+      "word": "saboteurs",
+      "type": "english_to_hebrew",
+      "question": "What does “saboteurs” mean?",
+      "options": [
+        "חַבְּלָנִים",
+        "חֲשָׁאִי",
+        "נֶעֱצַר",
+        "מֻצְדָּק"
+      ],
+      "correct_answer": "חַבְּלָנִים",
+      "explanation_hebrew": "המילה “saboteurs” פירושה חַבְּלָנִים."
+    },
+    {
+      "id": "C-q4",
+      "word": "munitions",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תַּחְמֹשֶׁת”?",
+      "options": [
+        "sabotage",
+        "remotely",
+        "munitions",
+        "surveils"
+      ],
+      "correct_answer": "munitions",
+      "explanation_hebrew": "המילה האנגלית “munitions” פירושה תַּחְמֹשֶׁת."
+    },
+    {
+      "id": "C-q5",
+      "word": "exile",
+      "type": "english_to_hebrew",
+      "question": "What does “exile” mean?",
+      "options": [
+        "חַבְּלָנִים",
+        "גָּלוּת",
+        "מֵרָחוֹק",
+        "נֶעֱצַר"
+      ],
+      "correct_answer": "גָּלוּת",
+      "explanation_hebrew": "המילה “exile” פירושה גָּלוּת."
+    },
+    {
+      "id": "C-q6",
+      "word": "undercover",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חֲשָׁאִי”?",
+      "options": [
+        "ideological",
+        "sabotage",
+        "undercover",
+        "compromised"
+      ],
+      "correct_answer": "undercover",
+      "explanation_hebrew": "המילה האנגלית “undercover” פירושה חֲשָׁאִי."
+    },
+    {
+      "id": "C-q7",
+      "word": "surveils",
+      "type": "english_to_hebrew",
+      "question": "What does “surveils” mean?",
+      "options": [
+        "אָפֵל",
+        "לוֹגִיסְטִי",
+        "עוֹקֵב",
+        "חָמְרֵי נֶפֶץ"
+      ],
+      "correct_answer": "עוֹקֵב",
+      "explanation_hebrew": "המילה “surveils” פירושה עוֹקֵב."
+    },
+    {
+      "id": "C-q8",
+      "word": "assassinated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִרְצַח”?",
+      "options": [
+        "justified",
+        "saboteurs",
+        "insider",
+        "assassinated"
+      ],
+      "correct_answer": "assassinated",
+      "explanation_hebrew": "המילה האנגלית “assassinated” פירושה נִרְצַח."
+    },
+    {
+      "id": "C-q9",
+      "word": "tactics",
+      "type": "english_to_hebrew",
+      "question": "What does “tactics” mean?",
+      "options": [
+        "מַעֲקָב",
+        "נִרְצַח",
+        "אִידֵאוֹלוֹגִי",
+        "טַקְטִיקוֹת"
+      ],
+      "correct_answer": "טַקְטִיקוֹת",
+      "explanation_hebrew": "המילה “tactics” פירושה טַקְטִיקוֹת."
+    },
+    {
+      "id": "C-q10",
+      "word": "legitimate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לֵגִיטִימִי”?",
+      "options": [
+        "explosives",
+        "sabotage",
+        "remotely",
+        "legitimate"
+      ],
+      "correct_answer": "legitimate",
+      "explanation_hebrew": "המילה האנגלית “legitimate” פירושה לֵגִיטִימִי."
+    },
+    {
+      "id": "C-q11",
+      "word": "regime",
+      "type": "english_to_hebrew",
+      "question": "What does “regime” mean?",
+      "options": [
+        "נִרְצַח",
+        "חַבְּלָנִים",
+        "מִשְׁטָר",
+        "לוֹגִיסְטִי"
+      ],
+      "correct_answer": "מִשְׁטָר",
+      "explanation_hebrew": "המילה “regime” פירושה מִשְׁטָר."
+    },
+    {
+      "id": "C-q12",
+      "word": "formidable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אַדִּיר”?",
+      "options": [
+        "explosives",
+        "insider",
+        "mitigate",
+        "formidable"
+      ],
+      "correct_answer": "formidable",
+      "explanation_hebrew": "המילה האנגלית “formidable” פירושה אַדִּיר."
+    },
+    {
+      "id": "C-q13",
+      "word": "explosives",
+      "type": "english_to_hebrew",
+      "question": "What does “explosives” mean?",
+      "options": [
+        "אִישׁ פְּנִים",
+        "מַחְסָנִים",
+        "מֵרָחוֹק",
+        "חָמְרֵי נֶפֶץ"
+      ],
+      "correct_answer": "חָמְרֵי נֶפֶץ",
+      "explanation_hebrew": "המילה “explosives” פירושה חָמְרֵי נֶפֶץ."
+    },
+    {
+      "id": "C-q14",
+      "word": "remotely",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מֵרָחוֹק”?",
+      "options": [
+        "undercover",
+        "remotely",
+        "surveillance",
+        "sabotage"
+      ],
+      "correct_answer": "remotely",
+      "explanation_hebrew": "המילה האנגלית “remotely” פירושה מֵרָחוֹק."
+    },
+    {
+      "id": "C-q15",
+      "word": "surveillance",
+      "type": "english_to_hebrew",
+      "question": "What does “surveillance” mean?",
+      "options": [
+        "נֶחְשַׂף",
+        "תַּחְמֹשֶׁת",
+        "מַעֲקָב",
+        "אִידֵאוֹלוֹגִי"
+      ],
+      "correct_answer": "מַעֲקָב",
+      "explanation_hebrew": "המילה “surveillance” פירושה מַעֲקָב."
+    },
+    {
+      "id": "C-q16",
+      "word": "insider",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אִישׁ פְּנִים”?",
+      "options": [
+        "regime",
+        "insider",
+        "munitions",
+        "detained"
+      ],
+      "correct_answer": "insider",
+      "explanation_hebrew": "המילה האנגלית “insider” פירושה אִישׁ פְּנִים."
+    },
+    {
+      "id": "C-q17",
+      "word": "warehouses",
+      "type": "english_to_hebrew",
+      "question": "What does “warehouses” mean?",
+      "options": [
+        "חַבְּלָנִים",
+        "חָמְרֵי נֶפֶץ",
+        "מַחְסָנִים",
+        "עוֹקֵב"
+      ],
+      "correct_answer": "מַחְסָנִים",
+      "explanation_hebrew": "המילה “warehouses” פירושה מַחְסָנִים."
+    },
+    {
+      "id": "C-q18",
+      "word": "logistical",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לוֹגִיסְטִי”?",
+      "options": [
+        "insider",
+        "remotely",
+        "munitions",
+        "logistical"
+      ],
+      "correct_answer": "logistical",
+      "explanation_hebrew": "המילה האנגלית “logistical” פירושה לוֹגִיסְטִי."
+    },
+    {
+      "id": "C-q19",
+      "word": "justified",
+      "type": "english_to_hebrew",
+      "question": "What does “justified” mean?",
+      "options": [
+        "אִידֵאוֹלוֹגִי",
+        "מֻצְדָּק",
+        "עוֹקֵב",
+        "לְמַתֵּן"
+      ],
+      "correct_answer": "מֻצְדָּק",
+      "explanation_hebrew": "המילה “justified” פירושה מֻצְדָּק."
+    },
+    {
+      "id": "C-q20",
+      "word": "mitigate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְמַתֵּן”?",
+      "options": [
+        "mitigate",
+        "saboteurs",
+        "detained",
+        "insider"
+      ],
+      "correct_answer": "mitigate",
+      "explanation_hebrew": "המילה האנגלית “mitigate” פירושה לְמַתֵּן."
+    },
+    {
+      "id": "C-q21",
+      "word": "compromised",
+      "type": "english_to_hebrew",
+      "question": "What does “compromised” mean?",
+      "options": [
+        "נֶחְשַׂף",
+        "מֵרָחוֹק",
+        "חֲשָׁאִי",
+        "אַדִּיר"
+      ],
+      "correct_answer": "נֶחְשַׂף",
+      "explanation_hebrew": "המילה “compromised” פירושה נֶחְשַׂף."
+    },
+    {
+      "id": "C-q22",
+      "word": "detained",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נֶעֱצַר”?",
+      "options": [
+        "detained",
+        "surveils",
+        "shadowy",
+        "logistical"
+      ],
+      "correct_answer": "detained",
+      "explanation_hebrew": "המילה האנגלית “detained” פירושה נֶעֱצַר."
+    },
+    {
+      "id": "C-q23",
+      "word": "oblivious",
+      "type": "english_to_hebrew",
+      "question": "What does “oblivious” mean?",
+      "options": [
+        "לֹא מוּדָע",
+        "לְמַתֵּן",
+        "מַעֲקָב",
+        "מֻצְדָּק"
+      ],
+      "correct_answer": "לֹא מוּדָע",
+      "explanation_hebrew": "המילה “oblivious” פירושה לֹא מוּדָע."
+    },
+    {
+      "id": "C-q24",
+      "word": "ideological",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אִידֵאוֹלוֹגִי”?",
+      "options": [
+        "ideological",
+        "exile",
+        "saboteurs",
+        "surveillance"
+      ],
+      "correct_answer": "ideological",
+      "explanation_hebrew": "המילה האנגלית “ideological” פירושה אִידֵאוֹלוֹגִי."
+    },
+    {
+      "id": "C-q25",
+      "word": "duress",
+      "type": "english_to_hebrew",
+      "question": "What does “duress” mean?",
+      "options": [
+        "כְּפִיָּה",
+        "חָמְרֵי נֶפֶץ",
+        "טַקְטִיקוֹת",
+        "מֻצְדָּק"
+      ],
+      "correct_answer": "כְּפִיָּה",
+      "explanation_hebrew": "המילה “duress” פירושה כְּפִיָּה."
+    }
+  ]
+}

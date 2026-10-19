@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-19",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Home sellers cut asking prices on 3,000 properties a day, says Rightmove",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
+  "published_at": "2026-10-18T23:00:45+00:00",
+  "age_hours_at_selection": 3.27,
+  "word_count": 823,
+  "generated_at": "2026-10-19T02:16:49.793648+00:00",
+  "difficulty_reason": "Moderate-length property market report mixing data, quotes and economic context; B1/B2/C1 vocabulary and some background on housing and mortgages.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "glut",
+      "lemma": "glut",
+      "level": "C1",
+      "hebrew": "עֹדֶף",
+      "explanation_hebrew": "כמות גדולה מדי של משהו בשוק",
+      "pronunciation_hebrew": "גְלַאט",
+      "example": "A glut of homes made prices fall."
+    },
+    {
+      "word": "unrealistic",
+      "lemma": "unrealistic",
+      "level": "B2",
+      "hebrew": "לֹא מְצִיאוּתִי",
+      "explanation_hebrew": "לא הגיוני או לא אפשרי במציאות",
+      "pronunciation_hebrew": "אַנְרִיאָלִיסְטִיק",
+      "example": "Their price expectations were unrealistic."
+    },
+    {
+      "word": "proportion",
+      "lemma": "proportion",
+      "level": "B2",
+      "hebrew": "שִׁעוּר",
+      "explanation_hebrew": "חלק מתוך סך הכול",
+      "pronunciation_hebrew": "פְּרוֹפּוֹרְשֶׁן",
+      "example": "A large proportion of homes had a price cut."
+    },
+    {
+      "word": "choosy",
+      "lemma": "choosy",
+      "level": "B2",
+      "hebrew": "בַּרְרָן",
+      "explanation_hebrew": "קשה לרצות אותו; בוחר בקפידה",
+      "pronunciation_hebrew": "צ'וּזִי",
+      "example": "Buyers can be choosy when there is lots of choice."
+    },
+    {
+      "word": "budget",
+      "lemma": "budget",
+      "level": "B1",
+      "hebrew": "תַּקְצִיב",
+      "explanation_hebrew": "סכום הכסף שאפשר להוציא",
+      "pronunciation_hebrew": "בַּאגֶ'ט",
+      "example": "They were looking for a home within their budget."
+    },
+    {
+      "word": "mortgage",
+      "lemma": "mortgage",
+      "level": "B1",
+      "hebrew": "מַשְׁכַּנְתָּא",
+      "explanation_hebrew": "הלוואה מהבנק לקניית בית",
+      "pronunciation_hebrew": "מוֹרְגֵ'ג'",
+      "example": "Higher mortgage rates make buying harder."
+    },
+    {
+      "word": "reduction",
+      "lemma": "reduction",
+      "level": "B1",
+      "hebrew": "הַפְחָתָה",
+      "explanation_hebrew": "הורדה של כמות או מחיר",
+      "pronunciation_hebrew": "רִידַקְשֶׁן",
+      "example": "The price reduction attracted more buyers."
+    },
+    {
+      "word": "cautious",
+      "lemma": "cautious",
+      "level": "B2",
+      "hebrew": "זָהִיר",
+      "explanation_hebrew": "נוהג בזהירות לפני שפועל",
+      "pronunciation_hebrew": "קוֹשֶׁס",
+      "example": "Buyers are more cautious when prices are high."
+    },
+    {
+      "word": "selective",
+      "lemma": "selective",
+      "level": "B2",
+      "hebrew": "בֶּרֵרָנִי",
+      "explanation_hebrew": "בוחר רק את מה שהכי מתאים",
+      "pronunciation_hebrew": "סֶלֶקְטִיב",
+      "example": "She was selective about which homes to view."
+    },
+    {
+      "word": "affordable",
+      "lemma": "affordable",
+      "level": "B2",
+      "hebrew": "בַּר-הַשָּׂגָה",
+      "explanation_hebrew": "משהו שאפשר להרשות לעצמך",
+      "pronunciation_hebrew": "אַפוֹרְדַבְּל",
+      "example": "They wanted affordable monthly payments."
+    },
+    {
+      "word": "leasehold",
+      "lemma": "leasehold",
+      "level": "C1",
+      "hebrew": "חֲכִירָה",
+      "explanation_hebrew": "בעלות על נכס לתקופה מוגבלת",
+      "pronunciation_hebrew": "לִיסְהוֹלְד",
+      "example": "Selling leasehold homes can be complicated."
+    },
+    {
+      "word": "emotional",
+      "lemma": "emotional",
+      "level": "B1",
+      "hebrew": "רִגְשִׁי",
+      "explanation_hebrew": "קשור לרגשות ולא רק להיגיון",
+      "pronunciation_hebrew": "אִימוֹשְׁנַל",
+      "example": "Sellers often make emotional decisions."
+    },
+    {
+      "word": "invested",
+      "lemma": "invest",
+      "level": "B1",
+      "hebrew": "הִשְׁקִיעַ",
+      "explanation_hebrew": "הכניס כסף או זמן כדי להרוויח בעתיד",
+      "pronunciation_hebrew": "אִינְבֶסְטֶד",
+      "example": "They had invested a lot of money in the house."
+    },
+    {
+      "word": "valuations",
+      "lemma": "valuation",
+      "level": "B2",
+      "hebrew": "הַעֲרָכוֹת שֹׁוִי",
+      "explanation_hebrew": "קביעת הערך הכספי של נכס",
+      "pronunciation_hebrew": "וַלְיוּאֵישֶׁנְז",
+      "example": "Agents base valuations on a lot of data."
+    },
+    {
+      "word": "crucial",
+      "lemma": "crucial",
+      "level": "B2",
+      "hebrew": "מַכְרִיעַ",
+      "explanation_hebrew": "חשוב מאוד ומשפיע על התוצאה",
+      "pronunciation_hebrew": "קְרוּשַׁל",
+      "example": "The first price is crucial for a quick sale."
+    },
+    {
+      "word": "surveyors",
+      "lemma": "surveyor",
+      "level": "C1",
+      "hebrew": "שַׁמָּאִים",
+      "explanation_hebrew": "מומחים שבודקים ומעריכים נכסים",
+      "pronunciation_hebrew": "סֶרְוֵיאֶרְז",
+      "example": "The surveyors inspected the old house."
+    },
+    {
+      "word": "revised",
+      "lemma": "revise",
+      "level": "B2",
+      "hebrew": "מְעֻדְכָּן",
+      "explanation_hebrew": "ששונה או עודכן לאחר בדיקה",
+      "pronunciation_hebrew": "רִיוַייזְד",
+      "example": "They agreed on a revised asking price."
+    },
+    {
+      "word": "negotiated",
+      "lemma": "negotiate",
+      "level": "B2",
+      "hebrew": "נִהֵל מַשָּׂא וּמַתָּן",
+      "explanation_hebrew": "דיבר כדי להגיע להסכמה על מחיר",
+      "pronunciation_hebrew": "נֶגוֹשִׁיאֵייטֶד",
+      "example": "She negotiated a lower price for the flat."
+    },
+    {
+      "word": "aggressively",
+      "lemma": "aggressively",
+      "level": "B2",
+      "hebrew": "בְּתוֹקְפָנוּת",
+      "explanation_hebrew": "בצורה נחושה ותקיפה",
+      "pronunciation_hebrew": "אַגְרֶסִיבְלִי",
+      "example": "He negotiated aggressively to save money."
+    },
+    {
+      "word": "independent",
+      "lemma": "independent",
+      "level": "B1",
+      "hebrew": "עַצְמָאִי",
+      "explanation_hebrew": "לא תלוי באחרים ולא מושפע מהם",
+      "pronunciation_hebrew": "אִינְדִיפֶּנְדֶנְט",
+      "example": "An independent valuation gives a fair price."
+    },
+    {
+      "word": "landlords",
+      "lemma": "landlord",
+      "level": "B2",
+      "hebrew": "בַּעֲלֵי דִּירוֹת",
+      "explanation_hebrew": "אנשים שמשכירים נכסים לאחרים",
+      "pronunciation_hebrew": "לַנְדְלוֹרְדְז",
+      "example": "Some landlords did not need to sell."
+    },
+    {
+      "word": "exclusively",
+      "lemma": "exclusively",
+      "level": "B2",
+      "hebrew": "בִּלְעָדִית",
+      "explanation_hebrew": "רק למישהו אחד ולא לאחרים",
+      "pronunciation_hebrew": "אֶקְסְקְלוּסִיבְלִי",
+      "example": "The data was shared exclusively with the BBC."
+    },
+    {
+      "word": "equivalent",
+      "lemma": "equivalent",
+      "level": "B2",
+      "hebrew": "שְׁוֵה-עֵרֶךְ",
+      "explanation_hebrew": "שווה בערכו לדבר אחר",
+      "pronunciation_hebrew": "אִיקְוִיוַלֶנְט",
+      "example": "The cut was equivalent to thousands of pounds."
+    },
+    {
+      "word": "portals",
+      "lemma": "portal",
+      "level": "B2",
+      "hebrew": "פּוֹרְטָלִים",
+      "explanation_hebrew": "אתרי אינטרנט שמרכזים מידע או שירות",
+      "pronunciation_hebrew": "פּוֹרְטַלְז",
+      "example": "Property portals list thousands of homes."
+    },
+    {
+      "word": "timeframe",
+      "lemma": "timeframe",
+      "level": "B2",
+      "hebrew": "מִסְגֶּרֶת זְמַן",
+      "explanation_hebrew": "פרק הזמן שבו משהו אמור לקרות",
+      "pronunciation_hebrew": "טַיימְפְרֵיים",
+      "example": "They hoped to sell within a short timeframe."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "glut",
+      "type": "english_to_hebrew",
+      "question": "What does “glut” mean?",
+      "options": [
+        "נִהֵל מַשָּׂא וּמַתָּן",
+        "עֹדֶף",
+        "הַפְחָתָה",
+        "שִׁעוּר"
+      ],
+      "correct_answer": "עֹדֶף",
+      "explanation_hebrew": "המילה “glut” פירושה עֹדֶף."
+    },
+    {
+      "id": "B-q2",
+      "word": "unrealistic",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לֹא מְצִיאוּתִי”?",
+      "options": [
+        "surveyors",
+        "crucial",
+        "unrealistic",
+        "glut"
+      ],
+      "correct_answer": "unrealistic",
+      "explanation_hebrew": "המילה האנגלית “unrealistic” פירושה לֹא מְצִיאוּתִי."
+    },
+    {
+      "id": "B-q3",
+      "word": "proportion",
+      "type": "english_to_hebrew",
+      "question": "What does “proportion” mean?",
+      "options": [
+        "בִּלְעָדִית",
+        "הַעֲרָכוֹת שֹׁוִי",
+        "בַּר-הַשָּׂגָה",
+        "שִׁעוּר"
+      ],
+      "correct_answer": "שִׁעוּר",
+      "explanation_hebrew": "המילה “proportion” פירושה שִׁעוּר."
+    },
+    {
+      "id": "B-q4",
+      "word": "choosy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בַּרְרָן”?",
+      "options": [
+        "aggressively",
+        "choosy",
+        "landlords",
+        "negotiated"
+      ],
+      "correct_answer": "choosy",
+      "explanation_hebrew": "המילה האנגלית “choosy” פירושה בַּרְרָן."
+    },
+    {
+      "id": "B-q5",
+      "word": "budget",
+      "type": "english_to_hebrew",
+      "question": "What does “budget” mean?",
+      "options": [
+        "תַּקְצִיב",
+        "מַכְרִיעַ",
+        "פּוֹרְטָלִים",
+        "בְּתוֹקְפָנוּת"
+      ],
+      "correct_answer": "תַּקְצִיב",
+      "explanation_hebrew": "המילה “budget” פירושה תַּקְצִיב."
+    },
+    {
+      "id": "B-q6",
+      "word": "mortgage",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַשְׁכַּנְתָּא”?",
+      "options": [
+        "surveyors",
+        "aggressively",
+        "mortgage",
+        "choosy"
+      ],
+      "correct_answer": "mortgage",
+      "explanation_hebrew": "המילה האנגלית “mortgage” פירושה מַשְׁכַּנְתָּא."
+    },
+    {
+      "id": "B-q7",
+      "word": "reduction",
+      "type": "english_to_hebrew",
+      "question": "What does “reduction” mean?",
+      "options": [
+        "חֲכִירָה",
+        "הִשְׁקִיעַ",
+        "הַפְחָתָה",
+        "מַשְׁכַּנְתָּא"
+      ],
+      "correct_answer": "הַפְחָתָה",
+      "explanation_hebrew": "המילה “reduction” פירושה הַפְחָתָה."
+    },
+    {
+      "id": "B-q8",
+      "word": "cautious",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זָהִיר”?",
+      "options": [
+        "revised",
+        "selective",
+        "cautious",
+        "equivalent"
+      ],
+      "correct_answer": "cautious",
+      "explanation_hebrew": "המילה האנגלית “cautious” פירושה זָהִיר."
+    },
+    {
+      "id": "B-q9",
+      "word": "selective",
+      "type": "english_to_hebrew",
+      "question": "What does “selective” mean?",
+      "options": [
+        "מְעֻדְכָּן",
+        "בַּעֲלֵי דִּירוֹת",
+        "בֶּרֵרָנִי",
+        "שְׁוֵה-עֵרֶךְ"
+      ],
+      "correct_answer": "בֶּרֵרָנִי",
+      "explanation_hebrew": "המילה “selective” פירושה בֶּרֵרָנִי."
+    },
+    {
+      "id": "B-q10",
+      "word": "affordable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בַּר-הַשָּׂגָה”?",
+      "options": [
+        "budget",
+        "reduction",
+        "mortgage",
+        "affordable"
+      ],
+      "correct_answer": "affordable",
+      "explanation_hebrew": "המילה האנגלית “affordable” פירושה בַּר-הַשָּׂגָה."
+    },
+    {
+      "id": "B-q11",
+      "word": "leasehold",
+      "type": "english_to_hebrew",
+      "question": "What does “leasehold” mean?",
+      "options": [
+        "חֲכִירָה",
+        "עַצְמָאִי",
+        "הַעֲרָכוֹת שֹׁוִי",
+        "בֶּרֵרָנִי"
+      ],
+      "correct_answer": "חֲכִירָה",
+      "explanation_hebrew": "המילה “leasehold” פירושה חֲכִירָה."
+    },
+    {
+      "id": "B-q12",
+      "word": "emotional",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רִגְשִׁי”?",
+      "options": [
+        "selective",
+        "cautious",
+        "emotional",
+        "leasehold"
+      ],
+      "correct_answer": "emotional",
+      "explanation_hebrew": "המילה האנגלית “emotional” פירושה רִגְשִׁי."
+    },
+    {
+      "id": "B-q13",
+      "word": "invested",
+      "type": "english_to_hebrew",
+      "question": "What does “invested” mean?",
+      "options": [
+        "הַעֲרָכוֹת שֹׁוִי",
+        "הִשְׁקִיעַ",
+        "בְּתוֹקְפָנוּת",
+        "עַצְמָאִי"
+      ],
+      "correct_answer": "הִשְׁקִיעַ",
+      "explanation_hebrew": "המילה “invested” פירושה הִשְׁקִיעַ."
+    },
+    {
+      "id": "B-q14",
+      "word": "valuations",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַעֲרָכוֹת שֹׁוִי”?",
+      "options": [
+        "valuations",
+        "portals",
+        "glut",
+        "emotional"
+      ],
+      "correct_answer": "valuations",
+      "explanation_hebrew": "המילה האנגלית “valuations” פירושה הַעֲרָכוֹת שֹׁוִי."
+    },
+    {
+      "id": "B-q15",
+      "word": "crucial",
+      "type": "english_to_hebrew",
+      "question": "What does “crucial” mean?",
+      "options": [
+        "מַכְרִיעַ",
+        "בִּלְעָדִית",
+        "חֲכִירָה",
+        "לֹא מְצִיאוּתִי"
+      ],
+      "correct_answer": "מַכְרִיעַ",
+      "explanation_hebrew": "המילה “crucial” פירושה מַכְרִיעַ."
+    },
+    {
+      "id": "B-q16",
+      "word": "surveyors",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שַׁמָּאִים”?",
+      "options": [
+        "landlords",
+        "surveyors",
+        "proportion",
+        "emotional"
+      ],
+      "correct_answer": "surveyors",
+      "explanation_hebrew": "המילה האנגלית “surveyors” פירושה שַׁמָּאִים."
+    },
+    {
+      "id": "B-q17",
+      "word": "revised",
+      "type": "english_to_hebrew",
+      "question": "What does “revised” mean?",
+      "options": [
+        "הִשְׁקִיעַ",
+        "מְעֻדְכָּן",
+        "בֶּרֵרָנִי",
+        "שְׁוֵה-עֵרֶךְ"
+      ],
+      "correct_answer": "מְעֻדְכָּן",
+      "explanation_hebrew": "המילה “revised” פירושה מְעֻדְכָּן."
+    },
+    {
+      "id": "B-q18",
+      "word": "negotiated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִהֵל מַשָּׂא וּמַתָּן”?",
+      "options": [
+        "choosy",
+        "aggressively",
+        "independent",
+        "negotiated"
+      ],
+      "correct_answer": "negotiated",
+      "explanation_hebrew": "המילה האנגלית “negotiated” פירושה נִהֵל מַשָּׂא וּמַתָּן."
+    },
+    {
+      "id": "B-q19",
+      "word": "aggressively",
+      "type": "english_to_hebrew",
+      "question": "What does “aggressively” mean?",
+      "options": [
+        "בְּתוֹקְפָנוּת",
+        "זָהִיר",
+        "שְׁוֵה-עֵרֶךְ",
+        "הַפְחָתָה"
+      ],
+      "correct_answer": "בְּתוֹקְפָנוּת",
+      "explanation_hebrew": "המילה “aggressively” פירושה בְּתוֹקְפָנוּת."
+    },
+    {
+      "id": "B-q20",
+      "word": "independent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עַצְמָאִי”?",
+      "options": [
+        "aggressively",
+        "independent",
+        "affordable",
+        "invested"
+      ],
+      "correct_answer": "independent",
+      "explanation_hebrew": "המילה האנגלית “independent” פירושה עַצְמָאִי."
+    },
+    {
+      "id": "B-q21",
+      "word": "landlords",
+      "type": "english_to_hebrew",
+      "question": "What does “landlords” mean?",
+      "options": [
+        "הַפְחָתָה",
+        "מְעֻדְכָּן",
+        "בַּעֲלֵי דִּירוֹת",
+        "חֲכִירָה"
+      ],
+      "correct_answer": "בַּעֲלֵי דִּירוֹת",
+      "explanation_hebrew": "המילה “landlords” פירושה בַּעֲלֵי דִּירוֹת."
+    },
+    {
+      "id": "B-q22",
+      "word": "exclusively",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בִּלְעָדִית”?",
+      "options": [
+        "exclusively",
+        "timeframe",
+        "invested",
+        "aggressively"
+      ],
+      "correct_answer": "exclusively",
+      "explanation_hebrew": "המילה האנגלית “exclusively” פירושה בִּלְעָדִית."
+    },
+    {
+      "id": "B-q23",
+      "word": "equivalent",
+      "type": "english_to_hebrew",
+      "question": "What does “equivalent” mean?",
+      "options": [
+        "בְּתוֹקְפָנוּת",
+        "הַעֲרָכוֹת שֹׁוִי",
+        "שְׁוֵה-עֵרֶךְ",
+        "תַּקְצִיב"
+      ],
+      "correct_answer": "שְׁוֵה-עֵרֶךְ",
+      "explanation_hebrew": "המילה “equivalent” פירושה שְׁוֵה-עֵרֶךְ."
+    },
+    {
+      "id": "B-q24",
+      "word": "portals",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פּוֹרְטָלִים”?",
+      "options": [
+        "portals",
+        "reduction",
+        "emotional",
+        "independent"
+      ],
+      "correct_answer": "portals",
+      "explanation_hebrew": "המילה האנגלית “portals” פירושה פּוֹרְטָלִים."
+    },
+    {
+      "id": "B-q25",
+      "word": "timeframe",
+      "type": "english_to_hebrew",
+      "question": "What does “timeframe” mean?",
+      "options": [
+        "זָהִיר",
+        "פּוֹרְטָלִים",
+        "מִסְגֶּרֶת זְמַן",
+        "הַעֲרָכוֹת שֹׁוִי"
+      ],
+      "correct_answer": "מִסְגֶּרֶת זְמַן",
+      "explanation_hebrew": "המילה “timeframe” פירושה מִסְגֶּרֶת זְמַן."
+    }
+  ]
+}
