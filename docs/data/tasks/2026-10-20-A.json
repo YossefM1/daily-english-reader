@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-20",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "US bans DeepSeek AI from government use as tech tension with China continues",
+  "article_url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "options": [
+        "The US has ordered most civilian federal agencies to remove DeepSeek technology from their systems.",
+        "DeepSeek has bought several large US technology companies.",
+        "The US has banned every open-source AI model from private businesses.",
+        "China has stopped DeepSeek from releasing new coding tools."
+      ],
+      "correct_answer": "The US has ordered most civilian federal agencies to remove DeepSeek technology from their systems.",
+      "explanation_hebrew": "הכתבה מתמקדת בהוראה להסיר את טכנולוגיית DeepSeek מרוב מערכות הממשל האזרחיות בארה״ב ובהקשר של המתיחות הטכנולוגית עם סין.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which organisations are covered by the new DeepSeek restriction?",
+      "options": [
+        "Only private banks and universities",
+        "Civilian federal agencies such as the Treasury, State and Justice departments",
+        "All state and local governments outside Washington",
+        "Only agencies within the Department of Defense"
+      ],
+      "correct_answer": "Civilian federal agencies such as the Treasury, State and Justice departments",
+      "explanation_hebrew": "האיסור חל על סוכנויות ממשל אזרחיות, ובהן מחלקות האוצר, המדינה והמשפטים; גופי ההגנה אינם כלולים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “disruptive force” suggest about DeepSeek?",
+      "options": [
+        "It regularly causes government computers to stop working.",
+        "It prevents programmers from sharing software.",
+        "It has significantly challenged the established AI market with accessible, lower-cost models.",
+        "It focuses mainly on military operations."
+      ],
+      "correct_answer": "It has significantly challenged the established AI market with accessible, lower-cost models.",
+      "explanation_hebrew": "הביטוי disruptive force מציין גורם שמשנה ומערער את השוק הקיים; DeepSeek עשתה זאת באמצעות מודלים פתוחים וזולים יחסית.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What cost comparison does the article give?",
+      "options": [
+        "DeepSeek and GPT-4 each cost about $100m to develop.",
+        "DeepSeek's debut model cost about $100m, while GPT-4 cost about $6m.",
+        "Both companies refused to estimate development costs.",
+        "DeepSeek's debut model was estimated at about $6m, compared with roughly $100m for GPT-4."
+      ],
+      "correct_answer": "DeepSeek's debut model was estimated at about $6m, compared with roughly $100m for GPT-4.",
+      "explanation_hebrew": "הכתבה מציגה הערכה של כ־6 מיליון דולר למודל הבכורה של DeepSeek לעומת כ־100 מיליון דולר ל־GPT-4.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might DeepSeek's low cost and open-source access concern established US AI firms?",
+      "options": [
+        "They make powerful AI easier for competitors and start-ups to adopt.",
+        "They require every user to buy Chinese hardware.",
+        "They prevent developers from examining the models.",
+        "They make coding models less useful."
+      ],
+      "correct_answer": "They make powerful AI easier for competitors and start-ups to adopt.",
+      "explanation_hebrew": "מן הכתבה ניתן להסיק שמחיר נמוך וגישה פתוחה מורידים חסמי כניסה ומאפשרים לחברות נוספות להשתמש בטכנולוגיה מתקדמת.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “allegations” mean in the discussion of Chinese firms copying US models?",
+      "options": [
+        "Proven court judgments",
+        "Technical instructions",
+        "Claims that have been made but are not necessarily proved",
+        "Official licences to share software"
+      ],
+      "correct_answer": "Claims that have been made but are not necessarily proved",
+      "explanation_hebrew": "allegations הן טענות או האשמות שהועלו אך אינן מוצגות בהכרח כעובדות שהוכחו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "State two details about the scope or timing of the US order.",
+      "rubric_hebrew": "יש לציין שני פרטים מדויקים על מועד כניסת ההוראה לתוקף, מועד פרסומה, הגופים הכלולים או החרגת גופי ההגנה.",
+      "expected_points": [
+        "The order took effect at the end of July and was made public on Monday.",
+        "It covers most civilian federal agencies and technology built using DeepSeek models.",
+        "Departments including Treasury, State and Justice are affected.",
+        "Defense agencies are excluded."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why DeepSeek has attracted both attention and criticism in the United States.",
+      "rubric_hebrew": "יש לשלב בין הצלחת החברה והיתרונות של מודליה לבין חששות הביטחון והמתיחות הטכנולוגית עם סין, בלי להוסיף עובדות שאינן בכתבה.",
+      "expected_points": [
+        "DeepSeek became popular after releasing capable open-source models that are free to access and comparatively cheap to use.",
+        "Its models have been adopted by major platforms and start-ups.",
+        "US officials and companies have criticised it amid security concerns and allegations that Chinese firms copied US models.",
+        "The government restriction reflects wider US-China technology tensions."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why is the exclusion of Defense agencies from this order important to understanding its scope?",
+      "rubric_hebrew": "יש להסביר שההחרגה מראה שההוראה ממוקדת במערכות אזרחיות ואינה איסור אחיד על כל זרועות הממשל; אין להסיק מהכתבה מה המדיניות הנפרדת של משרד ההגנה.",
+      "expected_points": [
+        "The order specifically governs civilian federal agencies.",
+        "It does not establish one identical rule for every part of the US government.",
+        "The exclusion limits what can be concluded about policy in defense systems."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief news update using the words “restriction”, “open-source” and “allegations”.",
+      "rubric_hebrew": "יש להשתמש בשלוש המילים במדויק, לתאר את ההוראה ואת ההקשר שלה ולשמור על ניסוח עובדתי שאינו מציג allegations כעובדות מוכחות.",
+      "expected_points": [
+        "Use all three required words accurately.",
+        "Explain that the restriction affects most civilian government systems.",
+        "Mention DeepSeek's open-source model strategy.",
+        "Present the allegations as claims rather than established facts."
+      ],
+      "difficulty": "A"
+    }
+  ]
+}

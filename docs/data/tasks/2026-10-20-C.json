@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-20",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Fatima El Mansouri: What can Morocco's first female prime minister change for women?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central question does the article explore?",
+      "options": [
+        "Whether El Mansouri's historic appointment can produce meaningful change for women within Morocco's political and religious constraints",
+        "Whether Morocco will immediately replace its monarchy with a republic",
+        "How El Mansouri plans to move the capital from Rabat to Marrakech",
+        "Why every party refused to join El Mansouri's coalition"
+      ],
+      "correct_answer": "Whether El Mansouri's historic appointment can produce meaningful change for women within Morocco's political and religious constraints",
+      "explanation_hebrew": "הכתבה בוחנת אם המינוי ההיסטורי יתורגם לשינוי ממשי לנשים, לנוכח כוחו של המלך, התנגדות דתית ומגבלות פוליטיות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What parliamentary position does El Mansouri's coalition hold?",
+      "options": [
+        "It has exactly half of the seats.",
+        "It holds 207 of the 395 seats.",
+        "It has no elected seats and depends only on royal appointment.",
+        "It controls all 395 seats."
+      ],
+      "correct_answer": "It holds 207 of the 395 seats.",
+      "explanation_hebrew": "מפלגת Pam הקימה קואליציה עם שלוש מפלגות נוספות, וביחד יש להן 207 מתוך 395 מושבים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “room for manoeuvre” mean?",
+      "options": [
+        "The size of the prime minister's official residence",
+        "The number of rooms available in parliament",
+        "Her freedom and practical ability to take political action",
+        "Her authority to replace religious scholars"
+      ],
+      "correct_answer": "Her freedom and practical ability to take political action",
+      "explanation_hebrew": "room for manoeuvre מתאר את מרחב הפעולה המעשי שלה, המוגבל בשל חלוקת הסמכויות עם המלך והצורך להתמודד עם מוסדות דתיים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which statistic illustrates the rural-urban education gap for girls aged 15–17 in 2025?",
+      "options": [
+        "School attendance was 38% in rural areas and 55% in cities.",
+        "It was 100% in both rural and urban areas.",
+        "It was 55% in cities and 100% in rural areas.",
+        "It was 55% in rural areas and 100% in urban areas."
+      ],
+      "correct_answer": "It was 55% in rural areas and 100% in urban areas.",
+      "explanation_hebrew": "נציבות התכנון מצאה שרק 55% מהנערות בגילים אלה למדו באזורים כפריים, לעומת 100% באזורים עירוניים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Fernandez-Molina connect the appointment with low election turnout?",
+      "options": [
+        "She argues the symbolic appointment may help the monarchy project modernisation and reinforce legitimacy despite weak participation.",
+        "She believes turnout was low because women were legally barred from voting.",
+        "She says the appointment automatically transfers the king's powers to parliament.",
+        "She claims the election results were cancelled after the appointment."
+      ],
+      "correct_answer": "She argues the symbolic appointment may help the monarchy project modernisation and reinforce legitimacy despite weak participation.",
+      "explanation_hebrew": "החוקרת מפרשת את המינוי כמהלך מלמעלה שמציג קדמה ושוויון ועשוי לחזק לגיטימציה של המשטר בתקופה של השתתפות נמוכה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “instrumentalisation” mean in the phrase “selective instrumentalisation of the struggle for women's rights”?",
+      "options": [
+        "Measuring public opinion with scientific instruments",
+        "Giving activists complete control over policy",
+        "Using a cause as a tool to achieve another political purpose",
+        "Removing women's rights from public debate"
+      ],
+      "correct_answer": "Using a cause as a tool to achieve another political purpose",
+      "explanation_hebrew": "instrumentalisation פירושה שימוש במאבק כאמצעי להשגת מטרה אחרת; כאן מדובר בשימוש סלקטיבי בזכויות נשים לצורכי לגיטימציה של המשטר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify three family-law issues discussed as tests for the new government.",
+      "rubric_hebrew": "יש לציין שלושה נושאים קונקרטיים מתוך הדיון במודוואנה, כגון ירושה, taasib, פוליגמיה, נישואין, גירושין או משמורת.",
+      "expected_points": [
+        "Unequal inheritance rules, under which a daughter typically receives half a son's comparable share.",
+        "The taasib rule that may require female orphans without brothers to share inheritance with male relatives.",
+        "Conditions and proposed restrictions concerning polygamy.",
+        "Broader reform of marriage, divorce and child-custody rules in the Moudawana."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence the article gives both for and against viewing El Mansouri's appointment as progress for women.",
+      "rubric_hebrew": "יש להציג באופן מאוזן את פריצת המחסום והייצוג הסמלי לצד המגבלות המבניות, הרקע הפריבילגי והיעדר עמדה ציבורית בולטת על זכויות נשים.",
+      "expected_points": [
+        "She is Morocco's first female prime minister and her appointment breaks a longstanding barrier.",
+        "Her coalition has a parliamentary majority, and many younger Moroccans welcomed the milestone.",
+        "The king retains extensive powers and religious scholars can constrain family-law reform.",
+        "El Mansouri has not made prominent public statements on women's rights, and critics note her privileged access to political networks."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why do some women quoted in the article judge El Mansouri by policy rather than by her gender alone?",
+      "rubric_hebrew": "יש להסביר שייצוג סמלי אינו מבטיח שינוי, ולקשר זאת לרפורמות הממתינות, לפערי החינוך ולמגבלות על זכויות נשים.",
+      "expected_points": [
+        "A woman in office does not automatically support or deliver women's-rights reforms.",
+        "The announced family-code reforms have not yet become law.",
+        "Concrete outcomes on inheritance, polygamy, education and menstrual health matter more than symbolism alone.",
+        "Her party's modernising image will be tested by actual policy."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short analytical paragraph using the words “milestone”, “constraints” and “legitimacy”.",
+      "rubric_hebrew": "יש להשתמש בשלוש המילים במדויק, להבחין בין משמעות סמלית לשינוי מוסדי ולהציג טענה הנתמכת בפרטים מהכתבה.",
+      "expected_points": [
+        "Use all three required words accurately.",
+        "Describe the appointment as a historic milestone.",
+        "Explain the constitutional, royal or religious constraints on the prime minister.",
+        "Discuss the argument that the appointment may strengthen regime legitimacy without guaranteeing reform."
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

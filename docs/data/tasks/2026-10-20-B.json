@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-20",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Japan's MMX mission set to grab a piece of Mars's moon Phobos",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main goal of Japan's MMX mission?",
+      "options": [
+        "To collect material from Phobos and use it to investigate how Mars's moons formed",
+        "To move Phobos into a new orbit around Mars",
+        "To build a permanent human base on Deimos",
+        "To replace the Perseverance rover on Mars"
+      ],
+      "correct_answer": "To collect material from Phobos and use it to investigate how Mars's moons formed",
+      "explanation_hebrew": "המטרה המרכזית היא לאסוף דגימה מפובוס ולהחזירה לכדור הארץ כדי לחקור כיצד נוצרו ירחיו של מאדים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When is the MMX spacecraft scheduled to reach Phobos?",
+      "options": [
+        "In 2026",
+        "In August 2027",
+        "In 2028",
+        "In 2031"
+      ],
+      "correct_answer": "In August 2027",
+      "explanation_hebrew": "לפי הכתבה החללית אמורה להגיע לפובוס באוגוסט 2027; החזרת הדגימה מתוכננת ל־2031.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “pristine” mean when the article describes a direct space sample?",
+      "options": [
+        "Large enough to be seen without equipment",
+        "Broken into many pieces",
+        "Uncontaminated and preserved in its original condition",
+        "Already mixed with Earth's soil and water"
+      ],
+      "correct_answer": "Uncontaminated and preserved in its original condition",
+      "explanation_hebrew": "pristine פירושו נקי מזיהום ושמור במצבו המקורי, בניגוד למטאוריטים שנחשפים לאוויר, לאבק, לקרקע ולמים בכדור הארץ.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much material does MMX aim to return from Phobos?",
+      "options": [
+        "One kilogram",
+        "About 100 grams",
+        "Several tonnes",
+        "About 10 grams"
+      ],
+      "correct_answer": "About 10 grams",
+      "explanation_hebrew": "החללית מתוכננת לאסוף כ־10 גרם בלבד, אך החוקרים מסבירים שאפשר לבצע מחקרים רבים גם בגרגרים בודדים.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why will the rover examine Phobos before the spacecraft touches down?",
+      "options": [
+        "It will help identify and assess a suitable landing site.",
+        "It will increase the moon's gravity.",
+        "It will carry the sample directly back to Earth.",
+        "It will search for the cancelled NASA canisters."
+      ],
+      "correct_answer": "It will help identify and assess a suitable landing site.",
+      "explanation_hebrew": "הרובר אמור לסייר בשטח ולסייע בבחירת אתר נחיתה מתאים לפני שהחללית עצמה נוחתת ואוספת חומר.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “shed light on the puzzle”, what does “shed light on” mean?",
+      "options": [
+        "Reflect sunlight from Phobos",
+        "Create a new scientific problem",
+        "Help explain or clarify something",
+        "Photograph the dark side of Mars"
+      ],
+      "correct_answer": "Help explain or clarify something",
+      "explanation_hebrew": "shed light on הוא ביטוי שמשמעותו להבהיר או לסייע בהסבר של שאלה שעדיין אינה פתורה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the two competing explanations for the origin of Phobos and Deimos.",
+      "rubric_hebrew": "יש לתאר במדויק את שתי ההשערות: היווצרות משברי פגיעה במאדים לעומת אסטרואידים שנלכדו בכוח הכבידה של מאדים.",
+      "expected_points": [
+        "A space rock struck early Mars and the moons formed from the resulting debris.",
+        "The moons were wandering asteroids from the outer Solar System that Mars captured with its gravity."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the mission from launch to the sample's planned return to Earth.",
+      "rubric_hebrew": "יש להציג ברצף את ההגעה לאזור מאדים, חקר דיימוס ופובוס, פעילות הרובר, איסוף הדגימה והחזרתה, בלי לפרסם טקסט מלא מהכתבה.",
+      "expected_points": [
+        "The spacecraft launched from Japan and is scheduled to reach Phobos in August 2027.",
+        "It will study Deimos, then focus on Phobos and deploy a rover to examine the terrain.",
+        "The spacecraft will land and use a robotic arm and two samplers to collect about 10g of dust.",
+        "A capsule is planned to return the material to the Woomera desert in South Australia in 2031."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why could a Phobos sample reveal information about Mars as well as about the moon itself?",
+      "rubric_hebrew": "יש לקשר בין קרבת פובוס למאדים לבין פגיעות במאדים שעשויות להעיף גרגרים ולהטמיע אותם על פובוס.",
+      "expected_points": [
+        "Impacts on Mars can blast small grains away from the planet's surface.",
+        "Because Phobos is close to Mars, some of those grains may become implanted in the moon.",
+        "The returned sample could therefore contain Martian material and reveal Mars's composition and history."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short scientific explanation using the words “gravity”, “composition” and “contaminated”.",
+      "rubric_hebrew": "יש להשתמש נכון בשלוש המילים ולהסביר מדוע נחיתה על פובוס או החזרת דגימה ישירה חשובות למחקר.",
+      "expected_points": [
+        "Use all three required words accurately.",
+        "Explain that weak Phobos gravity and strong nearby Martian gravity complicate landing.",
+        "Refer to studying chemical or mineral composition.",
+        "Explain that a direct sample is valuable because Earth-arriving meteorites become contaminated."
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
