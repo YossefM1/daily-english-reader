@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-20",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Japan's MMX mission set to grab a piece of Mars's moon Phobos",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o",
+  "published_at": "2026-10-19T19:45:46+00:00",
+  "age_hours_at_selection": 6.48,
+  "word_count": 824,
+  "generated_at": "2026-10-20T02:14:29.717395+00:00",
+  "difficulty_reason": "Moderately long science feature with some technical terms and explanatory quotes; B1/B2/C1 vocabulary and modest background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "spacecraft",
+      "lemma": "spacecraft",
+      "level": "B2",
+      "hebrew": "חֲלָלִית",
+      "explanation_hebrew": "כְּלִי טַיִס הַמְּיוֹעָד לְמַסָּעוֹת בֶּחָלָל",
+      "pronunciation_hebrew": "סְפֵּייסְקְרַאפְט",
+      "example": "The spacecraft orbited the planet."
+    },
+    {
+      "word": "launched",
+      "lemma": "launch",
+      "level": "B1",
+      "hebrew": "שִׁגֵּר",
+      "explanation_hebrew": "שָׁלַח כְּלִי טַיִס אוֹ טִיל לֶחָלָל",
+      "pronunciation_hebrew": "לוֹנְצְ'ד",
+      "example": "They launched the rocket at dawn."
+    },
+    {
+      "word": "sample",
+      "lemma": "sample",
+      "level": "B1",
+      "hebrew": "דְּגִימָה",
+      "explanation_hebrew": "כַּמּוּת קְטַנָּה הַמְּשַׁמֶּשֶׁת לִבְדִיקָה",
+      "pronunciation_hebrew": "סַאמְפֶּל",
+      "example": "Scientists took a sample of the water."
+    },
+    {
+      "word": "analysed",
+      "lemma": "analyse",
+      "level": "B2",
+      "hebrew": "נִתַּח",
+      "explanation_hebrew": "בָּדַק מַשֶּׁהוּ בְּקַפְּדָנוּת כְּדֵי לְהָבִין אוֹתוֹ",
+      "pronunciation_hebrew": "אַנַלַייזְד",
+      "example": "They analysed the data carefully."
+    },
+    {
+      "word": "scheduled",
+      "lemma": "schedule",
+      "level": "B1",
+      "hebrew": "מְתֻכְנָן",
+      "explanation_hebrew": "נִקְבַּע לִזְמַן מְסֻיָּם",
+      "pronunciation_hebrew": "סְקֶגְ'וּלְד",
+      "example": "The flight is scheduled for noon."
+    },
+    {
+      "word": "mystery",
+      "lemma": "mystery",
+      "level": "B1",
+      "hebrew": "תַּעֲלוּמָה",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁקָּשֶׁה לְהָבִין אוֹ לְהַסְבִּיר",
+      "pronunciation_hebrew": "מִיסְטֶרִי",
+      "example": "The cause of the fire remains a mystery."
+    },
+    {
+      "word": "ambitious",
+      "lemma": "ambitious",
+      "level": "B2",
+      "hebrew": "שַׁאַפְתָּנִי",
+      "explanation_hebrew": "בַּעַל מַטָּרוֹת גְּדוֹלוֹת וְקָשׁוֹת לְהַשָּׂגָה",
+      "pronunciation_hebrew": "אַמְבִּישֶׁס",
+      "example": "It was an ambitious plan."
+    },
+    {
+      "word": "irregularly",
+      "lemma": "irregularly",
+      "level": "C1",
+      "hebrew": "בְּאֹפֶן לֹא סָדִיר",
+      "explanation_hebrew": "לֹא בְּצוּרָה אֲחִידָה אוֹ קְבוּעָה",
+      "pronunciation_hebrew": "אִירֶגְיוּלַרְלִי",
+      "example": "The pieces were irregularly shaped."
+    },
+    {
+      "word": "terrain",
+      "lemma": "terrain",
+      "level": "B2",
+      "hebrew": "שֶׁטַח, פְּנֵי קַרְקַע",
+      "explanation_hebrew": "אֹפִי פְּנֵי הַשֶּׁטַח שֶׁל אֵזוֹר",
+      "pronunciation_hebrew": "טֶרֵיין",
+      "example": "The terrain was rocky and steep."
+    },
+    {
+      "word": "gravity",
+      "lemma": "gravity",
+      "level": "B2",
+      "hebrew": "כֹּחַ הַמְּשִׁיכָה",
+      "explanation_hebrew": "הַכֹּחַ הַמּוֹשֵׁךְ עֲצָמִים זֶה אֶל זֶה",
+      "pronunciation_hebrew": "גְרַבִיטִי",
+      "example": "Gravity keeps us on the ground."
+    },
+    {
+      "word": "enormous",
+      "lemma": "enormous",
+      "level": "B1",
+      "hebrew": "עֲנָקִי",
+      "explanation_hebrew": "גָּדוֹל מְאוֹד",
+      "pronunciation_hebrew": "אִינוֹרְמֶס",
+      "example": "The elephant is an enormous animal."
+    },
+    {
+      "word": "deploy",
+      "lemma": "deploy",
+      "level": "C1",
+      "hebrew": "לְהַפְעִיל, לִפְרֹשׂ",
+      "explanation_hebrew": "לְהוֹצִיא לְשִׁמּוּשׁ אוֹ לְמַקֵּם לְצֹרֶךְ פְּעֻלָּה",
+      "pronunciation_hebrew": "דִיפְּלוֹי",
+      "example": "The robot will deploy a solar panel."
+    },
+    {
+      "word": "capsule",
+      "lemma": "capsule",
+      "level": "B2",
+      "hebrew": "תָּא נְחִיתָה",
+      "explanation_hebrew": "מֵכָל קָטָן וְאָטוּם, לְעִתִּים חֵלֶק מֵחֲלָלִית",
+      "pronunciation_hebrew": "קַאפְּסוּל",
+      "example": "The capsule returned safely to Earth."
+    },
+    {
+      "word": "grains",
+      "lemma": "grain",
+      "level": "B2",
+      "hebrew": "גַּרְגִּירִים",
+      "explanation_hebrew": "חֲלָקִיקִים קְטַנִּים מְאוֹד שֶׁל חֹמֶר",
+      "pronunciation_hebrew": "גְרֵיינְז",
+      "example": "Grains of sand covered the floor."
+    },
+    {
+      "word": "puzzle",
+      "lemma": "puzzle",
+      "level": "B1",
+      "hebrew": "חִידָה",
+      "explanation_hebrew": "בְּעָיָה אוֹ שְׁאֵלָה שֶׁקָּשֶׁה לִפְתֹּר",
+      "pronunciation_hebrew": "פַּאזֶל",
+      "example": "Scientists tried to solve the puzzle."
+    },
+    {
+      "word": "competing",
+      "lemma": "compete",
+      "level": "B2",
+      "hebrew": "מִתְחָרִים",
+      "explanation_hebrew": "נֶאֱבָקִים זֶה בָּזֶה עַל אוֹתוֹ דָּבָר",
+      "pronunciation_hebrew": "קוֹמְפִּיטִינְג",
+      "example": "There are two competing theories."
+    },
+    {
+      "word": "debris",
+      "lemma": "debris",
+      "level": "C1",
+      "hebrew": "שְׁבָרִים, הֲרִיסוֹת",
+      "explanation_hebrew": "שַׁרִידִים שֶׁל מַשֶּׁהוּ שֶׁנִּשְׁבַּר אוֹ נֶהֱרַס",
+      "pronunciation_hebrew": "דֶבְּרִי",
+      "example": "Debris from the crash covered the road."
+    },
+    {
+      "word": "wandering",
+      "lemma": "wander",
+      "level": "B2",
+      "hebrew": "נוֹדֵד",
+      "explanation_hebrew": "נָע מִמָּקוֹם לְמָקוֹם בְּלִי יַעַד קָבוּעַ",
+      "pronunciation_hebrew": "ווֹנְדֶרִינְג",
+      "example": "The wandering dog had no home."
+    },
+    {
+      "word": "asteroids",
+      "lemma": "asteroid",
+      "level": "B2",
+      "hebrew": "אַסְטֵרוֹאִידִים",
+      "explanation_hebrew": "גּוּפִים סַלְעִיִּים קְטַנִּים הַנָּעִים בֶּחָלָל",
+      "pronunciation_hebrew": "אַסְטֶרוֹאִידְז",
+      "example": "Asteroids orbit the Sun."
+    },
+    {
+      "word": "composition",
+      "lemma": "composition",
+      "level": "B2",
+      "hebrew": "הֶרְכֵּב",
+      "explanation_hebrew": "הַחֹמָרִים אוֹ הַחֲלָקִים שֶׁמַּשֶּׁהוּ עָשׂוּי מֵהֶם",
+      "pronunciation_hebrew": "קוֹמְפּוֹזִישֶׁן",
+      "example": "They studied the chemical composition of the rock."
+    },
+    {
+      "word": "hypotheses",
+      "lemma": "hypothesis",
+      "level": "C1",
+      "hebrew": "הַשְׁעָרוֹת",
+      "explanation_hebrew": "רַעְיוֹנוֹת שֶׁצָּרִיךְ לִבְדֹּק אִם הֵם נְכוֹנִים",
+      "pronunciation_hebrew": "הַייפּוֹתֶסִיז",
+      "example": "The scientists tested two hypotheses."
+    },
+    {
+      "word": "distinct",
+      "lemma": "distinct",
+      "level": "B2",
+      "hebrew": "מֻבְחָן, שׁוֹנֶה",
+      "explanation_hebrew": "בָּרוּר וְשׁוֹנֶה בְּאֹפֶן נִכָּר",
+      "pronunciation_hebrew": "דִיסְטִינְקְט",
+      "example": "The two species are quite distinct."
+    },
+    {
+      "word": "contaminated",
+      "lemma": "contaminate",
+      "level": "C1",
+      "hebrew": "מְזֹהָם",
+      "explanation_hebrew": "הִתְלַכְלֵךְ בְּחֹמֶר מַזִּיק אוֹ לֹא רָצוּי",
+      "pronunciation_hebrew": "קוֹנְטַמִינֵייטֶד",
+      "example": "The water was contaminated with chemicals."
+    },
+    {
+      "word": "pristine",
+      "lemma": "pristine",
+      "level": "C1",
+      "hebrew": "בְּתוּלִי, נָקִי לְגַמְרֵי",
+      "explanation_hebrew": "בַּמַּצָּב הַמְּקוֹרִי, לְלֹא כָּל פְּגָם אוֹ זִהוּם",
+      "pronunciation_hebrew": "פְּרִיסְטִין",
+      "example": "The beach was pristine and untouched."
+    },
+    {
+      "word": "desperate",
+      "lemma": "desperate",
+      "level": "B2",
+      "hebrew": "נוֹאָשׁ",
+      "explanation_hebrew": "בְּמַצָּב שֶׁל צֹרֶךְ אוֹ רָצוֹן עַז מְאוֹד",
+      "pronunciation_hebrew": "דֶסְפֶּרֶט",
+      "example": "They were desperate for help."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "spacecraft",
+      "type": "english_to_hebrew",
+      "question": "What does “spacecraft” mean?",
+      "options": [
+        "דְּגִימָה",
+        "נִתַּח",
+        "שִׁגֵּר",
+        "חֲלָלִית"
+      ],
+      "correct_answer": "חֲלָלִית",
+      "explanation_hebrew": "“spacecraft” פירושו חֲלָלִית."
+    },
+    {
+      "id": "B-q2",
+      "word": "launched",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שִׁגֵּר”?",
+      "options": [
+        "sample",
+        "analysed",
+        "launched",
+        "scheduled"
+      ],
+      "correct_answer": "launched",
+      "explanation_hebrew": "המילה “launched” פירושה שִׁגֵּר."
+    },
+    {
+      "id": "B-q3",
+      "word": "sample",
+      "type": "english_to_hebrew",
+      "question": "What does “sample” mean?",
+      "options": [
+        "תַּעֲלוּמָה",
+        "נִתַּח",
+        "דְּגִימָה",
+        "מְתֻכְנָן"
+      ],
+      "correct_answer": "דְּגִימָה",
+      "explanation_hebrew": "“sample” פירושו דְּגִימָה."
+    },
+    {
+      "id": "B-q4",
+      "word": "analysed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִתַּח”?",
+      "options": [
+        "analysed",
+        "scheduled",
+        "mystery",
+        "ambitious"
+      ],
+      "correct_answer": "analysed",
+      "explanation_hebrew": "המילה “analysed” פירושה נִתַּח."
+    },
+    {
+      "id": "B-q5",
+      "word": "scheduled",
+      "type": "english_to_hebrew",
+      "question": "What does “scheduled” mean?",
+      "options": [
+        "בְּאֹפֶן לֹא סָדִיר",
+        "תַּעֲלוּמָה",
+        "שַׁאַפְתָּנִי",
+        "מְתֻכְנָן"
+      ],
+      "correct_answer": "מְתֻכְנָן",
+      "explanation_hebrew": "“scheduled” פירושו מְתֻכְנָן."
+    },
+    {
+      "id": "B-q6",
+      "word": "mystery",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תַּעֲלוּמָה”?",
+      "options": [
+        "mystery",
+        "irregularly",
+        "ambitious",
+        "terrain"
+      ],
+      "correct_answer": "mystery",
+      "explanation_hebrew": "המילה “mystery” פירושה תַּעֲלוּמָה."
+    },
+    {
+      "id": "B-q7",
+      "word": "ambitious",
+      "type": "english_to_hebrew",
+      "question": "What does “ambitious” mean?",
+      "options": [
+        "שֶׁטַח, פְּנֵי קַרְקַע",
+        "בְּאֹפֶן לֹא סָדִיר",
+        "כֹּחַ הַמְּשִׁיכָה",
+        "שַׁאַפְתָּנִי"
+      ],
+      "correct_answer": "שַׁאַפְתָּנִי",
+      "explanation_hebrew": "“ambitious” פירושו שַׁאַפְתָּנִי."
+    },
+    {
+      "id": "B-q8",
+      "word": "irregularly",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בְּאֹפֶן לֹא סָדִיר”?",
+      "options": [
+        "gravity",
+        "irregularly",
+        "terrain",
+        "enormous"
+      ],
+      "correct_answer": "irregularly",
+      "explanation_hebrew": "המילה “irregularly” פירושה בְּאֹפֶן לֹא סָדִיר."
+    },
+    {
+      "id": "B-q9",
+      "word": "terrain",
+      "type": "english_to_hebrew",
+      "question": "What does “terrain” mean?",
+      "options": [
+        "עֲנָקִי",
+        "לְהַפְעִיל, לִפְרֹשׂ",
+        "כֹּחַ הַמְּשִׁיכָה",
+        "שֶׁטַח, פְּנֵי קַרְקַע"
+      ],
+      "correct_answer": "שֶׁטַח, פְּנֵי קַרְקַע",
+      "explanation_hebrew": "“terrain” פירושו שֶׁטַח, פְּנֵי קַרְקַע."
+    },
+    {
+      "id": "B-q10",
+      "word": "gravity",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “כֹּחַ הַמְּשִׁיכָה”?",
+      "options": [
+        "capsule",
+        "gravity",
+        "deploy",
+        "enormous"
+      ],
+      "correct_answer": "gravity",
+      "explanation_hebrew": "המילה “gravity” פירושה כֹּחַ הַמְּשִׁיכָה."
+    },
+    {
+      "id": "B-q11",
+      "word": "enormous",
+      "type": "english_to_hebrew",
+      "question": "What does “enormous” mean?",
+      "options": [
+        "לְהַפְעִיל, לִפְרֹשׂ",
+        "גַּרְגִּירִים",
+        "עֲנָקִי",
+        "תָּא נְחִיתָה"
+      ],
+      "correct_answer": "עֲנָקִי",
+      "explanation_hebrew": "“enormous” פירושו עֲנָקִי."
+    },
+    {
+      "id": "B-q12",
+      "word": "deploy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְהַפְעִיל, לִפְרֹשׂ”?",
+      "options": [
+        "puzzle",
+        "capsule",
+        "grains",
+        "deploy"
+      ],
+      "correct_answer": "deploy",
+      "explanation_hebrew": "המילה “deploy” פירושה לְהַפְעִיל, לִפְרֹשׂ."
+    },
+    {
+      "id": "B-q13",
+      "word": "capsule",
+      "type": "english_to_hebrew",
+      "question": "What does “capsule” mean?",
+      "options": [
+        "גַּרְגִּירִים",
+        "תָּא נְחִיתָה",
+        "מִתְחָרִים",
+        "חִידָה"
+      ],
+      "correct_answer": "תָּא נְחִיתָה",
+      "explanation_hebrew": "“capsule” פירושו תָּא נְחִיתָה."
+    },
+    {
+      "id": "B-q14",
+      "word": "grains",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גַּרְגִּירִים”?",
+      "options": [
+        "puzzle",
+        "grains",
+        "debris",
+        "competing"
+      ],
+      "correct_answer": "grains",
+      "explanation_hebrew": "המילה “grains” פירושה גַּרְגִּירִים."
+    },
+    {
+      "id": "B-q15",
+      "word": "puzzle",
+      "type": "english_to_hebrew",
+      "question": "What does “puzzle” mean?",
+      "options": [
+        "נוֹדֵד",
+        "מִתְחָרִים",
+        "חִידָה",
+        "שְׁבָרִים, הֲרִיסוֹת"
+      ],
+      "correct_answer": "חִידָה",
+      "explanation_hebrew": "“puzzle” פירושו חִידָה."
+    },
+    {
+      "id": "B-q16",
+      "word": "competing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מִתְחָרִים”?",
+      "options": [
+        "debris",
+        "asteroids",
+        "wandering",
+        "competing"
+      ],
+      "correct_answer": "competing",
+      "explanation_hebrew": "המילה “competing” פירושה מִתְחָרִים."
+    },
+    {
+      "id": "B-q17",
+      "word": "debris",
+      "type": "english_to_hebrew",
+      "question": "What does “debris” mean?",
+      "options": [
+        "אַסְטֵרוֹאִידִים",
+        "הֶרְכֵּב",
+        "שְׁבָרִים, הֲרִיסוֹת",
+        "נוֹדֵד"
+      ],
+      "correct_answer": "שְׁבָרִים, הֲרִיסוֹת",
+      "explanation_hebrew": "“debris” פירושו שְׁבָרִים, הֲרִיסוֹת."
+    },
+    {
+      "id": "B-q18",
+      "word": "wandering",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נוֹדֵד”?",
+      "options": [
+        "asteroids",
+        "composition",
+        "hypotheses",
+        "wandering"
+      ],
+      "correct_answer": "wandering",
+      "explanation_hebrew": "המילה “wandering” פירושה נוֹדֵד."
+    },
+    {
+      "id": "B-q19",
+      "word": "asteroids",
+      "type": "english_to_hebrew",
+      "question": "What does “asteroids” mean?",
+      "options": [
+        "הַשְׁעָרוֹת",
+        "אַסְטֵרוֹאִידִים",
+        "הֶרְכֵּב",
+        "מֻבְחָן, שׁוֹנֶה"
+      ],
+      "correct_answer": "אַסְטֵרוֹאִידִים",
+      "explanation_hebrew": "“asteroids” פירושו אַסְטֵרוֹאִידִים."
+    },
+    {
+      "id": "B-q20",
+      "word": "composition",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הֶרְכֵּב”?",
+      "options": [
+        "hypotheses",
+        "composition",
+        "contaminated",
+        "distinct"
+      ],
+      "correct_answer": "composition",
+      "explanation_hebrew": "המילה “composition” פירושה הֶרְכֵּב."
+    },
+    {
+      "id": "B-q21",
+      "word": "hypotheses",
+      "type": "english_to_hebrew",
+      "question": "What does “hypotheses” mean?",
+      "options": [
+        "מֻבְחָן, שׁוֹנֶה",
+        "בְּתוּלִי, נָקִי לְגַמְרֵי",
+        "מְזֹהָם",
+        "הַשְׁעָרוֹת"
+      ],
+      "correct_answer": "הַשְׁעָרוֹת",
+      "explanation_hebrew": "“hypotheses” פירושו הַשְׁעָרוֹת."
+    },
+    {
+      "id": "B-q22",
+      "word": "distinct",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מֻבְחָן, שׁוֹנֶה”?",
+      "options": [
+        "desperate",
+        "contaminated",
+        "distinct",
+        "pristine"
+      ],
+      "correct_answer": "distinct",
+      "explanation_hebrew": "המילה “distinct” פירושה מֻבְחָן, שׁוֹנֶה."
+    },
+    {
+      "id": "B-q23",
+      "word": "contaminated",
+      "type": "english_to_hebrew",
+      "question": "What does “contaminated” mean?",
+      "options": [
+        "בְּתוּלִי, נָקִי לְגַמְרֵי",
+        "מְזֹהָם",
+        "חֲלָלִית",
+        "נוֹאָשׁ"
+      ],
+      "correct_answer": "מְזֹהָם",
+      "explanation_hebrew": "“contaminated” פירושו מְזֹהָם."
+    },
+    {
+      "id": "B-q24",
+      "word": "pristine",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בְּתוּלִי, נָקִי לְגַמְרֵי”?",
+      "options": [
+        "pristine",
+        "launched",
+        "desperate",
+        "spacecraft"
+      ],
+      "correct_answer": "pristine",
+      "explanation_hebrew": "המילה “pristine” פירושה בְּתוּלִי, נָקִי לְגַמְרֵי."
+    },
+    {
+      "id": "B-q25",
+      "word": "desperate",
+      "type": "english_to_hebrew",
+      "question": "What does “desperate” mean?",
+      "options": [
+        "חֲלָלִית",
+        "נוֹאָשׁ",
+        "דְּגִימָה",
+        "שִׁגֵּר"
+      ],
+      "correct_answer": "נוֹאָשׁ",
+      "explanation_hebrew": "“desperate” פירושו נוֹאָשׁ."
+    }
+  ]
+}

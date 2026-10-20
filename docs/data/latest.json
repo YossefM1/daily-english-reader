@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Home sellers cut asking prices on 3,000 properties a day, says Rightmove",
+  "title": "Japan's MMX mission set to grab a piece of Mars's moon Phobos",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
-  "published_at": "2026-10-18T23:00:45+00:00",
-  "age_hours_at_selection": 3.27,
-  "word_count": 823,
-  "generated_at": "2026-10-19T02:16:49.793648+00:00",
-  "difficulty_reason": "Moderate-length property market report mixing data, quotes and economic context; B1/B2/C1 vocabulary and some background on housing and mortgages.",
+  "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o",
+  "published_at": "2026-10-19T19:45:46+00:00",
+  "age_hours_at_selection": 6.48,
+  "word_count": 824,
+  "generated_at": "2026-10-20T02:14:29.717395+00:00",
+  "difficulty_reason": "Moderately long science feature with some technical terms and explanatory quotes; B1/B2/C1 vocabulary and modest background knowledge.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "glut",
-      "lemma": "glut",
+      "word": "spacecraft",
+      "lemma": "spacecraft",
+      "level": "B2",
+      "hebrew": "חֲלָלִית",
+      "explanation_hebrew": "כְּלִי טַיִס הַמְּיוֹעָד לְמַסָּעוֹת בֶּחָלָל",
+      "pronunciation_hebrew": "סְפֵּייסְקְרַאפְט",
+      "example": "The spacecraft orbited the planet."
+    },
+    {
+      "word": "launched",
+      "lemma": "launch",
+      "level": "B1",
+      "hebrew": "שִׁגֵּר",
+      "explanation_hebrew": "שָׁלַח כְּלִי טַיִס אוֹ טִיל לֶחָלָל",
+      "pronunciation_hebrew": "לוֹנְצְ'ד",
+      "example": "They launched the rocket at dawn."
+    },
+    {
+      "word": "sample",
+      "lemma": "sample",
+      "level": "B1",
+      "hebrew": "דְּגִימָה",
+      "explanation_hebrew": "כַּמּוּת קְטַנָּה הַמְּשַׁמֶּשֶׁת לִבְדִיקָה",
+      "pronunciation_hebrew": "סַאמְפֶּל",
+      "example": "Scientists took a sample of the water."
+    },
+    {
+      "word": "analysed",
+      "lemma": "analyse",
+      "level": "B2",
+      "hebrew": "נִתַּח",
+      "explanation_hebrew": "בָּדַק מַשֶּׁהוּ בְּקַפְּדָנוּת כְּדֵי לְהָבִין אוֹתוֹ",
+      "pronunciation_hebrew": "אַנַלַייזְד",
+      "example": "They analysed the data carefully."
+    },
+    {
+      "word": "scheduled",
+      "lemma": "schedule",
+      "level": "B1",
+      "hebrew": "מְתֻכְנָן",
+      "explanation_hebrew": "נִקְבַּע לִזְמַן מְסֻיָּם",
+      "pronunciation_hebrew": "סְקֶגְ'וּלְד",
+      "example": "The flight is scheduled for noon."
+    },
+    {
+      "word": "mystery",
+      "lemma": "mystery",
+      "level": "B1",
+      "hebrew": "תַּעֲלוּמָה",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁקָּשֶׁה לְהָבִין אוֹ לְהַסְבִּיר",
+      "pronunciation_hebrew": "מִיסְטֶרִי",
+      "example": "The cause of the fire remains a mystery."
+    },
+    {
+      "word": "ambitious",
+      "lemma": "ambitious",
+      "level": "B2",
+      "hebrew": "שַׁאַפְתָּנִי",
+      "explanation_hebrew": "בַּעַל מַטָּרוֹת גְּדוֹלוֹת וְקָשׁוֹת לְהַשָּׂגָה",
+      "pronunciation_hebrew": "אַמְבִּישֶׁס",
+      "example": "It was an ambitious plan."
+    },
+    {
+      "word": "irregularly",
+      "lemma": "irregularly",
       "level": "C1",
-      "hebrew": "עֹדֶף",
-      "explanation_hebrew": "כמות גדולה מדי של משהו בשוק",
-      "pronunciation_hebrew": "גְלַאט",
-      "example": "A glut of homes made prices fall."
+      "hebrew": "בְּאֹפֶן לֹא סָדִיר",
+      "explanation_hebrew": "לֹא בְּצוּרָה אֲחִידָה אוֹ קְבוּעָה",
+      "pronunciation_hebrew": "אִירֶגְיוּלַרְלִי",
+      "example": "The pieces were irregularly shaped."
     },
     {
-      "word": "unrealistic",
-      "lemma": "unrealistic",
+      "word": "terrain",
+      "lemma": "terrain",
       "level": "B2",
-      "hebrew": "לֹא מְצִיאוּתִי",
-      "explanation_hebrew": "לא הגיוני או לא אפשרי במציאות",
-      "pronunciation_hebrew": "אַנְרִיאָלִיסְטִיק",
-      "example": "Their price expectations were unrealistic."
+      "hebrew": "שֶׁטַח, פְּנֵי קַרְקַע",
+      "explanation_hebrew": "אֹפִי פְּנֵי הַשֶּׁטַח שֶׁל אֵזוֹר",
+      "pronunciation_hebrew": "טֶרֵיין",
+      "example": "The terrain was rocky and steep."
     },
     {
-      "word": "proportion",
-      "lemma": "proportion",
+      "word": "gravity",
+      "lemma": "gravity",
       "level": "B2",
-      "hebrew": "שִׁעוּר",
-      "explanation_hebrew": "חלק מתוך סך הכול",
-      "pronunciation_hebrew": "פְּרוֹפּוֹרְשֶׁן",
-      "example": "A large proportion of homes had a price cut."
+      "hebrew": "כֹּחַ הַמְּשִׁיכָה",
+      "explanation_hebrew": "הַכֹּחַ הַמּוֹשֵׁךְ עֲצָמִים זֶה אֶל זֶה",
+      "pronunciation_hebrew": "גְרַבִיטִי",
+      "example": "Gravity keeps us on the ground."
     },
     {
-      "word": "choosy",
-      "lemma": "choosy",
-      "level": "B2",
-      "hebrew": "בַּרְרָן",
-      "explanation_hebrew": "קשה לרצות אותו; בוחר בקפידה",
-      "pronunciation_hebrew": "צ'וּזִי",
-      "example": "Buyers can be choosy when there is lots of choice."
-    },
-    {
-      "word": "budget",
-      "lemma": "budget",
+      "word": "enormous",
+      "lemma": "enormous",
       "level": "B1",
-      "hebrew": "תַּקְצִיב",
-      "explanation_hebrew": "סכום הכסף שאפשר להוציא",
-      "pronunciation_hebrew": "בַּאגֶ'ט",
-      "example": "They were looking for a home within their budget."
+      "hebrew": "עֲנָקִי",
+      "explanation_hebrew": "גָּדוֹל מְאוֹד",
+      "pronunciation_hebrew": "אִינוֹרְמֶס",
+      "example": "The elephant is an enormous animal."
     },
     {
-      "word": "mortgage",
-      "lemma": "mortgage",
-      "level": "B1",
-      "hebrew": "מַשְׁכַּנְתָּא",
-      "explanation_hebrew": "הלוואה מהבנק לקניית בית",
-      "pronunciation_hebrew": "מוֹרְגֵ'ג'",
-      "example": "Higher mortgage rates make buying harder."
-    },
-    {
-      "word": "reduction",
-      "lemma": "reduction",
-      "level": "B1",
-      "hebrew": "הַפְחָתָה",
-      "explanation_hebrew": "הורדה של כמות או מחיר",
-      "pronunciation_hebrew": "רִידַקְשֶׁן",
-      "example": "The price reduction attracted more buyers."
-    },
-    {
-      "word": "cautious",
-      "lemma": "cautious",
-      "level": "B2",
-      "hebrew": "זָהִיר",
-      "explanation_hebrew": "נוהג בזהירות לפני שפועל",
-      "pronunciation_hebrew": "קוֹשֶׁס",
-      "example": "Buyers are more cautious when prices are high."
-    },
-    {
-      "word": "selective",
-      "lemma": "selective",
-      "level": "B2",
-      "hebrew": "בֶּרֵרָנִי",
-      "explanation_hebrew": "בוחר רק את מה שהכי מתאים",
-      "pronunciation_hebrew": "סֶלֶקְטִיב",
-      "example": "She was selective about which homes to view."
-    },
-    {
-      "word": "affordable",
-      "lemma": "affordable",
-      "level": "B2",
-      "hebrew": "בַּר-הַשָּׂגָה",
-      "explanation_hebrew": "משהו שאפשר להרשות לעצמך",
-      "pronunciation_hebrew": "אַפוֹרְדַבְּל",
-      "example": "They wanted affordable monthly payments."
-    },
-    {
-      "word": "leasehold",
-      "lemma": "leasehold",
+      "word": "deploy",
+      "lemma": "deploy",
       "level": "C1",
-      "hebrew": "חֲכִירָה",
-      "explanation_hebrew": "בעלות על נכס לתקופה מוגבלת",
-      "pronunciation_hebrew": "לִיסְהוֹלְד",
-      "example": "Selling leasehold homes can be complicated."
+      "hebrew": "לְהַפְעִיל, לִפְרֹשׂ",
+      "explanation_hebrew": "לְהוֹצִיא לְשִׁמּוּשׁ אוֹ לְמַקֵּם לְצֹרֶךְ פְּעֻלָּה",
+      "pronunciation_hebrew": "דִיפְּלוֹי",
+      "example": "The robot will deploy a solar panel."
     },
     {
-      "word": "emotional",
-      "lemma": "emotional",
-      "level": "B1",
-      "hebrew": "רִגְשִׁי",
-      "explanation_hebrew": "קשור לרגשות ולא רק להיגיון",
-      "pronunciation_hebrew": "אִימוֹשְׁנַל",
-      "example": "Sellers often make emotional decisions."
-    },
-    {
-      "word": "invested",
-      "lemma": "invest",
-      "level": "B1",
-      "hebrew": "הִשְׁקִיעַ",
-      "explanation_hebrew": "הכניס כסף או זמן כדי להרוויח בעתיד",
-      "pronunciation_hebrew": "אִינְבֶסְטֶד",
-      "example": "They had invested a lot of money in the house."
-    },
-    {
-      "word": "valuations",
-      "lemma": "valuation",
+      "word": "capsule",
+      "lemma": "capsule",
       "level": "B2",
-      "hebrew": "הַעֲרָכוֹת שֹׁוִי",
-      "explanation_hebrew": "קביעת הערך הכספי של נכס",
-      "pronunciation_hebrew": "וַלְיוּאֵישֶׁנְז",
-      "example": "Agents base valuations on a lot of data."
+      "hebrew": "תָּא נְחִיתָה",
+      "explanation_hebrew": "מֵכָל קָטָן וְאָטוּם, לְעִתִּים חֵלֶק מֵחֲלָלִית",
+      "pronunciation_hebrew": "קַאפְּסוּל",
+      "example": "The capsule returned safely to Earth."
     },
     {
-      "word": "crucial",
-      "lemma": "crucial",
+      "word": "grains",
+      "lemma": "grain",
       "level": "B2",
-      "hebrew": "מַכְרִיעַ",
-      "explanation_hebrew": "חשוב מאוד ומשפיע על התוצאה",
-      "pronunciation_hebrew": "קְרוּשַׁל",
-      "example": "The first price is crucial for a quick sale."
+      "hebrew": "גַּרְגִּירִים",
+      "explanation_hebrew": "חֲלָקִיקִים קְטַנִּים מְאוֹד שֶׁל חֹמֶר",
+      "pronunciation_hebrew": "גְרֵיינְז",
+      "example": "Grains of sand covered the floor."
     },
     {
-      "word": "surveyors",
-      "lemma": "surveyor",
+      "word": "puzzle",
+      "lemma": "puzzle",
+      "level": "B1",
+      "hebrew": "חִידָה",
+      "explanation_hebrew": "בְּעָיָה אוֹ שְׁאֵלָה שֶׁקָּשֶׁה לִפְתֹּר",
+      "pronunciation_hebrew": "פַּאזֶל",
+      "example": "Scientists tried to solve the puzzle."
+    },
+    {
+      "word": "competing",
+      "lemma": "compete",
+      "level": "B2",
+      "hebrew": "מִתְחָרִים",
+      "explanation_hebrew": "נֶאֱבָקִים זֶה בָּזֶה עַל אוֹתוֹ דָּבָר",
+      "pronunciation_hebrew": "קוֹמְפִּיטִינְג",
+      "example": "There are two competing theories."
+    },
+    {
+      "word": "debris",
+      "lemma": "debris",
       "level": "C1",
-      "hebrew": "שַׁמָּאִים",
-      "explanation_hebrew": "מומחים שבודקים ומעריכים נכסים",
-      "pronunciation_hebrew": "סֶרְוֵיאֶרְז",
-      "example": "The surveyors inspected the old house."
+      "hebrew": "שְׁבָרִים, הֲרִיסוֹת",
+      "explanation_hebrew": "שַׁרִידִים שֶׁל מַשֶּׁהוּ שֶׁנִּשְׁבַּר אוֹ נֶהֱרַס",
+      "pronunciation_hebrew": "דֶבְּרִי",
+      "example": "Debris from the crash covered the road."
     },
     {
-      "word": "revised",
-      "lemma": "revise",
+      "word": "wandering",
+      "lemma": "wander",
       "level": "B2",
-      "hebrew": "מְעֻדְכָּן",
-      "explanation_hebrew": "ששונה או עודכן לאחר בדיקה",
-      "pronunciation_hebrew": "רִיוַייזְד",
-      "example": "They agreed on a revised asking price."
+      "hebrew": "נוֹדֵד",
+      "explanation_hebrew": "נָע מִמָּקוֹם לְמָקוֹם בְּלִי יַעַד קָבוּעַ",
+      "pronunciation_hebrew": "ווֹנְדֶרִינְג",
+      "example": "The wandering dog had no home."
     },
     {
-      "word": "negotiated",
-      "lemma": "negotiate",
+      "word": "asteroids",
+      "lemma": "asteroid",
       "level": "B2",
-      "hebrew": "נִהֵל מַשָּׂא וּמַתָּן",
-      "explanation_hebrew": "דיבר כדי להגיע להסכמה על מחיר",
-      "pronunciation_hebrew": "נֶגוֹשִׁיאֵייטֶד",
-      "example": "She negotiated a lower price for the flat."
+      "hebrew": "אַסְטֵרוֹאִידִים",
+      "explanation_hebrew": "גּוּפִים סַלְעִיִּים קְטַנִּים הַנָּעִים בֶּחָלָל",
+      "pronunciation_hebrew": "אַסְטֶרוֹאִידְז",
+      "example": "Asteroids orbit the Sun."
     },
     {
-      "word": "aggressively",
-      "lemma": "aggressively",
+      "word": "composition",
+      "lemma": "composition",
       "level": "B2",
-      "hebrew": "בְּתוֹקְפָנוּת",
-      "explanation_hebrew": "בצורה נחושה ותקיפה",
-      "pronunciation_hebrew": "אַגְרֶסִיבְלִי",
-      "example": "He negotiated aggressively to save money."
+      "hebrew": "הֶרְכֵּב",
+      "explanation_hebrew": "הַחֹמָרִים אוֹ הַחֲלָקִים שֶׁמַּשֶּׁהוּ עָשׂוּי מֵהֶם",
+      "pronunciation_hebrew": "קוֹמְפּוֹזִישֶׁן",
+      "example": "They studied the chemical composition of the rock."
     },
     {
-      "word": "independent",
-      "lemma": "independent",
-      "level": "B1",
-      "hebrew": "עַצְמָאִי",
-      "explanation_hebrew": "לא תלוי באחרים ולא מושפע מהם",
-      "pronunciation_hebrew": "אִינְדִיפֶּנְדֶנְט",
-      "example": "An independent valuation gives a fair price."
+      "word": "hypotheses",
+      "lemma": "hypothesis",
+      "level": "C1",
+      "hebrew": "הַשְׁעָרוֹת",
+      "explanation_hebrew": "רַעְיוֹנוֹת שֶׁצָּרִיךְ לִבְדֹּק אִם הֵם נְכוֹנִים",
+      "pronunciation_hebrew": "הַייפּוֹתֶסִיז",
+      "example": "The scientists tested two hypotheses."
     },
     {
-      "word": "landlords",
-      "lemma": "landlord",
+      "word": "distinct",
+      "lemma": "distinct",
       "level": "B2",
-      "hebrew": "בַּעֲלֵי דִּירוֹת",
-      "explanation_hebrew": "אנשים שמשכירים נכסים לאחרים",
-      "pronunciation_hebrew": "לַנְדְלוֹרְדְז",
-      "example": "Some landlords did not need to sell."
+      "hebrew": "מֻבְחָן, שׁוֹנֶה",
+      "explanation_hebrew": "בָּרוּר וְשׁוֹנֶה בְּאֹפֶן נִכָּר",
+      "pronunciation_hebrew": "דִיסְטִינְקְט",
+      "example": "The two species are quite distinct."
     },
     {
-      "word": "exclusively",
-      "lemma": "exclusively",
-      "level": "B2",
-      "hebrew": "בִּלְעָדִית",
-      "explanation_hebrew": "רק למישהו אחד ולא לאחרים",
-      "pronunciation_hebrew": "אֶקְסְקְלוּסִיבְלִי",
-      "example": "The data was shared exclusively with the BBC."
+      "word": "contaminated",
+      "lemma": "contaminate",
+      "level": "C1",
+      "hebrew": "מְזֹהָם",
+      "explanation_hebrew": "הִתְלַכְלֵךְ בְּחֹמֶר מַזִּיק אוֹ לֹא רָצוּי",
+      "pronunciation_hebrew": "קוֹנְטַמִינֵייטֶד",
+      "example": "The water was contaminated with chemicals."
     },
     {
-      "word": "equivalent",
-      "lemma": "equivalent",
-      "level": "B2",
-      "hebrew": "שְׁוֵה-עֵרֶךְ",
-      "explanation_hebrew": "שווה בערכו לדבר אחר",
-      "pronunciation_hebrew": "אִיקְוִיוַלֶנְט",
-      "example": "The cut was equivalent to thousands of pounds."
+      "word": "pristine",
+      "lemma": "pristine",
+      "level": "C1",
+      "hebrew": "בְּתוּלִי, נָקִי לְגַמְרֵי",
+      "explanation_hebrew": "בַּמַּצָּב הַמְּקוֹרִי, לְלֹא כָּל פְּגָם אוֹ זִהוּם",
+      "pronunciation_hebrew": "פְּרִיסְטִין",
+      "example": "The beach was pristine and untouched."
     },
     {
-      "word": "portals",
-      "lemma": "portal",
+      "word": "desperate",
+      "lemma": "desperate",
       "level": "B2",
-      "hebrew": "פּוֹרְטָלִים",
-      "explanation_hebrew": "אתרי אינטרנט שמרכזים מידע או שירות",
-      "pronunciation_hebrew": "פּוֹרְטַלְז",
-      "example": "Property portals list thousands of homes."
-    },
-    {
-      "word": "timeframe",
-      "lemma": "timeframe",
-      "level": "B2",
-      "hebrew": "מִסְגֶּרֶת זְמַן",
-      "explanation_hebrew": "פרק הזמן שבו משהו אמור לקרות",
-      "pronunciation_hebrew": "טַיימְפְרֵיים",
-      "example": "They hoped to sell within a short timeframe."
+      "hebrew": "נוֹאָשׁ",
+      "explanation_hebrew": "בְּמַצָּב שֶׁל צֹרֶךְ אוֹ רָצוֹן עַז מְאוֹד",
+      "pronunciation_hebrew": "דֶסְפֶּרֶט",
+      "example": "They were desperate for help."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "glut",
+      "word": "spacecraft",
       "type": "english_to_hebrew",
-      "question": "What does “glut” mean?",
+      "question": "What does “spacecraft” mean?",
       "options": [
-        "נִהֵל מַשָּׂא וּמַתָּן",
-        "עֹדֶף",
-        "הַפְחָתָה",
-        "שִׁעוּר"
+        "דְּגִימָה",
+        "נִתַּח",
+        "שִׁגֵּר",
+        "חֲלָלִית"
       ],
-      "correct_answer": "עֹדֶף",
-      "explanation_hebrew": "המילה “glut” פירושה עֹדֶף."
+      "correct_answer": "חֲלָלִית",
+      "explanation_hebrew": "“spacecraft” פירושו חֲלָלִית."
     },
     {
       "id": "B-q2",
-      "word": "unrealistic",
+      "word": "launched",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “לֹא מְצִיאוּתִי”?",
+      "question": "איזו מילה באנגלית פירושה “שִׁגֵּר”?",
       "options": [
-        "surveyors",
-        "crucial",
-        "unrealistic",
-        "glut"
+        "sample",
+        "analysed",
+        "launched",
+        "scheduled"
       ],
-      "correct_answer": "unrealistic",
-      "explanation_hebrew": "המילה האנגלית “unrealistic” פירושה לֹא מְצִיאוּתִי."
+      "correct_answer": "launched",
+      "explanation_hebrew": "המילה “launched” פירושה שִׁגֵּר."
     },
     {
       "id": "B-q3",
-      "word": "proportion",
+      "word": "sample",
       "type": "english_to_hebrew",
-      "question": "What does “proportion” mean?",
+      "question": "What does “sample” mean?",
       "options": [
-        "בִּלְעָדִית",
-        "הַעֲרָכוֹת שֹׁוִי",
-        "בַּר-הַשָּׂגָה",
-        "שִׁעוּר"
+        "תַּעֲלוּמָה",
+        "נִתַּח",
+        "דְּגִימָה",
+        "מְתֻכְנָן"
       ],
-      "correct_answer": "שִׁעוּר",
-      "explanation_hebrew": "המילה “proportion” פירושה שִׁעוּר."
+      "correct_answer": "דְּגִימָה",
+      "explanation_hebrew": "“sample” פירושו דְּגִימָה."
     },
     {
       "id": "B-q4",
-      "word": "choosy",
+      "word": "analysed",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “בַּרְרָן”?",
+      "question": "איזו מילה באנגלית פירושה “נִתַּח”?",
       "options": [
-        "aggressively",
-        "choosy",
-        "landlords",
-        "negotiated"
+        "analysed",
+        "scheduled",
+        "mystery",
+        "ambitious"
       ],
-      "correct_answer": "choosy",
-      "explanation_hebrew": "המילה האנגלית “choosy” פירושה בַּרְרָן."
+      "correct_answer": "analysed",
+      "explanation_hebrew": "המילה “analysed” פירושה נִתַּח."
     },
     {
       "id": "B-q5",
-      "word": "budget",
+      "word": "scheduled",
       "type": "english_to_hebrew",
-      "question": "What does “budget” mean?",
+      "question": "What does “scheduled” mean?",
       "options": [
-        "תַּקְצִיב",
-        "מַכְרִיעַ",
-        "פּוֹרְטָלִים",
-        "בְּתוֹקְפָנוּת"
+        "בְּאֹפֶן לֹא סָדִיר",
+        "תַּעֲלוּמָה",
+        "שַׁאַפְתָּנִי",
+        "מְתֻכְנָן"
       ],
-      "correct_answer": "תַּקְצִיב",
-      "explanation_hebrew": "המילה “budget” פירושה תַּקְצִיב."
+      "correct_answer": "מְתֻכְנָן",
+      "explanation_hebrew": "“scheduled” פירושו מְתֻכְנָן."
     },
     {
       "id": "B-q6",
-      "word": "mortgage",
+      "word": "mystery",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מַשְׁכַּנְתָּא”?",
+      "question": "איזו מילה באנגלית פירושה “תַּעֲלוּמָה”?",
       "options": [
-        "surveyors",
-        "aggressively",
-        "mortgage",
-        "choosy"
+        "mystery",
+        "irregularly",
+        "ambitious",
+        "terrain"
       ],
-      "correct_answer": "mortgage",
-      "explanation_hebrew": "המילה האנגלית “mortgage” פירושה מַשְׁכַּנְתָּא."
+      "correct_answer": "mystery",
+      "explanation_hebrew": "המילה “mystery” פירושה תַּעֲלוּמָה."
     },
     {
       "id": "B-q7",
-      "word": "reduction",
+      "word": "ambitious",
       "type": "english_to_hebrew",
-      "question": "What does “reduction” mean?",
+      "question": "What does “ambitious” mean?",
       "options": [
-        "חֲכִירָה",
-        "הִשְׁקִיעַ",
-        "הַפְחָתָה",
-        "מַשְׁכַּנְתָּא"
+        "שֶׁטַח, פְּנֵי קַרְקַע",
+        "בְּאֹפֶן לֹא סָדִיר",
+        "כֹּחַ הַמְּשִׁיכָה",
+        "שַׁאַפְתָּנִי"
       ],
-      "correct_answer": "הַפְחָתָה",
-      "explanation_hebrew": "המילה “reduction” פירושה הַפְחָתָה."
+      "correct_answer": "שַׁאַפְתָּנִי",
+      "explanation_hebrew": "“ambitious” פירושו שַׁאַפְתָּנִי."
     },
     {
       "id": "B-q8",
-      "word": "cautious",
+      "word": "irregularly",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “זָהִיר”?",
+      "question": "איזו מילה באנגלית פירושה “בְּאֹפֶן לֹא סָדִיר”?",
       "options": [
-        "revised",
-        "selective",
-        "cautious",
-        "equivalent"
+        "gravity",
+        "irregularly",
+        "terrain",
+        "enormous"
       ],
-      "correct_answer": "cautious",
-      "explanation_hebrew": "המילה האנגלית “cautious” פירושה זָהִיר."
+      "correct_answer": "irregularly",
+      "explanation_hebrew": "המילה “irregularly” פירושה בְּאֹפֶן לֹא סָדִיר."
     },
     {
       "id": "B-q9",
-      "word": "selective",
+      "word": "terrain",
       "type": "english_to_hebrew",
-      "question": "What does “selective” mean?",
+      "question": "What does “terrain” mean?",
       "options": [
-        "מְעֻדְכָּן",
-        "בַּעֲלֵי דִּירוֹת",
-        "בֶּרֵרָנִי",
-        "שְׁוֵה-עֵרֶךְ"
+        "עֲנָקִי",
+        "לְהַפְעִיל, לִפְרֹשׂ",
+        "כֹּחַ הַמְּשִׁיכָה",
+        "שֶׁטַח, פְּנֵי קַרְקַע"
       ],
-      "correct_answer": "בֶּרֵרָנִי",
-      "explanation_hebrew": "המילה “selective” פירושה בֶּרֵרָנִי."
+      "correct_answer": "שֶׁטַח, פְּנֵי קַרְקַע",
+      "explanation_hebrew": "“terrain” פירושו שֶׁטַח, פְּנֵי קַרְקַע."
     },
     {
       "id": "B-q10",
-      "word": "affordable",
+      "word": "gravity",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “בַּר-הַשָּׂגָה”?",
+      "question": "איזו מילה באנגלית פירושה “כֹּחַ הַמְּשִׁיכָה”?",
       "options": [
-        "budget",
-        "reduction",
-        "mortgage",
-        "affordable"
+        "capsule",
+        "gravity",
+        "deploy",
+        "enormous"
       ],
-      "correct_answer": "affordable",
-      "explanation_hebrew": "המילה האנגלית “affordable” פירושה בַּר-הַשָּׂגָה."
+      "correct_answer": "gravity",
+      "explanation_hebrew": "המילה “gravity” פירושה כֹּחַ הַמְּשִׁיכָה."
     },
     {
       "id": "B-q11",
-      "word": "leasehold",
+      "word": "enormous",
       "type": "english_to_hebrew",
-      "question": "What does “leasehold” mean?",
+      "question": "What does “enormous” mean?",
       "options": [
-        "חֲכִירָה",
-        "עַצְמָאִי",
-        "הַעֲרָכוֹת שֹׁוִי",
-        "בֶּרֵרָנִי"
+        "לְהַפְעִיל, לִפְרֹשׂ",
+        "גַּרְגִּירִים",
+        "עֲנָקִי",
+        "תָּא נְחִיתָה"
       ],
-      "correct_answer": "חֲכִירָה",
-      "explanation_hebrew": "המילה “leasehold” פירושה חֲכִירָה."
+      "correct_answer": "עֲנָקִי",
+      "explanation_hebrew": "“enormous” פירושו עֲנָקִי."
     },
     {
       "id": "B-q12",
-      "word": "emotional",
+      "word": "deploy",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “רִגְשִׁי”?",
+      "question": "איזו מילה באנגלית פירושה “לְהַפְעִיל, לִפְרֹשׂ”?",
       "options": [
-        "selective",
-        "cautious",
-        "emotional",
-        "leasehold"
+        "puzzle",
+        "capsule",
+        "grains",
+        "deploy"
       ],
-      "correct_answer": "emotional",
-      "explanation_hebrew": "המילה האנגלית “emotional” פירושה רִגְשִׁי."
+      "correct_answer": "deploy",
+      "explanation_hebrew": "המילה “deploy” פירושה לְהַפְעִיל, לִפְרֹשׂ."
     },
     {
       "id": "B-q13",
-      "word": "invested",
+      "word": "capsule",
       "type": "english_to_hebrew",
-      "question": "What does “invested” mean?",
+      "question": "What does “capsule” mean?",
       "options": [
-        "הַעֲרָכוֹת שֹׁוִי",
-        "הִשְׁקִיעַ",
-        "בְּתוֹקְפָנוּת",
-        "עַצְמָאִי"
+        "גַּרְגִּירִים",
+        "תָּא נְחִיתָה",
+        "מִתְחָרִים",
+        "חִידָה"
       ],
-      "correct_answer": "הִשְׁקִיעַ",
-      "explanation_hebrew": "המילה “invested” פירושה הִשְׁקִיעַ."
+      "correct_answer": "תָּא נְחִיתָה",
+      "explanation_hebrew": "“capsule” פירושו תָּא נְחִיתָה."
     },
     {
       "id": "B-q14",
-      "word": "valuations",
+      "word": "grains",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “הַעֲרָכוֹת שֹׁוִי”?",
+      "question": "איזו מילה באנגלית פירושה “גַּרְגִּירִים”?",
       "options": [
-        "valuations",
-        "portals",
-        "glut",
-        "emotional"
+        "puzzle",
+        "grains",
+        "debris",
+        "competing"
       ],
-      "correct_answer": "valuations",
-      "explanation_hebrew": "המילה האנגלית “valuations” פירושה הַעֲרָכוֹת שֹׁוִי."
+      "correct_answer": "grains",
+      "explanation_hebrew": "המילה “grains” פירושה גַּרְגִּירִים."
     },
     {
       "id": "B-q15",
-      "word": "crucial",
+      "word": "puzzle",
       "type": "english_to_hebrew",
-      "question": "What does “crucial” mean?",
+      "question": "What does “puzzle” mean?",
       "options": [
-        "מַכְרִיעַ",
-        "בִּלְעָדִית",
-        "חֲכִירָה",
-        "לֹא מְצִיאוּתִי"
+        "נוֹדֵד",
+        "מִתְחָרִים",
+        "חִידָה",
+        "שְׁבָרִים, הֲרִיסוֹת"
       ],
-      "correct_answer": "מַכְרִיעַ",
-      "explanation_hebrew": "המילה “crucial” פירושה מַכְרִיעַ."
+      "correct_answer": "חִידָה",
+      "explanation_hebrew": "“puzzle” פירושו חִידָה."
     },
     {
       "id": "B-q16",
-      "word": "surveyors",
+      "word": "competing",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “שַׁמָּאִים”?",
+      "question": "איזו מילה באנגלית פירושה “מִתְחָרִים”?",
       "options": [
-        "landlords",
-        "surveyors",
-        "proportion",
-        "emotional"
+        "debris",
+        "asteroids",
+        "wandering",
+        "competing"
       ],
-      "correct_answer": "surveyors",
-      "explanation_hebrew": "המילה האנגלית “surveyors” פירושה שַׁמָּאִים."
+      "correct_answer": "competing",
+      "explanation_hebrew": "המילה “competing” פירושה מִתְחָרִים."
     },
     {
       "id": "B-q17",
-      "word": "revised",
+      "word": "debris",
       "type": "english_to_hebrew",
-      "question": "What does “revised” mean?",
+      "question": "What does “debris” mean?",
       "options": [
-        "הִשְׁקִיעַ",
-        "מְעֻדְכָּן",
-        "בֶּרֵרָנִי",
-        "שְׁוֵה-עֵרֶךְ"
+        "אַסְטֵרוֹאִידִים",
+        "הֶרְכֵּב",
+        "שְׁבָרִים, הֲרִיסוֹת",
+        "נוֹדֵד"
       ],
-      "correct_answer": "מְעֻדְכָּן",
-      "explanation_hebrew": "המילה “revised” פירושה מְעֻדְכָּן."
+      "correct_answer": "שְׁבָרִים, הֲרִיסוֹת",
+      "explanation_hebrew": "“debris” פירושו שְׁבָרִים, הֲרִיסוֹת."
     },
     {
       "id": "B-q18",
-      "word": "negotiated",
+      "word": "wandering",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “נִהֵל מַשָּׂא וּמַתָּן”?",
+      "question": "איזו מילה באנגלית פירושה “נוֹדֵד”?",
       "options": [
-        "choosy",
-        "aggressively",
-        "independent",
-        "negotiated"
+        "asteroids",
+        "composition",
+        "hypotheses",
+        "wandering"
       ],
-      "correct_answer": "negotiated",
-      "explanation_hebrew": "המילה האנגלית “negotiated” פירושה נִהֵל מַשָּׂא וּמַתָּן."
+      "correct_answer": "wandering",
+      "explanation_hebrew": "המילה “wandering” פירושה נוֹדֵד."
     },
     {
       "id": "B-q19",
-      "word": "aggressively",
+      "word": "asteroids",
       "type": "english_to_hebrew",
-      "question": "What does “aggressively” mean?",
+      "question": "What does “asteroids” mean?",
       "options": [
-        "בְּתוֹקְפָנוּת",
-        "זָהִיר",
-        "שְׁוֵה-עֵרֶךְ",
-        "הַפְחָתָה"
+        "הַשְׁעָרוֹת",
+        "אַסְטֵרוֹאִידִים",
+        "הֶרְכֵּב",
+        "מֻבְחָן, שׁוֹנֶה"
       ],
-      "correct_answer": "בְּתוֹקְפָנוּת",
-      "explanation_hebrew": "המילה “aggressively” פירושה בְּתוֹקְפָנוּת."
+      "correct_answer": "אַסְטֵרוֹאִידִים",
+      "explanation_hebrew": "“asteroids” פירושו אַסְטֵרוֹאִידִים."
     },
     {
       "id": "B-q20",
-      "word": "independent",
+      "word": "composition",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “עַצְמָאִי”?",
+      "question": "איזו מילה באנגלית פירושה “הֶרְכֵּב”?",
       "options": [
-        "aggressively",
-        "independent",
-        "affordable",
-        "invested"
+        "hypotheses",
+        "composition",
+        "contaminated",
+        "distinct"
       ],
-      "correct_answer": "independent",
-      "explanation_hebrew": "המילה האנגלית “independent” פירושה עַצְמָאִי."
+      "correct_answer": "composition",
+      "explanation_hebrew": "המילה “composition” פירושה הֶרְכֵּב."
     },
     {
       "id": "B-q21",
-      "word": "landlords",
+      "word": "hypotheses",
       "type": "english_to_hebrew",
-      "question": "What does “landlords” mean?",
+      "question": "What does “hypotheses” mean?",
       "options": [
-        "הַפְחָתָה",
-        "מְעֻדְכָּן",
-        "בַּעֲלֵי דִּירוֹת",
-        "חֲכִירָה"
+        "מֻבְחָן, שׁוֹנֶה",
+        "בְּתוּלִי, נָקִי לְגַמְרֵי",
+        "מְזֹהָם",
+        "הַשְׁעָרוֹת"
       ],
-      "correct_answer": "בַּעֲלֵי דִּירוֹת",
-      "explanation_hebrew": "המילה “landlords” פירושה בַּעֲלֵי דִּירוֹת."
+      "correct_answer": "הַשְׁעָרוֹת",
+      "explanation_hebrew": "“hypotheses” פירושו הַשְׁעָרוֹת."
     },
     {
       "id": "B-q22",
-      "word": "exclusively",
+      "word": "distinct",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “בִּלְעָדִית”?",
+      "question": "איזו מילה באנגלית פירושה “מֻבְחָן, שׁוֹנֶה”?",
       "options": [
-        "exclusively",
-        "timeframe",
-        "invested",
-        "aggressively"
+        "desperate",
+        "contaminated",
+        "distinct",
+        "pristine"
       ],
-      "correct_answer": "exclusively",
-      "explanation_hebrew": "המילה האנגלית “exclusively” פירושה בִּלְעָדִית."
+      "correct_answer": "distinct",
+      "explanation_hebrew": "המילה “distinct” פירושה מֻבְחָן, שׁוֹנֶה."
     },
     {
       "id": "B-q23",
-      "word": "equivalent",
+      "word": "contaminated",
       "type": "english_to_hebrew",
-      "question": "What does “equivalent” mean?",
+      "question": "What does “contaminated” mean?",
       "options": [
-        "בְּתוֹקְפָנוּת",
-        "הַעֲרָכוֹת שֹׁוִי",
-        "שְׁוֵה-עֵרֶךְ",
-        "תַּקְצִיב"
+        "בְּתוּלִי, נָקִי לְגַמְרֵי",
+        "מְזֹהָם",
+        "חֲלָלִית",
+        "נוֹאָשׁ"
       ],
-      "correct_answer": "שְׁוֵה-עֵרֶךְ",
-      "explanation_hebrew": "המילה “equivalent” פירושה שְׁוֵה-עֵרֶךְ."
+      "correct_answer": "מְזֹהָם",
+      "explanation_hebrew": "“contaminated” פירושו מְזֹהָם."
     },
     {
       "id": "B-q24",
-      "word": "portals",
+      "word": "pristine",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “פּוֹרְטָלִים”?",
+      "question": "איזו מילה באנגלית פירושה “בְּתוּלִי, נָקִי לְגַמְרֵי”?",
       "options": [
-        "portals",
-        "reduction",
-        "emotional",
-        "independent"
+        "pristine",
+        "launched",
+        "desperate",
+        "spacecraft"
       ],
-      "correct_answer": "portals",
-      "explanation_hebrew": "המילה האנגלית “portals” פירושה פּוֹרְטָלִים."
+      "correct_answer": "pristine",
+      "explanation_hebrew": "המילה “pristine” פירושה בְּתוּלִי, נָקִי לְגַמְרֵי."
     },
     {
       "id": "B-q25",
-      "word": "timeframe",
+      "word": "desperate",
       "type": "english_to_hebrew",
-      "question": "What does “timeframe” mean?",
+      "question": "What does “desperate” mean?",
       "options": [
-        "זָהִיר",
-        "פּוֹרְטָלִים",
-        "מִסְגֶּרֶת זְמַן",
-        "הַעֲרָכוֹת שֹׁוִי"
+        "חֲלָלִית",
+        "נוֹאָשׁ",
+        "דְּגִימָה",
+        "שִׁגֵּר"
       ],
-      "correct_answer": "מִסְגֶּרֶת זְמַן",
-      "explanation_hebrew": "המילה “timeframe” פירושה מִסְגֶּרֶת זְמַן."
+      "correct_answer": "נוֹאָשׁ",
+      "explanation_hebrew": "“desperate” פירושו נוֹאָשׁ."
     }
   ]
 }

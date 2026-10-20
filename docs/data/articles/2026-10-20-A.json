@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-20",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+  "published_at": "2026-10-19T18:21:54+00:00",
+  "age_hours_at_selection": 7.88,
+  "word_count": 515,
+  "generated_at": "2026-10-20T02:14:29.717395+00:00",
+  "difficulty_reason": "Short, direct news report with a clear single storyline and mostly B1/B2 vocabulary; little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "banned",
+      "lemma": "ban",
+      "level": "B2",
+      "hebrew": "אָסַר",
+      "explanation_hebrew": "מָנַע מִשֶּׁהוּ לְהִשְׁתַּמֵּשׁ בְּמַשֶּׁהוּ בְּאוֹפֶן רִשְׁמִי",
+      "pronunciation_hebrew": "בֶּאנְד",
+      "example": "The school banned mobile phones in class."
+    },
+    {
+      "word": "removed",
+      "lemma": "remove",
+      "level": "B1",
+      "hebrew": "הֵסִיר",
+      "explanation_hebrew": "לָקַח מַשֶּׁהוּ מִמְּקוֹמוֹ",
+      "pronunciation_hebrew": "רִימוּבְד",
+      "example": "She removed the old files from the computer."
+    },
+    {
+      "word": "civilian",
+      "lemma": "civilian",
+      "level": "B2",
+      "hebrew": "אֶזְרָחִי",
+      "explanation_hebrew": "הַקָּשׁוּר לְאֶזְרָחִים וְלֹא לַצָּבָא",
+      "pronunciation_hebrew": "סִיבִילְיֶן",
+      "example": "The bombing damaged civilian homes."
+    },
+    {
+      "word": "disruptive",
+      "lemma": "disruptive",
+      "level": "C1",
+      "hebrew": "מְשַׁבֵּשׁ",
+      "explanation_hebrew": "שֶׁגּוֹרֵם לְשִׁנּוּי גָּדוֹל אוֹ לְהַפְרָעָה לַסֵּדֶר הַקַּיָּם",
+      "pronunciation_hebrew": "דִיסְרַפְּטִיב",
+      "example": "Smartphones were a disruptive technology."
+    },
+    {
+      "word": "ongoing",
+      "lemma": "ongoing",
+      "level": "B2",
+      "hebrew": "מִתְמַשֵּׁךְ",
+      "explanation_hebrew": "שֶׁעֲדַיִן נִמְשָׁךְ וְלֹא הִסְתַּיֵּם",
+      "pronunciation_hebrew": "אוֹנְגוֹאִינְג",
+      "example": "The investigation is still ongoing."
+    },
+    {
+      "word": "criticised",
+      "lemma": "criticise",
+      "level": "B2",
+      "hebrew": "מָתַח בִּקֹּרֶת",
+      "explanation_hebrew": "אָמַר שֶׁמַּשֶּׁהוּ אוֹ מִישֶׁהוּ לֹא טוֹב",
+      "pronunciation_hebrew": "קְרִיטִיסַייזְד",
+      "example": "Critics criticised the new policy."
+    },
+    {
+      "word": "concerns",
+      "lemma": "concern",
+      "level": "B1",
+      "hebrew": "חֲשָׁשׁוֹת",
+      "explanation_hebrew": "דְּאָגוֹת אוֹ עִנְיָנִים הַמַּטְרִידִים אֲנָשִׁים",
+      "pronunciation_hebrew": "קוֹנְסֶרְנְז",
+      "example": "They raised concerns about safety."
+    },
+    {
+      "word": "excluded",
+      "lemma": "exclude",
+      "level": "B2",
+      "hebrew": "הֻחְרַג",
+      "explanation_hebrew": "לֹא נִכְלַל בְּתוֹךְ קְבוּצָה אוֹ רְשִׁימָה",
+      "pronunciation_hebrew": "אִיקְסְקְלוּדֶד",
+      "example": "Two players were excluded from the team."
+    },
+    {
+      "word": "criticism",
+      "lemma": "criticism",
+      "level": "B2",
+      "hebrew": "בִּקֹּרֶת",
+      "explanation_hebrew": "הַבָּעַת דַּעַת שְׁלִילִית עַל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "קְרִיטִיסִיזְם",
+      "example": "The plan received a lot of criticism."
+    },
+    {
+      "word": "administration",
+      "lemma": "administration",
+      "level": "B2",
+      "hebrew": "מִמְשָׁל",
+      "explanation_hebrew": "קְבוּצַת הָאֲנָשִׁים הַמְּנַהֶלֶת מְדִינָה אוֹ אִרְגּוּן",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵיישֶׁן",
+      "example": "The administration announced new rules."
+    },
+    {
+      "word": "malicious",
+      "lemma": "malicious",
+      "level": "C1",
+      "hebrew": "זְדוֹנִי",
+      "explanation_hebrew": "שֶׁנַּעֲשָׂה מִתּוֹךְ כַּוָּנָה לְהַזִּיק",
+      "pronunciation_hebrew": "מַלִישֶׁס",
+      "example": "He sent a malicious email to harm her."
+    },
+    {
+      "word": "exploitation",
+      "lemma": "exploitation",
+      "level": "C1",
+      "hebrew": "נִצּוּל",
+      "explanation_hebrew": "שִׁמּוּשׁ לֹא הוֹגֵן בְּמִישֶׁהוּ אוֹ בְּמַשֶּׁהוּ לְתוֹעֶלֶת עַצְמִית",
+      "pronunciation_hebrew": "אֶקְסְפְּלוֹיטֵיישֶׁן",
+      "example": "The law protects workers from exploitation."
+    },
+    {
+      "word": "memo",
+      "lemma": "memo",
+      "level": "B2",
+      "hebrew": "תִּזְכֹּרֶת",
+      "explanation_hebrew": "הוֹדָעָה כְּתוּבָה קְצָרָה בְּתוֹךְ אִרְגּוּן",
+      "pronunciation_hebrew": "מֶמוֹ",
+      "example": "The manager sent a memo to all staff."
+    },
+    {
+      "word": "rival",
+      "lemma": "rival",
+      "level": "B2",
+      "hebrew": "יָרִיב",
+      "explanation_hebrew": "מִישֶׁהוּ שֶׁמִּתְחָרֶה בְּמִישֶׁהוּ אַחֵר",
+      "pronunciation_hebrew": "רַייבֶל",
+      "example": "The two companies are fierce rivals."
+    },
+    {
+      "word": "poised",
+      "lemma": "poised",
+      "level": "C1",
+      "hebrew": "עָרוּךְ וּמוּכָן",
+      "explanation_hebrew": "מוּכָן לַעֲשׂוֹת מַשֶּׁהוּ בְּכָל רֶגַע",
+      "pronunciation_hebrew": "פּוֹיזְד",
+      "example": "The team is poised to win the title."
+    },
+    {
+      "word": "essentially",
+      "lemma": "essentially",
+      "level": "B2",
+      "hebrew": "לְמַעֲשֶׂה",
+      "explanation_hebrew": "בְּעִקָּרוֹן, בְּאֹפֶן בְּסִיסִי",
+      "pronunciation_hebrew": "אֶסֶנְשֶׁלִי",
+      "example": "The two models are essentially the same."
+    },
+    {
+      "word": "crucial",
+      "lemma": "crucial",
+      "level": "B2",
+      "hebrew": "קְרִיטִי",
+      "explanation_hebrew": "חָשׁוּב מְאוֹד, הֶכְרֵחִי",
+      "pronunciation_hebrew": "קְרוּשֶׁל",
+      "example": "Sleep is crucial for good health."
+    },
+    {
+      "word": "popularity",
+      "lemma": "popularity",
+      "level": "B2",
+      "hebrew": "פּוֹפּוּלָרִיּוּת",
+      "explanation_hebrew": "מִדַּת הַחִבָּה אוֹ הַהַצְלָחָה אֵצֶל אֲנָשִׁים רַבִּים",
+      "pronunciation_hebrew": "פּוֹפְּיוּלַרִיטִי",
+      "example": "The show grew in popularity."
+    },
+    {
+      "word": "demand",
+      "lemma": "demand",
+      "level": "B1",
+      "hebrew": "בִּקּוּשׁ",
+      "explanation_hebrew": "הָרָצוֹן שֶׁל אֲנָשִׁים לִקְנוֹת אוֹ לְקַבֵּל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "דִימַאנְד",
+      "example": "There is high demand for the new phone."
+    },
+    {
+      "word": "servers",
+      "lemma": "server",
+      "level": "B2",
+      "hebrew": "שָׁרָתִים",
+      "explanation_hebrew": "מַחְשְׁבִים הַמְּסַפְּקִים מֵידָע וּשְׁרוּתִים בָּרֶשֶׁת",
+      "pronunciation_hebrew": "סֶרְבֶרְז",
+      "example": "The website crashed because the servers went down."
+    },
+    {
+      "word": "incorporate",
+      "lemma": "incorporate",
+      "level": "C1",
+      "hebrew": "לְשַׁלֵּב",
+      "explanation_hebrew": "לִכְלֹל מַשֶּׁהוּ כְּחֵלֶק מִשָּׁלֵם",
+      "pronunciation_hebrew": "אִינְקוֹרְפּוֹרֵייט",
+      "example": "They incorporate new ideas into the design."
+    },
+    {
+      "word": "flocked",
+      "lemma": "flock",
+      "level": "B2",
+      "hebrew": "נָהֲרוּ",
+      "explanation_hebrew": "הִגִּיעוּ בְּהֲמוֹנֵיהֶם לְמָקוֹם",
+      "pronunciation_hebrew": "פְלוֹקְט",
+      "example": "Tourists flocked to the beach."
+    },
+    {
+      "word": "fraction",
+      "lemma": "fraction",
+      "level": "B2",
+      "hebrew": "שֶׁבֶר, חֵלֶק קָטָן",
+      "explanation_hebrew": "חֵלֶק קָטָן מְאוֹד מִמַּשֶּׁהוּ",
+      "pronunciation_hebrew": "פְרַאקְשֶׁן",
+      "example": "It costs only a fraction of the price."
+    },
+    {
+      "word": "expense",
+      "lemma": "expense",
+      "level": "B2",
+      "hebrew": "הוֹצָאָה",
+      "explanation_hebrew": "כֶּסֶף שֶׁצָּרִיךְ לְהוֹצִיא עַל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "אִיקְסְפֶּנְס",
+      "example": "They cut costs to reduce expenses."
+    },
+    {
+      "word": "revelations",
+      "lemma": "revelation",
+      "level": "C1",
+      "hebrew": "גִּלּוּיִים",
+      "explanation_hebrew": "מֵידָע מַפְתִּיעַ שֶׁנֶּחְשָׂף לָרִאשׁוֹנָה",
+      "pronunciation_hebrew": "רֶבֶלֵיישֶׁנְז",
+      "example": "The report contained shocking revelations."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "banned",
+      "type": "english_to_hebrew",
+      "question": "What does “banned” mean?",
+      "options": [
+        "הֵסִיר",
+        "אָסַר",
+        "מְשַׁבֵּשׁ",
+        "אֶזְרָחִי"
+      ],
+      "correct_answer": "אָסַר",
+      "explanation_hebrew": "“banned” פירושו אָסַר."
+    },
+    {
+      "id": "A-q2",
+      "word": "removed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הֵסִיר”?",
+      "options": [
+        "civilian",
+        "disruptive",
+        "removed",
+        "ongoing"
+      ],
+      "correct_answer": "removed",
+      "explanation_hebrew": "המילה “removed” פירושה הֵסִיר."
+    },
+    {
+      "id": "A-q3",
+      "word": "civilian",
+      "type": "english_to_hebrew",
+      "question": "What does “civilian” mean?",
+      "options": [
+        "מְשַׁבֵּשׁ",
+        "מִתְמַשֵּׁךְ",
+        "אֶזְרָחִי",
+        "מָתַח בִּקֹּרֶת"
+      ],
+      "correct_answer": "אֶזְרָחִי",
+      "explanation_hebrew": "“civilian” פירושו אֶזְרָחִי."
+    },
+    {
+      "id": "A-q4",
+      "word": "disruptive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְשַׁבֵּשׁ”?",
+      "options": [
+        "ongoing",
+        "criticised",
+        "concerns",
+        "disruptive"
+      ],
+      "correct_answer": "disruptive",
+      "explanation_hebrew": "המילה “disruptive” פירושה מְשַׁבֵּשׁ."
+    },
+    {
+      "id": "A-q5",
+      "word": "ongoing",
+      "type": "english_to_hebrew",
+      "question": "What does “ongoing” mean?",
+      "options": [
+        "מָתַח בִּקֹּרֶת",
+        "חֲשָׁשׁוֹת",
+        "מִתְמַשֵּׁךְ",
+        "הֻחְרַג"
+      ],
+      "correct_answer": "מִתְמַשֵּׁךְ",
+      "explanation_hebrew": "“ongoing” פירושו מִתְמַשֵּׁךְ."
+    },
+    {
+      "id": "A-q6",
+      "word": "criticised",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מָתַח בִּקֹּרֶת”?",
+      "options": [
+        "concerns",
+        "criticised",
+        "excluded",
+        "criticism"
+      ],
+      "correct_answer": "criticised",
+      "explanation_hebrew": "המילה “criticised” פירושה מָתַח בִּקֹּרֶת."
+    },
+    {
+      "id": "A-q7",
+      "word": "concerns",
+      "type": "english_to_hebrew",
+      "question": "What does “concerns” mean?",
+      "options": [
+        "חֲשָׁשׁוֹת",
+        "הֻחְרַג",
+        "בִּקֹּרֶת",
+        "מִמְשָׁל"
+      ],
+      "correct_answer": "חֲשָׁשׁוֹת",
+      "explanation_hebrew": "“concerns” פירושו חֲשָׁשׁוֹת."
+    },
+    {
+      "id": "A-q8",
+      "word": "excluded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הֻחְרַג”?",
+      "options": [
+        "malicious",
+        "criticism",
+        "administration",
+        "excluded"
+      ],
+      "correct_answer": "excluded",
+      "explanation_hebrew": "המילה “excluded” פירושה הֻחְרַג."
+    },
+    {
+      "id": "A-q9",
+      "word": "criticism",
+      "type": "english_to_hebrew",
+      "question": "What does “criticism” mean?",
+      "options": [
+        "מִמְשָׁל",
+        "בִּקֹּרֶת",
+        "זְדוֹנִי",
+        "נִצּוּל"
+      ],
+      "correct_answer": "בִּקֹּרֶת",
+      "explanation_hebrew": "“criticism” פירושו בִּקֹּרֶת."
+    },
+    {
+      "id": "A-q10",
+      "word": "administration",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מִמְשָׁל”?",
+      "options": [
+        "exploitation",
+        "memo",
+        "malicious",
+        "administration"
+      ],
+      "correct_answer": "administration",
+      "explanation_hebrew": "המילה “administration” פירושה מִמְשָׁל."
+    },
+    {
+      "id": "A-q11",
+      "word": "malicious",
+      "type": "english_to_hebrew",
+      "question": "What does “malicious” mean?",
+      "options": [
+        "יָרִיב",
+        "זְדוֹנִי",
+        "נִצּוּל",
+        "תִּזְכֹּרֶת"
+      ],
+      "correct_answer": "זְדוֹנִי",
+      "explanation_hebrew": "“malicious” פירושו זְדוֹנִי."
+    },
+    {
+      "id": "A-q12",
+      "word": "exploitation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִצּוּל”?",
+      "options": [
+        "memo",
+        "rival",
+        "poised",
+        "exploitation"
+      ],
+      "correct_answer": "exploitation",
+      "explanation_hebrew": "המילה “exploitation” פירושה נִצּוּל."
+    },
+    {
+      "id": "A-q13",
+      "word": "memo",
+      "type": "english_to_hebrew",
+      "question": "What does “memo” mean?",
+      "options": [
+        "תִּזְכֹּרֶת",
+        "יָרִיב",
+        "לְמַעֲשֶׂה",
+        "עָרוּךְ וּמוּכָן"
+      ],
+      "correct_answer": "תִּזְכֹּרֶת",
+      "explanation_hebrew": "“memo” פירושו תִּזְכֹּרֶת."
+    },
+    {
+      "id": "A-q14",
+      "word": "rival",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יָרִיב”?",
+      "options": [
+        "essentially",
+        "crucial",
+        "rival",
+        "poised"
+      ],
+      "correct_answer": "rival",
+      "explanation_hebrew": "המילה “rival” פירושה יָרִיב."
+    },
+    {
+      "id": "A-q15",
+      "word": "poised",
+      "type": "english_to_hebrew",
+      "question": "What does “poised” mean?",
+      "options": [
+        "עָרוּךְ וּמוּכָן",
+        "פּוֹפּוּלָרִיּוּת",
+        "לְמַעֲשֶׂה",
+        "קְרִיטִי"
+      ],
+      "correct_answer": "עָרוּךְ וּמוּכָן",
+      "explanation_hebrew": "“poised” פירושו עָרוּךְ וּמוּכָן."
+    },
+    {
+      "id": "A-q16",
+      "word": "essentially",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְמַעֲשֶׂה”?",
+      "options": [
+        "crucial",
+        "demand",
+        "popularity",
+        "essentially"
+      ],
+      "correct_answer": "essentially",
+      "explanation_hebrew": "המילה “essentially” פירושה לְמַעֲשֶׂה."
+    },
+    {
+      "id": "A-q17",
+      "word": "crucial",
+      "type": "english_to_hebrew",
+      "question": "What does “crucial” mean?",
+      "options": [
+        "פּוֹפּוּלָרִיּוּת",
+        "שָׁרָתִים",
+        "בִּקּוּשׁ",
+        "קְרִיטִי"
+      ],
+      "correct_answer": "קְרִיטִי",
+      "explanation_hebrew": "“crucial” פירושו קְרִיטִי."
+    },
+    {
+      "id": "A-q18",
+      "word": "popularity",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פּוֹפּוּלָרִיּוּת”?",
+      "options": [
+        "demand",
+        "servers",
+        "incorporate",
+        "popularity"
+      ],
+      "correct_answer": "popularity",
+      "explanation_hebrew": "המילה “popularity” פירושה פּוֹפּוּלָרִיּוּת."
+    },
+    {
+      "id": "A-q19",
+      "word": "demand",
+      "type": "english_to_hebrew",
+      "question": "What does “demand” mean?",
+      "options": [
+        "נָהֲרוּ",
+        "בִּקּוּשׁ",
+        "שָׁרָתִים",
+        "לְשַׁלֵּב"
+      ],
+      "correct_answer": "בִּקּוּשׁ",
+      "explanation_hebrew": "“demand” פירושו בִּקּוּשׁ."
+    },
+    {
+      "id": "A-q20",
+      "word": "servers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שָׁרָתִים”?",
+      "options": [
+        "servers",
+        "incorporate",
+        "fraction",
+        "flocked"
+      ],
+      "correct_answer": "servers",
+      "explanation_hebrew": "המילה “servers” פירושה שָׁרָתִים."
+    },
+    {
+      "id": "A-q21",
+      "word": "incorporate",
+      "type": "english_to_hebrew",
+      "question": "What does “incorporate” mean?",
+      "options": [
+        "הוֹצָאָה",
+        "נָהֲרוּ",
+        "שֶׁבֶר, חֵלֶק קָטָן",
+        "לְשַׁלֵּב"
+      ],
+      "correct_answer": "לְשַׁלֵּב",
+      "explanation_hebrew": "“incorporate” פירושו לְשַׁלֵּב."
+    },
+    {
+      "id": "A-q22",
+      "word": "flocked",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נָהֲרוּ”?",
+      "options": [
+        "expense",
+        "revelations",
+        "fraction",
+        "flocked"
+      ],
+      "correct_answer": "flocked",
+      "explanation_hebrew": "המילה “flocked” פירושה נָהֲרוּ."
+    },
+    {
+      "id": "A-q23",
+      "word": "fraction",
+      "type": "english_to_hebrew",
+      "question": "What does “fraction” mean?",
+      "options": [
+        "שֶׁבֶר, חֵלֶק קָטָן",
+        "הוֹצָאָה",
+        "גִּלּוּיִים",
+        "אָסַר"
+      ],
+      "correct_answer": "שֶׁבֶר, חֵלֶק קָטָן",
+      "explanation_hebrew": "“fraction” פירושו שֶׁבֶר, חֵלֶק קָטָן."
+    },
+    {
+      "id": "A-q24",
+      "word": "expense",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הוֹצָאָה”?",
+      "options": [
+        "banned",
+        "removed",
+        "expense",
+        "revelations"
+      ],
+      "correct_answer": "expense",
+      "explanation_hebrew": "המילה “expense” פירושה הוֹצָאָה."
+    },
+    {
+      "id": "A-q25",
+      "word": "revelations",
+      "type": "english_to_hebrew",
+      "question": "What does “revelations” mean?",
+      "options": [
+        "גִּלּוּיִים",
+        "אָסַר",
+        "הֵסִיר",
+        "אֶזְרָחִי"
+      ],
+      "correct_answer": "גִּלּוּיִים",
+      "explanation_hebrew": "“revelations” פירושו גִּלּוּיִים."
+    }
+  ]
+}
