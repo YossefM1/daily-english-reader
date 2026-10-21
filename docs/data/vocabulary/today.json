@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T09:32:57.839574+00:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T09:28:51.204861+00:00",
   "track": "Essential English 3000",
   "lesson_size": 10,
   "method": {
@@ -29,14 +29,14 @@
   },
   "words": [
     {
-      "id": "core-0065",
-      "word": "concern",
+      "id": "core-0096",
+      "word": "context",
       "part_of_speech": "noun",
-      "level": "B2",
-      "hebrew": "דאגה / עניין",
-      "pronunciation_hebrew": "קַנְסֶרְן",
-      "explanation_hebrew": "נושא שמעורר דאגה או תשומת לב.",
-      "example": "Safety is our main concern.",
+      "level": "B1",
+      "hebrew": "הקשר",
+      "pronunciation_hebrew": "קוֹנְטֶקְסְט",
+      "explanation_hebrew": "המידע סביב מילה או אירוע שעוזר להבין אותו.",
+      "example": "The context makes the meaning clear.",
       "reason": "new",
       "position": 1,
       "learning_state": {
@@ -46,14 +46,14 @@
       }
     },
     {
-      "id": "core-0079",
-      "word": "policy",
-      "part_of_speech": "noun",
+      "id": "core-0032",
+      "word": "occur",
+      "part_of_speech": "verb",
       "level": "B2",
-      "hebrew": "מדיניות",
-      "pronunciation_hebrew": "פּוֹלִיסִי",
-      "explanation_hebrew": "כלל או תוכנית פעולה של ארגון או ממשלה.",
-      "example": "The company changed its privacy policy.",
+      "hebrew": "להתרחש",
+      "pronunciation_hebrew": "אֶקֶר",
+      "explanation_hebrew": "לקרות, בדרך כלל בהקשר רשמי יותר.",
+      "example": "The fault occurred during the experiment.",
       "reason": "new",
       "position": 2,
       "learning_state": {
@@ -63,14 +63,14 @@
       }
     },
     {
-      "id": "core-0029",
-      "word": "issue",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "נושא / בעיה",
-      "pronunciation_hebrew": "אִישוּ",
-      "explanation_hebrew": "עניין חשוב לדיון או בעיה שדורשת טיפול.",
-      "example": "We discussed the main issue at the meeting.",
+      "id": "core-0095",
+      "word": "consistent",
+      "part_of_speech": "adjective",
+      "level": "B2",
+      "hebrew": "עקבי",
+      "pronunciation_hebrew": "קַנְסִיסְטֶנְט",
+      "explanation_hebrew": "נשאר באותה רמה או פועל לפי אותו עיקרון.",
+      "example": "The results are consistent with the theory.",
       "reason": "new",
       "position": 3,
       "learning_state": {
@@ -80,14 +80,14 @@
       }
     },
     {
-      "id": "core-0056",
-      "word": "likely",
-      "part_of_speech": "adjective",
+      "id": "core-0030",
+      "word": "manage",
+      "part_of_speech": "verb",
       "level": "B1",
-      "hebrew": "סביר ש־",
-      "pronunciation_hebrew": "לַיְקְלִי",
-      "explanation_hebrew": "בעל סיכוי גבוה לקרות.",
-      "example": "It is likely to rain this evening.",
+      "hebrew": "לנהל / להצליח",
+      "pronunciation_hebrew": "מֶנֶג'",
+      "explanation_hebrew": "לשלוט במשימה או להצליח לבצע דבר קשה.",
+      "example": "She managed to finish the work on time.",
       "reason": "new",
       "position": 4,
       "learning_state": {
@@ -97,14 +97,14 @@
       }
     },
     {
-      "id": "core-0008",
-      "word": "cause",
-      "part_of_speech": "verb",
-      "level": "A2",
-      "hebrew": "לגרום",
-      "pronunciation_hebrew": "קוֹז",
-      "explanation_hebrew": "להביא לכך שמשהו יקרה.",
-      "example": "Heavy rain can cause delays.",
+      "id": "core-0065",
+      "word": "concern",
+      "part_of_speech": "noun",
+      "level": "B2",
+      "hebrew": "דאגה / עניין",
+      "pronunciation_hebrew": "קַנְסֶרְן",
+      "explanation_hebrew": "נושא שמעורר דאגה או תשומת לב.",
+      "example": "Safety is our main concern.",
       "reason": "new",
       "position": 5,
       "learning_state": {
@@ -131,33 +131,16 @@
       }
     },
     {
-      "id": "core-0004",
-      "word": "apply",
+      "id": "core-0044",
+      "word": "relate",
       "part_of_speech": "verb",
       "level": "B1",
-      "hebrew": "להגיש מועמדות / ליישם",
-      "pronunciation_hebrew": "אַפְּלַיי",
-      "explanation_hebrew": "להשתמש בכלל או בשיטה, או לבקש תפקיד באופן רשמי.",
-      "example": "You can apply this method to other problems.",
+      "hebrew": "לקשר / להתייחס",
+      "pronunciation_hebrew": "רִילֵייט",
+      "explanation_hebrew": "להראות קשר בין דברים או להתייחס לנושא.",
+      "example": "The questions relate to the article.",
       "reason": "new",
       "position": 7,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
-      "id": "core-0074",
-      "word": "identify",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "לזהות",
-      "pronunciation_hebrew": "אַיְדֶנְטִיפַיי",
-      "explanation_hebrew": "לגלות מי או מהו דבר מסוים.",
-      "example": "Can you identify the main idea?",
-      "reason": "new",
-      "position": 8,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -174,6 +157,23 @@
       "explanation_hebrew": "להצליח להגיע למטרה לאחר מאמץ.",
       "example": "She worked hard to achieve her goal.",
       "reason": "new",
+      "position": 8,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0066",
+      "word": "demand",
+      "part_of_speech": "noun",
+      "level": "B2",
+      "hebrew": "דרישה / ביקוש",
+      "pronunciation_hebrew": "דִימַנְד",
+      "explanation_hebrew": "צורך חזק במוצר, שירות או פעולה.",
+      "example": "Demand for renewable energy is increasing.",
+      "reason": "new",
       "position": 9,
       "learning_state": {
         "mastery": 0,
@@ -182,14 +182,14 @@
       }
     },
     {
-      "id": "core-0032",
-      "word": "occur",
-      "part_of_speech": "verb",
-      "level": "B2",
-      "hebrew": "להתרחש",
-      "pronunciation_hebrew": "אֶקֶר",
-      "explanation_hebrew": "לקרות, בדרך כלל בהקשר רשמי יותר.",
-      "example": "The fault occurred during the experiment.",
+      "id": "core-0029",
+      "word": "issue",
+      "part_of_speech": "noun",
+      "level": "B1",
+      "hebrew": "נושא / בעיה",
+      "pronunciation_hebrew": "אִישוּ",
+      "explanation_hebrew": "עניין חשוב לדיון או בעיה שדורשת טיפול.",
+      "example": "We discussed the main issue at the meeting.",
       "reason": "new",
       "position": 10,
       "learning_state": {
