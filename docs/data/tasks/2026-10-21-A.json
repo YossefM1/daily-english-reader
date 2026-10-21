@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-21",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Christina Applegate says she was wrongfully diagnosed with MS",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "options": [
+        "Christina Applegate learned that her five-year MS diagnosis was wrong and now faces a new investigation into her symptoms.",
+        "Christina Applegate announced that all of her symptoms had disappeared.",
+        "Doctors discovered a universal blood test for multiple sclerosis.",
+        "Jamie Sigler ended the Messy podcast after receiving an MS diagnosis."
+      ],
+      "correct_answer": "Christina Applegate learned that her five-year MS diagnosis was wrong and now faces a new investigation into her symptoms.",
+      "explanation_hebrew": "הכתבה מתמקדת בגילוי שאבחנת ה־MS של אפלגייט הייתה שגויה ובהתמודדות שלה עם חזרה לחוסר ודאות לגבי מקור התסמינים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What led doctors to reconsider Applegate's MS diagnosis?",
+      "options": [
+        "An MRI showed that every lesion had disappeared overnight.",
+        "Her body did not react as expected for MS when her infusion treatment was paused.",
+        "A new pregnancy-style test produced a negative result.",
+        "Her podcast co-host identified a vitamin deficiency."
+      ],
+      "correct_answer": "Her body did not react as expected for MS when her infusion treatment was paused.",
+      "explanation_hebrew": "כאשר הטיפול בעירוי הופסק כדי לבדוק את תגובת הגוף, התגובה לא התאימה למה שהרופאים היו מצפים במקרה של MS, ולכן הם בדקו את המקרה מחדש.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “debilitating” mean when the article describes Applegate's symptoms?",
+      "options": [
+        "Occasional and harmless",
+        "Easy to diagnose",
+        "Severely weakening or disabling",
+        "Caused only by tiredness"
+      ],
+      "correct_answer": "Severely weakening or disabling",
+      "explanation_hebrew": "debilitating מתאר תסמינים מחלישים מאוד שפוגעים בתפקוד, ולא תסמינים קלים או זמניים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to research cited in the article, about what share of patients diagnosed with MS may not actually have it?",
+      "options": [
+        "One to two percent",
+        "Five percent",
+        "Half of all patients",
+        "Fifteen to twenty percent"
+      ],
+      "correct_answer": "Fifteen to twenty percent",
+      "explanation_hebrew": "לפי המחקר שהובא בכתבה, כ־15% עד 20% מהאנשים שאובחנו עם MS אינם סובלים למעשה מהמחלה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why was Applegate unhappy when told she did not have MS?",
+      "options": [
+        "Removing the diagnosis did not remove her worsening symptoms or explain their cause.",
+        "She wanted to continue acting only in roles about MS.",
+        "She had already received a different confirmed diagnosis.",
+        "She believed the doctors had cured her without permission."
+      ],
+      "correct_answer": "Removing the diagnosis did not remove her worsening symptoms or explain their cause.",
+      "explanation_hebrew": "היא עדיין סובלת מתסמינים קשים ואף מחמירים; ביטול האבחנה לא פתר את מצבה אלא החזיר אותה לנקודת ההתחלה ללא הסבר.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “diagnosis of exclusion” mean in the article?",
+      "options": [
+        "A diagnosis that prevents a patient from receiving treatment",
+        "A disease identified only from one MRI image",
+        "A conclusion reached after other possible causes have been investigated and ruled out",
+        "A diagnosis that is excluded from medical records"
+      ],
+      "correct_answer": "A conclusion reached after other possible causes have been investigated and ruled out",
+      "explanation_hebrew": "אבחנה בדרך של שלילה מתקבלת לאחר בדיקת ההיסטוריה, בדיקות מעבדה ואפשרויות אחרות, עד שסיבות חלופיות נשללות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two reasons the article gives for why MS can be misdiagnosed.",
+      "rubric_hebrew": "יש לציין שתי סיבות מדויקות מהכתבה, כגון שונות בתסמינים, היעדר בדיקה אוניברסלית, או העובדה שנגעים ותסמינים דומים עשויים להיגרם ממצבים אחרים.",
+      "expected_points": [
+        "MS symptoms can be inconsistent and there is no universal yes-or-no test.",
+        "Diagnosis depends on a list of criteria and on excluding other causes.",
+        "White matter spots can also be linked to migraines, high blood pressure, high blood sugar or high cholesterol.",
+        "Vitamin B12 deficiency can produce neurological symptoms that resemble MS."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how Applegate's diagnosis changed and what will happen next.",
+      "rubric_hebrew": "יש לתאר בקצרה את האבחנה המקורית, הפסקת העירוי, בדיקת המקרה מחדש, המסקנה שאין לה MS והחקירה החדשה של התסמינים.",
+      "expected_points": [
+        "Applegate was diagnosed with MS in 2021 and lived with that diagnosis for about five years.",
+        "Her doctor later paused infusion treatment to observe her body's response.",
+        "The response and further review led doctors to conclude that she did not have MS.",
+        "An investigation into the cause of her continuing daily symptoms is due to begin."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does Dr Kornberg say that losing a long-held diagnosis can be unsettling rather than simply good news?",
+      "rubric_hebrew": "יש להסביר כיצד אבחנה מספקת זהות, הסבר ותחושת ודאות, וכיצד ביטולה משאיר את האדם עם אותם תסמינים אך ללא תשובה ברורה.",
+      "expected_points": [
+        "A diagnosis can become part of a person's identity.",
+        "Knowing what is happening in the body can provide comfort and a framework for treatment.",
+        "A changed diagnosis can remove certainty without relieving the illness.",
+        "Applegate still has debilitating symptoms and is again unsure of their cause."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief health-news paragraph using the words “symptoms”, “criteria” and “second opinion”.",
+      "rubric_hebrew": "יש להשתמש נכון בשלושת הביטויים, לסכם את מורכבות האבחון בלי לתת עצה רפואית אישית, ולהישאר נאמנים לעובדות הכתבה.",
+      "expected_points": [
+        "Use all three required terms accurately.",
+        "Explain that MS symptoms can overlap with other conditions.",
+        "Mention that doctors use multiple criteria rather than one universal test.",
+        "State that the specialist quoted recommends seeking a second opinion because misdiagnosis can occur."
+      ],
+      "difficulty": "A"
+    }
+  ]
+}

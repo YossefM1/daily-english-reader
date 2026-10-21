@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-21",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Alberta's decision to stay in Canada gives Carney backing to take on Trump",
+  "article_url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main argument about Alberta's referendum result?",
+      "options": [
+        "The decisive vote to remain in Canada strengthens national unity and supports Carney's economic and political response to US pressure.",
+        "The vote immediately ended every provincial disagreement in Canada.",
+        "Alberta chose to become the 51st US state.",
+        "The result forced Canada to abandon plans for new trade alliances."
+      ],
+      "correct_answer": "The decisive vote to remain in Canada strengthens national unity and supports Carney's economic and political response to US pressure.",
+      "explanation_hebrew": "הכתבה טוענת שההצבעה המכריעה בעד הישארות בקנדה מחזקת את האחדות ואת יכולתו של קרני להתמודד עם לחץ אמריקאי ולקדם גיוון כלכלי.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did preliminary results show about Alberta voters?",
+      "options": [
+        "Exactly half supported separation.",
+        "More than two-thirds voted to remain in Canada.",
+        "Most wanted Alberta to join the United States.",
+        "Fewer than one-third took part in the referendum."
+      ],
+      "correct_answer": "More than two-thirds voted to remain in Canada.",
+      "explanation_hebrew": "לפי התוצאות המקדמיות, יותר משני שלישים מהמצביעים באלברטה רצו שהמחוז יישאר חלק מקנדה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “pivotal” mean when Alberta is described as playing a pivotal role?",
+      "options": [
+        "Temporary and largely symbolic",
+        "Hidden from public attention",
+        "Crucially important to the outcome",
+        "Opposed to all federal projects"
+      ],
+      "correct_answer": "Crucially important to the outcome",
+      "explanation_hebrew": "pivotal פירושו מרכזי או מכריע; משאבי האנרגיה והמינרלים של אלברטה חשובים מאוד לאסטרטגיה הכלכלית של קנדה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does Carney support a proposed pipeline to Canada's Pacific coast?",
+      "options": [
+        "To send all Alberta oil exclusively to the United States",
+        "To replace Canada's national railway",
+        "To prevent Alberta from trading with Asia",
+        "To open Asian markets for Alberta oil and reduce dependence on the United States"
+      ],
+      "correct_answer": "To open Asian markets for Alberta oil and reduce dependence on the United States",
+      "explanation_hebrew": "הצינור המוצע אמור לאפשר לנפט מאלברטה להגיע לשווקים באסיה ולצמצם את התלות המסחרית בארה״ב.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did references to Trump and the United States help the pro-Canada campaign?",
+      "options": [
+        "External threats encouraged voters to rally around Canadian identity and unity.",
+        "Trump formally endorsed Alberta's independence campaign.",
+        "The United States promised to cancel all tariffs after separation.",
+        "Canadian voters believed the referendum was a US midterm election."
+      ],
+      "correct_answer": "External threats encouraged voters to rally around Canadian identity and unity.",
+      "explanation_hebrew": "איומי טראמפ לספח את קנדה והלחץ ממלחמת הסחר חיזקו תחושת פטריוטיות והפכו את האחדות הקנדית לתשובה לאיום חיצוני.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “eclipse” mean in the statement that political and economic pressures eclipse Carney's green credentials?",
+      "options": [
+        "Prove that his environmental record is false",
+        "Create a literal shadow over Alberta",
+        "Become more prominent and overshadow his environmental priorities",
+        "Guarantee that every project will be carbon neutral"
+      ],
+      "correct_answer": "Become more prominent and overshadow his environmental priorities",
+      "explanation_hebrew": "eclipse משמעו להאפיל: שיקולים פוליטיים וכלכליים נעשו בולטים יותר ומסתירים או דוחקים את הרקע הסביבתי של קרני.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify three ways Alberta matters to Canada's economic strategy.",
+      "rubric_hebrew": "יש לציין שלושה פרטים מדויקים על משאבים, סחר, תשתיות, אנרגיה או גיוון שווקים.",
+      "expected_points": [
+        "Alberta contains most of Canada's proven oil reserves.",
+        "It has abundant gas and mineral wealth.",
+        "Its resources are central to plans to diversify trade during the US trade war.",
+        "A Pacific pipeline could connect Alberta oil to Asian markets.",
+        "Carney presents Alberta as the core of a potential global energy superpower."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the referendum result affects Carney at home and abroad.",
+      "rubric_hebrew": "יש להתייחס לאחדות, לפרויקטים הכלכליים, ליחסים עם ארה״ב ולמגבלות או לשאלות הפתוחות לאחר ההצבעה.",
+      "expected_points": [
+        "The decisive remain vote gives Carney political support for his message of Canadian unity.",
+        "It strengthens his case for infrastructure and energy projects designed to reduce US dependence.",
+        "It supports his firm response to Trump, including retaliatory tariffs and broader foreign partnerships.",
+        "Other referendum questions and provincial grievances still create domestic debate.",
+        "Canada remains economically vulnerable because the United States traditionally receives about 70% of its exports."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does David Moscrop question whether Canadian unity will remain as strong after Trump leaves office?",
+      "rubric_hebrew": "יש להסביר שהאיום החיצוני המשותף מאחד קבוצות שונות, אך מחלוקות פנימיות על סמכויות, הגירה, רגולציה וחלוקת משאבים עשויות לשוב למרכז הבמה.",
+      "expected_points": [
+        "Trump provides a single, visible external target around which Canadians can rally.",
+        "Without that target, provincial grievances may again become more prominent.",
+        "Unresolved issues include provincial powers, immigration costs, constitutional change and federal environmental rules.",
+        "The current unity may therefore depend partly on a temporary external pressure."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short political analysis using the words “referendum”, “diversifying” and “retaliatory”.",
+      "rubric_hebrew": "יש להשתמש בשלוש המילים במדויק, לקשור בין תוצאת ההצבעה לאסטרטגיית הסחר ולתגובה הקנדית לארה״ב, ולהציג ניתוח ולא סיסמה.",
+      "expected_points": [
+        "Use all three required words accurately.",
+        "State that the referendum produced a decisive vote to remain in Canada.",
+        "Explain that Canada is diversifying trade and seeking new alliances or Asian energy markets.",
+        "Refer to Carney's retaliatory tariffs or other firm responses to US pressure."
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-21",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+  "article_url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the state visit described in the article?",
+      "options": [
+        "To honour the Sultan of Oman while strengthening diplomatic, security and economic ties during Middle East tensions",
+        "To announce that Oman will join the United Kingdom",
+        "To celebrate the reopening of every shipping route in the Gulf",
+        "To transfer Windsor Castle to the Omani royal family"
+      ],
+      "correct_answer": "To honour the Sultan of Oman while strengthening diplomatic, security and economic ties during Middle East tensions",
+      "explanation_hebrew": "הביקור משלב טקסיות מלכותית עם מאמצים לחזק קשרים מדיניים, ביטחוניים וכלכליים על רקע המלחמה והמתיחות באזור.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did King Charles praise Oman for in his banquet speech?",
+      "options": [
+        "Building a new royal palace in London",
+        "Trying to keep the Strait of Hormuz open and mediating in the conflict with Iran",
+        "Ending all trade with the United States",
+        "Creating the banquet menu at Windsor"
+      ],
+      "correct_answer": "Trying to keep the Strait of Hormuz open and mediating in the conflict with Iran",
+      "explanation_hebrew": "המלך שיבח את מאמצי עומאן לשמור את נתיב השיט החשוב פתוח ואת התיווך הדיפלומטי שלה במלחמה עם איראן.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “mediation” mean in the article's diplomatic context?",
+      "options": [
+        "A military attack intended to end negotiations",
+        "A formal royal celebration",
+        "An effort by a third party to help opponents reach agreement",
+        "A decision to close a shipping lane"
+      ],
+      "correct_answer": "An effort by a third party to help opponents reach agreement",
+      "explanation_hebrew": "mediation היא תיווך: צד שלישי מסייע לצדדים יריבים למצוא מכנה משותף או פתרון מוסכם.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What deal are the Sultan and the UK prime minister expected to sign?",
+      "options": [
+        "A treaty transferring control of the Strait to Britain",
+        "A ban on investment between the two countries",
+        "An agreement to replace diplomatic talks with military action",
+        "A plan to accelerate mutual investment expected to bring more than £1bn of new investment"
+      ],
+      "correct_answer": "A plan to accelerate mutual investment expected to bring more than £1bn of new investment",
+      "explanation_hebrew": "העסקה אמורה להאיץ השקעות הדדיות, ולפי משרד החוץ להביא יותר ממיליארד ליש״ט בהשקעות חדשות וליצור משרות והזדמנויות.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article describe state visits as a mix of “pageantry and politics”?",
+      "options": [
+        "Elaborate ceremonies create a setting for serious talks on diplomacy, business and military links.",
+        "Royal banquets replace all official government negotiations.",
+        "Political leaders attend only to inspect table decorations.",
+        "Pageantry prevents countries from discussing sensitive issues."
+      ],
+      "correct_answer": "Elaborate ceremonies create a setting for serious talks on diplomacy, business and military links.",
+      "explanation_hebrew": "הטקסים, הכרכרות והמשתה הם החלק הייצוגי, אך הם גם מספקים מסגרת לשיחות מעשיות על יחסים מדיניים, מסחר וביטחון.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “bridge building in a time of conflict”, what does “bridge building” mean?",
+      "options": [
+        "Constructing a road across the Strait of Hormuz",
+        "Decorating Windsor Castle for a state visit",
+        "Improving relationships and communication between opposing sides",
+        "Expanding Oman's shipping ports"
+      ],
+      "correct_answer": "Improving relationships and communication between opposing sides",
+      "explanation_hebrew": "bridge building משמש כמטפורה ליצירת קשר, אמון ודיאלוג בין צדדים הנמצאים במחלוקת או בעימות.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three details showing the ceremony and hospitality of the Windsor banquet.",
+      "rubric_hebrew": "יש לציין שלושה פרטים קונקרטיים מהכתבה על האורחים, השולחן, התפריט, השפות, העיטורים או התאמות לאורחים המוסלמים.",
+      "expected_points": [
+        "The banquet was held for 160 guests in St George's Hall.",
+        "The King spoke in English and included quotations in Arabic.",
+        "The tables had elaborate candelabra, five glasses per setting and salt imprinted with the King's cypher.",
+        "The menu included pheasant, Cornish crab and baked Alaska.",
+        "A non-alcoholic spiced coffee drink replaced the traditional banquet cocktail for the Muslim guests of honour."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the visit connects royal ceremony with Oman's strategic importance.",
+      "rubric_hebrew": "יש לשלב את קבלת הפנים והמשתה עם מיקום עומאן ליד המצר, תפקידה בתיווך, הקשרים הביטחוניים־מסחריים והעסקה הצפויה.",
+      "expected_points": [
+        "The Sultan received a formal royal welcome, carriage procession and state banquet at Windsor.",
+        "Oman lies beside the strategically important Strait of Hormuz, which has been effectively closed during the war.",
+        "The King highlighted Oman's mediation and efforts to find common ground with Iran.",
+        "The visit also supports talks on business and military links and a planned investment deal."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why was the banquet cocktail replaced, even though wine was still available?",
+      "rubric_hebrew": "יש להסיק שהמארחים התאימו מסורת מלכותית לאורחי הכבוד המוסלמים תוך שמירה על יתר מרכיבי האירוח; אין לטעון שהכתבה אומרת שכל האורחים נמנעו מאלכוהול.",
+      "expected_points": [
+        "The guests of honour were Muslim.",
+        "The hosts adapted a traditional element by serving a non-alcoholic spiced coffee drink.",
+        "Wine remained available, so the change was a targeted gesture of cultural consideration rather than a complete alcohol ban."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short diplomatic report using the words “mediation”, “tensions” and “investment”.",
+      "rubric_hebrew": "יש להשתמש בשלוש המילים במדויק ולחבר בין המצב במזרח התיכון, תפקידה של עומאן והיעד הכלכלי של הביקור.",
+      "expected_points": [
+        "Use all three required words accurately.",
+        "Mention Oman's mediation and efforts to keep dialogue open.",
+        "Refer to regional tensions around Iran and the Strait of Hormuz.",
+        "Explain that the visit is expected to support more than £1bn in mutual investment."
+      ],
+      "difficulty": "B"
+    }
+  ]
+}
