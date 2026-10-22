@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+  "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o",
-  "published_at": "2026-10-21T01:28:16+00:00",
-  "age_hours_at_selection": 0.83,
-  "word_count": 708,
-  "generated_at": "2026-10-21T02:18:04.554398+00:00",
-  "difficulty_reason": "Moderate-length news report mixing ceremony and diplomacy with some longer sentences; vocabulary is B1/B2/C1 and it assumes a little background on Middle East relations.",
+  "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo",
+  "published_at": "2026-10-21T23:02:30+00:00",
+  "age_hours_at_selection": 3.17,
+  "word_count": 727,
+  "generated_at": "2026-10-22T02:12:55.930655+00:00",
+  "difficulty_reason": "Moderate-length health story with some medical and research terms; clear narrative but needs light background on clinical trials, with B1/B2/C1 vocabulary.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "glittering",
-      "lemma": "glittering",
-      "level": "C1",
-      "hebrew": "נוֹצֵץ, מְפֹאָר",
-      "explanation_hebrew": "מַבְרִיק וְיָפֶה מְאוֹד",
-      "pronunciation_hebrew": "גְלִיטֶרִינְג",
-      "example": "They held a glittering celebration."
-    },
-    {
-      "word": "noble",
-      "lemma": "noble",
+      "word": "clinical",
+      "lemma": "clinical",
       "level": "B2",
-      "hebrew": "אָצִיל, נַעֲלֶה",
-      "explanation_hebrew": "בַּעַל עֲרָכִים גְּבוֹהִים וּמְכֻבָּד",
-      "pronunciation_hebrew": "נוֹבְּל",
-      "example": "It was a noble act of kindness."
+      "hebrew": "קליני, רפואי",
+      "explanation_hebrew": "הקשור לטיפול ובדיקת חולים",
+      "pronunciation_hebrew": "קְלִינִיקַל",
+      "example": "A new clinical trial has begun."
     },
     {
-      "word": "diplomatic",
-      "lemma": "diplomatic",
-      "level": "B2",
-      "hebrew": "דִּיפְּלוֹמָטִי",
-      "explanation_hebrew": "הַקָּשׁוּר לִיחָסִים בֵּין מְדִינוֹת",
-      "pronunciation_hebrew": "דִּיפְּלוֹמָטִיק",
-      "example": "They found a diplomatic solution."
-    },
-    {
-      "word": "mediation",
-      "lemma": "mediation",
-      "level": "C1",
-      "hebrew": "תִּוּוּךְ",
-      "explanation_hebrew": "עֶזְרָה לִשְׁנֵי צְדָדִים לְהַגִּיעַ לְהֶסְכֵּם",
-      "pronunciation_hebrew": "מִידִיאֵישֶׁן",
-      "example": "Mediation helped end the dispute."
-    },
-    {
-      "word": "conflict",
-      "lemma": "conflict",
+      "word": "trial",
+      "lemma": "trial",
       "level": "B1",
-      "hebrew": "סִכְסוּךְ, עִמּוּת",
-      "explanation_hebrew": "מַחֲלֹקֶת אוֹ מִלְחָמָה בֵּין צְדָדִים",
-      "pronunciation_hebrew": "קוֹנְפְלִיקְט",
-      "example": "The conflict lasted for years."
+      "hebrew": "ניסוי, מחקר",
+      "explanation_hebrew": "בדיקה מבוקרת של טיפול חדש",
+      "pronunciation_hebrew": "טְרַייַל",
+      "example": "Scientists launched a drug trial."
     },
     {
-      "word": "establish",
-      "lemma": "establish",
-      "level": "B2",
-      "hebrew": "לְבַסֵּס, לְהָקִים",
-      "explanation_hebrew": "לִיצֹר אוֹ לִקְבֹּעַ מַשֶּׁהוּ",
-      "pronunciation_hebrew": "אִיסְטַבְּלִישׁ",
-      "example": "They hope to establish peace."
+      "word": "treatments",
+      "lemma": "treatment",
+      "level": "B1",
+      "hebrew": "טיפולים",
+      "explanation_hebrew": "דרכים לרפא או להקל על מחלה",
+      "pronunciation_hebrew": "טְרִיטְמֶנְטְס",
+      "example": "They search for new treatments."
     },
     {
-      "word": "supreme",
-      "lemma": "supreme",
-      "level": "B2",
-      "hebrew": "עֶלְיוֹן",
-      "explanation_hebrew": "הַגָּבוֹהַּ וְהֶחָשׁוּב בְּיוֹתֵר",
-      "pronunciation_hebrew": "סוּפְּרִים",
-      "example": "He is the supreme leader of the group."
-    },
-    {
-      "word": "sparking",
-      "lemma": "spark",
-      "level": "B2",
-      "hebrew": "מְעוֹרֵר, מַצִּית",
-      "explanation_hebrew": "גּוֹרֵם לְמַשֶּׁהוּ לְהַתְחִיל",
-      "pronunciation_hebrew": "סְפַּארְקִינְג",
-      "example": "The decision is sparking debate."
-    },
-    {
-      "word": "ongoing",
-      "lemma": "ongoing",
-      "level": "B2",
-      "hebrew": "מִתְמַשֵּׁךְ, נִמְשָׁךְ",
-      "explanation_hebrew": "שֶׁעֲדַיִן קוֹרֶה וְלֹא הִסְתַּיֵּם",
-      "pronunciation_hebrew": "אוֹנְגוֹאִינְג",
-      "example": "The ongoing war worries everyone."
-    },
-    {
-      "word": "vital",
-      "lemma": "vital",
-      "level": "B2",
-      "hebrew": "חִיּוּנִי",
-      "explanation_hebrew": "חָשׁוּב מְאוֹד וְהֶכְרֵחִי",
-      "pronunciation_hebrew": "וַייטָל",
-      "example": "Water is vital for life."
-    },
-    {
-      "word": "effectively",
-      "lemma": "effectively",
-      "level": "B2",
-      "hebrew": "לְמַעֲשֶׂה, בְּפֹעַל",
-      "explanation_hebrew": "בְּאוֹפֶן מַמָּשִׁי אוֹ יָעִיל",
-      "pronunciation_hebrew": "אִיפֶקְטִיבְלִי",
-      "example": "The road was effectively closed."
-    },
-    {
-      "word": "laden",
-      "lemma": "laden",
+      "word": "simultaneously",
+      "lemma": "simultaneously",
       "level": "C1",
-      "hebrew": "עָמוּס",
-      "explanation_hebrew": "מָלֵא בְּמַשֶּׁהוּ כָּבֵד",
-      "pronunciation_hebrew": "לֵיידֶן",
-      "example": "The table was laden with food."
+      "hebrew": "בו-זמנית",
+      "explanation_hebrew": "באותו הזמן",
+      "pronunciation_hebrew": "סַיְמַלְטֵיְנִיאַסְלִי",
+      "example": "The trial tests several drugs simultaneously."
     },
     {
-      "word": "elaborate",
-      "lemma": "elaborate",
-      "level": "B2",
-      "hebrew": "מְשֻׁכְלָל, מְפֹרָט",
-      "explanation_hebrew": "מְסֻבָּךְ וּמְעֻצָּב בְּקַפְּדָנוּת",
-      "pronunciation_hebrew": "אִילַבּוֹרֵט",
-      "example": "They made elaborate plans."
-    },
-    {
-      "word": "polished",
-      "lemma": "polished",
-      "level": "B2",
-      "hebrew": "מְלֻטָּשׁ, מְבָרָק",
-      "explanation_hebrew": "נָקִי וּמַבְרִיק, אוֹ מֻשְׁלָם",
-      "pronunciation_hebrew": "פּוֹלִישְׁט",
-      "example": "The floor was clean and polished."
-    },
-    {
-      "word": "imprint",
-      "lemma": "imprint",
+      "word": "repurposed",
+      "lemma": "repurpose",
       "level": "C1",
-      "hebrew": "חוֹתָם, רֹשֶׁם",
-      "explanation_hebrew": "סִימָן שֶׁנִּשְׁאָר עַל מַשֶּׁהוּ",
-      "pronunciation_hebrew": "אִימְפְּרִינְט",
-      "example": "The seal left an imprint in the wax."
+      "hebrew": "שהוסב לשימוש חדש",
+      "explanation_hebrew": "נלקח למטרה שונה מהמקורית",
+      "pronunciation_hebrew": "רִיפֶּרְפַּסְד",
+      "example": "They use repurposed medicines in the study."
     },
     {
-      "word": "expedition",
-      "lemma": "expedition",
+      "word": "symptoms",
+      "lemma": "symptom",
+      "level": "B1",
+      "hebrew": "תסמינים",
+      "explanation_hebrew": "סימנים של מחלה",
+      "pronunciation_hebrew": "סִימְפְּטַמְז",
+      "example": "The drugs may ease memory symptoms."
+    },
+    {
+      "word": "diagnosed",
+      "lemma": "diagnose",
       "level": "B2",
-      "hebrew": "מִשְׁלַחַת, מַסָּע",
-      "explanation_hebrew": "נְסִיעָה מְאֻרְגֶּנֶת לְמַטָּרָה מְסֻיֶּמֶת",
-      "pronunciation_hebrew": "אֶקְסְפֶּדִישֶׁן",
-      "example": "They joined an expedition to the mountains."
+      "hebrew": "אובחן",
+      "explanation_hebrew": "זיהו אצלו מחלה מסוימת",
+      "pronunciation_hebrew": "דַיְאַגְנוֹזְד",
+      "example": "She was diagnosed with Alzheimer's."
     },
     {
-      "word": "reconcile",
-      "lemma": "reconcile",
+      "word": "restrict",
+      "lemma": "restrict",
+      "level": "B2",
+      "hebrew": "להגביל",
+      "explanation_hebrew": "לצמצם או למנוע משהו",
+      "pronunciation_hebrew": "רִיסְטְרִיקְט",
+      "example": "The illness would restrict her life."
+    },
+    {
+      "word": "determined",
+      "lemma": "determined",
+      "level": "B2",
+      "hebrew": "נחוש",
+      "explanation_hebrew": "מלא החלטה לא לוותר",
+      "pronunciation_hebrew": "דִיטֶרְמִינְד",
+      "example": "She was determined to fight back."
+    },
+    {
+      "word": "empowered",
+      "lemma": "empower",
       "level": "C1",
-      "hebrew": "לְהִתְפַּיֵּס",
-      "explanation_hebrew": "לְהַשְׁלִים אַחֲרֵי רִיב",
-      "pronunciation_hebrew": "רֶקוֹנְסַייל",
-      "example": "He wants to reconcile with his brother."
+      "hebrew": "מועצם, מחוזק",
+      "explanation_hebrew": "מרגיש שיש לו כוח ושליטה",
+      "pronunciation_hebrew": "אִימְפַּאוֶרְד",
+      "example": "She felt empowered by joining the trial."
     },
     {
-      "word": "pageantry",
-      "lemma": "pageantry",
+      "word": "dementia",
+      "lemma": "dementia",
+      "level": "B2",
+      "hebrew": "דמנציה, שיטיון",
+      "explanation_hebrew": "ירידה בזיכרון וביכולת החשיבה",
+      "pronunciation_hebrew": "דִימֵנְשַה",
+      "example": "Alzheimer's is the most common dementia."
+    },
+    {
+      "word": "devastating",
+      "lemma": "devastating",
       "level": "C1",
-      "hebrew": "טֶקֶס רַאֲוָה, הֲדַר",
-      "explanation_hebrew": "טֶקֶס רִשְׁמִי וּמְרֻשָּׁם בִּמְפֹאָר",
-      "pronunciation_hebrew": "פַּאגֶ'נְטְרִי",
-      "example": "The ceremony was full of pageantry."
+      "hebrew": "הרסני",
+      "explanation_hebrew": "גורם נזק או צער עצום",
+      "pronunciation_hebrew": "דֵוַסְטֵייטִינְג",
+      "example": "The disease has a devastating impact."
     },
     {
-      "word": "choreographed",
-      "lemma": "choreograph",
+      "word": "participants",
+      "lemma": "participant",
+      "level": "B2",
+      "hebrew": "משתתפים",
+      "explanation_hebrew": "אנשים שלוקחים חלק במשהו",
+      "pronunciation_hebrew": "פַּרְטִיסִיפַּנְטְס",
+      "example": "The study will recruit many participants."
+    },
+    {
+      "word": "placebo",
+      "lemma": "placebo",
       "level": "C1",
-      "hebrew": "מְתֻכְנָן, מְבֻיָּם",
-      "explanation_hebrew": "מְתֻכְנָן בְּדִיּוּק מֵרֹאשׁ",
-      "pronunciation_hebrew": "קוֹרִיאוֹגְרַפְט",
-      "example": "The event was carefully choreographed."
+      "hebrew": "פלצבו, תרופת דמה",
+      "explanation_hebrew": "חומר ללא השפעה הניתן לקבוצת ביקורת",
+      "pronunciation_hebrew": "פְּלַסִיבּוֹ",
+      "example": "One group received a placebo."
     },
     {
-      "word": "hospitality",
-      "lemma": "hospitality",
+      "word": "likelihood",
+      "lemma": "likelihood",
       "level": "B2",
-      "hebrew": "הַכְנָסַת אוֹרְחִים",
-      "explanation_hebrew": "קַבָּלַת אוֹרְחִים בְּחֹם וּבְיָפֶה",
-      "pronunciation_hebrew": "הוֹסְפִּיטָלִיטִי",
-      "example": "Their hospitality was wonderful."
+      "hebrew": "סבירות",
+      "explanation_hebrew": "מידת הסיכוי שמשהו יקרה",
+      "pronunciation_hebrew": "לַיְקְלִיהוּד",
+      "example": "Patients have a higher likelihood of treatment."
     },
     {
-      "word": "delegation",
-      "lemma": "delegation",
-      "level": "B2",
-      "hebrew": "מִשְׁלַחַת",
-      "explanation_hebrew": "קְבוּצַת נְצִיגִים רִשְׁמִיִּים",
-      "pronunciation_hebrew": "דֶלֶגֵישֶׁן",
-      "example": "A delegation arrived for the talks."
+      "word": "benefit",
+      "lemma": "benefit",
+      "level": "B1",
+      "hebrew": "תועלת",
+      "explanation_hebrew": "יתרון או השפעה חיובית",
+      "pronunciation_hebrew": "בֵּנֵפִיט",
+      "example": "A drug is dropped if it shows no benefit."
     },
     {
-      "word": "sensitive",
-      "lemma": "sensitive",
-      "level": "B2",
-      "hebrew": "רָגִישׁ",
-      "explanation_hebrew": "נוֹשֵׂא שֶׁדּוֹרֵשׁ זְהִירוּת",
-      "pronunciation_hebrew": "סֶנְסִיטִיב",
-      "example": "It is a sensitive topic."
-    },
-    {
-      "word": "tensions",
-      "lemma": "tension",
-      "level": "B2",
-      "hebrew": "מְתִיחוּיוֹת",
-      "explanation_hebrew": "מַצָּב שֶׁל יַחֲסֵי מְתִיחוּת",
-      "pronunciation_hebrew": "טֶנְשֶׁנְז",
-      "example": "Tensions rose between the two sides."
-    },
-    {
-      "word": "emphasised",
-      "lemma": "emphasise",
-      "level": "B2",
-      "hebrew": "הִדְגִּישׁ",
-      "explanation_hebrew": "נָתַן דֶּגֶשׁ מְיֻחָד לְמַשֶּׁהוּ",
-      "pronunciation_hebrew": "אֶמְפָסַייזְד",
-      "example": "She emphasised the need for peace."
+      "word": "inflammation",
+      "lemma": "inflammation",
+      "level": "C1",
+      "hebrew": "דלקת",
+      "explanation_hebrew": "תגובה של הגוף עם נפיחות ואדמומיות",
+      "pronunciation_hebrew": "אִינְפְלַמֵיישַן",
+      "example": "The drugs may reduce brain inflammation."
     },
     {
       "word": "accelerate",
       "lemma": "accelerate",
+      "level": "C1",
+      "hebrew": "להאיץ",
+      "explanation_hebrew": "לגרום למשהו לקרות מהר יותר",
+      "pronunciation_hebrew": "אַקְסֵלֵרֵייט",
+      "example": "They hope to accelerate testing."
+    },
+    {
+      "word": "beneficial",
+      "lemma": "beneficial",
       "level": "B2",
-      "hebrew": "לְהָאִיץ",
-      "explanation_hebrew": "לִגְרֹם לְמַשֶּׁהוּ לִקְרוֹת מַהֵר יוֹתֵר",
-      "pronunciation_hebrew": "אַקְסֶלֶרֵייט",
-      "example": "The deal will accelerate growth."
+      "hebrew": "מועיל",
+      "explanation_hebrew": "שמביא תועלת",
+      "pronunciation_hebrew": "בֵּנֵפִישַל",
+      "example": "The drugs must have beneficial effects."
+    },
+    {
+      "word": "recruited",
+      "lemma": "recruit",
+      "level": "B2",
+      "hebrew": "גויסו",
+      "explanation_hebrew": "נבחרו והצטרפו למחקר",
+      "pronunciation_hebrew": "רִיקְרוּטֵד",
+      "example": "Participants will be recruited at many sites."
+    },
+    {
+      "word": "evaluating",
+      "lemma": "evaluate",
+      "level": "C1",
+      "hebrew": "מעריך, בוחן",
+      "explanation_hebrew": "בודק את הערך או ההשפעה של משהו",
+      "pronunciation_hebrew": "אִיוַולְיוּאֵייטִינְג",
+      "example": "They expect to finish evaluating by 2030."
+    },
+    {
+      "word": "cognitive",
+      "lemma": "cognitive",
+      "level": "C1",
+      "hebrew": "קוגניטיבי, חשיבתי",
+      "explanation_hebrew": "הקשור לחשיבה, זיכרון והבנה",
+      "pronunciation_hebrew": "קוֹגְנִיטִיב",
+      "example": "Patients take regular cognitive tests."
+    },
+    {
+      "word": "assess",
+      "lemma": "assess",
+      "level": "B2",
+      "hebrew": "להעריך",
+      "explanation_hebrew": "לבדוק ולשפוט מצב או תוצאה",
+      "pronunciation_hebrew": "אַסֵס",
+      "example": "Tests help assess how well the drugs work."
+    },
+    {
+      "word": "despair",
+      "lemma": "despair",
+      "level": "C1",
+      "hebrew": "ייאוש",
+      "explanation_hebrew": "תחושת חוסר תקווה",
+      "pronunciation_hebrew": "דִיסְפֵּאר",
+      "example": "The trial brought them back from despair."
+    },
+    {
+      "word": "urgently",
+      "lemma": "urgently",
+      "level": "B2",
+      "hebrew": "בדחיפות",
+      "explanation_hebrew": "באופן מיידי וחשוב מאוד",
+      "pronunciation_hebrew": "אֶרְגֶ'נְטְלִי",
+      "example": "More treatments are urgently needed."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "glittering",
+      "word": "clinical",
       "type": "english_to_hebrew",
-      "question": "What does \"glittering\" mean?",
+      "question": "What does “clinical” mean?",
       "options": [
-        "דִּיפְּלוֹמָטִי",
-        "נוֹצֵץ, מְפֹאָר",
-        "אָצִיל, נַעֲלֶה",
-        "תִּוּוּךְ"
+        "להגביל",
+        "קליני, רפואי",
+        "מעריך, בוחן",
+        "ניסוי, מחקר"
       ],
-      "correct_answer": "נוֹצֵץ, מְפֹאָר",
-      "explanation_hebrew": "המילה \"glittering\" פירושה נוֹצֵץ, מְפֹאָר."
+      "correct_answer": "קליני, רפואי",
+      "explanation_hebrew": "“clinical” פירושו קליני, רפואי – הקשור לטיפול ובדיקת חולים."
     },
     {
       "id": "B-q2",
-      "word": "noble",
-      "type": "english_to_hebrew",
-      "question": "What does \"noble\" mean?",
+      "word": "trial",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ניסוי, מחקר”?",
       "options": [
-        "דִּיפְּלוֹמָטִי",
-        "אָצִיל, נַעֲלֶה",
-        "תִּוּוּךְ",
-        "סִכְסוּךְ, עִמּוּת"
+        "dementia",
+        "cognitive",
+        "trial",
+        "simultaneously"
       ],
-      "correct_answer": "אָצִיל, נַעֲלֶה",
-      "explanation_hebrew": "המילה \"noble\" פירושה אָצִיל, נַעֲלֶה."
+      "correct_answer": "trial",
+      "explanation_hebrew": "“trial” פירושו ניסוי, מחקר – בדיקה מבוקרת של טיפול חדש."
     },
     {
       "id": "B-q3",
-      "word": "diplomatic",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה \"דִּיפְּלוֹמָטִי\"?",
+      "word": "treatments",
+      "type": "english_to_hebrew",
+      "question": "What does “treatments” mean?",
       "options": [
-        "establish",
-        "diplomatic",
-        "mediation",
-        "conflict"
+        "נחוש",
+        "סבירות",
+        "הרסני",
+        "טיפולים"
       ],
-      "correct_answer": "diplomatic",
-      "explanation_hebrew": "המילה \"diplomatic\" פירושה דִּיפְּלוֹמָטִי."
+      "correct_answer": "טיפולים",
+      "explanation_hebrew": "“treatments” פירושו טיפולים – דרכים לרפא או להקל על מחלה."
     },
     {
       "id": "B-q4",
-      "word": "mediation",
-      "type": "english_to_hebrew",
-      "question": "What does \"mediation\" mean?",
+      "word": "simultaneously",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בו-זמנית”?",
       "options": [
-        "עֶלְיוֹן",
-        "סִכְסוּךְ, עִמּוּת",
-        "לְבַסֵּס, לְהָקִים",
-        "תִּוּוּךְ"
+        "accelerate",
+        "trial",
+        "simultaneously",
+        "recruited"
       ],
-      "correct_answer": "תִּוּוּךְ",
-      "explanation_hebrew": "המילה \"mediation\" פירושה תִּוּוּךְ."
+      "correct_answer": "simultaneously",
+      "explanation_hebrew": "“simultaneously” פירושו בו-זמנית – באותו הזמן."
     },
     {
       "id": "B-q5",
-      "word": "conflict",
+      "word": "repurposed",
       "type": "english_to_hebrew",
-      "question": "What does \"conflict\" mean?",
+      "question": "What does “repurposed” mean?",
       "options": [
-        "לְבַסֵּס, לְהָקִים",
-        "עֶלְיוֹן",
-        "סִכְסוּךְ, עִמּוּת",
-        "מְעוֹרֵר, מַצִּית"
+        "תועלת",
+        "קליני, רפואי",
+        "שהוסב לשימוש חדש",
+        "דלקת"
       ],
-      "correct_answer": "סִכְסוּךְ, עִמּוּת",
-      "explanation_hebrew": "המילה \"conflict\" פירושה סִכְסוּךְ, עִמּוּת."
+      "correct_answer": "שהוסב לשימוש חדש",
+      "explanation_hebrew": "“repurposed” פירושו שהוסב לשימוש חדש – נלקח למטרה שונה מהמקורית."
     },
     {
       "id": "B-q6",
-      "word": "establish",
+      "word": "symptoms",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה \"לְבַסֵּס, לְהָקִים\"?",
+      "question": "איזו מילה באנגלית פירושה “תסמינים”?",
       "options": [
-        "supreme",
-        "sparking",
-        "establish",
-        "ongoing"
+        "accelerate",
+        "treatments",
+        "trial",
+        "symptoms"
       ],
-      "correct_answer": "establish",
-      "explanation_hebrew": "המילה \"establish\" פירושה לְבַסֵּס, לְהָקִים."
+      "correct_answer": "symptoms",
+      "explanation_hebrew": "“symptoms” פירושו תסמינים – סימנים של מחלה."
     },
     {
       "id": "B-q7",
-      "word": "supreme",
+      "word": "diagnosed",
       "type": "english_to_hebrew",
-      "question": "What does \"supreme\" mean?",
+      "question": "What does “diagnosed” mean?",
       "options": [
-        "מְעוֹרֵר, מַצִּית",
-        "עֶלְיוֹן",
-        "חִיּוּנִי",
-        "מִתְמַשֵּׁךְ, נִמְשָׁךְ"
+        "משתתפים",
+        "תסמינים",
+        "אובחן",
+        "להעריך"
       ],
-      "correct_answer": "עֶלְיוֹן",
-      "explanation_hebrew": "המילה \"supreme\" פירושה עֶלְיוֹן."
+      "correct_answer": "אובחן",
+      "explanation_hebrew": "“diagnosed” פירושו אובחן – זיהו אצלו מחלה מסוימת."
     },
     {
       "id": "B-q8",
-      "word": "sparking",
-      "type": "english_to_hebrew",
-      "question": "What does \"sparking\" mean?",
+      "word": "restrict",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “להגביל”?",
       "options": [
-        "חִיּוּנִי",
-        "מְעוֹרֵר, מַצִּית",
-        "לְמַעֲשֶׂה, בְּפֹעַל",
-        "מִתְמַשֵּׁךְ, נִמְשָׁךְ"
+        "benefit",
+        "trial",
+        "restrict",
+        "assess"
       ],
-      "correct_answer": "מְעוֹרֵר, מַצִּית",
-      "explanation_hebrew": "המילה \"sparking\" פירושה מְעוֹרֵר, מַצִּית."
+      "correct_answer": "restrict",
+      "explanation_hebrew": "“restrict” פירושו להגביל – לצמצם או למנוע משהו."
     },
     {
       "id": "B-q9",
-      "word": "ongoing",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה \"מִתְמַשֵּׁךְ, נִמְשָׁךְ\"?",
+      "word": "determined",
+      "type": "english_to_hebrew",
+      "question": "What does “determined” mean?",
       "options": [
-        "vital",
-        "laden",
-        "effectively",
-        "ongoing"
+        "ניסוי, מחקר",
+        "נחוש",
+        "אובחן",
+        "הרסני"
       ],
-      "correct_answer": "ongoing",
-      "explanation_hebrew": "המילה \"ongoing\" פירושה מִתְמַשֵּׁךְ, נִמְשָׁךְ."
+      "correct_answer": "נחוש",
+      "explanation_hebrew": "“determined” פירושו נחוש – מלא החלטה לא לוותר."
     },
     {
       "id": "B-q10",
-      "word": "vital",
-      "type": "english_to_hebrew",
-      "question": "What does \"vital\" mean?",
+      "word": "empowered",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מועצם, מחוזק”?",
       "options": [
-        "עָמוּס",
-        "לְמַעֲשֶׂה, בְּפֹעַל",
-        "מְשֻׁכְלָל, מְפֹרָט",
-        "חִיּוּנִי"
+        "evaluating",
+        "empowered",
+        "determined",
+        "dementia"
       ],
-      "correct_answer": "חִיּוּנִי",
-      "explanation_hebrew": "המילה \"vital\" פירושה חִיּוּנִי."
+      "correct_answer": "empowered",
+      "explanation_hebrew": "“empowered” פירושו מועצם, מחוזק – מרגיש שיש לו כוח ושליטה."
     },
     {
       "id": "B-q11",
-      "word": "effectively",
+      "word": "dementia",
       "type": "english_to_hebrew",
-      "question": "What does \"effectively\" mean?",
+      "question": "What does “dementia” mean?",
       "options": [
-        "עָמוּס",
-        "מְשֻׁכְלָל, מְפֹרָט",
-        "מְלֻטָּשׁ, מְבָרָק",
-        "לְמַעֲשֶׂה, בְּפֹעַל"
+        "להגביל",
+        "גויסו",
+        "תסמינים",
+        "דמנציה, שיטיון"
       ],
-      "correct_answer": "לְמַעֲשֶׂה, בְּפֹעַל",
-      "explanation_hebrew": "המילה \"effectively\" פירושה לְמַעֲשֶׂה, בְּפֹעַל."
+      "correct_answer": "דמנציה, שיטיון",
+      "explanation_hebrew": "“dementia” פירושו דמנציה, שיטיון – ירידה בזיכרון וביכולת החשיבה."
     },
     {
       "id": "B-q12",
-      "word": "laden",
+      "word": "devastating",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה \"עָמוּס\"?",
+      "question": "איזו מילה באנגלית פירושה “הרסני”?",
       "options": [
-        "elaborate",
-        "laden",
-        "polished",
-        "imprint"
+        "restrict",
+        "inflammation",
+        "urgently",
+        "devastating"
       ],
-      "correct_answer": "laden",
-      "explanation_hebrew": "המילה \"laden\" פירושה עָמוּס."
+      "correct_answer": "devastating",
+      "explanation_hebrew": "“devastating” פירושו הרסני – גורם נזק או צער עצום."
     },
     {
       "id": "B-q13",
-      "word": "elaborate",
+      "word": "participants",
       "type": "english_to_hebrew",
-      "question": "What does \"elaborate\" mean?",
+      "question": "What does “participants” mean?",
       "options": [
-        "מְלֻטָּשׁ, מְבָרָק",
-        "מִשְׁלַחַת, מַסָּע",
-        "מְשֻׁכְלָל, מְפֹרָט",
-        "חוֹתָם, רֹשֶׁם"
+        "משתתפים",
+        "טיפולים",
+        "נחוש",
+        "מעריך, בוחן"
       ],
-      "correct_answer": "מְשֻׁכְלָל, מְפֹרָט",
-      "explanation_hebrew": "המילה \"elaborate\" פירושה מְשֻׁכְלָל, מְפֹרָט."
+      "correct_answer": "משתתפים",
+      "explanation_hebrew": "“participants” פירושו משתתפים – אנשים שלוקחים חלק במשהו."
     },
     {
       "id": "B-q14",
-      "word": "polished",
-      "type": "english_to_hebrew",
-      "question": "What does \"polished\" mean?",
+      "word": "placebo",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פלצבו, תרופת דמה”?",
       "options": [
-        "חוֹתָם, רֹשֶׁם",
-        "מְלֻטָּשׁ, מְבָרָק",
-        "לְהִתְפַּיֵּס",
-        "מִשְׁלַחַת, מַסָּע"
+        "placebo",
+        "likelihood",
+        "repurposed",
+        "inflammation"
       ],
-      "correct_answer": "מְלֻטָּשׁ, מְבָרָק",
-      "explanation_hebrew": "המילה \"polished\" פירושה מְלֻטָּשׁ, מְבָרָק."
+      "correct_answer": "placebo",
+      "explanation_hebrew": "“placebo” פירושו פלצבו, תרופת דמה – חומר ללא השפעה הניתן לקבוצת ביקורת."
     },
     {
       "id": "B-q15",
-      "word": "imprint",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה \"חוֹתָם, רֹשֶׁם\"?",
+      "word": "likelihood",
+      "type": "english_to_hebrew",
+      "question": "What does “likelihood” mean?",
       "options": [
-        "reconcile",
-        "pageantry",
-        "expedition",
-        "imprint"
+        "להעריך",
+        "דמנציה, שיטיון",
+        "להאיץ",
+        "סבירות"
       ],
-      "correct_answer": "imprint",
-      "explanation_hebrew": "המילה \"imprint\" פירושה חוֹתָם, רֹשֶׁם."
+      "correct_answer": "סבירות",
+      "explanation_hebrew": "“likelihood” פירושו סבירות – מידת הסיכוי שמשהו יקרה."
     },
     {
       "id": "B-q16",
-      "word": "expedition",
-      "type": "english_to_hebrew",
-      "question": "What does \"expedition\" mean?",
+      "word": "benefit",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תועלת”?",
       "options": [
-        "מִשְׁלַחַת, מַסָּע",
-        "מְתֻכְנָן, מְבֻיָּם",
-        "טֶקֶס רַאֲוָה, הֲדַר",
-        "לְהִתְפַּיֵּס"
+        "benefit",
+        "determined",
+        "beneficial",
+        "treatments"
       ],
-      "correct_answer": "מִשְׁלַחַת, מַסָּע",
-      "explanation_hebrew": "המילה \"expedition\" פירושה מִשְׁלַחַת, מַסָּע."
+      "correct_answer": "benefit",
+      "explanation_hebrew": "“benefit” פירושו תועלת – יתרון או השפעה חיובית."
     },
     {
       "id": "B-q17",
-      "word": "reconcile",
+      "word": "inflammation",
       "type": "english_to_hebrew",
-      "question": "What does \"reconcile\" mean?",
+      "question": "What does “inflammation” mean?",
       "options": [
-        "הַכְנָסַת אוֹרְחִים",
-        "לְהִתְפַּיֵּס",
-        "מְתֻכְנָן, מְבֻיָּם",
-        "טֶקֶס רַאֲוָה, הֲדַר"
+        "נחוש",
+        "מועצם, מחוזק",
+        "דלקת",
+        "אובחן"
       ],
-      "correct_answer": "לְהִתְפַּיֵּס",
-      "explanation_hebrew": "המילה \"reconcile\" פירושה לְהִתְפַּיֵּס."
+      "correct_answer": "דלקת",
+      "explanation_hebrew": "“inflammation” פירושו דלקת – תגובה של הגוף עם נפיחות ואדמומיות."
     },
     {
       "id": "B-q18",
-      "word": "pageantry",
+      "word": "accelerate",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה \"טֶקֶס רַאֲוָה, הֲדַר\"?",
+      "question": "איזו מילה באנגלית פירושה “להאיץ”?",
       "options": [
-        "delegation",
-        "choreographed",
-        "hospitality",
-        "pageantry"
+        "likelihood",
+        "accelerate",
+        "trial",
+        "restrict"
       ],
-      "correct_answer": "pageantry",
-      "explanation_hebrew": "המילה \"pageantry\" פירושה טֶקֶס רַאֲוָה, הֲדַר."
+      "correct_answer": "accelerate",
+      "explanation_hebrew": "“accelerate” פירושו להאיץ – לגרום למשהו לקרות מהר יותר."
     },
     {
       "id": "B-q19",
-      "word": "choreographed",
+      "word": "beneficial",
       "type": "english_to_hebrew",
-      "question": "What does \"choreographed\" mean?",
+      "question": "What does “beneficial” mean?",
       "options": [
-        "מְתֻכְנָן, מְבֻיָּם",
-        "רָגִישׁ",
-        "מִשְׁלַחַת",
-        "הַכְנָסַת אוֹרְחִים"
+        "סבירות",
+        "תועלת",
+        "מועיל",
+        "קליני, רפואי"
       ],
-      "correct_answer": "מְתֻכְנָן, מְבֻיָּם",
-      "explanation_hebrew": "המילה \"choreographed\" פירושה מְתֻכְנָן, מְבֻיָּם."
+      "correct_answer": "מועיל",
+      "explanation_hebrew": "“beneficial” פירושו מועיל – שמביא תועלת."
     },
     {
       "id": "B-q20",
-      "word": "hospitality",
-      "type": "english_to_hebrew",
-      "question": "What does \"hospitality\" mean?",
+      "word": "recruited",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גויסו”?",
       "options": [
-        "מְתִיחוּיוֹת",
-        "רָגִישׁ",
-        "מִשְׁלַחַת",
-        "הַכְנָסַת אוֹרְחִים"
+        "assess",
+        "dementia",
+        "recruited",
+        "evaluating"
       ],
-      "correct_answer": "הַכְנָסַת אוֹרְחִים",
-      "explanation_hebrew": "המילה \"hospitality\" פירושה הַכְנָסַת אוֹרְחִים."
+      "correct_answer": "recruited",
+      "explanation_hebrew": "“recruited” פירושו גויסו – נבחרו והצטרפו למחקר."
     },
     {
       "id": "B-q21",
-      "word": "delegation",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה \"מִשְׁלַחַת\"?",
+      "word": "evaluating",
+      "type": "english_to_hebrew",
+      "question": "What does “evaluating” mean?",
       "options": [
-        "emphasised",
-        "delegation",
-        "sensitive",
-        "tensions"
+        "פלצבו, תרופת דמה",
+        "ניסוי, מחקר",
+        "מעריך, בוחן",
+        "דלקת"
       ],
-      "correct_answer": "delegation",
-      "explanation_hebrew": "המילה \"delegation\" פירושה מִשְׁלַחַת."
+      "correct_answer": "מעריך, בוחן",
+      "explanation_hebrew": "“evaluating” פירושו מעריך, בוחן – בודק את הערך או ההשפעה של משהו."
     },
     {
       "id": "B-q22",
-      "word": "sensitive",
-      "type": "english_to_hebrew",
-      "question": "What does \"sensitive\" mean?",
+      "word": "cognitive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קוגניטיבי, חשיבתי”?",
       "options": [
-        "מְתִיחוּיוֹת",
-        "הִדְגִּישׁ",
-        "לְהָאִיץ",
-        "רָגִישׁ"
+        "symptoms",
+        "cognitive",
+        "trial",
+        "recruited"
       ],
-      "correct_answer": "רָגִישׁ",
-      "explanation_hebrew": "המילה \"sensitive\" פירושה רָגִישׁ."
+      "correct_answer": "cognitive",
+      "explanation_hebrew": "“cognitive” פירושו קוגניטיבי, חשיבתי – הקשור לחשיבה, זיכרון והבנה."
     },
     {
       "id": "B-q23",
-      "word": "tensions",
+      "word": "assess",
       "type": "english_to_hebrew",
-      "question": "What does \"tensions\" mean?",
+      "question": "What does “assess” mean?",
       "options": [
-        "מְתִיחוּיוֹת",
-        "נוֹצֵץ, מְפֹאָר",
-        "הִדְגִּישׁ",
-        "לְהָאִיץ"
+        "קליני, רפואי",
+        "תועלת",
+        "להגביל",
+        "להעריך"
       ],
-      "correct_answer": "מְתִיחוּיוֹת",
-      "explanation_hebrew": "המילה \"tensions\" פירושה מְתִיחוּיוֹת."
+      "correct_answer": "להעריך",
+      "explanation_hebrew": "“assess” פירושו להעריך – לבדוק ולשפוט מצב או תוצאה."
     },
     {
       "id": "B-q24",
-      "word": "emphasised",
+      "word": "despair",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה \"הִדְגִּישׁ\"?",
+      "question": "איזו מילה באנגלית פירושה “ייאוש”?",
       "options": [
-        "noble",
-        "accelerate",
-        "emphasised",
-        "glittering"
+        "despair",
+        "diagnosed",
+        "symptoms",
+        "treatments"
       ],
-      "correct_answer": "emphasised",
-      "explanation_hebrew": "המילה \"emphasised\" פירושה הִדְגִּישׁ."
+      "correct_answer": "despair",
+      "explanation_hebrew": "“despair” פירושו ייאוש – תחושת חוסר תקווה."
     },
     {
       "id": "B-q25",
-      "word": "accelerate",
+      "word": "urgently",
       "type": "english_to_hebrew",
-      "question": "What does \"accelerate\" mean?",
+      "question": "What does “urgently” mean?",
       "options": [
-        "דִּיפְּלוֹמָטִי",
-        "אָצִיל, נַעֲלֶה",
-        "לְהָאִיץ",
-        "נוֹצֵץ, מְפֹאָר"
+        "טיפולים",
+        "בדחיפות",
+        "קליני, רפואי",
+        "מעריך, בוחן"
       ],
-      "correct_answer": "לְהָאִיץ",
-      "explanation_hebrew": "המילה \"accelerate\" פירושה לְהָאִיץ."
+      "correct_answer": "בדחיפות",
+      "explanation_hebrew": "“urgently” פירושו בדחיפות – באופן מיידי וחשוב מאוד."
     }
   ]
 }
