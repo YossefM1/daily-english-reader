@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-22",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the AD-SMART trial?",
+      "options": [
+        "To compare Alzheimer's rates in different parts of the UK.",
+        "To speed up the testing of several possible Alzheimer's treatments at the same time.",
+        "To replace cognitive tests with blood tests.",
+        "To prove that all diabetes medicines prevent dementia."
+      ],
+      "correct_answer": "To speed up the testing of several possible Alzheimer's treatments at the same time.",
+      "explanation_hebrew": "מטרת המחקר היא להאיץ את בדיקתן של כמה תרופות אפשריות במקביל, במקום לבדוק תרופה אחת בכל פעם.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which two medicines will the trial test first?",
+      "options": [
+        "Metformin and atomoxetine",
+        "Insulin and aspirin",
+        "Atomoxetine and a new cancer drug",
+        "Metformin and a vaccine"
+      ],
+      "correct_answer": "Metformin and atomoxetine",
+      "explanation_hebrew": "התרופות הראשונות הן metformin, המשמשת לסוכרת מסוג 2, ו־atomoxetine, המשמשת ל־ADHD.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “repurposed medicines” mean in this article?",
+      "options": [
+        "Medicines that failed every previous safety test",
+        "Medicines used only as placebos",
+        "Existing medicines being tested for a different medical use",
+        "Medicines manufactured from recycled packaging"
+      ],
+      "correct_answer": "Existing medicines being tested for a different medical use",
+      "explanation_hebrew": "repurposed medicines הן תרופות קיימות שנועדו במקור למצבים אחרים וכעת נבדקות לשימוש חדש נגד אלצהיימר.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many people with mild to moderate Alzheimer's are expected to join the study?",
+      "options": [
+        "About 120",
+        "About 600",
+        "More than 30",
+        "About 1,200"
+      ],
+      "correct_answer": "About 1,200",
+      "explanation_hebrew": "הכתבה מציינת שהמחקר יגייס כ־1,200 משתתפים ביותר מ־30 אתרים בבריטניה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do participants have a higher chance of receiving an active treatment in this platform trial than in a traditional trial?",
+      "options": [
+        "Several treatment groups share one placebo comparison group.",
+        "The trial has no placebo group at all.",
+        "Every participant takes both medicines together.",
+        "Only people who respond well are enrolled."
+      ],
+      "correct_answer": "Several treatment groups share one placebo comparison group.",
+      "explanation_hebrew": "מכיוון שכמה זרועות טיפול מושוות לקבוצת פלצבו משותפת אחת, חלק גדול יותר מהמשתתפים יכול לקבל טיפול פעיל.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “the drug can be dropped quickly”, what does “dropped” mean?",
+      "options": [
+        "Accidentally spilled",
+        "Lowered to a smaller dose",
+        "Removed from the trial because it is not showing benefit",
+        "Delivered directly to participants' homes"
+      ],
+      "correct_answer": "Removed from the trial because it is not showing benefit",
+      "explanation_hebrew": "dropped בהקשר המחקרי פירושו להפסיק לבדוק תרופה שאינה מראה תועלת, כדי לפנות מקום לטיפול אחר.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What must the study show for a drug to be considered successful? Give two outcomes.",
+      "rubric_hebrew": "יש לציין שני מדדים מרכזיים מן הכתבה: שיפור בחשיבה ושיפור בתפקוד היומיומי.",
+      "expected_points": [
+        "A beneficial effect on thinking or cognition.",
+        "A beneficial effect on the ability to carry out everyday activities.",
+        "An improvement that matters to patients and carers, not only a laboratory change."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the AD-SMART platform design is intended to shorten the search for Alzheimer's treatments.",
+      "rubric_hebrew": "יש להסביר בדיקה במקביל, קבוצת פלצבו משותפת, הפסקה מהירה של תרופה לא מועילה והוספת טיפולים חדשים.",
+      "expected_points": [
+        "Several treatments are tested simultaneously against one placebo group.",
+        "Treatments that do not show benefit can be removed quickly.",
+        "New candidate drugs can be added without starting an entirely separate trial.",
+        "The model adapts methods already used in cancer and motor neurone disease research."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why did joining the trial help Angela Bucksey and her husband feel less powerless after her diagnosis?",
+      "rubric_hebrew": "יש לקשר בין דבריהם לבין פעולה, תקווה ותרומה למחקר, בלי לטעון שהטיפול כבר הוכח כיעיל.",
+      "expected_points": [
+        "Angela said taking part meant doing something rather than simply waiting.",
+        "She described participation as a way to fight back and not let Alzheimer's define her.",
+        "Her husband said the trial helped move them away from despair.",
+        "Participation offers purpose and encouragement even though the drug's benefit is not yet known."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short explanation for a potential participant using the terms “placebo”, “cognitive tests” and “active treatment”.",
+      "rubric_hebrew": "יש להשתמש בשלושת המונחים במדויק ולהסביר את מבנה המחקר ללא הבטחה רפואית.",
+      "expected_points": [
+        "Explain that one group receives a placebo or dummy treatment for comparison.",
+        "Explain that other groups receive an active treatment.",
+        "State that regular cognitive tests help researchers measure changes in thinking.",
+        "Avoid claiming that either medicine has already been proved effective."
+      ],
+      "difficulty": "B"
+    }
+  ]
+}

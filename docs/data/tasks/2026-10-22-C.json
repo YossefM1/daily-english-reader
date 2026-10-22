@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-22",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Trump's green card curbs test Indian tech workers' American dream",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central contrast does the article draw about the new PERM restrictions?",
+      "options": [
+        "They will immediately bankrupt the eight affected firms but leave workers unharmed.",
+        "They may have a limited business impact while profoundly disrupting Indian workers' lives and long-term plans.",
+        "They make it easier for Indian graduates to obtain US citizenship.",
+        "They affect only American employees replacing overseas workers."
+      ],
+      "correct_answer": "They may have a limited business impact while profoundly disrupting Indian workers' lives and long-term plans.",
+      "explanation_hebrew": "הכתבה מדגישה שההשפעה העסקית עשויה להיות קטנה, אך הפגיעה האנושית בעובדים ובמשפחותיהם יכולה להיות עמוקה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What has happened to PERM applications involving the eight named technology firms?",
+      "options": [
+        "New and pending applications have been frozen.",
+        "All applications were approved automatically.",
+        "Only applications from Microsoft remain open.",
+        "Applications were transferred to Indian courts."
+      ],
+      "correct_answer": "New and pending applications have been frozen.",
+      "explanation_hebrew": "לפי הכתבה, בקשות PERM חדשות ותלויות ועומדות של החברות שנכללו בצעד הוקפאו.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “cost arbitrage” mean in the article's discussion of offshoring?",
+      "options": [
+        "Charging every worker the same salary worldwide",
+        "Using court action to cancel immigration fees",
+        "Taking advantage of lower operating or labour costs in another location",
+        "Replacing remote work with office work"
+      ],
+      "correct_answer": "Taking advantage of lower operating or labour costs in another location",
+      "explanation_hebrew": "cost arbitrage מתאר ניצול פערי עלויות בין מדינות, למשל העברת עבודה למקום שבו עלויות העבודה נמוכות יותר.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to the NFAP figures cited, what share of pending employment-based green-card applications involved Indian nationals?",
+      "options": [
+        "About one quarter",
+        "Just over half",
+        "Nearly all applications from eight firms",
+        "79%"
+      ],
+      "correct_answer": "79%",
+      "explanation_hebrew": "הדוח המצוטט קובע שכמעט מיליון הודים היו בתור, והם היו 79% מכלל הבקשות התלויות ועומדות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might moving to an employer not covered by the suspension be difficult even if it is legally possible?",
+      "options": [
+        "Other firms may fear retaliation, and layoffs and AI-driven restructuring make job changes harder.",
+        "US law forbids H-1B holders from changing employers under any circumstances.",
+        "All technology firms have stopped hiring American workers.",
+        "A move would require an immediate $800,000 investment."
+      ],
+      "correct_answer": "Other firms may fear retaliation, and layoffs and AI-driven restructuring make job changes harder.",
+      "explanation_hebrew": "הכתבה מסבירה שמעסיקים אחרים עלולים לחשוש מתגובה ממשלתית, ובמקביל פיטורים, קיצוצים ובינה מלאכותית מקשים על מעבר עבודה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the article mean by “rewriting the script” for Indian professionals?",
+      "options": [
+        "Changing computer code used in visa applications",
+        "Correcting errors in the PERM Tracker data",
+        "Rethinking the familiar career path of moving to the US and settling there",
+        "Writing a new law that guarantees citizenship"
+      ],
+      "correct_answer": "Rethinking the familiar career path of moving to the US and settling there",
+      "explanation_hebrew": "הביטוי מטפורי: המסלול המוכר מלימודים ועבודה בהודו אל ויזה, גרין קארד וחיים בארה״ב כבר אינו בטוח ולכן צריך לחשוב עליו מחדש.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two pieces of evidence that Indian technology companies have reduced their reliance on the H-1B-to-PERM pathway.",
+      "rubric_hebrew": "יש להביא שתי ראיות מספריות או עובדתיות מהכתבה על גיוס מקומי או הירידה בבקשות PERM.",
+      "expected_points": [
+        "Nasscom says Indian firms are hiring more workers locally in the US.",
+        "Wipro says more than 80% of its US workforce is locally hired.",
+        "TCS said its PERM applications were in single digits in the past two years.",
+        "A cited report said TCS filings fell from 1,804 to 513 and then to two."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the effects of the PERM suspension on companies, workers and the possible location of future technology jobs.",
+      "rubric_hebrew": "יש להבחין בין השפעה עסקית, השפעה אנושית ושינוי אפשרי באופן שבו חברות משתמשות בכישרון הודי.",
+      "expected_points": [
+        "Companies say they have already hired more locally and filed fewer PERM applications, so direct business effects may be limited.",
+        "Workers may face stalled permanent-residency plans, family disruption and greater uncertainty.",
+        "Alternative green-card routes are limited, expensive or potentially vulnerable to future restrictions.",
+        "Some work may be offshored to India rather than transferred to American employees."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does the article suggest that the consequences extend beyond immigration paperwork?",
+      "rubric_hebrew": "יש להסביר את ההשלכות על משפחות, זהות, כספים, יחס ציבורי ותכנון עתידי, תוך הסתמכות על הכתבה.",
+      "expected_points": [
+        "Some workers have built lives in the US while their children have grown up there.",
+        "Many borrowed heavily to study and establish careers.",
+        "Long waits and frozen applications reduce their ability to plan or absorb further costs.",
+        "Rising online hostility and offensive rhetoric add social pressure to legal uncertainty."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph using “backlog”, “offshoring” and “permanent residency” to explain what may happen next.",
+      "rubric_hebrew": "יש להשתמש בשלושת המונחים במדויק, להציג יותר מאפשרות אחת, ולהימנע מניבוי ודאי מעבר לעובדות הכתבה.",
+      "expected_points": [
+        "Mention the large backlog and long projected waits for many Indian applicants.",
+        "Explain that tighter routes to permanent residency may cause some workers to reconsider moving or staying.",
+        "Explain that companies may respond through local hiring or offshoring work to India.",
+        "Acknowledge that demand for Indian technology talent may continue even if the employment model changes."
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

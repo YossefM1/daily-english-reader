@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-22",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main change described in the article?",
+      "options": [
+        "Airbnb is limiting the cleaning tasks and other requests hosts can require from guests.",
+        "Airbnb is ending all cleaning fees for every reservation.",
+        "Guests must now sign private contracts with every host.",
+        "Hosts may now fine guests for breaking any house rule."
+      ],
+      "correct_answer": "Airbnb is limiting the cleaning tasks and other requests hosts can require from guests.",
+      "explanation_hebrew": "הכתבה עוסקת בכללים חדשים שמגבילים מטלות ניקיון ובקשות אחרות שמארחים יכולים להטיל על אורחים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which task should guests who pay a cleaning fee no longer be required to do?",
+      "options": [
+        "Lock the front door when leaving.",
+        "Strip the beds and wash the dishes.",
+        "Respect local limits on shower time.",
+        "Tell the host about damage."
+      ],
+      "correct_answer": "Strip the beds and wash the dishes.",
+      "explanation_hebrew": "Airbnb קבעה שאורחים המשלמים דמי ניקיון לא אמורים לבצע עבודות שנחשבות לעבודת המנקה, ובהן הפשטת המיטות ושטיפת הכלים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “onerous” mean when Airbnb says some rules felt confusing and onerous?",
+      "options": [
+        "Popular and entertaining",
+        "Easy to remember",
+        "Burdensome or demanding",
+        "Required by national law"
+      ],
+      "correct_answer": "Burdensome or demanding",
+      "explanation_hebrew": "בהקשר זה onerous פירושו מכביד או דורש מאמץ רב, ולכן Airbnb ביקשה לפשט את הכללים.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When do the revised rules apply?",
+      "options": [
+        "Only to stays lasting more than a month",
+        "To every reservation made before November",
+        "Only after a host receives a complaint",
+        "To reservations booked on or after 20 November"
+      ],
+      "correct_answer": "To reservations booked on or after 20 November",
+      "explanation_hebrew": "הכתבה מציינת במפורש שהכללים חלים על הזמנות שנעשו ב־20 בנובמבר או לאחריו.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why will Airbnb display house rules more prominently and repeat them in reservation reminders?",
+      "options": [
+        "To reduce surprises and make expectations clearer before and during a stay.",
+        "To encourage guests to negotiate cleaning fees after checkout.",
+        "To let hosts add unlimited rules without review.",
+        "To replace communication between guests and hosts."
+      ],
+      "correct_answer": "To reduce surprises and make expectations clearer before and during a stay.",
+      "explanation_hebrew": "הצגה בולטת ותזכורות עוזרות לאורחים להבין מראש מה מצופה מהם ומצמצמות הפתעות ומחלוקות.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does it mean if a request is “flagged”?",
+      "options": [
+        "It is automatically added to every listing.",
+        "It is translated into another language.",
+        "It is marked for review because it may not follow the rules.",
+        "It is approved by a homeowners association."
+      ],
+      "correct_answer": "It is marked for review because it may not follow the rules.",
+      "explanation_hebrew": "flagged כאן פירושו סומן לבדיקה משום שהבקשה עשויה שלא לעמוד בכללים; למארח יש אפשרות לערער.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two examples of requests that may still be considered reasonable under Airbnb's revised rules.",
+      "rubric_hebrew": "יש לציין שתי דוגמאות הנתמכות בכתבה ולהסביר בקצרה מדוע הן סבירות.",
+      "expected_points": [
+        "A host may ask guests to lock doors or follow ordinary safety and care instructions.",
+        "A host may limit shower time when local drought restrictions require water conservation.",
+        "A request may be allowed when it is required by law or a homeowners association."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why Airbnb changed its house-rule system and what the new system does.",
+      "rubric_hebrew": "יש לכלול את תלונות האורחים, את הבלבול סביב כללים מכבידים, ואת ההגבלות וההבהרות החדשות.",
+      "expected_points": [
+        "Guests had complained about being asked to do extensive chores despite paying cleaning fees.",
+        "Airbnb said the previous system could be confusing, burdensome and hard to manage.",
+        "Hosts may use seven standard rules and other reasonable requests, but not cleaner-type tasks for fee-paying guests.",
+        "Rules will be shown more clearly and repeated in reservation reminders."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might strict checkout chores cause more frustration when a listing also charges a cleaning fee?",
+      "rubric_hebrew": "יש להסביר את תחושת חוסר ההוגנות באמצעות הקשר בין תשלום עבור ניקיון לבין דרישה לבצע עבודת ניקיון.",
+      "expected_points": [
+        "The fee suggests that professional or host-provided cleaning is included in the price.",
+        "Requiring substantial chores can make guests feel they are paying twice: with money and labour.",
+        "The article notes long-running guest complaints about this combination.",
+        "A clear distinction between basic respect and cleaner-type work can reduce conflict."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short, polite checkout message that follows the revised rules and uses the words “reasonable”, “reminder” and “cleaning fee”.",
+      "rubric_hebrew": "יש להשתמש נכון בשלוש המילים, לנסח בקשה מנומסת וסבירה, ולא לדרוש מאורח המשלם דמי ניקיון לבצע עבודת מנקה.",
+      "expected_points": [
+        "Use all three required terms accurately.",
+        "Include a reasonable request such as locking the door or reporting damage.",
+        "Do not require stripping beds, washing dishes or taking rubbish offsite.",
+        "Keep the message clear and polite."
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
