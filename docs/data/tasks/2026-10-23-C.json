@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-23",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+  "article_url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central argument about Western diplomacy in Moscow during the war?",
+      "options": [
+        "Western embassies have expanded because contact with Russia is now easier.",
+        "Diplomats face surveillance, isolation and practical pressure, yet their limited communication role has become more important.",
+        "Diplomats have stopped supporting their own citizens in Russia.",
+        "Russian and Western governments now communicate mainly through cultural events."
+      ],
+      "correct_answer": "Diplomats face surveillance, isolation and practical pressure, yet their limited communication role has become more important.",
+      "explanation_hebrew": "הכתבה מציגה פרדוקס: תנאי העבודה נעשו קשים ומבודדים יותר, אך דווקא בהיעדר ערוצים אחרים חשיבות הדיפלומטים גדלה.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened to many embassies after diplomats were expelled following the 2022 invasion?",
+      "options": [
+        "They were left short-staffed after reciprocal expulsions.",
+        "They replaced all diplomats with local academics.",
+        "They received permission to hire unlimited foreign staff.",
+        "They stopped being monitored by intelligence services."
+      ],
+      "correct_answer": "They were left short-staffed after reciprocal expulsions.",
+      "explanation_hebrew": "מדינות מערביות גירשו דיפלומטים רוסים, מוסקבה הגיבה בגירושים משלה, ושגרירויות רבות נשארו עם מחסור בכוח אדם.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “responded in kind” mean when describing Moscow's reaction to expulsions?",
+      "options": [
+        "It offered humanitarian assistance.",
+        "It reduced surveillance at Western embassies.",
+        "It took a similar retaliatory action by expelling Western diplomats.",
+        "It invited the diplomats to return."
+      ],
+      "correct_answer": "It took a similar retaliatory action by expelling Western diplomats.",
+      "explanation_hebrew": "responded in kind פירושו להגיב באותו סוג של צעד; במקרה זה מוסקבה גירשה דיפלומטים מערביים בתגובה לגירוש רוסים.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did some embassies struggle to pay everyday operating expenses?",
+      "options": [
+        "They had donated their budgets to Ukraine.",
+        "Their buildings were closed for repairs.",
+        "All embassy staff demanded payment in dollars.",
+        "Sanctions cut Russian banks off from Swift and Visa and Mastercard suspended operations."
+      ],
+      "correct_answer": "Sanctions cut Russian banks off from Swift and Visa and Mastercard suspended operations.",
+      "explanation_hebrew": "הסנקציות ושיבוש מערכות התשלום הקשו על העברת כסף ועל תשלום הוצאות בסיסיות, עד כדי מחסור במזומן.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did Pierre Lévy argue against recalling ambassadors after the invasion?",
+      "options": [
+        "He believed worsening relations made a remaining channel of communication more necessary.",
+        "He expected trade and joint projects to continue normally.",
+        "He wanted embassies to take over Russia's banking system.",
+        "He believed surveillance had already ended."
+      ],
+      "correct_answer": "He believed worsening relations made a remaining channel of communication more necessary.",
+      "explanation_hebrew": "לפי Lévy, ככל שהיחסים הידרדרו כך היה חשוב יותר להשאיר נציגים שיכולים להעביר מסרים ולספק תמונה מדויקת.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does it mean that Russian contacts were “tailed” by FSB agents?",
+      "options": [
+        "They were offered jobs by the embassy.",
+        "They were publicly interviewed by journalists.",
+        "They were followed and watched as they travelled to the embassy.",
+        "They were added to an official guest list."
+      ],
+      "correct_answer": "They were followed and watched as they travelled to the embassy.",
+      "explanation_hebrew": "tailed פירושו שנעקבו פיזית; האורחים הושמו תחת מעקב עד לדלתות השגרירות.",
+      "difficulty": "C"
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three examples of surveillance or intimidation described by the diplomats.",
+      "rubric_hebrew": "יש להביא שלוש דוגמאות שונות ומדויקות מהכתבה.",
+      "expected_points": [
+        "Diplomats were warned to expect listening devices and cameras throughout their homes.",
+        "The FSB tried to recruit two Russian embassy employees to report on the mission.",
+        "Russian guests were followed by agents to embassy doors.",
+        "Guests at a British ambassador's event were harassed and later questioned by police.",
+        "Academics and cultural figures were intimidated into avoiding Western diplomats."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the war changed both the purpose and the daily operation of Western embassies in Moscow.",
+      "rubric_hebrew": "יש לשלב את אובדן שיתוף הפעולה הרגיל, המשימות החדשות, קשיי כוח האדם והכסף, והצורך לשמור על ערוץ תקשורת.",
+      "expected_points": [
+        "Normal work on trade, bilateral relations and joint projects became largely impossible.",
+        "Embassies prioritised understanding events inside Russia, communicating official positions and protecting staff.",
+        "Expulsions and Russia's ban on hiring foreign nationals caused staffing and maintenance problems.",
+        "Financial sanctions created cash and payment difficulties.",
+        "With few high-level contacts remaining, diplomats became a rare channel between governments."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why did Lynne Tracy say Moscow was harder than a posting where she had faced direct physical danger?",
+      "rubric_hebrew": "יש להסביר את ההבדל בין סכנה מוחשית לבין אי־ודאות מתמשכת וחוסר שליטה, ולתמוך בדוגמאות מהכתבה.",
+      "expected_points": [
+        "In Pakistan she felt that some aspects of the danger remained within her control.",
+        "In Moscow, constant counterintelligence pressure created pervasive uncertainty.",
+        "Surveillance could extend into private homes and personal contacts.",
+        "The resulting constant paranoia could continue even after officials left Russia."
+      ],
+      "difficulty": "C"
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph using “persona non grata”, “counterintelligence” and “channel of communication”.",
+      "rubric_hebrew": "יש להשתמש בשלושת המונחים במדויק, להציג את המתח בין הסיכון לבין הצורך בדיפלומטיה, ולא לטעון טענות שאינן בכתבה.",
+      "expected_points": [
+        "Explain that reciprocal declarations of persona non grata reduced embassy staffing.",
+        "Describe counterintelligence surveillance and recruitment pressure as a source of uncertainty.",
+        "Explain why a channel of communication remains valuable when ministerial contacts are rare.",
+        "Acknowledge that Russian diplomats also complain of unfair treatment while noting the diplomats' view that Moscow's tactics are broader."
+      ],
+      "difficulty": "C"
+    }
+  ]
+}

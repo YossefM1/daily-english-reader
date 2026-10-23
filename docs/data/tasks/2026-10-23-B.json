@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-23",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "options": [
+        "The history of every Mercury Prize winner since 1992",
+        "Raye winning the 2026 Mercury Prize for her second album and the story behind the record",
+        "Olivia Dean preparing to release her first album",
+        "A campaign to replace the Mercury Prize with the Brit Awards"
+      ],
+      "correct_answer": "Raye winning the 2026 Mercury Prize for her second album and the story behind the record",
+      "explanation_hebrew": "הכתבה מדווחת על זכייתה של Raye ומסבירה את סגנון האלבום, תהליך יצירתו ומשמעות הפרס.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What prize did Raye receive along with the Mercury trophy?",
+      "options": [
+        "£25,000",
+        "A recording contract with Al Green",
+        "A Grammy nomination",
+        "Funding for 100 musicians"
+      ],
+      "correct_answer": "£25,000",
+      "explanation_hebrew": "האלבום זכה בפרס Mercury, הכולל סכום של 25,000 ליש״ט.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “cookie-cutter” mean when Raye says she did not make the album that way?",
+      "options": [
+        "Recorded entirely in a kitchen",
+        "Short enough for radio playlists",
+        "Standardised and made to follow a familiar commercial formula",
+        "Written by several anonymous musicians"
+      ],
+      "correct_answer": "Standardised and made to follow a familiar commercial formula",
+      "explanation_hebrew": "cookie-cutter מתאר יצירה אחידה וצפויה שמותאמת לתבנית מסחרית; Raye הדגישה שפעלה אחרת.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What delayed work on the album by almost a year?",
+      "options": [
+        "The Mercury ceremony moved to Newcastle.",
+        "Raye changed all 17 tracks after a review.",
+        "One of the orchestras cancelled its recordings.",
+        "Her car was stolen with her songwriting notebooks and demos inside."
+      ],
+      "correct_answer": "Her car was stolen with her songwriting notebooks and demos inside.",
+      "explanation_hebrew": "גניבת המכונית, שבה היו מחברות הכתיבה והדמואים שלה, עיכבה את העבודה כמעט בשנה.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article present Raye's win as unusual in recent Mercury Prize history?",
+      "options": [
+        "A pop album had not won the prize since M People's victory in 1994.",
+        "The prize normally accepts only debut albums.",
+        "No album longer than one hour had ever been nominated.",
+        "The judges usually exclude records that reach number one."
+      ],
+      "correct_answer": "A pop album had not won the prize since M People's victory in 1994.",
+      "explanation_hebrew": "הכתבה מציינת שזהו אלבום הפופ הראשון שזוכה מאז 1994, ולכן הזכייה בולטת בהיסטוריה העדכנית של הפרס.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “antidote” mean in the description of the Mercury Prize as an antidote to the Brit Awards?",
+      "options": [
+        "A medical treatment for performers",
+        "A copy of a more commercial awards show",
+        "A contrasting alternative to a commercially focused prize",
+        "A requirement that winners donate their money"
+      ],
+      "correct_answer": "A contrasting alternative to a commercially focused prize",
+      "explanation_hebrew": "antidote משמש כאן בהשאלה לחלופה מתקנת: פרס שמדגיש חדשנות מוזיקלית ולא אופנה או הצלחה מסחרית.",
+      "difficulty": "B"
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three details that show the large scale or cinematic style of This Music May Contain Hope.",
+      "rubric_hebrew": "יש לציין שלושה פרטים קונקרטיים מהכתבה המדגימים את היקף ההפקה או את המבנה הסיפורי.",
+      "expected_points": [
+        "The album contains 17 tracks and lasts 73 minutes.",
+        "Some individual songs are seven minutes long.",
+        "It tells a cinematic story about a relationship, heartbreak in Paris and recovery.",
+        "It includes four orchestras and more than 100 musicians.",
+        "It features Raye's grandparents and soul singer Al Green."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the path from the album's difficult beginning to its Mercury Prize victory.",
+      "rubric_hebrew": "יש לכלול את הגניבה והעיכוב, את יצירת האלבום ללא התמקדות בהצלחה מסחרית, את קבלתו ולבסוף את הזכייה.",
+      "expected_points": [
+        "Raye's car was stolen with notebooks and demos, delaying the album by almost a year.",
+        "She created an ambitious, maximalist record without following a commercial formula.",
+        "The album topped the UK chart and received strong reviews after its March release.",
+        "It beat nominees including Paul McCartney, Olivia Dean and Jade to win the 2026 Mercury Prize."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How does Raye's reaction to the theft support the album's theme of resilience?",
+      "rubric_hebrew": "יש לקשר בין קבלת האירוע בדיעבד לבין סיפור האלבום על התאוששות והתחזקות לאחר משבר.",
+      "expected_points": [
+        "She said the theft initially left her distraught and worried.",
+        "She later viewed slips and accidents as events that shape a person's path.",
+        "The album's heroine recovers after a relationship ends and emerges stronger.",
+        "Both the real experience and the album narrative turn disruption into growth rather than defeat."
+      ],
+      "difficulty": "B"
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short music review using the words “maximalist”, “resilient” and “shortlist”.",
+      "rubric_hebrew": "יש להשתמש בשלושת המונחים במדויק, לתאר את האלבום באופן נאמן לכתבה ולהבחין בין עובדה לדעה.",
+      "expected_points": [
+        "Use all three required terms accurately.",
+        "Mention the album's large-scale sound or long, indulgent songs.",
+        "Connect resilience to the album's story of recovering from heartbreak.",
+        "State that it won after appearing on a shortlist with other named or varied artists."
+      ],
+      "difficulty": "B"
+    }
+  ]
+}

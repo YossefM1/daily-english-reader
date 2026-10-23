@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-23",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Haematology centre for cancer patients at risk over 'disgraceful' funds move",
+  "article_url": "https://www.bbc.co.uk/news/articles/c60qkpxw8eeno",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main issue described in the article?",
+      "options": [
+        "Funding has been withdrawn from plans for a new Belfast haematology centre, putting the project at risk.",
+        "Belfast City Hospital has closed all cancer services immediately.",
+        "Northern Ireland has approved a second haematology centre ahead of schedule.",
+        "Hospital staff have voted against moving to a new building."
+      ],
+      "correct_answer": "Funding has been withdrawn from plans for a new Belfast haematology centre, putting the project at risk.",
+      "explanation_hebrew": "הכתבה מתמקדת במשיכת המימון בסך 1.5 מיליון ליש״ט שנועד להעברת עובדים, צעד שמסכן את הקמת המרכז החדש.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many staff did the Belfast Trust plan to relocate to make space for the centre?",
+      "options": [
+        "About 20",
+        "About 80",
+        "About 150",
+        "More than 1,500"
+      ],
+      "correct_answer": "About 80",
+      "explanation_hebrew": "לפי הכתבה, התכנית הייתה להעביר כ־80 עובדים מאזור בבית החולים כדי לפנות מקום ליחידה החדשה.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “withdrew funding” mean in the article?",
+      "options": [
+        "Added extra money to the project",
+        "Delayed announcing the budget",
+        "Took back money that had been allocated",
+        "Moved the project to another hospital"
+      ],
+      "correct_answer": "Took back money that had been allocated",
+      "explanation_hebrew": "withdrew funding פירושו שהמחלקה לקחה בחזרה כסף שכבר הוקצה לפרויקט.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the centre's current planned opening date?",
+      "options": [
+        "March 2027",
+        "October 2028",
+        "January 2030",
+        "March 2031"
+      ],
+      "correct_answer": "March 2031",
+      "explanation_hebrew": "הפרויקט כבר מפגר בשנה, ומועד הפתיחה המתוכנן הנוכחי נדחה למרץ 2031.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did assembly members argue that further delay could put patients at risk?",
+      "options": [
+        "Many patients are severely immunocompromised and the current facilities lack enough isolation.",
+        "The new centre would provide free transport for hospital workers.",
+        "The hospital intends to stop employing specialised staff.",
+        "Cancer treatment can only take place outside Belfast."
+      ],
+      "correct_answer": "Many patients are severely immunocompromised and the current facilities lack enough isolation.",
+      "explanation_hebrew": "מטופלי המטולוגיה עוברים טיפולים אינטנסיביים ומערכת החיסון שלהם פגיעה מאוד; היעדר בידוד מתאים מגדיל את הסיכון.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this project, what does “decant” refer to?",
+      "options": [
+        "Testing patients' blood before treatment",
+        "Reducing the number of cancer appointments",
+        "Reviewing the total construction cost",
+        "Moving staff out of an area so it can be used for the new unit"
+      ],
+      "correct_answer": "Moving staff out of an area so it can be used for the new unit",
+      "explanation_hebrew": "בהקשר של הפרויקט decant הוא פינוי או העברה של עובדים מהאזור המיועד למרכז החדש.",
+      "difficulty": "A"
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons the Department of Health gave for withdrawing the £1.5m allocation.",
+      "rubric_hebrew": "יש לציין את שתי הסיבות שהובאו בדברי מנכ״לית הנאמנות.",
+      "expected_points": [
+        "The department was not satisfied with the trust's options appraisal.",
+        "It questioned the robustness of the capital cost estimate."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise what happened to the proposed centre and how the Belfast Trust is responding.",
+      "rubric_hebrew": "יש לתאר את מטרת המרכז, משיכת המימון, העיכוב וצעדי הנאמנות למציאת פתרון.",
+      "expected_points": [
+        "The trust planned a new haematology centre at Belfast City Hospital for vulnerable cancer patients.",
+        "It needed to relocate about 80 staff, but the Department of Health withdrew £1.5m connected to that move.",
+        "The project is at risk and a year behind schedule, with opening currently planned for March 2031.",
+        "The trust is exploring other funding and escalating the issue to the department's permanent secretary."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why did politicians describe the centre as a source of hope for cancer patients?",
+      "rubric_hebrew": "יש לקשר בין מצב המטופלים, תנאי הבידוד הקיימים והיתרון הצפוי מיחידה ייעודית.",
+      "expected_points": [
+        "Patients receive intense treatment and may be severely immunocompromised.",
+        "There are concerns about insufficient isolation in the current hospital conditions.",
+        "A dedicated centre could offer a safer environment with specialised staff.",
+        "Losing or delaying the project therefore feels especially serious for vulnerable patients."
+      ],
+      "difficulty": "A"
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short public update using the words “allocation”, “relocate” and “vulnerable”.",
+      "rubric_hebrew": "יש להשתמש נכון בשלושת המונחים, למסור את העובדות בלי להמציא פתרון או מועד חדש, ולשמור על ניסוח ברור.",
+      "expected_points": [
+        "State that the £1.5m allocation was withdrawn.",
+        "Explain that about 80 staff must be relocated to make room.",
+        "Mention that the centre is intended for vulnerable haematology patients.",
+        "Avoid claiming that the project has been cancelled or that replacement funding is confirmed."
+      ],
+      "difficulty": "A"
+    }
+  ]
+}
