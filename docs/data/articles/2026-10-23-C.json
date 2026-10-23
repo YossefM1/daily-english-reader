@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-23",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo",
+  "published_at": "2026-10-22T23:16:20+00:00",
+  "age_hours_at_selection": 3.02,
+  "word_count": 1112,
+  "generated_at": "2026-10-23T02:17:44.710937+00:00",
+  "difficulty_reason": "Long, dense analytical piece with complex sentences and B2/C1/C2 vocabulary on diplomacy and intelligence; assumes background on the Russia–Ukraine war.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "surveillance",
+      "lemma": "surveillance",
+      "level": "C1",
+      "hebrew": "מַעֲקָב / בִּיּוּן",
+      "explanation_hebrew": "מַעֲקָב צָמוּד אַחֲרֵי אֲנָשִׁים",
+      "pronunciation_hebrew": "סֶרְוֵיילֶנְס",
+      "example": "The building is under surveillance."
+    },
+    {
+      "word": "paranoia",
+      "lemma": "paranoia",
+      "level": "C1",
+      "hebrew": "פָּרָנוֹיָה / חֲשָׁדָנוּת קִיצוֹנִית",
+      "explanation_hebrew": "פַּחַד וַחֲשָׁד מוּגְזָמִים",
+      "pronunciation_hebrew": "פָּרָנוֹיָה",
+      "example": "His paranoia grew every day."
+    },
+    {
+      "word": "assignment",
+      "lemma": "assignment",
+      "level": "B2",
+      "hebrew": "מְשִׂימָה / הַצָּבָה",
+      "explanation_hebrew": "תַּפְקִיד אוֹ מְשִׂימָה שֶׁמּוּטֶלֶת עַל מִישֶׁהוּ",
+      "pronunciation_hebrew": "אַסַייְנְמֶנְט",
+      "example": "It was a difficult assignment."
+    },
+    {
+      "word": "defusing",
+      "lemma": "defuse",
+      "level": "C1",
+      "hebrew": "נִטְרוּל מֶתַח / פִּיּוּס",
+      "explanation_hebrew": "הַפְחָתָה שֶׁל מֶתַח אוֹ סַכָּנָה",
+      "pronunciation_hebrew": "דִיפְיוּזִינְג",
+      "example": "He was good at defusing arguments."
+    },
+    {
+      "word": "deemed",
+      "lemma": "deem",
+      "level": "C1",
+      "hebrew": "נֶחְשָׁב / הוּגְדַּר",
+      "explanation_hebrew": "נֶחְשָׁב אוֹ הוֹגְדַּר בְּאוֹפֶן מְסוּיָּם",
+      "pronunciation_hebrew": "דִימְד",
+      "example": "The plan was deemed too risky."
+    },
+    {
+      "word": "isolated",
+      "lemma": "isolate",
+      "level": "B2",
+      "hebrew": "מְבוּדָּד",
+      "explanation_hebrew": "מוּפְרָד מֵאֲחֵרִים, לְבַד",
+      "pronunciation_hebrew": "אַייסוֹלֵייטֶד",
+      "example": "The village is very isolated."
+    },
+    {
+      "word": "invasion",
+      "lemma": "invasion",
+      "level": "B2",
+      "hebrew": "פְּלִישָׁה",
+      "explanation_hebrew": "כְּנִיסָה בְּכוֹחַ שֶׁל צָבָא לְאֶרֶץ אַחֶרֶת",
+      "pronunciation_hebrew": "אִינְוֵייזְ'ן",
+      "example": "The invasion began at dawn."
+    },
+    {
+      "word": "monitored",
+      "lemma": "monitor",
+      "level": "B2",
+      "hebrew": "נוּטָר / פּוּקַח",
+      "explanation_hebrew": "נֶעֱקַב וְנִבְדַּק בְּאוֹפֶן קָבוּעַ",
+      "pronunciation_hebrew": "מוֹנִיטֶרְד",
+      "example": "His heart rate was monitored."
+    },
+    {
+      "word": "expelled",
+      "lemma": "expel",
+      "level": "C1",
+      "hebrew": "גּוֹרַשׁ / הוּרְחַק",
+      "explanation_hebrew": "נִשְׁלַח הַחוּצָה אוֹ הוּרְחַק בְּכוֹחַ",
+      "pronunciation_hebrew": "אֶקְסְפֶּלְד",
+      "example": "The diplomat was expelled."
+    },
+    {
+      "word": "counterintelligence",
+      "lemma": "counterintelligence",
+      "level": "C2",
+      "hebrew": "נֶגֶד-מוֹדִיעִין",
+      "explanation_hebrew": "פְּעוּלוֹת לִמְנִיעַת רִיגּוּל שֶׁל הַיָּרִיב",
+      "pronunciation_hebrew": "קַאוּנְטֶר-אִינְטֶלִיגֶ'נְס",
+      "example": "She worked in counterintelligence."
+    },
+    {
+      "word": "uncertainty",
+      "lemma": "uncertainty",
+      "level": "B2",
+      "hebrew": "אִי-וַדָּאוּת",
+      "explanation_hebrew": "מַצָּב שֶׁבּוֹ לֹא יוֹדְעִים מַה יִקְרֶה",
+      "pronunciation_hebrew": "אַנְסֶרְטֶנְטִי",
+      "example": "There is a lot of uncertainty."
+    },
+    {
+      "word": "scope",
+      "lemma": "scope",
+      "level": "C1",
+      "hebrew": "הֶיקֵּף / טְוָוח",
+      "explanation_hebrew": "הַגּוֹדֶל אוֹ הַטְּוָוח שֶׁל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "סְקוֹפּ",
+      "example": "The scope of the project is large."
+    },
+    {
+      "word": "tactics",
+      "lemma": "tactic",
+      "level": "B2",
+      "hebrew": "טַקְטִיקוֹת / שִׁיטוֹת",
+      "explanation_hebrew": "דְּרָכִים מְתוּכְנָנוֹת לְהַשִּׂיג מַטָּרָה",
+      "pronunciation_hebrew": "טַקְטִיקְס",
+      "example": "They changed their tactics."
+    },
+    {
+      "word": "recruit",
+      "lemma": "recruit",
+      "level": "B2",
+      "hebrew": "לְגַיֵּיס",
+      "explanation_hebrew": "לְצָרֵף אֲנָשִׁים לְאִרְגּוּן אוֹ מְשִׂימָה",
+      "pronunciation_hebrew": "רִיקְרוּט",
+      "example": "The army tried to recruit him."
+    },
+    {
+      "word": "prosecution",
+      "lemma": "prosecution",
+      "level": "C1",
+      "hebrew": "הַעֲמָדָה לְדִין / תְּבִיעָה",
+      "explanation_hebrew": "הֲלִיךְ מִשְׁפָּטִי נֶגֶד מִישֶׁהוּ",
+      "pronunciation_hebrew": "פְּרוֹסִיקְיוּשְׁן",
+      "example": "He faced criminal prosecution."
+    },
+    {
+      "word": "ordinarily",
+      "lemma": "ordinarily",
+      "level": "C1",
+      "hebrew": "בְּדֶרֶךְ כְּלָל",
+      "explanation_hebrew": "בְּאוֹפֶן רָגִיל, בְּמַצָּב רָגִיל",
+      "pronunciation_hebrew": "אוֹרְדִינֶרִילִי",
+      "example": "Ordinarily, I walk to work."
+    },
+    {
+      "word": "intimidated",
+      "lemma": "intimidate",
+      "level": "C1",
+      "hebrew": "מְאוּיָּם / מוּרְתָּע",
+      "explanation_hebrew": "מוּפְחָד אוֹ נִלְחָץ עַל יְדֵי אִיּוּמִים",
+      "pronunciation_hebrew": "אִינְטִימִידֵייטֶד",
+      "example": "She felt intimidated by the crowd."
+    },
+    {
+      "word": "harassed",
+      "lemma": "harass",
+      "level": "C1",
+      "hebrew": "הוּטְרַד",
+      "explanation_hebrew": "הוּצַק לוֹ בְּאוֹפֶן חוֹזֵר וְנִשְׁנֶה",
+      "pronunciation_hebrew": "הַארַסְט",
+      "example": "They were harassed by reporters."
+    },
+    {
+      "word": "declined",
+      "lemma": "decline",
+      "level": "B2",
+      "hebrew": "סֵירֵב / דָּחָה",
+      "explanation_hebrew": "אָמַר לֹא בְּנִימוּס לְהַצָּעָה",
+      "pronunciation_hebrew": "דִיקְלַיינְד",
+      "example": "He declined the invitation."
+    },
+    {
+      "word": "aftermath",
+      "lemma": "aftermath",
+      "level": "C1",
+      "hebrew": "הַשְׁלָכוֹת / מַה שֶּׁבָּא אַחֲרֵי",
+      "explanation_hebrew": "הַתְּקוּפָה וְהַהַשְׁלָכוֹת שֶׁאַחֲרֵי אֵירוּעַ קָשֶׁה",
+      "pronunciation_hebrew": "אַפְטֶרְמָאת'",
+      "example": "In the aftermath of the storm, roads closed."
+    },
+    {
+      "word": "envoys",
+      "lemma": "envoy",
+      "level": "C1",
+      "hebrew": "שַׁגְרִירִים / שְׁלִיחִים",
+      "explanation_hebrew": "נְצִיגִים רִשְׁמִיִּים שֶׁל מְדִינָה",
+      "pronunciation_hebrew": "אֶנְווֹיז",
+      "example": "The envoys met in secret."
+    },
+    {
+      "word": "transformed",
+      "lemma": "transform",
+      "level": "B2",
+      "hebrew": "שִׁינָּה / הֶחֱלִיף צוּרָה",
+      "explanation_hebrew": "שִׁינָּה בְּאוֹפֶן מַשְׁמָעוּתִי",
+      "pronunciation_hebrew": "טְרַנְספוֹרְמְד",
+      "example": "The war transformed the city."
+    },
+    {
+      "word": "bilateral",
+      "lemma": "bilateral",
+      "level": "C2",
+      "hebrew": "דּוּ-צְדָדִי",
+      "explanation_hebrew": "בֵּין שְׁתֵּי מְדִינוֹת אוֹ צְדָדִים",
+      "pronunciation_hebrew": "בַּיילָטֶרָל",
+      "example": "They signed a bilateral agreement."
+    },
+    {
+      "word": "sanctions",
+      "lemma": "sanction",
+      "level": "C1",
+      "hebrew": "סַנְקְצִיּוֹת / עִיצּוּמִים",
+      "explanation_hebrew": "עֳנָשִׁים כַּלְכָּלִיִּים נֶגֶד מְדִינָה",
+      "pronunciation_hebrew": "סַנְקְשְׁנְז",
+      "example": "The country faced economic sanctions."
+    },
+    {
+      "word": "espionage",
+      "lemma": "espionage",
+      "level": "C2",
+      "hebrew": "רִיגּוּל / בִּיּוּן",
+      "explanation_hebrew": "אִיסּוּף סוֹדוֹת בַּחֲשָׁאי",
+      "pronunciation_hebrew": "אֶסְפִּיוֹנָאז'",
+      "example": "He was accused of espionage."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "surveillance",
+      "type": "english_to_hebrew",
+      "question": "What does “surveillance” mean?",
+      "options": [
+        "בְּדֶרֶךְ כְּלָל",
+        "מַעֲקָב / בִּיּוּן",
+        "נִטְרוּל מֶתַח / פִּיּוּס",
+        "סַנְקְצִיּוֹת / עִיצּוּמִים"
+      ],
+      "correct_answer": "מַעֲקָב / בִּיּוּן",
+      "explanation_hebrew": "“surveillance” פירושו מַעֲקָב / בִּיּוּן."
+    },
+    {
+      "id": "C-q2",
+      "word": "paranoia",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פָּרָנוֹיָה / חֲשָׁדָנוּת קִיצוֹנִית”?",
+      "options": [
+        "monitored",
+        "aftermath",
+        "surveillance",
+        "paranoia"
+      ],
+      "correct_answer": "paranoia",
+      "explanation_hebrew": "המילה “paranoia” פירושה פָּרָנוֹיָה / חֲשָׁדָנוּת קִיצוֹנִית."
+    },
+    {
+      "id": "C-q3",
+      "word": "assignment",
+      "type": "english_to_hebrew",
+      "question": "What does “assignment” mean?",
+      "options": [
+        "בְּדֶרֶךְ כְּלָל",
+        "הֶיקֵּף / טְוָוח",
+        "מְשִׂימָה / הַצָּבָה",
+        "הַשְׁלָכוֹת / מַה שֶּׁבָּא אַחֲרֵי"
+      ],
+      "correct_answer": "מְשִׂימָה / הַצָּבָה",
+      "explanation_hebrew": "“assignment” פירושו מְשִׂימָה / הַצָּבָה."
+    },
+    {
+      "id": "C-q4",
+      "word": "defusing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִטְרוּל מֶתַח / פִּיּוּס”?",
+      "options": [
+        "espionage",
+        "defusing",
+        "surveillance",
+        "paranoia"
+      ],
+      "correct_answer": "defusing",
+      "explanation_hebrew": "המילה “defusing” פירושה נִטְרוּל מֶתַח / פִּיּוּס."
+    },
+    {
+      "id": "C-q5",
+      "word": "deemed",
+      "type": "english_to_hebrew",
+      "question": "What does “deemed” mean?",
+      "options": [
+        "אִי-וַדָּאוּת",
+        "הֶיקֵּף / טְוָוח",
+        "נֶחְשָׁב / הוּגְדַּר",
+        "מְאוּיָּם / מוּרְתָּע"
+      ],
+      "correct_answer": "נֶחְשָׁב / הוּגְדַּר",
+      "explanation_hebrew": "“deemed” פירושו נֶחְשָׁב / הוּגְדַּר."
+    },
+    {
+      "id": "C-q6",
+      "word": "isolated",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מְבוּדָּד”?",
+      "options": [
+        "monitored",
+        "paranoia",
+        "isolated",
+        "envoys"
+      ],
+      "correct_answer": "isolated",
+      "explanation_hebrew": "המילה “isolated” פירושה מְבוּדָּד."
+    },
+    {
+      "id": "C-q7",
+      "word": "invasion",
+      "type": "english_to_hebrew",
+      "question": "What does “invasion” mean?",
+      "options": [
+        "פְּלִישָׁה",
+        "גּוֹרַשׁ / הוּרְחַק",
+        "מְאוּיָּם / מוּרְתָּע",
+        "אִי-וַדָּאוּת"
+      ],
+      "correct_answer": "פְּלִישָׁה",
+      "explanation_hebrew": "“invasion” פירושו פְּלִישָׁה."
+    },
+    {
+      "id": "C-q8",
+      "word": "monitored",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נוּטָר / פּוּקַח”?",
+      "options": [
+        "defusing",
+        "monitored",
+        "assignment",
+        "aftermath"
+      ],
+      "correct_answer": "monitored",
+      "explanation_hebrew": "המילה “monitored” פירושה נוּטָר / פּוּקַח."
+    },
+    {
+      "id": "C-q9",
+      "word": "expelled",
+      "type": "english_to_hebrew",
+      "question": "What does “expelled” mean?",
+      "options": [
+        "גּוֹרַשׁ / הוּרְחַק",
+        "סֵירֵב / דָּחָה",
+        "הֶיקֵּף / טְוָוח",
+        "דּוּ-צְדָדִי"
+      ],
+      "correct_answer": "גּוֹרַשׁ / הוּרְחַק",
+      "explanation_hebrew": "“expelled” פירושו גּוֹרַשׁ / הוּרְחַק."
+    },
+    {
+      "id": "C-q10",
+      "word": "counterintelligence",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נֶגֶד-מוֹדִיעִין”?",
+      "options": [
+        "tactics",
+        "counterintelligence",
+        "defusing",
+        "ordinarily"
+      ],
+      "correct_answer": "counterintelligence",
+      "explanation_hebrew": "המילה “counterintelligence” פירושה נֶגֶד-מוֹדִיעִין."
+    },
+    {
+      "id": "C-q11",
+      "word": "uncertainty",
+      "type": "english_to_hebrew",
+      "question": "What does “uncertainty” mean?",
+      "options": [
+        "רִיגּוּל / בִּיּוּן",
+        "אִי-וַדָּאוּת",
+        "הוּטְרַד",
+        "מְאוּיָּם / מוּרְתָּע"
+      ],
+      "correct_answer": "אִי-וַדָּאוּת",
+      "explanation_hebrew": "“uncertainty” פירושו אִי-וַדָּאוּת."
+    },
+    {
+      "id": "C-q12",
+      "word": "scope",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הֶיקֵּף / טְוָוח”?",
+      "options": [
+        "intimidated",
+        "sanctions",
+        "prosecution",
+        "scope"
+      ],
+      "correct_answer": "scope",
+      "explanation_hebrew": "המילה “scope” פירושה הֶיקֵּף / טְוָוח."
+    },
+    {
+      "id": "C-q13",
+      "word": "tactics",
+      "type": "english_to_hebrew",
+      "question": "What does “tactics” mean?",
+      "options": [
+        "טַקְטִיקוֹת / שִׁיטוֹת",
+        "נֶגֶד-מוֹדִיעִין",
+        "פָּרָנוֹיָה / חֲשָׁדָנוּת קִיצוֹנִית",
+        "לְגַיֵּיס"
+      ],
+      "correct_answer": "טַקְטִיקוֹת / שִׁיטוֹת",
+      "explanation_hebrew": "“tactics” פירושו טַקְטִיקוֹת / שִׁיטוֹת."
+    },
+    {
+      "id": "C-q14",
+      "word": "recruit",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְגַיֵּיס”?",
+      "options": [
+        "monitored",
+        "recruit",
+        "expelled",
+        "declined"
+      ],
+      "correct_answer": "recruit",
+      "explanation_hebrew": "המילה “recruit” פירושה לְגַיֵּיס."
+    },
+    {
+      "id": "C-q15",
+      "word": "prosecution",
+      "type": "english_to_hebrew",
+      "question": "What does “prosecution” mean?",
+      "options": [
+        "מְאוּיָּם / מוּרְתָּע",
+        "נֶחְשָׁב / הוּגְדַּר",
+        "הַעֲמָדָה לְדִין / תְּבִיעָה",
+        "לְגַיֵּיס"
+      ],
+      "correct_answer": "הַעֲמָדָה לְדִין / תְּבִיעָה",
+      "explanation_hebrew": "“prosecution” פירושו הַעֲמָדָה לְדִין / תְּבִיעָה."
+    },
+    {
+      "id": "C-q16",
+      "word": "ordinarily",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בְּדֶרֶךְ כְּלָל”?",
+      "options": [
+        "isolated",
+        "ordinarily",
+        "assignment",
+        "harassed"
+      ],
+      "correct_answer": "ordinarily",
+      "explanation_hebrew": "המילה “ordinarily” פירושה בְּדֶרֶךְ כְּלָל."
+    },
+    {
+      "id": "C-q17",
+      "word": "intimidated",
+      "type": "english_to_hebrew",
+      "question": "What does “intimidated” mean?",
+      "options": [
+        "שִׁינָּה / הֶחֱלִיף צוּרָה",
+        "נוּטָר / פּוּקַח",
+        "מַעֲקָב / בִּיּוּן",
+        "מְאוּיָּם / מוּרְתָּע"
+      ],
+      "correct_answer": "מְאוּיָּם / מוּרְתָּע",
+      "explanation_hebrew": "“intimidated” פירושו מְאוּיָּם / מוּרְתָּע."
+    },
+    {
+      "id": "C-q18",
+      "word": "harassed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הוּטְרַד”?",
+      "options": [
+        "sanctions",
+        "declined",
+        "harassed",
+        "uncertainty"
+      ],
+      "correct_answer": "harassed",
+      "explanation_hebrew": "המילה “harassed” פירושה הוּטְרַד."
+    },
+    {
+      "id": "C-q19",
+      "word": "declined",
+      "type": "english_to_hebrew",
+      "question": "What does “declined” mean?",
+      "options": [
+        "נֶחְשָׁב / הוּגְדַּר",
+        "גּוֹרַשׁ / הוּרְחַק",
+        "אִי-וַדָּאוּת",
+        "סֵירֵב / דָּחָה"
+      ],
+      "correct_answer": "סֵירֵב / דָּחָה",
+      "explanation_hebrew": "“declined” פירושו סֵירֵב / דָּחָה."
+    },
+    {
+      "id": "C-q20",
+      "word": "aftermath",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַשְׁלָכוֹת / מַה שֶּׁבָּא אַחֲרֵי”?",
+      "options": [
+        "ordinarily",
+        "uncertainty",
+        "aftermath",
+        "defusing"
+      ],
+      "correct_answer": "aftermath",
+      "explanation_hebrew": "המילה “aftermath” פירושה הַשְׁלָכוֹת / מַה שֶּׁבָּא אַחֲרֵי."
+    },
+    {
+      "id": "C-q21",
+      "word": "envoys",
+      "type": "english_to_hebrew",
+      "question": "What does “envoys” mean?",
+      "options": [
+        "שַׁגְרִירִים / שְׁלִיחִים",
+        "מְשִׂימָה / הַצָּבָה",
+        "סַנְקְצִיּוֹת / עִיצּוּמִים",
+        "הַעֲמָדָה לְדִין / תְּבִיעָה"
+      ],
+      "correct_answer": "שַׁגְרִירִים / שְׁלִיחִים",
+      "explanation_hebrew": "“envoys” פירושו שַׁגְרִירִים / שְׁלִיחִים."
+    },
+    {
+      "id": "C-q22",
+      "word": "transformed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שִׁינָּה / הֶחֱלִיף צוּרָה”?",
+      "options": [
+        "transformed",
+        "aftermath",
+        "assignment",
+        "invasion"
+      ],
+      "correct_answer": "transformed",
+      "explanation_hebrew": "המילה “transformed” פירושה שִׁינָּה / הֶחֱלִיף צוּרָה."
+    },
+    {
+      "id": "C-q23",
+      "word": "bilateral",
+      "type": "english_to_hebrew",
+      "question": "What does “bilateral” mean?",
+      "options": [
+        "דּוּ-צְדָדִי",
+        "סַנְקְצִיּוֹת / עִיצּוּמִים",
+        "הוּטְרַד",
+        "הַעֲמָדָה לְדִין / תְּבִיעָה"
+      ],
+      "correct_answer": "דּוּ-צְדָדִי",
+      "explanation_hebrew": "“bilateral” פירושו דּוּ-צְדָדִי."
+    },
+    {
+      "id": "C-q24",
+      "word": "sanctions",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סַנְקְצִיּוֹת / עִיצּוּמִים”?",
+      "options": [
+        "intimidated",
+        "sanctions",
+        "uncertainty",
+        "invasion"
+      ],
+      "correct_answer": "sanctions",
+      "explanation_hebrew": "המילה “sanctions” פירושה סַנְקְצִיּוֹת / עִיצּוּמִים."
+    },
+    {
+      "id": "C-q25",
+      "word": "espionage",
+      "type": "english_to_hebrew",
+      "question": "What does “espionage” mean?",
+      "options": [
+        "נוּטָר / פּוּקַח",
+        "רִיגּוּל / בִּיּוּן",
+        "שִׁינָּה / הֶחֱלִיף צוּרָה",
+        "מְבוּדָּד"
+      ],
+      "correct_answer": "רִיגּוּל / בִּיּוּן",
+      "explanation_hebrew": "“espionage” פירושו רִיגּוּל / בִּיּוּן."
+    }
+  ]
+}

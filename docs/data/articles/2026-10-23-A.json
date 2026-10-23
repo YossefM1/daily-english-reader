@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-23",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Haematology centre for cancer patients at risk over 'disgraceful' funds move",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c60qkpxw8eeno",
+  "published_at": "2026-10-22T23:04:31+00:00",
+  "age_hours_at_selection": 3.22,
+  "word_count": 455,
+  "generated_at": "2026-10-23T02:17:44.710937+00:00",
+  "difficulty_reason": "Short, direct report with a clear single story and mostly B1/B2 vocabulary; low background knowledge needed, though a few health-funding terms appear.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "withdrew",
+      "lemma": "withdraw",
+      "level": "B2",
+      "hebrew": "מָשַׁךְ בַּחֲזָרָה",
+      "explanation_hebrew": "לָקַח בַּחֲזָרָה מַשֶּׁהוּ שֶׁנִּיתַּן, כְּמוֹ כֶּסֶף אוֹ תְּמִיכָה",
+      "pronunciation_hebrew": "וִידְרוּ",
+      "example": "The company withdrew its offer."
+    },
+    {
+      "word": "funding",
+      "lemma": "funding",
+      "level": "B2",
+      "hebrew": "מִימוּן",
+      "explanation_hebrew": "כֶּסֶף שֶׁנִּיתָּן לְמַטָּרָה אוֹ פְּרוֹיֶקְט מְסוּיָּם",
+      "pronunciation_hebrew": "פַנְדִינְג",
+      "example": "The project needs more funding."
+    },
+    {
+      "word": "executive",
+      "lemma": "executive",
+      "level": "B2",
+      "hebrew": "מְנַהֵל בָּכִיר",
+      "explanation_hebrew": "אָדָם בְּתַפְקִיד נִיהוּל בָּכִיר בְּאִרְגּוּן",
+      "pronunciation_hebrew": "אֶגְזֶקְיוּטִיב",
+      "example": "She is a senior executive at the bank."
+    },
+    {
+      "word": "disgraceful",
+      "lemma": "disgraceful",
+      "level": "C1",
+      "hebrew": "מַחְפִּיר",
+      "explanation_hebrew": "מַשֶּׁהוּ רַע מְאוֹד שֶׁגּוֹרֵם לְבּוּשָׁה",
+      "pronunciation_hebrew": "דִיסְגְרֵייסְפוּל",
+      "example": "Their behaviour was disgraceful."
+    },
+    {
+      "word": "officials",
+      "lemma": "official",
+      "level": "B2",
+      "hebrew": "גּוֹרְמִים רִשְׁמִיִּים",
+      "explanation_hebrew": "אֲנָשִׁים בְּתַפְקִיד רִשְׁמִי בְּאִרְגּוּן אוֹ מֶמְשָׁלָה",
+      "pronunciation_hebrew": "אוֹפִישְׁלְז",
+      "example": "Government officials met yesterday."
+    },
+    {
+      "word": "relocation",
+      "lemma": "relocation",
+      "level": "C1",
+      "hebrew": "הַעֲתָקָה / מַעֲבָר",
+      "explanation_hebrew": "הַעֲבָרָה שֶׁל מַשֶּׁהוּ אוֹ מִישֶׁהוּ לְמָקוֹם אַחֵר",
+      "pronunciation_hebrew": "רִילוֹקֵיישְׁן",
+      "example": "The relocation of the office took weeks."
+    },
+    {
+      "word": "approximately",
+      "lemma": "approximately",
+      "level": "B2",
+      "hebrew": "בְּעֵרֶךְ",
+      "explanation_hebrew": "כַּמּוּת מְשׁוֹעֶרֶת, לֹא מְדוּיֶּקֶת",
+      "pronunciation_hebrew": "אַפְּרוֹקְסִימֵטְלִי",
+      "example": "Approximately fifty people came."
+    },
+    {
+      "word": "remains",
+      "lemma": "remain",
+      "level": "B2",
+      "hebrew": "נִשְׁאָר / נוֹתָר",
+      "explanation_hebrew": "מַמְשִׁיךְ לִהְיוֹת בְּמַצָּב מְסוּיָּם",
+      "pronunciation_hebrew": "רִימֵיינְז",
+      "example": "The problem remains unsolved."
+    },
+    {
+      "word": "challenge",
+      "lemma": "challenge",
+      "level": "B1",
+      "hebrew": "אֶתְגָּר",
+      "explanation_hebrew": "מַשֶּׁהוּ קָשֶׁה שֶׁדּוֹרֵשׁ מַאֲמָץ",
+      "pronunciation_hebrew": "צַ'אלֶנְג'",
+      "example": "Learning a language is a challenge."
+    },
+    {
+      "word": "appraisal",
+      "lemma": "appraisal",
+      "level": "C1",
+      "hebrew": "הַעֲרָכָה",
+      "explanation_hebrew": "בְּדִיקָה וְהַעֲרָכָה שֶׁל עֵרֶךְ אוֹ אֵיכוּת",
+      "pronunciation_hebrew": "אַפְּרֵייזָל",
+      "example": "The bank made an appraisal of the house."
+    },
+    {
+      "word": "robustness",
+      "lemma": "robustness",
+      "level": "C1",
+      "hebrew": "אֵיתָנוּת / חוֹסֶן",
+      "explanation_hebrew": "הַמִּידָה שֶׁבָּהּ מַשֶּׁהוּ חָזָק וְאָמִין",
+      "pronunciation_hebrew": "רוֹבַּסְטְנֶס",
+      "example": "They questioned the robustness of the plan."
+    },
+    {
+      "word": "estimate",
+      "lemma": "estimate",
+      "level": "B2",
+      "hebrew": "אוּמְדָּן / הַעֲרָכָה",
+      "explanation_hebrew": "חִישׁוּב מְשׁוֹעָר שֶׁל כַּמּוּת אוֹ עֲלוּת",
+      "pronunciation_hebrew": "אֶסְטִימֵט",
+      "example": "The estimate for repairs was high."
+    },
+    {
+      "word": "resulting",
+      "lemma": "result",
+      "level": "B2",
+      "hebrew": "כְּתוֹצָאָה מִ-",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁקּוֹרֶה כְּתוֹצָאָה מִמַּשֶּׁהוּ אַחֵר",
+      "pronunciation_hebrew": "רִיזַלְטִינְג",
+      "example": "The storm, resulting in floods, caused damage."
+    },
+    {
+      "word": "allocation",
+      "lemma": "allocation",
+      "level": "C1",
+      "hebrew": "הַקְצָאָה",
+      "explanation_hebrew": "חֲלוּקָה שֶׁל מַשְׁאַבִּים אוֹ כֶּסֶף לְמַטָּרָה",
+      "pronunciation_hebrew": "אַלוֹקֵיישְׁן",
+      "example": "The budget allocation was reduced."
+    },
+    {
+      "word": "significant",
+      "lemma": "significant",
+      "level": "B2",
+      "hebrew": "מַשְׁמָעוּתִי",
+      "explanation_hebrew": "חָשׁוּב אוֹ גָּדוֹל בְּמִידָה נִיכֶּרֶת",
+      "pronunciation_hebrew": "סִיגְנִיפִיקַנְט",
+      "example": "There was a significant change."
+    },
+    {
+      "word": "potentially",
+      "lemma": "potentially",
+      "level": "B2",
+      "hebrew": "בְּכוֹחַ / פּוֹטֶנְצְיָאלִית",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁיָּכוֹל לִקְרוֹת אֲבָל עֲדַיִין לֹא קָרָה",
+      "pronunciation_hebrew": "פּוֹטֶנְשְׁלִי",
+      "example": "This is potentially dangerous."
+    },
+    {
+      "word": "substantial",
+      "lemma": "substantial",
+      "level": "C1",
+      "hebrew": "נִיכָּר / מַשְׁמָעוּתִי",
+      "explanation_hebrew": "גָּדוֹל אוֹ חָשׁוּב בְּמִידָה רַבָּה",
+      "pronunciation_hebrew": "סַבְּסְטֶנְשָׁל",
+      "example": "They made a substantial profit."
+    },
+    {
+      "word": "exploring",
+      "lemma": "explore",
+      "level": "B2",
+      "hebrew": "בּוֹחֵן / חוֹקֵר",
+      "explanation_hebrew": "בּוֹדֵק אֶפְשָׁרוּיוֹת אוֹ מְקוֹמוֹת חֲדָשִׁים",
+      "pronunciation_hebrew": "אֶקְסְפְּלוֹרִינְג",
+      "example": "We are exploring new options."
+    },
+    {
+      "word": "escalated",
+      "lemma": "escalate",
+      "level": "C1",
+      "hebrew": "הוּסְלַם / הוֹעֲבַר לְדַרְגָּה גְּבוֹהָה",
+      "explanation_hebrew": "הָפַךְ רְצִינִי יוֹתֵר אוֹ הוֹעֲבַר לְגוֹרֵם בָּכִיר יוֹתֵר",
+      "pronunciation_hebrew": "אֶסְקָלֵייטֶד",
+      "example": "The issue was escalated to the manager."
+    },
+    {
+      "word": "permanent",
+      "lemma": "permanent",
+      "level": "B2",
+      "hebrew": "קָבוּעַ",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁנִּשְׁאָר לְאוֹרֶךְ זְמַן וְלֹא מִשְׁתַּנֶּה",
+      "pronunciation_hebrew": "פֶּרְמָנֶנְט",
+      "example": "She found a permanent job."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פָּגִיעַ / חָשׂוּף",
+      "explanation_hebrew": "חַלָּשׁ אוֹ נוֹחַ לְהִיפָּגַע",
+      "pronunciation_hebrew": "וַלְנֶרַבְּל",
+      "example": "Children are especially vulnerable."
+    },
+    {
+      "word": "isolation",
+      "lemma": "isolation",
+      "level": "B2",
+      "hebrew": "בִּידּוּד",
+      "explanation_hebrew": "מַצָּב שֶׁל הַפְרָדָה מֵאֲחֵרִים",
+      "pronunciation_hebrew": "אַייסוֹלֵיישְׁן",
+      "example": "The patient was kept in isolation."
+    },
+    {
+      "word": "undergoing",
+      "lemma": "undergo",
+      "level": "B2",
+      "hebrew": "עוֹבֵר (טִיפּוּל/תַּהֲלִיךְ)",
+      "explanation_hebrew": "נִמְצָא בְּתוֹךְ תַּהֲלִיךְ אוֹ טִיפּוּל",
+      "pronunciation_hebrew": "אַנְדֶּרְגּוֹאִינְג",
+      "example": "He is undergoing medical treatment."
+    },
+    {
+      "word": "intense",
+      "lemma": "intense",
+      "level": "B2",
+      "hebrew": "אִינְטֶנְסִיבִי / עָצוּם",
+      "explanation_hebrew": "חָזָק מְאוֹד בָּעוֹצְמָה",
+      "pronunciation_hebrew": "אִינְטֶנְס",
+      "example": "The treatment was intense."
+    },
+    {
+      "word": "specialised",
+      "lemma": "specialise",
+      "level": "B2",
+      "hebrew": "מוּמְחֶה / מְיוּחָד",
+      "explanation_hebrew": "בַּעַל יְדַע אוֹ כִּישּׁוּרִים בִּתְחוּם צַר",
+      "pronunciation_hebrew": "סְפֶּשְׁלַייזְד",
+      "example": "They need specialised staff."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "withdrew",
+      "type": "english_to_hebrew",
+      "question": "What does “withdrew” mean?",
+      "options": [
+        "מַשְׁמָעוּתִי",
+        "כְּתוֹצָאָה מִ-",
+        "מָשַׁךְ בַּחֲזָרָה",
+        "קָבוּעַ"
+      ],
+      "correct_answer": "מָשַׁךְ בַּחֲזָרָה",
+      "explanation_hebrew": "“withdrew” פירושו מָשַׁךְ בַּחֲזָרָה."
+    },
+    {
+      "id": "A-q2",
+      "word": "funding",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מִימוּן”?",
+      "options": [
+        "relocation",
+        "funding",
+        "executive",
+        "permanent"
+      ],
+      "correct_answer": "funding",
+      "explanation_hebrew": "המילה “funding” פירושה מִימוּן."
+    },
+    {
+      "id": "A-q3",
+      "word": "executive",
+      "type": "english_to_hebrew",
+      "question": "What does “executive” mean?",
+      "options": [
+        "קָבוּעַ",
+        "אוּמְדָּן / הַעֲרָכָה",
+        "מְנַהֵל בָּכִיר",
+        "הַעֲרָכָה"
+      ],
+      "correct_answer": "מְנַהֵל בָּכִיר",
+      "explanation_hebrew": "“executive” פירושו מְנַהֵל בָּכִיר."
+    },
+    {
+      "id": "A-q4",
+      "word": "disgraceful",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַחְפִּיר”?",
+      "options": [
+        "resulting",
+        "officials",
+        "challenge",
+        "disgraceful"
+      ],
+      "correct_answer": "disgraceful",
+      "explanation_hebrew": "המילה “disgraceful” פירושה מַחְפִּיר."
+    },
+    {
+      "id": "A-q5",
+      "word": "officials",
+      "type": "english_to_hebrew",
+      "question": "What does “officials” mean?",
+      "options": [
+        "גּוֹרְמִים רִשְׁמִיִּים",
+        "אֵיתָנוּת / חוֹסֶן",
+        "נִיכָּר / מַשְׁמָעוּתִי",
+        "בְּעֵרֶךְ"
+      ],
+      "correct_answer": "גּוֹרְמִים רִשְׁמִיִּים",
+      "explanation_hebrew": "“officials” פירושו גּוֹרְמִים רִשְׁמִיִּים."
+    },
+    {
+      "id": "A-q6",
+      "word": "relocation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַעֲתָקָה / מַעֲבָר”?",
+      "options": [
+        "resulting",
+        "challenge",
+        "intense",
+        "relocation"
+      ],
+      "correct_answer": "relocation",
+      "explanation_hebrew": "המילה “relocation” פירושה הַעֲתָקָה / מַעֲבָר."
+    },
+    {
+      "id": "A-q7",
+      "word": "approximately",
+      "type": "english_to_hebrew",
+      "question": "What does “approximately” mean?",
+      "options": [
+        "מַשְׁמָעוּתִי",
+        "מָשַׁךְ בַּחֲזָרָה",
+        "בְּעֵרֶךְ",
+        "מְנַהֵל בָּכִיר"
+      ],
+      "correct_answer": "בְּעֵרֶךְ",
+      "explanation_hebrew": "“approximately” פירושו בְּעֵרֶךְ."
+    },
+    {
+      "id": "A-q8",
+      "word": "remains",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נִשְׁאָר / נוֹתָר”?",
+      "options": [
+        "significant",
+        "remains",
+        "specialised",
+        "officials"
+      ],
+      "correct_answer": "remains",
+      "explanation_hebrew": "המילה “remains” פירושה נִשְׁאָר / נוֹתָר."
+    },
+    {
+      "id": "A-q9",
+      "word": "challenge",
+      "type": "english_to_hebrew",
+      "question": "What does “challenge” mean?",
+      "options": [
+        "קָבוּעַ",
+        "אֶתְגָּר",
+        "בְּכוֹחַ / פּוֹטֶנְצְיָאלִית",
+        "כְּתוֹצָאָה מִ-"
+      ],
+      "correct_answer": "אֶתְגָּר",
+      "explanation_hebrew": "“challenge” פירושו אֶתְגָּר."
+    },
+    {
+      "id": "A-q10",
+      "word": "appraisal",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַעֲרָכָה”?",
+      "options": [
+        "potentially",
+        "relocation",
+        "appraisal",
+        "funding"
+      ],
+      "correct_answer": "appraisal",
+      "explanation_hebrew": "המילה “appraisal” פירושה הַעֲרָכָה."
+    },
+    {
+      "id": "A-q11",
+      "word": "robustness",
+      "type": "english_to_hebrew",
+      "question": "What does “robustness” mean?",
+      "options": [
+        "בִּידּוּד",
+        "אֵיתָנוּת / חוֹסֶן",
+        "הַעֲרָכָה",
+        "מַשְׁמָעוּתִי"
+      ],
+      "correct_answer": "אֵיתָנוּת / חוֹסֶן",
+      "explanation_hebrew": "“robustness” פירושו אֵיתָנוּת / חוֹסֶן."
+    },
+    {
+      "id": "A-q12",
+      "word": "estimate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אוּמְדָּן / הַעֲרָכָה”?",
+      "options": [
+        "vulnerable",
+        "estimate",
+        "appraisal",
+        "exploring"
+      ],
+      "correct_answer": "estimate",
+      "explanation_hebrew": "המילה “estimate” פירושה אוּמְדָּן / הַעֲרָכָה."
+    },
+    {
+      "id": "A-q13",
+      "word": "resulting",
+      "type": "english_to_hebrew",
+      "question": "What does “resulting” mean?",
+      "options": [
+        "כְּתוֹצָאָה מִ-",
+        "הַקְצָאָה",
+        "מְנַהֵל בָּכִיר",
+        "הַעֲרָכָה"
+      ],
+      "correct_answer": "כְּתוֹצָאָה מִ-",
+      "explanation_hebrew": "“resulting” פירושו כְּתוֹצָאָה מִ-."
+    },
+    {
+      "id": "A-q14",
+      "word": "allocation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַקְצָאָה”?",
+      "options": [
+        "substantial",
+        "allocation",
+        "officials",
+        "vulnerable"
+      ],
+      "correct_answer": "allocation",
+      "explanation_hebrew": "המילה “allocation” פירושה הַקְצָאָה."
+    },
+    {
+      "id": "A-q15",
+      "word": "significant",
+      "type": "english_to_hebrew",
+      "question": "What does “significant” mean?",
+      "options": [
+        "בְּעֵרֶךְ",
+        "מַשְׁמָעוּתִי",
+        "נִיכָּר / מַשְׁמָעוּתִי",
+        "מְנַהֵל בָּכִיר"
+      ],
+      "correct_answer": "מַשְׁמָעוּתִי",
+      "explanation_hebrew": "“significant” פירושו מַשְׁמָעוּתִי."
+    },
+    {
+      "id": "A-q16",
+      "word": "potentially",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בְּכוֹחַ / פּוֹטֶנְצְיָאלִית”?",
+      "options": [
+        "potentially",
+        "escalated",
+        "approximately",
+        "permanent"
+      ],
+      "correct_answer": "potentially",
+      "explanation_hebrew": "המילה “potentially” פירושה בְּכוֹחַ / פּוֹטֶנְצְיָאלִית."
+    },
+    {
+      "id": "A-q17",
+      "word": "substantial",
+      "type": "english_to_hebrew",
+      "question": "What does “substantial” mean?",
+      "options": [
+        "בִּידּוּד",
+        "מוּמְחֶה / מְיוּחָד",
+        "נִיכָּר / מַשְׁמָעוּתִי",
+        "כְּתוֹצָאָה מִ-"
+      ],
+      "correct_answer": "נִיכָּר / מַשְׁמָעוּתִי",
+      "explanation_hebrew": "“substantial” פירושו נִיכָּר / מַשְׁמָעוּתִי."
+    },
+    {
+      "id": "A-q18",
+      "word": "exploring",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בּוֹחֵן / חוֹקֵר”?",
+      "options": [
+        "withdrew",
+        "specialised",
+        "exploring",
+        "isolation"
+      ],
+      "correct_answer": "exploring",
+      "explanation_hebrew": "המילה “exploring” פירושה בּוֹחֵן / חוֹקֵר."
+    },
+    {
+      "id": "A-q19",
+      "word": "escalated",
+      "type": "english_to_hebrew",
+      "question": "What does “escalated” mean?",
+      "options": [
+        "הוּסְלַם / הוֹעֲבַר לְדַרְגָּה גְּבוֹהָה",
+        "מַחְפִּיר",
+        "בְּעֵרֶךְ",
+        "מָשַׁךְ בַּחֲזָרָה"
+      ],
+      "correct_answer": "הוּסְלַם / הוֹעֲבַר לְדַרְגָּה גְּבוֹהָה",
+      "explanation_hebrew": "“escalated” פירושו הוּסְלַם / הוֹעֲבַר לְדַרְגָּה גְּבוֹהָה."
+    },
+    {
+      "id": "A-q20",
+      "word": "permanent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קָבוּעַ”?",
+      "options": [
+        "permanent",
+        "escalated",
+        "relocation",
+        "officials"
+      ],
+      "correct_answer": "permanent",
+      "explanation_hebrew": "המילה “permanent” פירושה קָבוּעַ."
+    },
+    {
+      "id": "A-q21",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "בְּכוֹחַ / פּוֹטֶנְצְיָאלִית",
+        "פָּגִיעַ / חָשׂוּף",
+        "עוֹבֵר (טִיפּוּל/תַּהֲלִיךְ)",
+        "הוּסְלַם / הוֹעֲבַר לְדַרְגָּה גְּבוֹהָה"
+      ],
+      "correct_answer": "פָּגִיעַ / חָשׂוּף",
+      "explanation_hebrew": "“vulnerable” פירושו פָּגִיעַ / חָשׂוּף."
+    },
+    {
+      "id": "A-q22",
+      "word": "isolation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בִּידּוּד”?",
+      "options": [
+        "relocation",
+        "disgraceful",
+        "isolation",
+        "exploring"
+      ],
+      "correct_answer": "isolation",
+      "explanation_hebrew": "המילה “isolation” פירושה בִּידּוּד."
+    },
+    {
+      "id": "A-q23",
+      "word": "undergoing",
+      "type": "english_to_hebrew",
+      "question": "What does “undergoing” mean?",
+      "options": [
+        "מָשַׁךְ בַּחֲזָרָה",
+        "עוֹבֵר (טִיפּוּל/תַּהֲלִיךְ)",
+        "פָּגִיעַ / חָשׂוּף",
+        "מִימוּן"
+      ],
+      "correct_answer": "עוֹבֵר (טִיפּוּל/תַּהֲלִיךְ)",
+      "explanation_hebrew": "“undergoing” פירושו עוֹבֵר (טִיפּוּל/תַּהֲלִיךְ)."
+    },
+    {
+      "id": "A-q24",
+      "word": "intense",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אִינְטֶנְסִיבִי / עָצוּם”?",
+      "options": [
+        "withdrew",
+        "intense",
+        "funding",
+        "approximately"
+      ],
+      "correct_answer": "intense",
+      "explanation_hebrew": "המילה “intense” פירושה אִינְטֶנְסִיבִי / עָצוּם."
+    },
+    {
+      "id": "A-q25",
+      "word": "specialised",
+      "type": "english_to_hebrew",
+      "question": "What does “specialised” mean?",
+      "options": [
+        "אֵיתָנוּת / חוֹסֶן",
+        "מְנַהֵל בָּכִיר",
+        "מוּמְחֶה / מְיוּחָד",
+        "מַשְׁמָעוּתִי"
+      ],
+      "correct_answer": "מוּמְחֶה / מְיוּחָד",
+      "explanation_hebrew": "“specialised” פירושו מוּמְחֶה / מְיוּחָד."
+    }
+  ]
+}
