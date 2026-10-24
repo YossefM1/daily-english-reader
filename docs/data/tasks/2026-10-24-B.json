@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-24",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Wales could ban steel pylons as government launches consultation",
+  "article_url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What policy is the Welsh government consulting on?",
+      "difficulty": "B",
+      "options": [
+        "Requiring all wind farms to close by 2030",
+        "Making underground cables the first choice and banning traditional steel pylons for certain new lines",
+        "Replacing every wooden pole in Wales with a steel tower",
+        "Stopping all new electricity connections across rural Wales"
+      ],
+      "explanation_hebrew": "ההתייעצות עוסקת במדיניות שלפיה הטמנת כבלים תהיה ברירת המחדל, ובאיסור עמודי פלדה מסורתיים בקווים חדשים מסוימים.",
+      "correct_answer": "Making underground cables the first choice and banning traditional steel pylons for certain new lines"
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which new power lines would the proposed ban cover?",
+      "difficulty": "B",
+      "options": [
+        "Only household telephone lines",
+        "Every existing National Grid line",
+        "New lines up to 132 kV that are under Welsh government control",
+        "Only lines built outside Wales"
+      ],
+      "explanation_hebrew": "לפי הכתבה, ההצעה נוגעת לקווים חדשים עד 132 קילו־וולט שנמצאים בסמכות ממשלת ויילס.",
+      "correct_answer": "New lines up to 132 kV that are under Welsh government control"
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what does “underground first” mean?",
+      "difficulty": "B",
+      "options": [
+        "Construction must begin below sea level.",
+        "Underground cables should be the preferred option unless they are not feasible.",
+        "The public may not see the consultation documents.",
+        "Old electricity lines must be buried immediately."
+      ],
+      "explanation_hebrew": "הביטוי underground first מתאר העדפה ראשונית להטמנת כבלים, עם חלופות כאשר הדבר אינו מעשי.",
+      "correct_answer": "Underground cables should be the preferred option unless they are not feasible."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to Green Gen Cymru, how much more does undergrounding cost on average than overhead lines?",
+      "difficulty": "B",
+      "options": [
+        "About twice as much",
+        "About three times as much",
+        "About ten times as much",
+        "About 4.5 times as much"
+      ],
+      "explanation_hebrew": "Green Gen Cymru טענה שהטמנת קווים עולה בממוצע פי 4.5 מקווים עיליים.",
+      "correct_answer": "About 4.5 times as much"
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the proposal allow wooden poles or similar infrastructure in some places?",
+      "difficulty": "B",
+      "options": [
+        "Underground cables may not be practical everywhere.",
+        "Wooden poles always carry more electricity.",
+        "Steel pylons are already illegal throughout the UK.",
+        "Local residents asked for taller structures."
+      ],
+      "explanation_hebrew": "החריג מאפשר חלופות פחות בולטות כאשר הטמנה אינה ישימה מבחינה מעשית.",
+      "correct_answer": "Underground cables may not be practical everywhere."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When does the consultation close?",
+      "difficulty": "B",
+      "options": [
+        "15 November 2026",
+        "1 January 2027",
+        "15 January 2027",
+        "30 March 2027"
+      ],
+      "explanation_hebrew": "הכתבה מציינת שההתייעצות פתוחה עד 15 בינואר 2027.",
+      "correct_answer": "15 January 2027"
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two benefits of underground cables mentioned in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתי תועלות מדויקות מתוך הכתבה.",
+      "expected_points": [
+        "They reduce visual impact and protect landscapes or local amenity.",
+        "They are less vulnerable to severe weather.",
+        "They can have a lower impact on birds and wildlife."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the disagreement over how new Welsh power lines should be built. Include the main argument on each side.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך להציג את היתרונות הסביבתיים/נופיים של הטמנה ואת טענת העלות והצורך בגמישות מצד היזמים.",
+      "expected_points": [
+        "Supporters say underground cables better protect landscapes, communities and wildlife.",
+        "Developers say undergrounding is much more expensive and no single design suits every route.",
+        "The government proposes an underground-first approach with less intrusive alternatives where needed."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might campaigners support new electricity infrastructure but oppose particular routes or structures? Use evidence from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את ההבחנה בין הצורך ברשת חשמל חדשה לבין החשש מפגיעה בקהילות, בחקלאות, בתיירות ובנוף, תוך שימוש בראיות.",
+      "expected_points": [
+        "Campaigners accept that new grid connections are needed for renewable energy.",
+        "They object to visual, agricultural, tourism or community impacts of some routes.",
+        "They believe undergrounding could reduce those impacts and improve resilience."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short response to the consultation arguing for a balanced solution. Refer to cost, landscape impact and reliability.",
+      "difficulty": "B",
+      "rubric_hebrew": "התשובה צריכה להביע עמדה מאוזנת ולהתייחס במפורש לעלות, לפגיעה בנוף ולאמינות במזג אוויר קשה.",
+      "expected_points": [
+        "Recognises that undergrounding can protect landscapes and improve weather resilience.",
+        "Acknowledges higher construction and maintenance costs.",
+        "Proposes underground cables or less intrusive alternatives according to local conditions."
+      ]
+    }
+  ]
+}

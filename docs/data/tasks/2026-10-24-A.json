@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-24",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Babydoll singer becomes first Welsh artist to top UK singles chart in 15 years",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6r7ylzp148eo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main news in the article?",
+      "difficulty": "A",
+      "options": [
+        "Jamie Miller's song Babydoll reached number one in the UK singles chart.",
+        "Jamie Miller won a new season of The Voice UK.",
+        "Jennifer Love Hewitt released a Welsh song.",
+        "Fontaines DC started a TikTok dance trend."
+      ],
+      "explanation_hebrew": "הכתבה עוסקת בעיקר בכך שהשיר Babydoll של ג'יימי מילר הגיע למקום הראשון במצעד הסינגלים הבריטי.",
+      "correct_answer": "Jamie Miller's song Babydoll reached number one in the UK singles chart."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which artist did Babydoll narrowly beat to take the top spot?",
+      "difficulty": "A",
+      "options": [
+        "Sian Evans",
+        "Tate McRae",
+        "Shakin' Stevens",
+        "Jennifer Love Hewitt"
+      ],
+      "explanation_hebrew": "לפי הכתבה, Babydoll הקדים בפער קטן את Housewife של טייט מקריי.",
+      "correct_answer": "Tate McRae"
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What helped Babydoll become popular online?",
+      "difficulty": "A",
+      "options": [
+        "A Christmas television advert",
+        "A football club used it before matches",
+        "Jennifer Love Hewitt posted videos featuring the song",
+        "The song won a Welsh music prize"
+      ],
+      "explanation_hebrew": "הכתבה מספרת שהשיר התפוצץ ברשת לאחר שג'ניפר לאב יואיט פרסמה סרטונים שבהם הוא הופיע.",
+      "correct_answer": "Jennifer Love Hewitt posted videos featuring the song"
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How old was Jamie Miller when he began his music career on The Voice UK?",
+      "difficulty": "A",
+      "options": [
+        "15",
+        "17",
+        "21",
+        "19"
+      ],
+      "explanation_hebrew": "מילר החל את הקריירה שלו כמעט עשור קודם לכן, בגיל 19, כשהשתתף ב-The Voice UK.",
+      "correct_answer": "19"
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “narrowly beat” mean?",
+      "difficulty": "A",
+      "options": [
+        "Won by a small amount",
+        "Lost after a long contest",
+        "Refused to compete",
+        "Changed the rules"
+      ],
+      "explanation_hebrew": "הביטוי narrowly beat פירושו לנצח בפער קטן מאוד.",
+      "correct_answer": "Won by a small amount"
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why was reaching number one especially important for Miller?",
+      "difficulty": "A",
+      "options": [
+        "It made him the youngest singer in Britain.",
+        "It was his first song in English.",
+        "It happened just after he moved to the US.",
+        "He had thought about quitting music only months earlier."
+      ],
+      "explanation_hebrew": "ההישג משמעותי במיוחד משום שרק חודשים קודם לכן מילר שקל להפסיק לעסוק במוזיקה.",
+      "correct_answer": "He had thought about quitting music only months earlier."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two chart achievements that Babydoll reached outside its UK number-one position.",
+      "difficulty": "A",
+      "rubric_hebrew": "תשובה מלאה מציינת שני הישגים נכונים מתוך הכתבה.",
+      "expected_points": [
+        "It reached number one on the US iTunes pop chart.",
+        "It became Miller's first entry on the Billboard Hot 100."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write 2–3 sentences summarising how Babydoll became successful and why the result was historic for Welsh music.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את ההצלחה ברשת/טיקטוק ואת המקום הראשון בבריטניה, וכן את המשמעות ההיסטורית לאמן וולשי.",
+      "expected_points": [
+        "The song spread after social-media videos and a TikTok dance trend.",
+        "Babydoll reached number one in the UK singles chart.",
+        "Miller became the first Welsh artist to top the chart in 15 years."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What does Miller's story suggest about the effect of social media on a musician's career? Use two details from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד רשתות חברתיות עשויות להאיץ הצלחה ולבסס את הטענה בשתי ראיות מהכתבה.",
+      "expected_points": [
+        "Jennifer Love Hewitt's videos helped the song gain attention.",
+        "A TikTok dance trend helped the song spread.",
+        "The song then achieved major chart success."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Imagine you are Jamie Miller. Write a short message to Welsh fans after reaching number one, including two facts from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "המסר צריך להיות כתוב בגוף ראשון, לכלול תודה ולהשתמש בשתי עובדות מדויקות מהכתבה.",
+      "expected_points": [
+        "Mentions reaching number one with Babydoll.",
+        "Mentions the historic Welsh achievement or Miller's wish to tour in Wales.",
+        "Uses a clear and suitable message style."
+      ]
+    }
+  ]
+}

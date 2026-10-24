@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-24",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Are California voters about to impose world's first tax on billionaires?",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central choice does California's Proposition 40 put before voters?",
+      "difficulty": "C",
+      "options": [
+        "Whether to impose a one-time 5% wealth tax on the state's billionaires to support healthcare",
+        "Whether to replace state income tax with a national sales tax",
+        "Whether to tax all annual income above $1m at 9.9%",
+        "Whether to prohibit billionaires from moving to another state"
+      ],
+      "explanation_hebrew": "הצעה 40 מבקשת להטיל מס חד־פעמי של 5% על הונם של מיליארדרים בקליפורניה כדי לממן את מערכת הבריאות.",
+      "correct_answer": "Whether to impose a one-time 5% wealth tax on the state's billionaires to support healthcare"
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much revenue do supporters aim to raise through the measure?",
+      "difficulty": "C",
+      "options": [
+        "$12.5bn",
+        "$100bn",
+        "$200bn",
+        "$500bn"
+      ],
+      "explanation_hebrew": "תומכי ההצעה שואפים לגייס 100 מיליארד דולר כדי להשלים קיצוצים פדרליים במימון הבריאות.",
+      "correct_answer": "$100bn"
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which group would be liable under the proposal if it passes?",
+      "difficulty": "C",
+      "options": [
+        "Anyone earning more than $1m a year",
+        "All California residents who own company shares",
+        "People worth at least $1bn who lived in California on 1 January 2026",
+        "Only technology executives who remain in California in November"
+      ],
+      "explanation_hebrew": "המס יחול רטרואקטיבית על מי ששווי הונו לפחות מיליארד דולר ושגר בקליפורניה ב־1 בינואר 2026.",
+      "correct_answer": "People worth at least $1bn who lived in California on 1 January 2026"
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “capital flight” refer to?",
+      "difficulty": "C",
+      "options": [
+        "A government borrowing money abroad",
+        "Investors buying airline companies",
+        "Workers travelling to a financial centre",
+        "Wealth or wealthy residents moving away to avoid costs or taxes"
+      ],
+      "explanation_hebrew": "בהקשר הכלכלי, capital flight הוא יציאה של הון או של בעלי הון ממקום מסוים, בין היתר בגלל מסים.",
+      "correct_answer": "Wealth or wealthy residents moving away to avoid costs or taxes"
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Governor Gavin Newsom oppose Proposition 40?",
+      "difficulty": "C",
+      "options": [
+        "He fears it could drive wealthy residents away and reduce future income-tax revenue.",
+        "He believes California has too few billionaires for the plan to matter.",
+        "He wants the money to fund schools instead of healthcare.",
+        "He argues that federal healthcare cuts have already been reversed."
+      ],
+      "explanation_hebrew": "ניוסם חושש שהמס יעודד עשירים לעזוב וכך יפחית את הכנסות המדינה ממס הכנסה לאורך זמן.",
+      "correct_answer": "He fears it could drive wealthy residents away and reduce future income-tax revenue."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the September poll show about likely voters?",
+      "difficulty": "C",
+      "options": [
+        "A clear two-thirds majority supported the tax.",
+        "Most voters were undecided.",
+        "Opponents led supporters by 13 points.",
+        "Support was 45%, opposition 42%, and 13% were undecided."
+      ],
+      "explanation_hebrew": "הסקר מצא 45% תמיכה, 42% התנגדות ו־13% שטרם החליטו, ולכן לא היה רוב ברור.",
+      "correct_answer": "Support was 45%, opposition 42%, and 13% were undecided."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two examples the article uses to show that wealth taxes can influence where rich people live or keep their wealth.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להביא שתי דוגמאות מדויקות, מקליפורניה או מההשוואות הבינלאומיות שבכתבה.",
+      "expected_points": [
+        "At least six California billionaires reportedly left before the residency deadline.",
+        "Norway saw an unusually large number of very wealthy people leave after a tax increase.",
+        "A Swiss study found taxable wealth fell after a wealth-tax increase.",
+        "Hankey moved to Nevada and other billionaires discussed or planned leaving."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Write a concise summary of the strongest case for Proposition 40 and the strongest case against it.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג באופן מאוזן את טיעון המימון והשוויון מצד התומכים ואת טיעון העזיבה, ההשקעות וההכנסות העתידיות מצד המתנגדים.",
+      "expected_points": [
+        "Supporters say the tax would fund healthcare after federal cuts and make the ultra-wealthy contribute more fairly.",
+        "Opponents warn of administrative difficulty, reduced investment and wealthy residents leaving.",
+        "Departure could shrink California's future income-tax base even if the levy raises money initially."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Evaluate how effectively the article uses international evidence from Norway and Switzerland in the California debate. What can the evidence show, and what can it not prove?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להעריך את הרלוונטיות והמגבלות: הדוגמאות מחזקות חשש לשינוי התנהגות, אך אינן מוכיחות שתוצאה זהה תתרחש בקליפורניה.",
+      "expected_points": [
+        "Norway provides evidence of wealthy people leaving after a tax increase.",
+        "The Swiss study links a higher wealth-tax rate with lower taxable wealth.",
+        "Different laws, economies and tax designs limit direct prediction for California.",
+        "The evidence supports a risk, not certainty about Proposition 40's outcome."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief editorial arguing whether voters should support Proposition 40. Address healthcare funding, fairness and the risk of wealthy residents leaving.",
+      "difficulty": "C",
+      "rubric_hebrew": "המאמר צריך להציג עמדה ברורה, לשלב לפחות שלושה פרטים מדויקים מן הכתבה ולהתייחס ברצינות לטיעון הנגדי.",
+      "expected_points": [
+        "States a clear position on Proposition 40.",
+        "Uses evidence about the 5% levy, the $100bn goal or healthcare funding cuts.",
+        "Discusses fairness or California's wealth gap.",
+        "Addresses capital flight and possible loss of income-tax revenue."
+      ]
+    }
+  ]
+}
