@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+  "title": "Wales could ban steel pylons as government launches consultation",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o",
-  "published_at": "2026-10-23T00:14:08+00:00",
-  "age_hours_at_selection": 2.06,
-  "word_count": 736,
-  "generated_at": "2026-10-23T02:17:44.710937+00:00",
-  "difficulty_reason": "Moderate-length music feature with lively, descriptive sentences and B1/B2/C1 vocabulary; some cultural background on music awards helps but isn't essential.",
+  "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go",
+  "published_at": "2026-10-23T16:44:13+00:00",
+  "age_hours_at_selection": 9.51,
+  "word_count": 792,
+  "generated_at": "2026-10-24T02:14:48.813085+00:00",
+  "difficulty_reason": "A policy and environment report with moderate sentence complexity and some B1/B2/C1 vocabulary; needs light background on planning and energy infrastructure.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "grateful",
-      "lemma": "grateful",
+      "word": "consultation",
+      "lemma": "consultation",
+      "level": "B2",
+      "hebrew": "התייעצות, הליך התייעצות",
+      "explanation_hebrew": "תהליך שבו שואלים את דעת הציבור",
+      "pronunciation_hebrew": "קוֹנסַלטֵישֶן",
+      "example": "The government launched a consultation."
+    },
+    {
+      "word": "ban",
+      "lemma": "ban",
       "level": "B1",
-      "hebrew": "אֲסִיר תּוֹדָה / מַכִּיר טוֹבָה",
-      "explanation_hebrew": "מַרְגִּישׁ תּוֹדָה עַל מַשֶּׁהוּ טוֹב",
-      "pronunciation_hebrew": "גְרֵייטְפוּל",
-      "example": "I am grateful for your help."
+      "hebrew": "לאסור, איסור",
+      "explanation_hebrew": "לא לאפשר לעשות משהו",
+      "pronunciation_hebrew": "בֶאן",
+      "example": "They plan to ban the towers."
     },
     {
-      "word": "clutching",
-      "lemma": "clutch",
+      "word": "traditional",
+      "lemma": "traditional",
+      "level": "B1",
+      "hebrew": "מסורתי",
+      "explanation_hebrew": "בדרך הרגילה מזה זמן רב",
+      "pronunciation_hebrew": "טרַדִישֶנל",
+      "example": "They use traditional methods."
+    },
+    {
+      "word": "burying",
+      "lemma": "bury",
       "level": "B2",
-      "hebrew": "אוֹחֵז בְּחוֹזְקָה",
-      "explanation_hebrew": "מַחֲזִיק מַשֶּׁהוּ חָזָק מְאוֹד",
-      "pronunciation_hebrew": "קְלַאצִ'ינְג",
-      "example": "She was clutching her bag."
+      "hebrew": "טמינה, קבירה",
+      "explanation_hebrew": "לשים משהו מתחת לאדמה",
+      "pronunciation_hebrew": "בֶרייאינג",
+      "example": "Burying the cables costs more."
     },
     {
-      "word": "coveted",
-      "lemma": "coveted",
+      "word": "backlash",
+      "lemma": "backlash",
       "level": "C1",
-      "hebrew": "נֶחְשָׁק / נִכְסָף",
-      "explanation_hebrew": "מַשֶּׁהוּ שֶׁרַבִּים רוֹצִים מְאוֹד",
-      "pronunciation_hebrew": "קַבֶטֶד",
-      "example": "He won the coveted award."
+      "hebrew": "תגובת נגד, זעם ציבורי",
+      "explanation_hebrew": "תגובה שלילית חזקה מהציבור",
+      "pronunciation_hebrew": "בַקלַש",
+      "example": "The plan faced a fierce backlash."
     },
     {
-      "word": "recognises",
-      "lemma": "recognise",
+      "word": "proposals",
+      "lemma": "proposal",
       "level": "B2",
-      "hebrew": "מַעֲנִיק הַכָּרָה / מְזַהֶה",
-      "explanation_hebrew": "נוֹתֵן הוֹקָרָה אוֹ מְזַהֶה מַשֶּׁהוּ",
-      "pronunciation_hebrew": "רֶקוֹגְנַייזֶז",
-      "example": "The prize recognises great music."
+      "hebrew": "הצעות",
+      "explanation_hebrew": "רעיונות רשמיים שמוצעים לדיון",
+      "pronunciation_hebrew": "פְרוֹפוֹזלז",
+      "example": "Locals opposed the proposals."
     },
     {
-      "word": "indulgent",
-      "lemma": "indulgent",
-      "level": "C1",
-      "hebrew": "מְפַנֵּק / מוּפְרָז",
-      "explanation_hebrew": "מַרְשֶׁה לְעַצְמוֹ יוֹתֵר מִדַּי, לְלֹא רִיסּוּן",
-      "pronunciation_hebrew": "אִינְדַלְגֶ'נְט",
-      "example": "The song is long and indulgent."
-    },
-    {
-      "word": "cinematic",
-      "lemma": "cinematic",
-      "level": "C1",
-      "hebrew": "קוֹלְנוֹעִי",
-      "explanation_hebrew": "מַשֶּׁהוּ שֶׁמַּרְגִּישׁ כְּמוֹ סֶרֶט",
-      "pronunciation_hebrew": "סִינֶמָטִיק",
-      "example": "The album has a cinematic feel."
-    },
-    {
-      "word": "plucky",
-      "lemma": "plucky",
-      "level": "C1",
-      "hebrew": "אַמִּיץ / נוֹעָז",
-      "explanation_hebrew": "אַמִּיץ לַמְרוֹת קְשָׁיִים",
-      "pronunciation_hebrew": "פְּלַאקִי",
-      "example": "The plucky heroine never gave up."
-    },
-    {
-      "word": "debris",
-      "lemma": "debris",
-      "level": "C1",
-      "hebrew": "הֲרִיסוֹת / שְׁבָרִים",
-      "explanation_hebrew": "שְׁאֵרִיּוֹת שֶׁל מַשֶּׁהוּ שָׁבוּר",
-      "pronunciation_hebrew": "דֶבְּרִי",
-      "example": "They cleared the debris after the storm."
-    },
-    {
-      "word": "emerges",
-      "lemma": "emerge",
+      "word": "infrastructure",
+      "lemma": "infrastructure",
       "level": "B2",
-      "hebrew": "יוֹצֵא / מוֹפִיעַ",
-      "explanation_hebrew": "יוֹצֵא הַחוּצָה אוֹ מוֹפִיעַ",
-      "pronunciation_hebrew": "אִימֶרְגֶ'ז",
-      "example": "The sun emerges from the clouds."
+      "hebrew": "תשתיות",
+      "explanation_hebrew": "מערכות בסיס כמו כבישים וחשמל",
+      "pronunciation_hebrew": "אִנפרַסטרַקצ׳ר",
+      "example": "New energy infrastructure is needed."
     },
     {
-      "word": "resilient",
-      "lemma": "resilient",
+      "word": "prohibiting",
+      "lemma": "prohibit",
       "level": "C1",
-      "hebrew": "עָמִיד / חָסוֹן",
-      "explanation_hebrew": "מִתְאוֹשֵׁשׁ מַהֵר מִקְּשָׁיִים",
-      "pronunciation_hebrew": "רִיזִילְיֶנְט",
-      "example": "She is strong and resilient."
+      "hebrew": "אוסר, מונע",
+      "explanation_hebrew": "לא להרשות באופן רשמי",
+      "pronunciation_hebrew": "פרוֹהִיבִיטינג",
+      "example": "The law is prohibiting steel towers."
     },
     {
-      "word": "glowing",
-      "lemma": "glowing",
+      "word": "pledge",
+      "lemma": "pledge",
       "level": "B2",
-      "hebrew": "נִלְהָב / מְהַלֵּל",
-      "explanation_hebrew": "מָלֵא שֶׁבַח (עַל בִּיקּוֹרֶת)",
-      "pronunciation_hebrew": "גְלוֹאִינְג",
-      "example": "The film got glowing reviews."
+      "hebrew": "התחייבות, הבטחה",
+      "explanation_hebrew": "הבטחה רשמית לעשות משהו",
+      "pronunciation_hebrew": "פלֶדז׳",
+      "example": "It was a manifesto pledge."
     },
     {
-      "word": "critics",
-      "lemma": "critic",
+      "word": "manifesto",
+      "lemma": "manifesto",
+      "level": "C1",
+      "hebrew": "מצע (מדיני)",
+      "explanation_hebrew": "מסמך שמפרט תוכנית של מפלגה",
+      "pronunciation_hebrew": "מַנִפֶסטוֹ",
+      "example": "The promise was in their manifesto."
+    },
+    {
+      "word": "undergrounding",
+      "lemma": "undergrounding",
+      "level": "C1",
+      "hebrew": "הטמנה מתחת לקרקע",
+      "explanation_hebrew": "העברת כבלים מתחת לאדמה",
+      "pronunciation_hebrew": "אַנדֶרגראוַנדינג",
+      "example": "Undergrounding protects the view."
+    },
+    {
+      "word": "circuits",
+      "lemma": "circuit",
       "level": "B2",
-      "hebrew": "מְבַקְּרִים",
-      "explanation_hebrew": "אֲנָשִׁים שֶׁמַּבִּיעִים דֵּעָה מִקְצוֹעִית עַל אָמָּנוּת",
-      "pronunciation_hebrew": "קְרִיטִיקְס",
-      "example": "The critics loved the book."
+      "hebrew": "מעגלים חשמליים",
+      "explanation_hebrew": "מסלולים שדרכם זורם חשמל",
+      "pronunciation_hebrew": "סֶרקִטס",
+      "example": "They plan to bury the circuits."
     },
     {
-      "word": "praised",
-      "lemma": "praise",
+      "word": "landscapes",
+      "lemma": "landscape",
       "level": "B2",
-      "hebrew": "שִׁיבַּח / הִילֵּל",
-      "explanation_hebrew": "אָמַר דְּבָרִים טוֹבִים עַל מִישֶׁהוּ",
-      "pronunciation_hebrew": "פְּרֵייזְד",
-      "example": "The teacher praised her work."
+      "hebrew": "נופים",
+      "explanation_hebrew": "מראה הטבע הפתוח",
+      "pronunciation_hebrew": "לַנדסקֵיפס",
+      "example": "The towers harm local landscapes."
     },
     {
-      "word": "agile",
-      "lemma": "agile",
+      "word": "amenity",
+      "lemma": "amenity",
       "level": "C1",
-      "hebrew": "זָרִיז / גָּמִישׁ",
-      "explanation_hebrew": "נָע בִּקְלוּת וּבִמְהִירוּת",
-      "pronunciation_hebrew": "אַגַ'יל",
-      "example": "The dancer was agile."
+      "hebrew": "מתקן, נכס ציבורי",
+      "explanation_hebrew": "משהו שמועיל ונוח לקהילה",
+      "pronunciation_hebrew": "אַמֵנִטי",
+      "example": "It protects local amenity."
     },
     {
-      "word": "distraught",
-      "lemma": "distraught",
-      "level": "C1",
-      "hebrew": "נִסְעָר / מְיוּאָשׁ",
-      "explanation_hebrew": "נִרְגָּשׁ וְעָצוּב מְאוֹד",
-      "pronunciation_hebrew": "דִיסְטְרוֹט",
-      "example": "She was distraught after the loss."
-    },
-    {
-      "word": "philosophical",
-      "lemma": "philosophical",
-      "level": "C1",
-      "hebrew": "פִילוֹסוֹפִי / שָׁלֵו",
-      "explanation_hebrew": "מְקַבֵּל קְשָׁיִים בְּרוֹגַע וּבְהַשְׁלָמָה",
-      "pronunciation_hebrew": "פִילוֹסוֹפִיקָל",
-      "example": "He was philosophical about the defeat."
-    },
-    {
-      "word": "envisaged",
-      "lemma": "envisage",
-      "level": "C1",
-      "hebrew": "נֶחְזָה / תּוּכְנַן מֵרֹאשׁ",
-      "explanation_hebrew": "דִּמְיֵין אוֹ תִּכְנֵן מַשֶּׁהוּ לֶעָתִיד",
-      "pronunciation_hebrew": "אֶנְוִיזַגְ'ד",
-      "example": "The plan was envisaged years ago."
-    },
-    {
-      "word": "antidote",
-      "lemma": "antidote",
-      "level": "C1",
-      "hebrew": "נוֹגְדָן / תְּרוּפָה נֶגְדִּית",
-      "explanation_hebrew": "מַשֶּׁהוּ שֶׁמְּבַטֵּל אוֹ מְאַזֵּן הַשְׁפָּעָה רָעָה",
-      "pronunciation_hebrew": "אַנְטִידוֹט",
-      "example": "Music was an antidote to his sadness."
-    },
-    {
-      "word": "recourse",
-      "lemma": "recourse",
-      "level": "C1",
-      "hebrew": "מִפְלָט / הִיזָקְקוּת",
-      "explanation_hebrew": "פְּנִיָּה לְמַשֶּׁהוּ כְּדֵי לְקַבֵּל עֶזְרָה אוֹ פִּתְרוֹן",
-      "pronunciation_hebrew": "רִיקוֹרְס",
-      "example": "They had no recourse but to wait."
-    },
-    {
-      "word": "mistakenly",
-      "lemma": "mistakenly",
+      "word": "vulnerable",
+      "lemma": "vulnerable",
       "level": "B2",
-      "hebrew": "בְּטָעוּת",
-      "explanation_hebrew": "בְּאוֹפֶן שָׁגוּי, מִתּוֹךְ טָעוּת",
-      "pronunciation_hebrew": "מִיסְטֵייקֶנְלִי",
-      "example": "He mistakenly took my coat."
+      "hebrew": "פגיע, חשוף לסכנה",
+      "explanation_hebrew": "קל לפגוע בו או להזיק לו",
+      "pronunciation_hebrew": "וַלנְרבֶל",
+      "example": "Overhead lines are vulnerable to storms."
     },
     {
-      "word": "heartfelt",
-      "lemma": "heartfelt",
-      "level": "C1",
-      "hebrew": "כֵּן / מִכָּל הַלֵּב",
-      "explanation_hebrew": "מַבִּיעַ רֶגֶשׁ אֲמִיתִּי וְעָמוֹק",
-      "pronunciation_hebrew": "הַארְטְפֶלְט",
-      "example": "She gave a heartfelt thank you."
-    },
-    {
-      "word": "delicate",
-      "lemma": "delicate",
+      "word": "severe",
+      "lemma": "severe",
       "level": "B2",
-      "hebrew": "עָדִין / רָגִישׁ",
-      "explanation_hebrew": "עָדִין וְנוֹחַ לְהִישָּׁבֵר",
-      "pronunciation_hebrew": "דֶלִיקֵט",
-      "example": "The flowers are delicate."
+      "hebrew": "חמור, קיצוני",
+      "explanation_hebrew": "חזק ורציני מאוד",
+      "pronunciation_hebrew": "סִוויר",
+      "example": "Severe weather can break the lines."
     },
     {
-      "word": "soulful",
-      "lemma": "soulful",
+      "word": "wildlife",
+      "lemma": "wildlife",
+      "level": "B1",
+      "hebrew": "חיי בר",
+      "explanation_hebrew": "בעלי חיים בטבע",
+      "pronunciation_hebrew": "וַיילדלאייף",
+      "example": "Burying cables helps wildlife."
+    },
+    {
+      "word": "acknowledges",
+      "lemma": "acknowledge",
       "level": "C1",
-      "hebrew": "נִשְׁמָתִי / רָגִישׁ",
-      "explanation_hebrew": "מָלֵא רֶגֶשׁ עָמוֹק",
-      "pronunciation_hebrew": "סוֹלְפוּל",
-      "example": "He has a soulful voice."
+      "hebrew": "מודה, מכיר ב-",
+      "explanation_hebrew": "מסכים שמשהו נכון",
+      "pronunciation_hebrew": "אַקנוֹליג׳ז",
+      "example": "The document acknowledges the cost."
     },
     {
-      "word": "overwhelmed",
-      "lemma": "overwhelm",
+      "word": "intrusive",
+      "lemma": "intrusive",
+      "level": "C1",
+      "hebrew": "חודרני, מפריע",
+      "explanation_hebrew": "משהו בולט ומפריע לסביבה",
+      "pronunciation_hebrew": "אִנטרוֹסיב",
+      "example": "They prefer less intrusive poles."
+    },
+    {
+      "word": "feasible",
+      "lemma": "feasible",
+      "level": "C1",
+      "hebrew": "בר-ביצוע, אפשרי",
+      "explanation_hebrew": "משהו שאפשר לעשות בפועל",
+      "pronunciation_hebrew": "פיזִיבל",
+      "example": "Undergrounding isn't always feasible."
+    },
+    {
+      "word": "opposition",
+      "lemma": "opposition",
       "level": "B2",
-      "hebrew": "מוּצָף רִגְשִׁית / מוּכְרָע",
-      "explanation_hebrew": "מָלֵא רֶגֶשׁ אוֹ עָמוּס מִנְּשׂוֹא",
-      "pronunciation_hebrew": "אוֹבֶרְוֶולְמְד",
-      "example": "She was overwhelmed by the support."
+      "hebrew": "התנגדות",
+      "explanation_hebrew": "מצב שבו אנשים מתנגדים למשהו",
+      "pronunciation_hebrew": "אַפַזִשֶן",
+      "example": "The plan met strong opposition."
     },
     {
-      "word": "whirlwind",
-      "lemma": "whirlwind",
+      "word": "landowners",
+      "lemma": "landowner",
+      "level": "B2",
+      "hebrew": "בעלי קרקע",
+      "explanation_hebrew": "אנשים שאדמה שייכת להם",
+      "pronunciation_hebrew": "לַנדאוֹנֶרז",
+      "example": "Hundreds of landowners objected."
+    },
+    {
+      "word": "unveiled",
+      "lemma": "unveil",
       "level": "C1",
-      "hebrew": "מְעַרְבּוֹלֶת / סַעֲרָה",
-      "explanation_hebrew": "רְצַף אֵירוּעִים מָהִיר וְאִינְטֶנְסִיבִי",
-      "pronunciation_hebrew": "וֶרְלְוִינְד",
-      "example": "It was a whirlwind of activity."
+      "hebrew": "חשף, הציג לראשונה",
+      "explanation_hebrew": "הראה משהו חדש לראשונה",
+      "pronunciation_hebrew": "אַנווֵילד",
+      "example": "The firm unveiled a new pylon."
+    },
+    {
+      "word": "compact",
+      "lemma": "compact",
+      "level": "B2",
+      "hebrew": "קומפקטי, קטן וצפוף",
+      "explanation_hebrew": "קטן ותופס מעט מקום",
+      "pronunciation_hebrew": "קוֹמפֶקט",
+      "example": "It is a slim and compact design."
+    },
+    {
+      "word": "minimise",
+      "lemma": "minimise",
+      "level": "B2",
+      "hebrew": "למזער, להפחית",
+      "explanation_hebrew": "להפוך משהו לקטן ככל האפשר",
+      "pronunciation_hebrew": "מִנימַייז",
+      "example": "They want to minimise the impact."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "grateful",
+      "word": "consultation",
       "type": "english_to_hebrew",
-      "question": "What does “grateful” mean?",
+      "question": "What does “consultation” mean?",
       "options": [
-        "אַמִּיץ / נוֹעָז",
-        "מְבַקְּרִים",
-        "בְּטָעוּת",
-        "אֲסִיר תּוֹדָה / מַכִּיר טוֹבָה"
+        "התייעצות, הליך התייעצות",
+        "טמינה, קבירה",
+        "לאסור, איסור",
+        "מסורתי"
       ],
-      "correct_answer": "אֲסִיר תּוֹדָה / מַכִּיר טוֹבָה",
-      "explanation_hebrew": "“grateful” פירושו אֲסִיר תּוֹדָה / מַכִּיר טוֹבָה."
+      "correct_answer": "התייעצות, הליך התייעצות",
+      "explanation_hebrew": "“consultation” פירושו התייעצות, הליך התייעצות."
     },
     {
       "id": "B-q2",
-      "word": "clutching",
+      "word": "ban",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “אוֹחֵז בְּחוֹזְקָה”?",
+      "question": "איזו מילה באנגלית פירושה “לאסור, איסור”?",
       "options": [
-        "glowing",
-        "cinematic",
-        "heartfelt",
-        "clutching"
+        "traditional",
+        "ban",
+        "burying",
+        "backlash"
       ],
-      "correct_answer": "clutching",
-      "explanation_hebrew": "המילה “clutching” פירושה אוֹחֵז בְּחוֹזְקָה."
+      "correct_answer": "ban",
+      "explanation_hebrew": "המילה “ban” פירושה לאסור, איסור."
     },
     {
       "id": "B-q3",
-      "word": "coveted",
+      "word": "traditional",
       "type": "english_to_hebrew",
-      "question": "What does “coveted” mean?",
+      "question": "What does “traditional” mean?",
       "options": [
-        "מִפְלָט / הִיזָקְקוּת",
-        "נֶחְשָׁק / נִכְסָף",
-        "אוֹחֵז בְּחוֹזְקָה",
-        "שִׁיבַּח / הִילֵּל"
+        "טמינה, קבירה",
+        "תגובת נגד, זעם ציבורי",
+        "מסורתי",
+        "הצעות"
       ],
-      "correct_answer": "נֶחְשָׁק / נִכְסָף",
-      "explanation_hebrew": "“coveted” פירושו נֶחְשָׁק / נִכְסָף."
+      "correct_answer": "מסורתי",
+      "explanation_hebrew": "“traditional” פירושו מסורתי."
     },
     {
       "id": "B-q4",
-      "word": "recognises",
+      "word": "burying",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מַעֲנִיק הַכָּרָה / מְזַהֶה”?",
+      "question": "איזו מילה באנגלית פירושה “טמינה, קבירה”?",
       "options": [
-        "philosophical",
-        "recognises",
-        "envisaged",
-        "emerges"
+        "infrastructure",
+        "proposals",
+        "backlash",
+        "burying"
       ],
-      "correct_answer": "recognises",
-      "explanation_hebrew": "המילה “recognises” פירושה מַעֲנִיק הַכָּרָה / מְזַהֶה."
+      "correct_answer": "burying",
+      "explanation_hebrew": "המילה “burying” פירושה טמינה, קבירה."
     },
     {
       "id": "B-q5",
-      "word": "indulgent",
+      "word": "backlash",
       "type": "english_to_hebrew",
-      "question": "What does “indulgent” mean?",
+      "question": "What does “backlash” mean?",
       "options": [
-        "אַמִּיץ / נוֹעָז",
-        "מְפַנֵּק / מוּפְרָז",
-        "מוּצָף רִגְשִׁית / מוּכְרָע",
-        "שִׁיבַּח / הִילֵּל"
+        "תשתיות",
+        "אוסר, מונע",
+        "הצעות",
+        "תגובת נגד, זעם ציבורי"
       ],
-      "correct_answer": "מְפַנֵּק / מוּפְרָז",
-      "explanation_hebrew": "“indulgent” פירושו מְפַנֵּק / מוּפְרָז."
+      "correct_answer": "תגובת נגד, זעם ציבורי",
+      "explanation_hebrew": "“backlash” פירושו תגובת נגד, זעם ציבורי."
     },
     {
       "id": "B-q6",
-      "word": "cinematic",
+      "word": "proposals",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “קוֹלְנוֹעִי”?",
+      "question": "איזו מילה באנגלית פירושה “הצעות”?",
       "options": [
-        "praised",
-        "glowing",
-        "recognises",
-        "cinematic"
+        "prohibiting",
+        "proposals",
+        "infrastructure",
+        "pledge"
       ],
-      "correct_answer": "cinematic",
-      "explanation_hebrew": "המילה “cinematic” פירושה קוֹלְנוֹעִי."
+      "correct_answer": "proposals",
+      "explanation_hebrew": "המילה “proposals” פירושה הצעות."
     },
     {
       "id": "B-q7",
-      "word": "plucky",
+      "word": "infrastructure",
       "type": "english_to_hebrew",
-      "question": "What does “plucky” mean?",
+      "question": "What does “infrastructure” mean?",
       "options": [
-        "נֶחְזָה / תּוּכְנַן מֵרֹאשׁ",
-        "אַמִּיץ / נוֹעָז",
-        "מְפַנֵּק / מוּפְרָז",
-        "קוֹלְנוֹעִי"
+        "אוסר, מונע",
+        "תשתיות",
+        "מצע (מדיני)",
+        "התחייבות, הבטחה"
       ],
-      "correct_answer": "אַמִּיץ / נוֹעָז",
-      "explanation_hebrew": "“plucky” פירושו אַמִּיץ / נוֹעָז."
+      "correct_answer": "תשתיות",
+      "explanation_hebrew": "“infrastructure” פירושו תשתיות."
     },
     {
       "id": "B-q8",
-      "word": "debris",
+      "word": "prohibiting",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “הֲרִיסוֹת / שְׁבָרִים”?",
+      "question": "איזו מילה באנגלית פירושה “אוסר, מונע”?",
       "options": [
-        "overwhelmed",
-        "heartfelt",
-        "debris",
-        "recognises"
+        "manifesto",
+        "pledge",
+        "prohibiting",
+        "undergrounding"
       ],
-      "correct_answer": "debris",
-      "explanation_hebrew": "המילה “debris” פירושה הֲרִיסוֹת / שְׁבָרִים."
+      "correct_answer": "prohibiting",
+      "explanation_hebrew": "המילה “prohibiting” פירושה אוסר, מונע."
     },
     {
       "id": "B-q9",
-      "word": "emerges",
+      "word": "pledge",
       "type": "english_to_hebrew",
-      "question": "What does “emerges” mean?",
+      "question": "What does “pledge” mean?",
       "options": [
-        "נֶחְשָׁק / נִכְסָף",
-        "יוֹצֵא / מוֹפִיעַ",
-        "קוֹלְנוֹעִי",
-        "כֵּן / מִכָּל הַלֵּב"
+        "התחייבות, הבטחה",
+        "מצע (מדיני)",
+        "הטמנה מתחת לקרקע",
+        "מעגלים חשמליים"
       ],
-      "correct_answer": "יוֹצֵא / מוֹפִיעַ",
-      "explanation_hebrew": "“emerges” פירושו יוֹצֵא / מוֹפִיעַ."
+      "correct_answer": "התחייבות, הבטחה",
+      "explanation_hebrew": "“pledge” פירושו התחייבות, הבטחה."
     },
     {
       "id": "B-q10",
-      "word": "resilient",
+      "word": "manifesto",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “עָמִיד / חָסוֹן”?",
+      "question": "איזו מילה באנגלית פירושה “מצע (מדיני)”?",
       "options": [
-        "praised",
-        "resilient",
-        "antidote",
-        "grateful"
+        "manifesto",
+        "circuits",
+        "landscapes",
+        "undergrounding"
       ],
-      "correct_answer": "resilient",
-      "explanation_hebrew": "המילה “resilient” פירושה עָמִיד / חָסוֹן."
+      "correct_answer": "manifesto",
+      "explanation_hebrew": "המילה “manifesto” פירושה מצע (מדיני)."
     },
     {
       "id": "B-q11",
-      "word": "glowing",
+      "word": "undergrounding",
       "type": "english_to_hebrew",
-      "question": "What does “glowing” mean?",
+      "question": "What does “undergrounding” mean?",
       "options": [
-        "נִלְהָב / מְהַלֵּל",
-        "נֶחְשָׁק / נִכְסָף",
-        "יוֹצֵא / מוֹפִיעַ",
-        "פִילוֹסוֹפִי / שָׁלֵו"
+        "הטמנה מתחת לקרקע",
+        "נופים",
+        "מעגלים חשמליים",
+        "מתקן, נכס ציבורי"
       ],
-      "correct_answer": "נִלְהָב / מְהַלֵּל",
-      "explanation_hebrew": "“glowing” פירושו נִלְהָב / מְהַלֵּל."
+      "correct_answer": "הטמנה מתחת לקרקע",
+      "explanation_hebrew": "“undergrounding” פירושו הטמנה מתחת לקרקע."
     },
     {
       "id": "B-q12",
-      "word": "critics",
+      "word": "circuits",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מְבַקְּרִים”?",
+      "question": "איזו מילה באנגלית פירושה “מעגלים חשמליים”?",
       "options": [
-        "philosophical",
-        "critics",
-        "delicate",
-        "soulful"
+        "vulnerable",
+        "amenity",
+        "circuits",
+        "landscapes"
       ],
-      "correct_answer": "critics",
-      "explanation_hebrew": "המילה “critics” פירושה מְבַקְּרִים."
+      "correct_answer": "circuits",
+      "explanation_hebrew": "המילה “circuits” פירושה מעגלים חשמליים."
     },
     {
       "id": "B-q13",
-      "word": "praised",
+      "word": "landscapes",
       "type": "english_to_hebrew",
-      "question": "What does “praised” mean?",
+      "question": "What does “landscapes” mean?",
       "options": [
-        "שִׁיבַּח / הִילֵּל",
-        "אוֹחֵז בְּחוֹזְקָה",
-        "בְּטָעוּת",
-        "נִשְׁמָתִי / רָגִישׁ"
+        "פגיע, חשוף לסכנה",
+        "נופים",
+        "מתקן, נכס ציבורי",
+        "חמור, קיצוני"
       ],
-      "correct_answer": "שִׁיבַּח / הִילֵּל",
-      "explanation_hebrew": "“praised” פירושו שִׁיבַּח / הִילֵּל."
+      "correct_answer": "נופים",
+      "explanation_hebrew": "“landscapes” פירושו נופים."
     },
     {
       "id": "B-q14",
-      "word": "agile",
+      "word": "amenity",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “זָרִיז / גָּמִישׁ”?",
+      "question": "איזו מילה באנגלית פירושה “מתקן, נכס ציבורי”?",
       "options": [
-        "delicate",
-        "whirlwind",
-        "critics",
-        "agile"
+        "severe",
+        "wildlife",
+        "vulnerable",
+        "amenity"
       ],
-      "correct_answer": "agile",
-      "explanation_hebrew": "המילה “agile” פירושה זָרִיז / גָּמִישׁ."
+      "correct_answer": "amenity",
+      "explanation_hebrew": "המילה “amenity” פירושה מתקן, נכס ציבורי."
     },
     {
       "id": "B-q15",
-      "word": "distraught",
+      "word": "vulnerable",
       "type": "english_to_hebrew",
-      "question": "What does “distraught” mean?",
+      "question": "What does “vulnerable” mean?",
       "options": [
-        "נִסְעָר / מְיוּאָשׁ",
-        "נִלְהָב / מְהַלֵּל",
-        "אוֹחֵז בְּחוֹזְקָה",
-        "כֵּן / מִכָּל הַלֵּב"
+        "חיי בר",
+        "חמור, קיצוני",
+        "מודה, מכיר ב-",
+        "פגיע, חשוף לסכנה"
       ],
-      "correct_answer": "נִסְעָר / מְיוּאָשׁ",
-      "explanation_hebrew": "“distraught” פירושו נִסְעָר / מְיוּאָשׁ."
+      "correct_answer": "פגיע, חשוף לסכנה",
+      "explanation_hebrew": "“vulnerable” פירושו פגיע, חשוף לסכנה."
     },
     {
       "id": "B-q16",
-      "word": "philosophical",
+      "word": "severe",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “פִילוֹסוֹפִי / שָׁלֵו”?",
+      "question": "איזו מילה באנגלית פירושה “חמור, קיצוני”?",
       "options": [
-        "philosophical",
-        "recourse",
-        "praised",
-        "agile"
+        "intrusive",
+        "wildlife",
+        "severe",
+        "acknowledges"
       ],
-      "correct_answer": "philosophical",
-      "explanation_hebrew": "המילה “philosophical” פירושה פִילוֹסוֹפִי / שָׁלֵו."
+      "correct_answer": "severe",
+      "explanation_hebrew": "המילה “severe” פירושה חמור, קיצוני."
     },
     {
       "id": "B-q17",
-      "word": "envisaged",
+      "word": "wildlife",
       "type": "english_to_hebrew",
-      "question": "What does “envisaged” mean?",
+      "question": "What does “wildlife” mean?",
       "options": [
-        "קוֹלְנוֹעִי",
-        "נוֹגְדָן / תְּרוּפָה נֶגְדִּית",
-        "נֶחְזָה / תּוּכְנַן מֵרֹאשׁ",
-        "עָמִיד / חָסוֹן"
+        "מודה, מכיר ב-",
+        "חודרני, מפריע",
+        "בר-ביצוע, אפשרי",
+        "חיי בר"
       ],
-      "correct_answer": "נֶחְזָה / תּוּכְנַן מֵרֹאשׁ",
-      "explanation_hebrew": "“envisaged” פירושו נֶחְזָה / תּוּכְנַן מֵרֹאשׁ."
+      "correct_answer": "חיי בר",
+      "explanation_hebrew": "“wildlife” פירושו חיי בר."
     },
     {
       "id": "B-q18",
-      "word": "antidote",
+      "word": "acknowledges",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “נוֹגְדָן / תְּרוּפָה נֶגְדִּית”?",
+      "question": "איזו מילה באנגלית פירושה “מודה, מכיר ב-”?",
       "options": [
-        "overwhelmed",
-        "antidote",
-        "soulful",
-        "clutching"
+        "feasible",
+        "intrusive",
+        "opposition",
+        "acknowledges"
       ],
-      "correct_answer": "antidote",
-      "explanation_hebrew": "המילה “antidote” פירושה נוֹגְדָן / תְּרוּפָה נֶגְדִּית."
+      "correct_answer": "acknowledges",
+      "explanation_hebrew": "המילה “acknowledges” פירושה מודה, מכיר ב-."
     },
     {
       "id": "B-q19",
-      "word": "recourse",
+      "word": "intrusive",
       "type": "english_to_hebrew",
-      "question": "What does “recourse” mean?",
+      "question": "What does “intrusive” mean?",
       "options": [
-        "זָרִיז / גָּמִישׁ",
-        "מִפְלָט / הִיזָקְקוּת",
-        "מוּצָף רִגְשִׁית / מוּכְרָע",
-        "נִלְהָב / מְהַלֵּל"
+        "בעלי קרקע",
+        "בר-ביצוע, אפשרי",
+        "חודרני, מפריע",
+        "התנגדות"
       ],
-      "correct_answer": "מִפְלָט / הִיזָקְקוּת",
-      "explanation_hebrew": "“recourse” פירושו מִפְלָט / הִיזָקְקוּת."
+      "correct_answer": "חודרני, מפריע",
+      "explanation_hebrew": "“intrusive” פירושו חודרני, מפריע."
     },
     {
       "id": "B-q20",
-      "word": "mistakenly",
+      "word": "feasible",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “בְּטָעוּת”?",
+      "question": "איזו מילה באנגלית פירושה “בר-ביצוע, אפשרי”?",
       "options": [
-        "mistakenly",
-        "grateful",
-        "overwhelmed",
-        "delicate"
+        "landowners",
+        "feasible",
+        "opposition",
+        "unveiled"
       ],
-      "correct_answer": "mistakenly",
-      "explanation_hebrew": "המילה “mistakenly” פירושה בְּטָעוּת."
+      "correct_answer": "feasible",
+      "explanation_hebrew": "המילה “feasible” פירושה בר-ביצוע, אפשרי."
     },
     {
       "id": "B-q21",
-      "word": "heartfelt",
+      "word": "opposition",
       "type": "english_to_hebrew",
-      "question": "What does “heartfelt” mean?",
+      "question": "What does “opposition” mean?",
       "options": [
-        "זָרִיז / גָּמִישׁ",
-        "מְפַנֵּק / מוּפְרָז",
-        "כֵּן / מִכָּל הַלֵּב",
-        "מַעֲנִיק הַכָּרָה / מְזַהֶה"
+        "חשף, הציג לראשונה",
+        "קומפקטי, קטן וצפוף",
+        "בעלי קרקע",
+        "התנגדות"
       ],
-      "correct_answer": "כֵּן / מִכָּל הַלֵּב",
-      "explanation_hebrew": "“heartfelt” פירושו כֵּן / מִכָּל הַלֵּב."
+      "correct_answer": "התנגדות",
+      "explanation_hebrew": "“opposition” פירושו התנגדות."
     },
     {
       "id": "B-q22",
-      "word": "delicate",
+      "word": "landowners",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “עָדִין / רָגִישׁ”?",
+      "question": "איזו מילה באנגלית פירושה “בעלי קרקע”?",
       "options": [
-        "cinematic",
-        "emerges",
-        "agile",
-        "delicate"
+        "unveiled",
+        "compact",
+        "minimise",
+        "landowners"
       ],
-      "correct_answer": "delicate",
-      "explanation_hebrew": "המילה “delicate” פירושה עָדִין / רָגִישׁ."
+      "correct_answer": "landowners",
+      "explanation_hebrew": "המילה “landowners” פירושה בעלי קרקע."
     },
     {
       "id": "B-q23",
-      "word": "soulful",
+      "word": "unveiled",
       "type": "english_to_hebrew",
-      "question": "What does “soulful” mean?",
+      "question": "What does “unveiled” mean?",
       "options": [
-        "אֲסִיר תּוֹדָה / מַכִּיר טוֹבָה",
-        "פִילוֹסוֹפִי / שָׁלֵו",
-        "עָמִיד / חָסוֹן",
-        "נִשְׁמָתִי / רָגִישׁ"
+        "חשף, הציג לראשונה",
+        "למזער, להפחית",
+        "קומפקטי, קטן וצפוף",
+        "התייעצות, הליך התייעצות"
       ],
-      "correct_answer": "נִשְׁמָתִי / רָגִישׁ",
-      "explanation_hebrew": "“soulful” פירושו נִשְׁמָתִי / רָגִישׁ."
+      "correct_answer": "חשף, הציג לראשונה",
+      "explanation_hebrew": "“unveiled” פירושו חשף, הציג לראשונה."
     },
     {
       "id": "B-q24",
-      "word": "overwhelmed",
+      "word": "compact",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מוּצָף רִגְשִׁית / מוּכְרָע”?",
+      "question": "איזו מילה באנגלית פירושה “קומפקטי, קטן וצפוף”?",
       "options": [
-        "overwhelmed",
-        "envisaged",
-        "delicate",
-        "philosophical"
+        "minimise",
+        "consultation",
+        "compact",
+        "ban"
       ],
-      "correct_answer": "overwhelmed",
-      "explanation_hebrew": "המילה “overwhelmed” פירושה מוּצָף רִגְשִׁית / מוּכְרָע."
+      "correct_answer": "compact",
+      "explanation_hebrew": "המילה “compact” פירושה קומפקטי, קטן וצפוף."
     },
     {
       "id": "B-q25",
-      "word": "whirlwind",
+      "word": "minimise",
       "type": "english_to_hebrew",
-      "question": "What does “whirlwind” mean?",
+      "question": "What does “minimise” mean?",
       "options": [
-        "מְעַרְבּוֹלֶת / סַעֲרָה",
-        "נֶחְשָׁק / נִכְסָף",
-        "יוֹצֵא / מוֹפִיעַ",
-        "נִשְׁמָתִי / רָגִישׁ"
+        "מסורתי",
+        "לאסור, איסור",
+        "למזער, להפחית",
+        "התייעצות, הליך התייעצות"
       ],
-      "correct_answer": "מְעַרְבּוֹלֶת / סַעֲרָה",
-      "explanation_hebrew": "“whirlwind” פירושו מְעַרְבּוֹלֶת / סַעֲרָה."
+      "correct_answer": "למזער, להפחית",
+      "explanation_hebrew": "“minimise” פירושו למזער, להפחית."
     }
   ]
 }
