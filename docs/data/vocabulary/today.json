@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T09:27:50.662934+00:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T08:59:21.783523+00:00",
   "track": "Essential English 3000",
   "lesson_size": 10,
   "method": {
@@ -29,14 +29,14 @@
   },
   "words": [
     {
-      "id": "core-0065",
-      "word": "concern",
-      "part_of_speech": "noun",
+      "id": "core-0035",
+      "word": "perform",
+      "part_of_speech": "verb",
       "level": "B2",
-      "hebrew": "דאגה / עניין",
-      "pronunciation_hebrew": "קַנְסֶרְן",
-      "explanation_hebrew": "נושא שמעורר דאגה או תשומת לב.",
-      "example": "Safety is our main concern.",
+      "hebrew": "לבצע / לתפקד",
+      "pronunciation_hebrew": "פֶּרְפוֹרְם",
+      "explanation_hebrew": "לעשות פעולה או להראות רמת ביצוע.",
+      "example": "The system performed well under heavy load.",
       "reason": "new",
       "position": 1,
       "learning_state": {
@@ -46,14 +46,14 @@
       }
     },
     {
-      "id": "core-0024",
-      "word": "explain",
-      "part_of_speech": "verb",
-      "level": "A2",
-      "hebrew": "להסביר",
-      "pronunciation_hebrew": "אִקְסְפְּלֵיין",
-      "explanation_hebrew": "להציג רעיון בצורה ברורה ומובנת.",
-      "example": "Can you explain this equation in simple words?",
+      "id": "core-0065",
+      "word": "concern",
+      "part_of_speech": "noun",
+      "level": "B2",
+      "hebrew": "דאגה / עניין",
+      "pronunciation_hebrew": "קַנְסֶרְן",
+      "explanation_hebrew": "נושא שמעורר דאגה או תשומת לב.",
+      "example": "Safety is our main concern.",
       "reason": "new",
       "position": 2,
       "learning_state": {
@@ -63,33 +63,16 @@
       }
     },
     {
-      "id": "core-0099",
-      "word": "feature",
-      "part_of_speech": "noun",
-      "level": "B1",
-      "hebrew": "תכונה / מאפיין",
-      "pronunciation_hebrew": "פִיצֶ'ר",
-      "explanation_hebrew": "חלק או יכולת בולטים של מוצר או מערכת.",
-      "example": "The app includes a useful review feature.",
+      "id": "core-0032",
+      "word": "occur",
+      "part_of_speech": "verb",
+      "level": "B2",
+      "hebrew": "להתרחש",
+      "pronunciation_hebrew": "אֶקֶר",
+      "explanation_hebrew": "לקרות, בדרך כלל בהקשר רשמי יותר.",
+      "example": "The fault occurred during the experiment.",
       "reason": "new",
       "position": 3,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
-      "id": "core-0109",
-      "word": "reliable",
-      "part_of_speech": "adjective",
-      "level": "B2",
-      "hebrew": "אמין",
-      "pronunciation_hebrew": "רִילַיְאַבְּל",
-      "explanation_hebrew": "ניתן לסמוך עליו שיפעל או יספק מידע נכון.",
-      "example": "We need a reliable data source.",
-      "reason": "new",
-      "position": 4,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -106,7 +89,7 @@
       "explanation_hebrew": "המידע סביב מילה או אירוע שעוזר להבין אותו.",
       "example": "The context makes the meaning clear.",
       "reason": "new",
-      "position": 5,
+      "position": 4,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -114,50 +97,16 @@
       }
     },
     {
-      "id": "core-0030",
-      "word": "manage",
+      "id": "core-0044",
+      "word": "relate",
       "part_of_speech": "verb",
       "level": "B1",
-      "hebrew": "לנהל / להצליח",
-      "pronunciation_hebrew": "מֶנֶג'",
-      "explanation_hebrew": "לשלוט במשימה או להצליח לבצע דבר קשה.",
-      "example": "She managed to finish the work on time.",
+      "hebrew": "לקשר / להתייחס",
+      "pronunciation_hebrew": "רִילֵייט",
+      "explanation_hebrew": "להראות קשר בין דברים או להתייחס לנושא.",
+      "example": "The questions relate to the article.",
       "reason": "new",
-      "position": 6,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
-      "id": "core-0056",
-      "word": "likely",
-      "part_of_speech": "adjective",
-      "level": "B1",
-      "hebrew": "סביר ש־",
-      "pronunciation_hebrew": "לַיְקְלִי",
-      "explanation_hebrew": "בעל סיכוי גבוה לקרות.",
-      "example": "It is likely to rain this evening.",
-      "reason": "new",
-      "position": 7,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
-      "id": "core-0095",
-      "word": "consistent",
-      "part_of_speech": "adjective",
-      "level": "B2",
-      "hebrew": "עקבי",
-      "pronunciation_hebrew": "קַנְסִיסְטֶנְט",
-      "explanation_hebrew": "נשאר באותה רמה או פועל לפי אותו עיקרון.",
-      "example": "The results are consistent with the theory.",
-      "reason": "new",
-      "position": 8,
+      "position": 5,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -174,6 +123,57 @@
       "explanation_hebrew": "עניין חשוב לדיון או בעיה שדורשת טיפול.",
       "example": "We discussed the main issue at the meeting.",
       "reason": "new",
+      "position": 6,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0079",
+      "word": "policy",
+      "part_of_speech": "noun",
+      "level": "B2",
+      "hebrew": "מדיניות",
+      "pronunciation_hebrew": "פּוֹלִיסִי",
+      "explanation_hebrew": "כלל או תוכנית פעולה של ארגון או ממשלה.",
+      "example": "The company changed its privacy policy.",
+      "reason": "new",
+      "position": 7,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0086",
+      "word": "various",
+      "part_of_speech": "adjective",
+      "level": "B2",
+      "hebrew": "שונים / מגוונים",
+      "pronunciation_hebrew": "וֵרִיאֶס",
+      "explanation_hebrew": "כמה סוגים שונים של דברים.",
+      "example": "The course covers various engineering topics.",
+      "reason": "new",
+      "position": 8,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0109",
+      "word": "reliable",
+      "part_of_speech": "adjective",
+      "level": "B2",
+      "hebrew": "אמין",
+      "pronunciation_hebrew": "רִילַיְאַבְּל",
+      "explanation_hebrew": "ניתן לסמוך עליו שיפעל או יספק מידע נכון.",
+      "example": "We need a reliable data source.",
+      "reason": "new",
       "position": 9,
       "learning_state": {
         "mastery": 0,
@@ -182,14 +182,14 @@
       }
     },
     {
-      "id": "core-0032",
-      "word": "occur",
+      "id": "core-0030",
+      "word": "manage",
       "part_of_speech": "verb",
-      "level": "B2",
-      "hebrew": "להתרחש",
-      "pronunciation_hebrew": "אֶקֶר",
-      "explanation_hebrew": "לקרות, בדרך כלל בהקשר רשמי יותר.",
-      "example": "The fault occurred during the experiment.",
+      "level": "B1",
+      "hebrew": "לנהל / להצליח",
+      "pronunciation_hebrew": "מֶנֶג'",
+      "explanation_hebrew": "לשלוט במשימה או להצליח לבצע דבר קשה.",
+      "example": "She managed to finish the work on time.",
       "reason": "new",
       "position": 10,
       "learning_state": {
