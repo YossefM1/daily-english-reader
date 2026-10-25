@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-25",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Two rescued after Nairobi building collapse with five still missing",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-10-24T17:25:46+00:00",
+  "age_hours_at_selection": 8.82,
+  "word_count": 459,
+  "generated_at": "2026-10-25T02:15:05.939627+00:00",
+  "difficulty_reason": "Short, direct news report with a clear single event and simple structure; mostly B1/B2 vocabulary and little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "rubble",
+      "lemma": "rubble",
+      "level": "B2",
+      "hebrew": "הריסות",
+      "explanation_hebrew": "שאריות של מבנה שנהרס",
+      "pronunciation_hebrew": "רַאבְּל",
+      "example": "Rescuers searched the rubble for survivors."
+    },
+    {
+      "word": "manhunt",
+      "lemma": "manhunt",
+      "level": "C1",
+      "hebrew": "מצוד",
+      "explanation_hebrew": "חיפוש נרחב אחר אדם מבוקש",
+      "pronunciation_hebrew": "מֵאנְהַאנְט",
+      "example": "Police launched a manhunt for the suspect."
+    },
+    {
+      "word": "contractor",
+      "lemma": "contractor",
+      "level": "B2",
+      "hebrew": "קבלן",
+      "explanation_hebrew": "אדם או חברה שמבצעים עבודת בנייה",
+      "pronunciation_hebrew": "קוֹנְטְרַקְטוֹר",
+      "example": "The contractor was blamed for the poor work."
+    },
+    {
+      "word": "footage",
+      "lemma": "footage",
+      "level": "B2",
+      "hebrew": "צילומים",
+      "explanation_hebrew": "קטעי וידאו מצולמים",
+      "pronunciation_hebrew": "פוּטִיג׳",
+      "example": "The footage showed the moment of the crash."
+    },
+    {
+      "word": "storeys",
+      "lemma": "storey",
+      "level": "B1",
+      "hebrew": "קומות",
+      "explanation_hebrew": "רמות או מפלסים בבניין",
+      "pronunciation_hebrew": "סְטוֹרִיז",
+      "example": "The tower had twenty storeys."
+    },
+    {
+      "word": "crumples",
+      "lemma": "crumple",
+      "level": "C1",
+      "hebrew": "קורס",
+      "explanation_hebrew": "נמעך ונופל פנימה",
+      "pronunciation_hebrew": "קְרַאמְפְּלְז",
+      "example": "The paper crumples in his hand."
+    },
+    {
+      "word": "plume",
+      "lemma": "plume",
+      "level": "C1",
+      "hebrew": "תִּמְרָה",
+      "explanation_hebrew": "עמוד של עשן, אבק או אדים",
+      "pronunciation_hebrew": "פְּלוּם",
+      "example": "A plume of smoke rose from the fire."
+    },
+    {
+      "word": "unscathed",
+      "lemma": "unscathed",
+      "level": "C1",
+      "hebrew": "ללא פגע",
+      "explanation_hebrew": "בלי להיפגע כלל",
+      "pronunciation_hebrew": "אַנְסְקֵיְדְד",
+      "example": "He walked away from the crash unscathed."
+    },
+    {
+      "word": "incident",
+      "lemma": "incident",
+      "level": "B1",
+      "hebrew": "תקרית",
+      "explanation_hebrew": "אירוע, לרוב לא נעים",
+      "pronunciation_hebrew": "אִינְסִידֶנְט",
+      "example": "The incident was reported to the police."
+    },
+    {
+      "word": "concerns",
+      "lemma": "concern",
+      "level": "B1",
+      "hebrew": "חששות",
+      "explanation_hebrew": "דאגות או ספקות",
+      "pronunciation_hebrew": "קוֹנְסֶרְנְז",
+      "example": "The report raised safety concerns."
+    },
+    {
+      "word": "regulations",
+      "lemma": "regulation",
+      "level": "B2",
+      "hebrew": "תקנות",
+      "explanation_hebrew": "כללים רשמיים שיש לציית להם",
+      "pronunciation_hebrew": "רֶגְיוּלֵיְשֶׁנְז",
+      "example": "The factory broke safety regulations."
+    },
+    {
+      "word": "scaffolding",
+      "lemma": "scaffolding",
+      "level": "C1",
+      "hebrew": "פיגומים",
+      "explanation_hebrew": "מבנה זמני לתמיכה בעובדי בניין",
+      "pronunciation_hebrew": "סְקַאפוֹלְדִינְג",
+      "example": "Workers climbed the scaffolding."
+    },
+    {
+      "word": "wrapped",
+      "lemma": "wrap",
+      "level": "B1",
+      "hebrew": "עטוף",
+      "explanation_hebrew": "מכוסה סביב משהו",
+      "pronunciation_hebrew": "רַאפְּט",
+      "example": "The parcel was wrapped in paper."
+    },
+    {
+      "word": "officials",
+      "lemma": "official",
+      "level": "B2",
+      "hebrew": "פקידים",
+      "explanation_hebrew": "נושאי תפקיד רשמי",
+      "pronunciation_hebrew": "אוֹפִישֶׁלְז",
+      "example": "Officials visited the site after the collapse."
+    },
+    {
+      "word": "unharmed",
+      "lemma": "unharmed",
+      "level": "B2",
+      "hebrew": "ללא פגיעה",
+      "explanation_hebrew": "בלי להינזק",
+      "pronunciation_hebrew": "אַנְהַארְמְד",
+      "example": "The children were found unharmed."
+    },
+    {
+      "word": "injuries",
+      "lemma": "injury",
+      "level": "B1",
+      "hebrew": "פציעות",
+      "explanation_hebrew": "נזקים גופניים",
+      "pronunciation_hebrew": "אִינְג׳וּרִיז",
+      "example": "Several people suffered minor injuries."
+    },
+    {
+      "word": "survivors",
+      "lemma": "survivor",
+      "level": "B2",
+      "hebrew": "ניצולים",
+      "explanation_hebrew": "אנשים שנשארו בחיים",
+      "pronunciation_hebrew": "סֶרְוַיְוֶרְז",
+      "example": "The survivors were taken to hospital."
+    },
+    {
+      "word": "concrete",
+      "lemma": "concrete",
+      "level": "B1",
+      "hebrew": "בטון",
+      "explanation_hebrew": "חומר בנייה קשה",
+      "pronunciation_hebrew": "קוֹנְקְרִיט",
+      "example": "The floor was made of concrete."
+    },
+    {
+      "word": "piled",
+      "lemma": "pile",
+      "level": "B2",
+      "hebrew": "נערם",
+      "explanation_hebrew": "הונח זה על גבי זה בערימה",
+      "pronunciation_hebrew": "פַּיְלְד",
+      "example": "Boxes were piled against the wall."
+    },
+    {
+      "word": "emerged",
+      "lemma": "emerge",
+      "level": "B2",
+      "hebrew": "צץ",
+      "explanation_hebrew": "הופיע או התברר",
+      "pronunciation_hebrew": "אִימֶרְג׳ְד",
+      "example": "New questions have emerged about the cause."
+    },
+    {
+      "word": "negligence",
+      "lemma": "negligence",
+      "level": "C1",
+      "hebrew": "רשלנות",
+      "explanation_hebrew": "חוסר תשומת לב שגורם נזק",
+      "pronunciation_hebrew": "נֶגְלִיגֶ'נְס",
+      "example": "The company was accused of negligence."
+    },
+    {
+      "word": "violating",
+      "lemma": "violate",
+      "level": "C1",
+      "hebrew": "מֵפֵר",
+      "explanation_hebrew": "עובר על חוק או כלל",
+      "pronunciation_hebrew": "וַיְאוֹלֵיְטִינְג",
+      "example": "He was fined for violating the rules."
+    },
+    {
+      "word": "urged",
+      "lemma": "urge",
+      "level": "B2",
+      "hebrew": "קרא ל־",
+      "explanation_hebrew": "המריץ בתוקף לעשות משהו",
+      "pronunciation_hebrew": "אֶרְג'ְד",
+      "example": "Officials urged people to stay away."
+    },
+    {
+      "word": "penalise",
+      "lemma": "penalise",
+      "level": "C1",
+      "hebrew": "להעניש",
+      "explanation_hebrew": "להטיל עונש",
+      "pronunciation_hebrew": "פֶּנַלַיְז",
+      "example": "The law can penalise unsafe builders."
+    },
+    {
+      "word": "disregard",
+      "lemma": "disregard",
+      "level": "C1",
+      "hebrew": "התעלמות",
+      "explanation_hebrew": "אי-התחשבות או זלזול",
+      "pronunciation_hebrew": "דִיסְרִיגַארְד",
+      "example": "They acted with total disregard for safety."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "rubble",
+      "type": "english_to_hebrew",
+      "question": "What does “rubble” mean?",
+      "options": [
+        "הריסות",
+        "מצוד",
+        "צילומים",
+        "קבלן"
+      ],
+      "correct_answer": "הריסות",
+      "explanation_hebrew": "“rubble” פירושו הריסות."
+    },
+    {
+      "id": "A-q2",
+      "word": "manhunt",
+      "type": "english_to_hebrew",
+      "question": "What does “manhunt” mean?",
+      "options": [
+        "צילומים",
+        "קומות",
+        "קבלן",
+        "מצוד"
+      ],
+      "correct_answer": "מצוד",
+      "explanation_hebrew": "“manhunt” פירושו מצוד."
+    },
+    {
+      "id": "A-q3",
+      "word": "contractor",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “קבלן”?",
+      "options": [
+        "contractor",
+        "footage",
+        "storeys",
+        "crumples"
+      ],
+      "correct_answer": "contractor",
+      "explanation_hebrew": "המילה “contractor” פירושה קבלן."
+    },
+    {
+      "id": "A-q4",
+      "word": "footage",
+      "type": "english_to_hebrew",
+      "question": "What does “footage” mean?",
+      "options": [
+        "צילומים",
+        "קומות",
+        "תִּמְרָה",
+        "קורס"
+      ],
+      "correct_answer": "צילומים",
+      "explanation_hebrew": "“footage” פירושו צילומים."
+    },
+    {
+      "id": "A-q5",
+      "word": "storeys",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “קומות”?",
+      "options": [
+        "unscathed",
+        "crumples",
+        "storeys",
+        "plume"
+      ],
+      "correct_answer": "storeys",
+      "explanation_hebrew": "המילה “storeys” פירושה קומות."
+    },
+    {
+      "id": "A-q6",
+      "word": "crumples",
+      "type": "english_to_hebrew",
+      "question": "What does “crumples” mean?",
+      "options": [
+        "קורס",
+        "תקרית",
+        "ללא פגע",
+        "תִּמְרָה"
+      ],
+      "correct_answer": "קורס",
+      "explanation_hebrew": "“crumples” פירושו קורס."
+    },
+    {
+      "id": "A-q7",
+      "word": "plume",
+      "type": "english_to_hebrew",
+      "question": "What does “plume” mean?",
+      "options": [
+        "חששות",
+        "תִּמְרָה",
+        "ללא פגע",
+        "תקרית"
+      ],
+      "correct_answer": "תִּמְרָה",
+      "explanation_hebrew": "“plume” פירושו תִּמְרָה."
+    },
+    {
+      "id": "A-q8",
+      "word": "unscathed",
+      "type": "english_to_hebrew",
+      "question": "What does “unscathed” mean?",
+      "options": [
+        "חששות",
+        "תקנות",
+        "ללא פגע",
+        "תקרית"
+      ],
+      "correct_answer": "ללא פגע",
+      "explanation_hebrew": "“unscathed” פירושו ללא פגע."
+    },
+    {
+      "id": "A-q9",
+      "word": "incident",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “תקרית”?",
+      "options": [
+        "regulations",
+        "incident",
+        "scaffolding",
+        "concerns"
+      ],
+      "correct_answer": "incident",
+      "explanation_hebrew": "המילה “incident” פירושה תקרית."
+    },
+    {
+      "id": "A-q10",
+      "word": "concerns",
+      "type": "english_to_hebrew",
+      "question": "What does “concerns” mean?",
+      "options": [
+        "תקנות",
+        "עטוף",
+        "חששות",
+        "פיגומים"
+      ],
+      "correct_answer": "חששות",
+      "explanation_hebrew": "“concerns” פירושו חששות."
+    },
+    {
+      "id": "A-q11",
+      "word": "regulations",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “תקנות”?",
+      "options": [
+        "officials",
+        "regulations",
+        "scaffolding",
+        "wrapped"
+      ],
+      "correct_answer": "regulations",
+      "explanation_hebrew": "המילה “regulations” פירושה תקנות."
+    },
+    {
+      "id": "A-q12",
+      "word": "scaffolding",
+      "type": "english_to_hebrew",
+      "question": "What does “scaffolding” mean?",
+      "options": [
+        "ללא פגיעה",
+        "עטוף",
+        "פקידים",
+        "פיגומים"
+      ],
+      "correct_answer": "פיגומים",
+      "explanation_hebrew": "“scaffolding” פירושו פיגומים."
+    },
+    {
+      "id": "A-q13",
+      "word": "wrapped",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “עטוף”?",
+      "options": [
+        "injuries",
+        "officials",
+        "wrapped",
+        "unharmed"
+      ],
+      "correct_answer": "wrapped",
+      "explanation_hebrew": "המילה “wrapped” פירושה עטוף."
+    },
+    {
+      "id": "A-q14",
+      "word": "officials",
+      "type": "english_to_hebrew",
+      "question": "What does “officials” mean?",
+      "options": [
+        "ללא פגיעה",
+        "פציעות",
+        "פקידים",
+        "ניצולים"
+      ],
+      "correct_answer": "פקידים",
+      "explanation_hebrew": "“officials” פירושו פקידים."
+    },
+    {
+      "id": "A-q15",
+      "word": "unharmed",
+      "type": "english_to_hebrew",
+      "question": "What does “unharmed” mean?",
+      "options": [
+        "פציעות",
+        "בטון",
+        "ללא פגיעה",
+        "ניצולים"
+      ],
+      "correct_answer": "ללא פגיעה",
+      "explanation_hebrew": "“unharmed” פירושו ללא פגיעה."
+    },
+    {
+      "id": "A-q16",
+      "word": "injuries",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “פציעות”?",
+      "options": [
+        "injuries",
+        "concrete",
+        "piled",
+        "survivors"
+      ],
+      "correct_answer": "injuries",
+      "explanation_hebrew": "המילה “injuries” פירושה פציעות."
+    },
+    {
+      "id": "A-q17",
+      "word": "survivors",
+      "type": "english_to_hebrew",
+      "question": "What does “survivors” mean?",
+      "options": [
+        "ניצולים",
+        "בטון",
+        "נערם",
+        "צץ"
+      ],
+      "correct_answer": "ניצולים",
+      "explanation_hebrew": "“survivors” פירושו ניצולים."
+    },
+    {
+      "id": "A-q18",
+      "word": "concrete",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “בטון”?",
+      "options": [
+        "negligence",
+        "emerged",
+        "concrete",
+        "piled"
+      ],
+      "correct_answer": "concrete",
+      "explanation_hebrew": "המילה “concrete” פירושה בטון."
+    },
+    {
+      "id": "A-q19",
+      "word": "piled",
+      "type": "english_to_hebrew",
+      "question": "What does “piled” mean?",
+      "options": [
+        "נערם",
+        "מֵפֵר",
+        "רשלנות",
+        "צץ"
+      ],
+      "correct_answer": "נערם",
+      "explanation_hebrew": "“piled” פירושו נערם."
+    },
+    {
+      "id": "A-q20",
+      "word": "emerged",
+      "type": "english_to_hebrew",
+      "question": "What does “emerged” mean?",
+      "options": [
+        "רשלנות",
+        "צץ",
+        "מֵפֵר",
+        "קרא ל־"
+      ],
+      "correct_answer": "צץ",
+      "explanation_hebrew": "“emerged” פירושו צץ."
+    },
+    {
+      "id": "A-q21",
+      "word": "negligence",
+      "type": "english_to_hebrew",
+      "question": "What does “negligence” mean?",
+      "options": [
+        "להעניש",
+        "קרא ל־",
+        "רשלנות",
+        "מֵפֵר"
+      ],
+      "correct_answer": "רשלנות",
+      "explanation_hebrew": "“negligence” פירושו רשלנות."
+    },
+    {
+      "id": "A-q22",
+      "word": "violating",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “מֵפֵר”?",
+      "options": [
+        "violating",
+        "penalise",
+        "urged",
+        "disregard"
+      ],
+      "correct_answer": "violating",
+      "explanation_hebrew": "המילה “violating” פירושה מֵפֵר."
+    },
+    {
+      "id": "A-q23",
+      "word": "urged",
+      "type": "english_to_hebrew",
+      "question": "What does “urged” mean?",
+      "options": [
+        "התעלמות",
+        "הריסות",
+        "קרא ל־",
+        "להעניש"
+      ],
+      "correct_answer": "קרא ל־",
+      "explanation_hebrew": "“urged” פירושו קרא ל־."
+    },
+    {
+      "id": "A-q24",
+      "word": "penalise",
+      "type": "english_to_hebrew",
+      "question": "What does “penalise” mean?",
+      "options": [
+        "מצוד",
+        "התעלמות",
+        "הריסות",
+        "להעניש"
+      ],
+      "correct_answer": "להעניש",
+      "explanation_hebrew": "“penalise” פירושו להעניש."
+    },
+    {
+      "id": "A-q25",
+      "word": "disregard",
+      "type": "english_to_hebrew",
+      "question": "What does “disregard” mean?",
+      "options": [
+        "הריסות",
+        "קבלן",
+        "מצוד",
+        "התעלמות"
+      ],
+      "correct_answer": "התעלמות",
+      "explanation_hebrew": "“disregard” פירושו התעלמות."
+    }
+  ]
+}

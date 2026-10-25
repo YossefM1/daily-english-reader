@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-25",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Donegal: Brown bears adjusting to new life in Irish countryside",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-10-24T23:02:51+00:00",
+  "age_hours_at_selection": 3.2,
+  "word_count": 874,
+  "generated_at": "2026-10-25T02:15:05.939627+00:00",
+  "difficulty_reason": "A longer human-interest feature with varied sentences and some narrative detail; useful B1/B2/C1 vocabulary and moderate background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "cramped",
+      "lemma": "cramped",
+      "level": "B2",
+      "hebrew": "צפוף",
+      "explanation_hebrew": "מצומצם ודחוס מדי",
+      "pronunciation_hebrew": "קְרַאמְפְּט",
+      "example": "They lived in a cramped flat."
+    },
+    {
+      "word": "sanctuary",
+      "lemma": "sanctuary",
+      "level": "C1",
+      "hebrew": "מקלט",
+      "explanation_hebrew": "מקום מוגן לבעלי חיים",
+      "pronunciation_hebrew": "סַנְקְצ'וּאֶרִי",
+      "example": "The birds live in a wildlife sanctuary."
+    },
+    {
+      "word": "remarkable",
+      "lemma": "remarkable",
+      "level": "B2",
+      "hebrew": "יוצא דופן",
+      "explanation_hebrew": "ראוי לתשומת לב מיוחדת",
+      "pronunciation_hebrew": "רִימַארְקֶבְּל",
+      "example": "It was a remarkable recovery."
+    },
+    {
+      "word": "spanned",
+      "lemma": "span",
+      "level": "C1",
+      "hebrew": "נמשך",
+      "explanation_hebrew": "השתרע על פני תקופה או מרחב",
+      "pronunciation_hebrew": "סְפַּאנְד",
+      "example": "The project spanned five years."
+    },
+    {
+      "word": "disrupted",
+      "lemma": "disrupt",
+      "level": "B2",
+      "hebrew": "שובש",
+      "explanation_hebrew": "הופרע או נעצר",
+      "pronunciation_hebrew": "דִיסְרַאפְּטֶד",
+      "example": "The storm disrupted the flights."
+    },
+    {
+      "word": "confined",
+      "lemma": "confine",
+      "level": "C1",
+      "hebrew": "כלוא",
+      "explanation_hebrew": "מוגבל למקום צר",
+      "pronunciation_hebrew": "קוֹנְפַיְנְד",
+      "example": "The animal was confined to a cage."
+    },
+    {
+      "word": "upright",
+      "lemma": "upright",
+      "level": "B2",
+      "hebrew": "זקוף",
+      "explanation_hebrew": "במצב ישר ואנכי",
+      "pronunciation_hebrew": "אַפְּרַיְט",
+      "example": "He could not stand upright."
+    },
+    {
+      "word": "malnourished",
+      "lemma": "malnourished",
+      "level": "C1",
+      "hebrew": "סובל מתת-תזונה",
+      "explanation_hebrew": "לא ניזון כראוי",
+      "pronunciation_hebrew": "מַלְנַארִישְׁט",
+      "example": "The rescued dog was thin and malnourished."
+    },
+    {
+      "word": "psychological",
+      "lemma": "psychological",
+      "level": "B2",
+      "hebrew": "נפשי",
+      "explanation_hebrew": "הקשור לנפש ולמחשבה",
+      "pronunciation_hebrew": "סַיְקוֹלוֹג'יקל",
+      "example": "She needed psychological support."
+    },
+    {
+      "word": "trauma",
+      "lemma": "trauma",
+      "level": "B2",
+      "hebrew": "טראומה",
+      "explanation_hebrew": "פגיעה נפשית עמוקה",
+      "pronunciation_hebrew": "טְרוֹמָה",
+      "example": "The accident left deep trauma."
+    },
+    {
+      "word": "prolonged",
+      "lemma": "prolonged",
+      "level": "C1",
+      "hebrew": "ממושך",
+      "explanation_hebrew": "נמשך זמן רב",
+      "pronunciation_hebrew": "פְּרוֹלוֹנְגְד",
+      "example": "A prolonged drought hurt the crops."
+    },
+    {
+      "word": "dehydration",
+      "lemma": "dehydration",
+      "level": "C1",
+      "hebrew": "התייבשות",
+      "explanation_hebrew": "חוסר מים בגוף",
+      "pronunciation_hebrew": "דִיהַיְדְרֵיְשֶׁן",
+      "example": "Dehydration can be dangerous in heat."
+    },
+    {
+      "word": "invasion",
+      "lemma": "invasion",
+      "level": "B2",
+      "hebrew": "פלישה",
+      "explanation_hebrew": "כניסה בכוח לשטח של אחר",
+      "pronunciation_hebrew": "אִינְוֵיְז'ֶן",
+      "example": "The invasion forced families to flee."
+    },
+    {
+      "word": "escalating",
+      "lemma": "escalate",
+      "level": "C1",
+      "hebrew": "מסלים",
+      "explanation_hebrew": "הולך ומחמיר",
+      "pronunciation_hebrew": "אֶסְקַלֵיְטִינְג",
+      "example": "The escalating conflict closed the border."
+    },
+    {
+      "word": "airspace",
+      "lemma": "airspace",
+      "level": "C1",
+      "hebrew": "מרחב אווירי",
+      "explanation_hebrew": "השמיים מעל מדינה",
+      "pronunciation_hebrew": "אֵרְסְפֵּייְס",
+      "example": "The airspace was closed to flights."
+    },
+    {
+      "word": "volunteers",
+      "lemma": "volunteer",
+      "level": "B1",
+      "hebrew": "מתנדבים",
+      "explanation_hebrew": "אנשים שעוזרים ללא תשלום",
+      "pronunciation_hebrew": "ווֹלַנְטִירְז",
+      "example": "Many volunteers helped in the rescue."
+    },
+    {
+      "word": "embarked",
+      "lemma": "embark",
+      "level": "C1",
+      "hebrew": "יצא לדרך",
+      "explanation_hebrew": "התחיל מסע או משימה",
+      "pronunciation_hebrew": "אִימְבַּארְקְט",
+      "example": "They embarked on a long journey."
+    },
+    {
+      "word": "sedated",
+      "lemma": "sedate",
+      "level": "C1",
+      "hebrew": "הורדם",
+      "explanation_hebrew": "הורגע בתרופה",
+      "pronunciation_hebrew": "סֶדֵיְטֶד",
+      "example": "The bear was sedated before the flight."
+    },
+    {
+      "word": "quarantine",
+      "lemma": "quarantine",
+      "level": "B2",
+      "hebrew": "הסגר",
+      "explanation_hebrew": "בידוד למניעת מחלות",
+      "pronunciation_hebrew": "קְווֹרַנְטִין",
+      "example": "The animals underwent quarantine."
+    },
+    {
+      "word": "habitat",
+      "lemma": "habitat",
+      "level": "B2",
+      "hebrew": "בית גידול",
+      "explanation_hebrew": "הסביבה הטבעית של בעל חיים",
+      "pronunciation_hebrew": "הַבִּיטַט",
+      "example": "The forest is their natural habitat."
+    },
+    {
+      "word": "sheltered",
+      "lemma": "sheltered",
+      "level": "B2",
+      "hebrew": "מוגן",
+      "explanation_hebrew": "מוגן מפני מזג אוויר או סכנה",
+      "pronunciation_hebrew": "שֶׁלְטֶרְד",
+      "example": "They rested in a sheltered spot."
+    },
+    {
+      "word": "retreat",
+      "lemma": "retreat",
+      "level": "B2",
+      "hebrew": "לסגת",
+      "explanation_hebrew": "לסגת או למצוא מחסה",
+      "pronunciation_hebrew": "רִיטְרִיט",
+      "example": "The bears can retreat into the trees."
+    },
+    {
+      "word": "forage",
+      "lemma": "forage",
+      "level": "C1",
+      "hebrew": "לחפש מזון",
+      "explanation_hebrew": "לחפש אוכל בטבע",
+      "pronunciation_hebrew": "פוֹרִג'",
+      "example": "The animals forage for berries."
+    },
+    {
+      "word": "glimpse",
+      "lemma": "glimpse",
+      "level": "B2",
+      "hebrew": "הצצה",
+      "explanation_hebrew": "מבט חטוף",
+      "pronunciation_hebrew": "גְּלִימְפְּס",
+      "example": "We caught a glimpse of the bears."
+    },
+    {
+      "word": "blistering",
+      "lemma": "blistering",
+      "level": "C1",
+      "hebrew": "לוהט",
+      "explanation_hebrew": "חם מאוד ומכאיב",
+      "pronunciation_hebrew": "בְּלִיסְטֶרִינְג",
+      "example": "They worked in the blistering heat."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "cramped",
+      "type": "english_to_hebrew",
+      "question": "What does “cramped” mean?",
+      "options": [
+        "נמשך",
+        "מקלט",
+        "יוצא דופן",
+        "צפוף"
+      ],
+      "correct_answer": "צפוף",
+      "explanation_hebrew": "“cramped” פירושו צפוף."
+    },
+    {
+      "id": "B-q2",
+      "word": "sanctuary",
+      "type": "english_to_hebrew",
+      "question": "What does “sanctuary” mean?",
+      "options": [
+        "נמשך",
+        "שובש",
+        "מקלט",
+        "יוצא דופן"
+      ],
+      "correct_answer": "מקלט",
+      "explanation_hebrew": "“sanctuary” פירושו מקלט."
+    },
+    {
+      "id": "B-q3",
+      "word": "remarkable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “יוצא דופן”?",
+      "options": [
+        "confined",
+        "spanned",
+        "remarkable",
+        "disrupted"
+      ],
+      "correct_answer": "remarkable",
+      "explanation_hebrew": "המילה “remarkable” פירושה יוצא דופן."
+    },
+    {
+      "id": "B-q4",
+      "word": "spanned",
+      "type": "english_to_hebrew",
+      "question": "What does “spanned” mean?",
+      "options": [
+        "זקוף",
+        "שובש",
+        "כלוא",
+        "נמשך"
+      ],
+      "correct_answer": "נמשך",
+      "explanation_hebrew": "“spanned” פירושו נמשך."
+    },
+    {
+      "id": "B-q5",
+      "word": "disrupted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “שובש”?",
+      "options": [
+        "malnourished",
+        "disrupted",
+        "upright",
+        "confined"
+      ],
+      "correct_answer": "disrupted",
+      "explanation_hebrew": "המילה “disrupted” פירושה שובש."
+    },
+    {
+      "id": "B-q6",
+      "word": "confined",
+      "type": "english_to_hebrew",
+      "question": "What does “confined” mean?",
+      "options": [
+        "נפשי",
+        "סובל מתת-תזונה",
+        "כלוא",
+        "זקוף"
+      ],
+      "correct_answer": "כלוא",
+      "explanation_hebrew": "“confined” פירושו כלוא."
+    },
+    {
+      "id": "B-q7",
+      "word": "upright",
+      "type": "english_to_hebrew",
+      "question": "What does “upright” mean?",
+      "options": [
+        "טראומה",
+        "זקוף",
+        "נפשי",
+        "סובל מתת-תזונה"
+      ],
+      "correct_answer": "זקוף",
+      "explanation_hebrew": "“upright” פירושו זקוף."
+    },
+    {
+      "id": "B-q8",
+      "word": "malnourished",
+      "type": "english_to_hebrew",
+      "question": "What does “malnourished” mean?",
+      "options": [
+        "סובל מתת-תזונה",
+        "נפשי",
+        "ממושך",
+        "טראומה"
+      ],
+      "correct_answer": "סובל מתת-תזונה",
+      "explanation_hebrew": "“malnourished” פירושו סובל מתת-תזונה."
+    },
+    {
+      "id": "B-q9",
+      "word": "psychological",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “נפשי”?",
+      "options": [
+        "dehydration",
+        "prolonged",
+        "trauma",
+        "psychological"
+      ],
+      "correct_answer": "psychological",
+      "explanation_hebrew": "המילה “psychological” פירושה נפשי."
+    },
+    {
+      "id": "B-q10",
+      "word": "trauma",
+      "type": "english_to_hebrew",
+      "question": "What does “trauma” mean?",
+      "options": [
+        "טראומה",
+        "פלישה",
+        "התייבשות",
+        "ממושך"
+      ],
+      "correct_answer": "טראומה",
+      "explanation_hebrew": "“trauma” פירושו טראומה."
+    },
+    {
+      "id": "B-q11",
+      "word": "prolonged",
+      "type": "english_to_hebrew",
+      "question": "What does “prolonged” mean?",
+      "options": [
+        "פלישה",
+        "מסלים",
+        "התייבשות",
+        "ממושך"
+      ],
+      "correct_answer": "ממושך",
+      "explanation_hebrew": "“prolonged” פירושו ממושך."
+    },
+    {
+      "id": "B-q12",
+      "word": "dehydration",
+      "type": "english_to_hebrew",
+      "question": "What does “dehydration” mean?",
+      "options": [
+        "התייבשות",
+        "מסלים",
+        "מרחב אווירי",
+        "פלישה"
+      ],
+      "correct_answer": "התייבשות",
+      "explanation_hebrew": "“dehydration” פירושו התייבשות."
+    },
+    {
+      "id": "B-q13",
+      "word": "invasion",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “פלישה”?",
+      "options": [
+        "airspace",
+        "invasion",
+        "volunteers",
+        "escalating"
+      ],
+      "correct_answer": "invasion",
+      "explanation_hebrew": "המילה “invasion” פירושה פלישה."
+    },
+    {
+      "id": "B-q14",
+      "word": "escalating",
+      "type": "english_to_hebrew",
+      "question": "What does “escalating” mean?",
+      "options": [
+        "מרחב אווירי",
+        "מתנדבים",
+        "מסלים",
+        "יצא לדרך"
+      ],
+      "correct_answer": "מסלים",
+      "explanation_hebrew": "“escalating” פירושו מסלים."
+    },
+    {
+      "id": "B-q15",
+      "word": "airspace",
+      "type": "english_to_hebrew",
+      "question": "What does “airspace” mean?",
+      "options": [
+        "הורדם",
+        "מרחב אווירי",
+        "יצא לדרך",
+        "מתנדבים"
+      ],
+      "correct_answer": "מרחב אווירי",
+      "explanation_hebrew": "“airspace” פירושו מרחב אווירי."
+    },
+    {
+      "id": "B-q16",
+      "word": "volunteers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “מתנדבים”?",
+      "options": [
+        "volunteers",
+        "quarantine",
+        "embarked",
+        "sedated"
+      ],
+      "correct_answer": "volunteers",
+      "explanation_hebrew": "המילה “volunteers” פירושה מתנדבים."
+    },
+    {
+      "id": "B-q17",
+      "word": "embarked",
+      "type": "english_to_hebrew",
+      "question": "What does “embarked” mean?",
+      "options": [
+        "בית גידול",
+        "הסגר",
+        "הורדם",
+        "יצא לדרך"
+      ],
+      "correct_answer": "יצא לדרך",
+      "explanation_hebrew": "“embarked” פירושו יצא לדרך."
+    },
+    {
+      "id": "B-q18",
+      "word": "sedated",
+      "type": "english_to_hebrew",
+      "question": "What does “sedated” mean?",
+      "options": [
+        "הורדם",
+        "מוגן",
+        "הסגר",
+        "בית גידול"
+      ],
+      "correct_answer": "הורדם",
+      "explanation_hebrew": "“sedated” פירושו הורדם."
+    },
+    {
+      "id": "B-q19",
+      "word": "quarantine",
+      "type": "english_to_hebrew",
+      "question": "What does “quarantine” mean?",
+      "options": [
+        "מוגן",
+        "הסגר",
+        "בית גידול",
+        "לסגת"
+      ],
+      "correct_answer": "הסגר",
+      "explanation_hebrew": "“quarantine” פירושו הסגר."
+    },
+    {
+      "id": "B-q20",
+      "word": "habitat",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעותה “בית גידול”?",
+      "options": [
+        "sheltered",
+        "retreat",
+        "habitat",
+        "forage"
+      ],
+      "correct_answer": "habitat",
+      "explanation_hebrew": "המילה “habitat” פירושה בית גידול."
+    },
+    {
+      "id": "B-q21",
+      "word": "sheltered",
+      "type": "english_to_hebrew",
+      "question": "What does “sheltered” mean?",
+      "options": [
+        "לחפש מזון",
+        "לסגת",
+        "הצצה",
+        "מוגן"
+      ],
+      "correct_answer": "מוגן",
+      "explanation_hebrew": "“sheltered” פירושו מוגן."
+    },
+    {
+      "id": "B-q22",
+      "word": "retreat",
+      "type": "english_to_hebrew",
+      "question": "What does “retreat” mean?",
+      "options": [
+        "הצצה",
+        "לוהט",
+        "לסגת",
+        "לחפש מזון"
+      ],
+      "correct_answer": "לסגת",
+      "explanation_hebrew": "“retreat” פירושו לסגת."
+    },
+    {
+      "id": "B-q23",
+      "word": "forage",
+      "type": "english_to_hebrew",
+      "question": "What does “forage” mean?",
+      "options": [
+        "צפוף",
+        "הצצה",
+        "לחפש מזון",
+        "לוהט"
+      ],
+      "correct_answer": "לחפש מזון",
+      "explanation_hebrew": "“forage” פירושו לחפש מזון."
+    },
+    {
+      "id": "B-q24",
+      "word": "glimpse",
+      "type": "english_to_hebrew",
+      "question": "What does “glimpse” mean?",
+      "options": [
+        "מקלט",
+        "צפוף",
+        "הצצה",
+        "לוהט"
+      ],
+      "correct_answer": "הצצה",
+      "explanation_hebrew": "“glimpse” פירושו הצצה."
+    },
+    {
+      "id": "B-q25",
+      "word": "blistering",
+      "type": "english_to_hebrew",
+      "question": "What does “blistering” mean?",
+      "options": [
+        "צפוף",
+        "יוצא דופן",
+        "מקלט",
+        "לוהט"
+      ],
+      "correct_answer": "לוהט",
+      "explanation_hebrew": "“blistering” פירושו לוהט."
+    }
+  ]
+}
