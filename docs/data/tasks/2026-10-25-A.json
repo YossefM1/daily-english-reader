@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-25",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Two rescued after Nairobi building collapse with five still missing",
+  "article_url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main news in the article?",
+      "difficulty": "A",
+      "options": [
+        "Two people were rescued after a Nairobi building collapsed, while five remained missing.",
+        "A finished Nairobi shopping centre was closed for repairs.",
+        "All construction workers in Nairobi began a strike.",
+        "Kenya opened a new emergency hospital in Eastleigh."
+      ],
+      "correct_answer": "Two people were rescued after a Nairobi building collapsed, while five remained missing.",
+      "explanation_hebrew": "הכתבה מתמקדת בחילוץ שני אנשים בחיים מהריסות בניין בניירובי, בזמן שהחיפוש אחר חמישה נעדרים נמשך."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where were the people still missing believed to have been?",
+      "difficulty": "A",
+      "options": [
+        "On the roof",
+        "In shops at the base of the building",
+        "In a nearby police station",
+        "Inside construction vehicles"
+      ],
+      "correct_answer": "In shops at the base of the building",
+      "explanation_hebrew": "לפי הכתבה, הנעדרים היו כנראה בחנויות שפעלו בקומות התחתונות של הבניין."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many of the 67 construction workers escaped unharmed?",
+      "difficulty": "A",
+      "options": [
+        "Five",
+        "Eleven",
+        "Sixty-six",
+        "All sixty-seven"
+      ],
+      "correct_answer": "Sixty-six",
+      "explanation_hebrew": "בכיר במשרד הפנים מסר כי 66 מתוך 67 עובדי הבנייה יצאו ללא פגע, והעובד הנוסף נפצע פציעה שאינה מסכנת חיים."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who were police searching for after the collapse?",
+      "difficulty": "A",
+      "options": [
+        "Two rescued shoppers",
+        "The Nairobi governor and a police officer",
+        "The architect and every shop worker",
+        "The building's owner and the site contractor"
+      ],
+      "correct_answer": "The building's owner and the site contractor",
+      "explanation_hebrew": "המשטרה פתחה במצוד אחר בעל הבניין והקבלן שהיה אחראי לאתר."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “rubble” mean?",
+      "difficulty": "A",
+      "options": [
+        "Broken pieces left after a building is destroyed",
+        "Official papers for a construction project",
+        "Equipment used to build scaffolding",
+        "A group of rescue workers"
+      ],
+      "correct_answer": "Broken pieces left after a building is destroyed",
+      "explanation_hebrew": "המילה rubble פירושה שברי בטון וחומרים אחרים שנותרו לאחר קריסת מבנה."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the collapse raise wider concerns in Kenya?",
+      "difficulty": "A",
+      "options": [
+        "The building was the tallest in Africa.",
+        "Rescue teams refused to enter Eastleigh.",
+        "It happened during a national holiday.",
+        "It renewed questions about construction standards, planning and enforcement."
+      ],
+      "correct_answer": "It renewed questions about construction standards, planning and enforcement.",
+      "explanation_hebrew": "האירוע עורר שוב דאגה לגבי איכות הבנייה, עמידה בתקנות והיכולת לאכוף תכניות ובטיחות."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two details showing that the building was still under construction when it collapsed.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני פרטים מדויקים המעידים שהעבודות בבניין טרם הסתיימו.",
+      "expected_points": [
+        "Scaffolding was still wrapped around the outside.",
+        "Dozens of builders were working on the upper floors.",
+        "The block was explicitly described as being under construction."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the collapse, the rescue situation and the police response in 2–3 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את הקריסה בניירובי, שני המחולצים וחמשת הנעדרים, וכן את החקירה או המצוד אחר האחראים.",
+      "expected_points": [
+        "A 16- or 18-storey building under construction collapsed in Nairobi's Eastleigh area.",
+        "Two people were rescued alive and five were still missing.",
+        "Police began investigating the cause and searching for the owner and contractor."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why did officials focus on paperwork and building regulations after the collapse? Use two facts from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הקשר בין חוסר האישורים, שאלות על בדיקת האתר והחשד לרשלנות או הפרת תקנות.",
+      "expected_points": [
+        "Eleven shops had already opened on the lower floors.",
+        "The governor said the owners lacked the required paperwork for occupation.",
+        "The construction authority did not say whether the site had been inspected.",
+        "Police were examining possible negligence or building-rule violations."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short factual news update about the rescue. Include the location, the number rescued and the number still missing.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב עדכון חדשותי קצר ומדויק ללא השערות, ולכלול מקום ושלושת הנתונים המבוקשים.",
+      "expected_points": [
+        "Identifies Nairobi or Eastleigh as the location.",
+        "States that two people were rescued alive.",
+        "States that five people remained missing.",
+        "Uses a clear, neutral news style."
+      ]
+    }
+  ]
+}

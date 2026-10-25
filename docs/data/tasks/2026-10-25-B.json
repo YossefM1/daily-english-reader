@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-25",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Donegal: Brown bears adjusting to new life in Irish countryside",
+  "article_url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "A plan to return Irish bears to Russia",
+        "The difficult five-year rescue of Bu and Tyapa and their recovery at a Donegal sanctuary",
+        "A new circus opening in County Donegal",
+        "A study comparing wild bears and zoo animals"
+      ],
+      "correct_answer": "The difficult five-year rescue of Bu and Tyapa and their recovery at a Donegal sanctuary",
+      "explanation_hebrew": "הכתבה עוסקת במסע החילוץ המורכב של בו וטיאפה מרוסיה ובהסתגלות ובהחלמה שלהם במקלט Wild Ireland בדוניגול."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What serious health problem did blood tests reveal after the bears were rescued?",
+      "difficulty": "B",
+      "options": [
+        "Broken bones",
+        "Kidney problems linked to long-term dehydration",
+        "Loss of sight",
+        "A contagious lung disease"
+      ],
+      "correct_answer": "Kidney problems linked to long-term dehydration",
+      "explanation_hebrew": "בדיקות הדם הראו בעיות כליה חמורות שנקשרו להתייבשות ממושכת."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was the original route through Ukraine abandoned?",
+      "difficulty": "B",
+      "options": [
+        "The bears' crates were too large for the roads.",
+        "Irish officials rejected the route.",
+        "Russia's invasion of Ukraine made the route impossible.",
+        "The sanctuary chose a shorter sea journey."
+      ],
+      "correct_answer": "Russia's invasion of Ukraine made the route impossible.",
+      "explanation_hebrew": "הפלישה הרוסית לאוקראינה בפברואר 2022 הפכה את מסלול ההובלה המקורי דרך אוקראינה לבלתי אפשרי."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which route finally brought the bears to Ireland?",
+      "difficulty": "B",
+      "options": [
+        "Dagestan–Kyiv–London–Donegal",
+        "Moscow–Paris–Belfast",
+        "St Petersburg–Istanbul–Cork",
+        "Moscow–Abu Dhabi–Dublin"
+      ],
+      "correct_answer": "Moscow–Abu Dhabi–Dublin",
+      "explanation_hebrew": "הדובים טסו ממוסקבה דרך אבו דאבי לדבלין והגיעו לאירלנד באוגוסט 2026."
+    },
+    {
+      "id": "B-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “malnourished” mean in the description of the rescued bears?",
+      "difficulty": "B",
+      "options": [
+        "In poor health because they had not received enough proper food",
+        "Unable to live near other animals",
+        "Trained to perform for visitors",
+        "Temporarily sleepy after medication"
+      ],
+      "correct_answer": "In poor health because they had not received enough proper food",
+      "explanation_hebrew": "malnourished מתאר מצב של תת־תזונה: בריאות לקויה עקב מחסור במזון מתאים ומספק."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the team hide food around the bears' habitat?",
+      "difficulty": "B",
+      "options": [
+        "To keep visitors away from feeding times",
+        "To test whether the bears can count",
+        "To make cleaning the enclosure easier",
+        "To encourage foraging, natural behaviour and confidence"
+      ],
+      "correct_answer": "To encourage foraging, natural behaviour and confidence",
+      "explanation_hebrew": "הסתרת המזון מעודדת את הדובים לחפש וללקט בעצמם, וכך מחזקת התנהגות טבעית וביטחון בסביבה החדשה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two ways Bu and Tyapa's health improved after arriving at Wild Ireland.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני שיפורים בריאותיים מפורשים מן הכתבה.",
+      "expected_points": [
+        "They gained weight.",
+        "Their coats improved.",
+        "Follow-up blood tests showed normal kidney function."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why the rescue took five years and how the bears finally reached Donegal.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להזכיר את תנאי הפתיחה הקשים, את שיבושי המסלול עקב שני עימותים, את הטיפול והבידוד ואת מסלול הטיסה הסופי.",
+      "expected_points": [
+        "McLaughlin committed to rescuing the bears in 2021, but the Ukraine war blocked the original route.",
+        "A later Middle East route was disrupted by conflict involving Iran and airspace closures.",
+        "The bears were removed from their cages, treated and quarantined at Tiger House.",
+        "They eventually travelled from Moscow via Abu Dhabi to Dublin and then to Wild Ireland."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How does the new habitat support both the bears' physical and psychological recovery? Use evidence from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין מרחב, טבע, מים, מקומות מסתור והעשרה התנהגותית לבין שיפור גופני ונפשי.",
+      "expected_points": [
+        "The habitat provides woodland, water and room to explore.",
+        "Sheltered areas let the bears retreat from public view.",
+        "Hidden food encourages natural foraging behaviour.",
+        "Staff observed better health, growing confidence and mental improvement."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief sanctuary update for visitors describing the bears' progress without ignoring their traumatic past.",
+      "difficulty": "B",
+      "rubric_hebrew": "העדכון צריך לשלב לפחות שתי עובדות על עברם ושתי עובדות על ההתקדמות שלהם, בניסוח מכבד ומאוזן.",
+      "expected_points": [
+        "Mentions cramped cages, malnutrition, dehydration or psychological trauma.",
+        "Mentions the long international rescue.",
+        "Describes gains in weight, coat condition, kidney function or confidence.",
+        "Uses respectful language and avoids claiming recovery is complete."
+      ]
+    }
+  ]
+}

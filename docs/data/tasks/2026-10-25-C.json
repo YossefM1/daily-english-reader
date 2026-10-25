@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-25",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why does the article describe King Charles's Caribbean tour as a major risk?",
+      "difficulty": "C",
+      "options": [
+        "It places him amid unresolved debates over slavery, reparations, apology and the monarchy's future in the region.",
+        "It is his first journey outside Europe as King.",
+        "The three host governments have cancelled all official meetings.",
+        "Buckingham Palace has refused to plan for demonstrations."
+      ],
+      "correct_answer": "It places him amid unresolved debates over slavery, reparations, apology and the monarchy's future in the region.",
+      "explanation_hebrew": "הסיור מציב את המלך בלב הדיון הטעון על העבדות, פיצויים, התנצלות והמשך מעמד המלוכה באזור."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which three countries are on the King's nine-day itinerary?",
+      "difficulty": "C",
+      "options": [
+        "Jamaica, Barbados and Belize",
+        "The Bahamas, Guyana, and Antigua and Barbuda",
+        "Guyana, Trinidad and Tobago, and Grenada",
+        "The Bahamas, Canada, and Antigua and Barbuda"
+      ],
+      "correct_answer": "The Bahamas, Guyana, and Antigua and Barbuda",
+      "explanation_hebrew": "המסלול בן תשעת הימים כולל את איי בהאמה, גיאנה ולבסוף אנטיגואה וברבודה."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What position will the King follow on an official apology for Britain's role in the slave trade?",
+      "difficulty": "C",
+      "options": [
+        "He will apologise in every speech.",
+        "He will let each host country write the apology.",
+        "He will follow government advice and not issue an official apology.",
+        "He will postpone all discussion until after Chogm."
+      ],
+      "correct_answer": "He will follow government advice and not issue an official apology.",
+      "explanation_hebrew": "המלך יפעל לפי עצת הממשלה ולא ימסור התנצלות רשמית, אף שהוא צפוי להכיר בעוולות העבר."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “optics” refer to in the criticism of the 2022 royal tour?",
+      "difficulty": "C",
+      "options": [
+        "The quality of cameras used by the press",
+        "The eyesight of people attending events",
+        "Scientific equipment presented during the visit",
+        "How actions and images appeared to the public"
+      ],
+      "correct_answer": "How actions and images appeared to the public",
+      "explanation_hebrew": "בהקשר זה optics פירושו האופן שבו מעשים ותמונות נראים ומתפרשים בעיני הציבור."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are planners especially mindful of William and Catherine's 2022 Caribbean tour?",
+      "difficulty": "C",
+      "options": [
+        "Its awkward images, outdated-looking events and protests offer examples of mistakes to avoid.",
+        "It proved that Caribbean countries reject all royal visits.",
+        "It included exactly the same three countries and speeches.",
+        "It ended with Britain agreeing to pay reparations."
+      ],
+      "correct_answer": "Its awkward images, outdated-looking events and protests offer examples of mistakes to avoid.",
+      "explanation_hebrew": "הסיור ב־2022 ספג ביקורת על תמונות צורמות, אירועים מיושנים ומחאות, ולכן הוא משמש לקח תכנוני לסיור הנוכחי."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What makes the physical schedule demanding for the King?",
+      "difficulty": "C",
+      "options": [
+        "He must travel alone without royal staff.",
+        "Every engagement takes place outdoors.",
+        "He will cross the Atlantic, visit three countries and attend about 36 engagements near age 78 while receiving cancer treatment.",
+        "He is required to walk between all three countries."
+      ],
+      "correct_answer": "He will cross the Atlantic, visit three countries and attend about 36 engagements near age 78 while receiving cancer treatment.",
+      "explanation_hebrew": "המסע כולל טיסה טרנס־אטלנטית, שלוש מדינות וכ־36 אירועים, כשהמלך קרוב לגיל 78 ועדיין מקבל טיפול בסרטן."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two signs in the article that the region's relationship with the monarchy is changing.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להביא שתי דוגמאות קונקרטיות לשינוי פוליטי או ציבורי במעמד המלוכה באזור.",
+      "expected_points": [
+        "Leaders of all three countries support reparatory justice.",
+        "Republicanism has significant support in Antigua and Barbuda and the Bahamas.",
+        "Elected officials in Antigua and Barbuda no longer have to pledge allegiance to the King."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the tour's main risks and its possible diplomatic rewards.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך להציג את הוויכוחים ההיסטוריים והפוליטיים, סכנת המחאות והטעויות התדמיתיות, לצד ההזדמנות לחזק קשרים ושיתוף פעולה.",
+      "expected_points": [
+        "Debates over slavery, reparations, apology and republicanism could produce protests and challenge the monarchy's moral standing.",
+        "Memories of missteps on the 2022 tour increase scrutiny of presentation and symbolism.",
+        "The hosts also value ties involving rainforests, culture, trade, energy and agriculture.",
+        "A sensitive and empathetic visit could strengthen relationships and the Commonwealth."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Analyse the tension between the King's personal acknowledgement of slavery and the government's control over apology and reparations.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את ההבדל בין הכרה מוסרית של המלך לבין סמכות הממשלה למדיניות, ולהראות כיצד הפער מגביל את תגובתו בסיור.",
+      "expected_points": [
+        "The King has called the slave trade an appalling atrocity and an indelible stain.",
+        "He is expected to acknowledge historical wrongs during the programme.",
+        "Official apologies and reparations are treated as government decisions.",
+        "The government will not apologise or pay reparations, limiting how far the King can go despite public pressure."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short editorial assessing whether the tour is more likely to strengthen or weaken the monarchy's Caribbean relationships. Use at least three article details and address the opposing view.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג טענה ברורה, להשתמש בשלושה פרטים לפחות, ולשקול גם את הסיכוי להצלחה וגם את הסיכונים ההיסטוריים, הפוליטיים והתדמיתיים.",
+      "expected_points": [
+        "States a clear judgement about the likely effect of the tour.",
+        "Uses evidence about reparations, republicanism, protests or the lack of an official apology.",
+        "Uses evidence about diplomatic, environmental, cultural or economic ties.",
+        "Addresses the King's capacity for empathy or the risk of repeating 2022-style missteps."
+      ]
+    }
+  ]
+}
