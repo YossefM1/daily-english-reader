@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-26",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "From agriculture to AI-griculture: How tech is changing farming",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o",
+  "published_at": "2026-10-26T00:13:09+00:00",
+  "age_hours_at_selection": 2.04,
+  "word_count": 804,
+  "generated_at": "2026-10-26T02:15:37.316182+00:00",
+  "difficulty_reason": "Feature with moderate sentence complexity and several quoted voices; general tech-and-farming topic needing little background, with useful B1/B2/C1 vocabulary.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "cattle",
+      "lemma": "cattle",
+      "level": "B1",
+      "hebrew": "בקר (פרות)",
+      "explanation_hebrew": "חיות משק כמו פרות ושוורים",
+      "pronunciation_hebrew": "קָאטְל",
+      "example": "The farmer checks his cattle every morning."
+    },
+    {
+      "word": "herd",
+      "lemma": "herd",
+      "level": "B2",
+      "hebrew": "עדר",
+      "explanation_hebrew": "קבוצה גדולה של חיות שחיות יחד",
+      "pronunciation_hebrew": "הֵרְד",
+      "example": "He watches his herd from the farmhouse."
+    },
+    {
+      "word": "algorithm",
+      "lemma": "algorithm",
+      "level": "B2",
+      "hebrew": "אלגוריתם",
+      "explanation_hebrew": "סדרת הוראות שמחשב מבצע כדי לפתור בעיה",
+      "pronunciation_hebrew": "אַלְגוֹרִיתְם",
+      "example": "The app uses an algorithm to spot problems."
+    },
+    {
+      "word": "assigns",
+      "lemma": "assign",
+      "level": "B2",
+      "hebrew": "מקצה / מעניק",
+      "explanation_hebrew": "נותן משהו למישהו או מגדיר תפקיד",
+      "pronunciation_hebrew": "אַסַיְנְס",
+      "example": "The system assigns each cow an ID."
+    },
+    {
+      "word": "analyses",
+      "lemma": "analyse",
+      "level": "B2",
+      "hebrew": "מנתח",
+      "explanation_hebrew": "בוחן משהו בפירוט כדי להבין אותו",
+      "pronunciation_hebrew": "אַנַלַייזֵס",
+      "example": "The camera analyses the video each day."
+    },
+    {
+      "word": "visible",
+      "lemma": "visible",
+      "level": "B1",
+      "hebrew": "נראה / גלוי",
+      "explanation_hebrew": "שאפשר לראות אותו",
+      "pronunciation_hebrew": "וִיזִיבְּל",
+      "example": "The change was not visible to the human eye."
+    },
+    {
+      "word": "generation",
+      "lemma": "generation",
+      "level": "B1",
+      "hebrew": "דור",
+      "explanation_hebrew": "קבוצת אנשים מאותו גיל במשפחה או בחברה",
+      "pronunciation_hebrew": "גֵ'נֵרֵיישְׁן",
+      "example": "He is a third generation farmer."
+    },
+    {
+      "word": "incredible",
+      "lemma": "incredible",
+      "level": "B1",
+      "hebrew": "מדהים / לא ייאמן",
+      "explanation_hebrew": "מרשים מאוד, קשה להאמין",
+      "pronunciation_hebrew": "אִינְקְרֵדִיבְּל",
+      "example": "The new technology is incredible."
+    },
+    {
+      "word": "traditional",
+      "lemma": "traditional",
+      "level": "B1",
+      "hebrew": "מסורתי",
+      "explanation_hebrew": "קשור למנהגים ישנים שעוברים מדור לדור",
+      "pronunciation_hebrew": "טְרַדִישֵׁנַל",
+      "example": "Farming is a traditional profession."
+    },
+    {
+      "word": "profession",
+      "lemma": "profession",
+      "level": "B1",
+      "hebrew": "מקצוע",
+      "explanation_hebrew": "עבודה שדורשת הכשרה או מיומנות",
+      "pronunciation_hebrew": "פְּרוֹפֵשְׁן",
+      "example": "Farming is a demanding profession."
+    },
+    {
+      "word": "astonished",
+      "lemma": "astonish",
+      "level": "C1",
+      "hebrew": "נדהם / מופתע מאוד",
+      "explanation_hebrew": "מופתע ברמה גבוהה מאוד",
+      "pronunciation_hebrew": "אַסְטוֹנִישְׁט",
+      "example": "He was astonished by the potential of AI."
+    },
+    {
+      "word": "potential",
+      "lemma": "potential",
+      "level": "B2",
+      "hebrew": "פוטנציאל",
+      "explanation_hebrew": "יכולת להתפתח או להצליח בעתיד",
+      "pronunciation_hebrew": "פּוֹטֵנְשֵׁל",
+      "example": "The app has huge potential for farmers."
+    },
+    {
+      "word": "emergencies",
+      "lemma": "emergency",
+      "level": "B1",
+      "hebrew": "מקרי חירום",
+      "explanation_hebrew": "מצבים מסוכנים שדורשים פעולה מיידית",
+      "pronunciation_hebrew": "אִימֵרְגֵ'נְסִיז",
+      "example": "The camera helps detect emergencies early."
+    },
+    {
+      "word": "efficiency",
+      "lemma": "efficiency",
+      "level": "B2",
+      "hebrew": "יעילות",
+      "explanation_hebrew": "השגת תוצאות טובות עם פחות מאמץ או בזבוז",
+      "pronunciation_hebrew": "אֵפִישֵׁנְסִי",
+      "example": "Robots improve the efficiency of the farm."
+    },
+    {
+      "word": "historically",
+      "lemma": "historically",
+      "level": "B2",
+      "hebrew": "מבחינה היסטורית",
+      "explanation_hebrew": "בהתייחס לעבר ולאורך ההיסטוריה",
+      "pronunciation_hebrew": "הִיסְטוֹרִיקֵלִי",
+      "example": "Historically, rural areas had poor internet."
+    },
+    {
+      "word": "challenges",
+      "lemma": "challenge",
+      "level": "B1",
+      "hebrew": "אתגרים",
+      "explanation_hebrew": "קשיים שצריך להתגבר עליהם",
+      "pronunciation_hebrew": "צֵ'אלֵנְגֵ'ס",
+      "example": "Rural farms face many challenges."
+    },
+    {
+      "word": "crucial",
+      "lemma": "crucial",
+      "level": "B2",
+      "hebrew": "קריטי / חיוני",
+      "explanation_hebrew": "חשוב מאוד, הכרחי",
+      "pronunciation_hebrew": "קְרוּשֵׁל",
+      "example": "Good internet is crucial for the business."
+    },
+    {
+      "word": "enabling",
+      "lemma": "enable",
+      "level": "B2",
+      "hebrew": "מאפשר",
+      "explanation_hebrew": "נותן את האפשרות לעשות משהו",
+      "pronunciation_hebrew": "אֵנֵייבְּלִינְג",
+      "example": "Broadband is enabling businesses to grow."
+    },
+    {
+      "word": "thrive",
+      "lemma": "thrive",
+      "level": "C1",
+      "hebrew": "משגשג / פורח",
+      "explanation_hebrew": "מתפתח ומצליח מאוד",
+      "pronunciation_hebrew": "תְרַייב",
+      "example": "Businesses can thrive in rural areas now."
+    },
+    {
+      "word": "inspections",
+      "lemma": "inspection",
+      "level": "B2",
+      "hebrew": "ביקורות / בדיקות",
+      "explanation_hebrew": "בדיקות רשמיות של משהו",
+      "pronunciation_hebrew": "אִינְסְפֵּקְשֵׁנְס",
+      "example": "Farmers prepare reports before inspections."
+    },
+    {
+      "word": "compliance",
+      "lemma": "compliance",
+      "level": "C1",
+      "hebrew": "עמידה בדרישות / ציות",
+      "explanation_hebrew": "פעולה בהתאם לחוקים או לכללים",
+      "pronunciation_hebrew": "קוֹמְפְּלַייאֵנְס",
+      "example": "The compliance section holds all the records."
+    },
+    {
+      "word": "passionate",
+      "lemma": "passionate",
+      "level": "B2",
+      "hebrew": "נלהב / בעל תשוקה",
+      "explanation_hebrew": "מלא רגש והתלהבות למשהו",
+      "pronunciation_hebrew": "פַּאשֵׁנֵט",
+      "example": "He is passionate about new technology."
+    },
+    {
+      "word": "transformed",
+      "lemma": "transform",
+      "level": "B2",
+      "hebrew": "שינה מן היסוד",
+      "explanation_hebrew": "גרם לשינוי גדול ומוחלט",
+      "pronunciation_hebrew": "טְרַנְסְפוֹרְמְד",
+      "example": "The invention transformed the industry."
+    },
+    {
+      "word": "revolutionary",
+      "lemma": "revolutionary",
+      "level": "B2",
+      "hebrew": "מהפכני",
+      "explanation_hebrew": "מביא לשינוי גדול ודרמטי",
+      "pronunciation_hebrew": "רֵבוֹלוּשֵׁנֵרִי",
+      "example": "AI is a revolutionary tool for farmers."
+    },
+    {
+      "word": "sustainability",
+      "lemma": "sustainability",
+      "level": "C1",
+      "hebrew": "קיימות",
+      "explanation_hebrew": "שמירה על משאבים לטווח הארוך בלי לפגוע בעתיד",
+      "pronunciation_hebrew": "סַסְטֵינֵבִּילִיטִי",
+      "example": "The farm focuses on sustainability."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "cattle",
+      "type": "english_to_hebrew",
+      "question": "What does “cattle” mean?",
+      "options": [
+        "דגים",
+        "כבשים",
+        "בקר (פרות)",
+        "עופות"
+      ],
+      "correct_answer": "בקר (פרות)",
+      "explanation_hebrew": "“cattle” פירושו בקר (פרות)."
+    },
+    {
+      "id": "B-q2",
+      "word": "herd",
+      "type": "english_to_hebrew",
+      "question": "What does “herd” mean?",
+      "options": [
+        "שדה",
+        "מכונה",
+        "בניין",
+        "עדר"
+      ],
+      "correct_answer": "עדר",
+      "explanation_hebrew": "“herd” פירושו עדר."
+    },
+    {
+      "id": "B-q3",
+      "word": "algorithm",
+      "type": "english_to_hebrew",
+      "question": "What does “algorithm” mean?",
+      "options": [
+        "מסך",
+        "מצלמה",
+        "אלגוריתם",
+        "כבל"
+      ],
+      "correct_answer": "אלגוריתם",
+      "explanation_hebrew": "“algorithm” פירושו אלגוריתם."
+    },
+    {
+      "id": "B-q4",
+      "word": "assigns",
+      "type": "english_to_hebrew",
+      "question": "What does “assigns” mean?",
+      "options": [
+        "מקצה / מעניק",
+        "מסתיר",
+        "מוכר",
+        "מוחק"
+      ],
+      "correct_answer": "מקצה / מעניק",
+      "explanation_hebrew": "“assigns” פירושו מקצה / מעניק."
+    },
+    {
+      "id": "B-q5",
+      "word": "analyses",
+      "type": "english_to_hebrew",
+      "question": "What does “analyses” mean?",
+      "options": [
+        "מתעלם",
+        "מנתח",
+        "מצלם בלבד",
+        "מוחק"
+      ],
+      "correct_answer": "מנתח",
+      "explanation_hebrew": "“analyses” פירושו מנתח."
+    },
+    {
+      "id": "B-q6",
+      "word": "visible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נראה / גלוי”?",
+      "options": [
+        "crucial",
+        "incredible",
+        "visible",
+        "traditional"
+      ],
+      "correct_answer": "visible",
+      "explanation_hebrew": "המילה “visible” פירושה נראה / גלוי."
+    },
+    {
+      "id": "B-q7",
+      "word": "generation",
+      "type": "english_to_hebrew",
+      "question": "What does “generation” mean?",
+      "options": [
+        "דור",
+        "משפחה אחת",
+        "מקצוע",
+        "שכונה"
+      ],
+      "correct_answer": "דור",
+      "explanation_hebrew": "“generation” פירושו דור."
+    },
+    {
+      "id": "B-q8",
+      "word": "incredible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מדהים / לא ייאמן”?",
+      "options": [
+        "crucial",
+        "visible",
+        "incredible",
+        "traditional"
+      ],
+      "correct_answer": "incredible",
+      "explanation_hebrew": "המילה “incredible” פירושה מדהים / לא ייאמן."
+    },
+    {
+      "id": "B-q9",
+      "word": "traditional",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מסורתי”?",
+      "options": [
+        "visible",
+        "crucial",
+        "traditional",
+        "incredible"
+      ],
+      "correct_answer": "traditional",
+      "explanation_hebrew": "המילה “traditional” פירושה מסורתי."
+    },
+    {
+      "id": "B-q10",
+      "word": "profession",
+      "type": "english_to_hebrew",
+      "question": "What does “profession” mean?",
+      "options": [
+        "משחק",
+        "תחביב",
+        "חופשה",
+        "מקצוע"
+      ],
+      "correct_answer": "מקצוע",
+      "explanation_hebrew": "“profession” פירושו מקצוע."
+    },
+    {
+      "id": "B-q11",
+      "word": "astonished",
+      "type": "english_to_hebrew",
+      "question": "What does “astonished” mean?",
+      "options": [
+        "נדהם / מופתע מאוד",
+        "כועס",
+        "רגוע",
+        "משועמם"
+      ],
+      "correct_answer": "נדהם / מופתע מאוד",
+      "explanation_hebrew": "“astonished” פירושו נדהם / מופתע מאוד."
+    },
+    {
+      "id": "B-q12",
+      "word": "potential",
+      "type": "english_to_hebrew",
+      "question": "What does “potential” mean?",
+      "options": [
+        "סיכון",
+        "פוטנציאל",
+        "עבר",
+        "מחיר"
+      ],
+      "correct_answer": "פוטנציאל",
+      "explanation_hebrew": "“potential” פירושו פוטנציאל."
+    },
+    {
+      "id": "B-q13",
+      "word": "emergencies",
+      "type": "english_to_hebrew",
+      "question": "What does “emergencies” mean?",
+      "options": [
+        "פגישות",
+        "הפסקות",
+        "מקרי חירום",
+        "חגים"
+      ],
+      "correct_answer": "מקרי חירום",
+      "explanation_hebrew": "“emergencies” פירושו מקרי חירום."
+    },
+    {
+      "id": "B-q14",
+      "word": "efficiency",
+      "type": "english_to_hebrew",
+      "question": "What does “efficiency” mean?",
+      "options": [
+        "יעילות",
+        "איטיות",
+        "רעש",
+        "בזבוז"
+      ],
+      "correct_answer": "יעילות",
+      "explanation_hebrew": "“efficiency” פירושו יעילות."
+    },
+    {
+      "id": "B-q15",
+      "word": "historically",
+      "type": "english_to_hebrew",
+      "question": "What does “historically” mean?",
+      "options": [
+        "בטעות",
+        "מבחינה היסטורית",
+        "בעתיד",
+        "כרגע"
+      ],
+      "correct_answer": "מבחינה היסטורית",
+      "explanation_hebrew": "“historically” פירושו מבחינה היסטורית."
+    },
+    {
+      "id": "B-q16",
+      "word": "challenges",
+      "type": "english_to_hebrew",
+      "question": "What does “challenges” mean?",
+      "options": [
+        "פתרונות",
+        "יתרונות",
+        "אתגרים",
+        "מתנות"
+      ],
+      "correct_answer": "אתגרים",
+      "explanation_hebrew": "“challenges” פירושו אתגרים."
+    },
+    {
+      "id": "B-q17",
+      "word": "crucial",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קריטי / חיוני”?",
+      "options": [
+        "crucial",
+        "traditional",
+        "incredible",
+        "visible"
+      ],
+      "correct_answer": "crucial",
+      "explanation_hebrew": "המילה “crucial” פירושה קריטי / חיוני."
+    },
+    {
+      "id": "B-q18",
+      "word": "enabling",
+      "type": "english_to_hebrew",
+      "question": "What does “enabling” mean?",
+      "options": [
+        "מסבך",
+        "מעכב",
+        "מאפשר",
+        "מונע"
+      ],
+      "correct_answer": "מאפשר",
+      "explanation_hebrew": "“enabling” פירושו מאפשר."
+    },
+    {
+      "id": "B-q19",
+      "word": "thrive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “משגשג / פורח”?",
+      "options": [
+        "enabling",
+        "thrive",
+        "assigns",
+        "transformed"
+      ],
+      "correct_answer": "thrive",
+      "explanation_hebrew": "המילה “thrive” פירושה משגשג / פורח."
+    },
+    {
+      "id": "B-q20",
+      "word": "inspections",
+      "type": "english_to_hebrew",
+      "question": "What does “inspections” mean?",
+      "options": [
+        "מכירות",
+        "ביקורות / בדיקות",
+        "חגיגות",
+        "חופשות"
+      ],
+      "correct_answer": "ביקורות / בדיקות",
+      "explanation_hebrew": "“inspections” פירושו ביקורות / בדיקות."
+    },
+    {
+      "id": "B-q21",
+      "word": "compliance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עמידה בדרישות / ציות”?",
+      "options": [
+        "obligations",
+        "efficiency",
+        "inspections",
+        "compliance"
+      ],
+      "correct_answer": "compliance",
+      "explanation_hebrew": "המילה “compliance” פירושה עמידה בדרישות / ציות."
+    },
+    {
+      "id": "B-q22",
+      "word": "passionate",
+      "type": "english_to_hebrew",
+      "question": "What does “passionate” mean?",
+      "options": [
+        "עייף",
+        "אדיש",
+        "עצבני",
+        "נלהב / בעל תשוקה"
+      ],
+      "correct_answer": "נלהב / בעל תשוקה",
+      "explanation_hebrew": "“passionate” פירושו נלהב / בעל תשוקה."
+    },
+    {
+      "id": "B-q23",
+      "word": "transformed",
+      "type": "english_to_hebrew",
+      "question": "What does “transformed” mean?",
+      "options": [
+        "העתיק",
+        "הרס",
+        "שמר",
+        "שינה מן היסוד"
+      ],
+      "correct_answer": "שינה מן היסוד",
+      "explanation_hebrew": "“transformed” פירושו שינה מן היסוד."
+    },
+    {
+      "id": "B-q24",
+      "word": "revolutionary",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מהפכני”?",
+      "options": [
+        "traditional",
+        "revolutionary",
+        "passionate",
+        "crucial"
+      ],
+      "correct_answer": "revolutionary",
+      "explanation_hebrew": "המילה “revolutionary” פירושה מהפכני."
+    },
+    {
+      "id": "B-q25",
+      "word": "sustainability",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קיימות”?",
+      "options": [
+        "potential",
+        "sustainability",
+        "efficiency",
+        "compliance"
+      ],
+      "correct_answer": "sustainability",
+      "explanation_hebrew": "המילה “sustainability” פירושה קיימות."
+    }
+  ]
+}

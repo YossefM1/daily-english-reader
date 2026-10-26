@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Donegal: Brown bears adjusting to new life in Irish countryside",
+  "title": "From agriculture to AI-griculture: How tech is changing farming",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-  "published_at": "2026-10-24T23:02:51+00:00",
-  "age_hours_at_selection": 3.2,
-  "word_count": 874,
-  "generated_at": "2026-10-25T02:15:05.939627+00:00",
-  "difficulty_reason": "A longer human-interest feature with varied sentences and some narrative detail; useful B1/B2/C1 vocabulary and moderate background knowledge.",
+  "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o",
+  "published_at": "2026-10-26T00:13:09+00:00",
+  "age_hours_at_selection": 2.04,
+  "word_count": 804,
+  "generated_at": "2026-10-26T02:15:37.316182+00:00",
+  "difficulty_reason": "Feature with moderate sentence complexity and several quoted voices; general tech-and-farming topic needing little background, with useful B1/B2/C1 vocabulary.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "cramped",
-      "lemma": "cramped",
-      "level": "B2",
-      "hebrew": "צפוף",
-      "explanation_hebrew": "מצומצם ודחוס מדי",
-      "pronunciation_hebrew": "קְרַאמְפְּט",
-      "example": "They lived in a cramped flat."
-    },
-    {
-      "word": "sanctuary",
-      "lemma": "sanctuary",
-      "level": "C1",
-      "hebrew": "מקלט",
-      "explanation_hebrew": "מקום מוגן לבעלי חיים",
-      "pronunciation_hebrew": "סַנְקְצ'וּאֶרִי",
-      "example": "The birds live in a wildlife sanctuary."
-    },
-    {
-      "word": "remarkable",
-      "lemma": "remarkable",
-      "level": "B2",
-      "hebrew": "יוצא דופן",
-      "explanation_hebrew": "ראוי לתשומת לב מיוחדת",
-      "pronunciation_hebrew": "רִימַארְקֶבְּל",
-      "example": "It was a remarkable recovery."
-    },
-    {
-      "word": "spanned",
-      "lemma": "span",
-      "level": "C1",
-      "hebrew": "נמשך",
-      "explanation_hebrew": "השתרע על פני תקופה או מרחב",
-      "pronunciation_hebrew": "סְפַּאנְד",
-      "example": "The project spanned five years."
-    },
-    {
-      "word": "disrupted",
-      "lemma": "disrupt",
-      "level": "B2",
-      "hebrew": "שובש",
-      "explanation_hebrew": "הופרע או נעצר",
-      "pronunciation_hebrew": "דִיסְרַאפְּטֶד",
-      "example": "The storm disrupted the flights."
-    },
-    {
-      "word": "confined",
-      "lemma": "confine",
-      "level": "C1",
-      "hebrew": "כלוא",
-      "explanation_hebrew": "מוגבל למקום צר",
-      "pronunciation_hebrew": "קוֹנְפַיְנְד",
-      "example": "The animal was confined to a cage."
-    },
-    {
-      "word": "upright",
-      "lemma": "upright",
-      "level": "B2",
-      "hebrew": "זקוף",
-      "explanation_hebrew": "במצב ישר ואנכי",
-      "pronunciation_hebrew": "אַפְּרַיְט",
-      "example": "He could not stand upright."
-    },
-    {
-      "word": "malnourished",
-      "lemma": "malnourished",
-      "level": "C1",
-      "hebrew": "סובל מתת-תזונה",
-      "explanation_hebrew": "לא ניזון כראוי",
-      "pronunciation_hebrew": "מַלְנַארִישְׁט",
-      "example": "The rescued dog was thin and malnourished."
-    },
-    {
-      "word": "psychological",
-      "lemma": "psychological",
-      "level": "B2",
-      "hebrew": "נפשי",
-      "explanation_hebrew": "הקשור לנפש ולמחשבה",
-      "pronunciation_hebrew": "סַיְקוֹלוֹג'יקל",
-      "example": "She needed psychological support."
-    },
-    {
-      "word": "trauma",
-      "lemma": "trauma",
-      "level": "B2",
-      "hebrew": "טראומה",
-      "explanation_hebrew": "פגיעה נפשית עמוקה",
-      "pronunciation_hebrew": "טְרוֹמָה",
-      "example": "The accident left deep trauma."
-    },
-    {
-      "word": "prolonged",
-      "lemma": "prolonged",
-      "level": "C1",
-      "hebrew": "ממושך",
-      "explanation_hebrew": "נמשך זמן רב",
-      "pronunciation_hebrew": "פְּרוֹלוֹנְגְד",
-      "example": "A prolonged drought hurt the crops."
-    },
-    {
-      "word": "dehydration",
-      "lemma": "dehydration",
-      "level": "C1",
-      "hebrew": "התייבשות",
-      "explanation_hebrew": "חוסר מים בגוף",
-      "pronunciation_hebrew": "דִיהַיְדְרֵיְשֶׁן",
-      "example": "Dehydration can be dangerous in heat."
-    },
-    {
-      "word": "invasion",
-      "lemma": "invasion",
-      "level": "B2",
-      "hebrew": "פלישה",
-      "explanation_hebrew": "כניסה בכוח לשטח של אחר",
-      "pronunciation_hebrew": "אִינְוֵיְז'ֶן",
-      "example": "The invasion forced families to flee."
-    },
-    {
-      "word": "escalating",
-      "lemma": "escalate",
-      "level": "C1",
-      "hebrew": "מסלים",
-      "explanation_hebrew": "הולך ומחמיר",
-      "pronunciation_hebrew": "אֶסְקַלֵיְטִינְג",
-      "example": "The escalating conflict closed the border."
-    },
-    {
-      "word": "airspace",
-      "lemma": "airspace",
-      "level": "C1",
-      "hebrew": "מרחב אווירי",
-      "explanation_hebrew": "השמיים מעל מדינה",
-      "pronunciation_hebrew": "אֵרְסְפֵּייְס",
-      "example": "The airspace was closed to flights."
-    },
-    {
-      "word": "volunteers",
-      "lemma": "volunteer",
+      "word": "cattle",
+      "lemma": "cattle",
       "level": "B1",
-      "hebrew": "מתנדבים",
-      "explanation_hebrew": "אנשים שעוזרים ללא תשלום",
-      "pronunciation_hebrew": "ווֹלַנְטִירְז",
-      "example": "Many volunteers helped in the rescue."
+      "hebrew": "בקר (פרות)",
+      "explanation_hebrew": "חיות משק כמו פרות ושוורים",
+      "pronunciation_hebrew": "קָאטְל",
+      "example": "The farmer checks his cattle every morning."
     },
     {
-      "word": "embarked",
-      "lemma": "embark",
+      "word": "herd",
+      "lemma": "herd",
+      "level": "B2",
+      "hebrew": "עדר",
+      "explanation_hebrew": "קבוצה גדולה של חיות שחיות יחד",
+      "pronunciation_hebrew": "הֵרְד",
+      "example": "He watches his herd from the farmhouse."
+    },
+    {
+      "word": "algorithm",
+      "lemma": "algorithm",
+      "level": "B2",
+      "hebrew": "אלגוריתם",
+      "explanation_hebrew": "סדרת הוראות שמחשב מבצע כדי לפתור בעיה",
+      "pronunciation_hebrew": "אַלְגוֹרִיתְם",
+      "example": "The app uses an algorithm to spot problems."
+    },
+    {
+      "word": "assigns",
+      "lemma": "assign",
+      "level": "B2",
+      "hebrew": "מקצה / מעניק",
+      "explanation_hebrew": "נותן משהו למישהו או מגדיר תפקיד",
+      "pronunciation_hebrew": "אַסַיְנְס",
+      "example": "The system assigns each cow an ID."
+    },
+    {
+      "word": "analyses",
+      "lemma": "analyse",
+      "level": "B2",
+      "hebrew": "מנתח",
+      "explanation_hebrew": "בוחן משהו בפירוט כדי להבין אותו",
+      "pronunciation_hebrew": "אַנַלַייזֵס",
+      "example": "The camera analyses the video each day."
+    },
+    {
+      "word": "visible",
+      "lemma": "visible",
+      "level": "B1",
+      "hebrew": "נראה / גלוי",
+      "explanation_hebrew": "שאפשר לראות אותו",
+      "pronunciation_hebrew": "וִיזִיבְּל",
+      "example": "The change was not visible to the human eye."
+    },
+    {
+      "word": "generation",
+      "lemma": "generation",
+      "level": "B1",
+      "hebrew": "דור",
+      "explanation_hebrew": "קבוצת אנשים מאותו גיל במשפחה או בחברה",
+      "pronunciation_hebrew": "גֵ'נֵרֵיישְׁן",
+      "example": "He is a third generation farmer."
+    },
+    {
+      "word": "incredible",
+      "lemma": "incredible",
+      "level": "B1",
+      "hebrew": "מדהים / לא ייאמן",
+      "explanation_hebrew": "מרשים מאוד, קשה להאמין",
+      "pronunciation_hebrew": "אִינְקְרֵדִיבְּל",
+      "example": "The new technology is incredible."
+    },
+    {
+      "word": "traditional",
+      "lemma": "traditional",
+      "level": "B1",
+      "hebrew": "מסורתי",
+      "explanation_hebrew": "קשור למנהגים ישנים שעוברים מדור לדור",
+      "pronunciation_hebrew": "טְרַדִישֵׁנַל",
+      "example": "Farming is a traditional profession."
+    },
+    {
+      "word": "profession",
+      "lemma": "profession",
+      "level": "B1",
+      "hebrew": "מקצוע",
+      "explanation_hebrew": "עבודה שדורשת הכשרה או מיומנות",
+      "pronunciation_hebrew": "פְּרוֹפֵשְׁן",
+      "example": "Farming is a demanding profession."
+    },
+    {
+      "word": "astonished",
+      "lemma": "astonish",
       "level": "C1",
-      "hebrew": "יצא לדרך",
-      "explanation_hebrew": "התחיל מסע או משימה",
-      "pronunciation_hebrew": "אִימְבַּארְקְט",
-      "example": "They embarked on a long journey."
+      "hebrew": "נדהם / מופתע מאוד",
+      "explanation_hebrew": "מופתע ברמה גבוהה מאוד",
+      "pronunciation_hebrew": "אַסְטוֹנִישְׁט",
+      "example": "He was astonished by the potential of AI."
     },
     {
-      "word": "sedated",
-      "lemma": "sedate",
+      "word": "potential",
+      "lemma": "potential",
+      "level": "B2",
+      "hebrew": "פוטנציאל",
+      "explanation_hebrew": "יכולת להתפתח או להצליח בעתיד",
+      "pronunciation_hebrew": "פּוֹטֵנְשֵׁל",
+      "example": "The app has huge potential for farmers."
+    },
+    {
+      "word": "emergencies",
+      "lemma": "emergency",
+      "level": "B1",
+      "hebrew": "מקרי חירום",
+      "explanation_hebrew": "מצבים מסוכנים שדורשים פעולה מיידית",
+      "pronunciation_hebrew": "אִימֵרְגֵ'נְסִיז",
+      "example": "The camera helps detect emergencies early."
+    },
+    {
+      "word": "efficiency",
+      "lemma": "efficiency",
+      "level": "B2",
+      "hebrew": "יעילות",
+      "explanation_hebrew": "השגת תוצאות טובות עם פחות מאמץ או בזבוז",
+      "pronunciation_hebrew": "אֵפִישֵׁנְסִי",
+      "example": "Robots improve the efficiency of the farm."
+    },
+    {
+      "word": "historically",
+      "lemma": "historically",
+      "level": "B2",
+      "hebrew": "מבחינה היסטורית",
+      "explanation_hebrew": "בהתייחס לעבר ולאורך ההיסטוריה",
+      "pronunciation_hebrew": "הִיסְטוֹרִיקֵלִי",
+      "example": "Historically, rural areas had poor internet."
+    },
+    {
+      "word": "challenges",
+      "lemma": "challenge",
+      "level": "B1",
+      "hebrew": "אתגרים",
+      "explanation_hebrew": "קשיים שצריך להתגבר עליהם",
+      "pronunciation_hebrew": "צֵ'אלֵנְגֵ'ס",
+      "example": "Rural farms face many challenges."
+    },
+    {
+      "word": "crucial",
+      "lemma": "crucial",
+      "level": "B2",
+      "hebrew": "קריטי / חיוני",
+      "explanation_hebrew": "חשוב מאוד, הכרחי",
+      "pronunciation_hebrew": "קְרוּשֵׁל",
+      "example": "Good internet is crucial for the business."
+    },
+    {
+      "word": "enabling",
+      "lemma": "enable",
+      "level": "B2",
+      "hebrew": "מאפשר",
+      "explanation_hebrew": "נותן את האפשרות לעשות משהו",
+      "pronunciation_hebrew": "אֵנֵייבְּלִינְג",
+      "example": "Broadband is enabling businesses to grow."
+    },
+    {
+      "word": "thrive",
+      "lemma": "thrive",
       "level": "C1",
-      "hebrew": "הורדם",
-      "explanation_hebrew": "הורגע בתרופה",
-      "pronunciation_hebrew": "סֶדֵיְטֶד",
-      "example": "The bear was sedated before the flight."
+      "hebrew": "משגשג / פורח",
+      "explanation_hebrew": "מתפתח ומצליח מאוד",
+      "pronunciation_hebrew": "תְרַייב",
+      "example": "Businesses can thrive in rural areas now."
     },
     {
-      "word": "quarantine",
-      "lemma": "quarantine",
+      "word": "inspections",
+      "lemma": "inspection",
       "level": "B2",
-      "hebrew": "הסגר",
-      "explanation_hebrew": "בידוד למניעת מחלות",
-      "pronunciation_hebrew": "קְווֹרַנְטִין",
-      "example": "The animals underwent quarantine."
+      "hebrew": "ביקורות / בדיקות",
+      "explanation_hebrew": "בדיקות רשמיות של משהו",
+      "pronunciation_hebrew": "אִינְסְפֵּקְשֵׁנְס",
+      "example": "Farmers prepare reports before inspections."
     },
     {
-      "word": "habitat",
-      "lemma": "habitat",
-      "level": "B2",
-      "hebrew": "בית גידול",
-      "explanation_hebrew": "הסביבה הטבעית של בעל חיים",
-      "pronunciation_hebrew": "הַבִּיטַט",
-      "example": "The forest is their natural habitat."
-    },
-    {
-      "word": "sheltered",
-      "lemma": "sheltered",
-      "level": "B2",
-      "hebrew": "מוגן",
-      "explanation_hebrew": "מוגן מפני מזג אוויר או סכנה",
-      "pronunciation_hebrew": "שֶׁלְטֶרְד",
-      "example": "They rested in a sheltered spot."
-    },
-    {
-      "word": "retreat",
-      "lemma": "retreat",
-      "level": "B2",
-      "hebrew": "לסגת",
-      "explanation_hebrew": "לסגת או למצוא מחסה",
-      "pronunciation_hebrew": "רִיטְרִיט",
-      "example": "The bears can retreat into the trees."
-    },
-    {
-      "word": "forage",
-      "lemma": "forage",
+      "word": "compliance",
+      "lemma": "compliance",
       "level": "C1",
-      "hebrew": "לחפש מזון",
-      "explanation_hebrew": "לחפש אוכל בטבע",
-      "pronunciation_hebrew": "פוֹרִג'",
-      "example": "The animals forage for berries."
+      "hebrew": "עמידה בדרישות / ציות",
+      "explanation_hebrew": "פעולה בהתאם לחוקים או לכללים",
+      "pronunciation_hebrew": "קוֹמְפְּלַייאֵנְס",
+      "example": "The compliance section holds all the records."
     },
     {
-      "word": "glimpse",
-      "lemma": "glimpse",
+      "word": "passionate",
+      "lemma": "passionate",
       "level": "B2",
-      "hebrew": "הצצה",
-      "explanation_hebrew": "מבט חטוף",
-      "pronunciation_hebrew": "גְּלִימְפְּס",
-      "example": "We caught a glimpse of the bears."
+      "hebrew": "נלהב / בעל תשוקה",
+      "explanation_hebrew": "מלא רגש והתלהבות למשהו",
+      "pronunciation_hebrew": "פַּאשֵׁנֵט",
+      "example": "He is passionate about new technology."
     },
     {
-      "word": "blistering",
-      "lemma": "blistering",
+      "word": "transformed",
+      "lemma": "transform",
+      "level": "B2",
+      "hebrew": "שינה מן היסוד",
+      "explanation_hebrew": "גרם לשינוי גדול ומוחלט",
+      "pronunciation_hebrew": "טְרַנְסְפוֹרְמְד",
+      "example": "The invention transformed the industry."
+    },
+    {
+      "word": "revolutionary",
+      "lemma": "revolutionary",
+      "level": "B2",
+      "hebrew": "מהפכני",
+      "explanation_hebrew": "מביא לשינוי גדול ודרמטי",
+      "pronunciation_hebrew": "רֵבוֹלוּשֵׁנֵרִי",
+      "example": "AI is a revolutionary tool for farmers."
+    },
+    {
+      "word": "sustainability",
+      "lemma": "sustainability",
       "level": "C1",
-      "hebrew": "לוהט",
-      "explanation_hebrew": "חם מאוד ומכאיב",
-      "pronunciation_hebrew": "בְּלִיסְטֶרִינְג",
-      "example": "They worked in the blistering heat."
+      "hebrew": "קיימות",
+      "explanation_hebrew": "שמירה על משאבים לטווח הארוך בלי לפגוע בעתיד",
+      "pronunciation_hebrew": "סַסְטֵינֵבִּילִיטִי",
+      "example": "The farm focuses on sustainability."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "cramped",
+      "word": "cattle",
       "type": "english_to_hebrew",
-      "question": "What does “cramped” mean?",
+      "question": "What does “cattle” mean?",
       "options": [
-        "נמשך",
-        "מקלט",
-        "יוצא דופן",
-        "צפוף"
+        "דגים",
+        "כבשים",
+        "בקר (פרות)",
+        "עופות"
       ],
-      "correct_answer": "צפוף",
-      "explanation_hebrew": "“cramped” פירושו צפוף."
+      "correct_answer": "בקר (פרות)",
+      "explanation_hebrew": "“cattle” פירושו בקר (פרות)."
     },
     {
       "id": "B-q2",
-      "word": "sanctuary",
+      "word": "herd",
       "type": "english_to_hebrew",
-      "question": "What does “sanctuary” mean?",
+      "question": "What does “herd” mean?",
       "options": [
-        "נמשך",
-        "שובש",
-        "מקלט",
-        "יוצא דופן"
+        "שדה",
+        "מכונה",
+        "בניין",
+        "עדר"
       ],
-      "correct_answer": "מקלט",
-      "explanation_hebrew": "“sanctuary” פירושו מקלט."
+      "correct_answer": "עדר",
+      "explanation_hebrew": "“herd” פירושו עדר."
     },
     {
       "id": "B-q3",
-      "word": "remarkable",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעותה “יוצא דופן”?",
+      "word": "algorithm",
+      "type": "english_to_hebrew",
+      "question": "What does “algorithm” mean?",
       "options": [
-        "confined",
-        "spanned",
-        "remarkable",
-        "disrupted"
+        "מסך",
+        "מצלמה",
+        "אלגוריתם",
+        "כבל"
       ],
-      "correct_answer": "remarkable",
-      "explanation_hebrew": "המילה “remarkable” פירושה יוצא דופן."
+      "correct_answer": "אלגוריתם",
+      "explanation_hebrew": "“algorithm” פירושו אלגוריתם."
     },
     {
       "id": "B-q4",
-      "word": "spanned",
+      "word": "assigns",
       "type": "english_to_hebrew",
-      "question": "What does “spanned” mean?",
+      "question": "What does “assigns” mean?",
       "options": [
-        "זקוף",
-        "שובש",
-        "כלוא",
-        "נמשך"
+        "מקצה / מעניק",
+        "מסתיר",
+        "מוכר",
+        "מוחק"
       ],
-      "correct_answer": "נמשך",
-      "explanation_hebrew": "“spanned” פירושו נמשך."
+      "correct_answer": "מקצה / מעניק",
+      "explanation_hebrew": "“assigns” פירושו מקצה / מעניק."
     },
     {
       "id": "B-q5",
-      "word": "disrupted",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעותה “שובש”?",
+      "word": "analyses",
+      "type": "english_to_hebrew",
+      "question": "What does “analyses” mean?",
       "options": [
-        "malnourished",
-        "disrupted",
-        "upright",
-        "confined"
+        "מתעלם",
+        "מנתח",
+        "מצלם בלבד",
+        "מוחק"
       ],
-      "correct_answer": "disrupted",
-      "explanation_hebrew": "המילה “disrupted” פירושה שובש."
+      "correct_answer": "מנתח",
+      "explanation_hebrew": "“analyses” פירושו מנתח."
     },
     {
       "id": "B-q6",
-      "word": "confined",
-      "type": "english_to_hebrew",
-      "question": "What does “confined” mean?",
+      "word": "visible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נראה / גלוי”?",
       "options": [
-        "נפשי",
-        "סובל מתת-תזונה",
-        "כלוא",
-        "זקוף"
+        "crucial",
+        "incredible",
+        "visible",
+        "traditional"
       ],
-      "correct_answer": "כלוא",
-      "explanation_hebrew": "“confined” פירושו כלוא."
+      "correct_answer": "visible",
+      "explanation_hebrew": "המילה “visible” פירושה נראה / גלוי."
     },
     {
       "id": "B-q7",
-      "word": "upright",
+      "word": "generation",
       "type": "english_to_hebrew",
-      "question": "What does “upright” mean?",
+      "question": "What does “generation” mean?",
       "options": [
-        "טראומה",
-        "זקוף",
-        "נפשי",
-        "סובל מתת-תזונה"
+        "דור",
+        "משפחה אחת",
+        "מקצוע",
+        "שכונה"
       ],
-      "correct_answer": "זקוף",
-      "explanation_hebrew": "“upright” פירושו זקוף."
+      "correct_answer": "דור",
+      "explanation_hebrew": "“generation” פירושו דור."
     },
     {
       "id": "B-q8",
-      "word": "malnourished",
-      "type": "english_to_hebrew",
-      "question": "What does “malnourished” mean?",
+      "word": "incredible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מדהים / לא ייאמן”?",
       "options": [
-        "סובל מתת-תזונה",
-        "נפשי",
-        "ממושך",
-        "טראומה"
+        "crucial",
+        "visible",
+        "incredible",
+        "traditional"
       ],
-      "correct_answer": "סובל מתת-תזונה",
-      "explanation_hebrew": "“malnourished” פירושו סובל מתת-תזונה."
+      "correct_answer": "incredible",
+      "explanation_hebrew": "המילה “incredible” פירושה מדהים / לא ייאמן."
     },
     {
       "id": "B-q9",
-      "word": "psychological",
+      "word": "traditional",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעותה “נפשי”?",
+      "question": "איזו מילה באנגלית פירושה “מסורתי”?",
       "options": [
-        "dehydration",
-        "prolonged",
-        "trauma",
-        "psychological"
+        "visible",
+        "crucial",
+        "traditional",
+        "incredible"
       ],
-      "correct_answer": "psychological",
-      "explanation_hebrew": "המילה “psychological” פירושה נפשי."
+      "correct_answer": "traditional",
+      "explanation_hebrew": "המילה “traditional” פירושה מסורתי."
     },
     {
       "id": "B-q10",
-      "word": "trauma",
+      "word": "profession",
       "type": "english_to_hebrew",
-      "question": "What does “trauma” mean?",
+      "question": "What does “profession” mean?",
       "options": [
-        "טראומה",
-        "פלישה",
-        "התייבשות",
-        "ממושך"
+        "משחק",
+        "תחביב",
+        "חופשה",
+        "מקצוע"
       ],
-      "correct_answer": "טראומה",
-      "explanation_hebrew": "“trauma” פירושו טראומה."
+      "correct_answer": "מקצוע",
+      "explanation_hebrew": "“profession” פירושו מקצוע."
     },
     {
       "id": "B-q11",
-      "word": "prolonged",
+      "word": "astonished",
       "type": "english_to_hebrew",
-      "question": "What does “prolonged” mean?",
+      "question": "What does “astonished” mean?",
       "options": [
-        "פלישה",
-        "מסלים",
-        "התייבשות",
-        "ממושך"
+        "נדהם / מופתע מאוד",
+        "כועס",
+        "רגוע",
+        "משועמם"
       ],
-      "correct_answer": "ממושך",
-      "explanation_hebrew": "“prolonged” פירושו ממושך."
+      "correct_answer": "נדהם / מופתע מאוד",
+      "explanation_hebrew": "“astonished” פירושו נדהם / מופתע מאוד."
     },
     {
       "id": "B-q12",
-      "word": "dehydration",
+      "word": "potential",
       "type": "english_to_hebrew",
-      "question": "What does “dehydration” mean?",
+      "question": "What does “potential” mean?",
       "options": [
-        "התייבשות",
-        "מסלים",
-        "מרחב אווירי",
-        "פלישה"
+        "סיכון",
+        "פוטנציאל",
+        "עבר",
+        "מחיר"
       ],
-      "correct_answer": "התייבשות",
-      "explanation_hebrew": "“dehydration” פירושו התייבשות."
+      "correct_answer": "פוטנציאל",
+      "explanation_hebrew": "“potential” פירושו פוטנציאל."
     },
     {
       "id": "B-q13",
-      "word": "invasion",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעותה “פלישה”?",
+      "word": "emergencies",
+      "type": "english_to_hebrew",
+      "question": "What does “emergencies” mean?",
       "options": [
-        "airspace",
-        "invasion",
-        "volunteers",
-        "escalating"
+        "פגישות",
+        "הפסקות",
+        "מקרי חירום",
+        "חגים"
       ],
-      "correct_answer": "invasion",
-      "explanation_hebrew": "המילה “invasion” פירושה פלישה."
+      "correct_answer": "מקרי חירום",
+      "explanation_hebrew": "“emergencies” פירושו מקרי חירום."
     },
     {
       "id": "B-q14",
-      "word": "escalating",
+      "word": "efficiency",
       "type": "english_to_hebrew",
-      "question": "What does “escalating” mean?",
+      "question": "What does “efficiency” mean?",
       "options": [
-        "מרחב אווירי",
-        "מתנדבים",
-        "מסלים",
-        "יצא לדרך"
+        "יעילות",
+        "איטיות",
+        "רעש",
+        "בזבוז"
       ],
-      "correct_answer": "מסלים",
-      "explanation_hebrew": "“escalating” פירושו מסלים."
+      "correct_answer": "יעילות",
+      "explanation_hebrew": "“efficiency” פירושו יעילות."
     },
     {
       "id": "B-q15",
-      "word": "airspace",
+      "word": "historically",
       "type": "english_to_hebrew",
-      "question": "What does “airspace” mean?",
+      "question": "What does “historically” mean?",
       "options": [
-        "הורדם",
-        "מרחב אווירי",
-        "יצא לדרך",
-        "מתנדבים"
+        "בטעות",
+        "מבחינה היסטורית",
+        "בעתיד",
+        "כרגע"
       ],
-      "correct_answer": "מרחב אווירי",
-      "explanation_hebrew": "“airspace” פירושו מרחב אווירי."
+      "correct_answer": "מבחינה היסטורית",
+      "explanation_hebrew": "“historically” פירושו מבחינה היסטורית."
     },
     {
       "id": "B-q16",
-      "word": "volunteers",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעותה “מתנדבים”?",
+      "word": "challenges",
+      "type": "english_to_hebrew",
+      "question": "What does “challenges” mean?",
       "options": [
-        "volunteers",
-        "quarantine",
-        "embarked",
-        "sedated"
+        "פתרונות",
+        "יתרונות",
+        "אתגרים",
+        "מתנות"
       ],
-      "correct_answer": "volunteers",
-      "explanation_hebrew": "המילה “volunteers” פירושה מתנדבים."
+      "correct_answer": "אתגרים",
+      "explanation_hebrew": "“challenges” פירושו אתגרים."
     },
     {
       "id": "B-q17",
-      "word": "embarked",
-      "type": "english_to_hebrew",
-      "question": "What does “embarked” mean?",
+      "word": "crucial",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קריטי / חיוני”?",
       "options": [
-        "בית גידול",
-        "הסגר",
-        "הורדם",
-        "יצא לדרך"
+        "crucial",
+        "traditional",
+        "incredible",
+        "visible"
       ],
-      "correct_answer": "יצא לדרך",
-      "explanation_hebrew": "“embarked” פירושו יצא לדרך."
+      "correct_answer": "crucial",
+      "explanation_hebrew": "המילה “crucial” פירושה קריטי / חיוני."
     },
     {
       "id": "B-q18",
-      "word": "sedated",
+      "word": "enabling",
       "type": "english_to_hebrew",
-      "question": "What does “sedated” mean?",
+      "question": "What does “enabling” mean?",
       "options": [
-        "הורדם",
-        "מוגן",
-        "הסגר",
-        "בית גידול"
+        "מסבך",
+        "מעכב",
+        "מאפשר",
+        "מונע"
       ],
-      "correct_answer": "הורדם",
-      "explanation_hebrew": "“sedated” פירושו הורדם."
+      "correct_answer": "מאפשר",
+      "explanation_hebrew": "“enabling” פירושו מאפשר."
     },
     {
       "id": "B-q19",
-      "word": "quarantine",
-      "type": "english_to_hebrew",
-      "question": "What does “quarantine” mean?",
+      "word": "thrive",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “משגשג / פורח”?",
       "options": [
-        "מוגן",
-        "הסגר",
-        "בית גידול",
-        "לסגת"
+        "enabling",
+        "thrive",
+        "assigns",
+        "transformed"
       ],
-      "correct_answer": "הסגר",
-      "explanation_hebrew": "“quarantine” פירושו הסגר."
+      "correct_answer": "thrive",
+      "explanation_hebrew": "המילה “thrive” פירושה משגשג / פורח."
     },
     {
       "id": "B-q20",
-      "word": "habitat",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעותה “בית גידול”?",
+      "word": "inspections",
+      "type": "english_to_hebrew",
+      "question": "What does “inspections” mean?",
       "options": [
-        "sheltered",
-        "retreat",
-        "habitat",
-        "forage"
+        "מכירות",
+        "ביקורות / בדיקות",
+        "חגיגות",
+        "חופשות"
       ],
-      "correct_answer": "habitat",
-      "explanation_hebrew": "המילה “habitat” פירושה בית גידול."
+      "correct_answer": "ביקורות / בדיקות",
+      "explanation_hebrew": "“inspections” פירושו ביקורות / בדיקות."
     },
     {
       "id": "B-q21",
-      "word": "sheltered",
-      "type": "english_to_hebrew",
-      "question": "What does “sheltered” mean?",
+      "word": "compliance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עמידה בדרישות / ציות”?",
       "options": [
-        "לחפש מזון",
-        "לסגת",
-        "הצצה",
-        "מוגן"
+        "obligations",
+        "efficiency",
+        "inspections",
+        "compliance"
       ],
-      "correct_answer": "מוגן",
-      "explanation_hebrew": "“sheltered” פירושו מוגן."
+      "correct_answer": "compliance",
+      "explanation_hebrew": "המילה “compliance” פירושה עמידה בדרישות / ציות."
     },
     {
       "id": "B-q22",
-      "word": "retreat",
+      "word": "passionate",
       "type": "english_to_hebrew",
-      "question": "What does “retreat” mean?",
+      "question": "What does “passionate” mean?",
       "options": [
-        "הצצה",
-        "לוהט",
-        "לסגת",
-        "לחפש מזון"
+        "עייף",
+        "אדיש",
+        "עצבני",
+        "נלהב / בעל תשוקה"
       ],
-      "correct_answer": "לסגת",
-      "explanation_hebrew": "“retreat” פירושו לסגת."
+      "correct_answer": "נלהב / בעל תשוקה",
+      "explanation_hebrew": "“passionate” פירושו נלהב / בעל תשוקה."
     },
     {
       "id": "B-q23",
-      "word": "forage",
+      "word": "transformed",
       "type": "english_to_hebrew",
-      "question": "What does “forage” mean?",
+      "question": "What does “transformed” mean?",
       "options": [
-        "צפוף",
-        "הצצה",
-        "לחפש מזון",
-        "לוהט"
+        "העתיק",
+        "הרס",
+        "שמר",
+        "שינה מן היסוד"
       ],
-      "correct_answer": "לחפש מזון",
-      "explanation_hebrew": "“forage” פירושו לחפש מזון."
+      "correct_answer": "שינה מן היסוד",
+      "explanation_hebrew": "“transformed” פירושו שינה מן היסוד."
     },
     {
       "id": "B-q24",
-      "word": "glimpse",
-      "type": "english_to_hebrew",
-      "question": "What does “glimpse” mean?",
+      "word": "revolutionary",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מהפכני”?",
       "options": [
-        "מקלט",
-        "צפוף",
-        "הצצה",
-        "לוהט"
+        "traditional",
+        "revolutionary",
+        "passionate",
+        "crucial"
       ],
-      "correct_answer": "הצצה",
-      "explanation_hebrew": "“glimpse” פירושו הצצה."
+      "correct_answer": "revolutionary",
+      "explanation_hebrew": "המילה “revolutionary” פירושה מהפכני."
     },
     {
       "id": "B-q25",
-      "word": "blistering",
-      "type": "english_to_hebrew",
-      "question": "What does “blistering” mean?",
+      "word": "sustainability",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קיימות”?",
       "options": [
-        "צפוף",
-        "יוצא דופן",
-        "מקלט",
-        "לוהט"
+        "potential",
+        "sustainability",
+        "efficiency",
+        "compliance"
       ],
-      "correct_answer": "לוהט",
-      "explanation_hebrew": "“blistering” פירושו לוהט."
+      "correct_answer": "sustainability",
+      "explanation_hebrew": "המילה “sustainability” פירושה קיימות."
     }
   ]
 }
