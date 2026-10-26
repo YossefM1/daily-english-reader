@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-26",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Aneurin Bevan and how the Query Club set him on path to power",
+  "article_url": "https://www.bbc.co.uk/news/articles/cr5y5zzw72q1o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central argument does the article make about the Query Club?",
+      "difficulty": "C",
+      "options": [
+        "It was mainly a social club for retired mine owners.",
+        "It helped Bevan and fellow socialists learn how to gain institutional power and pursue reform.",
+        "It opposed the Tredegar Medical Aid Society's expansion.",
+        "It persuaded Bevan to leave politics for coal mining."
+      ],
+      "correct_answer": "It helped Bevan and fellow socialists learn how to gain institutional power and pursue reform.",
+      "explanation_hebrew": "הכתבה טוענת שהמועדון לימד את בוואן וחבריו כיצד להשיג השפעה במוסדות, ודרך זו עיצבה את הקריירה הפוליטית שלו."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was distinctive about the Query Club when it began in 1921?",
+      "difficulty": "C",
+      "options": [
+        "It was a government committee based in London.",
+        "It was a semi-secret debating society formed largely by colliers in Tredegar.",
+        "It was a medical charity controlled by mine owners.",
+        "It admitted only members of Parliament."
+      ],
+      "correct_answer": "It was a semi-secret debating society formed largely by colliers in Tredegar.",
+      "explanation_hebrew": "המועדון החל כחברה חצי-סודית של דיון, שרוב חבריה היו כורי פחם מטרדגר."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How broad had the Tredegar Medical Aid Society become by Walter Conway's death in 1933?",
+      "difficulty": "C",
+      "options": [
+        "It served only 5,000 miners.",
+        "It covered one hospital but no doctors or dentists.",
+        "It had 20,000 members, about 95% of the town, including families and non-miners.",
+        "It had been replaced by the NHS."
+      ],
+      "correct_answer": "It had 20,000 members, about 95% of the town, including families and non-miners.",
+      "explanation_hebrew": "ב-1933 החברה מנתה 20,000 חברים, כ-95% מן העיר, וכללה גם נשים, ילדים ומי שלא היו כורים."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “eluding” mean in Bevan's statement that power was still eluding them?",
+      "difficulty": "C",
+      "options": [
+        "Being distributed fairly among them",
+        "Being formally explained to them",
+        "Being used openly against them",
+        "Remaining beyond their reach despite their efforts"
+      ],
+      "correct_answer": "Remaining beyond their reach despite their efforts",
+      "explanation_hebrew": "eluding מתאר דבר שחומק ואינו מושג למרות המאמצים; בוואן חש שהכוח עדיין נמצא במקום אחר."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What electoral path did Bevan follow according to the article?",
+      "difficulty": "C",
+      "options": [
+        "Tredegar town council, county council, then Parliament",
+        "Hospital board, House of Lords, then town council",
+        "Parliament, county council, then the Medical Aid Society",
+        "Trade union office, Welsh government, then Parliament"
+      ],
+      "correct_answer": "Tredegar town council, county council, then Parliament",
+      "explanation_hebrew": "המועדון הציב את בוואן למועצת העיר ב-1922; בהמשך נבחר למועצת המחוז ולבסוף לפרלמנט ב-1929."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the Query Club seek seats on many local boards and committees?",
+      "difficulty": "C",
+      "options": [
+        "To keep political debate away from working people",
+        "To reduce the membership of the medical society",
+        "To replace local services with private companies",
+        "To shift influence from established industrial interests toward reforms benefiting ordinary people"
+      ],
+      "correct_answer": "To shift influence from established industrial interests toward reforms benefiting ordinary people",
+      "explanation_hebrew": "המוסדות המקומיים נשלטו בידי גורמים הקשורים לחברת הברזל והפחם; חברי המועדון ביקשו להעביר השפעה לסוציאליסטים ולקדם שינוי."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two ways the Query Club helped prepare Bevan for national politics.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שתי דרכים שונות שבהן פעילות המועדון תרמה להתפתחותו הפוליטית של בוואן.",
+      "expected_points": [
+        "Debates helped him develop powerful speaking and argument-deconstruction skills.",
+        "The club taught members to identify where institutional power was located.",
+        "It helped place him on Tredegar town council.",
+        "Its continuing search for power led him from local to county and then parliamentary politics."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the relationship between the Query Club, local institutions and Bevan's later career in 3–4 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשור בין הקמת המועדון, הכניסה למוסדות המקומיים, התפתחות בוואן והמורשת הלאומית.",
+      "expected_points": [
+        "The Query Club began in 1921 as a semi-secret socialist debating group in Tredegar.",
+        "Members sought positions on councils, boards and other bodies dominated by established industrial interests.",
+        "This strategy and the club's debates shaped Bevan's pursuit of power and oratory.",
+        "Bevan later entered Parliament, founded the NHS and pursued housing reform."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How did Tredegar provide both a model and a motivation for Bevan's creation of the NHS? Use evidence from the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר גם את תנאי החיים וחוסר הכוח כמניע וגם את חברת הסיוע הרפואי כמודל, תוך שימוש בראיות.",
+      "expected_points": [
+        "Working people produced wealth but had little control over work and living conditions.",
+        "The Medical Aid Society was funded by small wage contributions.",
+        "It expanded to cover about 95% of Tredegar and included families and non-miners.",
+        "It provided doctors, nurses, dentists and hospital care.",
+        "The article presents this universal local scheme as a foundation for the NHS."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Evaluate the statement “Power was central to the Query Club's strategy.” Write one paragraph using at least three article details.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לטעון טענה ברורה, לשלב לפחות שלוש ראיות מדויקות ולהבחין בין השגת כוח לבין מטרת הרפורמה.",
+      "expected_points": [
+        "Local institutions were dominated by figures linked to the Tredegar Iron and Coal Company.",
+        "The club aimed to place like-minded socialists on every influential committee and board.",
+        "Members gained seats on the town council and other bodies during the 1920s.",
+        "Bevan moved to county politics and then Parliament because he believed decisive power lay elsewhere.",
+        "The pursuit of power was intended to improve conditions for ordinary people."
+      ]
+    }
+  ]
+}

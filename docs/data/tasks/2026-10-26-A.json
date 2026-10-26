@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-26",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Spotify uploads Irish lyrics for Dolly Parton's Welsh Jolene version",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main point of the article?",
+      "difficulty": "A",
+      "options": [
+        "Spotify mistakenly showed Irish lyrics for a Welsh version of “Jolene” involving Dolly Parton.",
+        "Dolly Parton recorded the original “Jolene” entirely in Irish.",
+        "Spotify removed every recording of “Jolene” from its service.",
+        "Bronwen Lewis discovered that Dolly Parton had no Welsh ancestry."
+      ],
+      "correct_answer": "Spotify mistakenly showed Irish lyrics for a Welsh version of “Jolene” involving Dolly Parton.",
+      "explanation_hebrew": "הכתבה עוסקת בטעות של ספוטיפיי: לגרסה הוולשית של Jolene הוצגו מילים באירית."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who performed on the Welsh version with Dolly Parton?",
+      "difficulty": "A",
+      "options": [
+        "Carl Dean and a bank clerk",
+        "Bronwen Lewis and Jada Star",
+        "Two Spotify editors",
+        "A choir from Conwy"
+      ],
+      "correct_answer": "Bronwen Lewis and Jada Star",
+      "explanation_hebrew": "הגרסה הוקלטה בשיתוף הזמרת הוולשית ברונוון לואיס וג'אדה סטאר, אחייניתה של פרטון."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Spotify do after the BBC contacted the company?",
+      "difficulty": "A",
+      "options": [
+        "It replaced the song with the 1973 recording.",
+        "It added a Welsh translation immediately.",
+        "It removed the incorrect lyrics.",
+        "It deleted every cover version."
+      ],
+      "correct_answer": "It removed the incorrect lyrics.",
+      "explanation_hebrew": "לאחר פניית ה-BBC, ספוטיפיי הסירה את המילים השגויות."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did the Welsh collaboration begin?",
+      "difficulty": "A",
+      "options": [
+        "Spotify asked Parton to translate the song.",
+        "Parton met Lewis at the 1974 Grammy Awards.",
+        "Jada Star heard Lewis on a radio programme in Nashville.",
+        "Lewis posted her Welsh translation online, and Star contacted her."
+      ],
+      "correct_answer": "Lewis posted her Welsh translation online, and Star contacted her.",
+      "explanation_hebrew": "לואיס פרסמה ברשת תרגום וולשי שלה, וג'אדה סטאר פנתה אליה והציעה להקליט אותו."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “posthumous” mean?",
+      "difficulty": "A",
+      "options": [
+        "Released after the artist's death",
+        "Sung in more than one language",
+        "Recorded without musical instruments",
+        "Popular for more than fifty years"
+      ],
+      "correct_answer": "Released after the artist's death",
+      "explanation_hebrew": "posthumous פירושו יצירה שהתפרסמה לאחר מות היוצר או המבצע."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is “Jolene” described as one of Parton's best-known songs?",
+      "difficulty": "A",
+      "options": [
+        "It was her only song written in 1973.",
+        "It was first performed in Wales.",
+        "It earned major chart success, many covers and more than a billion Spotify streams.",
+        "It was written by Jada Star about a singer from Conwy."
+      ],
+      "correct_answer": "It earned major chart success, many covers and more than a billion Spotify streams.",
+      "explanation_hebrew": "הישגי המצעדים, ריבוי גרסאות הכיסוי ויותר ממיליארד השמעות מעידים על פרסום רחב ומתמשך."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two facts about how the Welsh version was recorded.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני פרטים מדויקים על יצירת הגרסה או על מקומות ההקלטה.",
+      "expected_points": [
+        "Bronwen Lewis first translated the song into Welsh and shared it online.",
+        "Jada Star contacted Lewis and suggested recording it.",
+        "Lewis and Star recorded their parts in the UK.",
+        "Dolly Parton recorded her part in Nashville."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the Spotify error and the company's response in 2–3 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את סוג הטעות, את זהות הגרסה ואת פעולת ספוטיפיי לאחר פניית ה-BBC.",
+      "expected_points": [
+        "Spotify displayed Irish lyrics for a version sung in English and Welsh.",
+        "The recording involved Dolly Parton, Bronwen Lewis and Jada Star.",
+        "Spotify removed the lyrics after the BBC contacted it."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain why the Welsh version has special significance in Parton's career. Use two details from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את החשיבות באמצעות לפחות שני פרטים כגון מועד הפרסום, הקשר למוצאה או מעמד השיר.",
+      "expected_points": [
+        "It was released after Parton's death and was her second posthumous single.",
+        "Parton had spoken about her Welsh ancestry.",
+        "It gives a Welsh-language form to one of her most famous songs.",
+        "The collaboration connected Parton with Welsh singer Bronwen Lewis."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short, factual correction that Spotify could show to listeners. State what was wrong and what the recording actually contains.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח תיקון קצר, ברור ונייטרלי, ללא המצאת פרטים.",
+      "expected_points": [
+        "States that Irish lyrics were displayed by mistake.",
+        "States that the recording is sung in English and Welsh.",
+        "May identify the performers or note that the incorrect lyrics were removed.",
+        "Uses a concise and factual tone."
+      ]
+    }
+  ]
+}

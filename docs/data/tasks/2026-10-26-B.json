@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-26",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "From agriculture to AI-griculture: How tech is changing farming",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Why Northern Irish dairy farms are closing",
+        "How digital tools and AI are helping farmers monitor animals and run businesses",
+        "Why farmers want to replace cows with robots",
+        "How a new tractor linkage system was invented"
+      ],
+      "correct_answer": "How digital tools and AI are helping farmers monitor animals and run businesses",
+      "explanation_hebrew": "הכתבה מציגה כמה דרכים שבהן AI, אפליקציות, רובוטיקה ואינטרנט מהיר משנים את עבודת החקלאים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the CattleEye system do on George McMaster's farm?",
+      "difficulty": "B",
+      "options": [
+        "It sells milk through an online shop.",
+        "It gives each cow an ID, records video and flags possible health changes.",
+        "It opens gates according to the weather.",
+        "It decides which cows must be sold."
+      ],
+      "correct_answer": "It gives each cow an ID, records video and flags possible health changes.",
+      "explanation_hebrew": "המערכת מזהה כל פרה, מצלמת אותה מדי יום, מנתחת את הסרטון ומתריעה על שינויים אפשריים."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did high-speed broadband allow Caleb Howard to add to his farm business?",
+      "difficulty": "B",
+      "options": [
+        "A second herd of 300 cows",
+        "A cattle hospital",
+        "A farm shop with electronic payments",
+        "A university research centre"
+      ],
+      "correct_answer": "A farm shop with electronic payments",
+      "explanation_hebrew": "החיבור המהיר אפשר להווארד לפתוח חנות משק עם מערכת תשלום אלקטרונית."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does it mean when the camera “flags” a change?",
+      "difficulty": "B",
+      "options": [
+        "It hides the change from the farmer.",
+        "It proves the cow is seriously ill.",
+        "It stores the video without analysing it.",
+        "It draws attention to the change as something to check."
+      ],
+      "correct_answer": "It draws attention to the change as something to check.",
+      "explanation_hebrew": "כאן flags פירושו מסמן שינוי ומפנה אליו את תשומת לב החקלאי לבדיקה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does Gareth McDonald call FarmDrive “Facebook for cows”?",
+      "difficulty": "B",
+      "options": [
+        "Each animal has a profile containing its records and possibly a photo.",
+        "Farmers use it mainly to share funny cattle videos.",
+        "The app lets cows choose their own feed online.",
+        "Every farm must publish its inspection reports publicly."
+      ],
+      "correct_answer": "Each animal has a profile containing its records and possibly a photo.",
+      "explanation_hebrew": "ב-FarmDrive לכל פרה יש מעין פרופיל המרכז את הרשומות שלה ויכול לכלול תמונה."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What view of AI does Gareth McDonald express?",
+      "difficulty": "B",
+      "options": [
+        "AI should make every farm decision without humans.",
+        "AI is useful only where broadband is unavailable.",
+        "AI should advise farmers with timely information, while people keep decision-making control.",
+        "AI will soon make farmers and advisers unnecessary."
+      ],
+      "correct_answer": "AI should advise farmers with timely information, while people keep decision-making control.",
+      "explanation_hebrew": "מקדונלד רואה ב-AI יועץ שמציג מידע נכון בזמן הנכון, אך מדגיש שההחלטה צריכה להישאר בידי החקלאי."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two ways technology helps farmers identify or manage animal health.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתי דרכים מבוססות כתבה שבהן הטכנולוגיה מסייעת לבריאות העדר.",
+      "expected_points": [
+        "CattleEye records and analyses daily videos of individual cows.",
+        "The system can detect lameness before farmers notice it.",
+        "Earlier warnings let farmers check cows before they lose condition or become sick.",
+        "Digital profiles keep each animal's records together."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how technology changes both animal care and farm administration in 3–4 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להתייחס לפחות לכלי אחד לטיפול בבעלי חיים ולכלי אחד לניהול העסק, ולהסביר את התועלת.",
+      "expected_points": [
+        "AI cameras can spot changes in cows, including possible lameness, early.",
+        "Robotic milking lets cows enter the machine when they choose.",
+        "FarmDrive replaces scattered paperwork with digital records and reports.",
+        "Broadband enables connected systems and electronic payments in rural areas."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why is reliable broadband presented as part of agricultural innovation? Support your answer with two article details.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין תשתית האינטרנט להפעלת כלים דיגיטליים ולצמיחת עסקים כפריים, עם שתי ראיות.",
+      "expected_points": [
+        "Poor rural phone and broadband service previously limited digital work.",
+        "Better broadband made systems simpler and easier to use.",
+        "It enabled Howard's farm shop to accept electronic payments.",
+        "Fibrus said connectivity helps rural businesses thrive."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short recommendation to a farmer considering AI monitoring. Include one benefit and one limit described in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח המלצה מאוזנת, עם יתרון מבוסס כתבה ומגבלה שלפיה האדם נשאר מקבל ההחלטות.",
+      "expected_points": [
+        "Mentions earlier detection of health problems or improved efficiency.",
+        "Explains that timely data can support better animal care or output.",
+        "States that AI should advise rather than make final decisions.",
+        "Uses clear, practical and evidence-based language."
+      ]
+    }
+  ]
+}
