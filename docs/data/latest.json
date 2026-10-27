@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "From agriculture to AI-griculture: How tech is changing farming",
+  "title": "Brazil election: Lula wins fourth term in dramatic comeback over Bolsonaro",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o",
-  "published_at": "2026-10-26T00:13:09+00:00",
-  "age_hours_at_selection": 2.04,
-  "word_count": 804,
-  "generated_at": "2026-10-26T02:15:37.316182+00:00",
-  "difficulty_reason": "Feature with moderate sentence complexity and several quoted voices; general tech-and-farming topic needing little background, with useful B1/B2/C1 vocabulary.",
+  "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-10-26T21:02:47+00:00",
+  "age_hours_at_selection": 5.26,
+  "word_count": 941,
+  "generated_at": "2026-10-27T02:18:33.849511+00:00",
+  "difficulty_reason": "Moderate-length political report with some longer sentences and named institutions; useful B1/B2/C1 vocabulary and a little background on Brazilian politics.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "cattle",
-      "lemma": "cattle",
-      "level": "B1",
-      "hebrew": "בקר (פרות)",
-      "explanation_hebrew": "חיות משק כמו פרות ושוורים",
-      "pronunciation_hebrew": "קָאטְל",
-      "example": "The farmer checks his cattle every morning."
-    },
-    {
-      "word": "herd",
-      "lemma": "herd",
+      "word": "dramatic",
+      "lemma": "dramatic",
       "level": "B2",
-      "hebrew": "עדר",
-      "explanation_hebrew": "קבוצה גדולה של חיות שחיות יחד",
-      "pronunciation_hebrew": "הֵרְד",
-      "example": "He watches his herd from the farmhouse."
+      "hebrew": "דְּרָמָטִי",
+      "explanation_hebrew": "מַפְתִּיעַ וּמַרְגִּישׁ, מָלֵא מְתִיחוּת אוֹ שִׁנּוּי גָּדוֹל",
+      "pronunciation_hebrew": "דְּרָמָטִיק",
+      "example": "The match had a dramatic finish."
     },
     {
-      "word": "algorithm",
-      "lemma": "algorithm",
+      "word": "comeback",
+      "lemma": "comeback",
       "level": "B2",
-      "hebrew": "אלגוריתם",
-      "explanation_hebrew": "סדרת הוראות שמחשב מבצע כדי לפתור בעיה",
-      "pronunciation_hebrew": "אַלְגוֹרִיתְם",
-      "example": "The app uses an algorithm to spot problems."
+      "hebrew": "חֲזָרָה מְרַשֶּׁמֶת",
+      "explanation_hebrew": "שִׁיבָה לְהַצְלָחָה אַחֲרֵי תְּקוּפָה שֶׁל כִּשָּׁלוֹן",
+      "pronunciation_hebrew": "קַאמְבֶּק",
+      "example": "The team made a stunning comeback."
     },
     {
-      "word": "assigns",
-      "lemma": "assign",
+      "word": "challenger",
+      "lemma": "challenger",
       "level": "B2",
-      "hebrew": "מקצה / מעניק",
-      "explanation_hebrew": "נותן משהו למישהו או מגדיר תפקיד",
-      "pronunciation_hebrew": "אַסַיְנְס",
-      "example": "The system assigns each cow an ID."
+      "hebrew": "מִתְמוֹדֵד / יָרִיב",
+      "explanation_hebrew": "אָדָם שֶׁמִּתְחָרֶה נֶגֶד מִישֶׁהוּ עַל תַּפְקִיד אוֹ תֹּאַר",
+      "pronunciation_hebrew": "צָ'אלֶנְגֶ'ר",
+      "example": "The young challenger beat the champion."
     },
     {
-      "word": "analyses",
-      "lemma": "analyse",
-      "level": "B2",
-      "hebrew": "מנתח",
-      "explanation_hebrew": "בוחן משהו בפירוט כדי להבין אותו",
-      "pronunciation_hebrew": "אַנַלַייזֵס",
-      "example": "The camera analyses the video each day."
-    },
-    {
-      "word": "visible",
-      "lemma": "visible",
-      "level": "B1",
-      "hebrew": "נראה / גלוי",
-      "explanation_hebrew": "שאפשר לראות אותו",
-      "pronunciation_hebrew": "וִיזִיבְּל",
-      "example": "The change was not visible to the human eye."
-    },
-    {
-      "word": "generation",
-      "lemma": "generation",
-      "level": "B1",
-      "hebrew": "דור",
-      "explanation_hebrew": "קבוצת אנשים מאותו גיל במשפחה או בחברה",
-      "pronunciation_hebrew": "גֵ'נֵרֵיישְׁן",
-      "example": "He is a third generation farmer."
-    },
-    {
-      "word": "incredible",
-      "lemma": "incredible",
-      "level": "B1",
-      "hebrew": "מדהים / לא ייאמן",
-      "explanation_hebrew": "מרשים מאוד, קשה להאמין",
-      "pronunciation_hebrew": "אִינְקְרֵדִיבְּל",
-      "example": "The new technology is incredible."
-    },
-    {
-      "word": "traditional",
-      "lemma": "traditional",
-      "level": "B1",
-      "hebrew": "מסורתי",
-      "explanation_hebrew": "קשור למנהגים ישנים שעוברים מדור לדור",
-      "pronunciation_hebrew": "טְרַדִישֵׁנַל",
-      "example": "Farming is a traditional profession."
-    },
-    {
-      "word": "profession",
-      "lemma": "profession",
-      "level": "B1",
-      "hebrew": "מקצוע",
-      "explanation_hebrew": "עבודה שדורשת הכשרה או מיומנות",
-      "pronunciation_hebrew": "פְּרוֹפֵשְׁן",
-      "example": "Farming is a demanding profession."
-    },
-    {
-      "word": "astonished",
-      "lemma": "astonish",
+      "word": "jubilant",
+      "lemma": "jubilant",
       "level": "C1",
-      "hebrew": "נדהם / מופתע מאוד",
-      "explanation_hebrew": "מופתע ברמה גבוהה מאוד",
-      "pronunciation_hebrew": "אַסְטוֹנִישְׁט",
-      "example": "He was astonished by the potential of AI."
+      "hebrew": "צוֹהֵל / שָׂמֵחַ מְאוֹד",
+      "explanation_hebrew": "מָלֵא אֹשֶׁר וַחֲגִיגִיּוּת בִּגְלַל נִצָּחוֹן אוֹ הַצְלָחָה",
+      "pronunciation_hebrew": "גּ'וּבִּילַנְט",
+      "example": "The jubilant crowd sang in the streets."
     },
     {
-      "word": "potential",
-      "lemma": "potential",
-      "level": "B2",
-      "hebrew": "פוטנציאל",
-      "explanation_hebrew": "יכולת להתפתח או להצליח בעתיד",
-      "pronunciation_hebrew": "פּוֹטֵנְשֵׁל",
-      "example": "The app has huge potential for farmers."
-    },
-    {
-      "word": "emergencies",
-      "lemma": "emergency",
-      "level": "B1",
-      "hebrew": "מקרי חירום",
-      "explanation_hebrew": "מצבים מסוכנים שדורשים פעולה מיידית",
-      "pronunciation_hebrew": "אִימֵרְגֵ'נְסִיז",
-      "example": "The camera helps detect emergencies early."
-    },
-    {
-      "word": "efficiency",
-      "lemma": "efficiency",
-      "level": "B2",
-      "hebrew": "יעילות",
-      "explanation_hebrew": "השגת תוצאות טובות עם פחות מאמץ או בזבוז",
-      "pronunciation_hebrew": "אֵפִישֵׁנְסִי",
-      "example": "Robots improve the efficiency of the farm."
-    },
-    {
-      "word": "historically",
-      "lemma": "historically",
-      "level": "B2",
-      "hebrew": "מבחינה היסטורית",
-      "explanation_hebrew": "בהתייחס לעבר ולאורך ההיסטוריה",
-      "pronunciation_hebrew": "הִיסְטוֹרִיקֵלִי",
-      "example": "Historically, rural areas had poor internet."
-    },
-    {
-      "word": "challenges",
-      "lemma": "challenge",
-      "level": "B1",
-      "hebrew": "אתגרים",
-      "explanation_hebrew": "קשיים שצריך להתגבר עליהם",
-      "pronunciation_hebrew": "צֵ'אלֵנְגֵ'ס",
-      "example": "Rural farms face many challenges."
-    },
-    {
-      "word": "crucial",
-      "lemma": "crucial",
-      "level": "B2",
-      "hebrew": "קריטי / חיוני",
-      "explanation_hebrew": "חשוב מאוד, הכרחי",
-      "pronunciation_hebrew": "קְרוּשֵׁל",
-      "example": "Good internet is crucial for the business."
-    },
-    {
-      "word": "enabling",
-      "lemma": "enable",
-      "level": "B2",
-      "hebrew": "מאפשר",
-      "explanation_hebrew": "נותן את האפשרות לעשות משהו",
-      "pronunciation_hebrew": "אֵנֵייבְּלִינְג",
-      "example": "Broadband is enabling businesses to grow."
-    },
-    {
-      "word": "thrive",
-      "lemma": "thrive",
+      "word": "negativity",
+      "lemma": "negativity",
       "level": "C1",
-      "hebrew": "משגשג / פורח",
-      "explanation_hebrew": "מתפתח ומצליח מאוד",
-      "pronunciation_hebrew": "תְרַייב",
-      "example": "Businesses can thrive in rural areas now."
+      "hebrew": "שְׁלִילִיּוּת",
+      "explanation_hebrew": "גִּישָׁה אוֹ אֲוִירָה שְׁלִילִית וּפֶסִימִית",
+      "pronunciation_hebrew": "נֶגָטִיבִיטִי",
+      "example": "He tried to avoid all the negativity online."
     },
     {
-      "word": "inspections",
-      "lemma": "inspection",
+      "word": "democracy",
+      "lemma": "democracy",
       "level": "B2",
-      "hebrew": "ביקורות / בדיקות",
-      "explanation_hebrew": "בדיקות רשמיות של משהו",
-      "pronunciation_hebrew": "אִינְסְפֵּקְשֵׁנְס",
-      "example": "Farmers prepare reports before inspections."
+      "hebrew": "דֶּמוֹקְרַטְיָה",
+      "explanation_hebrew": "שִׁיטַת מִמְשָׁל שֶׁבָּהּ הָעָם בּוֹחֵר אֶת מַנְהִיגָיו",
+      "pronunciation_hebrew": "דֶּמוֹקְרַסִי",
+      "example": "Free elections are the heart of a democracy."
     },
     {
-      "word": "compliance",
-      "lemma": "compliance",
+      "word": "convicted",
+      "lemma": "convict",
       "level": "C1",
-      "hebrew": "עמידה בדרישות / ציות",
-      "explanation_hebrew": "פעולה בהתאם לחוקים או לכללים",
-      "pronunciation_hebrew": "קוֹמְפְּלַייאֵנְס",
-      "example": "The compliance section holds all the records."
+      "hebrew": "מֻרְשָׁע (בְּדִין)",
+      "explanation_hebrew": "נִמְצָא אַשֵׁם בְּבֵית מִשְׁפָּט",
+      "pronunciation_hebrew": "קוֹנְבִיקְטִיד",
+      "example": "He was convicted of fraud last year."
     },
     {
-      "word": "passionate",
-      "lemma": "passionate",
-      "level": "B2",
-      "hebrew": "נלהב / בעל תשוקה",
-      "explanation_hebrew": "מלא רגש והתלהבות למשהו",
-      "pronunciation_hebrew": "פַּאשֵׁנֵט",
-      "example": "He is passionate about new technology."
-    },
-    {
-      "word": "transformed",
-      "lemma": "transform",
-      "level": "B2",
-      "hebrew": "שינה מן היסוד",
-      "explanation_hebrew": "גרם לשינוי גדול ומוחלט",
-      "pronunciation_hebrew": "טְרַנְסְפוֹרְמְד",
-      "example": "The invention transformed the industry."
-    },
-    {
-      "word": "revolutionary",
-      "lemma": "revolutionary",
-      "level": "B2",
-      "hebrew": "מהפכני",
-      "explanation_hebrew": "מביא לשינוי גדול ודרמטי",
-      "pronunciation_hebrew": "רֵבוֹלוּשֵׁנֵרִי",
-      "example": "AI is a revolutionary tool for farmers."
-    },
-    {
-      "word": "sustainability",
-      "lemma": "sustainability",
+      "word": "annulled",
+      "lemma": "annul",
       "level": "C1",
-      "hebrew": "קיימות",
-      "explanation_hebrew": "שמירה על משאבים לטווח הארוך בלי לפגוע בעתיד",
-      "pronunciation_hebrew": "סַסְטֵינֵבִּילִיטִי",
-      "example": "The farm focuses on sustainability."
+      "hebrew": "בֻּטַּל",
+      "explanation_hebrew": "הֻכְרַז כְּלֹא תַּקֵּף מִבְּחִינָה חֻקִּית",
+      "pronunciation_hebrew": "אָנַאלְד",
+      "example": "The court annulled the contract."
+    },
+    {
+      "word": "congratulated",
+      "lemma": "congratulate",
+      "level": "B2",
+      "hebrew": "בֵּרֵךְ / אִחֵל",
+      "explanation_hebrew": "אָמַר לְמִישֶׁהוּ מִלֵּי שֶׁבַח עַל הַצְלָחָה",
+      "pronunciation_hebrew": "קוֹנְגְרַצֶ'ולֵייטִיד",
+      "example": "They congratulated her on the award."
+    },
+    {
+      "word": "observers",
+      "lemma": "observer",
+      "level": "B2",
+      "hebrew": "מַשְׁקִיפִים",
+      "explanation_hebrew": "אֲנָשִׁים שֶׁצּוֹפִים בְּמַשֶּׁהוּ וּמְנַתְּחִים אוֹתוֹ",
+      "pronunciation_hebrew": "אוֹבְּזֶרְבֶרְז",
+      "example": "Independent observers watched the election."
+    },
+    {
+      "word": "unprecedented",
+      "lemma": "unprecedented",
+      "level": "C1",
+      "hebrew": "חֲסַר תַּקְדִּים",
+      "explanation_hebrew": "שֶׁמֵּעוֹלָם לֹא קָרָה כָּמוֹהוּ בֶּעָבָר",
+      "pronunciation_hebrew": "אַנְפְּרֶסֶדֶנְטִיד",
+      "example": "The storm caused unprecedented damage."
+    },
+    {
+      "word": "alleging",
+      "lemma": "allege",
+      "level": "C1",
+      "hebrew": "טוֹעֵן (לְלֹא הוֹכָחָה)",
+      "explanation_hebrew": "מַאֲשִׁים אוֹ טוֹעֵן מַשֶּׁהוּ בְּלִי לְהוֹכִיחַ עֲדַיִן",
+      "pronunciation_hebrew": "אָלֶגִ'ינְג",
+      "example": "A report alleging corruption was published."
+    },
+    {
+      "word": "bias",
+      "lemma": "bias",
+      "level": "B2",
+      "hebrew": "הֲטָיָה / מַשּׂוֹא פָּנִים",
+      "explanation_hebrew": "נְטִיָּה לֹא הוֹגֶנֶת לְטוֹבַת צַד אֶחָד",
+      "pronunciation_hebrew": "בַּיְאַס",
+      "example": "The judge was accused of bias."
+    },
+    {
+      "word": "extension",
+      "lemma": "extension",
+      "level": "B2",
+      "hebrew": "הַאֲרָכָה",
+      "explanation_hebrew": "תּוֹסֶפֶת שֶׁל זְמַן אוֹ שֶׁל מֶרְחָב",
+      "pronunciation_hebrew": "אִיקְסְטֶנְשְׁן",
+      "example": "They asked for an extension of the deadline."
+    },
+    {
+      "word": "tallies",
+      "lemma": "tally",
+      "level": "C1",
+      "hebrew": "סְפִירוֹת / תּוֹצָאוֹת",
+      "explanation_hebrew": "מִסְפָּרִים סוֹפִיִּים שֶׁל קוֹלוֹת אוֹ נְקֻדּוֹת",
+      "pronunciation_hebrew": "טָאלִיז",
+      "example": "The final tallies showed a clear winner."
+    },
+    {
+      "word": "momentum",
+      "lemma": "momentum",
+      "level": "C1",
+      "hebrew": "תְּנוּפָה",
+      "explanation_hebrew": "כֹּחַ הַהִתְקַדְּמוּת שֶׁהוֹלֵךְ וּמִתְחַזֵּק",
+      "pronunciation_hebrew": "מוֹמֶנְטוּם",
+      "example": "The campaign gained momentum in the last week."
+    },
+    {
+      "word": "turnout",
+      "lemma": "turnout",
+      "level": "B2",
+      "hebrew": "שִׁעוּר הַצְבָּעָה",
+      "explanation_hebrew": "מִסְפַּר הָאֲנָשִׁים שֶׁהִגִּיעוּ לְהַצְבִּיעַ אוֹ לְאֵרוּעַ",
+      "pronunciation_hebrew": "טֶרְנְאַאוּט",
+      "example": "Voter turnout was very high this year."
+    },
+    {
+      "word": "abstention",
+      "lemma": "abstention",
+      "level": "C1",
+      "hebrew": "הִמָּנְעוּת (מֵהַצְבָּעָה)",
+      "explanation_hebrew": "בְּחִירָה שֶׁלֹּא לְהַצְבִּיעַ אוֹ לֹא לְהִשְׁתַּתֵּף",
+      "pronunciation_hebrew": "אָבְּסְטֶנְשְׁן",
+      "example": "A high rate of abstention worried the parties."
+    },
+    {
+      "word": "disconsolate",
+      "lemma": "disconsolate",
+      "level": "C2",
+      "hebrew": "מְדֻכְדָּךְ מְאוֹד",
+      "explanation_hebrew": "עָצוּב עַד כְּדֵי כָּךְ שֶׁאִי אֶפְשָׁר לְנַחֵם",
+      "pronunciation_hebrew": "דִיסְקוֹנְסֶלֵט",
+      "example": "The disconsolate fans left the stadium quietly."
+    },
+    {
+      "word": "hostile",
+      "lemma": "hostile",
+      "level": "B2",
+      "hebrew": "עוֹיֵן",
+      "explanation_hebrew": "לֹא יְדִידוּתִי, מָלֵא הִתְנַגְּדוּת אוֹ אֵיבָה",
+      "pronunciation_hebrew": "הוֹסְטַייל",
+      "example": "He faced a hostile crowd at the meeting."
+    },
+    {
+      "word": "hurdles",
+      "lemma": "hurdle",
+      "level": "B2",
+      "hebrew": "מִכְשׁוֹלִים",
+      "explanation_hebrew": "קְשָׁיִים אוֹ בְּעָיוֹת שֶׁצָּרִיךְ לְהִתְגַּבֵּר עֲלֵיהֶם",
+      "pronunciation_hebrew": "הֶרְדֶלְז",
+      "example": "There are still many hurdles to overcome."
+    },
+    {
+      "word": "fiscal",
+      "lemma": "fiscal",
+      "level": "C1",
+      "hebrew": "פִיסְקָלִי / תַּקְצִיבִי",
+      "explanation_hebrew": "קָשׁוּר לְכַסְפֵּי הַמְּדִינָה וּלְמִסִּים",
+      "pronunciation_hebrew": "פִיסְקָל",
+      "example": "The government announced a new fiscal plan."
+    },
+    {
+      "word": "scrutinised",
+      "lemma": "scrutinise",
+      "level": "C1",
+      "hebrew": "בָּחַן בִּקְפִּידָה",
+      "explanation_hebrew": "בָּדַק מַשֶּׁהוּ בְּתֹשֶׂם לֵב רַב וּבְקַפְּדָנוּת",
+      "pronunciation_hebrew": "סְקְרוּטִינַייזְד",
+      "example": "Investors scrutinised the new budget closely."
+    },
+    {
+      "word": "rigged",
+      "lemma": "rig",
+      "level": "C1",
+      "hebrew": "מְזֻיָּף / מְסֻדָּר מֵרֹאשׁ",
+      "explanation_hebrew": "מְסֻדָּר בְּמִרְמָה כְּדֵי שֶׁצַּד מְסֻיָּם יְנַצֵּחַ",
+      "pronunciation_hebrew": "רִיגְד",
+      "example": "They claimed the game was rigged."
+    },
+    {
+      "word": "animosity",
+      "lemma": "animosity",
+      "level": "C1",
+      "hebrew": "עוֹיְנוּת / אֵיבָה",
+      "explanation_hebrew": "רֶגֶשׁ חָזָק שֶׁל שִׂנְאָה אוֹ הִתְנַגְּדוּת",
+      "pronunciation_hebrew": "אָנִימוֹסִיטִי",
+      "example": "There was deep animosity between the two leaders."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "cattle",
+      "word": "dramatic",
       "type": "english_to_hebrew",
-      "question": "What does “cattle” mean?",
+      "question": "What does the word \"dramatic\" mean?",
       "options": [
-        "דגים",
-        "כבשים",
-        "בקר (פרות)",
-        "עופות"
+        "הֲטָיָה / מַשּׂוֹא פָּנִים",
+        "דְּרָמָטִי",
+        "בֻּטַּל",
+        "עוֹיְנוּת / אֵיבָה"
       ],
-      "correct_answer": "בקר (פרות)",
-      "explanation_hebrew": "“cattle” פירושו בקר (פרות)."
+      "correct_answer": "דְּרָמָטִי",
+      "explanation_hebrew": "הַמִּלָּה \"dramatic\" פֵּרוּשָׁהּ דְּרָמָטִי."
     },
     {
       "id": "B-q2",
-      "word": "herd",
-      "type": "english_to_hebrew",
-      "question": "What does “herd” mean?",
+      "word": "comeback",
+      "type": "hebrew_to_english",
+      "question": "Which English word means \"חֲזָרָה מְרַשֶּׁמֶת\"?",
       "options": [
-        "שדה",
-        "מכונה",
-        "בניין",
-        "עדר"
+        "rigged",
+        "fiscal",
+        "extension",
+        "comeback"
       ],
-      "correct_answer": "עדר",
-      "explanation_hebrew": "“herd” פירושו עדר."
+      "correct_answer": "comeback",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"חֲזָרָה מְרַשֶּׁמֶת\" הִיא \"comeback\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q3",
-      "word": "algorithm",
+      "word": "challenger",
       "type": "english_to_hebrew",
-      "question": "What does “algorithm” mean?",
+      "question": "What does the word \"challenger\" mean?",
       "options": [
-        "מסך",
-        "מצלמה",
-        "אלגוריתם",
-        "כבל"
+        "מִתְמוֹדֵד / יָרִיב",
+        "בֻּטַּל",
+        "מַשְׁקִיפִים",
+        "בֵּרֵךְ / אִחֵל"
       ],
-      "correct_answer": "אלגוריתם",
-      "explanation_hebrew": "“algorithm” פירושו אלגוריתם."
+      "correct_answer": "מִתְמוֹדֵד / יָרִיב",
+      "explanation_hebrew": "הַמִּלָּה \"challenger\" פֵּרוּשָׁהּ מִתְמוֹדֵד / יָרִיב."
     },
     {
       "id": "B-q4",
-      "word": "assigns",
-      "type": "english_to_hebrew",
-      "question": "What does “assigns” mean?",
+      "word": "jubilant",
+      "type": "hebrew_to_english",
+      "question": "Which English word means \"צוֹהֵל / שָׂמֵחַ מְאוֹד\"?",
       "options": [
-        "מקצה / מעניק",
-        "מסתיר",
-        "מוכר",
-        "מוחק"
+        "bias",
+        "jubilant",
+        "unprecedented",
+        "rigged"
       ],
-      "correct_answer": "מקצה / מעניק",
-      "explanation_hebrew": "“assigns” פירושו מקצה / מעניק."
+      "correct_answer": "jubilant",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"צוֹהֵל / שָׂמֵחַ מְאוֹד\" הִיא \"jubilant\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q5",
-      "word": "analyses",
+      "word": "negativity",
       "type": "english_to_hebrew",
-      "question": "What does “analyses” mean?",
+      "question": "What does the word \"negativity\" mean?",
       "options": [
-        "מתעלם",
-        "מנתח",
-        "מצלם בלבד",
-        "מוחק"
+        "סְפִירוֹת / תּוֹצָאוֹת",
+        "בָּחַן בִּקְפִּידָה",
+        "שְׁלִילִיּוּת",
+        "דֶּמוֹקְרַטְיָה"
       ],
-      "correct_answer": "מנתח",
-      "explanation_hebrew": "“analyses” פירושו מנתח."
+      "correct_answer": "שְׁלִילִיּוּת",
+      "explanation_hebrew": "הַמִּלָּה \"negativity\" פֵּרוּשָׁהּ שְׁלִילִיּוּת."
     },
     {
       "id": "B-q6",
-      "word": "visible",
+      "word": "democracy",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “נראה / גלוי”?",
+      "question": "Which English word means \"דֶּמוֹקְרַטְיָה\"?",
       "options": [
-        "crucial",
-        "incredible",
-        "visible",
-        "traditional"
+        "animosity",
+        "momentum",
+        "democracy",
+        "convicted"
       ],
-      "correct_answer": "visible",
-      "explanation_hebrew": "המילה “visible” פירושה נראה / גלוי."
+      "correct_answer": "democracy",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"דֶּמוֹקְרַטְיָה\" הִיא \"democracy\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q7",
-      "word": "generation",
+      "word": "convicted",
       "type": "english_to_hebrew",
-      "question": "What does “generation” mean?",
+      "question": "What does the word \"convicted\" mean?",
       "options": [
-        "דור",
-        "משפחה אחת",
-        "מקצוע",
-        "שכונה"
+        "עוֹיֵן",
+        "מַשְׁקִיפִים",
+        "מֻרְשָׁע (בְּדִין)",
+        "מִכְשׁוֹלִים"
       ],
-      "correct_answer": "דור",
-      "explanation_hebrew": "“generation” פירושו דור."
+      "correct_answer": "מֻרְשָׁע (בְּדִין)",
+      "explanation_hebrew": "הַמִּלָּה \"convicted\" פֵּרוּשָׁהּ מֻרְשָׁע (בְּדִין)."
     },
     {
       "id": "B-q8",
-      "word": "incredible",
+      "word": "annulled",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מדהים / לא ייאמן”?",
+      "question": "Which English word means \"בֻּטַּל\"?",
       "options": [
-        "crucial",
-        "visible",
-        "incredible",
-        "traditional"
+        "hurdles",
+        "challenger",
+        "disconsolate",
+        "annulled"
       ],
-      "correct_answer": "incredible",
-      "explanation_hebrew": "המילה “incredible” פירושה מדהים / לא ייאמן."
+      "correct_answer": "annulled",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"בֻּטַּל\" הִיא \"annulled\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q9",
-      "word": "traditional",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מסורתי”?",
+      "word": "congratulated",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"congratulated\" mean?",
       "options": [
-        "visible",
-        "crucial",
-        "traditional",
-        "incredible"
+        "בֵּרֵךְ / אִחֵל",
+        "מֻרְשָׁע (בְּדִין)",
+        "צוֹהֵל / שָׂמֵחַ מְאוֹד",
+        "מַשְׁקִיפִים"
       ],
-      "correct_answer": "traditional",
-      "explanation_hebrew": "המילה “traditional” פירושה מסורתי."
+      "correct_answer": "בֵּרֵךְ / אִחֵל",
+      "explanation_hebrew": "הַמִּלָּה \"congratulated\" פֵּרוּשָׁהּ בֵּרֵךְ / אִחֵל."
     },
     {
       "id": "B-q10",
-      "word": "profession",
-      "type": "english_to_hebrew",
-      "question": "What does “profession” mean?",
+      "word": "observers",
+      "type": "hebrew_to_english",
+      "question": "Which English word means \"מַשְׁקִיפִים\"?",
       "options": [
-        "משחק",
-        "תחביב",
-        "חופשה",
-        "מקצוע"
+        "turnout",
+        "alleging",
+        "congratulated",
+        "observers"
       ],
-      "correct_answer": "מקצוע",
-      "explanation_hebrew": "“profession” פירושו מקצוע."
+      "correct_answer": "observers",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"מַשְׁקִיפִים\" הִיא \"observers\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q11",
-      "word": "astonished",
+      "word": "unprecedented",
       "type": "english_to_hebrew",
-      "question": "What does “astonished” mean?",
+      "question": "What does the word \"unprecedented\" mean?",
       "options": [
-        "נדהם / מופתע מאוד",
-        "כועס",
-        "רגוע",
-        "משועמם"
+        "מַשְׁקִיפִים",
+        "חֲסַר תַּקְדִּים",
+        "מֻרְשָׁע (בְּדִין)",
+        "עוֹיְנוּת / אֵיבָה"
       ],
-      "correct_answer": "נדהם / מופתע מאוד",
-      "explanation_hebrew": "“astonished” פירושו נדהם / מופתע מאוד."
+      "correct_answer": "חֲסַר תַּקְדִּים",
+      "explanation_hebrew": "הַמִּלָּה \"unprecedented\" פֵּרוּשָׁהּ חֲסַר תַּקְדִּים."
     },
     {
       "id": "B-q12",
-      "word": "potential",
-      "type": "english_to_hebrew",
-      "question": "What does “potential” mean?",
+      "word": "alleging",
+      "type": "hebrew_to_english",
+      "question": "Which English word means \"טוֹעֵן (לְלֹא הוֹכָחָה)\"?",
       "options": [
-        "סיכון",
-        "פוטנציאל",
-        "עבר",
-        "מחיר"
+        "comeback",
+        "abstention",
+        "extension",
+        "alleging"
       ],
-      "correct_answer": "פוטנציאל",
-      "explanation_hebrew": "“potential” פירושו פוטנציאל."
+      "correct_answer": "alleging",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"טוֹעֵן (לְלֹא הוֹכָחָה)\" הִיא \"alleging\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q13",
-      "word": "emergencies",
+      "word": "bias",
       "type": "english_to_hebrew",
-      "question": "What does “emergencies” mean?",
+      "question": "What does the word \"bias\" mean?",
       "options": [
-        "פגישות",
-        "הפסקות",
-        "מקרי חירום",
-        "חגים"
+        "הֲטָיָה / מַשּׂוֹא פָּנִים",
+        "פִיסְקָלִי / תַּקְצִיבִי",
+        "מִתְמוֹדֵד / יָרִיב",
+        "דְּרָמָטִי"
       ],
-      "correct_answer": "מקרי חירום",
-      "explanation_hebrew": "“emergencies” פירושו מקרי חירום."
+      "correct_answer": "הֲטָיָה / מַשּׂוֹא פָּנִים",
+      "explanation_hebrew": "הַמִּלָּה \"bias\" פֵּרוּשָׁהּ הֲטָיָה / מַשּׂוֹא פָּנִים."
     },
     {
       "id": "B-q14",
-      "word": "efficiency",
-      "type": "english_to_hebrew",
-      "question": "What does “efficiency” mean?",
+      "word": "extension",
+      "type": "hebrew_to_english",
+      "question": "Which English word means \"הַאֲרָכָה\"?",
       "options": [
-        "יעילות",
-        "איטיות",
-        "רעש",
-        "בזבוז"
+        "hurdles",
+        "convicted",
+        "annulled",
+        "extension"
       ],
-      "correct_answer": "יעילות",
-      "explanation_hebrew": "“efficiency” פירושו יעילות."
+      "correct_answer": "extension",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"הַאֲרָכָה\" הִיא \"extension\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q15",
-      "word": "historically",
+      "word": "tallies",
       "type": "english_to_hebrew",
-      "question": "What does “historically” mean?",
+      "question": "What does the word \"tallies\" mean?",
       "options": [
-        "בטעות",
-        "מבחינה היסטורית",
-        "בעתיד",
-        "כרגע"
+        "שְׁלִילִיּוּת",
+        "בָּחַן בִּקְפִּידָה",
+        "הַאֲרָכָה",
+        "סְפִירוֹת / תּוֹצָאוֹת"
       ],
-      "correct_answer": "מבחינה היסטורית",
-      "explanation_hebrew": "“historically” פירושו מבחינה היסטורית."
+      "correct_answer": "סְפִירוֹת / תּוֹצָאוֹת",
+      "explanation_hebrew": "הַמִּלָּה \"tallies\" פֵּרוּשָׁהּ סְפִירוֹת / תּוֹצָאוֹת."
     },
     {
       "id": "B-q16",
-      "word": "challenges",
-      "type": "english_to_hebrew",
-      "question": "What does “challenges” mean?",
+      "word": "momentum",
+      "type": "hebrew_to_english",
+      "question": "Which English word means \"תְּנוּפָה\"?",
       "options": [
-        "פתרונות",
-        "יתרונות",
-        "אתגרים",
-        "מתנות"
+        "momentum",
+        "democracy",
+        "unprecedented",
+        "annulled"
       ],
-      "correct_answer": "אתגרים",
-      "explanation_hebrew": "“challenges” פירושו אתגרים."
+      "correct_answer": "momentum",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"תְּנוּפָה\" הִיא \"momentum\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q17",
-      "word": "crucial",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “קריטי / חיוני”?",
+      "word": "turnout",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"turnout\" mean?",
       "options": [
-        "crucial",
-        "traditional",
-        "incredible",
-        "visible"
+        "דְּרָמָטִי",
+        "מִכְשׁוֹלִים",
+        "עוֹיֵן",
+        "שִׁעוּר הַצְבָּעָה"
       ],
-      "correct_answer": "crucial",
-      "explanation_hebrew": "המילה “crucial” פירושה קריטי / חיוני."
+      "correct_answer": "שִׁעוּר הַצְבָּעָה",
+      "explanation_hebrew": "הַמִּלָּה \"turnout\" פֵּרוּשָׁהּ שִׁעוּר הַצְבָּעָה."
     },
     {
       "id": "B-q18",
-      "word": "enabling",
-      "type": "english_to_hebrew",
-      "question": "What does “enabling” mean?",
+      "word": "abstention",
+      "type": "hebrew_to_english",
+      "question": "Which English word means \"הִמָּנְעוּת (מֵהַצְבָּעָה)\"?",
       "options": [
-        "מסבך",
-        "מעכב",
-        "מאפשר",
-        "מונע"
+        "observers",
+        "abstention",
+        "tallies",
+        "dramatic"
       ],
-      "correct_answer": "מאפשר",
-      "explanation_hebrew": "“enabling” פירושו מאפשר."
+      "correct_answer": "abstention",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"הִמָּנְעוּת (מֵהַצְבָּעָה)\" הִיא \"abstention\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q19",
-      "word": "thrive",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “משגשג / פורח”?",
+      "word": "disconsolate",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"disconsolate\" mean?",
       "options": [
-        "enabling",
-        "thrive",
-        "assigns",
-        "transformed"
+        "חֲסַר תַּקְדִּים",
+        "תְּנוּפָה",
+        "מְדֻכְדָּךְ מְאוֹד",
+        "הֲטָיָה / מַשּׂוֹא פָּנִים"
       ],
-      "correct_answer": "thrive",
-      "explanation_hebrew": "המילה “thrive” פירושה משגשג / פורח."
+      "correct_answer": "מְדֻכְדָּךְ מְאוֹד",
+      "explanation_hebrew": "הַמִּלָּה \"disconsolate\" פֵּרוּשָׁהּ מְדֻכְדָּךְ מְאוֹד."
     },
     {
       "id": "B-q20",
-      "word": "inspections",
-      "type": "english_to_hebrew",
-      "question": "What does “inspections” mean?",
+      "word": "hostile",
+      "type": "hebrew_to_english",
+      "question": "Which English word means \"עוֹיֵן\"?",
       "options": [
-        "מכירות",
-        "ביקורות / בדיקות",
-        "חגיגות",
-        "חופשות"
+        "disconsolate",
+        "momentum",
+        "hostile",
+        "extension"
       ],
-      "correct_answer": "ביקורות / בדיקות",
-      "explanation_hebrew": "“inspections” פירושו ביקורות / בדיקות."
+      "correct_answer": "hostile",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"עוֹיֵן\" הִיא \"hostile\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q21",
-      "word": "compliance",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “עמידה בדרישות / ציות”?",
+      "word": "hurdles",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"hurdles\" mean?",
       "options": [
-        "obligations",
-        "efficiency",
-        "inspections",
-        "compliance"
+        "מִכְשׁוֹלִים",
+        "מְזֻיָּף / מְסֻדָּר מֵרֹאשׁ",
+        "חֲזָרָה מְרַשֶּׁמֶת",
+        "הַאֲרָכָה"
       ],
-      "correct_answer": "compliance",
-      "explanation_hebrew": "המילה “compliance” פירושה עמידה בדרישות / ציות."
+      "correct_answer": "מִכְשׁוֹלִים",
+      "explanation_hebrew": "הַמִּלָּה \"hurdles\" פֵּרוּשָׁהּ מִכְשׁוֹלִים."
     },
     {
       "id": "B-q22",
-      "word": "passionate",
-      "type": "english_to_hebrew",
-      "question": "What does “passionate” mean?",
+      "word": "fiscal",
+      "type": "hebrew_to_english",
+      "question": "Which English word means \"פִיסְקָלִי / תַּקְצִיבִי\"?",
       "options": [
-        "עייף",
-        "אדיש",
-        "עצבני",
-        "נלהב / בעל תשוקה"
+        "convicted",
+        "animosity",
+        "fiscal",
+        "bias"
       ],
-      "correct_answer": "נלהב / בעל תשוקה",
-      "explanation_hebrew": "“passionate” פירושו נלהב / בעל תשוקה."
+      "correct_answer": "fiscal",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"פִיסְקָלִי / תַּקְצִיבִי\" הִיא \"fiscal\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q23",
-      "word": "transformed",
+      "word": "scrutinised",
       "type": "english_to_hebrew",
-      "question": "What does “transformed” mean?",
+      "question": "What does the word \"scrutinised\" mean?",
       "options": [
-        "העתיק",
-        "הרס",
-        "שמר",
-        "שינה מן היסוד"
+        "שִׁעוּר הַצְבָּעָה",
+        "בָּחַן בִּקְפִּידָה",
+        "הֲטָיָה / מַשּׂוֹא פָּנִים",
+        "מִכְשׁוֹלִים"
       ],
-      "correct_answer": "שינה מן היסוד",
-      "explanation_hebrew": "“transformed” פירושו שינה מן היסוד."
+      "correct_answer": "בָּחַן בִּקְפִּידָה",
+      "explanation_hebrew": "הַמִּלָּה \"scrutinised\" פֵּרוּשָׁהּ בָּחַן בִּקְפִּידָה."
     },
     {
       "id": "B-q24",
-      "word": "revolutionary",
+      "word": "rigged",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מהפכני”?",
+      "question": "Which English word means \"מְזֻיָּף / מְסֻדָּר מֵרֹאשׁ\"?",
       "options": [
-        "traditional",
-        "revolutionary",
-        "passionate",
-        "crucial"
+        "tallies",
+        "rigged",
+        "democracy",
+        "challenger"
       ],
-      "correct_answer": "revolutionary",
-      "explanation_hebrew": "המילה “revolutionary” פירושה מהפכני."
+      "correct_answer": "rigged",
+      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"מְזֻיָּף / מְסֻדָּר מֵרֹאשׁ\" הִיא \"rigged\" בְּאַנְגְּלִית."
     },
     {
       "id": "B-q25",
-      "word": "sustainability",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “קיימות”?",
+      "word": "animosity",
+      "type": "english_to_hebrew",
+      "question": "What does the word \"animosity\" mean?",
       "options": [
-        "potential",
-        "sustainability",
-        "efficiency",
-        "compliance"
+        "חֲסַר תַּקְדִּים",
+        "בֵּרֵךְ / אִחֵל",
+        "טוֹעֵן (לְלֹא הוֹכָחָה)",
+        "עוֹיְנוּת / אֵיבָה"
       ],
-      "correct_answer": "sustainability",
-      "explanation_hebrew": "המילה “sustainability” פירושה קיימות."
+      "correct_answer": "עוֹיְנוּת / אֵיבָה",
+      "explanation_hebrew": "הַמִּלָּה \"animosity\" פֵּרוּשָׁהּ עוֹיְנוּת / אֵיבָה."
     }
   ]
 }
