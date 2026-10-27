@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-27",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Harry Kane: Bayern Munich and England striker wins Ballon d'Or after record season",
+  "article_url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central question does the article examine after Harry Kane's Ballon d'Or win?",
+      "difficulty": "C",
+      "options": [
+        "Why Kane left Bayern Munich after one season",
+        "How Kane's extraordinary scoring outweighed the absence of a World Cup or Champions League title",
+        "Why English players are no longer eligible for the award",
+        "How Bayern failed to win any domestic trophies"
+      ],
+      "correct_answer": "How Kane's extraordinary scoring outweighed the absence of a World Cup or Champions League title",
+      "explanation_hebrew": "הכתבה בוחנת כיצד תפוקת השערים החריגה של קיין הובילה לזכייה למרות שלא זכה במונדיאל או בליגת האלופות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What distinction did Kane achieve for English football?",
+      "difficulty": "C",
+      "options": [
+        "He became England's first Ballon d'Or winner.",
+        "He was the first English winner since Michael Owen in 2001.",
+        "He became the youngest winner in the award's history.",
+        "He was the first English player to finish in the top three."
+      ],
+      "correct_answer": "He was the first English winner since Michael Owen in 2001.",
+      "explanation_hebrew": "קיין היה האנגלי הראשון שזכה מאז מייקל אואן בשנת 2001, והחמישי מאנגליה בסך הכול."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which statistic best captures Kane's record club season?",
+      "difficulty": "C",
+      "options": [
+        "36 goals in all competitions",
+        "73 goals in 51 Bayern matches",
+        "61 goals in 51 club matches, a Bayern season record",
+        "14 Bundesliga goals and 10 international goals"
+      ],
+      "correct_answer": "61 goals in 51 club matches, a Bayern season record",
+      "explanation_hebrew": "קיין כבש 61 שערים ב־51 משחקי מועדון — שיא עונתי לשחקן באיירן."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When Kane says he had to “bide my time”, what does he mean?",
+      "difficulty": "C",
+      "options": [
+        "He had to change clubs every season.",
+        "He had to hide his ambitions from coaches.",
+        "He had to calculate how many minutes he played.",
+        "He had to wait patiently for opportunities while continuing to work."
+      ],
+      "correct_answer": "He had to wait patiently for opportunities while continuing to work.",
+      "explanation_hebrew": "bide my time פירושו להמתין בסבלנות להזדמנות המתאימה תוך המשך עבודה והתמדה."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Kane's 73 goals for club and country compare historically?",
+      "difficulty": "C",
+      "options": [
+        "Only Lionel Messi's 82 in 2011–12 was higher among players from Europe's top leagues.",
+        "It equalled Lionel Messi's all-time total.",
+        "It was lower than every previous Ballon d'Or winner.",
+        "It was the first season in which any player passed 60 goals."
+      ],
+      "correct_answer": "Only Lionel Messi's 82 in 2011–12 was higher among players from Europe's top leagues.",
+      "explanation_hebrew": "לפי הכתבה, רק 82 השערים של מסי ב־2011–12 עולים על 73 השערים של קיין במסגרת ההשוואה."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is Kane's victory described as unusual in the modern Ballon d'Or era?",
+      "difficulty": "C",
+      "options": [
+        "He played fewer than half of Bayern's matches.",
+        "He had never represented England.",
+        "He won without taking the World Cup, Champions League or a major continental international title.",
+        "He received the award before the season ended."
+      ],
+      "correct_answer": "He won without taking the World Cup, Champions League or a major continental international title.",
+      "explanation_hebrew": "ברוב השנים האחרונות הזוכים לקחו תואר מרכזי; קיין הוא רק המקרה החמישי בעשרים שנה ללא אחד מן התארים הגדולים המוזכרים."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three scoring achievements from Kane's 2025–26 season.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה הישגי הבקעה מדויקים, עם מספרים או הקשר של מפעל.",
+      "expected_points": [
+        "He scored 61 goals in all competitions for Bayern, a club season record.",
+        "He scored 36 Bundesliga goals, 17 more than anyone else.",
+        "He scored 14 Champions League goals.",
+        "He scored 10 German Cup goals, including a final hat-trick.",
+        "He scored 12 times for England, giving him 73 club-and-country goals."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why Kane won the award and why the victory was historically notable in 3–4 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשלב את נתוני ההבקעה, היעדר התארים הגדולים והמשמעות ההיסטורית לאנגליה ולבאיירן.",
+      "expected_points": [
+        "Kane produced an unmatched club season with 61 Bayern goals and 73 for club and country.",
+        "His output included a Bundesliga scoring title and records across competitions.",
+        "He won despite losing the World Cup and Champions League semi-finals.",
+        "He became the first English winner since 2001 and the first Bayern winner since 1981."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Evaluate the claim that individual performance mattered more than team trophies in Kane's win. Use at least three details.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג עמדה מנומקת ולהשתמש בלפחות שלוש ראיות, תוך התייחסות גם לתפוקה האישית וגם להישגים הקבוצתיים.",
+      "expected_points": [
+        "Kane scored a Bayern-record 61 club goals and 73 for club and country.",
+        "He was 19 goals clear of every other player in Europe's top five leagues at club level.",
+        "Bayern won the German double, but Kane did not win the World Cup or Champions League.",
+        "Only four other winners in the past 20 years had won without one of the listed top international or European trophies.",
+        "His exceptional numbers therefore appear to have outweighed the usual emphasis on major trophies."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short analytical paragraph on Kane's chances of retaining the Ballon d'Or next year.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לנסח ניתוח מאוזן הכולל גורם אחד לטובת קיין, תחרות מרכזית אחת ותנאי אפשרי לזכייה נוספת.",
+      "expected_points": [
+        "Kane began the new season with 16 goals in 16 Bayern and England matches.",
+        "A Bayern Treble combined with continued scoring would strengthen his case.",
+        "Lamine Yamal has 10 goals and 10 assists and Barcelona are Champions League favourites.",
+        "Kylian Mbappe has also started strongly with 14 goals in 13 appearances.",
+        "Winning consecutive awards would be rare for anyone other than Messi or Ronaldo."
+      ]
+    }
+  ]
+}

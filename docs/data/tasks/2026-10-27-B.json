@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-27",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Brazil election: Lula wins fourth term in dramatic comeback over Bolsonaro",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly reporting?",
+      "difficulty": "B",
+      "options": [
+        "Brazil's Congress cancelled a presidential election.",
+        "Lula won a fourth presidential term after overturning a first-round defeat.",
+        "Flávio Bolsonaro won after a recount.",
+        "Brazil returned to military rule after the vote."
+      ],
+      "correct_answer": "Lula won a fourth presidential term after overturning a first-round defeat.",
+      "explanation_hebrew": "הכתבה מדווחת על ניצחונו של לולה לכהונה רביעית לאחר שסיים מאחורי בולסונרו בסיבוב הראשון."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What share of the runoff vote did Lula receive?",
+      "difficulty": "B",
+      "options": [
+        "45%",
+        "51.79%",
+        "53.21%",
+        "62%"
+      ],
+      "correct_answer": "51.79%",
+      "explanation_hebrew": "לולה קיבל 51.79% מן הקולות בסיבוב המכריע."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was voting extended nationwide by two hours?",
+      "difficulty": "B",
+      "options": [
+        "Only Lula's team requested more time.",
+        "The electoral court had lost millions of ballots.",
+        "Both campaigns raised access problems, including missing buses and heavy rain.",
+        "The first-round result had been annulled."
+      ],
+      "correct_answer": "Both campaigns raised access problems, including missing buses and heavy rain.",
+      "explanation_hebrew": "שני המחנות ביקשו הארכה: מחנה לולה בשל מחסור באוטובוסים ומחנה בולסונרו בשל גשם כבד."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “annulled” mean?",
+      "difficulty": "B",
+      "options": [
+        "Counted more slowly",
+        "Celebrated publicly",
+        "Investigated by journalists",
+        "Declared invalid or cancelled"
+      ],
+      "correct_answer": "Declared invalid or cancelled",
+      "explanation_hebrew": "annulled פירושו לבטל תוצאה מבחינה רשמית או להכריז שאינה תקפה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What helped Lula's campaign build momentum before the runoff?",
+      "difficulty": "B",
+      "options": [
+        "It focused on increasing turnout after 33 million people missed the first round.",
+        "It persuaded Bolsonaro to withdraw.",
+        "It won support from every member of Congress.",
+        "It promised to end the second round early."
+      ],
+      "correct_answer": "It focused on increasing turnout after 33 million people missed the first round.",
+      "explanation_hebrew": "מחנה לולה התמקד בהגדלת שיעור ההצבעה לאחר ש־33 מיליון איש לא הצביעו בסיבוב הראשון."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article suggest Bolsonaro's legal challenge is unlikely to succeed?",
+      "difficulty": "B",
+      "options": [
+        "Brazilian law does not allow election challenges.",
+        "He had already congratulated Lula privately.",
+        "The extension was requested by both campaigns, the electoral court upheld the result, and Lula led by 4.4 million votes.",
+        "The Supreme Court refused to hear any election case."
+      ],
+      "correct_answer": "The extension was requested by both campaigns, the electoral court upheld the result, and Lula led by 4.4 million votes.",
+      "explanation_hebrew": "הכתבה מציגה כמה גורמים המחלישים את הערעור: שני הצדדים ביקשו הארכה, בית הדין אישר את התוצאה והפער היה גדול."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two major challenges Lula faces as he begins his fourth term.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני אתגרים מרכזיים המתוארים בכתבה.",
+      "expected_points": [
+        "Brazil remains deeply divided.",
+        "Flávio Bolsonaro refuses to recognise the result.",
+        "Congress is hostile and contains many Bolsonaro allies.",
+        "Markets reacted negatively and investors are examining Lula's fiscal plans.",
+        "Lula faces hostility from the US president."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the election result, Bolsonaro's response and the evidence about the voting extension in 3–4 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את הניצחון והאחוז, דרישת הביטול, נסיבות ההארכה והערכת סיכויי הערעור.",
+      "expected_points": [
+        "Lula won with 51.79% and secured a historic fourth term.",
+        "Flávio Bolsonaro refused to accept the result and called for it to be annulled.",
+        "Both campaigns had requested longer voting because supporters faced transport or weather problems.",
+        "The electoral court said the extension did not change the outcome, and Lula's lead was 4.4 million votes."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How did voter turnout contribute to Lula's comeback? Support your answer with evidence.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את הקשר בין ההיעדרות בסיבוב הראשון, מאמצי מחנה לולה והשינוי בסיבוב השני.",
+      "expected_points": [
+        "Flávio Bolsonaro led the first round by 47% to 45%.",
+        "About 33 million people did not vote in the first round.",
+        "Lula's campaign concentrated on bringing more people to vote.",
+        "The runoff recorded the largest fall in abstention between rounds since 1989.",
+        "Lula then won the runoff with 51.79%."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced short news paragraph about the result and the dispute that followed.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח פסקה חדשותית נייטרלית הכוללת את התוצאה, תגובת בולסונרו ושתי עובדות רלוונטיות למחלוקת.",
+      "expected_points": [
+        "States that Lula won a fourth term with 51.79%.",
+        "Notes that Flávio Bolsonaro rejected the result and requested annulment.",
+        "Mentions that both campaigns requested the voting extension.",
+        "Mentions the court's confirmation or the 4.4-million-vote gap.",
+        "Avoids presenting unsupported claims as fact."
+      ]
+    }
+  ]
+}

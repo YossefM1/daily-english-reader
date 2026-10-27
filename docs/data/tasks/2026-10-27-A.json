@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-27",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main news in the article?",
+      "difficulty": "A",
+      "options": [
+        "James Bourne received a kidney from his brother Chris and says the donation saved his life.",
+        "Busted announced a new arena tour with McFly.",
+        "James Bourne left Busted to join his brother's band.",
+        "Chris Bourne released a musical about organ donation."
+      ],
+      "correct_answer": "James Bourne received a kidney from his brother Chris and says the donation saved his life.",
+      "explanation_hebrew": "הכתבה מתמקדת בכך שכריס תרם כליה לאחיו ג'יימס, שאמר כי התרומה הצילה את חייו."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did James Bourne leave the Busted and McFly arena tour in September 2025?",
+      "difficulty": "A",
+      "options": [
+        "He wanted to finish writing a musical.",
+        "Health problems forced him to withdraw.",
+        "The tour was cancelled before it began.",
+        "He had decided to retire from music."
+      ],
+      "correct_answer": "Health problems forced him to withdraw.",
+      "explanation_hebrew": "ג'יימס פרש מן הסיבוב יום לפני תחילתו בגלל בעיות בריאות."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who replaced James on the tour?",
+      "difficulty": "A",
+      "options": [
+        "Charlie Simpson",
+        "Matt Willis",
+        "His younger brother Chris",
+        "A member of McFly"
+      ],
+      "correct_answer": "His younger brother Chris",
+      "explanation_hebrew": "אחיו הצעיר כריס החליף אותו בסיבוב ההופעות."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did James say doctors had told him before the transplant?",
+      "difficulty": "A",
+      "options": [
+        "He could return to touring immediately.",
+        "He would never need surgery.",
+        "His brother could not be a donor.",
+        "He had only a few years left to live."
+      ],
+      "correct_answer": "He had only a few years left to live.",
+      "explanation_hebrew": "ג'יימס סיפר שהרופאים אמרו לו שנותרו לו כמה שנות חיים בלבד."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “recovering” mean?",
+      "difficulty": "A",
+      "options": [
+        "Getting better after surgery",
+        "Preparing to perform on stage",
+        "Learning to play a new instrument",
+        "Explaining the cause of an illness"
+      ],
+      "correct_answer": "Getting better after surgery",
+      "explanation_hebrew": "recovering בהקשר הזה פירושו להחלים ולהרגיש טוב יותר לאחר הניתוח."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does James call Chris a “hero”?",
+      "difficulty": "A",
+      "options": [
+        "Chris wrote Busted's biggest hit.",
+        "Chris organised the transplant surgery.",
+        "Chris supported him twice: by taking his tour place and by donating a kidney.",
+        "Chris explained James's medical condition to the public."
+      ],
+      "correct_answer": "Chris supported him twice: by taking his tour place and by donating a kidney.",
+      "explanation_hebrew": "כריס החליף את ג'יימס בסיבוב ההופעות ובהמשך תרם לו כליה; לכן ג'יימס מתאר אותו כגיבור."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two details about James and Chris after the transplant operations.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני פרטים מדויקים על מצבם או על הדברים שאמרו לאחר הניתוחים.",
+      "expected_points": [
+        "James said he was already beginning to feel much better.",
+        "James said he would still need more recovery time.",
+        "He said both brothers were recovering well.",
+        "Chris posted the message “We did it brother.”"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise James Bourne's health story and his brother's role in 2–3 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את הפרישה מן הסיבוב, חומרת המצב, תרומת הכליה וההחלמה.",
+      "expected_points": [
+        "James withdrew from the 2025 arena tour because of serious health problems.",
+        "His younger brother Chris first replaced him on tour and later donated a kidney.",
+        "James said the donation saved his life and that both were recovering."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain how the article shows a close bond between the brothers. Use two facts.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הקשר בין האחים באמצעות שתי ראיות מדויקות מן הכתבה.",
+      "expected_points": [
+        "Chris stepped in for James on the tour when James became ill.",
+        "Chris donated one of his kidneys to James.",
+        "James called Chris a hero and said he had saved his life again.",
+        "Chris publicly wrote, “We did it brother.”"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short factual update for Busted fans about James's operation and recovery.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב עדכון קצר, ברור ונייטרלי הכולל את התרומה, זהות התורם ומצב ההחלמה, ללא המצאת פרטים רפואיים.",
+      "expected_points": [
+        "States that James received a kidney transplant.",
+        "Identifies his younger brother Chris as the donor.",
+        "States that both brothers are recovering well.",
+        "Avoids guessing the medical condition, which was not disclosed."
+      ]
+    }
+  ]
+}
