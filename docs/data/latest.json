@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Brazil election: Lula wins fourth term in dramatic comeback over Bolsonaro",
+  "title": "China's families are now supporting more old people than kids",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-  "published_at": "2026-10-26T21:02:47+00:00",
-  "age_hours_at_selection": 5.26,
-  "word_count": 941,
-  "generated_at": "2026-10-27T02:18:33.849511+00:00",
-  "difficulty_reason": "Moderate-length political report with some longer sentences and named institutions; useful B1/B2/C1 vocabulary and a little background on Brazilian politics.",
+  "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-10-27T23:16:08+00:00",
+  "age_hours_at_selection": 3.01,
+  "word_count": 658,
+  "generated_at": "2026-10-28T02:16:36.655491+00:00",
+  "difficulty_reason": "Moderate report mixing statistics with expert analysis; sentences are medium-length and vocabulary is B1/B2/C1 with some demographic background needed.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "dramatic",
-      "lemma": "dramatic",
+      "word": "elderly",
+      "lemma": "elderly",
       "level": "B2",
-      "hebrew": "דְּרָמָטִי",
-      "explanation_hebrew": "מַפְתִּיעַ וּמַרְגִּישׁ, מָלֵא מְתִיחוּת אוֹ שִׁנּוּי גָּדוֹל",
-      "pronunciation_hebrew": "דְּרָמָטִיק",
-      "example": "The match had a dramatic finish."
+      "hebrew": "קשישים",
+      "explanation_hebrew": "אנשים זקנים",
+      "pronunciation_hebrew": "אֶלְדֶרְלִי",
+      "example": "The elderly need extra care."
     },
     {
-      "word": "comeback",
-      "lemma": "comeback",
+      "word": "dependent",
+      "lemma": "dependent",
       "level": "B2",
-      "hebrew": "חֲזָרָה מְרַשֶּׁמֶת",
-      "explanation_hebrew": "שִׁיבָה לְהַצְלָחָה אַחֲרֵי תְּקוּפָה שֶׁל כִּשָּׁלוֹן",
-      "pronunciation_hebrew": "קַאמְבֶּק",
-      "example": "The team made a stunning comeback."
+      "hebrew": "תלוי / נתמך",
+      "explanation_hebrew": "מי שזקוק לתמיכה",
+      "pronunciation_hebrew": "דִיפֶּנְדֶנְט",
+      "example": "Children are dependent on parents."
     },
     {
-      "word": "challenger",
-      "lemma": "challenger",
+      "word": "ratio",
+      "lemma": "ratio",
       "level": "B2",
-      "hebrew": "מִתְמוֹדֵד / יָרִיב",
-      "explanation_hebrew": "אָדָם שֶׁמִּתְחָרֶה נֶגֶד מִישֶׁהוּ עַל תַּפְקִיד אוֹ תֹּאַר",
-      "pronunciation_hebrew": "צָ'אלֶנְגֶ'ר",
-      "example": "The young challenger beat the champion."
+      "hebrew": "יחס",
+      "explanation_hebrew": "יחס מספרי בין שני דברים",
+      "pronunciation_hebrew": "רֵיישְׁיוֹ",
+      "example": "The ratio of teachers to students is high."
     },
     {
-      "word": "jubilant",
-      "lemma": "jubilant",
-      "level": "C1",
-      "hebrew": "צוֹהֵל / שָׂמֵחַ מְאוֹד",
-      "explanation_hebrew": "מָלֵא אֹשֶׁר וַחֲגִיגִיּוּת בִּגְלַל נִצָּחוֹן אוֹ הַצְלָחָה",
-      "pronunciation_hebrew": "גּ'וּבִּילַנְט",
-      "example": "The jubilant crowd sang in the streets."
-    },
-    {
-      "word": "negativity",
-      "lemma": "negativity",
-      "level": "C1",
-      "hebrew": "שְׁלִילִיּוּת",
-      "explanation_hebrew": "גִּישָׁה אוֹ אֲוִירָה שְׁלִילִית וּפֶסִימִית",
-      "pronunciation_hebrew": "נֶגָטִיבִיטִי",
-      "example": "He tried to avoid all the negativity online."
-    },
-    {
-      "word": "democracy",
-      "lemma": "democracy",
+      "word": "overtaking",
+      "lemma": "overtake",
       "level": "B2",
-      "hebrew": "דֶּמוֹקְרַטְיָה",
-      "explanation_hebrew": "שִׁיטַת מִמְשָׁל שֶׁבָּהּ הָעָם בּוֹחֵר אֶת מַנְהִיגָיו",
-      "pronunciation_hebrew": "דֶּמוֹקְרַסִי",
-      "example": "Free elections are the heart of a democracy."
+      "hebrew": "עוקף / עובר",
+      "explanation_hebrew": "חולף על פני ומתעלה",
+      "pronunciation_hebrew": "אוֹבֶרְטֵייקִינְג",
+      "example": "One figure is overtaking the other."
     },
     {
-      "word": "convicted",
-      "lemma": "convict",
-      "level": "C1",
-      "hebrew": "מֻרְשָׁע (בְּדִין)",
-      "explanation_hebrew": "נִמְצָא אַשֵׁם בְּבֵית מִשְׁפָּט",
-      "pronunciation_hebrew": "קוֹנְבִיקְטִיד",
-      "example": "He was convicted of fraud last year."
-    },
-    {
-      "word": "annulled",
-      "lemma": "annul",
-      "level": "C1",
-      "hebrew": "בֻּטַּל",
-      "explanation_hebrew": "הֻכְרַז כְּלֹא תַּקֵּף מִבְּחִינָה חֻקִּית",
-      "pronunciation_hebrew": "אָנַאלְד",
-      "example": "The court annulled the contract."
-    },
-    {
-      "word": "congratulated",
-      "lemma": "congratulate",
+      "word": "shrinking",
+      "lemma": "shrink",
       "level": "B2",
-      "hebrew": "בֵּרֵךְ / אִחֵל",
-      "explanation_hebrew": "אָמַר לְמִישֶׁהוּ מִלֵּי שֶׁבַח עַל הַצְלָחָה",
-      "pronunciation_hebrew": "קוֹנְגְרַצֶ'ולֵייטִיד",
-      "example": "They congratulated her on the award."
+      "hebrew": "מתכווץ / מצטמצם",
+      "explanation_hebrew": "נעשה קטן יותר",
+      "pronunciation_hebrew": "שְׁרִינְקִינְג",
+      "example": "The market is shrinking fast."
     },
     {
-      "word": "observers",
-      "lemma": "observer",
+      "word": "workforce",
+      "lemma": "workforce",
       "level": "B2",
-      "hebrew": "מַשְׁקִיפִים",
-      "explanation_hebrew": "אֲנָשִׁים שֶׁצּוֹפִים בְּמַשֶּׁהוּ וּמְנַתְּחִים אוֹתוֹ",
-      "pronunciation_hebrew": "אוֹבְּזֶרְבֶרְז",
-      "example": "Independent observers watched the election."
+      "hebrew": "כוח עבודה",
+      "explanation_hebrew": "כלל העובדים",
+      "pronunciation_hebrew": "וֶרְקְפוֹרְס",
+      "example": "The workforce is getting older."
     },
     {
-      "word": "unprecedented",
-      "lemma": "unprecedented",
+      "word": "milestone",
+      "lemma": "milestone",
       "level": "C1",
-      "hebrew": "חֲסַר תַּקְדִּים",
-      "explanation_hebrew": "שֶׁמֵּעוֹלָם לֹא קָרָה כָּמוֹהוּ בֶּעָבָר",
-      "pronunciation_hebrew": "אַנְפְּרֶסֶדֶנְטִיד",
-      "example": "The storm caused unprecedented damage."
+      "hebrew": "ציון דרך",
+      "explanation_hebrew": "אירוע חשוב ומשמעותי",
+      "pronunciation_hebrew": "מַיילְסְטוֹן",
+      "example": "This is a major milestone."
     },
     {
-      "word": "alleging",
-      "lemma": "allege",
+      "word": "grapples",
+      "lemma": "grapple",
       "level": "C1",
-      "hebrew": "טוֹעֵן (לְלֹא הוֹכָחָה)",
-      "explanation_hebrew": "מַאֲשִׁים אוֹ טוֹעֵן מַשֶּׁהוּ בְּלִי לְהוֹכִיחַ עֲדַיִן",
-      "pronunciation_hebrew": "אָלֶגִ'ינְג",
-      "example": "A report alleging corruption was published."
+      "hebrew": "מתמודד / נאבק",
+      "explanation_hebrew": "מתמודד עם בעיה קשה",
+      "pronunciation_hebrew": "גְרַאפְּלז",
+      "example": "The country grapples with debt."
     },
     {
-      "word": "bias",
-      "lemma": "bias",
+      "word": "ageing",
+      "lemma": "age",
       "level": "B2",
-      "hebrew": "הֲטָיָה / מַשּׂוֹא פָּנִים",
-      "explanation_hebrew": "נְטִיָּה לֹא הוֹגֶנֶת לְטוֹבַת צַד אֶחָד",
-      "pronunciation_hebrew": "בַּיְאַס",
-      "example": "The judge was accused of bias."
+      "hebrew": "מזדקן / הזדקנות",
+      "explanation_hebrew": "תהליך של הגעה לגיל מבוגר",
+      "pronunciation_hebrew": "אֵייגִ'ינְג",
+      "example": "An ageing population is a challenge."
     },
     {
-      "word": "extension",
-      "lemma": "extension",
+      "word": "implications",
+      "lemma": "implication",
+      "level": "C1",
+      "hebrew": "השלכות",
+      "explanation_hebrew": "תוצאות אפשריות",
+      "pronunciation_hebrew": "אִימְפְּלִיקֵיישְׁנז",
+      "example": "The decision has serious implications."
+    },
+    {
+      "word": "pensions",
+      "lemma": "pension",
       "level": "B2",
-      "hebrew": "הַאֲרָכָה",
-      "explanation_hebrew": "תּוֹסֶפֶת שֶׁל זְמַן אוֹ שֶׁל מֶרְחָב",
-      "pronunciation_hebrew": "אִיקְסְטֶנְשְׁן",
-      "example": "They asked for an extension of the deadline."
+      "hebrew": "פנסיות / קצבאות",
+      "explanation_hebrew": "תשלומים לאנשים בגיל פרישה",
+      "pronunciation_hebrew": "פֶּנְשְׁנז",
+      "example": "Pensions may rise next year."
     },
     {
-      "word": "tallies",
-      "lemma": "tally",
-      "level": "C1",
-      "hebrew": "סְפִירוֹת / תּוֹצָאוֹת",
-      "explanation_hebrew": "מִסְפָּרִים סוֹפִיִּים שֶׁל קוֹלוֹת אוֹ נְקֻדּוֹת",
-      "pronunciation_hebrew": "טָאלִיז",
-      "example": "The final tallies showed a clear winner."
-    },
-    {
-      "word": "momentum",
-      "lemma": "momentum",
-      "level": "C1",
-      "hebrew": "תְּנוּפָה",
-      "explanation_hebrew": "כֹּחַ הַהִתְקַדְּמוּת שֶׁהוֹלֵךְ וּמִתְחַזֵּק",
-      "pronunciation_hebrew": "מוֹמֶנְטוּם",
-      "example": "The campaign gained momentum in the last week."
-    },
-    {
-      "word": "turnout",
-      "lemma": "turnout",
+      "word": "urging",
+      "lemma": "urge",
       "level": "B2",
-      "hebrew": "שִׁעוּר הַצְבָּעָה",
-      "explanation_hebrew": "מִסְפַּר הָאֲנָשִׁים שֶׁהִגִּיעוּ לְהַצְבִּיעַ אוֹ לְאֵרוּעַ",
-      "pronunciation_hebrew": "טֶרְנְאַאוּט",
-      "example": "Voter turnout was very high this year."
+      "hebrew": "דוחק / קורא בתוקף",
+      "explanation_hebrew": "מבקש בתוקף",
+      "pronunciation_hebrew": "אֶרְגִ'ינְג",
+      "example": "He is urging people to vote."
     },
     {
-      "word": "abstention",
-      "lemma": "abstention",
-      "level": "C1",
-      "hebrew": "הִמָּנְעוּת (מֵהַצְבָּעָה)",
-      "explanation_hebrew": "בְּחִירָה שֶׁלֹּא לְהַצְבִּיעַ אוֹ לֹא לְהִשְׁתַּתֵּף",
-      "pronunciation_hebrew": "אָבְּסְטֶנְשְׁן",
-      "example": "A high rate of abstention worried the parties."
-    },
-    {
-      "word": "disconsolate",
-      "lemma": "disconsolate",
-      "level": "C2",
-      "hebrew": "מְדֻכְדָּךְ מְאוֹד",
-      "explanation_hebrew": "עָצוּב עַד כְּדֵי כָּךְ שֶׁאִי אֶפְשָׁר לְנַחֵם",
-      "pronunciation_hebrew": "דִיסְקוֹנְסֶלֵט",
-      "example": "The disconsolate fans left the stadium quietly."
-    },
-    {
-      "word": "hostile",
-      "lemma": "hostile",
+      "word": "proportion",
+      "lemma": "proportion",
       "level": "B2",
-      "hebrew": "עוֹיֵן",
-      "explanation_hebrew": "לֹא יְדִידוּתִי, מָלֵא הִתְנַגְּדוּת אוֹ אֵיבָה",
-      "pronunciation_hebrew": "הוֹסְטַייל",
-      "example": "He faced a hostile crowd at the meeting."
+      "hebrew": "שיעור / חלק",
+      "explanation_hebrew": "חלק מתוך השלם",
+      "pronunciation_hebrew": "פְּרוֹפּוֹרְשְׁן",
+      "example": "A large proportion agreed."
     },
     {
-      "word": "hurdles",
-      "lemma": "hurdle",
+      "word": "cohorts",
+      "lemma": "cohort",
+      "level": "C1",
+      "hebrew": "קבוצות / שכבות",
+      "explanation_hebrew": "קבוצות של אנשים מאותה תקופה",
+      "pronunciation_hebrew": "קוֹהוֹרְטס",
+      "example": "Birth cohorts vary in size."
+    },
+    {
+      "word": "expectancy",
+      "lemma": "expectancy",
+      "level": "C1",
+      "hebrew": "תוחלת",
+      "explanation_hebrew": "ציפייה או תוחלת, למשל חיים",
+      "pronunciation_hebrew": "אֶקְסְפֶּקְטַנְסִי",
+      "example": "Life expectancy has risen."
+    },
+    {
+      "word": "strain",
+      "lemma": "strain",
       "level": "B2",
-      "hebrew": "מִכְשׁוֹלִים",
-      "explanation_hebrew": "קְשָׁיִים אוֹ בְּעָיוֹת שֶׁצָּרִיךְ לְהִתְגַּבֵּר עֲלֵיהֶם",
-      "pronunciation_hebrew": "הֶרְדֶלְז",
-      "example": "There are still many hurdles to overcome."
+      "hebrew": "עומס / מעמסה",
+      "explanation_hebrew": "לחץ או מאמץ גדול",
+      "pronunciation_hebrew": "סְטְרֵיין",
+      "example": "It put a strain on the system."
     },
     {
-      "word": "fiscal",
-      "lemma": "fiscal",
+      "word": "phenomenon",
+      "lemma": "phenomenon",
       "level": "C1",
-      "hebrew": "פִיסְקָלִי / תַּקְצִיבִי",
-      "explanation_hebrew": "קָשׁוּר לְכַסְפֵּי הַמְּדִינָה וּלְמִסִּים",
-      "pronunciation_hebrew": "פִיסְקָל",
-      "example": "The government announced a new fiscal plan."
+      "hebrew": "תופעה",
+      "explanation_hebrew": "דבר שקורה וניתן לראותו",
+      "pronunciation_hebrew": "פֶנוֹמֶנוֹן",
+      "example": "It is a strange phenomenon."
     },
     {
-      "word": "scrutinised",
-      "lemma": "scrutinise",
+      "word": "demographic",
+      "lemma": "demographic",
       "level": "C1",
-      "hebrew": "בָּחַן בִּקְפִּידָה",
-      "explanation_hebrew": "בָּדַק מַשֶּׁהוּ בְּתֹשֶׂם לֵב רַב וּבְקַפְּדָנוּת",
-      "pronunciation_hebrew": "סְקְרוּטִינַייזְד",
-      "example": "Investors scrutinised the new budget closely."
+      "hebrew": "דמוגרפי",
+      "explanation_hebrew": "הקשור לאוכלוסייה ומאפייניה",
+      "pronunciation_hebrew": "דֶמוֹגְרַפִיק",
+      "example": "A demographic shift is underway."
     },
     {
-      "word": "rigged",
-      "lemma": "rig",
-      "level": "C1",
-      "hebrew": "מְזֻיָּף / מְסֻדָּר מֵרֹאשׁ",
-      "explanation_hebrew": "מְסֻדָּר בְּמִרְמָה כְּדֵי שֶׁצַּד מְסֻיָּם יְנַצֵּחַ",
-      "pronunciation_hebrew": "רִיגְד",
-      "example": "They claimed the game was rigged."
+      "word": "symbolic",
+      "lemma": "symbolic",
+      "level": "B2",
+      "hebrew": "סמלי",
+      "explanation_hebrew": "בעל משמעות סמלית",
+      "pronunciation_hebrew": "סִימְבּוֹלִיק",
+      "example": "The gesture was symbolic."
     },
     {
-      "word": "animosity",
-      "lemma": "animosity",
+      "word": "ambitions",
+      "lemma": "ambition",
+      "level": "B2",
+      "hebrew": "שאיפות",
+      "explanation_hebrew": "רצונות להצלחה",
+      "pronunciation_hebrew": "אַמְבִּישְׁנז",
+      "example": "She has big ambitions."
+    },
+    {
+      "word": "urbanisation",
+      "lemma": "urbanisation",
       "level": "C1",
-      "hebrew": "עוֹיְנוּת / אֵיבָה",
-      "explanation_hebrew": "רֶגֶשׁ חָזָק שֶׁל שִׂנְאָה אוֹ הִתְנַגְּדוּת",
-      "pronunciation_hebrew": "אָנִימוֹסִיטִי",
-      "example": "There was deep animosity between the two leaders."
+      "hebrew": "עיור",
+      "explanation_hebrew": "מעבר של אנשים לערים",
+      "pronunciation_hebrew": "אֶרְבַּנַיזֵיישְׁן",
+      "example": "Rapid urbanisation changed the country."
+    },
+    {
+      "word": "controversial",
+      "lemma": "controversial",
+      "level": "B2",
+      "hebrew": "שנוי במחלוקת",
+      "explanation_hebrew": "מעורר ויכוח",
+      "pronunciation_hebrew": "קוֹנְטְרוֹבֶרְשְׁל",
+      "example": "It was a controversial decision."
+    },
+    {
+      "word": "contested",
+      "lemma": "contest",
+      "level": "C1",
+      "hebrew": "מעורער / שנוי עליו",
+      "explanation_hebrew": "שיש עליו ויכוח",
+      "pronunciation_hebrew": "קוֹנְטֶסְטֶד",
+      "example": "The results were contested."
+    },
+    {
+      "word": "persuade",
+      "lemma": "persuade",
+      "level": "B2",
+      "hebrew": "לשכנע",
+      "explanation_hebrew": "לגרום למישהו להסכים",
+      "pronunciation_hebrew": "פֶּרְסְוֵייד",
+      "example": "They tried to persuade him."
+    },
+    {
+      "word": "fertility",
+      "lemma": "fertility",
+      "level": "C1",
+      "hebrew": "פוריות",
+      "explanation_hebrew": "היכולת להביא ילדים",
+      "pronunciation_hebrew": "פֶרְטִילִיטִי",
+      "example": "Fertility rates are falling."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "dramatic",
+      "word": "elderly",
       "type": "english_to_hebrew",
-      "question": "What does the word \"dramatic\" mean?",
+      "question": "What does “elderly” mean?",
       "options": [
-        "הֲטָיָה / מַשּׂוֹא פָּנִים",
-        "דְּרָמָטִי",
-        "בֻּטַּל",
-        "עוֹיְנוּת / אֵיבָה"
+        "עוקף / עובר",
+        "יחס",
+        "קשישים",
+        "תלוי / נתמך"
       ],
-      "correct_answer": "דְּרָמָטִי",
-      "explanation_hebrew": "הַמִּלָּה \"dramatic\" פֵּרוּשָׁהּ דְּרָמָטִי."
+      "correct_answer": "קשישים",
+      "explanation_hebrew": "אנשים זקנים"
     },
     {
       "id": "B-q2",
-      "word": "comeback",
+      "word": "dependent",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"חֲזָרָה מְרַשֶּׁמֶת\"?",
+      "question": "מהי המילה באנגלית עבור “תלוי / נתמך”?",
       "options": [
-        "rigged",
-        "fiscal",
-        "extension",
-        "comeback"
+        "overtaking",
+        "shrinking",
+        "ratio",
+        "dependent"
       ],
-      "correct_answer": "comeback",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"חֲזָרָה מְרַשֶּׁמֶת\" הִיא \"comeback\" בְּאַנְגְּלִית."
+      "correct_answer": "dependent",
+      "explanation_hebrew": "מי שזקוק לתמיכה"
     },
     {
       "id": "B-q3",
-      "word": "challenger",
+      "word": "ratio",
       "type": "english_to_hebrew",
-      "question": "What does the word \"challenger\" mean?",
+      "question": "What does “ratio” mean?",
       "options": [
-        "מִתְמוֹדֵד / יָרִיב",
-        "בֻּטַּל",
-        "מַשְׁקִיפִים",
-        "בֵּרֵךְ / אִחֵל"
+        "כוח עבודה",
+        "עוקף / עובר",
+        "מתכווץ / מצטמצם",
+        "יחס"
       ],
-      "correct_answer": "מִתְמוֹדֵד / יָרִיב",
-      "explanation_hebrew": "הַמִּלָּה \"challenger\" פֵּרוּשָׁהּ מִתְמוֹדֵד / יָרִיב."
+      "correct_answer": "יחס",
+      "explanation_hebrew": "יחס מספרי בין שני דברים"
     },
     {
       "id": "B-q4",
-      "word": "jubilant",
+      "word": "overtaking",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"צוֹהֵל / שָׂמֵחַ מְאוֹד\"?",
+      "question": "מהי המילה באנגלית עבור “עוקף / עובר”?",
       "options": [
-        "bias",
-        "jubilant",
-        "unprecedented",
-        "rigged"
+        "workforce",
+        "overtaking",
+        "milestone",
+        "shrinking"
       ],
-      "correct_answer": "jubilant",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"צוֹהֵל / שָׂמֵחַ מְאוֹד\" הִיא \"jubilant\" בְּאַנְגְּלִית."
+      "correct_answer": "overtaking",
+      "explanation_hebrew": "חולף על פני ומתעלה"
     },
     {
       "id": "B-q5",
-      "word": "negativity",
+      "word": "shrinking",
       "type": "english_to_hebrew",
-      "question": "What does the word \"negativity\" mean?",
+      "question": "What does “shrinking” mean?",
       "options": [
-        "סְפִירוֹת / תּוֹצָאוֹת",
-        "בָּחַן בִּקְפִּידָה",
-        "שְׁלִילִיּוּת",
-        "דֶּמוֹקְרַטְיָה"
+        "ציון דרך",
+        "מתמודד / נאבק",
+        "מתכווץ / מצטמצם",
+        "כוח עבודה"
       ],
-      "correct_answer": "שְׁלִילִיּוּת",
-      "explanation_hebrew": "הַמִּלָּה \"negativity\" פֵּרוּשָׁהּ שְׁלִילִיּוּת."
+      "correct_answer": "מתכווץ / מצטמצם",
+      "explanation_hebrew": "נעשה קטן יותר"
     },
     {
       "id": "B-q6",
-      "word": "democracy",
+      "word": "workforce",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"דֶּמוֹקְרַטְיָה\"?",
+      "question": "מהי המילה באנגלית עבור “כוח עבודה”?",
       "options": [
-        "animosity",
-        "momentum",
-        "democracy",
-        "convicted"
+        "grapples",
+        "milestone",
+        "workforce",
+        "ageing"
       ],
-      "correct_answer": "democracy",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"דֶּמוֹקְרַטְיָה\" הִיא \"democracy\" בְּאַנְגְּלִית."
+      "correct_answer": "workforce",
+      "explanation_hebrew": "כלל העובדים"
     },
     {
       "id": "B-q7",
-      "word": "convicted",
+      "word": "milestone",
       "type": "english_to_hebrew",
-      "question": "What does the word \"convicted\" mean?",
+      "question": "What does “milestone” mean?",
       "options": [
-        "עוֹיֵן",
-        "מַשְׁקִיפִים",
-        "מֻרְשָׁע (בְּדִין)",
-        "מִכְשׁוֹלִים"
+        "ציון דרך",
+        "מתמודד / נאבק",
+        "מזדקן / הזדקנות",
+        "השלכות"
       ],
-      "correct_answer": "מֻרְשָׁע (בְּדִין)",
-      "explanation_hebrew": "הַמִּלָּה \"convicted\" פֵּרוּשָׁהּ מֻרְשָׁע (בְּדִין)."
+      "correct_answer": "ציון דרך",
+      "explanation_hebrew": "אירוע חשוב ומשמעותי"
     },
     {
       "id": "B-q8",
-      "word": "annulled",
+      "word": "grapples",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"בֻּטַּל\"?",
+      "question": "מהי המילה באנגלית עבור “מתמודד / נאבק”?",
       "options": [
-        "hurdles",
-        "challenger",
-        "disconsolate",
-        "annulled"
+        "ageing",
+        "grapples",
+        "pensions",
+        "implications"
       ],
-      "correct_answer": "annulled",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"בֻּטַּל\" הִיא \"annulled\" בְּאַנְגְּלִית."
+      "correct_answer": "grapples",
+      "explanation_hebrew": "מתמודד עם בעיה קשה"
     },
     {
       "id": "B-q9",
-      "word": "congratulated",
+      "word": "ageing",
       "type": "english_to_hebrew",
-      "question": "What does the word \"congratulated\" mean?",
+      "question": "What does “ageing” mean?",
       "options": [
-        "בֵּרֵךְ / אִחֵל",
-        "מֻרְשָׁע (בְּדִין)",
-        "צוֹהֵל / שָׂמֵחַ מְאוֹד",
-        "מַשְׁקִיפִים"
+        "השלכות",
+        "דוחק / קורא בתוקף",
+        "מזדקן / הזדקנות",
+        "פנסיות / קצבאות"
       ],
-      "correct_answer": "בֵּרֵךְ / אִחֵל",
-      "explanation_hebrew": "הַמִּלָּה \"congratulated\" פֵּרוּשָׁהּ בֵּרֵךְ / אִחֵל."
+      "correct_answer": "מזדקן / הזדקנות",
+      "explanation_hebrew": "תהליך של הגעה לגיל מבוגר"
     },
     {
       "id": "B-q10",
-      "word": "observers",
+      "word": "implications",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"מַשְׁקִיפִים\"?",
+      "question": "מהי המילה באנגלית עבור “השלכות”?",
       "options": [
-        "turnout",
-        "alleging",
-        "congratulated",
-        "observers"
+        "proportion",
+        "pensions",
+        "urging",
+        "implications"
       ],
-      "correct_answer": "observers",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"מַשְׁקִיפִים\" הִיא \"observers\" בְּאַנְגְּלִית."
+      "correct_answer": "implications",
+      "explanation_hebrew": "תוצאות אפשריות"
     },
     {
       "id": "B-q11",
-      "word": "unprecedented",
+      "word": "pensions",
       "type": "english_to_hebrew",
-      "question": "What does the word \"unprecedented\" mean?",
+      "question": "What does “pensions” mean?",
       "options": [
-        "מַשְׁקִיפִים",
-        "חֲסַר תַּקְדִּים",
-        "מֻרְשָׁע (בְּדִין)",
-        "עוֹיְנוּת / אֵיבָה"
+        "שיעור / חלק",
+        "קבוצות / שכבות",
+        "דוחק / קורא בתוקף",
+        "פנסיות / קצבאות"
       ],
-      "correct_answer": "חֲסַר תַּקְדִּים",
-      "explanation_hebrew": "הַמִּלָּה \"unprecedented\" פֵּרוּשָׁהּ חֲסַר תַּקְדִּים."
+      "correct_answer": "פנסיות / קצבאות",
+      "explanation_hebrew": "תשלומים לאנשים בגיל פרישה"
     },
     {
       "id": "B-q12",
-      "word": "alleging",
+      "word": "urging",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"טוֹעֵן (לְלֹא הוֹכָחָה)\"?",
+      "question": "מהי המילה באנגלית עבור “דוחק / קורא בתוקף”?",
       "options": [
-        "comeback",
-        "abstention",
-        "extension",
-        "alleging"
+        "cohorts",
+        "expectancy",
+        "urging",
+        "proportion"
       ],
-      "correct_answer": "alleging",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"טוֹעֵן (לְלֹא הוֹכָחָה)\" הִיא \"alleging\" בְּאַנְגְּלִית."
+      "correct_answer": "urging",
+      "explanation_hebrew": "מבקש בתוקף"
     },
     {
       "id": "B-q13",
-      "word": "bias",
+      "word": "proportion",
       "type": "english_to_hebrew",
-      "question": "What does the word \"bias\" mean?",
+      "question": "What does “proportion” mean?",
       "options": [
-        "הֲטָיָה / מַשּׂוֹא פָּנִים",
-        "פִיסְקָלִי / תַּקְצִיבִי",
-        "מִתְמוֹדֵד / יָרִיב",
-        "דְּרָמָטִי"
+        "תוחלת",
+        "קבוצות / שכבות",
+        "שיעור / חלק",
+        "עומס / מעמסה"
       ],
-      "correct_answer": "הֲטָיָה / מַשּׂוֹא פָּנִים",
-      "explanation_hebrew": "הַמִּלָּה \"bias\" פֵּרוּשָׁהּ הֲטָיָה / מַשּׂוֹא פָּנִים."
+      "correct_answer": "שיעור / חלק",
+      "explanation_hebrew": "חלק מתוך השלם"
     },
     {
       "id": "B-q14",
-      "word": "extension",
+      "word": "cohorts",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"הַאֲרָכָה\"?",
+      "question": "מהי המילה באנגלית עבור “קבוצות / שכבות”?",
       "options": [
-        "hurdles",
-        "convicted",
-        "annulled",
-        "extension"
+        "expectancy",
+        "strain",
+        "cohorts",
+        "phenomenon"
       ],
-      "correct_answer": "extension",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"הַאֲרָכָה\" הִיא \"extension\" בְּאַנְגְּלִית."
+      "correct_answer": "cohorts",
+      "explanation_hebrew": "קבוצות של אנשים מאותה תקופה"
     },
     {
       "id": "B-q15",
-      "word": "tallies",
+      "word": "expectancy",
       "type": "english_to_hebrew",
-      "question": "What does the word \"tallies\" mean?",
+      "question": "What does “expectancy” mean?",
       "options": [
-        "שְׁלִילִיּוּת",
-        "בָּחַן בִּקְפִּידָה",
-        "הַאֲרָכָה",
-        "סְפִירוֹת / תּוֹצָאוֹת"
+        "דמוגרפי",
+        "עומס / מעמסה",
+        "תוחלת",
+        "תופעה"
       ],
-      "correct_answer": "סְפִירוֹת / תּוֹצָאוֹת",
-      "explanation_hebrew": "הַמִּלָּה \"tallies\" פֵּרוּשָׁהּ סְפִירוֹת / תּוֹצָאוֹת."
+      "correct_answer": "תוחלת",
+      "explanation_hebrew": "ציפייה או תוחלת, למשל חיים"
     },
     {
       "id": "B-q16",
-      "word": "momentum",
+      "word": "strain",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"תְּנוּפָה\"?",
+      "question": "מהי המילה באנגלית עבור “עומס / מעמסה”?",
       "options": [
-        "momentum",
-        "democracy",
-        "unprecedented",
-        "annulled"
+        "strain",
+        "demographic",
+        "symbolic",
+        "phenomenon"
       ],
-      "correct_answer": "momentum",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"תְּנוּפָה\" הִיא \"momentum\" בְּאַנְגְּלִית."
+      "correct_answer": "strain",
+      "explanation_hebrew": "לחץ או מאמץ גדול"
     },
     {
       "id": "B-q17",
-      "word": "turnout",
+      "word": "phenomenon",
       "type": "english_to_hebrew",
-      "question": "What does the word \"turnout\" mean?",
+      "question": "What does “phenomenon” mean?",
       "options": [
-        "דְּרָמָטִי",
-        "מִכְשׁוֹלִים",
-        "עוֹיֵן",
-        "שִׁעוּר הַצְבָּעָה"
+        "שאיפות",
+        "תופעה",
+        "דמוגרפי",
+        "סמלי"
       ],
-      "correct_answer": "שִׁעוּר הַצְבָּעָה",
-      "explanation_hebrew": "הַמִּלָּה \"turnout\" פֵּרוּשָׁהּ שִׁעוּר הַצְבָּעָה."
+      "correct_answer": "תופעה",
+      "explanation_hebrew": "דבר שקורה וניתן לראותו"
     },
     {
       "id": "B-q18",
-      "word": "abstention",
+      "word": "demographic",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"הִמָּנְעוּת (מֵהַצְבָּעָה)\"?",
+      "question": "מהי המילה באנגלית עבור “דמוגרפי”?",
       "options": [
-        "observers",
-        "abstention",
-        "tallies",
-        "dramatic"
+        "ambitions",
+        "demographic",
+        "urbanisation",
+        "symbolic"
       ],
-      "correct_answer": "abstention",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"הִמָּנְעוּת (מֵהַצְבָּעָה)\" הִיא \"abstention\" בְּאַנְגְּלִית."
+      "correct_answer": "demographic",
+      "explanation_hebrew": "הקשור לאוכלוסייה ומאפייניה"
     },
     {
       "id": "B-q19",
-      "word": "disconsolate",
+      "word": "symbolic",
       "type": "english_to_hebrew",
-      "question": "What does the word \"disconsolate\" mean?",
+      "question": "What does “symbolic” mean?",
       "options": [
-        "חֲסַר תַּקְדִּים",
-        "תְּנוּפָה",
-        "מְדֻכְדָּךְ מְאוֹד",
-        "הֲטָיָה / מַשּׂוֹא פָּנִים"
+        "שנוי במחלוקת",
+        "סמלי",
+        "עיור",
+        "שאיפות"
       ],
-      "correct_answer": "מְדֻכְדָּךְ מְאוֹד",
-      "explanation_hebrew": "הַמִּלָּה \"disconsolate\" פֵּרוּשָׁהּ מְדֻכְדָּךְ מְאוֹד."
+      "correct_answer": "סמלי",
+      "explanation_hebrew": "בעל משמעות סמלית"
     },
     {
       "id": "B-q20",
-      "word": "hostile",
+      "word": "ambitions",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"עוֹיֵן\"?",
+      "question": "מהי המילה באנגלית עבור “שאיפות”?",
       "options": [
-        "disconsolate",
-        "momentum",
-        "hostile",
-        "extension"
+        "urbanisation",
+        "ambitions",
+        "contested",
+        "controversial"
       ],
-      "correct_answer": "hostile",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"עוֹיֵן\" הִיא \"hostile\" בְּאַנְגְּלִית."
+      "correct_answer": "ambitions",
+      "explanation_hebrew": "רצונות להצלחה"
     },
     {
       "id": "B-q21",
-      "word": "hurdles",
+      "word": "urbanisation",
       "type": "english_to_hebrew",
-      "question": "What does the word \"hurdles\" mean?",
+      "question": "What does “urbanisation” mean?",
       "options": [
-        "מִכְשׁוֹלִים",
-        "מְזֻיָּף / מְסֻדָּר מֵרֹאשׁ",
-        "חֲזָרָה מְרַשֶּׁמֶת",
-        "הַאֲרָכָה"
+        "מעורער / שנוי עליו",
+        "שנוי במחלוקת",
+        "עיור",
+        "לשכנע"
       ],
-      "correct_answer": "מִכְשׁוֹלִים",
-      "explanation_hebrew": "הַמִּלָּה \"hurdles\" פֵּרוּשָׁהּ מִכְשׁוֹלִים."
+      "correct_answer": "עיור",
+      "explanation_hebrew": "מעבר של אנשים לערים"
     },
     {
       "id": "B-q22",
-      "word": "fiscal",
+      "word": "controversial",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"פִיסְקָלִי / תַּקְצִיבִי\"?",
+      "question": "מהי המילה באנגלית עבור “שנוי במחלוקת”?",
       "options": [
-        "convicted",
-        "animosity",
-        "fiscal",
-        "bias"
+        "persuade",
+        "fertility",
+        "controversial",
+        "contested"
       ],
-      "correct_answer": "fiscal",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"פִיסְקָלִי / תַּקְצִיבִי\" הִיא \"fiscal\" בְּאַנְגְּלִית."
+      "correct_answer": "controversial",
+      "explanation_hebrew": "מעורר ויכוח"
     },
     {
       "id": "B-q23",
-      "word": "scrutinised",
+      "word": "contested",
       "type": "english_to_hebrew",
-      "question": "What does the word \"scrutinised\" mean?",
+      "question": "What does “contested” mean?",
       "options": [
-        "שִׁעוּר הַצְבָּעָה",
-        "בָּחַן בִּקְפִּידָה",
-        "הֲטָיָה / מַשּׂוֹא פָּנִים",
-        "מִכְשׁוֹלִים"
+        "מעורער / שנוי עליו",
+        "קשישים",
+        "פוריות",
+        "לשכנע"
       ],
-      "correct_answer": "בָּחַן בִּקְפִּידָה",
-      "explanation_hebrew": "הַמִּלָּה \"scrutinised\" פֵּרוּשָׁהּ בָּחַן בִּקְפִּידָה."
+      "correct_answer": "מעורער / שנוי עליו",
+      "explanation_hebrew": "שיש עליו ויכוח"
     },
     {
       "id": "B-q24",
-      "word": "rigged",
+      "word": "persuade",
       "type": "hebrew_to_english",
-      "question": "Which English word means \"מְזֻיָּף / מְסֻדָּר מֵרֹאשׁ\"?",
+      "question": "מהי המילה באנגלית עבור “לשכנע”?",
       "options": [
-        "tallies",
-        "rigged",
-        "democracy",
-        "challenger"
+        "dependent",
+        "persuade",
+        "fertility",
+        "elderly"
       ],
-      "correct_answer": "rigged",
-      "explanation_hebrew": "הַמִּלָּה בָּעִבְרִית \"מְזֻיָּף / מְסֻדָּר מֵרֹאשׁ\" הִיא \"rigged\" בְּאַנְגְּלִית."
+      "correct_answer": "persuade",
+      "explanation_hebrew": "לגרום למישהו להסכים"
     },
     {
       "id": "B-q25",
-      "word": "animosity",
+      "word": "fertility",
       "type": "english_to_hebrew",
-      "question": "What does the word \"animosity\" mean?",
+      "question": "What does “fertility” mean?",
       "options": [
-        "חֲסַר תַּקְדִּים",
-        "בֵּרֵךְ / אִחֵל",
-        "טוֹעֵן (לְלֹא הוֹכָחָה)",
-        "עוֹיְנוּת / אֵיבָה"
+        "יחס",
+        "קשישים",
+        "תלוי / נתמך",
+        "פוריות"
       ],
-      "correct_answer": "עוֹיְנוּת / אֵיבָה",
-      "explanation_hebrew": "הַמִּלָּה \"animosity\" פֵּרוּשָׁהּ עוֹיְנוּת / אֵיבָה."
+      "correct_answer": "פוריות",
+      "explanation_hebrew": "היכולת להביא ילדים"
     }
   ]
 }
