@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-28",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central finding about Trump's voter-fraud claims?",
+      "difficulty": "C",
+      "options": [
+        "Evidence shows postal and non-citizen voting fraud is widespread.",
+        "The available evidence indicates proven fraud is extremely rare despite Trump's claims.",
+        "No US state checks the eligibility of postal voters.",
+        "Congress has already adopted all of Trump's proposed changes."
+      ],
+      "correct_answer": "The available evidence indicates proven fraud is extremely rare despite Trump's claims.",
+      "explanation_hebrew": "הכתבה בודקת את הטענות ומראה שמחקרים ונתוני הרשעות מצביעים על מקרים נדירים מאוד."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the Brookings analysis find about postal-vote fraud?",
+      "difficulty": "C",
+      "options": [
+        "Four cases in every thousand postal votes",
+        "About four cases for every 10 million postal votes",
+        "325 cases in each election",
+        "No postal ballots were checked"
+      ],
+      "correct_answer": "About four cases for every 10 million postal votes",
+      "explanation_hebrew": "הניתוח של בחירות 2016–2022 מצא בממוצע כארבעה מקרי הונאה לכל עשרה מיליון קולות בדואר."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did the Supreme Court reject Trump's executive-order changes before the midterms?",
+      "difficulty": "C",
+      "options": [
+        "The Postal Service refused to deliver any ballots.",
+        "Congress had already passed the same rules.",
+        "The Court considered changes so close to the election arbitrary and capricious.",
+        "States had abolished postal voting."
+      ],
+      "correct_answer": "The Court considered changes so close to the election arbitrary and capricious.",
+      "explanation_hebrew": "בית המשפט קבע ששינויים כה קרובים לבחירות הם שרירותיים וחסרי הצדקה מספקת, אך השאיר אפשרות לדון בהם לאחר מכן."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this article, what does “deterrent” mean?",
+      "difficulty": "C",
+      "options": [
+        "A database used to register voters",
+        "A reward offered for reporting fraud",
+        "A document that proves citizenship",
+        "Something that discourages people from taking an action"
+      ],
+      "correct_answer": "Something that discourages people from taking an action",
+      "explanation_hebrew": "deterrent הוא גורם מרתיע; כאן העונשים והסיכון למעמד ההגירה מרתיעים מי שאינו אזרח מהצבעה בלתי חוקית."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What concern is raised about stricter proof-of-citizenship rules?",
+      "difficulty": "C",
+      "options": [
+        "About 21.3 million voting-age citizens may not have the required documents readily available.",
+        "Most non-citizens already have US passports.",
+        "States cannot verify signatures on postal ballots.",
+        "The rules would increase the number of postal votes."
+      ],
+      "correct_answer": "About 21.3 million voting-age citizens may not have the required documents readily available.",
+      "explanation_hebrew": "החשש הוא שאזרחים זכאים רבים — כ־21.3 מיליון לפי סקר — אינם מחזיקים מסמכי הוכחת אזרחות זמינים."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the Nevada example weaken confidence in using federal databases as decisive proof?",
+      "difficulty": "C",
+      "options": [
+        "Nevada refused to examine the names.",
+        "The database contained no immigration records.",
+        "All 185 people labelled as non-citizens were found by state officials to be citizens.",
+        "The state discovered millions of fraudulent votes."
+      ],
+      "correct_answer": "All 185 people labelled as non-citizens were found by state officials to be citizens.",
+      "explanation_hebrew": "המקרה מדגים שנתונים פדרליים עלולים להיות שגויים או מיושנים, ולכן אין לראות בהם הוכחה מוחלטת."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three pieces of evidence showing that postal-vote fraud is rare.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלוש ראיות מספריות או מחקריות מדויקות מן הכתבה.",
+      "expected_points": [
+        "Brookings found about four fraud cases per 10 million postal votes across four elections.",
+        "The Heritage database recorded 325 postal-ballot fraud convictions over 20 years.",
+        "A statistical study found no evidence that universal mail voting increased overall fraud risk.",
+        "Oregon recorded 40 fraud cases after sending more than 100 million postal ballots from 2000 to 2020."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Trump's proposed voting changes and the main evidence assessed by BBC Verify in 3–4 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר את ההגבלות על הצבעה בדואר, דרישות הזיהוי והאזרחות, ואת מסקנת הראיות לגבי שכיחות ההונאה.",
+      "expected_points": [
+        "Trump sought to restrict postal voting and standardise ballot delivery or envelopes.",
+        "His proposed law would require photo ID, proof of citizenship at registration and continuing checks.",
+        "Studies and conviction databases show postal and non-citizen voting fraud is extremely rare.",
+        "Critics warn strict documentation rules or unreliable databases could wrongly affect eligible citizens."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Evaluate the benefits and risks of using the SAVE database to clean voter rolls. Use at least three article details.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג יתרון אפשרי לצד סיכונים, ולהשתמש בלפחות שלוש ראיות מדויקות מן הכתבה.",
+      "expected_points": [
+        "Federal data can help states identify records that need review and share information.",
+        "The database was designed for benefits eligibility, not originally for voter-roll removal.",
+        "Its information may be outdated and may include people who later became citizens.",
+        "Nevada found all 185 names supplied as non-citizens were actually citizens.",
+        "Georgia identified only 432 possible non-citizens across 30 years.",
+        "The best use requires understanding limitations and verifying matches before removal."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a concise fact-check of the claim that non-citizen voting is “rampant”. Distinguish claims, evidence and uncertainty.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להפריד בין טענת טראמפ לבין הראיות, לציין נתונים אמינים ולהכיר במקרים קיימים אך נדירים.",
+      "expected_points": [
+        "States that Trump alleges widespread non-citizen voting.",
+        "Notes that voting by non-citizens is illegal and carries serious penalties.",
+        "Cites the Heritage total of 24 convictions from 2005–2025 or the Reuters finding of 73 convictions over 30 years.",
+        "Explains that proven cases exist but are too few to support the word “rampant”.",
+        "May note data limitations or isolated registration errors without treating registration as proof of voting."
+      ]
+    }
+  ]
+}

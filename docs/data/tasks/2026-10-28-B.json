@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-28",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "China's families are now supporting more old people than kids",
+  "article_url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What demographic change does the article describe?",
+      "difficulty": "B",
+      "options": [
+        "China now has more dependent elderly people than children relative to its working-age population.",
+        "China's population of children doubled in one year.",
+        "Most elderly people in China have returned to full-time work.",
+        "China has ended all financial support for pensioners."
+      ],
+      "correct_answer": "China now has more dependent elderly people than children relative to its working-age population.",
+      "explanation_hebrew": "לראשונה שיעור התלות של קשישים ביחס לאוכלוסייה בגיל העבודה גבוה משיעור הילדים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What were the latest elderly and child dependency ratios?",
+      "difficulty": "B",
+      "options": [
+        "16% and 14%",
+        "23% and 22%",
+        "22% and 23%",
+        "25% and 10%"
+      ],
+      "correct_answer": "23% and 22%",
+      "explanation_hebrew": "שיעור התלות של הקשישים עלה ל־23%, לעומת 22% בקרב ילדים."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many people in China are aged 65 and over?",
+      "difficulty": "B",
+      "options": [
+        "About 53 million",
+        "About 213 million",
+        "More than 223 million",
+        "About 400 million"
+      ],
+      "correct_answer": "More than 223 million",
+      "explanation_hebrew": "לפי הנתונים, יותר מ־223 מיליון בני אדם בסין הם בני 65 ומעלה."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the “silver economy” refer to in the article?",
+      "difficulty": "B",
+      "options": [
+        "Government reserves held in precious metals",
+        "A programme that pays families to have children",
+        "Schools designed for smaller classes",
+        "Businesses and services aimed at older consumers"
+      ],
+      "correct_answer": "Businesses and services aimed at older consumers",
+      "explanation_hebrew": "silver economy מתארת מוצרים ושירותים המיועדים לאוכלוסייה המבוגרת."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which past policy contributed to China's ageing population?",
+      "difficulty": "B",
+      "options": [
+        "The one-child policy in force from 1980 to 2015",
+        "A ban on urban employment",
+        "A policy requiring retirement at age 40",
+        "A programme that reduced life expectancy"
+      ],
+      "correct_answer": "The one-child policy in force from 1980 to 2015",
+      "explanation_hebrew": "מדיניות הילד האחד צמצמה את מספר הצעירים שיכולים לתמוך במספר הולך וגדל של מבוגרים."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could the demographic shift weaken consumer spending?",
+      "difficulty": "B",
+      "options": [
+        "Older people are legally prevented from shopping.",
+        "China has stopped producing consumer goods.",
+        "Families and the government may need to devote more resources to pensions, healthcare and care services.",
+        "Children now receive all public spending."
+      ],
+      "correct_answer": "Families and the government may need to devote more resources to pensions, healthcare and care services.",
+      "explanation_hebrew": "כאשר יותר משאבים מופנים לטיפול, בריאות ופנסיות, נשאר פחות כסף לצריכה אחרת ולצמיחה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three factors that have contributed to China's low birth rate or ageing population.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה גורמים מדויקים מן הכתבה.",
+      "expected_points": [
+        "The long-running one-child policy reduced the number of younger people.",
+        "Rapid urbanisation changed family patterns.",
+        "Rising living costs discourage larger families.",
+        "Changing gender roles affect fertility decisions.",
+        "Higher education levels have put pressure on fertility rates.",
+        "Longer life expectancy increases the elderly population."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the new demographic milestone and two likely effects in 3–4 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את נתוני 23% ו־22% ולתאר שתי השפעות אפשריות על המשפחה, המדינה או הכלכלה.",
+      "expected_points": [
+        "The elderly dependency ratio reached 23%, overtaking the child ratio of 22%.",
+        "China has more than 223 million people aged 65 and over and about 213 million children aged 14 or under.",
+        "Pension, healthcare and long-term care systems may face greater pressure.",
+        "Economic growth and household spending power may be limited.",
+        "The silver economy may create new opportunities."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain why the dependency ratio may give an incomplete picture of older people. Use evidence from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את מגבלות המדד באמצעות הטענה בדבר עצמאות מבוגרים ושיפורי הבריאות.",
+      "expected_points": [
+        "The ratio automatically classifies people above a certain age as dependants.",
+        "Many older people may still be active, healthy or economically independent.",
+        "People entering old age may have higher incomes and stronger purchasing power than previous generations.",
+        "Healthcare improvements are not reflected in the simple ratio.",
+        "Experts warn that the measure can take agency away from older people."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short policy recommendation responding to China's ageing population. Include one immediate pressure and one opportunity.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע המלצה מבוססת כתבה, להזכיר לחץ אחד והזדמנות אחת, ולשמור על ניסוח מאוזן.",
+      "expected_points": [
+        "Addresses pressure on pensions, healthcare or long-term care.",
+        "Suggests targeted support for older people or families.",
+        "Recognises opportunities in products and services for older consumers.",
+        "Avoids treating every older person as helpless or dependent.",
+        "Uses a clear evidence-based tone."
+      ]
+    }
+  ]
+}

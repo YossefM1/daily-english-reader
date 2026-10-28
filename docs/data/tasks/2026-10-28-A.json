@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-28",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "King Charles began a Caribbean tour while addressing the region's painful history and future challenges.",
+        "The Bahamas announced it would leave the Commonwealth immediately.",
+        "King Charles offered financial reparations during a visit to Britain.",
+        "Caribbean leaders cancelled the Commonwealth meeting."
+      ],
+      "correct_answer": "King Charles began a Caribbean tour while addressing the region's painful history and future challenges.",
+      "explanation_hebrew": "הכתבה עוסקת בפתיחת סיורו של המלך בקריביים, בהכרה בעוולות העבר ובנושאים עתידיים כמו אקלים ושיתוף פעולה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the King begin his nine-day Caribbean tour?",
+      "difficulty": "A",
+      "options": [
+        "Guyana",
+        "The Bahamas",
+        "Antigua and Barbuda",
+        "The United Kingdom"
+      ],
+      "correct_answer": "The Bahamas",
+      "explanation_hebrew": "הסיור החל באיי בהאמה, שם השתתף המלך בעצרת נוער בנאסאו."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Buckingham Palace say the King would not do during the tour?",
+      "difficulty": "A",
+      "options": [
+        "Discuss climate change",
+        "Meet young people",
+        "Apologise for Britain's role in the slave trade or offer reparations",
+        "Visit places of remembrance"
+      ],
+      "correct_answer": "Apologise for Britain's role in the slave trade or offer reparations",
+      "explanation_hebrew": "הארמון אמר שהמלך יתייחס למורשת הקולוניאלית, אך לא יתנצל ולא יציע פיצויים בהתאם לעמדת ממשלת בריטניה."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What were some protesters near the youth rally demanding?",
+      "difficulty": "A",
+      "options": [
+        "A longer royal tour",
+        "More school holidays",
+        "A new climate conference",
+        "An apology, reparations and the return of stolen artefacts"
+      ],
+      "correct_answer": "An apology, reparations and the return of stolen artefacts",
+      "explanation_hebrew": "המפגינים קראו לשלם את החוב, להתנצל, להציע פיצויים ולהחזיר חפצים שנלקחו."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “reparations” mean?",
+      "difficulty": "A",
+      "options": [
+        "Payments or actions intended to repair harm caused in the past",
+        "Celebrations held for visiting leaders",
+        "Rules for protecting low-lying islands",
+        "Speeches given at a youth rally"
+      ],
+      "correct_answer": "Payments or actions intended to repair harm caused in the past",
+      "explanation_hebrew": "reparations הם תשלומים או פעולות תיקון שנועדו לפצות על עוול היסטורי."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article describe the tour as balancing the past and the future?",
+      "difficulty": "A",
+      "options": [
+        "The King is visiting only historic buildings.",
+        "The schedule avoids all modern political issues.",
+        "The tour is mainly a holiday for schoolchildren.",
+        "It includes reflection on slavery as well as climate, partnerships and opportunities for younger generations."
+      ],
+      "correct_answer": "It includes reflection on slavery as well as climate, partnerships and opportunities for younger generations.",
+      "explanation_hebrew": "הסיור כולל הכרה במורשת העבדות לצד עיסוק באקלים, שותפויות והזדמנויות לדורות הבאים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two activities from the King's first day in the Bahamas.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי פעילויות מדויקות מן היום הראשון המתואר בכתבה.",
+      "expected_points": [
+        "He met Governor General Dame Cynthia A. Pratt.",
+        "He met Prime Minister Philip Edward Davis.",
+        "He inspected a guard of honour and spoke with defence force members.",
+        "He attended and spoke at a youth rally at Clifford Park."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the King's message about history and climate in 2–3 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את ההכרה בסבל ובעוולות העבר ואת הקריאה לצעירים לפעול למען כדור הארץ.",
+      "expected_points": [
+        "The King acknowledged historic suffering and injustice connected to the region's past.",
+        "He said Caribbean culture had emerged from darkness.",
+        "He highlighted the climate risks facing low-lying islands.",
+        "He urged young people to help care for the planet."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain why the visit may be politically sensitive. Use two details from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הרגישות באמצעות לפחות שתי עובדות הנוגעות לעבדות, פיצויים, מחאה או עתיד היחסים עם בריטניה.",
+      "expected_points": [
+        "Caribbean nations have renewed calls for Britain to apologise for its role in slavery.",
+        "The King will not apologise or offer reparations under the UK government's position.",
+        "Protesters demanded payment and the return of artefacts.",
+        "One protester warned that former colonies could turn away from Britain or become republics."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short factual news update about the start of the tour. Include the location, one historical issue and one future-focused issue.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב עדכון קצר ונייטרלי הכולל מקום, נושא היסטורי ונושא עתידי, ללא הוספת דעה אישית.",
+      "expected_points": [
+        "Identifies the Bahamas as the first stop.",
+        "Mentions slavery, colonial injustice, apology demands or reparations.",
+        "Mentions climate change, youth, partnerships or future cooperation.",
+        "Uses clear and neutral news language."
+      ]
+    }
+  ]
+}
