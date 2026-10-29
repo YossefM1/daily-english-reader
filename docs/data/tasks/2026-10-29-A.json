@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-29",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Weight-loss jab boom brings Coventry needles warning for recyclers",
+  "article_url": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main warning in the article?",
+      "difficulty": "A",
+      "options": [
+        "Used needles placed in recycling can seriously endanger sorting workers.",
+        "Weight-loss injections are no longer available in Coventry.",
+        "Recycling plants have stopped accepting household plastic.",
+        "Clinical waste services are closing across the West Midlands."
+      ],
+      "correct_answer": "Used needles placed in recycling can seriously endanger sorting workers.",
+      "explanation_hebrew": "זהו הרעיון המרכזי: מחטים משומשות שמגיעות למחזור עלולות לפצוע עובדים ולחשוף אותם לזיהומים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where should used needles be disposed of according to the article?",
+      "difficulty": "A",
+      "options": [
+        "In an ordinary wheelie bin",
+        "Through dedicated clinical waste services",
+        "Loose inside a sealed recycling bag",
+        "On the recycling conveyor for inspection"
+      ],
+      "correct_answer": "Through dedicated clinical waste services",
+      "explanation_hebrew": "הכתבה אומרת שיש למסור מחטים משומשות דרך שירותי פסולת קלינית ייעודיים."
+    },
+    {
+      "id": "A-3",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why may people who buy weight-loss drugs privately be more likely to dispose of needles incorrectly?",
+      "difficulty": "A",
+      "options": [
+        "They are told that sharps boxes cannot hold injection needles.",
+        "They may not automatically receive a sharps box or disposal guidance.",
+        "Their pharmacies require all needles to be recycled at home.",
+        "Their injections do not come with any needles."
+      ],
+      "correct_answer": "They may not automatically receive a sharps box or disposal guidance.",
+      "explanation_hebrew": "הכתבה מסבירה שרוכשים פרטיים לא תמיד מקבלים מיכל למחטים או הנחיות לפינוי בטוח."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "About how many residents are served by the recycling plant?",
+      "difficulty": "A",
+      "options": [
+        "150,000",
+        "500,000",
+        "One million",
+        "1.5 million"
+      ],
+      "correct_answer": "1.5 million",
+      "explanation_hebrew": "שרבורן ריסייקלינג מטפלת בפסולת עבור כ־1.5 מיליון תושבים."
+    },
+    {
+      "id": "A-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the sentence saying contact with needles is “inherently unsafe”, what does “inherently” mean?",
+      "difficulty": "A",
+      "options": [
+        "Safe only with training",
+        "Dangerous because of its basic nature",
+        "Unusual at this particular plant",
+        "Prevented by automated machinery"
+      ],
+      "correct_answer": "Dangerous because of its basic nature",
+      "explanation_hebrew": "בהקשר זה inherently פירושו שמגע במחטים אינו בטוח מעצם טבעו, גם בלי נסיבה מיוחדת."
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What practical advice does the article give people who use needles?",
+      "difficulty": "A",
+      "options": [
+        "Ask a GP or pharmacy for a sharps bin and disposal advice.",
+        "Wash each needle before adding it to recycling.",
+        "Put the entire sharps container in a wheelie bin.",
+        "Leave loose needles beside the household bin."
+      ],
+      "correct_answer": "Ask a GP or pharmacy for a sharps bin and disposal advice.",
+      "explanation_hebrew": "העצה היא לפנות לרופא המשפחה או לבית המרקחת לקבלת מיכל ייעודי והנחיות פינוי."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe how a sharps container can become dangerous after it is put in a household recycling bin.",
+      "difficulty": "A",
+      "rubric_hebrew": "תשובה מלאה תציג את רצף האירועים מהאיסוף ועד לחשיפת העובדים.",
+      "expected_points": [
+        "The recycling vehicle can crush the sharps container.",
+        "The container can arrive open at the plant.",
+        "Needles can fall onto the sorting line and expose workers."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does automation not remove the needle risk at the Coventry plant?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר מדוע גם במפעל ממוכן בני אדם עדיין נחשפים לפסולת.",
+      "expected_points": [
+        "Workers still remove items that machinery cannot process.",
+        "Workers regularly inspect the recycling stream.",
+        "Those tasks can bring them into direct contact with discarded needles."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article in 3–4 sentences, including the cause of the problem, the danger and the recommended action.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך להיות מדויק וקצר ולכלול סיבה, סכנה ופתרון.",
+      "expected_points": [
+        "The popularity of privately prescribed weight-loss injections has increased discarded needles.",
+        "Needles mixed with recycling can injure workers and expose them to infection.",
+        "Users should obtain a sharps bin and use clinical-waste disposal routes."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short safety notice for Coventry residents explaining what to do with used injection needles and why.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח הודעה ברורה ומעשית המבוססת על פרטי הכתבה.",
+      "expected_points": [
+        "Tell residents never to place loose needles or sharps containers in recycling.",
+        "Advise them to contact a GP or pharmacy for a sharps bin and disposal guidance.",
+        "Mention the risk of injury and infection to recycling workers."
+      ]
+    }
+  ]
+}

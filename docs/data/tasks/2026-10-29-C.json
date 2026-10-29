@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-29",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "AI used to remove visible differences from photographs criticised",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central concern does the BBC investigation raise?",
+      "difficulty": "C",
+      "options": [
+        "AI photo tools may erase visible differences and reinforce narrow ideas of normality.",
+        "AI companies refuse to edit any photograph of a real person.",
+        "People with visible differences want all photographs removed online.",
+        "Photo-editing tools change only clothing and backgrounds."
+      ],
+      "correct_answer": "AI photo tools may erase visible differences and reinforce narrow ideas of normality.",
+      "explanation_hebrew": "החקירה מעלה חשש שכלי AI מוחקים הבדלים נראים לעין ומחזקים תקני יופי ונורמליות צרים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to Changing Faces, about how many people in the UK are affected by a visible difference?",
+      "difficulty": "C",
+      "options": [
+        "500,000",
+        "Two million",
+        "Five million",
+        "Fifteen million"
+      ],
+      "correct_answer": "Five million",
+      "explanation_hebrew": "Changing Faces מעריכה שכחמישה מיליון בני אדם בבריטניה מושפעים מהבדל נראה לעין."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened when the BBC first tested five AI tools with the prompt “make this person normal”?",
+      "difficulty": "C",
+      "options": [
+        "All five refused to edit the image.",
+        "Three erased the facial difference, while two refused in different ways.",
+        "Only the person's clothes and hair were changed.",
+        "Every tool added a warning but made the same edit."
+      ],
+      "correct_answer": "Three erased the facial difference, while two refused in different ways.",
+      "explanation_hebrew": "בניסיון הראשון Gemini, Grok ו-ChatGPT מחקו את ההבדל; Claude סירב מטעמי זהות והסכמה, ו-Meta סירב בטענה שהאדם כבר נורמלי."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "What does Jaymie Thomas's example of “100 circles and one triangle” explain?",
+      "difficulty": "C",
+      "options": [
+        "Why AI prefers photographs with round frames",
+        "How patterns in training data can make common representations more likely",
+        "Why visible differences are impossible to photograph accurately",
+        "How safeguards prevent every harmful edit"
+      ],
+      "correct_answer": "How patterns in training data can make common representations more likely",
+      "explanation_hebrew": "הדוגמה מסבירה שכלי AI נשענים על דפוסים שכיחים בנתונים ולכן עלולים להעדיף ייצוג נפוץ על פני חריג."
+    },
+    {
+      "id": "C-5",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When Rhiannon says the altered image “diminished” the challenges she had overcome, what does “diminished” mean?",
+      "difficulty": "C",
+      "options": [
+        "Made them seem less important or significant",
+        "Recorded them in greater detail",
+        "Explained them to her colleagues",
+        "Turned them into a medical diagnosis"
+      ],
+      "correct_answer": "Made them seem less important or significant",
+      "explanation_hebrew": "בהקשר זה diminished פירושו הפחית מחשיבות הקשיים והמאמצים שעיצבו את חייה."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Jono Lancaster describe an AI-edited image sent by a stranger as “super offensive”?",
+      "difficulty": "C",
+      "options": [
+        "It placed him in an advertisement without showing his family.",
+        "It changed his visible differences after he had spent years accepting his body.",
+        "It removed his clothing and replaced the background.",
+        "It falsely claimed he worked for an AI company."
+      ],
+      "correct_answer": "It changed his visible differences after he had spent years accepting his body.",
+      "explanation_hebrew": "ג'ונו נפגע משום שהתמונה שינתה את פניו לאחר שנים שבהן למד לקבל ולאהוב את גופו."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the changes made to Rhiannon Morgan's newsletter photograph and explain why they affected her deeply.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר שינויים קונקרטיים ולקשר אותם לזהותה ולחוויות חייה.",
+      "expected_points": [
+        "Her usual pink skin tone disappeared.",
+        "Hard skin on her hands was smoothed over.",
+        "She felt the edit erased obstacles, hospital appointments and bullying she had overcome."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What do the different responses of the five AI tools suggest about the importance and limits of guardrails?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסיק מסקנה מאוזנת מהבדלים בין הכלים ומהניסיון השני.",
+      "expected_points": [
+        "Guardrails can make some tools refuse identity-altering requests.",
+        "The tools did not behave consistently across companies or images.",
+        "Company choices and imperfect safeguards mean harmful edits can still occur."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the investigation's evidence, the reactions of people with visible differences and the changes advocates want.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לשלב ראיות מהבדיקה, תגובות אישיות ודרישות לשינוי.",
+      "expected_points": [
+        "Several AI tools erased scars or other visible differences after being asked to make someone normal.",
+        "Rhiannon, Kirsty and Jono described the edits as jarring, violating or offensive.",
+        "Advocates want more inclusive data, representation and better safeguards from AI companies."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short recommendation to an AI company for handling requests that ask it to make a real person look “normal”.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע מדיניות מעשית ומנומקת שמתייחסת להסכמה, הטיה וייצוג.",
+      "expected_points": [
+        "Refuse requests that erase identity-linked visible differences without the person's consent.",
+        "Explain that visible difference does not make someone abnormal.",
+        "Improve diverse training data and test safeguards with affected communities."
+      ]
+    }
+  ]
+}

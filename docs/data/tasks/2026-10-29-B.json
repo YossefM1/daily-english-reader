@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-29",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What broader change in Japan's housing market does the article describe?",
+      "difficulty": "B",
+      "options": [
+        "Only foreign residents may rent incident properties.",
+        "Rising costs are making discounted stigmatised homes more attractive.",
+        "Estate agents are refusing to disclose deaths in homes.",
+        "Haunted homes now sell for more than ordinary homes."
+      ],
+      "correct_answer": "Rising costs are making discounted stigmatised homes more attractive.",
+      "explanation_hebrew": "הכתבה מתארת כיצד עליית מחירי הדיור ויוקר המחיה הופכות נכסים מוכתמים וזולים לאטרקטיביים יותר."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much rent does Ryua pay each month for her Tokyo apartment?",
+      "difficulty": "B",
+      "options": [
+        "45,000 yen",
+        "62,000 yen",
+        "20 million yen",
+        "30,000 yen"
+      ],
+      "correct_answer": "45,000 yen",
+      "explanation_hebrew": "ריוּאה משלמת 45,000 ין בחודש במקום כ־62,000 ין."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Under Japan's 2021 guidelines, how long must relevant deaths be disclosed for rental properties?",
+      "difficulty": "B",
+      "options": [
+        "Only until the first new tenant moves in",
+        "For one year",
+        "For three years",
+        "Indefinitely in every rental case"
+      ],
+      "correct_answer": "For three years",
+      "explanation_hebrew": "בנכסים להשכרה יש לחשוף את המידע במשך שלוש שנים; במכירה החשיפה נדרשת ללא הגבלת זמן."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “stigmatised” mean in the phrase “stigmatised properties”?",
+      "difficulty": "B",
+      "options": [
+        "Newly built with government support",
+        "Marked negatively because of a troubling past",
+        "Protected as historic buildings",
+        "Shared by several unrelated tenants"
+      ],
+      "correct_answer": "Marked negatively because of a troubling past",
+      "explanation_hebrew": "בהקשר הכתבה, נכס stigmatised הוא נכס שדבק בו מוניטין שלילי בגלל מוות או אירוע קשה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was Diane Tincher able to buy her rural house at a large discount?",
+      "difficulty": "B",
+      "options": [
+        "The house had no garden or bedrooms.",
+        "An elderly woman had died there alone.",
+        "The property was damaged by fire.",
+        "The estate agent concealed its location."
+      ],
+      "correct_answer": "An elderly woman had died there alone.",
+      "explanation_hebrew": "מותה הבודד של אישה מבוגרת בבית הפך אותו לנכס מוכתם והוביל להנחה גדולה."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is distinctive about the Oshimaland website?",
+      "difficulty": "B",
+      "options": [
+        "It lists incident properties using details added by members of the public.",
+        "It guarantees that every listed home is free of ghosts.",
+        "It sells only newly built apartments in Tokyo.",
+        "It sets Japan's legal disclosure rules."
+      ],
+      "correct_answer": "It lists incident properties using details added by members of the public.",
+      "explanation_hebrew": "Oshimaland הוא אתר במיקור המונים: הציבור מוסיף נכסים ופרטים על האירועים שהתרחשו בהם."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare Ryua's and Diane Tincher's housing bargains using at least one figure for each.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות בין שתי העסקאות ולשלב נתון מספרי מדויק לכל אחת.",
+      "expected_points": [
+        "Ryua receives almost a 30% rent discount, paying 45,000 yen instead of 62,000 yen.",
+        "Tincher paid 20 million yen for a house where similar homes can cost up to 45 million yen.",
+        "Both discounts were linked to deaths associated with the properties."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What does the 2025 survey suggest about Japanese attitudes to jiko bukken, and what economic factor may explain the change?",
+      "difficulty": "B",
+      "rubric_hebrew": "התשובה צריכה לשלב את ממצא הסקר עם הסבר כלכלי מהכתבה.",
+      "expected_points": [
+        "More than half of respondents would rent a jiko bukken if it were cheap.",
+        "This suggests price can outweigh superstition for many people.",
+        "Rising house prices and the wider cost of living make discounts more appealing."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how beliefs, disclosure rules and housing costs interact in Japan's market for jiko bukken.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשור בין אמונות תרבותיות, חובת גילוי והנחות במחיר.",
+      "expected_points": [
+        "Deaths or tragic events can stigmatise a property because many people fear troubled spirits.",
+        "Estate agents must disclose specified deaths for set periods or indefinitely when selling.",
+        "Lower prices attract bargain hunters, especially as housing and living costs rise."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Using evidence from the article, write a balanced paragraph on whether you would consider living in a jiko bukken.",
+      "difficulty": "B",
+      "rubric_hebrew": "הפסקה צריכה להציג עמדה מנומקת ולהשתמש לפחות בשתי ראיות מהכתבה.",
+      "expected_points": [
+        "State a clear personal position.",
+        "Use concrete evidence such as Ryua's rent discount, Tincher's purchase price or the disclosure rules.",
+        "Acknowledge a counterargument involving superstition, comfort or affordability."
+      ]
+    }
+  ]
+}
