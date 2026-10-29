@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T10:42:55.466656+00:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T11:00:12.118853+00:00",
   "track": "Essential English 3000",
   "lesson_size": 10,
   "method": {
@@ -29,14 +29,14 @@
   },
   "words": [
     {
-      "id": "core-0086",
-      "word": "various",
-      "part_of_speech": "adjective",
-      "level": "B2",
-      "hebrew": "שונים / מגוונים",
-      "pronunciation_hebrew": "וֵרִיאֶס",
-      "explanation_hebrew": "כמה סוגים שונים של דברים.",
-      "example": "The course covers various engineering topics.",
+      "id": "core-0008",
+      "word": "cause",
+      "part_of_speech": "verb",
+      "level": "A2",
+      "hebrew": "לגרום",
+      "pronunciation_hebrew": "קוֹז",
+      "explanation_hebrew": "להביא לכך שמשהו יקרה.",
+      "example": "Heavy rain can cause delays.",
       "reason": "new",
       "position": 1,
       "learning_state": {
@@ -46,50 +46,16 @@
       }
     },
     {
-      "id": "core-0109",
-      "word": "reliable",
+      "id": "core-0086",
+      "word": "various",
       "part_of_speech": "adjective",
       "level": "B2",
-      "hebrew": "אמין",
-      "pronunciation_hebrew": "רִילַיְאַבְּל",
-      "explanation_hebrew": "ניתן לסמוך עליו שיפעל או יספק מידע נכון.",
-      "example": "We need a reliable data source.",
+      "hebrew": "שונים / מגוונים",
+      "pronunciation_hebrew": "וֵרִיאֶס",
+      "explanation_hebrew": "כמה סוגים שונים של דברים.",
+      "example": "The course covers various engineering topics.",
       "reason": "new",
       "position": 2,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
-      "id": "core-0030",
-      "word": "manage",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "לנהל / להצליח",
-      "pronunciation_hebrew": "מֶנֶג'",
-      "explanation_hebrew": "לשלוט במשימה או להצליח לבצע דבר קשה.",
-      "example": "She managed to finish the work on time.",
-      "reason": "new",
-      "position": 3,
-      "learning_state": {
-        "mastery": 0,
-        "times_seen": 0,
-        "last_score": null
-      }
-    },
-    {
-      "id": "core-0044",
-      "word": "relate",
-      "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "לקשר / להתייחס",
-      "pronunciation_hebrew": "רִילֵייט",
-      "explanation_hebrew": "להראות קשר בין דברים או להתייחס לנושא.",
-      "example": "The questions relate to the article.",
-      "reason": "new",
-      "position": 4,
       "learning_state": {
         "mastery": 0,
         "times_seen": 0,
@@ -106,6 +72,40 @@
       "explanation_hebrew": "נושא שמעורר דאגה או תשומת לב.",
       "example": "Safety is our main concern.",
       "reason": "new",
+      "position": 3,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0024",
+      "word": "explain",
+      "part_of_speech": "verb",
+      "level": "A2",
+      "hebrew": "להסביר",
+      "pronunciation_hebrew": "אִקְסְפְּלֵיין",
+      "explanation_hebrew": "להציג רעיון בצורה ברורה ומובנת.",
+      "example": "Can you explain this equation in simple words?",
+      "reason": "new",
+      "position": 4,
+      "learning_state": {
+        "mastery": 0,
+        "times_seen": 0,
+        "last_score": null
+      }
+    },
+    {
+      "id": "core-0109",
+      "word": "reliable",
+      "part_of_speech": "adjective",
+      "level": "B2",
+      "hebrew": "אמין",
+      "pronunciation_hebrew": "רִילַיְאַבְּל",
+      "explanation_hebrew": "ניתן לסמוך עליו שיפעל או יספק מידע נכון.",
+      "example": "We need a reliable data source.",
+      "reason": "new",
       "position": 5,
       "learning_state": {
         "mastery": 0,
@@ -114,14 +114,14 @@
       }
     },
     {
-      "id": "core-0079",
-      "word": "policy",
-      "part_of_speech": "noun",
-      "level": "B2",
-      "hebrew": "מדיניות",
-      "pronunciation_hebrew": "פּוֹלִיסִי",
-      "explanation_hebrew": "כלל או תוכנית פעולה של ארגון או ממשלה.",
-      "example": "The company changed its privacy policy.",
+      "id": "core-0056",
+      "word": "likely",
+      "part_of_speech": "adjective",
+      "level": "B1",
+      "hebrew": "סביר ש־",
+      "pronunciation_hebrew": "לַיְקְלִי",
+      "explanation_hebrew": "בעל סיכוי גבוה לקרות.",
+      "example": "It is likely to rain this evening.",
       "reason": "new",
       "position": 6,
       "learning_state": {
@@ -131,14 +131,14 @@
       }
     },
     {
-      "id": "core-0001",
-      "word": "achieve",
+      "id": "core-0035",
+      "word": "perform",
       "part_of_speech": "verb",
-      "level": "B1",
-      "hebrew": "להשיג / להצליח",
-      "pronunciation_hebrew": "אַצִ'יב",
-      "explanation_hebrew": "להצליח להגיע למטרה לאחר מאמץ.",
-      "example": "She worked hard to achieve her goal.",
+      "level": "B2",
+      "hebrew": "לבצע / לתפקד",
+      "pronunciation_hebrew": "פֶּרְפוֹרְם",
+      "explanation_hebrew": "לעשות פעולה או להראות רמת ביצוע.",
+      "example": "The system performed well under heavy load.",
       "reason": "new",
       "position": 7,
       "learning_state": {
@@ -148,14 +148,14 @@
       }
     },
     {
-      "id": "core-0096",
-      "word": "context",
-      "part_of_speech": "noun",
+      "id": "core-0074",
+      "word": "identify",
+      "part_of_speech": "verb",
       "level": "B1",
-      "hebrew": "הקשר",
-      "pronunciation_hebrew": "קוֹנְטֶקְסְט",
-      "explanation_hebrew": "המידע סביב מילה או אירוע שעוזר להבין אותו.",
-      "example": "The context makes the meaning clear.",
+      "hebrew": "לזהות",
+      "pronunciation_hebrew": "אַיְדֶנְטִיפַיי",
+      "explanation_hebrew": "לגלות מי או מהו דבר מסוים.",
+      "example": "Can you identify the main idea?",
       "reason": "new",
       "position": 8,
       "learning_state": {
@@ -182,14 +182,14 @@
       }
     },
     {
-      "id": "core-0035",
-      "word": "perform",
-      "part_of_speech": "verb",
+      "id": "core-0095",
+      "word": "consistent",
+      "part_of_speech": "adjective",
       "level": "B2",
-      "hebrew": "לבצע / לתפקד",
-      "pronunciation_hebrew": "פֶּרְפוֹרְם",
-      "explanation_hebrew": "לעשות פעולה או להראות רמת ביצוע.",
-      "example": "The system performed well under heavy load.",
+      "hebrew": "עקבי",
+      "pronunciation_hebrew": "קַנְסִיסְטֶנְט",
+      "explanation_hebrew": "נשאר באותה רמה או פועל לפי אותו עיקרון.",
+      "example": "The results are consistent with the theory.",
       "reason": "new",
       "position": 10,
       "learning_state": {
