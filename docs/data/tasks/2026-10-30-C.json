@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-30",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What contrast is at the heart of the article?",
+      "difficulty": "C",
+      "options": [
+        "Kherson's temporary quiet has revived daily life, but residents fear worse attacks after the ceasefire.",
+        "Residents have permanently returned to every destroyed district.",
+        "The ceasefire ended the war throughout Ukraine.",
+        "Oleshky's evacuation was cancelled because roads could not be cleared."
+      ],
+      "correct_answer": "Kherson's temporary quiet has revived daily life, but residents fear worse attacks after the ceasefire.",
+      "explanation_hebrew": "הכתבה מנגידה בין תחיית חיי היומיום בזמן השקט הזמני לבין החשש מהסלמה לאחר סיום הפסקת האש."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the stated humanitarian purpose of the temporary ceasefire?",
+      "difficulty": "C",
+      "options": [
+        "To reopen underground schools in Kherson",
+        "To allow civilians to leave Russian-occupied Oleshky safely",
+        "To move Kherson's entire population across the Dnipro",
+        "To permit journalists to inspect every front-line position"
+      ],
+      "correct_answer": "To allow civilians to leave Russian-occupied Oleshky safely",
+      "explanation_hebrew": "הפסקת האש נועדה לאפשר מעבר בטוח ופינוי אזרחים מאולשקי הכבושה."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When is the temporary ceasefire due to end?",
+      "difficulty": "C",
+      "options": [
+        "Friday morning",
+        "At the end of the year",
+        "Sunday",
+        "After the next peace conference"
+      ],
+      "correct_answer": "Sunday",
+      "explanation_hebrew": "הפסקת האש אמורה להסתיים ביום ראשון, לאחר השלמת הפינוי המתוכנן."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “rare moments of respite”, what does “respite” mean?",
+      "difficulty": "C",
+      "options": [
+        "A short period of relief from danger or hardship",
+        "A military redeployment across a river",
+        "A public protest against the ceasefire",
+        "A permanent political settlement"
+      ],
+      "correct_answer": "A short period of relief from danger or hardship",
+      "explanation_hebrew": "בהקשר זה respite הוא הפוגה קצרה מהפחד ומהתקיפות המתמשכות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are some Ukrainian sources suspicious of the ceasefire despite the humanitarian evacuation?",
+      "difficulty": "C",
+      "options": [
+        "They believe residents do not want to leave Oleshky.",
+        "They fear Russian forces are using the lull to reinforce positions and prepare a renewed attack.",
+        "They say no roads in the region contain mines.",
+        "They think cafes in Kherson should remain closed."
+      ],
+      "correct_answer": "They fear Russian forces are using the lull to reinforce positions and prepare a renewed attack.",
+      "explanation_hebrew": "החשש הוא שהשקט מאפשר לרוסיה להביא אספקה, נשק, תחמושת ורחפנים ולפרוס מחדש כוחות."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How has Kherson's population changed since Russia's full-scale invasion began?",
+      "difficulty": "C",
+      "options": [
+        "It rose from 65,000 to more than 250,000.",
+        "It stayed close to 250,000.",
+        "It fell from over 250,000 to about 65,000.",
+        "It dropped below 10,000 and then fully recovered."
+      ],
+      "correct_answer": "It fell from over 250,000 to about 65,000.",
+      "explanation_hebrew": "אוכלוסיית חרסון הצטמצמה מיותר מ־250 אלף לכ־65 אלף בני אדם."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe three ordinary activities Kherson residents were able to do during the ceasefire that are usually dangerous or difficult.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלוש פעילויות קונקרטיות מן הכתבה.",
+      "expected_points": [
+        "People walked through streets and gathered in squares without constant shelling.",
+        "Residents went to shops, drank coffee and visited busy cafes.",
+        "Some entered the red zone to retrieve belongings or visit homes.",
+        "Olga travelled with her son to visit her grandmother."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does Yulia's calm supermarket trip carry such emotional weight in the article?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את הניגוד בין חוויה רגילה לכאורה לבין המציאות הרגילה בעיר.",
+      "expected_points": [
+        "A routine trip normally involves fear of drones or shelling.",
+        "She usually returns scared, sweating and with a lump in her throat.",
+        "Coming home whole and calm shows how extraordinary ordinary safety has become."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the purpose, immediate effects and feared consequences of the Kherson ceasefire.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול מטרה הומניטרית, שינוי בחיי התושבים וחשש צבאי.",
+      "expected_points": [
+        "The US-brokered pause supports the evacuation of civilians from Oleshky.",
+        "It brought Kherson its first real quiet in years and allowed daily life and access to the red zone.",
+        "Ukrainian sources fear Russia is using the pause to strengthen forces.",
+        "Residents expect strikes to resume, possibly more intensely, after Sunday."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph explaining why Kherson residents can feel both joy and fear during the ceasefire.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את שתי התחושות ולהסתמך על לפחות שתי דוגמאות מהכתבה.",
+      "expected_points": [
+        "Joy comes from silence, safe movement, family visits, full shops and the return of normal routines.",
+        "Fear comes from the ceasefire's fixed end date and reports of a Russian military build-up.",
+        "The brief peace reminds residents what life could be like while also highlighting what they may lose again."
+      ]
+    }
+  ]
+}

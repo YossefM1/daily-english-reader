@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-30",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central problem described in the article?",
+      "difficulty": "B",
+      "options": [
+        "Poundland plans to close only its Irish Dealz stores.",
+        "Poundland faces possible administration after funding was restricted and a takeover bid was rejected.",
+        "The government has ordered Poundland to sell every store to Lidl.",
+        "Strong sales have caused Poundland to run out of stock."
+      ],
+      "correct_answer": "Poundland faces possible administration after funding was restricted and a takeover bid was rejected.",
+      "explanation_hebrew": "הבעיה המרכזית היא סכנת קריסה ומינוי מנהלים מיוחדים לאחר הגבלת המימון ודחיית הצעת רכישה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How long does the notice of intention give Poundland to find a rescue deal?",
+      "difficulty": "B",
+      "options": [
+        "Three days",
+        "One month",
+        "Ten days",
+        "Six weeks"
+      ],
+      "correct_answer": "Ten days",
+      "explanation_hebrew": "הודעת הכוונה למנות מנהלים מיוחדים מעניקה לעסק עשרה ימים למציאת עסקת הצלה."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "For how much did Gordon Brothers buy Poundland from Pepco last year?",
+      "difficulty": "B",
+      "options": [
+        "£1",
+        "£30m",
+        "£12,000",
+        "£600m"
+      ],
+      "correct_answer": "£1",
+      "explanation_hebrew": "גורדון ברדרס רכשה את פאונדלנד במחיר סמלי של ליש״ט אחת."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “teeters on the brink of collapse” mean in this article?",
+      "difficulty": "B",
+      "options": [
+        "The company is opening a new international division.",
+        "The company is close to failing.",
+        "The company is steadily increasing profits.",
+        "The company has completed a rescue sale."
+      ],
+      "correct_answer": "The company is close to failing.",
+      "explanation_hebrew": "הביטוי מתאר חברה שנמצאת קרוב מאוד לקריסה, אך עדיין לא קרסה סופית."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might Gordon Brothers prefer breaking Poundland up rather than keeping it intact?",
+      "difficulty": "B",
+      "options": [
+        "It says selling stores separately could recover more money for creditors.",
+        "It wants to convert all stores into warehouses.",
+        "The union demanded that every site be sold independently.",
+        "Poundland has no interested buyers for any stores."
+      ],
+      "correct_answer": "It says selling stores separately could recover more money for creditors.",
+      "explanation_hebrew": "לפי מקורב לחברה, פירוק ומכירת חנויות בנפרד עשויים להשיב יותר כסף לנושים."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened after Gordon Brothers rejected Martin Property Group's offer?",
+      "difficulty": "B",
+      "options": [
+        "The government immediately bought Poundland.",
+        "All 600 stores closed the same day.",
+        "Three independent directors resigned after disagreeing with the decision.",
+        "Poundland's managers withdrew the administration notice."
+      ],
+      "correct_answer": "Three independent directors resigned after disagreeing with the decision.",
+      "explanation_hebrew": "שלושה דירקטורים עצמאיים התפטרו לאחר שחלקו על ההחלטה לא לקבל את ההצעה הממומנת."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify three figures that show Poundland's scale or the seriousness of the crisis.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לבחור שלושה נתונים מספריים מדויקים ולהסביר בקצרה מה כל אחד מראה.",
+      "expected_points": [
+        "Poundland has about 12,000 staff.",
+        "It has roughly 600 stores in the UK and Ireland.",
+        "It serves around 20 million customers a year.",
+        "The administration notice provides 10 days to seek a rescue deal."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain the disagreement between Poundland's management and Gordon Brothers about the best outcome for the business.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג את שתי העמדות ולהשתמש בראיות מהכתבה.",
+      "expected_points": [
+        "Management says sales are strong, recovery is taking root and the MPG bid could keep the company intact.",
+        "Gordon Brothers restricted funding and rejected the bid.",
+        "The owner's side argues that breaking up the chain could recover more for creditors and may transfer some staff to new store owners."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the events that put Poundland near administration and the possible next outcomes.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך להציג את רצף האירועים ולפחות שני תרחישים אפשריים.",
+      "expected_points": [
+        "Gordon Brothers limited Poundland's access to vital operating funds.",
+        "A fully funded offer from Martin Property Group was rejected.",
+        "Poundland filed notice of an intention to appoint administrators while seeking a rescue.",
+        "Possible outcomes include a pre-pack sale or a breakup with stores sold to other retailers."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short briefing for Poundland employees explaining what is known, what remains uncertain and what support has been promised.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח עדכון מאוזן המבוסס על העובדות, ללא הבטחות שאינן בכתבה.",
+      "expected_points": [
+        "State that the company has a 10-day period to seek a rescue deal.",
+        "Explain that jobs and ownership remain uncertain, with rescue, pre-pack or breakup options possible.",
+        "Mention that Andy Burnham said the government was ready to support the workforce and wanted answers about the rejected bid."
+      ]
+    }
+  ]
+}

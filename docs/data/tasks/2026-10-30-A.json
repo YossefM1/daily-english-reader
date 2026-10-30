@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-30",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Biggest fibre boost could be scraps in your bin, experts say",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw5ynver15jeo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main idea of the article?",
+      "difficulty": "A",
+      "options": [
+        "Eating normally discarded fruit and vegetable parts can add fibre and reduce food waste.",
+        "All fruit skins should be eaten raw without washing.",
+        "Adults should replace wholemeal bread with watermelon rind.",
+        "Cooking completely removes fibre from vegetables."
+      ],
+      "correct_answer": "Eating normally discarded fruit and vegetable parts can add fibre and reduce food waste.",
+      "explanation_hebrew": "הרעיון המרכזי הוא ששימוש בחלקים שבדרך כלל נזרקים יכול להוסיף סיבים תזונתיים וגם לצמצם בזבוז מזון."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What percentage of adults meet the recommended 30g of fibre per day?",
+      "difficulty": "A",
+      "options": [
+        "30%",
+        "4%",
+        "12%",
+        "50%"
+      ],
+      "correct_answer": "4%",
+      "explanation_hebrew": "לפי הנתונים הרשמיים, רק 4% מהמבוגרים מגיעים לכמות המומלצת של 30 גרם סיבים ביום."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which discarded part contained five times more fibre than the part people usually eat?",
+      "difficulty": "A",
+      "options": [
+        "Broccoli stalks",
+        "Watermelon rind",
+        "Butternut squash seeds",
+        "Pineapple skin and core"
+      ],
+      "correct_answer": "Pineapple skin and core",
+      "explanation_hebrew": "במחקר נמצא שקליפת האננס והליבה הכילו פי חמישה יותר סיבים מבשר הפרי."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “root-to-tip” eating mean?",
+      "difficulty": "A",
+      "options": [
+        "Eating only root vegetables",
+        "Using as much of a fruit or vegetable as possible",
+        "Removing every seed before cooking",
+        "Choosing food only from local farms"
+      ],
+      "correct_answer": "Using as much of a fruit or vegetable as possible",
+      "explanation_hebrew": "בהקשר הכתבה, root-to-tip פירושו להשתמש בכמה שיותר חלקים של הפרי או הירק, כולל חלקים שבדרך כלל נזרקים."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the dietitian suggest chopping, freezing and later using a broccoli stalk?",
+      "difficulty": "A",
+      "options": [
+        "Because the stalk contains no fibre until it is frozen",
+        "Because useful food need not be discarded when it does not fit the current meal",
+        "Because frozen stalks become safe for young children",
+        "Because broccoli florets are unsuitable for soup"
+      ],
+      "correct_answer": "Because useful food need not be discarded when it does not fit the current meal",
+      "explanation_hebrew": "העצה מראה שאפשר לשמור חלק מזין לשימוש עתידי במקום לזרוק אותו רק מפני שאינו מתאים לארוחה הנוכחית."
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which items does the British Nutrition Foundation say should be avoided entirely?",
+      "difficulty": "A",
+      "options": [
+        "Kiwi skin and broccoli stalks",
+        "Pineapple cores and bell pepper seeds",
+        "Green potatoes and rhubarb leaves",
+        "Watermelon rind and squash seeds"
+      ],
+      "correct_answer": "Green potatoes and rhubarb leaves",
+      "explanation_hebrew": "הכתבה מזהירה שתפוחי אדמה ירוקים ועלי ריבס מכילים תרכובות רעילות ולכן יש להימנע מהם."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two examples from the study showing that discarded food parts can be rich in fibre.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי דוגמאות מדויקות, רצוי עם נתונים או השוואות מהכתבה.",
+      "expected_points": [
+        "Watermelon rind contained 2.10g of fibre per 100g, about the amount in a slice of wholemeal bread.",
+        "Butternut squash skin and seeds contained 9.25g per 100g, nearly as much as a bowl of bran flakes.",
+        "Pineapple skin and core contained five times more fibre than the flesh."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does the article recommend increasing fibre gradually rather than changing the diet all at once?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את ההמלצה ולציין מי עלול להתקשות במיוחד.",
+      "expected_points": [
+        "A sudden increase can cause bloating.",
+        "People with IBS may find extra fibre harder to tolerate.",
+        "A gradual change lets the body adjust while people test palatable options."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the benefits, practical suggestions and cautions of root-to-tip eating in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול תועלת בריאותית, דרכי שימוש מעשיות ואזהרה אחת לפחות.",
+      "expected_points": [
+        "Discarded skins, stalks, cores and seeds can provide substantial fibre and reduce waste.",
+        "Examples include leaving kiwi skin on, cooking broccoli stalks and blending pineapple cores.",
+        "Produce should be washed and some tough parts cooked or chopped.",
+        "Toxic parts such as green potatoes and rhubarb leaves should not be eaten."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short practical message encouraging a hesitant friend to try one safe root-to-tip food idea.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח מסר ברור ולא מוגזם, עם דוגמה בטוחה ועצה מעשית מהכתבה.",
+      "expected_points": [
+        "Suggest one specific option such as kiwi skin, broccoli stalk in a stir-fry or pineapple core in a smoothie.",
+        "Mention a benefit such as extra fibre or less waste.",
+        "Include a safety step such as washing produce or increasing fibre gradually."
+      ]
+    }
+  ]
+}
