@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-30",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo",
+  "published_at": "2026-10-29T20:05:57+00:00",
+  "age_hours_at_selection": 6.15,
+  "word_count": 1043,
+  "generated_at": "2026-10-30T02:14:39.529869+00:00",
+  "difficulty_reason": "Dense, analytical war report with long sentences, emotive detail and military/diplomatic vocabulary; needs background on the Ukraine conflict.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "ceasefire",
+      "lemma": "ceasefire",
+      "level": "B2",
+      "hebrew": "הפסקת אש",
+      "explanation_hebrew": "הסכם להפסיק לחימה",
+      "pronunciation_hebrew": "סִיסְפַאיְר",
+      "example": "The two sides agreed to a ceasefire."
+    },
+    {
+      "word": "respite",
+      "lemma": "respite",
+      "level": "C1",
+      "hebrew": "הפוגה/מנוחה",
+      "explanation_hebrew": "הפסקה קצרה ממשהו קשה",
+      "pronunciation_hebrew": "רֶסְפַּיְט",
+      "example": "The rain gave a brief respite."
+    },
+    {
+      "word": "constant",
+      "lemma": "constant",
+      "level": "B1",
+      "hebrew": "מתמיד/בלתי פוסק",
+      "explanation_hebrew": "קורה כל הזמן, לא נפסק",
+      "pronunciation_hebrew": "קוֹנְסְטַנְט",
+      "example": "There was constant noise."
+    },
+    {
+      "word": "aerial",
+      "lemma": "aerial",
+      "level": "C1",
+      "hebrew": "אווירי",
+      "explanation_hebrew": "הקשור לאוויר או לתקיפה מהאוויר",
+      "pronunciation_hebrew": "אֶרִיאַל",
+      "example": "An aerial attack hit the city."
+    },
+    {
+      "word": "plague",
+      "lemma": "plague",
+      "level": "C1",
+      "hebrew": "פוקד/מציק קשות",
+      "explanation_hebrew": "גורם צרות או סבל מתמשך",
+      "pronunciation_hebrew": "פְּלֵייְג",
+      "example": "Problems plague the region."
+    },
+    {
+      "word": "strolling",
+      "lemma": "stroll",
+      "level": "B2",
+      "hebrew": "מטייל בנחת",
+      "explanation_hebrew": "הולך לאט ובנעימות",
+      "pronunciation_hebrew": "סְטְרוֹלִינְג",
+      "example": "They were strolling in the park."
+    },
+    {
+      "word": "incoming",
+      "lemma": "incoming",
+      "level": "B2",
+      "hebrew": "מתקרב/נכנס",
+      "explanation_hebrew": "מגיע לעברך",
+      "pronunciation_hebrew": "אִינְקַאמִינְג",
+      "example": "They watched for incoming drones."
+    },
+    {
+      "word": "overjoyed",
+      "lemma": "overjoyed",
+      "level": "B2",
+      "hebrew": "שמח מאוד",
+      "explanation_hebrew": "מלא אושר ושמחה",
+      "pronunciation_hebrew": "אוֹבֶרְגֹ'ויְד",
+      "example": "She was overjoyed by the news."
+    },
+    {
+      "word": "hostilities",
+      "lemma": "hostilities",
+      "level": "C1",
+      "hebrew": "פעולות איבה/לחימה",
+      "explanation_hebrew": "לחימה או מלחמה בין צדדים",
+      "pronunciation_hebrew": "הוֹסְטִילִיטִיז",
+      "example": "A pause in hostilities began."
+    },
+    {
+      "word": "evacuation",
+      "lemma": "evacuation",
+      "level": "B2",
+      "hebrew": "פינוי",
+      "explanation_hebrew": "הוצאת אנשים ממקום מסוכן",
+      "pronunciation_hebrew": "אִיוָקְיוּאֵיְשֶׁן",
+      "example": "An evacuation was planned."
+    },
+    {
+      "word": "civilians",
+      "lemma": "civilian",
+      "level": "B2",
+      "hebrew": "אזרחים",
+      "explanation_hebrew": "אנשים שאינם חיילים",
+      "pronunciation_hebrew": "סִיוִילְיַנְז",
+      "example": "Many civilians left the city."
+    },
+    {
+      "word": "truce",
+      "lemma": "truce",
+      "level": "C1",
+      "hebrew": "שביתת נשק",
+      "explanation_hebrew": "הסכם זמני להפסיק לחימה",
+      "pronunciation_hebrew": "טְרוּס",
+      "example": "Both armies kept the truce."
+    },
+    {
+      "word": "bolster",
+      "lemma": "bolster",
+      "level": "C1",
+      "hebrew": "לחזק/לתמוך",
+      "explanation_hebrew": "לעשות משהו חזק יותר",
+      "pronunciation_hebrew": "בּוֹלְסְטֶר",
+      "example": "They moved to bolster their forces."
+    },
+    {
+      "word": "onslaught",
+      "lemma": "onslaught",
+      "level": "C1",
+      "hebrew": "מתקפה עזה",
+      "explanation_hebrew": "התקפה חזקה ואלימה",
+      "pronunciation_hebrew": "אוֹנְסְלוֹט",
+      "example": "They feared a new onslaught."
+    },
+    {
+      "word": "lull",
+      "lemma": "lull",
+      "level": "C1",
+      "hebrew": "רגיעה/שקט זמני",
+      "explanation_hebrew": "תקופה שקטה בין אירועים",
+      "pronunciation_hebrew": "לַאל",
+      "example": "There was a lull in the fighting."
+    },
+    {
+      "word": "ammunition",
+      "lemma": "ammunition",
+      "level": "B2",
+      "hebrew": "תחמושת",
+      "explanation_hebrew": "כדורים ופגזים לנשק",
+      "pronunciation_hebrew": "אַמְיוּנִישֶׁן",
+      "example": "They ran low on ammunition."
+    },
+    {
+      "word": "redeployment",
+      "lemma": "redeployment",
+      "level": "C1",
+      "hebrew": "העברה מחדש של כוחות",
+      "explanation_hebrew": "הזזת כוחות למקום אחר",
+      "pronunciation_hebrew": "רִידִיפְּלוֹיְמֶנְט",
+      "example": "A redeployment of troops began."
+    },
+    {
+      "word": "exploit",
+      "lemma": "exploit",
+      "level": "B2",
+      "hebrew": "לנצל",
+      "explanation_hebrew": "להשתמש במשהו לטובת עצמך",
+      "pronunciation_hebrew": "אֶקְסְפְּלוֹיְט",
+      "example": "They tried to exploit the pause."
+    },
+    {
+      "word": "simultaneously",
+      "lemma": "simultaneously",
+      "level": "C1",
+      "hebrew": "בו־זמנית",
+      "explanation_hebrew": "קורה באותו זמן",
+      "pronunciation_hebrew": "סַיְמֶלְטֵיְנְיֶסְלִי",
+      "example": "Both things happened simultaneously."
+    },
+    {
+      "word": "prolong",
+      "lemma": "prolong",
+      "level": "B2",
+      "hebrew": "להאריך",
+      "explanation_hebrew": "לגרום למשהו להימשך זמן רב יותר",
+      "pronunciation_hebrew": "פְּרוֹלוֹנְג",
+      "example": "They want to prolong the war."
+    },
+    {
+      "word": "violations",
+      "lemma": "violation",
+      "level": "B2",
+      "hebrew": "הפרות",
+      "explanation_hebrew": "מעשים שמפרים חוק או הסכם",
+      "pronunciation_hebrew": "וַייוֹלֵיְשֶׁנְז",
+      "example": "No violations were reported."
+    },
+    {
+      "word": "shelling",
+      "lemma": "shelling",
+      "level": "C1",
+      "hebrew": "הפגזה",
+      "explanation_hebrew": "ירי פגזים על מקום",
+      "pronunciation_hebrew": "שֶׁלִינְג",
+      "example": "The shelling finally stopped."
+    },
+    {
+      "word": "disbelief",
+      "lemma": "disbelief",
+      "level": "B2",
+      "hebrew": "חוסר אמון/תדהמה",
+      "explanation_hebrew": "תחושה שקשה להאמין שמשהו אמיתי",
+      "pronunciation_hebrew": "דִיסְבִּילִיף",
+      "example": "She stared in disbelief."
+    },
+    {
+      "word": "venturing",
+      "lemma": "venture",
+      "level": "B2",
+      "hebrew": "מעז ללכת/מסתכן",
+      "explanation_hebrew": "הולך למקום מסוכן או לא מוכר",
+      "pronunciation_hebrew": "וֶנְצֶ'רִינְג",
+      "example": "They were venturing into the zone."
+    },
+    {
+      "word": "charred",
+      "lemma": "charred",
+      "level": "C1",
+      "hebrew": "חרוך/שרוף",
+      "explanation_hebrew": "שחור ושרוף מאש",
+      "pronunciation_hebrew": "צַ'ארְד",
+      "example": "Only charred walls remained."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "ceasefire",
+      "type": "english_to_hebrew",
+      "question": "What does “ceasefire” mean?",
+      "options": [
+        "הפוגה/מנוחה",
+        "מתמיד/בלתי פוסק",
+        "אווירי",
+        "הפסקת אש"
+      ],
+      "correct_answer": "הפסקת אש",
+      "explanation_hebrew": "“ceasefire” פירושו הפסקת אש."
+    },
+    {
+      "id": "C-q2",
+      "word": "respite",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הפוגה/מנוחה”?",
+      "options": [
+        "aerial",
+        "respite",
+        "plague",
+        "constant"
+      ],
+      "correct_answer": "respite",
+      "explanation_hebrew": "המילה “respite” פירושה הפוגה/מנוחה."
+    },
+    {
+      "id": "C-q3",
+      "word": "constant",
+      "type": "english_to_hebrew",
+      "question": "What does “constant” mean?",
+      "options": [
+        "אווירי",
+        "מטייל בנחת",
+        "פוקד/מציק קשות",
+        "מתמיד/בלתי פוסק"
+      ],
+      "correct_answer": "מתמיד/בלתי פוסק",
+      "explanation_hebrew": "“constant” פירושו מתמיד/בלתי פוסק."
+    },
+    {
+      "id": "C-q4",
+      "word": "aerial",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אווירי”?",
+      "options": [
+        "aerial",
+        "plague",
+        "strolling",
+        "incoming"
+      ],
+      "correct_answer": "aerial",
+      "explanation_hebrew": "המילה “aerial” פירושה אווירי."
+    },
+    {
+      "id": "C-q5",
+      "word": "plague",
+      "type": "english_to_hebrew",
+      "question": "What does “plague” mean?",
+      "options": [
+        "שמח מאוד",
+        "פוקד/מציק קשות",
+        "מטייל בנחת",
+        "מתקרב/נכנס"
+      ],
+      "correct_answer": "פוקד/מציק קשות",
+      "explanation_hebrew": "“plague” פירושו פוקד/מציק קשות."
+    },
+    {
+      "id": "C-q6",
+      "word": "strolling",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מטייל בנחת”?",
+      "options": [
+        "hostilities",
+        "incoming",
+        "strolling",
+        "overjoyed"
+      ],
+      "correct_answer": "strolling",
+      "explanation_hebrew": "המילה “strolling” פירושה מטייל בנחת."
+    },
+    {
+      "id": "C-q7",
+      "word": "incoming",
+      "type": "english_to_hebrew",
+      "question": "What does “incoming” mean?",
+      "options": [
+        "פינוי",
+        "שמח מאוד",
+        "פעולות איבה/לחימה",
+        "מתקרב/נכנס"
+      ],
+      "correct_answer": "מתקרב/נכנס",
+      "explanation_hebrew": "“incoming” פירושו מתקרב/נכנס."
+    },
+    {
+      "id": "C-q8",
+      "word": "overjoyed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שמח מאוד”?",
+      "options": [
+        "overjoyed",
+        "civilians",
+        "evacuation",
+        "hostilities"
+      ],
+      "correct_answer": "overjoyed",
+      "explanation_hebrew": "המילה “overjoyed” פירושה שמח מאוד."
+    },
+    {
+      "id": "C-q9",
+      "word": "hostilities",
+      "type": "english_to_hebrew",
+      "question": "What does “hostilities” mean?",
+      "options": [
+        "פינוי",
+        "אזרחים",
+        "פעולות איבה/לחימה",
+        "שביתת נשק"
+      ],
+      "correct_answer": "פעולות איבה/לחימה",
+      "explanation_hebrew": "“hostilities” פירושו פעולות איבה/לחימה."
+    },
+    {
+      "id": "C-q10",
+      "word": "evacuation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פינוי”?",
+      "options": [
+        "civilians",
+        "bolster",
+        "truce",
+        "evacuation"
+      ],
+      "correct_answer": "evacuation",
+      "explanation_hebrew": "המילה “evacuation” פירושה פינוי."
+    },
+    {
+      "id": "C-q11",
+      "word": "civilians",
+      "type": "english_to_hebrew",
+      "question": "What does “civilians” mean?",
+      "options": [
+        "שביתת נשק",
+        "לחזק/לתמוך",
+        "אזרחים",
+        "מתקפה עזה"
+      ],
+      "correct_answer": "אזרחים",
+      "explanation_hebrew": "“civilians” פירושו אזרחים."
+    },
+    {
+      "id": "C-q12",
+      "word": "truce",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שביתת נשק”?",
+      "options": [
+        "truce",
+        "lull",
+        "onslaught",
+        "bolster"
+      ],
+      "correct_answer": "truce",
+      "explanation_hebrew": "המילה “truce” פירושה שביתת נשק."
+    },
+    {
+      "id": "C-q13",
+      "word": "bolster",
+      "type": "english_to_hebrew",
+      "question": "What does “bolster” mean?",
+      "options": [
+        "רגיעה/שקט זמני",
+        "מתקפה עזה",
+        "לחזק/לתמוך",
+        "תחמושת"
+      ],
+      "correct_answer": "לחזק/לתמוך",
+      "explanation_hebrew": "“bolster” פירושו לחזק/לתמוך."
+    },
+    {
+      "id": "C-q14",
+      "word": "onslaught",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מתקפה עזה”?",
+      "options": [
+        "onslaught",
+        "redeployment",
+        "lull",
+        "ammunition"
+      ],
+      "correct_answer": "onslaught",
+      "explanation_hebrew": "המילה “onslaught” פירושה מתקפה עזה."
+    },
+    {
+      "id": "C-q15",
+      "word": "lull",
+      "type": "english_to_hebrew",
+      "question": "What does “lull” mean?",
+      "options": [
+        "תחמושת",
+        "רגיעה/שקט זמני",
+        "לנצל",
+        "העברה מחדש של כוחות"
+      ],
+      "correct_answer": "רגיעה/שקט זמני",
+      "explanation_hebrew": "“lull” פירושו רגיעה/שקט זמני."
+    },
+    {
+      "id": "C-q16",
+      "word": "ammunition",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תחמושת”?",
+      "options": [
+        "redeployment",
+        "simultaneously",
+        "exploit",
+        "ammunition"
+      ],
+      "correct_answer": "ammunition",
+      "explanation_hebrew": "המילה “ammunition” פירושה תחמושת."
+    },
+    {
+      "id": "C-q17",
+      "word": "redeployment",
+      "type": "english_to_hebrew",
+      "question": "What does “redeployment” mean?",
+      "options": [
+        "בו־זמנית",
+        "לנצל",
+        "להאריך",
+        "העברה מחדש של כוחות"
+      ],
+      "correct_answer": "העברה מחדש של כוחות",
+      "explanation_hebrew": "“redeployment” פירושו העברה מחדש של כוחות."
+    },
+    {
+      "id": "C-q18",
+      "word": "exploit",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לנצל”?",
+      "options": [
+        "prolong",
+        "simultaneously",
+        "exploit",
+        "violations"
+      ],
+      "correct_answer": "exploit",
+      "explanation_hebrew": "המילה “exploit” פירושה לנצל."
+    },
+    {
+      "id": "C-q19",
+      "word": "simultaneously",
+      "type": "english_to_hebrew",
+      "question": "What does “simultaneously” mean?",
+      "options": [
+        "הפרות",
+        "להאריך",
+        "הפגזה",
+        "בו־זמנית"
+      ],
+      "correct_answer": "בו־זמנית",
+      "explanation_hebrew": "“simultaneously” פירושו בו־זמנית."
+    },
+    {
+      "id": "C-q20",
+      "word": "prolong",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “להאריך”?",
+      "options": [
+        "prolong",
+        "violations",
+        "shelling",
+        "disbelief"
+      ],
+      "correct_answer": "prolong",
+      "explanation_hebrew": "המילה “prolong” פירושה להאריך."
+    },
+    {
+      "id": "C-q21",
+      "word": "violations",
+      "type": "english_to_hebrew",
+      "question": "What does “violations” mean?",
+      "options": [
+        "הפרות",
+        "מעז ללכת/מסתכן",
+        "הפגזה",
+        "חוסר אמון/תדהמה"
+      ],
+      "correct_answer": "הפרות",
+      "explanation_hebrew": "“violations” פירושו הפרות."
+    },
+    {
+      "id": "C-q22",
+      "word": "shelling",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הפגזה”?",
+      "options": [
+        "charred",
+        "shelling",
+        "venturing",
+        "disbelief"
+      ],
+      "correct_answer": "shelling",
+      "explanation_hebrew": "המילה “shelling” פירושה הפגזה."
+    },
+    {
+      "id": "C-q23",
+      "word": "disbelief",
+      "type": "english_to_hebrew",
+      "question": "What does “disbelief” mean?",
+      "options": [
+        "חוסר אמון/תדהמה",
+        "מעז ללכת/מסתכן",
+        "הפסקת אש",
+        "חרוך/שרוף"
+      ],
+      "correct_answer": "חוסר אמון/תדהמה",
+      "explanation_hebrew": "“disbelief” פירושו חוסר אמון/תדהמה."
+    },
+    {
+      "id": "C-q24",
+      "word": "venturing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מעז ללכת/מסתכן”?",
+      "options": [
+        "ceasefire",
+        "charred",
+        "venturing",
+        "respite"
+      ],
+      "correct_answer": "venturing",
+      "explanation_hebrew": "המילה “venturing” פירושה מעז ללכת/מסתכן."
+    },
+    {
+      "id": "C-q25",
+      "word": "charred",
+      "type": "english_to_hebrew",
+      "question": "What does “charred” mean?",
+      "options": [
+        "חרוך/שרוף",
+        "הפוגה/מנוחה",
+        "הפסקת אש",
+        "מתמיד/בלתי פוסק"
+      ],
+      "correct_answer": "חרוך/שרוף",
+      "explanation_hebrew": "“charred” פירושו חרוך/שרוף."
+    }
+  ]
+}

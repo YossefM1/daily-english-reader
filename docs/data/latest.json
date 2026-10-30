@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+  "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-  "published_at": "2026-10-29T00:00:15+00:00",
-  "age_hours_at_selection": 2.23,
-  "word_count": 879,
-  "generated_at": "2026-10-29T02:13:49.125802+00:00",
-  "difficulty_reason": "Human-interest feature with moderate sentence length and some cultural background; useful B1/B2/C1 vocabulary and a few unfamiliar concepts.",
+  "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o",
+  "published_at": "2026-10-29T19:11:10+00:00",
+  "age_hours_at_selection": 7.06,
+  "word_count": 856,
+  "generated_at": "2026-10-30T02:14:39.529869+00:00",
+  "difficulty_reason": "Business news with moderate sentence complexity and commercial/financial vocabulary; some background on retail and insolvency helps.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "rental",
-      "lemma": "rental",
+      "word": "retailer",
+      "lemma": "retailer",
       "level": "B2",
-      "hebrew": "להשכרה",
-      "explanation_hebrew": "הקשור להשכרת דירה או נכס",
-      "pronunciation_hebrew": "רֶנְטַל",
-      "example": "They signed a rental agreement for a year."
+      "hebrew": "קמעונאי/רשת מכירה",
+      "explanation_hebrew": "חברה שמוכרת מוצרים לציבור",
+      "pronunciation_hebrew": "רִיטֵיְלֶר",
+      "example": "The retailer opened a new store."
     },
     {
-      "word": "haunted",
-      "lemma": "haunted",
+      "word": "teeters",
+      "lemma": "teeter",
+      "level": "C1",
+      "hebrew": "מתנדנד/על סף",
+      "explanation_hebrew": "נמצא במצב לא יציב, קרוב ליפול",
+      "pronunciation_hebrew": "טִיטֶרְז",
+      "example": "The company teeters on collapse."
+    },
+    {
+      "word": "collapse",
+      "lemma": "collapse",
       "level": "B2",
-      "hebrew": "רדוף רוחות",
-      "explanation_hebrew": "מקום שמאמינים שיש בו רוחות רפאים",
-      "pronunciation_hebrew": "הוֹנְטֶד",
-      "example": "Children say the old house is haunted."
-    },
-    {
-      "word": "glaring",
-      "lemma": "glare",
-      "level": "C1",
-      "hebrew": "נועץ מבט זועם",
-      "explanation_hebrew": "מביט במבט כועס וחודר",
-      "pronunciation_hebrew": "גְלֵרִינְג",
-      "example": "He kept glaring at me across the room."
-    },
-    {
-      "word": "squeamish",
-      "lemma": "squeamish",
-      "level": "C1",
-      "hebrew": "רגיש וסולד",
-      "explanation_hebrew": "נבחל או נגעל בקלות מדברים לא נעימים",
-      "pronunciation_hebrew": "סְקְווִימִישׁ",
-      "example": "She is too squeamish to watch surgery."
-    },
-    {
-      "word": "contrarian",
-      "lemma": "contrarian",
-      "level": "C2",
-      "hebrew": "נגדן",
-      "explanation_hebrew": "אדם שאוהב לנקוט עמדה הפוכה מהמקובל",
-      "pronunciation_hebrew": "קוֹנְטְרֵריאַן",
-      "example": "He is a contrarian who enjoys debate."
-    },
-    {
-      "word": "paranormal",
-      "lemma": "paranormal",
-      "level": "C1",
-      "hebrew": "על-טבעי",
-      "explanation_hebrew": "תופעות שלא ניתן להסביר במדע רגיל",
-      "pronunciation_hebrew": "פַּרַנוֹרְמַל",
-      "example": "They claim to study paranormal events."
-    },
-    {
-      "word": "lingering",
-      "lemma": "linger",
-      "level": "C1",
-      "hebrew": "מתמהמה",
-      "explanation_hebrew": "נשאר זמן רב ולא נעלם",
-      "pronunciation_hebrew": "לִינְגֶרִינְג",
-      "example": "There was a lingering smell of smoke."
-    },
-    {
-      "word": "tragic",
-      "lemma": "tragic",
-      "level": "B2",
-      "hebrew": "טרגי",
-      "explanation_hebrew": "קשור לאסון עצוב וקשה",
-      "pronunciation_hebrew": "טְרַגִיק",
-      "example": "It was a tragic end to the story."
-    },
-    {
-      "word": "circumstances",
-      "lemma": "circumstance",
-      "level": "B2",
-      "hebrew": "נסיבות",
-      "explanation_hebrew": "התנאים או המצב סביב אירוע",
-      "pronunciation_hebrew": "סֶרְקַמְסְטַנְסֶס",
-      "example": "He died in mysterious circumstances."
-    },
-    {
-      "word": "superstitious",
-      "lemma": "superstitious",
-      "level": "C1",
-      "hebrew": "מאמין באמונות טפלות",
-      "explanation_hebrew": "מאמין במזל ובכוחות לא רציונליים",
-      "pronunciation_hebrew": "סוּפֶּרְסְטִישֶׁס",
-      "example": "Many people are superstitious about black cats."
-    },
-    {
-      "word": "dwellings",
-      "lemma": "dwelling",
-      "level": "C1",
-      "hebrew": "מגורים",
-      "explanation_hebrew": "מבנים שאנשים גרים בהם",
-      "pronunciation_hebrew": "דְווֶלִינְגְז",
-      "example": "The village has only a few dwellings."
-    },
-    {
-      "word": "stigmatised",
-      "lemma": "stigmatise",
-      "level": "C1",
-      "hebrew": "מתויג לרעה",
-      "explanation_hebrew": "נתפס כמשהו מביש או פגום",
-      "pronunciation_hebrew": "סְטִיגְמַטַייזְד",
-      "example": "The illness is still stigmatised in some places."
-    },
-    {
-      "word": "guidelines",
-      "lemma": "guideline",
-      "level": "B2",
-      "hebrew": "הנחיות",
-      "explanation_hebrew": "כללים רשמיים שממליצים כיצד לפעול",
-      "pronunciation_hebrew": "גַייְדְלַיינְז",
-      "example": "Staff must follow the safety guidelines."
-    },
-    {
-      "word": "disclose",
-      "lemma": "disclose",
-      "level": "C1",
-      "hebrew": "לחשוף מידע",
-      "explanation_hebrew": "למסור מידע שהיה סודי או לא ידוע",
-      "pronunciation_hebrew": "דִיסְקְלוֹוְז",
-      "example": "Companies must disclose their profits."
-    },
-    {
-      "word": "indefinitely",
-      "lemma": "indefinitely",
-      "level": "C1",
-      "hebrew": "ללא הגבלת זמן",
-      "explanation_hebrew": "לפרק זמן בלתי מוגדר וללא סוף ידוע",
-      "pronunciation_hebrew": "אִינְדֶפִינִטְלִי",
-      "example": "The meeting was postponed indefinitely."
-    },
-    {
-      "word": "requirement",
-      "lemma": "requirement",
-      "level": "B2",
-      "hebrew": "דרישה",
-      "explanation_hebrew": "דבר שחובה לעשות או לקיים",
-      "pronunciation_hebrew": "רִיקְווַיירְמֶנְט",
-      "example": "A visa is a requirement for entry."
+      "hebrew": "קריסה/התמוטטות",
+      "explanation_hebrew": "כישלון מוחלט, נפילה",
+      "pronunciation_hebrew": "קוֹלַפְּס",
+      "example": "The business faced collapse."
     },
     {
       "word": "discount",
       "lemma": "discount",
-      "level": "B2",
+      "level": "B1",
       "hebrew": "הנחה",
-      "explanation_hebrew": "הורדה במחיר של מוצר או שירות",
+      "explanation_hebrew": "מחיר נמוך מהרגיל",
       "pronunciation_hebrew": "דִיסְקַאוּנְט",
-      "example": "They offered a big discount on shoes."
+      "example": "They sell goods at a discount."
     },
     {
-      "word": "fashionable",
-      "lemma": "fashionable",
+      "word": "rejected",
+      "lemma": "reject",
+      "level": "B1",
+      "hebrew": "נדחה",
+      "explanation_hebrew": "לא התקבל, סורב",
+      "pronunciation_hebrew": "רִיגֶ'קְטֶד",
+      "example": "The offer was rejected."
+    },
+    {
+      "word": "takeover",
+      "lemma": "takeover",
       "level": "B2",
-      "hebrew": "אופנתי",
-      "explanation_hebrew": "פופולרי ומקובל כרגע",
-      "pronunciation_hebrew": "פַשֶׁנַבְּל",
-      "example": "She lives in a fashionable part of town."
+      "hebrew": "השתלטות/רכישה",
+      "explanation_hebrew": "כשחברה קונה חברה אחרת",
+      "pronunciation_hebrew": "טֵייְקְאוֹבֶר",
+      "example": "There was a takeover of the firm."
     },
     {
-      "word": "averse",
-      "lemma": "averse",
-      "level": "C2",
-      "hebrew": "סולד",
-      "explanation_hebrew": "בעל התנגדות או אי-רצון חזק כלפי משהו",
-      "pronunciation_hebrew": "אַוֶורְס",
-      "example": "He is averse to taking risks."
-    },
-    {
-      "word": "cemetery",
-      "lemma": "cemetery",
+      "word": "funding",
+      "lemma": "funding",
       "level": "B2",
-      "hebrew": "בית קברות",
-      "explanation_hebrew": "מקום שבו קוברים את המתים",
-      "pronunciation_hebrew": "סֶמֶטְרִי",
-      "example": "They walked past the old cemetery."
+      "hebrew": "מימון",
+      "explanation_hebrew": "כסף שנותנים כדי לתמוך בעסק",
+      "pronunciation_hebrew": "פַנְדִינְג",
+      "example": "The project needs more funding."
     },
     {
-      "word": "renters",
-      "lemma": "renter",
-      "level": "B2",
-      "hebrew": "שוכרים",
-      "explanation_hebrew": "אנשים ששוכרים דירה או נכס",
-      "pronunciation_hebrew": "רֶנְטֶרְז",
-      "example": "Many renters cannot afford to buy a home."
+      "word": "rescue",
+      "lemma": "rescue",
+      "level": "B1",
+      "hebrew": "הצלה",
+      "explanation_hebrew": "עזרה שמצילה ממצב קשה",
+      "pronunciation_hebrew": "רֶסְקְיוּ",
+      "example": "They hoped for a rescue deal."
     },
     {
-      "word": "rural",
-      "lemma": "rural",
-      "level": "B2",
-      "hebrew": "כפרי",
-      "explanation_hebrew": "הקשור לאזורי כפר ולא לעיר",
-      "pronunciation_hebrew": "רוּרַל",
-      "example": "They moved to a quiet rural area."
-    },
-    {
-      "word": "splendid",
-      "lemma": "splendid",
+      "word": "nominal",
+      "lemma": "nominal",
       "level": "C1",
-      "hebrew": "מרהיב",
-      "explanation_hebrew": "יפהפה ומרשים מאוד",
-      "pronunciation_hebrew": "סְפְּלֶנְדִיד",
-      "example": "We had a splendid view of the sea."
+      "hebrew": "סמלי",
+      "explanation_hebrew": "קטן מאוד, כמעט ללא ערך",
+      "pronunciation_hebrew": "נוֹמִינֶל",
+      "example": "He bought it for a nominal fee."
     },
     {
-      "word": "surged",
-      "lemma": "surge",
+      "word": "brink",
+      "lemma": "brink",
       "level": "C1",
-      "hebrew": "זינק",
-      "explanation_hebrew": "עלה או גדל במהירות ובחוזקה",
-      "pronunciation_hebrew": "סֶרְגְ'ד",
-      "example": "Prices surged after the news."
+      "hebrew": "סף/קצה",
+      "explanation_hebrew": "הנקודה ממש לפני שמשהו קורה",
+      "pronunciation_hebrew": "בְּרִינְק",
+      "example": "The firm is on the brink of collapse."
     },
     {
-      "word": "crowdsourced",
-      "lemma": "crowdsource",
+      "word": "purchased",
+      "lemma": "purchase",
+      "level": "B2",
+      "hebrew": "נרכש/נקנה",
+      "explanation_hebrew": "נקנה תמורת כסף",
+      "pronunciation_hebrew": "פֶּרְצֶ'סְט",
+      "example": "The house was purchased last year."
+    },
+    {
+      "word": "administration",
+      "lemma": "administration",
       "level": "C1",
-      "hebrew": "מבוסס קהל",
-      "explanation_hebrew": "מידע שנאסף מתרומות של אנשים רבים",
-      "pronunciation_hebrew": "קְרַאוּדְסוֹרְסְט",
-      "example": "The map is crowdsourced by volunteers."
+      "hebrew": "כינוס נכסים",
+      "explanation_hebrew": "מצב שבו גורם חיצוני מנהל חברה שקרסה",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵיְשֶׁן",
+      "example": "The chain went into administration."
+    },
+    {
+      "word": "merchandise",
+      "lemma": "merchandise",
+      "level": "B2",
+      "hebrew": "סחורה",
+      "explanation_hebrew": "מוצרים שנמכרים בחנות",
+      "pronunciation_hebrew": "מֶרְצֶ'נְדַייְז",
+      "example": "The shop sells cheap merchandise."
+    },
+    {
+      "word": "uncertainty",
+      "lemma": "uncertainty",
+      "level": "B2",
+      "hebrew": "אי־ודאות",
+      "explanation_hebrew": "מצב שבו לא יודעים מה יקרה",
+      "pronunciation_hebrew": "אַנְסֶרְטֶנְטִי",
+      "example": "There is uncertainty about jobs."
+    },
+    {
+      "word": "clouding",
+      "lemma": "cloud",
+      "level": "C1",
+      "hebrew": "מעיב/מערפל",
+      "explanation_hebrew": "גורם למשהו להיות פחות ברור או בטוח",
+      "pronunciation_hebrew": "קְלַאוּדִינְג",
+      "example": "Doubt was clouding the deal."
+    },
+    {
+      "word": "creditors",
+      "lemma": "creditor",
+      "level": "C1",
+      "hebrew": "נושים/בעלי חוב",
+      "explanation_hebrew": "גורמים שחייבים להם כסף",
+      "pronunciation_hebrew": "קְרֶדִיטֶרְז",
+      "example": "The creditors want their money."
+    },
+    {
+      "word": "recover",
+      "lemma": "recover",
+      "level": "B2",
+      "hebrew": "להשיב/להחלים",
+      "explanation_hebrew": "לקבל בחזרה משהו שאבד",
+      "pronunciation_hebrew": "רִיקַאבֶר",
+      "example": "They hope to recover the money."
+    },
+    {
+      "word": "insolvency",
+      "lemma": "insolvency",
+      "level": "C1",
+      "hebrew": "חדלות פירעון",
+      "explanation_hebrew": "מצב שבו אין כסף לשלם חובות",
+      "pronunciation_hebrew": "אִינְסוֹלְבֶנְסִי",
+      "example": "The firm faces insolvency."
+    },
+    {
+      "word": "distressing",
+      "lemma": "distress",
+      "level": "B2",
+      "hebrew": "מטריד/מצער מאוד",
+      "explanation_hebrew": "גורם לדאגה או לצער גדול",
+      "pronunciation_hebrew": "דִיסְטְרֶסִינְג",
+      "example": "It was a distressing week."
+    },
+    {
+      "word": "jeopardises",
+      "lemma": "jeopardise",
+      "level": "C1",
+      "hebrew": "מסכן/מעמיד בסכנה",
+      "explanation_hebrew": "גורם למשהו להיות בסכנה",
+      "pronunciation_hebrew": "גֶ'פַּרְדַייְזִיז",
+      "example": "The decision jeopardises their jobs."
+    },
+    {
+      "word": "livelihoods",
+      "lemma": "livelihood",
+      "level": "C1",
+      "hebrew": "פרנסה/מקור מחיה",
+      "explanation_hebrew": "הדרך שבה אנשים מרוויחים לחיות",
+      "pronunciation_hebrew": "לַייְבְלִיהוּדְז",
+      "example": "Many livelihoods are at risk."
+    },
+    {
+      "word": "reluctantly",
+      "lemma": "reluctantly",
+      "level": "B2",
+      "hebrew": "באי־רצון",
+      "explanation_hebrew": "עושה משהו למרות שלא רוצה",
+      "pronunciation_hebrew": "רִילַקְטֶנְטְלִי",
+      "example": "He reluctantly agreed."
+    },
+    {
+      "word": "urging",
+      "lemma": "urge",
+      "level": "B2",
+      "hebrew": "דוחק/קורא בתוקף",
+      "explanation_hebrew": "מבקש בחוזקה שמישהו יעשה משהו",
+      "pronunciation_hebrew": "אֶרְגִ'ינְג",
+      "example": "They are urging him to stay."
+    },
+    {
+      "word": "reconsider",
+      "lemma": "reconsider",
+      "level": "B2",
+      "hebrew": "לשקול מחדש",
+      "explanation_hebrew": "לחשוב שוב על החלטה",
+      "pronunciation_hebrew": "רִיקוֹנְסִידֶר",
+      "example": "Please reconsider your choice."
+    },
+    {
+      "word": "avoidable",
+      "lemma": "avoidable",
+      "level": "B2",
+      "hebrew": "ניתן למניעה",
+      "explanation_hebrew": "משהו שאפשר היה למנוע",
+      "pronunciation_hebrew": "אַבוֹיְדַבְּל",
+      "example": "The mistake was avoidable."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "rental",
+      "word": "retailer",
       "type": "english_to_hebrew",
-      "question": "What does “rental” mean?",
+      "question": "What does “retailer” mean?",
       "options": [
-        "נועץ מבט זועם",
-        "רדוף רוחות",
-        "להשכרה",
-        "רגיש וסולד"
+        "הנחה",
+        "קמעונאי/רשת מכירה",
+        "קריסה/התמוטטות",
+        "מתנדנד/על סף"
       ],
-      "correct_answer": "להשכרה",
-      "explanation_hebrew": "“rental” פירושו להשכרה – הקשור להשכרת דירה או נכס."
+      "correct_answer": "קמעונאי/רשת מכירה",
+      "explanation_hebrew": "“retailer” פירושו קמעונאי/רשת מכירה."
     },
     {
       "id": "B-q2",
-      "word": "haunted",
+      "word": "teeters",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “רדוף רוחות”?",
+      "question": "איזו מילה באנגלית פירושה “מתנדנד/על סף”?",
       "options": [
-        "contrarian",
-        "haunted",
-        "squeamish",
-        "glaring"
+        "teeters",
+        "rejected",
+        "discount",
+        "collapse"
       ],
-      "correct_answer": "haunted",
-      "explanation_hebrew": "המילה “haunted” פירושה רדוף רוחות."
+      "correct_answer": "teeters",
+      "explanation_hebrew": "המילה “teeters” פירושה מתנדנד/על סף."
     },
     {
       "id": "B-q3",
-      "word": "glaring",
+      "word": "collapse",
       "type": "english_to_hebrew",
-      "question": "What does “glaring” mean?",
+      "question": "What does “collapse” mean?",
       "options": [
-        "על-טבעי",
-        "נועץ מבט זועם",
-        "נגדן",
-        "רגיש וסולד"
+        "השתלטות/רכישה",
+        "הנחה",
+        "קריסה/התמוטטות",
+        "נדחה"
       ],
-      "correct_answer": "נועץ מבט זועם",
-      "explanation_hebrew": "“glaring” פירושו נועץ מבט זועם – מביט במבט כועס וחודר."
+      "correct_answer": "קריסה/התמוטטות",
+      "explanation_hebrew": "“collapse” פירושו קריסה/התמוטטות."
     },
     {
       "id": "B-q4",
-      "word": "squeamish",
+      "word": "discount",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “רגיש וסולד”?",
+      "question": "איזו מילה באנגלית פירושה “הנחה”?",
       "options": [
-        "contrarian",
-        "paranormal",
-        "lingering",
-        "squeamish"
+        "takeover",
+        "rejected",
+        "discount",
+        "funding"
       ],
-      "correct_answer": "squeamish",
-      "explanation_hebrew": "המילה “squeamish” פירושה רגיש וסולד."
+      "correct_answer": "discount",
+      "explanation_hebrew": "המילה “discount” פירושה הנחה."
     },
     {
       "id": "B-q5",
-      "word": "contrarian",
+      "word": "rejected",
       "type": "english_to_hebrew",
-      "question": "What does “contrarian” mean?",
+      "question": "What does “rejected” mean?",
       "options": [
-        "מתמהמה",
-        "טרגי",
-        "על-טבעי",
-        "נגדן"
+        "נדחה",
+        "הצלה",
+        "מימון",
+        "השתלטות/רכישה"
       ],
-      "correct_answer": "נגדן",
-      "explanation_hebrew": "“contrarian” פירושו נגדן – אדם שאוהב לנקוט עמדה הפוכה מהמקובל."
+      "correct_answer": "נדחה",
+      "explanation_hebrew": "“rejected” פירושו נדחה."
     },
     {
       "id": "B-q6",
-      "word": "paranormal",
+      "word": "takeover",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “על-טבעי”?",
+      "question": "איזו מילה באנגלית פירושה “השתלטות/רכישה”?",
       "options": [
-        "circumstances",
-        "tragic",
-        "paranormal",
-        "lingering"
+        "funding",
+        "takeover",
+        "rescue",
+        "nominal"
       ],
-      "correct_answer": "paranormal",
-      "explanation_hebrew": "המילה “paranormal” פירושה על-טבעי."
+      "correct_answer": "takeover",
+      "explanation_hebrew": "המילה “takeover” פירושה השתלטות/רכישה."
     },
     {
       "id": "B-q7",
-      "word": "lingering",
+      "word": "funding",
       "type": "english_to_hebrew",
-      "question": "What does “lingering” mean?",
+      "question": "What does “funding” mean?",
       "options": [
-        "מתמהמה",
-        "מאמין באמונות טפלות",
-        "טרגי",
-        "נסיבות"
+        "הצלה",
+        "סמלי",
+        "מימון",
+        "סף/קצה"
       ],
-      "correct_answer": "מתמהמה",
-      "explanation_hebrew": "“lingering” פירושו מתמהמה – נשאר זמן רב ולא נעלם."
+      "correct_answer": "מימון",
+      "explanation_hebrew": "“funding” פירושו מימון."
     },
     {
       "id": "B-q8",
-      "word": "tragic",
+      "word": "rescue",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “טרגי”?",
+      "question": "איזו מילה באנגלית פירושה “הצלה”?",
       "options": [
-        "tragic",
-        "dwellings",
-        "superstitious",
-        "circumstances"
+        "rescue",
+        "purchased",
+        "nominal",
+        "brink"
       ],
-      "correct_answer": "tragic",
-      "explanation_hebrew": "המילה “tragic” פירושה טרגי."
+      "correct_answer": "rescue",
+      "explanation_hebrew": "המילה “rescue” פירושה הצלה."
     },
     {
       "id": "B-q9",
-      "word": "circumstances",
+      "word": "nominal",
       "type": "english_to_hebrew",
-      "question": "What does “circumstances” mean?",
+      "question": "What does “nominal” mean?",
       "options": [
-        "מתויג לרעה",
-        "נסיבות",
-        "מאמין באמונות טפלות",
-        "מגורים"
+        "כינוס נכסים",
+        "סמלי",
+        "סף/קצה",
+        "נרכש/נקנה"
       ],
-      "correct_answer": "נסיבות",
-      "explanation_hebrew": "“circumstances” פירושו נסיבות – התנאים או המצב סביב אירוע."
+      "correct_answer": "סמלי",
+      "explanation_hebrew": "“nominal” פירושו סמלי."
     },
     {
       "id": "B-q10",
-      "word": "superstitious",
+      "word": "brink",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “מאמין באמונות טפלות”?",
+      "question": "איזו מילה באנגלית פירושה “סף/קצה”?",
       "options": [
-        "superstitious",
-        "guidelines",
-        "dwellings",
-        "stigmatised"
+        "administration",
+        "purchased",
+        "merchandise",
+        "brink"
       ],
-      "correct_answer": "superstitious",
-      "explanation_hebrew": "המילה “superstitious” פירושה מאמין באמונות טפלות."
+      "correct_answer": "brink",
+      "explanation_hebrew": "המילה “brink” פירושה סף/קצה."
     },
     {
       "id": "B-q11",
-      "word": "dwellings",
+      "word": "purchased",
       "type": "english_to_hebrew",
-      "question": "What does “dwellings” mean?",
+      "question": "What does “purchased” mean?",
       "options": [
-        "מגורים",
-        "הנחיות",
-        "מתויג לרעה",
-        "לחשוף מידע"
+        "סחורה",
+        "אי־ודאות",
+        "כינוס נכסים",
+        "נרכש/נקנה"
       ],
-      "correct_answer": "מגורים",
-      "explanation_hebrew": "“dwellings” פירושו מגורים – מבנים שאנשים גרים בהם."
+      "correct_answer": "נרכש/נקנה",
+      "explanation_hebrew": "“purchased” פירושו נרכש/נקנה."
     },
     {
       "id": "B-q12",
-      "word": "stigmatised",
+      "word": "administration",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “מתויג לרעה”?",
+      "question": "איזו מילה באנגלית פירושה “כינוס נכסים”?",
       "options": [
-        "disclose",
-        "indefinitely",
-        "guidelines",
-        "stigmatised"
+        "uncertainty",
+        "administration",
+        "clouding",
+        "merchandise"
       ],
-      "correct_answer": "stigmatised",
-      "explanation_hebrew": "המילה “stigmatised” פירושה מתויג לרעה."
+      "correct_answer": "administration",
+      "explanation_hebrew": "המילה “administration” פירושה כינוס נכסים."
     },
     {
       "id": "B-q13",
-      "word": "guidelines",
+      "word": "merchandise",
       "type": "english_to_hebrew",
-      "question": "What does “guidelines” mean?",
+      "question": "What does “merchandise” mean?",
       "options": [
-        "לחשוף מידע",
-        "דרישה",
-        "ללא הגבלת זמן",
-        "הנחיות"
+        "מעיב/מערפל",
+        "אי־ודאות",
+        "נושים/בעלי חוב",
+        "סחורה"
       ],
-      "correct_answer": "הנחיות",
-      "explanation_hebrew": "“guidelines” פירושו הנחיות – כללים רשמיים שממליצים כיצד לפעול."
+      "correct_answer": "סחורה",
+      "explanation_hebrew": "“merchandise” פירושו סחורה."
     },
     {
       "id": "B-q14",
-      "word": "disclose",
+      "word": "uncertainty",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “לחשוף מידע”?",
+      "question": "איזו מילה באנגלית פירושה “אי־ודאות”?",
       "options": [
-        "disclose",
-        "requirement",
-        "indefinitely",
-        "discount"
+        "clouding",
+        "recover",
+        "creditors",
+        "uncertainty"
       ],
-      "correct_answer": "disclose",
-      "explanation_hebrew": "המילה “disclose” פירושה לחשוף מידע."
+      "correct_answer": "uncertainty",
+      "explanation_hebrew": "המילה “uncertainty” פירושה אי־ודאות."
     },
     {
       "id": "B-q15",
-      "word": "indefinitely",
+      "word": "clouding",
       "type": "english_to_hebrew",
-      "question": "What does “indefinitely” mean?",
+      "question": "What does “clouding” mean?",
       "options": [
-        "דרישה",
-        "אופנתי",
-        "ללא הגבלת זמן",
-        "הנחה"
+        "מעיב/מערפל",
+        "להשיב/להחלים",
+        "חדלות פירעון",
+        "נושים/בעלי חוב"
       ],
-      "correct_answer": "ללא הגבלת זמן",
-      "explanation_hebrew": "“indefinitely” פירושו ללא הגבלת זמן – לפרק זמן בלתי מוגדר וללא סוף ידוע."
+      "correct_answer": "מעיב/מערפל",
+      "explanation_hebrew": "“clouding” פירושו מעיב/מערפל."
     },
     {
       "id": "B-q16",
-      "word": "requirement",
+      "word": "creditors",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “דרישה”?",
+      "question": "איזו מילה באנגלית פירושה “נושים/בעלי חוב”?",
       "options": [
-        "averse",
-        "requirement",
-        "fashionable",
-        "discount"
+        "insolvency",
+        "recover",
+        "creditors",
+        "distressing"
       ],
-      "correct_answer": "requirement",
-      "explanation_hebrew": "המילה “requirement” פירושה דרישה."
+      "correct_answer": "creditors",
+      "explanation_hebrew": "המילה “creditors” פירושה נושים/בעלי חוב."
     },
     {
       "id": "B-q17",
-      "word": "discount",
+      "word": "recover",
       "type": "english_to_hebrew",
-      "question": "What does “discount” mean?",
+      "question": "What does “recover” mean?",
       "options": [
-        "הנחה",
-        "סולד",
-        "בית קברות",
-        "אופנתי"
+        "מטריד/מצער מאוד",
+        "חדלות פירעון",
+        "להשיב/להחלים",
+        "מסכן/מעמיד בסכנה"
       ],
-      "correct_answer": "הנחה",
-      "explanation_hebrew": "“discount” פירושו הנחה – הורדה במחיר של מוצר או שירות."
+      "correct_answer": "להשיב/להחלים",
+      "explanation_hebrew": "“recover” פירושו להשיב/להחלים."
     },
     {
       "id": "B-q18",
-      "word": "fashionable",
+      "word": "insolvency",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “אופנתי”?",
+      "question": "איזו מילה באנגלית פירושה “חדלות פירעון”?",
       "options": [
-        "renters",
-        "fashionable",
-        "cemetery",
-        "averse"
+        "distressing",
+        "jeopardises",
+        "insolvency",
+        "livelihoods"
       ],
-      "correct_answer": "fashionable",
-      "explanation_hebrew": "המילה “fashionable” פירושה אופנתי."
+      "correct_answer": "insolvency",
+      "explanation_hebrew": "המילה “insolvency” פירושה חדלות פירעון."
     },
     {
       "id": "B-q19",
-      "word": "averse",
+      "word": "distressing",
       "type": "english_to_hebrew",
-      "question": "What does “averse” mean?",
+      "question": "What does “distressing” mean?",
       "options": [
-        "בית קברות",
-        "שוכרים",
-        "סולד",
-        "כפרי"
+        "מטריד/מצער מאוד",
+        "מסכן/מעמיד בסכנה",
+        "באי־רצון",
+        "פרנסה/מקור מחיה"
       ],
-      "correct_answer": "סולד",
-      "explanation_hebrew": "“averse” פירושו סולד – בעל התנגדות או אי-רצון חזק כלפי משהו."
+      "correct_answer": "מטריד/מצער מאוד",
+      "explanation_hebrew": "“distressing” פירושו מטריד/מצער מאוד."
     },
     {
       "id": "B-q20",
-      "word": "cemetery",
+      "word": "jeopardises",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “בית קברות”?",
+      "question": "איזו מילה באנגלית פירושה “מסכן/מעמיד בסכנה”?",
       "options": [
-        "splendid",
-        "rural",
-        "cemetery",
-        "renters"
+        "jeopardises",
+        "reluctantly",
+        "livelihoods",
+        "urging"
       ],
-      "correct_answer": "cemetery",
-      "explanation_hebrew": "המילה “cemetery” פירושה בית קברות."
+      "correct_answer": "jeopardises",
+      "explanation_hebrew": "המילה “jeopardises” פירושה מסכן/מעמיד בסכנה."
     },
     {
       "id": "B-q21",
-      "word": "renters",
+      "word": "livelihoods",
       "type": "english_to_hebrew",
-      "question": "What does “renters” mean?",
+      "question": "What does “livelihoods” mean?",
       "options": [
-        "כפרי",
-        "מרהיב",
-        "שוכרים",
-        "זינק"
+        "באי־רצון",
+        "לשקול מחדש",
+        "דוחק/קורא בתוקף",
+        "פרנסה/מקור מחיה"
       ],
-      "correct_answer": "שוכרים",
-      "explanation_hebrew": "“renters” פירושו שוכרים – אנשים ששוכרים דירה או נכס."
+      "correct_answer": "פרנסה/מקור מחיה",
+      "explanation_hebrew": "“livelihoods” פירושו פרנסה/מקור מחיה."
     },
     {
       "id": "B-q22",
-      "word": "rural",
+      "word": "reluctantly",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “כפרי”?",
+      "question": "איזו מילה באנגלית פירושה “באי־רצון”?",
       "options": [
-        "surged",
-        "splendid",
-        "crowdsourced",
-        "rural"
+        "avoidable",
+        "reconsider",
+        "urging",
+        "reluctantly"
       ],
-      "correct_answer": "rural",
-      "explanation_hebrew": "המילה “rural” פירושה כפרי."
+      "correct_answer": "reluctantly",
+      "explanation_hebrew": "המילה “reluctantly” פירושה באי־רצון."
     },
     {
       "id": "B-q23",
-      "word": "splendid",
+      "word": "urging",
       "type": "english_to_hebrew",
-      "question": "What does “splendid” mean?",
+      "question": "What does “urging” mean?",
       "options": [
-        "זינק",
-        "מבוסס קהל",
-        "מרהיב",
-        "להשכרה"
+        "לשקול מחדש",
+        "דוחק/קורא בתוקף",
+        "קמעונאי/רשת מכירה",
+        "ניתן למניעה"
       ],
-      "correct_answer": "מרהיב",
-      "explanation_hebrew": "“splendid” פירושו מרהיב – יפהפה ומרשים מאוד."
+      "correct_answer": "דוחק/קורא בתוקף",
+      "explanation_hebrew": "“urging” פירושו דוחק/קורא בתוקף."
     },
     {
       "id": "B-q24",
-      "word": "surged",
+      "word": "reconsider",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית משמעה “זינק”?",
+      "question": "איזו מילה באנגלית פירושה “לשקול מחדש”?",
       "options": [
-        "rental",
-        "surged",
-        "crowdsourced",
-        "haunted"
+        "reconsider",
+        "teeters",
+        "retailer",
+        "avoidable"
       ],
-      "correct_answer": "surged",
-      "explanation_hebrew": "המילה “surged” פירושה זינק."
+      "correct_answer": "reconsider",
+      "explanation_hebrew": "המילה “reconsider” פירושה לשקול מחדש."
     },
     {
       "id": "B-q25",
-      "word": "crowdsourced",
+      "word": "avoidable",
       "type": "english_to_hebrew",
-      "question": "What does “crowdsourced” mean?",
+      "question": "What does “avoidable” mean?",
       "options": [
-        "רדוף רוחות",
-        "להשכרה",
-        "נועץ מבט זועם",
-        "מבוסס קהל"
+        "קריסה/התמוטטות",
+        "ניתן למניעה",
+        "מתנדנד/על סף",
+        "קמעונאי/רשת מכירה"
       ],
-      "correct_answer": "מבוסס קהל",
-      "explanation_hebrew": "“crowdsourced” פירושו מבוסס קהל – מידע שנאסף מתרומות של אנשים רבים."
+      "correct_answer": "ניתן למניעה",
+      "explanation_hebrew": "“avoidable” פירושו ניתן למניעה."
     }
   ]
 }
