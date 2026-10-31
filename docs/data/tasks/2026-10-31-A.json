@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-31",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Party Rock Anthem singer Lauren Bennett struggled with mental health, inquest finds",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "An inquest found that singer Lauren Bennett had experienced severe mental health difficulties before her death.",
+        "G.R.L announced a new album after a long break.",
+        "Billboard removed Party Rock Anthem from its charts.",
+        "A court investigated the business history of LMFAO."
+      ],
+      "correct_answer": "An inquest found that singer Lauren Bennett had experienced severe mental health difficulties before her death.",
+      "explanation_hebrew": "הכתבה מדווחת על ממצאי החקירה המשפטית שלפיהם לורן בנט התמודדה עם קשיים נפשיים חמורים לפני מותה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Kenny Wormald say about the period immediately before Bennett's death?",
+      "difficulty": "A",
+      "options": [
+        "She had announced a farewell concert.",
+        "She had stopped speaking to every family member.",
+        "There had been no indication that she planned to end her life.",
+        "She had decided to return to the Paradiso Girls."
+      ],
+      "correct_answer": "There had been no indication that she planned to end her life.",
+      "explanation_hebrew": "בעלה אמר שהם דיברו על הכול ושלא היה סימן לכך שהיא עומדת לשים קץ לחייה."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what is Fragile X syndrome described as?",
+      "difficulty": "A",
+      "options": [
+        "A reaction caused only by medication",
+        "A genetic disorder that can cause anxiety, mood instability and depression",
+        "A temporary illness caused by lack of sleep",
+        "A condition linked to alcohol or illicit drugs"
+      ],
+      "correct_answer": "A genetic disorder that can cause anxiety, mood instability and depression",
+      "explanation_hebrew": "הכתבה מתארת את תסמונת ה־X השביר כהפרעה גנטית שעלולה לגרום לחרדה, לחוסר יציבות במצב הרוח ולדיכאון."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “inquest” mean in the context of the article?",
+      "difficulty": "A",
+      "options": [
+        "A music-industry award ceremony",
+        "A hospital treatment programme",
+        "A private family meeting",
+        "An official investigation into the circumstances of a death"
+      ],
+      "correct_answer": "An official investigation into the circumstances of a death",
+      "explanation_hebrew": "בהקשר הזה inquest היא חקירה רשמית הבודקת את נסיבות המוות."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Wormald locate Bennett after she did not return from her walk?",
+      "difficulty": "A",
+      "options": [
+        "He used Find My iPhone to trace her device.",
+        "Police followed a message on social media.",
+        "A member of G.R.L called him with her location.",
+        "He found a note naming a concert venue."
+      ],
+      "correct_answer": "He used Find My iPhone to trace her device.",
+      "explanation_hebrew": "לפי הכתבה, הוא השתמש ב־Find My iPhone כדי לאתר את המכשיר שלה והגיע למקום כפרי."
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which fact does the article give about Party Rock Anthem?",
+      "difficulty": "A",
+      "options": [
+        "It was Bennett's first solo single.",
+        "It won a court award in Kent.",
+        "Billboard named it the fifth most successful song of all time.",
+        "Its video was watched fewer than one million times."
+      ],
+      "correct_answer": "Billboard named it the fifth most successful song of all time.",
+      "explanation_hebrew": "הכתבה מציינת שבילבורד דירג את השיר במקום החמישי בין השירים המצליחים ביותר בכל הזמנים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe two events in Bennett's mental-health history that the inquest heard about.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני אירועים מדויקים מהכתבה ולמקם אותם ברצף הזמן ככל האפשר.",
+      "expected_points": [
+        "She had previously been diagnosed with Fragile X syndrome.",
+        "In January before her death, she went several days without sleep and was admitted to hospital under a mental health section.",
+        "She experienced substantial psychological suffering after that admission and remained under specialist mental-health care."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What details suggest that Bennett's difficulties continued despite receiving professional care?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסיק מן הכתבה ולתמוך בתשובה בשתי ראיות לפחות, בלי לקבוע אבחנות שאינן מופיעות בה.",
+      "expected_points": [
+        "She was under specialist mental-health services at the time of her death.",
+        "She had reacted poorly to medication.",
+        "She did not believe she was going to get better.",
+        "The coroner noted substantial psychological suffering after her hospital admission."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the inquest report and Bennett's music career in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לשלב את ממצא החקירה, רקע קצר על מצבה הנפשי ושתי עובדות מרכזיות מקריירת המוזיקה.",
+      "expected_points": [
+        "The inquest concluded that Bennett took her own life after severe mental-health struggles.",
+        "She had Fragile X syndrome, had been admitted to hospital and was receiving specialist care.",
+        "She was a member of G.R.L and had previously performed with the Paradiso Girls.",
+        "She featured on LMFAO's Party Rock Anthem, a major chart and video success."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief, respectful news introduction that reports the inquest finding without sensational language.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב פתיח עובדתי, רגיש ומדויק; לציין את ממצא החקירה ואת זהותה של בנט בלי פרטים גרפיים או ניסוח דרמטי.",
+      "expected_points": [
+        "Identify Lauren Bennett as a British singer associated with G.R.L and Party Rock Anthem.",
+        "State that an inquest examined her death and heard about severe mental-health difficulties.",
+        "Use neutral, compassionate language and avoid speculation."
+      ]
+    }
+  ]
+}

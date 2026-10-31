@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-31",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Global nature talks reach deal but money remains an issue",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central message of the article?",
+      "difficulty": "B",
+      "options": [
+        "Countries abandoned all biodiversity targets agreed in 2022.",
+        "Nearly 200 countries agreed a new nature action plan, but inadequate funding still threatens progress.",
+        "Private companies supplied the full $200bn needed for conservation.",
+        "Scientific disputes were the only issue discussed in Yerevan."
+      ],
+      "correct_answer": "Nearly 200 countries agreed a new nature action plan, but inadequate funding still threatens progress.",
+      "explanation_hebrew": "הכתבה מדגישה שהושגה הסכמה על תוכנית פעולה חדשה, אך המחסור במימון ממשיך לעכב את השגת יעדי הטבע."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What protection target was included in the 2022 Global Biodiversity Framework?",
+      "difficulty": "B",
+      "options": [
+        "Protect every endangered species by 2027.",
+        "Restore 100% of degraded land by 2030.",
+        "End all industrial fishing within five years.",
+        "Protect 30% of the world's land and seas by the end of the decade."
+      ],
+      "correct_answer": "Protect 30% of the world's land and seas by the end of the decade.",
+      "explanation_hebrew": "אחד מיעדי המסגרת מ־2022 היה להכניס 30% מן היבשה והימים בעולם למסגרות הגנה עד סוף העשור."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does the article describe the current rate of species extinction?",
+      "difficulty": "B",
+      "options": [
+        "Species are becoming extinct at about 100 times the natural rate because of human activity.",
+        "Extinction has returned to its natural rate since 2022.",
+        "Only marine species are disappearing faster than normal.",
+        "The UN says no mass extinction is under way."
+      ],
+      "correct_answer": "Species are becoming extinct at about 100 times the natural rate because of human activity.",
+      "explanation_hebrew": "לפי מדענים המצוטטים בכתבה, פעילות האדם גורמת להכחדה בקצב של פי מאה מהקצב הטבעי."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “degraded land”, what does “degraded” most nearly mean?",
+      "difficulty": "B",
+      "options": [
+        "Legally owned by private companies",
+        "Temporarily closed to visitors",
+        "Damaged or reduced in environmental quality",
+        "Naturally free of plants and animals"
+      ],
+      "correct_answer": "Damaged or reduced in environmental quality",
+      "explanation_hebrew": "בהקשר של שיקום טבע, degraded מתאר קרקע שנפגעה או שאיכותה הסביבתית הידרדרה."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are many countries struggling to meet their nature-finance pledges?",
+      "difficulty": "B",
+      "options": [
+        "They no longer accept that biodiversity is declining.",
+        "International aid has been redirected toward defence and repeated energy shocks.",
+        "Conservation organisations refuse philanthropic money.",
+        "The 2022 agreement prohibited private investment."
+      ],
+      "correct_answer": "International aid has been redirected toward defence and repeated energy shocks.",
+      "explanation_hebrew": "הכתבה מסבירה שכספי סיוע הופנו לתקציבי ביטחון ולהתמודדות עם משברי אנרגיה, ולכן קצב ההתחייבויות נמוך מהנדרש."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why has the Cali Fund raised far less money than expected?",
+      "difficulty": "B",
+      "options": [
+        "It can accept money only from governments.",
+        "It is restricted to protecting elephants and tigers.",
+        "Companies are barred from using genetic material.",
+        "Contributions are voluntary, making companies difficult to pressure."
+      ],
+      "correct_answer": "Contributions are voluntary, making companies difficult to pressure.",
+      "explanation_hebrew": "בנט מסביר שהאופי ההתנדבותי של הקרן מקשה להפעיל לחץ על חברות הנהנות מחומר גנטי שמקורו בטבע."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two examples from the article showing that nature recovery is possible.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להביא שתי דוגמאות קונקרטיות מן הכתבה, כולל מין, שטח או הישג שימור.",
+      "expected_points": [
+        "Countries have placed 623 million acres (252 million hectares) of degraded land under protection.",
+        "WWF highlighted recoveries of elephants, green sea turtles and tigers.",
+        "Bluefin tuna was cited as an example of nature recovering."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain Anna Ducros's claim that governments are “paying twice”.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את הסתירה בין שני סוגי ההוצאה ולכלול את דוגמת הדיג התעשייתי.",
+      "expected_points": [
+        "Governments spend money on nature and climate recovery.",
+        "At the same time, they subsidise industries that damage nature.",
+        "Large-scale fishing and trawling are given as a concrete example.",
+        "The harmful subsidies increase the amount later needed for restoration."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the achievements and unresolved problems at the Yerevan nature talks in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את ההסכם החדש, הפיגור ביעדי 2022, התקדמות אחת לפחות ושתי בעיות שנותרו.",
+      "expected_points": [
+        "Nearly 200 countries agreed key parts of a new action plan after extended talks.",
+        "They acknowledged that the world is falling behind on the 2022 biodiversity targets.",
+        "Protected land and recovering species show that conservation can work.",
+        "Finance remains insufficient, including weak pledges to the Cali Fund.",
+        "Some countries also obstructed approval of scientific reports."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short policy recommendation addressing the article's biggest financial obstacle to nature recovery.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע צעד מעשי המבוסס על הכתבה, להסביר כיצד הוא יגדיל מימון או יפחית נזק, ולהתייחס להוגנות.",
+      "expected_points": [
+        "Propose reducing harmful subsidies, strengthening required contributions to the Cali Fund or meeting the $30bn public-finance pledge.",
+        "Explain how the proposal would move money from damaging activities toward protection and restoration.",
+        "Recognise that biodiversity-rich countries and local communities should share benefits from commercial use of genetic resources."
+      ]
+    }
+  ]
+}
