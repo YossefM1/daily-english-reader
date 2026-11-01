@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-01",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "'Fascinating' rare beetle found in Wales again after three year search",
+  "article_url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "Conservationists found evidence that a nationally rare beetle is breeding in Wales again after decades of absence.",
+        "Scientists introduced a foreign beetle species to every part of Wales.",
+        "A coastal development project forced all wildlife away from Pembrokeshire.",
+        "Researchers proved that solitary bees can live without flowers."
+      ],
+      "correct_answer": "Conservationists found evidence that a nationally rare beetle is breeding in Wales again after decades of absence.",
+      "explanation_hebrew": "הכתבה עוסקת בגילוי זחלים של חיפושית נדירה בפמברוקשייר, גילוי המעיד שהמין שוב מתרבה בוויילס לאחר עשרות שנים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why were experts especially encouraged by this year's survey at Castlemartin?",
+      "difficulty": "A",
+      "options": [
+        "They found the largest adult beetle ever recorded.",
+        "They discovered larvae after last year's survey had found only dead adults.",
+        "They counted thousands of solitary bee nests across Wales.",
+        "They moved the beetles from Devon to Pembrokeshire."
+      ],
+      "correct_answer": "They discovered larvae after last year's survey had found only dead adults.",
+      "explanation_hebrew": "בשנה שעברה נמצאו רק בוגרים מתים, ואילו השנה נמצאו זחלים — ראיה חיובית לכך שמתקיימת רבייה במקום."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “on the brink of extinction” mean?",
+      "difficulty": "A",
+      "options": [
+        "Beginning to spread rapidly",
+        "Protected from every possible danger",
+        "Close to disappearing completely",
+        "Living only during warm afternoons"
+      ],
+      "correct_answer": "Close to disappearing completely",
+      "explanation_hebrew": "הביטוי on the brink of extinction פירושו שהמין היה קרוב מאוד להיעלמות מוחלטת."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which habitat does the Short-Necked Oil Beetle need?",
+      "difficulty": "A",
+      "options": [
+        "Cold mountain woodland with little vegetation",
+        "Deep freshwater lakes with rocky shores",
+        "Urban parks with closely cut grass",
+        "Flower-rich coastal grassland or sand dunes with sheltering vegetation"
+      ],
+      "correct_answer": "Flower-rich coastal grassland or sand dunes with sheltering vegetation",
+      "explanation_hebrew": "הכתבה מציינת שהחיפושית זקוקה לשטחי עשב חופיים או דיונות עשירי פרחים, עם צמחייה עבה למחסה."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What other animal is essential to the beetle's lifecycle?",
+      "difficulty": "A",
+      "options": [
+        "Solitary bees",
+        "Coastal birds",
+        "Sand lizards",
+        "Freshwater insects"
+      ],
+      "correct_answer": "Solitary bees",
+      "explanation_hebrew": "החיפושית תלויה בדבורים יחידאיות לצורך מחזור החיים שלה."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “vulnerable” indicate in the beetle's IUCN Red List classification?",
+      "difficulty": "A",
+      "options": [
+        "The species is common and increasing everywhere.",
+        "The species has already disappeared from Britain.",
+        "The species faces a significant risk and needs conservation attention.",
+        "The species is dangerous to people who touch it."
+      ],
+      "correct_answer": "The species faces a significant risk and needs conservation attention.",
+      "explanation_hebrew": "בדירוג שימור, vulnerable מציין שמין נמצא בסיכון משמעותי ולכן דורש תשומת לב והגנה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two pieces of evidence that suggest the beetle is breeding at Castlemartin.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי ראיות מדויקות מהסקר הנוכחי ומהשוואתו לשנה הקודמת.",
+      "expected_points": [
+        "Surveyors found beetle larvae after three years of searching.",
+        "The number and distribution of the larvae suggested they came from a larger batch of immature beetles.",
+        "Last year's survey found only dead adults, whereas larvae provide evidence of a new generation."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why are there only a handful of suitable sites for this beetle in the UK?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין צורכי בית הגידול, התלות בדבורים יחידאיות ואובדן בתי גידול.",
+      "expected_points": [
+        "The beetle needs a very specific combination of flower-rich coastal grassland or dunes and thick vegetation.",
+        "It depends on solitary bees during its lifecycle.",
+        "Habitat loss previously brought the species close to extinction.",
+        "Suitable warm, sunny coastal conditions are therefore uncommon."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the discovery, the beetle's needs and the conservation response in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את הגילוי, משמעות הזחלים, בית הגידול והתוכנית לשימור.",
+      "expected_points": [
+        "Larvae of the Short-Necked Oil Beetle were found at Castlemartin after years of searching.",
+        "The find suggests the nationally rare species is breeding in Wales again after a long absence.",
+        "The beetle depends on solitary bees and flower-rich coastal habitat with dense vegetation.",
+        "Conservationists will continue surveying and managing the site as part of a species recovery programme."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short visitor notice explaining how people can help protect the beetle's habitat at Castlemartin.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח הודעה ברורה ומכבדת המבוססת על צורכי המין, ללא המצאת כללים רשמיים שאינם בכתבה.",
+      "expected_points": [
+        "Explain that Castlemartin is the only known Welsh site for the rare beetle.",
+        "Mention the importance of flower-rich vegetation and solitary bees.",
+        "Ask visitors generally to avoid damaging habitat and to respect conservation work, while not inventing specific legal restrictions."
+      ]
+    }
+  ]
+}

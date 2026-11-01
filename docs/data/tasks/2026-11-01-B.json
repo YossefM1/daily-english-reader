@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-01",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central focus of the article?",
+      "difficulty": "B",
+      "options": [
+        "A permanent peace agreement ended fighting throughout Ukraine.",
+        "Residents evacuated from occupied Oleshky describe years of danger, emotional reunions and the challenge of rebuilding their lives.",
+        "Belarus announced that it would take control of Oleshky.",
+        "Families returned to Oleshky after four years abroad."
+      ],
+      "correct_answer": "Residents evacuated from occupied Oleshky describe years of danger, emotional reunions and the challenge of rebuilding their lives.",
+      "explanation_hebrew": "הכתבה מתארת את פינוי תושבי אולשקי, את החיים הקשים תחת הכיבוש, את האיחוד עם קרוביהם ואת האתגרים שמחכים להם כעת."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why had Olha and Viacheslav delayed trying to leave Oleshky?",
+      "difficulty": "B",
+      "options": [
+        "They were waiting for their children to finish school.",
+        "They believed the city still had plentiful food supplies.",
+        "They feared escape routes were mined and exposed to drone attacks.",
+        "They had already received permanent housing in Chernihiv."
+      ],
+      "correct_answer": "They feared escape routes were mined and exposed to drone attacks.",
+      "explanation_hebrew": "אף שההפגזות התגברו, בני הזוג חששו שהבריחה מסוכנת אף יותר בגלל מוקשים ותקיפות רחפנים לאורך הדרכים."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the sentence “As supplies dwindled”, what does “dwindled” mean?",
+      "difficulty": "B",
+      "options": [
+        "Were transported safely",
+        "Gradually became smaller or scarcer",
+        "Were hidden by residents",
+        "Suddenly became more expensive"
+      ],
+      "correct_answer": "Gradually became smaller or scarcer",
+      "explanation_hebrew": "בהקשר הזה dwindled פירושו שהאספקה הלכה ופחתה ונעשתה נדירה יותר."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What made the evacuation possible?",
+      "difficulty": "B",
+      "options": [
+        "A new bridge across the Dnipro River",
+        "A Russian decision to leave the city permanently",
+        "A private flight arranged by the evacuees",
+        "A humanitarian ceasefire in the Kherson region"
+      ],
+      "correct_answer": "A humanitarian ceasefire in the Kherson region",
+      "explanation_hebrew": "הפינוי התאפשר בעקבות הפסקת אש הומניטרית באזור חרסון, שסיפקה את ימי השקט הראשונים במקום זה ארבע שנים."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What evacuation capacity was prepared during the four-hour window?",
+      "difficulty": "B",
+      "options": [
+        "Twenty-five buses for up to 750 evacuees, plus ambulances for people with limited mobility",
+        "Five trains for all 6,000 residents of the surrounding area",
+        "One aircraft carrying only children",
+        "Fifty boats travelling directly to Chernihiv"
+      ],
+      "correct_answer": "Twenty-five buses for up to 750 evacuees, plus ambulances for people with limited mobility",
+      "explanation_hebrew": "בחלון של ארבע שעות הובאו 25 אוטובוסים לעד 750 מפונים, וכן אמבולנסים לאנשים בעלי ניידות מוגבלת."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the phrase “get back on their feet” mean in Olha's situation?",
+      "difficulty": "B",
+      "options": [
+        "Return immediately to Oleshky",
+        "Recover stability and begin rebuilding daily life",
+        "Travel only by walking rather than by bus",
+        "Find medical treatment for an injured leg"
+      ],
+      "correct_answer": "Recover stability and begin rebuilding daily life",
+      "explanation_hebrew": "הביטוי מתאר התאוששות וחזרה לעצמאות וליציבות לאחר משבר, לא פעולה גופנית מילולית."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the route the evacuees took from Oleshky to Ukrainian-controlled Chernihiv.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין את שלבי המסלול העיקריים בסדר הנכון.",
+      "expected_points": [
+        "They travelled through Russian-occupied territory to southern Russia.",
+        "They then flew to Belarus.",
+        "From Belarus they arrived by bus at a military facility in Chernihiv."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How do the residents' accounts show that staying and leaving both involved serious risks?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות בין סכנות החיים בעיר לבין סכנות דרך המילוט, ולהביא לפחות שתי דוגמאות מכלל הכתבה.",
+      "expected_points": [
+        "Inside Oleshky there were shelling, drone and missile attacks, destroyed homes and severe food shortages.",
+        "Some residents cooked garden weeds, while others crossed minefields to seek food.",
+        "Escape routes were mined and vulnerable to drone attack.",
+        "The limited ceasefire window made departure possible but uncertain."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evacuation and its human impact in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול את תנאי החיים, הפסקת האש, מסלול הפינוי, האיחודים המשפחתיים והאתגר הבא.",
+      "expected_points": [
+        "Oleshky residents endured years of occupation, attacks and shortages after Russia seized the city in 2022.",
+        "A humanitarian ceasefire created a short evacuation window.",
+        "Hundreds travelled through occupied territory, Russia and Belarus before reaching Chernihiv.",
+        "Families were reunited after years apart, but many people remained behind.",
+        "The evacuees must now find housing, work and ways to rebuild their lives."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief humanitarian-support appeal based on the needs described by the evacuees.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח פנייה עניינית ורגישה, המבוססת על צרכים שמופיעים בכתבה, בלי להמציא ארגון או נתוני תרומה.",
+      "expected_points": [
+        "Mention immediate needs such as safe accommodation, transport and support for weak or elderly evacuees.",
+        "Include longer-term needs such as employment and rebuilding family life.",
+        "Acknowledge that some residents have no relatives or homes to return to.",
+        "Use respectful language that preserves the evacuees' dignity."
+      ]
+    }
+  ]
+}

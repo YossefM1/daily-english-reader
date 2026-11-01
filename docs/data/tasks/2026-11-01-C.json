@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-01",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Neoclouds: These firms you've never heard of are feeding fears the AI bubble could burst",
+  "article_url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What concern does the article raise about neocloud companies?",
+      "difficulty": "C",
+      "options": [
+        "They refuse to provide computing power to major AI developers.",
+        "Their debt-heavy business models could be vulnerable if AI spending slows or the AI boom collapses.",
+        "They have replaced every large technology company in the data-centre market.",
+        "Their only customers are cryptocurrency miners."
+      ],
+      "correct_answer": "Their debt-heavy business models could be vulnerable if AI spending slows or the AI boom collapses.",
+      "explanation_hebrew": "הכתבה בוחנת כיצד חוב גבוה ותלות בלקוחות AI גדולים הופכים את חברות הנאוקלאוד לפגיעות אם ההשקעות יואטו או הבועה תתפוצץ."
+    },
+    {
+      "id": "C-2",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “neocloud” in the context of the article?",
+      "difficulty": "C",
+      "options": [
+        "A government agency that regulates artificial intelligence",
+        "A cryptocurrency issued by a data-centre operator",
+        "A company that operates computer-packed data centres and leases computing capacity to AI developers",
+        "A social network for technology investors"
+      ],
+      "correct_answer": "A company that operates computer-packed data centres and leases computing capacity to AI developers",
+      "explanation_hebrew": "נאוקלאוד היא חברה שמפעילה מרכזי נתונים עמוסים במחשבים יקרים ומשכירה כוח מחשוב למפתחי AI גדולים."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How do neocloud firms often obtain loans?",
+      "difficulty": "C",
+      "options": [
+        "They pledge long-term customer contracts and purchased AI chips as collateral.",
+        "They sell all their data centres to governments.",
+        "They borrow only from their own employees.",
+        "They guarantee loans with future cryptocurrency prices."
+      ],
+      "correct_answer": "They pledge long-term customer contracts and purchased AI chips as collateral.",
+      "explanation_hebrew": "החברות משתמשות בחוזי שכירות ארוכי טווח עם לקוחות ובשבבי ה־AI שרכשו כבטוחות להלוואות."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which figure illustrates CoreWeave's financial risk?",
+      "difficulty": "C",
+      "options": [
+        "It employs 80% of Silicon Valley.",
+        "It owns every AI chip made in 2026.",
+        "It has no long-term customers.",
+        "It accumulated $35.1bn in debt."
+      ],
+      "correct_answer": "It accumulated $35.1bn in debt.",
+      "explanation_hebrew": "הכתבה מציינת ש־CoreWeave צברה חוב של 35.1 מיליארד דולר, סכום שממחיש את המינוף הגבוה במודל העסקי."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did lower-than-expected AI spending forecasts from Microsoft and Google hurt neocloud shares?",
+      "difficulty": "C",
+      "options": [
+        "Neoclouds are legally required to match Big Tech's advertising budgets.",
+        "Their revenue prospects depend heavily on large customers continuing to demand computing capacity.",
+        "The forecasts banned neoclouds from purchasing chips.",
+        "Microsoft and Google announced that data centres were no longer needed."
+      ],
+      "correct_answer": "Their revenue prospects depend heavily on large customers continuing to demand computing capacity.",
+      "explanation_hebrew": "הנאוקלאודים תלויים בהמשך הביקוש של לקוחות ענק; תחזית הוצאה נמוכה יותר מאותתת שהביקוש העתידי עלול להיחלש."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “collateral damage” mean when the article discusses a possible AI-bubble collapse?",
+      "difficulty": "C",
+      "options": [
+        "Physical damage to chips used as loan security",
+        "A planned reduction in electricity consumption",
+        "Secondary harm suffered because of a wider crisis",
+        "Profits earned from selling collateral"
+      ],
+      "correct_answer": "Secondary harm suffered because of a wider crisis",
+      "explanation_hebrew": "כאן collateral damage מתייחס לנזק משני: גם אם הנאוקלאודים אינם גורם הקריסה, הם ייפגעו ממנה בשל תלותם בכלכלת ה־AI."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain how the crypto-mining origins of several neocloud firms helped them enter the AI market.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר את התשתית המשותפת ואת השינוי בביקוש לאחר הופעת ChatGPT.",
+      "expected_points": [
+        "Crypto miners already operated expensive computing and data-centre infrastructure.",
+        "AI development requires similar physical infrastructure and chips.",
+        "When generative AI demand surged after ChatGPT appeared in 2022, firms such as CoreWeave, IREN, Core Scientific and Applied Digital were well positioned to switch or expand."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why can strong current demand coexist with fears about the neocloud sector's future?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את המתח בין ביקוש נוכחי גבוה לבין סיכונים פיננסיים ותפעוליים עתידיים, עם שתי ראיות לפחות.",
+      "expected_points": [
+        "Demand for computing power currently exceeds supply, so neoclouds fill an important gap.",
+        "Expansion requires expensive hardware paid for up front and large amounts of borrowing.",
+        "Higher interest rates make refinancing more costly.",
+        "A slowdown by Big Tech or AI developers could reduce revenue while debts remain.",
+        "Power constraints, cancelled deals and delayed public offerings show operational and market risks."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the neocloud business model, its recent success and its main vulnerabilities in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך לכלול לקוחות, מימון, מקורות התעשייה, סיבת הצמיחה ושלושה סיכונים מרכזיים.",
+      "expected_points": [
+        "Neoclouds lease specialised computing capacity to major AI developers and hyperscalers.",
+        "They often finance costly hardware with debt secured by contracts and chips.",
+        "Some grew from crypto-mining infrastructure and benefited from the post-2022 AI surge.",
+        "Their risks include heavy debt, higher interest rates and dependence on customer spending.",
+        "A wider AI downturn, power shortages or consolidation could leave smaller firms especially exposed."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short investor risk note evaluating whether recent neocloud problems are evidence of a wider AI bubble.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג טענה מאוזנת, להשתמש בראיות בעד ונגד מהכתבה ולהבדיל בין סיכון ענפי לבין הוכחה לקריסת כל תחום ה־AI.",
+      "expected_points": [
+        "Cite warning signs such as falling share prices, rising debt yields, CoreWeave's debt, cancelled deals or shelved IPO plans.",
+        "Note Gartner and Forrester predictions about consolidation or loss of independence.",
+        "Balance these against demand for computing power still exceeding supply and major customers seeking infrastructure.",
+        "Conclude cautiously that neocloud weakness may reveal financial fragility but does not by itself prove the whole AI economy is a bubble."
+      ]
+    }
+  ]
+}
