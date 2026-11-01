@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-01",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "'Fascinating' rare beetle found in Wales again after three year search",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo",
+  "published_at": "2026-10-31T22:07:56+00:00",
+  "age_hours_at_selection": 4.13,
+  "word_count": 435,
+  "generated_at": "2026-11-01T02:15:28.487526+00:00",
+  "difficulty_reason": "Short, concrete nature report with simple sentences, a clear single story and low background knowledge; vocabulary is mostly B1/B2.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "rare",
+      "lemma": "rare",
+      "level": "B1",
+      "hebrew": "נָדִיר",
+      "explanation_hebrew": "לא נפוץ, יוצא דופן",
+      "pronunciation_hebrew": "רֵייר",
+      "example": "This is a rare opportunity."
+    },
+    {
+      "word": "species",
+      "lemma": "species",
+      "level": "B1",
+      "hebrew": "מִין (ביולוגי)",
+      "explanation_hebrew": "קבוצה של בעלי חיים או צמחים דומים",
+      "pronunciation_hebrew": "סְפִּישִׁיז",
+      "example": "Many species are at risk."
+    },
+    {
+      "word": "dependent",
+      "lemma": "dependent",
+      "level": "B2",
+      "hebrew": "תָּלוּי",
+      "explanation_hebrew": "זקוק למשהו אחר כדי להתקיים",
+      "pronunciation_hebrew": "דִּיפֶּנְדֶנְט",
+      "example": "The baby is dependent on its mother."
+    },
+    {
+      "word": "solitary",
+      "lemma": "solitary",
+      "level": "B2",
+      "hebrew": "בּוֹדֵד",
+      "explanation_hebrew": "חי או נמצא לבד",
+      "pronunciation_hebrew": "סוֹלִיטֶרִי",
+      "example": "She took a solitary walk in the forest."
+    },
+    {
+      "word": "habitat",
+      "lemma": "habitat",
+      "level": "B2",
+      "hebrew": "בֵּית גִּידּוּל",
+      "explanation_hebrew": "הסביבה הטבעית של בעל חיים או צמח",
+      "pronunciation_hebrew": "הָבִּיטָט",
+      "example": "The forest is their natural habitat."
+    },
+    {
+      "word": "vegetation",
+      "lemma": "vegetation",
+      "level": "B2",
+      "hebrew": "צִמְחִיָּיה",
+      "explanation_hebrew": "הצמחים באזור מסוים",
+      "pronunciation_hebrew": "וֶגֶ'טֵיישֶׁן",
+      "example": "Thick vegetation covered the hills."
+    },
+    {
+      "word": "shelter",
+      "lemma": "shelter",
+      "level": "B1",
+      "hebrew": "מַחֲסֶה",
+      "explanation_hebrew": "מקום מוגן",
+      "pronunciation_hebrew": "שֶׁלְטֶר",
+      "example": "They looked for shelter from the rain."
+    },
+    {
+      "word": "dense",
+      "lemma": "dense",
+      "level": "B2",
+      "hebrew": "צָפוּף",
+      "explanation_hebrew": "מלא, עם הרבה דברים בשטח קטן",
+      "pronunciation_hebrew": "דֶּנְס",
+      "example": "A dense forest is hard to cross."
+    },
+    {
+      "word": "essential",
+      "lemma": "essential",
+      "level": "B1",
+      "hebrew": "חִיּוּנִי",
+      "explanation_hebrew": "הכרחי, חשוב מאוד",
+      "pronunciation_hebrew": "אִיסֶנְשֶׁל",
+      "example": "Water is essential for life."
+    },
+    {
+      "word": "extinction",
+      "lemma": "extinction",
+      "level": "B2",
+      "hebrew": "הַכְחָדָה",
+      "explanation_hebrew": "היעלמות מוחלטת של מין",
+      "pronunciation_hebrew": "אֶקְסְטִינְקְשֶׁן",
+      "example": "The animal faces extinction."
+    },
+    {
+      "word": "brink",
+      "lemma": "brink",
+      "level": "C1",
+      "hebrew": "סַף",
+      "explanation_hebrew": "הקצה, ממש לפני משהו",
+      "pronunciation_hebrew": "בְּרִינְק",
+      "example": "They were on the brink of success."
+    },
+    {
+      "word": "evidence",
+      "lemma": "evidence",
+      "level": "B2",
+      "hebrew": "רְאָיָה",
+      "explanation_hebrew": "מידע שמראה שמשהו נכון",
+      "pronunciation_hebrew": "אֶבִידֶנְס",
+      "example": "There is no evidence of a crime."
+    },
+    {
+      "word": "breeding",
+      "lemma": "breeding",
+      "level": "B2",
+      "hebrew": "רְבִיָּיה",
+      "explanation_hebrew": "הולדת צאצאים אצל בעלי חיים",
+      "pronunciation_hebrew": "בְּרִידִינְג",
+      "example": "The birds return here for breeding."
+    },
+    {
+      "word": "survey",
+      "lemma": "survey",
+      "level": "B2",
+      "hebrew": "סֶקֶר",
+      "explanation_hebrew": "בדיקה שיטתית של אזור או נושא",
+      "pronunciation_hebrew": "סֶרְוֵוי",
+      "example": "They carried out a survey of the area."
+    },
+    {
+      "word": "concerns",
+      "lemma": "concerns",
+      "level": "B2",
+      "hebrew": "חֲשָׁשׁוֹת",
+      "explanation_hebrew": "דברים שמדאיגים",
+      "pronunciation_hebrew": "קוֹנְסֶרְנְז",
+      "example": "She raised concerns about safety."
+    },
+    {
+      "word": "experts",
+      "lemma": "experts",
+      "level": "B1",
+      "hebrew": "מֻמְחִים",
+      "explanation_hebrew": "אנשים עם ידע רב בתחום",
+      "pronunciation_hebrew": "אֶקְסְפֶּרְטְס",
+      "example": "Experts studied the problem."
+    },
+    {
+      "word": "larvae",
+      "lemma": "larvae",
+      "level": "C1",
+      "hebrew": "זְחָלִים",
+      "explanation_hebrew": "שלב צעיר בחיי חרקים",
+      "pronunciation_hebrew": "לַארְבִי",
+      "example": "The larvae grow into beetles."
+    },
+    {
+      "word": "distribution",
+      "lemma": "distribution",
+      "level": "B2",
+      "hebrew": "תְּפוּצָה",
+      "explanation_hebrew": "האופן שבו משהו מפוזר",
+      "pronunciation_hebrew": "דִּיסְטְרִיבְּיוּשֶׁן",
+      "example": "The distribution of plants varies."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פָּגִיעַ",
+      "explanation_hebrew": "חשוף לסכנה, קל לפגוע בו",
+      "pronunciation_hebrew": "וַלְנֶרֶבֶּל",
+      "example": "Young animals are vulnerable."
+    },
+    {
+      "word": "suitable",
+      "lemma": "suitable",
+      "level": "B1",
+      "hebrew": "מַתְאִים",
+      "explanation_hebrew": "הולם, נכון למטרה",
+      "pronunciation_hebrew": "סוּטֶבֶּל",
+      "example": "This is a suitable place to live."
+    },
+    {
+      "word": "populations",
+      "lemma": "populations",
+      "level": "B2",
+      "hebrew": "אֻכְלוּסִיּוֹת",
+      "explanation_hebrew": "קבוצות של יצורים באזור",
+      "pronunciation_hebrew": "פּוֹפְּיוּלֵיישֶׁנְז",
+      "example": "Fish populations are falling."
+    },
+    {
+      "word": "conserve",
+      "lemma": "conserve",
+      "level": "B2",
+      "hebrew": "לְשַׁמֵּר",
+      "explanation_hebrew": "לשמור ולהגן על משהו",
+      "pronunciation_hebrew": "קוֹנְסֶרְב",
+      "example": "We must conserve nature."
+    },
+    {
+      "word": "creature",
+      "lemma": "creature",
+      "level": "B1",
+      "hebrew": "יְצוּר",
+      "explanation_hebrew": "בעל חיים",
+      "pronunciation_hebrew": "קְרִיצֶ'ר",
+      "example": "A strange creature lives here."
+    },
+    {
+      "word": "effective",
+      "lemma": "effective",
+      "level": "B1",
+      "hebrew": "יָעִיל",
+      "explanation_hebrew": "שמשיג תוצאה טובה",
+      "pronunciation_hebrew": "אִיפֶקְטִיב",
+      "example": "The medicine is very effective."
+    },
+    {
+      "word": "volunteers",
+      "lemma": "volunteers",
+      "level": "B1",
+      "hebrew": "מִתְנַדְּבִים",
+      "explanation_hebrew": "אנשים שעוזרים בלי תשלום",
+      "pronunciation_hebrew": "ווֹלַנְטִירְז",
+      "example": "Volunteers cleaned the beach."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "rare",
+      "type": "english_to_hebrew",
+      "question": "What does “rare” mean?",
+      "options": [
+        "צִמְחִיָּיה",
+        "נָדִיר",
+        "חִיּוּנִי",
+        "חֲשָׁשׁוֹת"
+      ],
+      "correct_answer": "נָדִיר",
+      "explanation_hebrew": "“rare” = נָדִיר — לא נפוץ, יוצא דופן."
+    },
+    {
+      "id": "A-q2",
+      "word": "species",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“מִין (ביולוגי)”?",
+      "options": [
+        "volunteers",
+        "conserve",
+        "species",
+        "rare"
+      ],
+      "correct_answer": "species",
+      "explanation_hebrew": "“מִין (ביולוגי)” = species — קבוצה של בעלי חיים או צמחים דומים."
+    },
+    {
+      "id": "A-q3",
+      "word": "dependent",
+      "type": "english_to_hebrew",
+      "question": "What does “dependent” mean?",
+      "options": [
+        "תָּלוּי",
+        "יְצוּר",
+        "יָעִיל",
+        "מִין (ביולוגי)"
+      ],
+      "correct_answer": "תָּלוּי",
+      "explanation_hebrew": "“dependent” = תָּלוּי — זקוק למשהו אחר כדי להתקיים."
+    },
+    {
+      "id": "A-q4",
+      "word": "solitary",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“בּוֹדֵד”?",
+      "options": [
+        "habitat",
+        "solitary",
+        "essential",
+        "brink"
+      ],
+      "correct_answer": "solitary",
+      "explanation_hebrew": "“בּוֹדֵד” = solitary — חי או נמצא לבד."
+    },
+    {
+      "id": "A-q5",
+      "word": "habitat",
+      "type": "english_to_hebrew",
+      "question": "What does “habitat” mean?",
+      "options": [
+        "לְשַׁמֵּר",
+        "תְּפוּצָה",
+        "בֵּית גִּידּוּל",
+        "חֲשָׁשׁוֹת"
+      ],
+      "correct_answer": "בֵּית גִּידּוּל",
+      "explanation_hebrew": "“habitat” = בֵּית גִּידּוּל — הסביבה הטבעית של בעל חיים או צמח."
+    },
+    {
+      "id": "A-q6",
+      "word": "vegetation",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“צִמְחִיָּיה”?",
+      "options": [
+        "concerns",
+        "suitable",
+        "vegetation",
+        "brink"
+      ],
+      "correct_answer": "vegetation",
+      "explanation_hebrew": "“צִמְחִיָּיה” = vegetation — הצמחים באזור מסוים."
+    },
+    {
+      "id": "A-q7",
+      "word": "shelter",
+      "type": "english_to_hebrew",
+      "question": "What does “shelter” mean?",
+      "options": [
+        "בֵּית גִּידּוּל",
+        "יְצוּר",
+        "צִמְחִיָּיה",
+        "מַחֲסֶה"
+      ],
+      "correct_answer": "מַחֲסֶה",
+      "explanation_hebrew": "“shelter” = מַחֲסֶה — מקום מוגן."
+    },
+    {
+      "id": "A-q8",
+      "word": "dense",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“צָפוּף”?",
+      "options": [
+        "extinction",
+        "vulnerable",
+        "effective",
+        "dense"
+      ],
+      "correct_answer": "dense",
+      "explanation_hebrew": "“צָפוּף” = dense — מלא, עם הרבה דברים בשטח קטן."
+    },
+    {
+      "id": "A-q9",
+      "word": "essential",
+      "type": "english_to_hebrew",
+      "question": "What does “essential” mean?",
+      "options": [
+        "חִיּוּנִי",
+        "מִתְנַדְּבִים",
+        "בּוֹדֵד",
+        "חֲשָׁשׁוֹת"
+      ],
+      "correct_answer": "חִיּוּנִי",
+      "explanation_hebrew": "“essential” = חִיּוּנִי — הכרחי, חשוב מאוד."
+    },
+    {
+      "id": "A-q10",
+      "word": "extinction",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“הַכְחָדָה”?",
+      "options": [
+        "survey",
+        "extinction",
+        "brink",
+        "habitat"
+      ],
+      "correct_answer": "extinction",
+      "explanation_hebrew": "“הַכְחָדָה” = extinction — היעלמות מוחלטת של מין."
+    },
+    {
+      "id": "A-q11",
+      "word": "brink",
+      "type": "english_to_hebrew",
+      "question": "What does “brink” mean?",
+      "options": [
+        "מִין (ביולוגי)",
+        "חֲשָׁשׁוֹת",
+        "מִתְנַדְּבִים",
+        "סַף"
+      ],
+      "correct_answer": "סַף",
+      "explanation_hebrew": "“brink” = סַף — הקצה, ממש לפני משהו."
+    },
+    {
+      "id": "A-q12",
+      "word": "evidence",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“רְאָיָה”?",
+      "options": [
+        "evidence",
+        "distribution",
+        "conserve",
+        "populations"
+      ],
+      "correct_answer": "evidence",
+      "explanation_hebrew": "“רְאָיָה” = evidence — מידע שמראה שמשהו נכון."
+    },
+    {
+      "id": "A-q13",
+      "word": "breeding",
+      "type": "english_to_hebrew",
+      "question": "What does “breeding” mean?",
+      "options": [
+        "מֻמְחִים",
+        "מִין (ביולוגי)",
+        "חִיּוּנִי",
+        "רְבִיָּיה"
+      ],
+      "correct_answer": "רְבִיָּיה",
+      "explanation_hebrew": "“breeding” = רְבִיָּיה — הולדת צאצאים אצל בעלי חיים."
+    },
+    {
+      "id": "A-q14",
+      "word": "survey",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“סֶקֶר”?",
+      "options": [
+        "suitable",
+        "experts",
+        "vulnerable",
+        "survey"
+      ],
+      "correct_answer": "survey",
+      "explanation_hebrew": "“סֶקֶר” = survey — בדיקה שיטתית של אזור או נושא."
+    },
+    {
+      "id": "A-q15",
+      "word": "concerns",
+      "type": "english_to_hebrew",
+      "question": "What does “concerns” mean?",
+      "options": [
+        "בֵּית גִּידּוּל",
+        "אֻכְלוּסִיּוֹת",
+        "צָפוּף",
+        "חֲשָׁשׁוֹת"
+      ],
+      "correct_answer": "חֲשָׁשׁוֹת",
+      "explanation_hebrew": "“concerns” = חֲשָׁשׁוֹת — דברים שמדאיגים."
+    },
+    {
+      "id": "A-q16",
+      "word": "experts",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“מֻמְחִים”?",
+      "options": [
+        "dense",
+        "experts",
+        "breeding",
+        "extinction"
+      ],
+      "correct_answer": "experts",
+      "explanation_hebrew": "“מֻמְחִים” = experts — אנשים עם ידע רב בתחום."
+    },
+    {
+      "id": "A-q17",
+      "word": "larvae",
+      "type": "english_to_hebrew",
+      "question": "What does “larvae” mean?",
+      "options": [
+        "פָּגִיעַ",
+        "צָפוּף",
+        "זְחָלִים",
+        "חִיּוּנִי"
+      ],
+      "correct_answer": "זְחָלִים",
+      "explanation_hebrew": "“larvae” = זְחָלִים — שלב צעיר בחיי חרקים."
+    },
+    {
+      "id": "A-q18",
+      "word": "distribution",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“תְּפוּצָה”?",
+      "options": [
+        "extinction",
+        "dense",
+        "distribution",
+        "larvae"
+      ],
+      "correct_answer": "distribution",
+      "explanation_hebrew": "“תְּפוּצָה” = distribution — האופן שבו משהו מפוזר."
+    },
+    {
+      "id": "A-q19",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "מַתְאִים",
+        "חִיּוּנִי",
+        "רְאָיָה",
+        "פָּגִיעַ"
+      ],
+      "correct_answer": "פָּגִיעַ",
+      "explanation_hebrew": "“vulnerable” = פָּגִיעַ — חשוף לסכנה, קל לפגוע בו."
+    },
+    {
+      "id": "A-q20",
+      "word": "suitable",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“מַתְאִים”?",
+      "options": [
+        "extinction",
+        "larvae",
+        "suitable",
+        "dense"
+      ],
+      "correct_answer": "suitable",
+      "explanation_hebrew": "“מַתְאִים” = suitable — הולם, נכון למטרה."
+    },
+    {
+      "id": "A-q21",
+      "word": "populations",
+      "type": "english_to_hebrew",
+      "question": "What does “populations” mean?",
+      "options": [
+        "זְחָלִים",
+        "אֻכְלוּסִיּוֹת",
+        "הַכְחָדָה",
+        "מַתְאִים"
+      ],
+      "correct_answer": "אֻכְלוּסִיּוֹת",
+      "explanation_hebrew": "“populations” = אֻכְלוּסִיּוֹת — קבוצות של יצורים באזור."
+    },
+    {
+      "id": "A-q22",
+      "word": "conserve",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“לְשַׁמֵּר”?",
+      "options": [
+        "habitat",
+        "conserve",
+        "volunteers",
+        "species"
+      ],
+      "correct_answer": "conserve",
+      "explanation_hebrew": "“לְשַׁמֵּר” = conserve — לשמור ולהגן על משהו."
+    },
+    {
+      "id": "A-q23",
+      "word": "creature",
+      "type": "english_to_hebrew",
+      "question": "What does “creature” mean?",
+      "options": [
+        "זְחָלִים",
+        "יְצוּר",
+        "רְבִיָּיה",
+        "הַכְחָדָה"
+      ],
+      "correct_answer": "יְצוּר",
+      "explanation_hebrew": "“creature” = יְצוּר — בעל חיים."
+    },
+    {
+      "id": "A-q24",
+      "word": "effective",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“יָעִיל”?",
+      "options": [
+        "effective",
+        "creature",
+        "essential",
+        "survey"
+      ],
+      "correct_answer": "effective",
+      "explanation_hebrew": "“יָעִיל” = effective — שמשיג תוצאה טובה."
+    },
+    {
+      "id": "A-q25",
+      "word": "volunteers",
+      "type": "english_to_hebrew",
+      "question": "What does “volunteers” mean?",
+      "options": [
+        "בֵּית גִּידּוּל",
+        "יָעִיל",
+        "נָדִיר",
+        "מִתְנַדְּבִים"
+      ],
+      "correct_answer": "מִתְנַדְּבִים",
+      "explanation_hebrew": "“volunteers” = מִתְנַדְּבִים — אנשים שעוזרים בלי תשלום."
+    }
+  ]
+}

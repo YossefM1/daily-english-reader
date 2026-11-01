@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-01",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Neoclouds: These firms you've never heard of are feeding fears the AI bubble could burst",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
+  "published_at": "2026-11-01T01:37:26+00:00",
+  "age_hours_at_selection": 0.63,
+  "word_count": 880,
+  "generated_at": "2026-11-01T02:15:28.487526+00:00",
+  "difficulty_reason": "Dense financial/technology analysis with long sentences, specialist terms and heavy background knowledge; vocabulary reaches B2/C1/C2.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "ecosystem",
+      "lemma": "ecosystem",
+      "level": "C1",
+      "hebrew": "מַעֲרֶכֶת אֶקוֹלוֹגִית",
+      "explanation_hebrew": "מערכת של חלקים שתלויים זה בזה",
+      "pronunciation_hebrew": "אִיקוֹסִיסְטֶם",
+      "example": "The AI ecosystem is growing fast."
+    },
+    {
+      "word": "spotlight",
+      "lemma": "spotlight",
+      "level": "B2",
+      "hebrew": "אוֹר הַזַּרְקוֹרִים",
+      "explanation_hebrew": "תשומת לב ציבורית",
+      "pronunciation_hebrew": "סְפּוֹטְלַייט",
+      "example": "The company is in the spotlight."
+    },
+    {
+      "word": "investors",
+      "lemma": "investor",
+      "level": "B1",
+      "hebrew": "מַשְׁקִיעִים",
+      "explanation_hebrew": "אנשים ששמים כסף כדי להרוויח",
+      "pronunciation_hebrew": "אִינְבֶסְטֶרְז",
+      "example": "Investors are worried about losses."
+    },
+    {
+      "word": "lease",
+      "lemma": "lease",
+      "level": "B2",
+      "hebrew": "לְהַחְכִּיר / לְהַשְׂכִּיר",
+      "explanation_hebrew": "לתת לשימוש תמורת תשלום",
+      "pronunciation_hebrew": "לִיס",
+      "example": "They lease computers to other firms."
+    },
+    {
+      "word": "heated",
+      "lemma": "heated",
+      "level": "B2",
+      "hebrew": "נִסְעָר / לוֹהֵט",
+      "explanation_hebrew": "נלהב, מלא ויכוח",
+      "pronunciation_hebrew": "הִיטֶד",
+      "example": "They had a heated debate."
+    },
+    {
+      "word": "stumbles",
+      "lemma": "stumble",
+      "level": "C1",
+      "hebrew": "מְעִידוֹת / כְּשָׁלִים קְטַנִּים",
+      "explanation_hebrew": "טעויות או קשיים",
+      "pronunciation_hebrew": "סְטַמְבֶּלְז",
+      "example": "The firm had a few stumbles."
+    },
+    {
+      "word": "predict",
+      "lemma": "predict",
+      "level": "B1",
+      "hebrew": "לְנַבֵּא / לַחֲזוֹת",
+      "explanation_hebrew": "לומר מה יקרה בעתיד",
+      "pronunciation_hebrew": "פְּרִידִיקְט",
+      "example": "Analysts predict a fall in prices."
+    },
+    {
+      "word": "cease",
+      "lemma": "cease",
+      "level": "C1",
+      "hebrew": "לַחְדּוֹל / לְהַפְסִיק",
+      "explanation_hebrew": "להפסיק לגמרי",
+      "pronunciation_hebrew": "סִיס",
+      "example": "Many firms will cease to exist."
+    },
+    {
+      "word": "acquired",
+      "lemma": "acquire",
+      "level": "B2",
+      "hebrew": "נִרְכַּשׁ",
+      "explanation_hebrew": "נקנה על ידי גורם אחר",
+      "pronunciation_hebrew": "אַקְווַיירְד",
+      "example": "The startup was acquired by a bank."
+    },
+    {
+      "word": "downplay",
+      "lemma": "downplay",
+      "level": "C1",
+      "hebrew": "לְהַמְעִיט בַּחֲשִׁיבוּת",
+      "explanation_hebrew": "להציג כפחות חשוב ממה שהוא",
+      "pronunciation_hebrew": "דַאוּנְפְּלֵיי",
+      "example": "He tried to downplay the risks."
+    },
+    {
+      "word": "component",
+      "lemma": "component",
+      "level": "B2",
+      "hebrew": "רְכִיב / חֵלֶק",
+      "explanation_hebrew": "חלק מתוך שלם",
+      "pronunciation_hebrew": "קוֹמְפּוֹנֶנְט",
+      "example": "It is a small component of the system."
+    },
+    {
+      "word": "collateral",
+      "lemma": "collateral",
+      "level": "C1",
+      "hebrew": "בִּטָּחוֹן / עֵרָבוֹן",
+      "explanation_hebrew": "נכס שמשמש ערובה להלוואה",
+      "pronunciation_hebrew": "קוֹלָטֶרָל",
+      "example": "They used the land as collateral."
+    },
+    {
+      "word": "creditworthiness",
+      "lemma": "creditworthiness",
+      "level": "C2",
+      "hebrew": "כּוֹשֶׁר אַשְׁרַאי",
+      "explanation_hebrew": "היכולת להחזיר חוב",
+      "pronunciation_hebrew": "קְרֶדִיטְוֶורְדִינֶס",
+      "example": "The bank checked his creditworthiness."
+    },
+    {
+      "word": "accumulated",
+      "lemma": "accumulate",
+      "level": "C1",
+      "hebrew": "צָבַר",
+      "explanation_hebrew": "אסף בהדרגה כמות גדולה",
+      "pronunciation_hebrew": "אַקְיוּמְיוּלֵייטֶד",
+      "example": "The company accumulated huge debt."
+    },
+    {
+      "word": "jittery",
+      "lemma": "jittery",
+      "level": "C1",
+      "hebrew": "עַצְבָּנִי / חֲרֵד",
+      "explanation_hebrew": "לחוץ, חסר מנוחה",
+      "pronunciation_hebrew": "גִ'יטֶרִי",
+      "example": "Investors are jittery about the market."
+    },
+    {
+      "word": "spooked",
+      "lemma": "spook",
+      "level": "C1",
+      "hebrew": "נִבְהַל / נִלְחַץ",
+      "explanation_hebrew": "נבהל ופעל מתוך פחד",
+      "pronunciation_hebrew": "סְפּוּקְט",
+      "example": "The news spooked the markets."
+    },
+    {
+      "word": "irrationally",
+      "lemma": "irrationally",
+      "level": "C1",
+      "hebrew": "בְּאוֹפֶן לֹא הֶגְיוֹנִי",
+      "explanation_hebrew": "בלי היגיון",
+      "pronunciation_hebrew": "אִירַשֶׁנַלִי",
+      "example": "The crowd behaved irrationally."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "B2",
+      "hebrew": "תַּשְׁתִּית",
+      "explanation_hebrew": "מתקנים ומערכות בסיסיים",
+      "pronunciation_hebrew": "אִינְפְרַסְטְרַקְצֶ'ר",
+      "example": "The city needs better infrastructure."
+    },
+    {
+      "word": "consequential",
+      "lemma": "consequential",
+      "level": "C2",
+      "hebrew": "בַּעַל הַשְׁלָכוֹת",
+      "explanation_hebrew": "משמעותי, בעל השפעה",
+      "pronunciation_hebrew": "קוֹנְסִיקְווֶנְשֶׁל",
+      "example": "It was a consequential decision."
+    },
+    {
+      "word": "volatile",
+      "lemma": "volatile",
+      "level": "C1",
+      "hebrew": "תַּנּוּדָתִי / הֲפַכְפַּךְ",
+      "explanation_hebrew": "משתנה מהר ובלי צפי",
+      "pronunciation_hebrew": "ווֹלָטַייל",
+      "example": "The crypto market is very volatile."
+    },
+    {
+      "word": "hinges",
+      "lemma": "hinge",
+      "level": "C1",
+      "hebrew": "תָּלוּי בְּ",
+      "explanation_hebrew": "תלוי לגמרי במשהו",
+      "pronunciation_hebrew": "הִינְגֶ'ז",
+      "example": "Success hinges on good timing."
+    },
+    {
+      "word": "enormous",
+      "lemma": "enormous",
+      "level": "B1",
+      "hebrew": "עֲצוּם / עֲנָקִי",
+      "explanation_hebrew": "גדול מאוד",
+      "pronunciation_hebrew": "אִינוֹרְמֶס",
+      "example": "They spent an enormous amount."
+    },
+    {
+      "word": "forecast",
+      "lemma": "forecast",
+      "level": "B2",
+      "hebrew": "תַּחֲזִית",
+      "explanation_hebrew": "חיזוי למה שיקרה בעתיד",
+      "pronunciation_hebrew": "פוֹרְקַאסְט",
+      "example": "The forecast shows lower sales."
+    },
+    {
+      "word": "tumbled",
+      "lemma": "tumble",
+      "level": "B2",
+      "hebrew": "צָנַח / נָפַל בְּחַדּוּת",
+      "explanation_hebrew": "ירד בחדות",
+      "pronunciation_hebrew": "טַמְבֶּלְד",
+      "example": "Share prices tumbled today."
+    },
+    {
+      "word": "consolidation",
+      "lemma": "consolidation",
+      "level": "C1",
+      "hebrew": "מִיזּוּג / הִתְגַּבְּשׁוּת",
+      "explanation_hebrew": "איחוד של גופים לגוף אחד גדול",
+      "pronunciation_hebrew": "קוֹנְסוֹלִידֵיישֶׁן",
+      "example": "The industry faces consolidation."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "ecosystem",
+      "type": "english_to_hebrew",
+      "question": "What does “ecosystem” mean?",
+      "options": [
+        "תַּנּוּדָתִי / הֲפַכְפַּךְ",
+        "נִסְעָר / לוֹהֵט",
+        "לְהַחְכִּיר / לְהַשְׂכִּיר",
+        "מַעֲרֶכֶת אֶקוֹלוֹגִית"
+      ],
+      "correct_answer": "מַעֲרֶכֶת אֶקוֹלוֹגִית",
+      "explanation_hebrew": "“ecosystem” = מַעֲרֶכֶת אֶקוֹלוֹגִית — מערכת של חלקים שתלויים זה בזה."
+    },
+    {
+      "id": "C-q2",
+      "word": "spotlight",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“אוֹר הַזַּרְקוֹרִים”?",
+      "options": [
+        "spotlight",
+        "hinges",
+        "enormous",
+        "predict"
+      ],
+      "correct_answer": "spotlight",
+      "explanation_hebrew": "“אוֹר הַזַּרְקוֹרִים” = spotlight — תשומת לב ציבורית."
+    },
+    {
+      "id": "C-q3",
+      "word": "investors",
+      "type": "english_to_hebrew",
+      "question": "What does “investors” mean?",
+      "options": [
+        "אוֹר הַזַּרְקוֹרִים",
+        "לְהַמְעִיט בַּחֲשִׁיבוּת",
+        "לַחְדּוֹל / לְהַפְסִיק",
+        "מַשְׁקִיעִים"
+      ],
+      "correct_answer": "מַשְׁקִיעִים",
+      "explanation_hebrew": "“investors” = מַשְׁקִיעִים — אנשים ששמים כסף כדי להרוויח."
+    },
+    {
+      "id": "C-q4",
+      "word": "lease",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“לְהַחְכִּיר / לְהַשְׂכִּיר”?",
+      "options": [
+        "accumulated",
+        "spotlight",
+        "volatile",
+        "lease"
+      ],
+      "correct_answer": "lease",
+      "explanation_hebrew": "“לְהַחְכִּיר / לְהַשְׂכִּיר” = lease — לתת לשימוש תמורת תשלום."
+    },
+    {
+      "id": "C-q5",
+      "word": "heated",
+      "type": "english_to_hebrew",
+      "question": "What does “heated” mean?",
+      "options": [
+        "נִסְעָר / לוֹהֵט",
+        "תַּשְׁתִּית",
+        "צָבַר",
+        "כּוֹשֶׁר אַשְׁרַאי"
+      ],
+      "correct_answer": "נִסְעָר / לוֹהֵט",
+      "explanation_hebrew": "“heated” = נִסְעָר / לוֹהֵט — נלהב, מלא ויכוח."
+    },
+    {
+      "id": "C-q6",
+      "word": "stumbles",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“מְעִידוֹת / כְּשָׁלִים קְטַנִּים”?",
+      "options": [
+        "spooked",
+        "downplay",
+        "predict",
+        "stumbles"
+      ],
+      "correct_answer": "stumbles",
+      "explanation_hebrew": "“מְעִידוֹת / כְּשָׁלִים קְטַנִּים” = stumbles — טעויות או קשיים."
+    },
+    {
+      "id": "C-q7",
+      "word": "predict",
+      "type": "english_to_hebrew",
+      "question": "What does “predict” mean?",
+      "options": [
+        "עֲצוּם / עֲנָקִי",
+        "לְנַבֵּא / לַחֲזוֹת",
+        "נִרְכַּשׁ",
+        "אוֹר הַזַּרְקוֹרִים"
+      ],
+      "correct_answer": "לְנַבֵּא / לַחֲזוֹת",
+      "explanation_hebrew": "“predict” = לְנַבֵּא / לַחֲזוֹת — לומר מה יקרה בעתיד."
+    },
+    {
+      "id": "C-q8",
+      "word": "cease",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“לַחְדּוֹל / לְהַפְסִיק”?",
+      "options": [
+        "accumulated",
+        "spotlight",
+        "enormous",
+        "cease"
+      ],
+      "correct_answer": "cease",
+      "explanation_hebrew": "“לַחְדּוֹל / לְהַפְסִיק” = cease — להפסיק לגמרי."
+    },
+    {
+      "id": "C-q9",
+      "word": "acquired",
+      "type": "english_to_hebrew",
+      "question": "What does “acquired” mean?",
+      "options": [
+        "בְּאוֹפֶן לֹא הֶגְיוֹנִי",
+        "נִרְכַּשׁ",
+        "צָנַח / נָפַל בְּחַדּוּת",
+        "נִסְעָר / לוֹהֵט"
+      ],
+      "correct_answer": "נִרְכַּשׁ",
+      "explanation_hebrew": "“acquired” = נִרְכַּשׁ — נקנה על ידי גורם אחר."
+    },
+    {
+      "id": "C-q10",
+      "word": "downplay",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“לְהַמְעִיט בַּחֲשִׁיבוּת”?",
+      "options": [
+        "jittery",
+        "component",
+        "acquired",
+        "downplay"
+      ],
+      "correct_answer": "downplay",
+      "explanation_hebrew": "“לְהַמְעִיט בַּחֲשִׁיבוּת” = downplay — להציג כפחות חשוב ממה שהוא."
+    },
+    {
+      "id": "C-q11",
+      "word": "component",
+      "type": "english_to_hebrew",
+      "question": "What does “component” mean?",
+      "options": [
+        "נִבְהַל / נִלְחַץ",
+        "נִרְכַּשׁ",
+        "רְכִיב / חֵלֶק",
+        "מִיזּוּג / הִתְגַּבְּשׁוּת"
+      ],
+      "correct_answer": "רְכִיב / חֵלֶק",
+      "explanation_hebrew": "“component” = רְכִיב / חֵלֶק — חלק מתוך שלם."
+    },
+    {
+      "id": "C-q12",
+      "word": "collateral",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“בִּטָּחוֹן / עֵרָבוֹן”?",
+      "options": [
+        "stumbles",
+        "volatile",
+        "collateral",
+        "forecast"
+      ],
+      "correct_answer": "collateral",
+      "explanation_hebrew": "“בִּטָּחוֹן / עֵרָבוֹן” = collateral — נכס שמשמש ערובה להלוואה."
+    },
+    {
+      "id": "C-q13",
+      "word": "creditworthiness",
+      "type": "english_to_hebrew",
+      "question": "What does “creditworthiness” mean?",
+      "options": [
+        "כּוֹשֶׁר אַשְׁרַאי",
+        "צָבַר",
+        "תַּחֲזִית",
+        "לְנַבֵּא / לַחֲזוֹת"
+      ],
+      "correct_answer": "כּוֹשֶׁר אַשְׁרַאי",
+      "explanation_hebrew": "“creditworthiness” = כּוֹשֶׁר אַשְׁרַאי — היכולת להחזיר חוב."
+    },
+    {
+      "id": "C-q14",
+      "word": "accumulated",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“צָבַר”?",
+      "options": [
+        "heated",
+        "lease",
+        "accumulated",
+        "downplay"
+      ],
+      "correct_answer": "accumulated",
+      "explanation_hebrew": "“צָבַר” = accumulated — אסף בהדרגה כמות גדולה."
+    },
+    {
+      "id": "C-q15",
+      "word": "jittery",
+      "type": "english_to_hebrew",
+      "question": "What does “jittery” mean?",
+      "options": [
+        "עַצְבָּנִי / חֲרֵד",
+        "רְכִיב / חֵלֶק",
+        "נִבְהַל / נִלְחַץ",
+        "צָבַר"
+      ],
+      "correct_answer": "עַצְבָּנִי / חֲרֵד",
+      "explanation_hebrew": "“jittery” = עַצְבָּנִי / חֲרֵד — לחוץ, חסר מנוחה."
+    },
+    {
+      "id": "C-q16",
+      "word": "spooked",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“נִבְהַל / נִלְחַץ”?",
+      "options": [
+        "spotlight",
+        "spooked",
+        "consolidation",
+        "cease"
+      ],
+      "correct_answer": "spooked",
+      "explanation_hebrew": "“נִבְהַל / נִלְחַץ” = spooked — נבהל ופעל מתוך פחד."
+    },
+    {
+      "id": "C-q17",
+      "word": "irrationally",
+      "type": "english_to_hebrew",
+      "question": "What does “irrationally” mean?",
+      "options": [
+        "אוֹר הַזַּרְקוֹרִים",
+        "בְּאוֹפֶן לֹא הֶגְיוֹנִי",
+        "עַצְבָּנִי / חֲרֵד",
+        "תָּלוּי בְּ"
+      ],
+      "correct_answer": "בְּאוֹפֶן לֹא הֶגְיוֹנִי",
+      "explanation_hebrew": "“irrationally” = בְּאוֹפֶן לֹא הֶגְיוֹנִי — בלי היגיון."
+    },
+    {
+      "id": "C-q18",
+      "word": "infrastructure",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“תַּשְׁתִּית”?",
+      "options": [
+        "infrastructure",
+        "spotlight",
+        "acquired",
+        "stumbles"
+      ],
+      "correct_answer": "infrastructure",
+      "explanation_hebrew": "“תַּשְׁתִּית” = infrastructure — מתקנים ומערכות בסיסיים."
+    },
+    {
+      "id": "C-q19",
+      "word": "consequential",
+      "type": "english_to_hebrew",
+      "question": "What does “consequential” mean?",
+      "options": [
+        "בַּעַל הַשְׁלָכוֹת",
+        "לַחְדּוֹל / לְהַפְסִיק",
+        "נִרְכַּשׁ",
+        "תַּנּוּדָתִי / הֲפַכְפַּךְ"
+      ],
+      "correct_answer": "בַּעַל הַשְׁלָכוֹת",
+      "explanation_hebrew": "“consequential” = בַּעַל הַשְׁלָכוֹת — משמעותי, בעל השפעה."
+    },
+    {
+      "id": "C-q20",
+      "word": "volatile",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“תַּנּוּדָתִי / הֲפַכְפַּךְ”?",
+      "options": [
+        "component",
+        "volatile",
+        "predict",
+        "hinges"
+      ],
+      "correct_answer": "volatile",
+      "explanation_hebrew": "“תַּנּוּדָתִי / הֲפַכְפַּךְ” = volatile — משתנה מהר ובלי צפי."
+    },
+    {
+      "id": "C-q21",
+      "word": "hinges",
+      "type": "english_to_hebrew",
+      "question": "What does “hinges” mean?",
+      "options": [
+        "מְעִידוֹת / כְּשָׁלִים קְטַנִּים",
+        "לְהַמְעִיט בַּחֲשִׁיבוּת",
+        "תָּלוּי בְּ",
+        "בְּאוֹפֶן לֹא הֶגְיוֹנִי"
+      ],
+      "correct_answer": "תָּלוּי בְּ",
+      "explanation_hebrew": "“hinges” = תָּלוּי בְּ — תלוי לגמרי במשהו."
+    },
+    {
+      "id": "C-q22",
+      "word": "enormous",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“עֲצוּם / עֲנָקִי”?",
+      "options": [
+        "infrastructure",
+        "volatile",
+        "enormous",
+        "irrationally"
+      ],
+      "correct_answer": "enormous",
+      "explanation_hebrew": "“עֲצוּם / עֲנָקִי” = enormous — גדול מאוד."
+    },
+    {
+      "id": "C-q23",
+      "word": "forecast",
+      "type": "english_to_hebrew",
+      "question": "What does “forecast” mean?",
+      "options": [
+        "לְהַחְכִּיר / לְהַשְׂכִּיר",
+        "נִרְכַּשׁ",
+        "לַחְדּוֹל / לְהַפְסִיק",
+        "תַּחֲזִית"
+      ],
+      "correct_answer": "תַּחֲזִית",
+      "explanation_hebrew": "“forecast” = תַּחֲזִית — חיזוי למה שיקרה בעתיד."
+    },
+    {
+      "id": "C-q24",
+      "word": "tumbled",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל“צָנַח / נָפַל בְּחַדּוּת”?",
+      "options": [
+        "tumbled",
+        "heated",
+        "component",
+        "jittery"
+      ],
+      "correct_answer": "tumbled",
+      "explanation_hebrew": "“צָנַח / נָפַל בְּחַדּוּת” = tumbled — ירד בחדות."
+    },
+    {
+      "id": "C-q25",
+      "word": "consolidation",
+      "type": "english_to_hebrew",
+      "question": "What does “consolidation” mean?",
+      "options": [
+        "מִיזּוּג / הִתְגַּבְּשׁוּת",
+        "מְעִידוֹת / כְּשָׁלִים קְטַנִּים",
+        "נִסְעָר / לוֹהֵט",
+        "רְכִיב / חֵלֶק"
+      ],
+      "correct_answer": "מִיזּוּג / הִתְגַּבְּשׁוּת",
+      "explanation_hebrew": "“consolidation” = מִיזּוּג / הִתְגַּבְּשׁוּת — איחוד של גופים לגוף אחד גדול."
+    }
+  ]
+}
