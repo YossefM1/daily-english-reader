@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-02",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Cancer patients 'deteriorating' due to staff shortages, radiologists warn",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cmly0xle2rddo",
+  "published_at": "2026-11-01T14:49:36+00:00",
+  "age_hours_at_selection": 11.42,
+  "word_count": 685,
+  "generated_at": "2026-11-02T02:15:00.980834+00:00",
+  "difficulty_reason": "Moderate-length health report mixing personal accounts with statistics and medical terms; B1/B2/C1 vocabulary and some NHS background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "deteriorating",
+      "lemma": "deteriorate",
+      "level": "C1",
+      "hebrew": "מתדרדר, מחמיר",
+      "explanation_hebrew": "הולך ונעשה גרוע יותר",
+      "pronunciation_hebrew": "דִיטִירְיוֹרֵייטִינְג",
+      "example": "His health was slowly deteriorating."
+    },
+    {
+      "word": "shortage",
+      "lemma": "shortage",
+      "level": "B2",
+      "hebrew": "מחסור",
+      "explanation_hebrew": "מצב שבו אין מספיק ממשהו",
+      "pronunciation_hebrew": "שׁוֹרְטֶג'",
+      "example": "There is a shortage of nurses."
+    },
+    {
+      "word": "shortfall",
+      "lemma": "shortfall",
+      "level": "C1",
+      "hebrew": "פער, חוסר",
+      "explanation_hebrew": "ההפרש בין מה שיש לבין מה שצריך",
+      "pronunciation_hebrew": "שׁוֹרְטְפוֹל",
+      "example": "The budget has a large shortfall."
+    },
+    {
+      "word": "diagnostic",
+      "lemma": "diagnostic",
+      "level": "C1",
+      "hebrew": "אבחנתי",
+      "explanation_hebrew": "הקשור לאיתור וזיהוי של מחלות",
+      "pronunciation_hebrew": "דַייאַגְנוֹסְטִיק",
+      "example": "The hospital bought new diagnostic machines."
+    },
+    {
+      "word": "specialise",
+      "lemma": "specialise",
+      "level": "B2",
+      "hebrew": "להתמחות",
+      "explanation_hebrew": "להתמקד בתחום מסוים",
+      "pronunciation_hebrew": "סְפֶּשַׁלַייז",
+      "example": "Some doctors specialise in children's care."
+    },
+    {
+      "word": "diagnose",
+      "lemma": "diagnose",
+      "level": "B2",
+      "hebrew": "לאבחן",
+      "explanation_hebrew": "לזהות מחלה או בעיה",
+      "pronunciation_hebrew": "דַייאַגְנוֹז",
+      "example": "Doctors tried to diagnose the illness."
+    },
+    {
+      "word": "recruitment",
+      "lemma": "recruitment",
+      "level": "B2",
+      "hebrew": "גיוס עובדים",
+      "explanation_hebrew": "תהליך מציאת והעסקת עובדים חדשים",
+      "pronunciation_hebrew": "רִיקְרוּטְמֶנְט",
+      "example": "Recruitment of staff is slow this year."
+    },
+    {
+      "word": "substantial",
+      "lemma": "substantial",
+      "level": "C1",
+      "hebrew": "ניכר, משמעותי",
+      "explanation_hebrew": "גדול בכמות או בחשיבות",
+      "pronunciation_hebrew": "סַבְּסְטַנְשַׁל",
+      "example": "There was a substantial rise in demand."
+    },
+    {
+      "word": "stable",
+      "lemma": "stable",
+      "level": "B2",
+      "hebrew": "יציב",
+      "explanation_hebrew": "לא משתנה, במצב קבוע",
+      "pronunciation_hebrew": "סְטֵייבְּל",
+      "example": "Her condition is now stable."
+    },
+    {
+      "word": "timely",
+      "lemma": "timely",
+      "level": "C1",
+      "hebrew": "בזמן, במועד הנכון",
+      "explanation_hebrew": "קורה בדיוק בזמן המתאים",
+      "pronunciation_hebrew": "טַיימְלִי",
+      "example": "Timely treatment can save lives."
+    },
+    {
+      "word": "spreading",
+      "lemma": "spread",
+      "level": "B2",
+      "hebrew": "מתפשט",
+      "explanation_hebrew": "מתרחב ומתפזר לאזורים נוספים",
+      "pronunciation_hebrew": "סְפְּרֶדִינְג",
+      "example": "The disease was spreading quickly."
+    },
+    {
+      "word": "unnoticed",
+      "lemma": "unnoticed",
+      "level": "C1",
+      "hebrew": "מבלי שמבחינים",
+      "explanation_hebrew": "בלי שאיש שם לב",
+      "pronunciation_hebrew": "אַנְנוֹטִיסְט",
+      "example": "The problem grew unnoticed for years."
+    },
+    {
+      "word": "trials",
+      "lemma": "trial",
+      "level": "B2",
+      "hebrew": "ניסויים",
+      "explanation_hebrew": "בדיקות מבוקרות של טיפול או תרופה",
+      "pronunciation_hebrew": "טְרַייאַלְז",
+      "example": "She joined medical trials for a new drug."
+    },
+    {
+      "word": "continual",
+      "lemma": "continual",
+      "level": "C1",
+      "hebrew": "מתמשך, רצוף",
+      "explanation_hebrew": "שקורה שוב ושוב ללא הפסקה",
+      "pronunciation_hebrew": "קוֹנְטִינְיוּאַל",
+      "example": "Continual treatment keeps her healthy."
+    },
+    {
+      "word": "threaten",
+      "lemma": "threaten",
+      "level": "B2",
+      "hebrew": "לאיים, לסכן",
+      "explanation_hebrew": "לסכן או לפגוע במשהו",
+      "pronunciation_hebrew": "תְרֶטֶן",
+      "example": "Delays could threaten her recovery."
+    },
+    {
+      "word": "subsequently",
+      "lemma": "subsequently",
+      "level": "C1",
+      "hebrew": "לאחר מכן, בהמשך",
+      "explanation_hebrew": "אחרי זמן מסוים, בעקבות כך",
+      "pronunciation_hebrew": "סַבְּסִיקְוֶנְטְלִי",
+      "example": "She was subsequently given more tests."
+    },
+    {
+      "word": "horrific",
+      "lemma": "horrific",
+      "level": "B2",
+      "hebrew": "מזעזע, איום",
+      "explanation_hebrew": "נורא ומעורר בעתה",
+      "pronunciation_hebrew": "הוֹרִיפִיק",
+      "example": "They described the wait as horrific."
+    },
+    {
+      "word": "horrendous",
+      "lemma": "horrendous",
+      "level": "C1",
+      "hebrew": "נורא ואיום",
+      "explanation_hebrew": "קשה ולא נעים במיוחד",
+      "pronunciation_hebrew": "הוֹרֶנְדֶס",
+      "example": "The pain was absolutely horrendous."
+    },
+    {
+      "word": "limbo",
+      "lemma": "limbo",
+      "level": "C1",
+      "hebrew": "חוסר ודאות, המתנה",
+      "explanation_hebrew": "מצב ביניים מתסכל בלי החלטה",
+      "pronunciation_hebrew": "לִימְבּוֹ",
+      "example": "Patients are left in total limbo."
+    },
+    {
+      "word": "consultant",
+      "lemma": "consultant",
+      "level": "B2",
+      "hebrew": "רופא בכיר, יועץ",
+      "explanation_hebrew": "מומחה בכיר בתחומו",
+      "pronunciation_hebrew": "קוֹנְסַלְטַנְט",
+      "example": "A consultant reviewed her scans."
+    },
+    {
+      "word": "oncology",
+      "lemma": "oncology",
+      "level": "C1",
+      "hebrew": "אונקולוגיה",
+      "explanation_hebrew": "ענף הרפואה העוסק בסרטן",
+      "pronunciation_hebrew": "אוֹנְקוֹלוֹגִ'י",
+      "example": "She works in the oncology department."
+    },
+    {
+      "word": "workforce",
+      "lemma": "workforce",
+      "level": "B2",
+      "hebrew": "כוח אדם, עובדים",
+      "explanation_hebrew": "כלל העובדים במקום או בתחום",
+      "pronunciation_hebrew": "וֶורְקְפוֹרְס",
+      "example": "The health workforce is under pressure."
+    },
+    {
+      "word": "prioritise",
+      "lemma": "prioritise",
+      "level": "C1",
+      "hebrew": "לתעדף",
+      "explanation_hebrew": "להחליט מה חשוב יותר ולטפל בו קודם",
+      "pronunciation_hebrew": "פְּרַייאוֹרִיטַייז",
+      "example": "Nurses prioritise the sickest patients."
+    },
+    {
+      "word": "anxious",
+      "lemma": "anxious",
+      "level": "B2",
+      "hebrew": "חרד, מודאג",
+      "explanation_hebrew": "מרגיש דאגה או מתח",
+      "pronunciation_hebrew": "אַנְקְשֶׁס",
+      "example": "She felt anxious before the results."
+    },
+    {
+      "word": "clinician",
+      "lemma": "clinician",
+      "level": "C1",
+      "hebrew": "איש צוות רפואי",
+      "explanation_hebrew": "רופא או מטפל שעובד ישירות עם חולים",
+      "pronunciation_hebrew": "קְלִינִישֶׁן",
+      "example": "The clinician explained the diagnosis."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "deteriorating",
+      "type": "english_to_hebrew",
+      "question": "What does “deteriorating” mean?",
+      "options": [
+        "מתדרדר, מחמיר",
+        "מחסור",
+        "פער, חוסר",
+        "אבחנתי"
+      ],
+      "correct_answer": "מתדרדר, מחמיר",
+      "explanation_hebrew": "“deteriorating” פירושו מתדרדר, מחמיר."
+    },
+    {
+      "id": "B-q2",
+      "word": "shortage",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״מחסור״?",
+      "options": [
+        "shortfall",
+        "specialise",
+        "shortage",
+        "diagnostic"
+      ],
+      "correct_answer": "shortage",
+      "explanation_hebrew": "המילה “shortage” פירושה מחסור."
+    },
+    {
+      "id": "B-q3",
+      "word": "shortfall",
+      "type": "english_to_hebrew",
+      "question": "What does “shortfall” mean?",
+      "options": [
+        "לאבחן",
+        "להתמחות",
+        "אבחנתי",
+        "פער, חוסר"
+      ],
+      "correct_answer": "פער, חוסר",
+      "explanation_hebrew": "“shortfall” פירושו פער, חוסר."
+    },
+    {
+      "id": "B-q4",
+      "word": "diagnostic",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״אבחנתי״?",
+      "options": [
+        "recruitment",
+        "diagnostic",
+        "specialise",
+        "diagnose"
+      ],
+      "correct_answer": "diagnostic",
+      "explanation_hebrew": "המילה “diagnostic” פירושה אבחנתי."
+    },
+    {
+      "id": "B-q5",
+      "word": "specialise",
+      "type": "english_to_hebrew",
+      "question": "What does “specialise” mean?",
+      "options": [
+        "גיוס עובדים",
+        "לאבחן",
+        "ניכר, משמעותי",
+        "להתמחות"
+      ],
+      "correct_answer": "להתמחות",
+      "explanation_hebrew": "“specialise” פירושו להתמחות."
+    },
+    {
+      "id": "B-q6",
+      "word": "diagnose",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״לאבחן״?",
+      "options": [
+        "stable",
+        "diagnose",
+        "recruitment",
+        "substantial"
+      ],
+      "correct_answer": "diagnose",
+      "explanation_hebrew": "המילה “diagnose” פירושה לאבחן."
+    },
+    {
+      "id": "B-q7",
+      "word": "recruitment",
+      "type": "english_to_hebrew",
+      "question": "What does “recruitment” mean?",
+      "options": [
+        "ניכר, משמעותי",
+        "בזמן, במועד הנכון",
+        "גיוס עובדים",
+        "יציב"
+      ],
+      "correct_answer": "גיוס עובדים",
+      "explanation_hebrew": "“recruitment” פירושו גיוס עובדים."
+    },
+    {
+      "id": "B-q8",
+      "word": "substantial",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״ניכר, משמעותי״?",
+      "options": [
+        "substantial",
+        "stable",
+        "spreading",
+        "timely"
+      ],
+      "correct_answer": "substantial",
+      "explanation_hebrew": "המילה “substantial” פירושה ניכר, משמעותי."
+    },
+    {
+      "id": "B-q9",
+      "word": "stable",
+      "type": "english_to_hebrew",
+      "question": "What does “stable” mean?",
+      "options": [
+        "מבלי שמבחינים",
+        "בזמן, במועד הנכון",
+        "יציב",
+        "מתפשט"
+      ],
+      "correct_answer": "יציב",
+      "explanation_hebrew": "“stable” פירושו יציב."
+    },
+    {
+      "id": "B-q10",
+      "word": "timely",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״בזמן, במועד הנכון״?",
+      "options": [
+        "spreading",
+        "trials",
+        "unnoticed",
+        "timely"
+      ],
+      "correct_answer": "timely",
+      "explanation_hebrew": "המילה “timely” פירושה בזמן, במועד הנכון."
+    },
+    {
+      "id": "B-q11",
+      "word": "spreading",
+      "type": "english_to_hebrew",
+      "question": "What does “spreading” mean?",
+      "options": [
+        "מתמשך, רצוף",
+        "מתפשט",
+        "ניסויים",
+        "מבלי שמבחינים"
+      ],
+      "correct_answer": "מתפשט",
+      "explanation_hebrew": "“spreading” פירושו מתפשט."
+    },
+    {
+      "id": "B-q12",
+      "word": "unnoticed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״מבלי שמבחינים״?",
+      "options": [
+        "threaten",
+        "continual",
+        "unnoticed",
+        "trials"
+      ],
+      "correct_answer": "unnoticed",
+      "explanation_hebrew": "המילה “unnoticed” פירושה מבלי שמבחינים."
+    },
+    {
+      "id": "B-q13",
+      "word": "trials",
+      "type": "english_to_hebrew",
+      "question": "What does “trials” mean?",
+      "options": [
+        "מתמשך, רצוף",
+        "ניסויים",
+        "לאחר מכן, בהמשך",
+        "לאיים, לסכן"
+      ],
+      "correct_answer": "ניסויים",
+      "explanation_hebrew": "“trials” פירושו ניסויים."
+    },
+    {
+      "id": "B-q14",
+      "word": "continual",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״מתמשך, רצוף״?",
+      "options": [
+        "horrific",
+        "continual",
+        "threaten",
+        "subsequently"
+      ],
+      "correct_answer": "continual",
+      "explanation_hebrew": "המילה “continual” פירושה מתמשך, רצוף."
+    },
+    {
+      "id": "B-q15",
+      "word": "threaten",
+      "type": "english_to_hebrew",
+      "question": "What does “threaten” mean?",
+      "options": [
+        "לאיים, לסכן",
+        "מזעזע, איום",
+        "לאחר מכן, בהמשך",
+        "נורא ואיום"
+      ],
+      "correct_answer": "לאיים, לסכן",
+      "explanation_hebrew": "“threaten” פירושו לאיים, לסכן."
+    },
+    {
+      "id": "B-q16",
+      "word": "subsequently",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״לאחר מכן, בהמשך״?",
+      "options": [
+        "subsequently",
+        "limbo",
+        "horrific",
+        "horrendous"
+      ],
+      "correct_answer": "subsequently",
+      "explanation_hebrew": "המילה “subsequently” פירושה לאחר מכן, בהמשך."
+    },
+    {
+      "id": "B-q17",
+      "word": "horrific",
+      "type": "english_to_hebrew",
+      "question": "What does “horrific” mean?",
+      "options": [
+        "רופא בכיר, יועץ",
+        "חוסר ודאות, המתנה",
+        "מזעזע, איום",
+        "נורא ואיום"
+      ],
+      "correct_answer": "מזעזע, איום",
+      "explanation_hebrew": "“horrific” פירושו מזעזע, איום."
+    },
+    {
+      "id": "B-q18",
+      "word": "horrendous",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״נורא ואיום״?",
+      "options": [
+        "consultant",
+        "limbo",
+        "horrendous",
+        "oncology"
+      ],
+      "correct_answer": "horrendous",
+      "explanation_hebrew": "המילה “horrendous” פירושה נורא ואיום."
+    },
+    {
+      "id": "B-q19",
+      "word": "limbo",
+      "type": "english_to_hebrew",
+      "question": "What does “limbo” mean?",
+      "options": [
+        "כוח אדם, עובדים",
+        "רופא בכיר, יועץ",
+        "אונקולוגיה",
+        "חוסר ודאות, המתנה"
+      ],
+      "correct_answer": "חוסר ודאות, המתנה",
+      "explanation_hebrew": "“limbo” פירושו חוסר ודאות, המתנה."
+    },
+    {
+      "id": "B-q20",
+      "word": "consultant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״רופא בכיר, יועץ״?",
+      "options": [
+        "prioritise",
+        "workforce",
+        "consultant",
+        "oncology"
+      ],
+      "correct_answer": "consultant",
+      "explanation_hebrew": "המילה “consultant” פירושה רופא בכיר, יועץ."
+    },
+    {
+      "id": "B-q21",
+      "word": "oncology",
+      "type": "english_to_hebrew",
+      "question": "What does “oncology” mean?",
+      "options": [
+        "לתעדף",
+        "אונקולוגיה",
+        "כוח אדם, עובדים",
+        "חרד, מודאג"
+      ],
+      "correct_answer": "אונקולוגיה",
+      "explanation_hebrew": "“oncology” פירושו אונקולוגיה."
+    },
+    {
+      "id": "B-q22",
+      "word": "workforce",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״כוח אדם, עובדים״?",
+      "options": [
+        "prioritise",
+        "anxious",
+        "clinician",
+        "workforce"
+      ],
+      "correct_answer": "workforce",
+      "explanation_hebrew": "המילה “workforce” פירושה כוח אדם, עובדים."
+    },
+    {
+      "id": "B-q23",
+      "word": "prioritise",
+      "type": "english_to_hebrew",
+      "question": "What does “prioritise” mean?",
+      "options": [
+        "לתעדף",
+        "מתדרדר, מחמיר",
+        "איש צוות רפואי",
+        "חרד, מודאג"
+      ],
+      "correct_answer": "לתעדף",
+      "explanation_hebrew": "“prioritise” פירושו לתעדף."
+    },
+    {
+      "id": "B-q24",
+      "word": "anxious",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית מתאימה ל״חרד, מודאג״?",
+      "options": [
+        "anxious",
+        "deteriorating",
+        "clinician",
+        "shortage"
+      ],
+      "correct_answer": "anxious",
+      "explanation_hebrew": "המילה “anxious” פירושה חרד, מודאג."
+    },
+    {
+      "id": "B-q25",
+      "word": "clinician",
+      "type": "english_to_hebrew",
+      "question": "What does “clinician” mean?",
+      "options": [
+        "מחסור",
+        "פער, חוסר",
+        "מתדרדר, מחמיר",
+        "איש צוות רפואי"
+      ],
+      "correct_answer": "איש צוות רפואי",
+      "explanation_hebrew": "“clinician” פירושו איש צוות רפואי."
+    }
+  ]
+}
