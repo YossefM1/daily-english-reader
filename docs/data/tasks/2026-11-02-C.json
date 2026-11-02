@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-02",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+  "article_url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What political and diplomatic tension does the article examine?",
+      "difficulty": "C",
+      "options": [
+        "Whether Antigua should leave the Commonwealth immediately",
+        "How the King will acknowledge slavery's legacy while a possible UK apology remains a government policy decision",
+        "Whether the Commonwealth should stop discussing trade and investment",
+        "How Buckingham Palace plans to announce reparation payments"
+      ],
+      "correct_answer": "How the King will acknowledge slavery's legacy while a possible UK apology remains a government policy decision",
+      "explanation_hebrew": "הכתבה בוחנת כיצד המלך ידבר בכנות ובצער על מורשת העבדות, בעוד שהתנצלות רשמית ופיצויים הם עניין למדיניות הממשלה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What change did Prime Minister Andy Burnham signal?",
+      "difficulty": "C",
+      "options": [
+        "He promised immediate reparation payments.",
+        "He rejected all further discussion of slavery.",
+        "He said he was open to a possible formal UK apology for its role in slavery.",
+        "He asked the King to cancel his CHOGM speech."
+      ],
+      "correct_answer": "He said he was open to a possible formal UK apology for its role in slavery.",
+      "explanation_hebrew": "ברנהם אמר שהוא פתוח לאפשרות של התנצלות רשמית — שינוי לעומת עמדת הממשלה הקודמת."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “unflinching honesty” suggest about the King's planned remarks?",
+      "difficulty": "C",
+      "options": [
+        "He will avoid any reference to painful history.",
+        "He will address difficult facts directly without shrinking from them.",
+        "He will announce a legally binding policy.",
+        "He will speak only about future trade."
+      ],
+      "correct_answer": "He will address difficult facts directly without shrinking from them.",
+      "explanation_hebrew": "unflinching honesty מתארת כנות שאינה נסוגה מול עובדות קשות או כואבות."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What position did Antigua and Barbuda's Prime Minister Gaston Browne express?",
+      "difficulty": "C",
+      "options": [
+        "The consequences of slavery have disappeared and require no further discussion.",
+        "Reparatory justice should be discussed seriously, sensitively and through sustained international engagement.",
+        "Only the Palace should decide whether Britain apologises.",
+        "The country should withdraw from CHOGM."
+      ],
+      "correct_answer": "Reparatory justice should be discussed seriously, sensitively and through sustained international engagement.",
+      "explanation_hebrew": "בראון אמר שהשלכות העבדות לא נעלמו ושחתירה לצדק מתקן דורשת רצינות, רגישות ומעורבות בינלאומית מתמשכת."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the Palace distinguish the King's speech from the government's position?",
+      "difficulty": "C",
+      "options": [
+        "The monarch can express sorrow and acknowledge history, but formal apologies and reparations are policy matters for elected government.",
+        "The King was not informed that CHOGM would discuss slavery.",
+        "Buckingham Palace controls all bilateral negotiations.",
+        "The government prohibited the King from mentioning colonial history."
+      ],
+      "correct_answer": "The monarch can express sorrow and acknowledge history, but formal apologies and reparations are policy matters for elected government.",
+      "explanation_hebrew": "הארמון מדגיש שהמלך יכול להכיר בסבל ההיסטורי, אך החלטה על התנצלות רשמית או פיצויים שייכת לממשלה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the phrase “diplomatic tightrope” mean in this article?",
+      "difficulty": "C",
+      "options": [
+        "A ceremonial performance during Independence Day",
+        "A dangerous physical route across Antigua",
+        "A carefully balanced approach to competing political sensitivities",
+        "A legal requirement imposed by the Commonwealth"
+      ],
+      "correct_answer": "A carefully balanced approach to competing political sensitivities",
+      "explanation_hebrew": "הביטוי מתאר צורך לשמור על איזון עדין בין הכרה בעבר, תפקיד המלוכה, עמדת הממשלה ויחסי חבר העמים."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three examples from the Caribbean tour showing how the King engaged with slavery and colonial history.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלוש פעולות או התבטאויות שונות מן הסיור ובמקומות המתאימים.",
+      "expected_points": [
+        "In the Bahamas he spoke about the suffering of the past.",
+        "In Guyana he visited the site of a slave rebellion where hundreds of enslaved people were killed.",
+        "In Antigua he planned to address Commonwealth leaders with honesty and sorrow about the transatlantic slave trade.",
+        "The Palace said the Guyana visit was intended to deepen his understanding of slavery and resistance."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Compare the arguments of Gaston Browne and Kemi Badenoch about how the Commonwealth should treat the legacy of slavery.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג במדויק את שתי העמדות, את הערכים שמאחוריהן ואת נקודת המחלוקת המרכזית.",
+      "expected_points": [
+        "Browne argues that slavery's consequences remain present and that reparatory justice needs sustained, serious engagement.",
+        "Badenoch describes repeated discussion of apologies as a distraction from present problems.",
+        "Their disagreement concerns whether confronting historic responsibility is necessary for current justice or diverts attention from the future.",
+        "Both positions are framed within debate about the Commonwealth's priorities."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the debate over the King's speech, a possible UK apology and the Commonwealth meeting in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "הסיכום צריך להבחין בין המלך לממשלה, לכלול את עמדות ברנהם ובראון, תגובת האופוזיציה ומטרת CHOGM.",
+      "expected_points": [
+        "The King will acknowledge the lasting pain of slavery at CHOGM with sorrow and directness.",
+        "Burnham said he is open to a formal UK apology, although Britain has never formally apologised or offered reparations.",
+        "Antigua's prime minister calls for sustained engagement on reparatory justice, while Badenoch argues that apology debates distract from current problems.",
+        "The Palace stresses that policy belongs to government and the King must balance complex relationships.",
+        "CHOGM also focuses on partnership, investment and shared prosperity among 56 states."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short analytical paragraph explaining why “shared prosperity” is relevant to the slavery debate at CHOGM.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשור בין ההיסטוריה, אי־שוויון מתמשך, שותפות הוגנת ונושא הכנס, תוך הימנעות מהצגת עמדה שלא מופיעה בכתבה כעובדה.",
+      "expected_points": [
+        "The history of slavery shapes present calls for reparatory justice and fair relationships.",
+        "Bishop Flemming said true partnership requires mutual respect, listening and fairness.",
+        "A prosperity agenda may be judged by whether benefits and opportunities are shared among Commonwealth members.",
+        "The connection explains why historical accountability and current investment are discussed in the same diplomatic setting."
+      ]
+    }
+  ]
+}

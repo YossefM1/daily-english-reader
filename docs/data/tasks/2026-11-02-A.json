@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-02",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Karl Bushby 'overwhelmed' at Humber Bridge welcome",
+  "article_url": "https://www.bbc.co.uk/news/articles/c9146yve236lo",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "Karl Bushby received an emotional welcome near the end of a 28-year walk from South America to Hull.",
+        "Karl Bushby announced that he would begin a new journey across Chile.",
+        "The Humber Bridge was closed permanently because of thick mist.",
+        "A former paratrooper completed a record-breaking car journey."
+      ],
+      "correct_answer": "Karl Bushby received an emotional welcome near the end of a 28-year walk from South America to Hull.",
+      "explanation_hebrew": "הכתבה מתמקדת בקבלת הפנים המרגשת שקארל בושבי קיבל כשהתקרב לסיום מסע רגלי שנמשך 28 שנה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which two rules did Bushby set for his journey?",
+      "difficulty": "A",
+      "options": [
+        "He would travel only at night and carry no money.",
+        "He would not return to the UK before completing the journey and would not use transport to advance.",
+        "He would avoid bridges and cross every river by boat.",
+        "He would visit only countries where English is spoken."
+      ],
+      "correct_answer": "He would not return to the UK before completing the journey and would not use transport to advance.",
+      "explanation_hebrew": "בושבי קבע שלא יחזור לבריטניה לפני השלמת המסע ושלא ישתמש בתחבורה כדי להתקדם בו."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “final leg” mean?",
+      "difficulty": "A",
+      "options": [
+        "An injury that stopped the walk",
+        "The longest continent in the journey",
+        "The last section of a journey",
+        "A special type of bridge crossing"
+      ],
+      "correct_answer": "The last section of a journey",
+      "explanation_hebrew": "הביטוי final leg מתאר את הקטע האחרון במסע, ולא פגיעה גופנית ברגל."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why is the Humber Bridge especially meaningful to Bushby?",
+      "difficulty": "A",
+      "options": [
+        "He helped design it before leaving Britain.",
+        "His son was born on the bridge.",
+        "It was the only bridge he crossed in 28 years.",
+        "It remained an iconic, almost symbolic memory from his early test walk."
+      ],
+      "correct_answer": "It remained an iconic, almost symbolic memory from his early test walk.",
+      "explanation_hebrew": "בושבי אמר שכמעט אינו זוכר את הליכת הניסיון המוקדמת שלו, מלבד גשר האמבר, שנשאר עבורו סמל ואיקון."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What had Bushby achieved by the time he crossed the Humber Bridge?",
+      "difficulty": "A",
+      "options": [
+        "He had travelled about 31,000 miles over 28 years and crossed four continents.",
+        "He had driven from Chile to Hull in one year.",
+        "He had completed the journey without ever crossing water.",
+        "He had walked only through Europe and South America."
+      ],
+      "correct_answer": "He had travelled about 31,000 miles over 28 years and crossed four continents.",
+      "explanation_hebrew": "הכתבה מתארת מסע של כ־31 אלף מייל במשך 28 שנה, שכלל ארבע יבשות וגם ים קפוא, מדבריות, הרים וג'ונגלים."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Bushby mean when he calls his cart “my Wilson”?",
+      "difficulty": "A",
+      "options": [
+        "The cart was built by a company called Wilson.",
+        "The cart is a companion he has relied on, like the volleyball in Cast Away.",
+        "The cart belongs to his son Wilson.",
+        "The cart is used only when he crosses water."
+      ],
+      "correct_answer": "The cart is a companion he has relied on, like the volleyball in Cast Away.",
+      "explanation_hebrew": "ההשוואה ל־Wilson מהסרט Cast Away מציגה את העגלה כבת לוויה קבועה במסע הארוך."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe three major stages or achievements in Bushby's journey from Chile to Hull.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה שלבים מדויקים בסדר כרונולוגי ככל האפשר.",
+      "expected_points": [
+        "He left Punta Arenas, Chile, in 1998 with little money and headed north.",
+        "He crossed four continents as well as a frozen sea, deserts, mountains and jungles.",
+        "He swam across the English Channel on 5 October.",
+        "He crossed the Humber Bridge on the final leg before walking from Hessle into Hull."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why did the crowds on the Humber Bridge make Bushby stop and think about the meaning of his journey?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הפער בין האופן הצנוע שבו הוא מתאר את עצמו לבין תגובת הציבור, ולבסס על דבריו.",
+      "expected_points": [
+        "Bushby described himself modestly as a homeless man pushing a shopping trolley.",
+        "He did not expect such a large public welcome before even reaching home.",
+        "The crowd showed that his personal endurance story had become meaningful to many other people.",
+        "The bridge already carried strong personal symbolism for him."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Bushby's journey, his rules and his homecoming in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את נקודת ההתחלה, משך ומרחק המסע, שני הכללים וקבלת הפנים.",
+      "expected_points": [
+        "Bushby left Chile in 1998 and spent 28 years travelling roughly 31,000 miles toward Hull.",
+        "He promised not to return to the UK before completing the journey and not to use transport to advance.",
+        "His route crossed four continents and many extreme landscapes.",
+        "Crowds welcomed him at the Humber Bridge before his final walk to his mother's home."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short welcome message for Bushby's reception in Queen Victoria Square.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב מסר קצר וחגיגי המבוסס על עובדות מדויקות מהכתבה, ללא המצאת שיאים או פרסים.",
+      "expected_points": [
+        "Welcome Bushby back to Hull after 28 years.",
+        "Mention the long journey from Chile and his persistence.",
+        "Refer to the Humber Bridge or the support of the local crowd.",
+        "Use warm but factual language."
+      ]
+    }
+  ]
+}

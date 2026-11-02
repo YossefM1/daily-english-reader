@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-02",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Cancer patients 'deteriorating' due to staff shortages, radiologists warn",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmly0xle2rddo",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central issue in the article?",
+      "difficulty": "B",
+      "options": [
+        "Wales has stopped offering cancer scans.",
+        "A shortage of radiologists in Wales is delaying scans and may allow some patients' conditions to worsen.",
+        "Cancer support groups are replacing NHS hospitals.",
+        "Medical trials have eliminated the need for radiology."
+      ],
+      "correct_answer": "A shortage of radiologists in Wales is delaying scans and may allow some patients' conditions to worsen.",
+      "explanation_hebrew": "הכתבה עוסקת במחסור ברדיולוגים בוויילס ובהשפעתו האפשרית על זמני הסריקות, האבחון והטיפול בחולי סרטן."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How large is the overall radiologist shortfall reported for NHS Wales?",
+      "difficulty": "B",
+      "options": [
+        "22 doctors, or 5%",
+        "42 doctors, or 14%",
+        "88 doctors, or 28%",
+        "170 doctors, or 50%"
+      ],
+      "correct_answer": "88 doctors, or 28%",
+      "explanation_hebrew": "הקולג' המלכותי לרדיולוגים דיווח שחסרים ב־NHS Wales שמונים ושמונה רדיולוגים, שהם מחסור של 28%."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “deteriorating” mean when describing patients' conditions?",
+      "difficulty": "B",
+      "options": [
+        "Becoming worse",
+        "Remaining completely stable",
+        "Being diagnosed earlier",
+        "Responding successfully to treatment"
+      ],
+      "correct_answer": "Becoming worse",
+      "explanation_hebrew": "בהקשר הרפואי deteriorating פירושו שמצבו של המטופל מחמיר בזמן ההמתנה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why are timely scans particularly important for Beverly Scott?",
+      "difficulty": "B",
+      "options": [
+        "She has never received a cancer diagnosis.",
+        "She needs a scan only to join a support group.",
+        "Her cancer is stable with continual treatment, but a delay could let spreading go unnoticed.",
+        "She plans to stop all treatment if a scan is clear."
+      ],
+      "correct_answer": "Her cancer is stable with continual treatment, but a delay could let spreading go unnoticed.",
+      "explanation_hebrew": "הטיפול המתמשך שומר את מחלתה יציבה, אך ללא סריקות בזמן התפשטות עלולה שלא להתגלות ולהפחית את יעילות הטיפול."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does the shortage differ between regions of Wales?",
+      "difficulty": "B",
+      "options": [
+        "North and west Wales have a 42% consultant-radiologist shortfall, compared with 22% in south Wales.",
+        "South Wales has no radiologists, while north Wales has a surplus.",
+        "Every region has exactly the same 28% shortage.",
+        "Only west Wales is affected by recruitment freezes."
+      ],
+      "correct_answer": "North and west Wales have a 42% consultant-radiologist shortfall, compared with 22% in south Wales.",
+      "explanation_hebrew": "לפי המפקד, המחסור בצפון ובמערב ויילס הוא 42%, לעומת 22% בדרום ויילס."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Karen Jones mean when she says patients are “in total limbo” while waiting for results?",
+      "difficulty": "B",
+      "options": [
+        "They are receiving immediate treatment.",
+        "They are uncertain and unable to know what happens next.",
+        "They have been transferred abroad.",
+        "They no longer need medical appointments."
+      ],
+      "correct_answer": "They are uncertain and unable to know what happens next.",
+      "explanation_hebrew": "הביטוי in limbo מתאר מצב של אי־ודאות והמתנה ללא תשובה ברורה או יכולת להתקדם."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three measures Betsi Cadwaladr health board says it is taking to address the pressure.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה צעדים קונקרטיים שמופיעים בכתבה.",
+      "expected_points": [
+        "It is actively recruiting in radiology and oncology.",
+        "It is strengthening links with North Wales Medical School for future workforce development.",
+        "It has introduced nurse-led clinics and specialist metastatic teams.",
+        "It prioritises patients by clinical need and monitors reporting times.",
+        "It partnered with a third-party provider to help reduce waiting times."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How do delayed scan reports affect both patients and clinicians?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את ההשפעה על שתי הקבוצות ולהביא ראיות מהעדויות בכתבה.",
+      "expected_points": [
+        "Patients experience anxiety and uncertainty about whether cancer has spread or returned.",
+        "A delay can allow disease to progress before treatment is adjusted.",
+        "Clinicians may have to tell patients they cannot assess treatment without the report.",
+        "Appointments may be cancelled, repeatedly placing staff in distressing conversations."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence, patient experiences and NHS response in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "הסיכום צריך לכלול נתון מחסור, עדות מטופל, פער אזורי, תגובת הרשות וסיבה מערכתית אחת.",
+      "expected_points": [
+        "NHS Wales is short of 88 radiologists, a 28% gap, and the Royal College says some patients deteriorate while waiting.",
+        "Patients describe anxiety and fear that cancer may spread unnoticed.",
+        "North and west Wales face a larger consultant shortfall than south Wales.",
+        "Betsi Cadwaladr says recruitment, nurse-led services and external reporting support have improved waiting times.",
+        "Recruitment freezes and slow workforce growth continue to limit capacity."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short briefing recommending one immediate and one long-term response to the radiology shortage.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע צעד מיידי וצעד ארוך טווח המבוססים על הכתבה ולהסביר בקצרה את מטרת כל אחד.",
+      "expected_points": [
+        "An immediate response could prioritise urgent scans, use monitored third-party reporting or expand nurse-led support.",
+        "A long-term response could recruit and train more radiologists through links with the medical school.",
+        "Explain that the immediate step reduces dangerous delays while training addresses the workforce gap.",
+        "Acknowledge the need to monitor safety and reporting times."
+      ]
+    }
+  ]
+}
