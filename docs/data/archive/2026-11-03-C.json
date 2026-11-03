@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-03",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o",
+  "published_at": "2026-11-02T23:02:01+00:00",
+  "age_hours_at_selection": 3.29,
+  "word_count": 1153,
+  "generated_at": "2026-11-03T02:19:28.763473+00:00",
+  "difficulty_reason": "Dense analytical piece on regional diplomacy and the environment, with long sentences, quoted experts and considerable background knowledge; B2/C1/C2 vocabulary.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "billowing",
+      "lemma": "billow",
+      "level": "C1",
+      "hebrew": "מִתְאַבֵּךְ, מִתְגַּלְגֵּל",
+      "explanation_hebrew": "עוֹלֶה וּמִתְפַּשֵּׁט בְּגַלִּים גְּדוֹלִים",
+      "pronunciation_hebrew": "בִּילוֹאִינְג",
+      "example": "Smoke was billowing from the fire."
+    },
+    {
+      "word": "toxic",
+      "lemma": "toxic",
+      "level": "B2",
+      "hebrew": "רַעִיל",
+      "explanation_hebrew": "מְסֻכָּן לַבְּרִיאוּת אוֹ מַרְעִיל",
+      "pronunciation_hebrew": "טוֹקְסִיק",
+      "example": "The factory released toxic fumes."
+    },
+    {
+      "word": "maritime",
+      "lemma": "maritime",
+      "level": "C1",
+      "hebrew": "יַמִּי, חוֹפִי",
+      "explanation_hebrew": "קָשׁוּר לַיָּם אוֹ לַשַּׁיִט",
+      "pronunciation_hebrew": "מַרִיטַיְם",
+      "example": "The country has a long maritime border."
+    },
+    {
+      "word": "triggering",
+      "lemma": "trigger",
+      "level": "B2",
+      "hebrew": "מְעוֹרֵר, מַפְעִיל",
+      "explanation_hebrew": "גּוֹרֵם לְמַשֶּׁהוּ לְהַתְחִיל לִקְרוֹת",
+      "pronunciation_hebrew": "טְרִיגֶרִינְג",
+      "example": "The dust is triggering allergies."
+    },
+    {
+      "word": "respiratory",
+      "lemma": "respiratory",
+      "level": "C1",
+      "hebrew": "נְשִׁימָתִי",
+      "explanation_hebrew": "קָשׁוּר לַמַּעֲרֶכֶת הַנְּשִׁימָה",
+      "pronunciation_hebrew": "רֶסְפִּירָטוֹרִי",
+      "example": "Smoke can cause respiratory problems."
+    },
+    {
+      "word": "souring",
+      "lemma": "sour",
+      "level": "C1",
+      "hebrew": "הַחְמָצָה, הַרָעַת יְחָסִים",
+      "explanation_hebrew": "גּוֹרֵם לִיחָסִים לְהַחְמִיר",
+      "pronunciation_hebrew": "סַאוּאֶרִינְג",
+      "example": "The dispute is souring their friendship."
+    },
+    {
+      "word": "diplomatic",
+      "lemma": "diplomatic",
+      "level": "B2",
+      "hebrew": "דִּיפְּלוֹמָטִי",
+      "explanation_hebrew": "קָשׁוּר לִיחָסִים בֵּין מְדִינוֹת",
+      "pronunciation_hebrew": "דִיפְּלוֹמַאטִיק",
+      "example": "They held diplomatic talks."
+    },
+    {
+      "word": "ample",
+      "lemma": "ample",
+      "level": "C1",
+      "hebrew": "רַב, בְּשֶׁפַע",
+      "explanation_hebrew": "כַּמּוּת גְּדוֹלָה וּמַסְפֶּקֶת",
+      "pronunciation_hebrew": "אַמְפְּל",
+      "example": "There is ample room for everyone."
+    },
+    {
+      "word": "occurrence",
+      "lemma": "occurrence",
+      "level": "B2",
+      "hebrew": "הִתְרַחֲשׁוּת, מִקְרֶה",
+      "explanation_hebrew": "דָּבָר שֶׁקּוֹרֶה אוֹ מִתְרַחֵשׁ",
+      "pronunciation_hebrew": "אוֹקַאְרֶנְס",
+      "example": "Floods are a common occurrence here."
+    },
+    {
+      "word": "exacerbated",
+      "lemma": "exacerbate",
+      "level": "C2",
+      "hebrew": "הֶחְמִיר, הֶגְבִּיר",
+      "explanation_hebrew": "גָּרַם לְמַצָּב גָּרוּעַ לִהְיוֹת גָּרוּעַ עוֹד יוֹתֵר",
+      "pronunciation_hebrew": "אֶגְזַאסֶרְבֵּייְטֶד",
+      "example": "The drought exacerbated the problem."
+    },
+    {
+      "word": "drought",
+      "lemma": "drought",
+      "level": "B2",
+      "hebrew": "בַּצּוֹרֶת",
+      "explanation_hebrew": "תְּקוּפָה אֲרֻכָּה בְּלִי גֶּשֶׁם",
+      "pronunciation_hebrew": "דְּרַאוּט",
+      "example": "The long drought ruined the crops."
+    },
+    {
+      "word": "boycott",
+      "lemma": "boycott",
+      "level": "B2",
+      "hebrew": "חֵרֶם",
+      "explanation_hebrew": "סֵרוּב מְאֻרְגָּן לִקְנוֹת אוֹ לְהִשְׁתַּתֵּף",
+      "pronunciation_hebrew": "בּוֹיְקוֹט",
+      "example": "They called for a boycott of the brand."
+    },
+    {
+      "word": "sanctions",
+      "lemma": "sanction",
+      "level": "B2",
+      "hebrew": "סַנְקְצִיּוֹת, צַעֲדֵי עֹנֶשׁ",
+      "explanation_hebrew": "צַעֲדֵי עֹנֶשׁ נֶגֶד מְדִינָה אוֹ חֶבְרָה",
+      "pronunciation_hebrew": "סַאנְקְשַׁנְז",
+      "example": "The government imposed new sanctions."
+    },
+    {
+      "word": "outcast",
+      "lemma": "outcast",
+      "level": "C1",
+      "hebrew": "מְנֻדֶּה, דָּחוּי",
+      "explanation_hebrew": "מִי שֶׁנִּדְחֶה מֵהַחֶבְרָה",
+      "pronunciation_hebrew": "אַאוּטְקַאסְט",
+      "example": "He felt like an outcast at school."
+    },
+    {
+      "word": "seamless",
+      "lemma": "seamless",
+      "level": "C1",
+      "hebrew": "חָלָק, רָצִיף",
+      "explanation_hebrew": "פּוֹעֵל בְּצוּרָה חֲלָקָה בְּלִי תְּקָלוֹת",
+      "pronunciation_hebrew": "סִימְלֶס",
+      "example": "The transition was seamless."
+    },
+    {
+      "word": "dilemma",
+      "lemma": "dilemma",
+      "level": "B2",
+      "hebrew": "דִּילֶמָה, הִתְלַבְּטוּת",
+      "explanation_hebrew": "בְּחִירָה קָשָׁה בֵּין שְׁתֵּי אֶפְשָׁרֻיּוֹת",
+      "pronunciation_hebrew": "דִילֶמָה",
+      "example": "She faced a difficult dilemma."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פָּגִיעַ, חָשׂוּף",
+      "explanation_hebrew": "קַל לִפְגֹּעַ בּוֹ אוֹ לְהַזִּיק לוֹ",
+      "pronunciation_hebrew": "וַאלְנֶרַבְּל",
+      "example": "Children are especially vulnerable."
+    },
+    {
+      "word": "legislation",
+      "lemma": "legislation",
+      "level": "C1",
+      "hebrew": "חֲקִיקָה",
+      "explanation_hebrew": "חֻקִּים שֶׁנֶּחְקְקוּ עַל יְדֵי מְדִינָה",
+      "pronunciation_hebrew": "לֶגִ'יסְלֵיְשַׁן",
+      "example": "New legislation was passed."
+    },
+    {
+      "word": "simmering",
+      "lemma": "simmer",
+      "level": "C1",
+      "hebrew": "מְבַעְבֵּעַ, מַחְרִיף בַּסֵּתֶר",
+      "explanation_hebrew": "מֶתַח אוֹ כַּעַס שֶׁמִּתְקַיֵּם בְּלִי לְהִתְפָּרֵץ",
+      "pronunciation_hebrew": "סִימֶרִינְג",
+      "example": "There were simmering tensions between them."
+    },
+    {
+      "word": "beleaguered",
+      "lemma": "beleaguer",
+      "level": "C2",
+      "hebrew": "נָתוּן בְּלַחַץ, מֻקָּף קְשָׁיִים",
+      "explanation_hebrew": "סוֹבֵל מִלְּחָצִים וּבְעָיוֹת רַבִּים",
+      "pronunciation_hebrew": "בִּילִיגֶרְד",
+      "example": "The beleaguered leader faced more criticism."
+    },
+    {
+      "word": "rebuke",
+      "lemma": "rebuke",
+      "level": "C1",
+      "hebrew": "נְזִיפָה, גְּעָרָה",
+      "explanation_hebrew": "בִּיקֹּרֶת חֲרִיפָה עַל מַשֶּׁהוּ שֶׁנַּעֲשָׂה",
+      "pronunciation_hebrew": "רִיבְּיוּק",
+      "example": "The minister issued a sharp rebuke."
+    },
+    {
+      "word": "prowess",
+      "lemma": "prowess",
+      "level": "C2",
+      "hebrew": "מְיֻמָּנוּת רַבָּה, כֹּשֶׁר",
+      "explanation_hebrew": "יְכֹלֶת אוֹ כִּשְׁרוֹן בּוֹלֵט בִּתְחוּם מְסֻיָּם",
+      "pronunciation_hebrew": "פְּרַאוּאֶס",
+      "example": "She is known for her diplomatic prowess."
+    },
+    {
+      "word": "retaliation",
+      "lemma": "retaliation",
+      "level": "C1",
+      "hebrew": "תְּגוּבַת נֶגֶד, גְּמוּל",
+      "explanation_hebrew": "פְּעֻלָּה שֶׁנַּעֲשֵׂית כְּתַגּוּבָה לִפְגִיעָה",
+      "pronunciation_hebrew": "רִיטַלִיֵיְשַׁן",
+      "example": "The attack was seen as retaliation."
+    },
+    {
+      "word": "toothless",
+      "lemma": "toothless",
+      "level": "C1",
+      "hebrew": "חֲסַר שִׁנַּיִם, לְלֹא כֹּחַ",
+      "explanation_hebrew": "חֹק אוֹ גּוּף שֶׁאֵין לוֹ כֹּחַ אֲמִתִּי",
+      "pronunciation_hebrew": "טוּתְלֶס",
+      "example": "The law proved to be toothless."
+    },
+    {
+      "word": "leverage",
+      "lemma": "leverage",
+      "level": "C1",
+      "hebrew": "מִנּוּף, כֹּחַ הַשְׁפָּעָה",
+      "explanation_hebrew": "יְכֹלֶת לְהַשְׁפִּיעַ אוֹ לִלְחֹץ עַל מִישֶׁהוּ",
+      "pronunciation_hebrew": "לִיבֶרִידְ'ְ",
+      "example": "They used their leverage in the talks."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "billowing",
+      "type": "english_to_hebrew",
+      "question": "What does “billowing” mean?",
+      "options": [
+        "רַעִיל",
+        "מִתְאַבֵּךְ, מִתְגַּלְגֵּל",
+        "יַמִּי, חוֹפִי",
+        "מְעוֹרֵר, מַפְעִיל"
+      ],
+      "correct_answer": "מִתְאַבֵּךְ, מִתְגַּלְגֵּל",
+      "explanation_hebrew": "“billowing” פֵּירוּשׁוֹ מִתְאַבֵּךְ, מִתְגַּלְגֵּל."
+    },
+    {
+      "id": "C-q2",
+      "word": "toxic",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “רַעִיל”?",
+      "options": [
+        "maritime",
+        "toxic",
+        "triggering",
+        "respiratory"
+      ],
+      "correct_answer": "toxic",
+      "explanation_hebrew": "הַמִּלָּה “toxic” פֵּירוּשׁוֹ רַעִיל."
+    },
+    {
+      "id": "C-q3",
+      "word": "maritime",
+      "type": "english_to_hebrew",
+      "question": "What does “maritime” mean?",
+      "options": [
+        "הַחְמָצָה, הַרָעַת יְחָסִים",
+        "יַמִּי, חוֹפִי",
+        "נְשִׁימָתִי",
+        "מְעוֹרֵר, מַפְעִיל"
+      ],
+      "correct_answer": "יַמִּי, חוֹפִי",
+      "explanation_hebrew": "“maritime” פֵּירוּשׁוֹ יַמִּי, חוֹפִי."
+    },
+    {
+      "id": "C-q4",
+      "word": "triggering",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “מְעוֹרֵר, מַפְעִיל”?",
+      "options": [
+        "respiratory",
+        "souring",
+        "triggering",
+        "diplomatic"
+      ],
+      "correct_answer": "triggering",
+      "explanation_hebrew": "הַמִּלָּה “triggering” פֵּירוּשׁוֹ מְעוֹרֵר, מַפְעִיל."
+    },
+    {
+      "id": "C-q5",
+      "word": "respiratory",
+      "type": "english_to_hebrew",
+      "question": "What does “respiratory” mean?",
+      "options": [
+        "הַחְמָצָה, הַרָעַת יְחָסִים",
+        "נְשִׁימָתִי",
+        "דִּיפְּלוֹמָטִי",
+        "רַב, בְּשֶׁפַע"
+      ],
+      "correct_answer": "נְשִׁימָתִי",
+      "explanation_hebrew": "“respiratory” פֵּירוּשׁוֹ נְשִׁימָתִי."
+    },
+    {
+      "id": "C-q6",
+      "word": "souring",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “הַחְמָצָה, הַרָעַת יְחָסִים”?",
+      "options": [
+        "souring",
+        "occurrence",
+        "diplomatic",
+        "ample"
+      ],
+      "correct_answer": "souring",
+      "explanation_hebrew": "הַמִּלָּה “souring” פֵּירוּשׁוֹ הַחְמָצָה, הַרָעַת יְחָסִים."
+    },
+    {
+      "id": "C-q7",
+      "word": "diplomatic",
+      "type": "english_to_hebrew",
+      "question": "What does “diplomatic” mean?",
+      "options": [
+        "דִּיפְּלוֹמָטִי",
+        "רַב, בְּשֶׁפַע",
+        "הִתְרַחֲשׁוּת, מִקְרֶה",
+        "הֶחְמִיר, הֶגְבִּיר"
+      ],
+      "correct_answer": "דִּיפְּלוֹמָטִי",
+      "explanation_hebrew": "“diplomatic” פֵּירוּשׁוֹ דִּיפְּלוֹמָטִי."
+    },
+    {
+      "id": "C-q8",
+      "word": "ample",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “רַב, בְּשֶׁפַע”?",
+      "options": [
+        "occurrence",
+        "exacerbated",
+        "drought",
+        "ample"
+      ],
+      "correct_answer": "ample",
+      "explanation_hebrew": "הַמִּלָּה “ample” פֵּירוּשׁוֹ רַב, בְּשֶׁפַע."
+    },
+    {
+      "id": "C-q9",
+      "word": "occurrence",
+      "type": "english_to_hebrew",
+      "question": "What does “occurrence” mean?",
+      "options": [
+        "בַּצּוֹרֶת",
+        "הִתְרַחֲשׁוּת, מִקְרֶה",
+        "חֵרֶם",
+        "הֶחְמִיר, הֶגְבִּיר"
+      ],
+      "correct_answer": "הִתְרַחֲשׁוּת, מִקְרֶה",
+      "explanation_hebrew": "“occurrence” פֵּירוּשׁוֹ הִתְרַחֲשׁוּת, מִקְרֶה."
+    },
+    {
+      "id": "C-q10",
+      "word": "exacerbated",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “הֶחְמִיר, הֶגְבִּיר”?",
+      "options": [
+        "exacerbated",
+        "boycott",
+        "drought",
+        "sanctions"
+      ],
+      "correct_answer": "exacerbated",
+      "explanation_hebrew": "הַמִּלָּה “exacerbated” פֵּירוּשׁוֹ הֶחְמִיר, הֶגְבִּיר."
+    },
+    {
+      "id": "C-q11",
+      "word": "drought",
+      "type": "english_to_hebrew",
+      "question": "What does “drought” mean?",
+      "options": [
+        "חֵרֶם",
+        "מְנֻדֶּה, דָּחוּי",
+        "סַנְקְצִיּוֹת, צַעֲדֵי עֹנֶשׁ",
+        "בַּצּוֹרֶת"
+      ],
+      "correct_answer": "בַּצּוֹרֶת",
+      "explanation_hebrew": "“drought” פֵּירוּשׁוֹ בַּצּוֹרֶת."
+    },
+    {
+      "id": "C-q12",
+      "word": "boycott",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “חֵרֶם”?",
+      "options": [
+        "seamless",
+        "sanctions",
+        "outcast",
+        "boycott"
+      ],
+      "correct_answer": "boycott",
+      "explanation_hebrew": "הַמִּלָּה “boycott” פֵּירוּשׁוֹ חֵרֶם."
+    },
+    {
+      "id": "C-q13",
+      "word": "sanctions",
+      "type": "english_to_hebrew",
+      "question": "What does “sanctions” mean?",
+      "options": [
+        "דִּילֶמָה, הִתְלַבְּטוּת",
+        "חָלָק, רָצִיף",
+        "מְנֻדֶּה, דָּחוּי",
+        "סַנְקְצִיּוֹת, צַעֲדֵי עֹנֶשׁ"
+      ],
+      "correct_answer": "סַנְקְצִיּוֹת, צַעֲדֵי עֹנֶשׁ",
+      "explanation_hebrew": "“sanctions” פֵּירוּשׁוֹ סַנְקְצִיּוֹת, צַעֲדֵי עֹנֶשׁ."
+    },
+    {
+      "id": "C-q14",
+      "word": "outcast",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “מְנֻדֶּה, דָּחוּי”?",
+      "options": [
+        "vulnerable",
+        "seamless",
+        "outcast",
+        "dilemma"
+      ],
+      "correct_answer": "outcast",
+      "explanation_hebrew": "הַמִּלָּה “outcast” פֵּירוּשׁוֹ מְנֻדֶּה, דָּחוּי."
+    },
+    {
+      "id": "C-q15",
+      "word": "seamless",
+      "type": "english_to_hebrew",
+      "question": "What does “seamless” mean?",
+      "options": [
+        "דִּילֶמָה, הִתְלַבְּטוּת",
+        "חָלָק, רָצִיף",
+        "חֲקִיקָה",
+        "פָּגִיעַ, חָשׂוּף"
+      ],
+      "correct_answer": "חָלָק, רָצִיף",
+      "explanation_hebrew": "“seamless” פֵּירוּשׁוֹ חָלָק, רָצִיף."
+    },
+    {
+      "id": "C-q16",
+      "word": "dilemma",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “דִּילֶמָה, הִתְלַבְּטוּת”?",
+      "options": [
+        "dilemma",
+        "vulnerable",
+        "legislation",
+        "simmering"
+      ],
+      "correct_answer": "dilemma",
+      "explanation_hebrew": "הַמִּלָּה “dilemma” פֵּירוּשׁוֹ דִּילֶמָה, הִתְלַבְּטוּת."
+    },
+    {
+      "id": "C-q17",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "נָתוּן בְּלַחַץ, מֻקָּף קְשָׁיִים",
+        "פָּגִיעַ, חָשׂוּף",
+        "חֲקִיקָה",
+        "מְבַעְבֵּעַ, מַחְרִיף בַּסֵּתֶר"
+      ],
+      "correct_answer": "פָּגִיעַ, חָשׂוּף",
+      "explanation_hebrew": "“vulnerable” פֵּירוּשׁוֹ פָּגִיעַ, חָשׂוּף."
+    },
+    {
+      "id": "C-q18",
+      "word": "legislation",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “חֲקִיקָה”?",
+      "options": [
+        "simmering",
+        "legislation",
+        "beleaguered",
+        "rebuke"
+      ],
+      "correct_answer": "legislation",
+      "explanation_hebrew": "הַמִּלָּה “legislation” פֵּירוּשׁוֹ חֲקִיקָה."
+    },
+    {
+      "id": "C-q19",
+      "word": "simmering",
+      "type": "english_to_hebrew",
+      "question": "What does “simmering” mean?",
+      "options": [
+        "נָתוּן בְּלַחַץ, מֻקָּף קְשָׁיִים",
+        "נְזִיפָה, גְּעָרָה",
+        "מְיֻמָּנוּת רַבָּה, כֹּשֶׁר",
+        "מְבַעְבֵּעַ, מַחְרִיף בַּסֵּתֶר"
+      ],
+      "correct_answer": "מְבַעְבֵּעַ, מַחְרִיף בַּסֵּתֶר",
+      "explanation_hebrew": "“simmering” פֵּירוּשׁוֹ מְבַעְבֵּעַ, מַחְרִיף בַּסֵּתֶר."
+    },
+    {
+      "id": "C-q20",
+      "word": "beleaguered",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “נָתוּן בְּלַחַץ, מֻקָּף קְשָׁיִים”?",
+      "options": [
+        "retaliation",
+        "prowess",
+        "beleaguered",
+        "rebuke"
+      ],
+      "correct_answer": "beleaguered",
+      "explanation_hebrew": "הַמִּלָּה “beleaguered” פֵּירוּשׁוֹ נָתוּן בְּלַחַץ, מֻקָּף קְשָׁיִים."
+    },
+    {
+      "id": "C-q21",
+      "word": "rebuke",
+      "type": "english_to_hebrew",
+      "question": "What does “rebuke” mean?",
+      "options": [
+        "מְיֻמָּנוּת רַבָּה, כֹּשֶׁר",
+        "תְּגוּבַת נֶגֶד, גְּמוּל",
+        "נְזִיפָה, גְּעָרָה",
+        "חֲסַר שִׁנַּיִם, לְלֹא כֹּחַ"
+      ],
+      "correct_answer": "נְזִיפָה, גְּעָרָה",
+      "explanation_hebrew": "“rebuke” פֵּירוּשׁוֹ נְזִיפָה, גְּעָרָה."
+    },
+    {
+      "id": "C-q22",
+      "word": "prowess",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “מְיֻמָּנוּת רַבָּה, כֹּשֶׁר”?",
+      "options": [
+        "retaliation",
+        "toothless",
+        "leverage",
+        "prowess"
+      ],
+      "correct_answer": "prowess",
+      "explanation_hebrew": "הַמִּלָּה “prowess” פֵּירוּשׁוֹ מְיֻמָּנוּת רַבָּה, כֹּשֶׁר."
+    },
+    {
+      "id": "C-q23",
+      "word": "retaliation",
+      "type": "english_to_hebrew",
+      "question": "What does “retaliation” mean?",
+      "options": [
+        "מִנּוּף, כֹּחַ הַשְׁפָּעָה",
+        "מִתְאַבֵּךְ, מִתְגַּלְגֵּל",
+        "חֲסַר שִׁנַּיִם, לְלֹא כֹּחַ",
+        "תְּגוּבַת נֶגֶד, גְּמוּל"
+      ],
+      "correct_answer": "תְּגוּבַת נֶגֶד, גְּמוּל",
+      "explanation_hebrew": "“retaliation” פֵּירוּשׁוֹ תְּגוּבַת נֶגֶד, גְּמוּל."
+    },
+    {
+      "id": "C-q24",
+      "word": "toothless",
+      "type": "hebrew_to_english",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “חֲסַר שִׁנַּיִם, לְלֹא כֹּחַ”?",
+      "options": [
+        "toothless",
+        "billowing",
+        "leverage",
+        "toxic"
+      ],
+      "correct_answer": "toothless",
+      "explanation_hebrew": "הַמִּלָּה “toothless” פֵּירוּשׁוֹ חֲסַר שִׁנַּיִם, לְלֹא כֹּחַ."
+    },
+    {
+      "id": "C-q25",
+      "word": "leverage",
+      "type": "english_to_hebrew",
+      "question": "What does “leverage” mean?",
+      "options": [
+        "רַעִיל",
+        "מִנּוּף, כֹּחַ הַשְׁפָּעָה",
+        "יַמִּי, חוֹפִי",
+        "מִתְאַבֵּךְ, מִתְגַּלְגֵּל"
+      ],
+      "correct_answer": "מִנּוּף, כֹּחַ הַשְׁפָּעָה",
+      "explanation_hebrew": "“leverage” פֵּירוּשׁוֹ מִנּוּף, כֹּחַ הַשְׁפָּעָה."
+    }
+  ]
+}

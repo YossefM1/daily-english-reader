@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Cancer patients 'deteriorating' due to staff shortages, radiologists warn",
+  "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cmly0xle2rddo",
-  "published_at": "2026-11-01T14:49:36+00:00",
-  "age_hours_at_selection": 11.42,
-  "word_count": 685,
-  "generated_at": "2026-11-02T02:15:00.980834+00:00",
-  "difficulty_reason": "Moderate-length health report mixing personal accounts with statistics and medical terms; B1/B2/C1 vocabulary and some NHS background knowledge.",
+  "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno",
+  "published_at": "2026-11-03T00:41:36+00:00",
+  "age_hours_at_selection": 1.63,
+  "word_count": 851,
+  "generated_at": "2026-11-03T02:19:28.763473+00:00",
+  "difficulty_reason": "Human-interest feature with several personal stories and some figurative language; moderate sentence length and useful B1/B2/C1 vocabulary.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "deteriorating",
-      "lemma": "deteriorate",
-      "level": "C1",
-      "hebrew": "מתדרדר, מחמיר",
-      "explanation_hebrew": "הולך ונעשה גרוע יותר",
-      "pronunciation_hebrew": "דִיטִירְיוֹרֵייטִינְג",
-      "example": "His health was slowly deteriorating."
+      "word": "dumped",
+      "lemma": "dump",
+      "level": "B1",
+      "hebrew": "הֻשְׁלַךְ, נִזְרַק",
+      "explanation_hebrew": "נִזְרַק אוֹ נֶעֱזַב בְּצוּרָה מְרֻשֶּׁלֶת",
+      "pronunciation_hebrew": "דַאמְפְּט",
+      "example": "Old furniture was dumped on the street."
     },
     {
-      "word": "shortage",
-      "lemma": "shortage",
+      "word": "recycling",
+      "lemma": "recycling",
+      "level": "B1",
+      "hebrew": "מִחְזוּר",
+      "explanation_hebrew": "עִיבּוּד חוֹזֵר שֶׁל חֹמֶר כְּדֵי לְהִשְׁתַּמֵּשׁ בּוֹ שׁוּב",
+      "pronunciation_hebrew": "רִיסַייְקְלִינְג",
+      "example": "Please put bottles in the recycling bin."
+    },
+    {
+      "word": "appalled",
+      "lemma": "appal",
+      "level": "C1",
+      "hebrew": "נֶחֱרַד, הִזְדַּעְזֵעַ",
+      "explanation_hebrew": "הִרְגִּישׁ זַעַם וְגֹעַל חֲזָקִים",
+      "pronunciation_hebrew": "אַפּוֹלְד",
+      "example": "She was appalled by the mess."
+    },
+    {
+      "word": "thrifty",
+      "lemma": "thrifty",
       "level": "B2",
-      "hebrew": "מחסור",
-      "explanation_hebrew": "מצב שבו אין מספיק ממשהו",
-      "pronunciation_hebrew": "שׁוֹרְטֶג'",
-      "example": "There is a shortage of nurses."
+      "hebrew": "חַסְכָנִי",
+      "explanation_hebrew": "זָהִיר בְּהוֹצָאַת כֶּסֶף",
+      "pronunciation_hebrew": "תְרִיפְטִי",
+      "example": "A thrifty shopper looks for deals."
     },
     {
-      "word": "shortfall",
-      "lemma": "shortfall",
-      "level": "C1",
-      "hebrew": "פער, חוסר",
-      "explanation_hebrew": "ההפרש בין מה שיש לבין מה שצריך",
-      "pronunciation_hebrew": "שׁוֹרְטְפוֹל",
-      "example": "The budget has a large shortfall."
-    },
-    {
-      "word": "diagnostic",
-      "lemma": "diagnostic",
-      "level": "C1",
-      "hebrew": "אבחנתי",
-      "explanation_hebrew": "הקשור לאיתור וזיהוי של מחלות",
-      "pronunciation_hebrew": "דַייאַגְנוֹסְטִיק",
-      "example": "The hospital bought new diagnostic machines."
-    },
-    {
-      "word": "specialise",
-      "lemma": "specialise",
+      "word": "freelance",
+      "lemma": "freelance",
       "level": "B2",
-      "hebrew": "להתמחות",
-      "explanation_hebrew": "להתמקד בתחום מסוים",
-      "pronunciation_hebrew": "סְפֶּשַׁלַייז",
-      "example": "Some doctors specialise in children's care."
+      "hebrew": "עַצְמָאִי (לֹא שָׂכִיר)",
+      "explanation_hebrew": "עוֹבֵד בְּאֹפֶן עַצְמָאִי לְלֹא מַעֲבִיד קָבוּעַ",
+      "pronunciation_hebrew": "פְרִילַאנְס",
+      "example": "He works as a freelance writer."
     },
     {
-      "word": "diagnose",
-      "lemma": "diagnose",
-      "level": "B2",
-      "hebrew": "לאבחן",
-      "explanation_hebrew": "לזהות מחלה או בעיה",
-      "pronunciation_hebrew": "דַייאַגְנוֹז",
-      "example": "Doctors tried to diagnose the illness."
-    },
-    {
-      "word": "recruitment",
-      "lemma": "recruitment",
-      "level": "B2",
-      "hebrew": "גיוס עובדים",
-      "explanation_hebrew": "תהליך מציאת והעסקת עובדים חדשים",
-      "pronunciation_hebrew": "רִיקְרוּטְמֶנְט",
-      "example": "Recruitment of staff is slow this year."
-    },
-    {
-      "word": "substantial",
-      "lemma": "substantial",
+      "word": "salvaged",
+      "lemma": "salvage",
       "level": "C1",
-      "hebrew": "ניכר, משמעותי",
-      "explanation_hebrew": "גדול בכמות או בחשיבות",
-      "pronunciation_hebrew": "סַבְּסְטַנְשַׁל",
-      "example": "There was a substantial rise in demand."
+      "hebrew": "חִלֵּץ, הִצִּיל",
+      "explanation_hebrew": "הִצִּיל מַשֶּׁהוּ מִלְּהִזָּרֵק אוֹ לְהִתְקַלְקֵל",
+      "pronunciation_hebrew": "סַאלְבִידְ'ְד",
+      "example": "They salvaged old wood from the house."
     },
     {
-      "word": "stable",
-      "lemma": "stable",
+      "word": "strewn",
+      "lemma": "strew",
+      "level": "C1",
+      "hebrew": "מְפֻזָּר, פָּזוּר",
+      "explanation_hebrew": "מֻנָּח בְּאִי-סֵדֶר עַל פְּנֵי שֶׁטַח",
+      "pronunciation_hebrew": "סְטְרוּן",
+      "example": "Papers were strewn across the floor."
+    },
+    {
+      "word": "donates",
+      "lemma": "donate",
+      "level": "B1",
+      "hebrew": "תּוֹרֵם",
+      "explanation_hebrew": "נוֹתֵן מַשֶּׁהוּ בְּחִינָּם לְמַטָּרָה טוֹבָה",
+      "pronunciation_hebrew": "דוֹנֵייְטְס",
+      "example": "She donates clothes to charity."
+    },
+    {
+      "word": "rummage",
+      "lemma": "rummage",
+      "level": "C1",
+      "hebrew": "לְחַטֵּט, לְפַשְׁפֵּשׁ",
+      "explanation_hebrew": "לְחַפֵּשׂ בְּעִרְבּוּבְיָה בְּתוֹךְ דְּבָרִים",
+      "pronunciation_hebrew": "רַאמִידְ'ְ",
+      "example": "He began to rummage through the drawer."
+    },
+    {
+      "word": "commercial",
+      "lemma": "commercial",
+      "level": "B1",
+      "hebrew": "מִסְחָרִי",
+      "explanation_hebrew": "קָשׁוּר לְעֵסֶק אוֹ לְמִסְחָר",
+      "pronunciation_hebrew": "קוֹמֶרְשַׁל",
+      "example": "It is a commercial building."
+    },
+    {
+      "word": "treasures",
+      "lemma": "treasure",
+      "level": "B1",
+      "hebrew": "אוֹצָרוֹת",
+      "explanation_hebrew": "דְּבָרִים יְקָרֵי עֵרֶךְ אוֹ מְיֻחָדִים",
+      "pronunciation_hebrew": "טְרֶזֶ'רְז",
+      "example": "The box was full of hidden treasures."
+    },
+    {
+      "word": "disgust",
+      "lemma": "disgust",
       "level": "B2",
-      "hebrew": "יציב",
-      "explanation_hebrew": "לא משתנה, במצב קבוע",
-      "pronunciation_hebrew": "סְטֵייבְּל",
-      "example": "Her condition is now stable."
+      "hebrew": "גֹּעַל, תִּיעוּב",
+      "explanation_hebrew": "תְּחוּשָׁה חֲזָקָה שֶׁל סְלִידָה",
+      "pronunciation_hebrew": "דִיסְגַאסְט",
+      "example": "He looked at the trash in disgust."
     },
     {
-      "word": "timely",
-      "lemma": "timely",
-      "level": "C1",
-      "hebrew": "בזמן, במועד הנכון",
-      "explanation_hebrew": "קורה בדיוק בזמן המתאים",
-      "pronunciation_hebrew": "טַיימְלִי",
-      "example": "Timely treatment can save lives."
-    },
-    {
-      "word": "spreading",
-      "lemma": "spread",
+      "word": "usable",
+      "lemma": "usable",
       "level": "B2",
-      "hebrew": "מתפשט",
-      "explanation_hebrew": "מתרחב ומתפזר לאזורים נוספים",
-      "pronunciation_hebrew": "סְפְּרֶדִינְג",
-      "example": "The disease was spreading quickly."
+      "hebrew": "שָׁמִישׁ",
+      "explanation_hebrew": "שֶׁאֶפְשָׁר לְהִשְׁתַּמֵּשׁ בּוֹ",
+      "pronunciation_hebrew": "יוּזַבְּל",
+      "example": "The old phone is still usable."
     },
     {
-      "word": "unnoticed",
-      "lemma": "unnoticed",
+      "word": "consigned",
+      "lemma": "consign",
       "level": "C1",
-      "hebrew": "מבלי שמבחינים",
-      "explanation_hebrew": "בלי שאיש שם לב",
-      "pronunciation_hebrew": "אַנְנוֹטִיסְט",
-      "example": "The problem grew unnoticed for years."
+      "hebrew": "נִדּוֹן, הֻפְקַד לְ",
+      "explanation_hebrew": "נִשְׁלַח אוֹ נִמְסַר לְמַשֶּׁהוּ, לְרוֹב לְרָעָה",
+      "pronunciation_hebrew": "קוֹנְסַייְנְד",
+      "example": "The items were consigned to the bin."
     },
     {
-      "word": "trials",
-      "lemma": "trial",
+      "word": "anarchist",
+      "lemma": "anarchist",
+      "level": "C1",
+      "hebrew": "אֲנַרְכִיסְט",
+      "explanation_hebrew": "מִי שֶׁמִּתְנַגֵּד לְכָל שִׁלְטוֹן אוֹ סֵדֶר",
+      "pronunciation_hebrew": "אַנַרְקִיסְט",
+      "example": "He called himself an anarchist."
+    },
+    {
+      "word": "affluent",
+      "lemma": "affluent",
+      "level": "C1",
+      "hebrew": "אָמִיד, עָשִׁיר",
+      "explanation_hebrew": "בַּעַל כֶּסֶף רַב, מְבֻסָּס",
+      "pronunciation_hebrew": "אַפְלוּאֶנְט",
+      "example": "They live in an affluent area."
+    },
+    {
+      "word": "discarded",
+      "lemma": "discard",
       "level": "B2",
-      "hebrew": "ניסויים",
-      "explanation_hebrew": "בדיקות מבוקרות של טיפול או תרופה",
-      "pronunciation_hebrew": "טְרַייאַלְז",
-      "example": "She joined medical trials for a new drug."
+      "hebrew": "נִזְרַק, הֻשְׁלַךְ",
+      "explanation_hebrew": "נִזְרַק כִּי כְּבָר לֹא צָרִיךְ אוֹתוֹ",
+      "pronunciation_hebrew": "דִיסְקַארְדֶד",
+      "example": "She picked up a discarded can."
     },
     {
-      "word": "continual",
-      "lemma": "continual",
-      "level": "C1",
-      "hebrew": "מתמשך, רצוף",
-      "explanation_hebrew": "שקורה שוב ושוב ללא הפסקה",
-      "pronunciation_hebrew": "קוֹנְטִינְיוּאַל",
-      "example": "Continual treatment keeps her healthy."
-    },
-    {
-      "word": "threaten",
-      "lemma": "threaten",
+      "word": "antique",
+      "lemma": "antique",
       "level": "B2",
-      "hebrew": "לאיים, לסכן",
-      "explanation_hebrew": "לסכן או לפגוע במשהו",
-      "pronunciation_hebrew": "תְרֶטֶן",
-      "example": "Delays could threaten her recovery."
+      "hebrew": "עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)",
+      "explanation_hebrew": "חֵפֶץ יָשָׁן בַּעַל עֵרֶךְ",
+      "pronunciation_hebrew": "אַנְטִיק",
+      "example": "This clock is a valuable antique."
     },
     {
-      "word": "subsequently",
-      "lemma": "subsequently",
+      "word": "valuable",
+      "lemma": "valuable",
+      "level": "B1",
+      "hebrew": "יְקַר עֵרֶךְ",
+      "explanation_hebrew": "שֶׁשָּׁוֶה הַרְבֵּה כֶּסֶף אוֹ חָשׁוּב מְאוֹד",
+      "pronunciation_hebrew": "וַואלְיוּאַבְּל",
+      "example": "This is a valuable painting."
+    },
+    {
+      "word": "taboo",
+      "lemma": "taboo",
       "level": "C1",
-      "hebrew": "לאחר מכן, בהמשך",
-      "explanation_hebrew": "אחרי זמן מסוים, בעקבות כך",
-      "pronunciation_hebrew": "סַבְּסִיקְוֶנְטְלִי",
-      "example": "She was subsequently given more tests."
+      "hebrew": "טָאבּוּ, נוֹשֵׂא אָסוּר",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁהַחֶבְרָה אוֹסֶרֶת אוֹ לֹא מְדַבֶּרֶת עָלָיו",
+      "pronunciation_hebrew": "טָאבּוּ",
+      "example": "The topic is still a taboo."
     },
     {
-      "word": "horrific",
-      "lemma": "horrific",
-      "level": "B2",
-      "hebrew": "מזעזע, איום",
-      "explanation_hebrew": "נורא ומעורר בעתה",
-      "pronunciation_hebrew": "הוֹרִיפִיק",
-      "example": "They described the wait as horrific."
-    },
-    {
-      "word": "horrendous",
-      "lemma": "horrendous",
+      "word": "unearth",
+      "lemma": "unearth",
       "level": "C1",
-      "hebrew": "נורא ואיום",
-      "explanation_hebrew": "קשה ולא נעים במיוחד",
-      "pronunciation_hebrew": "הוֹרֶנְדֶס",
-      "example": "The pain was absolutely horrendous."
+      "hebrew": "לַחְשׂוֹף, לְגַלּוֹת",
+      "explanation_hebrew": "לִמְצוֹא מַשֶּׁהוּ מֻסְתָּר אוֹ קָבוּר",
+      "pronunciation_hebrew": "אַנֶרְת'",
+      "example": "They hope to unearth old coins."
     },
     {
-      "word": "limbo",
-      "lemma": "limbo",
+      "word": "refashion",
+      "lemma": "refashion",
+      "level": "C2",
+      "hebrew": "לְעַצֵּב מֵחָדָשׁ",
+      "explanation_hebrew": "לִיצּוֹר מַשֶּׁהוּ חָדָשׁ מִדָּבָר יָשָׁן",
+      "pronunciation_hebrew": "רִיפַאשֶׁן",
+      "example": "She can refashion old shirts into bags."
+    },
+    {
+      "word": "clambered",
+      "lemma": "clamber",
       "level": "C1",
-      "hebrew": "חוסר ודאות, המתנה",
-      "explanation_hebrew": "מצב ביניים מתסכל בלי החלטה",
-      "pronunciation_hebrew": "לִימְבּוֹ",
-      "example": "Patients are left in total limbo."
+      "hebrew": "טִיפֵּס בִּכְבֵדוּת",
+      "explanation_hebrew": "טִיפֵּס אוֹ נִכְנַס בְּקֹשִׁי וּבְמַאֲמָץ",
+      "pronunciation_hebrew": "קְלַאמְבֶּרְד",
+      "example": "He clambered over the fence."
     },
     {
-      "word": "consultant",
-      "lemma": "consultant",
-      "level": "B2",
-      "hebrew": "רופא בכיר, יועץ",
-      "explanation_hebrew": "מומחה בכיר בתחומו",
-      "pronunciation_hebrew": "קוֹנְסַלְטַנְט",
-      "example": "A consultant reviewed her scans."
-    },
-    {
-      "word": "oncology",
-      "lemma": "oncology",
+      "word": "trespass",
+      "lemma": "trespass",
       "level": "C1",
-      "hebrew": "אונקולוגיה",
-      "explanation_hebrew": "ענף הרפואה העוסק בסרטן",
-      "pronunciation_hebrew": "אוֹנְקוֹלוֹגִ'י",
-      "example": "She works in the oncology department."
+      "hebrew": "הַסָּגַת גְּבוּל",
+      "explanation_hebrew": "כְּנִיסָה לְשֶׁטַח פְּרָטִי לְלֹא רְשׁוּת",
+      "pronunciation_hebrew": "טְרֶסְפַּאס",
+      "example": "Do not trespass on private land."
     },
     {
-      "word": "workforce",
-      "lemma": "workforce",
-      "level": "B2",
-      "hebrew": "כוח אדם, עובדים",
-      "explanation_hebrew": "כלל העובדים במקום או בתחום",
-      "pronunciation_hebrew": "וֶורְקְפוֹרְס",
-      "example": "The health workforce is under pressure."
-    },
-    {
-      "word": "prioritise",
-      "lemma": "prioritise",
+      "word": "prosecution",
+      "lemma": "prosecution",
       "level": "C1",
-      "hebrew": "לתעדף",
-      "explanation_hebrew": "להחליט מה חשוב יותר ולטפל בו קודם",
-      "pronunciation_hebrew": "פְּרַייאוֹרִיטַייז",
-      "example": "Nurses prioritise the sickest patients."
-    },
-    {
-      "word": "anxious",
-      "lemma": "anxious",
-      "level": "B2",
-      "hebrew": "חרד, מודאג",
-      "explanation_hebrew": "מרגיש דאגה או מתח",
-      "pronunciation_hebrew": "אַנְקְשֶׁס",
-      "example": "She felt anxious before the results."
-    },
-    {
-      "word": "clinician",
-      "lemma": "clinician",
-      "level": "C1",
-      "hebrew": "איש צוות רפואי",
-      "explanation_hebrew": "רופא או מטפל שעובד ישירות עם חולים",
-      "pronunciation_hebrew": "קְלִינִישֶׁן",
-      "example": "The clinician explained the diagnosis."
+      "hebrew": "הַעֲמָדָה לְדִין, תְּבִיעָה",
+      "explanation_hebrew": "הֲבָאַת אָדָם לְמִשְׁפָּט עַל עֲבֵרָה",
+      "pronunciation_hebrew": "פְּרוֹסִיקְיוּשַׁן",
+      "example": "He faced prosecution for the crime."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "deteriorating",
+      "word": "dumped",
       "type": "english_to_hebrew",
-      "question": "What does “deteriorating” mean?",
+      "question": "What does “dumped” mean?",
       "options": [
-        "מתדרדר, מחמיר",
-        "מחסור",
-        "פער, חוסר",
-        "אבחנתי"
+        "חַסְכָנִי",
+        "נֶחֱרַד, הִזְדַּעְזֵעַ",
+        "מִחְזוּר",
+        "הֻשְׁלַךְ, נִזְרַק"
       ],
-      "correct_answer": "מתדרדר, מחמיר",
-      "explanation_hebrew": "“deteriorating” פירושו מתדרדר, מחמיר."
+      "correct_answer": "הֻשְׁלַךְ, נִזְרַק",
+      "explanation_hebrew": "“dumped” פֵּירוּשׁוֹ הֻשְׁלַךְ, נִזְרַק."
     },
     {
       "id": "B-q2",
-      "word": "shortage",
+      "word": "recycling",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״מחסור״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “מִחְזוּר”?",
       "options": [
-        "shortfall",
-        "specialise",
-        "shortage",
-        "diagnostic"
+        "freelance",
+        "appalled",
+        "thrifty",
+        "recycling"
       ],
-      "correct_answer": "shortage",
-      "explanation_hebrew": "המילה “shortage” פירושה מחסור."
+      "correct_answer": "recycling",
+      "explanation_hebrew": "הַמִּלָּה “recycling” פֵּירוּשׁוֹ מִחְזוּר."
     },
     {
       "id": "B-q3",
-      "word": "shortfall",
+      "word": "appalled",
       "type": "english_to_hebrew",
-      "question": "What does “shortfall” mean?",
+      "question": "What does “appalled” mean?",
       "options": [
-        "לאבחן",
-        "להתמחות",
-        "אבחנתי",
-        "פער, חוסר"
+        "נֶחֱרַד, הִזְדַּעְזֵעַ",
+        "חַסְכָנִי",
+        "עַצְמָאִי (לֹא שָׂכִיר)",
+        "חִלֵּץ, הִצִּיל"
       ],
-      "correct_answer": "פער, חוסר",
-      "explanation_hebrew": "“shortfall” פירושו פער, חוסר."
+      "correct_answer": "נֶחֱרַד, הִזְדַּעְזֵעַ",
+      "explanation_hebrew": "“appalled” פֵּירוּשׁוֹ נֶחֱרַד, הִזְדַּעְזֵעַ."
     },
     {
       "id": "B-q4",
-      "word": "diagnostic",
+      "word": "thrifty",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״אבחנתי״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “חַסְכָנִי”?",
       "options": [
-        "recruitment",
-        "diagnostic",
-        "specialise",
-        "diagnose"
+        "thrifty",
+        "freelance",
+        "salvaged",
+        "strewn"
       ],
-      "correct_answer": "diagnostic",
-      "explanation_hebrew": "המילה “diagnostic” פירושה אבחנתי."
+      "correct_answer": "thrifty",
+      "explanation_hebrew": "הַמִּלָּה “thrifty” פֵּירוּשׁוֹ חַסְכָנִי."
     },
     {
       "id": "B-q5",
-      "word": "specialise",
+      "word": "freelance",
       "type": "english_to_hebrew",
-      "question": "What does “specialise” mean?",
+      "question": "What does “freelance” mean?",
       "options": [
-        "גיוס עובדים",
-        "לאבחן",
-        "ניכר, משמעותי",
-        "להתמחות"
+        "חִלֵּץ, הִצִּיל",
+        "עַצְמָאִי (לֹא שָׂכִיר)",
+        "תּוֹרֵם",
+        "מְפֻזָּר, פָּזוּר"
       ],
-      "correct_answer": "להתמחות",
-      "explanation_hebrew": "“specialise” פירושו להתמחות."
+      "correct_answer": "עַצְמָאִי (לֹא שָׂכִיר)",
+      "explanation_hebrew": "“freelance” פֵּירוּשׁוֹ עַצְמָאִי (לֹא שָׂכִיר)."
     },
     {
       "id": "B-q6",
-      "word": "diagnose",
+      "word": "salvaged",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״לאבחן״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “חִלֵּץ, הִצִּיל”?",
       "options": [
-        "stable",
-        "diagnose",
-        "recruitment",
-        "substantial"
+        "strewn",
+        "salvaged",
+        "donates",
+        "rummage"
       ],
-      "correct_answer": "diagnose",
-      "explanation_hebrew": "המילה “diagnose” פירושה לאבחן."
+      "correct_answer": "salvaged",
+      "explanation_hebrew": "הַמִּלָּה “salvaged” פֵּירוּשׁוֹ חִלֵּץ, הִצִּיל."
     },
     {
       "id": "B-q7",
-      "word": "recruitment",
+      "word": "strewn",
       "type": "english_to_hebrew",
-      "question": "What does “recruitment” mean?",
+      "question": "What does “strewn” mean?",
       "options": [
-        "ניכר, משמעותי",
-        "בזמן, במועד הנכון",
-        "גיוס עובדים",
-        "יציב"
+        "מִסְחָרִי",
+        "מְפֻזָּר, פָּזוּר",
+        "תּוֹרֵם",
+        "לְחַטֵּט, לְפַשְׁפֵּשׁ"
       ],
-      "correct_answer": "גיוס עובדים",
-      "explanation_hebrew": "“recruitment” פירושו גיוס עובדים."
+      "correct_answer": "מְפֻזָּר, פָּזוּר",
+      "explanation_hebrew": "“strewn” פֵּירוּשׁוֹ מְפֻזָּר, פָּזוּר."
     },
     {
       "id": "B-q8",
-      "word": "substantial",
+      "word": "donates",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״ניכר, משמעותי״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “תּוֹרֵם”?",
       "options": [
-        "substantial",
-        "stable",
-        "spreading",
-        "timely"
+        "commercial",
+        "donates",
+        "rummage",
+        "treasures"
       ],
-      "correct_answer": "substantial",
-      "explanation_hebrew": "המילה “substantial” פירושה ניכר, משמעותי."
+      "correct_answer": "donates",
+      "explanation_hebrew": "הַמִּלָּה “donates” פֵּירוּשׁוֹ תּוֹרֵם."
     },
     {
       "id": "B-q9",
-      "word": "stable",
+      "word": "rummage",
       "type": "english_to_hebrew",
-      "question": "What does “stable” mean?",
+      "question": "What does “rummage” mean?",
       "options": [
-        "מבלי שמבחינים",
-        "בזמן, במועד הנכון",
-        "יציב",
-        "מתפשט"
+        "גֹּעַל, תִּיעוּב",
+        "אוֹצָרוֹת",
+        "מִסְחָרִי",
+        "לְחַטֵּט, לְפַשְׁפֵּשׁ"
       ],
-      "correct_answer": "יציב",
-      "explanation_hebrew": "“stable” פירושו יציב."
+      "correct_answer": "לְחַטֵּט, לְפַשְׁפֵּשׁ",
+      "explanation_hebrew": "“rummage” פֵּירוּשׁוֹ לְחַטֵּט, לְפַשְׁפֵּשׁ."
     },
     {
       "id": "B-q10",
-      "word": "timely",
+      "word": "commercial",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״בזמן, במועד הנכון״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “מִסְחָרִי”?",
       "options": [
-        "spreading",
-        "trials",
-        "unnoticed",
-        "timely"
+        "commercial",
+        "usable",
+        "disgust",
+        "treasures"
       ],
-      "correct_answer": "timely",
-      "explanation_hebrew": "המילה “timely” פירושה בזמן, במועד הנכון."
+      "correct_answer": "commercial",
+      "explanation_hebrew": "הַמִּלָּה “commercial” פֵּירוּשׁוֹ מִסְחָרִי."
     },
     {
       "id": "B-q11",
-      "word": "spreading",
+      "word": "treasures",
       "type": "english_to_hebrew",
-      "question": "What does “spreading” mean?",
+      "question": "What does “treasures” mean?",
       "options": [
-        "מתמשך, רצוף",
-        "מתפשט",
-        "ניסויים",
-        "מבלי שמבחינים"
+        "שָׁמִישׁ",
+        "גֹּעַל, תִּיעוּב",
+        "אוֹצָרוֹת",
+        "נִדּוֹן, הֻפְקַד לְ"
       ],
-      "correct_answer": "מתפשט",
-      "explanation_hebrew": "“spreading” פירושו מתפשט."
+      "correct_answer": "אוֹצָרוֹת",
+      "explanation_hebrew": "“treasures” פֵּירוּשׁוֹ אוֹצָרוֹת."
     },
     {
       "id": "B-q12",
-      "word": "unnoticed",
+      "word": "disgust",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״מבלי שמבחינים״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “גֹּעַל, תִּיעוּב”?",
       "options": [
-        "threaten",
-        "continual",
-        "unnoticed",
-        "trials"
+        "usable",
+        "disgust",
+        "consigned",
+        "anarchist"
       ],
-      "correct_answer": "unnoticed",
-      "explanation_hebrew": "המילה “unnoticed” פירושה מבלי שמבחינים."
+      "correct_answer": "disgust",
+      "explanation_hebrew": "הַמִּלָּה “disgust” פֵּירוּשׁוֹ גֹּעַל, תִּיעוּב."
     },
     {
       "id": "B-q13",
-      "word": "trials",
+      "word": "usable",
       "type": "english_to_hebrew",
-      "question": "What does “trials” mean?",
+      "question": "What does “usable” mean?",
       "options": [
-        "מתמשך, רצוף",
-        "ניסויים",
-        "לאחר מכן, בהמשך",
-        "לאיים, לסכן"
+        "שָׁמִישׁ",
+        "אֲנַרְכִיסְט",
+        "נִדּוֹן, הֻפְקַד לְ",
+        "אָמִיד, עָשִׁיר"
       ],
-      "correct_answer": "ניסויים",
-      "explanation_hebrew": "“trials” פירושו ניסויים."
+      "correct_answer": "שָׁמִישׁ",
+      "explanation_hebrew": "“usable” פֵּירוּשׁוֹ שָׁמִישׁ."
     },
     {
       "id": "B-q14",
-      "word": "continual",
+      "word": "consigned",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״מתמשך, רצוף״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “נִדּוֹן, הֻפְקַד לְ”?",
       "options": [
-        "horrific",
-        "continual",
-        "threaten",
-        "subsequently"
+        "discarded",
+        "consigned",
+        "anarchist",
+        "affluent"
       ],
-      "correct_answer": "continual",
-      "explanation_hebrew": "המילה “continual” פירושה מתמשך, רצוף."
+      "correct_answer": "consigned",
+      "explanation_hebrew": "הַמִּלָּה “consigned” פֵּירוּשׁוֹ נִדּוֹן, הֻפְקַד לְ."
     },
     {
       "id": "B-q15",
-      "word": "threaten",
+      "word": "anarchist",
       "type": "english_to_hebrew",
-      "question": "What does “threaten” mean?",
+      "question": "What does “anarchist” mean?",
       "options": [
-        "לאיים, לסכן",
-        "מזעזע, איום",
-        "לאחר מכן, בהמשך",
-        "נורא ואיום"
+        "נִזְרַק, הֻשְׁלַךְ",
+        "עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)",
+        "אָמִיד, עָשִׁיר",
+        "אֲנַרְכִיסְט"
       ],
-      "correct_answer": "לאיים, לסכן",
-      "explanation_hebrew": "“threaten” פירושו לאיים, לסכן."
+      "correct_answer": "אֲנַרְכִיסְט",
+      "explanation_hebrew": "“anarchist” פֵּירוּשׁוֹ אֲנַרְכִיסְט."
     },
     {
       "id": "B-q16",
-      "word": "subsequently",
+      "word": "affluent",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״לאחר מכן, בהמשך״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “אָמִיד, עָשִׁיר”?",
       "options": [
-        "subsequently",
-        "limbo",
-        "horrific",
-        "horrendous"
+        "valuable",
+        "antique",
+        "discarded",
+        "affluent"
       ],
-      "correct_answer": "subsequently",
-      "explanation_hebrew": "המילה “subsequently” פירושה לאחר מכן, בהמשך."
+      "correct_answer": "affluent",
+      "explanation_hebrew": "הַמִּלָּה “affluent” פֵּירוּשׁוֹ אָמִיד, עָשִׁיר."
     },
     {
       "id": "B-q17",
-      "word": "horrific",
+      "word": "discarded",
       "type": "english_to_hebrew",
-      "question": "What does “horrific” mean?",
+      "question": "What does “discarded” mean?",
       "options": [
-        "רופא בכיר, יועץ",
-        "חוסר ודאות, המתנה",
-        "מזעזע, איום",
-        "נורא ואיום"
+        "טָאבּוּ, נוֹשֵׂא אָסוּר",
+        "נִזְרַק, הֻשְׁלַךְ",
+        "יְקַר עֵרֶךְ",
+        "עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)"
       ],
-      "correct_answer": "מזעזע, איום",
-      "explanation_hebrew": "“horrific” פירושו מזעזע, איום."
+      "correct_answer": "נִזְרַק, הֻשְׁלַךְ",
+      "explanation_hebrew": "“discarded” פֵּירוּשׁוֹ נִזְרַק, הֻשְׁלַךְ."
     },
     {
       "id": "B-q18",
-      "word": "horrendous",
+      "word": "antique",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״נורא ואיום״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)”?",
       "options": [
-        "consultant",
-        "limbo",
-        "horrendous",
-        "oncology"
+        "antique",
+        "unearth",
+        "taboo",
+        "valuable"
       ],
-      "correct_answer": "horrendous",
-      "explanation_hebrew": "המילה “horrendous” פירושה נורא ואיום."
+      "correct_answer": "antique",
+      "explanation_hebrew": "הַמִּלָּה “antique” פֵּירוּשׁוֹ עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)."
     },
     {
       "id": "B-q19",
-      "word": "limbo",
+      "word": "valuable",
       "type": "english_to_hebrew",
-      "question": "What does “limbo” mean?",
+      "question": "What does “valuable” mean?",
       "options": [
-        "כוח אדם, עובדים",
-        "רופא בכיר, יועץ",
-        "אונקולוגיה",
-        "חוסר ודאות, המתנה"
+        "לַחְשׂוֹף, לְגַלּוֹת",
+        "טָאבּוּ, נוֹשֵׂא אָסוּר",
+        "לְעַצֵּב מֵחָדָשׁ",
+        "יְקַר עֵרֶךְ"
       ],
-      "correct_answer": "חוסר ודאות, המתנה",
-      "explanation_hebrew": "“limbo” פירושו חוסר ודאות, המתנה."
+      "correct_answer": "יְקַר עֵרֶךְ",
+      "explanation_hebrew": "“valuable” פֵּירוּשׁוֹ יְקַר עֵרֶךְ."
     },
     {
       "id": "B-q20",
-      "word": "consultant",
+      "word": "taboo",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״רופא בכיר, יועץ״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “טָאבּוּ, נוֹשֵׂא אָסוּר”?",
       "options": [
-        "prioritise",
-        "workforce",
-        "consultant",
-        "oncology"
+        "unearth",
+        "clambered",
+        "taboo",
+        "refashion"
       ],
-      "correct_answer": "consultant",
-      "explanation_hebrew": "המילה “consultant” פירושה רופא בכיר, יועץ."
+      "correct_answer": "taboo",
+      "explanation_hebrew": "הַמִּלָּה “taboo” פֵּירוּשׁוֹ טָאבּוּ, נוֹשֵׂא אָסוּר."
     },
     {
       "id": "B-q21",
-      "word": "oncology",
+      "word": "unearth",
       "type": "english_to_hebrew",
-      "question": "What does “oncology” mean?",
+      "question": "What does “unearth” mean?",
       "options": [
-        "לתעדף",
-        "אונקולוגיה",
-        "כוח אדם, עובדים",
-        "חרד, מודאג"
+        "לַחְשׂוֹף, לְגַלּוֹת",
+        "הַסָּגַת גְּבוּל",
+        "לְעַצֵּב מֵחָדָשׁ",
+        "טִיפֵּס בִּכְבֵדוּת"
       ],
-      "correct_answer": "אונקולוגיה",
-      "explanation_hebrew": "“oncology” פירושו אונקולוגיה."
+      "correct_answer": "לַחְשׂוֹף, לְגַלּוֹת",
+      "explanation_hebrew": "“unearth” פֵּירוּשׁוֹ לַחְשׂוֹף, לְגַלּוֹת."
     },
     {
       "id": "B-q22",
-      "word": "workforce",
+      "word": "refashion",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״כוח אדם, עובדים״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “לְעַצֵּב מֵחָדָשׁ”?",
       "options": [
-        "prioritise",
-        "anxious",
-        "clinician",
-        "workforce"
+        "prosecution",
+        "refashion",
+        "clambered",
+        "trespass"
       ],
-      "correct_answer": "workforce",
-      "explanation_hebrew": "המילה “workforce” פירושה כוח אדם, עובדים."
+      "correct_answer": "refashion",
+      "explanation_hebrew": "הַמִּלָּה “refashion” פֵּירוּשׁוֹ לְעַצֵּב מֵחָדָשׁ."
     },
     {
       "id": "B-q23",
-      "word": "prioritise",
+      "word": "clambered",
       "type": "english_to_hebrew",
-      "question": "What does “prioritise” mean?",
+      "question": "What does “clambered” mean?",
       "options": [
-        "לתעדף",
-        "מתדרדר, מחמיר",
-        "איש צוות רפואי",
-        "חרד, מודאג"
+        "הַסָּגַת גְּבוּל",
+        "הֻשְׁלַךְ, נִזְרַק",
+        "טִיפֵּס בִּכְבֵדוּת",
+        "הַעֲמָדָה לְדִין, תְּבִיעָה"
       ],
-      "correct_answer": "לתעדף",
-      "explanation_hebrew": "“prioritise” פירושו לתעדף."
+      "correct_answer": "טִיפֵּס בִּכְבֵדוּת",
+      "explanation_hebrew": "“clambered” פֵּירוּשׁוֹ טִיפֵּס בִּכְבֵדוּת."
     },
     {
       "id": "B-q24",
-      "word": "anxious",
+      "word": "trespass",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל״חרד, מודאג״?",
+      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “הַסָּגַת גְּבוּל”?",
       "options": [
-        "anxious",
-        "deteriorating",
-        "clinician",
-        "shortage"
+        "recycling",
+        "prosecution",
+        "dumped",
+        "trespass"
       ],
-      "correct_answer": "anxious",
-      "explanation_hebrew": "המילה “anxious” פירושה חרד, מודאג."
+      "correct_answer": "trespass",
+      "explanation_hebrew": "הַמִּלָּה “trespass” פֵּירוּשׁוֹ הַסָּגַת גְּבוּל."
     },
     {
       "id": "B-q25",
-      "word": "clinician",
+      "word": "prosecution",
       "type": "english_to_hebrew",
-      "question": "What does “clinician” mean?",
+      "question": "What does “prosecution” mean?",
       "options": [
-        "מחסור",
-        "פער, חוסר",
-        "מתדרדר, מחמיר",
-        "איש צוות רפואי"
+        "נֶחֱרַד, הִזְדַּעְזֵעַ",
+        "הֻשְׁלַךְ, נִזְרַק",
+        "מִחְזוּר",
+        "הַעֲמָדָה לְדִין, תְּבִיעָה"
       ],
-      "correct_answer": "איש צוות רפואי",
-      "explanation_hebrew": "“clinician” פירושו איש צוות רפואי."
+      "correct_answer": "הַעֲמָדָה לְדִין, תְּבִיעָה",
+      "explanation_hebrew": "“prosecution” פֵּירוּשׁוֹ הַעֲמָדָה לְדִין, תְּבִיעָה."
     }
   ]
 }
