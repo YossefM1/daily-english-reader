@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-03",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "The Other Bennet Sister Christmas special teased in new photos",
+  "article_url": "https://www.bbc.co.uk/news/articles/c670pvxyp2pko",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "New pictures and confirmed details preview a three-part Christmas special of The Other Bennet Sister.",
+        "The BBC has cancelled The Other Bennet Sister after one series.",
+        "Jane Austen wrote a new novel about Mary Bennet.",
+        "The cast is moving production permanently from Wales to Canada."
+      ],
+      "correct_answer": "New pictures and confirmed details preview a three-part Christmas special of The Other Bennet Sister.",
+      "explanation_hebrew": "הכתבה מציגה תמונות חדשות ופרטים מאושרים לקראת ספיישל חג מולד בן שלושה חלקים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened to Mary Bennet in the first-series finale?",
+      "difficulty": "A",
+      "options": [
+        "She left England to travel alone.",
+        "She agreed to marry Tom Hayward.",
+        "She became Caroline Bingley's housemaid.",
+        "She refused to see her family again."
+      ],
+      "correct_answer": "She agreed to marry Tom Hayward.",
+      "explanation_hebrew": "בסיום הסדרה מרי בנט, בגילומה של אלה ברוקולרי, הסכימה להינשא לטום הייוורד."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “an unexpected visitor from her past arrives at her door”, what does “unexpected” mean?",
+      "difficulty": "A",
+      "options": [
+        "Invited many months earlier",
+        "Unable to remember Mary",
+        "Not anticipated or planned",
+        "Travelling from another country"
+      ],
+      "correct_answer": "Not anticipated or planned",
+      "explanation_hebrew": "המילה unexpected פירושה דבר שלא ציפו לו או שלא תוכנן מראש."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which statement about the Christmas special is correct?",
+      "difficulty": "A",
+      "options": [
+        "It has one feature-length episode.",
+        "It was filmed mainly in the United States.",
+        "It introduces Ruth Jones for the first time.",
+        "It consists of three 30-minute episodes."
+      ],
+      "correct_answer": "It consists of three 30-minute episodes.",
+      "explanation_hebrew": "לפי הכתבה יהיו שלושה פרקים נוספים, וכל אחד מהם יימשך 30 דקות."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who joins the cast as Mary's housemaid Lucy?",
+      "difficulty": "A",
+      "options": [
+        "Nerys Amber-Stocks",
+        "Tanya Reynolds",
+        "Poppy Gilbert",
+        "Maddie Close"
+      ],
+      "correct_answer": "Nerys Amber-Stocks",
+      "explanation_hebrew": "נריס אמבר־סטוקס מצטרפת לצוות השחקנים בתפקיד לוסי, המשרתת של מרי."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “filming wrapped” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "The sets were covered for winter.",
+        "The actors received gifts.",
+        "The filming was completed.",
+        "The programme was hidden from viewers."
+      ],
+      "correct_answer": "The filming was completed.",
+      "explanation_hebrew": "בהקשר של הפקה, filming wrapped פירושו שהצילומים הסתיימו."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two Welsh locations used for the first series and identify the company that produced the Christmas special.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני אתרי צילום מדויקים בוויילס ואת חברת ההפקה של הספיישל.",
+      "expected_points": [
+        "Possible locations include Merthyr Mawr in Bridgend county, the Gower peninsula, and Brecon in Powys.",
+        "The Christmas special was produced by Cardiff-based Bad Wolf."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does the question “who will Mary become as Mrs Hayward?” suggest that marriage may create a challenge for Mary?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד נישואין יוצרים זהות ותפקיד חדשים למרי, תוך הסתמכות על הרמזים בכתבה.",
+      "expected_points": [
+        "Mary is beginning a new chapter as Tom Hayward's wife.",
+        "The first series showed her facing social pressure in Regency England.",
+        "She may need to balance her own identity with expectations attached to being Mrs Hayward.",
+        "The unexpected visitor may test how she responds in her new role."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the confirmed information about the Christmas special in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מבנה הספיישל, מצבם של מרי וטום, לפחות פרט ליהוק אחד, ומידע על ההפקה או השידור.",
+      "expected_points": [
+        "The special has three 30-minute episodes following Mary and Tom after their engagement.",
+        "Returning cast members include Ruth Jones, Tanya Reynolds and Laurie Davidson, while Nerys Amber-Stocks joins as Lucy.",
+        "An unexpected visitor from Mary's past will arrive seeking help.",
+        "Bad Wolf produced the special, filmed mainly in Wales, for BBC One and BBC iPlayer in the UK."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short factual preview for a viewer deciding whether to watch the Christmas special.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב קדימון קצר ומושך המבוסס רק על עובדות מהכתבה, ללא המצאת עלילה.",
+      "expected_points": [
+        "Mention that it is a three-part Christmas special based on Janice Hadlow's storylines.",
+        "Refer to Mary and Tom's new married chapter.",
+        "Mention the unexpected visitor or a confirmed returning/new cast member.",
+        "Use clear, inviting language without inventing events."
+      ]
+    }
+  ]
+}

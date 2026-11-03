@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-03",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the article?",
+      "difficulty": "B",
+      "options": [
+        "To argue that every city should ban recycling",
+        "To show why several people dumpster dive, what they find, and the legal questions involved",
+        "To compare the prices charged by British supermarkets",
+        "To explain how to start a professional waste company"
+      ],
+      "correct_answer": "To show why several people dumpster dive, what they find, and the legal questions involved",
+      "explanation_hebrew": "הכתבה מציגה כמה צוללי־פחים, את המניעים והחפצים שהם מוצאים, וגם את המורכבות המשפטית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Darryl Baker do before taking items from the supermarket's dumpsters?",
+      "difficulty": "B",
+      "options": [
+        "She paid the supermarket for every item.",
+        "She reported the items to the police.",
+        "She asked supermarket staff for permission.",
+        "She waited until the supermarket closed permanently."
+      ],
+      "correct_answer": "She asked supermarket staff for permission.",
+      "explanation_hebrew": "דריל ביקשה רשות מצוות הסופרמרקט לפני שלקחה את הפריטים."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “salvaged” most nearly mean?",
+      "difficulty": "B",
+      "options": [
+        "Thrown away deliberately",
+        "Bought at full price",
+        "Hidden from the owner",
+        "Recovered from being wasted or destroyed"
+      ],
+      "correct_answer": "Recovered from being wasted or destroyed",
+      "explanation_hebrew": "המילה salvaged מתארת פריטים שניצלו מאובדן או מהשלכה לפח."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does Jeff Ferrell make money from some of his finds?",
+      "difficulty": "B",
+      "options": [
+        "He sells discarded metal to a scrapyard and his wife sells other valuable finds online.",
+        "He charges people to enter private dumpsters.",
+        "He receives a salary from Fort Worth for collecting soap.",
+        "He rents his bicycle to other dumpster divers."
+      ],
+      "correct_answer": "He sells discarded metal to a scrapyard and his wife sells other valuable finds online.",
+      "explanation_hebrew": "ג'ף מוכר מתכת למגרש גרוטאות, ואשתו מוכרת באינטרנט פריטים אחרים כמו עתיקות ותכשיטים."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why is summer a particularly good time for Charlotte Bayford to search bins near Essex University?",
+      "difficulty": "B",
+      "options": [
+        "Local shops replace all their toiletries in summer.",
+        "Students leave and discard things they do not want to take home.",
+        "The university holds a yearly charity auction.",
+        "Only summer bins are legally open to the public."
+      ],
+      "correct_answer": "Students leave and discard things they do not want to take home.",
+      "explanation_hebrew": "כשסטודנטים חוזרים הביתה בקיץ, הם משליכים חפצים ומוצרי רחצה שאינם רוצים לקחת עמם."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Millie Diamond mean when she calls herself “a bit of a magpie”?",
+      "difficulty": "B",
+      "options": [
+        "She is afraid of climbing into bins.",
+        "She collects only black-and-white clothing.",
+        "She is attracted to and collects interesting objects.",
+        "She can identify every bird near her home."
+      ],
+      "correct_answer": "She is attracted to and collects interesting objects.",
+      "explanation_hebrew": "ההשוואה לעקעק מתארת אדם שנמשך לחפצים מעניינים ואוסף אותם."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare how Darryl Baker and Millie Diamond use the clothing they find.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר שימוש אחד או יותר של כל אישה ולהראות הבדל ברור ביניהן.",
+      "expected_points": [
+        "Darryl keeps clothes for herself and relatives, donates some, and sells some items.",
+        "Millie specifically searches for fabrics and clothing to salvage and refashion into new items.",
+        "Millie sells some of the redesigned pieces."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why might dumpster diving be both financially useful and risky?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר יתרון כספי וסיכון משפטי או מעשי על סמך הכתבה.",
+      "expected_points": [
+        "Divers can save hundreds by reusing clothes, toiletries, food and household goods.",
+        "Some sell metal, antiques, jewellery or clothing for income.",
+        "Rules differ by place; discarded property may belong to a city, waste company, owner or business.",
+        "Entering private property can create a risk of trespass charges, so asking permission is safest."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the experiences of the four dumpster divers and the legal caution in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את דריל, ג'ף, מילי ושרלוט ואת ההסתייגות המשפטית, בלי להוסיף מידע שאינו בכתבה.",
+      "expected_points": [
+        "Darryl saved hundreds through clothing and household finds after asking permission.",
+        "Jeff has dived for more than 50 years, gives away many finds and sells metal and valuables.",
+        "Millie refashions discarded textiles, while Charlotte times searches around student move-out and reuses toiletries and sealed food.",
+        "The legality depends on location and circumstances, and taking items may involve ownership or trespass issues."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short safety-and-ethics notice for someone considering dumpster diving, using the article's legal advice.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח הודעה מעשית שמדגישה רשות, רכוש פרטי ובטיחות מזון, על בסיס הכתבה.",
+      "expected_points": [
+        "Ask the owner or business for permission when in doubt.",
+        "Do not assume that an item is free merely because it is in a bin or skip.",
+        "Avoid trespassing and check local rules.",
+        "If mentioning food, limit it to sealed items and use cautious language."
+      ]
+    }
+  ]
+}

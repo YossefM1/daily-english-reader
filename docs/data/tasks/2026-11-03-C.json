@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-03",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Indonesia's toxic haze is giving its neighbours a political headache",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central argument?",
+      "difficulty": "C",
+      "options": [
+        "The haze has ended because all Asean targets were met.",
+        "Indonesia and Singapore have agreed to merge their energy systems.",
+        "The haze is creating health problems while forcing neighbouring governments to balance public anger against diplomatic relations with Indonesia.",
+        "Malaysia is the only country affected by wildfires in South East Asia."
+      ],
+      "correct_answer": "The haze is creating health problems while forcing neighbouring governments to balance public anger against diplomatic relations with Indonesia.",
+      "explanation_hebrew": "הטענה המרכזית היא שהעשן הרעיל פוגע בבריאות ומעמיד ממשלות שכנות בין לחץ ציבורי לבין הרצון להימנע ממשבר דיפלומטי עם אינדונזיה."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why have this year's wildfires been especially difficult to control?",
+      "difficulty": "C",
+      "options": [
+        "A strong El Niño has worsened drought in forests and peatlands.",
+        "Singapore stopped sharing weather forecasts.",
+        "Palm oil production was banned across the region.",
+        "The fires began only in large cities."
+      ],
+      "correct_answer": "A strong El Niño has worsened drought in forests and peatlands.",
+      "explanation_hebrew": "אל ניניו חזק החמיר את תנאי הבצורת ביערות ובאדמות הכבול, ולכן השריפות קשות יותר לריסון."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “an apparent détente after weeks of simmering bilateral tensions”, what does “détente” mean?",
+      "difficulty": "C",
+      "options": [
+        "A new trade sanction",
+        "A public-health emergency",
+        "An easing of strained relations",
+        "A permanent military alliance"
+      ],
+      "correct_answer": "An easing of strained relations",
+      "explanation_hebrew": "המילה détente מתארת הקלה או הפשרה ביחסים מתוחים בין מדינות."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What practical steps has Singapore taken in response to the haze?",
+      "difficulty": "C",
+      "options": [
+        "It closed all offshore financial businesses.",
+        "It ended all gas imports from Indonesia.",
+        "It formally severed diplomatic relations.",
+        "It opened hundreds of haze shelters, distributed masks and investigated companies."
+      ],
+      "correct_answer": "It opened hundreds of haze shelters, distributed masks and investigated companies.",
+      "explanation_hebrew": "סינגפור הקימה מאות מקלטים מפני האובך, חילקה מסכות לאוכלוסיות פגיעות ובדקה קשרים של חברות לשריפות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did Indonesia's gas-export announcement look retaliatory to many observers?",
+      "difficulty": "C",
+      "options": [
+        "It followed criticism over the haze and warnings that exports could stop to countries that did not “respect Indonesia”.",
+        "The reduction would remove all of Singapore's daily gas supply.",
+        "Malaysia had already prohibited Indonesian energy imports.",
+        "The announcement was part of a plan agreed by the joint haze task force."
+      ],
+      "correct_answer": "It followed criticism over the haze and warnings that exports could stop to countries that did not “respect Indonesia”.",
+      "explanation_hebrew": "העיתוי לאחר ביקורת על האובך, יחד עם אזהרות על מדינות שאינן 'מכבדות' את אינדונזיה, גרם למהלך להיראות כתגובה פוליטית."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When James Chin calls the Asean agreement “toothless”, what does he mean?",
+      "difficulty": "C",
+      "options": [
+        "It is difficult to translate into local languages.",
+        "It has no meaningful power to punish companies or compel governments.",
+        "It applies only to dental health during haze episodes.",
+        "It has already eliminated all regional fires."
+      ],
+      "correct_answer": "It has no meaningful power to punish companies or compel governments.",
+      "explanation_hebrew": "כאן toothless הוא דימוי להסכם שאין לו כוח אכיפה ממשי להעניש חברות או לחייב ממשלות לפעול."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two reasons Malaysia has responded cautiously to the haze.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שני גורמים שונים ומדויקים מתוך הכתבה.",
+      "expected_points": [
+        "Malaysia wants to avoid provoking Indonesia or damaging bilateral relations.",
+        "It is itself a major palm oil producer and has experienced fires on its own land.",
+        "Officials prefer diplomatic mechanisms such as an MOU and the Asean haze agreement.",
+        "Malaysia has less leverage over Indonesia than Singapore."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain how a cross-border environmental problem can become a domestic political problem in Singapore and Malaysia.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין הנזק הבריאותי, ציפיות הציבור, מחאות והלחץ על הממשלות להגיב.",
+      "expected_points": [
+        "The haze causes respiratory illness, headaches and prolonged disruption.",
+        "Citizens expect their governments to protect them and act against polluters.",
+        "Malaysians began a boycott, while Singaporeans complained that their government had not acted decisively enough.",
+        "If leaders appear ineffective, an external problem can be politicised domestically."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the environmental and diplomatic dimensions of the haze crisis in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את מקור האובך, השפעת אל ניניו, תגובת סינגפור ומלזיה, ומגבלות שיתוף הפעולה האזורי.",
+      "expected_points": [
+        "Wildfires in Indonesian regions send toxic haze into Singapore and Malaysia, and El Niño has prolonged the crisis.",
+        "The haze harms health and fuels public frustration in neighbouring countries.",
+        "Singapore has taken protective and investigative steps while pursuing a joint task force with Indonesia amid tense exchanges.",
+        "Malaysia has used more muted diplomacy because of regional relations and its own palm-oil interests.",
+        "The Asean agreement lacks enforcement power, allowing the cycle to recur."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Draft a short policy recommendation for Asean leaders based on weaknesses identified in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע צעדים מעשיים המבוססים על הכתבה ולהבחין בין מניעה, אכיפה והגנה על הציבור.",
+      "expected_points": [
+        "Strengthen wildfire prevention and monitoring before severe drought periods.",
+        "Create enforceable consequences for agricultural companies linked to fires.",
+        "Require governments to investigate and act against companies under their jurisdiction.",
+        "Coordinate shelters, masks, health warnings and cross-border data sharing.",
+        "Set measurable milestones toward the 2030 haze goal."
+      ]
+    }
+  ]
+}
