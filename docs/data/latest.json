@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+  "title": "Poundland supplier 'will lose millions' if retailer collapses",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno",
-  "published_at": "2026-11-03T00:41:36+00:00",
-  "age_hours_at_selection": 1.63,
-  "word_count": 851,
-  "generated_at": "2026-11-03T02:19:28.763473+00:00",
-  "difficulty_reason": "Human-interest feature with several personal stories and some figurative language; moderate sentence length and useful B1/B2/C1 vocabulary.",
+  "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+  "published_at": "2026-11-04T00:03:17+00:00",
+  "age_hours_at_selection": 2.21,
+  "word_count": 833,
+  "generated_at": "2026-11-04T02:16:08.156088+00:00",
+  "difficulty_reason": "Moderate-length business story with longer sentences and B1/B2/C1 commercial vocabulary; some understanding of how companies and insolvency work helps.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "dumped",
-      "lemma": "dump",
-      "level": "B1",
-      "hebrew": "הֻשְׁלַךְ, נִזְרַק",
-      "explanation_hebrew": "נִזְרַק אוֹ נֶעֱזַב בְּצוּרָה מְרֻשֶּׁלֶת",
-      "pronunciation_hebrew": "דַאמְפְּט",
-      "example": "Old furniture was dumped on the street."
-    },
-    {
-      "word": "recycling",
-      "lemma": "recycling",
-      "level": "B1",
-      "hebrew": "מִחְזוּר",
-      "explanation_hebrew": "עִיבּוּד חוֹזֵר שֶׁל חֹמֶר כְּדֵי לְהִשְׁתַּמֵּשׁ בּוֹ שׁוּב",
-      "pronunciation_hebrew": "רִיסַייְקְלִינְג",
-      "example": "Please put bottles in the recycling bin."
-    },
-    {
-      "word": "appalled",
-      "lemma": "appal",
-      "level": "C1",
-      "hebrew": "נֶחֱרַד, הִזְדַּעְזֵעַ",
-      "explanation_hebrew": "הִרְגִּישׁ זַעַם וְגֹעַל חֲזָקִים",
-      "pronunciation_hebrew": "אַפּוֹלְד",
-      "example": "She was appalled by the mess."
-    },
-    {
-      "word": "thrifty",
-      "lemma": "thrifty",
+      "word": "supplier",
+      "lemma": "supplier",
       "level": "B2",
-      "hebrew": "חַסְכָנִי",
-      "explanation_hebrew": "זָהִיר בְּהוֹצָאַת כֶּסֶף",
-      "pronunciation_hebrew": "תְרִיפְטִי",
-      "example": "A thrifty shopper looks for deals."
+      "hebrew": "ספק",
+      "explanation_hebrew": "חברה שמספקת סחורה לעסק אחר",
+      "pronunciation_hebrew": "סַפְּלַייֶר",
+      "example": "The supplier may lose millions."
     },
     {
-      "word": "freelance",
-      "lemma": "freelance",
+      "word": "collapse",
+      "lemma": "collapse",
       "level": "B2",
-      "hebrew": "עַצְמָאִי (לֹא שָׂכִיר)",
-      "explanation_hebrew": "עוֹבֵד בְּאֹפֶן עַצְמָאִי לְלֹא מַעֲבִיד קָבוּעַ",
-      "pronunciation_hebrew": "פְרִילַאנְס",
-      "example": "He works as a freelance writer."
+      "hebrew": "קריסה / התמוטטות",
+      "explanation_hebrew": "כישלון מוחלט של עסק",
+      "pronunciation_hebrew": "קוֹלָאפְּס",
+      "example": "The firm's collapse would cost many jobs."
     },
     {
-      "word": "salvaged",
-      "lemma": "salvage",
-      "level": "C1",
-      "hebrew": "חִלֵּץ, הִצִּיל",
-      "explanation_hebrew": "הִצִּיל מַשֶּׁהוּ מִלְּהִזָּרֵק אוֹ לְהִתְקַלְקֵל",
-      "pronunciation_hebrew": "סַאלְבִידְ'ְד",
-      "example": "They salvaged old wood from the house."
-    },
-    {
-      "word": "strewn",
-      "lemma": "strew",
-      "level": "C1",
-      "hebrew": "מְפֻזָּר, פָּזוּר",
-      "explanation_hebrew": "מֻנָּח בְּאִי-סֵדֶר עַל פְּנֵי שֶׁטַח",
-      "pronunciation_hebrew": "סְטְרוּן",
-      "example": "Papers were strewn across the floor."
-    },
-    {
-      "word": "donates",
-      "lemma": "donate",
-      "level": "B1",
-      "hebrew": "תּוֹרֵם",
-      "explanation_hebrew": "נוֹתֵן מַשֶּׁהוּ בְּחִינָּם לְמַטָּרָה טוֹבָה",
-      "pronunciation_hebrew": "דוֹנֵייְטְס",
-      "example": "She donates clothes to charity."
-    },
-    {
-      "word": "rummage",
-      "lemma": "rummage",
-      "level": "C1",
-      "hebrew": "לְחַטֵּט, לְפַשְׁפֵּשׁ",
-      "explanation_hebrew": "לְחַפֵּשׂ בְּעִרְבּוּבְיָה בְּתוֹךְ דְּבָרִים",
-      "pronunciation_hebrew": "רַאמִידְ'ְ",
-      "example": "He began to rummage through the drawer."
-    },
-    {
-      "word": "commercial",
-      "lemma": "commercial",
-      "level": "B1",
-      "hebrew": "מִסְחָרִי",
-      "explanation_hebrew": "קָשׁוּר לְעֵסֶק אוֹ לְמִסְחָר",
-      "pronunciation_hebrew": "קוֹמֶרְשַׁל",
-      "example": "It is a commercial building."
-    },
-    {
-      "word": "treasures",
-      "lemma": "treasure",
-      "level": "B1",
-      "hebrew": "אוֹצָרוֹת",
-      "explanation_hebrew": "דְּבָרִים יְקָרֵי עֵרֶךְ אוֹ מְיֻחָדִים",
-      "pronunciation_hebrew": "טְרֶזֶ'רְז",
-      "example": "The box was full of hidden treasures."
-    },
-    {
-      "word": "disgust",
-      "lemma": "disgust",
+      "word": "retailer",
+      "lemma": "retailer",
       "level": "B2",
-      "hebrew": "גֹּעַל, תִּיעוּב",
-      "explanation_hebrew": "תְּחוּשָׁה חֲזָקָה שֶׁל סְלִידָה",
-      "pronunciation_hebrew": "דִיסְגַאסְט",
-      "example": "He looked at the trash in disgust."
+      "hebrew": "קמעונאי",
+      "explanation_hebrew": "חברה שמוכרת מוצרים ישירות ללקוחות",
+      "pronunciation_hebrew": "רִיטֵייְלֶר",
+      "example": "The retailer has hundreds of stores."
     },
     {
-      "word": "usable",
-      "lemma": "usable",
+      "word": "afloat",
+      "lemma": "afloat",
+      "level": "C1",
+      "hebrew": "צף / שורד כלכלית",
+      "explanation_hebrew": "מצליח להמשיך לפעול למרות קשיים",
+      "pronunciation_hebrew": "אֲפְלוֹאט",
+      "example": "The supplier will stay afloat."
+    },
+    {
+      "word": "potentially",
+      "lemma": "potentially",
       "level": "B2",
-      "hebrew": "שָׁמִישׁ",
-      "explanation_hebrew": "שֶׁאֶפְשָׁר לְהִשְׁתַּמֵּשׁ בּוֹ",
-      "pronunciation_hebrew": "יוּזַבְּל",
-      "example": "The old phone is still usable."
+      "hebrew": "פוטנציאלית / אולי",
+      "explanation_hebrew": "באופן אפשרי בעתיד",
+      "pronunciation_hebrew": "פּוֹטֶנְשֶלִי",
+      "example": "Potentially thousands could lose jobs."
     },
     {
-      "word": "consigned",
-      "lemma": "consign",
-      "level": "C1",
-      "hebrew": "נִדּוֹן, הֻפְקַד לְ",
-      "explanation_hebrew": "נִשְׁלַח אוֹ נִמְסַר לְמַשֶּׁהוּ, לְרוֹב לְרָעָה",
-      "pronunciation_hebrew": "קוֹנְסַייְנְד",
-      "example": "The items were consigned to the bin."
-    },
-    {
-      "word": "anarchist",
-      "lemma": "anarchist",
-      "level": "C1",
-      "hebrew": "אֲנַרְכִיסְט",
-      "explanation_hebrew": "מִי שֶׁמִּתְנַגֵּד לְכָל שִׁלְטוֹן אוֹ סֵדֶר",
-      "pronunciation_hebrew": "אַנַרְקִיסְט",
-      "example": "He called himself an anarchist."
-    },
-    {
-      "word": "affluent",
-      "lemma": "affluent",
-      "level": "C1",
-      "hebrew": "אָמִיד, עָשִׁיר",
-      "explanation_hebrew": "בַּעַל כֶּסֶף רַב, מְבֻסָּס",
-      "pronunciation_hebrew": "אַפְלוּאֶנְט",
-      "example": "They live in an affluent area."
-    },
-    {
-      "word": "discarded",
-      "lemma": "discard",
+      "word": "representatives",
+      "lemma": "representative",
       "level": "B2",
-      "hebrew": "נִזְרַק, הֻשְׁלַךְ",
-      "explanation_hebrew": "נִזְרַק כִּי כְּבָר לֹא צָרִיךְ אוֹתוֹ",
-      "pronunciation_hebrew": "דִיסְקַארְדֶד",
-      "example": "She picked up a discarded can."
+      "hebrew": "נציגים",
+      "explanation_hebrew": "אנשים הפועלים בשם אחרים",
+      "pronunciation_hebrew": "רֶפְּרֶזֶנְטָטִיבְז",
+      "example": "Representatives met the politicians."
     },
     {
-      "word": "antique",
-      "lemma": "antique",
+      "word": "clarity",
+      "lemma": "clarity",
       "level": "B2",
-      "hebrew": "עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)",
-      "explanation_hebrew": "חֵפֶץ יָשָׁן בַּעַל עֵרֶךְ",
-      "pronunciation_hebrew": "אַנְטִיק",
-      "example": "This clock is a valuable antique."
+      "hebrew": "בהירות",
+      "explanation_hebrew": "מידע ברור וחד-משמעי",
+      "pronunciation_hebrew": "קְלָארִיטִי",
+      "example": "Politicians are seeking clarity."
     },
     {
-      "word": "valuable",
-      "lemma": "valuable",
-      "level": "B1",
-      "hebrew": "יְקַר עֵרֶךְ",
-      "explanation_hebrew": "שֶׁשָּׁוֶה הַרְבֵּה כֶּסֶף אוֹ חָשׁוּב מְאוֹד",
-      "pronunciation_hebrew": "וַואלְיוּאַבְּל",
-      "example": "This is a valuable painting."
-    },
-    {
-      "word": "taboo",
-      "lemma": "taboo",
+      "word": "confectionary",
+      "lemma": "confectionery",
       "level": "C1",
-      "hebrew": "טָאבּוּ, נוֹשֵׂא אָסוּר",
-      "explanation_hebrew": "מַשֶּׁהוּ שֶׁהַחֶבְרָה אוֹסֶרֶת אוֹ לֹא מְדַבֶּרֶת עָלָיו",
-      "pronunciation_hebrew": "טָאבּוּ",
-      "example": "The topic is still a taboo."
+      "hebrew": "ממתקים",
+      "explanation_hebrew": "מוצרי מתיקה כמו סוכריות ושוקולד",
+      "pronunciation_hebrew": "קוֹנְפֶקְשֶנֶרִי",
+      "example": "The firm sells confectionary to shops."
     },
     {
-      "word": "unearth",
-      "lemma": "unearth",
+      "word": "insolvent",
+      "lemma": "insolvent",
       "level": "C1",
-      "hebrew": "לַחְשׂוֹף, לְגַלּוֹת",
-      "explanation_hebrew": "לִמְצוֹא מַשֶּׁהוּ מֻסְתָּר אוֹ קָבוּר",
-      "pronunciation_hebrew": "אַנֶרְת'",
-      "example": "They hope to unearth old coins."
+      "hebrew": "חדל פירעון",
+      "explanation_hebrew": "לא מסוגל לשלם את חובותיו",
+      "pronunciation_hebrew": "אִינְסוֹלְבֶנְט",
+      "example": "The company could become insolvent."
     },
     {
-      "word": "refashion",
-      "lemma": "refashion",
+      "word": "longstanding",
+      "lemma": "longstanding",
+      "level": "C1",
+      "hebrew": "ותיק / מתמשך",
+      "explanation_hebrew": "שקיים כבר זמן רב",
+      "pronunciation_hebrew": "לוֹנְגְסְטַנְדִינְג",
+      "example": "They have a longstanding relationship."
+    },
+    {
+      "word": "echoes",
+      "lemma": "echo",
+      "level": "C1",
+      "hebrew": "מהדהד / חוזר על",
+      "explanation_hebrew": "חוזר על דבר שנאמר קודם",
+      "pronunciation_hebrew": "אֶקוֹז",
+      "example": "This echoes an earlier warning."
+    },
+    {
+      "word": "founder",
+      "lemma": "founder",
+      "level": "B2",
+      "hebrew": "מייסד",
+      "explanation_hebrew": "האדם שהקים עסק או ארגון",
+      "pronunciation_hebrew": "פַאוּנְדֶר",
+      "example": "The founder offered to invest."
+    },
+    {
+      "word": "premises",
+      "lemma": "premises",
+      "level": "B2",
+      "hebrew": "מקום עסק / חצרים",
+      "explanation_hebrew": "המבנה והשטח שבהם פועל עסק",
+      "pronunciation_hebrew": "פְּרֶמִיסֶז",
+      "example": "Staff may keep jobs on the same premises."
+    },
+    {
+      "word": "administration",
+      "lemma": "administration",
+      "level": "B2",
+      "hebrew": "כינוס נכסים",
+      "explanation_hebrew": "הליך משפטי לעסק שאינו יכול לשלם חובות",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵיישֶן",
+      "example": "The firm may go into administration."
+    },
+    {
+      "word": "solvent",
+      "lemma": "solvent",
+      "level": "C1",
+      "hebrew": "בעל כושר פירעון",
+      "explanation_hebrew": "מסוגל לשלם את חובותיו",
+      "pronunciation_hebrew": "סוֹלְבֶנְט",
+      "example": "They hope the firm stays solvent."
+    },
+    {
+      "word": "creditor",
+      "lemma": "creditor",
+      "level": "C1",
+      "hebrew": "נושה",
+      "explanation_hebrew": "גורם שחייבים לו כסף",
+      "pronunciation_hebrew": "קְרֶדִיטוֹר",
+      "example": "A secured creditor is paid first."
+    },
+    {
+      "word": "nightmare",
+      "lemma": "nightmare",
+      "level": "B2",
+      "hebrew": "סיוט",
+      "explanation_hebrew": "מצב נורא ומעיק",
+      "pronunciation_hebrew": "נַייטְמֵר",
+      "example": "It's a nightmare for the staff."
+    },
+    {
+      "word": "warehouse",
+      "lemma": "warehouse",
+      "level": "B2",
+      "hebrew": "מחסן",
+      "explanation_hebrew": "מבנה גדול לאחסון סחורה",
+      "pronunciation_hebrew": "ווֹרהַאוּס",
+      "example": "Warehouse staff could lose their jobs."
+    },
+    {
+      "word": "ripple",
+      "lemma": "ripple",
+      "level": "C1",
+      "hebrew": "אדווה / אפקט מתפשט",
+      "explanation_hebrew": "השפעה שמתפשטת מדבר אחד לרבים",
+      "pronunciation_hebrew": "רִיפְּל",
+      "example": "It created a ripple effect."
+    },
+    {
+      "word": "deliberately",
+      "lemma": "deliberately",
+      "level": "B2",
+      "hebrew": "במכוון",
+      "explanation_hebrew": "בכוונה ולא במקרה",
+      "pronunciation_hebrew": "דִילִיבֶּרֶטְלִי",
+      "example": "He asked if the timing was deliberately planned."
+    },
+    {
+      "word": "liquidations",
+      "lemma": "liquidation",
+      "level": "C1",
+      "hebrew": "חיסול / פירוק",
+      "explanation_hebrew": "מכירת נכסי עסק שקרס",
+      "pronunciation_hebrew": "לִיקְווִידֵיישֶנְז",
+      "example": "They make money through liquidations."
+    },
+    {
+      "word": "insider",
+      "lemma": "insider",
+      "level": "C1",
+      "hebrew": "גורם מבפנים",
+      "explanation_hebrew": "אדם עם ידע פנימי על מצב",
+      "pronunciation_hebrew": "אִינְסַייְדֶר",
+      "example": "An insider described the timing as odd."
+    },
+    {
+      "word": "uncertainty",
+      "lemma": "uncertainty",
+      "level": "B2",
+      "hebrew": "אי-ודאות",
+      "explanation_hebrew": "מצב לא ברור או לא בטוח",
+      "pronunciation_hebrew": "אַנְסֶרְטֶנְטִי",
+      "example": "There is uncertainty about the future."
+    },
+    {
+      "word": "legitimate",
+      "lemma": "legitimate",
+      "level": "C1",
+      "hebrew": "לגיטימי / מוצדק",
+      "explanation_hebrew": "סביר, חוקי ומוצדק",
+      "pronunciation_hebrew": "לֶגִ'יטִימֶט",
+      "example": "It is legitimate to ask the question."
+    },
+    {
+      "word": "stewardship",
+      "lemma": "stewardship",
       "level": "C2",
-      "hebrew": "לְעַצֵּב מֵחָדָשׁ",
-      "explanation_hebrew": "לִיצּוֹר מַשֶּׁהוּ חָדָשׁ מִדָּבָר יָשָׁן",
-      "pronunciation_hebrew": "רִיפַאשֶׁן",
-      "example": "She can refashion old shirts into bags."
-    },
-    {
-      "word": "clambered",
-      "lemma": "clamber",
-      "level": "C1",
-      "hebrew": "טִיפֵּס בִּכְבֵדוּת",
-      "explanation_hebrew": "טִיפֵּס אוֹ נִכְנַס בְּקֹשִׁי וּבְמַאֲמָץ",
-      "pronunciation_hebrew": "קְלַאמְבֶּרְד",
-      "example": "He clambered over the fence."
-    },
-    {
-      "word": "trespass",
-      "lemma": "trespass",
-      "level": "C1",
-      "hebrew": "הַסָּגַת גְּבוּל",
-      "explanation_hebrew": "כְּנִיסָה לְשֶׁטַח פְּרָטִי לְלֹא רְשׁוּת",
-      "pronunciation_hebrew": "טְרֶסְפַּאס",
-      "example": "Do not trespass on private land."
-    },
-    {
-      "word": "prosecution",
-      "lemma": "prosecution",
-      "level": "C1",
-      "hebrew": "הַעֲמָדָה לְדִין, תְּבִיעָה",
-      "explanation_hebrew": "הֲבָאַת אָדָם לְמִשְׁפָּט עַל עֲבֵרָה",
-      "pronunciation_hebrew": "פְּרוֹסִיקְיוּשַׁן",
-      "example": "He faced prosecution for the crime."
+      "hebrew": "ניהול אחראי",
+      "explanation_hebrew": "טיפול וניהול אחראי במשהו שהופקד בידיך",
+      "pronunciation_hebrew": "סְטוּאַרְדְשִיפּ",
+      "example": "The firm stood by its stewardship."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "dumped",
+      "word": "supplier",
       "type": "english_to_hebrew",
-      "question": "What does “dumped” mean?",
+      "question": "What does \"supplier\" mean?",
       "options": [
-        "חַסְכָנִי",
-        "נֶחֱרַד, הִזְדַּעְזֵעַ",
-        "מִחְזוּר",
-        "הֻשְׁלַךְ, נִזְרַק"
+        "צף / שורד כלכלית",
+        "קריסה / התמוטטות",
+        "קמעונאי",
+        "ספק"
       ],
-      "correct_answer": "הֻשְׁלַךְ, נִזְרַק",
-      "explanation_hebrew": "“dumped” פֵּירוּשׁוֹ הֻשְׁלַךְ, נִזְרַק."
+      "correct_answer": "ספק",
+      "explanation_hebrew": "המילה \"supplier\" פירושה ספק."
     },
     {
       "id": "B-q2",
-      "word": "recycling",
+      "word": "collapse",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “מִחְזוּר”?",
+      "question": "What is the English word for \"קריסה / התמוטטות\"?",
       "options": [
-        "freelance",
-        "appalled",
-        "thrifty",
-        "recycling"
+        "potentially",
+        "retailer",
+        "collapse",
+        "afloat"
       ],
-      "correct_answer": "recycling",
-      "explanation_hebrew": "הַמִּלָּה “recycling” פֵּירוּשׁוֹ מִחְזוּר."
+      "correct_answer": "collapse",
+      "explanation_hebrew": "\"קריסה / התמוטטות\" באנגלית הוא \"collapse\"."
     },
     {
       "id": "B-q3",
-      "word": "appalled",
+      "word": "retailer",
       "type": "english_to_hebrew",
-      "question": "What does “appalled” mean?",
+      "question": "What does \"retailer\" mean?",
       "options": [
-        "נֶחֱרַד, הִזְדַּעְזֵעַ",
-        "חַסְכָנִי",
-        "עַצְמָאִי (לֹא שָׂכִיר)",
-        "חִלֵּץ, הִצִּיל"
+        "קמעונאי",
+        "פוטנציאלית / אולי",
+        "נציגים",
+        "צף / שורד כלכלית"
       ],
-      "correct_answer": "נֶחֱרַד, הִזְדַּעְזֵעַ",
-      "explanation_hebrew": "“appalled” פֵּירוּשׁוֹ נֶחֱרַד, הִזְדַּעְזֵעַ."
+      "correct_answer": "קמעונאי",
+      "explanation_hebrew": "המילה \"retailer\" פירושה קמעונאי."
     },
     {
       "id": "B-q4",
-      "word": "thrifty",
+      "word": "afloat",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “חַסְכָנִי”?",
+      "question": "What is the English word for \"צף / שורד כלכלית\"?",
       "options": [
-        "thrifty",
-        "freelance",
-        "salvaged",
-        "strewn"
+        "potentially",
+        "afloat",
+        "clarity",
+        "representatives"
       ],
-      "correct_answer": "thrifty",
-      "explanation_hebrew": "הַמִּלָּה “thrifty” פֵּירוּשׁוֹ חַסְכָנִי."
+      "correct_answer": "afloat",
+      "explanation_hebrew": "\"צף / שורד כלכלית\" באנגלית הוא \"afloat\"."
     },
     {
       "id": "B-q5",
-      "word": "freelance",
+      "word": "potentially",
       "type": "english_to_hebrew",
-      "question": "What does “freelance” mean?",
+      "question": "What does \"potentially\" mean?",
       "options": [
-        "חִלֵּץ, הִצִּיל",
-        "עַצְמָאִי (לֹא שָׂכִיר)",
-        "תּוֹרֵם",
-        "מְפֻזָּר, פָּזוּר"
+        "בהירות",
+        "נציגים",
+        "ממתקים",
+        "פוטנציאלית / אולי"
       ],
-      "correct_answer": "עַצְמָאִי (לֹא שָׂכִיר)",
-      "explanation_hebrew": "“freelance” פֵּירוּשׁוֹ עַצְמָאִי (לֹא שָׂכִיר)."
+      "correct_answer": "פוטנציאלית / אולי",
+      "explanation_hebrew": "המילה \"potentially\" פירושה פוטנציאלית / אולי."
     },
     {
       "id": "B-q6",
-      "word": "salvaged",
+      "word": "representatives",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “חִלֵּץ, הִצִּיל”?",
+      "question": "What is the English word for \"נציגים\"?",
       "options": [
-        "strewn",
-        "salvaged",
-        "donates",
-        "rummage"
+        "insolvent",
+        "representatives",
+        "clarity",
+        "confectionary"
       ],
-      "correct_answer": "salvaged",
-      "explanation_hebrew": "הַמִּלָּה “salvaged” פֵּירוּשׁוֹ חִלֵּץ, הִצִּיל."
+      "correct_answer": "representatives",
+      "explanation_hebrew": "\"נציגים\" באנגלית הוא \"representatives\"."
     },
     {
       "id": "B-q7",
-      "word": "strewn",
+      "word": "clarity",
       "type": "english_to_hebrew",
-      "question": "What does “strewn” mean?",
+      "question": "What does \"clarity\" mean?",
       "options": [
-        "מִסְחָרִי",
-        "מְפֻזָּר, פָּזוּר",
-        "תּוֹרֵם",
-        "לְחַטֵּט, לְפַשְׁפֵּשׁ"
+        "חדל פירעון",
+        "בהירות",
+        "ממתקים",
+        "ותיק / מתמשך"
       ],
-      "correct_answer": "מְפֻזָּר, פָּזוּר",
-      "explanation_hebrew": "“strewn” פֵּירוּשׁוֹ מְפֻזָּר, פָּזוּר."
+      "correct_answer": "בהירות",
+      "explanation_hebrew": "המילה \"clarity\" פירושה בהירות."
     },
     {
       "id": "B-q8",
-      "word": "donates",
+      "word": "confectionary",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “תּוֹרֵם”?",
+      "question": "What is the English word for \"ממתקים\"?",
       "options": [
-        "commercial",
-        "donates",
-        "rummage",
-        "treasures"
+        "insolvent",
+        "longstanding",
+        "echoes",
+        "confectionary"
       ],
-      "correct_answer": "donates",
-      "explanation_hebrew": "הַמִּלָּה “donates” פֵּירוּשׁוֹ תּוֹרֵם."
+      "correct_answer": "confectionary",
+      "explanation_hebrew": "\"ממתקים\" באנגלית הוא \"confectionary\"."
     },
     {
       "id": "B-q9",
-      "word": "rummage",
+      "word": "insolvent",
       "type": "english_to_hebrew",
-      "question": "What does “rummage” mean?",
+      "question": "What does \"insolvent\" mean?",
       "options": [
-        "גֹּעַל, תִּיעוּב",
-        "אוֹצָרוֹת",
-        "מִסְחָרִי",
-        "לְחַטֵּט, לְפַשְׁפֵּשׁ"
+        "מהדהד / חוזר על",
+        "מייסד",
+        "חדל פירעון",
+        "ותיק / מתמשך"
       ],
-      "correct_answer": "לְחַטֵּט, לְפַשְׁפֵּשׁ",
-      "explanation_hebrew": "“rummage” פֵּירוּשׁוֹ לְחַטֵּט, לְפַשְׁפֵּשׁ."
+      "correct_answer": "חדל פירעון",
+      "explanation_hebrew": "המילה \"insolvent\" פירושה חדל פירעון."
     },
     {
       "id": "B-q10",
-      "word": "commercial",
+      "word": "longstanding",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “מִסְחָרִי”?",
+      "question": "What is the English word for \"ותיק / מתמשך\"?",
       "options": [
-        "commercial",
-        "usable",
-        "disgust",
-        "treasures"
+        "echoes",
+        "premises",
+        "longstanding",
+        "founder"
       ],
-      "correct_answer": "commercial",
-      "explanation_hebrew": "הַמִּלָּה “commercial” פֵּירוּשׁוֹ מִסְחָרִי."
+      "correct_answer": "longstanding",
+      "explanation_hebrew": "\"ותיק / מתמשך\" באנגלית הוא \"longstanding\"."
     },
     {
       "id": "B-q11",
-      "word": "treasures",
+      "word": "echoes",
       "type": "english_to_hebrew",
-      "question": "What does “treasures” mean?",
+      "question": "What does \"echoes\" mean?",
       "options": [
-        "שָׁמִישׁ",
-        "גֹּעַל, תִּיעוּב",
-        "אוֹצָרוֹת",
-        "נִדּוֹן, הֻפְקַד לְ"
+        "מהדהד / חוזר על",
+        "כינוס נכסים",
+        "מקום עסק / חצרים",
+        "מייסד"
       ],
-      "correct_answer": "אוֹצָרוֹת",
-      "explanation_hebrew": "“treasures” פֵּירוּשׁוֹ אוֹצָרוֹת."
+      "correct_answer": "מהדהד / חוזר על",
+      "explanation_hebrew": "המילה \"echoes\" פירושה מהדהד / חוזר על."
     },
     {
       "id": "B-q12",
-      "word": "disgust",
+      "word": "founder",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “גֹּעַל, תִּיעוּב”?",
+      "question": "What is the English word for \"מייסד\"?",
       "options": [
-        "usable",
-        "disgust",
-        "consigned",
-        "anarchist"
+        "founder",
+        "premises",
+        "solvent",
+        "administration"
       ],
-      "correct_answer": "disgust",
-      "explanation_hebrew": "הַמִּלָּה “disgust” פֵּירוּשׁוֹ גֹּעַל, תִּיעוּב."
+      "correct_answer": "founder",
+      "explanation_hebrew": "\"מייסד\" באנגלית הוא \"founder\"."
     },
     {
       "id": "B-q13",
-      "word": "usable",
+      "word": "premises",
       "type": "english_to_hebrew",
-      "question": "What does “usable” mean?",
+      "question": "What does \"premises\" mean?",
       "options": [
-        "שָׁמִישׁ",
-        "אֲנַרְכִיסְט",
-        "נִדּוֹן, הֻפְקַד לְ",
-        "אָמִיד, עָשִׁיר"
+        "כינוס נכסים",
+        "נושה",
+        "בעל כושר פירעון",
+        "מקום עסק / חצרים"
       ],
-      "correct_answer": "שָׁמִישׁ",
-      "explanation_hebrew": "“usable” פֵּירוּשׁוֹ שָׁמִישׁ."
+      "correct_answer": "מקום עסק / חצרים",
+      "explanation_hebrew": "המילה \"premises\" פירושה מקום עסק / חצרים."
     },
     {
       "id": "B-q14",
-      "word": "consigned",
+      "word": "administration",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “נִדּוֹן, הֻפְקַד לְ”?",
+      "question": "What is the English word for \"כינוס נכסים\"?",
       "options": [
-        "discarded",
-        "consigned",
-        "anarchist",
-        "affluent"
+        "solvent",
+        "administration",
+        "creditor",
+        "nightmare"
       ],
-      "correct_answer": "consigned",
-      "explanation_hebrew": "הַמִּלָּה “consigned” פֵּירוּשׁוֹ נִדּוֹן, הֻפְקַד לְ."
+      "correct_answer": "administration",
+      "explanation_hebrew": "\"כינוס נכסים\" באנגלית הוא \"administration\"."
     },
     {
       "id": "B-q15",
-      "word": "anarchist",
+      "word": "solvent",
       "type": "english_to_hebrew",
-      "question": "What does “anarchist” mean?",
+      "question": "What does \"solvent\" mean?",
       "options": [
-        "נִזְרַק, הֻשְׁלַךְ",
-        "עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)",
-        "אָמִיד, עָשִׁיר",
-        "אֲנַרְכִיסְט"
+        "בעל כושר פירעון",
+        "סיוט",
+        "מחסן",
+        "נושה"
       ],
-      "correct_answer": "אֲנַרְכִיסְט",
-      "explanation_hebrew": "“anarchist” פֵּירוּשׁוֹ אֲנַרְכִיסְט."
+      "correct_answer": "בעל כושר פירעון",
+      "explanation_hebrew": "המילה \"solvent\" פירושה בעל כושר פירעון."
     },
     {
       "id": "B-q16",
-      "word": "affluent",
+      "word": "creditor",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “אָמִיד, עָשִׁיר”?",
+      "question": "What is the English word for \"נושה\"?",
       "options": [
-        "valuable",
-        "antique",
-        "discarded",
-        "affluent"
+        "ripple",
+        "nightmare",
+        "warehouse",
+        "creditor"
       ],
-      "correct_answer": "affluent",
-      "explanation_hebrew": "הַמִּלָּה “affluent” פֵּירוּשׁוֹ אָמִיד, עָשִׁיר."
+      "correct_answer": "creditor",
+      "explanation_hebrew": "\"נושה\" באנגלית הוא \"creditor\"."
     },
     {
       "id": "B-q17",
-      "word": "discarded",
+      "word": "nightmare",
       "type": "english_to_hebrew",
-      "question": "What does “discarded” mean?",
+      "question": "What does \"nightmare\" mean?",
       "options": [
-        "טָאבּוּ, נוֹשֵׂא אָסוּר",
-        "נִזְרַק, הֻשְׁלַךְ",
-        "יְקַר עֵרֶךְ",
-        "עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)"
+        "מחסן",
+        "סיוט",
+        "אדווה / אפקט מתפשט",
+        "במכוון"
       ],
-      "correct_answer": "נִזְרַק, הֻשְׁלַךְ",
-      "explanation_hebrew": "“discarded” פֵּירוּשׁוֹ נִזְרַק, הֻשְׁלַךְ."
+      "correct_answer": "סיוט",
+      "explanation_hebrew": "המילה \"nightmare\" פירושה סיוט."
     },
     {
       "id": "B-q18",
-      "word": "antique",
+      "word": "warehouse",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)”?",
+      "question": "What is the English word for \"מחסן\"?",
       "options": [
-        "antique",
-        "unearth",
-        "taboo",
-        "valuable"
+        "warehouse",
+        "liquidations",
+        "ripple",
+        "deliberately"
       ],
-      "correct_answer": "antique",
-      "explanation_hebrew": "הַמִּלָּה “antique” פֵּירוּשׁוֹ עַתִּיק (פְּרִיט יָשָׁן וְיָקָר)."
+      "correct_answer": "warehouse",
+      "explanation_hebrew": "\"מחסן\" באנגלית הוא \"warehouse\"."
     },
     {
       "id": "B-q19",
-      "word": "valuable",
+      "word": "ripple",
       "type": "english_to_hebrew",
-      "question": "What does “valuable” mean?",
+      "question": "What does \"ripple\" mean?",
       "options": [
-        "לַחְשׂוֹף, לְגַלּוֹת",
-        "טָאבּוּ, נוֹשֵׂא אָסוּר",
-        "לְעַצֵּב מֵחָדָשׁ",
-        "יְקַר עֵרֶךְ"
+        "אדווה / אפקט מתפשט",
+        "חיסול / פירוק",
+        "גורם מבפנים",
+        "במכוון"
       ],
-      "correct_answer": "יְקַר עֵרֶךְ",
-      "explanation_hebrew": "“valuable” פֵּירוּשׁוֹ יְקַר עֵרֶךְ."
+      "correct_answer": "אדווה / אפקט מתפשט",
+      "explanation_hebrew": "המילה \"ripple\" פירושה אדווה / אפקט מתפשט."
     },
     {
       "id": "B-q20",
-      "word": "taboo",
+      "word": "deliberately",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “טָאבּוּ, נוֹשֵׂא אָסוּר”?",
+      "question": "What is the English word for \"במכוון\"?",
       "options": [
-        "unearth",
-        "clambered",
-        "taboo",
-        "refashion"
+        "deliberately",
+        "uncertainty",
+        "insider",
+        "liquidations"
       ],
-      "correct_answer": "taboo",
-      "explanation_hebrew": "הַמִּלָּה “taboo” פֵּירוּשׁוֹ טָאבּוּ, נוֹשֵׂא אָסוּר."
+      "correct_answer": "deliberately",
+      "explanation_hebrew": "\"במכוון\" באנגלית הוא \"deliberately\"."
     },
     {
       "id": "B-q21",
-      "word": "unearth",
+      "word": "liquidations",
       "type": "english_to_hebrew",
-      "question": "What does “unearth” mean?",
+      "question": "What does \"liquidations\" mean?",
       "options": [
-        "לַחְשׂוֹף, לְגַלּוֹת",
-        "הַסָּגַת גְּבוּל",
-        "לְעַצֵּב מֵחָדָשׁ",
-        "טִיפֵּס בִּכְבֵדוּת"
+        "אי-ודאות",
+        "גורם מבפנים",
+        "חיסול / פירוק",
+        "לגיטימי / מוצדק"
       ],
-      "correct_answer": "לַחְשׂוֹף, לְגַלּוֹת",
-      "explanation_hebrew": "“unearth” פֵּירוּשׁוֹ לַחְשׂוֹף, לְגַלּוֹת."
+      "correct_answer": "חיסול / פירוק",
+      "explanation_hebrew": "המילה \"liquidations\" פירושה חיסול / פירוק."
     },
     {
       "id": "B-q22",
-      "word": "refashion",
+      "word": "insider",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “לְעַצֵּב מֵחָדָשׁ”?",
+      "question": "What is the English word for \"גורם מבפנים\"?",
       "options": [
-        "prosecution",
-        "refashion",
-        "clambered",
-        "trespass"
+        "insider",
+        "uncertainty",
+        "stewardship",
+        "legitimate"
       ],
-      "correct_answer": "refashion",
-      "explanation_hebrew": "הַמִּלָּה “refashion” פֵּירוּשׁוֹ לְעַצֵּב מֵחָדָשׁ."
+      "correct_answer": "insider",
+      "explanation_hebrew": "\"גורם מבפנים\" באנגלית הוא \"insider\"."
     },
     {
       "id": "B-q23",
-      "word": "clambered",
+      "word": "uncertainty",
       "type": "english_to_hebrew",
-      "question": "What does “clambered” mean?",
+      "question": "What does \"uncertainty\" mean?",
       "options": [
-        "הַסָּגַת גְּבוּל",
-        "הֻשְׁלַךְ, נִזְרַק",
-        "טִיפֵּס בִּכְבֵדוּת",
-        "הַעֲמָדָה לְדִין, תְּבִיעָה"
+        "ספק",
+        "לגיטימי / מוצדק",
+        "אי-ודאות",
+        "ניהול אחראי"
       ],
-      "correct_answer": "טִיפֵּס בִּכְבֵדוּת",
-      "explanation_hebrew": "“clambered” פֵּירוּשׁוֹ טִיפֵּס בִּכְבֵדוּת."
+      "correct_answer": "אי-ודאות",
+      "explanation_hebrew": "המילה \"uncertainty\" פירושה אי-ודאות."
     },
     {
       "id": "B-q24",
-      "word": "trespass",
+      "word": "legitimate",
       "type": "hebrew_to_english",
-      "question": "אֵיזוֹ מִּלָּה בְאַנְגְלִית פֵּירוּשׁוֹ “הַסָּגַת גְּבוּל”?",
+      "question": "What is the English word for \"לגיטימי / מוצדק\"?",
       "options": [
-        "recycling",
-        "prosecution",
-        "dumped",
-        "trespass"
+        "stewardship",
+        "collapse",
+        "legitimate",
+        "supplier"
       ],
-      "correct_answer": "trespass",
-      "explanation_hebrew": "הַמִּלָּה “trespass” פֵּירוּשׁוֹ הַסָּגַת גְּבוּל."
+      "correct_answer": "legitimate",
+      "explanation_hebrew": "\"לגיטימי / מוצדק\" באנגלית הוא \"legitimate\"."
     },
     {
       "id": "B-q25",
-      "word": "prosecution",
+      "word": "stewardship",
       "type": "english_to_hebrew",
-      "question": "What does “prosecution” mean?",
+      "question": "What does \"stewardship\" mean?",
       "options": [
-        "נֶחֱרַד, הִזְדַּעְזֵעַ",
-        "הֻשְׁלַךְ, נִזְרַק",
-        "מִחְזוּר",
-        "הַעֲמָדָה לְדִין, תְּבִיעָה"
+        "קמעונאי",
+        "קריסה / התמוטטות",
+        "ספק",
+        "ניהול אחראי"
       ],
-      "correct_answer": "הַעֲמָדָה לְדִין, תְּבִיעָה",
-      "explanation_hebrew": "“prosecution” פֵּירוּשׁוֹ הַעֲמָדָה לְדִין, תְּבִיעָה."
+      "correct_answer": "ניהול אחראי",
+      "explanation_hebrew": "המילה \"stewardship\" פירושה ניהול אחראי."
     }
   ]
 }
