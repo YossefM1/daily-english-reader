@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-04",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Poundland supplier 'will lose millions' if retailer collapses",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Poundland has opened thousands of new stores abroad.",
+        "A supplier explains how Poundland's possible collapse could harm suppliers, employees and the wider supply chain.",
+        "Highcrest has stopped selling confectionery to all retailers.",
+        "The government has already nationalised Poundland."
+      ],
+      "correct_answer": "A supplier explains how Poundland's possible collapse could harm suppliers, employees and the wider supply chain.",
+      "explanation_hebrew": "הכתבה בוחנת כיצד קריסה אפשרית של פאונדלנד עלולה לפגוע בספקים, בעובדים ובשרשרת האספקה הרחבה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does Adam Turner believe Highcrest can survive losing several million pounds?",
+      "difficulty": "B",
+      "options": [
+        "It is insured by the government.",
+        "It no longer depends on any retailers.",
+        "It is a longstanding business able to absorb the loss.",
+        "Gordon Brothers has promised to repay it in full."
+      ],
+      "correct_answer": "It is a longstanding business able to absorb the loss.",
+      "explanation_hebrew": "טרנר אמר שהייקרסט היא חברה ותיקה שיכולה לספוג את ההפסד, בניגוד לספקים קטנים יותר."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “stomach this” mean when Turner describes Highcrest?",
+      "difficulty": "B",
+      "options": [
+        "Sell more food products",
+        "Accept or withstand a painful financial loss",
+        "Avoid paying its suppliers",
+        "Close before the Christmas period"
+      ],
+      "correct_answer": "Accept or withstand a painful financial loss",
+      "explanation_hebrew": "כאן stomach this פירושו להיות מסוגל לשאת או לספוג הפסד כספי קשה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why is the final three months of the year called the “golden quarter” for retailers?",
+      "difficulty": "B",
+      "options": [
+        "Suppliers are paid in gold.",
+        "All debts are cancelled in October.",
+        "Stores are legally protected from insolvency.",
+        "Halloween and Christmas trading make it a crucial, high-stock sales period."
+      ],
+      "correct_answer": "Halloween and Christmas trading make it a crucial, high-stock sales period.",
+      "explanation_hebrew": "הרבעון האחרון כולל מכירות ליל כל הקדושים ולחג המולד ולכן הוא תקופה מסחרית חשובה עם מלאי רב."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What could happen to roughly 6,000 Poundland employees if buyers take only half the stores?",
+      "difficulty": "B",
+      "options": [
+        "They might not be re-employed at the sold premises.",
+        "They will automatically become secured creditors.",
+        "They will all move to Highcrest.",
+        "They will receive ownership of the remaining stores."
+      ],
+      "correct_answer": "They might not be re-employed at the sold premises.",
+      "explanation_hebrew": "לפי הכתבה, קונים מתעניינים רק בכמחצית מהחנויות, ולכן כ־6,000 עובדים עלולים שלא לקבל עבודה חדשה באותם אתרים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In insolvency, what does “pennies in the pound” mean?",
+      "difficulty": "B",
+      "options": [
+        "Suppliers will be paid before secured creditors.",
+        "Each supplier will receive a new shop.",
+        "Creditors may recover only a small fraction of what they are owed.",
+        "Poundland will sell products for one penny."
+      ],
+      "correct_answer": "Creditors may recover only a small fraction of what they are owed.",
+      "explanation_hebrew": "הביטוי אומר שנושים יקבלו בחזרה רק חלק קטן מאוד מן הסכום המלא המגיע להם."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain why small and medium-sized suppliers may be more vulnerable than Highcrest if Poundland becomes insolvent.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין לפחות שני גורמים מדויקים מן הכתבה.",
+      "expected_points": [
+        "Some suppliers work only for Poundland and depend heavily on it.",
+        "They may be owed the most during the high-stock golden quarter.",
+        "Suppliers are behind secured creditor Gordon Brothers in the repayment order.",
+        "Unlike Highcrest, smaller firms may not have enough financial strength to absorb a large unpaid balance."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does Turner describe a possible collapse as a “massive ripple effect” through the supply chain?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להראות כיצד השפעה על פאונדלנד מתפשטת לעובדים, ספקים ועסקים נוספים.",
+      "expected_points": [
+        "About 12,000 Poundland employees face uncertainty.",
+        "Thousands of suppliers could lose money, and some may collapse themselves.",
+        "Warehouse, shop and head-office staff would all be affected.",
+        "The consequences could extend to tens of thousands of people beyond Poundland."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Poundland's situation, the risks to suppliers and employees, and the government's response in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את מצב החברה, החוב לספקים, הסיכון לעובדים ופעולת השרים בלי לקבוע שהחברה כבר קרסה.",
+      "expected_points": [
+        "Poundland is still trading and is not yet in administration, but its future is uncertain.",
+        "Highcrest expects to lose millions if it becomes insolvent, while smaller suppliers may fail.",
+        "Only about half the stores currently interest buyers, potentially leaving around 6,000 employees without re-employment.",
+        "Ministers are meeting Gordon Brothers and Poundland executives to seek clarity while avoiding interference in negotiations.",
+        "The government says it is ready to support employees if administration occurs."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short briefing for a small Poundland supplier explaining the article's main financial risks.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח תדריך ענייני המבוסס רק על הכתבה ולהבחין בין סיכון לבין עובדה שכבר התרחשה.",
+      "expected_points": [
+        "State that Poundland has not yet entered administration.",
+        "Explain that suppliers may recover only a fraction of unpaid invoices if insolvency occurs.",
+        "Mention that secured creditors are first in line for repayment.",
+        "Note that exposure may be highest during the high-stock final quarter.",
+        "Use cautious language and avoid claiming that collapse is certain."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-04",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Graduates jobs: More work with AI but what else?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central question does the article explore?",
+      "difficulty": "C",
+      "options": [
+        "Whether AI-focused graduate jobs provide greater responsibility while still teaching enough traditional professional skills",
+        "Whether every graduate should stop using AI immediately",
+        "Whether universities should replace degrees with chatbots",
+        "Whether AI agents can legally become company directors"
+      ],
+      "correct_answer": "Whether AI-focused graduate jobs provide greater responsibility while still teaching enough traditional professional skills",
+      "explanation_hebrew": "הכתבה שואלת האם תפקידי בוגרים ממוקדי בינה מלאכותית מעניקים אחריות והתקדמות, אך גם מאפשרים ללמוד את יסודות המקצוע."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is a major part of Lotte Underwood's role?",
+      "difficulty": "C",
+      "options": [
+        "Writing every client article without technology",
+        "Managing AI agents, checking their outputs and sharing useful results with colleagues",
+        "Training university lecturers to award degrees",
+        "Replacing all direct client meetings with automated calls"
+      ],
+      "correct_answer": "Managing AI agents, checking their outputs and sharing useful results with colleagues",
+      "explanation_hebrew": "אנדרווד מנהלת סוכני AI, בודקת את התוצרים שלהם ומעבירה תוצאות לעמיתים שעובדים מול לקוחות והתקשורת."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “AI savvy graduates” mean in the article?",
+      "difficulty": "C",
+      "options": [
+        "Graduates who refuse to automate any work",
+        "Graduates employed only in financial services",
+        "Graduates knowledgeable and capable in using AI",
+        "Graduates who designed the first chatbot"
+      ],
+      "correct_answer": "Graduates knowledgeable and capable in using AI",
+      "explanation_hebrew": "AI savvy מתאר בוגרים שמבינים בבינה מלאכותית ויודעים להשתמש בה ביעילות."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did PwC find about entry-level roles most influenced by AI?",
+      "difficulty": "C",
+      "options": [
+        "They require fewer skills than before.",
+        "They have disappeared completely since 2019.",
+        "They are limited to public relations.",
+        "They are seven times more likely to require traditionally senior-level skills."
+      ],
+      "correct_answer": "They are seven times more likely to require traditionally senior-level skills.",
+      "explanation_hebrew": "מחקר PwC מצא שתפקידי כניסה המושפעים ביותר מ־AI נוטים פי שבעה לדרוש מיומנויות שנחשבו בעבר לבכירות."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Cian Clinton say AI is “killing the pyramid approach” to career progression?",
+      "difficulty": "C",
+      "options": [
+        "AI lets junior staff contribute ideas and assume responsibilities earlier, so advancement depends less on years of accumulated knowledge.",
+        "AI prevents graduates from communicating with senior staff.",
+        "Companies no longer need critical thinking.",
+        "Every employee now has the same salary and job title."
+      ],
+      "correct_answer": "AI lets junior staff contribute ideas and assume responsibilities earlier, so advancement depends less on years of accumulated knowledge.",
+      "explanation_hebrew": "קלינטון טוען ש־AI מאפשר לעובדים צעירים לבצע עבודה אחראית מוקדם יותר, ולכן הקידום תלוי פחות בוותק ובמאגר ידע בלבד."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “AI-centric” mean in the discussion of graduate roles?",
+      "difficulty": "C",
+      "options": [
+        "Designed for employees in a city centre",
+        "Focused too heavily or mainly on AI",
+        "Opposed to all new technology",
+        "Based on rotating through four departments"
+      ],
+      "correct_answer": "Focused too heavily or mainly on AI",
+      "explanation_hebrew": "AI-centric פירושו תפקיד שממוקד בעיקר או במידה רבה מדי בבינה מלאכותית."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare Lotte Underwood's AI-focused role with Portman Finance Group's graduate programme.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג הבדל ברור במוקד העבודה ובאופן הלמידה של הבוגרים.",
+      "expected_points": [
+        "Underwood mainly manages and applies AI agents in public relations work.",
+        "She has not yet gained some traditional PR experience, such as directly pitching to the media.",
+        "Portman's graduates rotate through four areas at six-month intervals.",
+        "They work with senior relationship managers and learn products, credit papers, customer relationships and complete transactions."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "What are the main opportunities and risks of giving graduates senior-level responsibilities through AI?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לנתח לפחות יתרון אחד וסיכון אחד תוך שימוש בדוגמאות או טענות מהכתבה.",
+      "expected_points": [
+        "AI can let graduates implement ideas, contribute value and progress faster.",
+        "Junior employees can take on strategic decision-making, leadership and team-building expectations earlier.",
+        "Heavy AI focus may leave gaps in traditional sector knowledge and client-facing skills.",
+        "Higher expectations may place senior-level demands on inexperienced workers.",
+        "Long-term progression requires combining AI literacy with professional expertise."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how AI is changing graduate jobs and the debate about career development in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול דוגמאות לתפקידי AI, ממצאי PwC, יתרונות האחריות המוקדמת והחשש מפערי ידע מקצועי.",
+      "expected_points": [
+        "Companies are creating graduate roles that build, manage and apply AI agents across business functions.",
+        "PwC found that AI-influenced entry-level jobs increasingly demand skills once associated with senior staff.",
+        "Graduates such as Clinton feel more valued and expect faster progression.",
+        "However, Underwood and employers such as Portman highlight the need to learn traditional professional skills.",
+        "Experts argue that AI literacy must be paired with sector and client knowledge."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Design a brief recommendation for an employer creating an AI-focused graduate programme.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע תכנית מאוזנת המשלבת AI, ידע מקצועי, פיקוח אנושי והתפתחות הדרגתית.",
+      "expected_points": [
+        "Teach graduates to build or manage AI tools and critically check their outputs.",
+        "Include rotations or direct work with experienced professionals.",
+        "Provide traditional sector training and client-facing experience.",
+        "Increase responsibility while offering supervision and feedback.",
+        "Measure both AI literacy and development of professional judgement."
+      ]
+    }
+  ]
+}

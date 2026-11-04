@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-04",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Action needed to tackle Jersey's 'biodiversity crisis'",
+  "article_url": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "Experts and officials warn that Jersey must give more attention and resources to its declining biodiversity.",
+        "Jersey has already restored every lost species on the island.",
+        "A new zoo will replace all of Jersey's natural habitats.",
+        "The government has cancelled its plans for a state of nature report."
+      ],
+      "correct_answer": "Experts and officials warn that Jersey must give more attention and resources to its declining biodiversity.",
+      "explanation_hebrew": "הכתבה עוסקת באזהרות על ירידה במגוון הביולוגי של ג'רזי ובצורך במדיניות, משאבים והשקעה לטווח ארוך."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to Piers Sangan, what are signs of Jersey's biodiversity crisis?",
+      "difficulty": "A",
+      "options": [
+        "More native species and fewer invasive species",
+        "More invasive species, fewer native species and a declining ecosystem",
+        "An increase in stoats and rapidly growing bird populations",
+        "Cleaner water and the return of every lost habitat"
+      ],
+      "correct_answer": "More invasive species, fewer native species and a declining ecosystem",
+      "explanation_hebrew": "סנגן תיאר עלייה במינים פולשים, ירידה במינים מקומיים והידרדרות של המערכת האקולוגית."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does the phrase “put on the shelf” mean?",
+      "difficulty": "A",
+      "options": [
+        "Displayed in a public museum",
+        "Published as a finished government report",
+        "Set aside and not actively pursued",
+        "Protected from invasive species"
+      ],
+      "correct_answer": "Set aside and not actively pursued",
+      "explanation_hebrew": "הביטוי put on the shelf פירושו שתכנית הונחה בצד ולא קודמה באופן פעיל."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is expected to happen in 2027?",
+      "difficulty": "A",
+      "options": [
+        "Jersey will reach net zero.",
+        "All invasive species will disappear.",
+        "The Grazing Project will close.",
+        "Officials will release a state of nature report to inform a new biodiversity strategy."
+      ],
+      "correct_answer": "Officials will release a state of nature report to inform a new biodiversity strategy.",
+      "explanation_hebrew": "הפקידים צפויים לפרסם ב־2027 דוח מצב הטבע שישמש בסיס לאסטרטגיית מגוון ביולוגי חדשה."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does the Jersey Grazing Project try to improve habitats?",
+      "difficulty": "A",
+      "options": [
+        "It uses cows and sheep to restore and improve them.",
+        "It replaces grassland with new roads.",
+        "It moves every native animal to a zoo.",
+        "It removes all farming from the island."
+      ],
+      "correct_answer": "It uses cows and sheep to restore and improve them.",
+      "explanation_hebrew": "פרויקט המרעה משתמש בפרות ובכבשים כדי לשפר ולשקם בתי גידול."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “fall by the wayside” mean in Sangan's warning?",
+      "difficulty": "A",
+      "options": [
+        "Move to another island",
+        "Become more expensive",
+        "Be neglected or forgotten",
+        "Be measured in a report"
+      ],
+      "correct_answer": "Be neglected or forgotten",
+      "explanation_hebrew": "הביטוי מתאר נושא שנזנח או נשכח מפני שנושאים אחרים מקבלים עדיפות."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two examples from the article showing that Jersey's wildlife is under pressure.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי דוגמאות מדויקות מן הכתבה.",
+      "expected_points": [
+        "Jersey has lost animals including stoats.",
+        "Several bird species are still breeding but are not increasing in number.",
+        "Sangan said some bird species are effectively already extinct and may disappear in the next few years.",
+        "The environment has become noticeably quieter over 15 years."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why do the speakers argue that environmental spending should be viewed as a long-term investment?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את היתרונות לטווח ארוך ואת מחיר הדחייה, תוך הסתמכות על דברי המשתתפים.",
+      "expected_points": [
+        "A healthy environment can bring economic advantages.",
+        "Biodiversity supports air and water quality and preserves habitats.",
+        "Professor Liz Bentley said delayed climate action would cost more in the long term.",
+        "Environmental decisions should be considered over decades rather than a four-year budget cycle."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Jersey's biodiversity problem and the proposed responses in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "הסיכום צריך לכלול את סימני המשבר, דוח מצב הטבע, ניהול בתי גידול ושאלת ההשקעה.",
+      "expected_points": [
+        "Experts describe more invasive species, fewer native species and declining ecosystems.",
+        "Officials plan a state of nature report in 2027 to guide a new biodiversity strategy.",
+        "The government says policies are being developed, while projects using grazing animals already restore habitats.",
+        "Scrutiny members and experts call for biodiversity and climate investment to receive greater priority."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short public message encouraging Jersey residents to help protect biodiversity.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב מסר ברור המבוסס על עובדות הכתבה, עם פעולה מעשית אחת לפחות וללא המצאת תכניות.",
+      "expected_points": [
+        "Explain that biodiversity supports habitats, air and water quality.",
+        "Mention the pressure from invasive species or declining native wildlife.",
+        "Encourage shared management of the countryside or support for habitat restoration.",
+        "Use accessible and constructive language."
+      ]
+    }
+  ]
+}
