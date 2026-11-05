@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-05",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-04T19:38:53+00:00",
+  "age_hours_at_selection": 6.65,
+  "word_count": 849,
+  "generated_at": "2026-11-05T02:17:36.069836+00:00",
+  "difficulty_reason": "Moderate-length consumer story with some quotations and business context; sentences are clear but varied, with useful B1/B2/C1 vocabulary and only light background knowledge required.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "noticeably",
+      "lemma": "noticeably",
+      "level": "B2",
+      "hebrew": "באופן מורגש, ניכר",
+      "explanation_hebrew": "באופן שקל לשים לב אליו",
+      "pronunciation_hebrew": "נוֹטִיסַבְּלִי",
+      "example": "The room was noticeably colder."
+    },
+    {
+      "word": "uproar",
+      "lemma": "uproar",
+      "level": "C1",
+      "hebrew": "סערה ציבורית, מהומה",
+      "explanation_hebrew": "כעס או מחאה ציבורית חזקה",
+      "pronunciation_hebrew": "אַפְּרוֹר",
+      "example": "The decision caused an uproar."
+    },
+    {
+      "word": "iconic",
+      "lemma": "iconic",
+      "level": "C1",
+      "hebrew": "איקוני, סמלי",
+      "explanation_hebrew": "מוכר מאוד ומייצג משהו",
+      "pronunciation_hebrew": "אַייְקוֹנִיק",
+      "example": "It is an iconic brand."
+    },
+    {
+      "word": "retaining",
+      "lemma": "retain",
+      "level": "C1",
+      "hebrew": "שמירה על, שימור",
+      "explanation_hebrew": "החזקה או שמירה על משהו",
+      "pronunciation_hebrew": "רִיטֵיְנִינְג",
+      "example": "The company focused on retaining customers."
+    },
+    {
+      "word": "complaints",
+      "lemma": "complaint",
+      "level": "B1",
+      "hebrew": "תלונות",
+      "explanation_hebrew": "הבעת מורת רוח על משהו",
+      "pronunciation_hebrew": "קוֹמְפְּלֵיְנְטְס",
+      "example": "They received many complaints."
+    },
+    {
+      "word": "staples",
+      "lemma": "staple",
+      "level": "B2",
+      "hebrew": "מוצרי יסוד, מצרכים בסיסיים",
+      "explanation_hebrew": "מוצרים בסיסיים הנצרכים באופן קבוע",
+      "pronunciation_hebrew": "סְטֵייְפְּלְז",
+      "example": "Rice and bread are staples."
+    },
+    {
+      "word": "adapted",
+      "lemma": "adapt",
+      "level": "B2",
+      "hebrew": "התאים, שינה",
+      "explanation_hebrew": "שינה משהו כך שיתאים למצב",
+      "pronunciation_hebrew": "אַדַפְּטֶד",
+      "example": "They adapted the plan to new conditions."
+    },
+    {
+      "word": "disrupted",
+      "lemma": "disrupt",
+      "level": "B2",
+      "hebrew": "שיבש, הפריע",
+      "explanation_hebrew": "הפריע למהלך תקין של משהו",
+      "pronunciation_hebrew": "דִיסְרַפְּטֶד",
+      "example": "The storm disrupted traffic."
+    },
+    {
+      "word": "texture",
+      "lemma": "texture",
+      "level": "B2",
+      "hebrew": "מרקם, מבנה",
+      "explanation_hebrew": "התחושה של משהו למגע או בפה",
+      "pronunciation_hebrew": "טֶקְסְצֶ'ר",
+      "example": "I like the texture of this bread."
+    },
+    {
+      "word": "dismay",
+      "lemma": "dismay",
+      "level": "C1",
+      "hebrew": "מורת רוח, אכזבה",
+      "explanation_hebrew": "תחושת אכזבה ודאגה",
+      "pronunciation_hebrew": "דִיסְמֵיי",
+      "example": "To her dismay, the shop was closed."
+    },
+    {
+      "word": "dubbed",
+      "lemma": "dub",
+      "level": "C1",
+      "hebrew": "כינה, קרא בשם",
+      "explanation_hebrew": "נתן למשהו שם או כינוי",
+      "pronunciation_hebrew": "דַאבְּד",
+      "example": "The film was dubbed a masterpiece."
+    },
+    {
+      "word": "stale",
+      "lemma": "stale",
+      "level": "B2",
+      "hebrew": "לא טרי, מעופש",
+      "explanation_hebrew": "אוכל שאיבד את טריותו",
+      "pronunciation_hebrew": "סְטֵייְל",
+      "example": "The bread was stale."
+    },
+    {
+      "word": "centrepiece",
+      "lemma": "centrepiece",
+      "level": "C1",
+      "hebrew": "מרכיב מרכזי, לב העניין",
+      "explanation_hebrew": "החלק החשוב והבולט ביותר",
+      "pronunciation_hebrew": "סֶנְטֶרְפִּיס",
+      "example": "The tower is the centrepiece of the city."
+    },
+    {
+      "word": "notoriously",
+      "lemma": "notoriously",
+      "level": "C1",
+      "hebrew": "ידוע לשמצה",
+      "explanation_hebrew": "מוכר באופן רע או בעייתי",
+      "pronunciation_hebrew": "נוֹטוֹרִיאַסְלִי",
+      "example": "The road is notoriously dangerous."
+    },
+    {
+      "word": "accused",
+      "lemma": "accuse",
+      "level": "B2",
+      "hebrew": "האשים",
+      "explanation_hebrew": "טען שמישהו עשה משהו רע",
+      "pronunciation_hebrew": "אַקְיוּזְד",
+      "example": "He was accused of lying."
+    },
+    {
+      "word": "stockpiled",
+      "lemma": "stockpile",
+      "level": "C1",
+      "hebrew": "אגר, צבר מלאי",
+      "explanation_hebrew": "צבר כמות גדולה לשעת הצורך",
+      "pronunciation_hebrew": "סְטוֹקְפַּיְלְד",
+      "example": "People stockpiled food before the storm."
+    },
+    {
+      "word": "maintain",
+      "lemma": "maintain",
+      "level": "B2",
+      "hebrew": "לשמר, לקיים",
+      "explanation_hebrew": "להמשיך לשמור על מצב קיים",
+      "pronunciation_hebrew": "מֵיְנְטֵייְן",
+      "example": "It is hard to maintain quality."
+    },
+    {
+      "word": "consistent",
+      "lemma": "consistent",
+      "level": "B2",
+      "hebrew": "עקבי, אחיד",
+      "explanation_hebrew": "נשאר זהה לאורך זמן",
+      "pronunciation_hebrew": "קוֹנְסִיסְטֶנְט",
+      "example": "She gave consistent results."
+    },
+    {
+      "word": "availability",
+      "lemma": "availability",
+      "level": "B2",
+      "hebrew": "זמינות",
+      "explanation_hebrew": "המידה שבה משהו זמין",
+      "pronunciation_hebrew": "אַוֵיְלַבִּילִיטִי",
+      "example": "Check the availability of the product."
+    },
+    {
+      "word": "widespread",
+      "lemma": "widespread",
+      "level": "B2",
+      "hebrew": "נפוץ, רחב היקף",
+      "explanation_hebrew": "קיים במקומות רבים",
+      "pronunciation_hebrew": "וַוייְדְסְפְּרֶד",
+      "example": "The disease is widespread."
+    },
+    {
+      "word": "backlash",
+      "lemma": "backlash",
+      "level": "C1",
+      "hebrew": "תגובת נגד",
+      "explanation_hebrew": "תגובה שלילית חזקה",
+      "pronunciation_hebrew": "בַּקְלַאשׁ",
+      "example": "The plan caused a public backlash."
+    },
+    {
+      "word": "processed",
+      "lemma": "process",
+      "level": "B2",
+      "hebrew": "מעובד",
+      "explanation_hebrew": "מזון ששונה או עובד תעשייתית",
+      "pronunciation_hebrew": "פְּרוֹסֶסְט",
+      "example": "Avoid eating too much processed food."
+    },
+    {
+      "word": "advocates",
+      "lemma": "advocate",
+      "level": "C1",
+      "hebrew": "תומכים, פעילים (למען)",
+      "explanation_hebrew": "אנשים התומכים ברעיון או במטרה",
+      "pronunciation_hebrew": "אַדְבוֹקֶטְס",
+      "example": "Health advocates support the ban."
+    },
+    {
+      "word": "nutritional",
+      "lemma": "nutritional",
+      "level": "B2",
+      "hebrew": "תזונתי",
+      "explanation_hebrew": "הקשור לערך המזון ולתזונה",
+      "pronunciation_hebrew": "נוּטְרִישַׁנַל",
+      "example": "The label shows nutritional information."
+    },
+    {
+      "word": "phenomenon",
+      "lemma": "phenomenon",
+      "level": "C1",
+      "hebrew": "תופעה",
+      "explanation_hebrew": "דבר שקורה וניתן להבחין בו",
+      "pronunciation_hebrew": "פֶנוֹמֶנוֹן",
+      "example": "Social media is a modern phenomenon."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "noticeably",
+      "type": "english_to_hebrew",
+      "question": "What does “noticeably” mean?",
+      "options": [
+        "מורת רוח, אכזבה",
+        "מוצרי יסוד, מצרכים בסיסיים",
+        "איקוני, סמלי",
+        "באופן מורגש, ניכר"
+      ],
+      "correct_answer": "באופן מורגש, ניכר",
+      "explanation_hebrew": "המילה “noticeably” פירושה באופן מורגש, ניכר."
+    },
+    {
+      "id": "B-q2",
+      "word": "uproar",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סערה ציבורית, מהומה”?",
+      "options": [
+        "disrupted",
+        "dismay",
+        "complaints",
+        "uproar"
+      ],
+      "correct_answer": "uproar",
+      "explanation_hebrew": "המילה שפירושה “סערה ציבורית, מהומה” היא “uproar”."
+    },
+    {
+      "id": "B-q3",
+      "word": "iconic",
+      "type": "english_to_hebrew",
+      "question": "What does “iconic” mean?",
+      "options": [
+        "שיבש, הפריע",
+        "איקוני, סמלי",
+        "לא טרי, מעופש",
+        "תלונות"
+      ],
+      "correct_answer": "איקוני, סמלי",
+      "explanation_hebrew": "המילה “iconic” פירושה איקוני, סמלי."
+    },
+    {
+      "id": "B-q4",
+      "word": "retaining",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שמירה על, שימור”?",
+      "options": [
+        "stale",
+        "dismay",
+        "retaining",
+        "adapted"
+      ],
+      "correct_answer": "retaining",
+      "explanation_hebrew": "המילה שפירושה “שמירה על, שימור” היא “retaining”."
+    },
+    {
+      "id": "B-q5",
+      "word": "complaints",
+      "type": "english_to_hebrew",
+      "question": "What does “complaints” mean?",
+      "options": [
+        "מורת רוח, אכזבה",
+        "תלונות",
+        "התאים, שינה",
+        "ידוע לשמצה"
+      ],
+      "correct_answer": "תלונות",
+      "explanation_hebrew": "המילה “complaints” פירושה תלונות."
+    },
+    {
+      "id": "B-q6",
+      "word": "staples",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוצרי יסוד, מצרכים בסיסיים”?",
+      "options": [
+        "texture",
+        "stale",
+        "staples",
+        "notoriously"
+      ],
+      "correct_answer": "staples",
+      "explanation_hebrew": "המילה שפירושה “מוצרי יסוד, מצרכים בסיסיים” היא “staples”."
+    },
+    {
+      "id": "B-q7",
+      "word": "adapted",
+      "type": "english_to_hebrew",
+      "question": "What does “adapted” mean?",
+      "options": [
+        "התאים, שינה",
+        "אגר, צבר מלאי",
+        "מרקם, מבנה",
+        "לא טרי, מעופש"
+      ],
+      "correct_answer": "התאים, שינה",
+      "explanation_hebrew": "המילה “adapted” פירושה התאים, שינה."
+    },
+    {
+      "id": "B-q8",
+      "word": "disrupted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שיבש, הפריע”?",
+      "options": [
+        "notoriously",
+        "disrupted",
+        "stockpiled",
+        "dubbed"
+      ],
+      "correct_answer": "disrupted",
+      "explanation_hebrew": "המילה שפירושה “שיבש, הפריע” היא “disrupted”."
+    },
+    {
+      "id": "B-q9",
+      "word": "texture",
+      "type": "english_to_hebrew",
+      "question": "What does “texture” mean?",
+      "options": [
+        "כינה, קרא בשם",
+        "מרקם, מבנה",
+        "עקבי, אחיד",
+        "ידוע לשמצה"
+      ],
+      "correct_answer": "מרקם, מבנה",
+      "explanation_hebrew": "המילה “texture” פירושה מרקם, מבנה."
+    },
+    {
+      "id": "B-q10",
+      "word": "dismay",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מורת רוח, אכזבה”?",
+      "options": [
+        "centrepiece",
+        "consistent",
+        "stockpiled",
+        "dismay"
+      ],
+      "correct_answer": "dismay",
+      "explanation_hebrew": "המילה שפירושה “מורת רוח, אכזבה” היא “dismay”."
+    },
+    {
+      "id": "B-q11",
+      "word": "dubbed",
+      "type": "english_to_hebrew",
+      "question": "What does “dubbed” mean?",
+      "options": [
+        "אגר, צבר מלאי",
+        "נפוץ, רחב היקף",
+        "כינה, קרא בשם",
+        "מרכיב מרכזי, לב העניין"
+      ],
+      "correct_answer": "כינה, קרא בשם",
+      "explanation_hebrew": "המילה “dubbed” פירושה כינה, קרא בשם."
+    },
+    {
+      "id": "B-q12",
+      "word": "stale",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לא טרי, מעופש”?",
+      "options": [
+        "accused",
+        "widespread",
+        "consistent",
+        "stale"
+      ],
+      "correct_answer": "stale",
+      "explanation_hebrew": "המילה שפירושה “לא טרי, מעופש” היא “stale”."
+    },
+    {
+      "id": "B-q13",
+      "word": "centrepiece",
+      "type": "english_to_hebrew",
+      "question": "What does “centrepiece” mean?",
+      "options": [
+        "עקבי, אחיד",
+        "מעובד",
+        "מרכיב מרכזי, לב העניין",
+        "האשים"
+      ],
+      "correct_answer": "מרכיב מרכזי, לב העניין",
+      "explanation_hebrew": "המילה “centrepiece” פירושה מרכיב מרכזי, לב העניין."
+    },
+    {
+      "id": "B-q14",
+      "word": "notoriously",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ידוע לשמצה”?",
+      "options": [
+        "widespread",
+        "notoriously",
+        "processed",
+        "maintain"
+      ],
+      "correct_answer": "notoriously",
+      "explanation_hebrew": "המילה שפירושה “ידוע לשמצה” היא “notoriously”."
+    },
+    {
+      "id": "B-q15",
+      "word": "accused",
+      "type": "english_to_hebrew",
+      "question": "What does “accused” mean?",
+      "options": [
+        "תזונתי",
+        "נפוץ, רחב היקף",
+        "לשמר, לקיים",
+        "האשים"
+      ],
+      "correct_answer": "האשים",
+      "explanation_hebrew": "המילה “accused” פירושה האשים."
+    },
+    {
+      "id": "B-q16",
+      "word": "stockpiled",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אגר, צבר מלאי”?",
+      "options": [
+        "processed",
+        "nutritional",
+        "stockpiled",
+        "availability"
+      ],
+      "correct_answer": "stockpiled",
+      "explanation_hebrew": "המילה שפירושה “אגר, צבר מלאי” היא “stockpiled”."
+    },
+    {
+      "id": "B-q17",
+      "word": "maintain",
+      "type": "english_to_hebrew",
+      "question": "What does “maintain” mean?",
+      "options": [
+        "לשמר, לקיים",
+        "מעובד",
+        "באופן מורגש, ניכר",
+        "זמינות"
+      ],
+      "correct_answer": "לשמר, לקיים",
+      "explanation_hebrew": "המילה “maintain” פירושה לשמר, לקיים."
+    },
+    {
+      "id": "B-q18",
+      "word": "consistent",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “עקבי, אחיד”?",
+      "options": [
+        "nutritional",
+        "noticeably",
+        "consistent",
+        "backlash"
+      ],
+      "correct_answer": "consistent",
+      "explanation_hebrew": "המילה שפירושה “עקבי, אחיד” היא “consistent”."
+    },
+    {
+      "id": "B-q19",
+      "word": "availability",
+      "type": "english_to_hebrew",
+      "question": "What does “availability” mean?",
+      "options": [
+        "תזונתי",
+        "תגובת נגד",
+        "זמינות",
+        "איקוני, סמלי"
+      ],
+      "correct_answer": "זמינות",
+      "explanation_hebrew": "המילה “availability” פירושה זמינות."
+    },
+    {
+      "id": "B-q20",
+      "word": "widespread",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נפוץ, רחב היקף”?",
+      "options": [
+        "widespread",
+        "noticeably",
+        "advocates",
+        "iconic"
+      ],
+      "correct_answer": "widespread",
+      "explanation_hebrew": "המילה שפירושה “נפוץ, רחב היקף” היא “widespread”."
+    },
+    {
+      "id": "B-q21",
+      "word": "backlash",
+      "type": "english_to_hebrew",
+      "question": "What does “backlash” mean?",
+      "options": [
+        "תגובת נגד",
+        "תלונות",
+        "באופן מורגש, ניכר",
+        "תומכים, פעילים (למען)"
+      ],
+      "correct_answer": "תגובת נגד",
+      "explanation_hebrew": "המילה “backlash” פירושה תגובת נגד."
+    },
+    {
+      "id": "B-q22",
+      "word": "processed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מעובד”?",
+      "options": [
+        "iconic",
+        "phenomenon",
+        "processed",
+        "complaints"
+      ],
+      "correct_answer": "processed",
+      "explanation_hebrew": "המילה שפירושה “מעובד” היא “processed”."
+    },
+    {
+      "id": "B-q23",
+      "word": "advocates",
+      "type": "english_to_hebrew",
+      "question": "What does “advocates” mean?",
+      "options": [
+        "תומכים, פעילים (למען)",
+        "תופעה",
+        "איקוני, סמלי",
+        "התאים, שינה"
+      ],
+      "correct_answer": "תומכים, פעילים (למען)",
+      "explanation_hebrew": "המילה “advocates” פירושה תומכים, פעילים (למען)."
+    },
+    {
+      "id": "B-q24",
+      "word": "nutritional",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תזונתי”?",
+      "options": [
+        "uproar",
+        "adapted",
+        "complaints",
+        "nutritional"
+      ],
+      "correct_answer": "nutritional",
+      "explanation_hebrew": "המילה שפירושה “תזונתי” היא “nutritional”."
+    },
+    {
+      "id": "B-q25",
+      "word": "phenomenon",
+      "type": "english_to_hebrew",
+      "question": "What does “phenomenon” mean?",
+      "options": [
+        "מרקם, מבנה",
+        "תלונות",
+        "תופעה",
+        "סערה ציבורית, מהומה"
+      ],
+      "correct_answer": "תופעה",
+      "explanation_hebrew": "המילה “phenomenon” פירושה תופעה."
+    }
+  ]
+}

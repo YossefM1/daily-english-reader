@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-05",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-05T00:30:37+00:00",
+  "age_hours_at_selection": 1.78,
+  "word_count": 1158,
+  "generated_at": "2026-11-05T02:17:36.069836+00:00",
+  "difficulty_reason": "Dense, analytical report on a medical-ethics controversy with long sentences, legal and scientific terms and significant background knowledge; vocabulary is largely B2/C1/C2.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "proposed",
+      "lemma": "propose",
+      "level": "B2",
+      "hebrew": "מוצע, מתוכנן",
+      "explanation_hebrew": "משהו שהוצע אך טרם אושר",
+      "pronunciation_hebrew": "פְּרוֹפּוֹזְד",
+      "example": "The proposed law was rejected."
+    },
+    {
+      "word": "unethical",
+      "lemma": "unethical",
+      "level": "C1",
+      "hebrew": "לא אתי, לא מוסרי",
+      "explanation_hebrew": "מנוגד לכללי מוסר",
+      "pronunciation_hebrew": "אַנְאֶתִ'יקַל",
+      "example": "Lying to patients is unethical."
+    },
+    {
+      "word": "scepticism",
+      "lemma": "scepticism",
+      "level": "C1",
+      "hebrew": "ספקנות",
+      "explanation_hebrew": "נטייה לפקפק בטענות",
+      "pronunciation_hebrew": "סְקֶפְּטִיסִיזְם",
+      "example": "He viewed the claim with scepticism."
+    },
+    {
+      "word": "seized",
+      "lemma": "seize",
+      "level": "B2",
+      "hebrew": "תפס, החרים",
+      "explanation_hebrew": "לקח משהו בכוח או בסמכות",
+      "pronunciation_hebrew": "סִיזְד",
+      "example": "Police seized the illegal goods."
+    },
+    {
+      "word": "batch",
+      "lemma": "batch",
+      "level": "B2",
+      "hebrew": "אצווה, מנה (של מוצרים)",
+      "explanation_hebrew": "כמות שמיוצרת יחד בבת אחת",
+      "pronunciation_hebrew": "בַּאצ'",
+      "example": "A batch of cookies was ready."
+    },
+    {
+      "word": "controversy",
+      "lemma": "controversy",
+      "level": "C1",
+      "hebrew": "מחלוקת, פולמוס",
+      "explanation_hebrew": "ויכוח ציבורי נוקב",
+      "pronunciation_hebrew": "קוֹנְטְרוֹבֶרְסִי",
+      "example": "The decision sparked controversy."
+    },
+    {
+      "word": "withhold",
+      "lemma": "withhold",
+      "level": "C1",
+      "hebrew": "למנוע, לעכב מתן של",
+      "explanation_hebrew": "לא לתת משהו שאמור להינתן",
+      "pronunciation_hebrew": "וִיתְ'הוֹלְד",
+      "example": "They decided to withhold the information."
+    },
+    {
+      "word": "participating",
+      "lemma": "participate",
+      "level": "B2",
+      "hebrew": "משתתף, לוקח חלק",
+      "explanation_hebrew": "נוטל חלק בפעילות",
+      "pronunciation_hebrew": "פַּרְטִיסִיפֵּייְטִינְג",
+      "example": "The participating students got a prize."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פגיע, חשוף לסכנה",
+      "explanation_hebrew": "קל לפגוע בו",
+      "pronunciation_hebrew": "וַאלְנֶרַבְּל",
+      "example": "Elderly people are vulnerable to the virus."
+    },
+    {
+      "word": "populations",
+      "lemma": "population",
+      "level": "B2",
+      "hebrew": "אוכלוסיות",
+      "explanation_hebrew": "קבוצות של אנשים באזור מסוים",
+      "pronunciation_hebrew": "פּוֹפְּיוּלֵיְשַׁנְז",
+      "example": "Rural populations have less access to care."
+    },
+    {
+      "word": "mortality",
+      "lemma": "mortality",
+      "level": "C1",
+      "hebrew": "תמותה",
+      "explanation_hebrew": "שיעור המוות באוכלוסייה",
+      "pronunciation_hebrew": "מוֹרְטַאלִיטִי",
+      "example": "The disease has a high mortality rate."
+    },
+    {
+      "word": "intervention",
+      "lemma": "intervention",
+      "level": "C1",
+      "hebrew": "התערבות",
+      "explanation_hebrew": "פעולה שנועדה לשנות מצב",
+      "pronunciation_hebrew": "אִינְטֶרְוֶנְשֶׁן",
+      "example": "Early intervention saved his life."
+    },
+    {
+      "word": "chronic",
+      "lemma": "chronic",
+      "level": "C1",
+      "hebrew": "כרוני, ממושך",
+      "explanation_hebrew": "נמשך זמן רב",
+      "pronunciation_hebrew": "קְרוֹנִיק",
+      "example": "She suffers from chronic pain."
+    },
+    {
+      "word": "immunisation",
+      "lemma": "immunisation",
+      "level": "C1",
+      "hebrew": "חיסון, אימוניזציה",
+      "explanation_hebrew": "מתן הגנה מפני מחלה",
+      "pronunciation_hebrew": "אִימְיוּנִיזֵיְשֶׁן",
+      "example": "Immunisation protects children from disease."
+    },
+    {
+      "word": "prohibited",
+      "lemma": "prohibit",
+      "level": "C1",
+      "hebrew": "אסר, מנע",
+      "explanation_hebrew": "אסר על פי חוק או כלל",
+      "pronunciation_hebrew": "פְּרוֹהִיבִּיטֶד",
+      "example": "Smoking is prohibited here."
+    },
+    {
+      "word": "suspension",
+      "lemma": "suspension",
+      "level": "C1",
+      "hebrew": "השעיה, הקפאה",
+      "explanation_hebrew": "הפסקה זמנית של פעילות",
+      "pronunciation_hebrew": "סַסְפֶּנְשֶׁן",
+      "example": "The project is under suspension."
+    },
+    {
+      "word": "overturned",
+      "lemma": "overturn",
+      "level": "C1",
+      "hebrew": "ביטל, הפך (החלטה)",
+      "explanation_hebrew": "שינה או ביטל החלטה קודמת",
+      "pronunciation_hebrew": "אוֹבֶרְטֶרְנְד",
+      "example": "The court overturned the decision."
+    },
+    {
+      "word": "outraged",
+      "lemma": "outrage",
+      "level": "C1",
+      "hebrew": "זועם, נזעם",
+      "explanation_hebrew": "כועס מאוד בשל אי-צדק",
+      "pronunciation_hebrew": "אַאוּטְרֵייְגְ'ד",
+      "example": "Residents were outraged by the noise."
+    },
+    {
+      "word": "dispute",
+      "lemma": "dispute",
+      "level": "B2",
+      "hebrew": "סכסוך, מחלוקת",
+      "explanation_hebrew": "אי-הסכמה או ויכוח",
+      "pronunciation_hebrew": "דִיסְפְּיוּט",
+      "example": "They had a dispute over money."
+    },
+    {
+      "word": "revised",
+      "lemma": "revise",
+      "level": "B2",
+      "hebrew": "מתוקן, מעודכן",
+      "explanation_hebrew": "ששונה או עודכן",
+      "pronunciation_hebrew": "רִיוַויְזְד",
+      "example": "He sent a revised version of the report."
+    },
+    {
+      "word": "protocol",
+      "lemma": "protocol",
+      "level": "C1",
+      "hebrew": "פרוטוקול, נוהל",
+      "explanation_hebrew": "מערכת כללים רשמית לפעולה",
+      "pronunciation_hebrew": "פְּרוֹטוֹקוֹל",
+      "example": "They followed the safety protocol."
+    },
+    {
+      "word": "statutory",
+      "lemma": "statutory",
+      "level": "C2",
+      "hebrew": "קבוע בחוק, סטטוטורי",
+      "explanation_hebrew": "מעוגן בחוק ומחייב",
+      "pronunciation_hebrew": "סְטַאצ'וּטוֹרִי",
+      "example": "There is a statutory duty to report it."
+    },
+    {
+      "word": "disclose",
+      "lemma": "disclose",
+      "level": "C1",
+      "hebrew": "לחשוף, לגלות מידע",
+      "explanation_hebrew": "למסור מידע שהיה סודי",
+      "pronunciation_hebrew": "דִיסְקְלוֹז",
+      "example": "The company refused to disclose details."
+    },
+    {
+      "word": "defective",
+      "lemma": "defective",
+      "level": "C1",
+      "hebrew": "פגום, לקוי",
+      "explanation_hebrew": "בעל פגם או תקלה",
+      "pronunciation_hebrew": "דִיפֶקְטִיב",
+      "example": "The car had a defective brake."
+    },
+    {
+      "word": "longstanding",
+      "lemma": "longstanding",
+      "level": "C1",
+      "hebrew": "ותיק, ארוך שנים",
+      "explanation_hebrew": "קיים מזה זמן רב",
+      "pronunciation_hebrew": "לוֹנְגְסְטַנְדִינְג",
+      "example": "They have a longstanding agreement."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "proposed",
+      "type": "english_to_hebrew",
+      "question": "What does “proposed” mean?",
+      "options": [
+        "מחלוקת, פולמוס",
+        "ספקנות",
+        "אוכלוסיות",
+        "מוצע, מתוכנן"
+      ],
+      "correct_answer": "מוצע, מתוכנן",
+      "explanation_hebrew": "המילה “proposed” פירושה מוצע, מתוכנן."
+    },
+    {
+      "id": "C-q2",
+      "word": "unethical",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לא אתי, לא מוסרי”?",
+      "options": [
+        "batch",
+        "populations",
+        "unethical",
+        "participating"
+      ],
+      "correct_answer": "unethical",
+      "explanation_hebrew": "המילה שפירושה “לא אתי, לא מוסרי” היא “unethical”."
+    },
+    {
+      "id": "C-q3",
+      "word": "scepticism",
+      "type": "english_to_hebrew",
+      "question": "What does “scepticism” mean?",
+      "options": [
+        "התערבות",
+        "ספקנות",
+        "משתתף, לוקח חלק",
+        "אצווה, מנה (של מוצרים)"
+      ],
+      "correct_answer": "ספקנות",
+      "explanation_hebrew": "המילה “scepticism” פירושה ספקנות."
+    },
+    {
+      "id": "C-q4",
+      "word": "seized",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תפס, החרים”?",
+      "options": [
+        "withhold",
+        "populations",
+        "intervention",
+        "seized"
+      ],
+      "correct_answer": "seized",
+      "explanation_hebrew": "המילה שפירושה “תפס, החרים” היא “seized”."
+    },
+    {
+      "id": "C-q5",
+      "word": "batch",
+      "type": "english_to_hebrew",
+      "question": "What does “batch” mean?",
+      "options": [
+        "אוכלוסיות",
+        "למנוע, לעכב מתן של",
+        "חיסון, אימוניזציה",
+        "אצווה, מנה (של מוצרים)"
+      ],
+      "correct_answer": "אצווה, מנה (של מוצרים)",
+      "explanation_hebrew": "המילה “batch” פירושה אצווה, מנה (של מוצרים)."
+    },
+    {
+      "id": "C-q6",
+      "word": "controversy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מחלוקת, פולמוס”?",
+      "options": [
+        "intervention",
+        "controversy",
+        "vulnerable",
+        "immunisation"
+      ],
+      "correct_answer": "controversy",
+      "explanation_hebrew": "המילה שפירושה “מחלוקת, פולמוס” היא “controversy”."
+    },
+    {
+      "id": "C-q7",
+      "word": "withhold",
+      "type": "english_to_hebrew",
+      "question": "What does “withhold” mean?",
+      "options": [
+        "פגיע, חשוף לסכנה",
+        "התערבות",
+        "השעיה, הקפאה",
+        "למנוע, לעכב מתן של"
+      ],
+      "correct_answer": "למנוע, לעכב מתן של",
+      "explanation_hebrew": "המילה “withhold” פירושה למנוע, לעכב מתן של."
+    },
+    {
+      "id": "C-q8",
+      "word": "participating",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “משתתף, לוקח חלק”?",
+      "options": [
+        "suspension",
+        "participating",
+        "mortality",
+        "immunisation"
+      ],
+      "correct_answer": "participating",
+      "explanation_hebrew": "המילה שפירושה “משתתף, לוקח חלק” היא “participating”."
+    },
+    {
+      "id": "C-q9",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "חיסון, אימוניזציה",
+        "פגיע, חשוף לסכנה",
+        "תמותה",
+        "זועם, נזעם"
+      ],
+      "correct_answer": "פגיע, חשוף לסכנה",
+      "explanation_hebrew": "המילה “vulnerable” פירושה פגיע, חשוף לסכנה."
+    },
+    {
+      "id": "C-q10",
+      "word": "populations",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אוכלוסיות”?",
+      "options": [
+        "populations",
+        "suspension",
+        "chronic",
+        "outraged"
+      ],
+      "correct_answer": "populations",
+      "explanation_hebrew": "המילה שפירושה “אוכלוסיות” היא “populations”."
+    },
+    {
+      "id": "C-q11",
+      "word": "mortality",
+      "type": "english_to_hebrew",
+      "question": "What does “mortality” mean?",
+      "options": [
+        "מתוקן, מעודכן",
+        "כרוני, ממושך",
+        "תמותה",
+        "השעיה, הקפאה"
+      ],
+      "correct_answer": "תמותה",
+      "explanation_hebrew": "המילה “mortality” פירושה תמותה."
+    },
+    {
+      "id": "C-q12",
+      "word": "intervention",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התערבות”?",
+      "options": [
+        "prohibited",
+        "revised",
+        "outraged",
+        "intervention"
+      ],
+      "correct_answer": "intervention",
+      "explanation_hebrew": "המילה שפירושה “התערבות” היא “intervention”."
+    },
+    {
+      "id": "C-q13",
+      "word": "chronic",
+      "type": "english_to_hebrew",
+      "question": "What does “chronic” mean?",
+      "options": [
+        "אסר, מנע",
+        "קבוע בחוק, סטטוטורי",
+        "כרוני, ממושך",
+        "זועם, נזעם"
+      ],
+      "correct_answer": "כרוני, ממושך",
+      "explanation_hebrew": "המילה “chronic” פירושה כרוני, ממושך."
+    },
+    {
+      "id": "C-q14",
+      "word": "immunisation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חיסון, אימוניזציה”?",
+      "options": [
+        "statutory",
+        "overturned",
+        "revised",
+        "immunisation"
+      ],
+      "correct_answer": "immunisation",
+      "explanation_hebrew": "המילה שפירושה “חיסון, אימוניזציה” היא “immunisation”."
+    },
+    {
+      "id": "C-q15",
+      "word": "prohibited",
+      "type": "english_to_hebrew",
+      "question": "What does “prohibited” mean?",
+      "options": [
+        "ביטל, הפך (החלטה)",
+        "מתוקן, מעודכן",
+        "פגום, לקוי",
+        "אסר, מנע"
+      ],
+      "correct_answer": "אסר, מנע",
+      "explanation_hebrew": "המילה “prohibited” פירושה אסר, מנע."
+    },
+    {
+      "id": "C-q16",
+      "word": "suspension",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “השעיה, הקפאה”?",
+      "options": [
+        "dispute",
+        "suspension",
+        "defective",
+        "statutory"
+      ],
+      "correct_answer": "suspension",
+      "explanation_hebrew": "המילה שפירושה “השעיה, הקפאה” היא “suspension”."
+    },
+    {
+      "id": "C-q17",
+      "word": "overturned",
+      "type": "english_to_hebrew",
+      "question": "What does “overturned” mean?",
+      "options": [
+        "קבוע בחוק, סטטוטורי",
+        "מוצע, מתוכנן",
+        "סכסוך, מחלוקת",
+        "ביטל, הפך (החלטה)"
+      ],
+      "correct_answer": "ביטל, הפך (החלטה)",
+      "explanation_hebrew": "המילה “overturned” פירושה ביטל, הפך (החלטה)."
+    },
+    {
+      "id": "C-q18",
+      "word": "outraged",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זועם, נזעם”?",
+      "options": [
+        "protocol",
+        "outraged",
+        "defective",
+        "proposed"
+      ],
+      "correct_answer": "outraged",
+      "explanation_hebrew": "המילה שפירושה “זועם, נזעם” היא “outraged”."
+    },
+    {
+      "id": "C-q19",
+      "word": "dispute",
+      "type": "english_to_hebrew",
+      "question": "What does “dispute” mean?",
+      "options": [
+        "פגום, לקוי",
+        "פרוטוקול, נוהל",
+        "ספקנות",
+        "סכסוך, מחלוקת"
+      ],
+      "correct_answer": "סכסוך, מחלוקת",
+      "explanation_hebrew": "המילה “dispute” פירושה סכסוך, מחלוקת."
+    },
+    {
+      "id": "C-q20",
+      "word": "revised",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מתוקן, מעודכן”?",
+      "options": [
+        "disclose",
+        "proposed",
+        "revised",
+        "scepticism"
+      ],
+      "correct_answer": "revised",
+      "explanation_hebrew": "המילה שפירושה “מתוקן, מעודכן” היא “revised”."
+    },
+    {
+      "id": "C-q21",
+      "word": "protocol",
+      "type": "english_to_hebrew",
+      "question": "What does “protocol” mean?",
+      "options": [
+        "פרוטוקול, נוהל",
+        "מוצע, מתוכנן",
+        "לחשוף, לגלות מידע",
+        "אצווה, מנה (של מוצרים)"
+      ],
+      "correct_answer": "פרוטוקול, נוהל",
+      "explanation_hebrew": "המילה “protocol” פירושה פרוטוקול, נוהל."
+    },
+    {
+      "id": "C-q22",
+      "word": "statutory",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קבוע בחוק, סטטוטורי”?",
+      "options": [
+        "scepticism",
+        "longstanding",
+        "batch",
+        "statutory"
+      ],
+      "correct_answer": "statutory",
+      "explanation_hebrew": "המילה שפירושה “קבוע בחוק, סטטוטורי” היא “statutory”."
+    },
+    {
+      "id": "C-q23",
+      "word": "disclose",
+      "type": "english_to_hebrew",
+      "question": "What does “disclose” mean?",
+      "options": [
+        "לחשוף, לגלות מידע",
+        "ותיק, ארוך שנים",
+        "ספקנות",
+        "למנוע, לעכב מתן של"
+      ],
+      "correct_answer": "לחשוף, לגלות מידע",
+      "explanation_hebrew": "המילה “disclose” פירושה לחשוף, לגלות מידע."
+    },
+    {
+      "id": "C-q24",
+      "word": "defective",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פגום, לקוי”?",
+      "options": [
+        "unethical",
+        "defective",
+        "withhold",
+        "batch"
+      ],
+      "correct_answer": "defective",
+      "explanation_hebrew": "המילה שפירושה “פגום, לקוי” היא “defective”."
+    },
+    {
+      "id": "C-q25",
+      "word": "longstanding",
+      "type": "english_to_hebrew",
+      "question": "What does “longstanding” mean?",
+      "options": [
+        "אצווה, מנה (של מוצרים)",
+        "ותיק, ארוך שנים",
+        "לא אתי, לא מוסרי",
+        "פגיע, חשוף לסכנה"
+      ],
+      "correct_answer": "ותיק, ארוך שנים",
+      "explanation_hebrew": "המילה “longstanding” פירושה ותיק, ארוך שנים."
+    }
+  ]
+}
