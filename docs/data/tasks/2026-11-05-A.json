@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-05",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "A mother and daughter died in British Columbia in a suspected bear attack, and officers are investigating what happened.",
+        "Canada has announced that every grizzly bear will be moved out of British Columbia.",
+        "A family successfully rescued two hikers from a bear sanctuary.",
+        "Officials have confirmed that several bears attacked a school on 1 November."
+      ],
+      "correct_answer": "A mother and daughter died in British Columbia in a suspected bear attack, and officers are investigating what happened.",
+      "explanation_hebrew": "הכתבה עוסקת במותן של אם ובתה בבריטיש קולומביה, בחשד למעורבות דוב ובחקירה שעדיין נמשכת."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When were Jennifer Balcarras and Selah Reed reported missing?",
+      "difficulty": "A",
+      "options": [
+        "After a school trip in October",
+        "On 1 November, when they did not return from a short afternoon walk",
+        "In 2017, after a hunting ban",
+        "After moving away from Bella Coola"
+      ],
+      "correct_answer": "On 1 November, when they did not return from a short afternoon walk",
+      "explanation_hebrew": "השתיים דווחו כנעדרות ב־1 בנובמבר לאחר שלא חזרו מטיול אחר צהריים קצר."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “track down” mean when officers are trying to track down bears?",
+      "difficulty": "A",
+      "options": [
+        "Count every bear in Canada",
+        "Move a trail to another area",
+        "Find or locate after searching",
+        "Write a report about wildlife"
+      ],
+      "correct_answer": "Find or locate after searching",
+      "explanation_hebrew": "הביטוי track down פירושו לאתר או למצוא לאחר חיפוש."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the conservation service say about the scene?",
+      "difficulty": "A",
+      "options": [
+        "It proved that two bears were involved.",
+        "It showed that the women had left the province.",
+        "It contained no signs of wildlife.",
+        "Evidence suggested an animal may have been involved."
+      ],
+      "correct_answer": "Evidence suggested an animal may have been involved.",
+      "explanation_hebrew": "השירות אמר שהראיות בזירה הצביעו על אפשרות שמעורבת הייתה חיה, אך החקירה טרם קבעה זאת בוודאות."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many grizzly bears are estimated to live in British Columbia?",
+      "difficulty": "A",
+      "options": [
+        "Between 10,000 and 13,000",
+        "Fewer than 100",
+        "Exactly 2,017",
+        "More than one million"
+      ],
+      "correct_answer": "Between 10,000 and 13,000",
+      "explanation_hebrew": "לפי משרד הסביבה של הפרובינציה, ההערכה היא שבבריטיש קולומביה חיים בין 10,000 ל־13,000 דובי גריזלי."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the expression “two peas in a pod” suggest about the mother and daughter?",
+      "difficulty": "A",
+      "options": [
+        "They often argued about hiking.",
+        "They lived in different provinces.",
+        "They were very close and similar.",
+        "They worked as conservation officers."
+      ],
+      "correct_answer": "They were very close and similar.",
+      "explanation_hebrew": "הביטוי מתאר אנשים קרובים מאוד ודומים זה לזה; בני המשפחה סיפרו שהאם והבת הסתדרו היטב וחלקו תחביבים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the search timeline for the two women.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את הדיווח על ההיעדרות ואת מועד מציאת כל אחת מהנשים.",
+      "expected_points": [
+        "They were reported missing on 1 November after failing to return from a short walk.",
+        "Jennifer Balcarras' remains were found on Monday.",
+        "Selah Reed's remains were found on Tuesday.",
+        "Conservation officers and the Royal Canadian Mounted Police took part in the searches."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does the article repeatedly use cautious words such as “suspected”, “may” and “potentially”?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהחקירה טרם הושלמה ולהבחין בין ראיות לבין מסקנה מאושרת.",
+      "expected_points": [
+        "Evidence suggested an animal may have been involved, but officials had not completed the investigation.",
+        "Officers were still trying to find any bears involved.",
+        "It was not yet clear whether one bear or more than one bear might have been involved.",
+        "The cautious wording avoids presenting an unconfirmed explanation as fact."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the incident and the official response in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מקום האירוע, הנעדרות, החיפוש והמשך החקירה בלי להוסיף פרטים שלא אושרו.",
+      "expected_points": [
+        "Jennifer Balcarras and her daughter Selah Reed disappeared after a short walk near Bella Coola, British Columbia.",
+        "Their remains were found on successive days during a search by conservation officers and police.",
+        "Evidence suggested an animal may have been involved, and officers were attempting to locate any bears.",
+        "Officials said any captured bear would be assessed under provincial public-safety guidelines."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short, sensitive news update about the investigation.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכתוב דיווח מכבד ומדויק, להימנע מסנסציוניות ולהבהיר מה ידוע ומה עדיין אינו ידוע.",
+      "expected_points": [
+        "Identify the victims and the Bella Coola location accurately.",
+        "State that an animal's involvement is suspected rather than confirmed.",
+        "Mention that conservation officers are investigating and searching for bears.",
+        "Avoid graphic detail and unsupported claims."
+      ]
+    }
+  ]
+}

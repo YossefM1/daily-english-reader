@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-05",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central focus?",
+      "difficulty": "C",
+      "options": [
+        "A hepatitis B vaccine trial involving newborns in Guinea-Bissau was cancelled amid ethical, legal and political controversy.",
+        "Guinea-Bissau has stopped all childhood vaccinations permanently.",
+        "The WHO has withdrawn its recommendation for hepatitis B vaccination at birth.",
+        "A completed trial proved that the vaccine increased infant mortality."
+      ],
+      "correct_answer": "A hepatitis B vaccine trial involving newborns in Guinea-Bissau was cancelled amid ethical, legal and political controversy.",
+      "explanation_hebrew": "הכתבה מסבירה מדוע ניסוי מתוכנן בחיסון הפטיטיס B ביילודים בוטל בעקבות מחלוקת אתית, משפטית ופוליטית."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How was the proposed trial designed?",
+      "difficulty": "C",
+      "options": [
+        "All 14,000 newborns would receive two doses at birth.",
+        "Half of 14,000 newborns would receive the vaccine shortly after birth and half would not.",
+        "Only adults with hepatitis B would participate.",
+        "The study would compare vaccines in Denmark and the United States."
+      ],
+      "correct_answer": "Half of 14,000 newborns would receive the vaccine shortly after birth and half would not.",
+      "explanation_hebrew": "התכנון כלל 14,000 יילודים: מחציתם היו אמורים לקבל את החיסון סמוך ללידה ומחציתם לא."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “withhold” mean in the criticism that the trial would withhold a vaccine?",
+      "difficulty": "C",
+      "options": [
+        "Improve the vaccine's storage",
+        "Publish the study protocol",
+        "Deliberately not give something that could be provided",
+        "Administer an extra dose"
+      ],
+      "correct_answer": "Deliberately not give something that could be provided",
+      "explanation_hebrew": "המילה withhold פירושה להימנע במכוון ממתן דבר שניתן היה לספק, במקרה זה חיסון."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did the WHO representative call the design unethical?",
+      "difficulty": "C",
+      "options": [
+        "The vaccine had never been used anywhere.",
+        "The study included too few researchers.",
+        "Guinea-Bissau had already eliminated hepatitis B.",
+        "It would deny some newborns a proven intervention recommended at birth."
+      ],
+      "correct_answer": "It would deny some newborns a proven intervention recommended at birth.",
+      "explanation_hebrew": "נציג ארגון הבריאות העולמי טען שאין זה אתי למנוע מחלק מהיילודים התערבות מוכחת שמומלצת בלידה."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the SDU dean say about whether the trial had begun?",
+      "difficulty": "C",
+      "options": [
+        "It had not started, no babies had been enrolled and no research vaccinations had been given.",
+        "It had finished before the government learned about it.",
+        "Half the planned newborns had already received a shot.",
+        "The trial had moved from Guinea-Bissau to Denmark."
+      ],
+      "correct_answer": "It had not started, no babies had been enrolled and no research vaccinations had been given.",
+      "explanation_hebrew": "דיקן SDU אמר שהניסוי כלל לא התחיל, שלא גויסו תינוקות ושלא ניתנו חיסונים במסגרת המחקר."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this context, what does “neocolonialism” refer to?",
+      "difficulty": "C",
+      "options": [
+        "A new vaccination schedule for European countries",
+        "The concern that powerful foreign institutions impose risks on a poorer country that they might not accept at home",
+        "The transfer of vaccine factories to Guinea-Bissau",
+        "A policy requiring every study to be funded locally"
+      ],
+      "correct_answer": "The concern that powerful foreign institutions impose risks on a poorer country that they might not accept at home",
+      "explanation_hebrew": "המונח מתאר את החשש שגופים זרים חזקים מטילים סיכונים על אוכלוסייה במדינה ענייה, סיכונים שלא היו מקבלים במדינה עשירה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Explain why vaccination at birth matters for hepatitis B according to the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין את סיכון ההדבקה, חשיבות התזמון והשלכות הזיהום בילדות.",
+      "expected_points": [
+        "Babies can be exposed during childbirth if their mothers are infected.",
+        "Guinea-Bissau currently vaccinates at six weeks, which is less effective than a birth dose.",
+        "Infection acquired in infancy is especially likely to become chronic.",
+        "Chronic infection can lead to liver failure or liver cancer and can be fatal."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why did the absence of a publicly available protocol increase concern about the proposed trial?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר כיצד שקיפות מאפשרת לבדוק תכנון, סיכונים, אישורים והגנה על המשתתפים.",
+      "expected_points": [
+        "The WHO representative could not examine the study's detailed methods when questions arose.",
+        "A protocol would clarify who received or did not receive the vaccine and how risks were managed.",
+        "Public scrutiny is especially important when vulnerable newborns are involved.",
+        "The lack of accessible information added to uncertainty about ethical approval and government authorisation."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the proposed study, the ethical objections, and why it did not proceed in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את מבנה הניסוי, המלצת WHO, עמדת ממשלת גינאה־ביסאו, טענת SDU ומצב הביצוע בפועל.",
+      "expected_points": [
+        "The US-funded study proposed enrolling 14,000 newborns, giving a birth-dose hepatitis B vaccine to half and withholding it from half.",
+        "Critics and the WHO argued that withholding a proven recommended intervention in a high-prevalence country was unethical.",
+        "Guinea-Bissau had prohibited such child trials and its health minister denied authorising the revised study.",
+        "SDU said its own ethics committee approved the project but acknowledged that local authorisation was separately required.",
+        "The university said the trial never started and no babies were enrolled."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Draft a short ethics checklist for researchers planning a vaccine study involving newborns.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לנסח רשימת בדיקה המבוססת על הסוגיות בכתבה, לא ייעוץ רפואי אישי.",
+      "expected_points": [
+        "Confirm that the study does not unnecessarily withhold a proven standard intervention.",
+        "Obtain transparent, independent ethical review and valid authorisation in the host country.",
+        "Publish or make the protocol available for scrutiny.",
+        "Explain risks, benefits and protections for vulnerable participants.",
+        "Respect local government decisions and ensure informed consent procedures.",
+        "Consider whether the same design would be acceptable in a wealthier country."
+      ]
+    }
+  ]
+}

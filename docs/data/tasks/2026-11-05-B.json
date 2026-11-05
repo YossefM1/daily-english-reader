@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-05",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Kellogg's has stopped selling cereal in the UK.",
+        "Customers have criticised a new Rice Krispies and Coco Pops recipe, while Kellogg's says weather-related supply problems led to the change.",
+        "The US and Canada have adopted the same new recipe as the UK.",
+        "Scientists have proved that breakfast cereal causes El Niño."
+      ],
+      "correct_answer": "Customers have criticised a new Rice Krispies and Coco Pops recipe, while Kellogg's says weather-related supply problems led to the change.",
+      "explanation_hebrew": "הכתבה עוסקת בתגובת הצרכנים למתכון החדש ובהסבר של קלוגס שהשינוי נבע מבעיות אספקה הקשורות למזג האוויר."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What ingredients now make the toasted puffs instead of whole rice grains?",
+      "difficulty": "B",
+      "options": [
+        "Wheat and barley only",
+        "Corn flour and rice flour",
+        "Oats and cocoa butter",
+        "Vanilla and strawberry flour"
+      ],
+      "correct_answer": "Corn flour and rice flour",
+      "explanation_hebrew": "הגרגרים הקלויים מיוצרים כעת מקמח תירס ומקמח אורז במקום מגרגרי אורז שלמים."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “uproar” mean in the headline?",
+      "difficulty": "B",
+      "options": [
+        "A new advertising sound",
+        "A quiet product test",
+        "A strong and noisy public reaction",
+        "A shortage of vitamins"
+      ],
+      "correct_answer": "A strong and noisy public reaction",
+      "explanation_hebrew": "המילה uproar מתארת תגובה ציבורית חזקה וסוערת לשינוי במתכון."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Kellogg's say it changed the UK recipes?",
+      "difficulty": "B",
+      "options": [
+        "Customers asked for a cereal with no sound.",
+        "The company wanted to copy the North American recipe.",
+        "UK food standards banned whole rice grains.",
+        "Changing weather disrupted grain supplies and affected ingredient availability and prices."
+      ],
+      "correct_answer": "Changing weather disrupted grain supplies and affected ingredient availability and prices.",
+      "explanation_hebrew": "קלוגס מסרה שתנאי מזג אוויר משתנים פגעו באספקת דגנים ושיש צורך במרכיבים אמינים ובמחיר סביר."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What new warning will appear on the packaging?",
+      "difficulty": "B",
+      "options": [
+        "Contains wheat gluten",
+        "Contains artificial sweeteners",
+        "Not suitable for children",
+        "Made only in North America"
+      ],
+      "correct_answer": "Contains wheat gluten",
+      "explanation_hebrew": "המתכון החדש מחייב אזהרה שלפיה המוצר מכיל גלוטן חיטה; הוא ממשיך להכיל גם תמצית לתת שעורה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean that fans “stockpiled” the old Irn Bru recipe?",
+      "difficulty": "B",
+      "options": [
+        "They complained without buying any.",
+        "They returned every bottle to shops.",
+        "They bought and stored large quantities before it disappeared.",
+        "They changed its sugar content at home."
+      ],
+      "correct_answer": "They bought and stored large quantities before it disappeared.",
+      "explanation_hebrew": "Stockpiled פירושו קנו ואגרו כמויות גדולות של המוצר הישן לפני שהשינוי נכנס לתוקף."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two changes customers reported in the new cereals and one response from Kellogg's.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שתי תלונות צרכניות ותגובה מדויקת אחת של החברה.",
+      "expected_points": [
+        "Customers said the taste was different or strange.",
+        "Some described the texture as different or stale.",
+        "Some parents said their children would no longer eat the cereal.",
+        "Kellogg's said the snap, crackle and pop remained but could be quieter and less immediate.",
+        "The company said the products had been assessed for taste, appearance and texture."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why are recipe changes especially risky for long-established food brands?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את הקשר בין הרגלי צריכה, זהות המותג ותגובות לשינוי, עם דוגמאות מהכתבה.",
+      "expected_points": [
+        "Customers may have eaten the product for years and quickly notice differences.",
+        "The sound has been central to Rice Krispies marketing since the 1950s.",
+        "Small changes can affect taste, texture and familiar rituals such as adding milk.",
+        "Past changes such as Irn Bru's sugar reduction also caused strong reactions and stockpiling."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the recipe change, the customer reaction and Kellogg's explanation in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את המרכיבים החדשים, השינוי בצליל, תגובת הצרכנים, מזג האוויר והיבט תזונתי או סימון.",
+      "expected_points": [
+        "UK Rice Krispies and Coco Pops now use corn flour and rice flour instead of whole rice grains.",
+        "Customers reported changes in taste, texture and the familiar sound after milk is added.",
+        "Kellogg's said extreme weather disrupted supplies of suitable rice and made reliable ingredients harder to source.",
+        "The company says the cereals still meet UK standards and keep the same stated nutritional benefits.",
+        "Packaging will now warn that the products contain wheat gluten."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short customer-service reply from Kellogg's to someone unhappy with the new Rice Krispies recipe.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לנסח תשובה אמפתית ומבוססת עובדות, בלי להבטיח החזרת המתכון הישן.",
+      "expected_points": [
+        "Acknowledge that a familiar product change can be noticeable.",
+        "Explain that weather-related supply disruption led to the recipe adaptation.",
+        "State that the sound may be quieter and less immediate.",
+        "Mention that feedback is being considered and products continue to meet UK food standards.",
+        "Avoid dismissing the customer's experience."
+      ]
+    }
+  ]
+}
