@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-06",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Are you an evening snacker? What you need to know",
+  "article_url": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Why evening cravings occur, how late snacking may affect health and sleep, and practical ways to manage it",
+        "Why everyone should avoid eating after midday",
+        "A new medicine that permanently removes hunger",
+        "Why breakfast causes poor sleep"
+      ],
+      "correct_answer": "Why evening cravings occur, how late snacking may affect health and sleep, and practical ways to manage it",
+      "explanation_hebrew": "הכתבה מסבירה מדוע חשק לנשנוש מתגבר בערב, מה ידוע על השפעותיו, ואילו הרגלים יכולים לעזור."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happens to the hunger hormone ghrelin later in the day, according to Prof James Betts?",
+      "difficulty": "B",
+      "options": [
+        "It disappears after lunch.",
+        "It is generally higher later in the day.",
+        "It is produced only during sleep.",
+        "It is permanently suppressed by dinner."
+      ],
+      "correct_answer": "It is generally higher later in the day.",
+      "explanation_hebrew": "לפי פרופ' בטס, רמת הורמון הרעב גרלין בדרך כלל גבוהה יותר בשעות המאוחרות של היום."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “satiating” mean when describing an evening meal?",
+      "difficulty": "B",
+      "options": [
+        "Very sweet",
+        "Quick to prepare",
+        "Able to make you feel full and satisfied",
+        "Eaten while watching television"
+      ],
+      "correct_answer": "Able to make you feel full and satisfied",
+      "explanation_hebrew": "Satiating מתאר מזון שמשביע ומשאיר תחושת מלאות לזמן ארוך יותר."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How can watching television trigger snacking?",
+      "difficulty": "B",
+      "options": [
+        "Television lowers blood sugar immediately.",
+        "Every programme contains food advertising.",
+        "The screen changes ghrelin into sugar.",
+        "Repeatedly snacking in that setting can turn the TV into a cue for cravings."
+      ],
+      "correct_answer": "Repeatedly snacking in that setting can turn the TV into a cue for cravings.",
+      "explanation_hebrew": "כאשר נשנוש חוזר באותה סביבה, עצם הדלקת הטלוויזיה יכולה להפוך לרמז שמעורר חשק לאכול."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the article say about whether evening snacking disrupts sleep?",
+      "difficulty": "B",
+      "options": [
+        "The evidence is mixed and it is difficult to establish cause and effect.",
+        "Every snack always prevents sleep.",
+        "Only fruit has been proven to harm sleep.",
+        "Researchers agree that timing has no effect on anyone."
+      ],
+      "correct_answer": "The evidence is mixed and it is difficult to establish cause and effect.",
+      "explanation_hebrew": "הראיות אינן חד־משמעיות, וקשה לדעת אם הנשנוש פוגע בשינה או ששינה גרועה מגבירה חשק למזונות עתירי אנרגיה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “hedonic drive” mean in the article?",
+      "difficulty": "B",
+      "options": [
+        "A medical need for protein",
+        "A plan to eat larger dinners",
+        "A desire for pleasurable food driven by the brain's reward system",
+        "A method for measuring sleep"
+      ],
+      "correct_answer": "A desire for pleasurable food driven by the brain's reward system",
+      "explanation_hebrew": "Hedonic drive הוא דחף לאכול לשם הנאה, שמקורו במערכת התגמול ועלול להתגבר על אותות השובע."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three reasons why someone might snack in the evening even after dinner.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה גורמים שונים מן הכתבה.",
+      "expected_points": [
+        "Appetite and ghrelin naturally tend to be higher later in the day.",
+        "Dinner may not contain enough protein, fibre or volume to remain filling.",
+        "A person may fear waking up hungry during the night.",
+        "Habit and environmental cues, such as watching TV, can trigger cravings.",
+        "The brain's reward system increases desire for foods high in fat, sugar or salt."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does the article say evening snacking is not simply a failure of willpower?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין ביולוגיה, מערכת התגמול, הרגלים ורמזים סביבתיים.",
+      "expected_points": [
+        "Hunger hormones and appetite often rise later in the day.",
+        "The brain's reward system increases wanting for calorie-dense foods.",
+        "Reward signals can override feelings of fullness.",
+        "Repeated routines create cues that trigger cravings automatically.",
+        "Sleep deprivation may also raise appetite and desire for energy-dense foods."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the causes, uncertain sleep evidence and practical advice in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול גורם ביולוגי, גורם התנהגותי, אי־הוודאות לגבי שינה ולפחות שתי המלצות.",
+      "expected_points": [
+        "Evening appetite may rise because of ghrelin and the brain's reward response to rich foods.",
+        "Unfilling meals and habits such as eating while watching TV can also trigger cravings.",
+        "Research on late snacks and sleep is mixed, and cause and effect are difficult to separate.",
+        "More filling earlier meals and changes to routines can help.",
+        "Experts recommend reasonable portions and keeping fruit, yoghurt or nuts available rather than banning all treats."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Create a short personal plan for managing habitual evening snacking.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע תכנית מציאותית המבוססת על הכתבה, ללא איסורים קיצוניים או הבטחות רפואיות.",
+      "expected_points": [
+        "Identify whether the trigger is genuine hunger, habit, distraction or fear of waking hungry.",
+        "Make dinner more filling with protein, fibre and volume if needed.",
+        "Change the usual cue or routine, such as not eating automatically while watching TV.",
+        "Plan a reasonable portion and keep healthier options available.",
+        "Allow occasional treats in moderation."
+      ]
+    }
+  ]
+}

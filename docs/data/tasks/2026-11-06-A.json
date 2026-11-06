@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-06",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Over 1,000 tonnes of sewage seen at Doncaster landfill site",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main focus of the article?",
+      "difficulty": "A",
+      "options": [
+        "Concerns about sewage sludge, odour and site management at a landfill near Doncaster are being investigated by the Environment Agency.",
+        "A new airport is being built inside a former quarry near Doncaster.",
+        "The Environment Agency has permanently closed every waste site in Yorkshire.",
+        "A motocross company has bought the Finningley landfill."
+      ],
+      "correct_answer": "Concerns about sewage sludge, odour and site management at a landfill near Doncaster are being investigated by the Environment Agency.",
+      "explanation_hebrew": "הכתבה עוסקת בחששות מפסולת ביוב, ריחות וניהול אתר ההטמנה בפינינגלי ובצעדים שדורשת הסוכנות להגנת הסביבה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Environment Agency officers observe during their visit?",
+      "difficulty": "A",
+      "options": [
+        "An empty quarry with no waste",
+        "About 1,000 tonnes of sewage sludge stored outside in an uncovered pile",
+        "A completed airport runway",
+        "A new indoor recycling centre"
+      ],
+      "correct_answer": "About 1,000 tonnes of sewage sludge stored outside in an uncovered pile",
+      "explanation_hebrew": "לפי המידע שנמסר לחבר הפרלמנט, נצפו כ־1,000 טונות של בוצת ביוב באחסון חיצוני בערימה לא מכוסה."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “stockpile” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "A written list of environmental rules",
+        "A vehicle used at a landfill",
+        "A large quantity collected and stored together",
+        "A fine imposed by the Environment Agency"
+      ],
+      "correct_answer": "A large quantity collected and stored together",
+      "explanation_hebrew": "Stockpile היא כמות גדולה של חומר שנאספה ונשמרה יחד, כאן ערימה של בוצת ביוב."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "By what date was the operator told to resolve the issue?",
+      "difficulty": "A",
+      "options": [
+        "9 October",
+        "26 October",
+        "Tuesday",
+        "10 November"
+      ],
+      "correct_answer": "10 November",
+      "explanation_hebrew": "חבר הפרלמנט אמר שהסוכנות נתנה למפעיל האתר עד 10 בנובמבר לפתור את הבעיה."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did the neighbouring motocross track close?",
+      "difficulty": "A",
+      "options": [
+        "People reported headaches, nausea and feeling unwell, which they blamed on smells from the site.",
+        "The track was converted into a landfill.",
+        "Its riders moved to another country.",
+        "The Environment Agency bought the business."
+      ],
+      "correct_answer": "People reported headaches, nausea and feeling unwell, which they blamed on smells from the site.",
+      "explanation_hebrew": "המסלול נסגר לאחר שמבקרים דיווחו על כאבי ראש, בחילה ותחושה רעה שיוחסו לריחות מהאתר הסמוך."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “ramifications” mean in the phrase “environmental ramifications”?",
+      "difficulty": "A",
+      "options": [
+        "Official photographs",
+        "Possible consequences or effects",
+        "Waste containers",
+        "Approved operating documents"
+      ],
+      "correct_answer": "Possible consequences or effects",
+      "explanation_hebrew": "Ramifications פירושה השלכות או תוצאות אפשריות, במקרה זה על הסביבה ואיכות האוויר."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Besides the uncovered sewage sludge, describe two other concerns raised about the site.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני חששות מדויקים מן הכתבה.",
+      "expected_points": [
+        "Whether activities matched the approved operating techniques and management arrangements.",
+        "Potential asbestos disposal at the site.",
+        "Possible effects on air quality and the environment.",
+        "Odours that nearby staff and visitors said caused headaches, nausea and illness."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why could the landfill issue have economic effects beyond the site itself?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר כיצד הבעיה משפיעה על עסק שכן ועל יכולתו לפעול.",
+      "expected_points": [
+        "The neighbouring motocross venue closed because it said it could not operate safely amid the odours.",
+        "The closure has caused serious financial consequences for Doncaster Moto Parc.",
+        "Its director said the business may no longer be viable and could be lost altogether.",
+        "Staff, customers and local activity are affected even though they do not operate the landfill."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the concerns, investigation and response in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את הכמות שנצפתה, בדיקת הסוכנות, מועד התיקון והשפעת הריחות.",
+      "expected_points": [
+        "An MP said about 1,000 tonnes of sewage sludge were stored uncovered at a landfill near Doncaster.",
+        "The Environment Agency inspected the site and raised concerns about management and operating practices.",
+        "It gave the operator until 10 November to address the issue and said further enforcement action was possible.",
+        "A neighbouring motocross venue closed after people reported illness linked to odours."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short factual update for local residents about the Environment Agency's response.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לנסח עדכון ברור ומאוזן, להבחין בין טענות לממצאים מאושרים ולא להמציא סיכון בריאותי.",
+      "expected_points": [
+        "State that the Environment Agency inspected the site.",
+        "Mention the observed uncovered sludge and identified odour-management issues.",
+        "Say the operator was given actions to complete and a 10 November deadline.",
+        "Note that further enforcement may follow if required.",
+        "Attribute health complaints to the people who reported them rather than presenting causation as proven."
+      ]
+    }
+  ]
+}

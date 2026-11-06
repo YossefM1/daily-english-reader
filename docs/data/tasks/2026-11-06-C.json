@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-06",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Major tech stocks plunge as US midterms sparks fears of AI slowdown",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central explanation for the global tech sell-off?",
+      "difficulty": "C",
+      "options": [
+        "Election results increased fears of tighter limits on AI and data-centre growth, adding to doubts about whether heavy AI investment will pay off.",
+        "A single chip factory closed permanently in Japan.",
+        "Investors learned that artificial intelligence had been banned worldwide.",
+        "US companies announced that they would stop selling technology in Asia."
+      ],
+      "correct_answer": "Election results increased fears of tighter limits on AI and data-centre growth, adding to doubts about whether heavy AI investment will pay off.",
+      "explanation_hebrew": "הכתבה מסבירה שתוצאות בחירות האמצע הגבירו חשש להגבלות על AI ומרכזי נתונים, על רקע ספקות קיימים לגבי החזר ההשקעות העצומות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened to the Nasdaq Composite?",
+      "difficulty": "C",
+      "options": [
+        "It rose by more than 12%.",
+        "It closed more than 5.5% lower and lost an estimated $2.5tn in market value.",
+        "It stopped publishing technology prices.",
+        "It was unaffected by the sell-off."
+      ],
+      "correct_answer": "It closed more than 5.5% lower and lost an estimated $2.5tn in market value.",
+      "explanation_hebrew": "מדד נאסד\"ק ירד ביותר מ־5.5%, ולפי נתוני Dow Jones איבד שווי שוק מוערך של 2.5 טריליון דולר."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “circuit breaker” in stock-market trading?",
+      "difficulty": "C",
+      "options": [
+        "A computer chip used in data centres",
+        "A tax on semiconductor companies",
+        "A mechanism that temporarily halts trading to reduce panic selling",
+        "A rule that permanently closes an exchange"
+      ],
+      "correct_answer": "A mechanism that temporarily halts trading to reduce panic selling",
+      "explanation_hebrew": "Circuit breaker הוא מנגנון שעוצר זמנית את המסחר כדי לצמצם מכירות בהלה."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What political change followed the US midterm elections?",
+      "difficulty": "C",
+      "options": [
+        "Republicans gained control of every state government.",
+        "The president cancelled all election results.",
+        "Congress abolished data-centre regulation.",
+        "Democrats won both the Senate and House, taking control of Congress."
+      ],
+      "correct_answer": "Democrats won both the Senate and House, taking control of Congress.",
+      "explanation_hebrew": "לפי הכתבה, הדמוקרטים זכו גם בסנאט וגם בבית הנבחרים וקיבלו שליטה בקונגרס."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much market value did Nvidia lose as its shares fell more than 9%?",
+      "difficulty": "C",
+      "options": [
+        "More than $400bn",
+        "About $2.5m",
+        "Exactly $45m",
+        "Less than $1bn"
+      ],
+      "correct_answer": "More than $400bn",
+      "explanation_hebrew": "ירידה של יותר מ־9% במניית Nvidia מחקה יותר מ־400 מיליארד דולר משווי השוק שלה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “correction territory” mean?",
+      "difficulty": "C",
+      "options": [
+        "An index has reached a record high.",
+        "An exchange has corrected a data error.",
+        "A company has changed its accounting rules.",
+        "An index or company value is at least 10% below its recent high."
+      ],
+      "correct_answer": "An index or company value is at least 10% below its recent high.",
+      "explanation_hebrew": "Correction territory מתאר מצב שבו מדד או שווי חברה נמוכים לפחות ב־10% מהשיא האחרון."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three examples showing that the sell-off spread beyond US technology stocks.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלוש דוגמאות מדויקות משווקים או חברות מחוץ לארה\"ב.",
+      "expected_points": [
+        "Japan's Nikkei 225 fell about 6%, with Kioxia and Tokyo Electron dropping sharply.",
+        "South Korea's Kospi fell more than 8.5%, triggering a circuit breaker.",
+        "SK Hynix and Samsung suffered large falls.",
+        "Taiwan's Taiex dropped more than 8.3%, while TSMC fell nearly 8.5%.",
+        "European firms Infineon and ASML also fell sharply."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why did the midterm results intensify concerns that had already existed about AI companies?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשלב בין חששות כלכליים קיימים לבין הסיכון הפוליטי החדש.",
+      "expected_points": [
+        "Investors were already questioning whether massive AI infrastructure spending would produce adequate returns.",
+        "Democratic candidates campaigned on slowing data-centre and AI growth.",
+        "New congressional control could bring more oversight and restrictions.",
+        "Restrictions or slower approvals could delay projects and raise costs.",
+        "The combination increased fear that highly valued AI shares may be in a bubble."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the market rout, its political trigger and the underlying AI concerns in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את ירידות השוק, תוצאות הבחירות, מרכזי הנתונים, התפשטות גל המכירות וספק ההחזר הכלכלי.",
+      "expected_points": [
+        "Major US technology shares fell sharply after Democratic midterm victories raised expectations of stronger AI and data-centre oversight.",
+        "The Nasdaq lost more than 5.5%, while chipmakers and other AI-exposed firms suffered particularly large falls.",
+        "The sell-off spread to Asian and European markets.",
+        "Investors were already worried that enormous infrastructure spending might not generate expected returns.",
+        "Greater scrutiny of environmental and electricity impacts could slow construction and increase industry costs."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short investor-risk briefing based on the article without giving investment advice.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג גורמי סיכון ועובדות מאוזנות, ללא תחזית ודאית או המלצת קנייה ומכירה.",
+      "expected_points": [
+        "Identify political and regulatory risk after the midterm results.",
+        "Mention concern about returns on AI infrastructure spending.",
+        "Note the exposure of chipmakers, data-centre suppliers and major technology firms.",
+        "Explain that market falls spread across regions and indexes.",
+        "Distinguish observed losses from uncertain future outcomes."
+      ]
+    }
+  ]
+}
