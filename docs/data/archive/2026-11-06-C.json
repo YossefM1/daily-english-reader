@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-06",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Major tech stocks plunge as US midterms sparks fears of AI slowdown",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-06T01:44:03+00:00",
+  "age_hours_at_selection": 0.5,
+  "word_count": 1079,
+  "generated_at": "2026-11-06T02:14:13.471592+00:00",
+  "difficulty_reason": "Dense financial and political analysis with long sentences, market jargon and B2/C1/C2 vocabulary; assumes some economic background.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "plunge",
+      "lemma": "plunge",
+      "level": "B2",
+      "hebrew": "צניחה",
+      "explanation_hebrew": "ירידה חדה ומהירה (כאן: במחירי מניות)",
+      "pronunciation_hebrew": "פְּלָאנְג'",
+      "example": "Oil prices can plunge within hours."
+    },
+    {
+      "word": "rout",
+      "lemma": "rout",
+      "level": "C2",
+      "hebrew": "מפלה / התרסקות",
+      "explanation_hebrew": "הפסד או קריסה מוחלטת ומהירה",
+      "pronunciation_hebrew": "רַאוּט",
+      "example": "The sell-off turned into a full market rout."
+    },
+    {
+      "word": "wiped",
+      "lemma": "wipe",
+      "level": "B2",
+      "hebrew": "נמחק",
+      "explanation_hebrew": "הוסר או אבד לחלוטין",
+      "pronunciation_hebrew": "וַוייפְּט",
+      "example": "Billions were wiped from the company's value."
+    },
+    {
+      "word": "slowdown",
+      "lemma": "slowdown",
+      "level": "B2",
+      "hebrew": "האטה",
+      "explanation_hebrew": "ירידה בקצב הצמיחה או הפעילות",
+      "pronunciation_hebrew": "סְלוֹאוּדָאוּן",
+      "example": "Fears of a slowdown hit investors hard."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "B2",
+      "hebrew": "תשתית",
+      "explanation_hebrew": "המערכות הפיזיות הבסיסיות שמאפשרות פעילות",
+      "pronunciation_hebrew": "אִינְפְרַסְטְרַקְצֶ'ר",
+      "example": "Building AI infrastructure is very expensive."
+    },
+    {
+      "word": "mechanism",
+      "lemma": "mechanism",
+      "level": "C1",
+      "hebrew": "מנגנון",
+      "explanation_hebrew": "שיטה או כלי שגורמים למשהו לעבוד",
+      "pronunciation_hebrew": "מֵכַנִיזְם",
+      "example": "A safety mechanism halted the trading."
+    },
+    {
+      "word": "temporarily",
+      "lemma": "temporarily",
+      "level": "B2",
+      "hebrew": "זמנית",
+      "explanation_hebrew": "לפרק זמן מוגבל, לא לתמיד",
+      "pronunciation_hebrew": "טֵמְפּוֹרֵרִילִי",
+      "example": "Trading was temporarily stopped."
+    },
+    {
+      "word": "curb",
+      "lemma": "curb",
+      "level": "C1",
+      "hebrew": "לרסן / לבלום",
+      "explanation_hebrew": "להגביל או לעצור גדילה או התנהגות",
+      "pronunciation_hebrew": "קֶרְבּ",
+      "example": "The rule is meant to curb panic selling."
+    },
+    {
+      "word": "panic",
+      "lemma": "panic",
+      "level": "B2",
+      "hebrew": "בהלה",
+      "explanation_hebrew": "פחד פתאומי וחזק שגורם לפעולה לא שקולה",
+      "pronunciation_hebrew": "פַּאנִיק",
+      "example": "News of the losses caused panic among traders."
+    },
+    {
+      "word": "restricting",
+      "lemma": "restrict",
+      "level": "B2",
+      "hebrew": "מגביל",
+      "explanation_hebrew": "מצמצם או מגביל פעולה או חופש",
+      "pronunciation_hebrew": "רִיסְטְרִיקְטִינְג",
+      "example": "New measures aim at restricting data centres."
+    },
+    {
+      "word": "crucial",
+      "lemma": "crucial",
+      "level": "B2",
+      "hebrew": "חיוני / מכריע",
+      "explanation_hebrew": "חשוב מאוד להצלחה או לתוצאה",
+      "pronunciation_hebrew": "קְרוּשֶׁל",
+      "example": "Chips are crucial for powering AI."
+    },
+    {
+      "word": "moratorium",
+      "lemma": "moratorium",
+      "level": "C2",
+      "hebrew": "הקפאה / עצירה",
+      "explanation_hebrew": "עצירה רשמית וזמנית של פעילות מסוימת",
+      "pronunciation_hebrew": "מוֹרַטוֹרְיוּם",
+      "example": "They called for a moratorium on new building."
+    },
+    {
+      "word": "opponents",
+      "lemma": "opponent",
+      "level": "B2",
+      "hebrew": "מתנגדים / יריבים",
+      "explanation_hebrew": "אנשים שנמצאים בצד הנגדי במאבק",
+      "pronunciation_hebrew": "אוֹפּוֹנֶנְטְס",
+      "example": "He blamed his political opponents for the fall."
+    },
+    {
+      "word": "safeguards",
+      "lemma": "safeguard",
+      "level": "C1",
+      "hebrew": "אמצעי הגנה",
+      "explanation_hebrew": "כללים או אמצעים שמונעים נזק",
+      "pronunciation_hebrew": "סֵייפְגַארְדְז",
+      "example": "Critics say AI grew without safeguards."
+    },
+    {
+      "word": "oversight",
+      "lemma": "oversight",
+      "level": "C1",
+      "hebrew": "פיקוח",
+      "explanation_hebrew": "מעקב ובקרה על פעילות או ארגון",
+      "pronunciation_hebrew": "אוֹבֶרְסַייט",
+      "example": "They demanded more oversight of the industry."
+    },
+    {
+      "word": "exposed",
+      "lemma": "expose",
+      "level": "B2",
+      "hebrew": "חשוף",
+      "explanation_hebrew": "נמצא בסיכון או מושפע ישירות ממשהו",
+      "pronunciation_hebrew": "אִיקְסְפּוֹזְד",
+      "example": "Firms heavily exposed to AI lost the most."
+    },
+    {
+      "word": "semiconductor",
+      "lemma": "semiconductor",
+      "level": "C1",
+      "hebrew": "מוליך למחצה",
+      "explanation_hebrew": "חומר המשמש לייצור שבבים אלקטרוניים",
+      "pronunciation_hebrew": "סֵמִיקוֹנְדַקְטוֹר",
+      "example": "The semiconductor index fell sharply."
+    },
+    {
+      "word": "manufacturers",
+      "lemma": "manufacturer",
+      "level": "B2",
+      "hebrew": "יצרנים",
+      "explanation_hebrew": "חברות שמייצרות מוצרים",
+      "pronunciation_hebrew": "מַנְיוּפַקְצֶ'רֶרְז",
+      "example": "Chip manufacturers saw their shares drop."
+    },
+    {
+      "word": "backlash",
+      "lemma": "backlash",
+      "level": "C1",
+      "hebrew": "תגובת נגד",
+      "explanation_hebrew": "התנגדות חזקה ונרחבת לרעיון או פעולה",
+      "pronunciation_hebrew": "בֵּקְלַאשׁ",
+      "example": "There was a backlash against new data centres."
+    },
+    {
+      "word": "scrutiny",
+      "lemma": "scrutiny",
+      "level": "C1",
+      "hebrew": "בחינה מדוקדקת",
+      "explanation_hebrew": "בדיקה קפדנית וביקורתית",
+      "pronunciation_hebrew": "סְקְרוּטִינִי",
+      "example": "The projects face greater scrutiny now."
+    },
+    {
+      "word": "dominance",
+      "lemma": "dominance",
+      "level": "C1",
+      "hebrew": "שליטה / עליונות",
+      "explanation_hebrew": "מעמד של כוח ושליטה על אחרים",
+      "pronunciation_hebrew": "דוֹמִינַנְס",
+      "example": "Both parties want US dominance in technology."
+    },
+    {
+      "word": "bubble",
+      "lemma": "bubble",
+      "level": "B2",
+      "hebrew": "בועה",
+      "explanation_hebrew": "מצב שבו מחירים גבוהים בהרבה מערכם האמיתי",
+      "pronunciation_hebrew": "בָּאבְּל",
+      "example": "Investors fear an AI stock bubble."
+    },
+    {
+      "word": "investors",
+      "lemma": "investor",
+      "level": "B2",
+      "hebrew": "משקיעים",
+      "explanation_hebrew": "אנשים או גופים שמשקיעים כסף לרווח",
+      "pronunciation_hebrew": "אִינְבֶסְטוֹרְז",
+      "example": "Investors worried about future returns."
+    },
+    {
+      "word": "prospect",
+      "lemma": "prospect",
+      "level": "C1",
+      "hebrew": "סיכוי / צפי",
+      "explanation_hebrew": "אפשרות או ציפייה לדבר עתידי",
+      "pronunciation_hebrew": "פְּרוֹסְפֶּקְט",
+      "example": "The prospect of a slowdown scared the markets."
+    },
+    {
+      "word": "steep",
+      "lemma": "steep",
+      "level": "B2",
+      "hebrew": "חד / תלול",
+      "explanation_hebrew": "גדול וחד מאוד (כאן: ירידה)",
+      "pronunciation_hebrew": "סְטִיפּ",
+      "example": "The steep sell-off shocked Wall Street."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "plunge",
+      "type": "english_to_hebrew",
+      "question": "What does “plunge” mean?",
+      "options": [
+        "חד / תלול",
+        "צניחה",
+        "סיכוי / צפי",
+        "לרסן / לבלום"
+      ],
+      "correct_answer": "צניחה",
+      "explanation_hebrew": "“plunge” פירושו צניחה – ירידה חדה ומהירה (כאן: במחירי מניות)."
+    },
+    {
+      "id": "C-q2",
+      "word": "rout",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מפלה / התרסקות”?",
+      "options": [
+        "manufacturers",
+        "scrutiny",
+        "rout",
+        "investors"
+      ],
+      "correct_answer": "rout",
+      "explanation_hebrew": "המילה “rout” פירושה מפלה / התרסקות – הפסד או קריסה מוחלטת ומהירה."
+    },
+    {
+      "id": "C-q3",
+      "word": "wiped",
+      "type": "english_to_hebrew",
+      "question": "What does “wiped” mean?",
+      "options": [
+        "נמחק",
+        "בועה",
+        "תגובת נגד",
+        "מנגנון"
+      ],
+      "correct_answer": "נמחק",
+      "explanation_hebrew": "“wiped” פירושו נמחק – הוסר או אבד לחלוטין."
+    },
+    {
+      "id": "C-q4",
+      "word": "slowdown",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “האטה”?",
+      "options": [
+        "safeguards",
+        "slowdown",
+        "rout",
+        "temporarily"
+      ],
+      "correct_answer": "slowdown",
+      "explanation_hebrew": "המילה “slowdown” פירושה האטה – ירידה בקצב הצמיחה או הפעילות."
+    },
+    {
+      "id": "C-q5",
+      "word": "infrastructure",
+      "type": "english_to_hebrew",
+      "question": "What does “infrastructure” mean?",
+      "options": [
+        "אמצעי הגנה",
+        "נמחק",
+        "בועה",
+        "תשתית"
+      ],
+      "correct_answer": "תשתית",
+      "explanation_hebrew": "“infrastructure” פירושו תשתית – המערכות הפיזיות הבסיסיות שמאפשרות פעילות."
+    },
+    {
+      "id": "C-q6",
+      "word": "mechanism",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מנגנון”?",
+      "options": [
+        "prospect",
+        "rout",
+        "mechanism",
+        "dominance"
+      ],
+      "correct_answer": "mechanism",
+      "explanation_hebrew": "המילה “mechanism” פירושה מנגנון – שיטה או כלי שגורמים למשהו לעבוד."
+    },
+    {
+      "id": "C-q7",
+      "word": "temporarily",
+      "type": "english_to_hebrew",
+      "question": "What does “temporarily” mean?",
+      "options": [
+        "זמנית",
+        "צניחה",
+        "יצרנים",
+        "מתנגדים / יריבים"
+      ],
+      "correct_answer": "זמנית",
+      "explanation_hebrew": "“temporarily” פירושו זמנית – לפרק זמן מוגבל, לא לתמיד."
+    },
+    {
+      "id": "C-q8",
+      "word": "curb",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לרסן / לבלום”?",
+      "options": [
+        "curb",
+        "wiped",
+        "exposed",
+        "backlash"
+      ],
+      "correct_answer": "curb",
+      "explanation_hebrew": "המילה “curb” פירושה לרסן / לבלום – להגביל או לעצור גדילה או התנהגות."
+    },
+    {
+      "id": "C-q9",
+      "word": "panic",
+      "type": "english_to_hebrew",
+      "question": "What does “panic” mean?",
+      "options": [
+        "בהלה",
+        "פיקוח",
+        "לרסן / לבלום",
+        "סיכוי / צפי"
+      ],
+      "correct_answer": "בהלה",
+      "explanation_hebrew": "“panic” פירושו בהלה – פחד פתאומי וחזק שגורם לפעולה לא שקולה."
+    },
+    {
+      "id": "C-q10",
+      "word": "restricting",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מגביל”?",
+      "options": [
+        "rout",
+        "opponents",
+        "restricting",
+        "safeguards"
+      ],
+      "correct_answer": "restricting",
+      "explanation_hebrew": "המילה “restricting” פירושה מגביל – מצמצם או מגביל פעולה או חופש."
+    },
+    {
+      "id": "C-q11",
+      "word": "crucial",
+      "type": "english_to_hebrew",
+      "question": "What does “crucial” mean?",
+      "options": [
+        "לרסן / לבלום",
+        "חיוני / מכריע",
+        "נמחק",
+        "יצרנים"
+      ],
+      "correct_answer": "חיוני / מכריע",
+      "explanation_hebrew": "“crucial” פירושו חיוני / מכריע – חשוב מאוד להצלחה או לתוצאה."
+    },
+    {
+      "id": "C-q12",
+      "word": "moratorium",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הקפאה / עצירה”?",
+      "options": [
+        "opponents",
+        "scrutiny",
+        "exposed",
+        "moratorium"
+      ],
+      "correct_answer": "moratorium",
+      "explanation_hebrew": "המילה “moratorium” פירושה הקפאה / עצירה – עצירה רשמית וזמנית של פעילות מסוימת."
+    },
+    {
+      "id": "C-q13",
+      "word": "opponents",
+      "type": "english_to_hebrew",
+      "question": "What does “opponents” mean?",
+      "options": [
+        "אמצעי הגנה",
+        "מתנגדים / יריבים",
+        "מוליך למחצה",
+        "חשוף"
+      ],
+      "correct_answer": "מתנגדים / יריבים",
+      "explanation_hebrew": "“opponents” פירושו מתנגדים / יריבים – אנשים שנמצאים בצד הנגדי במאבק."
+    },
+    {
+      "id": "C-q14",
+      "word": "safeguards",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “אמצעי הגנה”?",
+      "options": [
+        "safeguards",
+        "rout",
+        "mechanism",
+        "oversight"
+      ],
+      "correct_answer": "safeguards",
+      "explanation_hebrew": "המילה “safeguards” פירושה אמצעי הגנה – כללים או אמצעים שמונעים נזק."
+    },
+    {
+      "id": "C-q15",
+      "word": "oversight",
+      "type": "english_to_hebrew",
+      "question": "What does “oversight” mean?",
+      "options": [
+        "סיכוי / צפי",
+        "פיקוח",
+        "האטה",
+        "שליטה / עליונות"
+      ],
+      "correct_answer": "פיקוח",
+      "explanation_hebrew": "“oversight” פירושו פיקוח – מעקב ובקרה על פעילות או ארגון."
+    },
+    {
+      "id": "C-q16",
+      "word": "exposed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חשוף”?",
+      "options": [
+        "exposed",
+        "bubble",
+        "slowdown",
+        "crucial"
+      ],
+      "correct_answer": "exposed",
+      "explanation_hebrew": "המילה “exposed” פירושה חשוף – נמצא בסיכון או מושפע ישירות ממשהו."
+    },
+    {
+      "id": "C-q17",
+      "word": "semiconductor",
+      "type": "english_to_hebrew",
+      "question": "What does “semiconductor” mean?",
+      "options": [
+        "מתנגדים / יריבים",
+        "מוליך למחצה",
+        "זמנית",
+        "נמחק"
+      ],
+      "correct_answer": "מוליך למחצה",
+      "explanation_hebrew": "“semiconductor” פירושו מוליך למחצה – חומר המשמש לייצור שבבים אלקטרוניים."
+    },
+    {
+      "id": "C-q18",
+      "word": "manufacturers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “יצרנים”?",
+      "options": [
+        "safeguards",
+        "manufacturers",
+        "exposed",
+        "slowdown"
+      ],
+      "correct_answer": "manufacturers",
+      "explanation_hebrew": "המילה “manufacturers” פירושה יצרנים – חברות שמייצרות מוצרים."
+    },
+    {
+      "id": "C-q19",
+      "word": "backlash",
+      "type": "english_to_hebrew",
+      "question": "What does “backlash” mean?",
+      "options": [
+        "תגובת נגד",
+        "בחינה מדוקדקת",
+        "סיכוי / צפי",
+        "זמנית"
+      ],
+      "correct_answer": "תגובת נגד",
+      "explanation_hebrew": "“backlash” פירושו תגובת נגד – התנגדות חזקה ונרחבת לרעיון או פעולה."
+    },
+    {
+      "id": "C-q20",
+      "word": "scrutiny",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בחינה מדוקדקת”?",
+      "options": [
+        "scrutiny",
+        "wiped",
+        "exposed",
+        "bubble"
+      ],
+      "correct_answer": "scrutiny",
+      "explanation_hebrew": "המילה “scrutiny” פירושה בחינה מדוקדקת – בדיקה קפדנית וביקורתית."
+    },
+    {
+      "id": "C-q21",
+      "word": "dominance",
+      "type": "english_to_hebrew",
+      "question": "What does “dominance” mean?",
+      "options": [
+        "מנגנון",
+        "אמצעי הגנה",
+        "שליטה / עליונות",
+        "הקפאה / עצירה"
+      ],
+      "correct_answer": "שליטה / עליונות",
+      "explanation_hebrew": "“dominance” פירושו שליטה / עליונות – מעמד של כוח ושליטה על אחרים."
+    },
+    {
+      "id": "C-q22",
+      "word": "bubble",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בועה”?",
+      "options": [
+        "manufacturers",
+        "temporarily",
+        "bubble",
+        "plunge"
+      ],
+      "correct_answer": "bubble",
+      "explanation_hebrew": "המילה “bubble” פירושה בועה – מצב שבו מחירים גבוהים בהרבה מערכם האמיתי."
+    },
+    {
+      "id": "C-q23",
+      "word": "investors",
+      "type": "english_to_hebrew",
+      "question": "What does “investors” mean?",
+      "options": [
+        "משקיעים",
+        "פיקוח",
+        "בחינה מדוקדקת",
+        "תגובת נגד"
+      ],
+      "correct_answer": "משקיעים",
+      "explanation_hebrew": "“investors” פירושו משקיעים – אנשים או גופים שמשקיעים כסף לרווח."
+    },
+    {
+      "id": "C-q24",
+      "word": "prospect",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סיכוי / צפי”?",
+      "options": [
+        "oversight",
+        "wiped",
+        "infrastructure",
+        "prospect"
+      ],
+      "correct_answer": "prospect",
+      "explanation_hebrew": "המילה “prospect” פירושה סיכוי / צפי – אפשרות או ציפייה לדבר עתידי."
+    },
+    {
+      "id": "C-q25",
+      "word": "steep",
+      "type": "english_to_hebrew",
+      "question": "What does “steep” mean?",
+      "options": [
+        "בהלה",
+        "תגובת נגד",
+        "חד / תלול",
+        "מתנגדים / יריבים"
+      ],
+      "correct_answer": "חד / תלול",
+      "explanation_hebrew": "“steep” פירושו חד / תלול – גדול וחד מאוד (כאן: ירידה)."
+    }
+  ]
+}
