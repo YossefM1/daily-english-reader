@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-07",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Leonid meteor shower 2026: How and when to see it this weekend",
+  "article_url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "When the Leonid meteor shower can be seen, how to watch it, and how UK weather may affect the view",
+        "Why a new telescope is being built in Wales",
+        "How astronauts collect dust from comets",
+        "Why the constellation Leo is disappearing"
+      ],
+      "correct_answer": "When the Leonid meteor shower can be seen, how to watch it, and how UK weather may affect the view",
+      "explanation_hebrew": "הכתבה מסבירה מתי מתרחש מטר הלאונידים, איך לצפות בו ומה צפוי במזג האוויר בבריטניה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When is the Leonid meteor shower expected to reach its peak?",
+      "difficulty": "A",
+      "options": [
+        "On 7 November",
+        "On the night of 17 November",
+        "On 30 November",
+        "At the end of December"
+      ],
+      "correct_answer": "On the night of 17 November",
+      "explanation_hebrew": "לפי הכתבה, המטר נמשך עד 30 בנובמבר אך מגיע לשיא בלילה של 17 בנובמבר."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “radiant” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "The brightest meteor in the shower",
+        "A device used to measure cloud",
+        "The point in the sky from which the meteors seem to appear",
+        "Light reflected from the Moon"
+      ],
+      "correct_answer": "The point in the sky from which the meteors seem to appear",
+      "explanation_hebrew": "Radiant הוא הנקודה שממנה נראה כאילו המטאורים יוצאים; אצל הלאונידים היא ליד ראש קבוצת הכוכבים אריה."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What equipment does the article say is needed to see the Leonids?",
+      "difficulty": "A",
+      "options": [
+        "A powerful telescope",
+        "Special night-vision glasses",
+        "Binoculars and a star map",
+        "No special equipment because they are visible to the naked eye"
+      ],
+      "correct_answer": "No special equipment because they are visible to the naked eye",
+      "explanation_hebrew": "הלאונידים נראים בעין בלתי מזוינת, ולכן אין צורך במשקפת או בטלסקופ."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where were the best chances of clear skies expected on Friday and Saturday nights?",
+      "difficulty": "A",
+      "options": [
+        "Southern and western parts of England and Wales",
+        "Northern Ireland and northern Scotland",
+        "Only central London",
+        "Every part of the UK equally"
+      ],
+      "correct_answer": "Southern and western parts of England and Wales",
+      "explanation_hebrew": "התחזית הצביעה על הסיכוי הטוב ביותר לשמים בהירים בדרום ובמערב אנגליה וויילס."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could viewing conditions be especially good around the middle-of-November peak?",
+      "difficulty": "A",
+      "options": [
+        "The meteors will move more slowly.",
+        "Street lights will be switched off.",
+        "The Moon will be below the horizon around midnight, reducing reflected light.",
+        "Fog always disappears after midnight."
+      ],
+      "correct_answer": "The Moon will be below the horizon around midnight, reducing reflected light.",
+      "explanation_hebrew": "כאשר הירח מתחת לאופק בסביבות חצות, האור המוחזר ממנו פחות מפריע לראות מטאורים חלשים."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List four practical steps the article recommends for watching the Leonids.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין ארבע המלצות מעשיות שונות מן הכתבה.",
+      "expected_points": [
+        "Choose a safe, dark place away from street lights and other light pollution.",
+        "Use a wide open space with a broad view of the sky.",
+        "Allow about 20 to 30 minutes for your eyes to adapt to the dark.",
+        "Look generally at the sky but focus near the head of the constellation Leo.",
+        "Check the local cloud, fog and temperature forecast.",
+        "Dress warmly for single-figure temperatures and possible frost."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain why a clear Sunday night might still give some sky watchers a poor view.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הקשר בין שמים בהירים, היווצרות ערפל והסתרת המטאורים.",
+      "expected_points": [
+        "More areas may have clear skies on Sunday night.",
+        "Fog can form where skies remain clear for a period of time.",
+        "Fog can obscure the night sky even when there is little cloud.",
+        "Viewers should check the local fog forecast as well as cloud cover."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the timing, cause, viewing advice and weather outlook for the Leonids in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מועד השיא, מקור המטאורים, עצות צפייה מרכזיות והשפעת העננות או הערפל.",
+      "expected_points": [
+        "The Leonids are visible during November and peak on the night of 17 November.",
+        "They come from dust left by Comet 55P/Tempel-Tuttle and can reach 10 to 15 meteors per hour.",
+        "A dark open place and 20 to 30 minutes of eye adjustment improve the view.",
+        "Cloud may limit viewing early in the weekend, while fog may be a problem on Sunday.",
+        "Conditions near the peak may improve because moonlight will be less disruptive around midnight."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short plan for a safe and comfortable Leonid-watching evening using details from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לבנות תכנית מעשית הכוללת מקום, זמן הסתגלות לחושך, בדיקת תחזית והיערכות לקור.",
+      "expected_points": [
+        "Select a safe, dark and open location away from light pollution.",
+        "Check hour-by-hour cloud, fog and temperature information before leaving.",
+        "Arrive early enough to let the eyes adapt for 20 to 30 minutes.",
+        "Use the area near Leo as a guide while keeping a broad view of the sky.",
+        "Wear warm clothing because temperatures may fall into single figures."
+      ]
+    }
+  ]
+}

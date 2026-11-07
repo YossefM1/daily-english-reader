@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-07",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "What happens if the internet goes down? BlackSky - the UK's emergency backup plans",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central idea of the article?",
+      "difficulty": "C",
+      "options": [
+        "A prolonged loss of power and communications could cascade through essential services, so the UK and BBC are planning backup systems for at least three days",
+        "The UK has decided to close every FM radio station immediately",
+        "Lancaster's 2015 flood affected only television reception",
+        "Satellite internet has already made emergency planning unnecessary"
+      ],
+      "correct_answer": "A prolonged loss of power and communications could cascade through essential services, so the UK and BBC are planning backup systems for at least three days",
+      "explanation_hebrew": "הכתבה מראה כיצד אירוע Black Sky עלול לשבש מערכות חיוניות רבות ומפרטת היערכות ממשלתית ושל ה־BBC לשלושה ימים לפחות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which communication systems continued to work during the 2015 Lancaster blackout?",
+      "difficulty": "C",
+      "options": [
+        "Mobile apps and cash machines",
+        "Copper-wire landline telephones and FM radio",
+        "Online newspapers and railway signals",
+        "5G networks and streaming television"
+      ],
+      "correct_answer": "Copper-wire landline telephones and FM radio",
+      "explanation_hebrew": "במהלך ההפסקה בלנקסטר שרדו טלפונים קוויים על חוטי נחושת ורדיו FM, בעוד מערכות דיגיטליות רבות כשלו."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How is the BBC preparing its emergency radio service?",
+      "difficulty": "C",
+      "options": [
+        "By relying entirely on home broadband",
+        "By moving every employee to one satellite vehicle",
+        "By equipping a special studio for about 100 staff with secure non-internet communications and supplies for at least three days",
+        "By replacing all radio towers with mobile phones"
+      ],
+      "correct_answer": "By equipping a special studio for about 100 staff with secure non-internet communications and supplies for at least three days",
+      "explanation_hebrew": "ה־BBC מתכנן אולפן חירום לכמאה עובדים, עם קווים שאינם תלויים באינטרנט ומלאי דלק, מים ומזון לשלושה ימים לפחות."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the emergency plan rely on FM radio?",
+      "difficulty": "C",
+      "options": [
+        "FM uses no electricity at transmission sites.",
+        "Every smartphone can transmit an FM signal.",
+        "FM broadcasts require no prepared messages.",
+        "FM can reach almost everywhere even when the internet or mobile networks fail."
+      ],
+      "correct_answer": "FM can reach almost everywhere even when the internet or mobile networks fail.",
+      "explanation_hebrew": "רדיו FM נבחר משום שהוא יכול להמשיך להגיע לקהל גם בהפסקת חשמל רחבה או במתקפת סייבר שמשבשת רשתות דיגיטליות."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What are the planned High Altitude Pseudo-Satellites intended to provide?",
+      "difficulty": "C",
+      "options": [
+        "At least a week of emergency mobile-phone and internet connectivity when ground networks fail",
+        "Permanent electricity for every UK home",
+        "A replacement for all water pumps",
+        "Weather forecasting only for Lancaster"
+      ],
+      "correct_answer": "At least a week of emergency mobile-phone and internet connectivity when ground networks fail",
+      "explanation_hebrew": "הממשלה משקיעה 70 מיליון ליש״ט במטוסים שיחוגו מעל בריטניה ויספקו לפחות שבוע של קישוריות סלולרית ואינטרנטית בחירום."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the phrase “nine meals from anarchy” suggest in this context?",
+      "difficulty": "C",
+      "options": [
+        "Emergency meals should contain nine ingredients.",
+        "Civil disorder begins whenever shops close for one hour.",
+        "About three days without food or essential supplies could turn a crisis into chaos.",
+        "The government plans to provide nine meals to every household."
+      ],
+      "correct_answer": "About three days without food or essential supplies could turn a crisis into chaos.",
+      "explanation_hebrew": "תשע ארוחות מייצגות בערך שלושה ימים; הביטוי מדגיש כמה מהר מחסור במזון ובשירותים עלול לערער את הסדר."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe five knock-on failures caused by the Lancaster power cut.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין חמש תוצאות שונות ולהראות שהן נבעו מאובדן החשמל.",
+      "expected_points": [
+        "Homes lost light and heat.",
+        "Some water supplies failed because pumps needed electricity.",
+        "The railway station closed.",
+        "Petrol stations and shops closed.",
+        "Most cash machines stopped working.",
+        "Traffic lights failed.",
+        "Mobile reception and normal digital communications became difficult or unavailable."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why does the article argue that greater efficiency and connectivity can reduce resilience?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר כיצד תלות הדדית וצמצום מערכות גיבוי יוצרים נקודות כשל משותפות, עם דוגמה מן הכתבה.",
+      "expected_points": [
+        "Efficient systems often remove older parallel backups and spare capacity.",
+        "More services now depend on electricity, the internet or mobile networks.",
+        "A failure in one network can therefore spread to water, payments, transport, shops and communications.",
+        "Replacing radio-based emergency-service communications with mobile technology may create another shared dependency.",
+        "The planned closure of copper landlines removes a system that once worked during power cuts."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the Black Sky risk, the lessons from Lancaster and the main UK backup plans in 5–6 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את הגדרת הסיכון, דוגמת לנקסטר, יעד של 72 שעות, תכנית ה־BBC, HAPS והחשש מאובדן מערכות ישנות.",
+      "expected_points": [
+        "A Black Sky event is a prolonged disruption in which power loss causes multiple essential systems to fail.",
+        "Lancaster showed how water, transport, retail, payments and digital communications can collapse together.",
+        "Resilience planning aims to keep the country functioning for at least 72 hours.",
+        "The BBC plans an emergency FM service with independent communications, generators and supplies.",
+        "HAPS aircraft are being developed to provide temporary mobile and internet connectivity.",
+        "The closure of copper landlines and uncertain future of FM may remove technologies that currently provide valuable redundancy."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Evaluate the article's final contrast between modern digital systems and older technologies as emergency backups.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לנסח טענה מאוזנת, להשתמש לפחות בשתי דוגמאות מן הכתבה ולהתייחס ליתרונות ולמגבלות של מערכות ישנות וחדשות.",
+      "expected_points": [
+        "Explain why digital systems are efficient in normal conditions but may share dependencies on power and networks.",
+        "Use Lancaster's surviving copper landlines or FM radio as evidence for older systems' resilience.",
+        "Mention a modern backup such as HAPS, satellite phones or 4G and 5G emergency-service technology.",
+        "Recognise limitations such as aging copper infrastructure or FM's high power use.",
+        "Conclude whether the UK should preserve mixed, independent communication channels."
+      ]
+    }
+  ]
+}

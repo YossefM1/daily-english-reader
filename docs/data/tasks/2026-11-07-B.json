@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-07",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Under-16s could be banned from buying energy drinks in Wales",
+  "article_url": "https://www.bbc.co.uk/news/articles/cx4g114r0d2do?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "A plan to replace all soft drinks with coffee in Welsh schools",
+        "The proposed Welsh ban on selling high-caffeine energy drinks to under-16s and the debate around it",
+        "A study proving that every teenager drinks too much caffeine",
+        "New advertising rules for tea and low-caffeine cola"
+      ],
+      "correct_answer": "The proposed Welsh ban on selling high-caffeine energy drinks to under-16s and the debate around it",
+      "explanation_hebrew": "הכתבה עוסקת בהצעת ממשלת וויילס לאסור מכירת משקאות אנרגיה עתירי קפאין לבני פחות מ־16 ובטיעונים בעד ונגד."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which drinks would the Welsh proposal cover?",
+      "difficulty": "B",
+      "options": [
+        "Every drink containing any sugar",
+        "Tea, coffee and all diet drinks",
+        "Drinks other than tea or coffee containing more than 150mg of caffeine per litre",
+        "Only drinks sold from vending machines"
+      ],
+      "correct_answer": "Drinks other than tea or coffee containing more than 150mg of caffeine per litre",
+      "explanation_hebrew": "ההצעה מתייחסת למשקאות שאינם תה או קפה ובהם יותר מ־150 מ״ג קפאין לליטר."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What did Aisling Pigott mean when she said the ban would not be a “magic bullet”?",
+      "difficulty": "B",
+      "options": [
+        "It would be too expensive to enforce.",
+        "It would work only in pharmacies.",
+        "It would immediately remove caffeine from every shop.",
+        "It would be helpful but would not solve all diet and lifestyle problems by itself."
+      ],
+      "correct_answer": "It would be helpful but would not solve all diet and lifestyle problems by itself.",
+      "explanation_hebrew": "Magic bullet הוא פתרון יחיד שפותר בעיה מורכבת לחלוטין; פיגוט אמרה שהאיסור הוא צעד חיובי אך לא פתרון מלא."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which effects did the article link to excessive caffeine consumption?",
+      "difficulty": "B",
+      "options": [
+        "Headaches, sleep problems and, at very high levels, heart problems or seizures",
+        "Stronger teeth and longer sleep",
+        "Permanent protection from anxiety",
+        "Improved nutrition without eating food"
+      ],
+      "correct_answer": "Headaches, sleep problems and, at very high levels, heart problems or seizures",
+      "explanation_hebrew": "הכתבה קושרת צריכת קפאין מופרזת לכאבי ראש ולבעיות שינה, ובמקרים חמורים לדופק מהיר, הפרעות קצב או פרכוסים."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is one issue the planned consultation will examine?",
+      "difficulty": "B",
+      "options": [
+        "Whether coffee should be renamed",
+        "Online age-verification and how compliance and sanctions would work",
+        "How to remove caffeine from natural tea leaves",
+        "Whether adults should be limited to one drink a week"
+      ],
+      "correct_answer": "Online age-verification and how compliance and sanctions would work",
+      "explanation_hebrew": "ההתייעצות אמורה לבחון בין היתר אימות גיל באינטרנט, בדיקת ציות, סנקציות, לוחות זמנים ומעקב."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the British Soft Drinks Association oppose the proposed ban?",
+      "difficulty": "B",
+      "options": [
+        "It wants labels removed from all drinks.",
+        "It says children should replace meals with energy drinks.",
+        "It argues the ban is unnecessary, evidence of harm is not robust, and most youth caffeine comes from other sources.",
+        "It believes the age limit should be 21."
+      ],
+      "correct_answer": "It argues the ban is unnecessary, evidence of harm is not robust, and most youth caffeine comes from other sources.",
+      "explanation_hebrew": "הארגון טוען שאין ראיות חזקות לצריכת יתר או לנזק המצדיקים איסור, ושמרבית הקפאין של צעירים מגיע ממקורות אחרים."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give four reasons supporters in the article offer for restricting sales to under-16s.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין ארבעה נימוקים בריאותיים או התנהגותיים הנתמכים בפרטי הכתבה.",
+      "expected_points": [
+        "Young people may be more sensitive to caffeine because their bodies are smaller and their brains are developing.",
+        "High caffeine intake is associated with headaches and sleep problems.",
+        "It may contribute to stress, anxiety, irritation, tiredness or depression.",
+        "Very high intake can cause rapid heart rate, abnormal rhythms or seizures.",
+        "Sugary versions can contribute to obesity and tooth damage.",
+        "Some young people may rely on the drinks or use them instead of nutritious food."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "vocabulary_context",
+      "type": "written_response",
+      "prompt": "Explain Pigott's “overdraft” comparison and how it describes the effect of caffeine.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לפרש את הדימוי ולחבר בין דחיפה זמנית בריכוז לבין ה׳החזר׳ או הנפילה שאחריה.",
+      "expected_points": [
+        "An overdraft gives someone money immediately that must later be repaid.",
+        "Caffeine can provide a short-term increase in energy or concentration.",
+        "The temporary benefit is followed by a crash or another cost to the body.",
+        "The comparison warns that caffeine does not replace balanced nutrition or rest."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the Welsh proposal, its health case, public support and the industry's objection in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את גיל היעד וסף הקפאין, טיעוני הבריאות, תמיכת צעירים או מומחים, וטענת התעשייה.",
+      "expected_points": [
+        "Wales plans to consult on banning sales of drinks with more than 150mg of caffeine per litre to under-16s.",
+        "Supporters cite links to sleep, mental-health and physical-health problems in young people.",
+        "Young people interviewed in Cardiff and dietician Aisling Pigott supported action.",
+        "The proposal would also require decisions about age checks, enforcement, sanctions and timing.",
+        "The British Soft Drinks Association says the measure is unnecessary and not supported by robust evidence."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced recommendation to the Welsh consultation, using evidence from both sides of the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג עמדה ברורה אך מאוזנת, להשתמש בשתי ראיות לפחות ולתת מענה מעשי ליישום או למעקב.",
+      "expected_points": [
+        "State whether the proposed restriction should proceed and why.",
+        "Use evidence about possible health effects or young people's sensitivity to caffeine.",
+        "Acknowledge the industry's argument about evidence and existing voluntary marketing rules.",
+        "Address practical issues such as online age checks, compliance, sanctions or monitoring.",
+        "Suggest reviewing outcomes after implementation rather than claiming the policy will solve every problem."
+      ]
+    }
+  ]
+}
