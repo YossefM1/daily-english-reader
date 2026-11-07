@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-07",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "What happens if the internet goes down? BlackSky - the UK's emergency backup plans",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-07T00:31:54+00:00",
+  "age_hours_at_selection": 1.8,
+  "word_count": 1415,
+  "generated_at": "2026-11-07T02:20:04.228842+00:00",
+  "difficulty_reason": "Long, analytical feature with dense information, longer sentences and B2/C1/C2 vocabulary; needs background on infrastructure, resilience and emergency planning.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "reception",
+      "lemma": "reception",
+      "level": "B2",
+      "hebrew": "קְלִיטָה (טֵלֵפוֹנִית)",
+      "explanation_hebrew": "עָצְמַת הָאוֹת שֶׁמְּאַפְשֶׁרֶת לְקַבֵּל שִׂיחוֹת אוֹ שִׁדּוּר",
+      "pronunciation_hebrew": "רִיסֶפְּשְׁן",
+      "example": "I couldn't make a call because there was no reception."
+    },
+    {
+      "word": "flooded",
+      "lemma": "flood",
+      "level": "B1",
+      "hebrew": "הֻצַף, עָלָה עַל גְּדוֹתָיו",
+      "explanation_hebrew": "הִתְכַּסָּה בְּמַיִם רַבִּים",
+      "pronunciation_hebrew": "פְלַאדֶד",
+      "example": "The river flooded the whole town."
+    },
+    {
+      "word": "ironic",
+      "lemma": "ironic",
+      "level": "B2",
+      "hebrew": "אִירוֹנִי",
+      "explanation_hebrew": "מַצָּב שֶׁבּוֹ קוֹרֶה הַהֵפֶךְ מֵהַמְּצֻפֶּה, לְעִתִּים בְּאֹפֶן מַצְחִיק",
+      "pronunciation_hebrew": "אַייְרוֹנִיק",
+      "example": "It is ironic that the fire station itself burned down."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "C1",
+      "hebrew": "תַּשְׁתִּית",
+      "explanation_hebrew": "הַמַּעֲרָכוֹת הַבְּסִיסִיּוֹת כְּמוֹ חַשְׁמַל, כְּבִישִׁים וְתִקְשֹׁרֶת",
+      "pronunciation_hebrew": "אִינְפְרָהסְטְרַקְצֶ'ר",
+      "example": "The country invested in digital infrastructure."
+    },
+    {
+      "word": "subsequent",
+      "lemma": "subsequent",
+      "level": "C1",
+      "hebrew": "מְאֻחָר יוֹתֵר, הַבָּא",
+      "explanation_hebrew": "מַשֶּׁהוּ שֶׁמַּגִּיעַ אַחֲרֵי מַשֶּׁהוּ אַחֵר",
+      "pronunciation_hebrew": "סַאבְּסִיקְווֶנְט",
+      "example": "The subsequent report explained what went wrong."
+    },
+    {
+      "word": "contingency",
+      "lemma": "contingency",
+      "level": "C1",
+      "hebrew": "הֵעָרְכוּת לְחֵרוּם",
+      "explanation_hebrew": "הַכָנָה לְמַצָּב בִּלְתִּי צָפוּי אוֹ חֵרוּם",
+      "pronunciation_hebrew": "קוֹנְטִינְגֶ'נְסִי",
+      "example": "The city has a contingency plan for floods."
+    },
+    {
+      "word": "disruption",
+      "lemma": "disruption",
+      "level": "B2",
+      "hebrew": "שִׁבּוּשׁ, הַפְרָעָה",
+      "explanation_hebrew": "הַפְרָעָה שֶׁגּוֹרֶמֶת לְמַשֶּׁהוּ לְהַפְסִיק לִפְעֹל כָּרָגִיל",
+      "pronunciation_hebrew": "דִיסְרַאפְּשְׁן",
+      "example": "The storm caused major disruption to travel."
+    },
+    {
+      "word": "resilience",
+      "lemma": "resilience",
+      "level": "C1",
+      "hebrew": "חֹסֶן, עֲמִידוּת",
+      "explanation_hebrew": "הַיְכֹלֶת לְהִתְאוֹשֵׁשׁ אוֹ לַעֲמֹד בִּפְנֵי קְשָׁיִים",
+      "pronunciation_hebrew": "רִיזִילְיֶנְס",
+      "example": "The country is building resilience against disasters."
+    },
+    {
+      "word": "withstand",
+      "lemma": "withstand",
+      "level": "C1",
+      "hebrew": "לַעֲמֹד בִּפְנֵי",
+      "explanation_hebrew": "לְהַחְזִיק מַעֲמָד מוּל כֹּחַ אוֹ לַחַץ",
+      "pronunciation_hebrew": "וִידְסְטַנְד",
+      "example": "The building was designed to withstand earthquakes."
+    },
+    {
+      "word": "anarchy",
+      "lemma": "anarchy",
+      "level": "C1",
+      "hebrew": "אֲנַרְכְיָה, אִי־סֵדֶר",
+      "explanation_hebrew": "מַצָּב שֶׁל חֹסֶר שִׁלְטוֹן וְחֹסֶר סֵדֶר",
+      "pronunciation_hebrew": "אַנַרְקִי",
+      "example": "Without police, the city fell into anarchy."
+    },
+    {
+      "word": "brutal",
+      "lemma": "brutal",
+      "level": "B2",
+      "hebrew": "אַכְזָרִי, קָשֶׁה",
+      "explanation_hebrew": "קָשֶׁה וְאַלִּים מְאוֹד, בְּלִי רַחֲמִים",
+      "pronunciation_hebrew": "בְּרוּטָל",
+      "example": "It was a brutal reminder of how fragile life is."
+    },
+    {
+      "word": "chaos",
+      "lemma": "chaos",
+      "level": "B2",
+      "hebrew": "כָּאוֹס, אַנְדְּרָלָמוּסְיָה",
+      "explanation_hebrew": "מַצָּב שֶׁל חֹסֶר סֵדֶר מֻחְלָט וּבִלְבּוּל",
+      "pronunciation_hebrew": "קֵייְאוֹס",
+      "example": "The power cut caused chaos in the city."
+    },
+    {
+      "word": "gleaned",
+      "lemma": "glean",
+      "level": "C2",
+      "hebrew": "לִקֵּט, אָסַף (מֵידָע)",
+      "explanation_hebrew": "אָסַף מֵידָע מְעַט מְעַט מִמְּקוֹרוֹת שׁוֹנִים",
+      "pronunciation_hebrew": "גְּלִינְד",
+      "example": "From what I gleaned, the plan is still secret."
+    },
+    {
+      "word": "dispose",
+      "lemma": "dispose",
+      "level": "B2",
+      "hebrew": "לְסַלֵּק, לְהִפָּטֵר מִ-",
+      "explanation_hebrew": "לְהִתְפַּטֵּר מִמַּשֶּׁהוּ, לִזְרֹק אוֹתוֹ",
+      "pronunciation_hebrew": "דִיסְפּוֹז",
+      "example": "You must dispose of the waste safely."
+    },
+    {
+      "word": "isolated",
+      "lemma": "isolated",
+      "level": "B2",
+      "hebrew": "מְבֻדָּד",
+      "explanation_hebrew": "מֻפְרָד אוֹ מְנֻתָּק מֵהַשְּׁאָר",
+      "pronunciation_hebrew": "אַייְסוֹלֵייטֶד",
+      "example": "The towers are isolated from the internet."
+    },
+    {
+      "word": "protocols",
+      "lemma": "protocol",
+      "level": "C1",
+      "hebrew": "נְהָלִים",
+      "explanation_hebrew": "כְּלָלִים רִשְׁמִיִּים שֶׁקּוֹבְעִים אֵיךְ לִפְעֹל",
+      "pronunciation_hebrew": "פְּרוֹטוֹקוֹלְז",
+      "example": "The team followed strict safety protocols."
+    },
+    {
+      "word": "crippling",
+      "lemma": "crippling",
+      "level": "C1",
+      "hebrew": "מְשַׁתֵּק",
+      "explanation_hebrew": "שֶׁגּוֹרֵם נֵזֶק חָמוּר וּמוֹנֵעַ פְּעֻלָּה תְּקִינָה",
+      "pronunciation_hebrew": "קְרִיפְּלִינְג",
+      "example": "A crippling cyber-attack shut down the hospital."
+    },
+    {
+      "word": "agenda",
+      "lemma": "agenda",
+      "level": "B2",
+      "hebrew": "סֵדֶר יוֹם",
+      "explanation_hebrew": "רְשִׁימַת הַנּוֹשְׂאִים אוֹ הַמַּטָּרוֹת שֶׁעוֹסְקִים בָּהֶם",
+      "pronunciation_hebrew": "אַגֶ'נְדָה",
+      "example": "Climate change is high on the political agenda."
+    },
+    {
+      "word": "reservoir",
+      "lemma": "reservoir",
+      "level": "C1",
+      "hebrew": "מַאֲגַר מַיִם",
+      "explanation_hebrew": "מָקוֹם גָּדוֹל שֶׁבּוֹ אוֹגְרִים מַיִם",
+      "pronunciation_hebrew": "רֶזֶרְבְוָואר",
+      "example": "The city gets its water from a large reservoir."
+    },
+    {
+      "word": "sewage",
+      "lemma": "sewage",
+      "level": "C1",
+      "hebrew": "בִּיּוּב, שְׁפָכִים",
+      "explanation_hebrew": "מַיִם מְלֻכְלָכִים וּפְסֹלֶת מִבָּתִּים וּמִבָּתֵּי שִׁמּוּשׁ",
+      "pronunciation_hebrew": "סוּאִיגְ'",
+      "example": "The flood mixed clean water with sewage."
+    },
+    {
+      "word": "solidify",
+      "lemma": "solidify",
+      "level": "C1",
+      "hebrew": "לְהִתְמַצֵּק",
+      "explanation_hebrew": "לַהֲפֹךְ מֻצָּק מִנּוֹזֵל אוֹ רַךְ",
+      "pronunciation_hebrew": "סוֹלִידִיפַייְ",
+      "example": "The liquid will solidify as it cools."
+    },
+    {
+      "word": "blockages",
+      "lemma": "blockage",
+      "level": "B2",
+      "hebrew": "חֲסִימוֹת, סְתִימוֹת",
+      "explanation_hebrew": "דְּבָרִים שֶׁחוֹסְמִים מַעֲבָר, לְמָשָׁל בְּצִנּוֹרוֹת",
+      "pronunciation_hebrew": "בְּלוֹקִיגֶ'ז",
+      "example": "The pipes were full of blockages."
+    },
+    {
+      "word": "catastrophic",
+      "lemma": "catastrophic",
+      "level": "C1",
+      "hebrew": "הֲרֵה־אָסוֹן",
+      "explanation_hebrew": "שֶׁגּוֹרֵם לְאָסוֹן גָּדוֹל וְנֵזֶק עָצוּם",
+      "pronunciation_hebrew": "קָטָסְטְרוֹפִיק",
+      "example": "A catastrophic failure left the city without power."
+    },
+    {
+      "word": "overshadowed",
+      "lemma": "overshadow",
+      "level": "C1",
+      "hebrew": "הֻאְפַּל (עַל יְדֵי)",
+      "explanation_hebrew": "נִדְחַק הַצִּדָּה כִּי מַשֶּׁהוּ אַחֵר מָשַׁךְ תְּשׂוּמֶת לֵב",
+      "pronunciation_hebrew": "אוֹבֶרְשַׁאדוֹאְד",
+      "example": "The good news was overshadowed by the scandal."
+    },
+    {
+      "word": "omen",
+      "lemma": "omen",
+      "level": "C1",
+      "hebrew": "אוֹת מְבַשֵּׂר, סִימָן",
+      "explanation_hebrew": "סִימָן שֶׁנֶּחְשָׁב כְּמַנְבֵּא מַה יִּקְרֶה בֶּעָתִיד",
+      "pronunciation_hebrew": "אוֹמֶן",
+      "example": "The dark clouds felt like a bad omen."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "reception",
+      "type": "english_to_hebrew",
+      "question": "What does “reception” mean?",
+      "options": [
+        "הֻצַף, עָלָה עַל גְּדוֹתָיו",
+        "אִירוֹנִי",
+        "קְלִיטָה (טֵלֵפוֹנִית)",
+        "תַּשְׁתִּית"
+      ],
+      "correct_answer": "קְלִיטָה (טֵלֵפוֹנִית)",
+      "explanation_hebrew": "“reception” פֵּרוּשׁוֹ “קְלִיטָה (טֵלֵפוֹנִית)”."
+    },
+    {
+      "id": "C-q2",
+      "word": "flooded",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “הֻצַף, עָלָה עַל גְּדוֹתָיו”?",
+      "options": [
+        "subsequent",
+        "ironic",
+        "infrastructure",
+        "flooded"
+      ],
+      "correct_answer": "flooded",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “flooded”, שֶׁפֵּרוּשָׁהּ “הֻצַף, עָלָה עַל גְּדוֹתָיו”."
+    },
+    {
+      "id": "C-q3",
+      "word": "ironic",
+      "type": "english_to_hebrew",
+      "question": "What does “ironic” mean?",
+      "options": [
+        "תַּשְׁתִּית",
+        "מְאֻחָר יוֹתֵר, הַבָּא",
+        "אִירוֹנִי",
+        "הֵעָרְכוּת לְחֵרוּם"
+      ],
+      "correct_answer": "אִירוֹנִי",
+      "explanation_hebrew": "“ironic” פֵּרוּשׁוֹ “אִירוֹנִי”."
+    },
+    {
+      "id": "C-q4",
+      "word": "infrastructure",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “תַּשְׁתִּית”?",
+      "options": [
+        "contingency",
+        "disruption",
+        "subsequent",
+        "infrastructure"
+      ],
+      "correct_answer": "infrastructure",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “infrastructure”, שֶׁפֵּרוּשָׁהּ “תַּשְׁתִּית”."
+    },
+    {
+      "id": "C-q5",
+      "word": "subsequent",
+      "type": "english_to_hebrew",
+      "question": "What does “subsequent” mean?",
+      "options": [
+        "הֵעָרְכוּת לְחֵרוּם",
+        "מְאֻחָר יוֹתֵר, הַבָּא",
+        "חֹסֶן, עֲמִידוּת",
+        "שִׁבּוּשׁ, הַפְרָעָה"
+      ],
+      "correct_answer": "מְאֻחָר יוֹתֵר, הַבָּא",
+      "explanation_hebrew": "“subsequent” פֵּרוּשׁוֹ “מְאֻחָר יוֹתֵר, הַבָּא”."
+    },
+    {
+      "id": "C-q6",
+      "word": "contingency",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “הֵעָרְכוּת לְחֵרוּם”?",
+      "options": [
+        "contingency",
+        "disruption",
+        "withstand",
+        "resilience"
+      ],
+      "correct_answer": "contingency",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “contingency”, שֶׁפֵּרוּשָׁהּ “הֵעָרְכוּת לְחֵרוּם”."
+    },
+    {
+      "id": "C-q7",
+      "word": "disruption",
+      "type": "english_to_hebrew",
+      "question": "What does “disruption” mean?",
+      "options": [
+        "חֹסֶן, עֲמִידוּת",
+        "שִׁבּוּשׁ, הַפְרָעָה",
+        "אֲנַרְכְיָה, אִי־סֵדֶר",
+        "לַעֲמֹד בִּפְנֵי"
+      ],
+      "correct_answer": "שִׁבּוּשׁ, הַפְרָעָה",
+      "explanation_hebrew": "“disruption” פֵּרוּשׁוֹ “שִׁבּוּשׁ, הַפְרָעָה”."
+    },
+    {
+      "id": "C-q8",
+      "word": "resilience",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “חֹסֶן, עֲמִידוּת”?",
+      "options": [
+        "brutal",
+        "withstand",
+        "anarchy",
+        "resilience"
+      ],
+      "correct_answer": "resilience",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “resilience”, שֶׁפֵּרוּשָׁהּ “חֹסֶן, עֲמִידוּת”."
+    },
+    {
+      "id": "C-q9",
+      "word": "withstand",
+      "type": "english_to_hebrew",
+      "question": "What does “withstand” mean?",
+      "options": [
+        "אֲנַרְכְיָה, אִי־סֵדֶר",
+        "לַעֲמֹד בִּפְנֵי",
+        "אַכְזָרִי, קָשֶׁה",
+        "כָּאוֹס, אַנְדְּרָלָמוּסְיָה"
+      ],
+      "correct_answer": "לַעֲמֹד בִּפְנֵי",
+      "explanation_hebrew": "“withstand” פֵּרוּשׁוֹ “לַעֲמֹד בִּפְנֵי”."
+    },
+    {
+      "id": "C-q10",
+      "word": "anarchy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “אֲנַרְכְיָה, אִי־סֵדֶר”?",
+      "options": [
+        "gleaned",
+        "anarchy",
+        "chaos",
+        "brutal"
+      ],
+      "correct_answer": "anarchy",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “anarchy”, שֶׁפֵּרוּשָׁהּ “אֲנַרְכְיָה, אִי־סֵדֶר”."
+    },
+    {
+      "id": "C-q11",
+      "word": "brutal",
+      "type": "english_to_hebrew",
+      "question": "What does “brutal” mean?",
+      "options": [
+        "כָּאוֹס, אַנְדְּרָלָמוּסְיָה",
+        "לִקֵּט, אָסַף (מֵידָע)",
+        "לְסַלֵּק, לְהִפָּטֵר מִ-",
+        "אַכְזָרִי, קָשֶׁה"
+      ],
+      "correct_answer": "אַכְזָרִי, קָשֶׁה",
+      "explanation_hebrew": "“brutal” פֵּרוּשׁוֹ “אַכְזָרִי, קָשֶׁה”."
+    },
+    {
+      "id": "C-q12",
+      "word": "chaos",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “כָּאוֹס, אַנְדְּרָלָמוּסְיָה”?",
+      "options": [
+        "dispose",
+        "isolated",
+        "gleaned",
+        "chaos"
+      ],
+      "correct_answer": "chaos",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “chaos”, שֶׁפֵּרוּשָׁהּ “כָּאוֹס, אַנְדְּרָלָמוּסְיָה”."
+    },
+    {
+      "id": "C-q13",
+      "word": "gleaned",
+      "type": "english_to_hebrew",
+      "question": "What does “gleaned” mean?",
+      "options": [
+        "נְהָלִים",
+        "לְסַלֵּק, לְהִפָּטֵר מִ-",
+        "מְבֻדָּד",
+        "לִקֵּט, אָסַף (מֵידָע)"
+      ],
+      "correct_answer": "לִקֵּט, אָסַף (מֵידָע)",
+      "explanation_hebrew": "“gleaned” פֵּרוּשׁוֹ “לִקֵּט, אָסַף (מֵידָע)”."
+    },
+    {
+      "id": "C-q14",
+      "word": "dispose",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “לְסַלֵּק, לְהִפָּטֵר מִ-”?",
+      "options": [
+        "dispose",
+        "crippling",
+        "protocols",
+        "isolated"
+      ],
+      "correct_answer": "dispose",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “dispose”, שֶׁפֵּרוּשָׁהּ “לְסַלֵּק, לְהִפָּטֵר מִ-”."
+    },
+    {
+      "id": "C-q15",
+      "word": "isolated",
+      "type": "english_to_hebrew",
+      "question": "What does “isolated” mean?",
+      "options": [
+        "מְבֻדָּד",
+        "מְשַׁתֵּק",
+        "סֵדֶר יוֹם",
+        "נְהָלִים"
+      ],
+      "correct_answer": "מְבֻדָּד",
+      "explanation_hebrew": "“isolated” פֵּרוּשׁוֹ “מְבֻדָּד”."
+    },
+    {
+      "id": "C-q16",
+      "word": "protocols",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “נְהָלִים”?",
+      "options": [
+        "crippling",
+        "reservoir",
+        "agenda",
+        "protocols"
+      ],
+      "correct_answer": "protocols",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “protocols”, שֶׁפֵּרוּשָׁהּ “נְהָלִים”."
+    },
+    {
+      "id": "C-q17",
+      "word": "crippling",
+      "type": "english_to_hebrew",
+      "question": "What does “crippling” mean?",
+      "options": [
+        "בִּיּוּב, שְׁפָכִים",
+        "מַאֲגַר מַיִם",
+        "סֵדֶר יוֹם",
+        "מְשַׁתֵּק"
+      ],
+      "correct_answer": "מְשַׁתֵּק",
+      "explanation_hebrew": "“crippling” פֵּרוּשׁוֹ “מְשַׁתֵּק”."
+    },
+    {
+      "id": "C-q18",
+      "word": "agenda",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “סֵדֶר יוֹם”?",
+      "options": [
+        "sewage",
+        "agenda",
+        "reservoir",
+        "solidify"
+      ],
+      "correct_answer": "agenda",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “agenda”, שֶׁפֵּרוּשָׁהּ “סֵדֶר יוֹם”."
+    },
+    {
+      "id": "C-q19",
+      "word": "reservoir",
+      "type": "english_to_hebrew",
+      "question": "What does “reservoir” mean?",
+      "options": [
+        "בִּיּוּב, שְׁפָכִים",
+        "לְהִתְמַצֵּק",
+        "מַאֲגַר מַיִם",
+        "חֲסִימוֹת, סְתִימוֹת"
+      ],
+      "correct_answer": "מַאֲגַר מַיִם",
+      "explanation_hebrew": "“reservoir” פֵּרוּשׁוֹ “מַאֲגַר מַיִם”."
+    },
+    {
+      "id": "C-q20",
+      "word": "sewage",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “בִּיּוּב, שְׁפָכִים”?",
+      "options": [
+        "solidify",
+        "catastrophic",
+        "blockages",
+        "sewage"
+      ],
+      "correct_answer": "sewage",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “sewage”, שֶׁפֵּרוּשָׁהּ “בִּיּוּב, שְׁפָכִים”."
+    },
+    {
+      "id": "C-q21",
+      "word": "solidify",
+      "type": "english_to_hebrew",
+      "question": "What does “solidify” mean?",
+      "options": [
+        "לְהִתְמַצֵּק",
+        "חֲסִימוֹת, סְתִימוֹת",
+        "הֻאְפַּל (עַל יְדֵי)",
+        "הֲרֵה־אָסוֹן"
+      ],
+      "correct_answer": "לְהִתְמַצֵּק",
+      "explanation_hebrew": "“solidify” פֵּרוּשׁוֹ “לְהִתְמַצֵּק”."
+    },
+    {
+      "id": "C-q22",
+      "word": "blockages",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “חֲסִימוֹת, סְתִימוֹת”?",
+      "options": [
+        "overshadowed",
+        "blockages",
+        "omen",
+        "catastrophic"
+      ],
+      "correct_answer": "blockages",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “blockages”, שֶׁפֵּרוּשָׁהּ “חֲסִימוֹת, סְתִימוֹת”."
+    },
+    {
+      "id": "C-q23",
+      "word": "catastrophic",
+      "type": "english_to_hebrew",
+      "question": "What does “catastrophic” mean?",
+      "options": [
+        "קְלִיטָה (טֵלֵפוֹנִית)",
+        "הֲרֵה־אָסוֹן",
+        "הֻאְפַּל (עַל יְדֵי)",
+        "אוֹת מְבַשֵּׂר, סִימָן"
+      ],
+      "correct_answer": "הֲרֵה־אָסוֹן",
+      "explanation_hebrew": "“catastrophic” פֵּרוּשׁוֹ “הֲרֵה־אָסוֹן”."
+    },
+    {
+      "id": "C-q24",
+      "word": "overshadowed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פֵּרוּשָׁהּ “הֻאְפַּל (עַל יְדֵי)”?",
+      "options": [
+        "reception",
+        "flooded",
+        "overshadowed",
+        "omen"
+      ],
+      "correct_answer": "overshadowed",
+      "explanation_hebrew": "הַמִּלָּה בְּאַנְגְּלִית הִיא “overshadowed”, שֶׁפֵּרוּשָׁהּ “הֻאְפַּל (עַל יְדֵי)”."
+    },
+    {
+      "id": "C-q25",
+      "word": "omen",
+      "type": "english_to_hebrew",
+      "question": "What does “omen” mean?",
+      "options": [
+        "אִירוֹנִי",
+        "הֻצַף, עָלָה עַל גְּדוֹתָיו",
+        "קְלִיטָה (טֵלֵפוֹנִית)",
+        "אוֹת מְבַשֵּׂר, סִימָן"
+      ],
+      "correct_answer": "אוֹת מְבַשֵּׂר, סִימָן",
+      "explanation_hebrew": "“omen” פֵּרוּשׁוֹ “אוֹת מְבַשֵּׂר, סִימָן”."
+    }
+  ]
+}
