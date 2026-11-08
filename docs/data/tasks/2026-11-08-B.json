@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "Ambika Mod: Ceiling is getting higher for South Asian actors",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "How Ambika Mod trained to become a doctor before acting",
+        "Ambika Mod's career choices, her new Black Doves role and the barriers South Asian actors still face",
+        "Why Netflix has stopped making spy thrillers",
+        "A ranking of the most successful British comedians"
+      ],
+      "correct_answer": "Ambika Mod's career choices, her new Black Doves role and the barriers South Asian actors still face",
+      "explanation_hebrew": "הכתבה מחברת בין בחירות התפקידים של אמביקה מוד, תפקידה החדש, והחסמים המערכתיים בפני שחקנים מדרום אסיה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Ofcom find about minority ethnic representation in senior management?",
+      "difficulty": "B",
+      "options": [
+        "It had reached half of all senior jobs.",
+        "It was higher than representation in every other role.",
+        "People from minority ethnic groups held only 11% of senior management roles across the industry.",
+        "It could not find any data about management."
+      ],
+      "correct_answer": "People from minority ethnic groups held only 11% of senior management roles across the industry.",
+      "explanation_hebrew": "לפי Ofcom, בני קבוצות אתניות מיעוטיות היו רק 11% מבעלי תפקידי הניהול הבכיר בתעשייה."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Mod mean by saying the “glass ceiling is always getting higher”?",
+      "difficulty": "B",
+      "options": [
+        "Film studios are building taller sets.",
+        "Actors are expected to perform more stunts.",
+        "Her career goals change every year.",
+        "Invisible barriers to advancement remain and can feel harder to overcome as she progresses."
+      ],
+      "correct_answer": "Invisible barriers to advancement remain and can feel harder to overcome as she progresses.",
+      "explanation_hebrew": "תקרת זכוכית היא מחסום בלתי נראה לקידום; מוד אומרת שהמחסום עדיין קיים ואף נראה רחוק יותר ככל שהיא מתקדמת."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which type of role does Mod say she will not engage with?",
+      "difficulty": "B",
+      "options": [
+        "A tokenistic or stereotypical role",
+        "A role involving comedy",
+        "A character based on a novel",
+        "A role requiring stunt work"
+      ],
+      "correct_answer": "A tokenistic or stereotypical role",
+      "explanation_hebrew": "מוד אומרת שלא תבחר בתפקיד אם הוא נראה לה סמלי בלבד או מבוסס על סטריאוטיפ."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What attracted Mod to playing Laila in Black Doves?",
+      "difficulty": "B",
+      "options": [
+        "The character never enters an action scene.",
+        "The role subverts spy-story tropes and includes extreme stunt sequences.",
+        "The series is filmed at Durham University.",
+        "The character is an aspiring novelist."
+      ],
+      "correct_answer": "The role subverts spy-story tropes and includes extreme stunt sequences.",
+      "explanation_hebrew": "התפקיד משך אותה משום שהוא הופך מוסכמות של ז'אנר הריגול ונתן לה לבצע קטעי פעלולים קיצוניים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “central tenet” mean when Mod describes her work?",
+      "difficulty": "B",
+      "options": [
+        "A short-term publicity plan",
+        "A rule imposed by a streaming service",
+        "A core principle that guides her choices",
+        "A type of comedy performance"
+      ],
+      "correct_answer": "A core principle that guides her choices",
+      "explanation_hebrew": "Central tenet הוא עיקרון מרכזי; במקרה שלה, הרצון לשנות את אופן הצגתן של נשים מדרום אסיה על המסך."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give four examples showing the range of Mod's career and role choices.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין ארבע דוגמאות שונות מן הכתבה לתפקידים, סגנונות או ניסיון מקצועי.",
+      "expected_points": [
+        "She played the overwhelmed junior doctor Shruti in This Is Going To Hurt.",
+        "She starred as aspiring writer Emma Morley in One Day.",
+        "She plays the lawless covert agent Laila in Black Doves.",
+        "She performs extreme action stunts in the spy thriller.",
+        "She brings dark or dry humour to characters.",
+        "She joined a sketch-comedy group at Durham University and previously performed stand-up."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "How do Mod's selective career choices challenge stereotypes while also limiting the number of roles she accepts?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין דחיית תפקידים סטריאוטיפיים, בחירה בדמויות מורכבות והמגבלות המערכתיות בתעשייה.",
+      "expected_points": [
+        "She treats changing portrayals of South Asian women as a guiding principle.",
+        "She refuses tokenistic or stereotypical parts.",
+        "This protects the progress made through complex roles such as Shruti, Emma and Laila.",
+        "Systemic racism and under-representation already reduce opportunities for South Asian actors.",
+        "Being selective may mean fewer credits, but it helps change the range of characters shown on screen."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Mod's career, her view of representation and what appealed to her about Black Doves in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול תפקידים קודמים, טענתה על חסמים, דרך בחירת התפקידים ומאפייני ליילה.",
+      "expected_points": [
+        "Mod gained recognition through This Is Going To Hurt and One Day.",
+        "She says systemic racism makes it difficult for South Asian actors to advance.",
+        "She avoids tokenistic or stereotypical roles and seeks complex characters that change on-screen narratives.",
+        "Her Black Doves character Laila subverts spy tropes and involves demanding stunts.",
+        "She also values challenging work, enjoyable collaborators and the possibility of more comedy."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short set of casting principles that could improve opportunities for under-represented actors.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע עקרונות מעשיים הנשענים על הכתבה ולא להסתפק בסיסמאות כלליות.",
+      "expected_points": [
+        "Offer under-represented actors complex lead and supporting roles rather than token parts.",
+        "Avoid relying on cultural stereotypes.",
+        "Track representation in senior, creative, production and on-screen positions.",
+        "Make advancement possible across a sustained career, not only through one breakthrough role.",
+        "Listen to performers' goals and allow them to work across drama, action and comedy."
+      ]
+    }
+  ]
+}

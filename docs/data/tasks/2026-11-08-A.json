@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Plans to ensure veterans sleeping rough are offered accommodation, plus debate about whether short-term funding is enough",
+        "A new programme that recruits homeless people into the armed forces",
+        "A proposal to close veterans' charities before Christmas",
+        "A survey about where tourists should stay in Manchester"
+      ],
+      "correct_answer": "Plans to ensure veterans sleeping rough are offered accommodation, plus debate about whether short-term funding is enough",
+      "explanation_hebrew": "הכתבה עוסקת בתכנית להציע קורת גג ליוצאי צבא הישנים ברחוב ובדיון על הצורך בתמיכה ארוכת טווח."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What will the prime minister ask councils to do in his Armistice Day letter?",
+      "difficulty": "A",
+      "options": [
+        "Build military bases in every city",
+        "Draw up plans to offer accommodation to veterans sleeping rough before Christmas",
+        "Send veterans to study in the EU",
+        "Replace local homelessness charities"
+      ],
+      "correct_answer": "Draw up plans to offer accommodation to veterans sleeping rough before Christmas",
+      "explanation_hebrew": "ראש הממשלה אמור לבקש מהרשויות המקומיות להכין תכניות דיור ליוצאי צבא הישנים ברחוב לקראת חג המולד."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the additional £8.7m intended to support?",
+      "difficulty": "A",
+      "options": [
+        "A new election campaign",
+        "International student exchanges",
+        "Eight organisations helping housing providers support veterans with complex needs",
+        "One temporary shelter in Greater Manchester"
+      ],
+      "correct_answer": "Eight organisations helping housing providers support veterans with complex needs",
+      "explanation_hebrew": "הסכום הנוסף מיועד לשמונה ארגונים המסייעים לספקי דיור לתמוך ביוצאי צבא עם צרכים מורכבים, כולל בעיות בריאות או התמכרות."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “falling through the cracks” mean in James MacCleary's warning?",
+      "difficulty": "A",
+      "options": [
+        "Damaging a building while looking for housing",
+        "Moving from one council area to another",
+        "Refusing every offer of support",
+        "Being missed by support systems and not receiving the help needed"
+      ],
+      "correct_answer": "Being missed by support systems and not receiving the help needed",
+      "explanation_hebrew": "הביטוי מתאר אנשים שאינם מקבלים את העזרה הדרושה מפני שהם מתפספסים בין שירותים או מערכות שונות."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the latest official figures say about rough sleeping in England?",
+      "difficulty": "A",
+      "options": [
+        "4,793 people were estimated to be sleeping rough on one night in autumn 2025, a record high",
+        "Rough sleeping had ended completely by 2025",
+        "Only veterans were included in the figures",
+        "The number had fallen every year since 2021"
+      ],
+      "correct_answer": "4,793 people were estimated to be sleeping rough on one night in autumn 2025, a record high",
+      "explanation_hebrew": "הנתון הרשמי היה 4,793 אנשים בלילה אחד בסתיו 2025 — שיא, לאחר עלייה מאז 2021."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did Burnham say similar action was needed everywhere?",
+      "difficulty": "A",
+      "options": [
+        "Local charities are not allowed to work together",
+        "Veterans can receive help only in their birthplace",
+        "A strong scheme in one area may attract people from nearby regions, so uneven action cannot end the wider problem",
+        "National funding can be used only by Manchester"
+      ],
+      "correct_answer": "A strong scheme in one area may attract people from nearby regions, so uneven action cannot end the wider problem",
+      "explanation_hebrew": "ברנהם טען שתכנית חזקה באזור אחד מושכת אנשים מאזורים שכנים, ולכן רק פעולה דומה בכל מקום יכולה להתמודד עם הבעיה הרחבה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List four parts of the proposed support for veterans sleeping rough.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין ארבעה מרכיבים קונקרטיים מתוך הכתבה.",
+      "expected_points": [
+        "Councils should prepare accommodation plans before the festive period.",
+        "Part of the previously announced £874m should be used specifically to house veterans.",
+        "Councils should work with local organisations and charities.",
+        "An additional £8.7m will support eight specialist organisations.",
+        "Support should address complex needs such as health or addiction problems.",
+        "Veterans should be connected with housing and other specialist support."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain why MacCleary called the new funding an important first step but not a complete solution.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את ההבדל בין עזרה מיידית לבין פתרון ארוך טווח ולכלול מניעה.",
+      "expected_points": [
+        "The funding can provide immediate beds and specialist help.",
+        "Homelessness is described as a crisis built over many years.",
+        "A one-off payment may not let councils maintain services over time.",
+        "Long-term funding would support lasting local action.",
+        "Prevention is needed so veterans do not become homeless in the first place."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the veteran-housing pledge, funding, scale of rough sleeping and criticism in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מטרת התכנית, מקורות המימון, הנתון הארצי והביקורת על מימון חד־פעמי.",
+      "expected_points": [
+        "The prime minister plans to ask English councils to offer accommodation to veterans sleeping rough before Christmas.",
+        "Councils would use part of £874m already announced for homelessness.",
+        "Another £8.7m would help eight organisations support veterans with complex needs.",
+        "Official figures estimated 4,793 people slept rough on one night in autumn 2025, a record high.",
+        "Critics welcomed the step but called for long-term funding and prevention."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short council action plan for helping veterans who are sleeping rough this winter.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציע תכנית מציאותית המבוססת על הכתבה וכוללת דיור, שותפים, צרכים מורכבים והמשכיות.",
+      "expected_points": [
+        "Identify veterans sleeping rough and offer a bed quickly.",
+        "Work with local charities and specialist veterans' organisations.",
+        "Assess health, addiction and other complex needs.",
+        "Create an individual plan and a named source of continuing support.",
+        "Use funding for both immediate accommodation and prevention of future homelessness."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-08",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Labubu sales are slumping. Is the craze over?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central argument of the article?",
+      "difficulty": "C",
+      "options": [
+        "Labubu's viral boom is weakening as sales, scarcity and online attention fall, leaving Pop Mart to prove it can build an enduring character brand",
+        "Blind boxes have been made illegal in most countries",
+        "Pop Mart has stopped producing Labubu dolls entirely",
+        "Collectors agree that all toy trends last forever"
+      ],
+      "correct_answer": "Labubu's viral boom is weakening as sales, scarcity and online attention fall, leaving Pop Mart to prove it can build an enduring character brand",
+      "explanation_hebrew": "הכתבה טוענת שהגל הוויראלי נחלש, ושהאתגר של Pop Mart הוא להפוך הצלחה רגעית למותג ודמות בעלי חיים ארוכים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What sales change did Pop Mart report for the three months to the end of September?",
+      "difficulty": "C",
+      "options": [
+        "Sales doubled in every region.",
+        "Global sales fell by as much as 50% from the previous year, with US revenue down by at least 70%.",
+        "Only sales in mainland China fell.",
+        "US revenue remained unchanged."
+      ],
+      "correct_answer": "Global sales fell by as much as 50% from the previous year, with US revenue down by at least 70%.",
+      "explanation_hebrew": "החברה דיווחה על ירידה של עד 50% במכירות העולמיות לעומת השנה הקודמת, ובארה״ב על ירידה של לפחות 70%."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the article mean when it says the craze may be “running out of steam”?",
+      "difficulty": "C",
+      "options": [
+        "Factories have run out of electricity.",
+        "The dolls are becoming physically warmer.",
+        "The trend is losing momentum and public excitement.",
+        "Collectors are repairing old steam engines."
+      ],
+      "correct_answer": "The trend is losing momentum and public excitement.",
+      "explanation_hebrew": "Running out of steam פירושו לאבד תנופה ואנרגיה; כאן הכוונה לירידה בהתלהבות ובעניין הציבורי."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did increasing production weaken part of Labubu's appeal?",
+      "difficulty": "C",
+      "options": [
+        "It made every doll more expensive to manufacture.",
+        "It prevented celebrities from owning the toys.",
+        "It removed the blind-box format.",
+        "It reduced scarcity, so finding a Labubu no longer felt exclusive."
+      ],
+      "correct_answer": "It reduced scarcity, so finding a Labubu no longer felt exclusive.",
+      "explanation_hebrew": "כאשר הייצור גדל והמוצרים נעשו זמינים יותר, תחושת הנדירות והבלעדיות שעודדה קנייה חוזרת נחלשה."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which development shows Pop Mart trying to expand Labubu beyond toy sales?",
+      "difficulty": "C",
+      "options": [
+        "It opened a theme park in Beijing and announced a Labubu film.",
+        "It closed all shops outside China.",
+        "It sold the character to Sanrio.",
+        "It replaced Labubu with Marvel products."
+      ],
+      "correct_answer": "It opened a theme park in Beijing and announced a Labubu film.",
+      "explanation_hebrew": "Pop Mart הקימה פארק שעשועים בבייג׳ינג והכריזה על סרט Labubu בניסיון לבנות מותג רחב יותר סביב הדמות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Barbero mean when she says she is “curating” her collection?",
+      "difficulty": "C",
+      "options": [
+        "She is selling every doll immediately.",
+        "She is displaying the collection in a national museum.",
+        "She is choosing additions carefully for lasting personal value rather than buying every new release.",
+        "She is designing blind boxes for Pop Mart."
+      ],
+      "correct_answer": "She is choosing additions carefully for lasting personal value rather than buying every new release.",
+      "explanation_hebrew": "Curating כאן פירושו לבחור בקפידה פריטים שמתאימים לאוסף ושיישארו אהובים לאורך זמן, במקום לרדוף אחר כל סדרה חדשה."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give five signs that the Labubu craze has cooled.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין חמישה סימנים נפרדים הנתמכים בנתוני מכירות, שוק, רשתות או התנהגות אספנים.",
+      "expected_points": [
+        "Global quarterly sales fell by as much as 50% year on year.",
+        "US revenue fell by at least 70%.",
+        "Pop Mart shares had fallen more than 50% from the previous year's peak.",
+        "Ensito's videos struggle to reach the views they once gained quickly.",
+        "Lawrence Yu rarely makes Labubu videos after clips once drew up to a million views.",
+        "Collectors say they are becoming more selective.",
+        "More dolls are readily available in shops, weakening scarcity.",
+        "Rival blind-box characters are gaining popularity."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain the difference between a viral product and an enduring character franchise, using the article's comparison with Disney or Sanrio.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להבחין בין התלהבות רגעית לנאמנות ארוכת טווח ולהשתמש בהשוואת סיפור־דמות־מוצר.",
+      "expected_points": [
+        "A viral product can grow quickly through social media, celebrity visibility and scarcity.",
+        "An enduring franchise gives consumers stories, characters and emotional attachment that survive a trend.",
+        "Sanrio benefits from the long-established appeal of Hello Kitty.",
+        "Disney often sells a story before selling merchandise.",
+        "Pop Mart is trying to work in reverse by building stories and experiences around an already popular toy.",
+        "Its test is whether people will love Labubu without celebrity or trend-driven exposure."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Labubu's rise, the reasons for its slowdown, Pop Mart's response and collectors' changing behaviour in 5–6 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול קופסאות הפתעה ונדירות, נתוני ירידה, תחרות, ניסיונות הרחבת המותג ותגובות שונות של אספנים.",
+      "expected_points": [
+        "Blind boxes, rare versions, social media and celebrity use helped Labubu become a global craze.",
+        "Rapid expansion reduced scarcity, while views, sales and share value later declined.",
+        "Rivals such as Sonny Angels, Smiski and Miniso products are competing for attention.",
+        "Pop Mart is investing in a theme park and film to turn the toy into a broader franchise.",
+        "Some collectors now buy more selectively or move to other trends.",
+        "Devoted fans still value the dolls for personal happiness rather than viral status."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a strategic recommendation for Pop Mart on how to make Labubu durable without depending on artificial scarcity.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע אסטרטגיה מעשית הנשענת על עובדות הכתבה ומתייחסת לסיפור, לקהילה, לאיכות, לתחרות ולמדידת נאמנות.",
+      "expected_points": [
+        "Develop strong stories and personalities around Labubu through film or other media.",
+        "Create experiences that deepen attachment rather than relying only on hard-to-find releases.",
+        "Maintain design quality and value for money as competitors expand.",
+        "Support genuine fan communities while avoiding pressure to buy every series.",
+        "Use repeat engagement and long-term customer loyalty, not only viral views, as measures of success.",
+        "Keep product availability balanced without making mass production erase all sense of discovery."
+      ]
+    }
+  ]
+}
