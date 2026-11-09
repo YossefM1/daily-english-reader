@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-09",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "A",
+  "article_title": "Dormouse numbers may be helped by warmer summers - survey",
+  "article_url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o",
+  "article_level": "A",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "New data suggests dormouse numbers may have recently risen, but their long-term decline and habitat loss still require action",
+        "Dormice have disappeared completely from Britain",
+        "Scientists want dormice to sleep for longer in summer",
+        "A new pet dormouse programme is opening in every county"
+      ],
+      "correct_answer": "New data suggests dormouse numbers may have recently risen, but their long-term decline and habitat loss still require action",
+      "explanation_hebrew": "הכתבה מציגה עלייה אפשרית בשנים האחרונות, אך מדגישה שהאוכלוסייה עדיין נמוכה מאוד וששמירת בתי הגידול חיונית."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What change did the monitoring data suggest between 2020 and 2025?",
+      "difficulty": "A",
+      "options": [
+        "Dormouse numbers fell by another 60%.",
+        "The population increased by almost 10%, although the estimate is uncertain.",
+        "Dormice returned to every English county.",
+        "The animals stopped hibernating in winter."
+      ],
+      "correct_answer": "The population increased by almost 10%, although the estimate is uncertain.",
+      "explanation_hebrew": "הנתונים מצביעים על עלייה של כמעט 10% בין 2020 ל־2025, אך החוקרים מדגישים שקיימת אי־ודאות רבה סביב ההערכה."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is “torpor” in the article?",
+      "difficulty": "A",
+      "options": [
+        "A type of woodland food",
+        "A long journey between counties",
+        "A short period of deep sleep that helps dormice save energy",
+        "A method for counting nests"
+      ],
+      "correct_answer": "A short period of deep sleep that helps dormice save energy",
+      "explanation_hebrew": "Torpor הוא פרק קצר של שינה עמוקה שאליו נמנמנים נכנסים במזג אוויר קר ורטוב או כשיש מחסור במזון, כדי לחסוך אנרגיה."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much lower are dormouse numbers than they were in 2000?",
+      "difficulty": "A",
+      "options": [
+        "About 10% lower",
+        "About 20% lower",
+        "About 35% lower",
+        "Almost 60% lower"
+      ],
+      "correct_answer": "Almost 60% lower",
+      "explanation_hebrew": "למרות העלייה האפשרית לאחרונה, האוכלוסייה עדיין נמוכה בכמעט 60% לעומת שנת 2000."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might warmer summers help dormice?",
+      "difficulty": "A",
+      "options": [
+        "They may increase food, reduce time spent in torpor and leave more energy for breeding and fat storage.",
+        "They force dormice to live only on the ground.",
+        "They remove the need for woodland and hedgerows.",
+        "They guarantee that every litter survives."
+      ],
+      "correct_answer": "They may increase food, reduce time spent in torpor and leave more energy for breeding and fat storage.",
+      "explanation_hebrew": "קיץ חם עשוי להגדיל מזון ולהפחית שינת torpor, וכך להשאיר יותר זמן ואנרגיה לאכילה, רבייה וצבירת שומן."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “cautious optimism” mean in Ian White's comment?",
+      "difficulty": "A",
+      "options": [
+        "Complete confidence that the species is safe",
+        "A refusal to accept any good news",
+        "Hope based on the recent upturn while recognising uncertainty and the larger decline",
+        "A plan to stop monitoring dormice"
+      ],
+      "correct_answer": "Hope based on the recent upturn while recognising uncertainty and the larger decline",
+      "explanation_hebrew": "Cautious optimism היא תקווה זהירה: הנתון החדש מעודד, אך אינו מוחק את אי־הוודאות ואת הירידה הגדולה מאז 2000."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give four facts that show why hazel dormice still need conservation help.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין ארבע עובדות שונות מן הכתבה על הירידה, התפוצה או בית הגידול.",
+      "expected_points": [
+        "Numbers have fallen by almost 60% since 2000.",
+        "The average annual decline since 2000 was about 3.5%.",
+        "Native populations have disappeared from around 20 English counties.",
+        "The species is now largely confined to southern England and parts of Wales.",
+        "Woodland and hedgerow loss has made dormice much rarer.",
+        "The recent population increase is uncertain."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain why warmer weather alone cannot guarantee the dormouse's long-term recovery.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להתייחס לאי־ודאות אקלימית, לאובדן בתי גידול ולצורך בניהול ושימור.",
+      "expected_points": [
+        "The apparent increase is an uncertain estimate over a relatively short period.",
+        "Climate change may also bring warmer, wetter winters with unknown effects.",
+        "Dormice still depend on woodland and hedgerows that have been lost.",
+        "Populations remain far below their 2000 level.",
+        "Habitat protection, research and effective woodland management are still necessary."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the population trend, possible weather effect and conservation message in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את הירידה מאז 2000, העלייה האפשרית בשנים האחרונות, תפקיד הקיץ החם והמלצות השימור.",
+      "expected_points": [
+        "Dormouse numbers have fallen by almost 60% since 2000.",
+        "Data suggests an uncertain increase of almost 10% between 2020 and 2025.",
+        "Warmer, drier springs and summers may increase food and reduce torpor.",
+        "This may give dormice more energy to breed and prepare for winter.",
+        "Researchers still call for habitat protection, woodland management and more climate research."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short conservation plan for improving dormouse survival.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציע תכנית המבוססת על הכתבה וכוללת בית גידול, ניטור, מחקר וניהול יערות.",
+      "expected_points": [
+        "Protect and reconnect woodlands and hedgerows.",
+        "Continue long-term monitoring at sites in England and Wales.",
+        "Study the effects of warmer summers and warmer, wetter winters.",
+        "Use effective woodland management to improve food and shelter.",
+        "Review results without assuming that one recent upturn proves recovery."
+      ]
+    }
+  ]
+}

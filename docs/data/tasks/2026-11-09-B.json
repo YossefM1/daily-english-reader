@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-09",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "B",
+  "article_title": "What's your love language - and does it actually mean anything?",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o",
+  "article_level": "B",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main conclusion about love languages?",
+      "difficulty": "B",
+      "options": [
+        "They scientifically prove whether two people are compatible.",
+        "They can start useful conversations about needs, but the five fixed categories lack strong scientific support and can be misused.",
+        "Every person has exactly one unchanging love language.",
+        "Couples should avoid discussing affection and disagreement."
+      ],
+      "correct_answer": "They can start useful conversations about needs, but the five fixed categories lack strong scientific support and can be misused.",
+      "explanation_hebrew": "הכתבה מציגה את שפות האהבה ככלי אפשרי לפתיחת שיחה, אך לא כתיאוריה מדעית מוכחת או מערכת קשיחה של חמש קטגוריות."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did Gary Chapman say the five love languages came from?",
+      "difficulty": "B",
+      "options": [
+        "A large university experiment",
+        "Brain scans of married couples",
+        "His observations of couples during parish counselling sessions",
+        "A national census of dating-app users"
+      ],
+      "correct_answer": "His observations of couples during parish counselling sessions",
+      "explanation_hebrew": "צ'פמן אמר שהרעיון נולד מתצפיות בזוגות במהלך מפגשי ייעוץ שערך בקהילה הדתית שלו, ולא ממחקר מדעי."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “gravitate towards” mean when Dr Emmerson says people still gravitate towards the idea?",
+      "difficulty": "B",
+      "options": [
+        "Move away from it immediately",
+        "Be naturally attracted to or interested in it",
+        "Prove it with laboratory evidence",
+        "Use it only during arguments"
+      ],
+      "correct_answer": "Be naturally attracted to or interested in it",
+      "explanation_hebrew": "Gravitate towards פירושו להימשך באופן טבעי לרעיון או למצוא בו עניין, גם אם הבסיס המדעי שלו מוגבל."
+    },
+    {
+      "id": "B-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can treating a love language as a demand be harmful?",
+      "difficulty": "B",
+      "options": [
+        "It may pressure a partner into gifts, touch or intimacy they do not want.",
+        "It makes compliments easier to give.",
+        "It guarantees that disagreements are repaired.",
+        "It encourages people to listen carefully."
+      ],
+      "correct_answer": "It may pressure a partner into gifts, touch or intimacy they do not want.",
+      "explanation_hebrew": "הפיכת העדפה לדרישה עלולה ליצור כפייה ולפגוע בגבולות ובהסכמה של בן או בת הזוג."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does the article recommend when discussing difficult issues?",
+      "difficulty": "B",
+      "options": [
+        "Talk only late at night.",
+        "Wait for the other person to admit fault.",
+        "Choose an appropriate time, listen and use “I” statements to avoid blame.",
+        "Avoid every disagreement."
+      ],
+      "correct_answer": "Choose an appropriate time, listen and use “I” statements to avoid blame.",
+      "explanation_hebrew": "המומחיות ממליצות לבחור זמן מתאים, להקשיב באמת ולנסח רגשות בגוף ראשון כדי להפחית ביקורת והאשמה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What are “bids for connection” in the article?",
+      "difficulty": "B",
+      "options": [
+        "Tests that rank couples by compatibility",
+        "Requests to buy expensive gifts",
+        "Subtle or direct attempts to receive emotional attention, such as asking for a hug or sharing something",
+        "Arguments that should always be ignored"
+      ],
+      "correct_answer": "Subtle or direct attempts to receive emotional attention, such as asking for a hug or sharing something",
+      "explanation_hebrew": "Bids for connection הם ניסיונות ליצור קשר רגשי, לפעמים ברורים ולפעמים עדינים, כמו בקשת חיבוק או שיתוף במשהו שנראה בטלפון."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "List the five love languages named in the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין את כל חמש הקטגוריות בשמותיהן.",
+      "expected_points": [
+        "Quality Time",
+        "Acts of Service",
+        "Words of Affirmation",
+        "Receiving Gifts",
+        "Physical Touch"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Why can the love-language quiz feel useful even if people do not fit neatly into its categories?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להבחין בין תוקף מדעי מוגבל לבין שימוש בשפה פשוטה לפתיחת שיחה על צרכים.",
+      "expected_points": [
+        "The labels give couples an accessible vocabulary for discussing affection.",
+        "They can prompt people to notice what they and their partners value.",
+        "A conversation may reveal preferences that the quiz score misses.",
+        "People can value several forms of care rather than one fixed type.",
+        "The tool is most useful as a starting point, not as a diagnosis or rule."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the appeal, scientific criticism, abuse risk and practical advice in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול מדוע הרעיון פופולרי, מה מגבלתו, כיצד הוא עלול לשמש לכפייה ומה מומלץ לזוגות.",
+      "expected_points": [
+        "Love languages are popular and widely used in dating culture.",
+        "The theory did not begin in scientific research, and evidence does not support five neat categories for everyone.",
+        "The labels can still help couples begin discussing their needs.",
+        "They become harmful if used to demand gifts, touch or sex without comfort and consent.",
+        "Experts recommend listening, using “I” statements, choosing the right time and repairing disagreements."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a respectful conversation plan for partners who express affection differently.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע שיחה שאינה מקבעת תוויות ושומרת על הקשבה, גבולות, תזמון ותיקון לאחר מחלוקת.",
+      "expected_points": [
+        "Choose a calm and suitable time to talk.",
+        "Describe personal feelings and needs with “I” statements.",
+        "Listen and acknowledge the partner's experience.",
+        "Treat love-language labels as flexible prompts rather than fixed identities.",
+        "Respect boundaries and never use a preference to pressure intimacy or spending.",
+        "Agree on small ways to respond to each other's bids for connection."
+      ]
+    }
+  ]
+}

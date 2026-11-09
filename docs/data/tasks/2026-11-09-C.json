@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-09",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "article_id": "C",
+  "article_title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
+  "article_level": "C",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "C",
+      "options": [
+        "Nvidia's board has opened an independent inquiry after reports that its CEO was targeted by a suspected foreign intelligence effort, while key facts remain unproven or unclear.",
+        "Nvidia has announced that all company secrets were stolen.",
+        "The US has closed Nvidia and arrested its entire board.",
+        "China and Nvidia jointly confirmed an espionage operation."
+      ],
+      "correct_answer": "Nvidia's board has opened an independent inquiry after reports that its CEO was targeted by a suspected foreign intelligence effort, while key facts remain unproven or unclear.",
+      "explanation_hebrew": "הכתבה עוסקת בחקירה עצמאית בעקבות דיווחים וחשדות, ומדגישה שהדירקטוריון אינו יודע על פגיעה בסודות ושפרטים מרכזיים עדיין אינם ברורים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Nvidia's board say before beginning its inquiry?",
+      "difficulty": "C",
+      "options": [
+        "It had confirmed that chip designs were stolen.",
+        "It had no reason to believe national security or Nvidia secrets had been compromised.",
+        "It had ended Jensen Huang's employment.",
+        "It would refuse to examine the reports."
+      ],
+      "correct_answer": "It had no reason to believe national security or Nvidia secrets had been compromised.",
+      "explanation_hebrew": "הדירקטוריון אמר שאין לו סיבה להאמין שביטחון לאומי או סודות החברה נפגעו, אך יבדוק את כל המידע הזמין."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “unmasking” mean in the reported intelligence process?",
+      "difficulty": "C",
+      "options": [
+        "Publishing every intelligence document online",
+        "Removing a physical disguise",
+        "Identifying the US person behind an anonymised reference in surveillance information",
+        "Cancelling an export licence"
+      ],
+      "correct_answer": "Identifying the US person behind an anonymised reference in surveillance information",
+      "explanation_hebrew": "Unmasking הוא תהליך שבו מזהים אדם אמריקאי ששמו הוסתר בדיווח מודיעיני; לפי הכתבה כך זוהה ג'נסן הואנג."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What remains unclear about the alleged intelligence activity?",
+      "difficulty": "C",
+      "options": [
+        "What information was allegedly passed, how valuable it was and when collection may have begun",
+        "Whether Nvidia manufactures chips",
+        "Whether Jensen Huang founded the company",
+        "Whether Congress has committees"
+      ],
+      "correct_answer": "What information was allegedly passed, how valuable it was and when collection may have begun",
+      "explanation_hebrew": "הכתבה מציינת שלא ברור איזה מידע הועבר לכאורה, מה הייתה חשיבותו או מתי החלה לכאורה איסוף המודיעין."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the reported relationship raise wider national-security concerns?",
+      "difficulty": "C",
+      "options": [
+        "Nvidia controls every US government agency.",
+        "Nvidia's advanced AI chips are strategically important and already subject to US-China export restrictions.",
+        "The company produces only entertainment software.",
+        "Congress has banned all international business relationships."
+      ],
+      "correct_answer": "Nvidia's advanced AI chips are strategically important and already subject to US-China export restrictions.",
+      "explanation_hebrew": "Nvidia היא שחקנית מרכזית בתשתיות בינה מלאכותית, ושבביה נמצאים במוקד התחרות והמגבלות בין ארה״ב לסין."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean that national and economic security is “paramount” to Nvidia's board?",
+      "difficulty": "C",
+      "options": [
+        "It is a minor public-relations issue.",
+        "It is relevant only to gaming customers.",
+        "It is the highest-priority consideration.",
+        "It has already been fully resolved."
+      ],
+      "correct_answer": "It is the highest-priority consideration.",
+      "explanation_hebrew": "Paramount פירושו בעל חשיבות עליונה; הדירקטוריון הציג ביטחון לאומי וכלכלי כעדיפות הגבוהה ביותר לחברה ולבעלי המניות."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify five distinct responses or actions reported after the allegations emerged.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין חמישה צעדים או תגובות ולייחס כל אחד לגורם הנכון.",
+      "expected_points": [
+        "Nvidia's board initiated an independent investigation.",
+        "Jensen Huang said he would cooperate fully.",
+        "Jensen Huang admitted marital infidelity and apologised to his family.",
+        "Megaspeed appointed external legal advisers for an internal investigation.",
+        "Members of Congress asked Jensen Huang to appear before committees.",
+        "China rejected the espionage allegations as groundless speculation.",
+        "President Trump commented that Huang was a fine and honourable person."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Explain why the article carefully separates confirmed facts, reported intelligence claims and unresolved questions.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להבחין בין הודאות והודעות רשמיות לבין טענות מקורות אנונימיים, הכחשות ופרטים שטרם הוכחו.",
+      "expected_points": [
+        "The affair was acknowledged by Jensen Huang, making it a confirmed personal fact.",
+        "The board confirmed that an independent inquiry had begun.",
+        "Espionage claims came through reporting based on unnamed intelligence sources.",
+        "China rejected the allegations, and Alice Huang did not comment to the paper.",
+        "No compromise of Nvidia secrets or national security had been established.",
+        "Key details about any information allegedly gathered or transmitted remain unknown."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the investigation, the competing claims and Nvidia's strategic importance in 5–6 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את סיבת החקירה, עמדת הדירקטוריון, הודאת המנכ״ל, מקור החשדות, ההכחשה הסינית והקשר לשבבי AI.",
+      "expected_points": [
+        "Nvidia opened an independent inquiry after reports its CEO had been targeted by a suspected Chinese intelligence effort.",
+        "Jensen Huang admitted an affair and said he would cooperate with the security investigation.",
+        "The board said it had no reason to believe company secrets or national security were compromised.",
+        "The espionage allegation was reported from unnamed US intelligence sources, while important details remain unclear.",
+        "China described the claims as groundless speculation.",
+        "The issue matters because Nvidia supplies strategically important AI chips at the centre of US-China technology rivalry."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Draft a responsible board-level investigation plan that protects security while avoiding premature conclusions.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע תהליך מאוזן, עצמאי ומבוסס ראיות הכולל אבטחת מידע, ניגודי עניינים, דיווח ושמירה על הוגנות.",
+      "expected_points": [
+        "Use independent investigators with authority to review relevant records and security protocols.",
+        "Determine whether company or national-security information was accessed or disclosed.",
+        "Separate the acknowledged personal conduct from unverified espionage claims.",
+        "Manage conflicts of interest and preserve evidence.",
+        "Cooperate lawfully with relevant authorities and congressional requests.",
+        "Report verified findings transparently while protecting sensitive information and due process."
+      ]
+    }
+  ]
+}
