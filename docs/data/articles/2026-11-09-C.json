@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-09",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
+  "published_at": "2026-11-09T00:50:06+00:00",
+  "age_hours_at_selection": 1.46,
+  "word_count": 922,
+  "generated_at": "2026-11-09T02:17:46.604981+00:00",
+  "difficulty_reason": "Dense business and national-security story with long sentences, legal and diplomatic context, and B2/C1/C2 vocabulary requiring background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "compromised",
+      "lemma": "compromise",
+      "level": "C1",
+      "hebrew": "נִפְגַּע, נֶחְשַׂף לְסַכָּנָה",
+      "explanation_hebrew": "נִפְגַּע אוֹ אִבֵּד אֲבְטָחָה וּשְׁלֵמוּת",
+      "pronunciation_hebrew": "קוֹמְפְּרוֹמַיְזְד",
+      "example": "The system was not compromised."
+    },
+    {
+      "word": "unfaithful",
+      "lemma": "unfaithful",
+      "level": "B2",
+      "hebrew": "לֹא נֶאֱמָן, בּוֹגְדָנִי",
+      "explanation_hebrew": "שֶׁבָּגַד בִּבְנֵי זוּגוֹ אוֹ בְּאֵמוּן",
+      "pronunciation_hebrew": "אַנְפֵיְתְפוּל",
+      "example": "He admitted he had been unfaithful."
+    },
+    {
+      "word": "espionage",
+      "lemma": "espionage",
+      "level": "C1",
+      "hebrew": "רִגּוּל",
+      "explanation_hebrew": "אִסּוּף סוֹדוֹת בַּחֲשַׁאי לְמַעַן מְדִינָה אַחֶרֶת",
+      "pronunciation_hebrew": "אֶסְפִּיוֹנָאז'",
+      "example": "He was accused of espionage."
+    },
+    {
+      "word": "allegations",
+      "lemma": "allegation",
+      "level": "C1",
+      "hebrew": "הַאֲשָׁמוֹת, טַעֲנוֹת",
+      "explanation_hebrew": "טַעֲנוֹת עַל מַעֲשֶׂה פָּסוּל, לְלֹא הוֹכָחָה",
+      "pronunciation_hebrew": "אַלֶגֵיְשֶׁנְז",
+      "example": "The company denied the allegations."
+    },
+    {
+      "word": "groundless",
+      "lemma": "groundless",
+      "level": "C1",
+      "hebrew": "חֲסַר בָּסִיס, לֹא מְבֻסָּס",
+      "explanation_hebrew": "לְלֹא בָּסִיס אוֹ הַצְדָּקָה אֲמִתִּיִּים",
+      "pronunciation_hebrew": "גְרַאוּנְדְלֶס",
+      "example": "The claims were groundless."
+    },
+    {
+      "word": "speculation",
+      "lemma": "speculation",
+      "level": "C1",
+      "hebrew": "הַשְׁעָרוֹת, נִחוּשִׁים",
+      "explanation_hebrew": "נִחוּשִׁים לְלֹא יְדִיעָה וַדָּאִית",
+      "pronunciation_hebrew": "סְפֶּקְיוּלֵיְשֶׁן",
+      "example": "It was dismissed as mere speculation."
+    },
+    {
+      "word": "initiated",
+      "lemma": "initiate",
+      "level": "C1",
+      "hebrew": "יָזַם, פָּתַח בְּ-",
+      "explanation_hebrew": "הִתְחִיל אוֹ הֵנִיעַ תַּהֲלִיךְ",
+      "pronunciation_hebrew": "אִינִישִׁיֵייְטֶד",
+      "example": "The board initiated an investigation."
+    },
+    {
+      "word": "cooperate",
+      "lemma": "cooperate",
+      "level": "B2",
+      "hebrew": "לְשַׁתֵּף פְּעֻלָּה",
+      "explanation_hebrew": "לַעֲבֹד יַחַד עִם אֲחֵרִים לְמַעַן מַטָּרָה",
+      "pronunciation_hebrew": "קוֹאוֹפֶּרֵייְט",
+      "example": "He promised to cooperate fully."
+    },
+    {
+      "word": "paramount",
+      "lemma": "paramount",
+      "level": "C2",
+      "hebrew": "בַּעַל חֲשִׁיבוּת עֶלְיוֹנָה",
+      "explanation_hebrew": "הֲכִי חָשׁוּב, רִאשׁוֹן בְּמַעֲלָה",
+      "pronunciation_hebrew": "פָּארָמַאוּנְט",
+      "example": "Safety is paramount here."
+    },
+    {
+      "word": "inquiry",
+      "lemma": "inquiry",
+      "level": "C1",
+      "hebrew": "חֲקִירָה, בְּדִיקָה",
+      "explanation_hebrew": "בְּדִיקָה רִשְׁמִית וִיסוֹדִית שֶׁל נוֹשֵׂא",
+      "pronunciation_hebrew": "אִינְקְווַיְרִי",
+      "example": "The inquiry will examine all the facts."
+    },
+    {
+      "word": "briefed",
+      "lemma": "brief",
+      "level": "C1",
+      "hebrew": "תֻּדְרַךְ, קִבֵּל עִדְכּוּן",
+      "explanation_hebrew": "קִבֵּל מֵידָע מֻקְדָּם וְתַמְצִיתִי עַל נוֹשֵׂא",
+      "pronunciation_hebrew": "בְּרִיפְט",
+      "example": "The president was briefed on the matter."
+    },
+    {
+      "word": "alleging",
+      "lemma": "allege",
+      "level": "C1",
+      "hebrew": "טוֹעֵן לְלֹא הוֹכָחָה",
+      "explanation_hebrew": "מַעֲלֶה טַעֲנָה מִבְּלִי לְהוֹכִיחַ אוֹתָהּ",
+      "pronunciation_hebrew": "אַלֶגִ'ינְג",
+      "example": "A report alleging misconduct appeared."
+    },
+    {
+      "word": "honourable",
+      "lemma": "honourable",
+      "level": "C1",
+      "hebrew": "מְכֻבָּד, יָשָׁר, הָגוּן",
+      "explanation_hebrew": "בַּעַל יֹשֶׁר וַעֲקְרוֹנוֹת מוּסָרִיִּים",
+      "pronunciation_hebrew": "אוֹנֶרֶבֶּל",
+      "example": "He is an honourable man."
+    },
+    {
+      "word": "renowned",
+      "lemma": "renowned",
+      "level": "C1",
+      "hebrew": "נוֹדָע, מְפֻרְסָם",
+      "explanation_hebrew": "מְפֻרְסָם מְאוֹד בִּזְכוּת מַעֲלוֹתָיו",
+      "pronunciation_hebrew": "רִינַאוּנְד",
+      "example": "She is a renowned scientist."
+    },
+    {
+      "word": "perfectionist",
+      "lemma": "perfectionist",
+      "level": "C1",
+      "hebrew": "פֶּרְפֶקְצְיוֹנִיסְט, שׁוֹאֵף לִשְׁלֵמוּת",
+      "explanation_hebrew": "אָדָם הַדּוֹרֵשׁ שְׁלֵמוּת בְּכָל פְּרָט",
+      "pronunciation_hebrew": "פֶּרְפֶקְשֶׁנִיסְט",
+      "example": "He is a perfectionist about details."
+    },
+    {
+      "word": "subsequently",
+      "lemma": "subsequently",
+      "level": "C1",
+      "hebrew": "לְאַחַר מִכֵּן, אַחַר-כָּךְ",
+      "explanation_hebrew": "בִּזְמַן מְאֻחָר יוֹתֵר, בְּהֶמְשֵׁךְ",
+      "pronunciation_hebrew": "סַבְּסִיקְוֶנְטְלִי",
+      "example": "He was subsequently arrested."
+    },
+    {
+      "word": "allegedly",
+      "lemma": "allegedly",
+      "level": "C1",
+      "hebrew": "לְכָאוֹרָה, עַל-פִּי הַנִּטְעָן",
+      "explanation_hebrew": "עַל-פִּי טַעֲנָה שֶׁלֹּא הוּכְחָה",
+      "pronunciation_hebrew": "אַלֶגֶ'דְלִי",
+      "example": "He allegedly took the money."
+    },
+    {
+      "word": "infiltration",
+      "lemma": "infiltration",
+      "level": "C2",
+      "hebrew": "חֲדִירָה, הִסְתַּנְּנוּת",
+      "explanation_hebrew": "כְּנִיסָה חֲשָׁאִית לְתוֹךְ אִרְגּוּן אוֹ מָקוֹם",
+      "pronunciation_hebrew": "אִינְפִילְטְרֵיְשֶׁן",
+      "example": "They feared foreign infiltration."
+    },
+    {
+      "word": "adversary",
+      "lemma": "adversary",
+      "level": "C1",
+      "hebrew": "יָרִיב, אוֹיֵב",
+      "explanation_hebrew": "צַד מִתְנַגֵּד אוֹ מִתְחָרֶה עוֹיֵן",
+      "pronunciation_hebrew": "אַדְוֶרְסֶרִי",
+      "example": "They treated the country as an adversary."
+    },
+    {
+      "word": "semiconductor",
+      "lemma": "semiconductor",
+      "level": "C1",
+      "hebrew": "מוֹלִיךְ לְמֶחֱצָה (שְׁבָב)",
+      "explanation_hebrew": "חֹמֶר אֶלֶקְטְרוֹנִי הַמְּשַׁמֵּשׁ לְיִצּוּר שְׁבָבִים",
+      "pronunciation_hebrew": "סֶמִיקוֹנְדַקְטֶר",
+      "example": "The factory makes every semiconductor itself."
+    },
+    {
+      "word": "imposed",
+      "lemma": "impose",
+      "level": "B2",
+      "hebrew": "הֵטִיל, כָּפָה",
+      "explanation_hebrew": "הֵטִיל חֹק אוֹ הַגְבָּלָה בְּכֹחַ",
+      "pronunciation_hebrew": "אִימְפּוֹזְד",
+      "example": "The government imposed new rules."
+    },
+    {
+      "word": "rivalry",
+      "lemma": "rivalry",
+      "level": "B2",
+      "hebrew": "יְרִיבוּת, תַּחֲרוּת",
+      "explanation_hebrew": "יַחֲסֵי תַּחֲרוּת בֵּין צְדָדִים",
+      "pronunciation_hebrew": "רַיְבֶלְרִי",
+      "example": "There is strong rivalry between them."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "B2",
+      "hebrew": "תַּשְׁתִּית",
+      "explanation_hebrew": "מַעֲרָכוֹת הַבָּסִיס הַתּוֹמְכוֹת בְּפָעֳלוּת",
+      "pronunciation_hebrew": "אִינְפְרָהסְטְרַקְצֶ'ר",
+      "example": "The country invests in infrastructure."
+    },
+    {
+      "word": "emerging",
+      "lemma": "emerge",
+      "level": "B2",
+      "hebrew": "מִתְהַוֶּה, מִתְפַּתֵּחַ",
+      "explanation_hebrew": "עוֹלֶה וּמִתְפַּתֵּחַ זֶה עַתָּה",
+      "pronunciation_hebrew": "אִימֶרְגִ'ינְג",
+      "example": "Emerging technologies change fast."
+    },
+    {
+      "word": "manufacturer",
+      "lemma": "manufacturer",
+      "level": "B2",
+      "hebrew": "יַצְרָן",
+      "explanation_hebrew": "חֶבְרָה אוֹ אָדָם הַמְּיַצֵּר מוּצָרִים",
+      "pronunciation_hebrew": "מֶנְיוּפֶקְצֶ'רֶר",
+      "example": "The manufacturer recalled the product."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "compromised",
+      "type": "english_to_hebrew",
+      "question": "What does “compromised” mean?",
+      "options": [
+        "מְכֻבָּד, יָשָׁר, הָגוּן",
+        "מִתְהַוֶּה, מִתְפַּתֵּחַ",
+        "נִפְגַּע, נֶחְשַׂף לְסַכָּנָה",
+        "נוֹדָע, מְפֻרְסָם"
+      ],
+      "correct_answer": "נִפְגַּע, נֶחְשַׂף לְסַכָּנָה",
+      "explanation_hebrew": "“compromised” פירושו: נִפְגַּע, נֶחְשַׂף לְסַכָּנָה."
+    },
+    {
+      "id": "C-q2",
+      "word": "unfaithful",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “לֹא נֶאֱמָן, בּוֹגְדָנִי”?",
+      "options": [
+        "adversary",
+        "manufacturer",
+        "unfaithful",
+        "honourable"
+      ],
+      "correct_answer": "unfaithful",
+      "explanation_hebrew": "המילה האנגלית ל“לֹא נֶאֱמָן, בּוֹגְדָנִי” היא “unfaithful”."
+    },
+    {
+      "id": "C-q3",
+      "word": "espionage",
+      "type": "english_to_hebrew",
+      "question": "What does “espionage” mean?",
+      "options": [
+        "תֻּדְרַךְ, קִבֵּל עִדְכּוּן",
+        "רִגּוּל",
+        "חֲקִירָה, בְּדִיקָה",
+        "יָזַם, פָּתַח בְּ-"
+      ],
+      "correct_answer": "רִגּוּל",
+      "explanation_hebrew": "“espionage” פירושו: רִגּוּל."
+    },
+    {
+      "id": "C-q4",
+      "word": "allegations",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “הַאֲשָׁמוֹת, טַעֲנוֹת”?",
+      "options": [
+        "allegations",
+        "unfaithful",
+        "compromised",
+        "speculation"
+      ],
+      "correct_answer": "allegations",
+      "explanation_hebrew": "המילה האנגלית ל“הַאֲשָׁמוֹת, טַעֲנוֹת” היא “allegations”."
+    },
+    {
+      "id": "C-q5",
+      "word": "groundless",
+      "type": "english_to_hebrew",
+      "question": "What does “groundless” mean?",
+      "options": [
+        "נִפְגַּע, נֶחְשַׂף לְסַכָּנָה",
+        "נוֹדָע, מְפֻרְסָם",
+        "לֹא נֶאֱמָן, בּוֹגְדָנִי",
+        "חֲסַר בָּסִיס, לֹא מְבֻסָּס"
+      ],
+      "correct_answer": "חֲסַר בָּסִיס, לֹא מְבֻסָּס",
+      "explanation_hebrew": "“groundless” פירושו: חֲסַר בָּסִיס, לֹא מְבֻסָּס."
+    },
+    {
+      "id": "C-q6",
+      "word": "speculation",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “הַשְׁעָרוֹת, נִחוּשִׁים”?",
+      "options": [
+        "speculation",
+        "imposed",
+        "emerging",
+        "perfectionist"
+      ],
+      "correct_answer": "speculation",
+      "explanation_hebrew": "המילה האנגלית ל“הַשְׁעָרוֹת, נִחוּשִׁים” היא “speculation”."
+    },
+    {
+      "id": "C-q7",
+      "word": "initiated",
+      "type": "english_to_hebrew",
+      "question": "What does “initiated” mean?",
+      "options": [
+        "יָזַם, פָּתַח בְּ-",
+        "יְרִיבוּת, תַּחֲרוּת",
+        "לְשַׁתֵּף פְּעֻלָּה",
+        "רִגּוּל"
+      ],
+      "correct_answer": "יָזַם, פָּתַח בְּ-",
+      "explanation_hebrew": "“initiated” פירושו: יָזַם, פָּתַח בְּ-."
+    },
+    {
+      "id": "C-q8",
+      "word": "cooperate",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “לְשַׁתֵּף פְּעֻלָּה”?",
+      "options": [
+        "cooperate",
+        "infiltration",
+        "initiated",
+        "paramount"
+      ],
+      "correct_answer": "cooperate",
+      "explanation_hebrew": "המילה האנגלית ל“לְשַׁתֵּף פְּעֻלָּה” היא “cooperate”."
+    },
+    {
+      "id": "C-q9",
+      "word": "paramount",
+      "type": "english_to_hebrew",
+      "question": "What does “paramount” mean?",
+      "options": [
+        "רִגּוּל",
+        "בַּעַל חֲשִׁיבוּת עֶלְיוֹנָה",
+        "מִתְהַוֶּה, מִתְפַּתֵּחַ",
+        "לֹא נֶאֱמָן, בּוֹגְדָנִי"
+      ],
+      "correct_answer": "בַּעַל חֲשִׁיבוּת עֶלְיוֹנָה",
+      "explanation_hebrew": "“paramount” פירושו: בַּעַל חֲשִׁיבוּת עֶלְיוֹנָה."
+    },
+    {
+      "id": "C-q10",
+      "word": "inquiry",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “חֲקִירָה, בְּדִיקָה”?",
+      "options": [
+        "inquiry",
+        "infrastructure",
+        "imposed",
+        "allegedly"
+      ],
+      "correct_answer": "inquiry",
+      "explanation_hebrew": "המילה האנגלית ל“חֲקִירָה, בְּדִיקָה” היא “inquiry”."
+    },
+    {
+      "id": "C-q11",
+      "word": "briefed",
+      "type": "english_to_hebrew",
+      "question": "What does “briefed” mean?",
+      "options": [
+        "חֲקִירָה, בְּדִיקָה",
+        "לְשַׁתֵּף פְּעֻלָּה",
+        "הַשְׁעָרוֹת, נִחוּשִׁים",
+        "תֻּדְרַךְ, קִבֵּל עִדְכּוּן"
+      ],
+      "correct_answer": "תֻּדְרַךְ, קִבֵּל עִדְכּוּן",
+      "explanation_hebrew": "“briefed” פירושו: תֻּדְרַךְ, קִבֵּל עִדְכּוּן."
+    },
+    {
+      "id": "C-q12",
+      "word": "alleging",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “טוֹעֵן לְלֹא הוֹכָחָה”?",
+      "options": [
+        "briefed",
+        "infiltration",
+        "espionage",
+        "alleging"
+      ],
+      "correct_answer": "alleging",
+      "explanation_hebrew": "המילה האנגלית ל“טוֹעֵן לְלֹא הוֹכָחָה” היא “alleging”."
+    },
+    {
+      "id": "C-q13",
+      "word": "honourable",
+      "type": "english_to_hebrew",
+      "question": "What does “honourable” mean?",
+      "options": [
+        "מְכֻבָּד, יָשָׁר, הָגוּן",
+        "תַּשְׁתִּית",
+        "מוֹלִיךְ לְמֶחֱצָה (שְׁבָב)",
+        "מִתְהַוֶּה, מִתְפַּתֵּחַ"
+      ],
+      "correct_answer": "מְכֻבָּד, יָשָׁר, הָגוּן",
+      "explanation_hebrew": "“honourable” פירושו: מְכֻבָּד, יָשָׁר, הָגוּן."
+    },
+    {
+      "id": "C-q14",
+      "word": "renowned",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “נוֹדָע, מְפֻרְסָם”?",
+      "options": [
+        "adversary",
+        "semiconductor",
+        "unfaithful",
+        "renowned"
+      ],
+      "correct_answer": "renowned",
+      "explanation_hebrew": "המילה האנגלית ל“נוֹדָע, מְפֻרְסָם” היא “renowned”."
+    },
+    {
+      "id": "C-q15",
+      "word": "perfectionist",
+      "type": "english_to_hebrew",
+      "question": "What does “perfectionist” mean?",
+      "options": [
+        "לְאַחַר מִכֵּן, אַחַר-כָּךְ",
+        "תַּשְׁתִּית",
+        "מְכֻבָּד, יָשָׁר, הָגוּן",
+        "פֶּרְפֶקְצְיוֹנִיסְט, שׁוֹאֵף לִשְׁלֵמוּת"
+      ],
+      "correct_answer": "פֶּרְפֶקְצְיוֹנִיסְט, שׁוֹאֵף לִשְׁלֵמוּת",
+      "explanation_hebrew": "“perfectionist” פירושו: פֶּרְפֶקְצְיוֹנִיסְט, שׁוֹאֵף לִשְׁלֵמוּת."
+    },
+    {
+      "id": "C-q16",
+      "word": "subsequently",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “לְאַחַר מִכֵּן, אַחַר-כָּךְ”?",
+      "options": [
+        "subsequently",
+        "paramount",
+        "infiltration",
+        "adversary"
+      ],
+      "correct_answer": "subsequently",
+      "explanation_hebrew": "המילה האנגלית ל“לְאַחַר מִכֵּן, אַחַר-כָּךְ” היא “subsequently”."
+    },
+    {
+      "id": "C-q17",
+      "word": "allegedly",
+      "type": "english_to_hebrew",
+      "question": "What does “allegedly” mean?",
+      "options": [
+        "חֲקִירָה, בְּדִיקָה",
+        "נוֹדָע, מְפֻרְסָם",
+        "לְכָאוֹרָה, עַל-פִּי הַנִּטְעָן",
+        "לֹא נֶאֱמָן, בּוֹגְדָנִי"
+      ],
+      "correct_answer": "לְכָאוֹרָה, עַל-פִּי הַנִּטְעָן",
+      "explanation_hebrew": "“allegedly” פירושו: לְכָאוֹרָה, עַל-פִּי הַנִּטְעָן."
+    },
+    {
+      "id": "C-q18",
+      "word": "infiltration",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “חֲדִירָה, הִסְתַּנְּנוּת”?",
+      "options": [
+        "emerging",
+        "infiltration",
+        "imposed",
+        "manufacturer"
+      ],
+      "correct_answer": "infiltration",
+      "explanation_hebrew": "המילה האנגלית ל“חֲדִירָה, הִסְתַּנְּנוּת” היא “infiltration”."
+    },
+    {
+      "id": "C-q19",
+      "word": "adversary",
+      "type": "english_to_hebrew",
+      "question": "What does “adversary” mean?",
+      "options": [
+        "תֻּדְרַךְ, קִבֵּל עִדְכּוּן",
+        "יָרִיב, אוֹיֵב",
+        "נִפְגַּע, נֶחְשַׂף לְסַכָּנָה",
+        "מוֹלִיךְ לְמֶחֱצָה (שְׁבָב)"
+      ],
+      "correct_answer": "יָרִיב, אוֹיֵב",
+      "explanation_hebrew": "“adversary” פירושו: יָרִיב, אוֹיֵב."
+    },
+    {
+      "id": "C-q20",
+      "word": "semiconductor",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “מוֹלִיךְ לְמֶחֱצָה (שְׁבָב)”?",
+      "options": [
+        "unfaithful",
+        "semiconductor",
+        "speculation",
+        "allegedly"
+      ],
+      "correct_answer": "semiconductor",
+      "explanation_hebrew": "המילה האנגלית ל“מוֹלִיךְ לְמֶחֱצָה (שְׁבָב)” היא “semiconductor”."
+    },
+    {
+      "id": "C-q21",
+      "word": "imposed",
+      "type": "english_to_hebrew",
+      "question": "What does “imposed” mean?",
+      "options": [
+        "הַשְׁעָרוֹת, נִחוּשִׁים",
+        "יְרִיבוּת, תַּחֲרוּת",
+        "תַּשְׁתִּית",
+        "הֵטִיל, כָּפָה"
+      ],
+      "correct_answer": "הֵטִיל, כָּפָה",
+      "explanation_hebrew": "“imposed” פירושו: הֵטִיל, כָּפָה."
+    },
+    {
+      "id": "C-q22",
+      "word": "rivalry",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “יְרִיבוּת, תַּחֲרוּת”?",
+      "options": [
+        "renowned",
+        "groundless",
+        "rivalry",
+        "manufacturer"
+      ],
+      "correct_answer": "rivalry",
+      "explanation_hebrew": "המילה האנגלית ל“יְרִיבוּת, תַּחֲרוּת” היא “rivalry”."
+    },
+    {
+      "id": "C-q23",
+      "word": "infrastructure",
+      "type": "english_to_hebrew",
+      "question": "What does “infrastructure” mean?",
+      "options": [
+        "בַּעַל חֲשִׁיבוּת עֶלְיוֹנָה",
+        "תֻּדְרַךְ, קִבֵּל עִדְכּוּן",
+        "תַּשְׁתִּית",
+        "יָזַם, פָּתַח בְּ-"
+      ],
+      "correct_answer": "תַּשְׁתִּית",
+      "explanation_hebrew": "“infrastructure” פירושו: תַּשְׁתִּית."
+    },
+    {
+      "id": "C-q24",
+      "word": "emerging",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “מִתְהַוֶּה, מִתְפַּתֵּחַ”?",
+      "options": [
+        "emerging",
+        "briefed",
+        "adversary",
+        "cooperate"
+      ],
+      "correct_answer": "emerging",
+      "explanation_hebrew": "המילה האנגלית ל“מִתְהַוֶּה, מִתְפַּתֵּחַ” היא “emerging”."
+    },
+    {
+      "id": "C-q25",
+      "word": "manufacturer",
+      "type": "english_to_hebrew",
+      "question": "What does “manufacturer” mean?",
+      "options": [
+        "בַּעַל חֲשִׁיבוּת עֶלְיוֹנָה",
+        "יַצְרָן",
+        "לְכָאוֹרָה, עַל-פִּי הַנִּטְעָן",
+        "חֲקִירָה, בְּדִיקָה"
+      ],
+      "correct_answer": "יַצְרָן",
+      "explanation_hebrew": "“manufacturer” פירושו: יַצְרָן."
+    }
+  ]
+}

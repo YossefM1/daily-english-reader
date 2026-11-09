@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-09",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Dormouse numbers may be helped by warmer summers - survey",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o",
+  "published_at": "2026-11-09T00:56:43+00:00",
+  "age_hours_at_selection": 1.35,
+  "word_count": 503,
+  "generated_at": "2026-11-09T02:17:46.604981+00:00",
+  "difficulty_reason": "Short wildlife report with clear, direct sentences and a single storyline; mostly B1/B2 vocabulary and low background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "glimmer",
+      "lemma": "glimmer",
+      "level": "C1",
+      "hebrew": "נִצְנוּץ, שֶׁמֶץ",
+      "explanation_hebrew": "אוֹר קָלוּשׁ אוֹ סִימָן קָטָן שֶׁל מַשֶּׁהוּ, כְּמוֹ תִּקְוָה",
+      "pronunciation_hebrew": "גְלִימֶר",
+      "example": "A glimmer of hope appeared at last."
+    },
+    {
+      "word": "decline",
+      "lemma": "decline",
+      "level": "B2",
+      "hebrew": "יְרִידָה, שְׁקִיעָה",
+      "explanation_hebrew": "תַּהֲלִיךְ שֶׁל הִתְמַעֲטוּת אוֹ הַחְלָשָׁה",
+      "pronunciation_hebrew": "דִּיקְלַיְן",
+      "example": "There was a sharp decline in sales."
+    },
+    {
+      "word": "collapse",
+      "lemma": "collapse",
+      "level": "B2",
+      "hebrew": "קְרִיסָה, הִתְמוֹטְטוּת",
+      "explanation_hebrew": "נְפִילָה אוֹ כִּשָּׁלוֹן פִּתְאוֹמִי",
+      "pronunciation_hebrew": "קוֹלַפְּס",
+      "example": "The sudden collapse shocked everyone."
+    },
+    {
+      "word": "coincided",
+      "lemma": "coincide",
+      "level": "C1",
+      "hebrew": "חָפַף בַּזְּמַן, הִתְרַחֵשׁ יַחַד",
+      "explanation_hebrew": "קָרָה בְּאוֹתוֹ זְמַן כְּמוֹ דָּבָר אַחֵר",
+      "pronunciation_hebrew": "קוֹאִינְסַיְדֶד",
+      "example": "The event coincided with the holidays."
+    },
+    {
+      "word": "boosting",
+      "lemma": "boost",
+      "level": "B2",
+      "hebrew": "הַגְבָּרָה, חִזּוּק",
+      "explanation_hebrew": "הַגְדָּלָה אוֹ שִׁפּוּר שֶׁל מַשֶּׁהוּ",
+      "pronunciation_hebrew": "בּוּסְטִינְג",
+      "example": "They are boosting production this year."
+    },
+    {
+      "word": "breed",
+      "lemma": "breed",
+      "level": "B2",
+      "hebrew": "לְהִתְרַבּוֹת, לְהַרְבִּיעַ",
+      "explanation_hebrew": "לְהוֹלִיד צֶאֱצָאִים (אֵצֶל בַּעֲלֵי חַיִּים)",
+      "pronunciation_hebrew": "בְּרִיד",
+      "example": "Many animals breed in spring."
+    },
+    {
+      "word": "reserves",
+      "lemma": "reserve",
+      "level": "B2",
+      "hebrew": "עֲתוּדוֹת, מְלַאי",
+      "explanation_hebrew": "כַּמּוּת שְׁמוּרָה לְשִׁמּוּשׁ עֲתִידִי",
+      "pronunciation_hebrew": "רִיזֶרְבְז",
+      "example": "They built up fat reserves for winter."
+    },
+    {
+      "word": "caution",
+      "lemma": "caution",
+      "level": "B2",
+      "hebrew": "לְהַזְהִיר, לְהַתְרִיעַ",
+      "explanation_hebrew": "לוֹמַר לְמִישֶׁהוּ לְהִזָּהֵר",
+      "pronunciation_hebrew": "קוֹשֶׁן",
+      "example": "Experts caution that risks remain."
+    },
+    {
+      "word": "woodlands",
+      "lemma": "woodland",
+      "level": "B2",
+      "hebrew": "חֻרְשׁוֹת, יְעָרוֹת",
+      "explanation_hebrew": "אֲזוֹרִים מְכֻסִּים בְּעֵצִים",
+      "pronunciation_hebrew": "וּוּדְלֶנְדְז",
+      "example": "The woodlands are home to many birds."
+    },
+    {
+      "word": "hedgerows",
+      "lemma": "hedgerow",
+      "level": "C1",
+      "hebrew": "גָּדֵרוֹת-שִׂיחִים",
+      "explanation_hebrew": "שׁוּרוֹת שֶׁל שִׂיחִים אוֹ עֵצִים בֵּין שָׂדוֹת",
+      "pronunciation_hebrew": "הֶגְ'רוֹאוּז",
+      "example": "Birds often nest in the hedgerows."
+    },
+    {
+      "word": "essential",
+      "lemma": "essential",
+      "level": "B1",
+      "hebrew": "חִיּוּנִי, הֶכְרֵחִי",
+      "explanation_hebrew": "חָשׁוּב מְאוֹד וְהֶכְרֵחִי",
+      "pronunciation_hebrew": "אִיסֶנְשֶׁל",
+      "example": "Water is essential for life."
+    },
+    {
+      "word": "widespread",
+      "lemma": "widespread",
+      "level": "B2",
+      "hebrew": "נָפוֹץ, רָחַב הֶקֵּף",
+      "explanation_hebrew": "מָצוּי בְּמָקוֹמוֹת רַבִּים",
+      "pronunciation_hebrew": "וַוַיְדְסְפְּרֶד",
+      "example": "The disease was once widespread."
+    },
+    {
+      "word": "confined",
+      "lemma": "confine",
+      "level": "C1",
+      "hebrew": "מֻגְבָּל, כָּלוּא",
+      "explanation_hebrew": "מֻגְבָּל לְמָקוֹם אוֹ לִתְחוּם מְסֻיָּם",
+      "pronunciation_hebrew": "קוֹנְפַיְנְד",
+      "example": "The animals are confined to a small area."
+    },
+    {
+      "word": "habitat",
+      "lemma": "habitat",
+      "level": "B2",
+      "hebrew": "בֵּית-גִּדּוּל, מְקוֹם מִחְיָה",
+      "explanation_hebrew": "הַסְּבִיבָה הַטִּבְעִית שֶׁבָּהּ חַי יְצוּר",
+      "pronunciation_hebrew": "הֶבִּיטֶט",
+      "example": "We must protect their natural habitat."
+    },
+    {
+      "word": "monitoring",
+      "lemma": "monitor",
+      "level": "B2",
+      "hebrew": "נִטּוּר, מַעֲקָב",
+      "explanation_hebrew": "מַעֲקָב מִתְמַשֵּׁךְ אַחַר מַשֶּׁהוּ",
+      "pronunciation_hebrew": "מוֹנִיטֶרִינְג",
+      "example": "They are monitoring the population closely."
+    },
+    {
+      "word": "equivalent",
+      "lemma": "equivalent",
+      "level": "B2",
+      "hebrew": "שָׁקוּל לְ-, שְׁוֵה-עֵרֶךְ",
+      "explanation_hebrew": "בַּעַל אוֹתוֹ עֵרֶךְ אוֹ מַשְׁמָעוּת",
+      "pronunciation_hebrew": "אִיקְוִיוָלֶנְט",
+      "example": "This is equivalent to a full day's work."
+    },
+    {
+      "word": "reversing",
+      "lemma": "reverse",
+      "level": "B2",
+      "hebrew": "הִתְהַפְּכוּת, שִׁנּוּי כִּוּוּן",
+      "explanation_hebrew": "שִׁנּוּי לְכִוּוּן הָפוּךְ",
+      "pronunciation_hebrew": "רִיוֶרְסִינְג",
+      "example": "The trend may be reversing now."
+    },
+    {
+      "word": "considerable",
+      "lemma": "considerable",
+      "level": "B2",
+      "hebrew": "נִכָּר, רַב",
+      "explanation_hebrew": "גָּדוֹל אוֹ מַשְׁמָעוּתִי בְּמִדָּתוֹ",
+      "pronunciation_hebrew": "קוֹנְסִידֶרֶבֶּל",
+      "example": "There is considerable uncertainty."
+    },
+    {
+      "word": "uncertainty",
+      "lemma": "uncertainty",
+      "level": "B2",
+      "hebrew": "אִי-וַדָּאוּת",
+      "explanation_hebrew": "חֹסֶר בִּטָּחוֹן אוֹ יְדִיעָה וַדָּאִית",
+      "pronunciation_hebrew": "אַנְסֶרְטֶנְטִי",
+      "example": "There is uncertainty about the future."
+    },
+    {
+      "word": "apparent",
+      "lemma": "apparent",
+      "level": "B2",
+      "hebrew": "נִרְאֶה לָעַיִן, לִכְאוֹרָה",
+      "explanation_hebrew": "נִרְאֶה בָּרוּר אוֹ גָּלוּי",
+      "pronunciation_hebrew": "אַפַּרֶנְט",
+      "example": "The apparent improvement pleased everyone."
+    },
+    {
+      "word": "optimism",
+      "lemma": "optimism",
+      "level": "B2",
+      "hebrew": "אוֹפְּטִימִיּוּת",
+      "explanation_hebrew": "גִּישָׁה חִיּוּבִית וְתִקְוָה לֶעָתִיד",
+      "pronunciation_hebrew": "אוֹפְּטִימִיזְם",
+      "example": "There is cautious optimism about the results."
+    },
+    {
+      "word": "hibernates",
+      "lemma": "hibernate",
+      "level": "C1",
+      "hebrew": "עוֹבֵר תַּרְדֶּמַת חֹרֶף",
+      "explanation_hebrew": "יָשֵׁן בְּמֶשֶׁךְ כָּל הַחֹרֶף",
+      "pronunciation_hebrew": "הַיְבֶּרְנֵייְטְס",
+      "example": "The animal hibernates all winter."
+    },
+    {
+      "word": "torpor",
+      "lemma": "torpor",
+      "level": "C2",
+      "hebrew": "תַּרְדֶּמֶת, רְפִיוֹן",
+      "explanation_hebrew": "מַצָּב שֶׁל יְשֵׁנוּת עֲמֻקָּה וְחֹסֶר תְּנוּעָה",
+      "pronunciation_hebrew": "טוֹרְפּוֹר",
+      "example": "The mouse enters torpor to save energy."
+    },
+    {
+      "word": "scarce",
+      "lemma": "scarce",
+      "level": "B2",
+      "hebrew": "נָדִיר, מֻעָט בִּכְמוּת",
+      "explanation_hebrew": "קַיָּם בְּכַמּוּת קְטַנָּה מְאוֹד",
+      "pronunciation_hebrew": "סְקֶרְס",
+      "example": "Food becomes scarce in winter."
+    },
+    {
+      "word": "conserve",
+      "lemma": "conserve",
+      "level": "B2",
+      "hebrew": "לִשְׁמֹר, לְחַסֵּךְ",
+      "explanation_hebrew": "לִשְׁמֹר עַל מַשְׁאָב וְלֹא לְבַזְבְּזוֹ",
+      "pronunciation_hebrew": "קוֹנְסֶרְב",
+      "example": "They conserve energy during cold weather."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "glimmer",
+      "type": "english_to_hebrew",
+      "question": "What does “glimmer” mean?",
+      "options": [
+        "נִצְנוּץ, שֶׁמֶץ",
+        "חִיּוּנִי, הֶכְרֵחִי",
+        "קְרִיסָה, הִתְמוֹטְטוּת",
+        "נִכָּר, רַב"
+      ],
+      "correct_answer": "נִצְנוּץ, שֶׁמֶץ",
+      "explanation_hebrew": "“glimmer” פירושו: נִצְנוּץ, שֶׁמֶץ."
+    },
+    {
+      "id": "A-q2",
+      "word": "decline",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “יְרִידָה, שְׁקִיעָה”?",
+      "options": [
+        "equivalent",
+        "hedgerows",
+        "decline",
+        "essential"
+      ],
+      "correct_answer": "decline",
+      "explanation_hebrew": "המילה האנגלית ל“יְרִידָה, שְׁקִיעָה” היא “decline”."
+    },
+    {
+      "id": "A-q3",
+      "word": "collapse",
+      "type": "english_to_hebrew",
+      "question": "What does “collapse” mean?",
+      "options": [
+        "קְרִיסָה, הִתְמוֹטְטוּת",
+        "אִי-וַדָּאוּת",
+        "נָפוֹץ, רָחַב הֶקֵּף",
+        "חִיּוּנִי, הֶכְרֵחִי"
+      ],
+      "correct_answer": "קְרִיסָה, הִתְמוֹטְטוּת",
+      "explanation_hebrew": "“collapse” פירושו: קְרִיסָה, הִתְמוֹטְטוּת."
+    },
+    {
+      "id": "A-q4",
+      "word": "coincided",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “חָפַף בַּזְּמַן, הִתְרַחֵשׁ יַחַד”?",
+      "options": [
+        "torpor",
+        "coincided",
+        "optimism",
+        "uncertainty"
+      ],
+      "correct_answer": "coincided",
+      "explanation_hebrew": "המילה האנגלית ל“חָפַף בַּזְּמַן, הִתְרַחֵשׁ יַחַד” היא “coincided”."
+    },
+    {
+      "id": "A-q5",
+      "word": "boosting",
+      "type": "english_to_hebrew",
+      "question": "What does “boosting” mean?",
+      "options": [
+        "עֲתוּדוֹת, מְלַאי",
+        "עוֹבֵר תַּרְדֶּמַת חֹרֶף",
+        "נָדִיר, מֻעָט בִּכְמוּת",
+        "הַגְבָּרָה, חִזּוּק"
+      ],
+      "correct_answer": "הַגְבָּרָה, חִזּוּק",
+      "explanation_hebrew": "“boosting” פירושו: הַגְבָּרָה, חִזּוּק."
+    },
+    {
+      "id": "A-q6",
+      "word": "breed",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “לְהִתְרַבּוֹת, לְהַרְבִּיעַ”?",
+      "options": [
+        "breed",
+        "considerable",
+        "confined",
+        "boosting"
+      ],
+      "correct_answer": "breed",
+      "explanation_hebrew": "המילה האנגלית ל“לְהִתְרַבּוֹת, לְהַרְבִּיעַ” היא “breed”."
+    },
+    {
+      "id": "A-q7",
+      "word": "reserves",
+      "type": "english_to_hebrew",
+      "question": "What does “reserves” mean?",
+      "options": [
+        "עֲתוּדוֹת, מְלַאי",
+        "לְהַזְהִיר, לְהַתְרִיעַ",
+        "נִרְאֶה לָעַיִן, לִכְאוֹרָה",
+        "יְרִידָה, שְׁקִיעָה"
+      ],
+      "correct_answer": "עֲתוּדוֹת, מְלַאי",
+      "explanation_hebrew": "“reserves” פירושו: עֲתוּדוֹת, מְלַאי."
+    },
+    {
+      "id": "A-q8",
+      "word": "caution",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “לְהַזְהִיר, לְהַתְרִיעַ”?",
+      "options": [
+        "optimism",
+        "apparent",
+        "hedgerows",
+        "caution"
+      ],
+      "correct_answer": "caution",
+      "explanation_hebrew": "המילה האנגלית ל“לְהַזְהִיר, לְהַתְרִיעַ” היא “caution”."
+    },
+    {
+      "id": "A-q9",
+      "word": "woodlands",
+      "type": "english_to_hebrew",
+      "question": "What does “woodlands” mean?",
+      "options": [
+        "מֻגְבָּל, כָּלוּא",
+        "עֲתוּדוֹת, מְלַאי",
+        "חֻרְשׁוֹת, יְעָרוֹת",
+        "נִצְנוּץ, שֶׁמֶץ"
+      ],
+      "correct_answer": "חֻרְשׁוֹת, יְעָרוֹת",
+      "explanation_hebrew": "“woodlands” פירושו: חֻרְשׁוֹת, יְעָרוֹת."
+    },
+    {
+      "id": "A-q10",
+      "word": "hedgerows",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “גָּדֵרוֹת-שִׂיחִים”?",
+      "options": [
+        "essential",
+        "hibernates",
+        "hedgerows",
+        "apparent"
+      ],
+      "correct_answer": "hedgerows",
+      "explanation_hebrew": "המילה האנגלית ל“גָּדֵרוֹת-שִׂיחִים” היא “hedgerows”."
+    },
+    {
+      "id": "A-q11",
+      "word": "essential",
+      "type": "english_to_hebrew",
+      "question": "What does “essential” mean?",
+      "options": [
+        "לְהַזְהִיר, לְהַתְרִיעַ",
+        "גָּדֵרוֹת-שִׂיחִים",
+        "נָדִיר, מֻעָט בִּכְמוּת",
+        "חִיּוּנִי, הֶכְרֵחִי"
+      ],
+      "correct_answer": "חִיּוּנִי, הֶכְרֵחִי",
+      "explanation_hebrew": "“essential” פירושו: חִיּוּנִי, הֶכְרֵחִי."
+    },
+    {
+      "id": "A-q12",
+      "word": "widespread",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “נָפוֹץ, רָחַב הֶקֵּף”?",
+      "options": [
+        "widespread",
+        "uncertainty",
+        "woodlands",
+        "optimism"
+      ],
+      "correct_answer": "widespread",
+      "explanation_hebrew": "המילה האנגלית ל“נָפוֹץ, רָחַב הֶקֵּף” היא “widespread”."
+    },
+    {
+      "id": "A-q13",
+      "word": "confined",
+      "type": "english_to_hebrew",
+      "question": "What does “confined” mean?",
+      "options": [
+        "עוֹבֵר תַּרְדֶּמַת חֹרֶף",
+        "מֻגְבָּל, כָּלוּא",
+        "שָׁקוּל לְ-, שְׁוֵה-עֵרֶךְ",
+        "קְרִיסָה, הִתְמוֹטְטוּת"
+      ],
+      "correct_answer": "מֻגְבָּל, כָּלוּא",
+      "explanation_hebrew": "“confined” פירושו: מֻגְבָּל, כָּלוּא."
+    },
+    {
+      "id": "A-q14",
+      "word": "habitat",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “בֵּית-גִּדּוּל, מְקוֹם מִחְיָה”?",
+      "options": [
+        "habitat",
+        "optimism",
+        "widespread",
+        "confined"
+      ],
+      "correct_answer": "habitat",
+      "explanation_hebrew": "המילה האנגלית ל“בֵּית-גִּדּוּל, מְקוֹם מִחְיָה” היא “habitat”."
+    },
+    {
+      "id": "A-q15",
+      "word": "monitoring",
+      "type": "english_to_hebrew",
+      "question": "What does “monitoring” mean?",
+      "options": [
+        "נִרְאֶה לָעַיִן, לִכְאוֹרָה",
+        "נִטּוּר, מַעֲקָב",
+        "לִשְׁמֹר, לְחַסֵּךְ",
+        "חָפַף בַּזְּמַן, הִתְרַחֵשׁ יַחַד"
+      ],
+      "correct_answer": "נִטּוּר, מַעֲקָב",
+      "explanation_hebrew": "“monitoring” פירושו: נִטּוּר, מַעֲקָב."
+    },
+    {
+      "id": "A-q16",
+      "word": "equivalent",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “שָׁקוּל לְ-, שְׁוֵה-עֵרֶךְ”?",
+      "options": [
+        "equivalent",
+        "optimism",
+        "glimmer",
+        "widespread"
+      ],
+      "correct_answer": "equivalent",
+      "explanation_hebrew": "המילה האנגלית ל“שָׁקוּל לְ-, שְׁוֵה-עֵרֶךְ” היא “equivalent”."
+    },
+    {
+      "id": "A-q17",
+      "word": "reversing",
+      "type": "english_to_hebrew",
+      "question": "What does “reversing” mean?",
+      "options": [
+        "אוֹפְּטִימִיּוּת",
+        "חֻרְשׁוֹת, יְעָרוֹת",
+        "הִתְהַפְּכוּת, שִׁנּוּי כִּוּוּן",
+        "לְהַזְהִיר, לְהַתְרִיעַ"
+      ],
+      "correct_answer": "הִתְהַפְּכוּת, שִׁנּוּי כִּוּוּן",
+      "explanation_hebrew": "“reversing” פירושו: הִתְהַפְּכוּת, שִׁנּוּי כִּוּוּן."
+    },
+    {
+      "id": "A-q18",
+      "word": "considerable",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “נִכָּר, רַב”?",
+      "options": [
+        "decline",
+        "boosting",
+        "considerable",
+        "essential"
+      ],
+      "correct_answer": "considerable",
+      "explanation_hebrew": "המילה האנגלית ל“נִכָּר, רַב” היא “considerable”."
+    },
+    {
+      "id": "A-q19",
+      "word": "uncertainty",
+      "type": "english_to_hebrew",
+      "question": "What does “uncertainty” mean?",
+      "options": [
+        "עוֹבֵר תַּרְדֶּמַת חֹרֶף",
+        "נָדִיר, מֻעָט בִּכְמוּת",
+        "אוֹפְּטִימִיּוּת",
+        "אִי-וַדָּאוּת"
+      ],
+      "correct_answer": "אִי-וַדָּאוּת",
+      "explanation_hebrew": "“uncertainty” פירושו: אִי-וַדָּאוּת."
+    },
+    {
+      "id": "A-q20",
+      "word": "apparent",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “נִרְאֶה לָעַיִן, לִכְאוֹרָה”?",
+      "options": [
+        "apparent",
+        "widespread",
+        "optimism",
+        "hibernates"
+      ],
+      "correct_answer": "apparent",
+      "explanation_hebrew": "המילה האנגלית ל“נִרְאֶה לָעַיִן, לִכְאוֹרָה” היא “apparent”."
+    },
+    {
+      "id": "A-q21",
+      "word": "optimism",
+      "type": "english_to_hebrew",
+      "question": "What does “optimism” mean?",
+      "options": [
+        "נִכָּר, רַב",
+        "אוֹפְּטִימִיּוּת",
+        "נָדִיר, מֻעָט בִּכְמוּת",
+        "קְרִיסָה, הִתְמוֹטְטוּת"
+      ],
+      "correct_answer": "אוֹפְּטִימִיּוּת",
+      "explanation_hebrew": "“optimism” פירושו: אוֹפְּטִימִיּוּת."
+    },
+    {
+      "id": "A-q22",
+      "word": "hibernates",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “עוֹבֵר תַּרְדֶּמַת חֹרֶף”?",
+      "options": [
+        "breed",
+        "hibernates",
+        "glimmer",
+        "apparent"
+      ],
+      "correct_answer": "hibernates",
+      "explanation_hebrew": "המילה האנגלית ל“עוֹבֵר תַּרְדֶּמַת חֹרֶף” היא “hibernates”."
+    },
+    {
+      "id": "A-q23",
+      "word": "torpor",
+      "type": "english_to_hebrew",
+      "question": "What does “torpor” mean?",
+      "options": [
+        "שָׁקוּל לְ-, שְׁוֵה-עֵרֶךְ",
+        "נִצְנוּץ, שֶׁמֶץ",
+        "תַּרְדֶּמֶת, רְפִיוֹן",
+        "לְהַזְהִיר, לְהַתְרִיעַ"
+      ],
+      "correct_answer": "תַּרְדֶּמֶת, רְפִיוֹן",
+      "explanation_hebrew": "“torpor” פירושו: תַּרְדֶּמֶת, רְפִיוֹן."
+    },
+    {
+      "id": "A-q24",
+      "word": "scarce",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “נָדִיר, מֻעָט בִּכְמוּת”?",
+      "options": [
+        "optimism",
+        "glimmer",
+        "conserve",
+        "scarce"
+      ],
+      "correct_answer": "scarce",
+      "explanation_hebrew": "המילה האנגלית ל“נָדִיר, מֻעָט בִּכְמוּת” היא “scarce”."
+    },
+    {
+      "id": "A-q25",
+      "word": "conserve",
+      "type": "english_to_hebrew",
+      "question": "What does “conserve” mean?",
+      "options": [
+        "לִשְׁמֹר, לְחַסֵּךְ",
+        "אוֹפְּטִימִיּוּת",
+        "גָּדֵרוֹת-שִׂיחִים",
+        "לְהַזְהִיר, לְהַתְרִיעַ"
+      ],
+      "correct_answer": "לִשְׁמֹר, לְחַסֵּךְ",
+      "explanation_hebrew": "“conserve” פירושו: לִשְׁמֹר, לְחַסֵּךְ."
+    }
+  ]
+}

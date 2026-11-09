@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-09",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "What's your love language - and does it actually mean anything?",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o",
+  "published_at": "2026-11-09T00:55:35+00:00",
+  "age_hours_at_selection": 1.37,
+  "word_count": 827,
+  "generated_at": "2026-11-09T02:17:46.604981+00:00",
+  "difficulty_reason": "Feature article on relationship psychology with moderate sentence complexity and some abstract ideas; useful B1/B2/C1 vocabulary and modest background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "affirmation",
+      "lemma": "affirmation",
+      "level": "C1",
+      "hebrew": "אִשּׁוּר, מִלִּים מְחַזְּקוֹת",
+      "explanation_hebrew": "הַבָּעַת תְּמִיכָה וְחִזּוּק בְּמִלִּים",
+      "pronunciation_hebrew": "אַפִירְמֵיְשֶׁן",
+      "example": "She likes words of affirmation."
+    },
+    {
+      "word": "supposedly",
+      "lemma": "supposedly",
+      "level": "B2",
+      "hebrew": "כִּבְיָכוֹל, לְכָאוֹרָה",
+      "explanation_hebrew": "עַל-פִּי מָה שֶׁאוֹמְרִים, אַךְ לֹא בְּוַדָּאוּת",
+      "pronunciation_hebrew": "סַפּוֹזֶדְלִי",
+      "example": "This is supposedly the best method."
+    },
+    {
+      "word": "compliments",
+      "lemma": "compliment",
+      "level": "B2",
+      "hebrew": "מַחְמָאוֹת",
+      "explanation_hebrew": "דִּבְרֵי שֶׁבַח וְהַעֲרָכָה",
+      "pronunciation_hebrew": "קוֹמְפְּלִימֶנְטְס",
+      "example": "He gave her many compliments."
+    },
+    {
+      "word": "awkward",
+      "lemma": "awkward",
+      "level": "B2",
+      "hebrew": "מֵבִיךְ, לֹא נוֹחַ",
+      "explanation_hebrew": "גּוֹרֵם לְתַחֲשׁוֹת אִי-נוֹחוּת",
+      "pronunciation_hebrew": "אוֹקְווֶרְד",
+      "example": "There was an awkward silence."
+    },
+    {
+      "word": "confidently",
+      "lemma": "confidently",
+      "level": "B2",
+      "hebrew": "בְּבִטָּחוֹן עַצְמִי",
+      "explanation_hebrew": "בְּאֹפֶן בָּטוּחַ וּנְחוּשׁ",
+      "pronunciation_hebrew": "קוֹנְפִידֶנְטְלִי",
+      "example": "She spoke confidently to the crowd."
+    },
+    {
+      "word": "sceptical",
+      "lemma": "sceptical",
+      "level": "C1",
+      "hebrew": "סַפְקָנִי, מְפַקְפֵּק",
+      "explanation_hebrew": "מְלֵא סָפֵק וְחֹסֶר אֵמוּן",
+      "pronunciation_hebrew": "סְקֶפְּטִיקֶל",
+      "example": "I am sceptical about the claim."
+    },
+    {
+      "word": "ubiquitous",
+      "lemma": "ubiquitous",
+      "level": "C2",
+      "hebrew": "נִמְצָא בְּכָל מָקוֹם",
+      "explanation_hebrew": "מָצוּי אוֹ נָפוֹץ בְּכָל פִּנָּה",
+      "pronunciation_hebrew": "יוּבִּיקְוִיטֶס",
+      "example": "Smartphones are now ubiquitous."
+    },
+    {
+      "word": "dynamics",
+      "lemma": "dynamics",
+      "level": "C1",
+      "hebrew": "דִּינָמִיקָה, יְחָסִים",
+      "explanation_hebrew": "אֹפֶן הַהִתְנַהֲלוּת וְהַיְּחָסִים בֵּין אֲנָשִׁים",
+      "pronunciation_hebrew": "דַּיְנָמִיקְס",
+      "example": "The team's dynamics changed quickly."
+    },
+    {
+      "word": "gravitate",
+      "lemma": "gravitate",
+      "level": "C1",
+      "hebrew": "נִמְשָׁךְ אֶל, נוֹטֶה לְעֵבֶר",
+      "explanation_hebrew": "מַרְגִּישׁ מְשִׁיכָה טִבְעִית לְמַשֶּׁהוּ",
+      "pronunciation_hebrew": "גְרָבִיטֵייְט",
+      "example": "People gravitate towards simple ideas."
+    },
+    {
+      "word": "attachment",
+      "lemma": "attachment",
+      "level": "B2",
+      "hebrew": "הִתְקַשְּׁרוּת רִגְשִׁית",
+      "explanation_hebrew": "קֶשֶׁר רִגְשִׁי חָזָק לְמִישֶׁהוּ",
+      "pronunciation_hebrew": "אַטָאצְ'מֶנְט",
+      "example": "The child formed a strong attachment to her."
+    },
+    {
+      "word": "counselling",
+      "lemma": "counselling",
+      "level": "B2",
+      "hebrew": "יְעוּץ, הַדְרָכָה",
+      "explanation_hebrew": "סִיּוּעַ מִקְצוֹעִי בִּבְעָיוֹת נַפְשִׁיּוֹת אוֹ זוּגִיּוֹת",
+      "pronunciation_hebrew": "קַאוּנְסֶלִינְג",
+      "example": "They went to counselling together."
+    },
+    {
+      "word": "parish",
+      "lemma": "parish",
+      "level": "C1",
+      "hebrew": "קְהִלָּה כְּנֵסִיָּתִית",
+      "explanation_hebrew": "אֵזוֹר דָּתִי שֶׁל כְּנֵסִיָּה מְקוֹמִית",
+      "pronunciation_hebrew": "פָּארִישׁ",
+      "example": "He led the local parish for years."
+    },
+    {
+      "word": "validity",
+      "lemma": "validity",
+      "level": "C1",
+      "hebrew": "תֹּקֶף, בְּסִיס אֲמִתִּי",
+      "explanation_hebrew": "מִדַּת הַנְּכוֹנוּת אוֹ הַבִּסּוּס שֶׁל טַעֲנָה",
+      "pronunciation_hebrew": "וָלִידִיטִי",
+      "example": "There is little validity to the theory."
+    },
+    {
+      "word": "neatly",
+      "lemma": "neatly",
+      "level": "B2",
+      "hebrew": "בְּצוּרָה מְסֻדֶּרֶת, בִּמְדֻיָּק",
+      "explanation_hebrew": "בְּאֹפֶן מְסֻדָּר וּמַתְאִים בְּדִיּוּק",
+      "pronunciation_hebrew": "נִיטְלִי",
+      "example": "Not everyone fits neatly into one group."
+    },
+    {
+      "word": "oversimplifying",
+      "lemma": "oversimplify",
+      "level": "C1",
+      "hebrew": "פִּשּׁוּט-יֶתֶר",
+      "explanation_hebrew": "לְהַצִּיג נוֹשֵׂא מֻרְכָּב כְּפָשׁוּט מִדַּי",
+      "pronunciation_hebrew": "אוֹבֶרְסִימְפְּלִיפַיִינְג",
+      "example": "You are oversimplifying a complex issue."
+    },
+    {
+      "word": "scripture",
+      "lemma": "scripture",
+      "level": "C1",
+      "hebrew": "כִּתְבֵי הַקֹּדֶשׁ",
+      "explanation_hebrew": "טֶקְסְטִים דָּתִיִּים קְדוֹשִׁים",
+      "pronunciation_hebrew": "סְקְרִיפְּצֶ'ר",
+      "example": "He often quotes scripture."
+    },
+    {
+      "word": "hostile",
+      "lemma": "hostile",
+      "level": "B2",
+      "hebrew": "עוֹיֵן, תּוֹקְפָנִי",
+      "explanation_hebrew": "לֹא יְדִידוּתִי וְאַף תּוֹקְפָנִי",
+      "pronunciation_hebrew": "הוֹסְטַיְל",
+      "example": "He was hostile towards strangers."
+    },
+    {
+      "word": "coerce",
+      "lemma": "coerce",
+      "level": "C1",
+      "hebrew": "לְאַלֵּץ, לִכְפּוֹת",
+      "explanation_hebrew": "לְהַכְרִיחַ מִישֶׁהוּ בְּכֹחַ אוֹ בְּאִיּוּמִים",
+      "pronunciation_hebrew": "קוֹאֶרְס",
+      "example": "You should never coerce someone."
+    },
+    {
+      "word": "intimate",
+      "lemma": "intimate",
+      "level": "B2",
+      "hebrew": "אִינְטִימִי, קָרוֹב",
+      "explanation_hebrew": "קָרוֹב מְאוֹד וְאִישִׁי",
+      "pronunciation_hebrew": "אִינְטִימֶט",
+      "example": "They shared an intimate moment."
+    },
+    {
+      "word": "acknowledge",
+      "lemma": "acknowledge",
+      "level": "B2",
+      "hebrew": "לְהַכִּיר בְּ-, לְאַשֵּׁר",
+      "explanation_hebrew": "לְהוֹדוֹת בְּקִיּוּמוֹ שֶׁל דָּבָר",
+      "pronunciation_hebrew": "אַקְנוֹלֶג'",
+      "example": "Please acknowledge their feelings."
+    },
+    {
+      "word": "reframe",
+      "lemma": "reframe",
+      "level": "C1",
+      "hebrew": "לְנַסֵּחַ מֵחָדָשׁ",
+      "explanation_hebrew": "לְהַצִּיג רַעְיוֹן אוֹ מַצָּב בְּאֹפֶן אַחֵר",
+      "pronunciation_hebrew": "רִיפְרֵייְם",
+      "example": "Try to reframe the problem positively."
+    },
+    {
+      "word": "disagreements",
+      "lemma": "disagreement",
+      "level": "B2",
+      "hebrew": "חִלּוּקֵי-דֵּעוֹת",
+      "explanation_hebrew": "מַצָּב שֶׁבּוֹ אֲנָשִׁים חוֹשְׁבִים אַחֶרֶת זֶה מִזֶּה",
+      "pronunciation_hebrew": "דִיסַאגְרִימֶנְטְס",
+      "example": "They had minor disagreements."
+    },
+    {
+      "word": "rupture",
+      "lemma": "rupture",
+      "level": "C1",
+      "hebrew": "קֶרַע, שֶׁבֶר",
+      "explanation_hebrew": "נִתּוּק אוֹ פְּגִיעָה בְּקֶשֶׁר",
+      "pronunciation_hebrew": "רַפְּצֶ'ר",
+      "example": "They repaired the rupture in their friendship."
+    },
+    {
+      "word": "responsive",
+      "lemma": "responsive",
+      "level": "B2",
+      "hebrew": "קַשּׁוּב, מֵגִיב",
+      "explanation_hebrew": "מֵגִיב בִּרְגִישׁוּת לְצָרְכֵי הַזּוּלַת",
+      "pronunciation_hebrew": "רִיסְפּוֹנְסִיב",
+      "example": "A good partner is emotionally responsive."
+    },
+    {
+      "word": "subtle",
+      "lemma": "subtle",
+      "level": "B2",
+      "hebrew": "עָדִין, דַּק, לֹא בּוֹלֵט",
+      "explanation_hebrew": "קָשֶׁה לְהַבְחָנָה, לֹא יָשִׁיר",
+      "pronunciation_hebrew": "סַאטְל",
+      "example": "She gave a subtle hint."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "affirmation",
+      "type": "english_to_hebrew",
+      "question": "What does “affirmation” mean?",
+      "options": [
+        "אִשּׁוּר, מִלִּים מְחַזְּקוֹת",
+        "מַחְמָאוֹת",
+        "הִתְקַשְּׁרוּת רִגְשִׁית",
+        "בְּצוּרָה מְסֻדֶּרֶת, בִּמְדֻיָּק"
+      ],
+      "correct_answer": "אִשּׁוּר, מִלִּים מְחַזְּקוֹת",
+      "explanation_hebrew": "“affirmation” פירושו: אִשּׁוּר, מִלִּים מְחַזְּקוֹת."
+    },
+    {
+      "id": "B-q2",
+      "word": "supposedly",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “כִּבְיָכוֹל, לְכָאוֹרָה”?",
+      "options": [
+        "coerce",
+        "rupture",
+        "supposedly",
+        "scripture"
+      ],
+      "correct_answer": "supposedly",
+      "explanation_hebrew": "המילה האנגלית ל“כִּבְיָכוֹל, לְכָאוֹרָה” היא “supposedly”."
+    },
+    {
+      "id": "B-q3",
+      "word": "compliments",
+      "type": "english_to_hebrew",
+      "question": "What does “compliments” mean?",
+      "options": [
+        "לְאַלֵּץ, לִכְפּוֹת",
+        "מַחְמָאוֹת",
+        "תֹּקֶף, בְּסִיס אֲמִתִּי",
+        "עוֹיֵן, תּוֹקְפָנִי"
+      ],
+      "correct_answer": "מַחְמָאוֹת",
+      "explanation_hebrew": "“compliments” פירושו: מַחְמָאוֹת."
+    },
+    {
+      "id": "B-q4",
+      "word": "awkward",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “מֵבִיךְ, לֹא נוֹחַ”?",
+      "options": [
+        "gravitate",
+        "awkward",
+        "responsive",
+        "acknowledge"
+      ],
+      "correct_answer": "awkward",
+      "explanation_hebrew": "המילה האנגלית ל“מֵבִיךְ, לֹא נוֹחַ” היא “awkward”."
+    },
+    {
+      "id": "B-q5",
+      "word": "confidently",
+      "type": "english_to_hebrew",
+      "question": "What does “confidently” mean?",
+      "options": [
+        "עָדִין, דַּק, לֹא בּוֹלֵט",
+        "פִּשּׁוּט-יֶתֶר",
+        "בְּבִטָּחוֹן עַצְמִי",
+        "יְעוּץ, הַדְרָכָה"
+      ],
+      "correct_answer": "בְּבִטָּחוֹן עַצְמִי",
+      "explanation_hebrew": "“confidently” פירושו: בְּבִטָּחוֹן עַצְמִי."
+    },
+    {
+      "id": "B-q6",
+      "word": "sceptical",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “סַפְקָנִי, מְפַקְפֵּק”?",
+      "options": [
+        "awkward",
+        "ubiquitous",
+        "validity",
+        "sceptical"
+      ],
+      "correct_answer": "sceptical",
+      "explanation_hebrew": "המילה האנגלית ל“סַפְקָנִי, מְפַקְפֵּק” היא “sceptical”."
+    },
+    {
+      "id": "B-q7",
+      "word": "ubiquitous",
+      "type": "english_to_hebrew",
+      "question": "What does “ubiquitous” mean?",
+      "options": [
+        "עָדִין, דַּק, לֹא בּוֹלֵט",
+        "חִלּוּקֵי-דֵּעוֹת",
+        "אִינְטִימִי, קָרוֹב",
+        "נִמְצָא בְּכָל מָקוֹם"
+      ],
+      "correct_answer": "נִמְצָא בְּכָל מָקוֹם",
+      "explanation_hebrew": "“ubiquitous” פירושו: נִמְצָא בְּכָל מָקוֹם."
+    },
+    {
+      "id": "B-q8",
+      "word": "dynamics",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “דִּינָמִיקָה, יְחָסִים”?",
+      "options": [
+        "sceptical",
+        "reframe",
+        "coerce",
+        "dynamics"
+      ],
+      "correct_answer": "dynamics",
+      "explanation_hebrew": "המילה האנגלית ל“דִּינָמִיקָה, יְחָסִים” היא “dynamics”."
+    },
+    {
+      "id": "B-q9",
+      "word": "gravitate",
+      "type": "english_to_hebrew",
+      "question": "What does “gravitate” mean?",
+      "options": [
+        "נִמְשָׁךְ אֶל, נוֹטֶה לְעֵבֶר",
+        "דִּינָמִיקָה, יְחָסִים",
+        "לְאַלֵּץ, לִכְפּוֹת",
+        "אִשּׁוּר, מִלִּים מְחַזְּקוֹת"
+      ],
+      "correct_answer": "נִמְשָׁךְ אֶל, נוֹטֶה לְעֵבֶר",
+      "explanation_hebrew": "“gravitate” פירושו: נִמְשָׁךְ אֶל, נוֹטֶה לְעֵבֶר."
+    },
+    {
+      "id": "B-q10",
+      "word": "attachment",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “הִתְקַשְּׁרוּת רִגְשִׁית”?",
+      "options": [
+        "subtle",
+        "attachment",
+        "sceptical",
+        "validity"
+      ],
+      "correct_answer": "attachment",
+      "explanation_hebrew": "המילה האנגלית ל“הִתְקַשְּׁרוּת רִגְשִׁית” היא “attachment”."
+    },
+    {
+      "id": "B-q11",
+      "word": "counselling",
+      "type": "english_to_hebrew",
+      "question": "What does “counselling” mean?",
+      "options": [
+        "הִתְקַשְּׁרוּת רִגְשִׁית",
+        "יְעוּץ, הַדְרָכָה",
+        "לְהַכִּיר בְּ-, לְאַשֵּׁר",
+        "תֹּקֶף, בְּסִיס אֲמִתִּי"
+      ],
+      "correct_answer": "יְעוּץ, הַדְרָכָה",
+      "explanation_hebrew": "“counselling” פירושו: יְעוּץ, הַדְרָכָה."
+    },
+    {
+      "id": "B-q12",
+      "word": "parish",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “קְהִלָּה כְּנֵסִיָּתִית”?",
+      "options": [
+        "counselling",
+        "parish",
+        "rupture",
+        "reframe"
+      ],
+      "correct_answer": "parish",
+      "explanation_hebrew": "המילה האנגלית ל“קְהִלָּה כְּנֵסִיָּתִית” היא “parish”."
+    },
+    {
+      "id": "B-q13",
+      "word": "validity",
+      "type": "english_to_hebrew",
+      "question": "What does “validity” mean?",
+      "options": [
+        "לְהַכִּיר בְּ-, לְאַשֵּׁר",
+        "תֹּקֶף, בְּסִיס אֲמִתִּי",
+        "אִינְטִימִי, קָרוֹב",
+        "דִּינָמִיקָה, יְחָסִים"
+      ],
+      "correct_answer": "תֹּקֶף, בְּסִיס אֲמִתִּי",
+      "explanation_hebrew": "“validity” פירושו: תֹּקֶף, בְּסִיס אֲמִתִּי."
+    },
+    {
+      "id": "B-q14",
+      "word": "neatly",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “בְּצוּרָה מְסֻדֶּרֶת, בִּמְדֻיָּק”?",
+      "options": [
+        "neatly",
+        "awkward",
+        "coerce",
+        "compliments"
+      ],
+      "correct_answer": "neatly",
+      "explanation_hebrew": "המילה האנגלית ל“בְּצוּרָה מְסֻדֶּרֶת, בִּמְדֻיָּק” היא “neatly”."
+    },
+    {
+      "id": "B-q15",
+      "word": "oversimplifying",
+      "type": "english_to_hebrew",
+      "question": "What does “oversimplifying” mean?",
+      "options": [
+        "אִשּׁוּר, מִלִּים מְחַזְּקוֹת",
+        "כִּתְבֵי הַקֹּדֶשׁ",
+        "פִּשּׁוּט-יֶתֶר",
+        "הִתְקַשְּׁרוּת רִגְשִׁית"
+      ],
+      "correct_answer": "פִּשּׁוּט-יֶתֶר",
+      "explanation_hebrew": "“oversimplifying” פירושו: פִּשּׁוּט-יֶתֶר."
+    },
+    {
+      "id": "B-q16",
+      "word": "scripture",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “כִּתְבֵי הַקֹּדֶשׁ”?",
+      "options": [
+        "scripture",
+        "neatly",
+        "affirmation",
+        "subtle"
+      ],
+      "correct_answer": "scripture",
+      "explanation_hebrew": "המילה האנגלית ל“כִּתְבֵי הַקֹּדֶשׁ” היא “scripture”."
+    },
+    {
+      "id": "B-q17",
+      "word": "hostile",
+      "type": "english_to_hebrew",
+      "question": "What does “hostile” mean?",
+      "options": [
+        "עוֹיֵן, תּוֹקְפָנִי",
+        "בְּבִטָּחוֹן עַצְמִי",
+        "לְנַסֵּחַ מֵחָדָשׁ",
+        "חִלּוּקֵי-דֵּעוֹת"
+      ],
+      "correct_answer": "עוֹיֵן, תּוֹקְפָנִי",
+      "explanation_hebrew": "“hostile” פירושו: עוֹיֵן, תּוֹקְפָנִי."
+    },
+    {
+      "id": "B-q18",
+      "word": "coerce",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “לְאַלֵּץ, לִכְפּוֹת”?",
+      "options": [
+        "hostile",
+        "coerce",
+        "responsive",
+        "validity"
+      ],
+      "correct_answer": "coerce",
+      "explanation_hebrew": "המילה האנגלית ל“לְאַלֵּץ, לִכְפּוֹת” היא “coerce”."
+    },
+    {
+      "id": "B-q19",
+      "word": "intimate",
+      "type": "english_to_hebrew",
+      "question": "What does “intimate” mean?",
+      "options": [
+        "אִינְטִימִי, קָרוֹב",
+        "קְהִלָּה כְּנֵסִיָּתִית",
+        "נִמְשָׁךְ אֶל, נוֹטֶה לְעֵבֶר",
+        "יְעוּץ, הַדְרָכָה"
+      ],
+      "correct_answer": "אִינְטִימִי, קָרוֹב",
+      "explanation_hebrew": "“intimate” פירושו: אִינְטִימִי, קָרוֹב."
+    },
+    {
+      "id": "B-q20",
+      "word": "acknowledge",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “לְהַכִּיר בְּ-, לְאַשֵּׁר”?",
+      "options": [
+        "neatly",
+        "scripture",
+        "acknowledge",
+        "intimate"
+      ],
+      "correct_answer": "acknowledge",
+      "explanation_hebrew": "המילה האנגלית ל“לְהַכִּיר בְּ-, לְאַשֵּׁר” היא “acknowledge”."
+    },
+    {
+      "id": "B-q21",
+      "word": "reframe",
+      "type": "english_to_hebrew",
+      "question": "What does “reframe” mean?",
+      "options": [
+        "לְהַכִּיר בְּ-, לְאַשֵּׁר",
+        "נִמְצָא בְּכָל מָקוֹם",
+        "לְנַסֵּחַ מֵחָדָשׁ",
+        "אִשּׁוּר, מִלִּים מְחַזְּקוֹת"
+      ],
+      "correct_answer": "לְנַסֵּחַ מֵחָדָשׁ",
+      "explanation_hebrew": "“reframe” פירושו: לְנַסֵּחַ מֵחָדָשׁ."
+    },
+    {
+      "id": "B-q22",
+      "word": "disagreements",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “חִלּוּקֵי-דֵּעוֹת”?",
+      "options": [
+        "reframe",
+        "disagreements",
+        "acknowledge",
+        "confidently"
+      ],
+      "correct_answer": "disagreements",
+      "explanation_hebrew": "המילה האנגלית ל“חִלּוּקֵי-דֵּעוֹת” היא “disagreements”."
+    },
+    {
+      "id": "B-q23",
+      "word": "rupture",
+      "type": "english_to_hebrew",
+      "question": "What does “rupture” mean?",
+      "options": [
+        "קַשּׁוּב, מֵגִיב",
+        "כִּתְבֵי הַקֹּדֶשׁ",
+        "לְאַלֵּץ, לִכְפּוֹת",
+        "קֶרַע, שֶׁבֶר"
+      ],
+      "correct_answer": "קֶרַע, שֶׁבֶר",
+      "explanation_hebrew": "“rupture” פירושו: קֶרַע, שֶׁבֶר."
+    },
+    {
+      "id": "B-q24",
+      "word": "responsive",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “קַשּׁוּב, מֵגִיב”?",
+      "options": [
+        "acknowledge",
+        "responsive",
+        "intimate",
+        "neatly"
+      ],
+      "correct_answer": "responsive",
+      "explanation_hebrew": "המילה האנגלית ל“קַשּׁוּב, מֵגִיב” היא “responsive”."
+    },
+    {
+      "id": "B-q25",
+      "word": "subtle",
+      "type": "english_to_hebrew",
+      "question": "What does “subtle” mean?",
+      "options": [
+        "לְהַכִּיר בְּ-, לְאַשֵּׁר",
+        "מֵבִיךְ, לֹא נוֹחַ",
+        "תֹּקֶף, בְּסִיס אֲמִתִּי",
+        "עָדִין, דַּק, לֹא בּוֹלֵט"
+      ],
+      "correct_answer": "עָדִין, דַּק, לֹא בּוֹלֵט",
+      "explanation_hebrew": "“subtle” פירושו: עָדִין, דַּק, לֹא בּוֹלֵט."
+    }
+  ]
+}
