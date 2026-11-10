@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-10",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "How a civil servant got away with juggling five jobs for so long",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo",
+  "published_at": "2026-11-09T18:40:31+00:00",
+  "age_hours_at_selection": 7.58,
+  "word_count": 1395,
+  "generated_at": "2026-11-10T02:15:35.367983+00:00",
+  "difficulty_reason": "Long investigative feature with dense detail, legal and institutional context, and more advanced B2/C1/C2 vocabulary; background on the UK Civil Service helps.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "juggling",
+      "lemma": "juggle",
+      "level": "C1",
+      "hebrew": "מנהל בו-זמנית",
+      "explanation_hebrew": "מנהל כמה דברים בבת אחת",
+      "pronunciation_hebrew": "גַ'אגְלִינְג",
+      "example": "She was juggling work and study."
+    },
+    {
+      "word": "undetected",
+      "lemma": "undetected",
+      "level": "C1",
+      "hebrew": "שלא התגלה",
+      "explanation_hebrew": "בלי שהתגלה",
+      "pronunciation_hebrew": "אַנְדִיטֶקְטֶד",
+      "example": "The error went undetected for months."
+    },
+    {
+      "word": "fraudulent",
+      "lemma": "fraudulent",
+      "level": "C1",
+      "hebrew": "מרמתי",
+      "explanation_hebrew": "הקשור בהונאה",
+      "pronunciation_hebrew": "פְרוֹדְיוּלֶנְט",
+      "example": "He was accused of fraudulent activity."
+    },
+    {
+      "word": "overlapping",
+      "lemma": "overlap",
+      "level": "B2",
+      "hebrew": "חופף",
+      "explanation_hebrew": "מתרחש בו-זמנית וחופף",
+      "pronunciation_hebrew": "אוֹבֶרְלַאפִּינְג",
+      "example": "They had overlapping responsibilities."
+    },
+    {
+      "word": "junior",
+      "lemma": "junior",
+      "level": "B2",
+      "hebrew": "זוטר",
+      "explanation_hebrew": "בדרגה נמוכה, לא בכיר",
+      "pronunciation_hebrew": "ג'וּנְיוֹר",
+      "example": "He is a junior member of staff."
+    },
+    {
+      "word": "escalated",
+      "lemma": "escalate",
+      "level": "C1",
+      "hebrew": "הסלים",
+      "explanation_hebrew": "העביר לדרג גבוה יותר",
+      "pronunciation_hebrew": "אֶסְקֶלֵייטֶד",
+      "example": "She escalated the complaint to her manager."
+    },
+    {
+      "word": "anomalies",
+      "lemma": "anomaly",
+      "level": "C1",
+      "hebrew": "חריגות",
+      "explanation_hebrew": "דברים חריגים ולא רגילים",
+      "pronunciation_hebrew": "אַנוֹמַלִיז",
+      "example": "The audit found several anomalies."
+    },
+    {
+      "word": "custodial",
+      "lemma": "custodial",
+      "level": "C2",
+      "hebrew": "של מאסר",
+      "explanation_hebrew": "הקשור למאסר",
+      "pronunciation_hebrew": "קַסְטוֹדִיאֶל",
+      "example": "He received a custodial sentence."
+    },
+    {
+      "word": "bewildered",
+      "lemma": "bewilder",
+      "level": "C1",
+      "hebrew": "מבולבל",
+      "explanation_hebrew": "מבולבל מאוד",
+      "pronunciation_hebrew": "בִּיוִילְדֶרְד",
+      "example": "The tourists looked bewildered."
+    },
+    {
+      "word": "livelihood",
+      "lemma": "livelihood",
+      "level": "B2",
+      "hebrew": "פרנסה",
+      "explanation_hebrew": "מקור ההכנסה של אדם",
+      "pronunciation_hebrew": "לַייבְלִיהוּד",
+      "example": "Fishing is their main livelihood."
+    },
+    {
+      "word": "insecure",
+      "lemma": "insecure",
+      "level": "B2",
+      "hebrew": "לא יציב",
+      "explanation_hebrew": "לא בטוח, לא יציב",
+      "pronunciation_hebrew": "אִינְסִיקְיוּר",
+      "example": "He had insecure, temporary work."
+    },
+    {
+      "word": "distress",
+      "lemma": "distress",
+      "level": "B2",
+      "hebrew": "מצוקה",
+      "explanation_hebrew": "סבל או כאב נפשי",
+      "pronunciation_hebrew": "דִיסְטְרֶס",
+      "example": "She was in great distress after the news."
+    },
+    {
+      "word": "prosecution",
+      "lemma": "prosecution",
+      "level": "C1",
+      "hebrew": "תביעה",
+      "explanation_hebrew": "הצד המאשים במשפט",
+      "pronunciation_hebrew": "פְּרוֹסִיקְיוּשֶן",
+      "example": "The prosecution presented new evidence."
+    },
+    {
+      "word": "deliberate",
+      "lemma": "deliberate",
+      "level": "B2",
+      "hebrew": "מכוון",
+      "explanation_hebrew": "נעשה בכוונה",
+      "pronunciation_hebrew": "דִילִיבֶּרֶט",
+      "example": "It was a deliberate attempt to lie."
+    },
+    {
+      "word": "dishonesty",
+      "lemma": "dishonesty",
+      "level": "B2",
+      "hebrew": "חוסר יושר",
+      "explanation_hebrew": "העדר כנות, רמאות",
+      "pronunciation_hebrew": "דִיסוֹנֶסְטִי",
+      "example": "He was punished for his dishonesty."
+    },
+    {
+      "word": "exploited",
+      "lemma": "exploit",
+      "level": "C1",
+      "hebrew": "ניצל לרעה",
+      "explanation_hebrew": "השתמש במשהו לרעה לטובתו",
+      "pronunciation_hebrew": "אֶקְסְפְּלוֹיטֶד",
+      "example": "He exploited a weakness in the system."
+    },
+    {
+      "word": "centralised",
+      "lemma": "centralise",
+      "level": "C1",
+      "hebrew": "מרוכז",
+      "explanation_hebrew": "מנוהל ממקום מרכזי אחד",
+      "pronunciation_hebrew": "סֶנְטְרַלַייזְד",
+      "example": "The data is stored in a centralised system."
+    },
+    {
+      "word": "duplication",
+      "lemma": "duplication",
+      "level": "C1",
+      "hebrew": "כפילות",
+      "explanation_hebrew": "מצב של הכפלה מיותרת",
+      "pronunciation_hebrew": "דְיוּפְּלִיקֵיישֶן",
+      "example": "The system failed to spot the duplication."
+    },
+    {
+      "word": "administration",
+      "lemma": "administration",
+      "level": "B2",
+      "hebrew": "ניהול",
+      "explanation_hebrew": "ניהול שוטף של ארגון או מדינה",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵיישֶן",
+      "example": "She works in public administration."
+    },
+    {
+      "word": "workload",
+      "lemma": "workload",
+      "level": "B2",
+      "hebrew": "עומס עבודה",
+      "explanation_hebrew": "כמות העבודה שצריך לבצע",
+      "pronunciation_hebrew": "ווֹרְקְלוֹד",
+      "example": "His workload was too heavy."
+    },
+    {
+      "word": "succession",
+      "lemma": "succession",
+      "level": "C1",
+      "hebrew": "רצף",
+      "explanation_hebrew": "סדרה של דברים בזה אחר זה",
+      "pronunciation_hebrew": "סַקְסֶשֶן",
+      "example": "A succession of problems delayed the project."
+    },
+    {
+      "word": "damning",
+      "lemma": "damning",
+      "level": "C2",
+      "hebrew": "מרשיע",
+      "explanation_hebrew": "מוכיח אשמה בבירור",
+      "pronunciation_hebrew": "דַאמִינְג",
+      "example": "The report contained damning evidence."
+    },
+    {
+      "word": "averse",
+      "lemma": "averse",
+      "level": "C2",
+      "hebrew": "נרתע",
+      "explanation_hebrew": "נמנע מ-, לא אוהב",
+      "pronunciation_hebrew": "אַוֶרְס",
+      "example": "She is averse to taking risks."
+    },
+    {
+      "word": "grievances",
+      "lemma": "grievance",
+      "level": "C1",
+      "hebrew": "תלונות",
+      "explanation_hebrew": "תחושות של עוול או טרוניות",
+      "pronunciation_hebrew": "גְרִיבֶנְסֶז",
+      "example": "The staff raised several grievances."
+    },
+    {
+      "word": "settlement",
+      "lemma": "settlement",
+      "level": "B2",
+      "hebrew": "הסדר",
+      "explanation_hebrew": "הסכם ליישוב סכסוך",
+      "pronunciation_hebrew": "סֶטֶלְמֶנְט",
+      "example": "They reached a financial settlement."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "juggling",
+      "type": "english_to_hebrew",
+      "question": "What does “juggling” mean?",
+      "options": [
+        "מנהל בו-זמנית",
+        "מרמתי",
+        "חופף",
+        "שלא התגלה"
+      ],
+      "correct_answer": "מנהל בו-זמנית",
+      "explanation_hebrew": "“juggling” פירושו מנהל בו-זמנית."
+    },
+    {
+      "id": "C-q2",
+      "word": "undetected",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “שלא התגלה”?",
+      "options": [
+        "junior",
+        "undetected",
+        "overlapping",
+        "fraudulent"
+      ],
+      "correct_answer": "undetected",
+      "explanation_hebrew": "המילה “undetected” פירושה שלא התגלה."
+    },
+    {
+      "id": "C-q3",
+      "word": "fraudulent",
+      "type": "english_to_hebrew",
+      "question": "What does “fraudulent” mean?",
+      "options": [
+        "חופף",
+        "הסלים",
+        "מרמתי",
+        "זוטר"
+      ],
+      "correct_answer": "מרמתי",
+      "explanation_hebrew": "“fraudulent” פירושו מרמתי."
+    },
+    {
+      "id": "C-q4",
+      "word": "overlapping",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “חופף”?",
+      "options": [
+        "junior",
+        "overlapping",
+        "anomalies",
+        "escalated"
+      ],
+      "correct_answer": "overlapping",
+      "explanation_hebrew": "המילה “overlapping” פירושה חופף."
+    },
+    {
+      "id": "C-q5",
+      "word": "junior",
+      "type": "english_to_hebrew",
+      "question": "What does “junior” mean?",
+      "options": [
+        "של מאסר",
+        "הסלים",
+        "חריגות",
+        "זוטר"
+      ],
+      "correct_answer": "זוטר",
+      "explanation_hebrew": "“junior” פירושו זוטר."
+    },
+    {
+      "id": "C-q6",
+      "word": "escalated",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “הסלים”?",
+      "options": [
+        "anomalies",
+        "custodial",
+        "escalated",
+        "bewildered"
+      ],
+      "correct_answer": "escalated",
+      "explanation_hebrew": "המילה “escalated” פירושה הסלים."
+    },
+    {
+      "id": "C-q7",
+      "word": "anomalies",
+      "type": "english_to_hebrew",
+      "question": "What does “anomalies” mean?",
+      "options": [
+        "חריגות",
+        "פרנסה",
+        "של מאסר",
+        "מבולבל"
+      ],
+      "correct_answer": "חריגות",
+      "explanation_hebrew": "“anomalies” פירושו חריגות."
+    },
+    {
+      "id": "C-q8",
+      "word": "custodial",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “של מאסר”?",
+      "options": [
+        "custodial",
+        "bewildered",
+        "livelihood",
+        "insecure"
+      ],
+      "correct_answer": "custodial",
+      "explanation_hebrew": "המילה “custodial” פירושה של מאסר."
+    },
+    {
+      "id": "C-q9",
+      "word": "bewildered",
+      "type": "english_to_hebrew",
+      "question": "What does “bewildered” mean?",
+      "options": [
+        "פרנסה",
+        "לא יציב",
+        "מבולבל",
+        "מצוקה"
+      ],
+      "correct_answer": "מבולבל",
+      "explanation_hebrew": "“bewildered” פירושו מבולבל."
+    },
+    {
+      "id": "C-q10",
+      "word": "livelihood",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “פרנסה”?",
+      "options": [
+        "insecure",
+        "distress",
+        "prosecution",
+        "livelihood"
+      ],
+      "correct_answer": "livelihood",
+      "explanation_hebrew": "המילה “livelihood” פירושה פרנסה."
+    },
+    {
+      "id": "C-q11",
+      "word": "insecure",
+      "type": "english_to_hebrew",
+      "question": "What does “insecure” mean?",
+      "options": [
+        "מצוקה",
+        "תביעה",
+        "לא יציב",
+        "מכוון"
+      ],
+      "correct_answer": "לא יציב",
+      "explanation_hebrew": "“insecure” פירושו לא יציב."
+    },
+    {
+      "id": "C-q12",
+      "word": "distress",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “מצוקה”?",
+      "options": [
+        "deliberate",
+        "dishonesty",
+        "distress",
+        "prosecution"
+      ],
+      "correct_answer": "distress",
+      "explanation_hebrew": "המילה “distress” פירושה מצוקה."
+    },
+    {
+      "id": "C-q13",
+      "word": "prosecution",
+      "type": "english_to_hebrew",
+      "question": "What does “prosecution” mean?",
+      "options": [
+        "ניצל לרעה",
+        "חוסר יושר",
+        "מכוון",
+        "תביעה"
+      ],
+      "correct_answer": "תביעה",
+      "explanation_hebrew": "“prosecution” פירושו תביעה."
+    },
+    {
+      "id": "C-q14",
+      "word": "deliberate",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “מכוון”?",
+      "options": [
+        "deliberate",
+        "exploited",
+        "dishonesty",
+        "centralised"
+      ],
+      "correct_answer": "deliberate",
+      "explanation_hebrew": "המילה “deliberate” פירושה מכוון."
+    },
+    {
+      "id": "C-q15",
+      "word": "dishonesty",
+      "type": "english_to_hebrew",
+      "question": "What does “dishonesty” mean?",
+      "options": [
+        "ניצל לרעה",
+        "חוסר יושר",
+        "מרוכז",
+        "כפילות"
+      ],
+      "correct_answer": "חוסר יושר",
+      "explanation_hebrew": "“dishonesty” פירושו חוסר יושר."
+    },
+    {
+      "id": "C-q16",
+      "word": "exploited",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “ניצל לרעה”?",
+      "options": [
+        "administration",
+        "duplication",
+        "exploited",
+        "centralised"
+      ],
+      "correct_answer": "exploited",
+      "explanation_hebrew": "המילה “exploited” פירושה ניצל לרעה."
+    },
+    {
+      "id": "C-q17",
+      "word": "centralised",
+      "type": "english_to_hebrew",
+      "question": "What does “centralised” mean?",
+      "options": [
+        "ניהול",
+        "עומס עבודה",
+        "מרוכז",
+        "כפילות"
+      ],
+      "correct_answer": "מרוכז",
+      "explanation_hebrew": "“centralised” פירושו מרוכז."
+    },
+    {
+      "id": "C-q18",
+      "word": "duplication",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “כפילות”?",
+      "options": [
+        "administration",
+        "duplication",
+        "succession",
+        "workload"
+      ],
+      "correct_answer": "duplication",
+      "explanation_hebrew": "המילה “duplication” פירושה כפילות."
+    },
+    {
+      "id": "C-q19",
+      "word": "administration",
+      "type": "english_to_hebrew",
+      "question": "What does “administration” mean?",
+      "options": [
+        "מרשיע",
+        "רצף",
+        "ניהול",
+        "עומס עבודה"
+      ],
+      "correct_answer": "ניהול",
+      "explanation_hebrew": "“administration” פירושו ניהול."
+    },
+    {
+      "id": "C-q20",
+      "word": "workload",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “עומס עבודה”?",
+      "options": [
+        "damning",
+        "succession",
+        "workload",
+        "averse"
+      ],
+      "correct_answer": "workload",
+      "explanation_hebrew": "המילה “workload” פירושה עומס עבודה."
+    },
+    {
+      "id": "C-q21",
+      "word": "succession",
+      "type": "english_to_hebrew",
+      "question": "What does “succession” mean?",
+      "options": [
+        "נרתע",
+        "רצף",
+        "מרשיע",
+        "תלונות"
+      ],
+      "correct_answer": "רצף",
+      "explanation_hebrew": "“succession” פירושו רצף."
+    },
+    {
+      "id": "C-q22",
+      "word": "damning",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “מרשיע”?",
+      "options": [
+        "averse",
+        "grievances",
+        "settlement",
+        "damning"
+      ],
+      "correct_answer": "damning",
+      "explanation_hebrew": "המילה “damning” פירושה מרשיע."
+    },
+    {
+      "id": "C-q23",
+      "word": "averse",
+      "type": "english_to_hebrew",
+      "question": "What does “averse” mean?",
+      "options": [
+        "מנהל בו-זמנית",
+        "נרתע",
+        "הסדר",
+        "תלונות"
+      ],
+      "correct_answer": "נרתע",
+      "explanation_hebrew": "“averse” פירושו נרתע."
+    },
+    {
+      "id": "C-q24",
+      "word": "grievances",
+      "type": "hebrew_to_english",
+      "question": "Which English word means “תלונות”?",
+      "options": [
+        "juggling",
+        "grievances",
+        "undetected",
+        "settlement"
+      ],
+      "correct_answer": "grievances",
+      "explanation_hebrew": "המילה “grievances” פירושה תלונות."
+    },
+    {
+      "id": "C-q25",
+      "word": "settlement",
+      "type": "english_to_hebrew",
+      "question": "What does “settlement” mean?",
+      "options": [
+        "מנהל בו-זמנית",
+        "שלא התגלה",
+        "מרמתי",
+        "הסדר"
+      ],
+      "correct_answer": "הסדר",
+      "explanation_hebrew": "“settlement” פירושו הסדר."
+    }
+  ]
+}
