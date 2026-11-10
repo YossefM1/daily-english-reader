@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-10",
+  "article_id": "A",
+  "article_title": "'Cruise for life' ship Villa Vie Odyssey seized in Singapore",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main development reported about the Odyssey?",
+      "difficulty": "A",
+      "options": [
+        "It was seized in Singapore after its operator's financial problems",
+        "It completed its planned voyage around 150 countries",
+        "It was sold to a Cambodian tourism company",
+        "It returned to Belfast for scheduled repairs"
+      ],
+      "correct_answer": "It was seized in Singapore after its operator's financial problems",
+      "explanation_hebrew": "הכתבה מדווחת שהאונייה נעצרה בסינגפור בצו בית משפט, לאחר שבעיות כספיות של המפעילה כבר הפסיקו את ההפלגה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Villa Vie Residences say it suspended operations in Cambodia?",
+      "difficulty": "A",
+      "options": [
+        "The crew refused to continue the voyage",
+        "The ship's paperwork had expired",
+        "Fuel costs had risen extraordinarily",
+        "Singapore had closed its port"
+      ],
+      "correct_answer": "Fuel costs had risen extraordinarily",
+      "explanation_hebrew": "החברה ייחסה את השעיית הפעילות לעלייה חריגה במחירי הדלק."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened to about 200 guests in Sihanoukville?",
+      "difficulty": "A",
+      "options": [
+        "They bought permanent cabins",
+        "They were required to leave the ship",
+        "They joined a replacement cruise",
+        "They remained aboard under creditor supervision"
+      ],
+      "correct_answer": "They were required to leave the ship",
+      "explanation_hebrew": "כ־200 אורחים נאלצו לרדת מן האונייה בנמל סיהאנוקוויל שבקמבודיה."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “placed under arrest” mean when describing the vessel?",
+      "difficulty": "A",
+      "options": [
+        "The passengers were questioned by police",
+        "The captain was removed from command",
+        "The ship was repaired under guard",
+        "The ship was legally detained under a court order"
+      ],
+      "correct_answer": "The ship was legally detained under a court order",
+      "explanation_hebrew": "בהקשר ימי זה arrest פירושו עיכוב משפטי של כלי השיט, ולא מעצר של אדם."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was the Odyssey's original voyage plan?",
+      "difficulty": "A",
+      "options": [
+        "A three-and-a-half-year trip covering 150 countries",
+        "A five-month tour limited to Asian ports",
+        "A direct crossing from Belfast to Singapore",
+        "A yearly route between Cambodia and Vietnam"
+      ],
+      "correct_answer": "A three-and-a-half-year trip covering 150 countries",
+      "explanation_hebrew": "התכנון היה מסע בן שלוש שנים וחצי שיכלול 150 מדינות."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “severely curtailed” suggest about the passengers' itinerary?",
+      "difficulty": "A",
+      "options": [
+        "It became more expensive but stayed unchanged",
+        "It was expanded to include new countries",
+        "It was greatly shortened or limited",
+        "It was transferred to another operator"
+      ],
+      "correct_answer": "It was greatly shortened or limited",
+      "explanation_hebrew": "curtailed פירושו קוצר או הוגבל; severely מדגיש שהצמצום היה משמעותי."
+    },
+    {
+      "id": "A-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did the rise in fuel costs threaten the cruise's business model? Use two figures from the report.",
+      "difficulty": "A",
+      "rubric_hebrew": "תשובה מלאה תקשר בין הזינוק בהוצאה לכל תא לבין קושי להמשיך את המסע, ותציין את שני הסכומים.",
+      "expected_points": [
+        "Monthly fuel cost per cabin in parts of Asia rose from about $1,800 to as much as $8,000",
+        "The much higher operating cost made the long voyage financially unsustainable despite attempts to reduce fuel use"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the sequence from the cruise's launch problems to the ship's seizure in Singapore in 3–4 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את העיכוב הראשוני, הקשיים הכספיים ועלויות הדלק, הורדת הנוסעים בקמבודיה והעיכוב המשפטי בסינגפור.",
+      "expected_points": [
+        "Departure was delayed for four months by repairs and paperwork",
+        "The operator faced debts and sharply higher fuel costs",
+        "Operations stopped and about 200 guests left the ship in Cambodia",
+        "The Odyssey later entered Singapore and was detained under a court order"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What does the company's August warning and request for money from guests reveal about its position before the cruise ended?",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להסיק שהמשבר היה ידוע ומתמשך, ולהסתמך על בקשת הכסף או אזהרת המעצר.",
+      "expected_points": [
+        "The operator already knew it was in serious financial difficulty",
+        "It depended on extra money from guests to keep sailing and had warned that detention was possible"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining how the report contrasts the Odyssey's promised lifestyle with what passengers actually experienced.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג הבטחה אחת לפחות מול שתי תוצאות ממשיות מן הכתבה, בניסוח ברור וללא הוספת עובדות.",
+      "expected_points": [
+        "The promise involved owning or renting a home on a ship travelling around the world",
+        "The voyage was delayed and its itinerary was heavily reduced",
+        "Passengers faced extra fuel costs and about 200 were forced off in Cambodia",
+        "The ship was ultimately seized in Singapore"
+      ]
+    }
+  ]
+}

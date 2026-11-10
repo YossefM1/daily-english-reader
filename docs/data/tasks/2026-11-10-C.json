@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-10",
+  "article_id": "C",
+  "article_title": "How a civil servant got away with juggling five jobs for so long",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central institutional weakness does the report identify in explaining how Kashim Chowdhury held overlapping government jobs?",
+      "difficulty": "C",
+      "options": [
+        "Civil Service recruitment is managed by private contractors",
+        "The payroll system excludes remote employees",
+        "All departments share one database but rarely check it",
+        "Departments make hiring decisions through HR systems that are not fully joined up"
+      ],
+      "correct_answer": "Departments make hiring decisions through HR systems that are not fully joined up",
+      "explanation_hebrew": "הכתבה מצביעה על מערכת משאבי אנוש שאינה מרוכזת ועל החלטות גיוס נפרדות בין משרדים, ולכן הכפילויות לא זוהו."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What combination of jobs was reported for May 2023?",
+      "difficulty": "C",
+      "options": [
+        "Five full-time roles totalling 183 contracted hours a week",
+        "Three part-time roles totalling 80 hours a week",
+        "Eight simultaneous roles in private companies",
+        "Two Civil Service posts plus freelance consulting"
+      ],
+      "correct_answer": "Five full-time roles totalling 183 contracted hours a week",
+      "explanation_hebrew": "במאי 2023 הוא קיבל שכר מחמישה גופים ממשלתיים והיה מחויב ל־183 שעות עבודה שבועיות."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How was the suspected fraud finally detected?",
+      "difficulty": "C",
+      "options": [
+        "A line manager searched his personal bank accounts",
+        "The National Fraud Initiative matched anomalies in government databases",
+        "A colleague saw him enter another department's office",
+        "His GP reported several sick-note requests"
+      ],
+      "correct_answer": "The National Fraud Initiative matched anomalies in government databases",
+      "explanation_hebrew": "היוזמה הלאומית למניעת הונאה מצאה חריגות באמצעות חיפוש במאגרי שירות המדינה, ובהם נתוני שכר."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “flying under the radar” mean?",
+      "difficulty": "C",
+      "options": [
+        "Working entirely from home",
+        "Moving quickly between departments",
+        "Receiving special protection from managers",
+        "Avoiding notice or scrutiny despite poor performance"
+      ],
+      "correct_answer": "Avoiding notice or scrutiny despite poor performance",
+      "explanation_hebrew": "הביטוי flying under the radar מתאר מי שאינו מושך תשומת לב או בדיקה, אף שיש בעיה בהתנהלותו."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why was the Defra manager's evidence especially damaging to Chowdhury's case?",
+      "difficulty": "C",
+      "options": [
+        "It showed poor performance and repeated camera excuses, yet he still obtained a permanent post",
+        "It proved he had never worked for Defra",
+        "It showed he disclosed all his other jobs during recruitment",
+        "It established that remote working was prohibited at Defra"
+      ],
+      "correct_answer": "It showed poor performance and repeated camera excuses, yet he still obtained a permanent post",
+      "explanation_hebrew": "העדות תיארה צורך להנחות אותו ללא הרף והימנעות ממצלמה במשך חודשים, ובכל זאת היעדר מדדי ביצוע פורמליים אפשר קביעות."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “polygamous working” refer to in this article?",
+      "difficulty": "C",
+      "options": [
+        "Sharing one role between several employees",
+        "Moving between government departments openly",
+        "Secretly holding several jobs at the same time",
+        "Working for both government and a trade union"
+      ],
+      "correct_answer": "Secretly holding several jobs at the same time",
+      "explanation_hebrew": "בכתבה המונח מתייחס להחזקה סמויה בכמה משרות במקביל, בלי ליידע את המעסיקים."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how remote work and sick notes helped Chowdhury conceal an impossible schedule.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין עבודה מלאה מהבית, היעדר נוכחות פיזית, ימי מחלה במשרות קיימות והתחלת משרה נוספת.",
+      "expected_points": [
+        "He worked entirely from the home he shared with his mother, reducing direct observation by employers",
+        "He used sick notes to be absent from several departments",
+        "While absent from existing roles, he could begin or continue other employment",
+        "Camera-off claims and separate departmental oversight further reduced scrutiny"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise in 4–5 sentences how individual deception and Civil Service systems combined to let the fraud continue.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשלב פעולות מרמה אישיות עם לפחות שני כשלים מערכתיים, ולציין כיצד התגלה המקרה.",
+      "expected_points": [
+        "Chowdhury failed to declare existing Civil Service employment on applications",
+        "He used sick leave, remote work and explanations for absences to manage overlapping roles",
+        "Decentralised HR and hiring systems did not identify duplicate employment",
+        "Weak performance management allowed problems to persist",
+        "The National Fraud Initiative later detected database anomalies"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What broader criticism of Civil Service performance management is supported by the survey and the unnamed former senior official?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשלב את נתון הסקר עם ההסבר התרבותי על הימנעות מניהול ביצועים והפחד מהשלכות.",
+      "expected_points": [
+        "In the Re:State survey, 76% of 1,700 respondents said the Civil Service did not tackle poor performers well",
+        "The former official described a culture that is risk-averse about performance management",
+        "Managers may fear lengthy grievances or criticism over the cost of settlements",
+        "The evidence suggests poor performance can remain unaddressed for too long"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a concise evidence-based paragraph proposing two controls that address the specific failures described in the report.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציע שני אמצעים הקשורים ישירות לכשלים שבכתבה ולהסביר בקצרה כיצד כל אחד היה מצמצם את הסיכון.",
+      "expected_points": [
+        "A joined-up cross-department HR or payroll check could flag overlapping full-time employment",
+        "More frequent data matching could reduce the delay between National Fraud Initiative searches",
+        "Formal performance measures and consistent follow-up could expose persistent non-performance",
+        "The response should link each proposed control to a documented weakness in the case"
+      ]
+    }
+  ]
+}

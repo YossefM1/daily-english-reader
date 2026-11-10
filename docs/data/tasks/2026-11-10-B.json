@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-10",
+  "article_id": "B",
+  "article_title": "Phones to be banned from pupils' bags or pockets under new rules",
+  "article_url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What change will the stricter guidance require in schools in England?",
+      "difficulty": "B",
+      "options": [
+        "Pupils will be unable to keep phones on them during the school day",
+        "Only social-media apps will be blocked on school Wi-Fi",
+        "Phones will be permitted during breaks but not lessons",
+        "Each pupil will receive a government-funded locker"
+      ],
+      "correct_answer": "Pupils will be unable to keep phones on them during the school day",
+      "explanation_hebrew": "ההנחיות המחמירות קובעות שתלמידים לא יוכלו להחזיק את הטלפונים על גופם במהלך יום הלימודים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When are the stricter rules expected to come into force?",
+      "difficulty": "B",
+      "options": [
+        "June 2026",
+        "March 2027",
+        "September 2027",
+        "January 2028"
+      ],
+      "correct_answer": "September 2027",
+      "explanation_hebrew": "השינוי המחמיר אמור להיכנס לתוקף בספטמבר 2027."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “no see, no hear” mean in the current school-phone policies described?",
+      "difficulty": "B",
+      "options": [
+        "Phones must be handed to teachers every morning",
+        "Phones may remain in bags if they are neither visible nor audible",
+        "Phones can be used only for silent educational activities",
+        "Schools must block cameras and speakers"
+      ],
+      "correct_answer": "Phones may remain in bags if they are neither visible nor audible",
+      "explanation_hebrew": "הביטוי מתאר מדיניות שבה אפשר להשאיר את הטלפון בתיק כל עוד לא רואים ולא שומעים אותו."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which practical concern did school leaders emphasise?",
+      "difficulty": "B",
+      "options": [
+        "Parents would refuse to collect confiscated phones",
+        "Teachers would need new social-media accounts",
+        "Pupils would switch to laptops during lessons",
+        "Secure pouches or storage for every pupil could be very costly"
+      ],
+      "correct_answer": "Secure pouches or storage for every pupil could be very costly",
+      "explanation_hebrew": "ראשי האיגודים הדגישו שאמצעי אחסון מאובטחים לכל תלמיד עלולים לעלות סכום משמעותי ולדרוש מימון."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who will decide how an individual school follows the guidance?",
+      "difficulty": "B",
+      "options": [
+        "The school itself",
+        "The local police",
+        "Mobile-phone companies",
+        "The Children's Commissioner"
+      ],
+      "correct_answer": "The school itself",
+      "explanation_hebrew": "הכתבה מציינת שבתי הספר יוכלו לבחור כיצד ליישם את ההנחיות, למשל כיסים נעולים, לוקרים או איסוף טלפונים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does it mean that education is “devolved”?",
+      "difficulty": "B",
+      "options": [
+        "All rules are set by the UK Parliament",
+        "School leaders can ignore national law",
+        "Different UK nations control their own education approaches",
+        "Phone policy has been transferred to technology companies"
+      ],
+      "correct_answer": "Different UK nations control their own education approaches",
+      "explanation_hebrew": "devolved פירושו שסמכויות החינוך מסורות לממשלים השונים, ולכן אנגליה, סקוטלנד, ויילס וצפון אירלנד נוקטות גישות שונות."
+    },
+    {
+      "id": "B-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do union leaders say clarity in the guidance is not enough for schools to implement it?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את הפער בין הנחיה ברורה לבין המשאבים הדרושים ליישומה, עם דוגמה מן הכתבה.",
+      "expected_points": [
+        "Schools may need lockable pouches, lockers, collection systems or other secure storage",
+        "Those measures have significant costs",
+        "Union leaders say implementation is not feasible without government funding"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the government's argument for the stricter phone rules and the main objection from school leaders.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג באופן מאוזן את נימוק הממשלה ואת טענת העלות/המימון של ראשי בתי הספר.",
+      "expected_points": [
+        "The government says phone access distracts pupils from learning and one another",
+        "Its message is that school is for learning and friendship rather than scrolling",
+        "School leaders accept phones can be distracting or create safety issues",
+        "They warn that secure enforcement will cost money and needs funding"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the report discuss Scotland, Wales and Northern Ireland after explaining the rules for England?",
+      "difficulty": "B",
+      "rubric_hebrew": "התשובה צריכה לקשר בין האצלת סמכויות בחינוך לבין הבדלים במדיניות בין ארבע אומות בריטניה.",
+      "expected_points": [
+        "Education policy is devolved across the UK",
+        "The other nations are considering or using different legal and school-led approaches",
+        "The England guidance does not automatically apply across the whole UK"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a brief comparison of two ways schools may keep phones away from pupils during the day, including one practical advantage or challenge.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות שתי שיטות שמופיעות בכתבה ולהוסיף יתרון או קושי הגיוני המבוסס על הדיווח.",
+      "expected_points": [
+        "Possible methods include sealed pouches, secure lockers, collection at the start of the day or a complete site ban",
+        "The comparison should explain how each prevents pupils keeping phones in pockets or bags",
+        "A practical challenge may include cost, secure storage or administration"
+      ]
+    }
+  ]
+}
