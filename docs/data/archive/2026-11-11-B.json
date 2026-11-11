@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-11",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Students passing university assessments in minutes using AI, regulator warns",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o",
+  "published_at": "2026-11-11T00:21:21+00:00",
+  "age_hours_at_selection": 1.9,
+  "word_count": 663,
+  "generated_at": "2026-11-11T02:15:22.638152+00:00",
+  "difficulty_reason": "Education-policy report with moderate sentence complexity, several quoted officials and useful B1/B2/C1 vocabulary; some UK context helps.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "assessments",
+      "lemma": "assessment",
+      "level": "B2",
+      "hebrew": "הערכות, מטלות הערכה",
+      "explanation_hebrew": "מבחנים או מטלות שבודקים ידע",
+      "pronunciation_hebrew": "אַסֶסְמֶנְטְס",
+      "example": "Students complete assessments online."
+    },
+    {
+      "word": "regulator",
+      "lemma": "regulator",
+      "level": "C1",
+      "hebrew": "גוף פיקוח, רגולטור",
+      "explanation_hebrew": "גוף רשמי שמפקח על תחום",
+      "pronunciation_hebrew": "רֶגְיוּלֵייטוֹר",
+      "example": "The regulator warned universities."
+    },
+    {
+      "word": "unsupervised",
+      "lemma": "unsupervised",
+      "level": "B2",
+      "hebrew": "ללא השגחה, ללא פיקוח",
+      "explanation_hebrew": "בלי שמישהו משגיח",
+      "pronunciation_hebrew": "אַנְסוּפֶּרְוַייזְד",
+      "example": "Unsupervised exams are risky."
+    },
+    {
+      "word": "proportion",
+      "lemma": "proportion",
+      "level": "B2",
+      "hebrew": "חלק, שיעור",
+      "explanation_hebrew": "חלק מתוך השלם",
+      "pronunciation_hebrew": "פְּרוֹפּוֹרְשֶׁן",
+      "example": "A large proportion of students used AI."
+    },
+    {
+      "word": "credibility",
+      "lemma": "credibility",
+      "level": "C1",
+      "hebrew": "אמינות",
+      "explanation_hebrew": "המידה שבה אפשר להאמין למשהו",
+      "pronunciation_hebrew": "קְרֶדִיבִּילִיטִי",
+      "example": "This threatens the credibility of exams."
+    },
+    {
+      "word": "practical",
+      "lemma": "practical",
+      "level": "B1",
+      "hebrew": "מעשי",
+      "explanation_hebrew": "קשור לעשייה ולא רק לתאוריה",
+      "pronunciation_hebrew": "פְּרַקְטִיקֶל",
+      "example": "Practical exams test real skills."
+    },
+    {
+      "word": "institutions",
+      "lemma": "institution",
+      "level": "B2",
+      "hebrew": "מוסדות",
+      "explanation_hebrew": "ארגונים רשמיים כמו אוניברסיטאות",
+      "pronunciation_hebrew": "אִינְסְטִיטְיוּשֶׁנְז",
+      "example": "Many institutions changed their rules."
+    },
+    {
+      "word": "imposed",
+      "lemma": "impose",
+      "level": "C1",
+      "hebrew": "הוטל, נכפה",
+      "explanation_hebrew": "נקבע בכוח או בחובה",
+      "pronunciation_hebrew": "אִימְפּוֹזְד",
+      "example": "Caps could be imposed on numbers."
+    },
+    {
+      "word": "proposals",
+      "lemma": "proposal",
+      "level": "B2",
+      "hebrew": "הצעות",
+      "explanation_hebrew": "תוכניות שמוצעות לדיון",
+      "pronunciation_hebrew": "פְּרוֹפּוֹזֶלְז",
+      "example": "The proposals are being consulted on."
+    },
+    {
+      "word": "consulted",
+      "lemma": "consult",
+      "level": "B2",
+      "hebrew": "נמצא בהליך היוועצות",
+      "explanation_hebrew": "שואלים את דעת הציבור לפני החלטה",
+      "pronunciation_hebrew": "קוֹנְסַלְטֶד",
+      "example": "The plans are being consulted on."
+    },
+    {
+      "word": "excellence",
+      "lemma": "excellence",
+      "level": "B2",
+      "hebrew": "מצוינות",
+      "explanation_hebrew": "איכות גבוהה במיוחד",
+      "pronunciation_hebrew": "אֶקְסֶלֶנְס",
+      "example": "The charity gives awards for teaching excellence."
+    },
+    {
+      "word": "engagement",
+      "lemma": "engagement",
+      "level": "C1",
+      "hebrew": "מעורבות, מחויבות",
+      "explanation_hebrew": "השקעה ומעורבות פעילה",
+      "pronunciation_hebrew": "אֶנְגֵייגְ'מֶנְט",
+      "example": "The work showed limited engagement."
+    },
+    {
+      "word": "coursework",
+      "lemma": "coursework",
+      "level": "B2",
+      "hebrew": "עבודות הגשה במהלך הקורס",
+      "explanation_hebrew": "מטלות שעושים לאורך הלימודים ולא במבחן",
+      "pronunciation_hebrew": "קוֹרְסְוֶרְק",
+      "example": "Coursework can be done at home."
+    },
+    {
+      "word": "remote",
+      "lemma": "remote",
+      "level": "B2",
+      "hebrew": "מרחוק, מרוחק",
+      "explanation_hebrew": "מתבצע ממרחק ולא פנים אל פנים",
+      "pronunciation_hebrew": "רִימוֹט",
+      "example": "Remote exams were used during the pandemic."
+    },
+    {
+      "word": "strategy",
+      "lemma": "strategy",
+      "level": "B2",
+      "hebrew": "אסטרטגיה",
+      "explanation_hebrew": "תוכנית פעולה להשגת מטרה",
+      "pronunciation_hebrew": "סְטְרַטֶגִ'י",
+      "example": "He is the director of strategy."
+    },
+    {
+      "word": "undermine",
+      "lemma": "undermine",
+      "level": "C1",
+      "hebrew": "לערער, לחתור תחת",
+      "explanation_hebrew": "להחליש בהדרגה",
+      "pronunciation_hebrew": "אַנְדֶרְמַיין",
+      "example": "AI could undermine learning."
+    },
+    {
+      "word": "clarity",
+      "lemma": "clarity",
+      "level": "C1",
+      "hebrew": "בהירות",
+      "explanation_hebrew": "מצב שבו דבר ברור וקל להבנה",
+      "pronunciation_hebrew": "קְלַרִיטִי",
+      "example": "Students wanted more clarity."
+    },
+    {
+      "word": "varying",
+      "lemma": "vary",
+      "level": "B2",
+      "hebrew": "משתנים, ברמות שונות",
+      "explanation_hebrew": "שונים זה מזה",
+      "pronunciation_hebrew": "וֵוארִיִינְג",
+      "example": "Staff had varying levels of confidence."
+    },
+    {
+      "word": "grades",
+      "lemma": "grade",
+      "level": "B1",
+      "hebrew": "ציונים",
+      "explanation_hebrew": "הערכה מספרית של ביצועים",
+      "pronunciation_hebrew": "גְּרֵיידְז",
+      "example": "They received similar grades."
+    },
+    {
+      "word": "assignments",
+      "lemma": "assignment",
+      "level": "B2",
+      "hebrew": "מטלות, עבודות",
+      "explanation_hebrew": "משימות שמוטלות על תלמידים",
+      "pronunciation_hebrew": "אַסַיינְמֶנְטְס",
+      "example": "Staff received many similar assignments."
+    },
+    {
+      "word": "polarised",
+      "lemma": "polarise",
+      "level": "C1",
+      "hebrew": "מקוטב, מפולג",
+      "explanation_hebrew": "מחולק לשתי עמדות מנוגדות",
+      "pronunciation_hebrew": "פּוֹלַרַייזְד",
+      "example": "A polarised atmosphere grew."
+    },
+    {
+      "word": "conscientious",
+      "lemma": "conscientious",
+      "level": "C1",
+      "hebrew": "מצפוני, בעל מצפון",
+      "explanation_hebrew": "אדם שעושה את הדבר הנכון בקפידה",
+      "pronunciation_hebrew": "קוֹנְשִיאֶנְשֶׁס",
+      "example": "Conscientious students avoided AI."
+    },
+    {
+      "word": "literacy",
+      "lemma": "literacy",
+      "level": "C1",
+      "hebrew": "אוריינות, שליטה בסיסית",
+      "explanation_hebrew": "היכולת להבין ולהשתמש בתחום",
+      "pronunciation_hebrew": "לִיטֶרַסִי",
+      "example": "AI literacy is important for students."
+    },
+    {
+      "word": "validity",
+      "lemma": "validity",
+      "level": "C1",
+      "hebrew": "תוקף, מהימנות",
+      "explanation_hebrew": "המידה שבה דבר אמין ותקף",
+      "pronunciation_hebrew": "וַלִידִיטִי",
+      "example": "Exams must keep their validity."
+    },
+    {
+      "word": "outdated",
+      "lemma": "outdated",
+      "level": "B2",
+      "hebrew": "מיושן",
+      "explanation_hebrew": "לא מתאים עוד לזמן הנוכחי",
+      "pronunciation_hebrew": "אַאוּטְדֵייטֶד",
+      "example": "Outdated methods should be replaced."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "assessments",
+      "type": "english_to_hebrew",
+      "question": "What does “assessments” mean?",
+      "options": [
+        "הוטל, נכפה",
+        "מרחוק, מרוחק",
+        "הערכות, מטלות הערכה",
+        "חלק, שיעור"
+      ],
+      "correct_answer": "הערכות, מטלות הערכה",
+      "explanation_hebrew": "“assessments” פירושו הערכות, מטלות הערכה."
+    },
+    {
+      "id": "B-q2",
+      "word": "regulator",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “גוף פיקוח, רגולטור”?",
+      "options": [
+        "regulator",
+        "coursework",
+        "proportion",
+        "imposed"
+      ],
+      "correct_answer": "regulator",
+      "explanation_hebrew": "המילה “regulator” פירושה גוף פיקוח, רגולטור."
+    },
+    {
+      "id": "B-q3",
+      "word": "unsupervised",
+      "type": "english_to_hebrew",
+      "question": "What does “unsupervised” mean?",
+      "options": [
+        "ללא השגחה, ללא פיקוח",
+        "נמצא בהליך היוועצות",
+        "מעשי",
+        "לערער, לחתור תחת"
+      ],
+      "correct_answer": "ללא השגחה, ללא פיקוח",
+      "explanation_hebrew": "“unsupervised” פירושו ללא השגחה, ללא פיקוח."
+    },
+    {
+      "id": "B-q4",
+      "word": "proportion",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “חלק, שיעור”?",
+      "options": [
+        "consulted",
+        "practical",
+        "strategy",
+        "proportion"
+      ],
+      "correct_answer": "proportion",
+      "explanation_hebrew": "המילה “proportion” פירושה חלק, שיעור."
+    },
+    {
+      "id": "B-q5",
+      "word": "credibility",
+      "type": "english_to_hebrew",
+      "question": "What does “credibility” mean?",
+      "options": [
+        "מעורבות, מחויבות",
+        "הוטל, נכפה",
+        "משתנים, ברמות שונות",
+        "אמינות"
+      ],
+      "correct_answer": "אמינות",
+      "explanation_hebrew": "“credibility” פירושו אמינות."
+    },
+    {
+      "id": "B-q6",
+      "word": "practical",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מעשי”?",
+      "options": [
+        "engagement",
+        "practical",
+        "clarity",
+        "imposed"
+      ],
+      "correct_answer": "practical",
+      "explanation_hebrew": "המילה “practical” פירושה מעשי."
+    },
+    {
+      "id": "B-q7",
+      "word": "institutions",
+      "type": "english_to_hebrew",
+      "question": "What does “institutions” mean?",
+      "options": [
+        "מטלות, עבודות",
+        "נמצא בהליך היוועצות",
+        "מוסדות",
+        "מרחוק, מרוחק"
+      ],
+      "correct_answer": "מוסדות",
+      "explanation_hebrew": "“institutions” פירושו מוסדות."
+    },
+    {
+      "id": "B-q8",
+      "word": "imposed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הוטל, נכפה”?",
+      "options": [
+        "consulted",
+        "grades",
+        "remote",
+        "imposed"
+      ],
+      "correct_answer": "imposed",
+      "explanation_hebrew": "המילה “imposed” פירושה הוטל, נכפה."
+    },
+    {
+      "id": "B-q9",
+      "word": "proposals",
+      "type": "english_to_hebrew",
+      "question": "What does “proposals” mean?",
+      "options": [
+        "לערער, לחתור תחת",
+        "הצעות",
+        "מצפוני, בעל מצפון",
+        "מעורבות, מחויבות"
+      ],
+      "correct_answer": "הצעות",
+      "explanation_hebrew": "“proposals” פירושו הצעות."
+    },
+    {
+      "id": "B-q10",
+      "word": "consulted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נמצא בהליך היוועצות”?",
+      "options": [
+        "polarised",
+        "engagement",
+        "undermine",
+        "consulted"
+      ],
+      "correct_answer": "consulted",
+      "explanation_hebrew": "המילה “consulted” פירושה נמצא בהליך היוועצות."
+    },
+    {
+      "id": "B-q11",
+      "word": "excellence",
+      "type": "english_to_hebrew",
+      "question": "What does “excellence” mean?",
+      "options": [
+        "משתנים, ברמות שונות",
+        "תוקף, מהימנות",
+        "מרחוק, מרוחק",
+        "מצוינות"
+      ],
+      "correct_answer": "מצוינות",
+      "explanation_hebrew": "“excellence” פירושו מצוינות."
+    },
+    {
+      "id": "B-q12",
+      "word": "engagement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מעורבות, מחויבות”?",
+      "options": [
+        "varying",
+        "literacy",
+        "engagement",
+        "remote"
+      ],
+      "correct_answer": "engagement",
+      "explanation_hebrew": "המילה “engagement” פירושה מעורבות, מחויבות."
+    },
+    {
+      "id": "B-q13",
+      "word": "coursework",
+      "type": "english_to_hebrew",
+      "question": "What does “coursework” mean?",
+      "options": [
+        "הערכות, מטלות הערכה",
+        "לערער, לחתור תחת",
+        "עבודות הגשה במהלך הקורס",
+        "מטלות, עבודות"
+      ],
+      "correct_answer": "עבודות הגשה במהלך הקורס",
+      "explanation_hebrew": "“coursework” פירושו עבודות הגשה במהלך הקורס."
+    },
+    {
+      "id": "B-q14",
+      "word": "remote",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מרחוק, מרוחק”?",
+      "options": [
+        "outdated",
+        "remote",
+        "undermine",
+        "assignments"
+      ],
+      "correct_answer": "remote",
+      "explanation_hebrew": "המילה “remote” פירושה מרחוק, מרוחק."
+    },
+    {
+      "id": "B-q15",
+      "word": "strategy",
+      "type": "english_to_hebrew",
+      "question": "What does “strategy” mean?",
+      "options": [
+        "ללא השגחה, ללא פיקוח",
+        "משתנים, ברמות שונות",
+        "אסטרטגיה",
+        "מצפוני, בעל מצפון"
+      ],
+      "correct_answer": "אסטרטגיה",
+      "explanation_hebrew": "“strategy” פירושו אסטרטגיה."
+    },
+    {
+      "id": "B-q16",
+      "word": "undermine",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לערער, לחתור תחת”?",
+      "options": [
+        "regulator",
+        "conscientious",
+        "undermine",
+        "varying"
+      ],
+      "correct_answer": "undermine",
+      "explanation_hebrew": "המילה “undermine” פירושה לערער, לחתור תחת."
+    },
+    {
+      "id": "B-q17",
+      "word": "clarity",
+      "type": "english_to_hebrew",
+      "question": "What does “clarity” mean?",
+      "options": [
+        "תוקף, מהימנות",
+        "מטלות, עבודות",
+        "בהירות",
+        "אמינות"
+      ],
+      "correct_answer": "בהירות",
+      "explanation_hebrew": "“clarity” פירושו בהירות."
+    },
+    {
+      "id": "B-q18",
+      "word": "varying",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “משתנים, ברמות שונות”?",
+      "options": [
+        "assignments",
+        "varying",
+        "validity",
+        "proportion"
+      ],
+      "correct_answer": "varying",
+      "explanation_hebrew": "המילה “varying” פירושה משתנים, ברמות שונות."
+    },
+    {
+      "id": "B-q19",
+      "word": "grades",
+      "type": "english_to_hebrew",
+      "question": "What does “grades” mean?",
+      "options": [
+        "הערכות, מטלות הערכה",
+        "מוסדות",
+        "מצפוני, בעל מצפון",
+        "ציונים"
+      ],
+      "correct_answer": "ציונים",
+      "explanation_hebrew": "“grades” פירושו ציונים."
+    },
+    {
+      "id": "B-q20",
+      "word": "assignments",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מטלות, עבודות”?",
+      "options": [
+        "conscientious",
+        "assessments",
+        "assignments",
+        "practical"
+      ],
+      "correct_answer": "assignments",
+      "explanation_hebrew": "המילה “assignments” פירושה מטלות, עבודות."
+    },
+    {
+      "id": "B-q21",
+      "word": "polarised",
+      "type": "english_to_hebrew",
+      "question": "What does “polarised” mean?",
+      "options": [
+        "מקוטב, מפולג",
+        "ללא השגחה, ללא פיקוח",
+        "הצעות",
+        "תוקף, מהימנות"
+      ],
+      "correct_answer": "מקוטב, מפולג",
+      "explanation_hebrew": "“polarised” פירושו מקוטב, מפולג."
+    },
+    {
+      "id": "B-q22",
+      "word": "conscientious",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מצפוני, בעל מצפון”?",
+      "options": [
+        "validity",
+        "imposed",
+        "conscientious",
+        "unsupervised"
+      ],
+      "correct_answer": "conscientious",
+      "explanation_hebrew": "המילה “conscientious” פירושה מצפוני, בעל מצפון."
+    },
+    {
+      "id": "B-q23",
+      "word": "literacy",
+      "type": "english_to_hebrew",
+      "question": "What does “literacy” mean?",
+      "options": [
+        "מצוינות",
+        "אוריינות, שליטה בסיסית",
+        "הערכות, מטלות הערכה",
+        "אמינות"
+      ],
+      "correct_answer": "אוריינות, שליטה בסיסית",
+      "explanation_hebrew": "“literacy” פירושו אוריינות, שליטה בסיסית."
+    },
+    {
+      "id": "B-q24",
+      "word": "validity",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תוקף, מהימנות”?",
+      "options": [
+        "validity",
+        "assessments",
+        "credibility",
+        "consulted"
+      ],
+      "correct_answer": "validity",
+      "explanation_hebrew": "המילה “validity” פירושה תוקף, מהימנות."
+    },
+    {
+      "id": "B-q25",
+      "word": "outdated",
+      "type": "english_to_hebrew",
+      "question": "What does “outdated” mean?",
+      "options": [
+        "ללא השגחה, ללא פיקוח",
+        "מיושן",
+        "עבודות הגשה במהלך הקורס",
+        "מוסדות"
+      ],
+      "correct_answer": "מיושן",
+      "explanation_hebrew": "“outdated” פירושו מיושן."
+    }
+  ]
+}
