@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-11",
+  "article_id": "C",
+  "article_title": "Why does Australia want Brits to swap Sydney for the outback?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why does the Australian government want to revisit special visa treatment for British backpackers?",
+      "difficulty": "C",
+      "options": [
+        "Too many British visitors are choosing regional farm work",
+        "Britons are no longer eligible for working holiday visas",
+        "The UK has ended tariff-free trade with Australia",
+        "The exemption encourages many Britons to remain in big cities while regional employers lack workers"
+      ],
+      "correct_answer": "The exemption encourages many Britons to remain in big cities while regional employers lack workers",
+      "explanation_hebrew": "הפטור מעבודה אזורית מאפשר לבריטים להישאר בערים הגדולות, בזמן שעסקים וחקלאים באזורים מרוחקים מדווחים על מחסור בעובדים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What change did the UK-Australia trade deal make for British working holidaymakers?",
+      "difficulty": "C",
+      "options": [
+        "It exempted them from regional work needed to stay beyond one year",
+        "It limited them to jobs in agriculture and fisheries",
+        "It reduced their maximum age from 35 to 30",
+        "It required them to live in Cairns for three years"
+      ],
+      "correct_answer": "It exempted them from regional work needed to stay beyond one year",
+      "explanation_hebrew": "ההסכם פטר בריטים מן הדרישה למצוא עבודה אזורית או מרוחקת כדי להאריך את שהותם מעבר לשנה."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did the number of backpacker visas issued to Britons change from 2023-24 to 2025-26?",
+      "difficulty": "C",
+      "options": [
+        "It fell from 77,000 to 47,200",
+        "It rose from 47,200 to just over 77,000",
+        "It stayed at approximately 52,000",
+        "It increased from 11,000 to 20,000"
+      ],
+      "correct_answer": "It rose from 47,200 to just over 77,000",
+      "explanation_hebrew": "לפי נתוני הממשלה האוסטרלית, המספר עלה מ־47,200 ליותר מ־77,000."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the article mean when it says the free trade agreement is “not set in stone”?",
+      "difficulty": "C",
+      "options": [
+        "It applies only to the construction industry",
+        "It will expire automatically next month",
+        "It cannot be discussed by the two prime ministers",
+        "It can be adjusted when there are sound policy reasons"
+      ],
+      "correct_answer": "It can be adjusted when there are sound policy reasons",
+      "explanation_hebrew": "not set in stone פירושו שאינו קבוע ובלתי ניתן לשינוי; ניתן לבצע בהסכם התאמות."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What must most non-British working holidaymakers do to qualify for a second-year extension?",
+      "difficulty": "C",
+      "options": [
+        "Complete at least 88 days of specified regional work",
+        "Pay a special tourism tariff",
+        "Win one of 5,000 third-year places first",
+        "Work for six months in Sydney hospitality"
+      ],
+      "correct_answer": "Complete at least 88 days of specified regional work",
+      "explanation_hebrew": "עבור אזרחי מדינות אחרות נדרשים לפחות 88 ימי עבודה אזורית מוגדרת כדי לזכות בשנה שנייה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “bucking the trend” describe about Paige Tomlinson?",
+      "difficulty": "C",
+      "options": [
+        "She is campaigning to abolish all regional visas",
+        "She left Australia after only a few days",
+        "She chose to live and work in Cairns while many Britons favour Sydney",
+        "She works only during the avocado harvest"
+      ],
+      "correct_answer": "She chose to live and work in Cairns while many Britons favour Sydney",
+      "explanation_hebrew": "bucking the trend פירושו לפעול בניגוד למגמה; פייג׳ בחרה בקיירנס האזורית ולא בסידני."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do regional tourism and hospitality businesses view British backpackers as both workers and customers?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את התרומה הכפולה: כוח עבודה עונתי והוצאה כספית כתיירים.",
+      "expected_points": [
+        "Backpackers fill temporary and seasonal jobs in hospitality and tourism",
+        "They also spend money on accommodation, food, travel and local attractions",
+        "Both labour and visitor spending support regional economies such as Far North Queensland"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the policy tension between regional labour needs and Australia's broader migration-reduction plans.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג הן את צורכי החקלאות והאזורים והן את ההצעות לצמצם הארכות אשרה.",
+      "expected_points": [
+        "Regional employers and farmers say they need backpackers for seasonal labour",
+        "Backpackers account for one in seven farm jobs and about 52,000 work in horticulture each year",
+        "The government also plans to reduce net migration under political pressure",
+        "Proposed ballots would cap second-year extensions at 45,000 and third-year stays at 5,000",
+        "Farm representatives argue those wider caps could deepen labour shortages"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How do the figures from Cairns businesses support the claim that the rule change altered where British backpackers work?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשתמש בלפחות שני נתונים מהכתבה ולהסביר כיצד הם מצביעים על ירידה אזורית.",
+      "expected_points": [
+        "Young Britons living and working in the region fell from about 20,000 to about 11,000",
+        "At one restaurant group, British staff fell from roughly 25 to five",
+        "A hostel chain says French guests now outnumber British guests three to one",
+        "The declines occurred after the regional-work exemption began"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write an evidence-based paragraph assessing one argument for and one argument against restoring regional-work requirements for Britons.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג טיעון בעד וטיעון נגד הנשענים על פרטים מן הכתבה, ולסיים בהערכה מאוזנת.",
+      "expected_points": [
+        "A supporting argument is that regional farms, tourism and hospitality businesses need seasonal workers",
+        "The requirement could spread travellers and spending beyond Sydney and enrich their experience",
+        "An opposing argument is that the trade deal grants Britons flexibility and helped visa numbers grow",
+        "The response should distinguish labour-market needs from the wider migration-cap debate"
+      ]
+    }
+  ]
+}

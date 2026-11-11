@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-11",
+  "article_id": "B",
+  "article_title": "Students passing university assessments in minutes using AI, regulator warns",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What main risk does the Office for Students identify?",
+      "difficulty": "B",
+      "options": [
+        "AI can let students complete unsupervised assessments without demonstrating the intended learning",
+        "Universities have stopped offering practical exams",
+        "Students are refusing to use any digital tools",
+        "All remote exams have already been abolished"
+      ],
+      "correct_answer": "AI can let students complete unsupervised assessments without demonstrating the intended learning",
+      "explanation_hebrew": "הרגולטור מזהיר שבינה מלאכותית מאפשרת להשלים מטלות לא מפוקחות ברמה גבוהה בלי להוכיח את הידע והמיומנויות הנבדקים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which assessment formats did the research describe as most effective against inappropriate AI use?",
+      "difficulty": "B",
+      "options": [
+        "Coursework and remote essays",
+        "Group projects and handouts",
+        "Closed-book and practical exams",
+        "Multiple-choice quizzes completed at home"
+      ],
+      "correct_answer": "Closed-book and practical exams",
+      "explanation_hebrew": "המחקר קבע שמבחנים בחומר סגור ומבחנים מעשיים הם צורות ההערכה היעילות ביותר בהקשר זה."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who contributed views to the OfS and Advance HE research?",
+      "difficulty": "B",
+      "options": [
+        "Only university vice-chancellors",
+        "244 higher-education staff and 91 students",
+        "More than 10,000 recent graduates",
+        "Representatives from exactly 93 universities"
+      ],
+      "correct_answer": "244 higher-education staff and 91 students",
+      "explanation_hebrew": "המחקר מבוסס על דעות של 244 אנשי סגל ו־91 סטודנטים מלפחות 127 אוניברסיטאות."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean for an assessment to “maintain its validity”?",
+      "difficulty": "B",
+      "options": [
+        "It remains available online for several years",
+        "It produces identical answers from all students",
+        "It can be marked entirely by software",
+        "It still measures the knowledge and skills it was designed to test"
+      ],
+      "correct_answer": "It still measures the knowledge and skills it was designed to test",
+      "explanation_hebrew": "validity בהערכה פירושה שהמטלה אכן מודדת את הידע והמיומנויות שלשמם נבנתה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What possible penalties are proposed for universities that fail OfS quality standards?",
+      "difficulty": "B",
+      "options": [
+        "A ban on charging increased fees or caps on student numbers",
+        "Closure of every remote-learning course",
+        "Removal of all access to AI research funding",
+        "Compulsory replacement of every essay with an oral exam"
+      ],
+      "correct_answer": "A ban on charging increased fees or caps on student numbers",
+      "explanation_hebrew": "לפי ההצעות, מוסדות שלא יעמדו בתקני האיכות עלולים לאבד את האפשרות לגבות שכר לימוד מוגדל או לקבל מגבלה על מספר הסטודנטים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “fit for purpose” mean when staff discuss university assessments?",
+      "difficulty": "B",
+      "options": [
+        "Easy enough to finish in a few minutes",
+        "Popular with every student",
+        "Suitable and effective for their intended job",
+        "Designed only for supervised examination halls"
+      ],
+      "correct_answer": "Suitable and effective for their intended job",
+      "explanation_hebrew": "fit for purpose פירושו מתאים ויעיל למטרה שלשמה נועד; כאן השאלה היא האם המטלה באמת בודקת למידה."
+    },
+    {
+      "id": "B-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the report say undetectable AI use creates a “generational risk” for higher education?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את הפגיעה המצטברת בלמידה, באמינות הציונים וביכולת המוסדות להעריך סטודנטים.",
+      "expected_points": [
+        "Students may receive grades without developing or demonstrating the intended knowledge",
+        "Institutions may no longer be able to assess learning reliably",
+        "Qualifications and assessment results could lose credibility over time"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the contrasting views of the regulator, Universities UK and the National Union of Students on how assessment should change.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג בקצרה את עמדת כל אחד משלושת הגופים בלי לטשטש את ההבדלים ביניהם.",
+      "expected_points": [
+        "The OfS calls for much greater use of AI-free assessment and replacement of invalid tasks",
+        "Universities UK says institutions are already adapting with exams, presentations, vivas and controlled AI use",
+        "Universities UK argues different subjects need flexible approaches",
+        "The NUS says traditional methods are outdated and change should be co-designed with students"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What does the phrase “polarised atmosphere” reveal about student attitudes to AI?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר חלוקה חדה בין משתמשים בבינה מלאכותית לבין נמנעים ממנה ואת הסיבה העקרונית האפשרית.",
+      "expected_points": [
+        "Students are divided into opposing groups rather than sharing one approach",
+        "Some use AI in their assessment work",
+        "Others deliberately avoid it, including for environmental or ethical reasons"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Propose two article-supported ways a university could redesign an assessment while still testing the intended learning.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לבחור שני פתרונות שמופיעים בכתבה ולהסביר כיצד כל אחד משפר את אמינות ההערכה.",
+      "expected_points": [
+        "Options include in-person closed-book exams, practical exams, presentations or vivas",
+        "Process-based assessment can show how work was developed",
+        "AI may be integrated in a controlled and clearly permitted way",
+        "The redesign should require students to demonstrate the target knowledge and skills"
+      ]
+    }
+  ]
+}

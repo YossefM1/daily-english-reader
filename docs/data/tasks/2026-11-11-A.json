@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-11",
+  "article_id": "A",
+  "article_title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+  "article_url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central development in the report about Poundland?",
+      "difficulty": "A",
+      "options": [
+        "A release of £10m may delay collapse while a rescue deal is sought",
+        "The chain has already closed all 600 stores",
+        "Tesco has completed a takeover of Poundland",
+        "Poundland has repaid all of its creditors"
+      ],
+      "correct_answer": "A release of £10m may delay collapse while a rescue deal is sought",
+      "explanation_hebrew": "הכתבה מדווחת ששחרור של 10 מיליון ליש״ט עשוי לדחות את הקריסה ולאפשר זמן למציאת עסקת הצלה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why had Poundland been moving towards administration?",
+      "difficulty": "A",
+      "options": [
+        "Christmas sales were cancelled",
+        "Its 10-day moratorium had already ended",
+        "Its owners blocked access to money in its bank accounts",
+        "All potential buyers withdrew their interest"
+      ],
+      "correct_answer": "Its owners blocked access to money in its bank accounts",
+      "explanation_hebrew": "לפי הכתבה, הבעלים חסמו את גישת החברה לכספים בחשבונותיה, ולכן היא התקשתה לשלם ולהצטייד."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many employees does Poundland have, according to the report?",
+      "difficulty": "A",
+      "options": [
+        "About 600",
+        "About 11,000",
+        "About 18,100",
+        "About 50,000"
+      ],
+      "correct_answer": "About 11,000",
+      "explanation_hebrew": "בפתיחת הכתבה מצוין שלפאונדלנד כ־11,000 עובדים."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “stave off collapse” mean in the headline?",
+      "difficulty": "A",
+      "options": [
+        "Sell the company in separate pieces",
+        "Close stores before Christmas",
+        "Report a larger annual profit",
+        "Delay or prevent the company from failing"
+      ],
+      "correct_answer": "Delay or prevent the company from failing",
+      "explanation_hebrew": "הביטוי stave off פירושו לדחות או למנוע דבר שלילי; כאן מדובר בדחיית קריסת החברה."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is Gordon Brothers accused of trying to do?",
+      "difficulty": "A",
+      "options": [
+        "Profit by selling Poundland's stores and stock piecemeal",
+        "Convert every shop into a supermarket",
+        "Give all 600 stores to Poundland employees",
+        "Increase the price of Poundland products before Christmas"
+      ],
+      "correct_answer": "Profit by selling Poundland's stores and stock piecemeal",
+      "explanation_hebrew": "הטענה היא שהבעלים מקווים להרוויח ממכירת החנויות והמלאי בחלקים; חברת ההשקעות מכחישה זאת."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this report, what does a “moratorium” protect Poundland from temporarily?",
+      "difficulty": "A",
+      "options": [
+        "Competition from other discount chains",
+        "A fall in Christmas sales",
+        "Action by its creditors",
+        "Questions from Members of Parliament"
+      ],
+      "correct_answer": "Action by its creditors",
+      "explanation_hebrew": "moratorium הוא עיכוב זמני של הליכים; כאן מדובר בהגנה בת עשרה ימים מפני נושי החברה."
+    },
+    {
+      "id": "A-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why could the release of £10m help Poundland even though sources called it small in the scale of things?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהכסף מספק זמן ונזילות זמניים, אך אינו בהכרח פתרון ארוך טווח.",
+      "expected_points": [
+        "The money could help the company meet immediate needs and postpone collapse",
+        "The delay could provide time to negotiate a solvent rescue deal",
+        "The released amount is only part of roughly £50m that had been frozen"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the disagreement between Poundland's management and Gordon Brothers about the chain's condition.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג את נתוני ההתאוששות של ההנהלה מול הערכת הסיכון של הבעלים.",
+      "expected_points": [
+        "Management reported like-for-like sales up 11.4%",
+        "Sales were £1.5m ahead of budget",
+        "Management said the business made an £18.1m profit after a previous £68m loss",
+        "Gordon Brothers described the chain as challenged and vulnerable to a downturn"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is the timing before the Christmas trading period especially important for Poundland?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין מחסור במזומן, מילוי מדפים, שכר ושכירות לבין תקופת מסחר חשובה.",
+      "expected_points": [
+        "The chain needs cash to restock its 600 shops",
+        "It must also pay wages and rent",
+        "Christmas is a crucial trading period, so empty shelves or disruption could damage recovery prospects"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining the two competing options for Poundland and how each might affect jobs.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להשוות בין קונה שישמור על הרשת הלאומית לבין מכירה בחלקים, ולהתייחס להשפעה האפשרית על תעסוקה.",
+      "expected_points": [
+        "One option is a buyer keeping Poundland together as a national chain",
+        "Another is selling stores and stock in separate chunks",
+        "Interest from Poundstretcher, Tesco and B&M could preserve some store jobs",
+        "The key uncertainty is which option would protect more of the 11,000 employees"
+      ]
+    }
+  ]
+}
