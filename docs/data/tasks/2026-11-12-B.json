@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-12",
+  "article_id": "B",
+  "article_title": "From Paris to DC - why offices are being turned into apartments",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why are cities converting more office buildings into apartments?",
+      "difficulty": "B",
+      "options": [
+        "Office demand has fallen while cities need housing and livelier mixed-use districts",
+        "New apartments no longer require plumbing or windows",
+        "Companies have stopped using all high-rise buildings",
+        "Residential construction has been banned outside business districts"
+      ],
+      "correct_answer": "Office demand has fallen while cities need housing and livelier mixed-use districts",
+      "explanation_hebrew": "עבודה מהבית הפחיתה את הביקוש למשרדים, ובמקביל ערים מבקשות דיור ואזורים שבהם גם חיים ומבלים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What share of La Défense office buildings could be turned into housing under the unveiled plans?",
+      "difficulty": "B",
+      "options": [
+        "About one fiftieth",
+        "About one half",
+        "Up to one fifth",
+        "Every office building"
+      ],
+      "correct_answer": "Up to one fifth",
+      "explanation_hebrew": "רשות הפיתוח של לה דפאנס הציגה תוכנית להסבת עד חמישית מבנייני המשרדים למגורים."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is a major design problem inside many office floors?",
+      "difficulty": "B",
+      "options": [
+        "The lifts are too close to the windows",
+        "Central areas often receive no natural light",
+        "The buildings have too many bathrooms",
+        "Every floor is too narrow for apartments"
+      ],
+      "correct_answer": "Central areas often receive no natural light",
+      "explanation_hebrew": "קומות משרדים גדולות כוללות שטח פנימי רחב ללא חלונות, ולכן קשה להפוך את המרכז לחדרי מגורים."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does a 14–15% “vacancy rate” in La Défense mean?",
+      "difficulty": "B",
+      "options": [
+        "14–15% of buildings need demolition",
+        "14–15% of residents work from home",
+        "Rents have risen by 14–15%",
+        "That proportion of office space is unoccupied"
+      ],
+      "correct_answer": "That proportion of office space is unoccupied",
+      "explanation_hebrew": "vacancy rate הוא שיעור השטח שאינו מאוכלס או מושכר; כאן מדובר במשרדים ריקים."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How have Washington DC projects sometimes brought light into the middle of converted offices?",
+      "difficulty": "B",
+      "options": [
+        "By creating central atriums or light sinks",
+        "By removing all fire-safety systems",
+        "By lowering every ceiling",
+        "By replacing lifts with balconies"
+      ],
+      "correct_answer": "By creating central atriums or light sinks",
+      "explanation_hebrew": "בוושינגטון יצרו לעיתים אטריומים במרכז הבניין כדי להכניס אור טבעי לשטחים פנימיים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean that tax cuts are “fuelling” conversions in US cities?",
+      "difficulty": "B",
+      "options": [
+        "They are making apartments use more energy",
+        "They are preventing private investment",
+        "They are encouraging and accelerating conversion projects",
+        "They are increasing demand for traditional offices"
+      ],
+      "correct_answer": "They are encouraging and accelerating conversion projects",
+      "explanation_hebrew": "fuelling משמש כאן במשמעות של עידוד והאצה: הקלות המס מסייעות לפרויקטים לצאת לפועל."
+    },
+    {
+      "id": "B-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is an office-to-apartment conversion not simply a matter of adding furniture?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין לפחות שלושה הבדלים מבניים או רגולטוריים שנדונו בכתבה.",
+      "expected_points": [
+        "Deep office floors may lack natural light in the centre",
+        "Apartments require substantially more plumbing",
+        "Office ceilings may be too low for residential conversion",
+        "Projects must meet rules for parking, wheelchair access and fire safety"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Compare how Paris, Washington DC, New York and London are encouraging office conversions.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להבחין בין שאיפות פריז לבין תמריצים וכללים שכבר הופעלו בערים האחרות.",
+      "expected_points": [
+        "Paris La Défense plans to convert up to a fifth of office buildings but developers seek lower taxes and fewer rules",
+        "Washington DC uses tax cuts and easier planning approval",
+        "New York also offers incentives and has thousands of converted flats in the pipeline",
+        "The UK has tax cuts and eased planning rules, with London projects 60% above pre-Covid levels"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do officials want La Défense to offer restaurants, bars, cinemas and gyms as well as offices?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד עירוב שימושים עשוי לשפר את המשיכה לעובדים, תושבים וחברות.",
+      "expected_points": [
+        "A district used only for work becomes empty and unattractive outside office hours",
+        "Leisure amenities make the area more appealing after work",
+        "A mixed-use environment can help retain companies and attract residents",
+        "It supports the goal of making La Défense a place to live, work and play"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write an evidence-based paragraph assessing whether converting Le Diamant is a practical response to post-pandemic office demand.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לשלב יתרון המבוסס על ירידת הביקוש עם לפחות שני אתגרים טכניים או רגולטוריים.",
+      "expected_points": [
+        "Paris office demand has fallen by almost a third over five to six years",
+        "La Défense has a 14–15% vacancy rate, creating an opportunity for housing",
+        "Le Diamant's deep floor plan creates areas without natural light",
+        "Plumbing, ceiling height and residential regulations add cost and complexity"
+      ]
+    }
+  ]
+}

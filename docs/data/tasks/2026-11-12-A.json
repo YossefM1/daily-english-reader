@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-12",
+  "article_id": "A",
+  "article_title": "Significant drop in levels of toxic 'forever' chemicals in English rivers",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main finding reported by the Environment Agency?",
+      "difficulty": "A",
+      "options": [
+        "River concentrations of PFOS and PFOA have fallen by nearly a third in a decade",
+        "All PFAS have disappeared from England's rivers",
+        "The UK has stopped testing rivers for toxic chemicals",
+        "Fresh-water fish now contain more PFAS than ten years ago"
+      ],
+      "correct_answer": "River concentrations of PFOS and PFOA have fallen by nearly a third in a decade",
+      "explanation_hebrew": "הנתונים מראים שריכוזי PFOS ו־PFOA בנהרות אנגליה ירדו בכמעט שליש בעשר שנים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What explanation is given for the decline in PFOS and PFOA?",
+      "difficulty": "A",
+      "options": [
+        "More rivers were diverted into the sea",
+        "Factories voluntarily stopped all chemical production",
+        "Stricter restrictions reduced their use in products",
+        "Fish began breaking the chemicals down naturally"
+      ],
+      "correct_answer": "Stricter restrictions reduced their use in products",
+      "explanation_hebrew": "הירידה מיוחסת להגבלות מחמירות יותר על השימוש בכימיקלים לאחר שהתגלו נזקיהם."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much did levels of the chemicals in fresh-water fish fall?",
+      "difficulty": "A",
+      "options": [
+        "29%",
+        "49%",
+        "60%",
+        "90%"
+      ],
+      "correct_answer": "49%",
+      "explanation_hebrew": "לפי דו״ח הסוכנות, הרמות בדגי מים מתוקים ירדו ב־49%."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "Why are PFAS called “forever chemicals”?",
+      "difficulty": "A",
+      "options": [
+        "They are used only in permanent buildings",
+        "They were invented thousands of years ago",
+        "They can be recycled without limit",
+        "They resist natural breakdown and remain for a very long time"
+      ],
+      "correct_answer": "They resist natural breakdown and remain for a very long time",
+      "explanation_hebrew": "העמידות הטבעית של PFAS גורמת לכך שהם מתפרקים לאט מאוד ולכן מכונים כימיקלים נצחיים."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When were PFOS and PFOA largely banned in the UK?",
+      "difficulty": "A",
+      "options": [
+        "PFOS in 2010 and PFOA in 2020",
+        "Both chemicals in 1930",
+        "PFOS in 2020 and PFOA in 2010",
+        "Both chemicals in 2026"
+      ],
+      "correct_answer": "PFOS in 2010 and PFOA in 2020",
+      "explanation_hebrew": "PFOS נאסר כמעט לחלוטין ב־2010 ו־PFOA ב־2020."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “diluted” mean?",
+      "difficulty": "A",
+      "options": [
+        "Permanently destroyed by heat",
+        "Made more toxic through mixing",
+        "Spread through more water so the concentration becomes lower",
+        "Stored safely in medical equipment"
+      ],
+      "correct_answer": "Spread through more water so the concentration becomes lower",
+      "explanation_hebrew": "diluted פירושו מדולל: אותה כמות מתפזרת ביותר מים ולכן הריכוז הנמדד יורד."
+    },
+    {
+      "id": "A-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the report warn that lower river concentrations do not necessarily mean less PFAS exists in the environment?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את ההבדל בין ריכוז לכמות כוללת ולהתייחס לדילול ולזרימה לים.",
+      "expected_points": [
+        "PFAS break down extremely slowly",
+        "The chemicals may have been diluted rather than destroyed",
+        "Some contamination may have washed from rivers into the sea",
+        "The total environmental amount may therefore remain broadly unchanged"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence that restrictions worked and the reasons the Environment Agency says further regulation is still needed.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לשלב את נתוני הירידה עם אי־הוודאות והיקף משפחת PFAS.",
+      "expected_points": [
+        "PFOS concentrations fell 30% and PFOA concentrations fell 29% over ten years",
+        "Levels in fresh-water fish fell 49%",
+        "Around 15,000 other PFAS may exist and only about 200 are frequently used",
+        "The toxicity of many PFAS remains uncertain",
+        "The agency argues for monitoring and regulating PFAS as a group"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why is permanent removal of PFAS described as difficult in the UK?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין הן את העמידות הכימית והן את מגבלת מתקני ההשמדה.",
+      "expected_points": [
+        "The chemicals resist natural breakdown",
+        "High-temperature incineration is one of the few permanent destruction methods",
+        "Only two suitable incineration sites currently exist in the country"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining one benefit and one risk of PFAS use, using examples from the report.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג תכונה שימושית ודוגמה למוצר, מול נזק או סיכון בריאותי/סביבתי מתועד.",
+      "expected_points": [
+        "Useful properties include resistance to oil or water, low friction or electrochemical performance",
+        "Examples include outdoor clothing, cookware, firefighting foam, medical equipment or batteries",
+        "PFOS and PFOA have been linked to animal tissue damage and serious health conditions",
+        "Their persistence allows them to accumulate or remain in the environment"
+      ]
+    }
+  ]
+}
