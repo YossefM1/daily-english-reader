@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Students passing university assessments in minutes using AI, regulator warns",
+  "title": "From Paris to DC - why offices are being turned into apartments",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o",
-  "published_at": "2026-11-11T00:21:21+00:00",
-  "age_hours_at_selection": 1.9,
-  "word_count": 663,
-  "generated_at": "2026-11-11T02:15:22.638152+00:00",
-  "difficulty_reason": "Education-policy report with moderate sentence complexity, several quoted officials and useful B1/B2/C1 vocabulary; some UK context helps.",
+  "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo",
+  "published_at": "2026-11-12T00:05:40+00:00",
+  "age_hours_at_selection": 2.17,
+  "word_count": 902,
+  "generated_at": "2026-11-12T02:15:55.328762+00:00",
+  "difficulty_reason": "Business feature with moderate sentence complexity, several quoted experts and useful B1/B2/C1 vocabulary; some context about property markets helps.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "assessments",
-      "lemma": "assessment",
-      "level": "B2",
-      "hebrew": "הערכות, מטלות הערכה",
-      "explanation_hebrew": "מבחנים או מטלות שבודקים ידע",
-      "pronunciation_hebrew": "אַסֶסְמֶנְטְס",
-      "example": "Students complete assessments online."
-    },
-    {
-      "word": "regulator",
-      "lemma": "regulator",
-      "level": "C1",
-      "hebrew": "גוף פיקוח, רגולטור",
-      "explanation_hebrew": "גוף רשמי שמפקח על תחום",
-      "pronunciation_hebrew": "רֶגְיוּלֵייטוֹר",
-      "example": "The regulator warned universities."
-    },
-    {
-      "word": "unsupervised",
-      "lemma": "unsupervised",
-      "level": "B2",
-      "hebrew": "ללא השגחה, ללא פיקוח",
-      "explanation_hebrew": "בלי שמישהו משגיח",
-      "pronunciation_hebrew": "אַנְסוּפֶּרְוַייזְד",
-      "example": "Unsupervised exams are risky."
-    },
-    {
-      "word": "proportion",
-      "lemma": "proportion",
-      "level": "B2",
-      "hebrew": "חלק, שיעור",
-      "explanation_hebrew": "חלק מתוך השלם",
-      "pronunciation_hebrew": "פְּרוֹפּוֹרְשֶׁן",
-      "example": "A large proportion of students used AI."
-    },
-    {
-      "word": "credibility",
-      "lemma": "credibility",
-      "level": "C1",
-      "hebrew": "אמינות",
-      "explanation_hebrew": "המידה שבה אפשר להאמין למשהו",
-      "pronunciation_hebrew": "קְרֶדִיבִּילִיטִי",
-      "example": "This threatens the credibility of exams."
-    },
-    {
-      "word": "practical",
-      "lemma": "practical",
+      "word": "eventually",
+      "lemma": "eventually",
       "level": "B1",
-      "hebrew": "מעשי",
-      "explanation_hebrew": "קשור לעשייה ולא רק לתאוריה",
-      "pronunciation_hebrew": "פְּרַקְטִיקֶל",
-      "example": "Practical exams test real skills."
+      "hebrew": "לְבַסּוֹף",
+      "explanation_hebrew": "אחרי זמן מה, בסופו של דבר",
+      "pronunciation_hebrew": "אִיבֶנְצ'וּאַלִי",
+      "example": "She eventually agreed to help us."
     },
     {
-      "word": "institutions",
-      "lemma": "institution",
-      "level": "B2",
-      "hebrew": "מוסדות",
-      "explanation_hebrew": "ארגונים רשמיים כמו אוניברסיטאות",
-      "pronunciation_hebrew": "אִינְסְטִיטְיוּשֶׁנְז",
-      "example": "Many institutions changed their rules."
-    },
-    {
-      "word": "imposed",
-      "lemma": "impose",
-      "level": "C1",
-      "hebrew": "הוטל, נכפה",
-      "explanation_hebrew": "נקבע בכוח או בחובה",
-      "pronunciation_hebrew": "אִימְפּוֹזְד",
-      "example": "Caps could be imposed on numbers."
-    },
-    {
-      "word": "proposals",
-      "lemma": "proposal",
-      "level": "B2",
-      "hebrew": "הצעות",
-      "explanation_hebrew": "תוכניות שמוצעות לדיון",
-      "pronunciation_hebrew": "פְּרוֹפּוֹזֶלְז",
-      "example": "The proposals are being consulted on."
-    },
-    {
-      "word": "consulted",
-      "lemma": "consult",
-      "level": "B2",
-      "hebrew": "נמצא בהליך היוועצות",
-      "explanation_hebrew": "שואלים את דעת הציבור לפני החלטה",
-      "pronunciation_hebrew": "קוֹנְסַלְטֶד",
-      "example": "The plans are being consulted on."
-    },
-    {
-      "word": "excellence",
-      "lemma": "excellence",
-      "level": "B2",
-      "hebrew": "מצוינות",
-      "explanation_hebrew": "איכות גבוהה במיוחד",
-      "pronunciation_hebrew": "אֶקְסֶלֶנְס",
-      "example": "The charity gives awards for teaching excellence."
-    },
-    {
-      "word": "engagement",
-      "lemma": "engagement",
-      "level": "C1",
-      "hebrew": "מעורבות, מחויבות",
-      "explanation_hebrew": "השקעה ומעורבות פעילה",
-      "pronunciation_hebrew": "אֶנְגֵייגְ'מֶנְט",
-      "example": "The work showed limited engagement."
-    },
-    {
-      "word": "coursework",
-      "lemma": "coursework",
-      "level": "B2",
-      "hebrew": "עבודות הגשה במהלך הקורס",
-      "explanation_hebrew": "מטלות שעושים לאורך הלימודים ולא במבחן",
-      "pronunciation_hebrew": "קוֹרְסְוֶרְק",
-      "example": "Coursework can be done at home."
-    },
-    {
-      "word": "remote",
-      "lemma": "remote",
-      "level": "B2",
-      "hebrew": "מרחוק, מרוחק",
-      "explanation_hebrew": "מתבצע ממרחק ולא פנים אל פנים",
-      "pronunciation_hebrew": "רִימוֹט",
-      "example": "Remote exams were used during the pandemic."
-    },
-    {
-      "word": "strategy",
-      "lemma": "strategy",
-      "level": "B2",
-      "hebrew": "אסטרטגיה",
-      "explanation_hebrew": "תוכנית פעולה להשגת מטרה",
-      "pronunciation_hebrew": "סְטְרַטֶגִ'י",
-      "example": "He is the director of strategy."
-    },
-    {
-      "word": "undermine",
-      "lemma": "undermine",
-      "level": "C1",
-      "hebrew": "לערער, לחתור תחת",
-      "explanation_hebrew": "להחליש בהדרגה",
-      "pronunciation_hebrew": "אַנְדֶרְמַיין",
-      "example": "AI could undermine learning."
-    },
-    {
-      "word": "clarity",
-      "lemma": "clarity",
-      "level": "C1",
-      "hebrew": "בהירות",
-      "explanation_hebrew": "מצב שבו דבר ברור וקל להבנה",
-      "pronunciation_hebrew": "קְלַרִיטִי",
-      "example": "Students wanted more clarity."
-    },
-    {
-      "word": "varying",
-      "lemma": "vary",
-      "level": "B2",
-      "hebrew": "משתנים, ברמות שונות",
-      "explanation_hebrew": "שונים זה מזה",
-      "pronunciation_hebrew": "וֵוארִיִינְג",
-      "example": "Staff had varying levels of confidence."
-    },
-    {
-      "word": "grades",
-      "lemma": "grade",
+      "word": "imagination",
+      "lemma": "imagination",
       "level": "B1",
-      "hebrew": "ציונים",
-      "explanation_hebrew": "הערכה מספרית של ביצועים",
-      "pronunciation_hebrew": "גְּרֵיידְז",
-      "example": "They received similar grades."
+      "hebrew": "דִּמְיוֹן",
+      "explanation_hebrew": "היכולת לדמיין דברים במחשבה",
+      "pronunciation_hebrew": "אִימָגִ'ינֵיישֶׁן",
+      "example": "Use your imagination to picture the room."
     },
     {
-      "word": "assignments",
-      "lemma": "assignment",
+      "word": "appealing",
+      "lemma": "appealing",
       "level": "B2",
-      "hebrew": "מטלות, עבודות",
-      "explanation_hebrew": "משימות שמוטלות על תלמידים",
-      "pronunciation_hebrew": "אַסַיינְמֶנְטְס",
-      "example": "Staff received many similar assignments."
+      "hebrew": "מוֹשֵׁךְ",
+      "explanation_hebrew": "נעים ומושך את תשומת הלב",
+      "pronunciation_hebrew": "אַפִּילִינְג",
+      "example": "The job offer sounds very appealing."
     },
     {
-      "word": "polarised",
-      "lemma": "polarise",
+      "word": "upmarket",
+      "lemma": "upmarket",
       "level": "C1",
-      "hebrew": "מקוטב, מפולג",
-      "explanation_hebrew": "מחולק לשתי עמדות מנוגדות",
-      "pronunciation_hebrew": "פּוֹלַרַייזְד",
-      "example": "A polarised atmosphere grew."
+      "hebrew": "יֻקְרָתִי",
+      "explanation_hebrew": "יקר ואיכותי, מיועד לבעלי אמצעים",
+      "pronunciation_hebrew": "אַפְּמַרְקֶט",
+      "example": "They opened an upmarket restaurant downtown."
     },
     {
-      "word": "conscientious",
-      "lemma": "conscientious",
-      "level": "C1",
-      "hebrew": "מצפוני, בעל מצפון",
-      "explanation_hebrew": "אדם שעושה את הדבר הנכון בקפידה",
-      "pronunciation_hebrew": "קוֹנְשִיאֶנְשֶׁס",
-      "example": "Conscientious students avoided AI."
-    },
-    {
-      "word": "literacy",
-      "lemma": "literacy",
-      "level": "C1",
-      "hebrew": "אוריינות, שליטה בסיסית",
-      "explanation_hebrew": "היכולת להבין ולהשתמש בתחום",
-      "pronunciation_hebrew": "לִיטֶרַסִי",
-      "example": "AI literacy is important for students."
-    },
-    {
-      "word": "validity",
-      "lemma": "validity",
-      "level": "C1",
-      "hebrew": "תוקף, מהימנות",
-      "explanation_hebrew": "המידה שבה דבר אמין ותקף",
-      "pronunciation_hebrew": "וַלִידִיטִי",
-      "example": "Exams must keep their validity."
-    },
-    {
-      "word": "outdated",
-      "lemma": "outdated",
+      "word": "convert",
+      "lemma": "convert",
       "level": "B2",
-      "hebrew": "מיושן",
-      "explanation_hebrew": "לא מתאים עוד לזמן הנוכחי",
-      "pronunciation_hebrew": "אַאוּטְדֵייטֶד",
-      "example": "Outdated methods should be replaced."
+      "hebrew": "לְהַמִּיר",
+      "explanation_hebrew": "לשנות דבר מצורה אחת לאחרת",
+      "pronunciation_hebrew": "קוֹנְבֶרְט",
+      "example": "They plan to convert the barn into a house."
+    },
+    {
+      "word": "conversions",
+      "lemma": "conversion",
+      "level": "B2",
+      "hebrew": "הֲמָרוֹת",
+      "explanation_hebrew": "פעולות של שינוי דבר מצורה אחת לאחרת",
+      "pronunciation_hebrew": "קוֹנְבֶרְשֶׁנְס",
+      "example": "Office-to-home conversions are becoming common."
+    },
+    {
+      "word": "district",
+      "lemma": "district",
+      "level": "B1",
+      "hebrew": "מָחוֹז",
+      "explanation_hebrew": "אזור בתוך עיר או מדינה",
+      "pronunciation_hebrew": "דִיסְטְרִיקְט",
+      "example": "They live in the business district."
+    },
+    {
+      "word": "congregated",
+      "lemma": "congregate",
+      "level": "C1",
+      "hebrew": "הִתְקַבְּצוּ",
+      "explanation_hebrew": "התאספו יחד במקום אחד",
+      "pronunciation_hebrew": "קוֹנְגְרֶגֵייטֶד",
+      "example": "Crowds congregated in the main square."
+    },
+    {
+      "word": "skyscrapers",
+      "lemma": "skyscraper",
+      "level": "B2",
+      "hebrew": "גּוֹרְדֵי שְׁחָקִים",
+      "explanation_hebrew": "בניינים גבוהים מאוד",
+      "pronunciation_hebrew": "סְקַייסְקְרֵייפֶּרְס",
+      "example": "The city is full of tall skyscrapers."
+    },
+    {
+      "word": "mirroring",
+      "lemma": "mirror",
+      "level": "C1",
+      "hebrew": "מְשַׁקֵּף",
+      "explanation_hebrew": "דומה או משקף דבר אחר",
+      "pronunciation_hebrew": "מִירוֹרִינְג",
+      "example": "His behaviour was mirroring his father's."
+    },
+    {
+      "word": "unveiled",
+      "lemma": "unveil",
+      "level": "C1",
+      "hebrew": "חָשַׂף",
+      "explanation_hebrew": "הציג או גילה לראשונה לציבור",
+      "pronunciation_hebrew": "אַנְבֵיילְד",
+      "example": "The company unveiled its new product."
+    },
+    {
+      "word": "indicative",
+      "lemma": "indicative",
+      "level": "C1",
+      "hebrew": "מְעִיד עַל",
+      "explanation_hebrew": "שמראה או מרמז על דבר",
+      "pronunciation_hebrew": "אִינְדִיקָטִיב",
+      "example": "The results are indicative of a wider problem."
+    },
+    {
+      "word": "challenge",
+      "lemma": "challenge",
+      "level": "B1",
+      "hebrew": "אֶתְגָּר",
+      "explanation_hebrew": "משימה קשה הדורשת מאמץ",
+      "pronunciation_hebrew": "צַ'אלֶנְג'",
+      "example": "Learning a new language is a real challenge."
+    },
+    {
+      "word": "plumbing",
+      "lemma": "plumbing",
+      "level": "B2",
+      "hebrew": "אִינְסְטָלַצְיָה",
+      "explanation_hebrew": "מערכת הצינורות למים בבניין",
+      "pronunciation_hebrew": "פְּלַאמִינְג",
+      "example": "The old house needs new plumbing."
+    },
+    {
+      "word": "ceilings",
+      "lemma": "ceiling",
+      "level": "B1",
+      "hebrew": "תִּקְרוֹת",
+      "explanation_hebrew": "המשטח העליון של חדר",
+      "pronunciation_hebrew": "סִילִינְגְס",
+      "example": "The rooms have very high ceilings."
+    },
+    {
+      "word": "demand",
+      "lemma": "demand",
+      "level": "B1",
+      "hebrew": "בִּיקּוּשׁ",
+      "explanation_hebrew": "הרצון של אנשים לקנות או לקבל דבר",
+      "pronunciation_hebrew": "דִימַאנְד",
+      "example": "There is high demand for new homes."
+    },
+    {
+      "word": "plummeted",
+      "lemma": "plummet",
+      "level": "C1",
+      "hebrew": "צָנַח",
+      "explanation_hebrew": "ירד במהירות ובחדות",
+      "pronunciation_hebrew": "פְּלַאמֶטֶד",
+      "example": "House prices plummeted during the crisis."
+    },
+    {
+      "word": "vacancy",
+      "lemma": "vacancy",
+      "level": "B2",
+      "hebrew": "מְקוֹם פָּנוּי",
+      "explanation_hebrew": "מצב שבו מקום או משרה ריקים",
+      "pronunciation_hebrew": "וֵייקֶנְסִי",
+      "example": "The building has a high vacancy rate."
+    },
+    {
+      "word": "diversify",
+      "lemma": "diversify",
+      "level": "C1",
+      "hebrew": "לְגַוֵּן",
+      "explanation_hebrew": "להרחיב למגוון רחב יותר של דברים",
+      "pronunciation_hebrew": "דַייבֶרְסִיפַיי",
+      "example": "The company wants to diversify its products."
+    },
+    {
+      "word": "retain",
+      "lemma": "retain",
+      "level": "B2",
+      "hebrew": "לִשְׁמֹר",
+      "explanation_hebrew": "להמשיך להחזיק או לשמור על דבר",
+      "pronunciation_hebrew": "רִיטֵיין",
+      "example": "The city wants to retain large companies."
+    },
+    {
+      "word": "leisure",
+      "lemma": "leisure",
+      "level": "B1",
+      "hebrew": "פְּנַאי",
+      "explanation_hebrew": "זמן חופשי למנוחה ובידור",
+      "pronunciation_hebrew": "לֶז'ֶר",
+      "example": "They spend their leisure time hiking."
+    },
+    {
+      "word": "inspiration",
+      "lemma": "inspiration",
+      "level": "B2",
+      "hebrew": "הַשְׁרָאָה",
+      "explanation_hebrew": "מקור לרעיונות או למוטיבציה",
+      "pronunciation_hebrew": "אִינְסְפִּירֵיישֶׁן",
+      "example": "The design drew inspiration from nature."
+    },
+    {
+      "word": "fuelling",
+      "lemma": "fuel",
+      "level": "C1",
+      "hebrew": "מַזִּין",
+      "explanation_hebrew": "מעודד או מגביר תהליך",
+      "pronunciation_hebrew": "פְיוּאֶלִינְג",
+      "example": "Low taxes are fuelling new construction."
+    },
+    {
+      "word": "pipeline",
+      "lemma": "pipeline",
+      "level": "B2",
+      "hebrew": "בִּשְׁלַבֵּי תִכְנוּן",
+      "explanation_hebrew": "סדרת פרויקטים בהכנה או בדרך",
+      "pronunciation_hebrew": "פַּייפְּלַיין",
+      "example": "Several new projects are in the pipeline."
+    },
+    {
+      "word": "regulatory",
+      "lemma": "regulatory",
+      "level": "C1",
+      "hebrew": "רְגוּלָטוֹרִי",
+      "explanation_hebrew": "הקשור לכללים ולחוקים רשמיים",
+      "pronunciation_hebrew": "רֶגְיוּלָטוֹרִי",
+      "example": "The project must meet strict regulatory demands."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "assessments",
+      "word": "eventually",
       "type": "english_to_hebrew",
-      "question": "What does “assessments” mean?",
+      "question": "What does “eventually” mean?",
       "options": [
-        "הוטל, נכפה",
-        "מרחוק, מרוחק",
-        "הערכות, מטלות הערכה",
-        "חלק, שיעור"
+        "יוקרתי",
+        "לבסוף",
+        "מושך",
+        "דמיון"
       ],
-      "correct_answer": "הערכות, מטלות הערכה",
-      "explanation_hebrew": "“assessments” פירושו הערכות, מטלות הערכה."
+      "correct_answer": "לבסוף",
+      "explanation_hebrew": "“eventually” פירושו לבסוף."
     },
     {
       "id": "B-q2",
-      "word": "regulator",
+      "word": "imagination",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “גוף פיקוח, רגולטור”?",
+      "question": "איזו מילה באנגלית פירושה “דמיון”?",
       "options": [
-        "regulator",
-        "coursework",
-        "proportion",
-        "imposed"
+        "imagination",
+        "appealing",
+        "upmarket",
+        "convert"
       ],
-      "correct_answer": "regulator",
-      "explanation_hebrew": "המילה “regulator” פירושה גוף פיקוח, רגולטור."
+      "correct_answer": "imagination",
+      "explanation_hebrew": "המילה “imagination” פירושה דמיון."
     },
     {
       "id": "B-q3",
-      "word": "unsupervised",
+      "word": "appealing",
       "type": "english_to_hebrew",
-      "question": "What does “unsupervised” mean?",
+      "question": "What does “appealing” mean?",
       "options": [
-        "ללא השגחה, ללא פיקוח",
-        "נמצא בהליך היוועצות",
-        "מעשי",
-        "לערער, לחתור תחת"
+        "מושך",
+        "המרות",
+        "להמיר",
+        "יוקרתי"
       ],
-      "correct_answer": "ללא השגחה, ללא פיקוח",
-      "explanation_hebrew": "“unsupervised” פירושו ללא השגחה, ללא פיקוח."
+      "correct_answer": "מושך",
+      "explanation_hebrew": "“appealing” פירושו מושך."
     },
     {
       "id": "B-q4",
-      "word": "proportion",
+      "word": "upmarket",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “חלק, שיעור”?",
+      "question": "איזו מילה באנגלית פירושה “יוקרתי”?",
       "options": [
-        "consulted",
-        "practical",
-        "strategy",
-        "proportion"
+        "district",
+        "conversions",
+        "convert",
+        "upmarket"
       ],
-      "correct_answer": "proportion",
-      "explanation_hebrew": "המילה “proportion” פירושה חלק, שיעור."
+      "correct_answer": "upmarket",
+      "explanation_hebrew": "המילה “upmarket” פירושה יוקרתי."
     },
     {
       "id": "B-q5",
-      "word": "credibility",
+      "word": "convert",
       "type": "english_to_hebrew",
-      "question": "What does “credibility” mean?",
+      "question": "What does “convert” mean?",
       "options": [
-        "מעורבות, מחויבות",
-        "הוטל, נכפה",
-        "משתנים, ברמות שונות",
-        "אמינות"
+        "מחוז",
+        "להמיר",
+        "המרות",
+        "התקבצו"
       ],
-      "correct_answer": "אמינות",
-      "explanation_hebrew": "“credibility” פירושו אמינות."
+      "correct_answer": "להמיר",
+      "explanation_hebrew": "“convert” פירושו להמיר."
     },
     {
       "id": "B-q6",
-      "word": "practical",
+      "word": "conversions",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מעשי”?",
+      "question": "איזו מילה באנגלית פירושה “המרות”?",
       "options": [
-        "engagement",
-        "practical",
-        "clarity",
-        "imposed"
+        "conversions",
+        "skyscrapers",
+        "congregated",
+        "district"
       ],
-      "correct_answer": "practical",
-      "explanation_hebrew": "המילה “practical” פירושה מעשי."
+      "correct_answer": "conversions",
+      "explanation_hebrew": "המילה “conversions” פירושה המרות."
     },
     {
       "id": "B-q7",
-      "word": "institutions",
+      "word": "district",
       "type": "english_to_hebrew",
-      "question": "What does “institutions” mean?",
+      "question": "What does “district” mean?",
       "options": [
-        "מטלות, עבודות",
-        "נמצא בהליך היוועצות",
-        "מוסדות",
-        "מרחוק, מרוחק"
+        "גורדי שחקים",
+        "משקף",
+        "מחוז",
+        "התקבצו"
       ],
-      "correct_answer": "מוסדות",
-      "explanation_hebrew": "“institutions” פירושו מוסדות."
+      "correct_answer": "מחוז",
+      "explanation_hebrew": "“district” פירושו מחוז."
     },
     {
       "id": "B-q8",
-      "word": "imposed",
+      "word": "congregated",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “הוטל, נכפה”?",
+      "question": "איזו מילה באנגלית פירושה “התקבצו”?",
       "options": [
-        "consulted",
-        "grades",
-        "remote",
-        "imposed"
+        "skyscrapers",
+        "congregated",
+        "mirroring",
+        "unveiled"
       ],
-      "correct_answer": "imposed",
-      "explanation_hebrew": "המילה “imposed” פירושה הוטל, נכפה."
+      "correct_answer": "congregated",
+      "explanation_hebrew": "המילה “congregated” פירושה התקבצו."
     },
     {
       "id": "B-q9",
-      "word": "proposals",
+      "word": "skyscrapers",
       "type": "english_to_hebrew",
-      "question": "What does “proposals” mean?",
+      "question": "What does “skyscrapers” mean?",
       "options": [
-        "לערער, לחתור תחת",
-        "הצעות",
-        "מצפוני, בעל מצפון",
-        "מעורבות, מחויבות"
+        "חשף",
+        "גורדי שחקים",
+        "מעיד על",
+        "משקף"
       ],
-      "correct_answer": "הצעות",
-      "explanation_hebrew": "“proposals” פירושו הצעות."
+      "correct_answer": "גורדי שחקים",
+      "explanation_hebrew": "“skyscrapers” פירושו גורדי שחקים."
     },
     {
       "id": "B-q10",
-      "word": "consulted",
+      "word": "mirroring",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “נמצא בהליך היוועצות”?",
+      "question": "איזו מילה באנגלית פירושה “משקף”?",
       "options": [
-        "polarised",
-        "engagement",
-        "undermine",
-        "consulted"
+        "mirroring",
+        "indicative",
+        "unveiled",
+        "challenge"
       ],
-      "correct_answer": "consulted",
-      "explanation_hebrew": "המילה “consulted” פירושה נמצא בהליך היוועצות."
+      "correct_answer": "mirroring",
+      "explanation_hebrew": "המילה “mirroring” פירושה משקף."
     },
     {
       "id": "B-q11",
-      "word": "excellence",
+      "word": "unveiled",
       "type": "english_to_hebrew",
-      "question": "What does “excellence” mean?",
+      "question": "What does “unveiled” mean?",
       "options": [
-        "משתנים, ברמות שונות",
-        "תוקף, מהימנות",
-        "מרחוק, מרוחק",
-        "מצוינות"
+        "חשף",
+        "אתגר",
+        "אינסטלציה",
+        "מעיד על"
       ],
-      "correct_answer": "מצוינות",
-      "explanation_hebrew": "“excellence” פירושו מצוינות."
+      "correct_answer": "חשף",
+      "explanation_hebrew": "“unveiled” פירושו חשף."
     },
     {
       "id": "B-q12",
-      "word": "engagement",
+      "word": "indicative",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מעורבות, מחויבות”?",
+      "question": "איזו מילה באנגלית פירושה “מעיד על”?",
       "options": [
-        "varying",
-        "literacy",
-        "engagement",
-        "remote"
+        "plumbing",
+        "challenge",
+        "ceilings",
+        "indicative"
       ],
-      "correct_answer": "engagement",
-      "explanation_hebrew": "המילה “engagement” פירושה מעורבות, מחויבות."
+      "correct_answer": "indicative",
+      "explanation_hebrew": "המילה “indicative” פירושה מעיד על."
     },
     {
       "id": "B-q13",
-      "word": "coursework",
+      "word": "challenge",
       "type": "english_to_hebrew",
-      "question": "What does “coursework” mean?",
+      "question": "What does “challenge” mean?",
       "options": [
-        "הערכות, מטלות הערכה",
-        "לערער, לחתור תחת",
-        "עבודות הגשה במהלך הקורס",
-        "מטלות, עבודות"
+        "אתגר",
+        "ביקוש",
+        "אינסטלציה",
+        "תקרות"
       ],
-      "correct_answer": "עבודות הגשה במהלך הקורס",
-      "explanation_hebrew": "“coursework” פירושו עבודות הגשה במהלך הקורס."
+      "correct_answer": "אתגר",
+      "explanation_hebrew": "“challenge” פירושו אתגר."
     },
     {
       "id": "B-q14",
-      "word": "remote",
+      "word": "plumbing",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מרחוק, מרוחק”?",
+      "question": "איזו מילה באנגלית פירושה “אינסטלציה”?",
       "options": [
-        "outdated",
-        "remote",
-        "undermine",
-        "assignments"
+        "plumbing",
+        "demand",
+        "ceilings",
+        "plummeted"
       ],
-      "correct_answer": "remote",
-      "explanation_hebrew": "המילה “remote” פירושה מרחוק, מרוחק."
+      "correct_answer": "plumbing",
+      "explanation_hebrew": "המילה “plumbing” פירושה אינסטלציה."
     },
     {
       "id": "B-q15",
-      "word": "strategy",
+      "word": "ceilings",
       "type": "english_to_hebrew",
-      "question": "What does “strategy” mean?",
+      "question": "What does “ceilings” mean?",
       "options": [
-        "ללא השגחה, ללא פיקוח",
-        "משתנים, ברמות שונות",
-        "אסטרטגיה",
-        "מצפוני, בעל מצפון"
+        "צנח",
+        "מקום פנוי",
+        "תקרות",
+        "ביקוש"
       ],
-      "correct_answer": "אסטרטגיה",
-      "explanation_hebrew": "“strategy” פירושו אסטרטגיה."
+      "correct_answer": "תקרות",
+      "explanation_hebrew": "“ceilings” פירושו תקרות."
     },
     {
       "id": "B-q16",
-      "word": "undermine",
+      "word": "demand",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “לערער, לחתור תחת”?",
+      "question": "איזו מילה באנגלית פירושה “ביקוש”?",
       "options": [
-        "regulator",
-        "conscientious",
-        "undermine",
-        "varying"
+        "vacancy",
+        "demand",
+        "plummeted",
+        "diversify"
       ],
-      "correct_answer": "undermine",
-      "explanation_hebrew": "המילה “undermine” פירושה לערער, לחתור תחת."
+      "correct_answer": "demand",
+      "explanation_hebrew": "המילה “demand” פירושה ביקוש."
     },
     {
       "id": "B-q17",
-      "word": "clarity",
+      "word": "plummeted",
       "type": "english_to_hebrew",
-      "question": "What does “clarity” mean?",
+      "question": "What does “plummeted” mean?",
       "options": [
-        "תוקף, מהימנות",
-        "מטלות, עבודות",
-        "בהירות",
-        "אמינות"
+        "לשמור",
+        "מקום פנוי",
+        "צנח",
+        "לגוון"
       ],
-      "correct_answer": "בהירות",
-      "explanation_hebrew": "“clarity” פירושו בהירות."
+      "correct_answer": "צנח",
+      "explanation_hebrew": "“plummeted” פירושו צנח."
     },
     {
       "id": "B-q18",
-      "word": "varying",
+      "word": "vacancy",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “משתנים, ברמות שונות”?",
+      "question": "איזו מילה באנגלית פירושה “מקום פנוי”?",
       "options": [
-        "assignments",
-        "varying",
-        "validity",
-        "proportion"
+        "retain",
+        "leisure",
+        "diversify",
+        "vacancy"
       ],
-      "correct_answer": "varying",
-      "explanation_hebrew": "המילה “varying” פירושה משתנים, ברמות שונות."
+      "correct_answer": "vacancy",
+      "explanation_hebrew": "המילה “vacancy” פירושה מקום פנוי."
     },
     {
       "id": "B-q19",
-      "word": "grades",
+      "word": "diversify",
       "type": "english_to_hebrew",
-      "question": "What does “grades” mean?",
+      "question": "What does “diversify” mean?",
       "options": [
-        "הערכות, מטלות הערכה",
-        "מוסדות",
-        "מצפוני, בעל מצפון",
-        "ציונים"
+        "לשמור",
+        "פנאי",
+        "לגוון",
+        "השראה"
       ],
-      "correct_answer": "ציונים",
-      "explanation_hebrew": "“grades” פירושו ציונים."
+      "correct_answer": "לגוון",
+      "explanation_hebrew": "“diversify” פירושו לגוון."
     },
     {
       "id": "B-q20",
-      "word": "assignments",
+      "word": "retain",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מטלות, עבודות”?",
+      "question": "איזו מילה באנגלית פירושה “לשמור”?",
       "options": [
-        "conscientious",
-        "assessments",
-        "assignments",
-        "practical"
+        "fuelling",
+        "inspiration",
+        "retain",
+        "leisure"
       ],
-      "correct_answer": "assignments",
-      "explanation_hebrew": "המילה “assignments” פירושה מטלות, עבודות."
+      "correct_answer": "retain",
+      "explanation_hebrew": "המילה “retain” פירושה לשמור."
     },
     {
       "id": "B-q21",
-      "word": "polarised",
+      "word": "leisure",
       "type": "english_to_hebrew",
-      "question": "What does “polarised” mean?",
+      "question": "What does “leisure” mean?",
       "options": [
-        "מקוטב, מפולג",
-        "ללא השגחה, ללא פיקוח",
-        "הצעות",
-        "תוקף, מהימנות"
+        "מזין",
+        "בשלבי תכנון",
+        "השראה",
+        "פנאי"
       ],
-      "correct_answer": "מקוטב, מפולג",
-      "explanation_hebrew": "“polarised” פירושו מקוטב, מפולג."
+      "correct_answer": "פנאי",
+      "explanation_hebrew": "“leisure” פירושו פנאי."
     },
     {
       "id": "B-q22",
-      "word": "conscientious",
+      "word": "inspiration",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מצפוני, בעל מצפון”?",
+      "question": "איזו מילה באנגלית פירושה “השראה”?",
       "options": [
-        "validity",
-        "imposed",
-        "conscientious",
-        "unsupervised"
+        "regulatory",
+        "inspiration",
+        "pipeline",
+        "fuelling"
       ],
-      "correct_answer": "conscientious",
-      "explanation_hebrew": "המילה “conscientious” פירושה מצפוני, בעל מצפון."
+      "correct_answer": "inspiration",
+      "explanation_hebrew": "המילה “inspiration” פירושה השראה."
     },
     {
       "id": "B-q23",
-      "word": "literacy",
+      "word": "fuelling",
       "type": "english_to_hebrew",
-      "question": "What does “literacy” mean?",
+      "question": "What does “fuelling” mean?",
       "options": [
-        "מצוינות",
-        "אוריינות, שליטה בסיסית",
-        "הערכות, מטלות הערכה",
-        "אמינות"
+        "בשלבי תכנון",
+        "לבסוף",
+        "מזין",
+        "רגולטורי"
       ],
-      "correct_answer": "אוריינות, שליטה בסיסית",
-      "explanation_hebrew": "“literacy” פירושו אוריינות, שליטה בסיסית."
+      "correct_answer": "מזין",
+      "explanation_hebrew": "“fuelling” פירושו מזין."
     },
     {
       "id": "B-q24",
-      "word": "validity",
+      "word": "pipeline",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “תוקף, מהימנות”?",
+      "question": "איזו מילה באנגלית פירושה “בשלבי תכנון”?",
       "options": [
-        "validity",
-        "assessments",
-        "credibility",
-        "consulted"
+        "eventually",
+        "regulatory",
+        "imagination",
+        "pipeline"
       ],
-      "correct_answer": "validity",
-      "explanation_hebrew": "המילה “validity” פירושה תוקף, מהימנות."
+      "correct_answer": "pipeline",
+      "explanation_hebrew": "המילה “pipeline” פירושה בשלבי תכנון."
     },
     {
       "id": "B-q25",
-      "word": "outdated",
+      "word": "regulatory",
       "type": "english_to_hebrew",
-      "question": "What does “outdated” mean?",
+      "question": "What does “regulatory” mean?",
       "options": [
-        "ללא השגחה, ללא פיקוח",
-        "מיושן",
-        "עבודות הגשה במהלך הקורס",
-        "מוסדות"
+        "מושך",
+        "לבסוף",
+        "דמיון",
+        "רגולטורי"
       ],
-      "correct_answer": "מיושן",
-      "explanation_hebrew": "“outdated” פירושו מיושן."
+      "correct_answer": "רגולטורי",
+      "explanation_hebrew": "“regulatory” פירושו רגולטורי."
     }
   ]
 }
