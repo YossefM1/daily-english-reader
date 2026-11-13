@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-13",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+  "published_at": "2026-11-13T00:13:35+00:00",
+  "age_hours_at_selection": 2.0,
+  "word_count": 889,
+  "generated_at": "2026-11-13T02:13:28.073585+00:00",
+  "difficulty_reason": "כתבה ניתוחית על טכנולוגיה וחברה, עם משפטים בינוניים ואוצר מילים B1/B2/C1.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "property",
+      "lemma": "property",
+      "level": "B1",
+      "hebrew": "נכס / דירה",
+      "explanation_hebrew": "בית או מבנה שאפשר לקנות או למכור",
+      "pronunciation_hebrew": "פְּרוֹפֶּרְטִי",
+      "example": "They are selling their property in London."
+    },
+    {
+      "word": "enhance",
+      "lemma": "enhance",
+      "level": "B2",
+      "hebrew": "לשפר / לשדרג",
+      "explanation_hebrew": "לעשות משהו טוב יותר",
+      "pronunciation_hebrew": "אֶנְהָאנְס",
+      "example": "The agent used software to enhance the photos."
+    },
+    {
+      "word": "appealing",
+      "lemma": "appeal",
+      "level": "B2",
+      "hebrew": "מושך / מפתה",
+      "explanation_hebrew": "נראה טוב וגורם לרצות אותו",
+      "pronunciation_hebrew": "אֶפִּילִינְג",
+      "example": "They made the home look more appealing."
+    },
+    {
+      "word": "visualise",
+      "lemma": "visualise",
+      "level": "B2",
+      "hebrew": "לדמיין / להמחיש",
+      "explanation_hebrew": "לראות משהו בדמיון",
+      "pronunciation_hebrew": "וִיזְ'וּאַלַייְז",
+      "example": "The images help buyers visualise the space."
+    },
+    {
+      "word": "potential",
+      "lemma": "potential",
+      "level": "B2",
+      "hebrew": "פוטנציאל",
+      "explanation_hebrew": "מה שמשהו יכול להפוך להיות",
+      "pronunciation_hebrew": "פּוֹטֶנְשְל",
+      "example": "Buyers can see the potential of the house."
+    },
+    {
+      "word": "mislead",
+      "lemma": "mislead",
+      "level": "C1",
+      "hebrew": "להטעות",
+      "explanation_hebrew": "לגרום למישהו להאמין במשהו לא נכון",
+      "pronunciation_hebrew": "מִיסְלִיד",
+      "example": "Edited photos can mislead prospective buyers."
+    },
+    {
+      "word": "prospective",
+      "lemma": "prospective",
+      "level": "C1",
+      "hebrew": "פוטנציאלי / עתידי",
+      "explanation_hebrew": "מישהו שעשוי להיות לקוח או קונה",
+      "pronunciation_hebrew": "פְּרוֹסְפֶּקְטִיב",
+      "example": "A prospective buyer came to view the flat."
+    },
+    {
+      "word": "trend",
+      "lemma": "trend",
+      "level": "B1",
+      "hebrew": "מגמה / טרנד",
+      "explanation_hebrew": "כיוון שמתפתח ונעשה נפוץ",
+      "pronunciation_hebrew": "טְרֶנְד",
+      "example": "Using AI in listings is a growing trend."
+    },
+    {
+      "word": "dubbed",
+      "lemma": "dub",
+      "level": "C1",
+      "hebrew": "כונה / נקרא",
+      "explanation_hebrew": "ניתן לו שם או כינוי",
+      "pronunciation_hebrew": "דַּאבְּד",
+      "example": "The practice was dubbed 'housefishing'."
+    },
+    {
+      "word": "enhancement",
+      "lemma": "enhance",
+      "level": "C1",
+      "hebrew": "שיפור / שדרוג",
+      "explanation_hebrew": "הפיכת משהו לטוב יותר",
+      "pronunciation_hebrew": "אֶנְהָאנְסְמֶנְט",
+      "example": "Too much enhancement can be misleading."
+    },
+    {
+      "word": "decor",
+      "lemma": "decor",
+      "level": "B2",
+      "hebrew": "עיצוב פנים",
+      "explanation_hebrew": "הדרך שבה חדר מעוצב ומסודר",
+      "pronunciation_hebrew": "דֵּייְקוֹר",
+      "example": "The decor in the photos was totally different."
+    },
+    {
+      "word": "structural",
+      "lemma": "structure",
+      "level": "C1",
+      "hebrew": "מבני",
+      "explanation_hebrew": "קשור למבנה של הבניין עצמו",
+      "pronunciation_hebrew": "סְטְרַקְצֶ'רָל",
+      "example": "Some structural features were changed in the image."
+    },
+    {
+      "word": "noticeably",
+      "lemma": "notice",
+      "level": "B2",
+      "hebrew": "באופן ניכר",
+      "explanation_hebrew": "בצורה שקל לשים לב אליה",
+      "pronunciation_hebrew": "נוֹטִיסֶבְּלִי",
+      "example": "The windows were noticeably smaller in reality."
+    },
+    {
+      "word": "comparison",
+      "lemma": "compare",
+      "level": "B2",
+      "hebrew": "השוואה",
+      "explanation_hebrew": "בדיקה של ההבדלים בין דברים",
+      "pronunciation_hebrew": "קוֹמְפָּרִיסְן",
+      "example": "She took photos for comparison."
+    },
+    {
+      "word": "frustrating",
+      "lemma": "frustrate",
+      "level": "B2",
+      "hebrew": "מתסכל",
+      "explanation_hebrew": "גורם לכעס ואכזבה",
+      "pronunciation_hebrew": "פְרַסְטְרֵייְטִינְג",
+      "example": "It was frustrating to waste so much time."
+    },
+    {
+      "word": "accessible",
+      "lemma": "access",
+      "level": "B2",
+      "hebrew": "נגיש / זמין",
+      "explanation_hebrew": "קל להשיג או להשתמש בו",
+      "pronunciation_hebrew": "אַקְסֶסִיבְּל",
+      "example": "AI tools have made editing more accessible."
+    },
+    {
+      "word": "quantify",
+      "lemma": "quantify",
+      "level": "C1",
+      "hebrew": "לכמת / למדוד",
+      "explanation_hebrew": "למדוד משהו במספרים",
+      "pronunciation_hebrew": "קְוָונְטִיפַיי",
+      "example": "It is hard to quantify how common it is."
+    },
+    {
+      "word": "guidance",
+      "lemma": "guide",
+      "level": "B2",
+      "hebrew": "הנחיה / הכוונה",
+      "explanation_hebrew": "עצות וכללים כיצד לפעול",
+      "pronunciation_hebrew": "גַיְדֶנְס",
+      "example": "The group issued guidance on using AI."
+    },
+    {
+      "word": "survey",
+      "lemma": "survey",
+      "level": "B2",
+      "hebrew": "סקר",
+      "explanation_hebrew": "איסוף דעות או מידע מקבוצת אנשים",
+      "pronunciation_hebrew": "סֶרְוֵוי",
+      "example": "A recent survey asked homebuyers about photos."
+    },
+    {
+      "word": "surge",
+      "lemma": "surge",
+      "level": "C1",
+      "hebrew": "זינוק / גל",
+      "explanation_hebrew": "עלייה חדה ומהירה",
+      "pronunciation_hebrew": "סֶרְג'",
+      "example": "He has seen a surge of AI-edited images."
+    },
+    {
+      "word": "declutter",
+      "lemma": "declutter",
+      "level": "C1",
+      "hebrew": "לפנות / לסדר",
+      "explanation_hebrew": "להסיר דברים מיותרים ממקום",
+      "pronunciation_hebrew": "דִּיקְלַאטֶר",
+      "example": "AI can declutter a busy room in a photo."
+    },
+    {
+      "word": "clutter",
+      "lemma": "clutter",
+      "level": "B2",
+      "hebrew": "בלגן / עומס",
+      "explanation_hebrew": "הרבה חפצים מפוזרים ללא סדר",
+      "pronunciation_hebrew": "קְלַאטֶר",
+      "example": "The room was emptied of toys and clutter."
+    },
+    {
+      "word": "acknowledged",
+      "lemma": "acknowledge",
+      "level": "C1",
+      "hebrew": "הודה / הכיר",
+      "explanation_hebrew": "אישר שמשהו נכון",
+      "pronunciation_hebrew": "אַקְנוֹלֶגְ'ד",
+      "example": "The firm acknowledged the use of AI."
+    },
+    {
+      "word": "fundamental",
+      "lemma": "fundamental",
+      "level": "C1",
+      "hebrew": "בסיסי / יסודי",
+      "explanation_hebrew": "החלק החשוב והעיקרי של משהו",
+      "pronunciation_hebrew": "פַנְדָמֶנְטָל",
+      "example": "They never changed the fundamental features."
+    },
+    {
+      "word": "consumers",
+      "lemma": "consumer",
+      "level": "B2",
+      "hebrew": "צרכנים",
+      "explanation_hebrew": "אנשים שקונים מוצרים או שירותים",
+      "pronunciation_hebrew": "קוֹנְסְיוּמֶרְז",
+      "example": "Hiding features could mislead consumers."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "property",
+      "type": "english_to_hebrew",
+      "question": "What does “property” mean?",
+      "options": [
+        "מגמה / טרנד",
+        "לשפר / לשדרג",
+        "לפנות / לסדר",
+        "נכס / דירה"
+      ],
+      "correct_answer": "נכס / דירה",
+      "explanation_hebrew": "“property” פירושו נכס / דירה."
+    },
+    {
+      "id": "B-q2",
+      "word": "enhance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לשפר / לשדרג”?",
+      "options": [
+        "dubbed",
+        "enhance",
+        "structural",
+        "frustrating"
+      ],
+      "correct_answer": "enhance",
+      "explanation_hebrew": "המילה “enhance” בעברית היא לשפר / לשדרג."
+    },
+    {
+      "id": "B-q3",
+      "word": "appealing",
+      "type": "english_to_hebrew",
+      "question": "What does “appealing” mean?",
+      "options": [
+        "לכמת / למדוד",
+        "נגיש / זמין",
+        "מושך / מפתה",
+        "לדמיין / להמחיש"
+      ],
+      "correct_answer": "מושך / מפתה",
+      "explanation_hebrew": "“appealing” פירושו מושך / מפתה."
+    },
+    {
+      "id": "B-q4",
+      "word": "visualise",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לדמיין / להמחיש”?",
+      "options": [
+        "visualise",
+        "prospective",
+        "enhance",
+        "accessible"
+      ],
+      "correct_answer": "visualise",
+      "explanation_hebrew": "המילה “visualise” בעברית היא לדמיין / להמחיש."
+    },
+    {
+      "id": "B-q5",
+      "word": "potential",
+      "type": "english_to_hebrew",
+      "question": "What does “potential” mean?",
+      "options": [
+        "שיפור / שדרוג",
+        "פוטנציאל",
+        "לפנות / לסדר",
+        "מבני"
+      ],
+      "correct_answer": "פוטנציאל",
+      "explanation_hebrew": "“potential” פירושו פוטנציאל."
+    },
+    {
+      "id": "B-q6",
+      "word": "mislead",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “להטעות”?",
+      "options": [
+        "dubbed",
+        "prospective",
+        "mislead",
+        "quantify"
+      ],
+      "correct_answer": "mislead",
+      "explanation_hebrew": "המילה “mislead” בעברית היא להטעות."
+    },
+    {
+      "id": "B-q7",
+      "word": "prospective",
+      "type": "english_to_hebrew",
+      "question": "What does “prospective” mean?",
+      "options": [
+        "לכמת / למדוד",
+        "מתסכל",
+        "הודה / הכיר",
+        "פוטנציאלי / עתידי"
+      ],
+      "correct_answer": "פוטנציאלי / עתידי",
+      "explanation_hebrew": "“prospective” פירושו פוטנציאלי / עתידי."
+    },
+    {
+      "id": "B-q8",
+      "word": "trend",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מגמה / טרנד”?",
+      "options": [
+        "trend",
+        "prospective",
+        "enhancement",
+        "appealing"
+      ],
+      "correct_answer": "trend",
+      "explanation_hebrew": "המילה “trend” בעברית היא מגמה / טרנד."
+    },
+    {
+      "id": "B-q9",
+      "word": "dubbed",
+      "type": "english_to_hebrew",
+      "question": "What does “dubbed” mean?",
+      "options": [
+        "נגיש / זמין",
+        "נכס / דירה",
+        "לכמת / למדוד",
+        "כונה / נקרא"
+      ],
+      "correct_answer": "כונה / נקרא",
+      "explanation_hebrew": "“dubbed” פירושו כונה / נקרא."
+    },
+    {
+      "id": "B-q10",
+      "word": "enhancement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שיפור / שדרוג”?",
+      "options": [
+        "guidance",
+        "mislead",
+        "frustrating",
+        "enhancement"
+      ],
+      "correct_answer": "enhancement",
+      "explanation_hebrew": "המילה “enhancement” בעברית היא שיפור / שדרוג."
+    },
+    {
+      "id": "B-q11",
+      "word": "decor",
+      "type": "english_to_hebrew",
+      "question": "What does “decor” mean?",
+      "options": [
+        "להטעות",
+        "פוטנציאלי / עתידי",
+        "עיצוב פנים",
+        "מגמה / טרנד"
+      ],
+      "correct_answer": "עיצוב פנים",
+      "explanation_hebrew": "“decor” פירושו עיצוב פנים."
+    },
+    {
+      "id": "B-q12",
+      "word": "structural",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מבני”?",
+      "options": [
+        "guidance",
+        "clutter",
+        "consumers",
+        "structural"
+      ],
+      "correct_answer": "structural",
+      "explanation_hebrew": "המילה “structural” בעברית היא מבני."
+    },
+    {
+      "id": "B-q13",
+      "word": "noticeably",
+      "type": "english_to_hebrew",
+      "question": "What does “noticeably” mean?",
+      "options": [
+        "עיצוב פנים",
+        "באופן ניכר",
+        "זינוק / גל",
+        "פוטנציאל"
+      ],
+      "correct_answer": "באופן ניכר",
+      "explanation_hebrew": "“noticeably” פירושו באופן ניכר."
+    },
+    {
+      "id": "B-q14",
+      "word": "comparison",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “השוואה”?",
+      "options": [
+        "fundamental",
+        "quantify",
+        "comparison",
+        "potential"
+      ],
+      "correct_answer": "comparison",
+      "explanation_hebrew": "המילה “comparison” בעברית היא השוואה."
+    },
+    {
+      "id": "B-q15",
+      "word": "frustrating",
+      "type": "english_to_hebrew",
+      "question": "What does “frustrating” mean?",
+      "options": [
+        "לשפר / לשדרג",
+        "מתסכל",
+        "סקר",
+        "צרכנים"
+      ],
+      "correct_answer": "מתסכל",
+      "explanation_hebrew": "“frustrating” פירושו מתסכל."
+    },
+    {
+      "id": "B-q16",
+      "word": "accessible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נגיש / זמין”?",
+      "options": [
+        "accessible",
+        "guidance",
+        "trend",
+        "noticeably"
+      ],
+      "correct_answer": "accessible",
+      "explanation_hebrew": "המילה “accessible” בעברית היא נגיש / זמין."
+    },
+    {
+      "id": "B-q17",
+      "word": "quantify",
+      "type": "english_to_hebrew",
+      "question": "What does “quantify” mean?",
+      "options": [
+        "השוואה",
+        "לכמת / למדוד",
+        "בסיסי / יסודי",
+        "מתסכל"
+      ],
+      "correct_answer": "לכמת / למדוד",
+      "explanation_hebrew": "“quantify” פירושו לכמת / למדוד."
+    },
+    {
+      "id": "B-q18",
+      "word": "guidance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הנחיה / הכוונה”?",
+      "options": [
+        "guidance",
+        "fundamental",
+        "quantify",
+        "clutter"
+      ],
+      "correct_answer": "guidance",
+      "explanation_hebrew": "המילה “guidance” בעברית היא הנחיה / הכוונה."
+    },
+    {
+      "id": "B-q19",
+      "word": "survey",
+      "type": "english_to_hebrew",
+      "question": "What does “survey” mean?",
+      "options": [
+        "פוטנציאלי / עתידי",
+        "לשפר / לשדרג",
+        "סקר",
+        "הודה / הכיר"
+      ],
+      "correct_answer": "סקר",
+      "explanation_hebrew": "“survey” פירושו סקר."
+    },
+    {
+      "id": "B-q20",
+      "word": "surge",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זינוק / גל”?",
+      "options": [
+        "potential",
+        "decor",
+        "fundamental",
+        "surge"
+      ],
+      "correct_answer": "surge",
+      "explanation_hebrew": "המילה “surge” בעברית היא זינוק / גל."
+    },
+    {
+      "id": "B-q21",
+      "word": "declutter",
+      "type": "english_to_hebrew",
+      "question": "What does “declutter” mean?",
+      "options": [
+        "מגמה / טרנד",
+        "לפנות / לסדר",
+        "לדמיין / להמחיש",
+        "מתסכל"
+      ],
+      "correct_answer": "לפנות / לסדר",
+      "explanation_hebrew": "“declutter” פירושו לפנות / לסדר."
+    },
+    {
+      "id": "B-q22",
+      "word": "clutter",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בלגן / עומס”?",
+      "options": [
+        "potential",
+        "survey",
+        "clutter",
+        "acknowledged"
+      ],
+      "correct_answer": "clutter",
+      "explanation_hebrew": "המילה “clutter” בעברית היא בלגן / עומס."
+    },
+    {
+      "id": "B-q23",
+      "word": "acknowledged",
+      "type": "english_to_hebrew",
+      "question": "What does “acknowledged” mean?",
+      "options": [
+        "הודה / הכיר",
+        "להטעות",
+        "שיפור / שדרוג",
+        "פוטנציאלי / עתידי"
+      ],
+      "correct_answer": "הודה / הכיר",
+      "explanation_hebrew": "“acknowledged” פירושו הודה / הכיר."
+    },
+    {
+      "id": "B-q24",
+      "word": "fundamental",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בסיסי / יסודי”?",
+      "options": [
+        "fundamental",
+        "survey",
+        "declutter",
+        "noticeably"
+      ],
+      "correct_answer": "fundamental",
+      "explanation_hebrew": "המילה “fundamental” בעברית היא בסיסי / יסודי."
+    },
+    {
+      "id": "B-q25",
+      "word": "consumers",
+      "type": "english_to_hebrew",
+      "question": "What does “consumers” mean?",
+      "options": [
+        "צרכנים",
+        "מתסכל",
+        "בלגן / עומס",
+        "שיפור / שדרוג"
+      ],
+      "correct_answer": "צרכנים",
+      "explanation_hebrew": "“consumers” פירושו צרכנים."
+    }
+  ]
+}
