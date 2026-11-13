@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-13",
+  "article_id": "B",
+  "article_title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central question does the report examine?",
+      "difficulty": "B",
+      "options": [
+        "Whether AI-enhanced property photos help buyers visualise potential or mislead them",
+        "Whether online property sites should stop showing photographs",
+        "Why estate agents no longer use wide-angle lenses",
+        "How buyers can purchase homes without visiting them"
+      ],
+      "correct_answer": "Whether AI-enhanced property photos help buyers visualise potential or mislead them",
+      "explanation_hebrew": "הכתבה בוחנת את הגבול בין שיפור לגיטימי של תמונות נכס לבין הטעיית קונים אפשריים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What surprised Olivia Nicole when she viewed the house in person?",
+      "difficulty": "B",
+      "options": [
+        "The house had already been sold",
+        "The agent had added an extra bedroom",
+        "The rooms, decor and some structural features differed from the listing images",
+        "The property was in a different part of London"
+      ],
+      "correct_answer": "The rooms, decor and some structural features differed from the listing images",
+      "explanation_hebrew": "אוליביה גילתה שהחדרים קטנים יותר, העיצוב שונה וגם פרטים מבניים לא תאמו לתמונות."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “housefishing” mean in the report?",
+      "difficulty": "B",
+      "options": [
+        "Searching for a home only near water",
+        "Using misleadingly enhanced images to make a property look better than it is",
+        "Buying a house through a social-media channel",
+        "Removing furniture before an in-person viewing"
+      ],
+      "correct_answer": "Using misleadingly enhanced images to make a property look better than it is",
+      "explanation_hebrew": "housefishing הוא כינוי לשימוש בתמונות משופרות שמציגות נכס באופן מטעה ביחס למציאות."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to the survey cited, what share of recent UK homebuyers had viewed a property with flattering digital enhancements?",
+      "difficulty": "B",
+      "options": [
+        "One in fifty",
+        "One in ten",
+        "One in five",
+        "One in two"
+      ],
+      "correct_answer": "One in five",
+      "explanation_hebrew": "בסקר של 906 רוכשי בתים בבריטניה, אחד מכל חמישה דיווח שראה נכס שתמונותיו שופרו דיגיטלית."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which use of AI does Jack Bushrod regard as acceptable?",
+      "difficulty": "B",
+      "options": [
+        "Removing a structural pillar",
+        "Adding a window that does not exist",
+        "Hiding cracks in floor tiles",
+        "Adding furniture to an empty room to show its potential"
+      ],
+      "correct_answer": "Adding furniture to an empty room to show its potential",
+      "explanation_hebrew": "בושרוד מקבל שינויים כמו הוספת רהיטים לחדר ריק או סידור עומס, כל עוד אינם מטעים."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “jump on the bandwagon” suggest about estate agents?",
+      "difficulty": "B",
+      "options": [
+        "They may copy a growing trend because others are doing it",
+        "They will stop advertising homes online",
+        "They will physically travel together to viewings",
+        "They may return to film cameras"
+      ],
+      "correct_answer": "They may copy a growing trend because others are doing it",
+      "explanation_hebrew": "הביטוי jump on the bandwagon מתאר הצטרפות למגמה פופולרית משום שאחרים כבר אימצו אותה."
+    },
+    {
+      "id": "B-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did Olivia feel the unclear use of AI had wasted her time?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין הפער בתמונות, ההגעה לצפייה והמחיר האישי ששילמה.",
+      "expected_points": [
+        "The listing did not clearly disclose that its images were AI-enhanced",
+        "The real rooms and features differed substantially from the pictures",
+        "She took several hours off work to attend the viewing",
+        "She later had to make up those working hours"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the distinction the report draws between acceptable enhancement and misleading alteration.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג דוגמאות משני צדי הגבול ואת חשיבות הסימון הברור.",
+      "expected_points": [
+        "Basic improvements or virtual furnishing can help people imagine a property's potential",
+        "Decluttering a room can be acceptable",
+        "Adding or removing structural features can misrepresent the property",
+        "Hiding stains or cracks may conceal relevant defects",
+        "Trading Standards says the use of AI should be indicated"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might clear labels reduce the harm caused by AI-enhanced property photos?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד גילוי נאות משפיע על ציפיות הקונה ועל יכולתו לפרש את התמונות.",
+      "expected_points": [
+        "Labels alert buyers that an image may not show the current reality",
+        "Buyers can distinguish visualisation from actual property features",
+        "Clear expectations can reduce surprise and wasted viewings",
+        "Prominent disclosure may discourage agents from making misleading edits"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short policy recommendation for estate agents using AI in property listings, supported by evidence from the report.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע כלל ברור, להבחין בין הדמיה לשינוי מבני ולהסתמך על דוגמה מהכתבה.",
+      "expected_points": [
+        "Require prominent labels on every AI-enhanced image and in the listing's key features",
+        "Permit limited uses such as virtual furniture or decluttering",
+        "Ban edits that add, remove or hide structural features or defects",
+        "Explain that undisclosed changes can waste buyers' time or potentially mislead consumers",
+        "Reference Olivia's experience, Trading Standards guidance or Howards's new labelling policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-13",
+  "article_id": "A",
+  "article_title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the report mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Skye Newman's record-breaking five-night run at Brixton Academy",
+        "A new music school opening in south London",
+        "The cancellation of Harry Styles's Australian tour",
+        "Little Simz releasing five singles in November"
+      ],
+      "correct_answer": "Skye Newman's record-breaking five-night run at Brixton Academy",
+      "explanation_hebrew": "הכתבה מתמקדת ברצף של חמש הופעות של סקיי ניומן בבריקסטון אקדמי, שיא לאמנית סולו בריטית."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Whose previous record at Brixton Academy did Newman overtake?",
+      "difficulty": "A",
+      "options": [
+        "Ella Henderson's two nights",
+        "Little Simz's three nights",
+        "Amy Winehouse's four nights",
+        "Ed Sheeran's six nights"
+      ],
+      "correct_answer": "Little Simz's three nights",
+      "explanation_hebrew": "ליטל סימז הופיעה שלושה לילות במקום בשנת 2021, וניומן עקפה את השיא עם חמש הופעות."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which single reached number five in June?",
+      "difficulty": "A",
+      "options": [
+        "Addicted",
+        "Hairdresser",
+        "Family Matters",
+        "Back to Black"
+      ],
+      "correct_answer": "Family Matters",
+      "explanation_hebrew": "הסינגל Family Matters הגיע למקום החמישי ביוני, לאחר ש-Hairdresser נכנס לעשרים הגדולים."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When Newman calls her coming Harry Styles support slots “surreal”, what does she mean?",
+      "difficulty": "A",
+      "options": [
+        "They were arranged in secret",
+        "They feel strangely unbelievable",
+        "They will use unusual stage effects",
+        "They have already been cancelled"
+      ],
+      "correct_answer": "They feel strangely unbelievable",
+      "explanation_hebrew": "surreal בהקשר הזה פירושו מצב שנראה כמעט לא אמיתי, במיוחד משום שהייתה מעריצה של One Direction בילדותה."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Newman perform Amy Winehouse's “Addicted” during the show?",
+      "difficulty": "A",
+      "options": [
+        "To celebrate the anniversary of the album Back to Black",
+        "To announce a duet with Elton John",
+        "To audition a new member of her band",
+        "To replace a song requested by Ed Sheeran"
+      ],
+      "correct_answer": "To celebrate the anniversary of the album Back to Black",
+      "explanation_hebrew": "הביצוע היה מחווה לאיימי ויינהאוס לציון יום השנה לאלבום Back to Black."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the phrase “big shoes to fill”, what is Newman expressing?",
+      "difficulty": "A",
+      "options": [
+        "She needs new footwear for the tour",
+        "She wants to copy Winehouse's clothes",
+        "Matching Winehouse's artistic legacy is a major challenge",
+        "The Brixton stage is too large for one performer"
+      ],
+      "correct_answer": "Matching Winehouse's artistic legacy is a major challenge",
+      "explanation_hebrew": "הביטוי big shoes to fill מתאר את הקושי לעמוד ברמה או במורשת של אדם מצליח ומוערך מאוד."
+    },
+    {
+      "id": "A-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does Newman describe putting women on stage with her as both symbolic and practical?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את המסר של נראות נשית ואת יצירת ההזדמנויות התעסוקתיות בפועל.",
+      "expected_points": [
+        "Her band is all female",
+        "She says women are central to her life",
+        "The stage gives women visible roles in the performance",
+        "Hiring them also provides jobs and a practical helping hand"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the milestones that show Newman's rapid rise in the music industry.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול הישגים במצעדים, הכרה מקצועית, הופעות בולטות והשיא בבריקסטון.",
+      "expected_points": [
+        "Her first two singles both reached the UK top 20",
+        "Family Matters reached number five",
+        "She won BBC Sound of 2026 and received a Brit Award nomination",
+        "She supported Ed Sheeran and Lewis Capaldi and was praised by Elton John",
+        "She became the first British female solo artist to headline five nights at Brixton Academy"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why are the Australian shows with Harry Styles especially meaningful to Newman?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין חוויית הילדות שלה כמעריצה לבין ההזדמנות המקצועית הנוכחית.",
+      "expected_points": [
+        "She was a One Direction fan as a child",
+        "Harry Styles was part of One Direction",
+        "She will now support him at shows in Australia",
+        "The change from fan to fellow performer makes the opportunity feel surreal"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining how Newman uses her success to honour influences and support other women.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לשלב דוגמה למחווה מוזיקלית ודוגמה לתמיכה מעשית בנשים.",
+      "expected_points": [
+        "She paid tribute to Amy Winehouse by performing Addicted",
+        "The tribute marked the anniversary of Back to Black",
+        "She performs with an all-female band",
+        "She says employing women provides jobs and gives them a helping hand"
+      ]
+    }
+  ]
+}

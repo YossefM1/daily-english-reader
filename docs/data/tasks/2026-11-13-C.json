@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-13",
+  "article_id": "C",
+  "article_title": "Some under-25s should get fewer benefits, Milburn review to say",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What major change is Alan Milburn's review expected to recommend?",
+      "difficulty": "C",
+      "options": [
+        "Replacing all UK benefits with private insurance",
+        "Moving many under-25s off the main sickness and disability benefits while expanding employment support",
+        "Ending employment programmes for young people",
+        "Raising Personal Independence Payment for every claimant"
+      ],
+      "correct_answer": "Moving many under-25s off the main sickness and disability benefits while expanding employment support",
+      "explanation_hebrew": "הסקירה צפויה להציע צמצום גישה של צעירים לקצבאות המרכזיות לצד השקעה נרחבת בתמיכה תעסוקתית."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What would most affected under-25s receive instead of the health element of Universal Credit or Pip?",
+      "difficulty": "C",
+      "options": [
+        "A pension at the higher disability rate",
+        "A one-off education grant",
+        "An allowance at the same basic rate as Universal Credit",
+        "No financial support of any kind"
+      ],
+      "correct_answer": "An allowance at the same basic rate as Universal Credit",
+      "explanation_hebrew": "לפי התוכנית, צעירים יקבלו קצבה בגובה השיעור הבסיסי של Universal Credit, וחלקם יוכלו לקבל תוספת עלויות."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Milburn's interim report say about young disability or health-benefit claimants?",
+      "difficulty": "C",
+      "options": [
+        "19% of them were in work",
+        "Half of them were over 25",
+        "All of them were out of education",
+        "Only 3% received Pip"
+      ],
+      "correct_answer": "19% of them were in work",
+      "explanation_hebrew": "נתוני הסקר בדוח הביניים מצאו כי 19% מהצעירים שקיבלו קצבאות בריאות או נכות עבדו."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In this report, what does “a carrot and stick” approach mean?",
+      "difficulty": "C",
+      "options": [
+        "Funding food rather than transport",
+        "Combining incentives and support with possible penalties for non-participation",
+        "Giving every claimant the same unconditional payment",
+        "Separating benefits from employment policy entirely"
+      ],
+      "correct_answer": "Combining incentives and support with possible penalties for non-participation",
+      "explanation_hebrew": "carrot and stick מתאר שילוב של עידוד ותמיכה עם סנקציה אפשרית אם צעירים לא ישתפו פעולה עם מסלולי התעסוקה."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which additional costs did student Tom Ashforth say Pip helps him cover?",
+      "difficulty": "C",
+      "options": [
+        "Private school fees and a car loan",
+        "Rent on a second home",
+        "Prescriptions, mobility aids and accessible learning resources",
+        "Travel to overseas work placements"
+      ],
+      "correct_answer": "Prescriptions, mobility aids and accessible learning resources",
+      "explanation_hebrew": "טום הסביר שהקצבה מסייעת בהוצאות הנובעות מלקות הראייה שלו, ובהן מרשמים, עזרי ניידות וחומרי לימוד נגישים."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Dame Meg Hillier mean by giving Milburn “a fair wind”?",
+      "difficulty": "C",
+      "options": [
+        "She is offering cautious support and a chance for his proposals to be heard",
+        "She wants the review delayed because of bad weather",
+        "She rejects every proposed welfare change",
+        "She will support only environmental spending"
+      ],
+      "correct_answer": "She is offering cautious support and a chance for his proposals to be heard",
+      "explanation_hebrew": "הביטוי a fair wind כאן מציין יחס אוהד או הזדמנות הוגנת להתקדם, אף שאין זו התחייבות מלאה לתמוך בכל פרט."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why could the proposals cost money before they produce savings?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את ההשקעה הראשונית ואת פרק הזמן הארוך עד לחיסכון תקציבי.",
+      "expected_points": [
+        "The plan includes billions of pounds for employment support",
+        "It proposes work placements, job subsidies and personal advisers",
+        "A new welfare structure would need to be built largely from scratch",
+        "Milburn said monetary savings might take almost a decade to appear"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the main arguments for and against applying the proposed benefit changes to under-25s.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את טיעון סיכויי החיים והתעסוקה מול החששות מהוצאות נכות ומהכללה לפי גיל.",
+      "expected_points": [
+        "Milburn argues the current system prioritises short-term finances over long-term life chances",
+        "The government promises earlier employment support for young people",
+        "Supporters see an integrated package rather than an unexplained cut",
+        "Critics say disability-related costs do not disappear when access to Pip is restricted",
+        "Tom Ashforth argues individual need should be assessed case by case rather than by age",
+        "Some Labour MPs are reluctant to reduce existing claimants' entitlements"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might Labour MPs respond differently to these proposals than to the previous year's welfare reforms?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשוות בין קיצוץ לא מוסבר בעבר לבין החבילה הנוכחית של תמיכה, מחקר ופרטים עתידיים.",
+      "expected_points": [
+        "Last year's proposal was perceived as a cut without a clear account of what would happen to claimants",
+        "Milburn conducted a year-long review and is proposing extensive employment support",
+        "Some MPs regard his work as substantive enough to consider fairly",
+        "Uncertainty remains, especially about cuts for existing claimants"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph evaluating whether age should determine access to disability benefits, using evidence from the report.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג טיעון מכל צד, להשתמש בעובדות מהכתבה ולסיים בהערכה מנומקת.",
+      "expected_points": [
+        "The review aims to reduce the nearly one million young people not in education, employment or training",
+        "Employment support may improve long-term opportunities for some claimants",
+        "Pip covers additional disability costs and is available to people both in and out of work",
+        "Tom Ashforth's examples show that young claimants can have essential age-independent expenses",
+        "A balanced conclusion may favour individual assessment, safeguards for severe disability and transparent support obligations"
+      ]
+    }
+  ]
+}
