@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-14",
+  "article_id": "B",
+  "article_title": "First catch aborted in SpaceX Starship rocket double-catch test",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main development reported in the article?",
+      "difficulty": "B",
+      "options": [
+        "SpaceX cancelled all future Starship launches",
+        "SpaceX aborted the booster catch but continued the flight and considered a later upper-stage catch",
+        "The Starship failed to leave its launchpad",
+        "Both stages were successfully caught on the launch tower"
+      ],
+      "correct_answer": "SpaceX aborted the booster catch but continued the flight and considered a later upper-stage catch",
+      "explanation_hebrew": "SpaceX ויתרה על תפיסת המאיץ התחתון והסיטה אותו לים, בעוד השלב העליון המשיך במסלולו ואפשרות תפיסתו נותרה פתוחה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What are the launch tower's mechanical arms nicknamed?",
+      "difficulty": "B",
+      "options": [
+        "Claws",
+        "Chopsticks",
+        "Falcons",
+        "Orbiters"
+      ],
+      "correct_answer": "Chopsticks",
+      "explanation_hebrew": "הזרועות המכאניות של מגדל השיגור מכונות chopsticks, כלומר מקלות אכילה."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the Ship deploying during its journey to space?",
+      "difficulty": "B",
+      "options": [
+        "Four astronauts",
+        "A lunar rover",
+        "26 Starlink satellites",
+        "A replacement launch tower"
+      ],
+      "correct_answer": "26 Starlink satellites",
+      "explanation_hebrew": "השלב העליון משגר 26 לוויינים שיצטרפו למערך Starlink המספק אינטרנט מהחלל."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “paving the way” mean in the discussion of full rocket recovery?",
+      "difficulty": "B",
+      "options": [
+        "Making a future development possible or easier",
+        "Building a road beside the launchpad",
+        "Preventing the rocket from returning",
+        "Removing satellites from orbit"
+      ],
+      "correct_answer": "Making a future development possible or easier",
+      "explanation_hebrew": "paving the way פירושו להכין את התנאים להתפתחות עתידית, כאן שימוש חוזר מלא ברקטה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many Earth orbits was the Ship due to complete before returning?",
+      "difficulty": "B",
+      "options": [
+        "One",
+        "Three",
+        "Fourteen",
+        "Twenty-six"
+      ],
+      "correct_answer": "Fourteen",
+      "explanation_hebrew": "ה-Ship אמור להשלים 14 הקפות סביב כדור הארץ ולחזור למגדל 22.5 שעות לאחר ההמראה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When Prof Malcolm Macdonald says reusability could change the “economics of accessing space”, what does he mean?",
+      "difficulty": "B",
+      "options": [
+        "It could change who owns the Moon",
+        "It could substantially alter the cost and business model of launches",
+        "It could eliminate the need for satellites",
+        "It could make every test flight successful"
+      ],
+      "correct_answer": "It could substantially alter the cost and business model of launches",
+      "explanation_hebrew": "הכוונה היא ששימוש חוזר עשוי להפחית עלויות ולשנות מן היסוד את המודל הכלכלי של שיגורים לחלל."
+    },
+    {
+      "id": "B-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did SpaceX divert the booster to the ocean instead of attempting the planned catch?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שההחלטה התקבלה בתנאי ניסוי ומתוך עדיפות לבטיחות, בלי להמציא תקלה שלא צוינה.",
+      "expected_points": [
+        "The company was testing manoeuvres it had not performed before in this configuration",
+        "SpaceX said safety was its highest priority",
+        "The catch attempt could be abandoned if conditions were not suitable",
+        "The report does not specify a precise technical fault that forced the diversion"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the flight tested SpaceX's goal of making Starship fully reusable.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להבחין בין שני שלבי הרקטה, תוצאות הניסוי והחשיבות הכלכלית.",
+      "expected_points": [
+        "The Super Heavy booster was meant to be caught about six and a half minutes after launch",
+        "That first catch was aborted and the booster was diverted to the ocean",
+        "The Ship continued to orbit and a second catch could be attempted after assessment",
+        "SpaceX has caught boosters before but has never caught the upper stage",
+        "Recovering both stages could allow repeated flights and reduce launch costs"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why are Nasa and SpaceX shareholders both likely to follow this test closely?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר את האינטרסים השונים של המשקיעים ושל נאס״א.",
+      "expected_points": [
+        "Shareholders care whether full reusability can reduce costs and support SpaceX's business model",
+        "Starship's progress affects the value and credibility of the company",
+        "Nasa contracted SpaceX to turn the Ship into a lunar lander",
+        "Delays could affect ambitious Artemis and 2028 Moon-landing schedules"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph assessing why one successful catch would be important but not sufficient proof of full reusability.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לשלב את דברי המומחה עם הצורך בביצועים חוזרים ובטוחים.",
+      "expected_points": [
+        "A catch would demonstrate a transition from simply flying Starship to operating it differently",
+        "Full reusability requires recovery of both rocket stages",
+        "The system must work safely and repeatedly, not just once",
+        "Falcon 9 shows that frequent reuse can lower costs",
+        "Further progress is needed to meet Nasa commitments"
+      ]
+    }
+  ]
+}

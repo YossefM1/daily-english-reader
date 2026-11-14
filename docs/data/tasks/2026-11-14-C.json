@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-14",
+  "article_id": "C",
+  "article_title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore",
+  "article_url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What broader problem does the report say the Nvidia and Megaspeed scandal exposes for Singapore?",
+      "difficulty": "C",
+      "options": [
+        "Singapore has stopped attracting international technology firms",
+        "Singapore must balance its open business model and neutrality against scrutiny of possible chip-control evasion",
+        "Singapore plans to prohibit all trade with China",
+        "Singapore can no longer process orders for semiconductor companies"
+      ],
+      "correct_answer": "Singapore must balance its open business model and neutrality against scrutiny of possible chip-control evasion",
+      "explanation_hebrew": "הפרשה חושפת את המתח בין פתיחותה העסקית וניטרליותה של סינגפור לבין הצורך להתמודד עם חשדות לעקיפת מגבלות שבבים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why is Singapore's role as Nvidia's second-largest billing centre unusual?",
+      "difficulty": "C",
+      "options": [
+        "Nvidia has no customers elsewhere in Asia",
+        "Singapore manufactures every chip billed there",
+        "Nearly a fifth of Nvidia's earnings were billed there, but less than 1% involved chips entering Singapore",
+        "All transactions were paid for by the Singapore government"
+      ],
+      "correct_answer": "Nearly a fifth of Nvidia's earnings were billed there, but less than 1% involved chips entering Singapore",
+      "explanation_hebrew": "סינגפור משמשת מרכז הזמנות אזורי: כמעט חמישית מהכנסות Nvidia חויבו בה, אך פחות מאחוז מהשבבים נכנסו אליה בפועל."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is Megaspeed suspected of doing through data centres in neighbouring countries?",
+      "difficulty": "C",
+      "options": [
+        "Providing Chinese companies backdoor access to advanced Nvidia chips",
+        "Building Nvidia's headquarters in Malaysia",
+        "Selling only low-end gaming computers in Singapore",
+        "Blocking Chinese firms from using artificial intelligence"
+      ],
+      "correct_answer": "Providing Chinese companies backdoor access to advanced Nvidia chips",
+      "explanation_hebrew": "החשד הוא שמרכזי הנתונים של Megaspeed במלזיה, אינדונזיה ותאילנד אפשרו לחברות סיניות גישה עקיפה לשבבים מתקדמים."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “Singapore-washing” mean in the report?",
+      "difficulty": "C",
+      "options": [
+        "Cleaning semiconductor equipment before export",
+        "Using Singapore's trusted image to obscure a company's Chinese origins or dubious activity",
+        "Moving every Asian headquarters out of China",
+        "Converting chip payments into Singapore dollars"
+      ],
+      "correct_answer": "Using Singapore's trusted image to obscure a company's Chinese origins or dubious activity",
+      "explanation_hebrew": "Singapore-washing מתאר שימוש בתדמית הנקייה והאמינה של סינגפור כדי לטשטש מקור סיני או פעילות המעוררת חשד."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Singapore allow Alice Huang to leave in February?",
+      "difficulty": "C",
+      "options": [
+        "The United States asked Singapore to release her immediately",
+        "She agreed to close every Megaspeed data centre",
+        "Investigators found insufficient evidence of a crime",
+        "She became a Singaporean government official"
+      ],
+      "correct_answer": "Investigators found insufficient evidence of a crime",
+      "explanation_hebrew": "לאחר חקירה והחזקת דרכונה במשך כמה חודשים, הרשויות קבעו שאין די ראיות לעבירה ואפשרו לה לעזוב."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the metaphor of Singapore walking a “tightrope” convey?",
+      "difficulty": "C",
+      "options": [
+        "It is expanding its circus industry",
+        "It is following a simple and risk-free policy",
+        "It is trying to maintain a difficult balance where a misstep could damage relations",
+        "It has chosen to enforce only Chinese regulations"
+      ],
+      "correct_answer": "It is trying to maintain a difficult balance where a misstep could damage relations",
+      "explanation_hebrew": "המטפורה tightrope מדגישה איזון עדין ומסוכן בין האינטרסים והציפיות של ארצות הברית וסין."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do the billing figures make Singapore useful to regional chip buyers but also difficult to police?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין תפקידה כמרכז הזמנות, היעדים הסופיים והקושי לעקוב אחרי השבבים.",
+      "expected_points": [
+        "Many Asian companies place orders through Singapore",
+        "Most chips billed there are sent elsewhere rather than entering the country",
+        "Singapore may see the commercial transaction without controlling the final destination",
+        "This creates opportunities for diversion or false declarations across several jurisdictions"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the evidence and uncertainties surrounding Singapore's investigation of Megaspeed.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את החשדות, פעולות הרשויות, מגבלות שיתוף הפעולה והטענות הנגדיות.",
+      "expected_points": [
+        "Authorities investigated possible false declarations about servers exported through Singapore",
+        "The declared destination was Malaysia, but final destinations may have been elsewhere",
+        "Singapore requested US information repeatedly but said assistance was limited",
+        "Investigators found insufficient evidence to charge Alice Huang and have not charged Megaspeed",
+        "US and Singapore investigations remain ongoing",
+        "Megaspeed says it acted lawfully and welcomes scrutiny"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How could Singapore's attempt not to take sides create criticism from both China and the United States?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את הפרשנות האפשרית של כל מעצמה למדיניות הסינגפורית.",
+      "expected_points": [
+        "China may view investigation of US export restrictions as siding with Washington",
+        "The United States may see Singapore's complaint about limited assistance as shifting blame",
+        "Failure to choose a side can be interpreted as enabling the other side",
+        "Singapore's neutral position becomes harder to sustain as chip tensions intensify"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph evaluating whether Singapore's openness is primarily an economic strength or a regulatory vulnerability, using evidence from the report.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג יתרון וחיסרון, להשתמש בנתונים ובדוגמאות, ולסיים בהערכה מנומקת.",
+      "expected_points": [
+        "Openness attracts global firms and offers access to both US and Chinese markets",
+        "Singapore became a major semiconductor billing and ordering hub",
+        "A neutral address can help companies reach global customers and investors",
+        "Complex cross-border flows can obscure ownership and final destinations",
+        "The Megaspeed case shows the enforcement and diplomatic risks",
+        "A balanced conclusion may call for openness combined with stronger transparency and international co-operation"
+      ]
+    }
+  ]
+}

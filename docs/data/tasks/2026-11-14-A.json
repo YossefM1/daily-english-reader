@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-14",
+  "article_id": "A",
+  "article_title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the report mainly about?",
+      "difficulty": "A",
+      "options": [
+        "The rescue of everyone aboard a cruise ship after a collision on the Mississippi",
+        "A new cruise route opening between Texas and Louisiana",
+        "A tanker completing a record journey through New Orleans",
+        "The construction of a larger paddlewheeler in 2015"
+      ],
+      "correct_answer": "The rescue of everyone aboard a cruise ship after a collision on the Mississippi",
+      "explanation_hebrew": "הכתבה מתמקדת בחילוץ כל הנוסעים ואנשי הצוות לאחר שספינת מכולות פגעה בספינת התענוגות American Heritage."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which vessel struck the American Heritage?",
+      "difficulty": "A",
+      "options": [
+        "A Coast Guard patrol boat",
+        "The cargo vessel Atlantic Asphalt",
+        "A local tugboat",
+        "Another American Cruise Lines ship"
+      ],
+      "correct_answer": "The cargo vessel Atlantic Asphalt",
+      "explanation_hebrew": "ספינת המטען Atlantic Asphalt פגעה ב-American Heritage, שנשכבה לאחר מכן על צדה בנהר."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many people from the cruise ship were taken to hospital?",
+      "difficulty": "A",
+      "options": [
+        "No-one",
+        "About 129",
+        "32",
+        "150"
+      ],
+      "correct_answer": "32",
+      "explanation_hebrew": "שלושים ושניים אנשים פונו לבית חולים עם פציעות שאינן מסכנות חיים."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “listing” mean when the report says the vessel started listing?",
+      "difficulty": "A",
+      "options": [
+        "Publishing a passenger register",
+        "Moving faster through the water",
+        "Making a loud metal sound",
+        "Leaning noticeably to one side"
+      ],
+      "correct_answer": "Leaning noticeably to one side",
+      "explanation_hebrew": "בהקשר ימי listing פירושו נטייה של כלי השיט לצד אחד, לפני שהספינה התהפכה על צדה."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What possible cause did Coast Guard Captain Melanie Burnham mention?",
+      "difficulty": "A",
+      "options": [
+        "Some type of loss of steering",
+        "A fire in the restaurant",
+        "Excess passengers on the upper deck",
+        "A storm that closed the river"
+      ],
+      "correct_answer": "Some type of loss of steering",
+      "explanation_hebrew": "הגורם המדויק עדיין נחקר, אך הקפטן ציינה שנראה כי אירע אובדן כלשהו של יכולת ההיגוי."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “unaccounted for” mean?",
+      "difficulty": "A",
+      "options": [
+        "Unable to pay for the cruise",
+        "Not yet located or confirmed safe",
+        "Not included in the ship's ticket price",
+        "Refusing to speak to investigators"
+      ],
+      "correct_answer": "Not yet located or confirmed safe",
+      "explanation_hebrew": "unaccounted for מתאר אדם שמיקומו או מצבו עדיין אינם ידועים; במקרה הזה לא נותר אף אדם כזה."
+    },
+    {
+      "id": "A-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did officials describe the outcome as a “miracle on the Mississippi”?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין מספר האנשים, מצב הספינה ותוצאת החילוץ.",
+      "expected_points": [
+        "About 129 passengers plus crew were aboard",
+        "The ship took on water, listed and tipped onto its side",
+        "The collision caused 32 non-critical injuries",
+        "Everyone was accounted for despite the danger"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the collision and the rescue response in chronological order.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את ההתנגשות, הידרדרות מצב הספינה, פינוי הנוסעים והשתתפות כוחות החילוץ.",
+      "expected_points": [
+        "The Atlantic Asphalt struck the docked American Heritage",
+        "Calls came in at about 13:30 EST as the cruise ship took on water",
+        "Passengers began disembarking as the vessel listed and tipped onto its side",
+        "Tugboat operators, police, first responders and the Coast Guard helped",
+        "The river was closed for the search and everyone was accounted for"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What details show that the collision was frightening even though no injuries were critical?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להשתמש בתיאור עד הראייה ובהתנהגות האנשים על הספינה.",
+      "expected_points": [
+        "The witness compared the sound of crushing steel to a war movie",
+        "He said the scene looked like something from the Titanic",
+        "Passengers and crew were hollering and crying",
+        "The ship was sinking and ended up on its side"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining which parts of the rescue appear to have prevented a worse outcome.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג לפחות שתי פעולות חילוץ ולהסביר כיצד תרמו לתוצאה.",
+      "expected_points": [
+        "Passengers began leaving while the ship was listing",
+        "People nearby immediately tried to help passengers escape",
+        "Tugboat crews, police and first responders rushed to the scene",
+        "The Coast Guard supported local operations",
+        "Officials closed the river and conducted a search until everyone was accounted for"
+      ]
+    }
+  ]
+}
