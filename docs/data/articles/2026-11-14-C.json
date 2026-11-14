@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-14",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+  "published_at": "2026-11-13T23:00:31+00:00",
+  "age_hours_at_selection": 3.24,
+  "word_count": 1310,
+  "generated_at": "2026-11-14T02:14:45.530426+00:00",
+  "difficulty_reason": "Dense analytical feature with long sentences and layered geopolitical, legal and economic context; B2/C1/C2 vocabulary and background on US-China chip tensions required.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "scandal",
+      "lemma": "scandal",
+      "level": "B2",
+      "hebrew": "שַׁעֲרוּרִיָּה",
+      "explanation_hebrew": "אירוע מביך שמעורר כעס ציבורי",
+      "pronunciation_hebrew": "סְקַאנְדַל",
+      "example": "The scandal shocked the whole country."
+    },
+    {
+      "word": "illicit",
+      "lemma": "illicit",
+      "level": "C1",
+      "hebrew": "אָסוּר / לֹא חֻקִּי",
+      "explanation_hebrew": "פעילות אסורה על פי חוק",
+      "pronunciation_hebrew": "אִילִיסִיט",
+      "example": "They were accused of illicit trade."
+    },
+    {
+      "word": "painstakingly",
+      "lemma": "painstakingly",
+      "level": "C2",
+      "hebrew": "בִּקְפִּידוּת רַבָּה",
+      "explanation_hebrew": "בהשקעה ובזהירות גדולה",
+      "pronunciation_hebrew": "פֵּיְנְסְטֵייקִינְגְלִי",
+      "example": "She painstakingly built her reputation."
+    },
+    {
+      "word": "cultivated",
+      "lemma": "cultivate",
+      "level": "C1",
+      "hebrew": "טִפֵּחַ",
+      "explanation_hebrew": "פיתח בהדרגה ובמאמץ",
+      "pronunciation_hebrew": "קַאלְטִיבֵייטֶד",
+      "example": "The city cultivated a business-friendly image."
+    },
+    {
+      "word": "reputation",
+      "lemma": "reputation",
+      "level": "B2",
+      "hebrew": "מוֹנִיטִין / תַּדְמִית",
+      "explanation_hebrew": "הדעה הכללית על מישהו",
+      "pronunciation_hebrew": "רֶפְּיוּטֵיְשֶׁן",
+      "example": "The firm has a strong reputation."
+    },
+    {
+      "word": "semiconductor",
+      "lemma": "semiconductor",
+      "level": "C1",
+      "hebrew": "מוֹלִיךְ לְמֶחֱצָה",
+      "explanation_hebrew": "רכיב בסיסי בשבבי מחשב",
+      "pronunciation_hebrew": "סֶמִיקוֹנְדַקְטֶר",
+      "example": "Semiconductor chips power modern devices."
+    },
+    {
+      "word": "restricted",
+      "lemma": "restrict",
+      "level": "B2",
+      "hebrew": "הִגְבִּיל",
+      "explanation_hebrew": "הטיל מגבלות על משהו",
+      "pronunciation_hebrew": "רִיסְטְרִיקְטֶד",
+      "example": "The US restricted chip exports."
+    },
+    {
+      "word": "acquired",
+      "lemma": "acquire",
+      "level": "B2",
+      "hebrew": "רָכַשׁ / הִשִּׂיג",
+      "explanation_hebrew": "השיג או קנה משהו",
+      "pronunciation_hebrew": "אַקְווַיֶירְד",
+      "example": "The chips were acquired illegally."
+    },
+    {
+      "word": "prohibit",
+      "lemma": "prohibit",
+      "level": "C1",
+      "hebrew": "אוֹסֵר",
+      "explanation_hebrew": "מונע משהו באופן רשמי",
+      "pronunciation_hebrew": "פְּרוֹהִיבִּיט",
+      "example": "The law does not prohibit the transfer."
+    },
+    {
+      "word": "breach",
+      "lemma": "breach",
+      "level": "C1",
+      "hebrew": "הֲפָרָה",
+      "explanation_hebrew": "הפרה של חוק או הסכם",
+      "pronunciation_hebrew": "בְּרִיץְ'",
+      "example": "The deal was a breach of export rules."
+    },
+    {
+      "word": "enforce",
+      "lemma": "enforce",
+      "level": "B2",
+      "hebrew": "אוֹכֵף",
+      "explanation_hebrew": "מחיל חוק ודואג שיקוים",
+      "pronunciation_hebrew": "אִנְפוֹרְס",
+      "example": "Singapore does not enforce those controls."
+    },
+    {
+      "word": "unilateral",
+      "lemma": "unilateral",
+      "level": "C2",
+      "hebrew": "חַד־צְדָדִי",
+      "explanation_hebrew": "נעשה על ידי צד אחד בלבד",
+      "pronunciation_hebrew": "יוּנִילַטֶרַל",
+      "example": "They rejected the unilateral sanctions."
+    },
+    {
+      "word": "jurisdiction",
+      "lemma": "jurisdiction",
+      "level": "C1",
+      "hebrew": "תְּחוּם שִׁפּוּט / סַמְכוּת",
+      "explanation_hebrew": "התחום שבו יש סמכות חוקית",
+      "pronunciation_hebrew": "גְ'וּרִיסְדִיקְשֶׁן",
+      "example": "Firms in its jurisdiction must comply."
+    },
+    {
+      "word": "regulations",
+      "lemma": "regulation",
+      "level": "B2",
+      "hebrew": "תַּקָּנוֹת",
+      "explanation_hebrew": "כללים רשמיים שיש לקיים",
+      "pronunciation_hebrew": "רֶגְיוּלֵיְשֶׁנְז",
+      "example": "They must respect such regulations."
+    },
+    {
+      "word": "offences",
+      "lemma": "offence",
+      "level": "B2",
+      "hebrew": "עֲבֵרוֹת",
+      "explanation_hebrew": "מעשים נגד החוק",
+      "pronunciation_hebrew": "אוֹפֶנְסֶס",
+      "example": "They were charged with several offences."
+    },
+    {
+      "word": "probe",
+      "lemma": "probe",
+      "level": "B2",
+      "hebrew": "חֲקִירָה מַעֲמִיקָה",
+      "explanation_hebrew": "בדיקה רשמית ויסודית",
+      "pronunciation_hebrew": "פְּרוֹבּ",
+      "example": "Authorities launched a probe into the firm."
+    },
+    {
+      "word": "declarations",
+      "lemma": "declaration",
+      "level": "B2",
+      "hebrew": "הַצְהָרוֹת",
+      "explanation_hebrew": "הודעות רשמיות על עובדות",
+      "pronunciation_hebrew": "דֶקְלַרֵיְשֶׁנְז",
+      "example": "They made false declarations about the goods."
+    },
+    {
+      "word": "espionage",
+      "lemma": "espionage",
+      "level": "C1",
+      "hebrew": "רִגּוּל",
+      "explanation_hebrew": "איסוף סודי של מידע חסוי",
+      "pronunciation_hebrew": "אֶסְפִּיּוֹנָאז'",
+      "example": "She was not investigated for espionage."
+    },
+    {
+      "word": "insufficient",
+      "lemma": "insufficient",
+      "level": "B2",
+      "hebrew": "לֹא מַסְפִּיק",
+      "explanation_hebrew": "פחות ממה שנדרש",
+      "pronunciation_hebrew": "אִינְסַפִישֶׁנְט",
+      "example": "There was insufficient evidence of a crime."
+    },
+    {
+      "word": "refuted",
+      "lemma": "refute",
+      "level": "C1",
+      "hebrew": "הִכְחִישׁ / הֵפְרִיךְ",
+      "explanation_hebrew": "דחה טענה כלא נכונה",
+      "pronunciation_hebrew": "רִיפְיוּטֶד",
+      "example": "China refuted the accusations."
+    },
+    {
+      "word": "vulnerabilities",
+      "lemma": "vulnerability",
+      "level": "C1",
+      "hebrew": "נְקֻדּוֹת תֻּרְפָּה",
+      "explanation_hebrew": "חולשות שאפשר לנצל",
+      "pronunciation_hebrew": "וַלְנֶרַבִּילִיטִיז",
+      "example": "The case exposed real vulnerabilities."
+    },
+    {
+      "word": "obscure",
+      "lemma": "obscure",
+      "level": "C1",
+      "hebrew": "לְטַשְׁטֵשׁ / לְעַרְפֵּל",
+      "explanation_hebrew": "להסתיר או להקשות על הבנה",
+      "pronunciation_hebrew": "אוֹבְּסְקְיוּר",
+      "example": "They used the name to obscure their origins."
+    },
+    {
+      "word": "dubious",
+      "lemma": "dubious",
+      "level": "C1",
+      "hebrew": "מְפֻקְפָּק / חָשׁוּד",
+      "explanation_hebrew": "מעורר ספק או חשד",
+      "pronunciation_hebrew": "דְיוּבִּיֶאס",
+      "example": "Critics pointed to dubious activities."
+    },
+    {
+      "word": "dilemma",
+      "lemma": "dilemma",
+      "level": "B2",
+      "hebrew": "דִּילֶמָה / הִתְלַבְּטוּת",
+      "explanation_hebrew": "בחירה קשה בין אפשרויות",
+      "pronunciation_hebrew": "דִילֶמָה",
+      "example": "Singapore faces a difficult dilemma."
+    },
+    {
+      "word": "complicit",
+      "lemma": "complicit",
+      "level": "C2",
+      "hebrew": "שֻׁתָּף לְמַעֲשֶׂה פָּסוּל",
+      "explanation_hebrew": "מעורב במעשה לא חוקי של אחר",
+      "pronunciation_hebrew": "קוֹמְפְּלִיסִיט",
+      "example": "They risk being seen as complicit."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "scandal",
+      "type": "english_to_hebrew",
+      "question": "What does “scandal” mean?",
+      "options": [
+        "שַׁעֲרוּרִיָּה",
+        "מוֹלִיךְ לְמֶחֱצָה",
+        "בִּקְפִּידוּת רַבָּה",
+        "אָסוּר / לֹא חֻקִּי"
+      ],
+      "correct_answer": "שַׁעֲרוּרִיָּה",
+      "explanation_hebrew": "“scandal” פירושו שַׁעֲרוּרִיָּה."
+    },
+    {
+      "id": "C-q2",
+      "word": "illicit",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “אָסוּר / לֹא חֻקִּי”?",
+      "options": [
+        "acquired",
+        "reputation",
+        "illicit",
+        "painstakingly"
+      ],
+      "correct_answer": "illicit",
+      "explanation_hebrew": "המילה “אָסוּר / לֹא חֻקִּי” היא “illicit” באנגלית."
+    },
+    {
+      "id": "C-q3",
+      "word": "painstakingly",
+      "type": "english_to_hebrew",
+      "question": "What does “painstakingly” mean?",
+      "options": [
+        "מוֹנִיטִין / תַּדְמִית",
+        "בִּקְפִּידוּת רַבָּה",
+        "רָכַשׁ / הִשִּׂיג",
+        "טִפֵּחַ"
+      ],
+      "correct_answer": "בִּקְפִּידוּת רַבָּה",
+      "explanation_hebrew": "“painstakingly” פירושו בִּקְפִּידוּת רַבָּה."
+    },
+    {
+      "id": "C-q4",
+      "word": "cultivated",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “טִפֵּחַ”?",
+      "options": [
+        "cultivated",
+        "restricted",
+        "reputation",
+        "breach"
+      ],
+      "correct_answer": "cultivated",
+      "explanation_hebrew": "המילה “טִפֵּחַ” היא “cultivated” באנגלית."
+    },
+    {
+      "id": "C-q5",
+      "word": "reputation",
+      "type": "english_to_hebrew",
+      "question": "What does “reputation” mean?",
+      "options": [
+        "הֲפָרָה",
+        "הִגְבִּיל",
+        "מוֹלִיךְ לְמֶחֱצָה",
+        "מוֹנִיטִין / תַּדְמִית"
+      ],
+      "correct_answer": "מוֹנִיטִין / תַּדְמִית",
+      "explanation_hebrew": "“reputation” פירושו מוֹנִיטִין / תַּדְמִית."
+    },
+    {
+      "id": "C-q6",
+      "word": "semiconductor",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “מוֹלִיךְ לְמֶחֱצָה”?",
+      "options": [
+        "semiconductor",
+        "unilateral",
+        "prohibit",
+        "restricted"
+      ],
+      "correct_answer": "semiconductor",
+      "explanation_hebrew": "המילה “מוֹלִיךְ לְמֶחֱצָה” היא “semiconductor” באנגלית."
+    },
+    {
+      "id": "C-q7",
+      "word": "restricted",
+      "type": "english_to_hebrew",
+      "question": "What does “restricted” mean?",
+      "options": [
+        "חַד־צְדָדִי",
+        "רָכַשׁ / הִשִּׂיג",
+        "הִגְבִּיל",
+        "אוֹסֵר"
+      ],
+      "correct_answer": "הִגְבִּיל",
+      "explanation_hebrew": "“restricted” פירושו הִגְבִּיל."
+    },
+    {
+      "id": "C-q8",
+      "word": "acquired",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “רָכַשׁ / הִשִּׂיג”?",
+      "options": [
+        "enforce",
+        "acquired",
+        "prohibit",
+        "regulations"
+      ],
+      "correct_answer": "acquired",
+      "explanation_hebrew": "המילה “רָכַשׁ / הִשִּׂיג” היא “acquired” באנגלית."
+    },
+    {
+      "id": "C-q9",
+      "word": "prohibit",
+      "type": "english_to_hebrew",
+      "question": "What does “prohibit” mean?",
+      "options": [
+        "אוֹסֵר",
+        "תַּקָּנוֹת",
+        "הֲפָרָה",
+        "אוֹכֵף"
+      ],
+      "correct_answer": "אוֹסֵר",
+      "explanation_hebrew": "“prohibit” פירושו אוֹסֵר."
+    },
+    {
+      "id": "C-q10",
+      "word": "breach",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “הֲפָרָה”?",
+      "options": [
+        "jurisdiction",
+        "enforce",
+        "probe",
+        "breach"
+      ],
+      "correct_answer": "breach",
+      "explanation_hebrew": "המילה “הֲפָרָה” היא “breach” באנגלית."
+    },
+    {
+      "id": "C-q11",
+      "word": "enforce",
+      "type": "english_to_hebrew",
+      "question": "What does “enforce” mean?",
+      "options": [
+        "תְּחוּם שִׁפּוּט / סַמְכוּת",
+        "חַד־צְדָדִי",
+        "חֲקִירָה מַעֲמִיקָה",
+        "אוֹכֵף"
+      ],
+      "correct_answer": "אוֹכֵף",
+      "explanation_hebrew": "“enforce” פירושו אוֹכֵף."
+    },
+    {
+      "id": "C-q12",
+      "word": "unilateral",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “חַד־צְדָדִי”?",
+      "options": [
+        "offences",
+        "unilateral",
+        "espionage",
+        "jurisdiction"
+      ],
+      "correct_answer": "unilateral",
+      "explanation_hebrew": "המילה “חַד־צְדָדִי” היא “unilateral” באנגלית."
+    },
+    {
+      "id": "C-q13",
+      "word": "jurisdiction",
+      "type": "english_to_hebrew",
+      "question": "What does “jurisdiction” mean?",
+      "options": [
+        "עֲבֵרוֹת",
+        "תְּחוּם שִׁפּוּט / סַמְכוּת",
+        "תַּקָּנוֹת",
+        "רִגּוּל"
+      ],
+      "correct_answer": "תְּחוּם שִׁפּוּט / סַמְכוּת",
+      "explanation_hebrew": "“jurisdiction” פירושו תְּחוּם שִׁפּוּט / סַמְכוּת."
+    },
+    {
+      "id": "C-q14",
+      "word": "regulations",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “תַּקָּנוֹת”?",
+      "options": [
+        "declarations",
+        "offences",
+        "regulations",
+        "refuted"
+      ],
+      "correct_answer": "regulations",
+      "explanation_hebrew": "המילה “תַּקָּנוֹת” היא “regulations” באנגלית."
+    },
+    {
+      "id": "C-q15",
+      "word": "offences",
+      "type": "english_to_hebrew",
+      "question": "What does “offences” mean?",
+      "options": [
+        "עֲבֵרוֹת",
+        "חֲקִירָה מַעֲמִיקָה",
+        "הַצְהָרוֹת",
+        "הִכְחִישׁ / הֵפְרִיךְ"
+      ],
+      "correct_answer": "עֲבֵרוֹת",
+      "explanation_hebrew": "“offences” פירושו עֲבֵרוֹת."
+    },
+    {
+      "id": "C-q16",
+      "word": "probe",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “חֲקִירָה מַעֲמִיקָה”?",
+      "options": [
+        "probe",
+        "insufficient",
+        "declarations",
+        "obscure"
+      ],
+      "correct_answer": "probe",
+      "explanation_hebrew": "המילה “חֲקִירָה מַעֲמִיקָה” היא “probe” באנגלית."
+    },
+    {
+      "id": "C-q17",
+      "word": "declarations",
+      "type": "english_to_hebrew",
+      "question": "What does “declarations” mean?",
+      "options": [
+        "לֹא מַסְפִּיק",
+        "רִגּוּל",
+        "לְטַשְׁטֵשׁ / לְעַרְפֵּל",
+        "הַצְהָרוֹת"
+      ],
+      "correct_answer": "הַצְהָרוֹת",
+      "explanation_hebrew": "“declarations” פירושו הַצְהָרוֹת."
+    },
+    {
+      "id": "C-q18",
+      "word": "espionage",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “רִגּוּל”?",
+      "options": [
+        "espionage",
+        "insufficient",
+        "dilemma",
+        "vulnerabilities"
+      ],
+      "correct_answer": "espionage",
+      "explanation_hebrew": "המילה “רִגּוּל” היא “espionage” באנגלית."
+    },
+    {
+      "id": "C-q19",
+      "word": "insufficient",
+      "type": "english_to_hebrew",
+      "question": "What does “insufficient” mean?",
+      "options": [
+        "נְקֻדּוֹת תֻּרְפָּה",
+        "לֹא מַסְפִּיק",
+        "דִּילֶמָה / הִתְלַבְּטוּת",
+        "הִכְחִישׁ / הֵפְרִיךְ"
+      ],
+      "correct_answer": "לֹא מַסְפִּיק",
+      "explanation_hebrew": "“insufficient” פירושו לֹא מַסְפִּיק."
+    },
+    {
+      "id": "C-q20",
+      "word": "refuted",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “הִכְחִישׁ / הֵפְרִיךְ”?",
+      "options": [
+        "dubious",
+        "scandal",
+        "vulnerabilities",
+        "refuted"
+      ],
+      "correct_answer": "refuted",
+      "explanation_hebrew": "המילה “הִכְחִישׁ / הֵפְרִיךְ” היא “refuted” באנגלית."
+    },
+    {
+      "id": "C-q21",
+      "word": "vulnerabilities",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerabilities” mean?",
+      "options": [
+        "מְפֻקְפָּק / חָשׁוּד",
+        "שַׁעֲרוּרִיָּה",
+        "נְקֻדּוֹת תֻּרְפָּה",
+        "לְטַשְׁטֵשׁ / לְעַרְפֵּל"
+      ],
+      "correct_answer": "נְקֻדּוֹת תֻּרְפָּה",
+      "explanation_hebrew": "“vulnerabilities” פירושו נְקֻדּוֹת תֻּרְפָּה."
+    },
+    {
+      "id": "C-q22",
+      "word": "obscure",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “לְטַשְׁטֵשׁ / לְעַרְפֵּל”?",
+      "options": [
+        "painstakingly",
+        "dubious",
+        "obscure",
+        "complicit"
+      ],
+      "correct_answer": "obscure",
+      "explanation_hebrew": "המילה “לְטַשְׁטֵשׁ / לְעַרְפֵּל” היא “obscure” באנגלית."
+    },
+    {
+      "id": "C-q23",
+      "word": "dubious",
+      "type": "english_to_hebrew",
+      "question": "What does “dubious” mean?",
+      "options": [
+        "בִּקְפִּידוּת רַבָּה",
+        "מְפֻקְפָּק / חָשׁוּד",
+        "דִּילֶמָה / הִתְלַבְּטוּת",
+        "שֻׁתָּף לְמַעֲשֶׂה פָּסוּל"
+      ],
+      "correct_answer": "מְפֻקְפָּק / חָשׁוּד",
+      "explanation_hebrew": "“dubious” פירושו מְפֻקְפָּק / חָשׁוּד."
+    },
+    {
+      "id": "C-q24",
+      "word": "dilemma",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “דִּילֶמָה / הִתְלַבְּטוּת”?",
+      "options": [
+        "illicit",
+        "dilemma",
+        "reputation",
+        "complicit"
+      ],
+      "correct_answer": "dilemma",
+      "explanation_hebrew": "המילה “דִּילֶמָה / הִתְלַבְּטוּת” היא “dilemma” באנגלית."
+    },
+    {
+      "id": "C-q25",
+      "word": "complicit",
+      "type": "english_to_hebrew",
+      "question": "What does “complicit” mean?",
+      "options": [
+        "שַׁעֲרוּרִיָּה",
+        "אָסוּר / לֹא חֻקִּי",
+        "שֻׁתָּף לְמַעֲשֶׂה פָּסוּל",
+        "מוֹנִיטִין / תַּדְמִית"
+      ],
+      "correct_answer": "שֻׁתָּף לְמַעֲשֶׂה פָּסוּל",
+      "explanation_hebrew": "“complicit” פירושו שֻׁתָּף לְמַעֲשֶׂה פָּסוּל."
+    }
+  ]
+}

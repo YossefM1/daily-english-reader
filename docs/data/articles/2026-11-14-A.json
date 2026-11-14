@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-14",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+  "published_at": "2026-11-13T23:40:45+00:00",
+  "age_hours_at_selection": 2.57,
+  "word_count": 469,
+  "generated_at": "2026-11-14T02:14:45.530426+00:00",
+  "difficulty_reason": "Short, direct news report telling a clear rescue story with simple chronological structure; mostly B1/B2 vocabulary and little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "docked",
+      "lemma": "dock",
+      "level": "B2",
+      "hebrew": "עָגַן",
+      "explanation_hebrew": "קשר אנייה לרציף בנמל",
+      "pronunciation_hebrew": "דּוֹקְט",
+      "example": "The ship docked at the port last night."
+    },
+    {
+      "word": "rescued",
+      "lemma": "rescue",
+      "level": "B1",
+      "hebrew": "הִצִּילוּ",
+      "explanation_hebrew": "חילצו מישהו ממצב סכנה",
+      "pronunciation_hebrew": "רֶסְקְיוּד",
+      "example": "Firefighters rescued the family from the fire."
+    },
+    {
+      "word": "struck",
+      "lemma": "strike",
+      "level": "B2",
+      "hebrew": "פָּגַע / הִכָּה",
+      "explanation_hebrew": "נפגע בכוח על ידי משהו",
+      "pronunciation_hebrew": "סְטְרַאק",
+      "example": "The car was struck by a falling tree."
+    },
+    {
+      "word": "tanker",
+      "lemma": "tanker",
+      "level": "B2",
+      "hebrew": "מְכָלִית",
+      "explanation_hebrew": "אנייה או משאית גדולה להובלת נוזלים",
+      "pronunciation_hebrew": "טַאנְקֶר",
+      "example": "An oil tanker crossed the harbour."
+    },
+    {
+      "word": "vessel",
+      "lemma": "vessel",
+      "level": "B2",
+      "hebrew": "כְּלִי שַׁיִט",
+      "explanation_hebrew": "אנייה או סירה גדולה",
+      "pronunciation_hebrew": "וֶסֶל",
+      "example": "The vessel sailed down the river."
+    },
+    {
+      "word": "collision",
+      "lemma": "collision",
+      "level": "B2",
+      "hebrew": "הִתְנַגְּשׁוּת",
+      "explanation_hebrew": "פגיעה חזקה בין שני דברים נעים",
+      "pronunciation_hebrew": "קוֹלִיזְ'ן",
+      "example": "The collision damaged both cars."
+    },
+    {
+      "word": "stricken",
+      "lemma": "stricken",
+      "level": "C1",
+      "hebrew": "פָּגוּעַ",
+      "explanation_hebrew": "שנפגע קשות או סובל ממשהו",
+      "pronunciation_hebrew": "סְטְרִיקֶן",
+      "example": "The stricken ship needed urgent help."
+    },
+    {
+      "word": "injuries",
+      "lemma": "injury",
+      "level": "B1",
+      "hebrew": "פְּצִיעוֹת",
+      "explanation_hebrew": "נזקים לגוף של אדם",
+      "pronunciation_hebrew": "אִינְגְ'רִיז",
+      "example": "He suffered minor injuries in the accident."
+    },
+    {
+      "word": "unaccounted",
+      "lemma": "unaccounted",
+      "level": "C1",
+      "hebrew": "נֶעְדָּרִים / לֹא נִסְפְּרוּ",
+      "explanation_hebrew": "שלא יודעים היכן הם נמצאים",
+      "pronunciation_hebrew": "אַנַקַאוּנְטֶד",
+      "example": "Two people are still unaccounted for."
+    },
+    {
+      "word": "hailed",
+      "lemma": "hail",
+      "level": "B2",
+      "hebrew": "שִׁבְּחוּ",
+      "explanation_hebrew": "הביעו הערכה רבה כלפי מישהו",
+      "pronunciation_hebrew": "הֵיְלְד",
+      "example": "The rescue was hailed as a great success."
+    },
+    {
+      "word": "investigation",
+      "lemma": "investigation",
+      "level": "B1",
+      "hebrew": "חֲקִירָה",
+      "explanation_hebrew": "בדיקה רשמית כדי לגלות את האמת",
+      "pronunciation_hebrew": "אִינְבֶסְטִיגֵיְשֶׁן",
+      "example": "Police opened an investigation into the crash."
+    },
+    {
+      "word": "steering",
+      "lemma": "steering",
+      "level": "B2",
+      "hebrew": "הֶגֶה / שְׁלִיטָה בַּכִּוּוּן",
+      "explanation_hebrew": "המערכת ששולטת בכיוון הנסיעה",
+      "pronunciation_hebrew": "סְטִירִינְג",
+      "example": "The driver lost steering control."
+    },
+    {
+      "word": "credit",
+      "lemma": "credit",
+      "level": "B1",
+      "hebrew": "זְכוּת / הַעֲרָכָה",
+      "explanation_hebrew": "הכרה בהישג של מישהו",
+      "pronunciation_hebrew": "קְרֶדִיט",
+      "example": "She was given credit for the idea."
+    },
+    {
+      "word": "responders",
+      "lemma": "responder",
+      "level": "B2",
+      "hebrew": "כּוֹחוֹת הַצָּלָה",
+      "explanation_hebrew": "אנשים המגיעים ראשונים לעזור במצב חירום",
+      "pronunciation_hebrew": "רִיסְפּוֹנְדֶרְז",
+      "example": "First responders arrived within minutes."
+    },
+    {
+      "word": "escape",
+      "lemma": "escape",
+      "level": "B1",
+      "hebrew": "לְהִמָּלֵט",
+      "explanation_hebrew": "לברוח ממצב מסוכן",
+      "pronunciation_hebrew": "אֶסְקֵיְפּ",
+      "example": "They tried to escape the burning building."
+    },
+    {
+      "word": "disembarking",
+      "lemma": "disembark",
+      "level": "C1",
+      "hebrew": "יְרִידָה מֵהָאֳנִיָּה",
+      "explanation_hebrew": "לרדת מאנייה או מטוס",
+      "pronunciation_hebrew": "דִיסְאֶמְבַּארְקִינְג",
+      "example": "Passengers began disembarking the ferry."
+    },
+    {
+      "word": "listing",
+      "lemma": "list",
+      "level": "C1",
+      "hebrew": "הֵטָּיָה הַצִּדָּה",
+      "explanation_hebrew": "נטייה של ספינה לצד אחד",
+      "pronunciation_hebrew": "לִיסְטִינְג",
+      "example": "The ship was listing badly after the hit."
+    },
+    {
+      "word": "tipping",
+      "lemma": "tip",
+      "level": "B2",
+      "hebrew": "הִתְהַפְּכוּת",
+      "explanation_hebrew": "נטייה שעלולה להפוך משהו",
+      "pronunciation_hebrew": "טִיפִּינְג",
+      "example": "The boat was slowly tipping over."
+    },
+    {
+      "word": "rushed",
+      "lemma": "rush",
+      "level": "B1",
+      "hebrew": "מִהֲרוּ",
+      "explanation_hebrew": "פעלו או נעו במהירות רבה",
+      "pronunciation_hebrew": "רַאשְׁט",
+      "example": "Doctors rushed to help the injured."
+    },
+    {
+      "word": "pledging",
+      "lemma": "pledge",
+      "level": "B2",
+      "hebrew": "הִתְחַיֵּב / הִבְטִיחַ",
+      "explanation_hebrew": "להבטיח רשמית לעשות משהו",
+      "pronunciation_hebrew": "פְּלֶגְ'ינְג",
+      "example": "The mayor is pledging to find the cause."
+    },
+    {
+      "word": "witness",
+      "lemma": "witness",
+      "level": "B1",
+      "hebrew": "עֵד",
+      "explanation_hebrew": "אדם שראה אירוע בעיניו",
+      "pronunciation_hebrew": "וִיטְנֶס",
+      "example": "A witness described what he saw."
+    },
+    {
+      "word": "crunching",
+      "lemma": "crunch",
+      "level": "B2",
+      "hebrew": "חֲרִיקָה רוֹעֶשֶׁת",
+      "explanation_hebrew": "רעש חזק של מתכת נמעכת",
+      "pronunciation_hebrew": "קְרַאנְצִ'ינְג",
+      "example": "We heard the crunching of metal."
+    },
+    {
+      "word": "hollering",
+      "lemma": "holler",
+      "level": "C1",
+      "hebrew": "צְעָקוֹת בְּקוֹל רָם",
+      "explanation_hebrew": "לצעוק חזק",
+      "pronunciation_hebrew": "הוֹלֶרִינְג",
+      "example": "People were hollering for help."
+    },
+    {
+      "word": "sinking",
+      "lemma": "sink",
+      "level": "B1",
+      "hebrew": "שְׁקִיעָה / טְבִיעָה",
+      "explanation_hebrew": "שקיעה של ספינה אל מתחת למים",
+      "pronunciation_hebrew": "סִינְקִינְג",
+      "example": "The vessel was slowly sinking."
+    },
+    {
+      "word": "enclosed",
+      "lemma": "enclose",
+      "level": "B2",
+      "hebrew": "סָגוּר / מְכֻסֶּה",
+      "explanation_hebrew": "מוקף או סגור מכל הצדדים",
+      "pronunciation_hebrew": "אִנְקְלוֹזְד",
+      "example": "The boat has a glass-enclosed deck."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "docked",
+      "type": "english_to_hebrew",
+      "question": "What does “docked” mean?",
+      "options": [
+        "עָגַן",
+        "הִצִּילוּ",
+        "הִתְנַגְּשׁוּת",
+        "פָּגַע / הִכָּה"
+      ],
+      "correct_answer": "עָגַן",
+      "explanation_hebrew": "“docked” פירושו עָגַן."
+    },
+    {
+      "id": "A-q2",
+      "word": "rescued",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “הִצִּילוּ”?",
+      "options": [
+        "rescued",
+        "injuries",
+        "struck",
+        "vessel"
+      ],
+      "correct_answer": "rescued",
+      "explanation_hebrew": "המילה “הִצִּילוּ” היא “rescued” באנגלית."
+    },
+    {
+      "id": "A-q3",
+      "word": "struck",
+      "type": "english_to_hebrew",
+      "question": "What does “struck” mean?",
+      "options": [
+        "פָּגַע / הִכָּה",
+        "פְּצִיעוֹת",
+        "כְּלִי שַׁיִט",
+        "מְכָלִית"
+      ],
+      "correct_answer": "פָּגַע / הִכָּה",
+      "explanation_hebrew": "“struck” פירושו פָּגַע / הִכָּה."
+    },
+    {
+      "id": "A-q4",
+      "word": "tanker",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “מְכָלִית”?",
+      "options": [
+        "stricken",
+        "hailed",
+        "tanker",
+        "vessel"
+      ],
+      "correct_answer": "tanker",
+      "explanation_hebrew": "המילה “מְכָלִית” היא “tanker” באנגלית."
+    },
+    {
+      "id": "A-q5",
+      "word": "vessel",
+      "type": "english_to_hebrew",
+      "question": "What does “vessel” mean?",
+      "options": [
+        "פָּגוּעַ",
+        "הִתְנַגְּשׁוּת",
+        "שִׁבְּחוּ",
+        "כְּלִי שַׁיִט"
+      ],
+      "correct_answer": "כְּלִי שַׁיִט",
+      "explanation_hebrew": "“vessel” פירושו כְּלִי שַׁיִט."
+    },
+    {
+      "id": "A-q6",
+      "word": "collision",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “הִתְנַגְּשׁוּת”?",
+      "options": [
+        "steering",
+        "collision",
+        "stricken",
+        "unaccounted"
+      ],
+      "correct_answer": "collision",
+      "explanation_hebrew": "המילה “הִתְנַגְּשׁוּת” היא “collision” באנגלית."
+    },
+    {
+      "id": "A-q7",
+      "word": "stricken",
+      "type": "english_to_hebrew",
+      "question": "What does “stricken” mean?",
+      "options": [
+        "נֶעְדָּרִים / לֹא נִסְפְּרוּ",
+        "הֶגֶה / שְׁלִיטָה בַּכִּוּוּן",
+        "פָּגוּעַ",
+        "פְּצִיעוֹת"
+      ],
+      "correct_answer": "פָּגוּעַ",
+      "explanation_hebrew": "“stricken” פירושו פָּגוּעַ."
+    },
+    {
+      "id": "A-q8",
+      "word": "injuries",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “פְּצִיעוֹת”?",
+      "options": [
+        "responders",
+        "unaccounted",
+        "injuries",
+        "investigation"
+      ],
+      "correct_answer": "injuries",
+      "explanation_hebrew": "המילה “פְּצִיעוֹת” היא “injuries” באנגלית."
+    },
+    {
+      "id": "A-q9",
+      "word": "unaccounted",
+      "type": "english_to_hebrew",
+      "question": "What does “unaccounted” mean?",
+      "options": [
+        "כּוֹחוֹת הַצָּלָה",
+        "נֶעְדָּרִים / לֹא נִסְפְּרוּ",
+        "שִׁבְּחוּ",
+        "חֲקִירָה"
+      ],
+      "correct_answer": "נֶעְדָּרִים / לֹא נִסְפְּרוּ",
+      "explanation_hebrew": "“unaccounted” פירושו נֶעְדָּרִים / לֹא נִסְפְּרוּ."
+    },
+    {
+      "id": "A-q10",
+      "word": "hailed",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “שִׁבְּחוּ”?",
+      "options": [
+        "investigation",
+        "hailed",
+        "credit",
+        "disembarking"
+      ],
+      "correct_answer": "hailed",
+      "explanation_hebrew": "המילה “שִׁבְּחוּ” היא “hailed” באנגלית."
+    },
+    {
+      "id": "A-q11",
+      "word": "investigation",
+      "type": "english_to_hebrew",
+      "question": "What does “investigation” mean?",
+      "options": [
+        "חֲקִירָה",
+        "הֶגֶה / שְׁלִיטָה בַּכִּוּוּן",
+        "זְכוּת / הַעֲרָכָה",
+        "יְרִידָה מֵהָאֳנִיָּה"
+      ],
+      "correct_answer": "חֲקִירָה",
+      "explanation_hebrew": "“investigation” פירושו חֲקִירָה."
+    },
+    {
+      "id": "A-q12",
+      "word": "steering",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “הֶגֶה / שְׁלִיטָה בַּכִּוּוּן”?",
+      "options": [
+        "tipping",
+        "steering",
+        "credit",
+        "escape"
+      ],
+      "correct_answer": "steering",
+      "explanation_hebrew": "המילה “הֶגֶה / שְׁלִיטָה בַּכִּוּוּן” היא “steering” באנגלית."
+    },
+    {
+      "id": "A-q13",
+      "word": "credit",
+      "type": "english_to_hebrew",
+      "question": "What does “credit” mean?",
+      "options": [
+        "הִתְהַפְּכוּת",
+        "לְהִמָּלֵט",
+        "זְכוּת / הַעֲרָכָה",
+        "כּוֹחוֹת הַצָּלָה"
+      ],
+      "correct_answer": "זְכוּת / הַעֲרָכָה",
+      "explanation_hebrew": "“credit” פירושו זְכוּת / הַעֲרָכָה."
+    },
+    {
+      "id": "A-q14",
+      "word": "responders",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “כּוֹחוֹת הַצָּלָה”?",
+      "options": [
+        "listing",
+        "responders",
+        "pledging",
+        "escape"
+      ],
+      "correct_answer": "responders",
+      "explanation_hebrew": "המילה “כּוֹחוֹת הַצָּלָה” היא “responders” באנגלית."
+    },
+    {
+      "id": "A-q15",
+      "word": "escape",
+      "type": "english_to_hebrew",
+      "question": "What does “escape” mean?",
+      "options": [
+        "הִתְחַיֵּב / הִבְטִיחַ",
+        "הֵטָּיָה הַצִּדָּה",
+        "יְרִידָה מֵהָאֳנִיָּה",
+        "לְהִמָּלֵט"
+      ],
+      "correct_answer": "לְהִמָּלֵט",
+      "explanation_hebrew": "“escape” פירושו לְהִמָּלֵט."
+    },
+    {
+      "id": "A-q16",
+      "word": "disembarking",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “יְרִידָה מֵהָאֳנִיָּה”?",
+      "options": [
+        "rushed",
+        "disembarking",
+        "listing",
+        "crunching"
+      ],
+      "correct_answer": "disembarking",
+      "explanation_hebrew": "המילה “יְרִידָה מֵהָאֳנִיָּה” היא “disembarking” באנגלית."
+    },
+    {
+      "id": "A-q17",
+      "word": "listing",
+      "type": "english_to_hebrew",
+      "question": "What does “listing” mean?",
+      "options": [
+        "חֲרִיקָה רוֹעֶשֶׁת",
+        "הֵטָּיָה הַצִּדָּה",
+        "הִתְהַפְּכוּת",
+        "מִהֲרוּ"
+      ],
+      "correct_answer": "הֵטָּיָה הַצִּדָּה",
+      "explanation_hebrew": "“listing” פירושו הֵטָּיָה הַצִּדָּה."
+    },
+    {
+      "id": "A-q18",
+      "word": "tipping",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “הִתְהַפְּכוּת”?",
+      "options": [
+        "tipping",
+        "rushed",
+        "witness",
+        "sinking"
+      ],
+      "correct_answer": "tipping",
+      "explanation_hebrew": "המילה “הִתְהַפְּכוּת” היא “tipping” באנגלית."
+    },
+    {
+      "id": "A-q19",
+      "word": "rushed",
+      "type": "english_to_hebrew",
+      "question": "What does “rushed” mean?",
+      "options": [
+        "עֵד",
+        "מִהֲרוּ",
+        "שְׁקִיעָה / טְבִיעָה",
+        "הִתְחַיֵּב / הִבְטִיחַ"
+      ],
+      "correct_answer": "מִהֲרוּ",
+      "explanation_hebrew": "“rushed” פירושו מִהֲרוּ."
+    },
+    {
+      "id": "A-q20",
+      "word": "pledging",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “הִתְחַיֵּב / הִבְטִיחַ”?",
+      "options": [
+        "hollering",
+        "docked",
+        "witness",
+        "pledging"
+      ],
+      "correct_answer": "pledging",
+      "explanation_hebrew": "המילה “הִתְחַיֵּב / הִבְטִיחַ” היא “pledging” באנגלית."
+    },
+    {
+      "id": "A-q21",
+      "word": "witness",
+      "type": "english_to_hebrew",
+      "question": "What does “witness” mean?",
+      "options": [
+        "חֲרִיקָה רוֹעֶשֶׁת",
+        "עֵד",
+        "עָגַן",
+        "צְעָקוֹת בְּקוֹל רָם"
+      ],
+      "correct_answer": "עֵד",
+      "explanation_hebrew": "“witness” פירושו עֵד."
+    },
+    {
+      "id": "A-q22",
+      "word": "crunching",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “חֲרִיקָה רוֹעֶשֶׁת”?",
+      "options": [
+        "hollering",
+        "enclosed",
+        "struck",
+        "crunching"
+      ],
+      "correct_answer": "crunching",
+      "explanation_hebrew": "המילה “חֲרִיקָה רוֹעֶשֶׁת” היא “crunching” באנגלית."
+    },
+    {
+      "id": "A-q23",
+      "word": "hollering",
+      "type": "english_to_hebrew",
+      "question": "What does “hollering” mean?",
+      "options": [
+        "שְׁקִיעָה / טְבִיעָה",
+        "סָגוּר / מְכֻסֶּה",
+        "צְעָקוֹת בְּקוֹל רָם",
+        "פָּגַע / הִכָּה"
+      ],
+      "correct_answer": "צְעָקוֹת בְּקוֹל רָם",
+      "explanation_hebrew": "“hollering” פירושו צְעָקוֹת בְּקוֹל רָם."
+    },
+    {
+      "id": "A-q24",
+      "word": "sinking",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “שְׁקִיעָה / טְבִיעָה”?",
+      "options": [
+        "sinking",
+        "enclosed",
+        "vessel",
+        "rescued"
+      ],
+      "correct_answer": "sinking",
+      "explanation_hebrew": "המילה “שְׁקִיעָה / טְבִיעָה” היא “sinking” באנגלית."
+    },
+    {
+      "id": "A-q25",
+      "word": "enclosed",
+      "type": "english_to_hebrew",
+      "question": "What does “enclosed” mean?",
+      "options": [
+        "כְּלִי שַׁיִט",
+        "עָגַן",
+        "סָגוּר / מְכֻסֶּה",
+        "הִצִּילוּ"
+      ],
+      "correct_answer": "סָגוּר / מְכֻסֶּה",
+      "explanation_hebrew": "“enclosed” פירושו סָגוּר / מְכֻסֶּה."
+    }
+  ]
+}

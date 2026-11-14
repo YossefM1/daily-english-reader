@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-14",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "First catch aborted in SpaceX Starship rocket double-catch test",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+  "published_at": "2026-11-14T00:01:01+00:00",
+  "age_hours_at_selection": 2.23,
+  "word_count": 818,
+  "generated_at": "2026-11-14T02:14:45.530426+00:00",
+  "difficulty_reason": "Moderately complex report mixing event narration with technical and business context; useful B1/B2/C1 vocabulary and some background on spaceflight helps.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "aborted",
+      "lemma": "abort",
+      "level": "B2",
+      "hebrew": "הֻפְסַק",
+      "explanation_hebrew": "נעצר באמצע לפני הסיום",
+      "pronunciation_hebrew": "אַבּוֹרְטֶד",
+      "example": "The launch was aborted at the last second."
+    },
+    {
+      "word": "attempt",
+      "lemma": "attempt",
+      "level": "B1",
+      "hebrew": "נִסָּיוֹן",
+      "explanation_hebrew": "מאמץ לעשות משהו",
+      "pronunciation_hebrew": "אַטֶמְפְּט",
+      "example": "This was their first attempt to land it."
+    },
+    {
+      "word": "mechanical",
+      "lemma": "mechanical",
+      "level": "B2",
+      "hebrew": "מֵכָנִי",
+      "explanation_hebrew": "הקשור למכונות או חלקים נעים",
+      "pronunciation_hebrew": "מֶכַאנִיקַל",
+      "example": "The mechanical arms caught the rocket."
+    },
+    {
+      "word": "nicknamed",
+      "lemma": "nickname",
+      "level": "B2",
+      "hebrew": "מְכֻנֶּה",
+      "explanation_hebrew": "קיבל כינוי לא רשמי",
+      "pronunciation_hebrew": "נִיקְנֵיימְד",
+      "example": "The arms are nicknamed chopsticks."
+    },
+    {
+      "word": "diverted",
+      "lemma": "divert",
+      "level": "B2",
+      "hebrew": "הֻסַּט",
+      "explanation_hebrew": "כיוונו אותו למקום אחר",
+      "pronunciation_hebrew": "דַיְוֶרְטֶד",
+      "example": "The rocket was diverted to the ocean."
+    },
+    {
+      "word": "bursting",
+      "lemma": "burst",
+      "level": "B2",
+      "hebrew": "הִתְפּוֹצְצוּת / פְּרִיצָה",
+      "explanation_hebrew": "פריצה פתאומית, לרוב בכוח",
+      "pronunciation_hebrew": "בֶּרְסְטִינְג",
+      "example": "It came down bursting into flames."
+    },
+    {
+      "word": "reusable",
+      "lemma": "reusable",
+      "level": "B2",
+      "hebrew": "רַב־פַּעֲמִי",
+      "explanation_hebrew": "שאפשר להשתמש בו שוב ושוב",
+      "pronunciation_hebrew": "רִיְיוּזַבְּל",
+      "example": "A reusable rocket lowers costs."
+    },
+    {
+      "word": "repeatedly",
+      "lemma": "repeatedly",
+      "level": "B2",
+      "hebrew": "שׁוּב וָשׁוּב",
+      "explanation_hebrew": "פעמים רבות",
+      "pronunciation_hebrew": "רִיפִּיטֶדְלִי",
+      "example": "The rocket can fly repeatedly."
+    },
+    {
+      "word": "blasted",
+      "lemma": "blast",
+      "level": "B2",
+      "hebrew": "הִמְרִיא בְּעָצְמָה",
+      "explanation_hebrew": "שוגר כלפי מעלה בעוצמה",
+      "pronunciation_hebrew": "בְּלַאסְטֶד",
+      "example": "The rocket blasted off from Texas."
+    },
+    {
+      "word": "booster",
+      "lemma": "booster",
+      "level": "B2",
+      "hebrew": "מַאִיץ (שְׁלַב שִׁגּוּר)",
+      "explanation_hebrew": "מנוע חזק שדוחף טיל בתחילת הטיסה",
+      "pronunciation_hebrew": "בּוּסְטֶר",
+      "example": "The booster returned to the tower."
+    },
+    {
+      "word": "priority",
+      "lemma": "priority",
+      "level": "B1",
+      "hebrew": "עֲדִיפוּת",
+      "explanation_hebrew": "הדבר החשוב ביותר",
+      "pronunciation_hebrew": "פְּרַיּוֹרִיטִי",
+      "example": "Safety is always the top priority."
+    },
+    {
+      "word": "maneuver",
+      "lemma": "maneuver",
+      "level": "B2",
+      "hebrew": "תַּמְרוּן",
+      "explanation_hebrew": "תנועה מתוכננת ומדויקת",
+      "pronunciation_hebrew": "מַנוּבֶר",
+      "example": "Each maneuver must be performed safely."
+    },
+    {
+      "word": "deploying",
+      "lemma": "deploy",
+      "level": "C1",
+      "hebrew": "פּוֹרֵס / מַצִּיב",
+      "explanation_hebrew": "מציב ציוד למקומו כדי שיפעל",
+      "pronunciation_hebrew": "דִיפְּלוֹיִינְג",
+      "example": "The ship is deploying its satellites."
+    },
+    {
+      "word": "satellites",
+      "lemma": "satellite",
+      "level": "B1",
+      "hebrew": "לַוְיָנִים",
+      "explanation_hebrew": "מכשירים המקיפים את כדור הארץ בחלל",
+      "pronunciation_hebrew": "סַאטֶלַייטְס",
+      "example": "The rocket released many satellites."
+    },
+    {
+      "word": "constellation",
+      "lemma": "constellation",
+      "level": "C1",
+      "hebrew": "מַעֲרֶכֶת לַוְיָנִים",
+      "explanation_hebrew": "קבוצת לוויינים הפועלים יחד",
+      "pronunciation_hebrew": "קוֹנְסְטֶלֵיְשֶׁן",
+      "example": "Starlink is a large satellite constellation."
+    },
+    {
+      "word": "orbits",
+      "lemma": "orbit",
+      "level": "B2",
+      "hebrew": "הַקָּפוֹת",
+      "explanation_hebrew": "סיבובים סביב כדור הארץ",
+      "pronunciation_hebrew": "אוֹרְבִּיטְס",
+      "example": "It completes several orbits of Earth."
+    },
+    {
+      "word": "grabbed",
+      "lemma": "grab",
+      "level": "B1",
+      "hebrew": "נֶאֱחַז / נִתְפַּס",
+      "explanation_hebrew": "נתפס בחוזקה",
+      "pronunciation_hebrew": "גְּרַאבְּד",
+      "example": "The stage has never been grabbed before."
+    },
+    {
+      "word": "splashed",
+      "lemma": "splash",
+      "level": "B2",
+      "hebrew": "נָחַת בַּמַּיִם",
+      "explanation_hebrew": "נחת במים תוך התזה",
+      "pronunciation_hebrew": "סְפְּלַאשְׁט",
+      "example": "The rocket splashed down in the sea."
+    },
+    {
+      "word": "assessing",
+      "lemma": "assess",
+      "level": "B2",
+      "hebrew": "הַעֲרָכָה / בְּחִינָה",
+      "explanation_hebrew": "בוחן בזהירות כדי להחליט",
+      "pronunciation_hebrew": "אַסֶסִינְג",
+      "example": "They are assessing the vehicle in space."
+    },
+    {
+      "word": "ambition",
+      "lemma": "ambition",
+      "level": "B2",
+      "hebrew": "שְׁאִיפָה",
+      "explanation_hebrew": "מטרה גדולה ששואפים אליה",
+      "pronunciation_hebrew": "אַמְבִּישֶׁן",
+      "example": "Reusable rockets are a long-held ambition."
+    },
+    {
+      "word": "vertically",
+      "lemma": "vertically",
+      "level": "B2",
+      "hebrew": "אֲנָכִית",
+      "explanation_hebrew": "ישר כלפי מעלה או מטה",
+      "pronunciation_hebrew": "וֶרְטִיקַלִי",
+      "example": "The booster landed vertically."
+    },
+    {
+      "word": "dramatically",
+      "lemma": "dramatically",
+      "level": "B2",
+      "hebrew": "בְּאֹפֶן דְּרָמָטִי",
+      "explanation_hebrew": "במידה רבה מאוד",
+      "pronunciation_hebrew": "דְּרַמַאטִיקַלִי",
+      "example": "Costs fell dramatically after reuse."
+    },
+    {
+      "word": "fundamentally",
+      "lemma": "fundamentally",
+      "level": "C1",
+      "hebrew": "בְּאֹפֶן יְסוֹדִי",
+      "explanation_hebrew": "מהיסוד, בצורה עמוקה",
+      "pronunciation_hebrew": "פַנְדַמֶנְטַלִי",
+      "example": "It could fundamentally change spaceflight."
+    },
+    {
+      "word": "transition",
+      "lemma": "transition",
+      "level": "B2",
+      "hebrew": "מַעֲבָר",
+      "explanation_hebrew": "שינוי ממצב אחד לאחר",
+      "pronunciation_hebrew": "טְרַנְזִישֶׁן",
+      "example": "It marks a transition to a new phase."
+    },
+    {
+      "word": "implications",
+      "lemma": "implication",
+      "level": "C1",
+      "hebrew": "הַשְׁלָכוֹת",
+      "explanation_hebrew": "תוצאות אפשריות של מעשה",
+      "pronunciation_hebrew": "אִימְפְּלִיקֵיְשֶׁנְז",
+      "example": "The test has big implications for Nasa."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "aborted",
+      "type": "english_to_hebrew",
+      "question": "What does “aborted” mean?",
+      "options": [
+        "מֵכָנִי",
+        "נִסָּיוֹן",
+        "הֻפְסַק",
+        "הִתְפּוֹצְצוּת / פְּרִיצָה"
+      ],
+      "correct_answer": "הֻפְסַק",
+      "explanation_hebrew": "“aborted” פירושו הֻפְסַק."
+    },
+    {
+      "id": "B-q2",
+      "word": "attempt",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “נִסָּיוֹן”?",
+      "options": [
+        "attempt",
+        "mechanical",
+        "diverted",
+        "repeatedly"
+      ],
+      "correct_answer": "attempt",
+      "explanation_hebrew": "המילה “נִסָּיוֹן” היא “attempt” באנגלית."
+    },
+    {
+      "id": "B-q3",
+      "word": "mechanical",
+      "type": "english_to_hebrew",
+      "question": "What does “mechanical” mean?",
+      "options": [
+        "מְכֻנֶּה",
+        "שׁוּב וָשׁוּב",
+        "מֵכָנִי",
+        "הֻסַּט"
+      ],
+      "correct_answer": "מֵכָנִי",
+      "explanation_hebrew": "“mechanical” פירושו מֵכָנִי."
+    },
+    {
+      "id": "B-q4",
+      "word": "nicknamed",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “מְכֻנֶּה”?",
+      "options": [
+        "reusable",
+        "nicknamed",
+        "diverted",
+        "booster"
+      ],
+      "correct_answer": "nicknamed",
+      "explanation_hebrew": "המילה “מְכֻנֶּה” היא “nicknamed” באנגלית."
+    },
+    {
+      "id": "B-q5",
+      "word": "diverted",
+      "type": "english_to_hebrew",
+      "question": "What does “diverted” mean?",
+      "options": [
+        "מַאִיץ (שְׁלַב שִׁגּוּר)",
+        "רַב־פַּעֲמִי",
+        "הִתְפּוֹצְצוּת / פְּרִיצָה",
+        "הֻסַּט"
+      ],
+      "correct_answer": "הֻסַּט",
+      "explanation_hebrew": "“diverted” פירושו הֻסַּט."
+    },
+    {
+      "id": "B-q6",
+      "word": "bursting",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “הִתְפּוֹצְצוּת / פְּרִיצָה”?",
+      "options": [
+        "bursting",
+        "blasted",
+        "reusable",
+        "maneuver"
+      ],
+      "correct_answer": "bursting",
+      "explanation_hebrew": "המילה “הִתְפּוֹצְצוּת / פְּרִיצָה” היא “bursting” באנגלית."
+    },
+    {
+      "id": "B-q7",
+      "word": "reusable",
+      "type": "english_to_hebrew",
+      "question": "What does “reusable” mean?",
+      "options": [
+        "תַּמְרוּן",
+        "הִמְרִיא בְּעָצְמָה",
+        "רַב־פַּעֲמִי",
+        "שׁוּב וָשׁוּב"
+      ],
+      "correct_answer": "רַב־פַּעֲמִי",
+      "explanation_hebrew": "“reusable” פירושו רַב־פַּעֲמִי."
+    },
+    {
+      "id": "B-q8",
+      "word": "repeatedly",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “שׁוּב וָשׁוּב”?",
+      "options": [
+        "repeatedly",
+        "blasted",
+        "priority",
+        "satellites"
+      ],
+      "correct_answer": "repeatedly",
+      "explanation_hebrew": "המילה “שׁוּב וָשׁוּב” היא “repeatedly” באנגלית."
+    },
+    {
+      "id": "B-q9",
+      "word": "blasted",
+      "type": "english_to_hebrew",
+      "question": "What does “blasted” mean?",
+      "options": [
+        "הִמְרִיא בְּעָצְמָה",
+        "לַוְיָנִים",
+        "מַאִיץ (שְׁלַב שִׁגּוּר)",
+        "עֲדִיפוּת"
+      ],
+      "correct_answer": "הִמְרִיא בְּעָצְמָה",
+      "explanation_hebrew": "“blasted” פירושו הִמְרִיא בְּעָצְמָה."
+    },
+    {
+      "id": "B-q10",
+      "word": "booster",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “מַאִיץ (שְׁלַב שִׁגּוּר)”?",
+      "options": [
+        "orbits",
+        "deploying",
+        "booster",
+        "priority"
+      ],
+      "correct_answer": "booster",
+      "explanation_hebrew": "המילה “מַאִיץ (שְׁלַב שִׁגּוּר)” היא “booster” באנגלית."
+    },
+    {
+      "id": "B-q11",
+      "word": "priority",
+      "type": "english_to_hebrew",
+      "question": "What does “priority” mean?",
+      "options": [
+        "עֲדִיפוּת",
+        "פּוֹרֵס / מַצִּיב",
+        "תַּמְרוּן",
+        "הַקָּפוֹת"
+      ],
+      "correct_answer": "עֲדִיפוּת",
+      "explanation_hebrew": "“priority” פירושו עֲדִיפוּת."
+    },
+    {
+      "id": "B-q12",
+      "word": "maneuver",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “תַּמְרוּן”?",
+      "options": [
+        "constellation",
+        "splashed",
+        "deploying",
+        "maneuver"
+      ],
+      "correct_answer": "maneuver",
+      "explanation_hebrew": "המילה “תַּמְרוּן” היא “maneuver” באנגלית."
+    },
+    {
+      "id": "B-q13",
+      "word": "deploying",
+      "type": "english_to_hebrew",
+      "question": "What does “deploying” mean?",
+      "options": [
+        "פּוֹרֵס / מַצִּיב",
+        "לַוְיָנִים",
+        "מַעֲרֶכֶת לַוְיָנִים",
+        "נָחַת בַּמַּיִם"
+      ],
+      "correct_answer": "פּוֹרֵס / מַצִּיב",
+      "explanation_hebrew": "“deploying” פירושו פּוֹרֵס / מַצִּיב."
+    },
+    {
+      "id": "B-q14",
+      "word": "satellites",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “לַוְיָנִים”?",
+      "options": [
+        "constellation",
+        "ambition",
+        "satellites",
+        "grabbed"
+      ],
+      "correct_answer": "satellites",
+      "explanation_hebrew": "המילה “לַוְיָנִים” היא “satellites” באנגלית."
+    },
+    {
+      "id": "B-q15",
+      "word": "constellation",
+      "type": "english_to_hebrew",
+      "question": "What does “constellation” mean?",
+      "options": [
+        "שְׁאִיפָה",
+        "הַקָּפוֹת",
+        "נֶאֱחַז / נִתְפַּס",
+        "מַעֲרֶכֶת לַוְיָנִים"
+      ],
+      "correct_answer": "מַעֲרֶכֶת לַוְיָנִים",
+      "explanation_hebrew": "“constellation” פירושו מַעֲרֶכֶת לַוְיָנִים."
+    },
+    {
+      "id": "B-q16",
+      "word": "orbits",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “הַקָּפוֹת”?",
+      "options": [
+        "assessing",
+        "grabbed",
+        "orbits",
+        "dramatically"
+      ],
+      "correct_answer": "orbits",
+      "explanation_hebrew": "המילה “הַקָּפוֹת” היא “orbits” באנגלית."
+    },
+    {
+      "id": "B-q17",
+      "word": "grabbed",
+      "type": "english_to_hebrew",
+      "question": "What does “grabbed” mean?",
+      "options": [
+        "נָחַת בַּמַּיִם",
+        "נֶאֱחַז / נִתְפַּס",
+        "הַעֲרָכָה / בְּחִינָה",
+        "בְּאֹפֶן דְּרָמָטִי"
+      ],
+      "correct_answer": "נֶאֱחַז / נִתְפַּס",
+      "explanation_hebrew": "“grabbed” פירושו נֶאֱחַז / נִתְפַּס."
+    },
+    {
+      "id": "B-q18",
+      "word": "splashed",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “נָחַת בַּמַּיִם”?",
+      "options": [
+        "transition",
+        "splashed",
+        "assessing",
+        "vertically"
+      ],
+      "correct_answer": "splashed",
+      "explanation_hebrew": "המילה “נָחַת בַּמַּיִם” היא “splashed” באנגלית."
+    },
+    {
+      "id": "B-q19",
+      "word": "assessing",
+      "type": "english_to_hebrew",
+      "question": "What does “assessing” mean?",
+      "options": [
+        "הַעֲרָכָה / בְּחִינָה",
+        "אֲנָכִית",
+        "מַעֲבָר",
+        "שְׁאִיפָה"
+      ],
+      "correct_answer": "הַעֲרָכָה / בְּחִינָה",
+      "explanation_hebrew": "“assessing” פירושו הַעֲרָכָה / בְּחִינָה."
+    },
+    {
+      "id": "B-q20",
+      "word": "ambition",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “שְׁאִיפָה”?",
+      "options": [
+        "vertically",
+        "ambition",
+        "fundamentally",
+        "aborted"
+      ],
+      "correct_answer": "ambition",
+      "explanation_hebrew": "המילה “שְׁאִיפָה” היא “ambition” באנגלית."
+    },
+    {
+      "id": "B-q21",
+      "word": "vertically",
+      "type": "english_to_hebrew",
+      "question": "What does “vertically” mean?",
+      "options": [
+        "בְּאֹפֶן דְּרָמָטִי",
+        "הֻפְסַק",
+        "בְּאֹפֶן יְסוֹדִי",
+        "אֲנָכִית"
+      ],
+      "correct_answer": "אֲנָכִית",
+      "explanation_hebrew": "“vertically” פירושו אֲנָכִית."
+    },
+    {
+      "id": "B-q22",
+      "word": "dramatically",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “בְּאֹפֶן דְּרָמָטִי”?",
+      "options": [
+        "mechanical",
+        "fundamentally",
+        "dramatically",
+        "implications"
+      ],
+      "correct_answer": "dramatically",
+      "explanation_hebrew": "המילה “בְּאֹפֶן דְּרָמָטִי” היא “dramatically” באנגלית."
+    },
+    {
+      "id": "B-q23",
+      "word": "fundamentally",
+      "type": "english_to_hebrew",
+      "question": "What does “fundamentally” mean?",
+      "options": [
+        "הַשְׁלָכוֹת",
+        "מֵכָנִי",
+        "בְּאֹפֶן יְסוֹדִי",
+        "מַעֲבָר"
+      ],
+      "correct_answer": "בְּאֹפֶן יְסוֹדִי",
+      "explanation_hebrew": "“fundamentally” פירושו בְּאֹפֶן יְסוֹדִי."
+    },
+    {
+      "id": "B-q24",
+      "word": "transition",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית שפירושה “מַעֲבָר”?",
+      "options": [
+        "transition",
+        "attempt",
+        "diverted",
+        "implications"
+      ],
+      "correct_answer": "transition",
+      "explanation_hebrew": "המילה “מַעֲבָר” היא “transition” באנגלית."
+    },
+    {
+      "id": "B-q25",
+      "word": "implications",
+      "type": "english_to_hebrew",
+      "question": "What does “implications” mean?",
+      "options": [
+        "הֻפְסַק",
+        "הַשְׁלָכוֹת",
+        "נִסָּיוֹן",
+        "הֻסַּט"
+      ],
+      "correct_answer": "הַשְׁלָכוֹת",
+      "explanation_hebrew": "“implications” פירושו הַשְׁלָכוֹת."
+    }
+  ]
+}
