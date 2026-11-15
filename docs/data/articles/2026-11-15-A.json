@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-15",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
+  "published_at": "2026-11-14T22:27:06+00:00",
+  "age_hours_at_selection": 3.84,
+  "word_count": 464,
+  "generated_at": "2026-11-15T02:17:30.746352+00:00",
+  "difficulty_reason": "Short, direct news report with a single clear storyline and mostly B1/B2 vocabulary; little background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "suing",
+      "lemma": "sue",
+      "level": "B2",
+      "hebrew": "תּוֹבֵעַ (מגיש תביעה משפטית)",
+      "explanation_hebrew": "להגיש תביעה משפטית נגד מישהו",
+      "pronunciation_hebrew": "סוּאִינְג",
+      "example": "The company is suing its former partner."
+    },
+    {
+      "word": "tanker",
+      "lemma": "tanker",
+      "level": "B2",
+      "hebrew": "מְכָלִית",
+      "explanation_hebrew": "ספינה גדולה להובלת נוזלים כמו נפט",
+      "pronunciation_hebrew": "טַנְקֶר",
+      "example": "The oil tanker crossed the ocean."
+    },
+    {
+      "word": "collision",
+      "lemma": "collision",
+      "level": "B2",
+      "hebrew": "הִתְנַגְּשׁוּת",
+      "explanation_hebrew": "פגיעה חזקה בין שני גופים נעים",
+      "pronunciation_hebrew": "קוֹלִיזְ'ן",
+      "example": "The collision damaged both cars."
+    },
+    {
+      "word": "docked",
+      "lemma": "dock",
+      "level": "B2",
+      "hebrew": "עָגַן (לְיַד הָרָצִיף)",
+      "explanation_hebrew": "ספינה שעוגנת ונקשרת לרציף",
+      "pronunciation_hebrew": "דּוֹקְט",
+      "example": "The ship docked at the harbour."
+    },
+    {
+      "word": "fault",
+      "lemma": "fault",
+      "level": "B1",
+      "hebrew": "אַשְׁמָה / אַחְרָיוּת לְתַקָּלָה",
+      "explanation_hebrew": "האחריות על טעות או תאונה",
+      "pronunciation_hebrew": "פוֹלְט",
+      "example": "The accident was his fault."
+    },
+    {
+      "word": "rescued",
+      "lemma": "rescue",
+      "level": "B1",
+      "hebrew": "חִלֵּץ / הִצִּיל",
+      "explanation_hebrew": "להוציא מישהו ממצב מסוכן",
+      "pronunciation_hebrew": "רֶסְקְיוּד",
+      "example": "Firefighters rescued the family."
+    },
+    {
+      "word": "damage",
+      "lemma": "damage",
+      "level": "B1",
+      "hebrew": "נֶזֶק",
+      "explanation_hebrew": "פגיעה או הרס ברכוש",
+      "pronunciation_hebrew": "דֶּמֶגְ'",
+      "example": "The storm caused serious damage."
+    },
+    {
+      "word": "stricken",
+      "lemma": "stricken",
+      "level": "C1",
+      "hebrew": "פָּגוּעַ / מֻכֶּה קָשׁוֹת",
+      "explanation_hebrew": "שנפגע קשות מאסון או צרה",
+      "pronunciation_hebrew": "סְטְרִיקֶן",
+      "example": "The stricken ship began to sink."
+    },
+    {
+      "word": "hailed",
+      "lemma": "hail",
+      "level": "C1",
+      "hebrew": "שִׁבַּח / קִדֵּם בִּבְרָכָה",
+      "explanation_hebrew": "לתאר משהו בהתלהבות כמוצלח",
+      "pronunciation_hebrew": "הֵיְלְד",
+      "example": "The plan was hailed as a success."
+    },
+    {
+      "word": "investigation",
+      "lemma": "investigation",
+      "level": "B2",
+      "hebrew": "חֲקִירָה",
+      "explanation_hebrew": "בדיקה יסודית כדי לגלות עובדות",
+      "pronunciation_hebrew": "אִינְבֶסְטִיגֵיְשֶׁן",
+      "example": "Police opened an investigation."
+    },
+    {
+      "word": "steering",
+      "lemma": "steering",
+      "level": "B2",
+      "hebrew": "הֶגֶה / הִגּוּי",
+      "explanation_hebrew": "השליטה בכיוון של כלי רכב או ספינה",
+      "pronunciation_hebrew": "סְטִירִינְג",
+      "example": "The car lost steering control."
+    },
+    {
+      "word": "submerged",
+      "lemma": "submerge",
+      "level": "C1",
+      "hebrew": "שָׁקוּעַ מִתַּחַת לַמַּיִם",
+      "explanation_hebrew": "נמצא מתחת לפני המים",
+      "pronunciation_hebrew": "סָבְּמֶרְגְ'ד",
+      "example": "The rocks were submerged at high tide."
+    },
+    {
+      "word": "cargo",
+      "lemma": "cargo",
+      "level": "B2",
+      "hebrew": "מִטְעָן",
+      "explanation_hebrew": "סחורה המובלת בספינה או במטוס",
+      "pronunciation_hebrew": "קַרְגּוֹ",
+      "example": "The ship carried a heavy cargo."
+    },
+    {
+      "word": "vessel",
+      "lemma": "vessel",
+      "level": "B2",
+      "hebrew": "כְּלִי שַׁיִט / אֳנִיָּה",
+      "explanation_hebrew": "ספינה או סירה",
+      "pronunciation_hebrew": "וֶסֶל",
+      "example": "A fishing vessel entered the port."
+    },
+    {
+      "word": "incident",
+      "lemma": "incident",
+      "level": "B1",
+      "hebrew": "תַּקְרִית / אֵרוּעַ",
+      "explanation_hebrew": "מקרה, לרוב לא נעים",
+      "pronunciation_hebrew": "אִינְסִידֶנְט",
+      "example": "No one was hurt in the incident."
+    },
+    {
+      "word": "lawsuit",
+      "lemma": "lawsuit",
+      "level": "B2",
+      "hebrew": "תְּבִיעָה מִשְׁפָּטִית",
+      "explanation_hebrew": "הליך משפטי נגד אדם או גוף",
+      "pronunciation_hebrew": "לוֹסוּט",
+      "example": "They filed a lawsuit against the firm."
+    },
+    {
+      "word": "filed",
+      "lemma": "file",
+      "level": "B2",
+      "hebrew": "הִגִּישׁ (מִסְמָךְ רִשְׁמִי)",
+      "explanation_hebrew": "למסור מסמך רשמי לרשות או לבית משפט",
+      "pronunciation_hebrew": "פַיְלְד",
+      "example": "She filed a complaint yesterday."
+    },
+    {
+      "word": "seized",
+      "lemma": "seize",
+      "level": "B2",
+      "hebrew": "תָּפַס / הֶחְרִים",
+      "explanation_hebrew": "לקחת משהו בכוח או בסמכות חוקית",
+      "pronunciation_hebrew": "סִיזְד",
+      "example": "Police seized the stolen goods."
+    },
+    {
+      "word": "alleges",
+      "lemma": "allege",
+      "level": "C1",
+      "hebrew": "טוֹעֵן (לִפְנֵי הוֹכָחָה)",
+      "explanation_hebrew": "לטעון שמשהו קרה בלי שהוכח עדיין",
+      "pronunciation_hebrew": "אַלֶגְ'ז",
+      "example": "The report alleges serious wrongdoing."
+    },
+    {
+      "word": "negligence",
+      "lemma": "negligence",
+      "level": "C1",
+      "hebrew": "רַשְׁלָנוּת",
+      "explanation_hebrew": "חוסר זהירות הגורם לנזק",
+      "pronunciation_hebrew": "נֶגְלִיגֶ'נְס",
+      "example": "The crash was caused by negligence."
+    },
+    {
+      "word": "carelessness",
+      "lemma": "carelessness",
+      "level": "B2",
+      "hebrew": "חֹסֶר זְהִירוּת",
+      "explanation_hebrew": "התנהגות לא זהירה ולא אחראית",
+      "pronunciation_hebrew": "קֶרְלֶסְנֶס",
+      "example": "His carelessness caused the fire."
+    },
+    {
+      "word": "subsidiary",
+      "lemma": "subsidiary",
+      "level": "C1",
+      "hebrew": "חֶבְרַת בַּת",
+      "explanation_hebrew": "חברה שבבעלות חברה גדולה יותר",
+      "pronunciation_hebrew": "סָבְּסִידְיֶרִי",
+      "example": "The bank is a subsidiary of a larger group."
+    },
+    {
+      "word": "complying",
+      "lemma": "comply",
+      "level": "B2",
+      "hebrew": "מְצַיֵּת / פּוֹעֵל לְפִי הַכְּלָלִים",
+      "explanation_hebrew": "לפעול לפי חוקים או הוראות",
+      "pronunciation_hebrew": "קוֹמְפְּלַיִינְג",
+      "example": "The company is complying with the new rules."
+    },
+    {
+      "word": "authorities",
+      "lemma": "authority",
+      "level": "B1",
+      "hebrew": "רָשֻׁיּוֹת (גּוּפֵי שִׁלְטוֹן)",
+      "explanation_hebrew": "גופים רשמיים בעלי סמכות",
+      "pronunciation_hebrew": "אוֹתוֹרִיטִיז",
+      "example": "Local authorities closed the road."
+    },
+    {
+      "word": "waterway",
+      "lemma": "waterway",
+      "level": "B2",
+      "hebrew": "נְתִיב מַיִם / תְּעָלַת שַׁיִט",
+      "explanation_hebrew": "נהר או תעלה שספינות עוברות בהם",
+      "pronunciation_hebrew": "ווֹטֶרְוֵוי",
+      "example": "Boats travel along the waterway."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "suing",
+      "type": "english_to_hebrew",
+      "question": "What does “suing” mean?",
+      "options": [
+        "כְּלִי שַׁיִט",
+        "רַשְׁלָנוּת",
+        "תּוֹבֵעַ",
+        "פָּגוּעַ"
+      ],
+      "correct_answer": "תּוֹבֵעַ",
+      "explanation_hebrew": "המשמעות של “suing” היא ‘תּוֹבֵעַ’."
+    },
+    {
+      "id": "A-q2",
+      "word": "tanker",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מְכָלִית’?",
+      "options": [
+        "tanker",
+        "incident",
+        "carelessness",
+        "hailed"
+      ],
+      "correct_answer": "tanker",
+      "explanation_hebrew": "‘מְכָלִית’ באנגלית היא ‘tanker’."
+    },
+    {
+      "id": "A-q3",
+      "word": "collision",
+      "type": "english_to_hebrew",
+      "question": "What does “collision” mean?",
+      "options": [
+        "חֶבְרַת בַּת",
+        "הִתְנַגְּשׁוּת",
+        "תְּבִיעָה מִשְׁפָּטִית",
+        "חֲקִירָה"
+      ],
+      "correct_answer": "הִתְנַגְּשׁוּת",
+      "explanation_hebrew": "המשמעות של “collision” היא ‘הִתְנַגְּשׁוּת’."
+    },
+    {
+      "id": "A-q4",
+      "word": "docked",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘עָגַן’?",
+      "options": [
+        "filed",
+        "docked",
+        "steering",
+        "complying"
+      ],
+      "correct_answer": "docked",
+      "explanation_hebrew": "‘עָגַן’ באנגלית היא ‘docked’."
+    },
+    {
+      "id": "A-q5",
+      "word": "fault",
+      "type": "english_to_hebrew",
+      "question": "What does “fault” mean?",
+      "options": [
+        "אַשְׁמָה",
+        "תָּפַס",
+        "שָׁקוּעַ",
+        "רָשֻׁיּוֹת"
+      ],
+      "correct_answer": "אַשְׁמָה",
+      "explanation_hebrew": "המשמעות של “fault” היא ‘אַשְׁמָה’."
+    },
+    {
+      "id": "A-q6",
+      "word": "rescued",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘חִלֵּץ’?",
+      "options": [
+        "alleges",
+        "cargo",
+        "rescued",
+        "waterway"
+      ],
+      "correct_answer": "rescued",
+      "explanation_hebrew": "‘חִלֵּץ’ באנגלית היא ‘rescued’."
+    },
+    {
+      "id": "A-q7",
+      "word": "damage",
+      "type": "english_to_hebrew",
+      "question": "What does “damage” mean?",
+      "options": [
+        "כְּלִי שַׁיִט",
+        "תּוֹבֵעַ",
+        "רַשְׁלָנוּת",
+        "נֶזֶק"
+      ],
+      "correct_answer": "נֶזֶק",
+      "explanation_hebrew": "המשמעות של “damage” היא ‘נֶזֶק’."
+    },
+    {
+      "id": "A-q8",
+      "word": "stricken",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘פָּגוּעַ’?",
+      "options": [
+        "incident",
+        "carelessness",
+        "tanker",
+        "stricken"
+      ],
+      "correct_answer": "stricken",
+      "explanation_hebrew": "‘פָּגוּעַ’ באנגלית היא ‘stricken’."
+    },
+    {
+      "id": "A-q9",
+      "word": "hailed",
+      "type": "english_to_hebrew",
+      "question": "What does “hailed” mean?",
+      "options": [
+        "חֶבְרַת בַּת",
+        "הִתְנַגְּשׁוּת",
+        "תְּבִיעָה מִשְׁפָּטִית",
+        "שִׁבַּח"
+      ],
+      "correct_answer": "שִׁבַּח",
+      "explanation_hebrew": "המשמעות של “hailed” היא ‘שִׁבַּח’."
+    },
+    {
+      "id": "A-q10",
+      "word": "investigation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘חֲקִירָה’?",
+      "options": [
+        "filed",
+        "docked",
+        "complying",
+        "investigation"
+      ],
+      "correct_answer": "investigation",
+      "explanation_hebrew": "‘חֲקִירָה’ באנגלית היא ‘investigation’."
+    },
+    {
+      "id": "A-q11",
+      "word": "steering",
+      "type": "english_to_hebrew",
+      "question": "What does “steering” mean?",
+      "options": [
+        "הֶגֶה",
+        "תָּפַס",
+        "אַשְׁמָה",
+        "רָשֻׁיּוֹת"
+      ],
+      "correct_answer": "הֶגֶה",
+      "explanation_hebrew": "המשמעות של “steering” היא ‘הֶגֶה’."
+    },
+    {
+      "id": "A-q12",
+      "word": "submerged",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘שָׁקוּעַ’?",
+      "options": [
+        "alleges",
+        "submerged",
+        "waterway",
+        "rescued"
+      ],
+      "correct_answer": "submerged",
+      "explanation_hebrew": "‘שָׁקוּעַ’ באנגלית היא ‘submerged’."
+    },
+    {
+      "id": "A-q13",
+      "word": "cargo",
+      "type": "english_to_hebrew",
+      "question": "What does “cargo” mean?",
+      "options": [
+        "רַשְׁלָנוּת",
+        "מִטְעָן",
+        "נֶזֶק",
+        "תּוֹבֵעַ"
+      ],
+      "correct_answer": "מִטְעָן",
+      "explanation_hebrew": "המשמעות של “cargo” היא ‘מִטְעָן’."
+    },
+    {
+      "id": "A-q14",
+      "word": "vessel",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘כְּלִי שַׁיִט’?",
+      "options": [
+        "tanker",
+        "vessel",
+        "stricken",
+        "carelessness"
+      ],
+      "correct_answer": "vessel",
+      "explanation_hebrew": "‘כְּלִי שַׁיִט’ באנגלית היא ‘vessel’."
+    },
+    {
+      "id": "A-q15",
+      "word": "incident",
+      "type": "english_to_hebrew",
+      "question": "What does “incident” mean?",
+      "options": [
+        "שִׁבַּח",
+        "חֶבְרַת בַּת",
+        "הִתְנַגְּשׁוּת",
+        "תַּקְרִית"
+      ],
+      "correct_answer": "תַּקְרִית",
+      "explanation_hebrew": "המשמעות של “incident” היא ‘תַּקְרִית’."
+    },
+    {
+      "id": "A-q16",
+      "word": "lawsuit",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘תְּבִיעָה מִשְׁפָּטִית’?",
+      "options": [
+        "complying",
+        "investigation",
+        "docked",
+        "lawsuit"
+      ],
+      "correct_answer": "lawsuit",
+      "explanation_hebrew": "‘תְּבִיעָה מִשְׁפָּטִית’ באנגלית היא ‘lawsuit’."
+    },
+    {
+      "id": "A-q17",
+      "word": "filed",
+      "type": "english_to_hebrew",
+      "question": "What does “filed” mean?",
+      "options": [
+        "הֶגֶה",
+        "רָשֻׁיּוֹת",
+        "הִגִּישׁ",
+        "אַשְׁמָה"
+      ],
+      "correct_answer": "הִגִּישׁ",
+      "explanation_hebrew": "המשמעות של “filed” היא ‘הִגִּישׁ’."
+    },
+    {
+      "id": "A-q18",
+      "word": "seized",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘תָּפַס’?",
+      "options": [
+        "submerged",
+        "seized",
+        "rescued",
+        "waterway"
+      ],
+      "correct_answer": "seized",
+      "explanation_hebrew": "‘תָּפַס’ באנגלית היא ‘seized’."
+    },
+    {
+      "id": "A-q19",
+      "word": "alleges",
+      "type": "english_to_hebrew",
+      "question": "What does “alleges” mean?",
+      "options": [
+        "טוֹעֵן",
+        "מִטְעָן",
+        "נֶזֶק",
+        "תּוֹבֵעַ"
+      ],
+      "correct_answer": "טוֹעֵן",
+      "explanation_hebrew": "המשמעות של “alleges” היא ‘טוֹעֵן’."
+    },
+    {
+      "id": "A-q20",
+      "word": "negligence",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘רַשְׁלָנוּת’?",
+      "options": [
+        "vessel",
+        "negligence",
+        "tanker",
+        "stricken"
+      ],
+      "correct_answer": "negligence",
+      "explanation_hebrew": "‘רַשְׁלָנוּת’ באנגלית היא ‘negligence’."
+    },
+    {
+      "id": "A-q21",
+      "word": "carelessness",
+      "type": "english_to_hebrew",
+      "question": "What does “carelessness” mean?",
+      "options": [
+        "תַּקְרִית",
+        "חֹסֶר זְהִירוּת",
+        "שִׁבַּח",
+        "הִתְנַגְּשׁוּת"
+      ],
+      "correct_answer": "חֹסֶר זְהִירוּת",
+      "explanation_hebrew": "המשמעות של “carelessness” היא ‘חֹסֶר זְהִירוּת’."
+    },
+    {
+      "id": "A-q22",
+      "word": "subsidiary",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘חֶבְרַת בַּת’?",
+      "options": [
+        "investigation",
+        "docked",
+        "lawsuit",
+        "subsidiary"
+      ],
+      "correct_answer": "subsidiary",
+      "explanation_hebrew": "‘חֶבְרַת בַּת’ באנגלית היא ‘subsidiary’."
+    },
+    {
+      "id": "A-q23",
+      "word": "complying",
+      "type": "english_to_hebrew",
+      "question": "What does “complying” mean?",
+      "options": [
+        "מְצַיֵּת",
+        "אַשְׁמָה",
+        "הֶגֶה",
+        "הִגִּישׁ"
+      ],
+      "correct_answer": "מְצַיֵּת",
+      "explanation_hebrew": "המשמעות של “complying” היא ‘מְצַיֵּת’."
+    },
+    {
+      "id": "A-q24",
+      "word": "authorities",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘רָשֻׁיּוֹת’?",
+      "options": [
+        "seized",
+        "submerged",
+        "authorities",
+        "rescued"
+      ],
+      "correct_answer": "authorities",
+      "explanation_hebrew": "‘רָשֻׁיּוֹת’ באנגלית היא ‘authorities’."
+    },
+    {
+      "id": "A-q25",
+      "word": "waterway",
+      "type": "english_to_hebrew",
+      "question": "What does “waterway” mean?",
+      "options": [
+        "נֶזֶק",
+        "נְתִיב מַיִם",
+        "טוֹעֵן",
+        "מִטְעָן"
+      ],
+      "correct_answer": "נְתִיב מַיִם",
+      "explanation_hebrew": "המשמעות של “waterway” היא ‘נְתִיב מַיִם’."
+    }
+  ]
+}

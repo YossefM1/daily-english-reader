@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-15",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+  "published_at": "2026-11-14T17:20:33+00:00",
+  "age_hours_at_selection": 8.95,
+  "word_count": 665,
+  "generated_at": "2026-11-15T02:17:30.746352+00:00",
+  "difficulty_reason": "Moderate length and clear structure, but blends technical, environmental and policy ideas with B1/B2/C1 vocabulary.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "protest",
+      "lemma": "protest",
+      "level": "B1",
+      "hebrew": "מֶחָאָה / הַפְגָּנָה",
+      "explanation_hebrew": "הבעת התנגדות פומבית",
+      "pronunciation_hebrew": "פְּרוֹטֶסְט",
+      "example": "They held a protest in the city centre."
+    },
+    {
+      "word": "demonstrators",
+      "lemma": "demonstrator",
+      "level": "B2",
+      "hebrew": "מַפְגִּינִים",
+      "explanation_hebrew": "אנשים המשתתפים בהפגנה",
+      "pronunciation_hebrew": "דֶמוֹנְסְטְרֵייטֶרְז",
+      "example": "Demonstrators filled the square."
+    },
+    {
+      "word": "placards",
+      "lemma": "placard",
+      "level": "B2",
+      "hebrew": "שְׁלָטֵי מֶחָאָה",
+      "explanation_hebrew": "שלטים שמחזיקים בהפגנה",
+      "pronunciation_hebrew": "פְּלַקַארְדְז",
+      "example": "The crowd waved placards."
+    },
+    {
+      "word": "assembled",
+      "lemma": "assemble",
+      "level": "B2",
+      "hebrew": "הִתְאַסְּפוּ / הִתְכַּנְּסוּ",
+      "explanation_hebrew": "התקבצו יחד במקום אחד",
+      "pronunciation_hebrew": "אָסֶמְבְּלְד",
+      "example": "A crowd assembled outside."
+    },
+    {
+      "word": "marching",
+      "lemma": "march",
+      "level": "B1",
+      "hebrew": "צוֹעֲדִים (בְּתַהֲלוּכָה)",
+      "explanation_hebrew": "ללכת יחד בצעדה מאורגנת",
+      "pronunciation_hebrew": "מַארְצִ'ינְג",
+      "example": "Protesters were marching down the street."
+    },
+    {
+      "word": "widespread",
+      "lemma": "widespread",
+      "level": "B2",
+      "hebrew": "נִרְחָב / נָפוֹץ",
+      "explanation_hebrew": "קיים בשטח גדול או בקרב רבים",
+      "pronunciation_hebrew": "וַיְדְסְפְּרֶד",
+      "example": "There was widespread support for the plan."
+    },
+    {
+      "word": "environmental",
+      "lemma": "environmental",
+      "level": "B1",
+      "hebrew": "סְבִיבָתִי",
+      "explanation_hebrew": "הקשור לסביבה ולטבע",
+      "pronunciation_hebrew": "אֶנְוַיְרוֹנְמֶנְטַל",
+      "example": "The factory caused environmental harm."
+    },
+    {
+      "word": "strategy",
+      "lemma": "strategy",
+      "level": "B1",
+      "hebrew": "אֶסְטְרָטֶגְיָה / תָּכְנִית פְּעֻלָּה",
+      "explanation_hebrew": "תוכנית כללית להשגת מטרה",
+      "pronunciation_hebrew": "סְטְרָטֶגִ'י",
+      "example": "The team needs a new strategy."
+    },
+    {
+      "word": "maximise",
+      "lemma": "maximise",
+      "level": "B2",
+      "hebrew": "לְמַקְסֵם / לְהַגְדִּיל לַמַּקְסִימוּם",
+      "explanation_hebrew": "להגדיל משהו כמה שאפשר",
+      "pronunciation_hebrew": "מַקְסִימַייז",
+      "example": "They want to maximise profits."
+    },
+    {
+      "word": "slogans",
+      "lemma": "slogan",
+      "level": "B2",
+      "hebrew": "סִיסְמָאוֹת",
+      "explanation_hebrew": "משפטים קצרים וקליטים למסר",
+      "pronunciation_hebrew": "סְלוֹגֶנְז",
+      "example": "The crowd shouted slogans."
+    },
+    {
+      "word": "opposition",
+      "lemma": "opposition",
+      "level": "B1",
+      "hebrew": "הִתְנַגְּדוּת",
+      "explanation_hebrew": "עמדה נגד משהו",
+      "pronunciation_hebrew": "אוֹפּוֹזִישֶׁן",
+      "example": "There was strong opposition to the law."
+    },
+    {
+      "word": "construction",
+      "lemma": "construction",
+      "level": "B1",
+      "hebrew": "בְּנִיָּה / הֲקָמָה",
+      "explanation_hebrew": "תהליך בניית מבנה",
+      "pronunciation_hebrew": "קוֹנְסְטְרַקְשֶׁן",
+      "example": "The bridge is under construction."
+    },
+    {
+      "word": "operational",
+      "lemma": "operational",
+      "level": "B2",
+      "hebrew": "פָּעִיל / מִבְצָעִי",
+      "explanation_hebrew": "מוכן ופועל כמתוכנן",
+      "pronunciation_hebrew": "אוֹפֶּרֵיישֶׁנַל",
+      "example": "The system is now fully operational."
+    },
+    {
+      "word": "enrich",
+      "lemma": "enrich",
+      "level": "B2",
+      "hebrew": "לְהַעֲשִׁיר / לְשַׁפֵּר",
+      "explanation_hebrew": "להוסיף ערך או איכות",
+      "pronunciation_hebrew": "אֶנְרִיץ'",
+      "example": "Reading can enrich your life."
+    },
+    {
+      "word": "sheer",
+      "lemma": "sheer",
+      "level": "C1",
+      "hebrew": "מֻחְלָט / עָצוּם (לְהַדְגָּשָׁה)",
+      "explanation_hebrew": "מילה המדגישה גודל או עוצמה",
+      "pronunciation_hebrew": "שִׁיר",
+      "example": "The sheer size of the building was amazing."
+    },
+    {
+      "word": "monstrosity",
+      "lemma": "monstrosity",
+      "level": "C1",
+      "hebrew": "דָּבָר מְכֹעָר וְעָצוּם",
+      "explanation_hebrew": "דבר גדול ומכוער במיוחד",
+      "pronunciation_hebrew": "מוֹנְסְטְרוֹסִיטִי",
+      "example": "The new tower is a monstrosity."
+    },
+    {
+      "word": "pollution",
+      "lemma": "pollution",
+      "level": "B1",
+      "hebrew": "זִהוּם (אֲוִיר / סְבִיבָה)",
+      "explanation_hebrew": "לכלוך מזיק של האוויר, המים או הקרקע",
+      "pronunciation_hebrew": "פּוֹלוּשֶׁן",
+      "example": "Air pollution harms our health."
+    },
+    {
+      "word": "transformative",
+      "lemma": "transformative",
+      "level": "C1",
+      "hebrew": "מְשַׁנֶּה מֵהַיְּסוֹד / מְהַפְּכָנִי",
+      "explanation_hebrew": "שגורם לשינוי גדול ועמוק",
+      "pronunciation_hebrew": "טְרַנְסְפוֹרְמַטִיב",
+      "example": "It was a transformative experience."
+    },
+    {
+      "word": "capacity",
+      "lemma": "capacity",
+      "level": "B2",
+      "hebrew": "קִבֹּלֶת / יְכֹלֶת קְלִיטָה",
+      "explanation_hebrew": "הכמות המרבית שמשהו יכול להכיל",
+      "pronunciation_hebrew": "קָפָּסִיטִי",
+      "example": "The stadium has a large capacity."
+    },
+    {
+      "word": "moratorium",
+      "lemma": "moratorium",
+      "level": "C2",
+      "hebrew": "הַקְפָּאָה / עֲצִירָה זְמַנִּית",
+      "explanation_hebrew": "הפסקה רשמית וזמנית של פעילות",
+      "pronunciation_hebrew": "מוֹרָטוֹרְיוּם",
+      "example": "They called for a moratorium on building."
+    },
+    {
+      "word": "undermine",
+      "lemma": "undermine",
+      "level": "C1",
+      "hebrew": "לְעַרְעֵר / לַחְתֹּר תַּחַת",
+      "explanation_hebrew": "להחליש משהו בהדרגה",
+      "pronunciation_hebrew": "אַנְדֶרְמַיְן",
+      "example": "The scandal could undermine trust."
+    },
+    {
+      "word": "renewable",
+      "lemma": "renewable",
+      "level": "B2",
+      "hebrew": "מִתְחַדֵּשׁ (אֶנֶרְגִּיָה)",
+      "explanation_hebrew": "מקור שאינו אוזל, כמו שמש ורוח",
+      "pronunciation_hebrew": "רִינְיוּאֶבְּל",
+      "example": "Solar power is renewable energy."
+    },
+    {
+      "word": "discourse",
+      "lemma": "discourse",
+      "level": "C1",
+      "hebrew": "שִׂיחַ / דִּיּוּן צִבּוּרִי",
+      "explanation_hebrew": "דיון או שיחה על נושא מסוים",
+      "pronunciation_hebrew": "דִּיסְקוֹרְס",
+      "example": "Public discourse shapes opinions."
+    },
+    {
+      "word": "proposed",
+      "lemma": "propose",
+      "level": "B2",
+      "hebrew": "הֻצַּע / מֻצָּע",
+      "explanation_hebrew": "שהוגש כהצעה לשיקול",
+      "pronunciation_hebrew": "פְּרוֹפּוֹזְד",
+      "example": "The proposed law is still debated."
+    },
+    {
+      "word": "exceeding",
+      "lemma": "exceed",
+      "level": "B2",
+      "hebrew": "עוֹלֶה עַל / חוֹרֵג מִ",
+      "explanation_hebrew": "להיות יותר מגבול או מספר מסוים",
+      "pronunciation_hebrew": "אִיקְסִידִינְג",
+      "example": "Speeds exceeding the limit are fined."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "protest",
+      "type": "english_to_hebrew",
+      "question": "What does “protest” mean?",
+      "options": [
+        "הַקְפָּאָה זְמַנִּית",
+        "לְהַעֲשִׁיר",
+        "אֶסְטְרָטֶגְיָה",
+        "מֶחָאָה"
+      ],
+      "correct_answer": "מֶחָאָה",
+      "explanation_hebrew": "המשמעות של “protest” היא ‘מֶחָאָה’."
+    },
+    {
+      "id": "B-q2",
+      "word": "demonstrators",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מַפְגִּינִים’?",
+      "options": [
+        "maximise",
+        "undermine",
+        "sheer",
+        "demonstrators"
+      ],
+      "correct_answer": "demonstrators",
+      "explanation_hebrew": "‘מַפְגִּינִים’ באנגלית היא ‘demonstrators’."
+    },
+    {
+      "id": "B-q3",
+      "word": "placards",
+      "type": "english_to_hebrew",
+      "question": "What does “placards” mean?",
+      "options": [
+        "מִתְחַדֵּשׁ",
+        "סִיסְמָאוֹת",
+        "שְׁלָטֵי מֶחָאָה",
+        "מִפְלֶצֶת"
+      ],
+      "correct_answer": "שְׁלָטֵי מֶחָאָה",
+      "explanation_hebrew": "המשמעות של “placards” היא ‘שְׁלָטֵי מֶחָאָה’."
+    },
+    {
+      "id": "B-q4",
+      "word": "assembled",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘הִתְאַסְּפוּ’?",
+      "options": [
+        "discourse",
+        "assembled",
+        "opposition",
+        "pollution"
+      ],
+      "correct_answer": "assembled",
+      "explanation_hebrew": "‘הִתְאַסְּפוּ’ באנגלית היא ‘assembled’."
+    },
+    {
+      "id": "B-q5",
+      "word": "marching",
+      "type": "english_to_hebrew",
+      "question": "What does “marching” mean?",
+      "options": [
+        "צוֹעֲדִים",
+        "מֻצָּע",
+        "בְּנִיָּה",
+        "מְהַפְּכָנִי"
+      ],
+      "correct_answer": "צוֹעֲדִים",
+      "explanation_hebrew": "המשמעות של “marching” היא ‘צוֹעֲדִים’."
+    },
+    {
+      "id": "B-q6",
+      "word": "widespread",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘נִרְחָב’?",
+      "options": [
+        "capacity",
+        "widespread",
+        "exceeding",
+        "operational"
+      ],
+      "correct_answer": "widespread",
+      "explanation_hebrew": "‘נִרְחָב’ באנגלית היא ‘widespread’."
+    },
+    {
+      "id": "B-q7",
+      "word": "environmental",
+      "type": "english_to_hebrew",
+      "question": "What does “environmental” mean?",
+      "options": [
+        "לְהַעֲשִׁיר",
+        "סְבִיבָתִי",
+        "מֶחָאָה",
+        "הַקְפָּאָה זְמַנִּית"
+      ],
+      "correct_answer": "סְבִיבָתִי",
+      "explanation_hebrew": "המשמעות של “environmental” היא ‘סְבִיבָתִי’."
+    },
+    {
+      "id": "B-q8",
+      "word": "strategy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘אֶסְטְרָטֶגְיָה’?",
+      "options": [
+        "sheer",
+        "demonstrators",
+        "undermine",
+        "strategy"
+      ],
+      "correct_answer": "strategy",
+      "explanation_hebrew": "‘אֶסְטְרָטֶגְיָה’ באנגלית היא ‘strategy’."
+    },
+    {
+      "id": "B-q9",
+      "word": "maximise",
+      "type": "english_to_hebrew",
+      "question": "What does “maximise” mean?",
+      "options": [
+        "לְמַקְסֵם",
+        "מִתְחַדֵּשׁ",
+        "שְׁלָטֵי מֶחָאָה",
+        "מִפְלֶצֶת"
+      ],
+      "correct_answer": "לְמַקְסֵם",
+      "explanation_hebrew": "המשמעות של “maximise” היא ‘לְמַקְסֵם’."
+    },
+    {
+      "id": "B-q10",
+      "word": "slogans",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘סִיסְמָאוֹת’?",
+      "options": [
+        "assembled",
+        "slogans",
+        "pollution",
+        "discourse"
+      ],
+      "correct_answer": "slogans",
+      "explanation_hebrew": "‘סִיסְמָאוֹת’ באנגלית היא ‘slogans’."
+    },
+    {
+      "id": "B-q11",
+      "word": "opposition",
+      "type": "english_to_hebrew",
+      "question": "What does “opposition” mean?",
+      "options": [
+        "צוֹעֲדִים",
+        "הִתְנַגְּדוּת",
+        "מֻצָּע",
+        "מְהַפְּכָנִי"
+      ],
+      "correct_answer": "הִתְנַגְּדוּת",
+      "explanation_hebrew": "המשמעות של “opposition” היא ‘הִתְנַגְּדוּת’."
+    },
+    {
+      "id": "B-q12",
+      "word": "construction",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘בְּנִיָּה’?",
+      "options": [
+        "widespread",
+        "capacity",
+        "construction",
+        "exceeding"
+      ],
+      "correct_answer": "construction",
+      "explanation_hebrew": "‘בְּנִיָּה’ באנגלית היא ‘construction’."
+    },
+    {
+      "id": "B-q13",
+      "word": "operational",
+      "type": "english_to_hebrew",
+      "question": "What does “operational” mean?",
+      "options": [
+        "הַקְפָּאָה זְמַנִּית",
+        "מֶחָאָה",
+        "סְבִיבָתִי",
+        "פָּעִיל"
+      ],
+      "correct_answer": "פָּעִיל",
+      "explanation_hebrew": "המשמעות של “operational” היא ‘פָּעִיל’."
+    },
+    {
+      "id": "B-q14",
+      "word": "enrich",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘לְהַעֲשִׁיר’?",
+      "options": [
+        "demonstrators",
+        "undermine",
+        "strategy",
+        "enrich"
+      ],
+      "correct_answer": "enrich",
+      "explanation_hebrew": "‘לְהַעֲשִׁיר’ באנגלית היא ‘enrich’."
+    },
+    {
+      "id": "B-q15",
+      "word": "sheer",
+      "type": "english_to_hebrew",
+      "question": "What does “sheer” mean?",
+      "options": [
+        "לְמַקְסֵם",
+        "שְׁלָטֵי מֶחָאָה",
+        "עָצוּם",
+        "מִתְחַדֵּשׁ"
+      ],
+      "correct_answer": "עָצוּם",
+      "explanation_hebrew": "המשמעות של “sheer” היא ‘עָצוּם’."
+    },
+    {
+      "id": "B-q16",
+      "word": "monstrosity",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מִפְלֶצֶת’?",
+      "options": [
+        "slogans",
+        "discourse",
+        "assembled",
+        "monstrosity"
+      ],
+      "correct_answer": "monstrosity",
+      "explanation_hebrew": "‘מִפְלֶצֶת’ באנגלית היא ‘monstrosity’."
+    },
+    {
+      "id": "B-q17",
+      "word": "pollution",
+      "type": "english_to_hebrew",
+      "question": "What does “pollution” mean?",
+      "options": [
+        "הִתְנַגְּדוּת",
+        "זִהוּם",
+        "צוֹעֲדִים",
+        "מֻצָּע"
+      ],
+      "correct_answer": "זִהוּם",
+      "explanation_hebrew": "המשמעות של “pollution” היא ‘זִהוּם’."
+    },
+    {
+      "id": "B-q18",
+      "word": "transformative",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מְהַפְּכָנִי’?",
+      "options": [
+        "construction",
+        "widespread",
+        "transformative",
+        "exceeding"
+      ],
+      "correct_answer": "transformative",
+      "explanation_hebrew": "‘מְהַפְּכָנִי’ באנגלית היא ‘transformative’."
+    },
+    {
+      "id": "B-q19",
+      "word": "capacity",
+      "type": "english_to_hebrew",
+      "question": "What does “capacity” mean?",
+      "options": [
+        "קִבֹּלֶת",
+        "סְבִיבָתִי",
+        "פָּעִיל",
+        "מֶחָאָה"
+      ],
+      "correct_answer": "קִבֹּלֶת",
+      "explanation_hebrew": "המשמעות של “capacity” היא ‘קִבֹּלֶת’."
+    },
+    {
+      "id": "B-q20",
+      "word": "moratorium",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘הַקְפָּאָה זְמַנִּית’?",
+      "options": [
+        "moratorium",
+        "enrich",
+        "strategy",
+        "demonstrators"
+      ],
+      "correct_answer": "moratorium",
+      "explanation_hebrew": "‘הַקְפָּאָה זְמַנִּית’ באנגלית היא ‘moratorium’."
+    },
+    {
+      "id": "B-q21",
+      "word": "undermine",
+      "type": "english_to_hebrew",
+      "question": "What does “undermine” mean?",
+      "options": [
+        "לְעַרְעֵר",
+        "שְׁלָטֵי מֶחָאָה",
+        "לְמַקְסֵם",
+        "עָצוּם"
+      ],
+      "correct_answer": "לְעַרְעֵר",
+      "explanation_hebrew": "המשמעות של “undermine” היא ‘לְעַרְעֵר’."
+    },
+    {
+      "id": "B-q22",
+      "word": "renewable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מִתְחַדֵּשׁ’?",
+      "options": [
+        "monstrosity",
+        "renewable",
+        "slogans",
+        "assembled"
+      ],
+      "correct_answer": "renewable",
+      "explanation_hebrew": "‘מִתְחַדֵּשׁ’ באנגלית היא ‘renewable’."
+    },
+    {
+      "id": "B-q23",
+      "word": "discourse",
+      "type": "english_to_hebrew",
+      "question": "What does “discourse” mean?",
+      "options": [
+        "הִתְנַגְּדוּת",
+        "זִהוּם",
+        "שִׂיחַ צִבּוּרִי",
+        "צוֹעֲדִים"
+      ],
+      "correct_answer": "שִׂיחַ צִבּוּרִי",
+      "explanation_hebrew": "המשמעות של “discourse” היא ‘שִׂיחַ צִבּוּרִי’."
+    },
+    {
+      "id": "B-q24",
+      "word": "proposed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה ‘מֻצָּע’?",
+      "options": [
+        "proposed",
+        "widespread",
+        "transformative",
+        "construction"
+      ],
+      "correct_answer": "proposed",
+      "explanation_hebrew": "‘מֻצָּע’ באנגלית היא ‘proposed’."
+    },
+    {
+      "id": "B-q25",
+      "word": "exceeding",
+      "type": "english_to_hebrew",
+      "question": "What does “exceeding” mean?",
+      "options": [
+        "עוֹלֶה עַל",
+        "סְבִיבָתִי",
+        "פָּעִיל",
+        "קִבֹּלֶת"
+      ],
+      "correct_answer": "עוֹלֶה עַל",
+      "explanation_hebrew": "המשמעות של “exceeding” היא ‘עוֹלֶה עַל’."
+    }
+  ]
+}
