@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-15",
+  "article_id": "A",
+  "article_title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main new development reported in the article?",
+      "difficulty": "A",
+      "options": [
+        "The Port of New Orleans has sued the tanker's owners and managers over the collision and damage",
+        "The American Heritage has begun a new eight-day cruise",
+        "The tanker crew has been charged with criminal offences",
+        "The port has reopened every terminal without repairs"
+      ],
+      "correct_answer": "The Port of New Orleans has sued the tanker's owners and managers over the collision and damage",
+      "explanation_hebrew": "ההתפתחות המרכזית היא תביעה פדרלית של הנמל נגד בעלי ומנהלי המכלית בגין ההתנגשות והנזק."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much damage does the port say the collision caused?",
+      "difficulty": "A",
+      "options": [
+        "About $100,000",
+        "More than $1 million",
+        "Exactly $32 million",
+        "Less than £1,000"
+      ],
+      "correct_answer": "More than $1 million",
+      "explanation_hebrew": "לפי מסמכי בית המשפט, הנמל טוען לנזק של יותר ממיליון דולר."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which three defendants are named in the federal lawsuit?",
+      "difficulty": "A",
+      "options": [
+        "The American Heritage, its passengers and the Coast Guard",
+        "The mayor, the port authority and a tugboat operator",
+        "The M/V Atlantic Asphalt, Nave Shipping SA and Thome Ship Management",
+        "The cruise line, Louisiana and Mississippi"
+      ],
+      "correct_answer": "The M/V Atlantic Asphalt, Nave Shipping SA and Thome Ship Management",
+      "explanation_hebrew": "התביעה מציינת את המכלית עצמה, את בעליה Nave Shipping SA ואת חברת הניהול Thome Ship Management."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “seized” mean when the lawsuit asks for the tanker to be seized and sold?",
+      "difficulty": "A",
+      "options": [
+        "Painted in a new colour",
+        "Allowed to leave immediately",
+        "Inspected only by its owners",
+        "Taken under legal control"
+      ],
+      "correct_answer": "Taken under legal control",
+      "explanation_hebrew": "seized בהקשר משפטי פירושו תפיסה והעברה לשליטה חוקית, כדי שניתן יהיה למכור את המכלית לתשלום הנזק."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What expenses does the port want the lawsuit to cover?",
+      "difficulty": "A",
+      "options": [
+        "Cleanup, inspections, repairs and other collision-related costs",
+        "Free future cruises for every passenger",
+        "Construction of a new airport",
+        "The purchase of more tugboats for Mississippi"
+      ],
+      "correct_answer": "Cleanup, inspections, repairs and other collision-related costs",
+      "explanation_hebrew": "הנמל מבקש כסף לכיסוי ניקוי, בדיקות, תיקונים והוצאות נוספות הנובעות מההתנגשות."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the allegation, what does “negligence” mean?",
+      "difficulty": "A",
+      "options": [
+        "A sudden change in the weather",
+        "Failure to take reasonable care",
+        "A successful rescue operation",
+        "A formal request for compensation"
+      ],
+      "correct_answer": "Failure to take reasonable care",
+      "explanation_hebrew": "negligence פירושו רשלנות — אי־נקיטת זהירות סבירה, שלפי התביעה תרמה להתנגשות."
+    },
+    {
+      "id": "A-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the report distinguish the lawsuit's allegations from the official investigation?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את ההבדל בין טענה משפטית לבין קביעה עובדתית סופית.",
+      "expected_points": [
+        "The lawsuit claims the tanker and operating companies were at fault",
+        "It alleges negligence and failure to avoid the collision",
+        "The exact cause is still under investigation",
+        "A possible loss of steering has been mentioned but not established as the final cause"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the collision, its human outcome and the port's legal response.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את כלי השיט, תוצאות החילוץ, הנזק והסעד שהתביעה מבקשת.",
+      "expected_points": [
+        "The Atlantic Asphalt struck the docked American Heritage",
+        "The cruise ship ended up on its side and partially submerged",
+        "Thirty-two people had non-critical injuries and everyone was accounted for",
+        "The port says its terminal suffered more than $1 million in damage",
+        "The lawsuit seeks money for cleanup, inspections and repairs and asks for the tanker to be seized and sold"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "What details suggest that the rescue response reduced the risk of a worse human outcome?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לזהות את היקף הסכנה ואת הפעולות שננקטו במהירות.",
+      "expected_points": [
+        "About 129 passengers plus crew were aboard the cruise ship",
+        "The ship was partly submerged and on its side",
+        "Tugboat operators, police and other rescuers rushed to help",
+        "Officials stopped Mississippi River traffic during the rescue",
+        "No-one was unaccounted for and there were no critical injuries"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining why the port is asking both for compensation and for the tanker to be sold.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין טענות האחריות, הוצאות הנמל והבקשה המשפטית למכירת המכלית.",
+      "expected_points": [
+        "The port alleges the tanker and its operators caused the collision through negligence",
+        "The terminal was significantly damaged",
+        "The port expects cleanup, inspection, repair and other costs",
+        "Compensation would pay those expenses",
+        "Selling the seized tanker is presented as a way to fund the damage payment"
+      ]
+    }
+  ]
+}

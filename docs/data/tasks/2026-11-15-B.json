@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-15",
+  "article_id": "B",
+  "article_title": "Thousands turn out in Edinburgh to protest against AI data centres",
+  "article_url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the report mainly about?",
+      "difficulty": "B",
+      "options": [
+        "A technology exhibition held inside the Scottish Parliament",
+        "A large Edinburgh protest over the environmental and local impact of planned AI data centres",
+        "The closure of Scotland's existing data centres",
+        "A government decision to cancel every AI project"
+      ],
+      "correct_answer": "A large Edinburgh protest over the environmental and local impact of planned AI data centres",
+      "explanation_hebrew": "הכתבה עוסקת במחאה גדולה באדינבורו נגד מרכזי נתונים לבינה מלאכותית והשלכותיהם הסביבתיות והמקומיות."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What route did the demonstrators take?",
+      "difficulty": "B",
+      "options": [
+        "From Chapelcross to Airdrie",
+        "From Larbert to Cockenzie",
+        "From the top of the Royal Mile towards the Scottish Parliament",
+        "From Edinburgh Airport to the city centre"
+      ],
+      "correct_answer": "From the top of the Royal Mile towards the Scottish Parliament",
+      "explanation_hebrew": "המפגינים התאספו בראש ה-Royal Mile וצעדו לעבר הפרלמנט הסקוטי."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does the planned Chapelcross site's capacity compare with Scotland's largest current data centre?",
+      "difficulty": "B",
+      "options": [
+        "Both have a capacity of 12MW",
+        "Chapelcross would have 50MW rather than 1,000MW",
+        "Chapelcross would have 1,000MW, compared with about 12MW at DataVita's Airdrie site",
+        "The current Airdrie site is larger than the proposed Chapelcross site"
+      ],
+      "correct_answer": "Chapelcross would have 1,000MW, compared with about 12MW at DataVita's Airdrie site",
+      "explanation_hebrew": "המתקן המתוכנן בצ'אפלקרוס צפוי להיות בעל הספק של 1,000MW, לעומת כ־12MW במתקן DataVita באיירדרי."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “moratorium” mean in the call made by the Scottish Greens and campaign groups?",
+      "difficulty": "B",
+      "options": [
+        "A temporary halt to approving or building large data centres",
+        "A tax reduction for technology companies",
+        "A measurement of electricity capacity",
+        "A permanent ban on renewable energy"
+      ],
+      "correct_answer": "A temporary halt to approving or building large data centres",
+      "explanation_hebrew": "moratorium הוא השעיה או עצירה זמנית, כאן של קידום מרכזי נתונים גדולים."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which construction and operating concerns did Kim Cairns identify?",
+      "difficulty": "B",
+      "options": [
+        "A shortage of programmers and university courses",
+        "Lower internet speeds and fewer tourists",
+        "Noise, road closures, access problems, pollution and very high electricity use",
+        "A lack of costumes and protest placards"
+      ],
+      "correct_answer": "Noise, road closures, access problems, pollution and very high electricity use",
+      "explanation_hebrew": "קיירנס הזכירה רעש, חסימות כבישים, קשיי גישה, זיהום אוויר ואור וצריכת חשמל עצומה."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "When Alyn Smith calls data centres “the whisky bonds of the AI sector”, what is he suggesting?",
+      "difficulty": "B",
+      "options": [
+        "They should be used only to store whisky records",
+        "They can be major industrial assets that support economic activity",
+        "They require no planning oversight",
+        "They are small buildings with little energy demand"
+      ],
+      "correct_answer": "They can be major industrial assets that support economic activity",
+      "explanation_hebrew": "ההשוואה למחסני הוויסקי מציגה את מרכזי הנתונים כתשתית תעשייתית חשובה שעשויה להביא תועלת כלכלית."
+    },
+    {
+      "id": "B-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do campaigners argue that the Chapelcross proposal could have national rather than only local effects?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשר בין ממדי המתקן, צריכת האנרגיה וההשפעות על מדיניות ארצית.",
+      "expected_points": [
+        "The proposed capacity is 1,000MW, far larger than existing Scottish facilities",
+        "Such a site would require very large amounts of electricity",
+        "Campaigners fear pressure on renewable energy supplies and higher energy bills",
+        "They argue it could affect national climate targets",
+        "The scale could create impacts beyond the immediate community"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the main arguments of protesters and the Scottish government's response.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג חששות סביבתיים ומקומיים מול צעדי התכנון והטענה לתועלת ציבורית.",
+      "expected_points": [
+        "Protesters fear noise, construction disruption, land use, pollution and heavy electricity demand",
+        "Campaigners say large sites could undermine climate targets and raise bills",
+        "Some groups want a moratorium and greater public control",
+        "The government says data centres may provide public benefit",
+        "New guidance is due before year-end",
+        "Applications over 50MW require notification to ministers and an Environmental Impact Assessment"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the government require an Environmental Impact Assessment for new data centres above 50MW?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד הסף קשור להיקף ההשפעה ולצורך בבחינה לפני אישור.",
+      "expected_points": [
+        "Higher-capacity sites can use much more electricity",
+        "Large projects may affect climate goals, land, noise and local infrastructure",
+        "An assessment makes developers document likely environmental effects",
+        "The rule gives planning authorities and ministers more evidence before decisions"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short recommendation for how Scotland should decide whether to approve a large AI data centre.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע תהליך מאוזן הכולל תועלת, עלויות, שיתוף ציבור ובדיקות סביבתיות.",
+      "expected_points": [
+        "Measure economic and public benefits rather than assuming them",
+        "Assess electricity demand, emissions, noise, pollution and land use",
+        "Consult affected communities and consider access and construction disruption",
+        "Require a credible Environmental Impact Assessment",
+        "Consider effects on national energy supplies, bills and climate targets"
+      ]
+    }
+  ]
+}
