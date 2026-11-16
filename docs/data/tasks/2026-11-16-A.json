@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-16",
+  "article_id": "A",
+  "article_title": "Cancer 'sponge' tests for bad indigestion could be offered to more people",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o",
+  "article_level": "A",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What change do the draft NHS guidelines recommend?",
+      "difficulty": "A",
+      "options": [
+        "Offering quick sponge tests more widely to people with persistent indigestion",
+        "Replacing every cancer test with a blood test",
+        "Stopping long-term monitoring after a negative result",
+        "Closing GP surgeries that cannot perform endoscopy"
+      ],
+      "correct_answer": "Offering quick sponge tests more widely to people with persistent indigestion",
+      "explanation_hebrew": "ההמלצה היא להרחיב את השימוש בבדיקת הספוג לאנשים עם צרבת או קלקול קיבה מתמשך, כדי לאתר שינויים מדאיגים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does the sponge collect cells from the oesophagus?",
+      "difficulty": "A",
+      "options": [
+        "A camera photographs cells in the stomach",
+        "A capsule releases a sponge that is pulled back out by its thread",
+        "A blood sample is taken after a meal",
+        "The patient wears a sensor for one week"
+      ],
+      "correct_answer": "A capsule releases a sponge that is pulled back out by its thread",
+      "explanation_hebrew": "המטופל בולע קפסולה המחוברת לחוט; היא מתמוססת, משחררת ספוג קטן שאוסף תאים בעת שליפתו."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What condition linked to long-term cancer risk can be caused by persistent reflux?",
+      "difficulty": "A",
+      "options": [
+        "Lung fibrosis",
+        "Diabetes",
+        "Barrett's oesophagus",
+        "Kidney stones"
+      ],
+      "correct_answer": "Barrett's oesophagus",
+      "explanation_hebrew": "רפלוקס ממושך עלול להיות קשור ל-Barrett's oesophagus, מצב שבו תאי רירית הוושט מתחילים להשתנות."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “less invasive” mean when the sponge test is compared with endoscopy?",
+      "difficulty": "A",
+      "options": [
+        "It costs more money",
+        "It takes place only in hospital",
+        "It gives a guaranteed diagnosis",
+        "It involves less entry into or disturbance of the body"
+      ],
+      "correct_answer": "It involves less entry into or disturbance of the body",
+      "explanation_hebrew": "less invasive פירושו שהבדיקה חודרת פחות לגוף ומכבידה פחות על המטופל לעומת אנדוסקופיה עם מצלמה."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Approximately how common is Barrett's oesophagus among adults?",
+      "difficulty": "A",
+      "options": [
+        "Between one and two in every 100 adults",
+        "One in every two adults",
+        "Fewer than one in a million adults",
+        "Exactly 25 in every 100 adults"
+      ],
+      "correct_answer": "Between one and two in every 100 adults",
+      "explanation_hebrew": "לפי הכתבה, בין מבוגר אחד לשניים מכל מאה סובלים מ-Barrett's oesophagus."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the report, what does “all-clear” mean?",
+      "difficulty": "A",
+      "options": [
+        "The test equipment has been cleaned",
+        "The result shows no concerning changes were found",
+        "The patient will never need monitoring again",
+        "The capsule has fully dissolved"
+      ],
+      "correct_answer": "The result shows no concerning changes were found",
+      "explanation_hebrew": "all-clear מתאר תוצאה שלא נמצאו בה סימנים מדאיגים, אך הכתבה מדגישה שעדיין נדרש מעקב ארוך טווח."
+    },
+    {
+      "id": "A-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "How could wider sponge testing reduce pressure on NHS services?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את הקשר בין מקום הבדיקה, אנדוסקופיות ומשאבים.",
+      "expected_points": [
+        "The test can be completed in minutes at a GP surgery",
+        "It is simpler and less invasive than hospital endoscopy",
+        "It can identify who actually needs further tests or treatment",
+        "It may reduce demand for more complicated endoscopies",
+        "Freed resources could help the NHS find cancers earlier"
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the sponge test works, who it may help and its main limitation.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את שלבי הבדיקה, אוכלוסיית היעד והצורך במעקב גם לאחר תוצאה תקינה.",
+      "expected_points": [
+        "It may be offered to people with persistent indigestion or reflux",
+        "The patient swallows a dissolving capsule attached to a thread",
+        "The released sponge collects oesophageal cells as it is pulled out",
+        "The cells are analysed for Barrett's oesophagus or cancer-related changes",
+        "No diagnostic test detects every case, so a negative result still requires long-term monitoring"
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why should a patient with a negative sponge-test result continue to be monitored?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את מגבלת הרגישות של בדיקות אבחון ואת הסיכון המתמשך.",
+      "expected_points": [
+        "No diagnostic test identifies every case",
+        "The sponge test can miss concerning changes",
+        "Endoscopy can also miss cases",
+        "Barrett's oesophagus carries a long-term cancer risk",
+        "Monitoring can detect later changes"
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a short paragraph explaining one benefit and one caution of offering sponge tests more widely.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג יתרון מעשי או רפואי לצד מגבלה ברורה מתוך הכתבה.",
+      "expected_points": [
+        "Benefits include a quick GP-based and less invasive check",
+        "It may reduce unnecessary endoscopies and identify people needing treatment",
+        "It may give patients peace of mind",
+        "A negative result is not a guarantee",
+        "Patients should still receive appropriate long-term monitoring"
+      ]
+    }
+  ]
+}

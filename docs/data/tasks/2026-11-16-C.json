@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-16",
+  "article_id": "C",
+  "article_title": "Russia's mega-rich are already imagining a post-Putin future",
+  "article_url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o",
+  "article_level": "C",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What change among some Russian tycoons does the article identify?",
+      "difficulty": "C",
+      "options": [
+        "They have openly formed a party to remove Putin immediately",
+        "They are quietly considering how to regain influence or achieve healthier politics after Putin",
+        "They have abandoned all interest in Russian politics",
+        "They have collectively transferred their wealth to the government"
+      ],
+      "correct_answer": "They are quietly considering how to regain influence or achieve healthier politics after Putin",
+      "explanation_hebrew": "הכתבה מתארת כיצד חלק מהעשירים מתחילים לדמיין את היום שאחרי פוטין — מחזרת אוליגרכיה ועד פוליטיקה פתוחה ובריאה יותר."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How has the Kremlin used a “carrot and stick” policy toward wealthy businessmen since 2022?",
+      "difficulty": "C",
+      "options": [
+        "It offered every critic a government ministry",
+        "It seized critics' assets while rewarding loyalists with war contracts",
+        "It ended sanctions and returned every yacht",
+        "It required all billionaires to leave Russia"
+      ],
+      "correct_answer": "It seized critics' assets while rewarding loyalists with war contracts",
+      "explanation_hebrew": "ה'מקל' היה תפיסת נכסים של מבקרי המלחמה, וה'גזר' היה חוזים ממשלתיים נדיבים לנאמנים."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What three broad post-Putin paths do analysts discuss?",
+      "difficulty": "C",
+      "options": [
+        "Democracy, renewed autocracy, or a return to oligarchic rule",
+        "Monarchy, military occupation, or division into states",
+        "Immediate EU membership, neutrality, or isolation",
+        "Communism, colonialism, or direct corporate ownership"
+      ],
+      "correct_answer": "Democracy, renewed autocracy, or a return to oligarchic rule",
+      "explanation_hebrew": "התרחישים הם פתיחה דמוקרטית, ממשיך אוטוקרטי חדש, או חזרה למערכת אוליגרכית בסגנון שנות התשעים."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “jockey for position” mean in the discussion of wealthy Russians with liquid cash?",
+      "difficulty": "C",
+      "options": [
+        "Compete strategically to gain influence or advantage",
+        "Move their money into horse racing",
+        "Leave politics to security officials",
+        "Publicly donate all their assets"
+      ],
+      "correct_answer": "Compete strategically to gain influence or advantage",
+      "explanation_hebrew": "jockey for position פירושו להתחרות ולמקם את עצמך אסטרטגית לקראת מאבק עתידי על כוח והשפעה."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was Andrey Melnichenko's interview with The Economist considered unusual?",
+      "difficulty": "C",
+      "options": [
+        "He announced that he would become prime minister",
+        "He admitted to owning no businesses",
+        "A very rich Russian spoke to a publication from a country the Kremlin views as unfriendly and argued against one-man rule",
+        "He revealed the date of Putin's departure"
+      ],
+      "correct_answer": "A very rich Russian spoke to a publication from a country the Kremlin views as unfriendly and argued against one-man rule",
+      "explanation_hebrew": "הראיון היה חריג משום שאוליגרך בכיר דיבר עם כתב עת ממדינה לא ידידותית וקרא לשינוי שיסיים שלטון של אדם אחד."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does it mean that Putin “subjugated” the oligarchs after taking power?",
+      "difficulty": "C",
+      "options": [
+        "He placed them under his control and reduced their independent power",
+        "He gave them equal authority over the state",
+        "He encouraged them to fund opposition parties",
+        "He allowed them to write the constitution"
+      ],
+      "correct_answer": "He placed them under his control and reduced their independent power",
+      "explanation_hebrew": "subjugated פירושו הכפיף אותם למרותו וצמצם את כוחם העצמאי להשפיע על הפוליטיקה."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do analysts regard a democratic transition as the least likely immediate outcome after Putin?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין מצב המוסדות, תרבות האלימות וקשיי המעבר.",
+      "expected_points": [
+        "Democratic institutions have been eroded or destroyed during Putin's rule",
+        "Russia has become accustomed to repression and violence",
+        "Standard democratic procedures are no longer familiar or well established",
+        "A power vacuum could favour organised elites or another authoritarian figure",
+        "Building functioning democratic competition would take time"
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how Putin changed the position of oligarchs and why some are now thinking about a post-Putin order.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להשוות בין שנות התשעים לעידן פוטין, ולשלב מלחמה, סנקציות ותמריצים כלכליים.",
+      "expected_points": [
+        "In the 1990s, wealthy businessmen used money to influence politicians",
+        "Putin brought them under state control after 2000",
+        "The Khodorkovsky case warned them about the cost of opposition",
+        "Since 2022 critics have lost assets while loyalists received state contracts",
+        "Western sanctions limit their lives and business abroad",
+        "Some now feel politically powerless and see the war as a dead end",
+        "They hope eventually to regain influence or see more open politics"
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why might tycoons with liquid cash behave differently from those dependent on state contracts?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר כיצד מבנה העושר משנה את מידת החופש והסיכון הפוליטי.",
+      "expected_points": [
+        "Liquid cash is less directly dependent on continued government favour",
+        "Financially independent tycoons may feel safer building alliances or preparing for succession",
+        "Those reliant on state contracts can lose their wealth if the Kremlin turns against them",
+        "Dependence therefore discourages political manoeuvring",
+        "Even independent tycoons still face serious personal risk under Putin"
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph assessing whether an oligarchic revival could produce a healthier post-Putin Russia.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג אפשרות לפתיחות לצד סיכוני שלטון האליטות, ולהשתמש ברקע ההיסטורי מהכתבה.",
+      "expected_points": [
+        "Some tycoons want less repression, freer speech and stronger political competition",
+        "A weaker successor might create space for pluralism",
+        "The 1990s oligarchic system involved corruption, cronyism and elite control of politicians",
+        "Rule by a few wealthy clans would not itself be democracy",
+        "A healthier outcome would require institutions and public accountability, not only redistributed elite power"
+      ]
+    }
+  ]
+}

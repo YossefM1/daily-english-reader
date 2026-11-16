@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-16",
+  "article_id": "B",
+  "article_title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
+  "article_level": "B",
+  "profile_version_used": 1,
+  "adaptation_summary": {
+    "recommended_level": "B",
+    "primary_focus": "vocabulary_context",
+    "confidence": "medium"
+  },
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the central trade-off in the proposed UK-EU food deal?",
+      "difficulty": "B",
+      "options": [
+        "The UK would stop exporting food but gain control of EU elections",
+        "The UK would reduce trade barriers by aligning with EU rules while lacking a vote on those rules",
+        "The EU would adopt every British food regulation",
+        "The UK would leave all European trade arrangements immediately"
+      ],
+      "correct_answer": "The UK would reduce trade barriers by aligning with EU rules while lacking a vote on those rules",
+      "explanation_hebrew": "העסקה אמורה לצמצם חסמי סחר באמצעות התאמה לכללי האיחוד, אך לבריטניה לא תהיה זכות הצבעה על הכללים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why might the agreement include an exit clause?",
+      "difficulty": "B",
+      "options": [
+        "To allow supermarkets to stop selling imported food",
+        "Because the EU worries a future UK government could reverse the alignment and force border facilities to be rebuilt",
+        "To ban Conservative and Reform politicians from future summits",
+        "Because the deal requires an immediate membership fee"
+      ],
+      "correct_answer": "Because the EU worries a future UK government could reverse the alignment and force border facilities to be rebuilt",
+      "explanation_hebrew": "האיחוד חושש שממשלה עתידית תבטל את ההסדרים, ואז יהיה צורך לבנות מחדש מתקני בדיקות גבול שיפורקו."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much documentation can some M&S food-export trucks require?",
+      "difficulty": "B",
+      "options": [
+        "Fewer than ten pages",
+        "About 30 pages",
+        "More than 300 pages",
+        "No paperwork at all"
+      ],
+      "correct_answer": "More than 300 pages",
+      "explanation_hebrew": "לפי הכתבה, חלק ממשאיות היצוא של M&S זקוקות ליותר מ־300 עמודי מסמכים."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “rule taker” mean in the criticism of the reset?",
+      "difficulty": "B",
+      "options": [
+        "A country that follows rules it cannot formally vote on",
+        "A government that writes every EU regulation",
+        "A firm that refuses to export food",
+        "A shopper who compares supermarket prices"
+      ],
+      "correct_answer": "A country that follows rules it cannot formally vote on",
+      "explanation_hebrew": "rule taker הוא צד שמקבל ומיישם כללים שנקבעים במקום אחר, בלי כוח הצבעה פורמלי עליהם."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What economic effect is calculated for the wider agreement?",
+      "difficulty": "B",
+      "options": [
+        "A fall of 5% in UK GDP",
+        "No measurable economic change",
+        "An addition of 0.4% to UK GDP",
+        "A doubling of all food prices"
+      ],
+      "correct_answer": "An addition of 0.4% to UK GDP",
+      "explanation_hebrew": "ההסכם הרחב, הכולל גם מסחר בפליטות ותוכנית ניידות לצעירים, מוערך כתוספת של 0.4% לתמ״ג."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What are “carve-outs” in the NFU's comments?",
+      "difficulty": "B",
+      "options": [
+        "Special exceptions from parts of the general rules",
+        "Physical inspections of farm buildings",
+        "Cuts to supermarket shelves",
+        "New varieties of gene-edited tomatoes"
+      ],
+      "correct_answer": "Special exceptions from parts of the general rules",
+      "explanation_hebrew": "carve-outs הם חריגים או פטורים מיוחדים המאפשרים לתחומים מסוימים לא להיות כפופים לכלל במלואו."
+    },
+    {
+      "id": "B-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does Falconer argue that alignment could reduce food prices?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר את שרשרת ההשפעה מניירת ובדיקות ועד למחיר לצרכן.",
+      "expected_points": [
+        "Current exporters face extensive forms, certificates and border checks",
+        "Errors can cause delays or rejection",
+        "Reduced paperwork and inspections would lower firms' trading costs",
+        "Lower import and export costs could reduce supermarket costs",
+        "Falconer hopes those savings would reach shoppers"
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the expected benefits and main criticisms of the Brexit reset for food trade.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג יתרונות מסחריים וכלכליים לצד אובדן שליטה וחששות חקלאיים.",
+      "expected_points": [
+        "It could reduce inspections, paperwork, delays and barriers to exports",
+        "It may lower costs and potentially prices",
+        "The food element is said to add £5bn and the wider deal 0.4% to GDP",
+        "Critics say the UK would follow rules without a vote",
+        "Farmers want details on exceptions and transition arrangements",
+        "Pesticides, precision breeding and some ingredients remain contentious"
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does the report use smoky bacon crisps as an example in the debate?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר כיצד הדוגמה ממחישה גם חשש ציבורי וגם התאמה עסקית שכבר מתרחשת.",
+      "expected_points": [
+        "There were claims that stricter EU ingredient rules could restrict popular flavours",
+        "Falconer used the example to challenge what he called misinformation",
+        "Leading snack brands have already changed recipes to meet EU rules",
+        "Exporters often align with their largest market even without a formal reset",
+        "The example makes an abstract regulatory debate concrete for consumers"
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write a balanced paragraph assessing whether reduced trade friction justifies accepting EU food rules without a UK vote.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג תועלת ועלות דמוקרטית או רגולטורית, ולהשתמש בעובדות מהכתבה.",
+      "expected_points": [
+        "Benefits include less paperwork, fewer border checks and potentially lower prices",
+        "Food exports to the EU have fallen by more than a third since 2019",
+        "The UK would have some influence in shaping rules but no formal vote",
+        "Future rules could affect pesticides, gene editing or ingredients",
+        "A reasoned conclusion should weigh economic gains against reduced regulatory control"
+      ]
+    }
+  ]
+}
