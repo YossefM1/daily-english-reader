@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-17",
+  "article_id": "A",
+  "article_title": "Caerphilly woman gets addicted to nasal spray after missing warning",
+  "article_url": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main warning illustrated by Louise Gough's experience?",
+      "difficulty": "A",
+      "options": [
+        "Nasal decongestant sprays can cause worse congestion when used for too long",
+        "All cold medicines immediately damage the sense of smell",
+        "Nasal sprays should only be used on holiday",
+        "Blocked noses always require surgery"
+      ],
+      "correct_answer": "Nasal decongestant sprays can cause worse congestion when used for too long",
+      "explanation_hebrew": "הסיפור מדגים ששימוש ממושך בתרסיס מפחית גודש עלול ליצור גודש חוזר ולהוביל למעגל של תלות."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How often was Louise using the spray at the height of her dependency?",
+      "difficulty": "A",
+      "options": [
+        "Once a week",
+        "Up to 15 times a day",
+        "Twice a month",
+        "Only when visiting a doctor"
+      ],
+      "correct_answer": "Up to 15 times a day",
+      "explanation_hebrew": "לפי הכתבה, לואיז השתמשה בתרסיס עד 15 פעמים ביום."
+    },
+    {
+      "id": "A-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “rebound congestion” mean?",
+      "difficulty": "A",
+      "options": [
+        "A cold that spreads to another person",
+        "A blocked nose caused by an allergy to food",
+        "Congestion that returns or worsens after the spray wears off",
+        "A nose injury caused by exercise"
+      ],
+      "correct_answer": "Congestion that returns or worsens after the spray wears off",
+      "explanation_hebrew": "'גודש חוזר' הוא גודש שנוצר או מחמיר כאשר השפעת התרופה פגה לאחר שימוש ממושך."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What is the current official maximum recommended period for the sprays mentioned?",
+      "difficulty": "A",
+      "options": [
+        "Five consecutive days",
+        "Eleven days",
+        "One month",
+        "One year"
+      ],
+      "correct_answer": "Five consecutive days",
+      "explanation_hebrew": "ההמלצה הרשמית היא לא להשתמש בתרסיסים המכילים את החומרים שצוינו יותר מחמישה ימים רצופים."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did Louise secretly buy some bottles?",
+      "difficulty": "A",
+      "options": [
+        "She wanted to sell them",
+        "Her partner was frustrated by how much she was spending",
+        "The pharmacy refused to serve her",
+        "She was collecting different packages"
+      ],
+      "correct_answer": "Her partner was frustrated by how much she was spending",
+      "explanation_hebrew": "הכתבה אומרת שהיא קנתה בקבוקים בסתר מפני שבן זוגה כעס על ההוצאה."
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What finally convinced Louise that she had to stop?",
+      "difficulty": "A",
+      "options": [
+        "A doctor banned her from travelling",
+        "She lost every bottle she owned",
+        "She used two bottles during an 11-day holiday",
+        "The price rose to £2,000 per bottle"
+      ],
+      "correct_answer": "She used two bottles during an 11-day holiday",
+      "explanation_hebrew": "בחופשה ביוון היא השתמשה בשני בקבוקים בתוך 11 ימים, ואז הבינה שעליה להפסיק."
+    },
+    {
+      "id": "A-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain in 2–3 sentences how the spray created a vicious cycle for Louise.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהתרסיס נתן הקלה זמנית, אך שימוש ממושך החמיר את הגודש לאחר שהשפעתו פגה ולכן היא השתמשה בו שוב ושוב.",
+      "expected_points": [
+        "The spray temporarily opened her nose.",
+        "When it wore off, prolonged use made the congestion worse.",
+        "The worse congestion pushed her to use more spray."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two effects the dependency had on Louise's life.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שתי השפעות מפורשות מן הכתבה, כגון חרדה ללא בקבוק, הוצאה כספית, תחושת כליאה או ירידה בחוש הטעם והריח.",
+      "expected_points": [
+        "She felt anxious without a bottle or felt like a prisoner in her body.",
+        "She spent about £2,000 and hid purchases from her partner.",
+        "Her taste and smell did not fully return to their previous strength."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences advising a friend who wants to use a decongestant nasal spray, using facts from the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "התשובה צריכה להיות עצה ברורה, להזכיר שימוש קצר בלבד/חמישה ימים לכל היותר, ולהסביר את הסיכון לגודש חוזר. אפשר להציע להתייעץ עם רופא או רוקח.",
+      "expected_points": [
+        "Use the spray only for the recommended short period.",
+        "Mention the five-day official limit or the risk that problems may begin sooner.",
+        "Explain the risk of rebound congestion and suggest professional advice if unsure."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise Louise's experience from first use to recovery in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לתאר את ההקלה המיידית, התלות שנמשכה עשר שנים, נקודת ההחלטה להפסיק, הקושי בימים הראשונים וההתאוששות לאחר כחודש.",
+      "expected_points": [
+        "A cold led Louise to try a spray that gave instant relief.",
+        "Long use caused rebound congestion and dependency lasting about ten years.",
+        "Using two bottles on holiday made her decide to quit.",
+        "The first days were difficult, but after about a month she could breathe without medication."
+      ]
+    }
+  ]
+}

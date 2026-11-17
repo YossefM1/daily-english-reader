@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-17",
+  "article_id": "B",
+  "article_title": "Five EU countries announce migrant deportation centre in Rwanda",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on vocabulary in context and article-specific comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the five-country plan announced in the article?",
+      "difficulty": "B",
+      "options": [
+        "To open an EU visa office in Rwanda",
+        "To create a return hub in Rwanda for certain deportees",
+        "To process all European asylum claims in Austria",
+        "To move EU border controls to the Canary Islands"
+      ],
+      "correct_answer": "To create a return hub in Rwanda for certain deportees",
+      "explanation_hebrew": "חמש המדינות מתכננות להקים ברואנדה מרכז החזרה לאנשים שמיצו את האפשרויות החוקיות להישאר ועומדים בפני גירוש."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does this scheme differ from the scrapped UK-Rwanda plan?",
+      "difficulty": "B",
+      "options": [
+        "It applies to people who exhausted legal avenues, not people awaiting claim decisions",
+        "It will operate only inside the European Union",
+        "It gives every participant EU citizenship",
+        "It has no involvement from Rwanda"
+      ],
+      "correct_answer": "It applies to people who exhausted legal avenues, not people awaiting claim decisions",
+      "explanation_hebrew": "התוכנית החדשה מיועדת למי שמיצה את ההליכים החוקיים, בעוד שהתוכנית הבריטית ביקשה לשלוח אנשים לרואנדה כדי לעבד שם את בקשותיהם."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “exhausted their legal avenues” mean in this report?",
+      "difficulty": "B",
+      "options": [
+        "They are too tired to travel",
+        "They have used all available legal ways to remain",
+        "They have refused to speak to lawyers",
+        "They have received permanent residence"
+      ],
+      "correct_answer": "They have used all available legal ways to remain",
+      "explanation_hebrew": "הביטוי פירושו שהאנשים כבר השתמשו בכל האפשרויות המשפטיות הזמינות כדי להישאר במדינה."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who would be transferred during the first phase, according to the Dutch government?",
+      "difficulty": "B",
+      "options": [
+        "Unaccompanied children",
+        "Families with young children",
+        "Single men",
+        "All asylum applicants"
+      ],
+      "correct_answer": "Single men",
+      "explanation_hebrew": "הממשלה ההולנדית אמרה שבשלב הראשון יוחזרו רק גברים יחידים, ולא ילדים ללא ליווי."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are the five governments likely emphasising migration control now?",
+      "difficulty": "B",
+      "options": [
+        "Rwanda requested an EU election",
+        "Elections are approaching and governments face pressure to show control",
+        "Irregular crossings rose by 100%",
+        "The EU has abolished all migration laws"
+      ],
+      "correct_answer": "Elections are approaching and governments face pressure to show control",
+      "explanation_hebrew": "הכתבה מציינת שבחירות מתקרבות בכמה מדינות ושממשלות נתונות ללחץ להראות שהן שולטות בהגירה."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What scale is expected for the initial pilot?",
+      "difficulty": "B",
+      "options": [
+        "About 100 people in total",
+        "About 1,000 people per country",
+        "Exactly 110,000 people",
+        "Only five officials"
+      ],
+      "correct_answer": "About 100 people in total",
+      "explanation_hebrew": "לפי מקורות דיפלומטיים, הפיילוט צפוי לארח בתחילה כ־100 אנשים, אולי כ־20 מכל מדינה."
+    },
+    {
+      "id": "B-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "In 3 sentences, summarise how the proposed return hub would work.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין מי יישלח, מדוע רואנדה משמשת חלופה למדינת המוצא, ואילו אפשרויות וזכויות יהיו למגורשים שם.",
+      "expected_points": [
+        "It targets people staying illegally after exhausting legal options and facing deportation.",
+        "Rwanda is an alternative when return to the country of origin is not possible.",
+        "People could integrate in Rwanda with residence and public-service access, or return home."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Write a balanced 4–5 sentence assessment of the plan, presenting one argument from supporters and one concern from critics.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג באופן מאוזן טיעון בעד — הקלה על מערכות המקלט/מאבק במבריחים — וחשש מבוסס של המבקרים לגבי זכויות אדם, רדיפה או תנאי מעצר ברואנדה.",
+      "expected_points": [
+        "Supporters say the plan could relieve asylum systems or deter deadly smuggling routes.",
+        "Critics question compliance with fundamental rights and Rwanda's human-rights record.",
+        "The response distinguishes stated aims from unresolved legal or ethical concerns."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "vocabulary_context",
+      "type": "short_answer",
+      "prompt": "Using the article, explain the difference between “country of origin” and “third country”.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להגדיר שמדינת המוצא היא המדינה שממנה האדם בא, ואילו מדינה שלישית היא מדינה אחרת — כאן רואנדה — שמארחת את מרכז ההחזרה.",
+      "expected_points": [
+        "A country of origin is the deportee's home country.",
+        "A third country is another state outside the EU that may host a return hub.",
+        "Rwanda is the third country in this plan."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "factual_details",
+      "type": "summary",
+      "prompt": "Summarise the safeguards and criticisms mentioned in the report in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול לפחות שני אמצעי הגנה או זכויות שהובטחו ולפחות שתי ביקורות/אזהרות של גופי זכויות האדם.",
+      "expected_points": [
+        "The first phase is limited to single men and excludes unaccompanied children.",
+        "Those in Rwanda are promised residence and access to education, healthcare, work and the legal system.",
+        "Rights groups cite repression, arbitrary detention and ill-treatment in Rwanda.",
+        "EU rights guidance says nobody should be sent where they face serious persecution risk."
+      ]
+    }
+  ]
+}

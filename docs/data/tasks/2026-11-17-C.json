@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-17",
+  "article_id": "C",
+  "article_title": "UK has lost more than it gained from Brexit, Andy Burnham says",
+  "article_url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on article-specific comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central argument did Andy Burnham make about the UK's current Brexit settlement?",
+      "difficulty": "C",
+      "options": [
+        "It delivered every promised benefit",
+        "The UK has lost more than it gained and the deal created needless barriers",
+        "It should remain unchanged forever",
+        "It immediately returned the UK to the EU"
+      ],
+      "correct_answer": "The UK has lost more than it gained and the deal created needless barriers",
+      "explanation_hebrew": "ברנהאם טען שהברקזיט הקשיח לא הצליח, יצר חסמים לעסקים והותיר את בריטניה עם יותר הפסדים מרווחים."
+    },
+    {
+      "id": "C-2",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Burnham's “emperor's new clothes” comparison suggest?",
+      "difficulty": "C",
+      "options": [
+        "The Brexit deal is fashionable",
+        "An obvious failure is being ignored or left unsaid",
+        "The monarch designed the agreement",
+        "EU rules concern clothing exports"
+      ],
+      "correct_answer": "An obvious failure is being ignored or left unsaid",
+      "explanation_hebrew": "הדימוי מרמז שאמת ברורה — שלדעתו ההסדר אינו עובד — אינה נאמרת בגלוי."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which commitment forms Burnham's first test for a future agreement?",
+      "difficulty": "C",
+      "options": [
+        "No return to the single market, customs union or freedom of movement",
+        "Immediate EU membership without an election",
+        "Ending all trade with Europe",
+        "Holding a referendum before Friday"
+      ],
+      "correct_answer": "No return to the single market, customs union or freedom of movement",
+      "explanation_hebrew": "המבחן הראשון הוא התאמה למצע הלייבור מ־2024: ללא חזרה לשוק האחיד, לאיחוד המכסים או לחופש התנועה."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is meant by the “Makerfield test”?",
+      "difficulty": "C",
+      "options": [
+        "A legal test conducted by the EU",
+        "A requirement that an agreement produce tangible improvements in daily life",
+        "A vote held only among manufacturers",
+        "A measure of farm exports"
+      ],
+      "correct_answer": "A requirement that an agreement produce tangible improvements in daily life",
+      "explanation_hebrew": "'מבחן מייקרפילד' דורש שהסכם יספק שיפורים מוחשיים בחיי היומיום של הבוחרים."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why do critics call the proposed food agreement “rule taking”?",
+      "difficulty": "C",
+      "options": [
+        "The UK would write all EU laws",
+        "The UK could align with EU rules without voting on them",
+        "The EU would follow British regulations",
+        "Businesses would choose whether laws apply"
+      ],
+      "correct_answer": "The UK could align with EU rules without voting on them",
+      "explanation_hebrew": "המבקרים חוששים שבריטניה תאמץ כללים אירופיים בלי שתהיה לה זכות הצבעה עליהם."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Burnham say would be required before major long-term changes?",
+      "difficulty": "C",
+      "options": [
+        "A mandate from the public at a general election",
+        "Approval from Boris Johnson alone",
+        "A decision by the Lord Mayor",
+        "A vote by EU food exporters"
+      ],
+      "correct_answer": "A mandate from the public at a general election",
+      "explanation_hebrew": "ברנהאם הדגיש ששינויים גדולים ידרשו מנדט ציבורי בבחירות כלליות."
+    },
+    {
+      "id": "C-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "State Burnham's three tests for a new UK-EU agreement.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין את שלושת המבחנים במדויק: עמידה בהתחייבויות מצע 2024, שיפור הסכם הברקזיט המקורי והתקרבות למה שהמצביעים חשבו שהם בוחרים ב־2016, ושיפור מוחשי בחיי היומיום.",
+      "expected_points": [
+        "Respect the 2024 manifesto red lines on the single market, customs union and freedom of movement.",
+        "Improve the original Brexit deal and better reflect the perceived 2016 choice.",
+        "Deliver tangible everyday benefits under the Makerfield test."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "In 4–5 sentences, explain the political tension between Burnham's approach and opposition criticism.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שברנהאם מציג שיתוף פעולה פרגמטי ושיפורים מעשיים תוך הבטחת מנדט ציבורי, בעוד השמרנים ורפורם מזהירים מחזרה בדלת האחורית או מאובדן עצמאות רגולטורית.",
+      "expected_points": [
+        "Burnham frames closer cooperation as constructive and beneficial rather than a reversal of Brexit.",
+        "He retains manifesto red lines and says major changes need electoral consent.",
+        "Conservatives and Reform argue alignment reopens a settled debate or erodes regulatory independence."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two agreements expected at the summit and give one claimed benefit of the food agreement.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שניים מן התחומים — מזון, אנרגיה/סחר בפליטות, ניידות צעירים — וכן תועלת נטענת: הפחתת עלויות לעסקים או ירידת מחירים לצרכנים.",
+      "expected_points": [
+        "Two of: food and agriculture, energy/emissions trading, youth mobility/travel and work.",
+        "The food agreement is intended to remove post-Brexit checks.",
+        "The government says it could cut business costs or lower shopper prices."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise Burnham's immediate summit strategy and longer-term position in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להבחין בין ההסכמים המיידיים בפסגה לבין הדיון ארוך הטווח; לציין את ביקורתו על הברקזיט הקשיח, את הקווים האדומים ואת הצורך במנדט ציבורי.",
+      "expected_points": [
+        "The immediate summit aims to finalise practical agreements on food, energy and youth mobility.",
+        "Burnham argues the current hard Brexit has imposed barriers and failed to deliver enough benefits.",
+        "He plans longer-term talks with options ranging from no change to much closer ties.",
+        "He rules out major change before the next election and requires public consent."
+      ]
+    }
+  ]
+}
