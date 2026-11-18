@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-18",
+  "article_id": "C",
+  "article_title": "Pakistan's solar revolution has been so successful the national grid is crumbling",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on article-specific comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What paradox is at the centre of Pakistan's solar boom?",
+      "difficulty": "C",
+      "options": [
+        "Solar generation has fallen while panel imports rise",
+        "Rapid household solar adoption cuts bills but undermines the financial stability of the national grid",
+        "The government banned solar despite record fossil-fuel imports",
+        "Factories use only grid power during sunny hours"
+      ],
+      "correct_answer": "Rapid household solar adoption cuts bills but undermines the financial stability of the national grid",
+      "explanation_hebrew": "הכתבה מציגה פרדוקס: הסולארי מוזיל עלויות ומועיל למשקי הבית, אך מצמצם הכנסות מן הרשת ומקשה לממן את עלויותיה הקבועות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did solar's share of Pakistan's electricity generation change from 2018 to 2025?",
+      "difficulty": "C",
+      "options": [
+        "From 28% to 1%",
+        "From 1% to 28%",
+        "From 26% to 4%",
+        "From 40% to 90%"
+      ],
+      "correct_answer": "From 1% to 28%",
+      "explanation_hebrew": "לפי Renewables First, חלקו של החשמל הסולארי עלה מ־1% ב־2018 ל־28% ב־2025."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What is a “utility death spiral” in the article's context?",
+      "difficulty": "C",
+      "options": [
+        "A technical fault that physically spins turbines backward",
+        "A cycle in which falling grid sales raise prices, driving more consumers away from the grid",
+        "A plan to replace all power stations with nuclear plants",
+        "A temporary blackout caused by cloudy weather"
+      ],
+      "correct_answer": "A cycle in which falling grid sales raise prices, driving more consumers away from the grid",
+      "explanation_hebrew": "זהו מעגל שבו פחות צרכנים משלמים על הרשת, העלויות הקבועות מתחלקות בין פחות אנשים, המחירים עולים ועוד צרכנים עוברים לסולארי."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could the solar transition create a two-tier energy system?",
+      "difficulty": "C",
+      "options": [
+        "Only factories are legally allowed to buy panels",
+        "Those who can afford panels reduce grid purchases, while poorer consumers face rising grid costs",
+        "Rural homes receive free nuclear power",
+        "Solar owners are prohibited from using batteries"
+      ],
+      "correct_answer": "Those who can afford panels reduce grid purchases, while poorer consumers face rising grid costs",
+      "explanation_hebrew": "בעלי אמצעים יכולים להתקין פאנלים ולהפחית חשבונות, בעוד מי שאינו יכול נותר לשאת בעלויות רשת הולכות וגדלות."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What long-term clean-power target did the energy minister describe?",
+      "difficulty": "C",
+      "options": [
+        "Up to 90% clean power by the end of 2036",
+        "Exactly 28% clean power by 2027",
+        "No imported energy by 2028",
+        "100% solar power next year"
+      ],
+      "correct_answer": "Up to 90% clean power by the end of 2036",
+      "explanation_hebrew": "שר האנרגיה אמר שהיעד הוא עד 90% אנרגיה נקייה עד סוף 2036, כולל מתחדשות וגרעין."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does Dajana mean by calling the grid a possible “white elephant”?",
+      "difficulty": "C",
+      "options": [
+        "A rare environmentally protected animal",
+        "A costly asset that needs large public support but delivers poor value",
+        "A profitable export industry",
+        "A privately owned solar farm"
+      ],
+      "correct_answer": "A costly asset that needs large public support but delivers poor value",
+      "explanation_hebrew": "הביטוי מתאר נכס יקר ולא יעיל שעלול לדרוש מימון ציבורי רב רק כדי להמשיך להתקיים."
+    },
+    {
+      "id": "C-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain the chain of cause and effect behind the grid's financial problem.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר את הרצף: מחירי חשמל גבוהים ופאנלים זולים מעודדים מעבר לסולארי; רכישות מהרשת יורדות; פחות צרכנים נושאים בעלויות הקבועות; התעריפים עולים ומאיצים מעבר נוסף.",
+      "expected_points": [
+        "High tariffs and a 93% fall in panel prices encourage consumers to install solar.",
+        "Solar users buy less electricity from the grid.",
+        "Fixed grid costs are spread across fewer paying customers.",
+        "Higher tariffs then encourage further solar adoption."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Write a balanced 4–5 sentence assessment of the government's decision to reduce credits for surplus solar electricity.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את טענת העסקים שהמחיר הנמוך פוגע בכדאיות הסולארית, ומנגד את טענת השר שהמודל הישן העביר עלויות לצרכני הרשת. יש להציע איזון בין תמריץ לאנרגיה נקייה להוגנות במימון הרשת.",
+      "expected_points": [
+        "Businesses say lower purchase rates weaken the economics of solar, especially for smaller firms.",
+        "The government says the previous model paid too much for cheap solar input relative to costly grid power taken later.",
+        "Those gains were effectively funded by other grid customers.",
+        "A balanced policy should reward clean generation while charging fairly for grid availability and fixed costs."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "How does Kohinoor Textiles combine solar power with the national grid?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שהמפעל פועל כולו מסולארי בשעות שמש, משתמש ברשת בלילה או במזג אוויר מעונן/מזוהם, ומתכנן סוללות לאגירת עודפים.",
+      "expected_points": [
+        "Solar panels can power hundreds of machines completely when the sun shines.",
+        "The factory draws more grid power at night or during cloudy and polluted conditions.",
+        "Industrial batteries will store excess solar energy, and the firm does not plan to disconnect fully."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the two possible paths Pakistan faces in its energy transition.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר מצד אחד שילוב מקביל של סולארי, אגירה ורשת יעילה; מצד שני רשת יקרה ומתכווצת שמכבידה על המדינה ועל צרכנים ללא פאנלים. יש לקשור זאת למדיניות מתאימה.",
+      "expected_points": [
+        "With suitable policy, solar and a modernised grid could operate in parallel.",
+        "Storage, lower waste and better contracts could help the grid remain competitive.",
+        "Without reform, customers may keep leaving and fixed costs will rise for those remaining.",
+        "Pakistan could become either a model of transition or a cautionary tale with a costly declining grid."
+      ]
+    }
+  ]
+}

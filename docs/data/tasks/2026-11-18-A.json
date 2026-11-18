@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-18",
+  "article_id": "A",
+  "article_title": "University pauses Shakespeare move after backlash",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm3wgejy5qq8o",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why did the University of Birmingham pause the planned move of the Shakespeare Institute?",
+      "difficulty": "A",
+      "options": [
+        "Because of growing opposition and concern about the institute's future in Stratford",
+        "Because the Birmingham campus was closing",
+        "Because the institute had stopped teaching Shakespeare",
+        "Because Mason Croft had already been sold"
+      ],
+      "correct_answer": "Because of growing opposition and concern about the institute's future in Stratford",
+      "explanation_hebrew": "האוניברסיטה עצרה את המעבר בעקבות התנגדות גוברת, עצומה וביקורת על עתיד המכון בסטרטפורד."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How long will the university work with partners to explore the institute's future?",
+      "difficulty": "A",
+      "options": [
+        "One week",
+        "Six months",
+        "Two years",
+        "Seventy-five years"
+      ],
+      "correct_answer": "Six months",
+      "explanation_hebrew": "האוניברסיטה הודיעה שתעבוד עם השותפים במשך שישה חודשים כדי לבחון את עתיד המכון."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many signatures did the petition attract?",
+      "difficulty": "A",
+      "options": [
+        "About 750",
+        "Exactly 1,951",
+        "More than 12,000",
+        "More than one million"
+      ],
+      "correct_answer": "More than 12,000",
+      "explanation_hebrew": "העצומה נגד המעבר זכתה ליותר מ־12,000 חתימות."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “backlash” mean?",
+      "difficulty": "A",
+      "options": [
+        "A strong negative public reaction",
+        "A celebration of an anniversary",
+        "A new university course",
+        "A building repair"
+      ],
+      "correct_answer": "A strong negative public reaction",
+      "explanation_hebrew": "בהקשר הכתבה, backlash הוא תגובה ציבורית שלילית וחזקה לתוכנית המעבר."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is Mason Croft important to supporters of the campaign?",
+      "difficulty": "A",
+      "options": [
+        "It is the university's newest science laboratory",
+        "It is the institute's historic Stratford home and has cultural significance",
+        "It belongs to the RSC's ticket office",
+        "It is located on the Edgbaston campus"
+      ],
+      "correct_answer": "It is the institute's historic Stratford home and has cultural significance",
+      "explanation_hebrew": "מייסון קרופט הוא ביתו ההיסטורי של המכון מאז 1951, ולכן יש לו חשיבות תרבותית וסמלית לתומכים."
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which organisation is one of the partners named in the six-month review?",
+      "difficulty": "A",
+      "options": [
+        "The Royal Shakespeare Company",
+        "The National Health Service",
+        "Nvidia",
+        "Pakistan's energy ministry"
+      ],
+      "correct_answer": "The Royal Shakespeare Company",
+      "explanation_hebrew": "ה־RSC, יחד עם קרן מקום הולדתו של שייקספיר ושותפים נוספים, תשתתף בבחינת עתיד המכון."
+    },
+    {
+      "id": "A-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain in 2–3 sentences what the university planned and what it has now decided.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שהתוכנית הייתה להעביר את המכון ממייסון קרופט לקמפוס אדג'בסטון בספטמבר, וכעת המעבר הושהה לשישה חודשים של בדיקה ושיתוף פעולה.",
+      "expected_points": [
+        "The institute was due to leave Mason Croft for the Edgbaston campus in September.",
+        "The university has paused the move.",
+        "It will spend six months exploring a viable future with partners."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences explaining both the case for keeping the institute in Stratford and the university's reason for considering Birmingham.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג שני צדדים: החשיבות ההיסטורית והקהילתית של סטרטפורד מול מספר נרשמים נמוך והזדמנויות אקדמיות ויצירתיות בבירמינגהם.",
+      "expected_points": [
+        "Stratford offers a historic setting and strong links to the Shakespeare community.",
+        "Supporters see Mason Croft as central to the institute's identity.",
+        "The university cites low interest in studying in Stratford and growth or creative-industry opportunities in Birmingham."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name two groups or people who opposed or questioned the move.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שניים מן הבאים: חברת הפרלמנט מנואלה פרטגלה, יותר מ־12,000 חותמי העצומה, השחקנים סמואל וסט ודיים ג'נט סוזמן, או העיתון שיזם את העצומה.",
+      "expected_points": [
+        "MP Manuela Perteghella criticised the proposal.",
+        "More than 12,000 people signed the petition.",
+        "Actors Samuel West and Dame Janet Suzman backed the campaign."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the dispute and the university's response in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לתאר את תוכנית המעבר, ההתנגדות, הסיבות שהציגה האוניברסיטה, ההשהיה והשותפים שיבחנו פתרון.",
+      "expected_points": [
+        "The university planned to move the institute from Stratford to Birmingham.",
+        "The proposal faced criticism and a large petition.",
+        "The university cited low Stratford study interest and opportunities in Birmingham.",
+        "It paused the move and will consult partners for six months."
+      ]
+    }
+  ]
+}

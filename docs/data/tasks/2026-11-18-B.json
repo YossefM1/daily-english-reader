@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-18",
+  "article_id": "B",
+  "article_title": "Nvidia reports bumper results as firm says it's not reinstating Jensen Huang",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on vocabulary in context and article-specific comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What two messages did Nvidia deliver with its quarterly results?",
+      "difficulty": "B",
+      "options": [
+        "Sales fell sharply and Jensen Huang returned",
+        "Sales doubled past $100bn and the board will not reinstate Huang",
+        "The company stopped all AI investment and closed its data centres",
+        "The firm named a permanent chief executive and withdrew guidance"
+      ],
+      "correct_answer": "Sales doubled past $100bn and the board will not reinstate Huang",
+      "explanation_hebrew": "הכתבה משלבת תוצאות כספיות חזקות מאוד עם הודעת הדירקטוריון שאין כוונה להחזיר את ג'נסן הואנג לתפקיד."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What were Nvidia's quarterly sales?",
+      "difficulty": "B",
+      "options": [
+        "$65bn",
+        "$107bn",
+        "$115.8bn",
+        "$500bn"
+      ],
+      "correct_answer": "$115.8bn",
+      "explanation_hebrew": "המכירות הרבעוניות הגיעו ל־115.8 מיליארד דולר, יותר מפי שניים לעומת שנה קודם לכן."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “forward-looking guidance” mean in this business report?",
+      "difficulty": "B",
+      "options": [
+        "Instructions for operating a graphics card",
+        "A forecast about future company performance",
+        "A review of last year's accounting rules",
+        "A list of candidates for the board"
+      ],
+      "correct_answer": "A forecast about future company performance",
+      "explanation_hebrew": "במונחים עסקיים, forward-looking guidance היא תחזית של החברה לגבי הכנסות או ביצועים עתידיים."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did Nvidia's shares react in after-hours trading?",
+      "difficulty": "B",
+      "options": [
+        "They rose by 4.8%",
+        "They fell by 13%",
+        "They doubled",
+        "They did not trade"
+      ],
+      "correct_answer": "They rose by 4.8%",
+      "explanation_hebrew": "לאחר פרסום התוצאות, המניה עלתה ב־4.8% במסחר המאוחר."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the results ease some investors' immediate concerns?",
+      "difficulty": "B",
+      "options": [
+        "They showed demand for AI infrastructure remained strong despite Huang's exit",
+        "They proved the leadership search was finished",
+        "They removed all national-security restrictions",
+        "They guaranteed Huang would return"
+      ],
+      "correct_answer": "They showed demand for AI infrastructure remained strong despite Huang's exit",
+      "explanation_hebrew": "התוצאות החזקות והתחזית לצמיחה הראו שהביקוש לתשתיות AI נותר חזק גם לאחר עזיבת הואנג."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In context, what does “business as usual” suggest?",
+      "difficulty": "B",
+      "options": [
+        "The company has stopped ordinary operations",
+        "The company is continuing to operate normally despite disruption",
+        "Every employee has been replaced",
+        "The company is leaving the AI market"
+      ],
+      "correct_answer": "The company is continuing to operate normally despite disruption",
+      "explanation_hebrew": "הביטוי מדגיש שהחברה ממשיכה לפעול כרגיל למרות המשבר בהנהגה."
+    },
+    {
+      "id": "B-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Summarise Nvidia's financial performance in 3 sentences using at least three figures from the article.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול לפחות שלושה נתונים מדויקים: מכירות 115.8 מיליארד דולר, רווח 65 מיליארד, הכנסות מרכזי נתונים 107 מיליארד, עלייה של 4.8% במניה או תחזית צמיחה של 13%.",
+      "expected_points": [
+        "Quarterly sales reached $115.8bn and roughly doubled year on year.",
+        "Profit reached $65bn and data-centre revenue reached $107bn.",
+        "Shares rose 4.8% after hours or next-quarter revenue is forecast to rise 13%."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences explaining why Huang's departure may matter more in the long term than in the current quarter.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להבדיל בין הזמנות קיימות ותוצאות שוטפות לבין החלטות עתידיות על מוצרים, שותפויות והשקעות, ולהזכיר את תפקידו של מייסד כריזמטי בבניית היתרון האסטרטגי.",
+      "expected_points": [
+        "Existing customer orders and current demand are unlikely to change immediately.",
+        "The strong quarter shows operational continuity under interim leadership.",
+        "Future product, partnership and investment decisions may depend more on strategic leadership.",
+        "Some investors believe an iconic founder supplied vision that may be difficult to replace."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What did Nvidia say about Hopper chip shipments to China, and what explanation did it give?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שהמשלוחים הופסקו ושקולט קרס לא פירטה מדוע. אפשר להזכיר שהטכנולוגיה נמצאת במעבדי H200 ושבעבר הוגבלה מטעמי ביטחון.",
+      "expected_points": [
+        "Nvidia said it was no longer shipping Hopper data-centre semiconductors to China.",
+        "Hopper technology is used in advanced H200 processors.",
+        "Kress did not explain why shipments had stopped."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise Nvidia's leadership situation and business outlook in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את עזיבת הואנג, עמדת הדירקטוריון, תפקידה של קולט קרס, החיפוש אחר מנכ״ל קבוע והתוצאות/תחזית החיוביות.",
+      "expected_points": [
+        "The board says it does not intend to reinstate Jensen Huang.",
+        "Colette Kress is serving as interim chief executive and stresses continuity.",
+        "A search firm is considering internal and external permanent candidates without rushing.",
+        "Sales, profits and data-centre revenue doubled, and Nvidia expects further growth."
+      ]
+    }
+  ]
+}
