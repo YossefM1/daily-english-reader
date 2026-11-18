@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-18",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Pakistan's solar revolution has been so successful the national grid is crumbling",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o",
+  "published_at": "2026-11-17T23:34:56+00:00",
+  "age_hours_at_selection": 2.63,
+  "word_count": 1245,
+  "generated_at": "2026-11-18T02:12:43.634879+00:00",
+  "difficulty_reason": "Long, analytical feature with dense economic and energy concepts and complex sentences; B2/C1/C2 vocabulary and background on power markets required.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "glimmering",
+      "lemma": "glimmer",
+      "level": "C2",
+      "hebrew": "נוצץ",
+      "explanation_hebrew": "מבהיק באור חלש ומרצד",
+      "pronunciation_hebrew": "גְלִימֶרִינְג",
+      "example": "The glimmering lights filled the room."
+    },
+    {
+      "word": "dowry",
+      "lemma": "dowry",
+      "level": "C1",
+      "hebrew": "נדוניה",
+      "explanation_hebrew": "רכוש שניתן בעת נישואין",
+      "pronunciation_hebrew": "דַאוּרִי",
+      "example": "The gifts were part of the dowry."
+    },
+    {
+      "word": "prized",
+      "lemma": "prized",
+      "level": "C1",
+      "hebrew": "יקר ערך",
+      "explanation_hebrew": "נחשב בעל ערך רב",
+      "pronunciation_hebrew": "פְּרַייזְד",
+      "example": "It was his most prized possession."
+    },
+    {
+      "word": "boom",
+      "lemma": "boom",
+      "level": "B2",
+      "hebrew": "פריחה",
+      "explanation_hebrew": "גידול מהיר וחזק",
+      "pronunciation_hebrew": "בּוּם",
+      "example": "There was a boom in solar panels."
+    },
+    {
+      "word": "glisten",
+      "lemma": "glisten",
+      "level": "C1",
+      "hebrew": "לנצנץ",
+      "explanation_hebrew": "להבריק בעקבות אור",
+      "pronunciation_hebrew": "גְלִיסְן",
+      "example": "Panels glisten on the rooftops."
+    },
+    {
+      "word": "appliances",
+      "lemma": "appliance",
+      "level": "B2",
+      "hebrew": "מכשירי חשמל",
+      "explanation_hebrew": "מכשירים ביתיים",
+      "pronunciation_hebrew": "אַפְּלַייאַנְסֶז",
+      "example": "They run many appliances at once."
+    },
+    {
+      "word": "simultaneously",
+      "lemma": "simultaneously",
+      "level": "C1",
+      "hebrew": "בו-זמנית",
+      "explanation_hebrew": "באותו הזמן בדיוק",
+      "pronunciation_hebrew": "סַייְמַלְטֵייְנְיַסְלִי",
+      "example": "The devices run simultaneously."
+    },
+    {
+      "word": "unaffordable",
+      "lemma": "unaffordable",
+      "level": "B2",
+      "hebrew": "לא בר-השגה",
+      "explanation_hebrew": "יקר מכדי לשלם עליו",
+      "pronunciation_hebrew": "אַנַאַפוֹרְדַבְּל",
+      "example": "Bills became unaffordable for many."
+    },
+    {
+      "word": "tariffs",
+      "lemma": "tariff",
+      "level": "C1",
+      "hebrew": "תעריפים",
+      "explanation_hebrew": "מחירים או מיסים קבועים",
+      "pronunciation_hebrew": "טַארִיפְס",
+      "example": "Electricity tariffs have doubled."
+    },
+    {
+      "word": "pivot",
+      "lemma": "pivot",
+      "level": "C1",
+      "hebrew": "פנייה / מעבר",
+      "explanation_hebrew": "שינוי כיוון חד",
+      "pronunciation_hebrew": "פִּיבוֹט",
+      "example": "The pivot to solar was dramatic."
+    },
+    {
+      "word": "unreliable",
+      "lemma": "unreliable",
+      "level": "B2",
+      "hebrew": "לא אמין",
+      "explanation_hebrew": "שאי אפשר לסמוך עליו",
+      "pronunciation_hebrew": "אַנְרִילַייאַבְּל",
+      "example": "The grid is often unreliable."
+    },
+    {
+      "word": "soaring",
+      "lemma": "soar",
+      "level": "C1",
+      "hebrew": "מרקיע / מאמיר",
+      "explanation_hebrew": "עולה במהירות וחדות",
+      "pronunciation_hebrew": "סוֹארִינְג",
+      "example": "Soaring prices pushed people to solar."
+    },
+    {
+      "word": "exodus",
+      "lemma": "exodus",
+      "level": "C2",
+      "hebrew": "יציאה המונית",
+      "explanation_hebrew": "עזיבה של רבים יחד",
+      "pronunciation_hebrew": "אֶקְסוֹדַס",
+      "example": "The exodus from the grid is costly."
+    },
+    {
+      "word": "burden",
+      "lemma": "burden",
+      "level": "B2",
+      "hebrew": "נטל",
+      "explanation_hebrew": "משא כבד או אחריות",
+      "pronunciation_hebrew": "בֶּרְדְן",
+      "example": "The grid became a burden on the state."
+    },
+    {
+      "word": "enterprise",
+      "lemma": "enterprise",
+      "level": "C1",
+      "hebrew": "מיזם / חברה",
+      "explanation_hebrew": "עסק או ארגון גדול",
+      "pronunciation_hebrew": "אֶנְטֶרְפְּרַייז",
+      "example": "It became a loss-making enterprise."
+    },
+    {
+      "word": "afloat",
+      "lemma": "afloat",
+      "level": "C1",
+      "hebrew": "מעל המים / מתפקד",
+      "explanation_hebrew": "ממשיך לשרוד כלכלית",
+      "pronunciation_hebrew": "אַפְלוֹט",
+      "example": "Funding keeps the firm afloat."
+    },
+    {
+      "word": "renegotiated",
+      "lemma": "renegotiate",
+      "level": "C1",
+      "hebrew": "משא ומתן מחדש",
+      "explanation_hebrew": "דן שוב כדי לשנות הסכם",
+      "pronunciation_hebrew": "רִינִיגוֹשִׁיֵייטֶד",
+      "example": "The government renegotiated the deals."
+    },
+    {
+      "word": "dependence",
+      "lemma": "dependence",
+      "level": "B2",
+      "hebrew": "תלות",
+      "explanation_hebrew": "הצורך להסתמך על משהו",
+      "pronunciation_hebrew": "דִיפֶּנְדֶנְס",
+      "example": "They want less dependence on imports."
+    },
+    {
+      "word": "adoption",
+      "lemma": "adoption",
+      "level": "B2",
+      "hebrew": "אימוץ / אימוץ שימוש",
+      "explanation_hebrew": "הֵחֵל להשתמש בדבר חדש",
+      "pronunciation_hebrew": "אַדוֹפְּשְׁן",
+      "example": "Solar adoption spread quickly."
+    },
+    {
+      "word": "mothballed",
+      "lemma": "mothball",
+      "level": "C2",
+      "hebrew": "מושבת / מוקפא",
+      "explanation_hebrew": "הוצא משימוש ונשמר ליום סגריר",
+      "pronunciation_hebrew": "מוֹתְבּוֹלְד",
+      "example": "The old engines sit mothballed."
+    },
+    {
+      "word": "excess",
+      "lemma": "excess",
+      "level": "B2",
+      "hebrew": "עודף",
+      "explanation_hebrew": "כמות מעבר לנדרש",
+      "pronunciation_hebrew": "אֶקְסֶס",
+      "example": "They store excess solar energy."
+    },
+    {
+      "word": "offset",
+      "lemma": "offset",
+      "level": "C1",
+      "hebrew": "לקזז",
+      "explanation_hebrew": "לאזן על ידי דבר נגדי",
+      "pronunciation_hebrew": "אוֹפְסֶט",
+      "example": "Credits offset the cost of power."
+    },
+    {
+      "word": "gradual",
+      "lemma": "gradual",
+      "level": "B2",
+      "hebrew": "הדרגתי",
+      "explanation_hebrew": "קורה לאט ובשלבים",
+      "pronunciation_hebrew": "גְרַדְג'וּאַל",
+      "example": "They prefer a gradual transition."
+    },
+    {
+      "word": "cautionary",
+      "lemma": "cautionary",
+      "level": "C2",
+      "hebrew": "מזהיר",
+      "explanation_hebrew": "משמש אזהרה לאחרים",
+      "pronunciation_hebrew": "קוֹשְׁנֶרִי",
+      "example": "It may become a cautionary tale."
+    },
+    {
+      "word": "crumbling",
+      "lemma": "crumble",
+      "level": "B2",
+      "hebrew": "מתפורר / קורס",
+      "explanation_hebrew": "מתפרק או נחלש בהדרגה",
+      "pronunciation_hebrew": "קְרַמְבְּלִינְג",
+      "example": "The old grid is crumbling."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "glimmering",
+      "type": "english_to_hebrew",
+      "question": "What does “glimmering” mean?",
+      "options": [
+        "לנצנץ",
+        "נוצץ",
+        "פריחה",
+        "מושבת / מוקפא"
+      ],
+      "correct_answer": "נוצץ",
+      "explanation_hebrew": "“glimmering” פירושו נוצץ."
+    },
+    {
+      "id": "C-q2",
+      "word": "dowry",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נדוניה”?",
+      "options": [
+        "dowry",
+        "simultaneously",
+        "excess",
+        "offset"
+      ],
+      "correct_answer": "dowry",
+      "explanation_hebrew": "המילה “dowry” פירושה נדוניה."
+    },
+    {
+      "id": "C-q3",
+      "word": "prized",
+      "type": "english_to_hebrew",
+      "question": "What does “prized” mean?",
+      "options": [
+        "פנייה / מעבר",
+        "יקר ערך",
+        "לא בר-השגה",
+        "נדוניה"
+      ],
+      "correct_answer": "יקר ערך",
+      "explanation_hebrew": "“prized” פירושו יקר ערך."
+    },
+    {
+      "id": "C-q4",
+      "word": "boom",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פריחה”?",
+      "options": [
+        "mothballed",
+        "burden",
+        "boom",
+        "dowry"
+      ],
+      "correct_answer": "boom",
+      "explanation_hebrew": "המילה “boom” פירושה פריחה."
+    },
+    {
+      "id": "C-q5",
+      "word": "glisten",
+      "type": "english_to_hebrew",
+      "question": "What does “glisten” mean?",
+      "options": [
+        "יציאה המונית",
+        "לנצנץ",
+        "נטל",
+        "תלות"
+      ],
+      "correct_answer": "לנצנץ",
+      "explanation_hebrew": "“glisten” פירושו לנצנץ."
+    },
+    {
+      "id": "C-q6",
+      "word": "appliances",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מכשירי חשמל”?",
+      "options": [
+        "appliances",
+        "simultaneously",
+        "afloat",
+        "pivot"
+      ],
+      "correct_answer": "appliances",
+      "explanation_hebrew": "המילה “appliances” פירושה מכשירי חשמל."
+    },
+    {
+      "id": "C-q7",
+      "word": "simultaneously",
+      "type": "english_to_hebrew",
+      "question": "What does “simultaneously” mean?",
+      "options": [
+        "בו-זמנית",
+        "נדוניה",
+        "תעריפים",
+        "לקזז"
+      ],
+      "correct_answer": "בו-זמנית",
+      "explanation_hebrew": "“simultaneously” פירושו בו-זמנית."
+    },
+    {
+      "id": "C-q8",
+      "word": "unaffordable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לא בר-השגה”?",
+      "options": [
+        "burden",
+        "unaffordable",
+        "offset",
+        "dowry"
+      ],
+      "correct_answer": "unaffordable",
+      "explanation_hebrew": "המילה “unaffordable” פירושה לא בר-השגה."
+    },
+    {
+      "id": "C-q9",
+      "word": "tariffs",
+      "type": "english_to_hebrew",
+      "question": "What does “tariffs” mean?",
+      "options": [
+        "לנצנץ",
+        "תעריפים",
+        "משא ומתן מחדש",
+        "מזהיר"
+      ],
+      "correct_answer": "תעריפים",
+      "explanation_hebrew": "“tariffs” פירושו תעריפים."
+    },
+    {
+      "id": "C-q10",
+      "word": "pivot",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פנייה / מעבר”?",
+      "options": [
+        "tariffs",
+        "enterprise",
+        "pivot",
+        "unreliable"
+      ],
+      "correct_answer": "pivot",
+      "explanation_hebrew": "המילה “pivot” פירושה פנייה / מעבר."
+    },
+    {
+      "id": "C-q11",
+      "word": "unreliable",
+      "type": "english_to_hebrew",
+      "question": "What does “unreliable” mean?",
+      "options": [
+        "מעל המים / מתפקד",
+        "מתפורר / קורס",
+        "לא אמין",
+        "תעריפים"
+      ],
+      "correct_answer": "לא אמין",
+      "explanation_hebrew": "“unreliable” פירושו לא אמין."
+    },
+    {
+      "id": "C-q12",
+      "word": "soaring",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מרקיע / מאמיר”?",
+      "options": [
+        "appliances",
+        "gradual",
+        "soaring",
+        "mothballed"
+      ],
+      "correct_answer": "soaring",
+      "explanation_hebrew": "המילה “soaring” פירושה מרקיע / מאמיר."
+    },
+    {
+      "id": "C-q13",
+      "word": "exodus",
+      "type": "english_to_hebrew",
+      "question": "What does “exodus” mean?",
+      "options": [
+        "נטל",
+        "בו-זמנית",
+        "הדרגתי",
+        "יציאה המונית"
+      ],
+      "correct_answer": "יציאה המונית",
+      "explanation_hebrew": "“exodus” פירושו יציאה המונית."
+    },
+    {
+      "id": "C-q14",
+      "word": "burden",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נטל”?",
+      "options": [
+        "boom",
+        "pivot",
+        "burden",
+        "glisten"
+      ],
+      "correct_answer": "burden",
+      "explanation_hebrew": "המילה “burden” פירושה נטל."
+    },
+    {
+      "id": "C-q15",
+      "word": "enterprise",
+      "type": "english_to_hebrew",
+      "question": "What does “enterprise” mean?",
+      "options": [
+        "לא אמין",
+        "נטל",
+        "מעל המים / מתפקד",
+        "מיזם / חברה"
+      ],
+      "correct_answer": "מיזם / חברה",
+      "explanation_hebrew": "“enterprise” פירושו מיזם / חברה."
+    },
+    {
+      "id": "C-q16",
+      "word": "afloat",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מעל המים / מתפקד”?",
+      "options": [
+        "crumbling",
+        "dowry",
+        "afloat",
+        "unaffordable"
+      ],
+      "correct_answer": "afloat",
+      "explanation_hebrew": "המילה “afloat” פירושה מעל המים / מתפקד."
+    },
+    {
+      "id": "C-q17",
+      "word": "renegotiated",
+      "type": "english_to_hebrew",
+      "question": "What does “renegotiated” mean?",
+      "options": [
+        "משא ומתן מחדש",
+        "מיזם / חברה",
+        "עודף",
+        "נדוניה"
+      ],
+      "correct_answer": "משא ומתן מחדש",
+      "explanation_hebrew": "“renegotiated” פירושו משא ומתן מחדש."
+    },
+    {
+      "id": "C-q18",
+      "word": "dependence",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תלות”?",
+      "options": [
+        "tariffs",
+        "appliances",
+        "dowry",
+        "dependence"
+      ],
+      "correct_answer": "dependence",
+      "explanation_hebrew": "המילה “dependence” פירושה תלות."
+    },
+    {
+      "id": "C-q19",
+      "word": "adoption",
+      "type": "english_to_hebrew",
+      "question": "What does “adoption” mean?",
+      "options": [
+        "לא בר-השגה",
+        "אימוץ / אימוץ שימוש",
+        "תעריפים",
+        "מושבת / מוקפא"
+      ],
+      "correct_answer": "אימוץ / אימוץ שימוש",
+      "explanation_hebrew": "“adoption” פירושו אימוץ / אימוץ שימוש."
+    },
+    {
+      "id": "C-q20",
+      "word": "mothballed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מושבת / מוקפא”?",
+      "options": [
+        "simultaneously",
+        "excess",
+        "mothballed",
+        "unreliable"
+      ],
+      "correct_answer": "mothballed",
+      "explanation_hebrew": "המילה “mothballed” פירושה מושבת / מוקפא."
+    },
+    {
+      "id": "C-q21",
+      "word": "excess",
+      "type": "english_to_hebrew",
+      "question": "What does “excess” mean?",
+      "options": [
+        "משא ומתן מחדש",
+        "מכשירי חשמל",
+        "עודף",
+        "פנייה / מעבר"
+      ],
+      "correct_answer": "עודף",
+      "explanation_hebrew": "“excess” פירושו עודף."
+    },
+    {
+      "id": "C-q22",
+      "word": "offset",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לקזז”?",
+      "options": [
+        "dependence",
+        "offset",
+        "renegotiated",
+        "mothballed"
+      ],
+      "correct_answer": "offset",
+      "explanation_hebrew": "המילה “offset” פירושה לקזז."
+    },
+    {
+      "id": "C-q23",
+      "word": "gradual",
+      "type": "english_to_hebrew",
+      "question": "What does “gradual” mean?",
+      "options": [
+        "הדרגתי",
+        "פריחה",
+        "לא בר-השגה",
+        "תעריפים"
+      ],
+      "correct_answer": "הדרגתי",
+      "explanation_hebrew": "“gradual” פירושו הדרגתי."
+    },
+    {
+      "id": "C-q24",
+      "word": "cautionary",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מזהיר”?",
+      "options": [
+        "enterprise",
+        "glisten",
+        "cautionary",
+        "unreliable"
+      ],
+      "correct_answer": "cautionary",
+      "explanation_hebrew": "המילה “cautionary” פירושה מזהיר."
+    },
+    {
+      "id": "C-q25",
+      "word": "crumbling",
+      "type": "english_to_hebrew",
+      "question": "What does “crumbling” mean?",
+      "options": [
+        "לנצנץ",
+        "מכשירי חשמל",
+        "לא אמין",
+        "מתפורר / קורס"
+      ],
+      "correct_answer": "מתפורר / קורס",
+      "explanation_hebrew": "“crumbling” פירושו מתפורר / קורס."
+    }
+  ]
+}

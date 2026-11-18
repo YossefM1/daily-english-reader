@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Five EU countries announce migrant deportation centre in Rwanda",
+  "title": "Nvidia reports bumper results as firm says it's not reinstating Jensen Huang",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-  "published_at": "2026-11-16T23:20:45+00:00",
-  "age_hours_at_selection": 2.88,
-  "word_count": 812,
-  "generated_at": "2026-11-17T02:13:36.388649+00:00",
-  "difficulty_reason": "A policy news report with moderate sentence complexity and several political and legal terms; needs some background on EU migration and mixes B1/B2/C1 vocabulary.",
+  "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+  "published_at": "2026-11-18T01:18:18+00:00",
+  "age_hours_at_selection": 0.91,
+  "word_count": 673,
+  "generated_at": "2026-11-18T02:12:43.634879+00:00",
+  "difficulty_reason": "Moderate business report with financial terms and quotes; useful B1/B2/C1 vocabulary and some background on company leadership and markets.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "deportation",
-      "lemma": "deportation",
-      "level": "B2",
-      "hebrew": "גֵּרוּשׁ",
-      "explanation_hebrew": "הוצאה כפויה של אדם ממדינה",
-      "pronunciation_hebrew": "דֶּפּוֹרְטֵיישֶׁן",
-      "example": "The deportation centre will open next year."
+      "word": "reinstate",
+      "lemma": "reinstate",
+      "level": "C1",
+      "hebrew": "להחזיר לתפקיד",
+      "explanation_hebrew": "להשיב מישהו למשרתו",
+      "pronunciation_hebrew": "רִיאִינְסְטֵייט",
+      "example": "The board refused to reinstate him."
     },
     {
-      "word": "migrant",
-      "lemma": "migrant",
+      "word": "bumper",
+      "lemma": "bumper",
+      "level": "C1",
+      "hebrew": "שופע / שיא",
+      "explanation_hebrew": "גדול וטוב במיוחד",
+      "pronunciation_hebrew": "בַּאמְפֶּר",
+      "example": "The company reported bumper profits."
+    },
+    {
+      "word": "quarterly",
+      "lemma": "quarterly",
+      "level": "B2",
+      "hebrew": "רבעוני",
+      "explanation_hebrew": "שקורה כל שלושה חודשים",
+      "pronunciation_hebrew": "קְווֹרְטֶרְלִי",
+      "example": "They published their quarterly results."
+    },
+    {
+      "word": "insisted",
+      "lemma": "insist",
+      "level": "B2",
+      "hebrew": "התעקש",
+      "explanation_hebrew": "אמר בתוקף למרות התנגדות",
+      "pronunciation_hebrew": "אִינְסִיסְטֶד",
+      "example": "He insisted that nothing was wrong."
+    },
+    {
+      "word": "ousted",
+      "lemma": "oust",
+      "level": "C1",
+      "hebrew": "הודח",
+      "explanation_hebrew": "הוסר מתפקידו בכוח",
+      "pronunciation_hebrew": "אַאוּסְטֶד",
+      "example": "The ousted leader left the firm."
+    },
+    {
+      "word": "interim",
+      "lemma": "interim",
+      "level": "C1",
+      "hebrew": "זמני / ביניים",
+      "explanation_hebrew": "למשך תקופה עד למינוי קבוע",
+      "pronunciation_hebrew": "אִינְטֶרִים",
+      "example": "She is the interim chief executive."
+    },
+    {
+      "word": "investors",
+      "lemma": "investor",
+      "level": "B2",
+      "hebrew": "משקיעים",
+      "explanation_hebrew": "אנשים ששמים כסף כדי להרוויח",
+      "pronunciation_hebrew": "אִינְבֶסְטוֹרְז",
+      "example": "Investors welcomed the strong results."
+    },
+    {
+      "word": "alleged",
+      "lemma": "alleged",
+      "level": "C1",
+      "hebrew": "נטען / לכאורה",
+      "explanation_hebrew": "שמייחסים לו בלי הוכחה",
+      "pronunciation_hebrew": "אַלֶגְ'ד",
+      "example": "He denied the alleged wrongdoing."
+    },
+    {
+      "word": "suspected",
+      "lemma": "suspected",
+      "level": "B2",
+      "hebrew": "חשוד",
+      "explanation_hebrew": "שמאמינים שאולי אשם",
+      "pronunciation_hebrew": "סַסְפֶּקְטֶד",
+      "example": "Police questioned the suspected driver."
+    },
+    {
+      "word": "intend",
+      "lemma": "intend",
       "level": "B1",
-      "hebrew": "מְהַגֵּר",
-      "explanation_hebrew": "אדם שעובר לגור במדינה אחרת",
-      "pronunciation_hebrew": "מַייגְרֶנְט",
-      "example": "The scheme applies to migrants without legal status."
+      "hebrew": "להתכוון",
+      "explanation_hebrew": "לתכנן לעשות משהו",
+      "pronunciation_hebrew": "אִינְטֶנְד",
+      "example": "They do not intend to change course."
     },
     {
-      "word": "removals",
-      "lemma": "removal",
+      "word": "revenue",
+      "lemma": "revenue",
       "level": "B2",
-      "hebrew": "הַרְחָקוֹת / סִילּוּקִים",
-      "explanation_hebrew": "הוצאה או הסרה של מישהו או משהו",
-      "pronunciation_hebrew": "רִימוּבַלְז",
-      "example": "The plan aims to boost removals of migrants."
+      "hebrew": "הכנסות",
+      "explanation_hebrew": "הכסף שחברה מקבלת",
+      "pronunciation_hebrew": "רֶבֶנְיוּ",
+      "example": "The firm's revenue doubled this year."
     },
     {
-      "word": "transfers",
-      "lemma": "transfer",
-      "level": "B1",
-      "hebrew": "הַעֲבָרוֹת",
-      "explanation_hebrew": "העברה ממקום אחד לאחר",
-      "pronunciation_hebrew": "טְרַנְסְפֶרְז",
-      "example": "The hub is ready to accept transfers in 2027."
-    },
-    {
-      "word": "scheme",
-      "lemma": "scheme",
-      "level": "B2",
-      "hebrew": "תָּכְנִית",
-      "explanation_hebrew": "תוכנית או מערך פעולה מאורגן",
-      "pronunciation_hebrew": "סְקִים",
-      "example": "The scheme would apply to illegal migrants."
-    },
-    {
-      "word": "illegally",
-      "lemma": "illegally",
-      "level": "B1",
-      "hebrew": "בְּאֹפֶן לֹא חֻקִּי",
-      "explanation_hebrew": "בניגוד לחוק",
-      "pronunciation_hebrew": "אִילִיגַלִי",
-      "example": "People staying illegally may be deported."
-    },
-    {
-      "word": "integrate",
-      "lemma": "integrate",
-      "level": "B2",
-      "hebrew": "לְהִשְׁתַּלֵּב",
-      "explanation_hebrew": "להצטרף ולהיות חלק מחברה",
-      "pronunciation_hebrew": "אִינְטֶגְרֵייט",
-      "example": "Deportees may integrate into Rwandan society."
-    },
-    {
-      "word": "exhausted",
-      "lemma": "exhaust",
+      "word": "poised",
+      "lemma": "poised",
       "level": "C1",
-      "hebrew": "מִיצָּה",
-      "explanation_hebrew": "השתמש בכל האפשרויות עד הסוף",
-      "pronunciation_hebrew": "אֶגְזוֹסְטֶד",
-      "example": "They have exhausted their legal options."
+      "hebrew": "ערוך / מוכן",
+      "explanation_hebrew": "מוכן לפעול או לקרות",
+      "pronunciation_hebrew": "פּוֹיְזְד",
+      "example": "The company is poised to grow."
     },
     {
-      "word": "avenues",
-      "lemma": "avenue",
+      "word": "uncertainty",
+      "lemma": "uncertainty",
+      "level": "B2",
+      "hebrew": "אי-ודאות",
+      "explanation_hebrew": "מצב שבו דברים אינם ברורים",
+      "pronunciation_hebrew": "אַנְסֶרְטֶנְטִי",
+      "example": "There is uncertainty about the future."
+    },
+    {
+      "word": "guidance",
+      "lemma": "guidance",
+      "level": "B2",
+      "hebrew": "הכוונה / תחזית",
+      "explanation_hebrew": "עצה או תחזית רשמית",
+      "pronunciation_hebrew": "גַייְדַנְס",
+      "example": "The firm gave guidance for next quarter."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
       "level": "C1",
-      "hebrew": "אֲפִיקִים / דְּרָכִים",
-      "explanation_hebrew": "דרכים אפשריות לפעולה",
-      "pronunciation_hebrew": "אַבֶנְיוּז",
-      "example": "He explored every legal avenue to stay."
+      "hebrew": "תשתית",
+      "explanation_hebrew": "מערכות בסיס התומכות בפעילות",
+      "pronunciation_hebrew": "אִינְפְרַסְטְרַקְצ'וֹר",
+      "example": "Demand for AI infrastructure is rising."
     },
     {
-      "word": "scrapped",
-      "lemma": "scrap",
-      "level": "B2",
-      "hebrew": "בֻּטַּל",
-      "explanation_hebrew": "בוטל או נזנח",
-      "pronunciation_hebrew": "סְקְרַפְּט",
-      "example": "A similar British deal was later scrapped."
-    },
-    {
-      "word": "envisaged",
-      "lemma": "envisage",
+      "word": "temper",
+      "lemma": "temper",
       "level": "C1",
-      "hebrew": "צָפָה / חָזָה",
-      "explanation_hebrew": "תכנן או דמיין שמשהו יקרה",
-      "pronunciation_hebrew": "אֶנְוִיזַגְ'ד",
-      "example": "The deal envisaged sending people abroad."
+      "hebrew": "לרכך",
+      "explanation_hebrew": "להפחית עוצמה של משהו",
+      "pronunciation_hebrew": "טֶמְפֶּר",
+      "example": "The results temper the worst fears."
     },
     {
-      "word": "broadcaster",
-      "lemma": "broadcaster",
-      "level": "B2",
-      "hebrew": "שַׁדְּרָן / גּוּף שִׁדּוּר",
-      "explanation_hebrew": "תחנת רדיו או טלוויזיה",
-      "pronunciation_hebrew": "בְּרוֹדְקַאסְטֶר",
-      "example": "He spoke to a Spanish broadcaster."
-    },
-    {
-      "word": "humanity",
-      "lemma": "humanity",
-      "level": "B2",
-      "hebrew": "אֱנוֹשִׁיּוּת",
-      "explanation_hebrew": "יחס אנושי וחמלה כלפי בני אדם",
-      "pronunciation_hebrew": "הְיוּמַנִיטִי",
-      "example": "He said the plan had no humanity."
-    },
-    {
-      "word": "violate",
-      "lemma": "violate",
-      "level": "B2",
-      "hebrew": "לְהָפֵר",
-      "explanation_hebrew": "לפעול בניגוד לחוק או לכלל",
-      "pronunciation_hebrew": "וַיוֹלֵייט",
-      "example": "Critics say it could violate migrant rights."
-    },
-    {
-      "word": "reform",
-      "lemma": "reform",
-      "level": "B2",
-      "hebrew": "רֵפוֹרְמָה",
-      "explanation_hebrew": "שינוי שנועד לשפר מערכת",
-      "pronunciation_hebrew": "רִיפוֹרְם",
-      "example": "The deal follows a recent EU reform."
-    },
-    {
-      "word": "bloc",
-      "lemma": "bloc",
+      "word": "irreplaceable",
+      "lemma": "irreplaceable",
       "level": "C1",
-      "hebrew": "גּוּשׁ מְדִינוֹת",
-      "explanation_hebrew": "קבוצת מדינות עם אינטרס משותף",
-      "pronunciation_hebrew": "בְּלוֹק",
-      "example": "The hubs can be created outside the bloc."
+      "hebrew": "בלתי ניתן להחלפה",
+      "explanation_hebrew": "שאי אפשר למצוא לו תחליף",
+      "pronunciation_hebrew": "אִירִיפְּלֵייסַבְּל",
+      "example": "A good leader can seem irreplaceable."
     },
     {
-      "word": "relieve",
-      "lemma": "relieve",
+      "word": "preserve",
+      "lemma": "preserve",
       "level": "B2",
-      "hebrew": "לְהָקֵל",
-      "explanation_hebrew": "להפחית לחץ או נטל",
-      "pronunciation_hebrew": "רִילִיב",
-      "example": "They want to relieve European asylum systems."
+      "hebrew": "לשמר",
+      "explanation_hebrew": "לשמור משהו כפי שהוא",
+      "pronunciation_hebrew": "פְּרִיזֶרְב",
+      "example": "They worked to preserve their lead."
     },
     {
-      "word": "traffickers",
-      "lemma": "trafficker",
+      "word": "strategic",
+      "lemma": "strategic",
+      "level": "B2",
+      "hebrew": "אסטרטגי",
+      "explanation_hebrew": "קשור לתכנון לטווח ארוך",
+      "pronunciation_hebrew": "סְטְרַטֶגִ'יק",
+      "example": "The merger gave a strategic advantage."
+    },
+    {
+      "word": "momentum",
+      "lemma": "momentum",
       "level": "C1",
-      "hebrew": "סוֹחֲרֵי בְּנֵי אָדָם / מַבְרִיחִים",
-      "explanation_hebrew": "אנשים שמעבירים בני אדם באופן לא חוקי",
-      "pronunciation_hebrew": "טְרַפִיקֶרְז",
-      "example": "They hope to stop traffickers crossing the sea."
+      "hebrew": "תנופה",
+      "explanation_hebrew": "כוח ההתקדמות של תהליך",
+      "pronunciation_hebrew": "מוֹמֶנְטוּם",
+      "example": "The team kept its momentum going."
     },
     {
-      "word": "residence",
-      "lemma": "residence",
-      "level": "B2",
-      "hebrew": "תּוֹשָׁבוּת / מְגוּרִים",
-      "explanation_hebrew": "הזכות או המקום לגור בו",
-      "pronunciation_hebrew": "רֶזִידֶנְס",
-      "example": "People will have the right of residence."
-    },
-    {
-      "word": "dignified",
-      "lemma": "dignified",
+      "word": "seamlessly",
+      "lemma": "seamlessly",
       "level": "C1",
-      "hebrew": "מְכֻבָּד / בִּכְבוֹד",
-      "explanation_hebrew": "נעשה בכבוד ובדרך ראויה",
-      "pronunciation_hebrew": "דִיגְנִיפַייד",
-      "example": "He promised a dignified solution for migrants."
+      "hebrew": "בחלקלקות",
+      "explanation_hebrew": "בלי בעיות או הפרעות",
+      "pronunciation_hebrew": "סִימְלֶסְלִי",
+      "example": "The departments worked seamlessly."
     },
     {
-      "word": "imbalance",
-      "lemma": "imbalance",
+      "word": "lobbying",
+      "lemma": "lobbying",
       "level": "C1",
-      "hebrew": "חוֹסֶר אִיזּוּן",
-      "explanation_hebrew": "מצב לא שוויוני בין צדדים",
-      "pronunciation_hebrew": "אִימְבַּלַנְס",
-      "example": "He spoke of a global economic imbalance."
+      "hebrew": "שתדלנות",
+      "explanation_hebrew": "ניסיון להשפיע על מקבלי החלטות",
+      "pronunciation_hebrew": "לוֹבִּיאִינְג",
+      "example": "His lobbying led to the approval."
     },
     {
-      "word": "irregular",
-      "lemma": "irregular",
+      "word": "elaborate",
+      "lemma": "elaborate",
       "level": "B2",
-      "hebrew": "בִּלְתִּי סָדִיר / לֹא חֻקִּי",
-      "explanation_hebrew": "לא רגיל או לא לפי הנהלים",
-      "pronunciation_hebrew": "אִירֶגְיוּלַר",
-      "example": "Irregular migration has fallen this year."
+      "hebrew": "לפרט",
+      "explanation_hebrew": "להסביר ביתר פירוט",
+      "pronunciation_hebrew": "אִילַבּוֹרֵייט",
+      "example": "She did not elaborate on her plans."
     },
     {
-      "word": "assistance",
-      "lemma": "assistance",
-      "level": "B1",
-      "hebrew": "סִיּוּעַ / עֶזְרָה",
-      "explanation_hebrew": "עזרה או תמיכה",
-      "pronunciation_hebrew": "אַסִיסְטַנְס",
-      "example": "The agency provides assistance to migrants."
-    },
-    {
-      "word": "attitudes",
-      "lemma": "attitude",
+      "word": "navigate",
+      "lemma": "navigate",
       "level": "B2",
-      "hebrew": "עֶמְדּוֹת / גִּישׁוֹת",
-      "explanation_hebrew": "דעות ורגשות כלפי משהו",
-      "pronunciation_hebrew": "אַטִיטְיוּדְז",
-      "example": "Fear has shaped attitudes towards migrants."
+      "hebrew": "לנווט",
+      "explanation_hebrew": "למצוא דרך במצב מורכב",
+      "pronunciation_hebrew": "נַבִיגֵייט",
+      "example": "New leaders must navigate tough waters."
     },
     {
-      "word": "detention",
-      "lemma": "detention",
-      "level": "B2",
-      "hebrew": "מַעֲצָר / כְּלִיאָה",
-      "explanation_hebrew": "החזקה כפויה במתקן סגור",
-      "pronunciation_hebrew": "דִיטֶנְשֶׁן",
-      "example": "Reports mention arbitrary detention there."
+      "word": "iconic",
+      "lemma": "iconic",
+      "level": "C1",
+      "hebrew": "אייקוני",
+      "explanation_hebrew": "מוכר ומוערך מאוד כסמל",
+      "pronunciation_hebrew": "אַייקוֹנִיק",
+      "example": "He was an iconic founder of the firm."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "deportation",
+      "word": "reinstate",
       "type": "english_to_hebrew",
-      "question": "What does “deportation” mean?",
+      "question": "What does “reinstate” mean?",
       "options": [
-        "מְהַגֵּר",
-        "גֵּרוּשׁ",
-        "הַעֲבָרוֹת",
-        "הַרְחָקוֹת / סִילּוּקִים"
+        "בחלקלקות",
+        "שופע / שיא",
+        "נטען / לכאורה",
+        "להחזיר לתפקיד"
       ],
-      "correct_answer": "גֵּרוּשׁ",
-      "explanation_hebrew": "“deportation” = גֵּרוּשׁ. הוצאה כפויה של אדם ממדינה."
+      "correct_answer": "להחזיר לתפקיד",
+      "explanation_hebrew": "“reinstate” פירושו להחזיר לתפקיד."
     },
     {
       "id": "B-q2",
-      "word": "migrant",
+      "word": "bumper",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “מְהַגֵּר”?",
+      "question": "איזו מילה באנגלית פירושה “שופע / שיא”?",
       "options": [
-        "scheme",
-        "migrant",
-        "removals",
-        "transfers"
+        "suspected",
+        "bumper",
+        "infrastructure",
+        "poised"
       ],
-      "correct_answer": "migrant",
-      "explanation_hebrew": "מְהַגֵּר = “migrant”. אדם שעובר לגור במדינה אחרת."
+      "correct_answer": "bumper",
+      "explanation_hebrew": "המילה “bumper” פירושה שופע / שיא."
     },
     {
       "id": "B-q3",
-      "word": "removals",
+      "word": "quarterly",
       "type": "english_to_hebrew",
-      "question": "What does “removals” mean?",
+      "question": "What does “quarterly” mean?",
       "options": [
-        "הַעֲבָרוֹת",
-        "תָּכְנִית",
-        "הַרְחָקוֹת / סִילּוּקִים",
-        "בְּאֹפֶן לֹא חֻקִּי"
+        "התעקש",
+        "רבעוני",
+        "לרכך",
+        "בלתי ניתן להחלפה"
       ],
-      "correct_answer": "הַרְחָקוֹת / סִילּוּקִים",
-      "explanation_hebrew": "“removals” = הַרְחָקוֹת / סִילּוּקִים. הוצאה או הסרה של מישהו או משהו."
+      "correct_answer": "רבעוני",
+      "explanation_hebrew": "“quarterly” פירושו רבעוני."
     },
     {
       "id": "B-q4",
-      "word": "transfers",
+      "word": "insisted",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “הַעֲבָרוֹת”?",
+      "question": "איזו מילה באנגלית פירושה “התעקש”?",
       "options": [
-        "transfers",
-        "integrate",
-        "illegally",
-        "scheme"
+        "insisted",
+        "temper",
+        "investors",
+        "bumper"
       ],
-      "correct_answer": "transfers",
-      "explanation_hebrew": "הַעֲבָרוֹת = “transfers”. העברה ממקום אחד לאחר."
+      "correct_answer": "insisted",
+      "explanation_hebrew": "המילה “insisted” פירושה התעקש."
     },
     {
       "id": "B-q5",
-      "word": "scheme",
+      "word": "ousted",
       "type": "english_to_hebrew",
-      "question": "What does “scheme” mean?",
+      "question": "What does “ousted” mean?",
       "options": [
-        "לְהִשְׁתַּלֵּב",
-        "מִיצָּה",
-        "בְּאֹפֶן לֹא חֻקִּי",
-        "תָּכְנִית"
+        "להתכוון",
+        "ערוך / מוכן",
+        "הודח",
+        "בחלקלקות"
       ],
-      "correct_answer": "תָּכְנִית",
-      "explanation_hebrew": "“scheme” = תָּכְנִית. תוכנית או מערך פעולה מאורגן."
+      "correct_answer": "הודח",
+      "explanation_hebrew": "“ousted” פירושו הודח."
     },
     {
       "id": "B-q6",
-      "word": "illegally",
+      "word": "interim",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “בְּאֹפֶן לֹא חֻקִּי”?",
+      "question": "איזו מילה באנגלית פירושה “זמני / ביניים”?",
       "options": [
-        "illegally",
-        "integrate",
-        "avenues",
-        "exhausted"
+        "suspected",
+        "irreplaceable",
+        "interim",
+        "investors"
       ],
-      "correct_answer": "illegally",
-      "explanation_hebrew": "בְּאֹפֶן לֹא חֻקִּי = “illegally”. בניגוד לחוק."
+      "correct_answer": "interim",
+      "explanation_hebrew": "המילה “interim” פירושה זמני / ביניים."
     },
     {
       "id": "B-q7",
-      "word": "integrate",
+      "word": "investors",
       "type": "english_to_hebrew",
-      "question": "What does “integrate” mean?",
+      "question": "What does “investors” mean?",
       "options": [
-        "לְהִשְׁתַּלֵּב",
-        "אֲפִיקִים / דְּרָכִים",
-        "מִיצָּה",
-        "בֻּטַּל"
+        "בלתי ניתן להחלפה",
+        "לפרט",
+        "משקיעים",
+        "תשתית"
       ],
-      "correct_answer": "לְהִשְׁתַּלֵּב",
-      "explanation_hebrew": "“integrate” = לְהִשְׁתַּלֵּב. להצטרף ולהיות חלק מחברה."
+      "correct_answer": "משקיעים",
+      "explanation_hebrew": "“investors” פירושו משקיעים."
     },
     {
       "id": "B-q8",
-      "word": "exhausted",
+      "word": "alleged",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “מִיצָּה”?",
+      "question": "איזו מילה באנגלית פירושה “נטען / לכאורה”?",
       "options": [
-        "envisaged",
-        "scrapped",
-        "exhausted",
-        "avenues"
+        "alleged",
+        "investors",
+        "intend",
+        "quarterly"
       ],
-      "correct_answer": "exhausted",
-      "explanation_hebrew": "מִיצָּה = “exhausted”. השתמש בכל האפשרויות עד הסוף."
+      "correct_answer": "alleged",
+      "explanation_hebrew": "המילה “alleged” פירושה נטען / לכאורה."
     },
     {
       "id": "B-q9",
-      "word": "avenues",
+      "word": "suspected",
       "type": "english_to_hebrew",
-      "question": "What does “avenues” mean?",
+      "question": "What does “suspected” mean?",
       "options": [
-        "אֲפִיקִים / דְּרָכִים",
-        "בֻּטַּל",
-        "צָפָה / חָזָה",
-        "שַׁדְּרָן / גּוּף שִׁדּוּר"
+        "לרכך",
+        "חשוד",
+        "בלתי ניתן להחלפה",
+        "להחזיר לתפקיד"
       ],
-      "correct_answer": "אֲפִיקִים / דְּרָכִים",
-      "explanation_hebrew": "“avenues” = אֲפִיקִים / דְּרָכִים. דרכים אפשריות לפעולה."
+      "correct_answer": "חשוד",
+      "explanation_hebrew": "“suspected” פירושו חשוד."
     },
     {
       "id": "B-q10",
-      "word": "scrapped",
+      "word": "intend",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “בֻּטַּל”?",
+      "question": "איזו מילה באנגלית פירושה “להתכוון”?",
       "options": [
-        "humanity",
-        "scrapped",
-        "envisaged",
-        "broadcaster"
+        "infrastructure",
+        "intend",
+        "preserve",
+        "interim"
       ],
-      "correct_answer": "scrapped",
-      "explanation_hebrew": "בֻּטַּל = “scrapped”. בוטל או נזנח."
+      "correct_answer": "intend",
+      "explanation_hebrew": "המילה “intend” פירושה להתכוון."
     },
     {
       "id": "B-q11",
-      "word": "envisaged",
+      "word": "revenue",
       "type": "english_to_hebrew",
-      "question": "What does “envisaged” mean?",
+      "question": "What does “revenue” mean?",
       "options": [
-        "אֱנוֹשִׁיּוּת",
-        "צָפָה / חָזָה",
-        "שַׁדְּרָן / גּוּף שִׁדּוּר",
-        "לְהָפֵר"
+        "הכנסות",
+        "משקיעים",
+        "נטען / לכאורה",
+        "זמני / ביניים"
       ],
-      "correct_answer": "צָפָה / חָזָה",
-      "explanation_hebrew": "“envisaged” = צָפָה / חָזָה. תכנן או דמיין שמשהו יקרה."
+      "correct_answer": "הכנסות",
+      "explanation_hebrew": "“revenue” פירושו הכנסות."
     },
     {
       "id": "B-q12",
-      "word": "broadcaster",
+      "word": "poised",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “שַׁדְּרָן / גּוּף שִׁדּוּר”?",
+      "question": "איזו מילה באנגלית פירושה “ערוך / מוכן”?",
       "options": [
-        "reform",
-        "violate",
-        "humanity",
-        "broadcaster"
+        "lobbying",
+        "poised",
+        "preserve",
+        "iconic"
       ],
-      "correct_answer": "broadcaster",
-      "explanation_hebrew": "שַׁדְּרָן / גּוּף שִׁדּוּר = “broadcaster”. תחנת רדיו או טלוויזיה."
+      "correct_answer": "poised",
+      "explanation_hebrew": "המילה “poised” פירושה ערוך / מוכן."
     },
     {
       "id": "B-q13",
-      "word": "humanity",
+      "word": "uncertainty",
       "type": "english_to_hebrew",
-      "question": "What does “humanity” mean?",
+      "question": "What does “uncertainty” mean?",
       "options": [
-        "לְהָפֵר",
-        "רֵפוֹרְמָה",
-        "גּוּשׁ מְדִינוֹת",
-        "אֱנוֹשִׁיּוּת"
+        "הודח",
+        "הכנסות",
+        "תנופה",
+        "אי-ודאות"
       ],
-      "correct_answer": "אֱנוֹשִׁיּוּת",
-      "explanation_hebrew": "“humanity” = אֱנוֹשִׁיּוּת. יחס אנושי וחמלה כלפי בני אדם."
+      "correct_answer": "אי-ודאות",
+      "explanation_hebrew": "“uncertainty” פירושו אי-ודאות."
     },
     {
       "id": "B-q14",
-      "word": "violate",
+      "word": "guidance",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “לְהָפֵר”?",
+      "question": "איזו מילה באנגלית פירושה “הכוונה / תחזית”?",
       "options": [
-        "reform",
-        "bloc",
-        "violate",
-        "relieve"
+        "guidance",
+        "irreplaceable",
+        "navigate",
+        "ousted"
       ],
-      "correct_answer": "violate",
-      "explanation_hebrew": "לְהָפֵר = “violate”. לפעול בניגוד לחוק או לכלל."
+      "correct_answer": "guidance",
+      "explanation_hebrew": "המילה “guidance” פירושה הכוונה / תחזית."
     },
     {
       "id": "B-q15",
-      "word": "reform",
+      "word": "infrastructure",
       "type": "english_to_hebrew",
-      "question": "What does “reform” mean?",
+      "question": "What does “infrastructure” mean?",
       "options": [
-        "גּוּשׁ מְדִינוֹת",
-        "סוֹחֲרֵי בְּנֵי אָדָם / מַבְרִיחִים",
-        "לְהָקֵל",
-        "רֵפוֹרְמָה"
+        "אייקוני",
+        "תשתית",
+        "שופע / שיא",
+        "אסטרטגי"
       ],
-      "correct_answer": "רֵפוֹרְמָה",
-      "explanation_hebrew": "“reform” = רֵפוֹרְמָה. שינוי שנועד לשפר מערכת."
+      "correct_answer": "תשתית",
+      "explanation_hebrew": "“infrastructure” פירושו תשתית."
     },
     {
       "id": "B-q16",
-      "word": "bloc",
+      "word": "temper",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “גּוּשׁ מְדִינוֹת”?",
+      "question": "איזו מילה באנגלית פירושה “לרכך”?",
       "options": [
-        "bloc",
-        "traffickers",
-        "residence",
-        "relieve"
+        "alleged",
+        "temper",
+        "uncertainty",
+        "preserve"
       ],
-      "correct_answer": "bloc",
-      "explanation_hebrew": "גּוּשׁ מְדִינוֹת = “bloc”. קבוצת מדינות עם אינטרס משותף."
+      "correct_answer": "temper",
+      "explanation_hebrew": "המילה “temper” פירושה לרכך."
     },
     {
       "id": "B-q17",
-      "word": "relieve",
+      "word": "irreplaceable",
       "type": "english_to_hebrew",
-      "question": "What does “relieve” mean?",
+      "question": "What does “irreplaceable” mean?",
       "options": [
-        "לְהָקֵל",
-        "מְכֻבָּד / בִּכְבוֹד",
-        "סוֹחֲרֵי בְּנֵי אָדָם / מַבְרִיחִים",
-        "תּוֹשָׁבוּת / מְגוּרִים"
+        "תשתית",
+        "לנווט",
+        "בלתי ניתן להחלפה",
+        "הכוונה / תחזית"
       ],
-      "correct_answer": "לְהָקֵל",
-      "explanation_hebrew": "“relieve” = לְהָקֵל. להפחית לחץ או נטל."
+      "correct_answer": "בלתי ניתן להחלפה",
+      "explanation_hebrew": "“irreplaceable” פירושו בלתי ניתן להחלפה."
     },
     {
       "id": "B-q18",
-      "word": "traffickers",
+      "word": "preserve",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “סוֹחֲרֵי בְּנֵי אָדָם / מַבְרִיחִים”?",
+      "question": "איזו מילה באנגלית פירושה “לשמר”?",
       "options": [
-        "residence",
-        "traffickers",
-        "imbalance",
-        "dignified"
+        "irreplaceable",
+        "preserve",
+        "navigate",
+        "lobbying"
       ],
-      "correct_answer": "traffickers",
-      "explanation_hebrew": "סוֹחֲרֵי בְּנֵי אָדָם / מַבְרִיחִים = “traffickers”. אנשים שמעבירים בני אדם באופן לא חוקי."
+      "correct_answer": "preserve",
+      "explanation_hebrew": "המילה “preserve” פירושה לשמר."
     },
     {
       "id": "B-q19",
-      "word": "residence",
+      "word": "strategic",
       "type": "english_to_hebrew",
-      "question": "What does “residence” mean?",
+      "question": "What does “strategic” mean?",
       "options": [
-        "תּוֹשָׁבוּת / מְגוּרִים",
-        "בִּלְתִּי סָדִיר / לֹא חֻקִּי",
-        "חוֹסֶר אִיזּוּן",
-        "מְכֻבָּד / בִּכְבוֹד"
+        "לפרט",
+        "אסטרטגי",
+        "שופע / שיא",
+        "משקיעים"
       ],
-      "correct_answer": "תּוֹשָׁבוּת / מְגוּרִים",
-      "explanation_hebrew": "“residence” = תּוֹשָׁבוּת / מְגוּרִים. הזכות או המקום לגור בו."
+      "correct_answer": "אסטרטגי",
+      "explanation_hebrew": "“strategic” פירושו אסטרטגי."
     },
     {
       "id": "B-q20",
-      "word": "dignified",
+      "word": "momentum",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “מְכֻבָּד / בִּכְבוֹד”?",
+      "question": "איזו מילה באנגלית פירושה “תנופה”?",
       "options": [
-        "imbalance",
-        "dignified",
-        "irregular",
-        "assistance"
+        "ousted",
+        "navigate",
+        "momentum",
+        "revenue"
       ],
-      "correct_answer": "dignified",
-      "explanation_hebrew": "מְכֻבָּד / בִּכְבוֹד = “dignified”. נעשה בכבוד ובדרך ראויה."
+      "correct_answer": "momentum",
+      "explanation_hebrew": "המילה “momentum” פירושה תנופה."
     },
     {
       "id": "B-q21",
-      "word": "imbalance",
+      "word": "seamlessly",
       "type": "english_to_hebrew",
-      "question": "What does “imbalance” mean?",
+      "question": "What does “seamlessly” mean?",
       "options": [
-        "עֶמְדּוֹת / גִּישׁוֹת",
-        "בִּלְתִּי סָדִיר / לֹא חֻקִּי",
-        "חוֹסֶר אִיזּוּן",
-        "סִיּוּעַ / עֶזְרָה"
+        "נטען / לכאורה",
+        "התעקש",
+        "בחלקלקות",
+        "תשתית"
       ],
-      "correct_answer": "חוֹסֶר אִיזּוּן",
-      "explanation_hebrew": "“imbalance” = חוֹסֶר אִיזּוּן. מצב לא שוויוני בין צדדים."
+      "correct_answer": "בחלקלקות",
+      "explanation_hebrew": "“seamlessly” פירושו בחלקלקות."
     },
     {
       "id": "B-q22",
-      "word": "irregular",
+      "word": "lobbying",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “בִּלְתִּי סָדִיר / לֹא חֻקִּי”?",
+      "question": "איזו מילה באנגלית פירושה “שתדלנות”?",
       "options": [
-        "attitudes",
-        "assistance",
-        "irregular",
-        "detention"
+        "lobbying",
+        "ousted",
+        "elaborate",
+        "strategic"
       ],
-      "correct_answer": "irregular",
-      "explanation_hebrew": "בִּלְתִּי סָדִיר / לֹא חֻקִּי = “irregular”. לא רגיל או לא לפי הנהלים."
+      "correct_answer": "lobbying",
+      "explanation_hebrew": "המילה “lobbying” פירושה שתדלנות."
     },
     {
       "id": "B-q23",
-      "word": "assistance",
+      "word": "elaborate",
       "type": "english_to_hebrew",
-      "question": "What does “assistance” mean?",
+      "question": "What does “elaborate” mean?",
       "options": [
-        "מַעֲצָר / כְּלִיאָה",
-        "עֶמְדּוֹת / גִּישׁוֹת",
-        "גֵּרוּשׁ",
-        "סִיּוּעַ / עֶזְרָה"
+        "משקיעים",
+        "לפרט",
+        "להתכוון",
+        "זמני / ביניים"
       ],
-      "correct_answer": "סִיּוּעַ / עֶזְרָה",
-      "explanation_hebrew": "“assistance” = סִיּוּעַ / עֶזְרָה. עזרה או תמיכה."
+      "correct_answer": "לפרט",
+      "explanation_hebrew": "“elaborate” פירושו לפרט."
     },
     {
       "id": "B-q24",
-      "word": "attitudes",
+      "word": "navigate",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “עֶמְדּוֹת / גִּישׁוֹת”?",
+      "question": "איזו מילה באנגלית פירושה “לנווט”?",
       "options": [
-        "detention",
-        "deportation",
-        "migrant",
-        "attitudes"
+        "strategic",
+        "seamlessly",
+        "navigate",
+        "uncertainty"
       ],
-      "correct_answer": "attitudes",
-      "explanation_hebrew": "עֶמְדּוֹת / גִּישׁוֹת = “attitudes”. דעות ורגשות כלפי משהו."
+      "correct_answer": "navigate",
+      "explanation_hebrew": "המילה “navigate” פירושה לנווט."
     },
     {
       "id": "B-q25",
-      "word": "detention",
+      "word": "iconic",
       "type": "english_to_hebrew",
-      "question": "What does “detention” mean?",
+      "question": "What does “iconic” mean?",
       "options": [
-        "מְהַגֵּר",
-        "גֵּרוּשׁ",
-        "מַעֲצָר / כְּלִיאָה",
-        "הַרְחָקוֹת / סִילּוּקִים"
+        "אייקוני",
+        "שתדלנות",
+        "תשתית",
+        "להתכוון"
       ],
-      "correct_answer": "מַעֲצָר / כְּלִיאָה",
-      "explanation_hebrew": "“detention” = מַעֲצָר / כְּלִיאָה. החזקה כפויה במתקן סגור."
+      "correct_answer": "אייקוני",
+      "explanation_hebrew": "“iconic” פירושו אייקוני."
     }
   ]
 }

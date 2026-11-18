@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-18",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Nvidia reports bumper results as firm says it's not reinstating Jensen Huang",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+  "published_at": "2026-11-18T01:18:18+00:00",
+  "age_hours_at_selection": 0.91,
+  "word_count": 673,
+  "generated_at": "2026-11-18T02:12:43.634879+00:00",
+  "difficulty_reason": "Moderate business report with financial terms and quotes; useful B1/B2/C1 vocabulary and some background on company leadership and markets.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "reinstate",
+      "lemma": "reinstate",
+      "level": "C1",
+      "hebrew": "להחזיר לתפקיד",
+      "explanation_hebrew": "להשיב מישהו למשרתו",
+      "pronunciation_hebrew": "רִיאִינְסְטֵייט",
+      "example": "The board refused to reinstate him."
+    },
+    {
+      "word": "bumper",
+      "lemma": "bumper",
+      "level": "C1",
+      "hebrew": "שופע / שיא",
+      "explanation_hebrew": "גדול וטוב במיוחד",
+      "pronunciation_hebrew": "בַּאמְפֶּר",
+      "example": "The company reported bumper profits."
+    },
+    {
+      "word": "quarterly",
+      "lemma": "quarterly",
+      "level": "B2",
+      "hebrew": "רבעוני",
+      "explanation_hebrew": "שקורה כל שלושה חודשים",
+      "pronunciation_hebrew": "קְווֹרְטֶרְלִי",
+      "example": "They published their quarterly results."
+    },
+    {
+      "word": "insisted",
+      "lemma": "insist",
+      "level": "B2",
+      "hebrew": "התעקש",
+      "explanation_hebrew": "אמר בתוקף למרות התנגדות",
+      "pronunciation_hebrew": "אִינְסִיסְטֶד",
+      "example": "He insisted that nothing was wrong."
+    },
+    {
+      "word": "ousted",
+      "lemma": "oust",
+      "level": "C1",
+      "hebrew": "הודח",
+      "explanation_hebrew": "הוסר מתפקידו בכוח",
+      "pronunciation_hebrew": "אַאוּסְטֶד",
+      "example": "The ousted leader left the firm."
+    },
+    {
+      "word": "interim",
+      "lemma": "interim",
+      "level": "C1",
+      "hebrew": "זמני / ביניים",
+      "explanation_hebrew": "למשך תקופה עד למינוי קבוע",
+      "pronunciation_hebrew": "אִינְטֶרִים",
+      "example": "She is the interim chief executive."
+    },
+    {
+      "word": "investors",
+      "lemma": "investor",
+      "level": "B2",
+      "hebrew": "משקיעים",
+      "explanation_hebrew": "אנשים ששמים כסף כדי להרוויח",
+      "pronunciation_hebrew": "אִינְבֶסְטוֹרְז",
+      "example": "Investors welcomed the strong results."
+    },
+    {
+      "word": "alleged",
+      "lemma": "alleged",
+      "level": "C1",
+      "hebrew": "נטען / לכאורה",
+      "explanation_hebrew": "שמייחסים לו בלי הוכחה",
+      "pronunciation_hebrew": "אַלֶגְ'ד",
+      "example": "He denied the alleged wrongdoing."
+    },
+    {
+      "word": "suspected",
+      "lemma": "suspected",
+      "level": "B2",
+      "hebrew": "חשוד",
+      "explanation_hebrew": "שמאמינים שאולי אשם",
+      "pronunciation_hebrew": "סַסְפֶּקְטֶד",
+      "example": "Police questioned the suspected driver."
+    },
+    {
+      "word": "intend",
+      "lemma": "intend",
+      "level": "B1",
+      "hebrew": "להתכוון",
+      "explanation_hebrew": "לתכנן לעשות משהו",
+      "pronunciation_hebrew": "אִינְטֶנְד",
+      "example": "They do not intend to change course."
+    },
+    {
+      "word": "revenue",
+      "lemma": "revenue",
+      "level": "B2",
+      "hebrew": "הכנסות",
+      "explanation_hebrew": "הכסף שחברה מקבלת",
+      "pronunciation_hebrew": "רֶבֶנְיוּ",
+      "example": "The firm's revenue doubled this year."
+    },
+    {
+      "word": "poised",
+      "lemma": "poised",
+      "level": "C1",
+      "hebrew": "ערוך / מוכן",
+      "explanation_hebrew": "מוכן לפעול או לקרות",
+      "pronunciation_hebrew": "פּוֹיְזְד",
+      "example": "The company is poised to grow."
+    },
+    {
+      "word": "uncertainty",
+      "lemma": "uncertainty",
+      "level": "B2",
+      "hebrew": "אי-ודאות",
+      "explanation_hebrew": "מצב שבו דברים אינם ברורים",
+      "pronunciation_hebrew": "אַנְסֶרְטֶנְטִי",
+      "example": "There is uncertainty about the future."
+    },
+    {
+      "word": "guidance",
+      "lemma": "guidance",
+      "level": "B2",
+      "hebrew": "הכוונה / תחזית",
+      "explanation_hebrew": "עצה או תחזית רשמית",
+      "pronunciation_hebrew": "גַייְדַנְס",
+      "example": "The firm gave guidance for next quarter."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "C1",
+      "hebrew": "תשתית",
+      "explanation_hebrew": "מערכות בסיס התומכות בפעילות",
+      "pronunciation_hebrew": "אִינְפְרַסְטְרַקְצ'וֹר",
+      "example": "Demand for AI infrastructure is rising."
+    },
+    {
+      "word": "temper",
+      "lemma": "temper",
+      "level": "C1",
+      "hebrew": "לרכך",
+      "explanation_hebrew": "להפחית עוצמה של משהו",
+      "pronunciation_hebrew": "טֶמְפֶּר",
+      "example": "The results temper the worst fears."
+    },
+    {
+      "word": "irreplaceable",
+      "lemma": "irreplaceable",
+      "level": "C1",
+      "hebrew": "בלתי ניתן להחלפה",
+      "explanation_hebrew": "שאי אפשר למצוא לו תחליף",
+      "pronunciation_hebrew": "אִירִיפְּלֵייסַבְּל",
+      "example": "A good leader can seem irreplaceable."
+    },
+    {
+      "word": "preserve",
+      "lemma": "preserve",
+      "level": "B2",
+      "hebrew": "לשמר",
+      "explanation_hebrew": "לשמור משהו כפי שהוא",
+      "pronunciation_hebrew": "פְּרִיזֶרְב",
+      "example": "They worked to preserve their lead."
+    },
+    {
+      "word": "strategic",
+      "lemma": "strategic",
+      "level": "B2",
+      "hebrew": "אסטרטגי",
+      "explanation_hebrew": "קשור לתכנון לטווח ארוך",
+      "pronunciation_hebrew": "סְטְרַטֶגִ'יק",
+      "example": "The merger gave a strategic advantage."
+    },
+    {
+      "word": "momentum",
+      "lemma": "momentum",
+      "level": "C1",
+      "hebrew": "תנופה",
+      "explanation_hebrew": "כוח ההתקדמות של תהליך",
+      "pronunciation_hebrew": "מוֹמֶנְטוּם",
+      "example": "The team kept its momentum going."
+    },
+    {
+      "word": "seamlessly",
+      "lemma": "seamlessly",
+      "level": "C1",
+      "hebrew": "בחלקלקות",
+      "explanation_hebrew": "בלי בעיות או הפרעות",
+      "pronunciation_hebrew": "סִימְלֶסְלִי",
+      "example": "The departments worked seamlessly."
+    },
+    {
+      "word": "lobbying",
+      "lemma": "lobbying",
+      "level": "C1",
+      "hebrew": "שתדלנות",
+      "explanation_hebrew": "ניסיון להשפיע על מקבלי החלטות",
+      "pronunciation_hebrew": "לוֹבִּיאִינְג",
+      "example": "His lobbying led to the approval."
+    },
+    {
+      "word": "elaborate",
+      "lemma": "elaborate",
+      "level": "B2",
+      "hebrew": "לפרט",
+      "explanation_hebrew": "להסביר ביתר פירוט",
+      "pronunciation_hebrew": "אִילַבּוֹרֵייט",
+      "example": "She did not elaborate on her plans."
+    },
+    {
+      "word": "navigate",
+      "lemma": "navigate",
+      "level": "B2",
+      "hebrew": "לנווט",
+      "explanation_hebrew": "למצוא דרך במצב מורכב",
+      "pronunciation_hebrew": "נַבִיגֵייט",
+      "example": "New leaders must navigate tough waters."
+    },
+    {
+      "word": "iconic",
+      "lemma": "iconic",
+      "level": "C1",
+      "hebrew": "אייקוני",
+      "explanation_hebrew": "מוכר ומוערך מאוד כסמל",
+      "pronunciation_hebrew": "אַייקוֹנִיק",
+      "example": "He was an iconic founder of the firm."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "reinstate",
+      "type": "english_to_hebrew",
+      "question": "What does “reinstate” mean?",
+      "options": [
+        "בחלקלקות",
+        "שופע / שיא",
+        "נטען / לכאורה",
+        "להחזיר לתפקיד"
+      ],
+      "correct_answer": "להחזיר לתפקיד",
+      "explanation_hebrew": "“reinstate” פירושו להחזיר לתפקיד."
+    },
+    {
+      "id": "B-q2",
+      "word": "bumper",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שופע / שיא”?",
+      "options": [
+        "suspected",
+        "bumper",
+        "infrastructure",
+        "poised"
+      ],
+      "correct_answer": "bumper",
+      "explanation_hebrew": "המילה “bumper” פירושה שופע / שיא."
+    },
+    {
+      "id": "B-q3",
+      "word": "quarterly",
+      "type": "english_to_hebrew",
+      "question": "What does “quarterly” mean?",
+      "options": [
+        "התעקש",
+        "רבעוני",
+        "לרכך",
+        "בלתי ניתן להחלפה"
+      ],
+      "correct_answer": "רבעוני",
+      "explanation_hebrew": "“quarterly” פירושו רבעוני."
+    },
+    {
+      "id": "B-q4",
+      "word": "insisted",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “התעקש”?",
+      "options": [
+        "insisted",
+        "temper",
+        "investors",
+        "bumper"
+      ],
+      "correct_answer": "insisted",
+      "explanation_hebrew": "המילה “insisted” פירושה התעקש."
+    },
+    {
+      "id": "B-q5",
+      "word": "ousted",
+      "type": "english_to_hebrew",
+      "question": "What does “ousted” mean?",
+      "options": [
+        "להתכוון",
+        "ערוך / מוכן",
+        "הודח",
+        "בחלקלקות"
+      ],
+      "correct_answer": "הודח",
+      "explanation_hebrew": "“ousted” פירושו הודח."
+    },
+    {
+      "id": "B-q6",
+      "word": "interim",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “זמני / ביניים”?",
+      "options": [
+        "suspected",
+        "irreplaceable",
+        "interim",
+        "investors"
+      ],
+      "correct_answer": "interim",
+      "explanation_hebrew": "המילה “interim” פירושה זמני / ביניים."
+    },
+    {
+      "id": "B-q7",
+      "word": "investors",
+      "type": "english_to_hebrew",
+      "question": "What does “investors” mean?",
+      "options": [
+        "בלתי ניתן להחלפה",
+        "לפרט",
+        "משקיעים",
+        "תשתית"
+      ],
+      "correct_answer": "משקיעים",
+      "explanation_hebrew": "“investors” פירושו משקיעים."
+    },
+    {
+      "id": "B-q8",
+      "word": "alleged",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “נטען / לכאורה”?",
+      "options": [
+        "alleged",
+        "investors",
+        "intend",
+        "quarterly"
+      ],
+      "correct_answer": "alleged",
+      "explanation_hebrew": "המילה “alleged” פירושה נטען / לכאורה."
+    },
+    {
+      "id": "B-q9",
+      "word": "suspected",
+      "type": "english_to_hebrew",
+      "question": "What does “suspected” mean?",
+      "options": [
+        "לרכך",
+        "חשוד",
+        "בלתי ניתן להחלפה",
+        "להחזיר לתפקיד"
+      ],
+      "correct_answer": "חשוד",
+      "explanation_hebrew": "“suspected” פירושו חשוד."
+    },
+    {
+      "id": "B-q10",
+      "word": "intend",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “להתכוון”?",
+      "options": [
+        "infrastructure",
+        "intend",
+        "preserve",
+        "interim"
+      ],
+      "correct_answer": "intend",
+      "explanation_hebrew": "המילה “intend” פירושה להתכוון."
+    },
+    {
+      "id": "B-q11",
+      "word": "revenue",
+      "type": "english_to_hebrew",
+      "question": "What does “revenue” mean?",
+      "options": [
+        "הכנסות",
+        "משקיעים",
+        "נטען / לכאורה",
+        "זמני / ביניים"
+      ],
+      "correct_answer": "הכנסות",
+      "explanation_hebrew": "“revenue” פירושו הכנסות."
+    },
+    {
+      "id": "B-q12",
+      "word": "poised",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “ערוך / מוכן”?",
+      "options": [
+        "lobbying",
+        "poised",
+        "preserve",
+        "iconic"
+      ],
+      "correct_answer": "poised",
+      "explanation_hebrew": "המילה “poised” פירושה ערוך / מוכן."
+    },
+    {
+      "id": "B-q13",
+      "word": "uncertainty",
+      "type": "english_to_hebrew",
+      "question": "What does “uncertainty” mean?",
+      "options": [
+        "הודח",
+        "הכנסות",
+        "תנופה",
+        "אי-ודאות"
+      ],
+      "correct_answer": "אי-ודאות",
+      "explanation_hebrew": "“uncertainty” פירושו אי-ודאות."
+    },
+    {
+      "id": "B-q14",
+      "word": "guidance",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הכוונה / תחזית”?",
+      "options": [
+        "guidance",
+        "irreplaceable",
+        "navigate",
+        "ousted"
+      ],
+      "correct_answer": "guidance",
+      "explanation_hebrew": "המילה “guidance” פירושה הכוונה / תחזית."
+    },
+    {
+      "id": "B-q15",
+      "word": "infrastructure",
+      "type": "english_to_hebrew",
+      "question": "What does “infrastructure” mean?",
+      "options": [
+        "אייקוני",
+        "תשתית",
+        "שופע / שיא",
+        "אסטרטגי"
+      ],
+      "correct_answer": "תשתית",
+      "explanation_hebrew": "“infrastructure” פירושו תשתית."
+    },
+    {
+      "id": "B-q16",
+      "word": "temper",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לרכך”?",
+      "options": [
+        "alleged",
+        "temper",
+        "uncertainty",
+        "preserve"
+      ],
+      "correct_answer": "temper",
+      "explanation_hebrew": "המילה “temper” פירושה לרכך."
+    },
+    {
+      "id": "B-q17",
+      "word": "irreplaceable",
+      "type": "english_to_hebrew",
+      "question": "What does “irreplaceable” mean?",
+      "options": [
+        "תשתית",
+        "לנווט",
+        "בלתי ניתן להחלפה",
+        "הכוונה / תחזית"
+      ],
+      "correct_answer": "בלתי ניתן להחלפה",
+      "explanation_hebrew": "“irreplaceable” פירושו בלתי ניתן להחלפה."
+    },
+    {
+      "id": "B-q18",
+      "word": "preserve",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לשמר”?",
+      "options": [
+        "irreplaceable",
+        "preserve",
+        "navigate",
+        "lobbying"
+      ],
+      "correct_answer": "preserve",
+      "explanation_hebrew": "המילה “preserve” פירושה לשמר."
+    },
+    {
+      "id": "B-q19",
+      "word": "strategic",
+      "type": "english_to_hebrew",
+      "question": "What does “strategic” mean?",
+      "options": [
+        "לפרט",
+        "אסטרטגי",
+        "שופע / שיא",
+        "משקיעים"
+      ],
+      "correct_answer": "אסטרטגי",
+      "explanation_hebrew": "“strategic” פירושו אסטרטגי."
+    },
+    {
+      "id": "B-q20",
+      "word": "momentum",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תנופה”?",
+      "options": [
+        "ousted",
+        "navigate",
+        "momentum",
+        "revenue"
+      ],
+      "correct_answer": "momentum",
+      "explanation_hebrew": "המילה “momentum” פירושה תנופה."
+    },
+    {
+      "id": "B-q21",
+      "word": "seamlessly",
+      "type": "english_to_hebrew",
+      "question": "What does “seamlessly” mean?",
+      "options": [
+        "נטען / לכאורה",
+        "התעקש",
+        "בחלקלקות",
+        "תשתית"
+      ],
+      "correct_answer": "בחלקלקות",
+      "explanation_hebrew": "“seamlessly” פירושו בחלקלקות."
+    },
+    {
+      "id": "B-q22",
+      "word": "lobbying",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “שתדלנות”?",
+      "options": [
+        "lobbying",
+        "ousted",
+        "elaborate",
+        "strategic"
+      ],
+      "correct_answer": "lobbying",
+      "explanation_hebrew": "המילה “lobbying” פירושה שתדלנות."
+    },
+    {
+      "id": "B-q23",
+      "word": "elaborate",
+      "type": "english_to_hebrew",
+      "question": "What does “elaborate” mean?",
+      "options": [
+        "משקיעים",
+        "לפרט",
+        "להתכוון",
+        "זמני / ביניים"
+      ],
+      "correct_answer": "לפרט",
+      "explanation_hebrew": "“elaborate” פירושו לפרט."
+    },
+    {
+      "id": "B-q24",
+      "word": "navigate",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לנווט”?",
+      "options": [
+        "strategic",
+        "seamlessly",
+        "navigate",
+        "uncertainty"
+      ],
+      "correct_answer": "navigate",
+      "explanation_hebrew": "המילה “navigate” פירושה לנווט."
+    },
+    {
+      "id": "B-q25",
+      "word": "iconic",
+      "type": "english_to_hebrew",
+      "question": "What does “iconic” mean?",
+      "options": [
+        "אייקוני",
+        "שתדלנות",
+        "תשתית",
+        "להתכוון"
+      ],
+      "correct_answer": "אייקוני",
+      "explanation_hebrew": "“iconic” פירושו אייקוני."
+    }
+  ]
+}
