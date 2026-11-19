@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-19",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Is your child lying to you? That might not be a bad thing",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo",
+  "published_at": "2026-11-19T00:12:57+00:00",
+  "age_hours_at_selection": 2.02,
+  "word_count": 818,
+  "generated_at": "2026-11-19T02:14:00.426305+00:00",
+  "difficulty_reason": "Feature article with moderate sentence complexity, expert quotes and B1/B2/C1 psychology vocabulary; some background on child development helps but is not required.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "fibs",
+      "lemma": "fib",
+      "level": "B2",
+      "hebrew": "שקרים קטנים",
+      "explanation_hebrew": "שקרים קטנים ולא מזיקים",
+      "pronunciation_hebrew": "פִיבְּז",
+      "example": "Kids often tell little fibs."
+    },
+    {
+      "word": "dishonesty",
+      "lemma": "dishonesty",
+      "level": "B2",
+      "hebrew": "חוסר יושר",
+      "explanation_hebrew": "התנהגות לא כנה",
+      "pronunciation_hebrew": "דִיסְאוֹנֶסְטִי",
+      "example": "Her dishonesty surprised everyone."
+    },
+    {
+      "word": "deception",
+      "lemma": "deception",
+      "level": "B2",
+      "hebrew": "הטעיה, רמייה",
+      "explanation_hebrew": "פעולה של הטעיית אחרים",
+      "pronunciation_hebrew": "דִיסֶפְּשֶׁן",
+      "example": "The trick was a clever deception."
+    },
+    {
+      "word": "clutching",
+      "lemma": "clutch",
+      "level": "C1",
+      "hebrew": "אוחז בחוזקה",
+      "explanation_hebrew": "מחזיק משהו חזק ביד",
+      "pronunciation_hebrew": "קְלַאצ'ִינְג",
+      "example": "She was clutching her bag tightly."
+    },
+    {
+      "word": "crumbs",
+      "lemma": "crumb",
+      "level": "B2",
+      "hebrew": "פירורים",
+      "explanation_hebrew": "חתיכות קטנות של לחם או עוגה",
+      "pronunciation_hebrew": "קְרַאמְז",
+      "example": "There were crumbs all over the table."
+    },
+    {
+      "word": "sophisticated",
+      "lemma": "sophisticated",
+      "level": "B2",
+      "hebrew": "מתוחכם",
+      "explanation_hebrew": "מורכב ומפותח",
+      "pronunciation_hebrew": "סוֹפִיסְטִיקֵייטֶד",
+      "example": "It is a sophisticated machine."
+    },
+    {
+      "word": "capable",
+      "lemma": "capable",
+      "level": "B2",
+      "hebrew": "מסוגל, בעל יכולת",
+      "explanation_hebrew": "בעל היכולת לעשות משהו",
+      "pronunciation_hebrew": "קֵייפַּבְּל",
+      "example": "She is capable of great things."
+    },
+    {
+      "word": "adept",
+      "lemma": "adept",
+      "level": "C1",
+      "hebrew": "מיומן",
+      "explanation_hebrew": "טוב מאוד במשהו",
+      "pronunciation_hebrew": "אַדֶפְּט",
+      "example": "He is adept at solving puzzles."
+    },
+    {
+      "word": "cunning",
+      "lemma": "cunning",
+      "level": "C1",
+      "hebrew": "ערמומי",
+      "explanation_hebrew": "חכם בדרך מתוחכמת ולפעמים לא ישרה",
+      "pronunciation_hebrew": "קַאנִינְג",
+      "example": "The fox is a cunning animal."
+    },
+    {
+      "word": "vouch",
+      "lemma": "vouch",
+      "level": "C1",
+      "hebrew": "להעיד, לערוב",
+      "explanation_hebrew": "לאשר שמשהו נכון או אמין",
+      "pronunciation_hebrew": "וַואוּצ'",
+      "example": "I can vouch for her honesty."
+    },
+    {
+      "word": "artful",
+      "lemma": "artful",
+      "level": "C1",
+      "hebrew": "פיקח, ערמומי",
+      "explanation_hebrew": "חכם ומיומן, לעיתים בעורמה",
+      "pronunciation_hebrew": "אַרְטְפוּל",
+      "example": "He made an artful excuse."
+    },
+    {
+      "word": "wily",
+      "lemma": "wily",
+      "level": "C2",
+      "hebrew": "ערמומי, פיקח",
+      "explanation_hebrew": "חכם ומתחכם כדי להשיג מטרה",
+      "pronunciation_hebrew": "וַוייְלִי",
+      "example": "The wily salesman tricked them."
+    },
+    {
+      "word": "ploy",
+      "lemma": "ploy",
+      "level": "C1",
+      "hebrew": "תחבולה",
+      "explanation_hebrew": "טריק כדי להשיג יתרון",
+      "pronunciation_hebrew": "פְּלוֹי",
+      "example": "It was just a ploy to win time."
+    },
+    {
+      "word": "denying",
+      "lemma": "deny",
+      "level": "B2",
+      "hebrew": "מכחיש",
+      "explanation_hebrew": "אומר שמשהו לא נכון",
+      "pronunciation_hebrew": "דִינַייִינְג",
+      "example": "He kept denying the mistake."
+    },
+    {
+      "word": "forbidden",
+      "lemma": "forbid",
+      "level": "B2",
+      "hebrew": "אסור",
+      "explanation_hebrew": "שלא מורשה לעשות",
+      "pronunciation_hebrew": "פוֹרְבִּידֶן",
+      "example": "Smoking is forbidden here."
+    },
+    {
+      "word": "excuses",
+      "lemma": "excuse",
+      "level": "B1",
+      "hebrew": "תירוצים",
+      "explanation_hebrew": "סיבות שנותנים כדי להצדיק משהו",
+      "pronunciation_hebrew": "אִיקְסְקְיוּזֶז",
+      "example": "Stop making excuses."
+    },
+    {
+      "word": "proficient",
+      "lemma": "proficient",
+      "level": "C1",
+      "hebrew": "בקיא, מיומן",
+      "explanation_hebrew": "בעל מיומנות גבוהה",
+      "pronunciation_hebrew": "פְּרוֹפִישֶׁנְט",
+      "example": "She is proficient in English."
+    },
+    {
+      "word": "withhold",
+      "lemma": "withhold",
+      "level": "C1",
+      "hebrew": "למנוע, להסתיר",
+      "explanation_hebrew": "לא לתת או לא לחשוף מידע",
+      "pronunciation_hebrew": "וִיתְהוֹלְד",
+      "example": "They decided to withhold the news."
+    },
+    {
+      "word": "omitting",
+      "lemma": "omit",
+      "level": "C1",
+      "hebrew": "משמיט",
+      "explanation_hebrew": "משאיר בחוץ, לא מזכיר",
+      "pronunciation_hebrew": "אוֹמִיטִינְג",
+      "example": "He answered, omitting the details."
+    },
+    {
+      "word": "sibling",
+      "lemma": "sibling",
+      "level": "B2",
+      "hebrew": "אח או אחות",
+      "explanation_hebrew": "אח או אחות במשפחה",
+      "pronunciation_hebrew": "סִיבְּלִינְג",
+      "example": "She has one sibling."
+    },
+    {
+      "word": "empathy",
+      "lemma": "empathy",
+      "level": "B2",
+      "hebrew": "אמפתיה",
+      "explanation_hebrew": "היכולת להבין ולחוש את רגשות האחר",
+      "pronunciation_hebrew": "אֶמְפַּתִי",
+      "example": "He showed great empathy."
+    },
+    {
+      "word": "attachment",
+      "lemma": "attachment",
+      "level": "B2",
+      "hebrew": "התקשרות",
+      "explanation_hebrew": "קשר רגשי חזק",
+      "pronunciation_hebrew": "אַטַאצ'ְמֶנְט",
+      "example": "The baby formed an attachment to its mother."
+    },
+    {
+      "word": "preserve",
+      "lemma": "preserve",
+      "level": "B2",
+      "hebrew": "לשמר, לשמור",
+      "explanation_hebrew": "לשמור על מצב קיים",
+      "pronunciation_hebrew": "פְּרִיזֶרְב",
+      "example": "We must preserve nature."
+    },
+    {
+      "word": "caregivers",
+      "lemma": "caregiver",
+      "level": "C1",
+      "hebrew": "מטפלים",
+      "explanation_hebrew": "אנשים שמטפלים בילד או בחולה",
+      "pronunciation_hebrew": "קֵרְגִיבֶרְז",
+      "example": "Parents are a child's main caregivers."
+    },
+    {
+      "word": "nuance",
+      "lemma": "nuance",
+      "level": "C1",
+      "hebrew": "ניואנס, דקוּת",
+      "explanation_hebrew": "הבדל קטן ועדין",
+      "pronunciation_hebrew": "נְיוּאַנְס",
+      "example": "She noticed every nuance in his tone."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "fibs",
+      "type": "english_to_hebrew",
+      "question": "What does “fibs” mean?",
+      "options": [
+        "חוסר יושר",
+        "הטעיה, רמייה",
+        "שקרים קטנים",
+        "אוחז בחוזקה"
+      ],
+      "correct_answer": "שקרים קטנים",
+      "explanation_hebrew": "“fibs” פירושו שקרים קטנים."
+    },
+    {
+      "id": "B-q2",
+      "word": "dishonesty",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“חוסר יושר”?",
+      "options": [
+        "dishonesty",
+        "crumbs",
+        "clutching",
+        "deception"
+      ],
+      "correct_answer": "dishonesty",
+      "explanation_hebrew": "“חוסר יושר” באנגלית הוא dishonesty."
+    },
+    {
+      "id": "B-q3",
+      "word": "deception",
+      "type": "english_to_hebrew",
+      "question": "What does “deception” mean?",
+      "options": [
+        "פירורים",
+        "מתוחכם",
+        "אוחז בחוזקה",
+        "הטעיה, רמייה"
+      ],
+      "correct_answer": "הטעיה, רמייה",
+      "explanation_hebrew": "“deception” פירושו הטעיה, רמייה."
+    },
+    {
+      "id": "B-q4",
+      "word": "clutching",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“אוחז בחוזקה”?",
+      "options": [
+        "crumbs",
+        "capable",
+        "sophisticated",
+        "clutching"
+      ],
+      "correct_answer": "clutching",
+      "explanation_hebrew": "“אוחז בחוזקה” באנגלית הוא clutching."
+    },
+    {
+      "id": "B-q5",
+      "word": "crumbs",
+      "type": "english_to_hebrew",
+      "question": "What does “crumbs” mean?",
+      "options": [
+        "מתוחכם",
+        "מיומן",
+        "פירורים",
+        "מסוגל, בעל יכולת"
+      ],
+      "correct_answer": "פירורים",
+      "explanation_hebrew": "“crumbs” פירושו פירורים."
+    },
+    {
+      "id": "B-q6",
+      "word": "sophisticated",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“מתוחכם”?",
+      "options": [
+        "sophisticated",
+        "capable",
+        "cunning",
+        "adept"
+      ],
+      "correct_answer": "sophisticated",
+      "explanation_hebrew": "“מתוחכם” באנגלית הוא sophisticated."
+    },
+    {
+      "id": "B-q7",
+      "word": "capable",
+      "type": "english_to_hebrew",
+      "question": "What does “capable” mean?",
+      "options": [
+        "להעיד, לערוב",
+        "מיומן",
+        "ערמומי",
+        "מסוגל, בעל יכולת"
+      ],
+      "correct_answer": "מסוגל, בעל יכולת",
+      "explanation_hebrew": "“capable” פירושו מסוגל, בעל יכולת."
+    },
+    {
+      "id": "B-q8",
+      "word": "adept",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“מיומן”?",
+      "options": [
+        "cunning",
+        "vouch",
+        "artful",
+        "adept"
+      ],
+      "correct_answer": "adept",
+      "explanation_hebrew": "“מיומן” באנגלית הוא adept."
+    },
+    {
+      "id": "B-q9",
+      "word": "cunning",
+      "type": "english_to_hebrew",
+      "question": "What does “cunning” mean?",
+      "options": [
+        "להעיד, לערוב",
+        "ערמומי",
+        "ערמומי, פיקח",
+        "פיקח, ערמומי"
+      ],
+      "correct_answer": "ערמומי",
+      "explanation_hebrew": "“cunning” פירושו ערמומי."
+    },
+    {
+      "id": "B-q10",
+      "word": "vouch",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“להעיד, לערוב”?",
+      "options": [
+        "ploy",
+        "wily",
+        "artful",
+        "vouch"
+      ],
+      "correct_answer": "vouch",
+      "explanation_hebrew": "“להעיד, לערוב” באנגלית הוא vouch."
+    },
+    {
+      "id": "B-q11",
+      "word": "artful",
+      "type": "english_to_hebrew",
+      "question": "What does “artful” mean?",
+      "options": [
+        "תחבולה",
+        "מכחיש",
+        "ערמומי, פיקח",
+        "פיקח, ערמומי"
+      ],
+      "correct_answer": "פיקח, ערמומי",
+      "explanation_hebrew": "“artful” פירושו פיקח, ערמומי."
+    },
+    {
+      "id": "B-q12",
+      "word": "wily",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“ערמומי, פיקח”?",
+      "options": [
+        "ploy",
+        "denying",
+        "forbidden",
+        "wily"
+      ],
+      "correct_answer": "wily",
+      "explanation_hebrew": "“ערמומי, פיקח” באנגלית הוא wily."
+    },
+    {
+      "id": "B-q13",
+      "word": "ploy",
+      "type": "english_to_hebrew",
+      "question": "What does “ploy” mean?",
+      "options": [
+        "תירוצים",
+        "תחבולה",
+        "אסור",
+        "מכחיש"
+      ],
+      "correct_answer": "תחבולה",
+      "explanation_hebrew": "“ploy” פירושו תחבולה."
+    },
+    {
+      "id": "B-q14",
+      "word": "denying",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“מכחיש”?",
+      "options": [
+        "excuses",
+        "denying",
+        "proficient",
+        "forbidden"
+      ],
+      "correct_answer": "denying",
+      "explanation_hebrew": "“מכחיש” באנגלית הוא denying."
+    },
+    {
+      "id": "B-q15",
+      "word": "forbidden",
+      "type": "english_to_hebrew",
+      "question": "What does “forbidden” mean?",
+      "options": [
+        "אסור",
+        "למנוע, להסתיר",
+        "תירוצים",
+        "בקיא, מיומן"
+      ],
+      "correct_answer": "אסור",
+      "explanation_hebrew": "“forbidden” פירושו אסור."
+    },
+    {
+      "id": "B-q16",
+      "word": "excuses",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“תירוצים”?",
+      "options": [
+        "withhold",
+        "proficient",
+        "excuses",
+        "omitting"
+      ],
+      "correct_answer": "excuses",
+      "explanation_hebrew": "“תירוצים” באנגלית הוא excuses."
+    },
+    {
+      "id": "B-q17",
+      "word": "proficient",
+      "type": "english_to_hebrew",
+      "question": "What does “proficient” mean?",
+      "options": [
+        "למנוע, להסתיר",
+        "אח או אחות",
+        "בקיא, מיומן",
+        "משמיט"
+      ],
+      "correct_answer": "בקיא, מיומן",
+      "explanation_hebrew": "“proficient” פירושו בקיא, מיומן."
+    },
+    {
+      "id": "B-q18",
+      "word": "withhold",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“למנוע, להסתיר”?",
+      "options": [
+        "empathy",
+        "omitting",
+        "withhold",
+        "sibling"
+      ],
+      "correct_answer": "withhold",
+      "explanation_hebrew": "“למנוע, להסתיר” באנגלית הוא withhold."
+    },
+    {
+      "id": "B-q19",
+      "word": "omitting",
+      "type": "english_to_hebrew",
+      "question": "What does “omitting” mean?",
+      "options": [
+        "אח או אחות",
+        "משמיט",
+        "התקשרות",
+        "אמפתיה"
+      ],
+      "correct_answer": "משמיט",
+      "explanation_hebrew": "“omitting” פירושו משמיט."
+    },
+    {
+      "id": "B-q20",
+      "word": "sibling",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“אח או אחות”?",
+      "options": [
+        "sibling",
+        "attachment",
+        "empathy",
+        "preserve"
+      ],
+      "correct_answer": "sibling",
+      "explanation_hebrew": "“אח או אחות” באנגלית הוא sibling."
+    },
+    {
+      "id": "B-q21",
+      "word": "empathy",
+      "type": "english_to_hebrew",
+      "question": "What does “empathy” mean?",
+      "options": [
+        "מטפלים",
+        "לשמר, לשמור",
+        "אמפתיה",
+        "התקשרות"
+      ],
+      "correct_answer": "אמפתיה",
+      "explanation_hebrew": "“empathy” פירושו אמפתיה."
+    },
+    {
+      "id": "B-q22",
+      "word": "attachment",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“התקשרות”?",
+      "options": [
+        "nuance",
+        "attachment",
+        "preserve",
+        "caregivers"
+      ],
+      "correct_answer": "attachment",
+      "explanation_hebrew": "“התקשרות” באנגלית הוא attachment."
+    },
+    {
+      "id": "B-q23",
+      "word": "preserve",
+      "type": "english_to_hebrew",
+      "question": "What does “preserve” mean?",
+      "options": [
+        "מטפלים",
+        "שקרים קטנים",
+        "לשמר, לשמור",
+        "ניואנס, דקוּת"
+      ],
+      "correct_answer": "לשמר, לשמור",
+      "explanation_hebrew": "“preserve” פירושו לשמר, לשמור."
+    },
+    {
+      "id": "B-q24",
+      "word": "caregivers",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“מטפלים”?",
+      "options": [
+        "caregivers",
+        "dishonesty",
+        "nuance",
+        "fibs"
+      ],
+      "correct_answer": "caregivers",
+      "explanation_hebrew": "“מטפלים” באנגלית הוא caregivers."
+    },
+    {
+      "id": "B-q25",
+      "word": "nuance",
+      "type": "english_to_hebrew",
+      "question": "What does “nuance” mean?",
+      "options": [
+        "שקרים קטנים",
+        "חוסר יושר",
+        "ניואנס, דקוּת",
+        "הטעיה, רמייה"
+      ],
+      "correct_answer": "ניואנס, דקוּת",
+      "explanation_hebrew": "“nuance” פירושו ניואנס, דקוּת."
+    }
+  ]
+}

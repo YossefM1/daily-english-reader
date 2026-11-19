@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-19",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo",
+  "published_at": "2026-11-19T00:49:19+00:00",
+  "age_hours_at_selection": 1.41,
+  "word_count": 430,
+  "generated_at": "2026-11-19T02:14:00.426305+00:00",
+  "difficulty_reason": "Short, direct news report with a clear single story and mostly B1/B2 vocabulary; little background knowledge needed beyond basic art-auction context.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "shatters",
+      "lemma": "shatter",
+      "level": "B2",
+      "hebrew": "מנפץ, שובר",
+      "explanation_hebrew": "שובר לרסיסים, או שובר שיא",
+      "pronunciation_hebrew": "שָׁאטֶרְז",
+      "example": "The news shatters all previous records."
+    },
+    {
+      "word": "renowned",
+      "lemma": "renowned",
+      "level": "B2",
+      "hebrew": "מפורסם, נודע",
+      "explanation_hebrew": "ידוע ומוערך מאוד",
+      "pronunciation_hebrew": "רִינָאוּנְד",
+      "example": "She is a renowned scientist."
+    },
+    {
+      "word": "resolve",
+      "lemma": "resolve",
+      "level": "B2",
+      "hebrew": "ליישב, לפתור",
+      "explanation_hebrew": "לפתור מחלוקת או בעיה",
+      "pronunciation_hebrew": "רִיזוֹלְב",
+      "example": "They tried to resolve the conflict peacefully."
+    },
+    {
+      "word": "dispute",
+      "lemma": "dispute",
+      "level": "B2",
+      "hebrew": "מחלוקת, סכסוך",
+      "explanation_hebrew": "חילוקי דעות או ריב",
+      "pronunciation_hebrew": "דִיסְפְּיוּט",
+      "example": "The two sides had a long dispute."
+    },
+    {
+      "word": "regarding",
+      "lemma": "regarding",
+      "level": "B2",
+      "hebrew": "בנוגע ל, לגבי",
+      "explanation_hebrew": "בקשר לנושא מסוים",
+      "pronunciation_hebrew": "רִיגַארְדִינְג",
+      "example": "I have a question regarding the price."
+    },
+    {
+      "word": "claims",
+      "lemma": "claim",
+      "level": "B1",
+      "hebrew": "טוען, טענות",
+      "explanation_hebrew": "אמירה שמשהו נכון בלי הוכחה מלאה",
+      "pronunciation_hebrew": "קְלֵיימְז",
+      "example": "He claims he saw the thief."
+    },
+    {
+      "word": "duress",
+      "lemma": "duress",
+      "level": "C1",
+      "hebrew": "כפייה, לחץ",
+      "explanation_hebrew": "לחץ או איום שמכריח אדם לעשות משהו",
+      "pronunciation_hebrew": "דְּיוּרֶס",
+      "example": "The contract was signed under duress."
+    },
+    {
+      "word": "estimated",
+      "lemma": "estimate",
+      "level": "B1",
+      "hebrew": "מוערך, אומדן",
+      "explanation_hebrew": "הערכה של כמות או ערך",
+      "pronunciation_hebrew": "אֶסְטִימֵייטֶד",
+      "example": "The cost was estimated at a million dollars."
+    },
+    {
+      "word": "prior",
+      "lemma": "prior",
+      "level": "B2",
+      "hebrew": "קודם, מוקדם יותר",
+      "explanation_hebrew": "שקרה לפני כן",
+      "pronunciation_hebrew": "פְּרַייאוֹר",
+      "example": "He had no prior experience."
+    },
+    {
+      "word": "heirs",
+      "lemma": "heir",
+      "level": "C1",
+      "hebrew": "יורשים",
+      "explanation_hebrew": "אנשים שיורשים רכוש או תואר",
+      "pronunciation_hebrew": "אֵרְז",
+      "example": "The heirs divided the fortune."
+    },
+    {
+      "word": "reportedly",
+      "lemma": "reportedly",
+      "level": "B2",
+      "hebrew": "לפי הדיווחים",
+      "explanation_hebrew": "כפי שנמסר, לא בוודאות",
+      "pronunciation_hebrew": "רִיפּוֹרְטֶדְלִי",
+      "example": "She reportedly left the country."
+    },
+    {
+      "word": "behalf",
+      "lemma": "behalf",
+      "level": "B2",
+      "hebrew": "בשם, מטעם",
+      "explanation_hebrew": "בשמו של מישהו אחר",
+      "pronunciation_hebrew": "בִּיהַאף",
+      "example": "He spoke on behalf of the team."
+    },
+    {
+      "word": "suffered",
+      "lemma": "suffer",
+      "level": "B1",
+      "hebrew": "סבל, חווה נזק",
+      "explanation_hebrew": "חווה כאב, קושי או הפסד",
+      "pronunciation_hebrew": "סַאפֶרְד",
+      "example": "The company suffered heavy losses."
+    },
+    {
+      "word": "recognition",
+      "lemma": "recognition",
+      "level": "B2",
+      "hebrew": "הכרה, הוקרה",
+      "explanation_hebrew": "הכרה או הערכה של משהו",
+      "pronunciation_hebrew": "רֶקוֹגְנִישֶׁן",
+      "example": "She received recognition for her work."
+    },
+    {
+      "word": "complex",
+      "lemma": "complex",
+      "level": "B1",
+      "hebrew": "מורכב, מסובך",
+      "explanation_hebrew": "בעל חלקים רבים, לא פשוט",
+      "pronunciation_hebrew": "קוֹמְפְּלֶקְס",
+      "example": "This is a complex problem."
+    },
+    {
+      "word": "endured",
+      "lemma": "endure",
+      "level": "C1",
+      "hebrew": "סבל, עמד ב",
+      "explanation_hebrew": "עבר קושי לאורך זמן",
+      "pronunciation_hebrew": "אֶנְדְּיוּרְד",
+      "example": "They endured years of hardship."
+    },
+    {
+      "word": "suffering",
+      "lemma": "suffering",
+      "level": "B2",
+      "hebrew": "סבל, ייסורים",
+      "explanation_hebrew": "מצב של כאב או מצוקה",
+      "pronunciation_hebrew": "סַאפֶרִינְג",
+      "example": "The war caused great suffering."
+    },
+    {
+      "word": "mutually",
+      "lemma": "mutually",
+      "level": "C1",
+      "hebrew": "הדדית, במשותף",
+      "explanation_hebrew": "באופן שמשותף לשני צדדים",
+      "pronunciation_hebrew": "מְיוּצ'וּאַלִי",
+      "example": "They reached a mutually beneficial deal."
+    },
+    {
+      "word": "satisfactory",
+      "lemma": "satisfactory",
+      "level": "B2",
+      "hebrew": "מספק, משביע רצון",
+      "explanation_hebrew": "מספיק טוב, מניח את הדעת",
+      "pronunciation_hebrew": "סַאטִיסְפַקְטוֹרִי",
+      "example": "The results were satisfactory."
+    },
+    {
+      "word": "resolution",
+      "lemma": "resolution",
+      "level": "B2",
+      "hebrew": "פתרון, יישוב",
+      "explanation_hebrew": "פתרון של בעיה או סכסוך",
+      "pronunciation_hebrew": "רֶזוֹלוּשֶׁן",
+      "example": "They found a peaceful resolution."
+    },
+    {
+      "word": "pursuant",
+      "lemma": "pursuant",
+      "level": "C2",
+      "hebrew": "בהתאם ל",
+      "explanation_hebrew": "בהתאם להסכם או לחוק",
+      "pronunciation_hebrew": "פֶּרְסוּאַנְט",
+      "example": "The work was done pursuant to the contract."
+    },
+    {
+      "word": "provenance",
+      "lemma": "provenance",
+      "level": "C1",
+      "hebrew": "מקור, שושלת בעלות",
+      "explanation_hebrew": "ההיסטוריה של מקור פריט ובעליו",
+      "pronunciation_hebrew": "פְּרוֹבֶנַנְס",
+      "example": "The painting's provenance was carefully checked."
+    },
+    {
+      "word": "researched",
+      "lemma": "research",
+      "level": "B1",
+      "hebrew": "חקר, בדק",
+      "explanation_hebrew": "בדק ואסף מידע",
+      "pronunciation_hebrew": "רִיסֶרְצ'ְט",
+      "example": "She researched the topic for months."
+    },
+    {
+      "word": "acquired",
+      "lemma": "acquire",
+      "level": "B2",
+      "hebrew": "רכש, השיג",
+      "explanation_hebrew": "קיבל לרשותו, קנה",
+      "pronunciation_hebrew": "אַקְוַוייאֶרְד",
+      "example": "He acquired a rare book."
+    },
+    {
+      "word": "deposited",
+      "lemma": "deposit",
+      "level": "B2",
+      "hebrew": "הפקיד",
+      "explanation_hebrew": "הניח או הפקיד במקום לשמירה",
+      "pronunciation_hebrew": "דִיפּוֹזִיטֶד",
+      "example": "The money was deposited in the bank."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "shatters",
+      "type": "english_to_hebrew",
+      "question": "What does “shatters” mean?",
+      "options": [
+        "ליישב, לפתור",
+        "מנפץ, שובר",
+        "מחלוקת, סכסוך",
+        "מפורסם, נודע"
+      ],
+      "correct_answer": "מנפץ, שובר",
+      "explanation_hebrew": "“shatters” פירושו מנפץ, שובר."
+    },
+    {
+      "id": "A-q2",
+      "word": "renowned",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“מפורסם, נודע”?",
+      "options": [
+        "renowned",
+        "dispute",
+        "resolve",
+        "regarding"
+      ],
+      "correct_answer": "renowned",
+      "explanation_hebrew": "“מפורסם, נודע” באנגלית הוא renowned."
+    },
+    {
+      "id": "A-q3",
+      "word": "resolve",
+      "type": "english_to_hebrew",
+      "question": "What does “resolve” mean?",
+      "options": [
+        "ליישב, לפתור",
+        "מחלוקת, סכסוך",
+        "בנוגע ל, לגבי",
+        "טוען, טענות"
+      ],
+      "correct_answer": "ליישב, לפתור",
+      "explanation_hebrew": "“resolve” פירושו ליישב, לפתור."
+    },
+    {
+      "id": "A-q4",
+      "word": "dispute",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“מחלוקת, סכסוך”?",
+      "options": [
+        "duress",
+        "claims",
+        "dispute",
+        "regarding"
+      ],
+      "correct_answer": "dispute",
+      "explanation_hebrew": "“מחלוקת, סכסוך” באנגלית הוא dispute."
+    },
+    {
+      "id": "A-q5",
+      "word": "regarding",
+      "type": "english_to_hebrew",
+      "question": "What does “regarding” mean?",
+      "options": [
+        "בנוגע ל, לגבי",
+        "טוען, טענות",
+        "מוערך, אומדן",
+        "כפייה, לחץ"
+      ],
+      "correct_answer": "בנוגע ל, לגבי",
+      "explanation_hebrew": "“regarding” פירושו בנוגע ל, לגבי."
+    },
+    {
+      "id": "A-q6",
+      "word": "claims",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“טוען, טענות”?",
+      "options": [
+        "duress",
+        "claims",
+        "prior",
+        "estimated"
+      ],
+      "correct_answer": "claims",
+      "explanation_hebrew": "“טוען, טענות” באנגלית הוא claims."
+    },
+    {
+      "id": "A-q7",
+      "word": "duress",
+      "type": "english_to_hebrew",
+      "question": "What does “duress” mean?",
+      "options": [
+        "קודם, מוקדם יותר",
+        "יורשים",
+        "מוערך, אומדן",
+        "כפייה, לחץ"
+      ],
+      "correct_answer": "כפייה, לחץ",
+      "explanation_hebrew": "“duress” פירושו כפייה, לחץ."
+    },
+    {
+      "id": "A-q8",
+      "word": "estimated",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“מוערך, אומדן”?",
+      "options": [
+        "heirs",
+        "prior",
+        "reportedly",
+        "estimated"
+      ],
+      "correct_answer": "estimated",
+      "explanation_hebrew": "“מוערך, אומדן” באנגלית הוא estimated."
+    },
+    {
+      "id": "A-q9",
+      "word": "prior",
+      "type": "english_to_hebrew",
+      "question": "What does “prior” mean?",
+      "options": [
+        "יורשים",
+        "בשם, מטעם",
+        "לפי הדיווחים",
+        "קודם, מוקדם יותר"
+      ],
+      "correct_answer": "קודם, מוקדם יותר",
+      "explanation_hebrew": "“prior” פירושו קודם, מוקדם יותר."
+    },
+    {
+      "id": "A-q10",
+      "word": "heirs",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“יורשים”?",
+      "options": [
+        "suffered",
+        "heirs",
+        "reportedly",
+        "behalf"
+      ],
+      "correct_answer": "heirs",
+      "explanation_hebrew": "“יורשים” באנגלית הוא heirs."
+    },
+    {
+      "id": "A-q11",
+      "word": "reportedly",
+      "type": "english_to_hebrew",
+      "question": "What does “reportedly” mean?",
+      "options": [
+        "הכרה, הוקרה",
+        "בשם, מטעם",
+        "סבל, חווה נזק",
+        "לפי הדיווחים"
+      ],
+      "correct_answer": "לפי הדיווחים",
+      "explanation_hebrew": "“reportedly” פירושו לפי הדיווחים."
+    },
+    {
+      "id": "A-q12",
+      "word": "behalf",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“בשם, מטעם”?",
+      "options": [
+        "complex",
+        "suffered",
+        "recognition",
+        "behalf"
+      ],
+      "correct_answer": "behalf",
+      "explanation_hebrew": "“בשם, מטעם” באנגלית הוא behalf."
+    },
+    {
+      "id": "A-q13",
+      "word": "suffered",
+      "type": "english_to_hebrew",
+      "question": "What does “suffered” mean?",
+      "options": [
+        "סבל, עמד ב",
+        "סבל, חווה נזק",
+        "הכרה, הוקרה",
+        "מורכב, מסובך"
+      ],
+      "correct_answer": "סבל, חווה נזק",
+      "explanation_hebrew": "“suffered” פירושו סבל, חווה נזק."
+    },
+    {
+      "id": "A-q14",
+      "word": "recognition",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“הכרה, הוקרה”?",
+      "options": [
+        "suffering",
+        "complex",
+        "endured",
+        "recognition"
+      ],
+      "correct_answer": "recognition",
+      "explanation_hebrew": "“הכרה, הוקרה” באנגלית הוא recognition."
+    },
+    {
+      "id": "A-q15",
+      "word": "complex",
+      "type": "english_to_hebrew",
+      "question": "What does “complex” mean?",
+      "options": [
+        "מורכב, מסובך",
+        "סבל, ייסורים",
+        "הדדית, במשותף",
+        "סבל, עמד ב"
+      ],
+      "correct_answer": "מורכב, מסובך",
+      "explanation_hebrew": "“complex” פירושו מורכב, מסובך."
+    },
+    {
+      "id": "A-q16",
+      "word": "endured",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“סבל, עמד ב”?",
+      "options": [
+        "mutually",
+        "endured",
+        "satisfactory",
+        "suffering"
+      ],
+      "correct_answer": "endured",
+      "explanation_hebrew": "“סבל, עמד ב” באנגלית הוא endured."
+    },
+    {
+      "id": "A-q17",
+      "word": "suffering",
+      "type": "english_to_hebrew",
+      "question": "What does “suffering” mean?",
+      "options": [
+        "פתרון, יישוב",
+        "מספק, משביע רצון",
+        "הדדית, במשותף",
+        "סבל, ייסורים"
+      ],
+      "correct_answer": "סבל, ייסורים",
+      "explanation_hebrew": "“suffering” פירושו סבל, ייסורים."
+    },
+    {
+      "id": "A-q18",
+      "word": "mutually",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“הדדית, במשותף”?",
+      "options": [
+        "satisfactory",
+        "pursuant",
+        "resolution",
+        "mutually"
+      ],
+      "correct_answer": "mutually",
+      "explanation_hebrew": "“הדדית, במשותף” באנגלית הוא mutually."
+    },
+    {
+      "id": "A-q19",
+      "word": "satisfactory",
+      "type": "english_to_hebrew",
+      "question": "What does “satisfactory” mean?",
+      "options": [
+        "מקור, שושלת בעלות",
+        "פתרון, יישוב",
+        "מספק, משביע רצון",
+        "בהתאם ל"
+      ],
+      "correct_answer": "מספק, משביע רצון",
+      "explanation_hebrew": "“satisfactory” פירושו מספק, משביע רצון."
+    },
+    {
+      "id": "A-q20",
+      "word": "resolution",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“פתרון, יישוב”?",
+      "options": [
+        "resolution",
+        "provenance",
+        "pursuant",
+        "researched"
+      ],
+      "correct_answer": "resolution",
+      "explanation_hebrew": "“פתרון, יישוב” באנגלית הוא resolution."
+    },
+    {
+      "id": "A-q21",
+      "word": "pursuant",
+      "type": "english_to_hebrew",
+      "question": "What does “pursuant” mean?",
+      "options": [
+        "חקר, בדק",
+        "רכש, השיג",
+        "בהתאם ל",
+        "מקור, שושלת בעלות"
+      ],
+      "correct_answer": "בהתאם ל",
+      "explanation_hebrew": "“pursuant” פירושו בהתאם ל."
+    },
+    {
+      "id": "A-q22",
+      "word": "provenance",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“מקור, שושלת בעלות”?",
+      "options": [
+        "provenance",
+        "deposited",
+        "acquired",
+        "researched"
+      ],
+      "correct_answer": "provenance",
+      "explanation_hebrew": "“מקור, שושלת בעלות” באנגלית הוא provenance."
+    },
+    {
+      "id": "A-q23",
+      "word": "researched",
+      "type": "english_to_hebrew",
+      "question": "What does “researched” mean?",
+      "options": [
+        "הפקיד",
+        "רכש, השיג",
+        "חקר, בדק",
+        "מנפץ, שובר"
+      ],
+      "correct_answer": "חקר, בדק",
+      "explanation_hebrew": "“researched” פירושו חקר, בדק."
+    },
+    {
+      "id": "A-q24",
+      "word": "acquired",
+      "type": "hebrew_to_english",
+      "question": "מה המילה האנגלית ל–“רכש, השיג”?",
+      "options": [
+        "renowned",
+        "shatters",
+        "acquired",
+        "deposited"
+      ],
+      "correct_answer": "acquired",
+      "explanation_hebrew": "“רכש, השיג” באנגלית הוא acquired."
+    },
+    {
+      "id": "A-q25",
+      "word": "deposited",
+      "type": "english_to_hebrew",
+      "question": "What does “deposited” mean?",
+      "options": [
+        "מפורסם, נודע",
+        "מנפץ, שובר",
+        "הפקיד",
+        "ליישב, לפתור"
+      ],
+      "correct_answer": "הפקיד",
+      "explanation_hebrew": "“deposited” פירושו הפקיד."
+    }
+  ]
+}
