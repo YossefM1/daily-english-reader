@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-19",
+  "article_id": "B",
+  "article_title": "Is your child lying to you? That might not be a bad thing",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on vocabulary in context and article-specific comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central point about young children lying?",
+      "difficulty": "B",
+      "options": [
+        "Every lie is evidence of serious misconduct",
+        "Deception can be a normal sign of developing mental and social skills",
+        "Children cannot deceive before the age of ten",
+        "Parents should ignore all dishonest behaviour"
+      ],
+      "correct_answer": "Deception can be a normal sign of developing mental and social skills",
+      "explanation_hebrew": "הכתבה מסבירה שהטעיה ושקרים קטנים יכולים להיות חלק תקין מהתפתחות החשיבה, השפה וההבנה החברתית."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the University of Bristol study find about ten-month-old children?",
+      "difficulty": "B",
+      "options": [
+        "None could understand deception",
+        "About a quarter appeared to understand some form of deception",
+        "All could tell complex verbal lies",
+        "Most could explain other people's intentions"
+      ],
+      "correct_answer": "About a quarter appeared to understand some form of deception",
+      "explanation_hebrew": "המחקר מצא שככרבע מהילדים נראו כמבינים צורה כלשהי של הטעיה כבר בגיל עשרה חודשים."
+    },
+    {
+      "id": "B-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “theory of mind” mean in this article?",
+      "difficulty": "B",
+      "options": [
+        "The ability to memorise rules",
+        "Understanding that other people have separate thoughts, feelings and intentions",
+        "A method for punishing dishonest behaviour",
+        "The belief that children always tell the truth"
+      ],
+      "correct_answer": "Understanding that other people have separate thoughts, feelings and intentions",
+      "explanation_hebrew": "Theory of mind היא היכולת להבין שלאחרים יש מחשבות, רגשות וכוונות שונים משלנו."
+    },
+    {
+      "id": "B-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How do children's deceptions commonly change by about age three?",
+      "difficulty": "B",
+      "options": [
+        "They become more creative and may withhold information",
+        "They completely stop",
+        "They only involve hiding food",
+        "They become unable to use language"
+      ],
+      "correct_answer": "They become more creative and may withhold information",
+      "explanation_hebrew": "עד גיל שלוש ההטעיות נעשות מתוחכמות ויצירתיות יותר, והילד עשוי גם להשמיט מידע חשוב."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might a child lie after making a mistake?",
+      "difficulty": "B",
+      "options": [
+        "To preserve attachment and avoid upsetting a caregiver",
+        "Because children have no emotions",
+        "To prove they cannot understand consequences",
+        "Because honesty is never rewarded"
+      ],
+      "correct_answer": "To preserve attachment and avoid upsetting a caregiver",
+      "explanation_hebrew": "ילדים עלולים לשקר כדי להגן על הקשר עם המטפל ולהימנע מאכזבה או כעס."
+    },
+    {
+      "id": "B-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In context, what does “withhold information” mean?",
+      "difficulty": "B",
+      "options": [
+        "To invent a completely new event",
+        "To leave out relevant facts while saying something true",
+        "To forget how to speak",
+        "To confess immediately"
+      ],
+      "correct_answer": "To leave out relevant facts while saying something true",
+      "explanation_hebrew": "הכוונה היא להשמיט מידע רלוונטי — למשל לספר שהאח הכה אותך אך לא לומר שהכית אותו קודם."
+    },
+    {
+      "id": "B-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain in 3 sentences how deception develops from infancy to around age three.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לתאר הבנה מוקדמת של הטעיה לפני גיל שנה, הטעיות בסיסיות סביב גיל שנתיים, והטעיות יצירתיות יותר והשמטת מידע סביב גיל שלוש.",
+      "expected_points": [
+        "Some infants show an understanding of deception before age one.",
+        "Around age two, deception may involve pretending not to hear, denial or secret forbidden activity.",
+        "By age three, children can be more creative and can manipulate or omit information."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences explaining how a parent can encourage honesty without making a child feel unsafe.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע תגובה רגועה, הבטחת שיחה בטוחה, מתן מרחב, הימנעות מצעקות וסקרנות פתוחה. יש להסביר כיצד אמפתיה וקשר בטוח מעודדים אמת.",
+      "expected_points": [
+        "Respond calmly rather than shouting or threatening severe punishment.",
+        "Tell the child that telling the truth will lead to a safe conversation.",
+        "Give the child space to admit what happened.",
+        "Use open questions and model empathy so honesty does not threaten attachment."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "How did Rachel Duffy respond when her son initially lied about breaking his brother's bike?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שהיא אמרה שלא יסתבך מאוד אם יספר אמת, נתנה לו מרחב, ולאחר שהודה קיימה שיחה ללא צעקות.",
+      "expected_points": [
+        "She assured him he would not get into big trouble for telling the truth.",
+        "She left and gave him some space.",
+        "After he admitted it, they spoke without raised voices or shouting."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise why experts see childhood lying as developmentally meaningful and how adults should respond.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לקשור בין שקר להתפתחות שפה, theory of mind ואמפתיה, ולהסביר שעל מבוגרים ליצור סביבה בטוחה לשיחה כנה תוך הדרכה לגבי מתי נדרשת עדינות חברתית.",
+      "expected_points": [
+        "Deception shows growing language and mental skills.",
+        "It can reflect a developing theory of mind and awareness of other people's feelings.",
+        "Children may also lie to protect attachment with caregivers.",
+        "Adults should respond with calm curiosity, safety and repeated modelling of empathy and honesty."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-19",
+  "article_id": "A",
+  "article_title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+  "article_url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why was the sale of Van Gogh's painting especially notable?",
+      "difficulty": "A",
+      "options": [
+        "It set a new auction record for the artist after a dispute over its Nazi-era history was resolved",
+        "It was the first Van Gogh painting ever sold",
+        "The buyer donated it to a museum before the auction",
+        "It was painted during the artist's childhood"
+      ],
+      "correct_answer": "It set a new auction record for the artist after a dispute over its Nazi-era history was resolved",
+      "explanation_hebrew": "המכירה הייתה בולטת משום שקבעה שיא חדש לוואן גוך לאחר שהצדדים פתרו מחלוקת על ההיסטוריה של היצירה בתקופה הנאצית."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much did the painting sell for?",
+      "difficulty": "A",
+      "options": [
+        "$117.2m",
+        "$180m",
+        "$190.4m",
+        "$209m"
+      ],
+      "correct_answer": "$190.4m",
+      "explanation_hebrew": "הציור נמכר תמורת 190.4 מיליון דולר."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When did Van Gogh paint Châtaigniers en fleurs?",
+      "difficulty": "A",
+      "options": [
+        "In 1909",
+        "In 1890, during the final two months of his life",
+        "In 1936, after World War Two",
+        "In 1975"
+      ],
+      "correct_answer": "In 1890, during the final two months of his life",
+      "explanation_hebrew": "היצירה צוירה בשנת 1890, במהלך החודשיים האחרונים לחייו של ואן גוך."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “sold under duress” mean in this article?",
+      "difficulty": "A",
+      "options": [
+        "Sold freely at a public celebration",
+        "Sold because of pressure or threatening circumstances",
+        "Sold without any money changing hands",
+        "Sold by an unknown buyer"
+      ],
+      "correct_answer": "Sold because of pressure or threatening circumstances",
+      "explanation_hebrew": "הביטוי מתאר מכירה שנעשתה תחת לחץ או נסיבות מאיימות, ולא מתוך בחירה חופשית לחלוטין."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why was the agreement reached just before the auction important?",
+      "difficulty": "A",
+      "options": [
+        "It allowed the sale to proceed despite the ownership-history dispute",
+        "It revealed the buyer's identity",
+        "It lowered the estimate to zero",
+        "It returned the painting to Van Gogh"
+      ],
+      "correct_answer": "It allowed the sale to proceed despite the ownership-history dispute",
+      "explanation_hebrew": "ההסכם בין המשפחות פתר את המחלוקת בזמן ואפשר את קיום המכירה."
+    },
+    {
+      "id": "A-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who owned the painting before the Blaquier family acquired it in 1975?",
+      "difficulty": "A",
+      "options": [
+        "Only Vincent van Gogh himself",
+        "A sequence of owners that included the Fischer family and later other owners",
+        "The anonymous 2026 buyer",
+        "The New York auction house from 1890 onward"
+      ],
+      "correct_answer": "A sequence of owners that included the Fischer family and later other owners",
+      "explanation_hebrew": "לפי תיעוד המקור, משפחת פישר החזיקה ביצירה ולאחר מכן היא עברה בין כמה בעלים לפני שנרכשה ב־1975."
+    },
+    {
+      "id": "A-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain in 2–3 sentences what the dispute was and how it was resolved.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שיורשי משפחת פישר טענו שהיצירה נמכרה תחת לחץ בתקופת עליית הנאצים, וששתי המשפחות הגיעו להסדר מוסכם שאפשר את המכירה.",
+      "expected_points": [
+        "The Fischer heirs said the painting may have been sold under Nazi-era duress.",
+        "They linked the sale to financial losses suffered by the family's publishing company.",
+        "The Fischer and Blaquier-Arrieta families reached a mutually satisfactory agreement before the auction."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons the painting was considered highly valuable.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני גורמים מן הכתבה: יצירה חשובה מסוף חייו של ואן גוך, נדירותה בידיים פרטיות, השיא הקודם או ההערכה המוקדמת של 180 מיליון דולר.",
+      "expected_points": [
+        "It was painted in the final two months of Van Gogh's life.",
+        "Sotheby's described it as one of the most important works from that period still in private hands.",
+        "Its pre-sale estimate was $180m."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences explaining why an artwork's ownership history matters at an auction.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שמקור הבעלות יכול להשפיע על חוקיות המכירה, צדק כלפי יורשים, אמון הקונים והמוניטין של בית המכירות, תוך קישור למקרה שבכתבה.",
+      "expected_points": [
+        "Provenance shows how an artwork changed hands.",
+        "A disputed forced sale may create legal and ethical claims for heirs.",
+        "Resolving such claims helps buyers and auction houses trust that a sale can proceed fairly."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the painting's sale, historical dispute and ownership trail in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מחיר השיא, מועד יצירת הציור, טענת משפחת פישר, ההסדר והמעבר בין בעלים עד משפחת בלקייר.",
+      "expected_points": [
+        "The 1890 painting sold for a Van Gogh auction record of $190.4m.",
+        "The Fischer heirs questioned whether an earlier sale occurred under Nazi-era duress.",
+        "The families reached an agreement shortly before the auction.",
+        "The work passed through several owners before the Blaquier family acquired it in 1975."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-19",
+  "article_id": "C",
+  "article_title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+  "article_url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on article-specific comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why could the ICJ verdict in The Gambia v Myanmar be historically significant?",
+      "difficulty": "C",
+      "options": [
+        "It could be the first international court finding that a state committed genocide",
+        "It will create the Genocide Convention",
+        "It will put individual soldiers on trial at the ICC",
+        "It will automatically return every refugee to Myanmar"
+      ],
+      "correct_answer": "It could be the first international court finding that a state committed genocide",
+      "explanation_hebrew": "עד כה הורשעו יחידים בג'נוסייד, אך שום מדינה לא נמצאה אשמה בכך בבית משפט בינלאומי."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was the case brought at the ICJ rather than the International Criminal Court?",
+      "difficulty": "C",
+      "options": [
+        "The ICC only handles trade disputes",
+        "Myanmar was not a party to the ICC, while the ICJ can hear disputes between states under the Genocide Convention",
+        "The Gambia withdrew from the United Nations",
+        "The ICJ prosecutes only individual soldiers"
+      ],
+      "correct_answer": "Myanmar was not a party to the ICC, while the ICJ can hear disputes between states under the Genocide Convention",
+      "explanation_hebrew": "מיאנמר לא הייתה צד לבית הדין הפלילי הבינלאומי, ולכן גמביה פנתה ל־ICJ בטענה שכל המדינות מחויבות לאמנת הג'נוסייד."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “legal standing” mean in the article?",
+      "difficulty": "C",
+      "options": [
+        "The physical place where lawyers address judges",
+        "The recognised right to bring a case before a court",
+        "A final criminal sentence",
+        "An appeal against a verdict"
+      ],
+      "correct_answer": "The recognised right to bring a case before a court",
+      "explanation_hebrew": "Legal standing הוא המעמד המשפטי שמקנה לצד זכות להגיש תביעה או תלונה בפני בית משפט."
+    },
+    {
+      "id": "C-4",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why is proving genocidal intent especially difficult?",
+      "difficulty": "C",
+      "options": [
+        "Courts require the evidence to support genocide as the only reasonable inference when there is no explicit programme",
+        "Witness testimony is never allowed",
+        "International law does not define genocide",
+        "The ICJ cannot examine state conduct"
+      ],
+      "correct_answer": "Courts require the evidence to support genocide as the only reasonable inference when there is no explicit programme",
+      "explanation_hebrew": "כאשר אין תוכנית מפורשת להשמדה, נדרש רף ראייתי גבוה מאוד: שהכוונה הג'נוסיידית תהיה ההסקה הסבירה היחידה מן המעשים."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did the 2018 UN report say about Myanmar's military response?",
+      "difficulty": "C",
+      "options": [
+        "It was proportionate to the threat",
+        "It was grossly disproportionate and senior military figures should be investigated",
+        "It contained no violence",
+        "It had been approved by the ICJ"
+      ],
+      "correct_answer": "It was grossly disproportionate and senior military figures should be investigated",
+      "explanation_hebrew": "הדוח קבע שהטקטיקות היו בלתי מידתיות באופן חמור וקרא לחקור בכירים בצבא בחשד לג'נוסייד."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What immediate legal consequence automatically follows an ICJ verdict against Myanmar?",
+      "difficulty": "C",
+      "options": [
+        "A fixed prison sentence for the head of state",
+        "An automatic military intervention",
+        "No automatic penalty, and there is no right of appeal",
+        "Immediate EU membership for The Gambia"
+      ],
+      "correct_answer": "No automatic penalty, and there is no right of appeal",
+      "explanation_hebrew": "לפי הכתבה אין זכות ערעור על פסק הדין, אך גם אין עונש אוטומטי שנלווה אליו."
+    },
+    {
+      "id": "C-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain in 3–4 sentences how The Gambia established the basis for bringing the case.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שגמביה, בתמיכת ארגון שיתוף הפעולה האסלאמי, טענה שכל המדינות מחויבות לאמנה ולכן יש להן עניין באכיפתה; מיאנמר התנגדה אך ה־ICJ הכיר בזכותה להגיש.",
+      "expected_points": [
+        "The Gambia filed the case in 2019 with backing from the Organisation of Islamic Co-operation.",
+        "It argued that every state party has an interest in upholding the Genocide Convention.",
+        "The case accused Myanmar as a state, not only individual military officials.",
+        "The ICJ rejected Myanmar's objection and accepted The Gambia's standing."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences assessing the difference between symbolic recognition and practical change for Rohingya people.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שפסק דין עשוי להכיר רשמית בסבל ולחזק אחריות בינלאומית, אך אינו מטיל עונש אוטומטי ואינו פותר את המלחמה, הרס הכפרים, העוינות המקומית או מצב המחנות בבנגלדש.",
+      "expected_points": [
+        "A favourable verdict would formally acknowledge Rohingya suffering and strengthen legal accountability.",
+        "It might encourage more co-ordinated international action.",
+        "The judgment has no automatic penalty or enforcement mechanism.",
+        "Conflict in Rakhine, destroyed villages, hostility and poor camp conditions would remain major obstacles to safe return."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three kinds of evidence The Gambia says indicate genocidal intent.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה סוגי ראיות מן הכתבה: היסטוריה של אפליה, חוק האזרחות מ־1982, הגבלות על חינוך/בריאות/פרנסה/תנועה, שפה ותעמולה ממשלתית או מדיניות מבצעי הטיהור.",
+      "expected_points": [
+        "A long history of discrimination targeting the Rohingya.",
+        "The 1982 citizenship law and restrictions on education, healthcare, livelihoods and travel.",
+        "Government language, rhetoric, propaganda and policies surrounding the 2017 clearance operations."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the legal question, the competing arguments and the possible impact of the verdict in 5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את אירועי 2017, שאלת הכוונה הג'נוסיידית, טענת מיאנמר על תגובה לטרור ופשעי מלחמה אפשריים, טענת גמביה על דפוס אפליה, והמשמעות ההיסטורית לצד מגבלות האכיפה.",
+      "expected_points": [
+        "The case concerns whether the 2017 atrocities and expulsion amounted to genocide by the state.",
+        "Myanmar says the operations responded to militants and that possible war crimes do not prove genocidal intent.",
+        "The Gambia argues that long-term discrimination and the pattern of conduct demonstrate intent.",
+        "A ruling against Myanmar would be the first such judgment against a state and would matter deeply to Rohingya victims.",
+        "It would not itself impose a penalty or overcome the practical barriers to return."
+      ]
+    }
+  ]
+}
