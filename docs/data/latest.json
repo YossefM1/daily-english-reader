@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Is your child lying to you? That might not be a bad thing",
+  "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo",
-  "published_at": "2026-11-19T00:12:57+00:00",
-  "age_hours_at_selection": 2.02,
-  "word_count": 818,
-  "generated_at": "2026-11-19T02:14:00.426305+00:00",
-  "difficulty_reason": "Feature article with moderate sentence complexity, expert quotes and B1/B2/C1 psychology vocabulary; some background on child development helps but is not required.",
+  "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-20T00:08:22+00:00",
+  "age_hours_at_selection": 2.11,
+  "word_count": 613,
+  "generated_at": "2026-11-20T02:14:43.663529+00:00",
+  "difficulty_reason": "Moderate-length medical report with some scientific terms and statistics; clear structure but B1/B2/C1 vocabulary and basic health background help.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "fibs",
-      "lemma": "fib",
+      "word": "breakthrough",
+      "lemma": "breakthrough",
       "level": "B2",
-      "hebrew": "שקרים קטנים",
-      "explanation_hebrew": "שקרים קטנים ולא מזיקים",
-      "pronunciation_hebrew": "פִיבְּז",
-      "example": "Kids often tell little fibs."
+      "hebrew": "פְּרִיצַת דֶּרֶךְ",
+      "explanation_hebrew": "הֶשֵּׂג חָשׁוּב שֶׁמְּקַדֵּם דָּבָר מְאוֹד",
+      "pronunciation_hebrew": "בְּרֵייקְתְרוּ",
+      "example": "The new vaccine was a major breakthrough."
     },
     {
-      "word": "dishonesty",
-      "lemma": "dishonesty",
-      "level": "B2",
-      "hebrew": "חוסר יושר",
-      "explanation_hebrew": "התנהגות לא כנה",
-      "pronunciation_hebrew": "דִיסְאוֹנֶסְטִי",
-      "example": "Her dishonesty surprised everyone."
-    },
-    {
-      "word": "deception",
-      "lemma": "deception",
-      "level": "B2",
-      "hebrew": "הטעיה, רמייה",
-      "explanation_hebrew": "פעולה של הטעיית אחרים",
-      "pronunciation_hebrew": "דִיסֶפְּשֶׁן",
-      "example": "The trick was a clever deception."
-    },
-    {
-      "word": "clutching",
-      "lemma": "clutch",
-      "level": "C1",
-      "hebrew": "אוחז בחוזקה",
-      "explanation_hebrew": "מחזיק משהו חזק ביד",
-      "pronunciation_hebrew": "קְלַאצ'ִינְג",
-      "example": "She was clutching her bag tightly."
-    },
-    {
-      "word": "crumbs",
-      "lemma": "crumb",
-      "level": "B2",
-      "hebrew": "פירורים",
-      "explanation_hebrew": "חתיכות קטנות של לחם או עוגה",
-      "pronunciation_hebrew": "קְרַאמְז",
-      "example": "There were crumbs all over the table."
-    },
-    {
-      "word": "sophisticated",
-      "lemma": "sophisticated",
-      "level": "B2",
-      "hebrew": "מתוחכם",
-      "explanation_hebrew": "מורכב ומפותח",
-      "pronunciation_hebrew": "סוֹפִיסְטִיקֵייטֶד",
-      "example": "It is a sophisticated machine."
-    },
-    {
-      "word": "capable",
-      "lemma": "capable",
-      "level": "B2",
-      "hebrew": "מסוגל, בעל יכולת",
-      "explanation_hebrew": "בעל היכולת לעשות משהו",
-      "pronunciation_hebrew": "קֵייפַּבְּל",
-      "example": "She is capable of great things."
-    },
-    {
-      "word": "adept",
-      "lemma": "adept",
-      "level": "C1",
-      "hebrew": "מיומן",
-      "explanation_hebrew": "טוב מאוד במשהו",
-      "pronunciation_hebrew": "אַדֶפְּט",
-      "example": "He is adept at solving puzzles."
-    },
-    {
-      "word": "cunning",
-      "lemma": "cunning",
-      "level": "C1",
-      "hebrew": "ערמומי",
-      "explanation_hebrew": "חכם בדרך מתוחכמת ולפעמים לא ישרה",
-      "pronunciation_hebrew": "קַאנִינְג",
-      "example": "The fox is a cunning animal."
-    },
-    {
-      "word": "vouch",
-      "lemma": "vouch",
-      "level": "C1",
-      "hebrew": "להעיד, לערוב",
-      "explanation_hebrew": "לאשר שמשהו נכון או אמין",
-      "pronunciation_hebrew": "וַואוּצ'",
-      "example": "I can vouch for her honesty."
-    },
-    {
-      "word": "artful",
-      "lemma": "artful",
-      "level": "C1",
-      "hebrew": "פיקח, ערמומי",
-      "explanation_hebrew": "חכם ומיומן, לעיתים בעורמה",
-      "pronunciation_hebrew": "אַרְטְפוּל",
-      "example": "He made an artful excuse."
-    },
-    {
-      "word": "wily",
-      "lemma": "wily",
-      "level": "C2",
-      "hebrew": "ערמומי, פיקח",
-      "explanation_hebrew": "חכם ומתחכם כדי להשיג מטרה",
-      "pronunciation_hebrew": "וַוייְלִי",
-      "example": "The wily salesman tricked them."
-    },
-    {
-      "word": "ploy",
-      "lemma": "ploy",
-      "level": "C1",
-      "hebrew": "תחבולה",
-      "explanation_hebrew": "טריק כדי להשיג יתרון",
-      "pronunciation_hebrew": "פְּלוֹי",
-      "example": "It was just a ploy to win time."
-    },
-    {
-      "word": "denying",
-      "lemma": "deny",
-      "level": "B2",
-      "hebrew": "מכחיש",
-      "explanation_hebrew": "אומר שמשהו לא נכון",
-      "pronunciation_hebrew": "דִינַייִינְג",
-      "example": "He kept denying the mistake."
-    },
-    {
-      "word": "forbidden",
-      "lemma": "forbid",
-      "level": "B2",
-      "hebrew": "אסור",
-      "explanation_hebrew": "שלא מורשה לעשות",
-      "pronunciation_hebrew": "פוֹרְבִּידֶן",
-      "example": "Smoking is forbidden here."
-    },
-    {
-      "word": "excuses",
-      "lemma": "excuse",
+      "word": "treatment",
+      "lemma": "treatment",
       "level": "B1",
-      "hebrew": "תירוצים",
-      "explanation_hebrew": "סיבות שנותנים כדי להצדיק משהו",
-      "pronunciation_hebrew": "אִיקְסְקְיוּזֶז",
-      "example": "Stop making excuses."
+      "hebrew": "טִפּוּל",
+      "explanation_hebrew": "הַדֶּרֶךְ שֶׁבָּהּ מְטַפְּלִים בְּחוֹלֶה",
+      "pronunciation_hebrew": "טְרִיטְמֶנְט",
+      "example": "The treatment lasted several weeks."
     },
     {
-      "word": "proficient",
-      "lemma": "proficient",
-      "level": "C1",
-      "hebrew": "בקיא, מיומן",
-      "explanation_hebrew": "בעל מיומנות גבוהה",
-      "pronunciation_hebrew": "פְּרוֹפִישֶׁנְט",
-      "example": "She is proficient in English."
-    },
-    {
-      "word": "withhold",
-      "lemma": "withhold",
-      "level": "C1",
-      "hebrew": "למנוע, להסתיר",
-      "explanation_hebrew": "לא לתת או לא לחשוף מידע",
-      "pronunciation_hebrew": "וִיתְהוֹלְד",
-      "example": "They decided to withhold the news."
-    },
-    {
-      "word": "omitting",
-      "lemma": "omit",
-      "level": "C1",
-      "hebrew": "משמיט",
-      "explanation_hebrew": "משאיר בחוץ, לא מזכיר",
-      "pronunciation_hebrew": "אוֹמִיטִינְג",
-      "example": "He answered, omitting the details."
-    },
-    {
-      "word": "sibling",
-      "lemma": "sibling",
+      "word": "decades",
+      "lemma": "decade",
       "level": "B2",
-      "hebrew": "אח או אחות",
-      "explanation_hebrew": "אח או אחות במשפחה",
-      "pronunciation_hebrew": "סִיבְּלִינְג",
-      "example": "She has one sibling."
+      "hebrew": "עֲשׂוֹרִים",
+      "explanation_hebrew": "תְּקוּפוֹת שֶׁל עֶשֶׂר שָׁנִים כָּל אַחַת",
+      "pronunciation_hebrew": "דֶקֵיידְז",
+      "example": "The town has changed a lot over the decades."
     },
     {
-      "word": "empathy",
-      "lemma": "empathy",
+      "word": "shrink",
+      "lemma": "shrink",
       "level": "B2",
-      "hebrew": "אמפתיה",
-      "explanation_hebrew": "היכולת להבין ולחוש את רגשות האחר",
-      "pronunciation_hebrew": "אֶמְפַּתִי",
-      "example": "He showed great empathy."
+      "hebrew": "לְהִתְכַּוֵּץ, לְהַקְטִין",
+      "explanation_hebrew": "לִהְיוֹת אוֹ לְהַפֹךְ לְקָטָן יוֹתֵר",
+      "pronunciation_hebrew": "שְׁרִינְק",
+      "example": "Wool can shrink if you wash it in hot water."
     },
     {
-      "word": "attachment",
-      "lemma": "attachment",
+      "word": "eliminate",
+      "lemma": "eliminate",
       "level": "B2",
-      "hebrew": "התקשרות",
-      "explanation_hebrew": "קשר רגשי חזק",
-      "pronunciation_hebrew": "אַטַאצ'ְמֶנְט",
-      "example": "The baby formed an attachment to its mother."
+      "hebrew": "לְחַסֵּל, לְסַלֵּק",
+      "explanation_hebrew": "לְהָסִיר אוֹ לְהִפָּטֵר מִמַּשֶּׁהוּ לְגַמְרֵי",
+      "pronunciation_hebrew": "אִלִימִינֵייט",
+      "example": "The goal is to eliminate the disease completely."
     },
     {
-      "word": "preserve",
-      "lemma": "preserve",
+      "word": "tumours",
+      "lemma": "tumour",
       "level": "B2",
-      "hebrew": "לשמר, לשמור",
-      "explanation_hebrew": "לשמור על מצב קיים",
-      "pronunciation_hebrew": "פְּרִיזֶרְב",
-      "example": "We must preserve nature."
+      "hebrew": "גִּדּוּלִים",
+      "explanation_hebrew": "גּוּשִׁים שֶׁל רִקְמָה לֹא תְּקִינָה בַּגּוּף",
+      "pronunciation_hebrew": "טְיוּמֶרְז",
+      "example": "Doctors removed the tumours during surgery."
     },
     {
-      "word": "caregivers",
-      "lemma": "caregiver",
+      "word": "patients",
+      "lemma": "patient",
+      "level": "B1",
+      "hebrew": "מְטֻפָּלִים, חוֹלִים",
+      "explanation_hebrew": "אֲנָשִׁים שֶׁמְּקַבְּלִים טִפּוּל רְפוּאִי",
+      "pronunciation_hebrew": "פֵּיישֶׁנְטְס",
+      "example": "The nurse cared for many patients."
+    },
+    {
+      "word": "chemotherapy",
+      "lemma": "chemotherapy",
       "level": "C1",
-      "hebrew": "מטפלים",
-      "explanation_hebrew": "אנשים שמטפלים בילד או בחולה",
-      "pronunciation_hebrew": "קֵרְגִיבֶרְז",
-      "example": "Parents are a child's main caregivers."
+      "hebrew": "כִימוֹתֶרַפְּיָה",
+      "explanation_hebrew": "טִפּוּל בְּסַרְטָן בְּעֶזְרַת תְּרוּפוֹת חֲזָקוֹת",
+      "pronunciation_hebrew": "קִימוֹתֶרַפִּי",
+      "example": "She started chemotherapy after her diagnosis."
     },
     {
-      "word": "nuance",
-      "lemma": "nuance",
+      "word": "participants",
+      "lemma": "participant",
+      "level": "B2",
+      "hebrew": "מִשְׁתַּתְּפִים",
+      "explanation_hebrew": "אֲנָשִׁים שֶׁלּוֹקְחִים חֵלֶק בְּמַשֶּׁהוּ",
+      "pronunciation_hebrew": "פַּרְטִיסִיפַּנְטְס",
+      "example": "All participants completed the survey."
+    },
+    {
+      "word": "diagnosed",
+      "lemma": "diagnose",
+      "level": "B2",
+      "hebrew": "אֻבְחַן",
+      "explanation_hebrew": "זֻהָה שֶׁיֵּשׁ לוֹ מַחֲלָה מְסֻיֶּמֶת",
+      "pronunciation_hebrew": "דַייאַגְנוֹזְד",
+      "example": "He was diagnosed with diabetes last year."
+    },
+    {
+      "word": "advanced",
+      "lemma": "advanced",
+      "level": "B1",
+      "hebrew": "מִתְקַדֵּם, מֻחְמָר",
+      "explanation_hebrew": "בְּשָׁלָב גָּבוֹהַּ אוֹ מְאֻחָר",
+      "pronunciation_hebrew": "אַדְוַואנְסְט",
+      "example": "The illness had reached an advanced stage."
+    },
+    {
+      "word": "spread",
+      "lemma": "spread",
+      "level": "B1",
+      "hebrew": "הִתְפַּשֵּׁט",
+      "explanation_hebrew": "עָבַר וְהִתְרַחֵב לְאֵזוֹרִים נוֹסָפִים",
+      "pronunciation_hebrew": "סְפְּרֶד",
+      "example": "The fire spread quickly through the forest."
+    },
+    {
+      "word": "stress",
+      "lemma": "stress",
+      "level": "B1",
+      "hebrew": "לְהַדְגִּישׁ",
+      "explanation_hebrew": "לוֹמַר שֶׁמַּשֶּׁהוּ חָשׁוּב בִּמְיֻחָד",
+      "pronunciation_hebrew": "סְטְרֶס",
+      "example": "I must stress how important this rule is."
+    },
+    {
+      "word": "disease",
+      "lemma": "disease",
+      "level": "B1",
+      "hebrew": "מַחֲלָה",
+      "explanation_hebrew": "מַצָּב רְפוּאִי שֶׁפּוֹגֵעַ בַּגּוּף",
+      "pronunciation_hebrew": "דִיזִיז",
+      "example": "Clean water helps prevent disease."
+    },
+    {
+      "word": "cure",
+      "lemma": "cure",
+      "level": "B1",
+      "hebrew": "מַרְפֵּא, לְרַפֵּא",
+      "explanation_hebrew": "דֶּרֶךְ לְהַבְרִיא מַחֲלָה לַחֲלוּטִין",
+      "pronunciation_hebrew": "קְיוּר",
+      "example": "Scientists are searching for a cure."
+    },
+    {
+      "word": "charity",
+      "lemma": "charity",
+      "level": "B2",
+      "hebrew": "עֲמוּתָה, צְדָקָה",
+      "explanation_hebrew": "אִרְגּוּן שֶׁעוֹזֵר לַאֲנָשִׁים בְּלִי מַטָּרַת רֶוַח",
+      "pronunciation_hebrew": "צַ'ארִיטִי",
+      "example": "The charity helps homeless families."
+    },
+    {
+      "word": "progress",
+      "lemma": "progress",
+      "level": "B1",
+      "hebrew": "הִתְקַדְּמוּת",
+      "explanation_hebrew": "שִׁפּוּר אוֹ תְּנוּעָה קָדִימָה",
+      "pronunciation_hebrew": "פְּרוֹגְרֶס",
+      "example": "We are making good progress on the project."
+    },
+    {
+      "word": "overdue",
+      "lemma": "overdue",
       "level": "C1",
-      "hebrew": "ניואנס, דקוּת",
-      "explanation_hebrew": "הבדל קטן ועדין",
-      "pronunciation_hebrew": "נְיוּאַנְס",
-      "example": "She noticed every nuance in his tone."
+      "hebrew": "מְאֻחָר, שֶׁאֵחֵר",
+      "explanation_hebrew": "שֶׁהָיָה צָרִיךְ לִקְרוֹת מִזְּמַן",
+      "pronunciation_hebrew": "אוֹבֶרְדְיוּ",
+      "example": "This change is long overdue."
+    },
+    {
+      "word": "notoriously",
+      "lemma": "notoriously",
+      "level": "C1",
+      "hebrew": "לְשֵׁם רַע, יְדוּעַ לִשְׁמְצָה",
+      "explanation_hebrew": "בְּאֹפֶן יָדוּעַ לְרָעָה",
+      "pronunciation_hebrew": "נוֹטוֹרִיוּסְלִי",
+      "example": "The road is notoriously dangerous in winter."
+    },
+    {
+      "word": "survival",
+      "lemma": "survival",
+      "level": "B2",
+      "hebrew": "הִשָּׂרְדוּת",
+      "explanation_hebrew": "הַמַּצָּב שֶׁל לְהִשָּׁאֵר בַּחַיִּים",
+      "pronunciation_hebrew": "סֶרְוַייבַל",
+      "example": "Food and water are vital for survival."
+    },
+    {
+      "word": "remission",
+      "lemma": "remission",
+      "level": "C1",
+      "hebrew": "הֲפוּגָה (בְּמַחֲלָה)",
+      "explanation_hebrew": "תְּקוּפָה שֶׁבָּהּ הַמַּחֲלָה נֶחְלֶשֶׁת אוֹ נֶעֱלֶמֶת",
+      "pronunciation_hebrew": "רִימִישֶׁן",
+      "example": "Her cancer has been in remission for two years."
+    },
+    {
+      "word": "undetectable",
+      "lemma": "undetectable",
+      "level": "C1",
+      "hebrew": "שֶׁלֹּא נִתָּן לְאַתֵּר",
+      "explanation_hebrew": "שֶׁאִי אֶפְשָׁר לִמְצֹא אוֹ לִרְאוֹת",
+      "pronunciation_hebrew": "אַנְדִיטֶקְטַבְּל",
+      "example": "The virus was undetectable in later tests."
+    },
+    {
+      "word": "mutations",
+      "lemma": "mutation",
+      "level": "C1",
+      "hebrew": "מוּטַצְיוֹת",
+      "explanation_hebrew": "שִׁנּוּיִים בַּגֵּנִים אוֹ בַּתָּאִים",
+      "pronunciation_hebrew": "מְיוּטֵיישֶׁנְז",
+      "example": "Some mutations can cause disease."
+    },
+    {
+      "word": "combined",
+      "lemma": "combined",
+      "level": "B2",
+      "hebrew": "מְשֻׁלָּב, מְאֻחָד",
+      "explanation_hebrew": "שֶׁחֻבַּר יַחַד מִשְּׁנֵי חֲלָקִים אוֹ יוֹתֵר",
+      "pronunciation_hebrew": "קוֹמְבַּיינְד",
+      "example": "The combined effort led to success."
+    },
+    {
+      "word": "significantly",
+      "lemma": "significantly",
+      "level": "B2",
+      "hebrew": "בְּאֹפֶן מַשְׁמָעוּתִי",
+      "explanation_hebrew": "בְּמִדָּה גְּדוֹלָה וַחֲשׁוּבָה",
+      "pronunciation_hebrew": "סִיגְנִיפִיקַנְטְלִי",
+      "example": "Sales grew significantly this year."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "fibs",
+      "word": "breakthrough",
       "type": "english_to_hebrew",
-      "question": "What does “fibs” mean?",
+      "question": "What does “breakthrough” mean?",
       "options": [
-        "חוסר יושר",
-        "הטעיה, רמייה",
-        "שקרים קטנים",
-        "אוחז בחוזקה"
+        "הֲפוּגָה (בְּמַחֲלָה)",
+        "כִימוֹתֶרַפְּיָה",
+        "פְּרִיצַת דֶּרֶךְ",
+        "טִפּוּל"
       ],
-      "correct_answer": "שקרים קטנים",
-      "explanation_hebrew": "“fibs” פירושו שקרים קטנים."
+      "correct_answer": "פְּרִיצַת דֶּרֶךְ",
+      "explanation_hebrew": "“breakthrough” פירושו פְּרִיצַת דֶּרֶךְ."
     },
     {
       "id": "B-q2",
-      "word": "dishonesty",
+      "word": "treatment",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“חוסר יושר”?",
+      "question": "איזו מילה באנגלית פירושה “טִפּוּל”?",
       "options": [
-        "dishonesty",
-        "crumbs",
-        "clutching",
-        "deception"
+        "spread",
+        "treatment",
+        "cure",
+        "participants"
       ],
-      "correct_answer": "dishonesty",
-      "explanation_hebrew": "“חוסר יושר” באנגלית הוא dishonesty."
+      "correct_answer": "treatment",
+      "explanation_hebrew": "“טִפּוּל” באנגלית הוא “treatment”."
     },
     {
       "id": "B-q3",
-      "word": "deception",
+      "word": "decades",
       "type": "english_to_hebrew",
-      "question": "What does “deception” mean?",
+      "question": "What does “decades” mean?",
       "options": [
-        "פירורים",
-        "מתוחכם",
-        "אוחז בחוזקה",
-        "הטעיה, רמייה"
+        "הִתְקַדְּמוּת",
+        "עֲשׂוֹרִים",
+        "לְהִתְכַּוֵּץ, לְהַקְטִין",
+        "עֲמוּתָה, צְדָקָה"
       ],
-      "correct_answer": "הטעיה, רמייה",
-      "explanation_hebrew": "“deception” פירושו הטעיה, רמייה."
+      "correct_answer": "עֲשׂוֹרִים",
+      "explanation_hebrew": "“decades” פירושו עֲשׂוֹרִים."
     },
     {
       "id": "B-q4",
-      "word": "clutching",
+      "word": "shrink",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“אוחז בחוזקה”?",
+      "question": "איזו מילה באנגלית פירושה “לְהִתְכַּוֵּץ, לְהַקְטִין”?",
       "options": [
-        "crumbs",
-        "capable",
-        "sophisticated",
-        "clutching"
+        "charity",
+        "treatment",
+        "patients",
+        "shrink"
       ],
-      "correct_answer": "clutching",
-      "explanation_hebrew": "“אוחז בחוזקה” באנגלית הוא clutching."
+      "correct_answer": "shrink",
+      "explanation_hebrew": "“לְהִתְכַּוֵּץ, לְהַקְטִין” באנגלית הוא “shrink”."
     },
     {
       "id": "B-q5",
-      "word": "crumbs",
+      "word": "eliminate",
       "type": "english_to_hebrew",
-      "question": "What does “crumbs” mean?",
+      "question": "What does “eliminate” mean?",
       "options": [
-        "מתוחכם",
-        "מיומן",
-        "פירורים",
-        "מסוגל, בעל יכולת"
+        "אֻבְחַן",
+        "הִתְפַּשֵּׁט",
+        "לְחַסֵּל, לְסַלֵּק",
+        "הֲפוּגָה (בְּמַחֲלָה)"
       ],
-      "correct_answer": "פירורים",
-      "explanation_hebrew": "“crumbs” פירושו פירורים."
+      "correct_answer": "לְחַסֵּל, לְסַלֵּק",
+      "explanation_hebrew": "“eliminate” פירושו לְחַסֵּל, לְסַלֵּק."
     },
     {
       "id": "B-q6",
-      "word": "sophisticated",
+      "word": "tumours",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“מתוחכם”?",
+      "question": "איזו מילה באנגלית פירושה “גִּדּוּלִים”?",
       "options": [
-        "sophisticated",
-        "capable",
-        "cunning",
-        "adept"
+        "tumours",
+        "patients",
+        "progress",
+        "participants"
       ],
-      "correct_answer": "sophisticated",
-      "explanation_hebrew": "“מתוחכם” באנגלית הוא sophisticated."
+      "correct_answer": "tumours",
+      "explanation_hebrew": "“גִּדּוּלִים” באנגלית הוא “tumours”."
     },
     {
       "id": "B-q7",
-      "word": "capable",
+      "word": "patients",
       "type": "english_to_hebrew",
-      "question": "What does “capable” mean?",
+      "question": "What does “patients” mean?",
       "options": [
-        "להעיד, לערוב",
-        "מיומן",
-        "ערמומי",
-        "מסוגל, בעל יכולת"
+        "מְטֻפָּלִים, חוֹלִים",
+        "מוּטַצְיוֹת",
+        "הִתְקַדְּמוּת",
+        "מַרְפֵּא, לְרַפֵּא"
       ],
-      "correct_answer": "מסוגל, בעל יכולת",
-      "explanation_hebrew": "“capable” פירושו מסוגל, בעל יכולת."
+      "correct_answer": "מְטֻפָּלִים, חוֹלִים",
+      "explanation_hebrew": "“patients” פירושו מְטֻפָּלִים, חוֹלִים."
     },
     {
       "id": "B-q8",
-      "word": "adept",
+      "word": "chemotherapy",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“מיומן”?",
+      "question": "איזו מילה באנגלית פירושה “כִימוֹתֶרַפְּיָה”?",
       "options": [
-        "cunning",
-        "vouch",
-        "artful",
-        "adept"
+        "diagnosed",
+        "patients",
+        "chemotherapy",
+        "decades"
       ],
-      "correct_answer": "adept",
-      "explanation_hebrew": "“מיומן” באנגלית הוא adept."
+      "correct_answer": "chemotherapy",
+      "explanation_hebrew": "“כִימוֹתֶרַפְּיָה” באנגלית הוא “chemotherapy”."
     },
     {
       "id": "B-q9",
-      "word": "cunning",
+      "word": "participants",
       "type": "english_to_hebrew",
-      "question": "What does “cunning” mean?",
+      "question": "What does “participants” mean?",
       "options": [
-        "להעיד, לערוב",
-        "ערמומי",
-        "ערמומי, פיקח",
-        "פיקח, ערמומי"
+        "מִשְׁתַּתְּפִים",
+        "הִתְקַדְּמוּת",
+        "פְּרִיצַת דֶּרֶךְ",
+        "עֲמוּתָה, צְדָקָה"
       ],
-      "correct_answer": "ערמומי",
-      "explanation_hebrew": "“cunning” פירושו ערמומי."
+      "correct_answer": "מִשְׁתַּתְּפִים",
+      "explanation_hebrew": "“participants” פירושו מִשְׁתַּתְּפִים."
     },
     {
       "id": "B-q10",
-      "word": "vouch",
+      "word": "diagnosed",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“להעיד, לערוב”?",
+      "question": "איזו מילה באנגלית פירושה “אֻבְחַן”?",
       "options": [
-        "ploy",
-        "wily",
-        "artful",
-        "vouch"
+        "overdue",
+        "diagnosed",
+        "tumours",
+        "cure"
       ],
-      "correct_answer": "vouch",
-      "explanation_hebrew": "“להעיד, לערוב” באנגלית הוא vouch."
+      "correct_answer": "diagnosed",
+      "explanation_hebrew": "“אֻבְחַן” באנגלית הוא “diagnosed”."
     },
     {
       "id": "B-q11",
-      "word": "artful",
+      "word": "advanced",
       "type": "english_to_hebrew",
-      "question": "What does “artful” mean?",
+      "question": "What does “advanced” mean?",
       "options": [
-        "תחבולה",
-        "מכחיש",
-        "ערמומי, פיקח",
-        "פיקח, ערמומי"
+        "מְטֻפָּלִים, חוֹלִים",
+        "כִימוֹתֶרַפְּיָה",
+        "גִּדּוּלִים",
+        "מִתְקַדֵּם, מֻחְמָר"
       ],
-      "correct_answer": "פיקח, ערמומי",
-      "explanation_hebrew": "“artful” פירושו פיקח, ערמומי."
+      "correct_answer": "מִתְקַדֵּם, מֻחְמָר",
+      "explanation_hebrew": "“advanced” פירושו מִתְקַדֵּם, מֻחְמָר."
     },
     {
       "id": "B-q12",
-      "word": "wily",
+      "word": "spread",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“ערמומי, פיקח”?",
+      "question": "איזו מילה באנגלית פירושה “הִתְפַּשֵּׁט”?",
       "options": [
-        "ploy",
-        "denying",
-        "forbidden",
-        "wily"
+        "spread",
+        "significantly",
+        "overdue",
+        "undetectable"
       ],
-      "correct_answer": "wily",
-      "explanation_hebrew": "“ערמומי, פיקח” באנגלית הוא wily."
+      "correct_answer": "spread",
+      "explanation_hebrew": "“הִתְפַּשֵּׁט” באנגלית הוא “spread”."
     },
     {
       "id": "B-q13",
-      "word": "ploy",
+      "word": "stress",
       "type": "english_to_hebrew",
-      "question": "What does “ploy” mean?",
+      "question": "What does “stress” mean?",
       "options": [
-        "תירוצים",
-        "תחבולה",
-        "אסור",
-        "מכחיש"
+        "מִתְקַדֵּם, מֻחְמָר",
+        "הִשָּׂרְדוּת",
+        "לְהַדְגִּישׁ",
+        "לְחַסֵּל, לְסַלֵּק"
       ],
-      "correct_answer": "תחבולה",
-      "explanation_hebrew": "“ploy” פירושו תחבולה."
+      "correct_answer": "לְהַדְגִּישׁ",
+      "explanation_hebrew": "“stress” פירושו לְהַדְגִּישׁ."
     },
     {
       "id": "B-q14",
-      "word": "denying",
+      "word": "disease",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“מכחיש”?",
+      "question": "איזו מילה באנגלית פירושה “מַחֲלָה”?",
       "options": [
-        "excuses",
-        "denying",
-        "proficient",
-        "forbidden"
+        "progress",
+        "disease",
+        "combined",
+        "eliminate"
       ],
-      "correct_answer": "denying",
-      "explanation_hebrew": "“מכחיש” באנגלית הוא denying."
+      "correct_answer": "disease",
+      "explanation_hebrew": "“מַחֲלָה” באנגלית הוא “disease”."
     },
     {
       "id": "B-q15",
-      "word": "forbidden",
+      "word": "cure",
       "type": "english_to_hebrew",
-      "question": "What does “forbidden” mean?",
+      "question": "What does “cure” mean?",
       "options": [
-        "אסור",
-        "למנוע, להסתיר",
-        "תירוצים",
-        "בקיא, מיומן"
+        "בְּאֹפֶן מַשְׁמָעוּתִי",
+        "מַרְפֵּא, לְרַפֵּא",
+        "לְשֵׁם רַע, יְדוּעַ לִשְׁמְצָה",
+        "טִפּוּל"
       ],
-      "correct_answer": "אסור",
-      "explanation_hebrew": "“forbidden” פירושו אסור."
+      "correct_answer": "מַרְפֵּא, לְרַפֵּא",
+      "explanation_hebrew": "“cure” פירושו מַרְפֵּא, לְרַפֵּא."
     },
     {
       "id": "B-q16",
-      "word": "excuses",
+      "word": "charity",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“תירוצים”?",
+      "question": "איזו מילה באנגלית פירושה “עֲמוּתָה, צְדָקָה”?",
       "options": [
-        "withhold",
-        "proficient",
-        "excuses",
-        "omitting"
+        "charity",
+        "overdue",
+        "stress",
+        "chemotherapy"
       ],
-      "correct_answer": "excuses",
-      "explanation_hebrew": "“תירוצים” באנגלית הוא excuses."
+      "correct_answer": "charity",
+      "explanation_hebrew": "“עֲמוּתָה, צְדָקָה” באנגלית הוא “charity”."
     },
     {
       "id": "B-q17",
-      "word": "proficient",
+      "word": "progress",
       "type": "english_to_hebrew",
-      "question": "What does “proficient” mean?",
+      "question": "What does “progress” mean?",
       "options": [
-        "למנוע, להסתיר",
-        "אח או אחות",
-        "בקיא, מיומן",
-        "משמיט"
+        "מַרְפֵּא, לְרַפֵּא",
+        "מְשֻׁלָּב, מְאֻחָד",
+        "מַחֲלָה",
+        "הִתְקַדְּמוּת"
       ],
-      "correct_answer": "בקיא, מיומן",
-      "explanation_hebrew": "“proficient” פירושו בקיא, מיומן."
+      "correct_answer": "הִתְקַדְּמוּת",
+      "explanation_hebrew": "“progress” פירושו הִתְקַדְּמוּת."
     },
     {
       "id": "B-q18",
-      "word": "withhold",
+      "word": "overdue",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“למנוע, להסתיר”?",
+      "question": "איזו מילה באנגלית פירושה “מְאֻחָר, שֶׁאֵחֵר”?",
       "options": [
-        "empathy",
-        "omitting",
-        "withhold",
-        "sibling"
+        "overdue",
+        "undetectable",
+        "progress",
+        "combined"
       ],
-      "correct_answer": "withhold",
-      "explanation_hebrew": "“למנוע, להסתיר” באנגלית הוא withhold."
+      "correct_answer": "overdue",
+      "explanation_hebrew": "“מְאֻחָר, שֶׁאֵחֵר” באנגלית הוא “overdue”."
     },
     {
       "id": "B-q19",
-      "word": "omitting",
+      "word": "notoriously",
       "type": "english_to_hebrew",
-      "question": "What does “omitting” mean?",
+      "question": "What does “notoriously” mean?",
       "options": [
-        "אח או אחות",
-        "משמיט",
-        "התקשרות",
-        "אמפתיה"
+        "טִפּוּל",
+        "מְטֻפָּלִים, חוֹלִים",
+        "לְשֵׁם רַע, יְדוּעַ לִשְׁמְצָה",
+        "מוּטַצְיוֹת"
       ],
-      "correct_answer": "משמיט",
-      "explanation_hebrew": "“omitting” פירושו משמיט."
+      "correct_answer": "לְשֵׁם רַע, יְדוּעַ לִשְׁמְצָה",
+      "explanation_hebrew": "“notoriously” פירושו לְשֵׁם רַע, יְדוּעַ לִשְׁמְצָה."
     },
     {
       "id": "B-q20",
-      "word": "sibling",
+      "word": "survival",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“אח או אחות”?",
+      "question": "איזו מילה באנגלית פירושה “הִשָּׂרְדוּת”?",
       "options": [
-        "sibling",
-        "attachment",
-        "empathy",
-        "preserve"
+        "advanced",
+        "eliminate",
+        "survival",
+        "combined"
       ],
-      "correct_answer": "sibling",
-      "explanation_hebrew": "“אח או אחות” באנגלית הוא sibling."
+      "correct_answer": "survival",
+      "explanation_hebrew": "“הִשָּׂרְדוּת” באנגלית הוא “survival”."
     },
     {
       "id": "B-q21",
-      "word": "empathy",
+      "word": "remission",
       "type": "english_to_hebrew",
-      "question": "What does “empathy” mean?",
+      "question": "What does “remission” mean?",
       "options": [
-        "מטפלים",
-        "לשמר, לשמור",
-        "אמפתיה",
-        "התקשרות"
+        "כִימוֹתֶרַפְּיָה",
+        "הֲפוּגָה (בְּמַחֲלָה)",
+        "מַרְפֵּא, לְרַפֵּא",
+        "לְהִתְכַּוֵּץ, לְהַקְטִין"
       ],
-      "correct_answer": "אמפתיה",
-      "explanation_hebrew": "“empathy” פירושו אמפתיה."
+      "correct_answer": "הֲפוּגָה (בְּמַחֲלָה)",
+      "explanation_hebrew": "“remission” פירושו הֲפוּגָה (בְּמַחֲלָה)."
     },
     {
       "id": "B-q22",
-      "word": "attachment",
+      "word": "undetectable",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“התקשרות”?",
+      "question": "איזו מילה באנגלית פירושה “שֶׁלֹּא נִתָּן לְאַתֵּר”?",
       "options": [
-        "nuance",
-        "attachment",
-        "preserve",
-        "caregivers"
+        "notoriously",
+        "eliminate",
+        "undetectable",
+        "mutations"
       ],
-      "correct_answer": "attachment",
-      "explanation_hebrew": "“התקשרות” באנגלית הוא attachment."
+      "correct_answer": "undetectable",
+      "explanation_hebrew": "“שֶׁלֹּא נִתָּן לְאַתֵּר” באנגלית הוא “undetectable”."
     },
     {
       "id": "B-q23",
-      "word": "preserve",
+      "word": "mutations",
       "type": "english_to_hebrew",
-      "question": "What does “preserve” mean?",
+      "question": "What does “mutations” mean?",
       "options": [
-        "מטפלים",
-        "שקרים קטנים",
-        "לשמר, לשמור",
-        "ניואנס, דקוּת"
+        "מוּטַצְיוֹת",
+        "מְטֻפָּלִים, חוֹלִים",
+        "גִּדּוּלִים",
+        "אֻבְחַן"
       ],
-      "correct_answer": "לשמר, לשמור",
-      "explanation_hebrew": "“preserve” פירושו לשמר, לשמור."
+      "correct_answer": "מוּטַצְיוֹת",
+      "explanation_hebrew": "“mutations” פירושו מוּטַצְיוֹת."
     },
     {
       "id": "B-q24",
-      "word": "caregivers",
+      "word": "combined",
       "type": "hebrew_to_english",
-      "question": "מה המילה האנגלית ל–“מטפלים”?",
+      "question": "איזו מילה באנגלית פירושה “מְשֻׁלָּב, מְאֻחָד”?",
       "options": [
-        "caregivers",
-        "dishonesty",
-        "nuance",
-        "fibs"
+        "combined",
+        "notoriously",
+        "stress",
+        "remission"
       ],
-      "correct_answer": "caregivers",
-      "explanation_hebrew": "“מטפלים” באנגלית הוא caregivers."
+      "correct_answer": "combined",
+      "explanation_hebrew": "“מְשֻׁלָּב, מְאֻחָד” באנגלית הוא “combined”."
     },
     {
       "id": "B-q25",
-      "word": "nuance",
+      "word": "significantly",
       "type": "english_to_hebrew",
-      "question": "What does “nuance” mean?",
+      "question": "What does “significantly” mean?",
       "options": [
-        "שקרים קטנים",
-        "חוסר יושר",
-        "ניואנס, דקוּת",
-        "הטעיה, רמייה"
+        "בְּאֹפֶן מַשְׁמָעוּתִי",
+        "אֻבְחַן",
+        "שֶׁלֹּא נִתָּן לְאַתֵּר",
+        "מַרְפֵּא, לְרַפֵּא"
       ],
-      "correct_answer": "ניואנס, דקוּת",
-      "explanation_hebrew": "“nuance” פירושו ניואנס, דקוּת."
+      "correct_answer": "בְּאֹפֶן מַשְׁמָעוּתִי",
+      "explanation_hebrew": "“significantly” פירושו בְּאֹפֶן מַשְׁמָעוּתִי."
     }
   ]
 }
