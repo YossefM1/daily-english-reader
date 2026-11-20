@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-20",
+  "article_id": "A",
+  "article_title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main event reported in the article?",
+      "difficulty": "A",
+      "options": [
+        "Fiona the hippo died after swallowing a knitted hat that entered her enclosure",
+        "Fiona recovered after an operation to remove a toy",
+        "The Cincinnati Zoo moved Fiona to a horse farm",
+        "A visitor deliberately fed Fiona a hat"
+      ],
+      "correct_answer": "Fiona the hippo died after swallowing a knitted hat that entered her enclosure",
+      "explanation_hebrew": "האירוע המרכזי הוא מותה של פיונה לאחר שבלעה כובע סרוג שנכנס בטעות למתחם שלה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did the hat get into Fiona's enclosure?",
+      "difficulty": "A",
+      "options": [
+        "A keeper dropped it during feeding time",
+        "Wind carried it over the zoo wall",
+        "A visitor tossed it, a ceiling fan caught it and flung it through a small opening",
+        "Fiona pulled it from a keeper's pocket"
+      ],
+      "correct_answer": "A visitor tossed it, a ceiling fan caught it and flung it through a small opening",
+      "explanation_hebrew": "לפי דוברת גן החיות, מבקר זרק את הכובע באוויר, מאוורר תקרה תפס אותו והעיף אותו דרך פתח קטן."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What sign showed that Fiona's condition was getting worse a few days later?",
+      "difficulty": "A",
+      "options": [
+        "She stopped standing on the vibration platform",
+        "Her appetite began to decrease",
+        "She became twice her normal weight",
+        "She left her enclosure"
+      ],
+      "correct_answer": "Her appetite began to decrease",
+      "explanation_hebrew": "אף שבהתחלה נראתה בסדר, לאחר כמה ימים התיאבון שלה החל לרדת."
+    },
+    {
+      "id": "A-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did an ultrasound show before Fiona died?",
+      "difficulty": "A",
+      "options": [
+        "The hat had left her body",
+        "The hat was still in her stomach",
+        "The hat had disappeared from the scan",
+        "The hat was passing through her small intestine"
+      ],
+      "correct_answer": "The hat was passing through her small intestine",
+      "explanation_hebrew": "בדיקת האולטרסאונד הראתה שהכובע עובר במעי הדק של פיונה."
+    },
+    {
+      "id": "A-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the keepers focus on helping Fiona pass the hat naturally?",
+      "difficulty": "A",
+      "options": [
+        "Surgery was not an option for a full-grown hippo",
+        "The zoo had no veterinary staff",
+        "The hat was too small to cause concern",
+        "They planned to send her to another zoo"
+      ],
+      "correct_answer": "Surgery was not an option for a full-grown hippo",
+      "explanation_hebrew": "הכתבה מסבירה שניתוח אינו אפשרות עבור היפופוטם בוגר, ולכן הסיכוי הטוב ביותר היה שהכובע יעבור באופן טבעי."
+    },
+    {
+      "id": "A-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does “premature” mean when describing Fiona's birth?",
+      "difficulty": "A",
+      "options": [
+        "Born at an unusually heavy weight",
+        "Born in a different zoo",
+        "Born earlier than expected",
+        "Born without veterinary care"
+      ],
+      "correct_answer": "Born earlier than expected",
+      "explanation_hebrew": "בהקשר של לידה, premature פירושו שנולדה מוקדם מן הצפוי."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name three things the zoo staff tried in order to save Fiona.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלושה מאמצים מן הכתבה, כגון טיפול חירום, עידוד אכילה, מעקב באולטרסאונד או עמידה על משטח רטט.",
+      "expected_points": [
+        "They provided emergency veterinary care and monitored her condition.",
+        "They encouraged her to eat so the food might help push the hat through her digestive system.",
+        "They encouraged her to stand on a vibration plate borrowed from a horse farm."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain why Fiona was already famous before this incident.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שנולדה פגה ב־2017, שקלה רק 13 ק״ג ונאבקה לשרוד, ובהמשך הפכה לכוכבת רשת ולסמל מקומי.",
+      "expected_points": [
+        "She was born prematurely at the Cincinnati Zoo in 2017 and initially struggled to survive.",
+        "She weighed only 13 kg at birth, about half the previous lowest recorded birth weight for her species.",
+        "Her survival made her a social-media star and later inspired local cultural products."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences explaining what lesson Peta said visitors and the zoo should learn from Fiona's death.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהאירוע לא היה מכוון אך מראה את הצורך בהתנהגות זהירה ליד בעלי חיים, באבטחת חפצים, באי־זריקת חפצים ובבחינת נהלי גן החיות.",
+      "expected_points": [
+        "Visitors should secure their belongings near animal enclosures.",
+        "People should never toss objects near animals.",
+        "The zoo should review its protocols to reduce the chance of a similar incident."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise Fiona's final days, the zoo's rescue efforts and her importance to Cincinnati in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול כיצד הכובע נכנס ונבלע, את הירידה בתיאבון, לפחות שני מאמצי הצלה, את מותה ואת משמעותה כסמל להתמדה ושמחה.",
+      "expected_points": [
+        "A knitted hat accidentally entered Fiona's enclosure and she swallowed it.",
+        "Her appetite later decreased, and staff tried feeding, monitoring and a vibration platform because surgery was not an option.",
+        "She died despite the veterinary and keeper team's efforts.",
+        "Fiona had become a social-media star and a local symbol of perseverance and joy."
+      ]
+    }
+  ]
+}

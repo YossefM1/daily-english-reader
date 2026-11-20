@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-20",
+  "article_id": "B",
+  "article_title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on vocabulary in context, evidence-based comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main assessment of daraxonrasib combined with chemotherapy?",
+      "difficulty": "B",
+      "options": [
+        "It is a promising early breakthrough, but longer studies are needed before it can be considered a cure",
+        "It has already cured every patient with pancreatic cancer",
+        "It works only as a replacement for all surgery",
+        "It failed to affect tumour growth in the trial"
+      ],
+      "correct_answer": "It is a promising early breakthrough, but longer studies are needed before it can be considered a cure",
+      "explanation_hebrew": "התוצאות המוקדמות מעודדות מאוד, אך הרופאים מדגישים שעדיין לא ידוע כמה זמן ההשפעה תימשך ושאין לראות בטיפול תרופה מרפאת."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "In how many trial participants did tumours become undetectable on CT scans?",
+      "difficulty": "B",
+      "options": [
+        "About half of the participants",
+        "All 61 participants",
+        "Around 8%, or one in 12",
+        "Exactly 90%"
+      ],
+      "correct_answer": "Around 8%, or one in 12",
+      "explanation_hebrew": "בכ־8% מהמטופלים, שהם בערך אחד מכל 12, הגידולים לא נראו עוד בסריקות CT."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which pair of results accurately describes the early trial?",
+      "difficulty": "B",
+      "options": [
+        "Tumours grew in 90%, and 8% survived",
+        "Tumours stopped growing in 90%, and just over 60% saw them shrink or disappear",
+        "All tumours vanished, but none stopped growing",
+        "Only one patient responded to treatment"
+      ],
+      "correct_answer": "Tumours stopped growing in 90%, and just over 60% saw them shrink or disappear",
+      "explanation_hebrew": "הכתבה מדווחת שהגידולים הפסיקו לגדול אצל 90% מהמטופלים, ואצל מעט יותר מ־60% הם הצטמצמו או נעלמו."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “keep the disease at bay” mean in this context?",
+      "difficulty": "B",
+      "options": [
+        "Diagnose the disease earlier",
+        "Move treatment to another hospital",
+        "Guarantee that cancer can never return",
+        "Control or delay the disease for a period of time"
+      ],
+      "correct_answer": "Control or delay the disease for a period of time",
+      "explanation_hebrew": "הביטוי keep at bay פירושו לשלוט במחלה או לעכב אותה לזמן מה, לא בהכרח לרפא אותה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How does daraxonrasib target pancreatic cancer?",
+      "difficulty": "B",
+      "options": [
+        "It locks on to and shuts off RAS mutations that drive tumour growth",
+        "It removes the pancreas during a scan",
+        "It raises the body temperature to destroy every cell",
+        "It prevents patients from receiving chemotherapy"
+      ],
+      "correct_answer": "It locks on to and shuts off RAS mutations that drive tumour growth",
+      "explanation_hebrew": "דאראקסונראסיב הוא מעכב KRAS שנקשר למוטציות RAS ומכבה אותן; מוטציות אלה מניעות את צמיחת הגידול."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are researchers interested in testing the drug beyond pancreatic cancer?",
+      "difficulty": "B",
+      "options": [
+        "Pancreatic cancer never contains RAS mutations",
+        "The drug is only available outside the US",
+        "Lung, ovarian and other cancers can have similar mutations",
+        "Chemotherapy has been banned for other cancers"
+      ],
+      "correct_answer": "Lung, ovarian and other cancers can have similar mutations",
+      "explanation_hebrew": "מכיוון שגם סוגי סרטן אחרים יכולים לשאת מוטציות דומות, החוקרים מקווים שהמנגנון יועיל גם למטופלים נוספים."
+    },
+    {
+      "id": "B-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Summarise the three key percentages reported from the trial.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין במדויק: עצירת צמיחה אצל 90%, הצטמקות או היעלמות אצל מעט יותר מ־60%, ואי־זיהוי בסריקות אצל כ־8% או אחד מכל 12.",
+      "expected_points": [
+        "Tumours stopped growing in 90% of participants.",
+        "Just over 60% saw their tumours shrink or disappear.",
+        "Around 8%, or one in 12, had tumours become undetectable on CT scans."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences explaining why doctors are excited but still cautious about the findings.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לאזן בין שיעורי התגובה המרשימים לבין גודל המדגם הקטן, המעקב המוגבל והאפשרות שהסרטן יחזור; אין לכנות את הטיפול תרופה מרפאת.",
+      "expected_points": [
+        "The 61-patient trial produced high rates of disease control and tumour response.",
+        "Some tumours became undetectable on scans.",
+        "Follow-up averaged only about a year and a half, so durability is uncertain.",
+        "Cancer can return even after scans show no sign of it, and longer studies are required."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons pancreatic cancer is described as especially difficult to treat.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שני פרטים מן הכתבה: שיעור ההישרדות הנמוך ביותר מבין סוגי הסרטן הנפוצים בבריטניה, חזרת הגידול לאחר כימותרפיה, או הישרדות של חודשים בלבד במחלה מתקדמת.",
+      "expected_points": [
+        "It has the lowest survival rate among common cancers in the UK.",
+        "Tumours often grow again after chemotherapy has initially shrunk them.",
+        "Most people with advanced disease survive months rather than years."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the treatment, trial results, biological mechanism and remaining uncertainty in 5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול שילוב דאראקסונראסיב וכימותרפיה, 61 משתתפים, תוצאות מרכזיות, חסימת מוטציות RAS והצורך במחקרים ארוכים יותר.",
+      "expected_points": [
+        "The early trial combined daily daraxonrasib with chemotherapy in 61 people with advanced pancreatic cancer.",
+        "Tumour growth stopped in 90%, while just over 60% had shrinkage or disappearance and about 8% had no detectable tumour on CT.",
+        "The KRAS inhibitor shuts off RAS mutations that drive tumour growth.",
+        "Similar mutations in other cancers may broaden its potential use.",
+        "Longer research is needed to learn whether responses become remission or improve survival."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-20",
+  "article_id": "C",
+  "article_title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on vocabulary in context, diplomatic nuance, evidence-based inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central tension does the article describe?",
+      "difficulty": "C",
+      "options": [
+        "European leaders say they are ready for talks, but Russia's demands, mixed signals and continued attacks cast doubt on a settlement",
+        "Europe has refused any role in negotiations with Russia",
+        "Russia and Ukraine have already signed a final peace agreement",
+        "The Berlin summit focused only on trade with China"
+      ],
+      "correct_answer": "European leaders say they are ready for talks, but Russia's demands, mixed signals and continued attacks cast doubt on a settlement",
+      "explanation_hebrew": "הכתבה מציגה נכונות אירופית למשא ומתן לצד ספקנות עמוקה בגלל דרישות רוסיה, מסרים סותרים והמשך ההתקפות."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did the Coalition of the Willing meet to discuss support for Ukraine?",
+      "difficulty": "C",
+      "options": [
+        "Moscow",
+        "Shenzhen",
+        "Berlin",
+        "Kyiv"
+      ],
+      "correct_answer": "Berlin",
+      "explanation_hebrew": "פסגת בעלות בריתה של אוקראינה, המכונה Coalition of the Willing, התקיימה בברלין."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Putin say Russia wanted before deciding the format of further dialogue?",
+      "difficulty": "C",
+      "options": [
+        "A new election in every European country",
+        "To determine what the Europeans' positions were after inviting them to Moscow",
+        "Ukraine's immediate admission to Nato",
+        "The cancellation of all talks with the US"
+      ],
+      "correct_answer": "To determine what the Europeans' positions were after inviting them to Moscow",
+      "explanation_hebrew": "פוטין אמר שרוסיה הזמינה את האירופים למוסקבה כדי לברר את עמדותיהם, ורק לאחר מכן תחליט באיזה פורמט יימשך הדיאלוג."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does an “Article Five-style guarantee” imply?",
+      "difficulty": "C",
+      "options": [
+        "A promise to end all economic sanctions",
+        "A temporary visa for Ukrainian officials",
+        "A requirement that Ukraine surrender its territory immediately",
+        "A security commitment resembling Nato's principle that allies defend a country under attack"
+      ],
+      "correct_answer": "A security commitment resembling Nato's principle that allies defend a country under attack",
+      "explanation_hebrew": "הכוונה לערבות ביטחונית הדומה לעקרון ההגנה הקולקטיבית של סעיף 5 בנאט״ו, גם בלי חברות מלאה בברית."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did Merz reject a possible “Yalta format”?",
+      "difficulty": "C",
+      "options": [
+        "He opposed major powers dividing Europe into spheres of influence without acceptable conditions for Europe and Ukraine",
+        "He wanted the negotiations moved to Crimea",
+        "He believed the 1945 agreement created Nato",
+        "He objected to any US involvement in peace efforts"
+      ],
+      "correct_answer": "He opposed major powers dividing Europe into spheres of influence without acceptable conditions for Europe and Ukraine",
+      "explanation_hebrew": "מרץ השתמש ביאלטה כדוגמה להסדר שבו מעצמות מחלקות אזורי השפעה, דבר שלדבריו אינו מקובל על אירופה."
+    },
+    {
+      "id": "C-6",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “circumspect” suggest about the Russian response to European participation?",
+      "difficulty": "C",
+      "options": [
+        "Completely enthusiastic",
+        "Legally binding",
+        "Cautious and unwilling to make a firm commitment",
+        "Unrelated to the negotiations"
+      ],
+      "correct_answer": "Cautious and unwilling to make a firm commitment",
+      "explanation_hebrew": "Circumspect מתאר תגובה זהירה ומסויגת: הרוסים לא התחייבו להרחיב מיד את פורמט השיחות."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Compare Jared Kushner's tone with the tone of Zelensky and the three European leaders.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתאר את קושנר כאופטימי לגבי אפשרות לשלום והשתתפות אירופה, לעומת זהירות או ספקנות של זלנסקי, מרץ, ברנהם ומקרון לנוכח סירובי פוטין והדרישות הרוסיות.",
+      "expected_points": [
+        "Kushner struck an upbeat tone and said peace was achievable.",
+        "He suggested Russia was becoming comfortable with European participation and Article Five-style guarantees.",
+        "Zelensky and the European leaders were more sceptical because Putin had rejected earlier proposals and maintained maximalist demands."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "State three conditions or priorities European leaders attached to meaningful negotiations.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה: הסכם שלום עם אוקראינה תחילה, תנאים המקובלים על אירופה ואוקראינה, דחיית חלוקת אירופה לאזורי השפעה, ערבויות ביטחוניות או חיזוק ההגנה האווירית.",
+      "expected_points": [
+        "Merz said serious discussion of European security must be matched by, and follow, a peace agreement with Ukraine.",
+        "Any conditions must be acceptable to both Europe and Ukraine.",
+        "European leaders rejected dividing the continent into spheres of influence and stressed security guarantees and air defence for Ukraine."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences explaining how Russia's military actions complicate its claim that it wants peace.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציב את טענת פוטין על רצון לסיים את המלחמה מול תקיפות התשתית, פגיעות האזרחים, התקפת הרחפנים בקייב, הדרישות הטריטוריאליות והאיום בתגובה חריפה יותר.",
+      "expected_points": [
+        "Putin said Russia was interested in ending the war and ready to compromise.",
+        "Russia nevertheless continued striking Kyiv and Ukraine's energy infrastructure as winter approached.",
+        "A drone attack killed a person and damaged buildings, embassies and a cathedral in Kyiv.",
+        "Moscow maintained territorial demands and threatened a more painful response to the Crimean Bridge strike, weakening confidence in its stated intentions."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the competing diplomatic positions, proposed security guarantees and battlefield context in 5–6 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את נכונות אירופה לשיחות, את דרישתה למקום ליד השולחן ולהסכם המקובל על קייב, את עמדת ארה״ב, את המסרים המעורבים ממוסקבה, את ערבויות סעיף 5 ואת המשך ההתקפות הרוסיות.",
+      "expected_points": [
+        "European leaders said they were ready to negotiate with Russia while presenting a united position in support of Kyiv.",
+        "US envoy Jared Kushner argued that peace was achievable with Europe involved.",
+        "Article Five-style guarantees were discussed as protection for Ukraine without full Nato membership.",
+        "Putin acknowledged that European security could not be discussed without Europe but questioned its role and sent mixed signals about participation.",
+        "Zelensky and European leaders remained sceptical because Russia had rejected proposals and kept maximalist territorial demands.",
+        "Continued Russian attacks on Kyiv and energy infrastructure contrasted with Putin's claim that Moscow wanted to end the conflict."
+      ]
+    }
+  ]
+}
