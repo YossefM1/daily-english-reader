@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-21",
+  "article_id": "B",
+  "article_title": "GTA 6 sales hit $3.8bn in single day - the biggest launch in history",
+  "article_url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on vocabulary in context, evidence-based comprehension, inference, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why does the article call GTA 6's launch historic?",
+      "difficulty": "B",
+      "options": [
+        "Its estimated $3.8bn first-day sales set a record across entertainment media",
+        "It was the first video game sold on consoles",
+        "It earned less than GTA 5 in its opening week",
+        "It launched only in New Zealand"
+      ],
+      "correct_answer": "Its estimated $3.8bn first-day sales set a record across entertainment media",
+      "explanation_hebrew": "המכירות המוערכות ביום המלא הראשון הגיעו ל־3.8 מיליארד דולר, שיא להשקה בכל תחום הבידור."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many copies of GTA 6 were pre-sold?",
+      "difficulty": "B",
+      "options": [
+        "8.6 million",
+        "13 million",
+        "32.5 million",
+        "212 million"
+      ],
+      "correct_answer": "32.5 million",
+      "explanation_hebrew": "חברת Take-Two מסרה שנמכרו מראש 32.5 מיליון עותקים."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Cloudflare data suggest about some players in New Zealand?",
+      "difficulty": "B",
+      "options": [
+        "They downloaded only the PC version",
+        "Some players may have switched regions to get early access",
+        "They avoided the game because of its file size",
+        "They spent less time online than normal"
+      ],
+      "correct_answer": "Some players may have switched regions to get early access",
+      "explanation_hebrew": "הזינוק החריג בניו זילנד לפני הזמינות במקומות אחרים רמז שחלק מהשחקנים החליפו אזור כדי לקבל גישה מוקדמת."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “predecessor” refer to in the article?",
+      "difficulty": "B",
+      "options": [
+        "A future multiplayer expansion",
+        "A film used for comparison",
+        "The company that measures internet traffic",
+        "The earlier game GTA 5"
+      ],
+      "correct_answer": "The earlier game GTA 5",
+      "explanation_hebrew": "Predecessor הוא הדבר שקדם לאחר; כאן הכוונה ל־GTA 5, המשחק הקודם בסדרה."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Where did about three quarters of GTA 6 sales occur?",
+      "difficulty": "B",
+      "options": [
+        "On PlayStation 5",
+        "On personal computers",
+        "On mobile phones",
+        "On Nintendo consoles"
+      ],
+      "correct_answer": "On PlayStation 5",
+      "explanation_hebrew": "Sensor Tower העריכה שכשלושה רבעים מהמכירות היו ב־PlayStation 5, והיתר ב־Xbox."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could multiplayer generate substantial future revenue for Rockstar?",
+      "difficulty": "B",
+      "options": [
+        "It will remove all in-game purchases",
+        "It is already free on PCs",
+        "Players may spend real money on virtual property, cars and other perks over many hours",
+        "It will replace the single-player game immediately"
+      ],
+      "correct_answer": "Players may spend real money on virtual property, cars and other perks over many hours",
+      "explanation_hebrew": "הניסיון מ־GTA 5 מצביע שמצב מרובה משתתפים מוסיף שעות משחק והכנסות מרכישות בתוך המשחק."
+    },
+    {
+      "id": "B-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Compare GTA 6's launch figures with GTA 5 and the film Spider-Man: Brand New Day.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות בין 3.8 מיליארד דולר ביום אחד ל־1.15 מיליארד בחמישה ימים של GTA 5 ול־2.5 מיליארד לאורך כל הקרנת הסרט.",
+      "expected_points": [
+        "GTA 6 reached an estimated $3.8bn in its first full day.",
+        "GTA 5 had earned $1.15bn in five days during its record opening week.",
+        "Spider-Man: Brand New Day made $2.5bn during its entire cinema run."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three signs that the launch placed unusual pressure on internet networks.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה נתונים מן הכתבה: פי 8.6 הורדות PS5 בבריטניה, פי 14.8 בניו זילנד, פי 11.2 באוסטרליה, פי 9.3 בחוף המזרחי של ארה״ב, או שיא התעבורה של Virgin Media O2.",
+      "expected_points": [
+        "UK PS5 downloads peaked at 8.6 times normal levels.",
+        "New Zealand saw a 14.8-fold spike, while Rockstar traffic reached 11.2 times normal in Australia and 9.3 times on the US East Coast.",
+        "The 212GB installation rush broke Virgin Media O2's evening traffic record."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "inference",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences explaining why the article expects GTA 6 to keep earning money after its record launch.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להתייחס לפופולריות, להשקה עתידית למחשב, להרחבת מרובה המשתתפים ולרכישות בתוך המשחק, תוך הבהרה שתאריכי ההשקות טרם פורסמו.",
+      "expected_points": [
+        "The game began with exceptionally high sales and a large installed audience.",
+        "A PC version has not yet been dated and could add more buyers.",
+        "A future multiplayer expansion could extend engagement for many hours.",
+        "In-game spending on property, cars and perks could provide continuing revenue, as it did for GTA 5."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise GTA 6's commercial launch, network impact and long-term business potential in 5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול 3.8 מיליארד דולר, 32.5 מיליון מכירות מוקדמות, זינוקי תעבורה, עלות פיתוח מעל מיליארד דולר והכנסות עתידיות ממחשב ומרובה משתתפים.",
+      "expected_points": [
+        "GTA 6 generated an estimated $3.8bn on its first full day after 32.5m pre-sales.",
+        "The launch surpassed earlier gaming and film benchmarks cited in the article.",
+        "Downloads and online-service traffic rose many times above normal in several countries.",
+        "The game may have cost more than $1bn to develop.",
+        "Future PC and multiplayer releases plus in-game purchases could extend Rockstar's revenue for years."
+      ]
+    }
+  ]
+}

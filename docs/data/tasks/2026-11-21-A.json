@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-21",
+  "article_id": "A",
+  "article_title": "Birds die in blaze at one of largest foie gras farms in the US",
+  "article_url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What happened at Hudson Valley Farms on Thursday?",
+      "difficulty": "A",
+      "options": [
+        "A fire destroyed farm buildings and killed an unknown number of birds",
+        "The farm opened a new bird sanctuary",
+        "Workers released every duck and goose",
+        "A storm closed the farm without causing damage"
+      ],
+      "correct_answer": "A fire destroyed farm buildings and killed an unknown number of birds",
+      "explanation_hebrew": "האירוע המרכזי הוא שריפה שהרסה מבנים בחווה והרגה מספר לא ידוע של עופות."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What positive result did emergency crews report?",
+      "difficulty": "A",
+      "options": [
+        "Every building was saved",
+        "The fire cause was confirmed immediately",
+        "Hundreds of young birds and hatchlings were rescued, and no people were injured",
+        "All birds were moved to another state"
+      ],
+      "correct_answer": "Hundreds of young birds and hatchlings were rescued, and no people were injured",
+      "explanation_hebrew": "הצוותים חילצו מאות עופות צעירים ואפרוחים, ולא נפגעו עובדים או אנשי כוחות ההצלה."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How many fire departments and first responders were involved?",
+      "difficulty": "A",
+      "options": [
+        "Two departments and 20 responders",
+        "37 departments and 200 responders",
+        "100 departments and 37 responders",
+        "One department and 200 responders"
+      ],
+      "correct_answer": "37 departments and 200 responders",
+      "explanation_hebrew": "לפי הדיווח, 37 מחלקות כיבוי ו־200 אנשי הצלה השתתפו במענה לשריפה."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “engulfed” mean in the sentence saying the blaze engulfed several barns?",
+      "difficulty": "A",
+      "options": [
+        "Cleaned completely",
+        "Moved slowly away from",
+        "Was reported near",
+        "Surrounded and covered by flames"
+      ],
+      "correct_answer": "Surrounded and covered by flames",
+      "explanation_hebrew": "בהקשר זה engulfed פירושו שהלהבות הקיפו וכיסו את האסמים."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did farm manager Marcus Henley suspect might have started the fire?",
+      "difficulty": "A",
+      "options": [
+        "An electrical malfunction",
+        "A lightning strike confirmed by investigators",
+        "A protest outside the farm",
+        "A broken water pipe"
+      ],
+      "correct_answer": "An electrical malfunction",
+      "explanation_hebrew": "הנלי חשד בתקלה חשמלית, אך הכתבה מדגישה שהסיבה לא אושרה."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why was the fire especially hard to stop inside the barn?",
+      "difficulty": "A",
+      "options": [
+        "The farm had no road access",
+        "All firefighters arrived the next day",
+        "The building was metal-clad with a wood frame, helping flames spread rapidly",
+        "The birds blocked the fire engines"
+      ],
+      "correct_answer": "The building was metal-clad with a wood frame, helping flames spread rapidly",
+      "explanation_hebrew": "מבנה מצופה מתכת ובעל שלד עץ הקשה על הכבאים לעצור את התפשטות האש בתוך האסם."
+    },
+    {
+      "id": "A-7",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain in 2–3 sentences what is known and not known about the cause of the fire.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שהסיבה הרשמית לא נמסרה, שמנהל החווה חשד בתקלה חשמלית, ושחשד זה לא אושר.",
+      "expected_points": [
+        "Officials had not provided a confirmed cause for the fire.",
+        "The farm manager suspected an electrical malfunction.",
+        "The article states that this suspicion had not been confirmed."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons foie gras production is controversial according to the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להזכיר שהעופות מואכלים בכפייה דרך צינורות ושכך הם מעלים יותר משליש ממשקל גופם בזמן קצר; אפשר גם לציין מחאות ואיסורי מכירה.",
+      "expected_points": [
+        "Birds are force-fed through plastic tubes.",
+        "The process makes them gain more than one third of their body weight quickly.",
+        "Animal-rights groups have protested the practice, and voters in some cities backed sales bans."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences describing Peta's proposed response to the fire and what it shows about the group's concerns.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את שלט הזיכרון המתוכנן, את הקריאה להעביר עופות ששרדו למקלטים ואת הדגש של הקבוצה על רווחת בעלי חיים.",
+      "expected_points": [
+        "Peta said it would put up a nearby billboard in memory of the birds that died.",
+        "The group encouraged the farm to donate surviving birds to local sanctuaries.",
+        "These proposals reflect Peta's opposition to foie gras production and concern for the birds' welfare."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the fire, emergency response and wider foie gras debate in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את השריפה בחווה, מספר לא ידוע של עופות שמתו, חילוץ מאות עופות, תגובת 37 מחלקות ו־200 אנשי הצלה, והמחלוקת סביב האכלה בכפייה ואיסורי המכירה.",
+      "expected_points": [
+        "A fire engulfed barns at Hudson Valley Farms and killed an unknown number of birds.",
+        "Crews rescued hundreds of young birds and no workers or responders were injured.",
+        "The response involved 37 fire departments and 200 first responders.",
+        "The incident drew attention to criticism of force-feeding in foie gras production and ongoing efforts to ban the product."
+      ]
+    }
+  ]
+}
