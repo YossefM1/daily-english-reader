@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-21",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "GTA 6 sales hit $3.8bn in single day - the biggest launch in history",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-20T22:53:24+00:00",
+  "age_hours_at_selection": 3.4,
+  "word_count": 738,
+  "generated_at": "2026-11-21T02:17:23.319914+00:00",
+  "difficulty_reason": "Moderate-length business story with figures and some industry terms, a clear structure and useful B1/B2/C1 vocabulary.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "retail",
+      "lemma": "retail",
+      "level": "B2",
+      "hebrew": "קִמְעוֹנָאוּת / מְכִירָה לַצַּרְכָן",
+      "explanation_hebrew": "מְכִירָה שֶׁל מֻצְרִים יְשִׁירוֹת לַלָּקוֹחוֹת.",
+      "pronunciation_hebrew": "רִיטֵייל",
+      "example": "Retail sales broke a world record."
+    },
+    {
+      "word": "estimates",
+      "lemma": "estimate",
+      "level": "B2",
+      "hebrew": "אוֹמְדָנִים / הַעֲרָכוֹת",
+      "explanation_hebrew": "חִשּׁוּבִים מְקֹרָבִים שֶׁל מִסְפָּר אוֹ עֵרֶךְ.",
+      "pronunciation_hebrew": "אֶסְטִימֶטְס",
+      "example": "The figures are based on estimates."
+    },
+    {
+      "word": "medium",
+      "lemma": "medium",
+      "level": "B2",
+      "hebrew": "אֶמְצָעִי תִּקְשֹׁרֶת / מָדְיוּם",
+      "explanation_hebrew": "דֶּרֶךְ אוֹ כְּלִי לְהַעֲבָרַת תֹּכֶן, כְּגוֹן סֶרֶט אוֹ מִשְׂחָק.",
+      "pronunciation_hebrew": "מִידְיֶם",
+      "example": "It set a record across any medium."
+    },
+    {
+      "word": "infrastructure",
+      "lemma": "infrastructure",
+      "level": "C1",
+      "hebrew": "תַּשְׁתִּית",
+      "explanation_hebrew": "מַעֲרָכוֹת הַבָּסִיס הַתּוֹמְכוֹת בִּפְעִילוּת, כְּמוֹ רְשָׁתוֹת.",
+      "pronunciation_hebrew": "אִינְפְרַהסְטְרַקְצֶ'ר",
+      "example": "An internet infrastructure firm tracked downloads."
+    },
+    {
+      "word": "peaked",
+      "lemma": "peak",
+      "level": "B2",
+      "hebrew": "הִגִּיעַ לְשִׂיא",
+      "explanation_hebrew": "הִגִּיעַ לַנְּקֻדָּה הַגְּבוֹהָה בְּיוֹתֵר.",
+      "pronunciation_hebrew": "פִּיקְט",
+      "example": "Downloads peaked at launch."
+    },
+    {
+      "word": "spike",
+      "lemma": "spike",
+      "level": "B2",
+      "hebrew": "זִנּוּק חַד",
+      "explanation_hebrew": "עֲלִיָּה פִּתְאוֹמִית וְחַדָּה.",
+      "pronunciation_hebrew": "סְפַּייק",
+      "example": "There was a huge spike in traffic."
+    },
+    {
+      "word": "surge",
+      "lemma": "surge",
+      "level": "B2",
+      "hebrew": "נְהִירָה / גֵּאוּת פִּתְאוֹמִית",
+      "explanation_hebrew": "גִּדּוּל פִּתְאוֹמִי וְחָזָק בְּכַמּוּת אוֹ עָצְמָה.",
+      "pronunciation_hebrew": "סֶרְג'",
+      "example": "A surge in demand hit the servers."
+    },
+    {
+      "word": "traffic",
+      "lemma": "traffic",
+      "level": "B1",
+      "hebrew": "תְּנוּעָה (בָּרֶשֶׁת)",
+      "explanation_hebrew": "כַּמּוּת הַגְּלִישָׁה אוֹ הַהַעֲבָרוֹת בָּרֶשֶׁת.",
+      "pronunciation_hebrew": "טְרַאפִיק",
+      "example": "Online traffic rose sharply."
+    },
+    {
+      "word": "predecessor",
+      "lemma": "predecessor",
+      "level": "C1",
+      "hebrew": "קוֹדֵם / הַגִּרְסָה הַקּוֹדֶמֶת",
+      "explanation_hebrew": "הַדָּבָר אוֹ הָאָדָם שֶׁהָיָה לִפְנֵי הַנּוֹכְחִי.",
+      "pronunciation_hebrew": "פְּרֶדֶסֶסֶר",
+      "example": "It beat its predecessor's record."
+    },
+    {
+      "word": "instalment",
+      "lemma": "instalment",
+      "level": "C1",
+      "hebrew": "חֵלֶק בְּסִדְרָה / מָנָה",
+      "explanation_hebrew": "חֵלֶק אֶחָד מִתּוֹךְ סִדְרָה מִתְמַשֶּׁכֶת.",
+      "pronunciation_hebrew": "אִינְסְטוֹלְמֶנְט",
+      "example": "The game is the latest instalment in the series."
+    },
+    {
+      "word": "simulator",
+      "lemma": "simulator",
+      "level": "B2",
+      "hebrew": "סִימוּלָטוֹר / מְדַמֶּה",
+      "explanation_hebrew": "מַעֲרֶכֶת הַמְּחַקָּה מַצָּב אֲמִתִּי.",
+      "pronunciation_hebrew": "סִימְיוּלֵייטֶר",
+      "example": "The game works like a crime simulator."
+    },
+    {
+      "word": "franchise",
+      "lemma": "franchise",
+      "level": "C1",
+      "hebrew": "זִכָּיוֹן / סִדְרַת מֻצְרִים",
+      "explanation_hebrew": "סִדְרָה מִסְחָרִית שֶׁל מֻצְרִים תַּחַת מוֹתָג אֶחָד.",
+      "pronunciation_hebrew": "פְרַנְצַ'ייז",
+      "example": "GTA is a hugely popular franchise."
+    },
+    {
+      "word": "satirical",
+      "lemma": "satirical",
+      "level": "C1",
+      "hebrew": "סָטִירִי",
+      "explanation_hebrew": "לוֹעֵג לַחֶבְרָה אוֹ לִבְנֵי אָדָם בְּהוּמוֹר בִּקָּרְתִּי.",
+      "pronunciation_hebrew": "סַטִירִיקָל",
+      "example": "The series takes a satirical view of society."
+    },
+    {
+      "word": "receipts",
+      "lemma": "receipt",
+      "level": "B2",
+      "hebrew": "קַבָּלוֹת",
+      "explanation_hebrew": "אִשּׁוּרִים כְּתוּבִים עַל תַּשְׁלוּם שֶׁבֻּצַּע.",
+      "pronunciation_hebrew": "רִיסִיטְס",
+      "example": "The data came from email receipts."
+    },
+    {
+      "word": "statistical",
+      "lemma": "statistical",
+      "level": "B2",
+      "hebrew": "סְטָטִיסְטִי",
+      "explanation_hebrew": "קָשׁוּר לְאִסּוּף וְנִתּוּחַ נְתוּנִים מִסְפָּרִיִּים.",
+      "pronunciation_hebrew": "סְטָטִיסְטִיקָל",
+      "example": "They used statistical sources to track sales."
+    },
+    {
+      "word": "platforms",
+      "lemma": "platform",
+      "level": "B2",
+      "hebrew": "פְּלַטְפוֹרְמוֹת / מַעֲרָכוֹת",
+      "explanation_hebrew": "מַעֲרָכוֹת אוֹ מַכְשִׁירִים שֶׁעֲלֵיהֶם מְרִיצִים תֹּכֶן.",
+      "pronunciation_hebrew": "פְּלַטְפוֹרְמְז",
+      "example": "The game sold across major platforms."
+    },
+    {
+      "word": "inflation",
+      "lemma": "inflation",
+      "level": "B2",
+      "hebrew": "אִינְפְלַצְיָה / הִתְיַקְּרוּת",
+      "explanation_hebrew": "עֲלִיָּה כְּלָלִית וּמְתְמַשֶּׁכֶת בַּמְּחִירִים.",
+      "pronunciation_hebrew": "אִינְפְלֵיישֶׁן",
+      "example": "The figure is adjusted for inflation."
+    },
+    {
+      "word": "multiplayer",
+      "lemma": "multiplayer",
+      "level": "B2",
+      "hebrew": "רַב-מִשְׁתַּתְּפִים",
+      "explanation_hebrew": "מַצָּב מִשְׂחָק שֶׁבּוֹ שַׂחְקָנִים רַבִּים מְשַׂחֲקִים יַחַד.",
+      "pronunciation_hebrew": "מַאלְטִיפְּלֵייֶר",
+      "example": "The multiplayer mode will launch later."
+    },
+    {
+      "word": "revenue",
+      "lemma": "revenue",
+      "level": "B2",
+      "hebrew": "הַכְנָסוֹת / פְּדִיוֹן",
+      "explanation_hebrew": "הַכֶּסֶף שֶׁעֵסֶק מַכְנִיס מִמְּכִירוֹת.",
+      "pronunciation_hebrew": "רֶבֶנְיוּ",
+      "example": "Multiplayer brings in extra revenue."
+    },
+    {
+      "word": "perks",
+      "lemma": "perk",
+      "level": "C1",
+      "hebrew": "הֲטָבוֹת / תּוֹסָפוֹת",
+      "explanation_hebrew": "יִתְרוֹנוֹת אוֹ בּוֹנוּסִים נוֹסָפִים.",
+      "pronunciation_hebrew": "פֶּרְקְס",
+      "example": "Players pay real money for in-game perks."
+    },
+    {
+      "word": "anticipation",
+      "lemma": "anticipation",
+      "level": "C1",
+      "hebrew": "צִפִּיָּה / הַמְתָּנָה דְּרוּכָה",
+      "explanation_hebrew": "תְּחוּשָׁה שֶׁל הִמְתָּנָה נִרְגֶּשֶׁת לְמַשֶּׁהוּ שֶׁיָּבוֹא.",
+      "pronunciation_hebrew": "אַנְטִיסִיפֵּיישֶׁן",
+      "example": "Anticipation for the game was enormous."
+    },
+    {
+      "word": "blockbuster",
+      "lemma": "blockbuster",
+      "level": "B2",
+      "hebrew": "לַהִיט עֲנָק",
+      "explanation_hebrew": "סֶרֶט אוֹ מֻצָּר מַצְלִיחַ מְאוֹד מִבְּחִינָה מִסְחָרִית.",
+      "pronunciation_hebrew": "בְּלוֹקְבַּאסְטֶר",
+      "example": "The blockbuster title broke records."
+    },
+    {
+      "word": "hailed",
+      "lemma": "hail",
+      "level": "C1",
+      "hebrew": "הִלֵּל / זָכָה לְשֶׁבַח",
+      "explanation_hebrew": "שֻׁבַּח מְאוֹד בְּפֻמְבִּי.",
+      "pronunciation_hebrew": "הֵיילְד",
+      "example": "Reviewers hailed it as a masterpiece."
+    },
+    {
+      "word": "censorship",
+      "lemma": "censorship",
+      "level": "C1",
+      "hebrew": "צֶנְזוּרָה",
+      "explanation_hebrew": "פִּקּוּחַ וְהַגְבָּלָה עַל תֹּכֶן הַמֻּתָּר לְפִרְסוּם.",
+      "pronunciation_hebrew": "סֶנְסֶרְשִׁיפ",
+      "example": "The content led to censorship in some countries."
+    },
+    {
+      "word": "excitement",
+      "lemma": "excitement",
+      "level": "B1",
+      "hebrew": "הִתְרַגְּשׁוּת",
+      "explanation_hebrew": "תְּחוּשָׁה חֲזָקָה שֶׁל הֲנָאָה אוֹ עִנְיָן.",
+      "pronunciation_hebrew": "אִיקְסַייטְמֶנְט",
+      "example": "Excitement reached a fever pitch."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "retail",
+      "type": "english_to_hebrew",
+      "question": "What does “retail” mean?",
+      "options": [
+        "אֶמְצָעִי תִּקְשֹׁרֶת / מָדְיוּם",
+        "אוֹמְדָנִים / הַעֲרָכוֹת",
+        "תַּשְׁתִּית",
+        "קִמְעוֹנָאוּת / מְכִירָה לַצַּרְכָן"
+      ],
+      "correct_answer": "קִמְעוֹנָאוּת / מְכִירָה לַצַּרְכָן",
+      "explanation_hebrew": "“retail” פֵּרוּשֹו קִמְעוֹנָאוּת / מְכִירָה לַצַּרְכָן."
+    },
+    {
+      "id": "B-q2",
+      "word": "estimates",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “אוֹמְדָנִים / הַעֲרָכוֹת”?",
+      "options": [
+        "medium",
+        "infrastructure",
+        "estimates",
+        "peaked"
+      ],
+      "correct_answer": "estimates",
+      "explanation_hebrew": "הַמִּלָה “estimates” פֵּרוּשֹו אוֹמְדָנִים / הַעֲרָכוֹת."
+    },
+    {
+      "id": "B-q3",
+      "word": "medium",
+      "type": "english_to_hebrew",
+      "question": "What does “medium” mean?",
+      "options": [
+        "תַּשְׁתִּית",
+        "הִגִּיעַ לְשִׂיא",
+        "אֶמְצָעִי תִּקְשֹׁרֶת / מָדְיוּם",
+        "זִנּוּק חַד"
+      ],
+      "correct_answer": "אֶמְצָעִי תִּקְשֹׁרֶת / מָדְיוּם",
+      "explanation_hebrew": "“medium” פֵּרוּשֹו אֶמְצָעִי תִּקְשֹׁרֶת / מָדְיוּם."
+    },
+    {
+      "id": "B-q4",
+      "word": "infrastructure",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “תַּשְׁתִּית”?",
+      "options": [
+        "surge",
+        "spike",
+        "peaked",
+        "infrastructure"
+      ],
+      "correct_answer": "infrastructure",
+      "explanation_hebrew": "הַמִּלָה “infrastructure” פֵּרוּשֹו תַּשְׁתִּית."
+    },
+    {
+      "id": "B-q5",
+      "word": "peaked",
+      "type": "english_to_hebrew",
+      "question": "What does “peaked” mean?",
+      "options": [
+        "נְהִירָה / גֵּאוּת פִּתְאוֹמִית",
+        "הִגִּיעַ לְשִׂיא",
+        "תְּנוּעָה (בָּרֶשֶׁת)",
+        "זִנּוּק חַד"
+      ],
+      "correct_answer": "הִגִּיעַ לְשִׂיא",
+      "explanation_hebrew": "“peaked” פֵּרוּשֹו הִגִּיעַ לְשִׂיא."
+    },
+    {
+      "id": "B-q6",
+      "word": "spike",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “זִנּוּק חַד”?",
+      "options": [
+        "surge",
+        "predecessor",
+        "traffic",
+        "spike"
+      ],
+      "correct_answer": "spike",
+      "explanation_hebrew": "הַמִּלָה “spike” פֵּרוּשֹו זִנּוּק חַד."
+    },
+    {
+      "id": "B-q7",
+      "word": "surge",
+      "type": "english_to_hebrew",
+      "question": "What does “surge” mean?",
+      "options": [
+        "תְּנוּעָה (בָּרֶשֶׁת)",
+        "נְהִירָה / גֵּאוּת פִּתְאוֹמִית",
+        "חֵלֶק בְּסִדְרָה / מָנָה",
+        "קוֹדֵם / הַגִּרְסָה הַקּוֹדֶמֶת"
+      ],
+      "correct_answer": "נְהִירָה / גֵּאוּת פִּתְאוֹמִית",
+      "explanation_hebrew": "“surge” פֵּרוּשֹו נְהִירָה / גֵּאוּת פִּתְאוֹמִית."
+    },
+    {
+      "id": "B-q8",
+      "word": "traffic",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “תְּנוּעָה (בָּרֶשֶׁת)”?",
+      "options": [
+        "simulator",
+        "instalment",
+        "traffic",
+        "predecessor"
+      ],
+      "correct_answer": "traffic",
+      "explanation_hebrew": "הַמִּלָה “traffic” פֵּרוּשֹו תְּנוּעָה (בָּרֶשֶׁת)."
+    },
+    {
+      "id": "B-q9",
+      "word": "predecessor",
+      "type": "english_to_hebrew",
+      "question": "What does “predecessor” mean?",
+      "options": [
+        "סִימוּלָטוֹר / מְדַמֶּה",
+        "זִכָּיוֹן / סִדְרַת מֻצְרִים",
+        "קוֹדֵם / הַגִּרְסָה הַקּוֹדֶמֶת",
+        "חֵלֶק בְּסִדְרָה / מָנָה"
+      ],
+      "correct_answer": "קוֹדֵם / הַגִּרְסָה הַקּוֹדֶמֶת",
+      "explanation_hebrew": "“predecessor” פֵּרוּשֹו קוֹדֵם / הַגִּרְסָה הַקּוֹדֶמֶת."
+    },
+    {
+      "id": "B-q10",
+      "word": "instalment",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “חֵלֶק בְּסִדְרָה / מָנָה”?",
+      "options": [
+        "franchise",
+        "instalment",
+        "simulator",
+        "satirical"
+      ],
+      "correct_answer": "instalment",
+      "explanation_hebrew": "הַמִּלָה “instalment” פֵּרוּשֹו חֵלֶק בְּסִדְרָה / מָנָה."
+    },
+    {
+      "id": "B-q11",
+      "word": "simulator",
+      "type": "english_to_hebrew",
+      "question": "What does “simulator” mean?",
+      "options": [
+        "קַבָּלוֹת",
+        "זִכָּיוֹן / סִדְרַת מֻצְרִים",
+        "סָטִירִי",
+        "סִימוּלָטוֹר / מְדַמֶּה"
+      ],
+      "correct_answer": "סִימוּלָטוֹר / מְדַמֶּה",
+      "explanation_hebrew": "“simulator” פֵּרוּשֹו סִימוּלָטוֹר / מְדַמֶּה."
+    },
+    {
+      "id": "B-q12",
+      "word": "franchise",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “זִכָּיוֹן / סִדְרַת מֻצְרִים”?",
+      "options": [
+        "satirical",
+        "statistical",
+        "receipts",
+        "franchise"
+      ],
+      "correct_answer": "franchise",
+      "explanation_hebrew": "הַמִּלָה “franchise” פֵּרוּשֹו זִכָּיוֹן / סִדְרַת מֻצְרִים."
+    },
+    {
+      "id": "B-q13",
+      "word": "satirical",
+      "type": "english_to_hebrew",
+      "question": "What does “satirical” mean?",
+      "options": [
+        "סָטִירִי",
+        "פְּלַטְפוֹרְמוֹת / מַעֲרָכוֹת",
+        "קַבָּלוֹת",
+        "סְטָטִיסְטִי"
+      ],
+      "correct_answer": "סָטִירִי",
+      "explanation_hebrew": "“satirical” פֵּרוּשֹו סָטִירִי."
+    },
+    {
+      "id": "B-q14",
+      "word": "receipts",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “קַבָּלוֹת”?",
+      "options": [
+        "inflation",
+        "platforms",
+        "statistical",
+        "receipts"
+      ],
+      "correct_answer": "receipts",
+      "explanation_hebrew": "הַמִּלָה “receipts” פֵּרוּשֹו קַבָּלוֹת."
+    },
+    {
+      "id": "B-q15",
+      "word": "statistical",
+      "type": "english_to_hebrew",
+      "question": "What does “statistical” mean?",
+      "options": [
+        "אִינְפְלַצְיָה / הִתְיַקְּרוּת",
+        "סְטָטִיסְטִי",
+        "רַב-מִשְׁתַּתְּפִים",
+        "פְּלַטְפוֹרְמוֹת / מַעֲרָכוֹת"
+      ],
+      "correct_answer": "סְטָטִיסְטִי",
+      "explanation_hebrew": "“statistical” פֵּרוּשֹו סְטָטִיסְטִי."
+    },
+    {
+      "id": "B-q16",
+      "word": "platforms",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “פְּלַטְפוֹרְמוֹת / מַעֲרָכוֹת”?",
+      "options": [
+        "platforms",
+        "inflation",
+        "revenue",
+        "multiplayer"
+      ],
+      "correct_answer": "platforms",
+      "explanation_hebrew": "הַמִּלָה “platforms” פֵּרוּשֹו פְּלַטְפוֹרְמוֹת / מַעֲרָכוֹת."
+    },
+    {
+      "id": "B-q17",
+      "word": "inflation",
+      "type": "english_to_hebrew",
+      "question": "What does “inflation” mean?",
+      "options": [
+        "הַכְנָסוֹת / פְּדִיוֹן",
+        "רַב-מִשְׁתַּתְּפִים",
+        "הֲטָבוֹת / תּוֹסָפוֹת",
+        "אִינְפְלַצְיָה / הִתְיַקְּרוּת"
+      ],
+      "correct_answer": "אִינְפְלַצְיָה / הִתְיַקְּרוּת",
+      "explanation_hebrew": "“inflation” פֵּרוּשֹו אִינְפְלַצְיָה / הִתְיַקְּרוּת."
+    },
+    {
+      "id": "B-q18",
+      "word": "multiplayer",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “רַב-מִשְׁתַּתְּפִים”?",
+      "options": [
+        "anticipation",
+        "revenue",
+        "perks",
+        "multiplayer"
+      ],
+      "correct_answer": "multiplayer",
+      "explanation_hebrew": "הַמִּלָה “multiplayer” פֵּרוּשֹו רַב-מִשְׁתַּתְּפִים."
+    },
+    {
+      "id": "B-q19",
+      "word": "revenue",
+      "type": "english_to_hebrew",
+      "question": "What does “revenue” mean?",
+      "options": [
+        "לַהִיט עֲנָק",
+        "צִפִּיָּה / הַמְתָּנָה דְּרוּכָה",
+        "הַכְנָסוֹת / פְּדִיוֹן",
+        "הֲטָבוֹת / תּוֹסָפוֹת"
+      ],
+      "correct_answer": "הַכְנָסוֹת / פְּדִיוֹן",
+      "explanation_hebrew": "“revenue” פֵּרוּשֹו הַכְנָסוֹת / פְּדִיוֹן."
+    },
+    {
+      "id": "B-q20",
+      "word": "perks",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “הֲטָבוֹת / תּוֹסָפוֹת”?",
+      "options": [
+        "anticipation",
+        "perks",
+        "hailed",
+        "blockbuster"
+      ],
+      "correct_answer": "perks",
+      "explanation_hebrew": "הַמִּלָה “perks” פֵּרוּשֹו הֲטָבוֹת / תּוֹסָפוֹת."
+    },
+    {
+      "id": "B-q21",
+      "word": "anticipation",
+      "type": "english_to_hebrew",
+      "question": "What does “anticipation” mean?",
+      "options": [
+        "צִפִּיָּה / הַמְתָּנָה דְּרוּכָה",
+        "לַהִיט עֲנָק",
+        "הִלֵּל / זָכָה לְשֶׁבַח",
+        "צֶנְזוּרָה"
+      ],
+      "correct_answer": "צִפִּיָּה / הַמְתָּנָה דְּרוּכָה",
+      "explanation_hebrew": "“anticipation” פֵּרוּשֹו צִפִּיָּה / הַמְתָּנָה דְּרוּכָה."
+    },
+    {
+      "id": "B-q22",
+      "word": "blockbuster",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “לַהִיט עֲנָק”?",
+      "options": [
+        "excitement",
+        "hailed",
+        "censorship",
+        "blockbuster"
+      ],
+      "correct_answer": "blockbuster",
+      "explanation_hebrew": "הַמִּלָה “blockbuster” פֵּרוּשֹו לַהִיט עֲנָק."
+    },
+    {
+      "id": "B-q23",
+      "word": "hailed",
+      "type": "english_to_hebrew",
+      "question": "What does “hailed” mean?",
+      "options": [
+        "קִמְעוֹנָאוּת / מְכִירָה לַצַּרְכָן",
+        "הִלֵּל / זָכָה לְשֶׁבַח",
+        "הִתְרַגְּשׁוּת",
+        "צֶנְזוּרָה"
+      ],
+      "correct_answer": "הִלֵּל / זָכָה לְשֶׁבַח",
+      "explanation_hebrew": "“hailed” פֵּרוּשֹו הִלֵּל / זָכָה לְשֶׁבַח."
+    },
+    {
+      "id": "B-q24",
+      "word": "censorship",
+      "type": "hebrew_to_english",
+      "question": "What is the English word for “צֶנְזוּרָה”?",
+      "options": [
+        "excitement",
+        "estimates",
+        "retail",
+        "censorship"
+      ],
+      "correct_answer": "censorship",
+      "explanation_hebrew": "הַמִּלָה “censorship” פֵּרוּשֹו צֶנְזוּרָה."
+    },
+    {
+      "id": "B-q25",
+      "word": "excitement",
+      "type": "english_to_hebrew",
+      "question": "What does “excitement” mean?",
+      "options": [
+        "קִמְעוֹנָאוּת / מְכִירָה לַצַּרְכָן",
+        "הִתְרַגְּשׁוּת",
+        "אֶמְצָעִי תִּקְשֹׁרֶת / מָדְיוּם",
+        "אוֹמְדָנִים / הַעֲרָכוֹת"
+      ],
+      "correct_answer": "הִתְרַגְּשׁוּת",
+      "explanation_hebrew": "“excitement” פֵּרוּשֹו הִתְרַגְּשׁוּת."
+    }
+  ]
+}
