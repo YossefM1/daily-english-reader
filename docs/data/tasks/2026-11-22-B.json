@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-22",
+  "article_id": "B",
+  "article_title": "Job ghosting: What applicants can do if employers do not respond",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central problem does the article examine?",
+      "difficulty": "B",
+      "options": [
+        "Employers refusing to advertise vacancies",
+        "Universities ending marketing degrees",
+        "Job applicants being ignored without responses or useful feedback",
+        "Young people declining all interview offers"
+      ],
+      "correct_answer": "Job applicants being ignored without responses or useful feedback",
+      "explanation_hebrew": "הכתבה עוסקת ב־job ghosting: מועמדים שאינם מקבלים תשובה או משוב ממעסיקים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Alan Milburn recommend large employers do?",
+      "difficulty": "B",
+      "options": [
+        "Interview every applicant under 25",
+        "Stop using online applications",
+        "Give meaningful feedback to all unsuccessful applicants under 25",
+        "Hire only people who are not in education"
+      ],
+      "correct_answer": "Give meaningful feedback to all unsuccessful applicants under 25",
+      "explanation_hebrew": "מילברן הציע שמעסיקים גדולים ייתנו משוב משמעותי לכל מועמד מתחת לגיל 25 שלא התקבל."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did research by Robert Walters find?",
+      "difficulty": "B",
+      "options": [
+        "Half of employers had stopped recruiting",
+        "86% of UK job hunters said an application had been ignored with no response",
+        "Most applicants received detailed interview notes",
+        "Only graduates experienced job ghosting"
+      ],
+      "correct_answer": "86% of UK job hunters said an application had been ignored with no response",
+      "explanation_hebrew": "המחקר מצא ש־86% ממחפשי העבודה בבריטניה דיווחו שבקשות שלהם נענו בשתיקה."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "In the article, what does the phrase “wall of silence” suggest?",
+      "difficulty": "B",
+      "options": [
+        "A legal ban on speaking at interviews",
+        "A quiet office building",
+        "A short pause before a decision",
+        "A persistent lack of communication that gives applicants nothing to learn from"
+      ],
+      "correct_answer": "A persistent lack of communication that gives applicants nothing to learn from",
+      "explanation_hebrew": "הביטוי מתאר היעדר מתמשך של תגובה מצד המעסיקים, כך שלמועמדים אין ממה ללמוד."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What practical advice does career coach Meg Burton give applicants?",
+      "difficulty": "B",
+      "options": [
+        "Tailor each CV to the job instead of sending many identical applications",
+        "Use AI to submit as many identical applications as possible",
+        "Avoid applying for roles with interviews",
+        "Take every unanswered application personally"
+      ],
+      "correct_answer": "Tailor each CV to the job instead of sending many identical applications",
+      "explanation_hebrew": "ברטון ממליצה להתאים את קורות החיים לכל משרה ולא לשלוח מאות בקשות זהות."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might AI make job ghosting worse, according to the article?",
+      "difficulty": "B",
+      "options": [
+        "AI prevents companies from reading CVs",
+        "AI removes all graduate vacancies",
+        "AI helps candidates send very large numbers of applications, increasing employers' workload",
+        "AI automatically rejects every applicant under 25"
+      ],
+      "correct_answer": "AI helps candidates send very large numbers of applications, increasing employers' workload",
+      "explanation_hebrew": "הכתבה מסבירה ש־AI מאפשר לשלוח מספר עצום של בקשות, ולכן מעסיקים מוצפים וקשה להם להשיב לכולן."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Compare the experiences of Yugraj Samrai and Ffion Johns.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שיוגראג' שלח מאות בקשות ולא קיבל תשובה ב־30–40% מהמקרים, ואילו פיון שלחה 70 בקשות לפני ראיון ראשון וגם נותרה ללא תשובה אחרי ראיונות.",
+      "expected_points": [
+        "Yugraj submitted hundreds of applications and heard nothing 30–40% of the time.",
+        "Ffion submitted 70 applications before getting an interview.",
+        "Ffion also experienced silence after interviews and wanted feedback to improve."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why does constructive feedback matter to the young applicants quoted in the article?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שמשוב מכיר בזמן ובמאמץ שהושקעו, מאפשר לזהות בעיות ולשפר בקשות עתידיות, ומפחית תחושת חוסר אנושיות.",
+      "expected_points": [
+        "It recognises the time and emotional effort applicants invest.",
+        "It tells them what went wrong and what they can improve.",
+        "It can reduce the feeling of being treated like a statistic rather than a person."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences evaluating whether employers should respond differently after an application and after an interview.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להבחין בין הודעת דחייה בסיסית לכל מועמד לבין משוב מפורט יותר למי שהגיע לראיון, ולהתייחס לעומס הבקשות.",
+      "expected_points": [
+        "All applicants should at least receive a clear success or rejection message.",
+        "Interviewed candidates should receive specific pointers because they invested more time.",
+        "Employers face high application volumes, so detailed feedback for every initial application may be difficult.",
+        "Automation or AI could help send basic responses without replacing thoughtful interview feedback."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the causes, effects and proposed responses to job ghosting in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול עומס בקשות ושימוש ב־AI, פגיעה בביטחון המועמדים, המלצת מילברן, עצות ברטון למעסיקים ולמועמדים.",
+      "expected_points": [
+        "Competitive recruitment and AI-assisted mass applications can overwhelm employers.",
+        "Silence leaves applicants demoralised and unable to learn from rejection.",
+        "Milburn proposed meaningful feedback for unsuccessful applicants under 25 at large employers.",
+        "Career advisers say firms should at least notify candidates and give interview feedback.",
+        "Applicants can tailor their CVs and avoid taking silence as a judgment of their worth."
+      ]
+    }
+  ]
+}
