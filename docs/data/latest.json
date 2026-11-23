@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Job ghosting: What applicants can do if employers do not respond",
+  "title": "Energy bills will soar - here's how you can ease the pain",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
-  "published_at": "2026-11-22T00:04:07+00:00",
-  "age_hours_at_selection": 2.16,
-  "word_count": 728,
-  "generated_at": "2026-11-22T02:13:29.072734+00:00",
-  "difficulty_reason": "כתבה עיתונאית בהירה עם משפטים באורך בינוני וציטוטים; נושא תעסוקה מוכר עם אוצר מילים B1/B2/C1.",
+  "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-23T01:05:07+00:00",
+  "age_hours_at_selection": 1.14,
+  "word_count": 776,
+  "generated_at": "2026-11-23T02:13:46.460626+00:00",
+  "difficulty_reason": "Practical consumer guide with clear structure but denser detail; useful B1/B2/C1 vocabulary about energy, money and billing.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "demoralised",
-      "lemma": "demoralise",
+      "word": "soar",
+      "lemma": "soar",
+      "level": "B2",
+      "hebrew": "לְהַמְרִיא / לַעֲלוֹת בְּחַדּוּת",
+      "explanation_hebrew": "לעלות מהר ובחוזקה",
+      "pronunciation_hebrew": "סוֹאר",
+      "example": "Energy prices are expected to soar this winter."
+    },
+    {
+      "word": "forecast",
+      "lemma": "forecast",
+      "level": "B2",
+      "hebrew": "תַּחֲזִית / לַחֲזוֹת",
+      "explanation_hebrew": "תחזית לגבי מה שיקרה",
+      "pronunciation_hebrew": "פוֹרְקַאסְט",
+      "example": "Experts forecast a rise in gas prices."
+    },
+    {
+      "word": "regulator",
+      "lemma": "regulator",
       "level": "C1",
-      "hebrew": "מיואש / שבור רוח",
-      "explanation_hebrew": "איבד ביטחון ומוטיבציה",
-      "pronunciation_hebrew": "דִימוֹרַלַייזְד",
-      "example": "The team felt demoralised after losing."
+      "hebrew": "רְגוּלָטוֹר / גּוּף מְפַקֵּחַ",
+      "explanation_hebrew": "גוף רשמי שמפקח על תחום",
+      "pronunciation_hebrew": "רֶגְיוּלֵייטוֹר",
+      "example": "The energy regulator set a limit on prices."
     },
     {
-      "word": "denting",
-      "lemma": "dent",
+      "word": "suppliers",
+      "lemma": "supplier",
+      "level": "B1",
+      "hebrew": "סַפָּקִים",
+      "explanation_hebrew": "חברות שמספקות מוצר או שירות",
+      "pronunciation_hebrew": "סַפְּלַייֶרְז",
+      "example": "Several suppliers offer fixed-price deals."
+    },
+    {
+      "word": "consumption",
+      "lemma": "consumption",
+      "level": "B2",
+      "hebrew": "צְרִיכָה",
+      "explanation_hebrew": "הכמות שמשתמשים בה",
+      "pronunciation_hebrew": "קוֹנְסַמְפְּשֶׁן",
+      "example": "They cut their energy consumption to save money."
+    },
+    {
+      "word": "efficiently",
+      "lemma": "efficiently",
+      "level": "B2",
+      "hebrew": "בְּיָעִילוּת",
+      "explanation_hebrew": "בצורה שחוסכת זמן או אנרגיה",
+      "pronunciation_hebrew": "אִיפִישֶׁנְטְלִי",
+      "example": "The boiler works more efficiently at a lower setting."
+    },
+    {
+      "word": "thermostat",
+      "lemma": "thermostat",
+      "level": "B2",
+      "hebrew": "תֶּרְמוֹסְטָט",
+      "explanation_hebrew": "מכשיר ששולט בטמפרטורה",
+      "pronunciation_hebrew": "תֶ'רְמוֹסְטָט",
+      "example": "Turn the thermostat down one degree to save energy."
+    },
+    {
+      "word": "recommended",
+      "lemma": "recommend",
+      "level": "B1",
+      "hebrew": "מוּמְלָץ",
+      "explanation_hebrew": "שמציעים אותו כבחירה טובה",
+      "pronunciation_hebrew": "רֶקוֹמֶנְדֶד",
+      "example": "The recommended minimum temperature is 18 degrees."
+    },
+    {
+      "word": "valves",
+      "lemma": "valve",
+      "level": "B2",
+      "hebrew": "בָּרָזִים / שַׁסְתּוֹמִים",
+      "explanation_hebrew": "התקנים ששולטים בזרימה",
+      "pronunciation_hebrew": "וַלְבְז",
+      "example": "Lower the radiator valves in empty rooms."
+    },
+    {
+      "word": "draughts",
+      "lemma": "draught",
       "level": "C1",
-      "hebrew": "פוגע ב / שוחק",
-      "explanation_hebrew": "מחליש בהדרגה משהו",
-      "pronunciation_hebrew": "דֶנְטִינְג",
-      "example": "The failure was denting his confidence."
+      "hebrew": "רוּחוֹת פֶּרֶץ",
+      "explanation_hebrew": "אוויר קר שנכנס דרך סדקים",
+      "pronunciation_hebrew": "דְרַאפְטְס",
+      "example": "Blocking draughts keeps the house warmer."
     },
     {
-      "word": "undermining",
-      "lemma": "undermine",
+      "word": "estimate",
+      "lemma": "estimate",
+      "level": "B1",
+      "hebrew": "הַעֲרָכָה / אוֹמְדָן",
+      "explanation_hebrew": "חישוב מקורב של כמות",
+      "pronunciation_hebrew": "אֶסְטִימֶט",
+      "example": "The first bill was based on an estimate."
+    },
+    {
+      "word": "readings",
+      "lemma": "reading",
+      "level": "B1",
+      "hebrew": "קְרִיאוֹת / מְדִידוֹת",
+      "explanation_hebrew": "מספרים שנמדדים ממכשיר",
+      "pronunciation_hebrew": "רִידִינְגְז",
+      "example": "Take regular meter readings to avoid estimates."
+    },
+    {
+      "word": "significantly",
+      "lemma": "significantly",
+      "level": "B2",
+      "hebrew": "בְּאוֹפֶן מַשְׁמָעוּתִי",
+      "explanation_hebrew": "במידה שראוי לשים לב אליה",
+      "pronunciation_hebrew": "סִיגְנִיפִיקַנְטְלִי",
+      "example": "Direct debit is significantly cheaper."
+    },
+    {
+      "word": "typically",
+      "lemma": "typically",
+      "level": "B2",
+      "hebrew": "בְּדֶרֶךְ כְּלָל",
+      "explanation_hebrew": "באופן שקורה לרוב",
+      "pronunciation_hebrew": "טִיפִּיקְלִי",
+      "example": "Fixed deals typically cost a little more."
+    },
+    {
+      "word": "prepayment",
+      "lemma": "prepayment",
       "level": "C1",
-      "hebrew": "מערער / חותר תחת",
-      "explanation_hebrew": "מחליש משהו בצורה סמויה",
-      "pronunciation_hebrew": "אַנְדֶרְמַיְנִינְג",
-      "example": "Gossip was undermining their trust."
+      "hebrew": "תַּשְׁלוּם מֵרֹאשׁ",
+      "explanation_hebrew": "תשלום שמשלמים לפני השימוש",
+      "pronunciation_hebrew": "פְּרִיפֵּייְמֶנְט",
+      "example": "People on prepayment schemes pay before they use energy."
     },
     {
-      "word": "recommendations",
-      "lemma": "recommendation",
+      "word": "capped",
+      "lemma": "cap",
       "level": "B2",
-      "hebrew": "המלצות",
-      "explanation_hebrew": "הצעות על מה כדאי לעשות",
-      "pronunciation_hebrew": "רֶקוֹמֶנְדֵיישֶׁנְז",
-      "example": "The report made several recommendations."
+      "hebrew": "מֻגְבָּל בְּתִקְרָה",
+      "explanation_hebrew": "שיש לו גבול עליון",
+      "pronunciation_hebrew": "קַאפְּט",
+      "example": "The capped rate cannot rise above a set level."
     },
     {
-      "word": "proposed",
-      "lemma": "propose",
+      "word": "variable",
+      "lemma": "variable",
       "level": "B2",
-      "hebrew": "הציע",
-      "explanation_hebrew": "העלה רעיון או תוכנית לדיון",
-      "pronunciation_hebrew": "פְּרוֹפּוֹזְד",
-      "example": "She proposed a new plan."
+      "hebrew": "מִשְׁתַּנֶּה",
+      "explanation_hebrew": "שיכול להשתנות מעת לעת",
+      "pronunciation_hebrew": "וֶרְיֶבְּל",
+      "example": "The variable rate changes every three months."
     },
     {
-      "word": "unsuccessful",
-      "lemma": "unsuccessful",
+      "word": "tariff",
+      "lemma": "tariff",
+      "level": "B2",
+      "hebrew": "תַּעֲרִיף",
+      "explanation_hebrew": "מחיר קבוע עבור שירות",
+      "pronunciation_hebrew": "טַרִיף",
+      "example": "She switched to a cheaper energy tariff."
+    },
+    {
+      "word": "charged",
+      "lemma": "charge",
       "level": "B1",
-      "hebrew": "לא מוצלח / כושל",
-      "explanation_hebrew": "שלא השיג את מטרתו",
-      "pronunciation_hebrew": "אַנְסַקְסֶסְפוּל",
-      "example": "His application was unsuccessful."
+      "hebrew": "חוּיַּב / גָּבוּ מִמֶּנּוּ",
+      "explanation_hebrew": "נדרש לשלם סכום מסוים",
+      "pronunciation_hebrew": "צַ'אַרְגְ'ד",
+      "example": "You are charged per unit of electricity."
     },
     {
-      "word": "meaningful",
-      "lemma": "meaningful",
+      "word": "sharply",
+      "lemma": "sharply",
       "level": "B2",
-      "hebrew": "משמעותי",
-      "explanation_hebrew": "בעל ערך או חשיבות אמיתית",
-      "pronunciation_hebrew": "מִינִינְגְפוּל",
-      "example": "They had a meaningful conversation."
+      "hebrew": "בְּחַדּוּת",
+      "explanation_hebrew": "בצורה מהירה וגדולה",
+      "pronunciation_hebrew": "שַׁארְפְּלִי",
+      "example": "If prices fall sharply, a fixed deal may be worse."
     },
     {
-      "word": "realistic",
-      "lemma": "realistic",
-      "level": "B2",
-      "hebrew": "מציאותי",
-      "explanation_hebrew": "הגיוני וניתן לביצוע",
-      "pronunciation_hebrew": "רִיאָלִיסְטִיק",
-      "example": "Set realistic goals for yourself."
-    },
-    {
-      "word": "vast",
-      "lemma": "vast",
-      "level": "B2",
-      "hebrew": "עצום / נרחב",
-      "explanation_hebrew": "גדול מאוד בגודל או בכמות",
-      "pronunciation_hebrew": "וָאסְט",
-      "example": "A vast desert stretched before them."
-    },
-    {
-      "word": "submitted",
-      "lemma": "submit",
-      "level": "B2",
-      "hebrew": "הגיש",
-      "explanation_hebrew": "מסר מסמך או בקשה לבדיקה",
-      "pronunciation_hebrew": "סַבְּמִיטֶד",
-      "example": "He submitted the form on time."
-    },
-    {
-      "word": "graduated",
-      "lemma": "graduate",
-      "level": "B1",
-      "hebrew": "סיים לימודים",
-      "explanation_hebrew": "קיבל תואר בסיום מוסד לימודים",
-      "pronunciation_hebrew": "גְרַדְג'וּאֵייטֶד",
-      "example": "She graduated from university last year."
-    },
-    {
-      "word": "statistic",
-      "lemma": "statistic",
-      "level": "B2",
-      "hebrew": "נתון סטטיסטי",
-      "explanation_hebrew": "מספר שמייצג מידע על קבוצה",
-      "pronunciation_hebrew": "סְטָטִיסְטִיק",
-      "example": "He felt like just a statistic, not a person."
-    },
-    {
-      "word": "rejection",
-      "lemma": "rejection",
-      "level": "B2",
-      "hebrew": "דחייה",
-      "explanation_hebrew": "אי-קבלה של בקשה או אדם",
-      "pronunciation_hebrew": "רִיגֶ'קְשֶׁן",
-      "example": "She handled the rejection well."
-    },
-    {
-      "word": "frustrating",
-      "lemma": "frustrating",
-      "level": "B1",
-      "hebrew": "מתסכל",
-      "explanation_hebrew": "גורם לתחושת כעס או חוסר אונים",
-      "pronunciation_hebrew": "פְרַסְטְרֵייטִינְג",
-      "example": "The delay was very frustrating."
-    },
-    {
-      "word": "ignored",
-      "lemma": "ignore",
-      "level": "B1",
-      "hebrew": "התעלם מ",
-      "explanation_hebrew": "לא שם לב בכוונה",
-      "pronunciation_hebrew": "אִיגְנוֹרְד",
-      "example": "They ignored his advice."
-    },
-    {
-      "word": "silence",
-      "lemma": "silence",
-      "level": "B1",
-      "hebrew": "שתיקה / דממה",
-      "explanation_hebrew": "היעדר קול או תגובה",
-      "pronunciation_hebrew": "סַיְלֶנְס",
-      "example": "There was a long, awkward silence."
-    },
-    {
-      "word": "investment",
-      "lemma": "investment",
-      "level": "B2",
-      "hebrew": "השקעה",
-      "explanation_hebrew": "הכנסת זמן, מאמץ או כסף לתועלת עתידית",
-      "pronunciation_hebrew": "אִינְבֶסְטְמֶנְט",
-      "example": "Education is an investment in the future."
-    },
-    {
-      "word": "competitive",
-      "lemma": "competitive",
-      "level": "B2",
-      "hebrew": "תחרותי",
-      "explanation_hebrew": "שיש בו תחרות חזקה",
-      "pronunciation_hebrew": "קוֹמְפֶּטִיטִיב",
-      "example": "The job market is very competitive."
-    },
-    {
-      "word": "flooded",
-      "lemma": "flood",
-      "level": "B2",
-      "hebrew": "הוצף",
-      "explanation_hebrew": "קיבל כמות גדולה מאוד בבת אחת",
-      "pronunciation_hebrew": "פְלַאדֶד",
-      "example": "The office was flooded with emails."
-    },
-    {
-      "word": "enabling",
-      "lemma": "enable",
-      "level": "B2",
-      "hebrew": "מאפשר",
-      "explanation_hebrew": "נותן את האפשרות לעשות משהו",
-      "pronunciation_hebrew": "אֶנֵייבְּלִינְג",
-      "example": "The app is enabling faster payments."
-    },
-    {
-      "word": "inform",
-      "lemma": "inform",
-      "level": "B1",
-      "hebrew": "ליידע / להודיע",
-      "explanation_hebrew": "למסור מידע למישהו",
-      "pronunciation_hebrew": "אִינְפוֹרְם",
-      "example": "Please inform us of any changes."
-    },
-    {
-      "word": "pointers",
-      "lemma": "pointer",
+      "word": "hefty",
+      "lemma": "hefty",
       "level": "C1",
-      "hebrew": "עצות מכוונות",
-      "explanation_hebrew": "עצות קצרות ושימושיות",
-      "pronunciation_hebrew": "פּוֹיְנְטֶרְז",
-      "example": "She gave me some useful pointers."
+      "hebrew": "כָּבֵד / גָּדוֹל (סְכוּם)",
+      "explanation_hebrew": "גדול מאוד, בעיקר בכסף",
+      "pronunciation_hebrew": "הֶפְטִי",
+      "example": "Leaving early may cost you a hefty fee."
     },
     {
-      "word": "adopt",
-      "lemma": "adopt",
+      "word": "eligible",
+      "lemma": "eligible",
       "level": "B2",
-      "hebrew": "לאמץ",
-      "explanation_hebrew": "לאמץ שיטה, מדיניות או רעיון",
-      "pronunciation_hebrew": "אַדוֹפְּט",
-      "example": "The company may adopt the new policy."
+      "hebrew": "זַכָּאִי",
+      "explanation_hebrew": "שעומד בתנאים לקבל משהו",
+      "pronunciation_hebrew": "אֶלִיגִ'יבְּל",
+      "example": "Low-income households are eligible for support."
     },
     {
-      "word": "constructive",
-      "lemma": "constructive",
-      "level": "B2",
-      "hebrew": "בונה / מועיל",
-      "explanation_hebrew": "ביקורת שעוזרת להשתפר",
-      "pronunciation_hebrew": "קוֹנְסְטְרַקְטִיב",
-      "example": "He gave constructive feedback."
+      "word": "discount",
+      "lemma": "discount",
+      "level": "B1",
+      "hebrew": "הֲנָחָה",
+      "explanation_hebrew": "הפחתה במחיר",
+      "pronunciation_hebrew": "דִיסְקַאוּנְט",
+      "example": "They will apply the discount automatically."
     },
     {
-      "word": "tailoring",
-      "lemma": "tailor",
+      "word": "hardship",
+      "lemma": "hardship",
       "level": "C1",
-      "hebrew": "התאמה אישית",
-      "explanation_hebrew": "התאמה מדויקת לצורך מסוים",
-      "pronunciation_hebrew": "טֵיילֶרִינְג",
-      "example": "Tailoring your CV to each job helps a lot."
+      "hebrew": "מְצוּקָה / קֹשִׁי",
+      "explanation_hebrew": "מצב חיים קשה, בעיקר כלכלי",
+      "pronunciation_hebrew": "הַארְדְשִׁיפּ",
+      "example": "Suppliers offer grants to people in hardship."
+    },
+    {
+      "word": "insulating",
+      "lemma": "insulate",
+      "level": "B2",
+      "hebrew": "בִּידּוּד",
+      "explanation_hebrew": "מניעת בריחת חום מהבית",
+      "pronunciation_hebrew": "אִינְסְיוּלֵייטִינְג",
+      "example": "Insulating your home keeps it warm and cuts bills."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "demoralised",
+      "word": "soar",
       "type": "english_to_hebrew",
-      "question": "What does “demoralised” mean?",
+      "question": "What does “soar” mean?",
       "options": [
-        "מיואש / שבור רוח",
-        "מערער / חותר תחת",
-        "פוגע ב / שוחק",
-        "המלצות"
+        "רְגוּלָטוֹר / גּוּף מְפַקֵּחַ",
+        "לְהַמְרִיא / לַעֲלוֹת בְּחַדּוּת",
+        "סַפָּקִים",
+        "תַּחֲזִית / לַחֲזוֹת"
       ],
-      "correct_answer": "מיואש / שבור רוח",
-      "explanation_hebrew": "demoralised פירושו מיואש / שבור רוח."
+      "correct_answer": "לְהַמְרִיא / לַעֲלוֹת בְּחַדּוּת",
+      "explanation_hebrew": "“soar” פירושו לְהַמְרִיא / לַעֲלוֹת בְּחַדּוּת."
     },
     {
       "id": "B-q2",
-      "word": "denting",
-      "type": "english_to_hebrew",
-      "question": "What does “denting” mean?",
+      "word": "forecast",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תַּחֲזִית / לַחֲזוֹת”?",
       "options": [
-        "מערער / חותר תחת",
-        "פוגע ב / שוחק",
-        "הציע",
-        "המלצות"
+        "forecast",
+        "regulator",
+        "consumption",
+        "suppliers"
       ],
-      "correct_answer": "פוגע ב / שוחק",
-      "explanation_hebrew": "denting פירושו פוגע ב / שוחק."
+      "correct_answer": "forecast",
+      "explanation_hebrew": "המילה “forecast” פירושה תַּחֲזִית / לַחֲזוֹת."
     },
     {
       "id": "B-q3",
-      "word": "undermining",
+      "word": "regulator",
       "type": "english_to_hebrew",
-      "question": "What does “undermining” mean?",
+      "question": "What does “regulator” mean?",
       "options": [
-        "מערער / חותר תחת",
-        "המלצות",
-        "הציע",
-        "לא מוצלח / כושל"
+        "סַפָּקִים",
+        "רְגוּלָטוֹר / גּוּף מְפַקֵּחַ",
+        "צְרִיכָה",
+        "בְּיָעִילוּת"
       ],
-      "correct_answer": "מערער / חותר תחת",
-      "explanation_hebrew": "undermining פירושו מערער / חותר תחת."
+      "correct_answer": "רְגוּלָטוֹר / גּוּף מְפַקֵּחַ",
+      "explanation_hebrew": "“regulator” פירושו רְגוּלָטוֹר / גּוּף מְפַקֵּחַ."
     },
     {
       "id": "B-q4",
-      "word": "recommendations",
-      "type": "english_to_hebrew",
-      "question": "What does “recommendations” mean?",
+      "word": "suppliers",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “סַפָּקִים”?",
       "options": [
-        "משמעותי",
-        "המלצות",
-        "לא מוצלח / כושל",
-        "הציע"
+        "consumption",
+        "efficiently",
+        "thermostat",
+        "suppliers"
       ],
-      "correct_answer": "המלצות",
-      "explanation_hebrew": "recommendations פירושו המלצות."
+      "correct_answer": "suppliers",
+      "explanation_hebrew": "המילה “suppliers” פירושה סַפָּקִים."
     },
     {
       "id": "B-q5",
-      "word": "proposed",
+      "word": "consumption",
       "type": "english_to_hebrew",
-      "question": "What does “proposed” mean?",
+      "question": "What does “consumption” mean?",
       "options": [
-        "הציע",
-        "משמעותי",
-        "לא מוצלח / כושל",
-        "מציאותי"
+        "צְרִיכָה",
+        "תֶּרְמוֹסְטָט",
+        "מוּמְלָץ",
+        "בְּיָעִילוּת"
       ],
-      "correct_answer": "הציע",
-      "explanation_hebrew": "proposed פירושו הציע."
+      "correct_answer": "צְרִיכָה",
+      "explanation_hebrew": "“consumption” פירושו צְרִיכָה."
     },
     {
       "id": "B-q6",
-      "word": "unsuccessful",
-      "type": "english_to_hebrew",
-      "question": "What does “unsuccessful” mean?",
+      "word": "efficiently",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בְּיָעִילוּת”?",
       "options": [
-        "מציאותי",
-        "משמעותי",
-        "עצום / נרחב",
-        "לא מוצלח / כושל"
+        "thermostat",
+        "recommended",
+        "efficiently",
+        "valves"
       ],
-      "correct_answer": "לא מוצלח / כושל",
-      "explanation_hebrew": "unsuccessful פירושו לא מוצלח / כושל."
+      "correct_answer": "efficiently",
+      "explanation_hebrew": "המילה “efficiently” פירושה בְּיָעִילוּת."
     },
     {
       "id": "B-q7",
-      "word": "meaningful",
+      "word": "thermostat",
       "type": "english_to_hebrew",
-      "question": "What does “meaningful” mean?",
+      "question": "What does “thermostat” mean?",
       "options": [
-        "משמעותי",
-        "מציאותי",
-        "הגיש",
-        "עצום / נרחב"
+        "רוּחוֹת פֶּרֶץ",
+        "בָּרָזִים / שַׁסְתּוֹמִים",
+        "תֶּרְמוֹסְטָט",
+        "מוּמְלָץ"
       ],
-      "correct_answer": "משמעותי",
-      "explanation_hebrew": "meaningful פירושו משמעותי."
+      "correct_answer": "תֶּרְמוֹסְטָט",
+      "explanation_hebrew": "“thermostat” פירושו תֶּרְמוֹסְטָט."
     },
     {
       "id": "B-q8",
-      "word": "realistic",
-      "type": "english_to_hebrew",
-      "question": "What does “realistic” mean?",
+      "word": "recommended",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מוּמְלָץ”?",
       "options": [
-        "עצום / נרחב",
-        "הגיש",
-        "סיים לימודים",
-        "מציאותי"
+        "valves",
+        "draughts",
+        "estimate",
+        "recommended"
       ],
-      "correct_answer": "מציאותי",
-      "explanation_hebrew": "realistic פירושו מציאותי."
+      "correct_answer": "recommended",
+      "explanation_hebrew": "המילה “recommended” פירושה מוּמְלָץ."
     },
     {
       "id": "B-q9",
-      "word": "vast",
+      "word": "valves",
       "type": "english_to_hebrew",
-      "question": "What does “vast” mean?",
+      "question": "What does “valves” mean?",
       "options": [
-        "עצום / נרחב",
-        "סיים לימודים",
-        "הגיש",
-        "נתון סטטיסטי"
+        "רוּחוֹת פֶּרֶץ",
+        "בָּרָזִים / שַׁסְתּוֹמִים",
+        "קְרִיאוֹת / מְדִידוֹת",
+        "הַעֲרָכָה / אוֹמְדָן"
       ],
-      "correct_answer": "עצום / נרחב",
-      "explanation_hebrew": "vast פירושו עצום / נרחב."
+      "correct_answer": "בָּרָזִים / שַׁסְתּוֹמִים",
+      "explanation_hebrew": "“valves” פירושו בָּרָזִים / שַׁסְתּוֹמִים."
     },
     {
       "id": "B-q10",
-      "word": "submitted",
-      "type": "english_to_hebrew",
-      "question": "What does “submitted” mean?",
+      "word": "draughts",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רוּחוֹת פֶּרֶץ”?",
       "options": [
-        "נתון סטטיסטי",
-        "דחייה",
-        "הגיש",
-        "סיים לימודים"
+        "estimate",
+        "draughts",
+        "readings",
+        "significantly"
       ],
-      "correct_answer": "הגיש",
-      "explanation_hebrew": "submitted פירושו הגיש."
+      "correct_answer": "draughts",
+      "explanation_hebrew": "המילה “draughts” פירושה רוּחוֹת פֶּרֶץ."
     },
     {
       "id": "B-q11",
-      "word": "graduated",
+      "word": "estimate",
       "type": "english_to_hebrew",
-      "question": "What does “graduated” mean?",
+      "question": "What does “estimate” mean?",
       "options": [
-        "סיים לימודים",
-        "נתון סטטיסטי",
-        "דחייה",
-        "מתסכל"
+        "בְּאוֹפֶן מַשְׁמָעוּתִי",
+        "בְּדֶרֶךְ כְּלָל",
+        "הַעֲרָכָה / אוֹמְדָן",
+        "קְרִיאוֹת / מְדִידוֹת"
       ],
-      "correct_answer": "סיים לימודים",
-      "explanation_hebrew": "graduated פירושו סיים לימודים."
+      "correct_answer": "הַעֲרָכָה / אוֹמְדָן",
+      "explanation_hebrew": "“estimate” פירושו הַעֲרָכָה / אוֹמְדָן."
     },
     {
       "id": "B-q12",
-      "word": "statistic",
-      "type": "english_to_hebrew",
-      "question": "What does “statistic” mean?",
+      "word": "readings",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “קְרִיאוֹת / מְדִידוֹת”?",
       "options": [
-        "התעלם מ",
-        "דחייה",
-        "מתסכל",
-        "נתון סטטיסטי"
+        "prepayment",
+        "readings",
+        "significantly",
+        "typically"
       ],
-      "correct_answer": "נתון סטטיסטי",
-      "explanation_hebrew": "statistic פירושו נתון סטטיסטי."
+      "correct_answer": "readings",
+      "explanation_hebrew": "המילה “readings” פירושה קְרִיאוֹת / מְדִידוֹת."
     },
     {
       "id": "B-q13",
-      "word": "rejection",
+      "word": "significantly",
       "type": "english_to_hebrew",
-      "question": "What does “rejection” mean?",
+      "question": "What does “significantly” mean?",
       "options": [
-        "דחייה",
-        "מתסכל",
-        "שתיקה / דממה",
-        "התעלם מ"
+        "בְּאוֹפֶן מַשְׁמָעוּתִי",
+        "בְּדֶרֶךְ כְּלָל",
+        "תַּשְׁלוּם מֵרֹאשׁ",
+        "מֻגְבָּל בְּתִקְרָה"
       ],
-      "correct_answer": "דחייה",
-      "explanation_hebrew": "rejection פירושו דחייה."
+      "correct_answer": "בְּאוֹפֶן מַשְׁמָעוּתִי",
+      "explanation_hebrew": "“significantly” פירושו בְּאוֹפֶן מַשְׁמָעוּתִי."
     },
     {
       "id": "B-q14",
-      "word": "frustrating",
-      "type": "english_to_hebrew",
-      "question": "What does “frustrating” mean?",
+      "word": "typically",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בְּדֶרֶךְ כְּלָל”?",
       "options": [
-        "התעלם מ",
-        "השקעה",
-        "מתסכל",
-        "שתיקה / דממה"
+        "capped",
+        "typically",
+        "prepayment",
+        "variable"
       ],
-      "correct_answer": "מתסכל",
-      "explanation_hebrew": "frustrating פירושו מתסכל."
+      "correct_answer": "typically",
+      "explanation_hebrew": "המילה “typically” פירושה בְּדֶרֶךְ כְּלָל."
     },
     {
       "id": "B-q15",
-      "word": "ignored",
+      "word": "prepayment",
       "type": "english_to_hebrew",
-      "question": "What does “ignored” mean?",
+      "question": "What does “prepayment” mean?",
       "options": [
-        "תחרותי",
-        "התעלם מ",
-        "שתיקה / דממה",
-        "השקעה"
+        "מִשְׁתַּנֶּה",
+        "תַּעֲרִיף",
+        "תַּשְׁלוּם מֵרֹאשׁ",
+        "מֻגְבָּל בְּתִקְרָה"
       ],
-      "correct_answer": "התעלם מ",
-      "explanation_hebrew": "ignored פירושו התעלם מ."
+      "correct_answer": "תַּשְׁלוּם מֵרֹאשׁ",
+      "explanation_hebrew": "“prepayment” פירושו תַּשְׁלוּם מֵרֹאשׁ."
     },
     {
       "id": "B-q16",
-      "word": "silence",
-      "type": "english_to_hebrew",
-      "question": "What does “silence” mean?",
+      "word": "capped",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מֻגְבָּל בְּתִקְרָה”?",
       "options": [
-        "שתיקה / דממה",
-        "הוצף",
-        "השקעה",
-        "תחרותי"
+        "tariff",
+        "capped",
+        "variable",
+        "charged"
       ],
-      "correct_answer": "שתיקה / דממה",
-      "explanation_hebrew": "silence פירושו שתיקה / דממה."
+      "correct_answer": "capped",
+      "explanation_hebrew": "המילה “capped” פירושה מֻגְבָּל בְּתִקְרָה."
     },
     {
       "id": "B-q17",
-      "word": "investment",
+      "word": "variable",
       "type": "english_to_hebrew",
-      "question": "What does “investment” mean?",
+      "question": "What does “variable” mean?",
       "options": [
-        "מאפשר",
-        "תחרותי",
-        "השקעה",
-        "הוצף"
+        "מִשְׁתַּנֶּה",
+        "חוּיַּב / גָּבוּ מִמֶּנּוּ",
+        "תַּעֲרִיף",
+        "בְּחַדּוּת"
       ],
-      "correct_answer": "השקעה",
-      "explanation_hebrew": "investment פירושו השקעה."
+      "correct_answer": "מִשְׁתַּנֶּה",
+      "explanation_hebrew": "“variable” פירושו מִשְׁתַּנֶּה."
     },
     {
       "id": "B-q18",
-      "word": "competitive",
-      "type": "english_to_hebrew",
-      "question": "What does “competitive” mean?",
+      "word": "tariff",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “תַּעֲרִיף”?",
       "options": [
-        "תחרותי",
-        "ליידע / להודיע",
-        "מאפשר",
-        "הוצף"
+        "tariff",
+        "hefty",
+        "charged",
+        "sharply"
       ],
-      "correct_answer": "תחרותי",
-      "explanation_hebrew": "competitive פירושו תחרותי."
+      "correct_answer": "tariff",
+      "explanation_hebrew": "המילה “tariff” פירושה תַּעֲרִיף."
     },
     {
       "id": "B-q19",
-      "word": "flooded",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “הוצף”?",
+      "word": "charged",
+      "type": "english_to_hebrew",
+      "question": "What does “charged” mean?",
       "options": [
-        "inform",
-        "pointers",
-        "enabling",
-        "flooded"
+        "זַכָּאִי",
+        "כָּבֵד / גָּדוֹל (סְכוּם)",
+        "בְּחַדּוּת",
+        "חוּיַּב / גָּבוּ מִמֶּנּוּ"
       ],
-      "correct_answer": "flooded",
-      "explanation_hebrew": "המילה הנכונה היא flooded (הוצף)."
+      "correct_answer": "חוּיַּב / גָּבוּ מִמֶּנּוּ",
+      "explanation_hebrew": "“charged” פירושו חוּיַּב / גָּבוּ מִמֶּנּוּ."
     },
     {
       "id": "B-q20",
-      "word": "enabling",
+      "word": "sharply",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “מאפשר”?",
+      "question": "איזו מילה באנגלית פירושה “בְּחַדּוּת”?",
       "options": [
-        "pointers",
-        "inform",
-        "enabling",
-        "adopt"
+        "sharply",
+        "hefty",
+        "eligible",
+        "discount"
       ],
-      "correct_answer": "enabling",
-      "explanation_hebrew": "המילה הנכונה היא enabling (מאפשר)."
+      "correct_answer": "sharply",
+      "explanation_hebrew": "המילה “sharply” פירושה בְּחַדּוּת."
     },
     {
       "id": "B-q21",
-      "word": "inform",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “ליידע / להודיע”?",
+      "word": "hefty",
+      "type": "english_to_hebrew",
+      "question": "What does “hefty” mean?",
       "options": [
-        "inform",
-        "pointers",
-        "adopt",
-        "constructive"
+        "מְצוּקָה / קֹשִׁי",
+        "הֲנָחָה",
+        "זַכָּאִי",
+        "כָּבֵד / גָּדוֹל (סְכוּם)"
       ],
-      "correct_answer": "inform",
-      "explanation_hebrew": "המילה הנכונה היא inform (ליידע / להודיע)."
+      "correct_answer": "כָּבֵד / גָּדוֹל (סְכוּם)",
+      "explanation_hebrew": "“hefty” פירושו כָּבֵד / גָּדוֹל (סְכוּם)."
     },
     {
       "id": "B-q22",
-      "word": "pointers",
+      "word": "eligible",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “עצות מכוונות”?",
+      "question": "איזו מילה באנגלית פירושה “זַכָּאִי”?",
       "options": [
-        "tailoring",
-        "pointers",
-        "adopt",
-        "constructive"
+        "insulating",
+        "eligible",
+        "hardship",
+        "discount"
       ],
-      "correct_answer": "pointers",
-      "explanation_hebrew": "המילה הנכונה היא pointers (עצות מכוונות)."
+      "correct_answer": "eligible",
+      "explanation_hebrew": "המילה “eligible” פירושה זַכָּאִי."
     },
     {
       "id": "B-q23",
-      "word": "adopt",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “לאמץ”?",
+      "word": "discount",
+      "type": "english_to_hebrew",
+      "question": "What does “discount” mean?",
       "options": [
-        "constructive",
-        "adopt",
-        "demoralised",
-        "tailoring"
+        "לְהַמְרִיא / לַעֲלוֹת בְּחַדּוּת",
+        "הֲנָחָה",
+        "מְצוּקָה / קֹשִׁי",
+        "בִּידּוּד"
       ],
-      "correct_answer": "adopt",
-      "explanation_hebrew": "המילה הנכונה היא adopt (לאמץ)."
+      "correct_answer": "הֲנָחָה",
+      "explanation_hebrew": "“discount” פירושו הֲנָחָה."
     },
     {
       "id": "B-q24",
-      "word": "constructive",
+      "word": "hardship",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “בונה / מועיל”?",
+      "question": "איזו מילה באנגלית פירושה “מְצוּקָה / קֹשִׁי”?",
       "options": [
-        "tailoring",
-        "denting",
-        "demoralised",
-        "constructive"
+        "soar",
+        "insulating",
+        "forecast",
+        "hardship"
       ],
-      "correct_answer": "constructive",
-      "explanation_hebrew": "המילה הנכונה היא constructive (בונה / מועיל)."
+      "correct_answer": "hardship",
+      "explanation_hebrew": "המילה “hardship” פירושה מְצוּקָה / קֹשִׁי."
     },
     {
       "id": "B-q25",
-      "word": "tailoring",
-      "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית מתאימה ל: “התאמה אישית”?",
+      "word": "insulating",
+      "type": "english_to_hebrew",
+      "question": "What does “insulating” mean?",
       "options": [
-        "undermining",
-        "demoralised",
-        "tailoring",
-        "denting"
+        "בִּידּוּד",
+        "רְגוּלָטוֹר / גּוּף מְפַקֵּחַ",
+        "תַּחֲזִית / לַחֲזוֹת",
+        "לְהַמְרִיא / לַעֲלוֹת בְּחַדּוּת"
       ],
-      "correct_answer": "tailoring",
-      "explanation_hebrew": "המילה הנכונה היא tailoring (התאמה אישית)."
+      "correct_answer": "בִּידּוּד",
+      "explanation_hebrew": "“insulating” פירושו בִּידּוּד."
     }
   ]
 }
