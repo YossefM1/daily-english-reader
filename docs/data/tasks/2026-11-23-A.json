@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-23",
+  "article_id": "A",
+  "article_title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the main conflict described in the article?",
+      "difficulty": "A",
+      "options": [
+        "The Army says an urgent controlled detonation is necessary, while environmental groups want it paused",
+        "Residents want to build a new ammunition plant",
+        "The EPA wants the explosives moved to another state",
+        "The court ordered the Army to produce more lead azide"
+      ],
+      "correct_answer": "The Army says an urgent controlled detonation is necessary, while environmental groups want it paused",
+      "explanation_hebrew": "העימות המרכזי הוא בין טענת הצבא שיש לבצע פיצוץ מבוקר בדחיפות לבין דרישת ארגוני הסביבה לעצור אותו."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much degraded explosive material does the Army plan to detonate?",
+      "difficulty": "A",
+      "options": [
+        "Sixty-eight tonnes",
+        "One tonne",
+        "Five tonnes",
+        "Thirty tonnes"
+      ],
+      "correct_answer": "Five tonnes",
+      "explanation_hebrew": "לפי הכתבה, הצבא מתכנן לפוצץ חמש טונות של חומר נפץ שהתדרדר."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why does the Army say the risk of an unplanned explosion is increasing?",
+      "difficulty": "A",
+      "options": [
+        "Heavy rain is flooding the bunker",
+        "Temperatures are expected to fall below 30°F (-1°C)",
+        "Workers are moving the barrels every day",
+        "The EPA permit has expired"
+      ],
+      "correct_answer": "Temperatures are expected to fall below 30°F (-1°C)",
+      "explanation_hebrew": "הצבא טוען שהירידה הצפויה בטמפרטורה מתחת ל־30 מעלות פרנהייט מגדילה את הסיכון."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “volatile” mean in the description of lead azide as a highly volatile compound?",
+      "difficulty": "A",
+      "options": [
+        "Safe to transport",
+        "Slow to react",
+        "Useful only in cold weather",
+        "Likely to react or explode easily"
+      ],
+      "correct_answer": "Likely to react or explode easily",
+      "explanation_hebrew": "בהקשר זה volatile מתאר חומר שעלול להגיב או להתפוצץ בקלות."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What safety advice had residents received for the original detonation day?",
+      "difficulty": "A",
+      "options": [
+        "Leave their homes for six hours and avoid being outdoors in affected areas",
+        "Open all windows before the blast",
+        "Move the explosive barrels themselves",
+        "Stay outside until the dust settled"
+      ],
+      "correct_answer": "Leave their homes for six hours and avoid being outdoors in affected areas",
+      "explanation_hebrew": "התושבים התבקשו לעזוב את בתיהם לשש שעות ולהימנע משהייה בחוץ באזורים המושפעים."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the Army want to detonate the lead azide where it is stored?",
+      "difficulty": "A",
+      "options": [
+        "The plant has no transport vehicles",
+        "The court required an on-site event",
+        "The material has degraded so much that moving it is considered too dangerous",
+        "The environmental groups requested it"
+      ],
+      "correct_answer": "The material has degraded so much that moving it is considered too dangerous",
+      "explanation_hebrew": "החומר התדרדר עד שהעברתו נחשבת מסוכנת מדי, ולכן הרשויות רואות בפיצוץ במקום את האפשרות הבטוחה יותר."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give two reasons environmental groups asked the court to pause the detonation.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שני נימוקים מדויקים: חוסר הודעה מספקת לציבור, חשש מחשיפה לעופרת, ספק לגבי דחיפות טענת הצבא או אי־בחינת חלופות בטוחות יותר.",
+      "expected_points": [
+        "Many people in the risk zone may not have known about the planned blast.",
+        "The groups warned that there is no safe level of lead exposure.",
+        "They questioned whether the Army had considered safer alternatives and whether delay would create significant danger."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain in 2–3 sentences why removing the bunker doors matters to the Army's argument.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהדלתות הוסרו כהכנה לפיצוץ, ולכן החביות חשופות יותר לשינויי טמפרטורה; הירידה הצפויה בטמפרטורה מחזקת לטענת הצבא את הצורך לפעול במהירות.",
+      "expected_points": [
+        "The bunker doors had already been removed in preparation for the detonation.",
+        "The Army says this made the stored barrels more vulnerable to temperature changes.",
+        "Because colder weather was approaching, the Army argued that delay increased the risk."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences comparing the Army's public-safety argument with the environmental groups' public-safety concerns.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להציג את החשש הצבאי מפיצוץ לא מתוכנן מול החשש הסביבתי מחשיפה לעופרת, הודעה קצרה לציבור וחוסר בחינת חלופות.",
+      "expected_points": [
+        "The Army says a controlled detonation is needed to prevent a more dangerous accidental explosion.",
+        "It points to degraded lead azide, colder weather and the opened bunker as urgent risks.",
+        "Environmental groups focus on possible lead exposure and insufficient notice to nearby residents.",
+        "They also question whether safer alternatives and the consequences of delay were properly assessed."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the legal dispute and safety concerns in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את צו בית המשפט, הפטור לשעת חירום, הסיכון מהחומר המתדרדר, היתר ה־EPA וטענות ארגוני הסביבה.",
+      "expected_points": [
+        "A court paused the planned Iowa detonation after environmental groups sued.",
+        "The Army said it would act by 24 November under an emergency exemption because five tonnes of degraded lead azide could explode unexpectedly.",
+        "The EPA granted an emergency permit covering 68 drums and described the risk as imminent and substantial.",
+        "Environmental groups raised concerns about lead exposure, public notice and safer alternatives.",
+        "They filed another motion seeking time to submit more evidence before the blast."
+      ]
+    }
+  ]
+}

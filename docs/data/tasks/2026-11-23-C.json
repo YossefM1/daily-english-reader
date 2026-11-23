@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-23",
+  "article_id": "C",
+  "article_title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central question does the article explore?",
+      "difficulty": "C",
+      "options": [
+        "Whether San Francisco's AI-led revival can withstand a possible market correction",
+        "Whether Silicon Valley should ban dog-walking companies",
+        "Why all technology workers left San Francisco during the pandemic",
+        "How tourism has replaced the AI industry completely"
+      ],
+      "correct_answer": "Whether San Francisco's AI-led revival can withstand a possible market correction",
+      "explanation_hebrew": "הכתבה בוחנת עד כמה ההתאוששות שמונעת בידי AI חשופה למפולת או תיקון בשוק."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What share of US AI venture capital from 2023 to 2025 went to San Francisco companies, according to the cited study?",
+      "difficulty": "C",
+      "options": [
+        "About 35%",
+        "Less than 10%",
+        "60%",
+        "Nearly 100%"
+      ],
+      "correct_answer": "60%",
+      "explanation_hebrew": "המחקר המצוטט מצא ש־60% מהון הסיכון שהושקע בחברות AI אמריקאיות הגיע לחברות בסן פרנסיסקו."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why has Lauren Goldboss's dog-walking business expanded?",
+      "difficulty": "C",
+      "options": [
+        "Tourists began bringing more dogs to hotels",
+        "Her Paw Perk office service became popular with local AI start-ups",
+        "The city government bought her vans",
+        "Data centres hired her as an engineer"
+      ],
+      "correct_answer": "Her Paw Perk office service became popular with local AI start-ups",
+      "explanation_hebrew": "שירות Paw Perk שלה צמח בזכות ביקוש מצד חברות הזנק בתחום ה־AI."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “spillover” mean in the phrase “spillover on service jobs”?",
+      "difficulty": "C",
+      "options": [
+        "A direct increase in data-centre construction",
+        "A planned transfer of workers to Silicon Valley",
+        "A financial reserve held by the city",
+        "An indirect effect spreading from the AI sector to restaurants, retail and personal services"
+      ],
+      "correct_answer": "An indirect effect spreading from the AI sector to restaurants, retail and personal services",
+      "explanation_hebrew": "spillover מתאר השפעה עקיפה שמתפשטת מענף ה־AI למשרות שירות מקומיות."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How far below its pre-pandemic employment peak does the city remain, according to Enrico Moretti?",
+      "difficulty": "C",
+      "options": [
+        "About 35,000 jobs",
+        "About 65,000 jobs",
+        "About 3,500 jobs",
+        "About 60% of jobs"
+      ],
+      "correct_answer": "About 35,000 jobs",
+      "explanation_hebrew": "מורטי מעריך שהעיר עדיין חסרה כ־35 אלף משרות לעומת השיא שלפני המגפה."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might an AI downturn destroy fewer direct city jobs than the level of investment suggests?",
+      "difficulty": "C",
+      "options": [
+        "All AI companies have moved their workers abroad",
+        "The city has banned technology layoffs",
+        "AI firms employ relatively few local workers and much spending goes to data centres and computing power elsewhere",
+        "Venture capital is invested only in tourism"
+      ],
+      "correct_answer": "AI firms employ relatively few local workers and much spending goes to data centres and computing power elsewhere",
+      "explanation_hebrew": "למרות השקעות גדולות, מספר העובדים המקומיים קטן יחסית וחלק גדול מההוצאה מופנה לתשתיות מחוץ לאזור."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three visible signs of San Francisco's AI boom mentioned in the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה סימנים מדויקים, כגון עליית שכר דירה ומחירי בתים, ירידת משרדים ריקים, פרסומות AI באוטובוסים ושלטים, שכר גבוה וגידול בעסקים משלימים.",
+      "expected_points": [
+        "Rents and house prices have risen.",
+        "Office vacancies have fallen.",
+        "Buses and billboards carry AI advertisements.",
+        "AI firms are hiring specialised engineers at very high salaries.",
+        "Local service businesses such as Paw Perk are expanding."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why San Francisco could be more exposed to an AI crash than Silicon Valley, yet less damaged than some fear.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את ריכוז הון הסיכון וחברות ה־AI בעיר מצד אחד, ומנגד את מספר המשרות הישירות הקטן יחסית וצמיחת התיירות והבריאות.",
+      "expected_points": [
+        "The current AI boom is concentrated in San Francisco, which received 60% of the cited US AI venture capital.",
+        "A correction could reduce hiring, office demand, housing prices and spending on local services.",
+        "However, AI firms employ fewer people than earlier tech booms might suggest.",
+        "Growth in healthcare and tourism could cushion the downturn."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences evaluating Ted Egan's view that an AI crash would be a “hiccup” rather than a major course correction.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לתמוך או לבקר בעמדתו באמצעות ראיות מהכתבה: צמיחה מתונה במשרות, גיוון כלכלי, אך גם תלות בשירותים, נדל״ן ומשרדים.",
+      "expected_points": [
+        "Egan's view is supported by the fact that overall tech job growth has remained limited despite heavy investment.",
+        "Healthcare and tourism are also expanding, so the recovery is not driven only by AI.",
+        "However, layoffs and weaker hiring could still spread to restaurants, retail, dog walking and downtown property.",
+        "A balanced answer should distinguish between a limited direct employment shock and broader local spillovers."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the benefits, risks and possible protections surrounding San Francisco's AI boom in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את התאוששות מרכז העיר והעסקים, סימני בועה אפשרית, ההשפעה על משרות שירות ונדל״ן, גורמי ריכוך והמלצות למדיניות.",
+      "expected_points": [
+        "AI firms and start-ups have helped revive downtown activity, property demand and local services.",
+        "A share-price correction could cut investment and hiring because companies may struggle to justify enormous spending.",
+        "The main local damage may spread through service jobs, office demand, rents and house prices.",
+        "Relatively low direct AI employment plus growth in healthcare and tourism could soften the impact.",
+        "Experts suggest diversifying beyond technology and maintaining financial reserves."
+      ]
+    }
+  ]
+}

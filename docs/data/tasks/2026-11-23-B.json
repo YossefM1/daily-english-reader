@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-23",
+  "article_id": "B",
+  "article_title": "Energy bills will soar - here's how you can ease the pain",
+  "article_url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly designed to help readers do?",
+      "difficulty": "B",
+      "options": [
+        "Understand how power stations set wholesale prices",
+        "Prepare for higher energy bills by reducing use, choosing payment options and finding support",
+        "Install a new boiler without professional advice",
+        "Predict the exact price of gas after January"
+      ],
+      "correct_answer": "Prepare for higher energy bills by reducing use, choosing payment options and finding support",
+      "explanation_hebrew": "הכתבה מציעה צעדים מעשיים להתמודדות עם העלייה הצפויה בחשבונות האנרגיה."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What does Ofgem's price cap limit?",
+      "difficulty": "B",
+      "options": [
+        "The total annual bill for every household",
+        "The number of hours heating can be used",
+        "The price charged for each unit of energy",
+        "Only the cost of installing a smart meter"
+      ],
+      "correct_answer": "The price charged for each unit of energy",
+      "explanation_hebrew": "תקרת המחיר מגבילה את המחיר לכל יחידת אנרגיה, לא את החשבון הכולל."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "According to the article, about how much cheaper per year is monthly direct debit than standard credit?",
+      "difficulty": "B",
+      "options": [
+        "£100",
+        "£138",
+        "£150",
+        "£26"
+      ],
+      "correct_answer": "£138",
+      "explanation_hebrew": "הכתבה מציינת שתשלום בהוראת קבע זול בדרך כלל בכ־138 ליש״ט בשנה."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “hefty” mean in the warning about a hefty exit fee?",
+      "difficulty": "B",
+      "options": [
+        "Automatically refunded",
+        "Small and symbolic",
+        "Paid only by suppliers",
+        "Large and costly"
+      ],
+      "correct_answer": "Large and costly",
+      "explanation_hebrew": "בהקשר זה hefty פירושו סכום גדול ויקר שעלול להפוך יציאה מחוזה קבוע ללא כדאית."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who must contact their energy company to request the £150 means-tested benefit discount?",
+      "difficulty": "B",
+      "options": [
+        "Eligible customers in Scotland",
+        "All pensioners in England",
+        "Every household in council tax band D",
+        "Only customers with fixed tariffs"
+      ],
+      "correct_answer": "Eligible customers in Scotland",
+      "explanation_hebrew": "ברוב המקומות ההנחה תינתן אוטומטית, אך בסקוטלנד הזכאים צריכים לפנות לחברת האנרגיה."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can a fixed tariff become poor value even if it looks attractive now?",
+      "difficulty": "B",
+      "options": [
+        "It prevents customers from using less energy",
+        "It removes eligibility for every government payment",
+        "Variable prices may later fall below the fixed rate, and leaving early may involve an exit fee",
+        "It makes monthly meter readings illegal"
+      ],
+      "correct_answer": "Variable prices may later fall below the fixed rate, and leaving early may involve an exit fee",
+      "explanation_hebrew": "אם המחירים המשתנים ירדו מתחת לתעריף הקבוע, הלקוח עלול לשלם יותר ואף לשלם קנס יציאה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Name three small household changes recommended for reducing energy use.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה צעדים מתוך הכתבה, כגון הורדת טמפרטורת הזרימה בדוד, כיבוי חימום מקדים, הורדת התרמוסטט במעלה, סגירת וילונות, כביסה ב־30 מעלות או חסימת משבי אוויר.",
+      "expected_points": [
+        "Turn down a combi boiler's flow temperature or switch off pre-heat.",
+        "Lower the thermostat by one degree while respecting the recommended 18C minimum.",
+        "Close curtains at night or lower radiator valves outside the living room.",
+        "Wash clothes at 30C, block draughts or batch cook."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do regular meter readings or a smart meter work well with monthly direct debit?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שהם מספקים נתוני שימוש מדויקים יותר במקום הערכות רבעוניות, וכך מסייעים להתאים את התשלומים לצריכה בפועל.",
+      "expected_points": [
+        "Quarterly bills can initially be based on estimates.",
+        "Regular readings or a smart meter provide more accurate usage information.",
+        "Combined with monthly direct debit, this reduces uncertainty and may lower payment costs."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences advising a household on how to compare a fixed tariff with the price cap.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להדגיש בדיקת מחיר ליחידה, אפשרות לירידת מחירים, דמי יציאה, צריכה בפועל והשוואת כל ההצעות ולא רק של הספק הנוכחי.",
+      "expected_points": [
+        "Compare the fixed unit price with the forecast price-cap level.",
+        "Remember that the total bill still depends on how much energy the household uses.",
+        "Check exit fees in case variable prices fall and leaving the fix becomes attractive.",
+        "Review deals across the market rather than only the current supplier's offer."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's four main areas of advice in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול הפחתת צריכה, תשלום בהוראת קבע, בחינת תעריף קבוע ובדיקת סיוע כספי, וכן אזהרה מהונאות.",
+      "expected_points": [
+        "Households can cut consumption through small heating, cooking and laundry changes.",
+        "Monthly direct debit with accurate meter readings is generally cheaper than standard credit.",
+        "A fixed tariff can offer certainty, but customers should compare unit prices and exit fees.",
+        "Eligible households should check government discounts, winter payments, supplier grants and debt support.",
+        "People searching for grants should beware of scams posing as official schemes."
+      ]
+    }
+  ]
+}
