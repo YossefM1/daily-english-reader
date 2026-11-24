@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-24",
+  "article_id": "B",
+  "article_title": "Why I don't always tell potential employers I'm dyslexic",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central issue does the article examine?",
+      "difficulty": "B",
+      "options": [
+        "The shortage of creative-arts jobs",
+        "Why many dyslexic people hide their condition at work and what support could help",
+        "How schools diagnose every child with dyslexia",
+        "Why written applications should replace interviews"
+      ],
+      "correct_answer": "Why many dyslexic people hide their condition at work and what support could help",
+      "explanation_hebrew": "הכתבה עוסקת בסיבות להסתרת דיסלקסיה במקום העבודה ובתמיכה ובהתאמות שיכולות להסיר חסמים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What proportion of surveyed dyslexic adults said they hide their dyslexia at work?",
+      "difficulty": "B",
+      "options": [
+        "81%",
+        "39%",
+        "46%",
+        "More than 90%"
+      ],
+      "correct_answer": "46%",
+      "explanation_hebrew": "בסקר של אגודת הדיסלקסיה הבריטית, 46% אמרו שהם מסתירים את הדיסלקסיה בעבודה."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did dyslexia affect nurse Lisa Daniels before she received support?",
+      "difficulty": "B",
+      "options": [
+        "She left work more than an hour late on most days to finish paperwork",
+        "She refused to use any written documents",
+        "She changed careers every year",
+        "She was unable to work with patients"
+      ],
+      "correct_answer": "She left work more than an hour late on most days to finish paperwork",
+      "explanation_hebrew": "דניאלס נשארה יותר משעה אחרי העבודה ברוב הימים כדי לסיים את הניירת."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “daunting” mean when Bailey describes the application process?",
+      "difficulty": "B",
+      "options": [
+        "Quick and familiar",
+        "Designed for visual learners",
+        "Easy to complete alone",
+        "Intimidating and difficult to face"
+      ],
+      "correct_answer": "Intimidating and difficult to face",
+      "explanation_hebrew": "בהקשר זה daunting מתאר תהליך שמפחיד וקשה להתמודד איתו."
+    },
+    {
+      "id": "B-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What workplace adjustment helped Daniels after she joined a neurodiversity staff network?",
+      "difficulty": "B",
+      "options": [
+        "Noise-cancelling headphones",
+        "A promotion without paperwork",
+        "A permanent assistant for every task",
+        "Permission to avoid all communication"
+      ],
+      "correct_answer": "Noise-cancelling headphones",
+      "explanation_hebrew": "לאחר שקיבלה יותר ביטחון ותמיכה, אחת ההתאמות שניתנו לה הייתה אוזניות מבטלות רעש."
+    },
+    {
+      "id": "B-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might written applications and timed tests disadvantage dyslexic candidates?",
+      "difficulty": "B",
+      "options": [
+        "They always test creativity directly",
+        "They allow too much time for preparation",
+        "They emphasise forms of performance that may not reveal candidates' knowledge and strengths",
+        "They require every candidate to disclose a diagnosis"
+      ],
+      "correct_answer": "They emphasise forms of performance that may not reveal candidates' knowledge and strengths",
+      "explanation_hebrew": "תהליכים שמבוססים על כתיבה ומבחנים בזמן עלולים למדוד קושי מסוים במקום את הידע, היצירתיות והיכולות של המועמד."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Give three findings from the British Dyslexia Association survey or report.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שלושה נתונים מדויקים: 46% מסתירים דיסלקסיה, 81% מדווחים על לחץ בעבודה, יותר ממחצית מרגישים רע עם עצמם, 39% חוו קושי נפשי, או הערכה של 3.3 מיליון עובדים דיסלקטים.",
+      "expected_points": [
+        "46% said they hide their dyslexia at work.",
+        "81% said dyslexia adds to work-related stress.",
+        "More than half said it makes them feel bad about themselves.",
+        "39% reported related poor mental health.",
+        "The BDA estimates 3.3 million dyslexic adults are in employment."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did joining the neurodiversity staff network change Daniels's experience?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שהרשת נתנה לה מידע, תחושת שייכות וביטחון לבקש התאמות, כגון אוזניות מבטלות רעש, לאחר שהמנהל הקודם דחה את בקשותיה.",
+      "expected_points": [
+        "A colleague connected her with a network where neurodiversity could be discussed openly.",
+        "The network helped her confidence grow after a manager had dismissed her needs.",
+        "She gained practical adjustments, including noise-cancelling headphones.",
+        "Support helped her build resilience and recover from imposter syndrome."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences explaining how employers could make recruitment and work more inclusive for dyslexic people.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציע הכשרת מנהלים, התאמות גם ללא אבחון, חלופות למבחנים כתובים בזמן, מסמכים נגישים ודרכים שונות להציג יכולות.",
+      "expected_points": [
+        "Train managers to understand dyslexia and respond constructively.",
+        "Offer reasonable adjustments based on need, even when a formal diagnosis is unavailable.",
+        "Provide alternatives to heavily written applications and timed tests.",
+        "Use accessible fonts, colours and communication methods, and let candidates demonstrate strengths in different ways."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise Bailey's and Daniels's experiences and the wider workplace problem in 4–5 sentences.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את חשש ביילי מחשיפה, הקשיים בראיונות, חוויית דניאלס עם ניירת ומנהל לא תומך, השיפור לאחר התאמות והמלצות ה־BDA.",
+      "expected_points": [
+        "Bailey sometimes withholds her dyslexia because she fears it may reduce her chances of selection.",
+        "Applications and interviews make her anxious, although she sees creativity and visual thinking as strengths.",
+        "Daniels worked late to finish paperwork and initially received little support for requested adjustments.",
+        "A neurodiversity network and practical support helped Daniels gain confidence and resilience.",
+        "The BDA says inaccessible systems create stress and calls for reasonable adjustments and better-trained managers."
+      ]
+    }
+  ]
+}

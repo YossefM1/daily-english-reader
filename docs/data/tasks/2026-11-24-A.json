@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-24",
+  "article_id": "A",
+  "article_title": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
+  "article_url": "https://www.bbc.co.uk/news/articles/cw8dvq431280o",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "How a colleague's help allowed Paul Potts to attend the audition that changed his life",
+        "Why Britain's Got Talent moved to Port Talbot",
+        "How Carphone Warehouse started a singing competition",
+        "Why Paul Potts stopped performing opera"
+      ],
+      "correct_answer": "How a colleague's help allowed Paul Potts to attend the audition that changed his life",
+      "explanation_hebrew": "הכתבה מספרת כיצד עמיתה כיסתה את המשמרת של פול פוטס ואפשרה לו להגיע לאודישן ששינה את חייו."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What song did Paul Potts perform when he became famous on Britain's Got Talent?",
+      "difficulty": "A",
+      "options": [
+        "One Chance",
+        "My Welsh Life",
+        "Nessun Dorma",
+        "The Champions"
+      ],
+      "correct_answer": "Nessun Dorma",
+      "explanation_hebrew": "פוטס התפרסם בשנת 2007 לאחר שביצע את Nessun Dorma בתוכנית."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Potts almost miss the audition?",
+      "difficulty": "A",
+      "options": [
+        "His train was cancelled",
+        "He could not get time off from managing the Port Talbot phone shop",
+        "He forgot where the studio was",
+        "He had already accepted another concert"
+      ],
+      "correct_answer": "He could not get time off from managing the Port Talbot phone shop",
+      "explanation_hebrew": "הוא לא הצליח לקבל חופש מהמשמרת שלו כמנהל חנות Carphone Warehouse בפורט טלבוט."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “homecoming” mean in the article's description of Potts's concert?",
+      "difficulty": "A",
+      "options": [
+        "A competition for new singers",
+        "A film about his career",
+        "A move to another country",
+        "A return to perform in his home town"
+      ],
+      "correct_answer": "A return to perform in his home town",
+      "explanation_hebrew": "בהקשר זה homecoming הוא חזרה להופעה בעיר הבית שלו, פורט טלבוט."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Potts achieve after winning Britain's Got Talent?",
+      "difficulty": "A",
+      "options": [
+        "He released six albums, reached an America's Got Talent final and inspired a film",
+        "He became manager of another phone shop",
+        "He built the Princess Royal Theatre himself",
+        "He stopped singing for almost 20 years"
+      ],
+      "correct_answer": "He released six albums, reached an America's Got Talent final and inspired a film",
+      "explanation_hebrew": "לאחר זכייתו הוא הוציא שישה אלבומים, הגיע לגמר של America's Got Talent: The Champions והיווה השראה לסרט."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does Potts say he remains grateful to his supporters?",
+      "difficulty": "A",
+      "options": [
+        "They persuaded him to keep his shop job",
+        "They renamed the theatre for him",
+        "Their support has allowed him to continue doing the work he loves",
+        "They wrote Nessun Dorma for him"
+      ],
+      "correct_answer": "Their support has allowed him to continue doing the work he loves",
+      "explanation_hebrew": "פוטס אומר שהוא עדיין שר בזכות תמיכת הקהל, ולכן הוא אסיר תודה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Who was Allison, and what did she do for Paul Potts?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שאליסון הייתה עמיתה שלא עבדה בדרך כלל בשבת, והיא הגיעה לכסות את המשמרת של פוטס כדי שיוכל ללכת לאודישן.",
+      "expected_points": [
+        "Allison was a colleague at the phone shop.",
+        "She normally did not work Saturdays.",
+        "She covered Potts's shift, allowing him to attend the audition."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "In 2–3 sentences, describe the planned Port Talbot concert and its significance.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שמדובר בקונצרט חזרה הביתה לציון 20 שנה מהזכייה, באולם Princess Royal המחודש שנקרא כעת Y Storfa.",
+      "expected_points": [
+        "The concert is a special homecoming performance in Port Talbot.",
+        "It marks 20 years since Potts won Britain's Got Talent.",
+        "It will take place in the renovated Princess Royal Theatre, now called Y Storfa."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences explaining how one small act by a colleague had long-term consequences for Potts.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לתאר את המשמרת, האודישן, הפריצה לתהילה והקריירה שנמשכה אחר כך.",
+      "expected_points": [
+        "Potts could not get time off for the audition and might have missed it.",
+        "Allison covered his Saturday shift so he could attend.",
+        "The audition made him famous and led to albums, international television appearances and a film.",
+        "Nearly 20 years later, he is still performing professionally."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise Potts's story and his connection to Port Talbot in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את עבודתו בחנות, עזרת אליסון, הזכייה, הישגיו והקונצרט בעיר הבית.",
+      "expected_points": [
+        "Potts was managing a Carphone Warehouse shop in Port Talbot when he auditioned.",
+        "A colleague covered his shift, enabling him to perform Nessun Dorma on Britain's Got Talent.",
+        "He won the show and later released six albums, reached another final and inspired a film.",
+        "He is returning for a concert marking 20 years since his victory.",
+        "He praised Port Talbot's community spirit and the investment in its cultural venue."
+      ]
+    }
+  ]
+}

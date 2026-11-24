@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-24",
+  "article_id": "C",
+  "article_title": "What failure of COP31 reveals about a divided world",
+  "article_url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What does the article argue COP31's failure mainly reveals?",
+      "difficulty": "C",
+      "options": [
+        "Climate science is no longer accepted by any government",
+        "International climate action is constrained by deep geopolitical, fossil-fuel and finance divisions",
+        "Solar technology has stopped improving",
+        "The UN has already replaced consensus with majority voting"
+      ],
+      "correct_answer": "International climate action is constrained by deep geopolitical, fossil-fuel and finance divisions",
+      "explanation_hebrew": "הכתבה טוענת שכישלון COP31 משקף פערים עמוקים באינטרסים גיאופוליטיים, בדלקי מאובנים ובמימון אקלים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Approximately how many governments backed explicit language on moving away from fossil fuels?",
+      "difficulty": "C",
+      "options": [
+        "Twenty-two governments",
+        "Nearly every government present",
+        "About 130 governments",
+        "Only the European Union"
+      ],
+      "correct_answer": "About 130 governments",
+      "explanation_hebrew": "כ־130 ממשלות, בערך שני שלישים מהמדינות שהשתתפו, תמכו בניסוח מפורש על מעבר מדלקי מאובנים."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What was unusual about the proposed Antalya Pact compared with the COP28 agreement?",
+      "difficulty": "C",
+      "options": [
+        "It omitted any mention of fossil fuels after COP28 had agreed to transition away from them",
+        "It required every country to stop using electricity",
+        "It replaced climate finance with military aid",
+        "It set a lower global temperature target than 1.5°C"
+      ],
+      "correct_answer": "It omitted any mention of fossil fuels after COP28 had agreed to transition away from them",
+      "explanation_hebrew": "ב־COP28 הוסכם לעבור מדלקי מאובנים, ואילו טיוטת אנטליה לא הזכירה אותם כלל."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “unbridgeable red lines” mean in Bowen's description of the negotiations?",
+      "difficulty": "C",
+      "options": [
+        "Temporary translation problems",
+        "Minor disagreements about meeting rooms",
+        "Targets that all sides had already accepted",
+        "Firm and incompatible positions that could not be reconciled"
+      ],
+      "correct_answer": "Firm and incompatible positions that could not be reconciled",
+      "explanation_hebrew": "הביטוי מתאר עמדות יסוד קשיחות וסותרות שלא ניתן היה לגשר ביניהן."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why did Russia's delegate oppose language on cutting fossil fuels?",
+      "difficulty": "C",
+      "options": [
+        "He warned that reducing supply before demand fell could cause shortages, higher prices and energy poverty",
+        "He said Arab countries caused most historical emissions",
+        "He wanted the US to lead the talks",
+        "He argued that solar panels were too competitive"
+      ],
+      "correct_answer": "He warned that reducing supply before demand fell could cause shortages, higher prices and energy poverty",
+      "explanation_hebrew": "הנציג הרוסי טען שקיצוץ בהיצע לפני ירידה בביקוש עלול לגרום למחסור, עליית מחירים ועוני אנרגטי."
+    },
+    {
+      "id": "C-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might majority voting produce a strong agreement on paper but weak action in practice?",
+      "difficulty": "C",
+      "options": [
+        "Voting would automatically end renewable investment",
+        "The agreement would apply only to small nations",
+        "Countries that were outvoted might not voluntarily implement commitments they rejected",
+        "The UN could legally force every government to comply"
+      ],
+      "correct_answer": "Countries that were outvoted might not voluntarily implement commitments they rejected",
+      "explanation_hebrew": "שיתוף הפעולה הבינלאומי הוא ברובו וולונטרי, ולכן מדינות שהפסידו בהצבעה עלולות לא ליישם את ההסכם."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two ways the broader political context weakened the Antalya negotiations.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שני פרטים: היעדר משלחת אמריקאית רשמית ודחיית טראמפ את תהליך האקלים; או ההצהרה המשותפת של ארה״ב, סין ורוסיה להגדיל מוצרי נפט מזוקק.",
+      "expected_points": [
+        "The United States sent no official delegation, although it had previously helped broker compromises.",
+        "President Trump rejected the international climate process.",
+        "Trump, Xi and Putin issued a declaration supporting increased production and supply of refined petroleum products while COP delegates debated fossil fuels."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why do many developing countries object to the way climate finance is provided?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שחלק גדול מהמימון ניתן כהלוואות ולא כמענקים, כך שהמדינות העניות מחזירות סכומים גדולים, אף שתרומתן ההיסטורית לנזק הייתה קטנה והן זקוקות לעזרה להסתגל.",
+      "expected_points": [
+        "Much climate finance arrives as loans rather than grants.",
+        "Developing countries may repay more than they receive.",
+        "They argue they contributed little to the historical problem but are being asked to pay for the damage.",
+        "They say assistance is insufficient for adaptation and cleaner development."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences evaluating Christiana Figueres's view that countries were right to reject a weaker pact.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשקול את ההגנה על התחייבות COP28 ואת תמיכת הרוב מול המחיר של סיום הפסגה ללא הצהרה מוסכמת.",
+      "expected_points": [
+        "Rejecting the pact protected the earlier COP28 commitment to move away from fossil fuels.",
+        "About 130 governments supported stronger explicit language, so the rejection represented a substantial majority.",
+        "Accepting a vague emissions promise might have weakened political pressure on fossil-fuel use.",
+        "However, walking away also meant losing a declaration that contained strong warnings about exceeding 1.5°C."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why COP31 failed, why consensus is difficult to replace and what continues outside the talks in 4–5 sentences.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את המחלוקות על דלקי מאובנים ומימון, ההקשר הגיאופוליטי, היתרונות והחסרונות של קונצנזוס, והמשך המעבר האנרגטי בקצב איטי מדי.",
+      "expected_points": [
+        "The Antalya Pact collapsed over explicit fossil-fuel language, climate finance and competing national interests.",
+        "Oil-producing countries defended their right to choose their transition path, while many governments refused to weaken the COP28 commitment.",
+        "The absence of US leadership and wider geopolitical divisions made compromise harder.",
+        "Consensus can block ambition, but it also supports voluntary implementation and protects smaller countries from being overruled.",
+        "Renewables, batteries and electric vehicles continue to advance, although the article says the transition remains too slow for the climate."
+      ]
+    }
+  ]
+}
