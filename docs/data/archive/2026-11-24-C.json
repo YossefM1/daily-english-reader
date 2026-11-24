@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-24",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "What failure of COP31 reveals about a divided world",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-23T17:24:25+00:00",
+  "age_hours_at_selection": 8.86,
+  "word_count": 1244,
+  "generated_at": "2026-11-24T02:15:52.692963+00:00",
+  "difficulty_reason": "Dense analytical commentary with long, complex sentences and heavy diplomatic, political and economic context; rich B2/C1/C2 vocabulary and substantial background knowledge required.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "ironic",
+      "lemma": "ironic",
+      "level": "C1",
+      "hebrew": "אִירוֹנִי",
+      "explanation_hebrew": "הפוך מהצפוי באופן מגוחך",
+      "pronunciation_hebrew": "אַייְרוֹנִיק",
+      "example": "It was ironic that he was late."
+    },
+    {
+      "word": "diplomacy",
+      "lemma": "diplomacy",
+      "level": "C1",
+      "hebrew": "דִּיפְּלוֹמָטְיָה",
+      "explanation_hebrew": "ניהול יחסים בין מדינות",
+      "pronunciation_hebrew": "דִּיפְּלוֹמָסִי",
+      "example": "The crisis tested their diplomacy."
+    },
+    {
+      "word": "negotiations",
+      "lemma": "negotiation",
+      "level": "B2",
+      "hebrew": "מַשָּׂא וּמַתָּן",
+      "explanation_hebrew": "שיחות להגעה להסכם",
+      "pronunciation_hebrew": "נֶגוֹשִׁיאֵיישֶׁנְס",
+      "example": "The negotiations finally failed."
+    },
+    {
+      "word": "backdrop",
+      "lemma": "backdrop",
+      "level": "C1",
+      "hebrew": "רֶקַע",
+      "explanation_hebrew": "הרקע שבו דבר מתרחש",
+      "pronunciation_hebrew": "בֶּקְדְרוֹפּ",
+      "example": "The talks had a tense backdrop."
+    },
+    {
+      "word": "fraught",
+      "lemma": "fraught",
+      "level": "C2",
+      "hebrew": "טָעוּן וּמָתוּחַ",
+      "explanation_hebrew": "מלא מתח וקושי",
+      "pronunciation_hebrew": "פְרוֹט",
+      "example": "The situation was deeply fraught."
+    },
+    {
+      "word": "unbridgeable",
+      "lemma": "unbridgeable",
+      "level": "C2",
+      "hebrew": "בִּלְתִּי נִתָּן לְגִשּׁוּר",
+      "explanation_hebrew": "פער שאי אפשר לגשר עליו",
+      "pronunciation_hebrew": "אַנְבְּרִיגֶ'בְּל",
+      "example": "The gap between them was unbridgeable."
+    },
+    {
+      "word": "transition",
+      "lemma": "transition",
+      "level": "B2",
+      "hebrew": "מַעֲבָר",
+      "explanation_hebrew": "מעבר ממצב אחד למצב אחר",
+      "pronunciation_hebrew": "טְרַנְזִישֶׁן",
+      "example": "The energy transition is slow."
+    },
+    {
+      "word": "emissions",
+      "lemma": "emission",
+      "level": "B2",
+      "hebrew": "פְּלִיטוֹת",
+      "explanation_hebrew": "גזים הנפלטים לאוויר",
+      "pronunciation_hebrew": "אִמִישֶׁנְס",
+      "example": "They promised to cut emissions."
+    },
+    {
+      "word": "explicit",
+      "lemma": "explicit",
+      "level": "C1",
+      "hebrew": "מְפֹרָשׁ",
+      "explanation_hebrew": "ברור ומפורש לחלוטין",
+      "pronunciation_hebrew": "אֶקְסְפְּלִיסִיט",
+      "example": "He gave explicit instructions."
+    },
+    {
+      "word": "bargaining",
+      "lemma": "bargaining",
+      "level": "C1",
+      "hebrew": "הִתְמַקְּחוּת",
+      "explanation_hebrew": "משא ומתן על תנאים",
+      "pronunciation_hebrew": "בַּרְגֵּינִינְג",
+      "example": "The bargaining lasted for hours."
+    },
+    {
+      "word": "overwhelming",
+      "lemma": "overwhelming",
+      "level": "B2",
+      "hebrew": "מַכְרִיעַ",
+      "explanation_hebrew": "גדול או חזק מאוד",
+      "pronunciation_hebrew": "אוֹבֶרְוֶולְמִינְג",
+      "example": "The support was overwhelming."
+    },
+    {
+      "word": "shortages",
+      "lemma": "shortage",
+      "level": "B2",
+      "hebrew": "מַחְסוֹר",
+      "explanation_hebrew": "מצב של חוסר באספקה",
+      "pronunciation_hebrew": "שׁוֹרְטִגֶ'ס",
+      "example": "There were serious food shortages."
+    },
+    {
+      "word": "formulation",
+      "lemma": "formulation",
+      "level": "C2",
+      "hebrew": "נִסּוּחַ",
+      "explanation_hebrew": "אופן הניסוח של דבר",
+      "pronunciation_hebrew": "פוֹרְמְיוּלֵיישֶׁן",
+      "example": "The formulation of the text was vague."
+    },
+    {
+      "word": "broker",
+      "lemma": "broker",
+      "level": "C1",
+      "hebrew": "לְתַוֵּךְ",
+      "explanation_hebrew": "לסייע להשיג הסכם בין צדדים",
+      "pronunciation_hebrew": "בְּרוֹקֶר",
+      "example": "He helped broker a deal."
+    },
+    {
+      "word": "pledge",
+      "lemma": "pledge",
+      "level": "C1",
+      "hebrew": "הִתְחַיְּבוּת",
+      "explanation_hebrew": "הבטחה רשמית",
+      "pronunciation_hebrew": "פְּלֶדְג'",
+      "example": "They made a pledge to help."
+    },
+    {
+      "word": "endorse",
+      "lemma": "endorse",
+      "level": "C1",
+      "hebrew": "לְתַמֹּךְ רִשְׁמִית",
+      "explanation_hebrew": "לתת תמיכה רשמית",
+      "pronunciation_hebrew": "אִנְדּוֹרְס",
+      "example": "She endorsed the new plan."
+    },
+    {
+      "word": "undermine",
+      "lemma": "undermine",
+      "level": "C1",
+      "hebrew": "לַחְתֹּר תַּחַת",
+      "explanation_hebrew": "להחליש משהו בהדרגה",
+      "pronunciation_hebrew": "אַנְדֶּרְמַיין",
+      "example": "Gossip can undermine trust."
+    },
+    {
+      "word": "consensus",
+      "lemma": "consensus",
+      "level": "C1",
+      "hebrew": "הַסְכָּמָה רְחָבָה",
+      "explanation_hebrew": "הסכמה כללית בין רבים",
+      "pronunciation_hebrew": "קוֹנְסֶנְסַס",
+      "example": "They finally reached a consensus."
+    },
+    {
+      "word": "poignant",
+      "lemma": "poignant",
+      "level": "C2",
+      "hebrew": "נוֹגֵעַ לַלֵּב",
+      "explanation_hebrew": "מעורר רגש עמוק ועצב",
+      "pronunciation_hebrew": "פּוֹיְנְיַנְט",
+      "example": "It was a poignant moment."
+    },
+    {
+      "word": "irreversible",
+      "lemma": "irreversible",
+      "level": "C1",
+      "hebrew": "בִּלְתִּי הָפִיךְ",
+      "explanation_hebrew": "שאי אפשר להחזיר לאחור",
+      "pronunciation_hebrew": "אִירִיבֶרְסִיבְּל",
+      "example": "The damage is irreversible."
+    },
+    {
+      "word": "threshold",
+      "lemma": "threshold",
+      "level": "C1",
+      "hebrew": "סַף",
+      "explanation_hebrew": "גבול או נקודת מעבר",
+      "pronunciation_hebrew": "תְּרֶשׁהוֹלְד",
+      "example": "They crossed a dangerous threshold."
+    },
+    {
+      "word": "compel",
+      "lemma": "compel",
+      "level": "C2",
+      "hebrew": "לְאַלֵּץ",
+      "explanation_hebrew": "לכפות או להכריח",
+      "pronunciation_hebrew": "קוֹמְפֶּל",
+      "example": "You cannot compel them to agree."
+    },
+    {
+      "word": "upheaval",
+      "lemma": "upheaval",
+      "level": "C2",
+      "hebrew": "טַלְטֵלָה",
+      "explanation_hebrew": "שינוי גדול ומערער",
+      "pronunciation_hebrew": "אַפְהִיבַל",
+      "example": "The war caused huge upheaval."
+    },
+    {
+      "word": "flawed",
+      "lemma": "flawed",
+      "level": "C1",
+      "hebrew": "פָּגוּם",
+      "explanation_hebrew": "בעל פגם או ליקוי",
+      "pronunciation_hebrew": "פְלוֹד",
+      "example": "The plan was deeply flawed."
+    },
+    {
+      "word": "voluntary",
+      "lemma": "voluntary",
+      "level": "B2",
+      "hebrew": "רְצוֹנִי",
+      "explanation_hebrew": "נעשה מרצון חופשי",
+      "pronunciation_hebrew": "ווֹלַנְטֶרִי",
+      "example": "Participation is entirely voluntary."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "ironic",
+      "type": "english_to_hebrew",
+      "question": "What does “ironic” mean?",
+      "options": [
+        "רֶקַע",
+        "אִירוֹנִי",
+        "דִּיפְּלוֹמָטְיָה",
+        "מַשָּׂא וּמַתָּן"
+      ],
+      "correct_answer": "אִירוֹנִי",
+      "explanation_hebrew": "“ironic” פירושו אִירוֹנִי."
+    },
+    {
+      "id": "C-q2",
+      "word": "diplomacy",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “דִּיפְּלוֹמָטְיָה”?",
+      "options": [
+        "diplomacy",
+        "fraught",
+        "negotiations",
+        "backdrop"
+      ],
+      "correct_answer": "diplomacy",
+      "explanation_hebrew": "המילה “diplomacy” פירושה דִּיפְּלוֹמָטְיָה."
+    },
+    {
+      "id": "C-q3",
+      "word": "negotiations",
+      "type": "english_to_hebrew",
+      "question": "What does “negotiations” mean?",
+      "options": [
+        "מַשָּׂא וּמַתָּן",
+        "רֶקַע",
+        "בִּלְתִּי נִתָּן לְגִשּׁוּר",
+        "טָעוּן וּמָתוּחַ"
+      ],
+      "correct_answer": "מַשָּׂא וּמַתָּן",
+      "explanation_hebrew": "“negotiations” פירושו מַשָּׂא וּמַתָּן."
+    },
+    {
+      "id": "C-q4",
+      "word": "backdrop",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “רֶקַע”?",
+      "options": [
+        "fraught",
+        "unbridgeable",
+        "transition",
+        "backdrop"
+      ],
+      "correct_answer": "backdrop",
+      "explanation_hebrew": "המילה “backdrop” פירושה רֶקַע."
+    },
+    {
+      "id": "C-q5",
+      "word": "fraught",
+      "type": "english_to_hebrew",
+      "question": "What does “fraught” mean?",
+      "options": [
+        "מַעֲבָר",
+        "בִּלְתִּי נִתָּן לְגִשּׁוּר",
+        "טָעוּן וּמָתוּחַ",
+        "פְּלִיטוֹת"
+      ],
+      "correct_answer": "טָעוּן וּמָתוּחַ",
+      "explanation_hebrew": "“fraught” פירושו טָעוּן וּמָתוּחַ."
+    },
+    {
+      "id": "C-q6",
+      "word": "unbridgeable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בִּלְתִּי נִתָּן לְגִשּׁוּר”?",
+      "options": [
+        "explicit",
+        "unbridgeable",
+        "emissions",
+        "transition"
+      ],
+      "correct_answer": "unbridgeable",
+      "explanation_hebrew": "המילה “unbridgeable” פירושה בִּלְתִּי נִתָּן לְגִשּׁוּר."
+    },
+    {
+      "id": "C-q7",
+      "word": "transition",
+      "type": "english_to_hebrew",
+      "question": "What does “transition” mean?",
+      "options": [
+        "מְפֹרָשׁ",
+        "הִתְמַקְּחוּת",
+        "פְּלִיטוֹת",
+        "מַעֲבָר"
+      ],
+      "correct_answer": "מַעֲבָר",
+      "explanation_hebrew": "“transition” פירושו מַעֲבָר."
+    },
+    {
+      "id": "C-q8",
+      "word": "emissions",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פְּלִיטוֹת”?",
+      "options": [
+        "explicit",
+        "bargaining",
+        "emissions",
+        "overwhelming"
+      ],
+      "correct_answer": "emissions",
+      "explanation_hebrew": "המילה “emissions” פירושה פְּלִיטוֹת."
+    },
+    {
+      "id": "C-q9",
+      "word": "explicit",
+      "type": "english_to_hebrew",
+      "question": "What does “explicit” mean?",
+      "options": [
+        "מַחְסוֹר",
+        "מַכְרִיעַ",
+        "הִתְמַקְּחוּת",
+        "מְפֹרָשׁ"
+      ],
+      "correct_answer": "מְפֹרָשׁ",
+      "explanation_hebrew": "“explicit” פירושו מְפֹרָשׁ."
+    },
+    {
+      "id": "C-q10",
+      "word": "bargaining",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הִתְמַקְּחוּת”?",
+      "options": [
+        "formulation",
+        "overwhelming",
+        "bargaining",
+        "shortages"
+      ],
+      "correct_answer": "bargaining",
+      "explanation_hebrew": "המילה “bargaining” פירושה הִתְמַקְּחוּת."
+    },
+    {
+      "id": "C-q11",
+      "word": "overwhelming",
+      "type": "english_to_hebrew",
+      "question": "What does “overwhelming” mean?",
+      "options": [
+        "לְתַוֵּךְ",
+        "מַחְסוֹר",
+        "נִסּוּחַ",
+        "מַכְרִיעַ"
+      ],
+      "correct_answer": "מַכְרִיעַ",
+      "explanation_hebrew": "“overwhelming” פירושו מַכְרִיעַ."
+    },
+    {
+      "id": "C-q12",
+      "word": "shortages",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “מַחְסוֹר”?",
+      "options": [
+        "pledge",
+        "broker",
+        "shortages",
+        "formulation"
+      ],
+      "correct_answer": "shortages",
+      "explanation_hebrew": "המילה “shortages” פירושה מַחְסוֹר."
+    },
+    {
+      "id": "C-q13",
+      "word": "formulation",
+      "type": "english_to_hebrew",
+      "question": "What does “formulation” mean?",
+      "options": [
+        "הִתְחַיְּבוּת",
+        "לְתַמֹּךְ רִשְׁמִית",
+        "לְתַוֵּךְ",
+        "נִסּוּחַ"
+      ],
+      "correct_answer": "נִסּוּחַ",
+      "explanation_hebrew": "“formulation” פירושו נִסּוּחַ."
+    },
+    {
+      "id": "C-q14",
+      "word": "broker",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְתַוֵּךְ”?",
+      "options": [
+        "broker",
+        "pledge",
+        "undermine",
+        "endorse"
+      ],
+      "correct_answer": "broker",
+      "explanation_hebrew": "המילה “broker” פירושה לְתַוֵּךְ."
+    },
+    {
+      "id": "C-q15",
+      "word": "pledge",
+      "type": "english_to_hebrew",
+      "question": "What does “pledge” mean?",
+      "options": [
+        "הִתְחַיְּבוּת",
+        "לְתַמֹּךְ רִשְׁמִית",
+        "הַסְכָּמָה רְחָבָה",
+        "לַחְתֹּר תַּחַת"
+      ],
+      "correct_answer": "הִתְחַיְּבוּת",
+      "explanation_hebrew": "“pledge” פירושו הִתְחַיְּבוּת."
+    },
+    {
+      "id": "C-q16",
+      "word": "endorse",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְתַמֹּךְ רִשְׁמִית”?",
+      "options": [
+        "poignant",
+        "consensus",
+        "endorse",
+        "undermine"
+      ],
+      "correct_answer": "endorse",
+      "explanation_hebrew": "המילה “endorse” פירושה לְתַמֹּךְ רִשְׁמִית."
+    },
+    {
+      "id": "C-q17",
+      "word": "undermine",
+      "type": "english_to_hebrew",
+      "question": "What does “undermine” mean?",
+      "options": [
+        "נוֹגֵעַ לַלֵּב",
+        "הַסְכָּמָה רְחָבָה",
+        "לַחְתֹּר תַּחַת",
+        "בִּלְתִּי הָפִיךְ"
+      ],
+      "correct_answer": "לַחְתֹּר תַּחַת",
+      "explanation_hebrew": "“undermine” פירושו לַחְתֹּר תַּחַת."
+    },
+    {
+      "id": "C-q18",
+      "word": "consensus",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “הַסְכָּמָה רְחָבָה”?",
+      "options": [
+        "irreversible",
+        "consensus",
+        "threshold",
+        "poignant"
+      ],
+      "correct_answer": "consensus",
+      "explanation_hebrew": "המילה “consensus” פירושה הַסְכָּמָה רְחָבָה."
+    },
+    {
+      "id": "C-q19",
+      "word": "poignant",
+      "type": "english_to_hebrew",
+      "question": "What does “poignant” mean?",
+      "options": [
+        "סַף",
+        "לְאַלֵּץ",
+        "בִּלְתִּי הָפִיךְ",
+        "נוֹגֵעַ לַלֵּב"
+      ],
+      "correct_answer": "נוֹגֵעַ לַלֵּב",
+      "explanation_hebrew": "“poignant” פירושו נוֹגֵעַ לַלֵּב."
+    },
+    {
+      "id": "C-q20",
+      "word": "irreversible",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “בִּלְתִּי הָפִיךְ”?",
+      "options": [
+        "upheaval",
+        "compel",
+        "threshold",
+        "irreversible"
+      ],
+      "correct_answer": "irreversible",
+      "explanation_hebrew": "המילה “irreversible” פירושה בִּלְתִּי הָפִיךְ."
+    },
+    {
+      "id": "C-q21",
+      "word": "threshold",
+      "type": "english_to_hebrew",
+      "question": "What does “threshold” mean?",
+      "options": [
+        "לְאַלֵּץ",
+        "סַף",
+        "טַלְטֵלָה",
+        "פָּגוּם"
+      ],
+      "correct_answer": "סַף",
+      "explanation_hebrew": "“threshold” פירושו סַף."
+    },
+    {
+      "id": "C-q22",
+      "word": "compel",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “לְאַלֵּץ”?",
+      "options": [
+        "compel",
+        "voluntary",
+        "upheaval",
+        "flawed"
+      ],
+      "correct_answer": "compel",
+      "explanation_hebrew": "המילה “compel” פירושה לְאַלֵּץ."
+    },
+    {
+      "id": "C-q23",
+      "word": "upheaval",
+      "type": "english_to_hebrew",
+      "question": "What does “upheaval” mean?",
+      "options": [
+        "אִירוֹנִי",
+        "פָּגוּם",
+        "טַלְטֵלָה",
+        "רְצוֹנִי"
+      ],
+      "correct_answer": "טַלְטֵלָה",
+      "explanation_hebrew": "“upheaval” פירושו טַלְטֵלָה."
+    },
+    {
+      "id": "C-q24",
+      "word": "flawed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה “פָּגוּם”?",
+      "options": [
+        "flawed",
+        "diplomacy",
+        "ironic",
+        "voluntary"
+      ],
+      "correct_answer": "flawed",
+      "explanation_hebrew": "המילה “flawed” פירושה פָּגוּם."
+    },
+    {
+      "id": "C-q25",
+      "word": "voluntary",
+      "type": "english_to_hebrew",
+      "question": "What does “voluntary” mean?",
+      "options": [
+        "מַשָּׂא וּמַתָּן",
+        "רְצוֹנִי",
+        "דִּיפְּלוֹמָטְיָה",
+        "אִירוֹנִי"
+      ],
+      "correct_answer": "רְצוֹנִי",
+      "explanation_hebrew": "“voluntary” פירושו רְצוֹנִי."
+    }
+  ]
+}
