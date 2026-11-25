@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-25",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
+  "published_at": "2026-11-25T01:03:05+00:00",
+  "age_hours_at_selection": 1.21,
+  "word_count": 1263,
+  "generated_at": "2026-11-25T02:15:40.925925+00:00",
+  "difficulty_reason": "Dense political-economic analysis with long complex sentences, high background knowledge and B2/C1/C2 vocabulary.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "embattled",
+      "lemma": "embattled",
+      "level": "C2",
+      "hebrew": "נתון במצוקה, תחת מתקפות",
+      "explanation_hebrew": "סובל מבעיות וביקורת רבה",
+      "pronunciation_hebrew": "אִמבֶטלד",
+      "example": "The embattled leader returned to his post."
+    },
+    {
+      "word": "opaque",
+      "lemma": "opaque",
+      "level": "C2",
+      "hebrew": "עמום, לא ברור",
+      "explanation_hebrew": "קשה להבין או לראות דרכו",
+      "pronunciation_hebrew": "אוֹפֵיק",
+      "example": "His message was offensive yet a bit opaque."
+    },
+    {
+      "word": "allegations",
+      "lemma": "allegation",
+      "level": "C1",
+      "hebrew": "האשמות",
+      "explanation_hebrew": "טענות שמישהו עשה משהו רע, בלי הוכחה",
+      "pronunciation_hebrew": "אַלִגֵישנז",
+      "example": "The case includes serious allegations."
+    },
+    {
+      "word": "recklessly",
+      "lemma": "recklessly",
+      "level": "C1",
+      "hebrew": "בפזיזות, בחוסר אחריות",
+      "explanation_hebrew": "בלי לחשוב על הסכנות",
+      "pronunciation_hebrew": "רֶקלסלי",
+      "example": "He acted recklessly and risked security."
+    },
+    {
+      "word": "jeopardising",
+      "lemma": "jeopardise",
+      "level": "C2",
+      "hebrew": "מסכן, מעמיד בסכנה",
+      "explanation_hebrew": "מסכן משהו חשוב",
+      "pronunciation_hebrew": "ג׳ֶפֶרדיזינג",
+      "example": "He was accused of jeopardising national security."
+    },
+    {
+      "word": "consorting",
+      "lemma": "consort",
+      "level": "C2",
+      "hebrew": "מתרועע, מתחבר (לרוב לרעה)",
+      "explanation_hebrew": "מבלה זמן עם אנשים בעייתיים",
+      "pronunciation_hebrew": "קֶנסוֹרטינג",
+      "example": "He was accused of consorting with a spy."
+    },
+    {
+      "word": "underscores",
+      "lemma": "underscore",
+      "level": "C1",
+      "hebrew": "מדגיש, מחדד",
+      "explanation_hebrew": "מראה בבירור כמה משהו חשוב",
+      "pronunciation_hebrew": "אַנדֶרסקוֹרז",
+      "example": "The image underscores how linked they are."
+    },
+    {
+      "word": "inextricably",
+      "lemma": "inextricably",
+      "level": "C2",
+      "hebrew": "באופן בלתי ניתן להפרדה",
+      "explanation_hebrew": "קשור כך שאי אפשר להפריד",
+      "pronunciation_hebrew": "אִנאֶקסטרִיקַבלי",
+      "example": "Their fates are inextricably linked."
+    },
+    {
+      "word": "exonerated",
+      "lemma": "exonerate",
+      "level": "C2",
+      "hebrew": "זיכה, טיהר מאשמה",
+      "explanation_hebrew": "הכריז רשמית שמישהו לא אשם",
+      "pronunciation_hebrew": "אִג׳זוֹנרֵיטִד",
+      "example": "Officials said the inquiry exonerated him."
+    },
+    {
+      "word": "reinstatement",
+      "lemma": "reinstatement",
+      "level": "C2",
+      "hebrew": "החזרה לתפקיד",
+      "explanation_hebrew": "החזרת מישהו למשרה שלו",
+      "pronunciation_hebrew": "רִינסטֵיטמנט",
+      "example": "His reinstatement caused political debate."
+    },
+    {
+      "word": "oversight",
+      "lemma": "oversight",
+      "level": "C1",
+      "hebrew": "פיקוח, בקרה",
+      "explanation_hebrew": "מעקב ובדיקה רשמיים",
+      "pronunciation_hebrew": "אוֹבַרסַיט",
+      "example": "Congress promised oversight of the company."
+    },
+    {
+      "word": "subpoenas",
+      "lemma": "subpoena",
+      "level": "C2",
+      "hebrew": "זימונים לבית משפט, זמנים משפטיים",
+      "explanation_hebrew": "צווים משפטיים להופיע או למסור מידע",
+      "pronunciation_hebrew": "סַבפִּינוֹז",
+      "example": "Lawmakers may issue subpoenas in the inquiry."
+    },
+    {
+      "word": "revelations",
+      "lemma": "revelation",
+      "level": "C1",
+      "hebrew": "חשיפות, גילויים",
+      "explanation_hebrew": "מידע חדש ומפתיע שנחשף",
+      "pronunciation_hebrew": "רֶבֶלֵישנז",
+      "example": "New revelations could damage the company."
+    },
+    {
+      "word": "liability",
+      "lemma": "liability",
+      "level": "C1",
+      "hebrew": "אחריות משפטית, חבות",
+      "explanation_hebrew": "אחריות חוקית למשהו שקרה",
+      "pronunciation_hebrew": "לַיאַבִילִיטי",
+      "example": "He may be free from criminal liability."
+    },
+    {
+      "word": "mogul",
+      "lemma": "mogul",
+      "level": "C1",
+      "hebrew": "איל הון, איש עסקים רב עוצמה",
+      "explanation_hebrew": "אדם עשיר וחזק בתחום עסקי",
+      "pronunciation_hebrew": "מוֹגל",
+      "example": "The tech mogul faced a harsher spotlight."
+    },
+    {
+      "word": "restrictions",
+      "lemma": "restriction",
+      "level": "B2",
+      "hebrew": "הגבלות",
+      "explanation_hebrew": "כללים שמגבילים מה מותר",
+      "pronunciation_hebrew": "רִסטרִקשנז",
+      "example": "They campaigned for new restrictions on AI."
+    },
+    {
+      "word": "guardrails",
+      "lemma": "guardrail",
+      "level": "C1",
+      "hebrew": "מעקה בטיחות, גבולות מגנים",
+      "explanation_hebrew": "כללים שמגנים מפני סכנה",
+      "pronunciation_hebrew": "גאַרדרֵילז",
+      "example": "Many called for legal guardrails on AI."
+    },
+    {
+      "word": "disruption",
+      "lemma": "disruption",
+      "level": "B2",
+      "hebrew": "שיבוש, הפרעה",
+      "explanation_hebrew": "שינוי שמפריע לסדר הרגיל",
+      "pronunciation_hebrew": "דִסרַפּשן",
+      "example": "They feared economic and social disruption."
+    },
+    {
+      "word": "feuding",
+      "lemma": "feud",
+      "level": "C1",
+      "hebrew": "מסוכסך, ניצים קשות",
+      "explanation_hebrew": "ריב ארוך ומר בין שני צדדים",
+      "pronunciation_hebrew": "פְיוּדינג",
+      "example": "Two officials were publicly feuding over policy."
+    },
+    {
+      "word": "proponent",
+      "lemma": "proponent",
+      "level": "C2",
+      "hebrew": "תומך נלהב, תומך מוצהר",
+      "explanation_hebrew": "מישהו שתומך בגלוי ברעיון",
+      "pronunciation_hebrew": "פְרוֹפֵוננט",
+      "example": "He is a vocal proponent of AI."
+    },
+    {
+      "word": "deliberations",
+      "lemma": "deliberation",
+      "level": "C2",
+      "hebrew": "דיונים, התדיינות",
+      "explanation_hebrew": "דיון זהיר לפני קבלת החלטה",
+      "pronunciation_hebrew": "דִלִיבֶרֵישנז",
+      "example": "He intervened in the company's deliberations."
+    },
+    {
+      "word": "inflame",
+      "lemma": "inflame",
+      "level": "C2",
+      "hebrew": "ללבות, להחריף",
+      "explanation_hebrew": "לגרום לרגשות או למצב להחמיר",
+      "pronunciation_hebrew": "אִנפלֵיים",
+      "example": "The decision could inflame public anger."
+    },
+    {
+      "word": "turmoil",
+      "lemma": "turmoil",
+      "level": "C1",
+      "hebrew": "מהומה, אי שקט",
+      "explanation_hebrew": "מצב של בלבול וחוסר יציבות",
+      "pronunciation_hebrew": "טֶרמוֹיל",
+      "example": "The financial turmoil worried investors."
+    },
+    {
+      "word": "juggernaut",
+      "lemma": "juggernaut",
+      "level": "C2",
+      "hebrew": "כוח עצום שאי אפשר לעצור",
+      "explanation_hebrew": "כוח או ארגון גדול ובלתי נעצר",
+      "pronunciation_hebrew": "ג׳ַגֶרנוֹט",
+      "example": "The AI juggernaut has powered the economy."
+    },
+    {
+      "word": "maelstrom",
+      "lemma": "maelstrom",
+      "level": "C2",
+      "hebrew": "מערבולת, מצב כאוטי",
+      "explanation_hebrew": "מצב של בלבול וסערה גדולה",
+      "pronunciation_hebrew": "מֵילסטרוֹם",
+      "example": "He may be caught in the maelstrom of a crash."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "embattled",
+      "type": "english_to_hebrew",
+      "question": "What does “embattled” mean?",
+      "options": [
+        "נתון במצוקה, תחת מתקפות",
+        "מתרועע, מתחבר (לרוב לרעה)",
+        "האשמות",
+        "זיכה, טיהר מאשמה"
+      ],
+      "correct_answer": "נתון במצוקה, תחת מתקפות",
+      "explanation_hebrew": "“embattled” פירושו נתון במצוקה, תחת מתקפות."
+    },
+    {
+      "id": "C-q2",
+      "word": "opaque",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“עמום, לא ברור”?",
+      "options": [
+        "recklessly",
+        "opaque",
+        "underscores",
+        "reinstatement"
+      ],
+      "correct_answer": "opaque",
+      "explanation_hebrew": "המילה “opaque” פירושה עמום, לא ברור."
+    },
+    {
+      "id": "C-q3",
+      "word": "allegations",
+      "type": "english_to_hebrew",
+      "question": "What does “allegations” mean?",
+      "options": [
+        "מסכן, מעמיד בסכנה",
+        "פיקוח, בקרה",
+        "האשמות",
+        "באופן בלתי ניתן להפרדה"
+      ],
+      "correct_answer": "האשמות",
+      "explanation_hebrew": "“allegations” פירושו האשמות."
+    },
+    {
+      "id": "C-q4",
+      "word": "recklessly",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“בפזיזות, בחוסר אחריות”?",
+      "options": [
+        "recklessly",
+        "exonerated",
+        "subpoenas",
+        "consorting"
+      ],
+      "correct_answer": "recklessly",
+      "explanation_hebrew": "המילה “recklessly” פירושה בפזיזות, בחוסר אחריות."
+    },
+    {
+      "id": "C-q5",
+      "word": "jeopardising",
+      "type": "english_to_hebrew",
+      "question": "What does “jeopardising” mean?",
+      "options": [
+        "מסכן, מעמיד בסכנה",
+        "מדגיש, מחדד",
+        "חשיפות, גילויים",
+        "החזרה לתפקיד"
+      ],
+      "correct_answer": "מסכן, מעמיד בסכנה",
+      "explanation_hebrew": "“jeopardising” פירושו מסכן, מעמיד בסכנה."
+    },
+    {
+      "id": "C-q6",
+      "word": "consorting",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“מתרועע, מתחבר (לרוב לרעה)”?",
+      "options": [
+        "consorting",
+        "inextricably",
+        "liability",
+        "oversight"
+      ],
+      "correct_answer": "consorting",
+      "explanation_hebrew": "המילה “consorting” פירושה מתרועע, מתחבר (לרוב לרעה)."
+    },
+    {
+      "id": "C-q7",
+      "word": "underscores",
+      "type": "english_to_hebrew",
+      "question": "What does “underscores” mean?",
+      "options": [
+        "איל הון, איש עסקים רב עוצמה",
+        "זיכה, טיהר מאשמה",
+        "זימונים לבית משפט, זמנים משפטיים",
+        "מדגיש, מחדד"
+      ],
+      "correct_answer": "מדגיש, מחדד",
+      "explanation_hebrew": "“underscores” פירושו מדגיש, מחדד."
+    },
+    {
+      "id": "C-q8",
+      "word": "inextricably",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“באופן בלתי ניתן להפרדה”?",
+      "options": [
+        "restrictions",
+        "inextricably",
+        "revelations",
+        "reinstatement"
+      ],
+      "correct_answer": "inextricably",
+      "explanation_hebrew": "המילה “inextricably” פירושה באופן בלתי ניתן להפרדה."
+    },
+    {
+      "id": "C-q9",
+      "word": "exonerated",
+      "type": "english_to_hebrew",
+      "question": "What does “exonerated” mean?",
+      "options": [
+        "פיקוח, בקרה",
+        "אחריות משפטית, חבות",
+        "מעקה בטיחות, גבולות מגנים",
+        "זיכה, טיהר מאשמה"
+      ],
+      "correct_answer": "זיכה, טיהר מאשמה",
+      "explanation_hebrew": "“exonerated” פירושו זיכה, טיהר מאשמה."
+    },
+    {
+      "id": "C-q10",
+      "word": "reinstatement",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“החזרה לתפקיד”?",
+      "options": [
+        "mogul",
+        "reinstatement",
+        "disruption",
+        "subpoenas"
+      ],
+      "correct_answer": "reinstatement",
+      "explanation_hebrew": "המילה “reinstatement” פירושה החזרה לתפקיד."
+    },
+    {
+      "id": "C-q11",
+      "word": "oversight",
+      "type": "english_to_hebrew",
+      "question": "What does “oversight” mean?",
+      "options": [
+        "חשיפות, גילויים",
+        "מסוכסך, ניצים קשות",
+        "הגבלות",
+        "פיקוח, בקרה"
+      ],
+      "correct_answer": "פיקוח, בקרה",
+      "explanation_hebrew": "“oversight” פירושו פיקוח, בקרה."
+    },
+    {
+      "id": "C-q12",
+      "word": "subpoenas",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“זימונים לבית משפט, זמנים משפטיים”?",
+      "options": [
+        "guardrails",
+        "proponent",
+        "liability",
+        "subpoenas"
+      ],
+      "correct_answer": "subpoenas",
+      "explanation_hebrew": "המילה “subpoenas” פירושה זימונים לבית משפט, זמנים משפטיים."
+    },
+    {
+      "id": "C-q13",
+      "word": "revelations",
+      "type": "english_to_hebrew",
+      "question": "What does “revelations” mean?",
+      "options": [
+        "איל הון, איש עסקים רב עוצמה",
+        "דיונים, התדיינות",
+        "חשיפות, גילויים",
+        "שיבוש, הפרעה"
+      ],
+      "correct_answer": "חשיפות, גילויים",
+      "explanation_hebrew": "“revelations” פירושו חשיפות, גילויים."
+    },
+    {
+      "id": "C-q14",
+      "word": "liability",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“אחריות משפטית, חבות”?",
+      "options": [
+        "feuding",
+        "inflame",
+        "restrictions",
+        "liability"
+      ],
+      "correct_answer": "liability",
+      "explanation_hebrew": "המילה “liability” פירושה אחריות משפטית, חבות."
+    },
+    {
+      "id": "C-q15",
+      "word": "mogul",
+      "type": "english_to_hebrew",
+      "question": "What does “mogul” mean?",
+      "options": [
+        "איל הון, איש עסקים רב עוצמה",
+        "מעקה בטיחות, גבולות מגנים",
+        "תומך נלהב, תומך מוצהר",
+        "מהומה, אי שקט"
+      ],
+      "correct_answer": "איל הון, איש עסקים רב עוצמה",
+      "explanation_hebrew": "“mogul” פירושו איל הון, איש עסקים רב עוצמה."
+    },
+    {
+      "id": "C-q16",
+      "word": "restrictions",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“הגבלות”?",
+      "options": [
+        "restrictions",
+        "juggernaut",
+        "deliberations",
+        "disruption"
+      ],
+      "correct_answer": "restrictions",
+      "explanation_hebrew": "המילה “restrictions” פירושה הגבלות."
+    },
+    {
+      "id": "C-q17",
+      "word": "guardrails",
+      "type": "english_to_hebrew",
+      "question": "What does “guardrails” mean?",
+      "options": [
+        "מעקה בטיחות, גבולות מגנים",
+        "מסוכסך, ניצים קשות",
+        "ללבות, להחריף",
+        "מערבולת, מצב כאוטי"
+      ],
+      "correct_answer": "מעקה בטיחות, גבולות מגנים",
+      "explanation_hebrew": "“guardrails” פירושו מעקה בטיחות, גבולות מגנים."
+    },
+    {
+      "id": "C-q18",
+      "word": "disruption",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“שיבוש, הפרעה”?",
+      "options": [
+        "proponent",
+        "disruption",
+        "turmoil",
+        "embattled"
+      ],
+      "correct_answer": "disruption",
+      "explanation_hebrew": "המילה “disruption” פירושה שיבוש, הפרעה."
+    },
+    {
+      "id": "C-q19",
+      "word": "feuding",
+      "type": "english_to_hebrew",
+      "question": "What does “feuding” mean?",
+      "options": [
+        "כוח עצום שאי אפשר לעצור",
+        "דיונים, התדיינות",
+        "מסוכסך, ניצים קשות",
+        "עמום, לא ברור"
+      ],
+      "correct_answer": "מסוכסך, ניצים קשות",
+      "explanation_hebrew": "“feuding” פירושו מסוכסך, ניצים קשות."
+    },
+    {
+      "id": "C-q20",
+      "word": "proponent",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“תומך נלהב, תומך מוצהר”?",
+      "options": [
+        "inflame",
+        "allegations",
+        "proponent",
+        "maelstrom"
+      ],
+      "correct_answer": "proponent",
+      "explanation_hebrew": "המילה “proponent” פירושה תומך נלהב, תומך מוצהר."
+    },
+    {
+      "id": "C-q21",
+      "word": "deliberations",
+      "type": "english_to_hebrew",
+      "question": "What does “deliberations” mean?",
+      "options": [
+        "נתון במצוקה, תחת מתקפות",
+        "דיונים, התדיינות",
+        "בפזיזות, בחוסר אחריות",
+        "מהומה, אי שקט"
+      ],
+      "correct_answer": "דיונים, התדיינות",
+      "explanation_hebrew": "“deliberations” פירושו דיונים, התדיינות."
+    },
+    {
+      "id": "C-q22",
+      "word": "inflame",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“ללבות, להחריף”?",
+      "options": [
+        "opaque",
+        "juggernaut",
+        "jeopardising",
+        "inflame"
+      ],
+      "correct_answer": "inflame",
+      "explanation_hebrew": "המילה “inflame” פירושה ללבות, להחריף."
+    },
+    {
+      "id": "C-q23",
+      "word": "turmoil",
+      "type": "english_to_hebrew",
+      "question": "What does “turmoil” mean?",
+      "options": [
+        "האשמות",
+        "מהומה, אי שקט",
+        "מערבולת, מצב כאוטי",
+        "מתרועע, מתחבר (לרוב לרעה)"
+      ],
+      "correct_answer": "מהומה, אי שקט",
+      "explanation_hebrew": "“turmoil” פירושו מהומה, אי שקט."
+    },
+    {
+      "id": "C-q24",
+      "word": "juggernaut",
+      "type": "hebrew_to_english",
+      "question": "מה המילה באנגלית ל“כוח עצום שאי אפשר לעצור”?",
+      "options": [
+        "juggernaut",
+        "underscores",
+        "embattled",
+        "recklessly"
+      ],
+      "correct_answer": "juggernaut",
+      "explanation_hebrew": "המילה “juggernaut” פירושה כוח עצום שאי אפשר לעצור."
+    },
+    {
+      "id": "C-q25",
+      "word": "maelstrom",
+      "type": "english_to_hebrew",
+      "question": "What does “maelstrom” mean?",
+      "options": [
+        "מערבולת, מצב כאוטי",
+        "עמום, לא ברור",
+        "באופן בלתי ניתן להפרדה",
+        "מסכן, מעמיד בסכנה"
+      ],
+      "correct_answer": "מערבולת, מצב כאוטי",
+      "explanation_hebrew": "“maelstrom” פירושו מערבולת, מצב כאוטי."
+    }
+  ]
+}

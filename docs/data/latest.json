@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Why I don't always tell potential employers I'm dyslexic",
+  "title": "Why tiny cars are taking off across Europe",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
-  "published_at": "2026-11-24T00:00:47+00:00",
-  "age_hours_at_selection": 2.25,
-  "word_count": 853,
-  "generated_at": "2026-11-24T02:15:52.692963+00:00",
-  "difficulty_reason": "A feature piece mixing personal quotes with survey data; moderate sentence complexity and useful B1/B2/C1 workplace and wellbeing vocabulary, with some social background assumed.",
+  "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo",
+  "published_at": "2026-11-25T00:34:05+00:00",
+  "age_hours_at_selection": 1.69,
+  "word_count": 938,
+  "generated_at": "2026-11-25T02:15:40.925925+00:00",
+  "difficulty_reason": "A feature piece with moderate sentence complexity, several interviewees and B1/B2/C1 vocabulary about transport and market trends.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "disclose",
-      "lemma": "disclose",
-      "level": "C1",
-      "hebrew": "לַחְשֹׂף",
-      "explanation_hebrew": "לחשוף או לגלות מידע",
-      "pronunciation_hebrew": "דִיסְקְלוֹז",
-      "example": "She did not disclose her age."
+      "word": "reverses",
+      "lemma": "reverse",
+      "level": "B2",
+      "hebrew": "נוסע אחורה, משתמש בהילוך אחורי",
+      "explanation_hebrew": "מסיע רכב אחורה",
+      "pronunciation_hebrew": "רִיבֶרסִז",
+      "example": "She reverses the car out of the space."
     },
     {
-      "word": "survey",
-      "lemma": "survey",
+      "word": "remarkable",
+      "lemma": "remarkable",
+      "level": "B2",
+      "hebrew": "יוצא דופן, מרשים",
+      "explanation_hebrew": "ראוי לתשומת לב",
+      "pronunciation_hebrew": "רִימַרקבל",
+      "example": "The little car looks quite remarkable."
+    },
+    {
+      "word": "indispensable",
+      "lemma": "indispensable",
+      "level": "C1",
+      "hebrew": "חיוני, אי אפשר בלעדיו",
+      "explanation_hebrew": "הכרחי לחלוטין",
+      "pronunciation_hebrew": "אִנדִיספֶנסבל",
+      "example": "The car is indispensable in rural areas."
+    },
+    {
+      "word": "rural",
+      "lemma": "rural",
+      "level": "B2",
+      "hebrew": "כפרי, של הכפר",
+      "explanation_hebrew": "קשור לאזורים מחוץ לעיר",
+      "pronunciation_hebrew": "רוּרַל",
+      "example": "Public transport is rare in rural areas."
+    },
+    {
+      "word": "certificate",
+      "lemma": "certificate",
       "level": "B1",
-      "hebrew": "סֶקֶר",
-      "explanation_hebrew": "מחקר שאוסף דעות של אנשים",
-      "pronunciation_hebrew": "סֶרְבֵיי",
-      "example": "The survey asked many questions."
+      "hebrew": "תעודה, אישור",
+      "explanation_hebrew": "מסמך רשמי שמאשר משהו",
+      "pronunciation_hebrew": "סֶרטִיפִיקַט",
+      "example": "You need a road safety certificate to drive it."
     },
     {
-      "word": "condition",
-      "lemma": "condition",
+      "word": "registrations",
+      "lemma": "registration",
+      "level": "B2",
+      "hebrew": "רישומים",
+      "explanation_hebrew": "רישום רשמי של כלי רכב",
+      "pronunciation_hebrew": "רֶג׳ִסטרֵישנז",
+      "example": "Registrations of these cars have risen fast."
+    },
+    {
+      "word": "honk",
+      "lemma": "honk",
+      "level": "B2",
+      "hebrew": "צופר, לחוץ על הצופר",
+      "explanation_hebrew": "להשמיע צליל צופר במכונית",
+      "pronunciation_hebrew": "הוֹנק",
+      "example": "Drivers behind her honk their horns."
+    },
+    {
+      "word": "formalities",
+      "lemma": "formality",
+      "level": "C1",
+      "hebrew": "פורמליות, נהלים רשמיים",
+      "explanation_hebrew": "פעולות רשמיות שצריך לבצע",
+      "pronunciation_hebrew": "פוֹרמַלִיטיז",
+      "example": "There are almost no administrative formalities."
+    },
+    {
+      "word": "insurance",
+      "lemma": "insurance",
       "level": "B1",
-      "hebrew": "מַצָּב רְפוּאִי",
-      "explanation_hebrew": "מצב בריאותי מתמשך",
-      "pronunciation_hebrew": "קוֹנְדִישֶׁן",
-      "example": "He has a medical condition."
+      "hebrew": "ביטוח",
+      "explanation_hebrew": "תשלום שמגן מפני נזק או אובדן",
+      "pronunciation_hebrew": "אִנשוּרנס",
+      "example": "You still have to pay for insurance."
     },
     {
-      "word": "diagnosed",
-      "lemma": "diagnose",
+      "word": "forbidden",
+      "lemma": "forbid",
       "level": "B2",
-      "hebrew": "אֻבְחַן",
-      "explanation_hebrew": "זוהה כבעל מצב רפואי",
-      "pronunciation_hebrew": "דַייאַגְנוֹזְד",
-      "example": "She was diagnosed last year."
+      "hebrew": "אסור",
+      "explanation_hebrew": "לא מותר לפי חוק",
+      "pronunciation_hebrew": "פֶרבִידן",
+      "example": "These cars are forbidden on motorways."
     },
     {
-      "word": "mentoring",
-      "lemma": "mentoring",
+      "word": "motorways",
+      "lemma": "motorway",
       "level": "B2",
-      "hebrew": "חֲנִיכָה",
-      "explanation_hebrew": "הדרכה של אדם מנוסה",
-      "pronunciation_hebrew": "מֶנְטוֹרִינְג",
-      "example": "The mentoring helped him grow."
+      "hebrew": "כבישים מהירים",
+      "explanation_hebrew": "כביש רחב לתנועה מהירה",
+      "pronunciation_hebrew": "מוֹטרווֵיז",
+      "example": "Small cars are not allowed on motorways."
     },
     {
-      "word": "strengths",
-      "lemma": "strength",
-      "level": "B1",
-      "hebrew": "חֲזָקוֹת",
-      "explanation_hebrew": "הדברים שאדם טוב בהם",
-      "pronunciation_hebrew": "סְטְרֶנְגְת'ס",
-      "example": "Know your strengths and use them."
+      "word": "considerably",
+      "lemma": "considerably",
+      "level": "B2",
+      "hebrew": "במידה ניכרת, בהרבה",
+      "explanation_hebrew": "באופן גדול ומוחשי",
+      "pronunciation_hebrew": "קְנסִידְרֶבלי",
+      "example": "Being considerably slower can be a problem."
     },
     {
-      "word": "daunting",
-      "lemma": "daunting",
+      "word": "peril",
+      "lemma": "peril",
       "level": "C1",
-      "hebrew": "מַרְתִּיעַ",
-      "explanation_hebrew": "מפחיד או מאתגר מאוד",
-      "pronunciation_hebrew": "דוֹנְטִינְג",
-      "example": "The task felt daunting at first."
+      "hebrew": "סכנה גדולה",
+      "explanation_hebrew": "סיכון רציני לפגיעה",
+      "pronunciation_hebrew": "פֶרִל",
+      "example": "You drive on fast roads at your own peril."
     },
     {
-      "word": "relies",
-      "lemma": "rely",
+      "word": "transformation",
+      "lemma": "transformation",
       "level": "B2",
-      "hebrew": "מִסְתַּמֵּךְ",
-      "explanation_hebrew": "תלוי במישהו או במשהו",
-      "pronunciation_hebrew": "רִילַייז",
-      "example": "He relies on his friends for help."
+      "hebrew": "שינוי יסודי, מהפך",
+      "explanation_hebrew": "שינוי גדול מצורה אחת לאחרת",
+      "pronunciation_hebrew": "טרַנספוֹרמֵישן",
+      "example": "The Ami began the transformation of the sector."
     },
     {
-      "word": "coping",
-      "lemma": "cope",
+      "word": "sector",
+      "lemma": "sector",
       "level": "B2",
-      "hebrew": "הִתְמוֹדְדוּת",
-      "explanation_hebrew": "התמודדות עם קושי",
-      "pronunciation_hebrew": "קוֹפִּינְג",
-      "example": "She is coping well with the stress."
+      "hebrew": "מגזר, תחום",
+      "explanation_hebrew": "חלק מוגדר של כלכלה או שוק",
+      "pronunciation_hebrew": "סֶקטר",
+      "example": "The electric car sector is growing quickly."
     },
     {
-      "word": "admits",
-      "lemma": "admit",
+      "word": "regulations",
+      "lemma": "regulation",
       "level": "B2",
-      "hebrew": "מוֹדֶה",
-      "explanation_hebrew": "מכיר באמת, לרוב לא נעימה",
-      "pronunciation_hebrew": "אַדְמִיטְס",
-      "example": "He admits he was wrong."
+      "hebrew": "תקנות",
+      "explanation_hebrew": "כללים רשמיים שקובעת רשות",
+      "pronunciation_hebrew": "רֶג׳וּלֵישנז",
+      "example": "Stricter EU regulations changed the market."
     },
     {
-      "word": "anxious",
-      "lemma": "anxious",
+      "word": "manufacturers",
+      "lemma": "manufacturer",
       "level": "B2",
-      "hebrew": "חָרֵד",
-      "explanation_hebrew": "מרגיש דאגה או מתח",
-      "pronunciation_hebrew": "אַנְגְשֶׁס",
-      "example": "I feel anxious before exams."
+      "hebrew": "יצרנים",
+      "explanation_hebrew": "חברות שמייצרות מוצרים",
+      "pronunciation_hebrew": "מַניוּפֵקצ׳רֶרז",
+      "example": "The new rules were costly for manufacturers."
     },
     {
-      "word": "visual",
-      "lemma": "visual",
-      "level": "B2",
-      "hebrew": "חָזוּתִי",
-      "explanation_hebrew": "הקשור לראייה ולתמונות",
-      "pronunciation_hebrew": "וִיזְ'וּאָל",
-      "example": "He is a visual learner."
-    },
-    {
-      "word": "suppressed",
-      "lemma": "suppress",
+      "word": "subsidies",
+      "lemma": "subsidy",
       "level": "C1",
-      "hebrew": "דִּכֵּא",
-      "explanation_hebrew": "כבש או הסתיר רגש",
-      "pronunciation_hebrew": "סַפְּרֶסְט",
-      "example": "She suppressed her anger."
+      "hebrew": "סובסידיות, תמיכות",
+      "explanation_hebrew": "כסף שהממשלה נותנת כדי לעזור",
+      "pronunciation_hebrew": "סַבסִדיז",
+      "example": "Sales fell after subsidies were withdrawn."
     },
     {
-      "word": "dismissive",
-      "lemma": "dismissive",
+      "word": "niche",
+      "lemma": "niche",
       "level": "C1",
-      "hebrew": "מְזַלְזֵל",
-      "explanation_hebrew": "מתייחס בביטול ובזלזול",
-      "pronunciation_hebrew": "דִיסְמִיסִיב",
-      "example": "He was dismissive of my idea."
+      "hebrew": "נישה, שוק מצומצם",
+      "explanation_hebrew": "תחום קטן ומיוחד בשוק",
+      "pronunciation_hebrew": "ניש",
+      "example": "They work in a small niche market."
     },
     {
-      "word": "adjustments",
-      "lemma": "adjustment",
+      "word": "competitor",
+      "lemma": "competitor",
       "level": "B2",
-      "hebrew": "הַתְאָמוֹת",
-      "explanation_hebrew": "שינויים קטנים כדי להתאים",
-      "pronunciation_hebrew": "אַגַ'סְטְמֶנְטְס",
-      "example": "They made adjustments for her needs."
+      "hebrew": "מתחרה, מתחרה עסקי",
+      "explanation_hebrew": "חברה או אדם שמתחרים בך",
+      "pronunciation_hebrew": "קַמפֶּטיטֶר",
+      "example": "A giant competitor entered the market."
     },
     {
-      "word": "accessible",
-      "lemma": "accessible",
+      "word": "sophisticated",
+      "lemma": "sophisticated",
+      "level": "C1",
+      "hebrew": "מתוחכם, משוכלל",
+      "explanation_hebrew": "מורכב ומתקדם מבחינה טכנית",
+      "pronunciation_hebrew": "סֶפִיסטִיקֵיטִד",
+      "example": "The newer minicars are more sophisticated."
+    },
+    {
+      "word": "conventional",
+      "lemma": "conventional",
       "level": "B2",
-      "hebrew": "נָגִישׁ",
-      "explanation_hebrew": "קל לגישה או לשימוש",
-      "pronunciation_hebrew": "אַקְסֶסִיבְּל",
-      "example": "The website is fully accessible."
+      "hebrew": "רגיל, מקובל",
+      "explanation_hebrew": "רגיל ונפוץ, לא יוצא דופן",
+      "pronunciation_hebrew": "קַנבֶנשנל",
+      "example": "Some cost as much as a conventional car."
     },
     {
-      "word": "neurodiversity",
-      "lemma": "neurodiversity",
+      "word": "imposed",
+      "lemma": "impose",
       "level": "C1",
-      "hebrew": "שׁוֹנוּת נֶיירוֹלוֹגִית",
-      "explanation_hebrew": "מגוון בדרכי החשיבה של המוח",
-      "pronunciation_hebrew": "נְיוּרוֹדַייבֶרְסִיטִי",
-      "example": "The company supports neurodiversity."
+      "hebrew": "כפה, הוטל בכוח",
+      "explanation_hebrew": "נכפה על מישהו בלי ברירה",
+      "pronunciation_hebrew": "אִמפּוֹזד",
+      "example": "It was mobility imposed on people, not chosen."
     },
     {
-      "word": "resilience",
-      "lemma": "resilience",
+      "word": "mobility",
+      "lemma": "mobility",
       "level": "B2",
-      "hebrew": "חֹסֶן",
-      "explanation_hebrew": "יכולת להתאושש מקושי",
-      "pronunciation_hebrew": "רֶזִילְיֶנְס",
-      "example": "Her resilience is impressive."
+      "hebrew": "ניידות, יכולת תנועה",
+      "explanation_hebrew": "היכולת לנוע ולהגיע ממקום למקום",
+      "pronunciation_hebrew": "מוֹבִילִיטי",
+      "example": "These cars give people new mobility."
     },
     {
-      "word": "reluctant",
-      "lemma": "reluctant",
-      "level": "C1",
-      "hebrew": "מְהַסֵּס",
-      "explanation_hebrew": "לא רוצה לעשות משהו",
-      "pronunciation_hebrew": "רִילַקְטַנְט",
-      "example": "He was reluctant to leave."
-    },
-    {
-      "word": "banter",
-      "lemma": "banter",
-      "level": "C1",
-      "hebrew": "הִתְבַּדְּחוּת",
-      "explanation_hebrew": "בדיחות קלילות בין אנשים",
-      "pronunciation_hebrew": "בֶּנְטֶר",
-      "example": "They exchanged friendly banter."
-    },
-    {
-      "word": "deficit",
-      "lemma": "deficit",
-      "level": "C1",
-      "hebrew": "חֶסֶר",
-      "explanation_hebrew": "חוסר במשהו",
-      "pronunciation_hebrew": "דֶפִיסִיט",
-      "example": "There is a skills deficit here."
-    },
-    {
-      "word": "discrimination",
-      "lemma": "discrimination",
+      "word": "limitations",
+      "lemma": "limitation",
       "level": "B2",
-      "hebrew": "אַפְלָיָה",
-      "explanation_hebrew": "יחס לא הוגן כלפי אדם",
-      "pronunciation_hebrew": "דִיסְקְרִימִינֵיישֶׁן",
-      "example": "They fought against discrimination."
-    },
-    {
-      "word": "reinforces",
-      "lemma": "reinforce",
-      "level": "C1",
-      "hebrew": "מְחַזֵּק",
-      "explanation_hebrew": "מחזק או מעמיק משהו",
-      "pronunciation_hebrew": "רִיאִינְפוֹרְסֶס",
-      "example": "This reinforces my belief."
-    },
-    {
-      "word": "recruitment",
-      "lemma": "recruitment",
-      "level": "B2",
-      "hebrew": "גִּיּוּס עוֹבְדִים",
-      "explanation_hebrew": "תהליך איתור וקליטת עובדים",
-      "pronunciation_hebrew": "רִיקְרוּטְמֶנְט",
-      "example": "Recruitment can be a slow process."
-    },
-    {
-      "word": "skewed",
-      "lemma": "skewed",
-      "level": "C1",
-      "hebrew": "מֻטֶּה",
-      "explanation_hebrew": "נוטה לכיוון אחד, לא מאוזן",
-      "pronunciation_hebrew": "סְקְיוּד",
-      "example": "The test was skewed against them."
+      "hebrew": "מגבלות",
+      "explanation_hebrew": "דברים שמגבילים או מגבילים שימוש",
+      "pronunciation_hebrew": "לִימִיטֵישנז",
+      "example": "The car has limitations, like its low speed."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "disclose",
+      "word": "reverses",
       "type": "english_to_hebrew",
-      "question": "What does “disclose” mean?",
+      "question": "What does “reverses” mean?",
       "options": [
-        "סֶקֶר",
-        "מַצָּב רְפוּאִי",
-        "לַחְשֹׂף",
-        "אֻבְחַן"
+        "רישומים",
+        "ביטוח",
+        "נוסע אחורה, משתמש בהילוך אחורי",
+        "חיוני, אי אפשר בלעדיו"
       ],
-      "correct_answer": "לַחְשֹׂף",
-      "explanation_hebrew": "“disclose” פירושו לַחְשֹׂף."
+      "correct_answer": "נוסע אחורה, משתמש בהילוך אחורי",
+      "explanation_hebrew": "“reverses” פירושו נוסע אחורה, משתמש בהילוך אחורי."
     },
     {
       "id": "B-q2",
-      "word": "survey",
+      "word": "remarkable",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “סֶקֶר”?",
+      "question": "מה המילה באנגלית ל“יוצא דופן, מרשים”?",
       "options": [
-        "condition",
-        "diagnosed",
-        "survey",
-        "mentoring"
+        "forbidden",
+        "remarkable",
+        "honk",
+        "rural"
       ],
-      "correct_answer": "survey",
-      "explanation_hebrew": "המילה “survey” פירושה סֶקֶר."
+      "correct_answer": "remarkable",
+      "explanation_hebrew": "המילה “remarkable” פירושה יוצא דופן, מרשים."
     },
     {
       "id": "B-q3",
-      "word": "condition",
+      "word": "indispensable",
       "type": "english_to_hebrew",
-      "question": "What does “condition” mean?",
+      "question": "What does “indispensable” mean?",
       "options": [
-        "חֲזָקוֹת",
-        "חֲנִיכָה",
-        "מַצָּב רְפוּאִי",
-        "אֻבְחַן"
+        "כבישים מהירים",
+        "פורמליות, נהלים רשמיים",
+        "חיוני, אי אפשר בלעדיו",
+        "תעודה, אישור"
       ],
-      "correct_answer": "מַצָּב רְפוּאִי",
-      "explanation_hebrew": "“condition” פירושו מַצָּב רְפוּאִי."
+      "correct_answer": "חיוני, אי אפשר בלעדיו",
+      "explanation_hebrew": "“indispensable” פירושו חיוני, אי אפשר בלעדיו."
     },
     {
       "id": "B-q4",
-      "word": "diagnosed",
+      "word": "rural",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “אֻבְחַן”?",
+      "question": "מה המילה באנגלית ל“כפרי, של הכפר”?",
       "options": [
-        "daunting",
-        "mentoring",
-        "strengths",
-        "diagnosed"
+        "insurance",
+        "rural",
+        "registrations",
+        "considerably"
       ],
-      "correct_answer": "diagnosed",
-      "explanation_hebrew": "המילה “diagnosed” פירושה אֻבְחַן."
+      "correct_answer": "rural",
+      "explanation_hebrew": "המילה “rural” פירושה כפרי, של הכפר."
     },
     {
       "id": "B-q5",
-      "word": "mentoring",
+      "word": "certificate",
       "type": "english_to_hebrew",
-      "question": "What does “mentoring” mean?",
+      "question": "What does “certificate” mean?",
       "options": [
-        "מַרְתִּיעַ",
-        "מִסְתַּמֵּךְ",
-        "חֲנִיכָה",
-        "חֲזָקוֹת"
+        "צופר, לחוץ על הצופר",
+        "תעודה, אישור",
+        "סכנה גדולה",
+        "אסור"
       ],
-      "correct_answer": "חֲנִיכָה",
-      "explanation_hebrew": "“mentoring” פירושו חֲנִיכָה."
+      "correct_answer": "תעודה, אישור",
+      "explanation_hebrew": "“certificate” פירושו תעודה, אישור."
     },
     {
       "id": "B-q6",
-      "word": "strengths",
+      "word": "registrations",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “חֲזָקוֹת”?",
+      "question": "מה המילה באנגלית ל“רישומים”?",
       "options": [
-        "daunting",
-        "strengths",
-        "relies",
-        "coping"
+        "registrations",
+        "motorways",
+        "transformation",
+        "formalities"
       ],
-      "correct_answer": "strengths",
-      "explanation_hebrew": "המילה “strengths” פירושה חֲזָקוֹת."
+      "correct_answer": "registrations",
+      "explanation_hebrew": "המילה “registrations” פירושה רישומים."
     },
     {
       "id": "B-q7",
-      "word": "daunting",
+      "word": "honk",
       "type": "english_to_hebrew",
-      "question": "What does “daunting” mean?",
+      "question": "What does “honk” mean?",
       "options": [
-        "הִתְמוֹדְדוּת",
-        "מוֹדֶה",
-        "מִסְתַּמֵּךְ",
-        "מַרְתִּיעַ"
+        "מגזר, תחום",
+        "צופר, לחוץ על הצופר",
+        "במידה ניכרת, בהרבה",
+        "ביטוח"
       ],
-      "correct_answer": "מַרְתִּיעַ",
-      "explanation_hebrew": "“daunting” פירושו מַרְתִּיעַ."
+      "correct_answer": "צופר, לחוץ על הצופר",
+      "explanation_hebrew": "“honk” פירושו צופר, לחוץ על הצופר."
     },
     {
       "id": "B-q8",
-      "word": "relies",
+      "word": "formalities",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מִסְתַּמֵּךְ”?",
+      "question": "מה המילה באנגלית ל“פורמליות, נהלים רשמיים”?",
       "options": [
-        "relies",
-        "anxious",
-        "admits",
-        "coping"
+        "forbidden",
+        "regulations",
+        "formalities",
+        "peril"
       ],
-      "correct_answer": "relies",
-      "explanation_hebrew": "המילה “relies” פירושה מִסְתַּמֵּךְ."
+      "correct_answer": "formalities",
+      "explanation_hebrew": "המילה “formalities” פירושה פורמליות, נהלים רשמיים."
     },
     {
       "id": "B-q9",
-      "word": "coping",
+      "word": "insurance",
       "type": "english_to_hebrew",
-      "question": "What does “coping” mean?",
+      "question": "What does “insurance” mean?",
       "options": [
-        "הִתְמוֹדְדוּת",
-        "חָרֵד",
-        "מוֹדֶה",
-        "חָזוּתִי"
+        "יצרנים",
+        "כבישים מהירים",
+        "שינוי יסודי, מהפך",
+        "ביטוח"
       ],
-      "correct_answer": "הִתְמוֹדְדוּת",
-      "explanation_hebrew": "“coping” פירושו הִתְמוֹדְדוּת."
+      "correct_answer": "ביטוח",
+      "explanation_hebrew": "“insurance” פירושו ביטוח."
     },
     {
       "id": "B-q10",
-      "word": "admits",
+      "word": "forbidden",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מוֹדֶה”?",
+      "question": "מה המילה באנגלית ל“אסור”?",
       "options": [
-        "anxious",
-        "visual",
-        "admits",
-        "suppressed"
+        "considerably",
+        "forbidden",
+        "sector",
+        "subsidies"
       ],
-      "correct_answer": "admits",
-      "explanation_hebrew": "המילה “admits” פירושה מוֹדֶה."
+      "correct_answer": "forbidden",
+      "explanation_hebrew": "המילה “forbidden” פירושה אסור."
     },
     {
       "id": "B-q11",
-      "word": "anxious",
+      "word": "motorways",
       "type": "english_to_hebrew",
-      "question": "What does “anxious” mean?",
+      "question": "What does “motorways” mean?",
       "options": [
-        "מְזַלְזֵל",
-        "חָרֵד",
-        "חָזוּתִי",
-        "דִּכֵּא"
+        "נישה, שוק מצומצם",
+        "כבישים מהירים",
+        "סכנה גדולה",
+        "תקנות"
       ],
-      "correct_answer": "חָרֵד",
-      "explanation_hebrew": "“anxious” פירושו חָרֵד."
+      "correct_answer": "כבישים מהירים",
+      "explanation_hebrew": "“motorways” פירושו כבישים מהירים."
     },
     {
       "id": "B-q12",
-      "word": "visual",
+      "word": "considerably",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “חָזוּתִי”?",
+      "question": "מה המילה באנגלית ל“במידה ניכרת, בהרבה”?",
       "options": [
-        "dismissive",
-        "suppressed",
-        "adjustments",
-        "visual"
+        "transformation",
+        "manufacturers",
+        "considerably",
+        "competitor"
       ],
-      "correct_answer": "visual",
-      "explanation_hebrew": "המילה “visual” פירושה חָזוּתִי."
+      "correct_answer": "considerably",
+      "explanation_hebrew": "המילה “considerably” פירושה במידה ניכרת, בהרבה."
     },
     {
       "id": "B-q13",
-      "word": "suppressed",
+      "word": "peril",
       "type": "english_to_hebrew",
-      "question": "What does “suppressed” mean?",
+      "question": "What does “peril” mean?",
       "options": [
-        "מְזַלְזֵל",
-        "הַתְאָמוֹת",
-        "נָגִישׁ",
-        "דִּכֵּא"
+        "סכנה גדולה",
+        "מתוחכם, משוכלל",
+        "מגזר, תחום",
+        "סובסידיות, תמיכות"
       ],
-      "correct_answer": "דִּכֵּא",
-      "explanation_hebrew": "“suppressed” פירושו דִּכֵּא."
+      "correct_answer": "סכנה גדולה",
+      "explanation_hebrew": "“peril” פירושו סכנה גדולה."
     },
     {
       "id": "B-q14",
-      "word": "dismissive",
+      "word": "transformation",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “מְזַלְזֵל”?",
+      "question": "מה המילה באנגלית ל“שינוי יסודי, מהפך”?",
       "options": [
-        "accessible",
-        "neurodiversity",
-        "dismissive",
-        "adjustments"
+        "transformation",
+        "conventional",
+        "niche",
+        "regulations"
       ],
-      "correct_answer": "dismissive",
-      "explanation_hebrew": "המילה “dismissive” פירושה מְזַלְזֵל."
+      "correct_answer": "transformation",
+      "explanation_hebrew": "המילה “transformation” פירושה שינוי יסודי, מהפך."
     },
     {
       "id": "B-q15",
-      "word": "adjustments",
+      "word": "sector",
       "type": "english_to_hebrew",
-      "question": "What does “adjustments” mean?",
+      "question": "What does “sector” mean?",
       "options": [
-        "הַתְאָמוֹת",
-        "שׁוֹנוּת נֶיירוֹלוֹגִית",
-        "נָגִישׁ",
-        "חֹסֶן"
+        "מתחרה, מתחרה עסקי",
+        "מגזר, תחום",
+        "כפה, הוטל בכוח",
+        "יצרנים"
       ],
-      "correct_answer": "הַתְאָמוֹת",
-      "explanation_hebrew": "“adjustments” פירושו הַתְאָמוֹת."
+      "correct_answer": "מגזר, תחום",
+      "explanation_hebrew": "“sector” פירושו מגזר, תחום."
     },
     {
       "id": "B-q16",
-      "word": "accessible",
+      "word": "regulations",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “נָגִישׁ”?",
+      "question": "מה המילה באנגלית ל“תקנות”?",
       "options": [
-        "neurodiversity",
-        "resilience",
-        "accessible",
-        "reluctant"
+        "subsidies",
+        "regulations",
+        "sophisticated",
+        "mobility"
       ],
-      "correct_answer": "accessible",
-      "explanation_hebrew": "המילה “accessible” פירושה נָגִישׁ."
+      "correct_answer": "regulations",
+      "explanation_hebrew": "המילה “regulations” פירושה תקנות."
     },
     {
       "id": "B-q17",
-      "word": "neurodiversity",
+      "word": "manufacturers",
       "type": "english_to_hebrew",
-      "question": "What does “neurodiversity” mean?",
+      "question": "What does “manufacturers” mean?",
       "options": [
-        "שׁוֹנוּת נֶיירוֹלוֹגִית",
-        "חֹסֶן",
-        "מְהַסֵּס",
-        "הִתְבַּדְּחוּת"
+        "רגיל, מקובל",
+        "נישה, שוק מצומצם",
+        "יצרנים",
+        "מגבלות"
       ],
-      "correct_answer": "שׁוֹנוּת נֶיירוֹלוֹגִית",
-      "explanation_hebrew": "“neurodiversity” פירושו שׁוֹנוּת נֶיירוֹלוֹגִית."
+      "correct_answer": "יצרנים",
+      "explanation_hebrew": "“manufacturers” פירושו יצרנים."
     },
     {
       "id": "B-q18",
-      "word": "resilience",
+      "word": "subsidies",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “חֹסֶן”?",
+      "question": "מה המילה באנגלית ל“סובסידיות, תמיכות”?",
       "options": [
-        "banter",
-        "resilience",
-        "reluctant",
-        "deficit"
+        "imposed",
+        "competitor",
+        "reverses",
+        "subsidies"
       ],
-      "correct_answer": "resilience",
-      "explanation_hebrew": "המילה “resilience” פירושה חֹסֶן."
+      "correct_answer": "subsidies",
+      "explanation_hebrew": "המילה “subsidies” פירושה סובסידיות, תמיכות."
     },
     {
       "id": "B-q19",
-      "word": "reluctant",
+      "word": "niche",
       "type": "english_to_hebrew",
-      "question": "What does “reluctant” mean?",
+      "question": "What does “niche” mean?",
       "options": [
-        "חֶסֶר",
-        "מְהַסֵּס",
-        "הִתְבַּדְּחוּת",
-        "אַפְלָיָה"
+        "ניידות, יכולת תנועה",
+        "מתוחכם, משוכלל",
+        "יוצא דופן, מרשים",
+        "נישה, שוק מצומצם"
       ],
-      "correct_answer": "מְהַסֵּס",
-      "explanation_hebrew": "“reluctant” פירושו מְהַסֵּס."
+      "correct_answer": "נישה, שוק מצומצם",
+      "explanation_hebrew": "“niche” פירושו נישה, שוק מצומצם."
     },
     {
       "id": "B-q20",
-      "word": "banter",
+      "word": "competitor",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “הִתְבַּדְּחוּת”?",
+      "question": "מה המילה באנגלית ל“מתחרה, מתחרה עסקי”?",
       "options": [
-        "reinforces",
-        "banter",
-        "discrimination",
-        "deficit"
+        "limitations",
+        "competitor",
+        "indispensable",
+        "conventional"
       ],
-      "correct_answer": "banter",
-      "explanation_hebrew": "המילה “banter” פירושה הִתְבַּדְּחוּת."
+      "correct_answer": "competitor",
+      "explanation_hebrew": "המילה “competitor” פירושה מתחרה, מתחרה עסקי."
     },
     {
       "id": "B-q21",
-      "word": "deficit",
+      "word": "sophisticated",
       "type": "english_to_hebrew",
-      "question": "What does “deficit” mean?",
+      "question": "What does “sophisticated” mean?",
       "options": [
-        "גִּיּוּס עוֹבְדִים",
-        "חֶסֶר",
-        "מְחַזֵּק",
-        "אַפְלָיָה"
+        "כפה, הוטל בכוח",
+        "כפרי, של הכפר",
+        "מתוחכם, משוכלל",
+        "נוסע אחורה, משתמש בהילוך אחורי"
       ],
-      "correct_answer": "חֶסֶר",
-      "explanation_hebrew": "“deficit” פירושו חֶסֶר."
+      "correct_answer": "מתוחכם, משוכלל",
+      "explanation_hebrew": "“sophisticated” פירושו מתוחכם, משוכלל."
     },
     {
       "id": "B-q22",
-      "word": "discrimination",
+      "word": "conventional",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “אַפְלָיָה”?",
+      "question": "מה המילה באנגלית ל“רגיל, מקובל”?",
       "options": [
-        "discrimination",
-        "recruitment",
-        "skewed",
-        "reinforces"
+        "mobility",
+        "remarkable",
+        "conventional",
+        "certificate"
       ],
-      "correct_answer": "discrimination",
-      "explanation_hebrew": "המילה “discrimination” פירושה אַפְלָיָה."
+      "correct_answer": "conventional",
+      "explanation_hebrew": "המילה “conventional” פירושה רגיל, מקובל."
     },
     {
       "id": "B-q23",
-      "word": "reinforces",
+      "word": "imposed",
       "type": "english_to_hebrew",
-      "question": "What does “reinforces” mean?",
+      "question": "What does “imposed” mean?",
       "options": [
-        "מֻטֶּה",
-        "גִּיּוּס עוֹבְדִים",
-        "לַחְשֹׂף",
-        "מְחַזֵּק"
+        "מגבלות",
+        "רישומים",
+        "כפה, הוטל בכוח",
+        "חיוני, אי אפשר בלעדיו"
       ],
-      "correct_answer": "מְחַזֵּק",
-      "explanation_hebrew": "“reinforces” פירושו מְחַזֵּק."
+      "correct_answer": "כפה, הוטל בכוח",
+      "explanation_hebrew": "“imposed” פירושו כפה, הוטל בכוח."
     },
     {
       "id": "B-q24",
-      "word": "recruitment",
+      "word": "mobility",
       "type": "hebrew_to_english",
-      "question": "איזו מילה באנגלית פירושה “גִּיּוּס עוֹבְדִים”?",
+      "question": "מה המילה באנגלית ל“ניידות, יכולת תנועה”?",
       "options": [
-        "skewed",
-        "survey",
-        "disclose",
-        "recruitment"
+        "rural",
+        "reverses",
+        "mobility",
+        "honk"
       ],
-      "correct_answer": "recruitment",
-      "explanation_hebrew": "המילה “recruitment” פירושה גִּיּוּס עוֹבְדִים."
+      "correct_answer": "mobility",
+      "explanation_hebrew": "המילה “mobility” פירושה ניידות, יכולת תנועה."
     },
     {
       "id": "B-q25",
-      "word": "skewed",
+      "word": "limitations",
       "type": "english_to_hebrew",
-      "question": "What does “skewed” mean?",
+      "question": "What does “limitations” mean?",
       "options": [
-        "מֻטֶּה",
-        "מַצָּב רְפוּאִי",
-        "סֶקֶר",
-        "לַחְשֹׂף"
+        "פורמליות, נהלים רשמיים",
+        "יוצא דופן, מרשים",
+        "תעודה, אישור",
+        "מגבלות"
       ],
-      "correct_answer": "מֻטֶּה",
-      "explanation_hebrew": "“skewed” פירושו מֻטֶּה."
+      "correct_answer": "מגבלות",
+      "explanation_hebrew": "“limitations” פירושו מגבלות."
     }
   ]
 }
