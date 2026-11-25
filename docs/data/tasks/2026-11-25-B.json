@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-25",
+  "article_id": "B",
+  "article_title": "Why tiny cars are taking off across Europe",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main explanation for the growth of tiny cars in Europe?",
+      "difficulty": "B",
+      "options": [
+        "They combine accessible mobility with changing rules, electric models and growing demand from teenagers",
+        "They have replaced all buses and trains in European capitals",
+        "They can travel faster than conventional cars on motorways",
+        "They are mainly bought by racing teams and delivery companies"
+      ],
+      "correct_answer": "They combine accessible mobility with changing rules, electric models and growing demand from teenagers",
+      "explanation_hebrew": "הכתבה מסבירה שהצמיחה נובעת מניידות נגישה, דגמים חשמליים, שינויי רגולציה וביקוש גובר מצד צעירים."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What training is required for a 14-year-old to drive one of these cars in France?",
+      "difficulty": "B",
+      "options": [
+        "A full driving licence and a year of lessons",
+        "Only permission from a school",
+        "A road-safety certificate and eight hours of training",
+        "No training or documentation at all"
+      ],
+      "correct_answer": "A road-safety certificate and eight hours of training",
+      "explanation_hebrew": "בצרפת נדרשים אישור בטיחות בדרכים ושמונה שעות הכשרה."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did European mini-car sales change over the past five years?",
+      "difficulty": "B",
+      "options": [
+        "They fell from 60,000 to 30,000",
+        "They doubled from about 30,000 to 60,000",
+        "They stayed fixed at about 25,000",
+        "They rose from 13,000 to 25,000 only in Germany"
+      ],
+      "correct_answer": "They doubled from about 30,000 to 60,000",
+      "explanation_hebrew": "לפי הכתבה המכירות באירופה עלו מכ־30 אלף לכ־60 אלף בחמש שנים."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “niche market” mean in the discussion of tiny cars?",
+      "difficulty": "B",
+      "options": [
+        "A market controlled by national governments",
+        "A temporary street market for used vehicles",
+        "A market for every type of family car",
+        "A specialised market serving a relatively small group"
+      ],
+      "correct_answer": "A specialised market serving a relatively small group",
+      "explanation_hebrew": "niche market הוא שוק מתמחה המיועד לקבוצה מצומצמת יחסית של לקוחות."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the arrival of Citroën help existing makers such as Aixam and Ligier?",
+      "difficulty": "B",
+      "options": [
+        "Citroën's publicity made more people aware that young drivers could use tiny cars",
+        "Citroën gave its factories to the smaller companies",
+        "Citroën removed every competing model from sale",
+        "Citroën persuaded governments to allow the cars on motorways"
+      ],
+      "correct_answer": "Citroën's publicity made more people aware that young drivers could use tiny cars",
+      "explanation_hebrew": "כוחה השיווקי של סיטרואן הגדיל את המודעות לכל הקטגוריה, וכך הועיל גם ליצרנים הוותיקים."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which limitation applies to the licence-free cars described?",
+      "difficulty": "B",
+      "options": [
+        "They may carry six passengers",
+        "They can be driven only in Paris",
+        "They are limited to 45km/h and cannot use motorways",
+        "They must use petrol rather than electricity"
+      ],
+      "correct_answer": "They are limited to 45km/h and cannot use motorways",
+      "explanation_hebrew": "הכתבה מציינת מהירות מרבית של 45 קמ״ש ואיסור נסיעה בכבישים מהירים."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Why did Daniel Laprès choose an Aixam, and what safety concern does he describe?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שאיבד את הזכות לנהוג לאחר שלא החליף בזמן את הרישיון הקנדי, שבכפר אין תחבורה ציבורית מספקת, ושהוא חושש מהפער במהירות מול כלי רכב גדולים.",
+      "expected_points": [
+        "He did not exchange his foreign licence in time and lost the right to drive a conventional car.",
+        "Public transport was not practical in his village and taxis were unsustainable.",
+        "He feels vulnerable because faster cars and trucks approach and pass the tiny car quickly."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain two reasons teenagers are increasingly choosing tiny cars instead of mopeds.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר לפחות שני גורמים: בטיחות והגנה ממזג האוויר, שינויי רגולציה שהקטינו את שוק הקטנועים, ותדמית חדשה בעקבות Ami.",
+      "expected_points": [
+        "Tiny cars offer better protection from weather than scooters or mopeds.",
+        "Teenagers perceive them as safer.",
+        "Stricter EU rules made mopeds and small scooters less available.",
+        "The Citroën Ami improved the category's image."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences weighing the benefits and drawbacks of a tiny car for a rural teenager such as Selena.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לאזן בין עצמאות, הגעה לבית הספר ולחברים ועלות השכרה, לבין שני מושבים, מהירות נמוכה, צפירות ואיסור כבישים מהירים.",
+      "expected_points": [
+        "It provides independence where public transport is limited.",
+        "It allows travel to school and friends.",
+        "Selena pays €60 a month plus insurance.",
+        "The car has only two seats and a 45km/h maximum speed.",
+        "It cannot use motorways and may frustrate faster drivers."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how the European tiny-car market has changed since 2020.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את השקת Ami, המעבר לחשמל, שינוי קהל הלקוחות, השפעת תקנות האיחוד וההתמתנות בצרפת לאחר ביטול הסובסידיות.",
+      "expected_points": [
+        "The Citroën Ami's 2020 launch changed the image and customer profile of tiny cars.",
+        "Teenagers became a much larger share of buyers.",
+        "More models became electric, reaching over 67% of new licence-free cars in 2026.",
+        "EU rules contributed to the decline of mopeds and scooters.",
+        "Sales grew strongly but later flattened in France after electric subsidies were withdrawn."
+      ]
+    }
+  ]
+}

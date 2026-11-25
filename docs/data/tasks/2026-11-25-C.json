@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-25",
+  "article_id": "C",
+  "article_title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+  "article_url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What central argument does the article make about Trump's intervention in Nvidia?",
+      "difficulty": "C",
+      "options": [
+        "It separates Trump from both Nvidia and the wider AI economy",
+        "It ties Trump's political reputation more closely to Nvidia, Huang and the uncertain AI boom",
+        "It guarantees that congressional investigations will end",
+        "It shows that AI investment no longer affects US stock markets"
+      ],
+      "correct_answer": "It ties Trump's political reputation more closely to Nvidia, Huang and the uncertain AI boom",
+      "explanation_hebrew": "הטענה המרכזית היא שהתערבות טראמפ קושרת את עתידו הפוליטי לחואנג, ל־Nvidia ולשגשוג הלא־ודאי של הבינה המלאכותית."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What oversight action are lawmakers considering?",
+      "difficulty": "C",
+      "options": [
+        "A ban on all data centres in the United States",
+        "A vote to nationalise Nvidia immediately",
+        "Subpoenas and compelled testimony about possible access by China to advanced chips",
+        "A public inquiry into European mini-cars"
+      ],
+      "correct_answer": "Subpoenas and compelled testimony about possible access by China to advanced chips",
+      "explanation_hebrew": "מחוקקים שוקלים זימונים ועדויות כפויות כדי לבדוק אם סין קיבלה גישה לטכנולוגיית שבבים מתקדמת."
+    },
+    {
+      "id": "C-3",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why could new revelations about Huang also harm Trump?",
+      "difficulty": "C",
+      "options": [
+        "Trump publicly claimed credit for the deal and helped restore Huang, linking their reputations",
+        "Trump sold every share he owned before the dispute",
+        "Huang is running against Trump in an election",
+        "Congress has already cleared both men of wrongdoing"
+      ],
+      "correct_answer": "Trump publicly claimed credit for the deal and helped restore Huang, linking their reputations",
+      "explanation_hebrew": "טראמפ נטל קרדיט פומבי והיה מעורב בהחזרת חואנג, ולכן מידע מזיק חדש עלול לפגוע גם בו."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “inextricably linked” mean in the article?",
+      "difficulty": "C",
+      "options": [
+        "Connected only by a short-term contract",
+        "Separated by opposing political goals",
+        "Mentioned together by accident",
+        "Connected so closely that they are difficult to separate"
+      ],
+      "correct_answer": "Connected so closely that they are difficult to separate",
+      "explanation_hebrew": "הביטוי מתאר קשר הדוק כל כך שקשה להפריד בין גורלותיהם של טראמפ וחואנג."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What political division inside Trump's administration does the article describe?",
+      "difficulty": "C",
+      "options": [
+        "Scott Bessent and Howard Lutnick disagreed over restrictions on AI-chip exports",
+        "JD Vance and Tom Cotton disagreed over motorway speed limits",
+        "The Treasury and Congress agreed to end all chip exports",
+        "Democrats divided over whether Huang founded Nvidia"
+      ],
+      "correct_answer": "Scott Bessent and Howard Lutnick disagreed over restrictions on AI-chip exports",
+      "explanation_hebrew": "הכתבה מתארת עימות בין סקוט בסנט להווארד לוטניק בשאלת הגבלות יצוא שבבי AI."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How sharply had Nvidia's stock fallen before Trump's intervention?",
+      "difficulty": "C",
+      "options": [
+        "About 8.6% over several years",
+        "Exactly 10% in a single hour",
+        "More than 32% over several weeks, including 14% on the previous Friday",
+        "It had risen continuously without any decline"
+      ],
+      "correct_answer": "More than 32% over several weeks, including 14% on the previous Friday",
+      "explanation_hebrew": "הכתבה מציינת ירידה של יותר מ־32% במשך כמה שבועות, כולל 14% ביום שישי."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain why public concern about AI makes Trump's support for Nvidia politically risky.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשור בין דרישות להגבלות על מרכזי נתונים, חשש מהפרעה כלכלית וחברתית, התנגדות בבסיס הכפרי והזדהות טראמפ עם תעשיית ה־AI.",
+      "expected_points": [
+        "Candidates from both political sides called for restrictions and legal guardrails.",
+        "Communities worry about data centres' demands on local resources and infrastructure.",
+        "Trump has positioned himself as a major supporter of AI growth.",
+        "If those concerns deepen, his close association with Nvidia may create political costs."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What conflict-of-interest concern does the article raise about Trump's role?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שטראמפ התערב בהחלטות של חברה פרטית גדולה בעודו מחזיק במניות בשווי מיליוני דולרים, בתקופה שבה שחיתות הייתה נושא מרכזי לבוחרים.",
+      "expected_points": [
+        "Trump intervened in the deliberations of a major private company.",
+        "He owns millions of dollars of stock in the company.",
+        "Polling showed political corruption was a leading voter concern.",
+        "The intervention may strengthen perceptions that powerful people receive special treatment."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences analysing why Trump may have judged the intervention worth the risk.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר את חשיבות הכלכלה למורשתו, תרומת השקעות AI לצמיחה, מרכזיות Nvidia וחשש מקריסת בועה שתפגע בשווקים ובנשיאותו.",
+      "expected_points": [
+        "Trump treats economic performance as central to his political legacy.",
+        "Recent US growth has depended heavily on AI investment.",
+        "Nvidia sits at the centre of the American AI industry.",
+        "Its sharp decline also pulled down major stock indices.",
+        "Trump may have intervened to prevent an AI-led market crash with broad political consequences."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the article's case that Trump's intervention may have delayed rather than solved a crisis.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את החזרת חואנג והעלייה הראשונית, החקירות האפשריות, החששות הציבוריים והפוליטיים, הירידות בשוק והיחלשות העלייה ביום שלאחר מכן.",
+      "expected_points": [
+        "Trump helped restore Huang and Nvidia's stock initially rebounded.",
+        "Congressional and possible state investigations could still produce damaging findings.",
+        "Public scepticism about AI and corruption creates continuing political risk.",
+        "Nvidia and major indices had already suffered steep losses.",
+        "The stock surrendered much of its rebound the next day, leaving the wider AI and economic outlook unresolved."
+      ]
+    }
+  ]
+}

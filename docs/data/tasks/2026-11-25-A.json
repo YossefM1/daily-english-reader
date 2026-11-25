@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-25",
+  "article_id": "A",
+  "article_title": "Great British Bake Off winner crowned after high-stakes final",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm894exd27j2o",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Moyin Odeniran winning Bake Off after balancing the competition with university studies",
+        "A new university course about political economy and baking",
+        "A church opening a professional bakery in Loughton",
+        "The judges changing the rules of the Bake Off final"
+      ],
+      "correct_answer": "Moyin Odeniran winning Bake Off after balancing the competition with university studies",
+      "explanation_hebrew": "הכתבה מתמקדת בזכייתו של מוין אודנירן ובכך ששילב את התחרות עם לימודיו באוניברסיטה."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who did Odeniran beat in the final?",
+      "difficulty": "A",
+      "options": [
+        "Paul Hollywood and Nigella Lawson",
+        "His mother and sister",
+        "Tom Whittaker and Mo Mahir",
+        "Two students from King's College London"
+      ],
+      "correct_answer": "Tom Whittaker and Mo Mahir",
+      "explanation_hebrew": "אודנירן ניצח בגמר את טום ויטאקר ואת מו מאהיר."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What degree result did Odeniran achieve?",
+      "difficulty": "A",
+      "options": [
+        "He received a first in political economy",
+        "He failed his final examination",
+        "He postponed his degree until next year",
+        "He earned a degree in food science"
+      ],
+      "correct_answer": "He received a first in political economy",
+      "explanation_hebrew": "למרות עומס הצילומים, הוא השיג ציון first בתואר בכלכלה פוליטית."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “put my best foot forward” mean in Odeniran's comment about the final?",
+      "difficulty": "A",
+      "options": [
+        "Leave the competition early",
+        "Copy another baker's work",
+        "Avoid taking any risks",
+        "Make the strongest effort possible"
+      ],
+      "correct_answer": "Make the strongest effort possible",
+      "explanation_hebrew": "בהקשר זה הביטוי אומר שהוא עשה את המאמץ הטוב ביותר שיכול היה."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which set of challenges did the finalists face?",
+      "difficulty": "A",
+      "options": [
+        "A citrus celebration cake, crème brûlée doughnuts and a tribute to British landscapes",
+        "A wedding cake, bread rolls and a French pastry tower",
+        "A chocolate sculpture, fruit pies and ice cream",
+        "A political-economy essay, biscuits and a church cake"
+      ],
+      "correct_answer": "A citrus celebration cake, crème brûlée doughnuts and a tribute to British landscapes",
+      "explanation_hebrew": "אלה שלוש המשימות המתוארות בכתבה לגמר התחרות."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why was Odeniran especially surprised by his victory?",
+      "difficulty": "A",
+      "options": [
+        "He had never baked before joining the show",
+        "He did not know the final was being filmed",
+        "He had struggled with early challenges but kept improving",
+        "He expected the judges to cancel the final"
+      ],
+      "correct_answer": "He had struggled with early challenges but kept improving",
+      "explanation_hebrew": "הוא התקשה בתחילת הסדרה ואף הופתע שהמשיך לעבור שלבים, ולכן הזכייה הפתיעה אותו במיוחד."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "How did Odeniran manage both Bake Off and university, and what was the result?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שהוא צילם את התחרות בזמן שעבד על לימודיו, שהדיסרטציה הוגשה חודש לאחר סיום הצילומים, ושהשיג first בתואר.",
+      "expected_points": [
+        "He competed in Bake Off while completing university studies.",
+        "His dissertation was due one month after filming ended.",
+        "He achieved a first in political economy at King's College London."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "In 2–3 sentences, describe what the judges said about Odeniran.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את דברי פול הוליווד על השיפור והקסם ואת דברי נייג'לה לוסון שהוא זוכה ראוי, לצד שבח לשאר המתמודדים.",
+      "expected_points": [
+        "Paul Hollywood called Odeniran's efforts “pure magic”.",
+        "Hollywood said he improved after struggling at the beginning.",
+        "Nigella Lawson called him a worthy winner and praised the other finalists as sensational."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences explaining the role of support in Odeniran's experience.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר את התמיכה ממשפחתו וחבריו, את העייפות מהצילומים ואת החברויות והלמידה שצבר בתוכנית.",
+      "expected_points": [
+        "He became exhausted while filming the series.",
+        "His mother, sister and close friends supported him.",
+        "He valued learning from the judges.",
+        "He said he made lasting friendships through the show."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise Odeniran's path to winning Bake Off in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את גילו ומקום מגוריו, השילוב עם הלימודים, הקשיים המוקדמים, משימות הגמר והזכייה.",
+      "expected_points": [
+        "Odeniran is a 22-year-old from Loughton, Essex.",
+        "He balanced the competition with a political economy degree.",
+        "He struggled with some early challenges but improved throughout the series.",
+        "The final included three demanding baking tasks.",
+        "He beat Tom Whittaker and Mo Mahir and was crowned the winner."
+      ]
+    }
+  ]
+}
