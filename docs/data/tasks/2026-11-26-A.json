@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-26",
+  "article_id": "A",
+  "article_title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+  "article_url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Angelina Jolie and Brad Pitt ending their legal dispute over her sale of a French winery stake",
+        "A new film starring Jolie and Pitt at a vineyard",
+        "A police decision to reopen their divorce case",
+        "The sale of a Hollywood studio to a French company"
+      ],
+      "correct_answer": "Angelina Jolie and Brad Pitt ending their legal dispute over her sale of a French winery stake",
+      "explanation_hebrew": "הכתבה עוסקת בסיום הסכסוך המשפטי סביב מכירת חלקה של ג'ולי ביקב הצרפתי."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When did Jolie and Pitt buy a controlling interest in Château Miraval?",
+      "difficulty": "A",
+      "options": [
+        "2005",
+        "2008",
+        "2014",
+        "2016"
+      ],
+      "correct_answer": "2008",
+      "explanation_hebrew": "השניים רכשו שליטה בשאטו מיראבל בשנת 2008."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Pitt claim Jolie had done without his permission?",
+      "difficulty": "A",
+      "options": [
+        "Changed the name of their children",
+        "Sold her share in the winery",
+        "Moved the vineyard to Luxembourg",
+        "Cancelled their 2014 wedding"
+      ],
+      "correct_answer": "Sold her share in the winery",
+      "explanation_hebrew": "פיט טען שג'ולי מכרה את חלקה ביקב ללא רשותו."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “settled out of court” mean in the joint statement?",
+      "difficulty": "A",
+      "options": [
+        "The court dismissed every allegation as false",
+        "The dispute was moved to a different country",
+        "The parties reached an agreement without a court judgment",
+        "The winery was sold at a public auction"
+      ],
+      "correct_answer": "The parties reached an agreement without a court judgment",
+      "explanation_hebrew": "הביטוי מתאר הסכמה בין הצדדים ללא הכרעה של בית המשפט."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What legal matter is reported as still ongoing?",
+      "difficulty": "A",
+      "options": [
+        "Pitt's litigation with Stoli Group",
+        "Jolie's adoption of Maddox",
+        "The police investigation of the 2016 flight",
+        "The couple's divorce settlement"
+      ],
+      "correct_answer": "Pitt's litigation with Stoli Group",
+      "explanation_hebrew": "הכתבה מציינת שההליך של פיט מול Stoli Group עדיין נמשך."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why did the representatives say the settlement was in the family's best interests?",
+      "difficulty": "A",
+      "options": [
+        "They wanted to continue the public dispute",
+        "They planned to reopen the vineyard as a school",
+        "They wanted the children to testify in court",
+        "They wished to end a long, bitter conflict and avoid further public comment"
+      ],
+      "correct_answer": "They wished to end a long, bitter conflict and avoid further public comment",
+      "explanation_hebrew": "ההצהרה מדגישה סיום סכסוך ארוך והימנעות מהמשך תגובות פומביות לטובת המשפחה."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What was Pitt's argument about the agreement governing the winery shares?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין שלדבריו השניים הסכימו שלא למכור את חלקיהם ללא רשות הצד האחר, ושמכירת ג'ולי הפרה הסכמה זו.",
+      "expected_points": [
+        "Pitt said they had agreed not to sell either stake without the other's permission.",
+        "He alleged Jolie sold her share without his knowledge or consent.",
+        "He said the sale forced him to partner with an unwanted third party."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "In 2–3 sentences, explain how the winery dispute related to the couple's divorce.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לתאר את מכירת החלק ביקב, את תביעת פיט ואת התביעה הנגדית של ג'ולי על האירוע במטוס שהוביל לגירושין.",
+      "expected_points": [
+        "Pitt sued over Jolie's sale of her winery stake.",
+        "Jolie counter-sued with allegations concerning a 2016 private-jet incident.",
+        "She filed for divorce after that incident, and the winery dispute unfolded during the bitter separation."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences distinguishing allegations from confirmed outcomes in the article.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להבחין בין הטענות של שני הצדדים לבין העובדות שאושרו: לא הוגש כתב אישום, פיט הכחיש, הגירושין הוסדרו והסכסוך ביקב הסתיים.",
+      "expected_points": [
+        "Pitt alleged Jolie sold her stake without permission.",
+        "Jolie alleged Pitt attacked and verbally abused family members during the flight.",
+        "Pitt denied the allegations and was not charged after a police investigation.",
+        "The divorce and the winery lawsuits were ultimately settled."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the Château Miraval dispute and its resolution in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את רכישת היקב, הנישואים במקום, מכירת חלקה של ג'ולי, התביעות ההדדיות וההסדר מחוץ לבית המשפט.",
+      "expected_points": [
+        "The couple bought a controlling interest in Château Miraval in 2008 and married there in 2014.",
+        "Jolie later sold her share to a company controlled by Yuri Shefler.",
+        "Pitt said the sale violated their agreement and sued.",
+        "Jolie counter-sued with allegations linked to the 2016 flight and divorce.",
+        "Their representatives announced that both legal actions had been settled out of court."
+      ]
+    }
+  ]
+}

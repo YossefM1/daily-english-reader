@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-26",
+  "article_id": "B",
+  "article_title": "Poundland collapses putting 11,000 jobs at risk",
+  "article_url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "B",
+      "options": [
+        "Why Poundland entered administration after rescue talks failed, threatening jobs and stores",
+        "How Poundland opened 600 new stores before Christmas",
+        "Why a German firm successfully bought Poundland",
+        "How Poundland workers received higher wages"
+      ],
+      "correct_answer": "Why Poundland entered administration after rescue talks failed, threatening jobs and stores",
+      "explanation_hebrew": "הכתבה מסבירה כיצד כישלון עסקת הצלה הוביל להליכי חדלות פירעון וסיכן משרות וחנויות."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What will happen to Poundland's shops during the administration process for now?",
+      "difficulty": "B",
+      "options": [
+        "They will all close immediately",
+        "They will remain open and continue trading",
+        "They will become government offices",
+        "They will sell only online"
+      ],
+      "correct_answer": "They will remain open and continue trading",
+      "explanation_hebrew": "החנויות ומרכזי ההפצה יישארו פתוחים וימשיכו לפעול בשלב זה."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Barry Williams say Gordon Brothers removed on 27 October?",
+      "difficulty": "B",
+      "options": [
+        "All store signs and uniforms",
+        "The company's Christmas advertising",
+        "Borrowing facilities and access to bank accounts",
+        "Every offer made by potential buyers"
+      ],
+      "correct_answer": "Borrowing facilities and access to bank accounts",
+      "explanation_hebrew": "וויליאמס אמר שהבעלים הסירו מסגרות אשראי וגישה לחשבונות הבנק."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “going concern” mean in the discussion of Poundland?",
+      "difficulty": "B",
+      "options": [
+        "A company able to continue operating as a business",
+        "A shop that sells only discounted goods",
+        "A temporary committee of MPs",
+        "A company whose assets have already been destroyed"
+      ],
+      "correct_answer": "A company able to continue operating as a business",
+      "explanation_hebrew": "going concern הוא עסק שמסוגל להמשיך לפעול באופן שוטף."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why might administration still offer some hope for Poundland?",
+      "difficulty": "B",
+      "options": [
+        "It automatically cancels all debts and protects every job",
+        "It lets potential buyers consider purchasing the whole business or parts of it",
+        "It guarantees Gordon Brothers will return its loans",
+        "It prevents rival retailers from buying stores"
+      ],
+      "correct_answer": "It lets potential buyers consider purchasing the whole business or parts of it",
+      "explanation_hebrew": "המנהל המיוחד יכול לבחון מכירת העסק או נכסיו, ולכן ייתכן שחלקים ממנו יינצלו."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which offer included £12.5m up front but failed to complete in time?",
+      "difficulty": "B",
+      "options": [
+        "Martin Property Group's offer",
+        "Pepco's offer",
+        "Zachert Private Equity's offer",
+        "Xyra group's offer"
+      ],
+      "correct_answer": "Xyra group's offer",
+      "explanation_hebrew": "Xyra הציעה 12.5 מיליון ליש״ט מראש אך לא הספיקה להשלים עסקה."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "How did Kelvin Blake describe the personal impact of Poundland's collapse?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין את 25 שנות עבודתו, חששו שבגילו לא ימצא עבודה אחרת, אובדן ההכנסה והמשך העבודה עד שיורו לו לעזוב.",
+      "expected_points": [
+        "Blake had worked for Poundland for 25 years.",
+        "At 62, he feared he would struggle to find another job.",
+        "He said his income was gone.",
+        "He expected to keep working until staff were told to leave."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did the timing of the funding restrictions make Poundland's position worse?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שההגבלות פגעו במימון הפעילות היומיומית ובחידוש המלאי דווקא לפני תקופת החגים החשובה למסחר.",
+      "expected_points": [
+        "Restricted funds affected day-to-day operations.",
+        "Stock could not be replenished at the necessary pace.",
+        "The problem occurred in the crucial run-up to the festive shopping period."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences comparing Gordon Brothers' defence with its critics' claims.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להציג את טענת החברה שהלוותה 85 מיליון ליש״ט ונכנסה כשלא היה מממן אחר, מול הטענות שהיא הגבילה כספים ועלולה להרוויח מפירוק.",
+      "expected_points": [
+        "Gordon Brothers says it lent Poundland £85m over a year.",
+        "It says it took over when the retailer was struggling and no one else would finance it.",
+        "Critics say restricting access to funds worsened the crisis.",
+        "They also argue the owner may recover its loans and profit through insolvency.",
+        "Gordon Brothers denies claims that it intended to run the chain down."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the causes, immediate effects and possible next steps in Poundland's administration.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את כישלון עסקת ההצלה, מגבלות המימון, הסיכון ל־11 אלף משרות, המשך המסחר הזמני ואפשרויות המכירה.",
+      "expected_points": [
+        "Rescue talks with several bidders failed.",
+        "Management said lost borrowing facilities and bank access left the company unable to remain solvent.",
+        "About 11,000 jobs are at risk.",
+        "Stores and distribution centres are continuing to trade during administration.",
+        "Administrators may sell the business or its assets in whole or in part."
+      ]
+    }
+  ]
+}

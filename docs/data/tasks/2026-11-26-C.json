@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-26",
+  "article_id": "C",
+  "article_title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+  "article_url": "https://www.bbc.co.uk/news/articles/cq772vedgepro",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central argument?",
+      "difficulty": "C",
+      "options": [
+        "France's mainstream risks being excluded from the presidential run-off because it lacks a unified, prepared candidate",
+        "Marine Le Pen and Jean-Luc Mélenchon have agreed to form a coalition",
+        "Emmanuel Macron is eligible to seek another term and leads every poll",
+        "The centre-right has already selected David Lisnard through a primary"
+      ],
+      "correct_answer": "France's mainstream risks being excluded from the presidential run-off because it lacks a unified, prepared candidate",
+      "explanation_hebrew": "הטענה המרכזית היא שהמרכז הפוליטי עלול להיעלם מסיבוב ההכרעה בגלל פיצול והיעדר מועמד מוכן ומאוחד."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Who is identified as the agreed candidate of the old Socialist Party and its allies?",
+      "difficulty": "C",
+      "options": [
+        "Edouard Philippe",
+        "Raphaël Glucksmann",
+        "Bruno Retailleau",
+        "David Lisnard"
+      ],
+      "correct_answer": "Raphaël Glucksmann",
+      "explanation_hebrew": "רפאל גלוקסמן מזוהה כמועמד שעליו מסכימים הסוציאליסטים ובעלי בריתם."
+    },
+    {
+      "id": "C-3",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why would a mainstream candidate theoretically be strong in a second-round contest?",
+      "difficulty": "C",
+      "options": [
+        "Both leading radical candidates face more opposition than support outside their bases",
+        "The constitution guarantees victory to the centrist candidate",
+        "Le Pen and Mélenchon cannot legally enter the second round",
+        "Macron can transfer all presidential powers to a successor"
+      ],
+      "correct_answer": "Both leading radical candidates face more opposition than support outside their bases",
+      "explanation_hebrew": "המאמר מסביר שללה פן ולמלנשון יש מתנגדים רבים, ולכן מועמד מרכזי עשוי לאחד נגדם רוב בסיבוב שני."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “put paid to” mean in the sentence about hopes for a meaningful challenge?",
+      "difficulty": "C",
+      "options": [
+        "Provided money for",
+        "Made widely popular",
+        "Delayed until election day",
+        "Ended or prevented"
+      ],
+      "correct_answer": "Ended or prevented",
+      "explanation_hebrew": "הביטוי put paid to פירושו לשים קץ לתקווה או למנוע את מימושה."
+    },
+    {
+      "id": "C-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What major weakness does Nicolas Baverez identify in the political space between Le Pen and Mélenchon?",
+      "difficulty": "C",
+      "options": [
+        "It lacks a strategy, programme, activists and an effective digital campaign",
+        "It has too many trained activists and published programmes",
+        "It refuses to use television but dominates social media",
+        "It has already selected a single candidate too early"
+      ],
+      "correct_answer": "It lacks a strategy, programme, activists and an effective digital campaign",
+      "explanation_hebrew": "באוורז מתאר חלל ללא אסטרטגיה, תוכנית, פעילים ונוכחות דיגיטלית אפקטיבית."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What platform does David Lisnard promote?",
+      "difficulty": "C",
+      "options": [
+        "More state ownership and higher taxes",
+        "A return to Macron's neither-left-nor-right formula",
+        "Less state and lower taxes",
+        "A joint economic programme with Mélenchon"
+      ],
+      "correct_answer": "Less state and lower taxes",
+      "explanation_hebrew": "ליסנאר מקדם מצע ליברלי כלכלי של פחות מדינה ומסים נמוכים יותר."
+    },
+    {
+      "id": "C-7",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how the large number of centre-right contenders weakens the mainstream challenge.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהריבוי מעיד על היעדר מנהיג מוסכם, מפצל קולות ותשומת לב, ומחליף הכנת מצע ומערך פעילים בוויכוחים על שמות ופריימריז.",
+      "expected_points": [
+        "No candidate has established clear authority over the centre-right field.",
+        "Multiple contenders divide support and make coordination harder.",
+        "Debate focuses on names, polling and a possible primary rather than a shared platform.",
+        "The fragmented field contrasts with the prepared campaigns of Le Pen and Mélenchon."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Why is association with Emmanuel Macron a problem for several mainstream candidates?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שפיליפ, אטאל וריטאיו כיהנו תחת מקרון, אך מקרון אינו פופולרי ונחשב רעיל פוליטית, ולכן הקשר אליו מכביד עליהם.",
+      "expected_points": [
+        "Philippe, Attal and Retailleau all served under Macron.",
+        "Macron is deeply unpopular in France.",
+        "Commentators describe him as politically toxic.",
+        "Lisnard tries to benefit from having refused to serve under Macron."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences assessing whether David Lisnard is likely to become a durable mainstream alternative.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לאזן בין העלייה המהירה, מאה אלף חברי המפלגה והשפה בנושא הגירה, לבין בסיסו המצומצם של ליברליזם כלכלי בצרפת והתחזית שיאבד תנופה.",
+      "expected_points": [
+        "Lisnard has risen quickly and his micro-party has more than 100,000 members.",
+        "His immigration language attracts voters on the right who do not want Le Pen.",
+        "He is viewed as a possible replacement for Edouard Philippe.",
+        "However, his economic liberalism appeals to only a minority in France.",
+        "Fressoz predicts his surge will fade after a temporary moment."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise why Le Pen and Mélenchon hold an advantage over France's mainstream ahead of 2027.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את הניסיון משלוש מערכות, חזון ואסטרטגיה מוכנים, פעילים מאומנים, שליטה במחנותיהם, קמפיינים דיגיטליים וקיטוב חברתי.",
+      "expected_points": [
+        "Both leaders have already run for president three times.",
+        "Their political visions and strategies were defined long ago.",
+        "They have trained activists and command their respective camps.",
+        "They run effective social-media campaigns.",
+        "Polarisation and recent social tension benefit them while mainstream rivals remain divided and unprepared."
+      ]
+    }
+  ]
+}
