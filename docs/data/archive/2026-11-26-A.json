@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-26",
+  "id": "A",
+  "level": "A",
+  "level_label": "A — Easier English",
+  "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o",
+  "published_at": "2026-11-25T23:18:27+00:00",
+  "age_hours_at_selection": 2.92,
+  "word_count": 549,
+  "generated_at": "2026-11-26T02:13:35.444864+00:00",
+  "difficulty_reason": "Short, direct report with a clear human-interest story and mostly B1/B2 vocabulary; minimal background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "settled",
+      "lemma": "settle",
+      "level": "B2",
+      "hebrew": "יִישֵּׁב / הִסְדִּיר",
+      "explanation_hebrew": "הגיע לפשרה או סיים סכסוך",
+      "pronunciation_hebrew": "סֶטְלְד",
+      "example": "They settled the dispute before the trial began."
+    },
+    {
+      "word": "battle",
+      "lemma": "battle",
+      "level": "B1",
+      "hebrew": "קְרָב / מַאֲבָק",
+      "explanation_hebrew": "מאבק ממושך או עימות",
+      "pronunciation_hebrew": "בָּטְל",
+      "example": "It was a long legal battle between the two companies."
+    },
+    {
+      "word": "stake",
+      "lemma": "stake",
+      "level": "B2",
+      "hebrew": "חֵלֶק / נֵתַח בַּעֲלוּת",
+      "explanation_hebrew": "חלק של בעלות בעסק או נכס",
+      "pronunciation_hebrew": "סְטֵייְק",
+      "example": "She sold her stake in the family business."
+    },
+    {
+      "word": "vineyard",
+      "lemma": "vineyard",
+      "level": "B2",
+      "hebrew": "כֶּרֶם",
+      "explanation_hebrew": "שטח שבו מגדלים ענבים ליין",
+      "pronunciation_hebrew": "וִוינְיַרְד",
+      "example": "The couple owned a large vineyard in France."
+    },
+    {
+      "word": "bitter",
+      "lemma": "bitter",
+      "level": "B2",
+      "hebrew": "מַר / נֵעְכָּר",
+      "explanation_hebrew": "מלא כעס וטינה",
+      "pronunciation_hebrew": "בִּיטֶר",
+      "example": "Their divorce became very bitter."
+    },
+    {
+      "word": "divorce",
+      "lemma": "divorce",
+      "level": "B1",
+      "hebrew": "גֵּירוּשִׁין",
+      "explanation_hebrew": "סיום רשמי של נישואין",
+      "pronunciation_hebrew": "דִיבוֹרְס",
+      "example": "They filed for divorce after years of conflict."
+    },
+    {
+      "word": "representatives",
+      "lemma": "representative",
+      "level": "B2",
+      "hebrew": "נְצִיגִים",
+      "explanation_hebrew": "אנשים הפועלים בשם מישהו אחר",
+      "pronunciation_hebrew": "רֶפְּרֶזֶנְטָטִיבְס",
+      "example": "Their representatives released a joint statement."
+    },
+    {
+      "word": "controlling",
+      "lemma": "control",
+      "level": "B2",
+      "hebrew": "שׁוֹלֵט / רוֹב מַכְרִיעַ",
+      "explanation_hebrew": "בעל חלק גדול מספיק כדי לשלוט",
+      "pronunciation_hebrew": "קוֹנְטְרוֹלִינְג",
+      "example": "He bought a controlling interest in the firm."
+    },
+    {
+      "word": "lawsuit",
+      "lemma": "lawsuit",
+      "level": "B2",
+      "hebrew": "תְּבִיעָה מִשְׁפָּטִית",
+      "explanation_hebrew": "הליך משפטי שאדם מגיש נגד אחר",
+      "pronunciation_hebrew": "לוֹסוּט",
+      "example": "He filed a lawsuit against his former partner."
+    },
+    {
+      "word": "argued",
+      "lemma": "argue",
+      "level": "B1",
+      "hebrew": "טָעַן",
+      "explanation_hebrew": "הציג טענה או עמדה",
+      "pronunciation_hebrew": "אַרְגְיוּד",
+      "example": "The lawyer argued that the deal was unfair."
+    },
+    {
+      "word": "permission",
+      "lemma": "permission",
+      "level": "B1",
+      "hebrew": "רְשׁוּת / אִישּׁוּר",
+      "explanation_hebrew": "הסכמה רשמית לעשות משהו",
+      "pronunciation_hebrew": "פֶּרְמִישֶׁן",
+      "example": "She sold the shares without his permission."
+    },
+    {
+      "word": "accusing",
+      "lemma": "accuse",
+      "level": "B2",
+      "hebrew": "מַאֲשִׁים",
+      "explanation_hebrew": "טוען שמישהו עשה מעשה רע",
+      "pronunciation_hebrew": "אַקְיוּזִינְג",
+      "example": "She filed a lawsuit accusing him of lying."
+    },
+    {
+      "word": "prompting",
+      "lemma": "prompt",
+      "level": "B2",
+      "hebrew": "גּוֹרֵם לְ / מֵנִיעַ",
+      "explanation_hebrew": "גורם למשהו לקרות",
+      "pronunciation_hebrew": "פְּרוֹמְפְּטִינְג",
+      "example": "The incident, prompting her to act, changed everything."
+    },
+    {
+      "word": "settlement",
+      "lemma": "settlement",
+      "level": "B2",
+      "hebrew": "פְּשָׁרָה / הֶסְדֵּר",
+      "explanation_hebrew": "הסכם המסיים מחלוקת",
+      "pronunciation_hebrew": "סֶטְלְמֶנְט",
+      "example": "They reached a settlement out of court."
+    },
+    {
+      "word": "resolves",
+      "lemma": "resolve",
+      "level": "B2",
+      "hebrew": "פּוֹתֵר / מְיַישֵּׁב",
+      "explanation_hebrew": "מסיים בעיה או מחלוקת",
+      "pronunciation_hebrew": "רִיזוֹלְבְז",
+      "example": "The agreement resolves both legal actions."
+    },
+    {
+      "word": "respective",
+      "lemma": "respective",
+      "level": "C1",
+      "hebrew": "בְּהַתְאָמָה / שֶׁל כָּל אֶחָד",
+      "explanation_hebrew": "המתייחס לכל אחד בנפרד",
+      "pronunciation_hebrew": "רִיסְפֶּקְטִיב",
+      "example": "Each side dropped its respective claims."
+    },
+    {
+      "word": "attributed",
+      "lemma": "attribute",
+      "level": "C1",
+      "hebrew": "מְיוּחָס לְ",
+      "explanation_hebrew": "נחשב כמקור או כגורם של משהו",
+      "pronunciation_hebrew": "אַטְרִיבְּיוּטֶד",
+      "example": "The quotes were falsely attributed to him."
+    },
+    {
+      "word": "inflict",
+      "lemma": "inflict",
+      "level": "C1",
+      "hebrew": "לְהַסֵּב / לִגְרוֹם (נֵזֶק)",
+      "explanation_hebrew": "לגרום נזק או סבל",
+      "pronunciation_hebrew": "אִינְפְלִיקְט",
+      "example": "He tried to inflict harm on his rival."
+    },
+    {
+      "word": "claimed",
+      "lemma": "claim",
+      "level": "B1",
+      "hebrew": "טָעַן",
+      "explanation_hebrew": "אמר שמשהו נכון בלי הוכחה מלאה",
+      "pronunciation_hebrew": "קְלֵיימְד",
+      "example": "He claimed she acted without permission."
+    },
+    {
+      "word": "poisonous",
+      "lemma": "poisonous",
+      "level": "B2",
+      "hebrew": "רַעֲלִי / מֵזִיק",
+      "explanation_hebrew": "מזיק מאוד, מלא רעל",
+      "pronunciation_hebrew": "פּוֹיְזֶנֶס",
+      "example": "He described them as having poisonous intentions."
+    },
+    {
+      "word": "intentions",
+      "lemma": "intention",
+      "level": "B1",
+      "hebrew": "כַּוָּונוֹת",
+      "explanation_hebrew": "מה שאדם מתכנן לעשות",
+      "pronunciation_hebrew": "אִינְטֶנְשֶׁנְז",
+      "example": "He questioned the stranger's intentions."
+    },
+    {
+      "word": "alleged",
+      "lemma": "allege",
+      "level": "C1",
+      "hebrew": "נִטְעַן / לִכְאוֹרָה",
+      "explanation_hebrew": "שנאמר אך עדיין לא הוכח",
+      "pronunciation_hebrew": "אַלֵגְ'ד",
+      "example": "The alleged incident happened on a flight."
+    },
+    {
+      "word": "knowledge",
+      "lemma": "knowledge",
+      "level": "B1",
+      "hebrew": "יְדִיעָה / יֶדַע",
+      "explanation_hebrew": "מה שאדם יודע או מודע לו",
+      "pronunciation_hebrew": "נוֹלֶג'",
+      "example": "She sold it without his knowledge."
+    },
+    {
+      "word": "deferential",
+      "lemma": "deferential",
+      "level": "C2",
+      "hebrew": "כָּנוּעַ / מַפְגִּין כָּבוֹד יֵתֶר",
+      "explanation_hebrew": "מתנהג בכבוד רב ובהכנעה",
+      "pronunciation_hebrew": "דֶפֶרֶנְשֶׁל",
+      "example": "He said she was too deferential to the children."
+    },
+    {
+      "word": "lucrative",
+      "lemma": "lucrative",
+      "level": "C1",
+      "hebrew": "רְווֵחִי / מֵנִיב רֶווַח",
+      "explanation_hebrew": "מכניס הרבה כסף",
+      "pronunciation_hebrew": "לוּקְרָטִיב",
+      "example": "They were among the most lucrative names in Hollywood."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "A-q1",
+      "word": "settled",
+      "type": "english_to_hebrew",
+      "question": "What does “settled” mean?",
+      "options": [
+        "קְרָב / מַאֲבָק",
+        "חֵלֶק / נֵתַח בַּעֲלוּת",
+        "יִישֵּׁב / הִסְדִּיר",
+        "כֶּרֶם"
+      ],
+      "correct_answer": "יִישֵּׁב / הִסְדִּיר",
+      "explanation_hebrew": "“settled” פירושו יִישֵּׁב / הִסְדִּיר."
+    },
+    {
+      "id": "A-q2",
+      "word": "battle",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “קְרָב / מַאֲבָק”?",
+      "options": [
+        "bitter",
+        "vineyard",
+        "battle",
+        "stake"
+      ],
+      "correct_answer": "battle",
+      "explanation_hebrew": "המילה “battle” פירושה קְרָב / מַאֲבָק."
+    },
+    {
+      "id": "A-q3",
+      "word": "stake",
+      "type": "english_to_hebrew",
+      "question": "What does “stake” mean?",
+      "options": [
+        "כֶּרֶם",
+        "מַר / נֵעְכָּר",
+        "גֵּירוּשִׁין",
+        "חֵלֶק / נֵתַח בַּעֲלוּת"
+      ],
+      "correct_answer": "חֵלֶק / נֵתַח בַּעֲלוּת",
+      "explanation_hebrew": "“stake” פירושו חֵלֶק / נֵתַח בַּעֲלוּת."
+    },
+    {
+      "id": "A-q4",
+      "word": "vineyard",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “כֶּרֶם”?",
+      "options": [
+        "divorce",
+        "bitter",
+        "representatives",
+        "vineyard"
+      ],
+      "correct_answer": "vineyard",
+      "explanation_hebrew": "המילה “vineyard” פירושה כֶּרֶם."
+    },
+    {
+      "id": "A-q5",
+      "word": "bitter",
+      "type": "english_to_hebrew",
+      "question": "What does “bitter” mean?",
+      "options": [
+        "גֵּירוּשִׁין",
+        "נְצִיגִים",
+        "שׁוֹלֵט / רוֹב מַכְרִיעַ",
+        "מַר / נֵעְכָּר"
+      ],
+      "correct_answer": "מַר / נֵעְכָּר",
+      "explanation_hebrew": "“bitter” פירושו מַר / נֵעְכָּר."
+    },
+    {
+      "id": "A-q6",
+      "word": "divorce",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “גֵּירוּשִׁין”?",
+      "options": [
+        "divorce",
+        "controlling",
+        "representatives",
+        "lawsuit"
+      ],
+      "correct_answer": "divorce",
+      "explanation_hebrew": "המילה “divorce” פירושה גֵּירוּשִׁין."
+    },
+    {
+      "id": "A-q7",
+      "word": "representatives",
+      "type": "english_to_hebrew",
+      "question": "What does “representatives” mean?",
+      "options": [
+        "שׁוֹלֵט / רוֹב מַכְרִיעַ",
+        "תְּבִיעָה מִשְׁפָּטִית",
+        "נְצִיגִים",
+        "טָעַן"
+      ],
+      "correct_answer": "נְצִיגִים",
+      "explanation_hebrew": "“representatives” פירושו נְצִיגִים."
+    },
+    {
+      "id": "A-q8",
+      "word": "controlling",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “שׁוֹלֵט / רוֹב מַכְרִיעַ”?",
+      "options": [
+        "permission",
+        "argued",
+        "controlling",
+        "lawsuit"
+      ],
+      "correct_answer": "controlling",
+      "explanation_hebrew": "המילה “controlling” פירושה שׁוֹלֵט / רוֹב מַכְרִיעַ."
+    },
+    {
+      "id": "A-q9",
+      "word": "lawsuit",
+      "type": "english_to_hebrew",
+      "question": "What does “lawsuit” mean?",
+      "options": [
+        "תְּבִיעָה מִשְׁפָּטִית",
+        "מַאֲשִׁים",
+        "רְשׁוּת / אִישּׁוּר",
+        "טָעַן"
+      ],
+      "correct_answer": "תְּבִיעָה מִשְׁפָּטִית",
+      "explanation_hebrew": "“lawsuit” פירושו תְּבִיעָה מִשְׁפָּטִית."
+    },
+    {
+      "id": "A-q10",
+      "word": "argued",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “טָעַן”?",
+      "options": [
+        "accusing",
+        "permission",
+        "argued",
+        "prompting"
+      ],
+      "correct_answer": "argued",
+      "explanation_hebrew": "המילה “argued” פירושה טָעַן."
+    },
+    {
+      "id": "A-q11",
+      "word": "permission",
+      "type": "english_to_hebrew",
+      "question": "What does “permission” mean?",
+      "options": [
+        "מַאֲשִׁים",
+        "גּוֹרֵם לְ / מֵנִיעַ",
+        "רְשׁוּת / אִישּׁוּר",
+        "פְּשָׁרָה / הֶסְדֵּר"
+      ],
+      "correct_answer": "רְשׁוּת / אִישּׁוּר",
+      "explanation_hebrew": "“permission” פירושו רְשׁוּת / אִישּׁוּר."
+    },
+    {
+      "id": "A-q12",
+      "word": "accusing",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “מַאֲשִׁים”?",
+      "options": [
+        "accusing",
+        "resolves",
+        "settlement",
+        "prompting"
+      ],
+      "correct_answer": "accusing",
+      "explanation_hebrew": "המילה “accusing” פירושה מַאֲשִׁים."
+    },
+    {
+      "id": "A-q13",
+      "word": "prompting",
+      "type": "english_to_hebrew",
+      "question": "What does “prompting” mean?",
+      "options": [
+        "פּוֹתֵר / מְיַישֵּׁב",
+        "בְּהַתְאָמָה / שֶׁל כָּל אֶחָד",
+        "פְּשָׁרָה / הֶסְדֵּר",
+        "גּוֹרֵם לְ / מֵנִיעַ"
+      ],
+      "correct_answer": "גּוֹרֵם לְ / מֵנִיעַ",
+      "explanation_hebrew": "“prompting” פירושו גּוֹרֵם לְ / מֵנִיעַ."
+    },
+    {
+      "id": "A-q14",
+      "word": "settlement",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “פְּשָׁרָה / הֶסְדֵּר”?",
+      "options": [
+        "respective",
+        "settlement",
+        "resolves",
+        "attributed"
+      ],
+      "correct_answer": "settlement",
+      "explanation_hebrew": "המילה “settlement” פירושה פְּשָׁרָה / הֶסְדֵּר."
+    },
+    {
+      "id": "A-q15",
+      "word": "resolves",
+      "type": "english_to_hebrew",
+      "question": "What does “resolves” mean?",
+      "options": [
+        "פּוֹתֵר / מְיַישֵּׁב",
+        "בְּהַתְאָמָה / שֶׁל כָּל אֶחָד",
+        "מְיוּחָס לְ",
+        "לְהַסֵּב / לִגְרוֹם (נֵזֶק)"
+      ],
+      "correct_answer": "פּוֹתֵר / מְיַישֵּׁב",
+      "explanation_hebrew": "“resolves” פירושו פּוֹתֵר / מְיַישֵּׁב."
+    },
+    {
+      "id": "A-q16",
+      "word": "respective",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “בְּהַתְאָמָה / שֶׁל כָּל אֶחָד”?",
+      "options": [
+        "attributed",
+        "claimed",
+        "inflict",
+        "respective"
+      ],
+      "correct_answer": "respective",
+      "explanation_hebrew": "המילה “respective” פירושה בְּהַתְאָמָה / שֶׁל כָּל אֶחָד."
+    },
+    {
+      "id": "A-q17",
+      "word": "attributed",
+      "type": "english_to_hebrew",
+      "question": "What does “attributed” mean?",
+      "options": [
+        "טָעַן",
+        "רַעֲלִי / מֵזִיק",
+        "מְיוּחָס לְ",
+        "לְהַסֵּב / לִגְרוֹם (נֵזֶק)"
+      ],
+      "correct_answer": "מְיוּחָס לְ",
+      "explanation_hebrew": "“attributed” פירושו מְיוּחָס לְ."
+    },
+    {
+      "id": "A-q18",
+      "word": "inflict",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “לְהַסֵּב / לִגְרוֹם (נֵזֶק)”?",
+      "options": [
+        "inflict",
+        "intentions",
+        "claimed",
+        "poisonous"
+      ],
+      "correct_answer": "inflict",
+      "explanation_hebrew": "המילה “inflict” פירושה לְהַסֵּב / לִגְרוֹם (נֵזֶק)."
+    },
+    {
+      "id": "A-q19",
+      "word": "claimed",
+      "type": "english_to_hebrew",
+      "question": "What does “claimed” mean?",
+      "options": [
+        "רַעֲלִי / מֵזִיק",
+        "כַּוָּונוֹת",
+        "טָעַן",
+        "נִטְעַן / לִכְאוֹרָה"
+      ],
+      "correct_answer": "טָעַן",
+      "explanation_hebrew": "“claimed” פירושו טָעַן."
+    },
+    {
+      "id": "A-q20",
+      "word": "poisonous",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “רַעֲלִי / מֵזִיק”?",
+      "options": [
+        "alleged",
+        "poisonous",
+        "intentions",
+        "knowledge"
+      ],
+      "correct_answer": "poisonous",
+      "explanation_hebrew": "המילה “poisonous” פירושה רַעֲלִי / מֵזִיק."
+    },
+    {
+      "id": "A-q21",
+      "word": "intentions",
+      "type": "english_to_hebrew",
+      "question": "What does “intentions” mean?",
+      "options": [
+        "יְדִיעָה / יֶדַע",
+        "נִטְעַן / לִכְאוֹרָה",
+        "כַּוָּונוֹת",
+        "כָּנוּעַ / מַפְגִּין כָּבוֹד יֵתֶר"
+      ],
+      "correct_answer": "כַּוָּונוֹת",
+      "explanation_hebrew": "“intentions” פירושו כַּוָּונוֹת."
+    },
+    {
+      "id": "A-q22",
+      "word": "alleged",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “נִטְעַן / לִכְאוֹרָה”?",
+      "options": [
+        "lucrative",
+        "knowledge",
+        "deferential",
+        "alleged"
+      ],
+      "correct_answer": "alleged",
+      "explanation_hebrew": "המילה “alleged” פירושה נִטְעַן / לִכְאוֹרָה."
+    },
+    {
+      "id": "A-q23",
+      "word": "knowledge",
+      "type": "english_to_hebrew",
+      "question": "What does “knowledge” mean?",
+      "options": [
+        "יְדִיעָה / יֶדַע",
+        "רְווֵחִי / מֵנִיב רֶווַח",
+        "כָּנוּעַ / מַפְגִּין כָּבוֹד יֵתֶר",
+        "יִישֵּׁב / הִסְדִּיר"
+      ],
+      "correct_answer": "יְדִיעָה / יֶדַע",
+      "explanation_hebrew": "“knowledge” פירושו יְדִיעָה / יֶדַע."
+    },
+    {
+      "id": "A-q24",
+      "word": "deferential",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “כָּנוּעַ / מַפְגִּין כָּבוֹד יֵתֶר”?",
+      "options": [
+        "settled",
+        "battle",
+        "lucrative",
+        "deferential"
+      ],
+      "correct_answer": "deferential",
+      "explanation_hebrew": "המילה “deferential” פירושה כָּנוּעַ / מַפְגִּין כָּבוֹד יֵתֶר."
+    },
+    {
+      "id": "A-q25",
+      "word": "lucrative",
+      "type": "english_to_hebrew",
+      "question": "What does “lucrative” mean?",
+      "options": [
+        "קְרָב / מַאֲבָק",
+        "יִישֵּׁב / הִסְדִּיר",
+        "רְווֵחִי / מֵנִיב רֶווַח",
+        "חֵלֶק / נֵתַח בַּעֲלוּת"
+      ],
+      "correct_answer": "רְווֵחִי / מֵנִיב רֶווַח",
+      "explanation_hebrew": "“lucrative” פירושו רְווֵחִי / מֵנִיב רֶווַח."
+    }
+  ]
+}

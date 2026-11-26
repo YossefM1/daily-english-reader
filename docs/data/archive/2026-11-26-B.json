@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-26",
+  "id": "B",
+  "level": "B",
+  "level_label": "B — Intermediate English",
+  "title": "Poundland collapses putting 11,000 jobs at risk",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+  "published_at": "2026-11-25T21:31:10+00:00",
+  "age_hours_at_selection": 4.71,
+  "word_count": 899,
+  "generated_at": "2026-11-26T02:13:35.444864+00:00",
+  "difficulty_reason": "Moderate-length business report with some financial and legal vocabulary (B1/B2/C1) and a little background on insolvency.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "collapsed",
+      "lemma": "collapse",
+      "level": "B2",
+      "hebrew": "קָרַס / הִתְמוֹטֵט",
+      "explanation_hebrew": "נכשל לחלוטין ופסק להתקיים",
+      "pronunciation_hebrew": "קוֹלַפְּסְט",
+      "example": "The company collapsed after losing its funding."
+    },
+    {
+      "word": "administration",
+      "lemma": "administration",
+      "level": "B2",
+      "hebrew": "כּוֹנֵס נְכָסִים / נִיהוּל הֶסְדֵּר",
+      "explanation_hebrew": "מצב בו חברה חדלת פירעון מנוהלת בידי מומחה",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵיישֶׁן",
+      "example": "The retailer went into administration."
+    },
+    {
+      "word": "retailer",
+      "lemma": "retailer",
+      "level": "B2",
+      "hebrew": "קֵמְעוֹנַאי / רֶשֶׁת חֲנוּיוֹת",
+      "explanation_hebrew": "עסק שמוכר מוצרים ישירות ללקוחות",
+      "pronunciation_hebrew": "רִיטֵיילֶר",
+      "example": "The retailer has hundreds of shops."
+    },
+    {
+      "word": "distribution",
+      "lemma": "distribution",
+      "level": "B2",
+      "hebrew": "הֲפָצָה / חֲלוּקָה",
+      "explanation_hebrew": "תהליך הבאת מוצרים לחנויות",
+      "pronunciation_hebrew": "דִיסְטְרִיבְּיוּשֶׁן",
+      "example": "Their distribution centres stayed open."
+    },
+    {
+      "word": "bidders",
+      "lemma": "bidder",
+      "level": "B2",
+      "hebrew": "מֵצִיעִים / מֵתְמוֹדְדִים",
+      "explanation_hebrew": "גורמים המציעים לקנות משהו",
+      "pronunciation_hebrew": "בִּידֶרְז",
+      "example": "Several bidders showed interest in the chain."
+    },
+    {
+      "word": "rescue",
+      "lemma": "rescue",
+      "level": "B1",
+      "hebrew": "הַצָּלָה / חִילּוּץ",
+      "explanation_hebrew": "פעולה שמצילה ממצב קשה",
+      "pronunciation_hebrew": "רֶסְקְיוּ",
+      "example": "They hoped for a last-minute rescue deal."
+    },
+    {
+      "word": "solvent",
+      "lemma": "solvent",
+      "level": "C1",
+      "hebrew": "בַּעַל כּוֹשֶׁר פֵּירָעוֹן",
+      "explanation_hebrew": "מסוגל לשלם את החובות שלו",
+      "pronunciation_hebrew": "סוֹלְבֶנְט",
+      "example": "There were no funds to keep the business solvent."
+    },
+    {
+      "word": "circumstances",
+      "lemma": "circumstance",
+      "level": "B2",
+      "hebrew": "נְסִיבּוֹת",
+      "explanation_hebrew": "המצב והתנאים שבהם משהו קורה",
+      "pronunciation_hebrew": "סֶרְקֶמְסְטַנְסֶז",
+      "example": "Under these circumstances they had no choice."
+    },
+    {
+      "word": "directors",
+      "lemma": "director",
+      "level": "B1",
+      "hebrew": "מְנַהֲלִים / חֲבֵרֵי דִירֶקְטוֹרְיוֹן",
+      "explanation_hebrew": "האנשים שמנהלים חברה",
+      "pronunciation_hebrew": "דַיירֶקְטֶרְז",
+      "example": "The board of directors made the decision."
+    },
+    {
+      "word": "feared",
+      "lemma": "fear",
+      "level": "B1",
+      "hebrew": "חָשַׁשׁ / פָּחַד",
+      "explanation_hebrew": "היה מודאג שמשהו רע יקרה",
+      "pronunciation_hebrew": "פִיירְד",
+      "example": "He feared he would not find another job."
+    },
+    {
+      "word": "fabric",
+      "lemma": "fabric",
+      "level": "C1",
+      "hebrew": "מִרְקָם / אֵרִיג חֶבְרָתִי",
+      "explanation_hebrew": "המבנה הבסיסי שמחזיק קהילה",
+      "pronunciation_hebrew": "פַבְּרִיק",
+      "example": "The shop was part of the fabric of the town."
+    },
+    {
+      "word": "concerning",
+      "lemma": "concern",
+      "level": "B2",
+      "hebrew": "מֵדְאִיג",
+      "explanation_hebrew": "גורם לדאגה",
+      "pronunciation_hebrew": "קוֹנְסֶרְנִינְג",
+      "example": "The news was deeply concerning for workers."
+    },
+    {
+      "word": "appointed",
+      "lemma": "appoint",
+      "level": "B2",
+      "hebrew": "מוּנָה",
+      "explanation_hebrew": "נבחר רשמית לתפקיד",
+      "pronunciation_hebrew": "אַפּוֹינְטֶד",
+      "example": "A firm was appointed as administrator."
+    },
+    {
+      "word": "assets",
+      "lemma": "asset",
+      "level": "B2",
+      "hebrew": "נְכָסִים",
+      "explanation_hebrew": "דברים בעלי ערך שחברה מחזיקה",
+      "pronunciation_hebrew": "אַסֶטְס",
+      "example": "They will sell the business and its assets."
+    },
+    {
+      "word": "suppliers",
+      "lemma": "supplier",
+      "level": "B2",
+      "hebrew": "סַפָּקִים",
+      "explanation_hebrew": "חברות שמספקות סחורה לעסק",
+      "pronunciation_hebrew": "סַפְּלַיירְז",
+      "example": "Suppliers were worried about unpaid bills."
+    },
+    {
+      "word": "criticised",
+      "lemma": "criticise",
+      "level": "B2",
+      "hebrew": "מְתַח בִּיקּוֹרֶת",
+      "explanation_hebrew": "אמר שמשהו נעשה בצורה גרועה",
+      "pronunciation_hebrew": "קְרִיטִיסַייְזְד",
+      "example": "The firm was criticised over the sale."
+    },
+    {
+      "word": "accusations",
+      "lemma": "accusation",
+      "level": "B2",
+      "hebrew": "הַאֲשָׁמוֹת",
+      "explanation_hebrew": "טענות שמישהו עשה מעשה רע",
+      "pronunciation_hebrew": "אַקְיוּזֵיישֶׁנְז",
+      "example": "There were accusations of greed."
+    },
+    {
+      "word": "investment",
+      "lemma": "investment",
+      "level": "B1",
+      "hebrew": "הַשְׁקָעָה",
+      "explanation_hebrew": "כסף שמושקע כדי להרוויח בעתיד",
+      "pronunciation_hebrew": "אִינְבֶסְטְמֶנְט",
+      "example": "The investment firm denied the claims."
+    },
+    {
+      "word": "restructuring",
+      "lemma": "restructure",
+      "level": "C1",
+      "hebrew": "אִרְגּוּן מֵחָדָשׁ / הַבְרָאָה",
+      "explanation_hebrew": "שינוי מבנה של חברה כדי להצילה",
+      "pronunciation_hebrew": "רִיסְטְרַקְצֶ'רִינְג",
+      "example": "They specialise in restructuring companies."
+    },
+    {
+      "word": "distressed",
+      "lemma": "distressed",
+      "level": "C1",
+      "hebrew": "בְּמֵצוּקָה / בְּקֵשַׁיִים",
+      "explanation_hebrew": "בקשיים כלכליים חמורים",
+      "pronunciation_hebrew": "דִיסְטְרֶסְט",
+      "example": "The firm buys distressed businesses."
+    },
+    {
+      "word": "insolvency",
+      "lemma": "insolvency",
+      "level": "C1",
+      "hebrew": "חֲדֵלוּת פֵּירָעוֹן",
+      "explanation_hebrew": "מצב שבו אין יכולת לשלם חובות",
+      "pronunciation_hebrew": "אִינְסוֹלְבֶנְסִי",
+      "example": "The loan was meant to save it from insolvency."
+    },
+    {
+      "word": "inflation",
+      "lemma": "inflation",
+      "level": "B2",
+      "hebrew": "אִינְפְלַצְיָה / יוֹקֶר הַמִּחְיָה",
+      "explanation_hebrew": "עליית מחירים כללית",
+      "pronunciation_hebrew": "אִינְפְלֵיישֶׁן",
+      "example": "The business was vulnerable to inflation."
+    },
+    {
+      "word": "downturn",
+      "lemma": "downturn",
+      "level": "C1",
+      "hebrew": "הַאֲטָה / יְרִידָה כַּלְכָּלִית",
+      "explanation_hebrew": "תקופה של ירידה בפעילות הכלכלית",
+      "pronunciation_hebrew": "דַאוּנְטֶרְן",
+      "example": "A downturn in sales hurt the company."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פָּגִיעַ / חָשׂוּף",
+      "explanation_hebrew": "קל לפגוע בו או להזיק לו",
+      "pronunciation_hebrew": "וַלְנֶרַבְּל",
+      "example": "The firm remained vulnerable to any downturn."
+    },
+    {
+      "word": "inherited",
+      "lemma": "inherit",
+      "level": "B2",
+      "hebrew": "יָרַשׁ",
+      "explanation_hebrew": "קיבל משהו ממישהו קודם",
+      "pronunciation_hebrew": "אִינְהֶרִיטֶד",
+      "example": "They inherited a shareholder loan when they bought it."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "B-q1",
+      "word": "collapsed",
+      "type": "english_to_hebrew",
+      "question": "What does “collapsed” mean?",
+      "options": [
+        "כּוֹנֵס נְכָסִים / נִיהוּל הֶסְדֵּר",
+        "קָרַס / הִתְמוֹטֵט",
+        "קֵמְעוֹנַאי / רֶשֶׁת חֲנוּיוֹת",
+        "הֲפָצָה / חֲלוּקָה"
+      ],
+      "correct_answer": "קָרַס / הִתְמוֹטֵט",
+      "explanation_hebrew": "“collapsed” פירושו קָרַס / הִתְמוֹטֵט."
+    },
+    {
+      "id": "B-q2",
+      "word": "administration",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “כּוֹנֵס נְכָסִים / נִיהוּל הֶסְדֵּר”?",
+      "options": [
+        "distribution",
+        "administration",
+        "bidders",
+        "retailer"
+      ],
+      "correct_answer": "administration",
+      "explanation_hebrew": "המילה “administration” פירושה כּוֹנֵס נְכָסִים / נִיהוּל הֶסְדֵּר."
+    },
+    {
+      "id": "B-q3",
+      "word": "retailer",
+      "type": "english_to_hebrew",
+      "question": "What does “retailer” mean?",
+      "options": [
+        "הֲפָצָה / חֲלוּקָה",
+        "קֵמְעוֹנַאי / רֶשֶׁת חֲנוּיוֹת",
+        "מֵצִיעִים / מֵתְמוֹדְדִים",
+        "הַצָּלָה / חִילּוּץ"
+      ],
+      "correct_answer": "קֵמְעוֹנַאי / רֶשֶׁת חֲנוּיוֹת",
+      "explanation_hebrew": "“retailer” פירושו קֵמְעוֹנַאי / רֶשֶׁת חֲנוּיוֹת."
+    },
+    {
+      "id": "B-q4",
+      "word": "distribution",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “הֲפָצָה / חֲלוּקָה”?",
+      "options": [
+        "rescue",
+        "solvent",
+        "bidders",
+        "distribution"
+      ],
+      "correct_answer": "distribution",
+      "explanation_hebrew": "המילה “distribution” פירושה הֲפָצָה / חֲלוּקָה."
+    },
+    {
+      "id": "B-q5",
+      "word": "bidders",
+      "type": "english_to_hebrew",
+      "question": "What does “bidders” mean?",
+      "options": [
+        "מֵצִיעִים / מֵתְמוֹדְדִים",
+        "נְסִיבּוֹת",
+        "בַּעַל כּוֹשֶׁר פֵּירָעוֹן",
+        "הַצָּלָה / חִילּוּץ"
+      ],
+      "correct_answer": "מֵצִיעִים / מֵתְמוֹדְדִים",
+      "explanation_hebrew": "“bidders” פירושו מֵצִיעִים / מֵתְמוֹדְדִים."
+    },
+    {
+      "id": "B-q6",
+      "word": "rescue",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “הַצָּלָה / חִילּוּץ”?",
+      "options": [
+        "solvent",
+        "circumstances",
+        "directors",
+        "rescue"
+      ],
+      "correct_answer": "rescue",
+      "explanation_hebrew": "המילה “rescue” פירושה הַצָּלָה / חִילּוּץ."
+    },
+    {
+      "id": "B-q7",
+      "word": "solvent",
+      "type": "english_to_hebrew",
+      "question": "What does “solvent” mean?",
+      "options": [
+        "נְסִיבּוֹת",
+        "בַּעַל כּוֹשֶׁר פֵּירָעוֹן",
+        "חָשַׁשׁ / פָּחַד",
+        "מְנַהֲלִים / חֲבֵרֵי דִירֶקְטוֹרְיוֹן"
+      ],
+      "correct_answer": "בַּעַל כּוֹשֶׁר פֵּירָעוֹן",
+      "explanation_hebrew": "“solvent” פירושו בַּעַל כּוֹשֶׁר פֵּירָעוֹן."
+    },
+    {
+      "id": "B-q8",
+      "word": "circumstances",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “נְסִיבּוֹת”?",
+      "options": [
+        "directors",
+        "feared",
+        "fabric",
+        "circumstances"
+      ],
+      "correct_answer": "circumstances",
+      "explanation_hebrew": "המילה “circumstances” פירושה נְסִיבּוֹת."
+    },
+    {
+      "id": "B-q9",
+      "word": "directors",
+      "type": "english_to_hebrew",
+      "question": "What does “directors” mean?",
+      "options": [
+        "מֵדְאִיג",
+        "מִרְקָם / אֵרִיג חֶבְרָתִי",
+        "מְנַהֲלִים / חֲבֵרֵי דִירֶקְטוֹרְיוֹן",
+        "חָשַׁשׁ / פָּחַד"
+      ],
+      "correct_answer": "מְנַהֲלִים / חֲבֵרֵי דִירֶקְטוֹרְיוֹן",
+      "explanation_hebrew": "“directors” פירושו מְנַהֲלִים / חֲבֵרֵי דִירֶקְטוֹרְיוֹן."
+    },
+    {
+      "id": "B-q10",
+      "word": "feared",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “חָשַׁשׁ / פָּחַד”?",
+      "options": [
+        "concerning",
+        "appointed",
+        "fabric",
+        "feared"
+      ],
+      "correct_answer": "feared",
+      "explanation_hebrew": "המילה “feared” פירושה חָשַׁשׁ / פָּחַד."
+    },
+    {
+      "id": "B-q11",
+      "word": "fabric",
+      "type": "english_to_hebrew",
+      "question": "What does “fabric” mean?",
+      "options": [
+        "מִרְקָם / אֵרִיג חֶבְרָתִי",
+        "מֵדְאִיג",
+        "נְכָסִים",
+        "מוּנָה"
+      ],
+      "correct_answer": "מִרְקָם / אֵרִיג חֶבְרָתִי",
+      "explanation_hebrew": "“fabric” פירושו מִרְקָם / אֵרִיג חֶבְרָתִי."
+    },
+    {
+      "id": "B-q12",
+      "word": "concerning",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “מֵדְאִיג”?",
+      "options": [
+        "appointed",
+        "assets",
+        "concerning",
+        "suppliers"
+      ],
+      "correct_answer": "concerning",
+      "explanation_hebrew": "המילה “concerning” פירושה מֵדְאִיג."
+    },
+    {
+      "id": "B-q13",
+      "word": "appointed",
+      "type": "english_to_hebrew",
+      "question": "What does “appointed” mean?",
+      "options": [
+        "מְתַח בִּיקּוֹרֶת",
+        "מוּנָה",
+        "נְכָסִים",
+        "סַפָּקִים"
+      ],
+      "correct_answer": "מוּנָה",
+      "explanation_hebrew": "“appointed” פירושו מוּנָה."
+    },
+    {
+      "id": "B-q14",
+      "word": "assets",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “נְכָסִים”?",
+      "options": [
+        "accusations",
+        "criticised",
+        "suppliers",
+        "assets"
+      ],
+      "correct_answer": "assets",
+      "explanation_hebrew": "המילה “assets” פירושה נְכָסִים."
+    },
+    {
+      "id": "B-q15",
+      "word": "suppliers",
+      "type": "english_to_hebrew",
+      "question": "What does “suppliers” mean?",
+      "options": [
+        "הַאֲשָׁמוֹת",
+        "הַשְׁקָעָה",
+        "סַפָּקִים",
+        "מְתַח בִּיקּוֹרֶת"
+      ],
+      "correct_answer": "סַפָּקִים",
+      "explanation_hebrew": "“suppliers” פירושו סַפָּקִים."
+    },
+    {
+      "id": "B-q16",
+      "word": "criticised",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “מְתַח בִּיקּוֹרֶת”?",
+      "options": [
+        "accusations",
+        "investment",
+        "criticised",
+        "restructuring"
+      ],
+      "correct_answer": "criticised",
+      "explanation_hebrew": "המילה “criticised” פירושה מְתַח בִּיקּוֹרֶת."
+    },
+    {
+      "id": "B-q17",
+      "word": "accusations",
+      "type": "english_to_hebrew",
+      "question": "What does “accusations” mean?",
+      "options": [
+        "הַאֲשָׁמוֹת",
+        "הַשְׁקָעָה",
+        "בְּמֵצוּקָה / בְּקֵשַׁיִים",
+        "אִרְגּוּן מֵחָדָשׁ / הַבְרָאָה"
+      ],
+      "correct_answer": "הַאֲשָׁמוֹת",
+      "explanation_hebrew": "“accusations” פירושו הַאֲשָׁמוֹת."
+    },
+    {
+      "id": "B-q18",
+      "word": "investment",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “הַשְׁקָעָה”?",
+      "options": [
+        "investment",
+        "insolvency",
+        "restructuring",
+        "distressed"
+      ],
+      "correct_answer": "investment",
+      "explanation_hebrew": "המילה “investment” פירושה הַשְׁקָעָה."
+    },
+    {
+      "id": "B-q19",
+      "word": "restructuring",
+      "type": "english_to_hebrew",
+      "question": "What does “restructuring” mean?",
+      "options": [
+        "חֲדֵלוּת פֵּירָעוֹן",
+        "אִינְפְלַצְיָה / יוֹקֶר הַמִּחְיָה",
+        "בְּמֵצוּקָה / בְּקֵשַׁיִים",
+        "אִרְגּוּן מֵחָדָשׁ / הַבְרָאָה"
+      ],
+      "correct_answer": "אִרְגּוּן מֵחָדָשׁ / הַבְרָאָה",
+      "explanation_hebrew": "“restructuring” פירושו אִרְגּוּן מֵחָדָשׁ / הַבְרָאָה."
+    },
+    {
+      "id": "B-q20",
+      "word": "distressed",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “בְּמֵצוּקָה / בְּקֵשַׁיִים”?",
+      "options": [
+        "distressed",
+        "inflation",
+        "insolvency",
+        "downturn"
+      ],
+      "correct_answer": "distressed",
+      "explanation_hebrew": "המילה “distressed” פירושה בְּמֵצוּקָה / בְּקֵשַׁיִים."
+    },
+    {
+      "id": "B-q21",
+      "word": "insolvency",
+      "type": "english_to_hebrew",
+      "question": "What does “insolvency” mean?",
+      "options": [
+        "אִינְפְלַצְיָה / יוֹקֶר הַמִּחְיָה",
+        "הַאֲטָה / יְרִידָה כַּלְכָּלִית",
+        "חֲדֵלוּת פֵּירָעוֹן",
+        "פָּגִיעַ / חָשׂוּף"
+      ],
+      "correct_answer": "חֲדֵלוּת פֵּירָעוֹן",
+      "explanation_hebrew": "“insolvency” פירושו חֲדֵלוּת פֵּירָעוֹן."
+    },
+    {
+      "id": "B-q22",
+      "word": "inflation",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “אִינְפְלַצְיָה / יוֹקֶר הַמִּחְיָה”?",
+      "options": [
+        "inflation",
+        "inherited",
+        "downturn",
+        "vulnerable"
+      ],
+      "correct_answer": "inflation",
+      "explanation_hebrew": "המילה “inflation” פירושה אִינְפְלַצְיָה / יוֹקֶר הַמִּחְיָה."
+    },
+    {
+      "id": "B-q23",
+      "word": "downturn",
+      "type": "english_to_hebrew",
+      "question": "What does “downturn” mean?",
+      "options": [
+        "קָרַס / הִתְמוֹטֵט",
+        "הַאֲטָה / יְרִידָה כַּלְכָּלִית",
+        "יָרַשׁ",
+        "פָּגִיעַ / חָשׂוּף"
+      ],
+      "correct_answer": "הַאֲטָה / יְרִידָה כַּלְכָּלִית",
+      "explanation_hebrew": "“downturn” פירושו הַאֲטָה / יְרִידָה כַּלְכָּלִית."
+    },
+    {
+      "id": "B-q24",
+      "word": "vulnerable",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית משמעה “פָּגִיעַ / חָשׂוּף”?",
+      "options": [
+        "collapsed",
+        "inherited",
+        "vulnerable",
+        "administration"
+      ],
+      "correct_answer": "vulnerable",
+      "explanation_hebrew": "המילה “vulnerable” פירושה פָּגִיעַ / חָשׂוּף."
+    },
+    {
+      "id": "B-q25",
+      "word": "inherited",
+      "type": "english_to_hebrew",
+      "question": "What does “inherited” mean?",
+      "options": [
+        "כּוֹנֵס נְכָסִים / נִיהוּל הֶסְדֵּר",
+        "קֵמְעוֹנַאי / רֶשֶׁת חֲנוּיוֹת",
+        "קָרַס / הִתְמוֹטֵט",
+        "יָרַשׁ"
+      ],
+      "correct_answer": "יָרַשׁ",
+      "explanation_hebrew": "“inherited” פירושו יָרַשׁ."
+    }
+  ]
+}
