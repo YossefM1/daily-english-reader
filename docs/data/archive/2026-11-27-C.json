@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-27",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
+  "published_at": "2026-11-26T23:08:12+00:00",
+  "age_hours_at_selection": 3.1,
+  "word_count": 1181,
+  "generated_at": "2026-11-27T02:14:00.640085+00:00",
+  "difficulty_reason": "Dense, analytical technology-and-geopolitics feature with complex sentences and financial terminology; B2/C1/C2 vocabulary and significant background knowledge needed.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "extraordinary",
+      "lemma": "extraordinary",
+      "level": "B2",
+      "hebrew": "יוצא דופן",
+      "explanation_hebrew": "מיוחד מאוד, לא רגיל",
+      "pronunciation_hebrew": "אִקְסְטְרוֹרְדִינֶרִי",
+      "example": "It was an extraordinary achievement."
+    },
+    {
+      "word": "shockwaves",
+      "lemma": "shockwave",
+      "level": "C1",
+      "hebrew": "גלי הדף",
+      "explanation_hebrew": "השפעה חזקה ומהירה שמתפשטת בעקבות אירוע",
+      "pronunciation_hebrew": "שׁוֹקְוֵייבְז",
+      "example": "The news sent shockwaves through the market."
+    },
+    {
+      "word": "saga",
+      "lemma": "saga",
+      "level": "C1",
+      "hebrew": "פרשה ארוכה",
+      "explanation_hebrew": "סדרה ארוכה של אירועים מורכבים",
+      "pronunciation_hebrew": "סַאגַה",
+      "example": "The legal saga lasted for years."
+    },
+    {
+      "word": "exposure",
+      "lemma": "exposure",
+      "level": "C1",
+      "hebrew": "חשיפה",
+      "explanation_hebrew": "מידת ההיחשפות לסיכון או להשפעה",
+      "pronunciation_hebrew": "אִקְסְפּוֹזֶ'ר",
+      "example": "The bank has heavy exposure to the housing market."
+    },
+    {
+      "word": "soared",
+      "lemma": "soar",
+      "level": "C1",
+      "hebrew": "זינק / המריא",
+      "explanation_hebrew": "עלה במהירות ובחוזקה",
+      "pronunciation_hebrew": "סוֹרְד",
+      "example": "Prices soared after the announcement."
+    },
+    {
+      "word": "slumped",
+      "lemma": "slump",
+      "level": "C1",
+      "hebrew": "צנח / שקע",
+      "explanation_hebrew": "ירד בחדות",
+      "pronunciation_hebrew": "סְלַאמְפְּט",
+      "example": "Sales slumped during the crisis."
+    },
+    {
+      "word": "regulatory",
+      "lemma": "regulatory",
+      "level": "C1",
+      "hebrew": "רגולטורי / פיקוחי",
+      "explanation_hebrew": "קשור לכללים ולפיקוח של רשויות",
+      "pronunciation_hebrew": "רֶגְיוּלַטוֹרִי",
+      "example": "The company faces regulatory scrutiny."
+    },
+    {
+      "word": "scrutiny",
+      "lemma": "scrutiny",
+      "level": "C1",
+      "hebrew": "בחינה מדוקדקת",
+      "explanation_hebrew": "בדיקה קפדנית וביקורתית",
+      "pronunciation_hebrew": "סְקְרוּטִינִי",
+      "example": "The deal came under close scrutiny."
+    },
+    {
+      "word": "strategic",
+      "lemma": "strategic",
+      "level": "B2",
+      "hebrew": "אסטרטגי",
+      "explanation_hebrew": "קשור לתכנון חשוב וארוך טווח",
+      "pronunciation_hebrew": "סְטְרַטִיגִ'יק",
+      "example": "It was a strategic decision for the firm."
+    },
+    {
+      "word": "dependent",
+      "lemma": "dependent",
+      "level": "B2",
+      "hebrew": "תלוי",
+      "explanation_hebrew": "צריך משהו או מישהו אחר כדי להתקיים",
+      "pronunciation_hebrew": "דִיפֶּנְדֶנְט",
+      "example": "The town is dependent on tourism."
+    },
+    {
+      "word": "unrivalled",
+      "lemma": "unrivalled",
+      "level": "C2",
+      "hebrew": "ללא מתחרים",
+      "explanation_hebrew": "טוב או חזק יותר מכל האחרים",
+      "pronunciation_hebrew": "אַנְרַייוַלְד",
+      "example": "The museum has an unrivalled collection."
+    },
+    {
+      "word": "clout",
+      "lemma": "clout",
+      "level": "C2",
+      "hebrew": "כוח השפעה",
+      "explanation_hebrew": "כוח או השפעה, בדרך כלל פוליטי או כלכלי",
+      "pronunciation_hebrew": "קְלַאוּט",
+      "example": "The company has huge financial clout."
+    },
+    {
+      "word": "ecosystem",
+      "lemma": "ecosystem",
+      "level": "C1",
+      "hebrew": "מערכת אקולוגית / מערך",
+      "explanation_hebrew": "מערכת של חלקים שתלויים זה בזה",
+      "pronunciation_hebrew": "אִיקוֹסִיסְטֶם",
+      "example": "They built a whole software ecosystem."
+    },
+    {
+      "word": "outsourcing",
+      "lemma": "outsource",
+      "level": "C1",
+      "hebrew": "מיקור חוץ",
+      "explanation_hebrew": "מסירת עבודה לחברה חיצונית",
+      "pronunciation_hebrew": "אַאוּטְסוֹרְסִינְג",
+      "example": "They cut costs by outsourcing production."
+    },
+    {
+      "word": "vulnerable",
+      "lemma": "vulnerable",
+      "level": "B2",
+      "hebrew": "פגיע",
+      "explanation_hebrew": "שעלול להיפגע בקלות",
+      "pronunciation_hebrew": "וַלְנֶרַבֶּל",
+      "example": "Small firms are vulnerable to price changes."
+    },
+    {
+      "word": "indispensable",
+      "lemma": "indispensable",
+      "level": "C2",
+      "hebrew": "הכרחי / חיוני",
+      "explanation_hebrew": "כל כך חשוב שאי אפשר בלעדיו",
+      "pronunciation_hebrew": "אִינְדִיסְפֶּנְסַבֶּל",
+      "example": "She became indispensable to the team."
+    },
+    {
+      "word": "dominance",
+      "lemma": "dominance",
+      "level": "C1",
+      "hebrew": "שליטה / דומיננטיות",
+      "explanation_hebrew": "מצב של היות החזק או המוביל ביותר",
+      "pronunciation_hebrew": "דוֹמִינַנְס",
+      "example": "The firm's dominance in the market is clear."
+    },
+    {
+      "word": "semiconductor",
+      "lemma": "semiconductor",
+      "level": "C1",
+      "hebrew": "מוליך למחצה",
+      "explanation_hebrew": "חומר שמשמש לייצור שבבים אלקטרוניים",
+      "pronunciation_hebrew": "סֶמִיקוֹנְדַקְטֶר",
+      "example": "The chip is made of semiconductor material."
+    },
+    {
+      "word": "unprecedented",
+      "lemma": "unprecedented",
+      "level": "C1",
+      "hebrew": "חסר תקדים",
+      "explanation_hebrew": "שלא קרה מעולם קודם",
+      "pronunciation_hebrew": "אַנְפְּרֶסִידֶנְטֶד",
+      "example": "The growth was unprecedented."
+    },
+    {
+      "word": "smuggling",
+      "lemma": "smuggle",
+      "level": "C1",
+      "hebrew": "הברחה",
+      "explanation_hebrew": "העברת סחורה בניגוד לחוק",
+      "pronunciation_hebrew": "סְמַאגְלִינְג",
+      "example": "They were accused of smuggling goods."
+    },
+    {
+      "word": "legitimate",
+      "lemma": "legitimate",
+      "level": "C1",
+      "hebrew": "חוקי / לגיטימי",
+      "explanation_hebrew": "מותר על פי חוק או מוצדק",
+      "pronunciation_hebrew": "לֶגִ'יטִימֶט",
+      "example": "It is a legitimate business."
+    },
+    {
+      "word": "reliance",
+      "lemma": "reliance",
+      "level": "C1",
+      "hebrew": "הסתמכות / תלות",
+      "explanation_hebrew": "המצב של תלות במישהו או במשהו",
+      "pronunciation_hebrew": "רִילַייאַנְס",
+      "example": "Their reliance on one supplier is risky."
+    },
+    {
+      "word": "bipartisan",
+      "lemma": "bipartisan",
+      "level": "C2",
+      "hebrew": "דו-מפלגתי",
+      "explanation_hebrew": "בתמיכת שתי מפלגות יריבות",
+      "pronunciation_hebrew": "בַּייפַּארְטִיזַן",
+      "example": "The bill had bipartisan support."
+    },
+    {
+      "word": "backlash",
+      "lemma": "backlash",
+      "level": "C1",
+      "hebrew": "תגובת נגד חריפה",
+      "explanation_hebrew": "תגובה ציבורית שלילית וחזקה",
+      "pronunciation_hebrew": "בַּקְלַאשׁ",
+      "example": "The decision caused a public backlash."
+    },
+    {
+      "word": "pivotal",
+      "lemma": "pivotal",
+      "level": "C2",
+      "hebrew": "מכריע / מרכזי",
+      "explanation_hebrew": "חשוב מאוד ומשפיע על התוצאה",
+      "pronunciation_hebrew": "פִּיבוֹטַל",
+      "example": "She played a pivotal role in the deal."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "extraordinary",
+      "type": "english_to_hebrew",
+      "question": "What does “extraordinary” mean?",
+      "options": [
+        "יוצא דופן",
+        "חשיפה",
+        "פרשה ארוכה",
+        "גלי הדף"
+      ],
+      "correct_answer": "יוצא דופן",
+      "explanation_hebrew": "“extraordinary” פירושו יוצא דופן."
+    },
+    {
+      "id": "C-q2",
+      "word": "shockwaves",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “גלי הדף”?",
+      "options": [
+        "shockwaves",
+        "exposure",
+        "saga",
+        "soared"
+      ],
+      "correct_answer": "shockwaves",
+      "explanation_hebrew": "“גלי הדף” באנגלית הוא “shockwaves”."
+    },
+    {
+      "id": "C-q3",
+      "word": "saga",
+      "type": "english_to_hebrew",
+      "question": "What does “saga” mean?",
+      "options": [
+        "צנח / שקע",
+        "פרשה ארוכה",
+        "חשיפה",
+        "זינק / המריא"
+      ],
+      "correct_answer": "פרשה ארוכה",
+      "explanation_hebrew": "“saga” פירושו פרשה ארוכה."
+    },
+    {
+      "id": "C-q4",
+      "word": "exposure",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “חשיפה”?",
+      "options": [
+        "exposure",
+        "slumped",
+        "regulatory",
+        "soared"
+      ],
+      "correct_answer": "exposure",
+      "explanation_hebrew": "“חשיפה” באנגלית הוא “exposure”."
+    },
+    {
+      "id": "C-q5",
+      "word": "soared",
+      "type": "english_to_hebrew",
+      "question": "What does “soared” mean?",
+      "options": [
+        "רגולטורי / פיקוחי",
+        "צנח / שקע",
+        "בחינה מדוקדקת",
+        "זינק / המריא"
+      ],
+      "correct_answer": "זינק / המריא",
+      "explanation_hebrew": "“soared” פירושו זינק / המריא."
+    },
+    {
+      "id": "C-q6",
+      "word": "slumped",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “צנח / שקע”?",
+      "options": [
+        "scrutiny",
+        "regulatory",
+        "strategic",
+        "slumped"
+      ],
+      "correct_answer": "slumped",
+      "explanation_hebrew": "“צנח / שקע” באנגלית הוא “slumped”."
+    },
+    {
+      "id": "C-q7",
+      "word": "regulatory",
+      "type": "english_to_hebrew",
+      "question": "What does “regulatory” mean?",
+      "options": [
+        "רגולטורי / פיקוחי",
+        "אסטרטגי",
+        "בחינה מדוקדקת",
+        "תלוי"
+      ],
+      "correct_answer": "רגולטורי / פיקוחי",
+      "explanation_hebrew": "“regulatory” פירושו רגולטורי / פיקוחי."
+    },
+    {
+      "id": "C-q8",
+      "word": "scrutiny",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “בחינה מדוקדקת”?",
+      "options": [
+        "unrivalled",
+        "strategic",
+        "dependent",
+        "scrutiny"
+      ],
+      "correct_answer": "scrutiny",
+      "explanation_hebrew": "“בחינה מדוקדקת” באנגלית הוא “scrutiny”."
+    },
+    {
+      "id": "C-q9",
+      "word": "strategic",
+      "type": "english_to_hebrew",
+      "question": "What does “strategic” mean?",
+      "options": [
+        "ללא מתחרים",
+        "אסטרטגי",
+        "תלוי",
+        "כוח השפעה"
+      ],
+      "correct_answer": "אסטרטגי",
+      "explanation_hebrew": "“strategic” פירושו אסטרטגי."
+    },
+    {
+      "id": "C-q10",
+      "word": "dependent",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “תלוי”?",
+      "options": [
+        "unrivalled",
+        "clout",
+        "dependent",
+        "ecosystem"
+      ],
+      "correct_answer": "dependent",
+      "explanation_hebrew": "“תלוי” באנגלית הוא “dependent”."
+    },
+    {
+      "id": "C-q11",
+      "word": "unrivalled",
+      "type": "english_to_hebrew",
+      "question": "What does “unrivalled” mean?",
+      "options": [
+        "ללא מתחרים",
+        "מיקור חוץ",
+        "כוח השפעה",
+        "מערכת אקולוגית / מערך"
+      ],
+      "correct_answer": "ללא מתחרים",
+      "explanation_hebrew": "“unrivalled” פירושו ללא מתחרים."
+    },
+    {
+      "id": "C-q12",
+      "word": "clout",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “כוח השפעה”?",
+      "options": [
+        "outsourcing",
+        "clout",
+        "ecosystem",
+        "vulnerable"
+      ],
+      "correct_answer": "clout",
+      "explanation_hebrew": "“כוח השפעה” באנגלית הוא “clout”."
+    },
+    {
+      "id": "C-q13",
+      "word": "ecosystem",
+      "type": "english_to_hebrew",
+      "question": "What does “ecosystem” mean?",
+      "options": [
+        "הכרחי / חיוני",
+        "מיקור חוץ",
+        "פגיע",
+        "מערכת אקולוגית / מערך"
+      ],
+      "correct_answer": "מערכת אקולוגית / מערך",
+      "explanation_hebrew": "“ecosystem” פירושו מערכת אקולוגית / מערך."
+    },
+    {
+      "id": "C-q14",
+      "word": "outsourcing",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “מיקור חוץ”?",
+      "options": [
+        "vulnerable",
+        "outsourcing",
+        "dominance",
+        "indispensable"
+      ],
+      "correct_answer": "outsourcing",
+      "explanation_hebrew": "“מיקור חוץ” באנגלית הוא “outsourcing”."
+    },
+    {
+      "id": "C-q15",
+      "word": "vulnerable",
+      "type": "english_to_hebrew",
+      "question": "What does “vulnerable” mean?",
+      "options": [
+        "מוליך למחצה",
+        "הכרחי / חיוני",
+        "פגיע",
+        "שליטה / דומיננטיות"
+      ],
+      "correct_answer": "פגיע",
+      "explanation_hebrew": "“vulnerable” פירושו פגיע."
+    },
+    {
+      "id": "C-q16",
+      "word": "indispensable",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “הכרחי / חיוני”?",
+      "options": [
+        "semiconductor",
+        "unprecedented",
+        "indispensable",
+        "dominance"
+      ],
+      "correct_answer": "indispensable",
+      "explanation_hebrew": "“הכרחי / חיוני” באנגלית הוא “indispensable”."
+    },
+    {
+      "id": "C-q17",
+      "word": "dominance",
+      "type": "english_to_hebrew",
+      "question": "What does “dominance” mean?",
+      "options": [
+        "שליטה / דומיננטיות",
+        "חסר תקדים",
+        "הברחה",
+        "מוליך למחצה"
+      ],
+      "correct_answer": "שליטה / דומיננטיות",
+      "explanation_hebrew": "“dominance” פירושו שליטה / דומיננטיות."
+    },
+    {
+      "id": "C-q18",
+      "word": "semiconductor",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “מוליך למחצה”?",
+      "options": [
+        "unprecedented",
+        "legitimate",
+        "smuggling",
+        "semiconductor"
+      ],
+      "correct_answer": "semiconductor",
+      "explanation_hebrew": "“מוליך למחצה” באנגלית הוא “semiconductor”."
+    },
+    {
+      "id": "C-q19",
+      "word": "unprecedented",
+      "type": "english_to_hebrew",
+      "question": "What does “unprecedented” mean?",
+      "options": [
+        "הסתמכות / תלות",
+        "חוקי / לגיטימי",
+        "הברחה",
+        "חסר תקדים"
+      ],
+      "correct_answer": "חסר תקדים",
+      "explanation_hebrew": "“unprecedented” פירושו חסר תקדים."
+    },
+    {
+      "id": "C-q20",
+      "word": "smuggling",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “הברחה”?",
+      "options": [
+        "reliance",
+        "bipartisan",
+        "legitimate",
+        "smuggling"
+      ],
+      "correct_answer": "smuggling",
+      "explanation_hebrew": "“הברחה” באנגלית הוא “smuggling”."
+    },
+    {
+      "id": "C-q21",
+      "word": "legitimate",
+      "type": "english_to_hebrew",
+      "question": "What does “legitimate” mean?",
+      "options": [
+        "חוקי / לגיטימי",
+        "הסתמכות / תלות",
+        "תגובת נגד חריפה",
+        "דו-מפלגתי"
+      ],
+      "correct_answer": "חוקי / לגיטימי",
+      "explanation_hebrew": "“legitimate” פירושו חוקי / לגיטימי."
+    },
+    {
+      "id": "C-q22",
+      "word": "reliance",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “הסתמכות / תלות”?",
+      "options": [
+        "pivotal",
+        "reliance",
+        "bipartisan",
+        "backlash"
+      ],
+      "correct_answer": "reliance",
+      "explanation_hebrew": "“הסתמכות / תלות” באנגלית הוא “reliance”."
+    },
+    {
+      "id": "C-q23",
+      "word": "bipartisan",
+      "type": "english_to_hebrew",
+      "question": "What does “bipartisan” mean?",
+      "options": [
+        "דו-מפלגתי",
+        "יוצא דופן",
+        "מכריע / מרכזי",
+        "תגובת נגד חריפה"
+      ],
+      "correct_answer": "דו-מפלגתי",
+      "explanation_hebrew": "“bipartisan” פירושו דו-מפלגתי."
+    },
+    {
+      "id": "C-q24",
+      "word": "backlash",
+      "type": "hebrew_to_english",
+      "question": "מה הפירוש של “תגובת נגד חריפה”?",
+      "options": [
+        "shockwaves",
+        "pivotal",
+        "backlash",
+        "extraordinary"
+      ],
+      "correct_answer": "backlash",
+      "explanation_hebrew": "“תגובת נגד חריפה” באנגלית הוא “backlash”."
+    },
+    {
+      "id": "C-q25",
+      "word": "pivotal",
+      "type": "english_to_hebrew",
+      "question": "What does “pivotal” mean?",
+      "options": [
+        "פרשה ארוכה",
+        "יוצא דופן",
+        "גלי הדף",
+        "מכריע / מרכזי"
+      ],
+      "correct_answer": "מכריע / מרכזי",
+      "explanation_hebrew": "“pivotal” פירושו מכריע / מרכזי."
+    }
+  ]
+}
