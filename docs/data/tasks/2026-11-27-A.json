@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-27",
+  "article_id": "A",
+  "article_title": "Floating nature islands installed in Glasgow parks as Games legacy",
+  "article_url": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "Floating wildlife islands being added to Glasgow park ponds as an environmental Games legacy",
+        "New sports venues being built on islands in the River Clyde",
+        "Glasgow replacing five parks with housing",
+        "A company exporting drinking-water pipes from Scotland"
+      ],
+      "correct_answer": "Floating wildlife islands being added to Glasgow park ponds as an environmental Games legacy",
+      "explanation_hebrew": "הכתבה עוסקת באיים צפים שמותקנים בבריכות פארקים כדי לשפר את הטבע והמים כחלק ממורשת המשחקים."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much new wildlife habitat will the project create?",
+      "difficulty": "A",
+      "options": [
+        "About 20 square metres",
+        "Almost 250 square metres",
+        "Five square kilometres",
+        "Exactly 2,026 square metres"
+      ],
+      "correct_answer": "Almost 250 square metres",
+      "explanation_hebrew": "הפרויקט צפוי ליצור כמעט 250 מ״ר של בית גידול חדש."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What role do the plants' roots play?",
+      "difficulty": "A",
+      "options": [
+        "They power the islands with electricity",
+        "They prevent and remove harmful algae",
+        "They increase the speed of the islands",
+        "They keep visitors away from the parks"
+      ],
+      "correct_answer": "They prevent and remove harmful algae",
+      "explanation_hebrew": "השורשים מסייעים למנוע ולהסיר אצות מזיקות מן המים."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “buoyancy” mean in the description of the recycled plastic materials?",
+      "difficulty": "A",
+      "options": [
+        "The ability to float on water",
+        "The ability to produce flowers",
+        "The strength to resist rust",
+        "The process of cleaning algae"
+      ],
+      "correct_answer": "The ability to float on water",
+      "explanation_hebrew": "buoyancy היא היכולת של חומר או מבנה לצוף על פני המים."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Which groups are helping with planting and maintenance?",
+      "difficulty": "A",
+      "options": [
+        "Professional football clubs and airlines",
+        "Only Biomatrix engineers",
+        "Local schools and friends-of-the-park groups",
+        "Tourists from Boston and Venice"
+      ],
+      "correct_answer": "Local schools and friends-of-the-park groups",
+      "explanation_hebrew": "בתי ספר מקומיים וקבוצות ידידי הפארק מסייעים בשתילה ובתחזוקה."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are the islands placed in the middle of the water?",
+      "difficulty": "A",
+      "options": [
+        "To make them easier for cars to reach",
+        "To hide them from community volunteers",
+        "To provide birds with nesting space protected from disturbance",
+        "To stop aquatic wildlife from using their roots"
+      ],
+      "correct_answer": "To provide birds with nesting space protected from disturbance",
+      "explanation_hebrew": "המיקום במרכז המים יוצר לציפורים מקום קינון שמוגן יחסית מהפרעות."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "What materials and layers are used to build the floating islands?",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין פלסטיק ממוחזר, פלדת אל־חלד ימית, שכבת leca קלה והצמחים המוחדרים לתוכה.",
+      "expected_points": [
+        "Recycled plastic, including drinking-water pipes, provides buoyancy.",
+        "Marine-grade stainless steel holds the structure together.",
+        "A lightweight clay aggregate called leca covers the top.",
+        "Aquatic plants are inserted into the leca."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "In 2–3 sentences, describe two ways the islands support wildlife.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהשורשים מספקים מחסה לבעלי חיים במים ושהמיקום יוצר מרחבי קינון לציפורים ללא הפרעה.",
+      "expected_points": [
+        "Plant roots beneath the islands shelter aquatic wildlife.",
+        "Native plants increase habitat diversity.",
+        "The position in open water gives birds relatively undisturbed nesting spaces."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences explaining how the project connects the Commonwealth Games with local communities.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לקשר בין מימון Glasgow 2026, יעד המשחקים הירוקים, השתתפות בתי ספר וקבוצות קהילה, וגאווה בפארקים ובטבע העירוני.",
+      "expected_points": [
+        "Glasgow 2026 funds the project as part of its greener-Games commitment.",
+        "Community groups are planting the islands.",
+        "Local schools and friends-of-the-park groups will help maintain them.",
+        "The project celebrates local pride in parks, green spaces and the natural environment."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the floating-island project in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את חמשת הפארקים, מטרות הניקוי ובית הגידול, החומרים, מיני הצמחים, והמורשת הסביבתית של המשחקים.",
+      "expected_points": [
+        "The islands are being installed on ponds in five Glasgow parks.",
+        "They will create almost 250 square metres of habitat and help clean the water.",
+        "They use recycled plastic, marine-grade steel and leca.",
+        "Native plants provide shelter for aquatic wildlife and nesting space for birds.",
+        "The project is funded as a greener legacy of the 2026 Commonwealth Games."
+      ]
+    }
+  ]
+}

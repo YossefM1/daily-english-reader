@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-27",
+  "article_id": "B",
+  "article_title": "Why Trump's new tariffs are less of a threat",
+  "article_url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
+  "article_level": "B",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level B; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "B-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "Why does the article say Trump's latest tariffs are less threatening than last April's measures?",
+      "difficulty": "B",
+      "options": [
+        "They are delayed, subject to consultation and negotiation, and face legal and political constraints",
+        "They apply only to the United Kingdom",
+        "They have already been repealed by every US state",
+        "They eliminate all previous tariff rules"
+      ],
+      "correct_answer": "They are delayed, subject to consultation and negotiation, and face legal and political constraints",
+      "explanation_hebrew": "המכסים פחות מאיימים משום שהם נדחו, כפופים להתייעצות ולמשא ומתן, ונתונים למגבלות משפטיות ופוליטיות."
+    },
+    {
+      "id": "B-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "When are the new tariffs expected to take effect?",
+      "difficulty": "B",
+      "options": [
+        "Immediately after the announcement",
+        "January or possibly February",
+        "After the next presidential election",
+        "Only after the G20 summit in Miami"
+      ],
+      "correct_answer": "January or possibly February",
+      "explanation_hebrew": "הכתבה אומרת שהמכסים צפויים להיכנס לתוקף בינואר או אולי בפברואר."
+    },
+    {
+      "id": "B-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened to the original emergency legal basis for the tariffs?",
+      "difficulty": "B",
+      "options": [
+        "Congress extended it for ten years",
+        "China accepted it in the Trump-Xi deal",
+        "The Supreme Court struck it down",
+        "Twenty-five states adopted it"
+      ],
+      "correct_answer": "The Supreme Court struck it down",
+      "explanation_hebrew": "בית המשפט העליון ביטל את הבסיס המשפטי המקורי של מצב החירום."
+    },
+    {
+      "id": "B-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “upper ceilings” mean when describing the announced tariff rates?",
+      "difficulty": "B",
+      "options": [
+        "Minimum rates that cannot be changed",
+        "Rates applying only to buildings",
+        "Final rates already collected",
+        "Maximum rates that may be lowered through negotiation"
+      ],
+      "correct_answer": "Maximum rates that may be lowered through negotiation",
+      "explanation_hebrew": "upper ceilings הם שיעורי מקסימום, שעשויים לרדת במסגרת משא ומתן."
+    },
+    {
+      "id": "B-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why has US leverage over China weakened?",
+      "difficulty": "B",
+      "options": [
+        "China has become more dependent on US buyers",
+        "A smaller share of Chinese exports now goes to the US",
+        "The US no longer imports Chinese products",
+        "China has accepted immediate retaliation"
+      ],
+      "correct_answer": "A smaller share of Chinese exports now goes to the US",
+      "explanation_hebrew": "כאשר חלק קטן יותר מהיצוא הסיני מגיע לארה״ב, לסין קל יותר להפנות סחורות לשווקים אחרים."
+    },
+    {
+      "id": "B-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What could threaten tariffs on Canada authorised under Section 338?",
+      "difficulty": "B",
+      "options": [
+        "A Senate repeal bill supported by Democrats and possibly rebel Republicans",
+        "A request from the UK over its digital services tax",
+        "A ruling by the G20 summit host",
+        "A new forced-labour agreement with China"
+      ],
+      "correct_answer": "A Senate repeal bill supported by Democrats and possibly rebel Republicans",
+      "explanation_hebrew": "קיימת הצעת חוק לביטול, וייתכן שיהיו מספיק רפובליקנים מורדים כדי לאיים בעקיפת וטו נשיאותי."
+    },
+    {
+      "id": "B-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "How did Beijing respond to the latest tariff announcement?",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לציין שהתגובה הייתה מתונה, ללא צעדי תגמול, עם דחיית טענת עודף הייצור וקריאה ליישום הסכם שי־טראמפ.",
+      "expected_points": [
+        "Beijing's response was muted.",
+        "It did not announce retaliation.",
+        "It called industrial overcapacity a false issue.",
+        "It urged implementation of the Xi-Trump deal."
+      ]
+    },
+    {
+      "id": "B-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Explain how global trade has adapted to Trump's tariff wall.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להסביר שמדינות הסיטו זרמי סחר, שהיצוא הסיני לשווקים אחרים פיצה בהרבה על הירידה הכוללת, ושקנדה הרחיבה יצוא מחוץ לארה״ב.",
+      "expected_points": [
+        "Trade flows have been rerouted around the US tariff barrier.",
+        "China's increased exports to other markets more than offset its overall decline compared with 2024.",
+        "Canada's exports to the US were flat, but its commodity exports elsewhere grew sharply.",
+        "The world economy proved more resilient than expected."
+      ]
+    },
+    {
+      "id": "B-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences comparing the latest tariff announcement with last April's shock.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש להשוות בין הרטוריקה וההטלה המיידית באפריל לבין ההכרזה הזהירה, ההתייעצות, המו״מ, תקרות השיעורים והבסיס המשפטי החדש.",
+      "expected_points": [
+        "Last April's announcement used dramatic rhetoric and created an overnight shock.",
+        "The latest announcement was more tentative and emphasised further negotiation.",
+        "Implementation is delayed until January or February after consultation.",
+        "The announced rates are ceilings rather than necessarily final levels.",
+        "The new move also appears designed to strengthen the tariffs' legal basis."
+      ]
+    },
+    {
+      "id": "B-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise the legal, political and economic reasons the new tariffs may have a smaller impact.",
+      "difficulty": "B",
+      "rubric_hebrew": "יש לכלול את העיכוב והמו״מ, הבסיסים המשפטיים הנתונים לערעור, הקונגרס הדמוקרטי, היחלשות המנוף מול סין והסתגלות הסחר העולמי.",
+      "expected_points": [
+        "The tariffs are delayed and negotiable.",
+        "Their legal foundations face court challenges after the emergency basis was struck down.",
+        "A Democratic Congress intends to seek repeal, while some Republicans may rebel over Canada.",
+        "China sends a smaller share of exports to the US, reducing American leverage.",
+        "Other countries have already rerouted trade and adapted to the tariff wall."
+      ]
+    }
+  ]
+}

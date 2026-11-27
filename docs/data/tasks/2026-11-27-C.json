@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-27",
+  "article_id": "C",
+  "article_title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
+  "article_url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's central argument about Asia's AI strategy?",
+      "difficulty": "C",
+      "options": [
+        "Asia's dependence on Nvidia has supported rapid growth but leaves its economies exposed to company, political and regulatory shocks",
+        "Asian economies have stopped investing in AI infrastructure",
+        "Nvidia has moved all chip production from Taiwan to the United States",
+        "The region's AI growth no longer depends on data centres"
+      ],
+      "correct_answer": "Asia's dependence on Nvidia has supported rapid growth but leaves its economies exposed to company, political and regulatory shocks",
+      "explanation_hebrew": "הטענה המרכזית היא שהתלות ב־Nvidia האיצה צמיחה, אך חושפת את כלכלות אסיה לזעזועים עסקיים, פוליטיים ורגולטוריים."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why is Taiwan especially vulnerable to changes in AI demand?",
+      "difficulty": "C",
+      "options": [
+        "It imports all memory chips from Europe",
+        "TSMC manufactures most of Nvidia's outsourced chip production",
+        "It has banned data-centre investment",
+        "Nvidia stopped using Taiwanese suppliers in 2024"
+      ],
+      "correct_answer": "TSMC manufactures most of Nvidia's outsourced chip production",
+      "explanation_hebrew": "Nvidia מוציאה את רוב הייצור ל־TSMC, ולכן הביקוש ל־AI משפיע ישירות על הכלכלה הטייוואנית."
+    },
+    {
+      "id": "C-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How much did Asia-Pacific data-centre investment reach in 2025?",
+      "difficulty": "C",
+      "options": [
+        "$150bn",
+        "$60bn",
+        "$11.6bn",
+        "$1bn"
+      ],
+      "correct_answer": "$11.6bn",
+      "explanation_hebrew": "לפי CBRE, ההשקעה במרכזי נתונים באזור הגיעה לשיא של 11.6 מיליארד דולר ב־2025."
+    },
+    {
+      "id": "C-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “symbolic bellwether” mean in the description of Nvidia?",
+      "difficulty": "C",
+      "options": [
+        "A company whose performance signals the direction of the wider AI market",
+        "A government agency regulating chip exports",
+        "A factory that produces only memory chips",
+        "A lender protected from market changes"
+      ],
+      "correct_answer": "A company whose performance signals the direction of the wider AI market",
+      "explanation_hebrew": "bellwether הוא גורם שמצבו משמש סימן לכיוון השוק הרחב יותר."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why are the new US export rules particularly important for South East Asia?",
+      "difficulty": "C",
+      "options": [
+        "The region has invested billions in data centres serving Chinese firms",
+        "They require every Asian company to stop using cloud computing",
+        "They transfer all Nvidia factories to Singapore",
+        "They remove scrutiny from data-centre operators"
+      ],
+      "correct_answer": "The region has invested billions in data centres serving Chinese firms",
+      "explanation_hebrew": "הכללים מגבילים לא רק שבבים אלא גם כוח מחשוב ששוכרות חברות סיניות, ולכן מסכנים השקעות אזוריות גדולות."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What immediate issue does Huang's return solve, according to Charu Chanana?",
+      "difficulty": "C",
+      "options": [
+        "The shortage of memory chips",
+        "Taiwan's reliance on TSMC",
+        "Megaspeed's US ban",
+        "Nvidia's leadership crisis"
+      ],
+      "correct_answer": "Nvidia's leadership crisis",
+      "explanation_hebrew": "חזרתו של חואנג פותרת את משבר ההנהגה המיידי, אך לא את הסיכונים המשפטיים והפוליטיים."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe three ways Nvidia supports Asia's AI ecosystem.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שלושה מן הבאים: שבבים למרכזי נתונים ומודלים, הסתמכות על יצרנים אסייתיים, מימון והלוואות, השקעות בטייוואן או הזנת תעשיות רכב ואלקטרוניקה.",
+      "expected_points": [
+        "Its chips power data centres and AI models across the region.",
+        "It relies on Asian manufacturers such as TSMC and component suppliers in South Korea and Japan.",
+        "It acts as a financial backstop and lender to AI supply-chain companies.",
+        "Its technology supports companies making cars and electronics."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "inference",
+      "type": "short_answer",
+      "prompt": "Why did Asian markets first surge and then slump after Huang's return?",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להסביר שהחזרה עוררה תקווה וגרמה לעלייה עצומה במניית Nvidia, אך חששות מפיקוח פוליטי ורגולטורי פגעו לאחר מכן באמון המשקיעים.",
+      "expected_points": [
+        "Huang's return initially eased fears about Nvidia's leadership.",
+        "Nvidia's share price surged by nearly a trillion dollars in value.",
+        "Political and regulatory scrutiny then raised new concerns.",
+        "Investor confidence weakened, pulling technology-heavy Asian indexes lower."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences analysing the risks created by concentrating so much AI influence in Nvidia.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לקשר בין מרכזיות השבבים, המימון והייצור לבין תנודתיות השווקים, כללי היצוא, אי־ודאות סביב חואנג ותלות כלכלות אסיה.",
+      "expected_points": [
+        "Nvidia supplies critical chips and financing across the AI ecosystem.",
+        "Asian manufacturing, exports and data-centre investment depend heavily on its technology.",
+        "Changes in US export rules can interrupt shipments and access to computing power.",
+        "Huang's legal and political uncertainty can affect investor confidence.",
+        "A shock at one company can therefore spread through multiple national economies."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "summary",
+      "type": "summary",
+      "prompt": "Summarise how Nvidia became central to Asia's AI boom and why Huang's return does not remove the risks.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לכלול את מיקור החוץ ל־TSMC, הספקים האסייתיים, מרכזי הנתונים וההשקעות, לצד כללי היצוא, בדיקת הקונגרס והתלות המוגזמת בחברה ובמנהיגה.",
+      "expected_points": [
+        "Nvidia grew by outsourcing production to TSMC and drawing on Asian memory and equipment suppliers.",
+        "Its chips power the region's data centres, models and technology industries.",
+        "The company also provides investment and financing across the supply chain.",
+        "New US rules threaten chip shipments and rented computing power linked to China.",
+        "Huang's return settles the immediate leadership question but leaves legal, political and concentration risks unresolved."
+      ]
+    }
+  ]
+}
