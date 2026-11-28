@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-28",
+  "id": "C",
+  "level": "C",
+  "level_label": "C — Advanced English",
+  "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+  "source": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
+  "published_at": "2026-11-27T23:02:35+00:00",
+  "age_hours_at_selection": 3.21,
+  "word_count": 1717,
+  "generated_at": "2026-11-28T02:15:18.020396+00:00",
+  "difficulty_reason": "Long, analytical geopolitical feature with dense sentences and abstract political vocabulary (B2/C1/C2), needing solid background knowledge.",
+  "settings": {
+    "source_mode": "BBC-only",
+    "freshness_limit_hours": 12.0,
+    "history_exclusion": true,
+    "vocabulary_count": 25,
+    "quiz_enabled": true
+  },
+  "words": [
+    {
+      "word": "exile",
+      "lemma": "exile",
+      "level": "B2",
+      "hebrew": "גָּלוּת",
+      "explanation_hebrew": "חיים הרחק מהמולדת, לרוב בכפייה",
+      "pronunciation_hebrew": "אֶקְסַייְל",
+      "example": "He has lived in exile for three decades."
+    },
+    {
+      "word": "detained",
+      "lemma": "detain",
+      "level": "B2",
+      "hebrew": "עָצַר",
+      "explanation_hebrew": "החזיק במעצר, מנע חופש",
+      "pronunciation_hebrew": "דִיטֵייְנְד",
+      "example": "Police detained several demonstrators."
+    },
+    {
+      "word": "internment",
+      "lemma": "internment",
+      "level": "C2",
+      "hebrew": "כְּלִיאָה הֲמוֹנִית",
+      "explanation_hebrew": "כליאה של אנשים רבים, לרוב ללא משפט",
+      "pronunciation_hebrew": "אִינְטֶרְנְמֶנְט",
+      "example": "The internment of civilians was widely condemned."
+    },
+    {
+      "word": "separatist",
+      "lemma": "separatist",
+      "level": "C1",
+      "hebrew": "בַּדְלָנִי",
+      "explanation_hebrew": "התומך בהיפרדות שטח מהמדינה",
+      "pronunciation_hebrew": "סֶפֶּרֶטִיסְט",
+      "example": "A separatist group demanded independence."
+    },
+    {
+      "word": "allegations",
+      "lemma": "allegation",
+      "level": "C1",
+      "hebrew": "הַאֲשָׁמוֹת",
+      "explanation_hebrew": "טענות שמישהו עשה מעשה רע",
+      "pronunciation_hebrew": "אַלֶגֵיְשֶׁנְז",
+      "example": "He strongly denied the allegations."
+    },
+    {
+      "word": "outcry",
+      "lemma": "outcry",
+      "level": "C1",
+      "hebrew": "זַעֲקָה צִבּוּרִית",
+      "explanation_hebrew": "מחאה ציבורית חריפה",
+      "pronunciation_hebrew": "אַאוּטְקְרַיי",
+      "example": "The decision caused a public outcry."
+    },
+    {
+      "word": "sanctions",
+      "lemma": "sanction",
+      "level": "C1",
+      "hebrew": "סַנְקְצְיוֹת",
+      "explanation_hebrew": "עונשים כלכליים נגד מדינה",
+      "pronunciation_hebrew": "סַנְקְשֶׁנְז",
+      "example": "The country faced heavy trade sanctions."
+    },
+    {
+      "word": "assets",
+      "lemma": "asset",
+      "level": "B2",
+      "hebrew": "נְכָסִים",
+      "explanation_hebrew": "רכוש בעל ערך כספי",
+      "pronunciation_hebrew": "אַסֶטְס",
+      "example": "The bank froze his assets."
+    },
+    {
+      "word": "condemning",
+      "lemma": "condemn",
+      "level": "B2",
+      "hebrew": "מְגַנֶּה",
+      "explanation_hebrew": "מביע התנגדות חריפה למעשה",
+      "pronunciation_hebrew": "קֶנְדֶמִינְג",
+      "example": "They issued a statement condemning the attack."
+    },
+    {
+      "word": "geopolitical",
+      "lemma": "geopolitical",
+      "level": "C1",
+      "hebrew": "גֵּאוֹפּוֹלִיטִי",
+      "explanation_hebrew": "קשור ליחסי כוח בין מדינות",
+      "pronunciation_hebrew": "גִּ'אוֹפּוֹלִיטִיקֶל",
+      "example": "Oil has great geopolitical importance."
+    },
+    {
+      "word": "clout",
+      "lemma": "clout",
+      "level": "C1",
+      "hebrew": "הַשְׁפָּעָה",
+      "explanation_hebrew": "כוח להשפיע על אחרים",
+      "pronunciation_hebrew": "קְלַאוּט",
+      "example": "The company has real political clout."
+    },
+    {
+      "word": "gleaming",
+      "lemma": "gleaming",
+      "level": "C1",
+      "hebrew": "נוֹצֵץ",
+      "explanation_hebrew": "מבריק, נקי ומושך עין",
+      "pronunciation_hebrew": "גְּלִימִינְג",
+      "example": "The gleaming towers filled the skyline."
+    },
+    {
+      "word": "buoyed",
+      "lemma": "buoy",
+      "level": "C2",
+      "hebrew": "מְעוֹדָד",
+      "explanation_hebrew": "נתמך ומחוזק, מלא ביטחון",
+      "pronunciation_hebrew": "בּוֹיְד",
+      "example": "Buoyed by success, the firm expanded fast."
+    },
+    {
+      "word": "dissidents",
+      "lemma": "dissident",
+      "level": "C1",
+      "hebrew": "מִתְנַגְּדֵי מִשְׁטָר",
+      "explanation_hebrew": "אנשים המתנגדים בגלוי לשלטון",
+      "pronunciation_hebrew": "דִיסִידֶנְטְס",
+      "example": "The dissidents fled the country."
+    },
+    {
+      "word": "narratives",
+      "lemma": "narrative",
+      "level": "C1",
+      "hebrew": "נַרָטִיבִים",
+      "explanation_hebrew": "גרסאות או סיפורים של אירועים",
+      "pronunciation_hebrew": "נַרֶטִיבְז",
+      "example": "The two sides tell very different narratives."
+    },
+    {
+      "word": "leverage",
+      "lemma": "leverage",
+      "level": "C1",
+      "hebrew": "מָנוֹף",
+      "explanation_hebrew": "יתרון המאפשר להפעיל לחץ",
+      "pronunciation_hebrew": "לִיבֶרִיגְ'",
+      "example": "They used the contract as leverage."
+    },
+    {
+      "word": "confrontation",
+      "lemma": "confrontation",
+      "level": "B2",
+      "hebrew": "עִמּוּת",
+      "explanation_hebrew": "התנגשות ישירה בין צדדים",
+      "pronunciation_hebrew": "קוֹנְפְרֶנְטֵייְשֶׁן",
+      "example": "He wanted to avoid a confrontation."
+    },
+    {
+      "word": "reluctant",
+      "lemma": "reluctant",
+      "level": "B2",
+      "hebrew": "מְהַסֵּס",
+      "explanation_hebrew": "אינו רוצה לעשות משהו",
+      "pronunciation_hebrew": "רִילַקְטֶנְט",
+      "example": "She was reluctant to speak in public."
+    },
+    {
+      "word": "innocuous",
+      "lemma": "innocuous",
+      "level": "C2",
+      "hebrew": "לֹא מַזִּיק",
+      "explanation_hebrew": "נראה בלתי מזיק ותמים",
+      "pronunciation_hebrew": "אִינוֹקְיוּאֶס",
+      "example": "The question seemed quite innocuous."
+    },
+    {
+      "word": "diaspora",
+      "lemma": "diaspora",
+      "level": "C1",
+      "hebrew": "תְּפוּצָה",
+      "explanation_hebrew": "קהילה החיה הרחק ממולדתה",
+      "pronunciation_hebrew": "דַייַסְפּוֹרָה",
+      "example": "The diaspora kept its language alive."
+    },
+    {
+      "word": "eligible",
+      "lemma": "eligible",
+      "level": "B2",
+      "hebrew": "זַכַּאי",
+      "explanation_hebrew": "עומד בתנאים הנדרשים",
+      "pronunciation_hebrew": "אֶלִיגִ'יבֶּל",
+      "example": "Only members are eligible to vote."
+    },
+    {
+      "word": "superficial",
+      "lemma": "superficial",
+      "level": "C1",
+      "hebrew": "שִׁטְחִי",
+      "explanation_hebrew": "לא עמוק, חיצוני בלבד",
+      "pronunciation_hebrew": "סוּפֶּרְפִישֶׁל",
+      "example": "Their conversation stayed superficial."
+    },
+    {
+      "word": "annexed",
+      "lemma": "annex",
+      "level": "C1",
+      "hebrew": "סִפַּח",
+      "explanation_hebrew": "צירף שטח בכוח למדינה",
+      "pronunciation_hebrew": "אַנֶקְסְד",
+      "example": "The state annexed the border region."
+    },
+    {
+      "word": "asylum",
+      "lemma": "asylum",
+      "level": "C1",
+      "hebrew": "מִקְלָט מְדִינִי",
+      "explanation_hebrew": "הגנה הניתנת לפליטים במדינה אחרת",
+      "pronunciation_hebrew": "אַסַייְלֶם",
+      "example": "They sought asylum abroad."
+    },
+    {
+      "word": "persistent",
+      "lemma": "persistent",
+      "level": "B2",
+      "hebrew": "מַתְמִיד",
+      "explanation_hebrew": "ממשיך בעקביות למרות קשיים",
+      "pronunciation_hebrew": "פֶּרְסִיסְטֶנְט",
+      "example": "She was persistent in her efforts."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "C-q1",
+      "word": "exile",
+      "type": "english_to_hebrew",
+      "question": "What does \"exile\" mean?",
+      "options": [
+        "כְּלִיאָה הֲמוֹנִית",
+        "בַּדְלָנִי",
+        "עָצַר",
+        "גָּלוּת"
+      ],
+      "correct_answer": "גָּלוּת",
+      "explanation_hebrew": "המילה \"exile\" פירושה גָּלוּת."
+    },
+    {
+      "id": "C-q2",
+      "word": "detained",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"עָצַר\"?",
+      "options": [
+        "internment",
+        "allegations",
+        "separatist",
+        "detained"
+      ],
+      "correct_answer": "detained",
+      "explanation_hebrew": "המילה באנגלית \"detained\" פירושה עָצַר."
+    },
+    {
+      "id": "C-q3",
+      "word": "internment",
+      "type": "english_to_hebrew",
+      "question": "What does \"internment\" mean?",
+      "options": [
+        "זַעֲקָה צִבּוּרִית",
+        "בַּדְלָנִי",
+        "הַאֲשָׁמוֹת",
+        "כְּלִיאָה הֲמוֹנִית"
+      ],
+      "correct_answer": "כְּלִיאָה הֲמוֹנִית",
+      "explanation_hebrew": "המילה \"internment\" פירושה כְּלִיאָה הֲמוֹנִית."
+    },
+    {
+      "id": "C-q4",
+      "word": "separatist",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"בַּדְלָנִי\"?",
+      "options": [
+        "allegations",
+        "outcry",
+        "separatist",
+        "sanctions"
+      ],
+      "correct_answer": "separatist",
+      "explanation_hebrew": "המילה באנגלית \"separatist\" פירושה בַּדְלָנִי."
+    },
+    {
+      "id": "C-q5",
+      "word": "allegations",
+      "type": "english_to_hebrew",
+      "question": "What does \"allegations\" mean?",
+      "options": [
+        "הַאֲשָׁמוֹת",
+        "סַנְקְצְיוֹת",
+        "נְכָסִים",
+        "זַעֲקָה צִבּוּרִית"
+      ],
+      "correct_answer": "הַאֲשָׁמוֹת",
+      "explanation_hebrew": "המילה \"allegations\" פירושה הַאֲשָׁמוֹת."
+    },
+    {
+      "id": "C-q6",
+      "word": "outcry",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"זַעֲקָה צִבּוּרִית\"?",
+      "options": [
+        "condemning",
+        "outcry",
+        "assets",
+        "sanctions"
+      ],
+      "correct_answer": "outcry",
+      "explanation_hebrew": "המילה באנגלית \"outcry\" פירושה זַעֲקָה צִבּוּרִית."
+    },
+    {
+      "id": "C-q7",
+      "word": "sanctions",
+      "type": "english_to_hebrew",
+      "question": "What does \"sanctions\" mean?",
+      "options": [
+        "מְגַנֶּה",
+        "גֵּאוֹפּוֹלִיטִי",
+        "סַנְקְצְיוֹת",
+        "נְכָסִים"
+      ],
+      "correct_answer": "סַנְקְצְיוֹת",
+      "explanation_hebrew": "המילה \"sanctions\" פירושה סַנְקְצְיוֹת."
+    },
+    {
+      "id": "C-q8",
+      "word": "assets",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"נְכָסִים\"?",
+      "options": [
+        "geopolitical",
+        "condemning",
+        "assets",
+        "clout"
+      ],
+      "correct_answer": "assets",
+      "explanation_hebrew": "המילה באנגלית \"assets\" פירושה נְכָסִים."
+    },
+    {
+      "id": "C-q9",
+      "word": "condemning",
+      "type": "english_to_hebrew",
+      "question": "What does \"condemning\" mean?",
+      "options": [
+        "גֵּאוֹפּוֹלִיטִי",
+        "נוֹצֵץ",
+        "מְגַנֶּה",
+        "הַשְׁפָּעָה"
+      ],
+      "correct_answer": "מְגַנֶּה",
+      "explanation_hebrew": "המילה \"condemning\" פירושה מְגַנֶּה."
+    },
+    {
+      "id": "C-q10",
+      "word": "geopolitical",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"גֵּאוֹפּוֹלִיטִי\"?",
+      "options": [
+        "geopolitical",
+        "buoyed",
+        "clout",
+        "gleaming"
+      ],
+      "correct_answer": "geopolitical",
+      "explanation_hebrew": "המילה באנגלית \"geopolitical\" פירושה גֵּאוֹפּוֹלִיטִי."
+    },
+    {
+      "id": "C-q11",
+      "word": "clout",
+      "type": "english_to_hebrew",
+      "question": "What does \"clout\" mean?",
+      "options": [
+        "הַשְׁפָּעָה",
+        "מִתְנַגְּדֵי מִשְׁטָר",
+        "נוֹצֵץ",
+        "מְעוֹדָד"
+      ],
+      "correct_answer": "הַשְׁפָּעָה",
+      "explanation_hebrew": "המילה \"clout\" פירושה הַשְׁפָּעָה."
+    },
+    {
+      "id": "C-q12",
+      "word": "gleaming",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"נוֹצֵץ\"?",
+      "options": [
+        "dissidents",
+        "gleaming",
+        "buoyed",
+        "narratives"
+      ],
+      "correct_answer": "gleaming",
+      "explanation_hebrew": "המילה באנגלית \"gleaming\" פירושה נוֹצֵץ."
+    },
+    {
+      "id": "C-q13",
+      "word": "buoyed",
+      "type": "english_to_hebrew",
+      "question": "What does \"buoyed\" mean?",
+      "options": [
+        "מְעוֹדָד",
+        "מִתְנַגְּדֵי מִשְׁטָר",
+        "מָנוֹף",
+        "נַרָטִיבִים"
+      ],
+      "correct_answer": "מְעוֹדָד",
+      "explanation_hebrew": "המילה \"buoyed\" פירושה מְעוֹדָד."
+    },
+    {
+      "id": "C-q14",
+      "word": "dissidents",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"מִתְנַגְּדֵי מִשְׁטָר\"?",
+      "options": [
+        "leverage",
+        "narratives",
+        "dissidents",
+        "confrontation"
+      ],
+      "correct_answer": "dissidents",
+      "explanation_hebrew": "המילה באנגלית \"dissidents\" פירושה מִתְנַגְּדֵי מִשְׁטָר."
+    },
+    {
+      "id": "C-q15",
+      "word": "narratives",
+      "type": "english_to_hebrew",
+      "question": "What does \"narratives\" mean?",
+      "options": [
+        "מְהַסֵּס",
+        "מָנוֹף",
+        "עִמּוּת",
+        "נַרָטִיבִים"
+      ],
+      "correct_answer": "נַרָטִיבִים",
+      "explanation_hebrew": "המילה \"narratives\" פירושה נַרָטִיבִים."
+    },
+    {
+      "id": "C-q16",
+      "word": "leverage",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"מָנוֹף\"?",
+      "options": [
+        "reluctant",
+        "innocuous",
+        "confrontation",
+        "leverage"
+      ],
+      "correct_answer": "leverage",
+      "explanation_hebrew": "המילה באנגלית \"leverage\" פירושה מָנוֹף."
+    },
+    {
+      "id": "C-q17",
+      "word": "confrontation",
+      "type": "english_to_hebrew",
+      "question": "What does \"confrontation\" mean?",
+      "options": [
+        "מְהַסֵּס",
+        "תְּפוּצָה",
+        "לֹא מַזִּיק",
+        "עִמּוּת"
+      ],
+      "correct_answer": "עִמּוּת",
+      "explanation_hebrew": "המילה \"confrontation\" פירושה עִמּוּת."
+    },
+    {
+      "id": "C-q18",
+      "word": "reluctant",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"מְהַסֵּס\"?",
+      "options": [
+        "eligible",
+        "reluctant",
+        "diaspora",
+        "innocuous"
+      ],
+      "correct_answer": "reluctant",
+      "explanation_hebrew": "המילה באנגלית \"reluctant\" פירושה מְהַסֵּס."
+    },
+    {
+      "id": "C-q19",
+      "word": "innocuous",
+      "type": "english_to_hebrew",
+      "question": "What does \"innocuous\" mean?",
+      "options": [
+        "לֹא מַזִּיק",
+        "שִׁטְחִי",
+        "זַכַּאי",
+        "תְּפוּצָה"
+      ],
+      "correct_answer": "לֹא מַזִּיק",
+      "explanation_hebrew": "המילה \"innocuous\" פירושה לֹא מַזִּיק."
+    },
+    {
+      "id": "C-q20",
+      "word": "diaspora",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"תְּפוּצָה\"?",
+      "options": [
+        "annexed",
+        "eligible",
+        "diaspora",
+        "superficial"
+      ],
+      "correct_answer": "diaspora",
+      "explanation_hebrew": "המילה באנגלית \"diaspora\" פירושה תְּפוּצָה."
+    },
+    {
+      "id": "C-q21",
+      "word": "eligible",
+      "type": "english_to_hebrew",
+      "question": "What does \"eligible\" mean?",
+      "options": [
+        "זַכַּאי",
+        "שִׁטְחִי",
+        "סִפַּח",
+        "מִקְלָט מְדִינִי"
+      ],
+      "correct_answer": "זַכַּאי",
+      "explanation_hebrew": "המילה \"eligible\" פירושה זַכַּאי."
+    },
+    {
+      "id": "C-q22",
+      "word": "superficial",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"שִׁטְחִי\"?",
+      "options": [
+        "asylum",
+        "annexed",
+        "superficial",
+        "persistent"
+      ],
+      "correct_answer": "superficial",
+      "explanation_hebrew": "המילה באנגלית \"superficial\" פירושה שִׁטְחִי."
+    },
+    {
+      "id": "C-q23",
+      "word": "annexed",
+      "type": "english_to_hebrew",
+      "question": "What does \"annexed\" mean?",
+      "options": [
+        "סִפַּח",
+        "מִקְלָט מְדִינִי",
+        "מַתְמִיד",
+        "גָּלוּת"
+      ],
+      "correct_answer": "סִפַּח",
+      "explanation_hebrew": "המילה \"annexed\" פירושה סִפַּח."
+    },
+    {
+      "id": "C-q24",
+      "word": "asylum",
+      "type": "hebrew_to_english",
+      "question": "איזו מילה באנגלית פירושה \"מִקְלָט מְדִינִי\"?",
+      "options": [
+        "persistent",
+        "detained",
+        "exile",
+        "asylum"
+      ],
+      "correct_answer": "asylum",
+      "explanation_hebrew": "המילה באנגלית \"asylum\" פירושה מִקְלָט מְדִינִי."
+    },
+    {
+      "id": "C-q25",
+      "word": "persistent",
+      "type": "english_to_hebrew",
+      "question": "What does \"persistent\" mean?",
+      "options": [
+        "מַתְמִיד",
+        "כְּלִיאָה הֲמוֹנִית",
+        "גָּלוּת",
+        "עָצַר"
+      ],
+      "correct_answer": "מַתְמִיד",
+      "explanation_hebrew": "המילה \"persistent\" פירושה מַתְמִיד."
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "id": "B",
   "level": "B",
   "level_label": "B — Intermediate English",
-  "title": "Why Trump's new tariffs are less of a threat",
+  "title": "Poundland: 'I don't know what I'd do without it,' say shoppers as chain fights for survival",
   "source": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
-  "published_at": "2026-11-26T19:55:58+00:00",
-  "age_hours_at_selection": 6.3,
-  "word_count": 795,
-  "generated_at": "2026-11-27T02:14:00.640085+00:00",
-  "difficulty_reason": "Analytical trade-and-politics piece with longer sentences and some economic jargon; useful B1/B2/C1 vocabulary and moderate background knowledge needed.",
+  "url": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko",
+  "published_at": "2026-11-28T01:12:28+00:00",
+  "age_hours_at_selection": 1.05,
+  "word_count": 837,
+  "generated_at": "2026-11-28T02:15:18.020396+00:00",
+  "difficulty_reason": "Moderate human-interest business story mixing quotes and retail commentary, with useful B1/B2/C1 vocabulary and some economic background.",
   "settings": {
     "source_mode": "BBC-only",
     "freshness_limit_hours": 12.0,
@@ -20,581 +20,581 @@
   },
   "words": [
     {
-      "word": "fanfare",
-      "lemma": "fanfare",
-      "level": "C1",
-      "hebrew": "תרועה / רעש גדול",
-      "explanation_hebrew": "קבלת פנים רועשת ומרשימה לאירוע",
-      "pronunciation_hebrew": "פַנְפֵר",
-      "example": "The new phone was launched with great fanfare."
-    },
-    {
-      "word": "rhetoric",
-      "lemma": "rhetoric",
-      "level": "C1",
-      "hebrew": "רטוריקה",
-      "explanation_hebrew": "שימוש בשפה כדי לשכנע, לעיתים בלי תוכן אמיתי",
-      "pronunciation_hebrew": "רֶטוֹרִיק",
-      "example": "His speech was full of empty rhetoric."
-    },
-    {
-      "word": "tentative",
-      "lemma": "tentative",
-      "level": "C1",
-      "hebrew": "זהיר / לא סופי",
-      "explanation_hebrew": "לא ודאי, עדיין לא מוחלט",
-      "pronunciation_hebrew": "טֶנְטַטִיב",
-      "example": "They reached a tentative agreement."
-    },
-    {
-      "word": "negotiations",
-      "lemma": "negotiation",
-      "level": "B2",
-      "hebrew": "משא ומתן",
-      "explanation_hebrew": "שיחות כדי להגיע להסכם",
-      "pronunciation_hebrew": "נֶגוֹשִיאֵיישֶנְז",
-      "example": "The negotiations lasted several weeks."
-    },
-    {
-      "word": "resolve",
-      "lemma": "resolve",
-      "level": "B2",
-      "hebrew": "לפתור",
-      "explanation_hebrew": "למצוא פתרון לבעיה או סכסוך",
-      "pronunciation_hebrew": "רִיזוֹלְב",
-      "example": "They met to resolve the dispute."
-    },
-    {
-      "word": "domestic",
-      "lemma": "domestic",
-      "level": "B2",
-      "hebrew": "מקומי / פנים-מדינתי",
-      "explanation_hebrew": "קשור לענייני הפְנים של מדינה",
-      "pronunciation_hebrew": "דַמֶסְטִיק",
-      "example": "The policy affects the domestic market."
-    },
-    {
-      "word": "fundamental",
-      "lemma": "fundamental",
-      "level": "B2",
-      "hebrew": "יסודי",
-      "explanation_hebrew": "בסיסי וחשוב מאוד",
-      "pronunciation_hebrew": "פַנְדַמֶנְטַל",
-      "example": "There is a fundamental difference between them."
-    },
-    {
-      "word": "agenda",
-      "lemma": "agenda",
-      "level": "B2",
-      "hebrew": "סדר יום / מדיניות",
-      "explanation_hebrew": "רשימת הנושאים או המטרות שרוצים לקדם",
-      "pronunciation_hebrew": "אַגֶ'נְדַה",
-      "example": "Climate change is high on the agenda."
-    },
-    {
-      "word": "consultation",
-      "lemma": "consultation",
-      "level": "C1",
-      "hebrew": "היוועצות",
-      "explanation_hebrew": "תהליך של בקשת דעות ועצות לפני החלטה",
-      "pronunciation_hebrew": "קוֹנְסַלְטֵיישֶן",
-      "example": "The plan was made after public consultation."
-    },
-    {
-      "word": "contrast",
-      "lemma": "contrast",
-      "level": "B2",
-      "hebrew": "ניגוד",
-      "explanation_hebrew": "הבדל ברור בין שני דברים",
-      "pronunciation_hebrew": "קוֹנְטְרַסְט",
-      "example": "There is a sharp contrast between the two cities."
-    },
-    {
-      "word": "allies",
-      "lemma": "ally",
-      "level": "B2",
-      "hebrew": "בעלי ברית",
-      "explanation_hebrew": "מדינות או אנשים שמשתפים פעולה ותומכים זה בזה",
-      "pronunciation_hebrew": "אַלַייז",
-      "example": "The country asked its allies for help."
-    },
-    {
-      "word": "provisions",
-      "lemma": "provision",
-      "level": "C1",
-      "hebrew": "הוראות / סעיפים",
-      "explanation_hebrew": "תנאים או סעיפים בחוק או בהסכם",
-      "pronunciation_hebrew": "פְּרַוִיזֶ'נְז",
-      "example": "The contract has strict provisions about safety."
-    },
-    {
-      "word": "albeit",
-      "lemma": "albeit",
-      "level": "C1",
-      "hebrew": "אף על פי ש־ / אם כי",
-      "explanation_hebrew": "מילת קישור שמשמעותה 'למרות ש'",
-      "pronunciation_hebrew": "אוֹלְבִּיאִט",
-      "example": "He agreed, albeit reluctantly."
-    },
-    {
-      "word": "emergency",
-      "lemma": "emergency",
+      "word": "routine",
+      "lemma": "routine",
       "level": "B1",
-      "hebrew": "חירום",
-      "explanation_hebrew": "מצב מסוכן שדורש פעולה מיידית",
-      "pronunciation_hebrew": "אִמֶרְגֶ'נְסִי",
-      "example": "Call this number in an emergency."
+      "hebrew": "שִׁגְרָה",
+      "explanation_hebrew": "פעולה קבועה וחוזרת",
+      "pronunciation_hebrew": "רוּטִין",
+      "example": "Exercise is part of my daily routine."
     },
     {
-      "word": "finalised",
-      "lemma": "finalise",
+      "word": "bargains",
+      "lemma": "bargain",
       "level": "B2",
-      "hebrew": "הושלם / נסגר סופית",
-      "explanation_hebrew": "הושלם וסודר באופן סופי",
-      "pronunciation_hebrew": "פַיינַלַייזְד",
-      "example": "The deal has not been finalised yet."
+      "hebrew": "מְצִיאוֹת",
+      "explanation_hebrew": "קניות במחיר זול במיוחד",
+      "pronunciation_hebrew": "בַּארְגִּינְז",
+      "example": "She loves hunting for bargains."
     },
     {
-      "word": "influence",
-      "lemma": "influence",
+      "word": "showcasing",
+      "lemma": "showcase",
+      "level": "B2",
+      "hebrew": "מַצִּיג לְרַאֲוָה",
+      "explanation_hebrew": "מראה משהו באופן בולט ומושך",
+      "pronunciation_hebrew": "שׁוֹקֵייְסִינְג",
+      "example": "The festival is showcasing new artists."
+    },
+    {
+      "word": "wares",
+      "lemma": "wares",
+      "level": "C1",
+      "hebrew": "סְחוֹרָה",
+      "explanation_hebrew": "מוצרים המוצעים למכירה",
+      "pronunciation_hebrew": "וֶארְז",
+      "example": "The market sellers displayed their wares."
+    },
+    {
+      "word": "retailer",
+      "lemma": "retailer",
+      "level": "B2",
+      "hebrew": "קִמְעוֹנַאי",
+      "explanation_hebrew": "עסק המוכר מוצרים ישירות לצרכן",
+      "pronunciation_hebrew": "רִיטֵייְלֶר",
+      "example": "The retailer opened a new store."
+    },
+    {
+      "word": "gifted",
+      "lemma": "gift",
+      "level": "B2",
+      "hebrew": "נִתַּן בְּמַתָּנָה",
+      "explanation_hebrew": "הוענק למישהו כמתנה",
+      "pronunciation_hebrew": "גִיפְטֶד",
+      "example": "She was gifted a watch for her birthday."
+    },
+    {
+      "word": "administration",
+      "lemma": "administration",
+      "level": "B2",
+      "hebrew": "כִּנּוּס נְכָסִים",
+      "explanation_hebrew": "מצב משפטי של חברה בקשיים כספיים",
+      "pronunciation_hebrew": "אַדְמִינִיסְטְרֵיְשֶׁן",
+      "example": "The company has gone into administration."
+    },
+    {
+      "word": "rescue",
+      "lemma": "rescue",
       "level": "B1",
-      "hebrew": "השפעה",
-      "explanation_hebrew": "היכולת לשנות דעות או מעשים של אחרים",
-      "pronunciation_hebrew": "אִינְפְלוּאֶנְס",
-      "example": "She has a lot of influence in the party."
+      "hebrew": "לְהַצִּיל",
+      "explanation_hebrew": "להציל מסכנה או מכישלון",
+      "pronunciation_hebrew": "רֶסְקְיוּ",
+      "example": "They hope a buyer will rescue the business."
     },
     {
-      "word": "repeal",
-      "lemma": "repeal",
-      "level": "C1",
-      "hebrew": "לבטל (חוק)",
-      "explanation_hebrew": "לבטל חוק באופן רשמי",
-      "pronunciation_hebrew": "רִיפִּיל",
-      "example": "They voted to repeal the old law."
-    },
-    {
-      "word": "truce",
-      "lemma": "truce",
-      "level": "C1",
-      "hebrew": "הפסקת אש / שביתת נשק",
-      "explanation_hebrew": "הסכם זמני להפסיק מאבק או מלחמה",
-      "pronunciation_hebrew": "טְרוּס",
-      "example": "The two sides agreed to a truce."
-    },
-    {
-      "word": "expire",
-      "lemma": "expire",
+      "word": "seasonal",
+      "lemma": "seasonal",
       "level": "B2",
-      "hebrew": "לפוג",
-      "explanation_hebrew": "להסתיים או להפוג בסוף תקופה",
-      "pronunciation_hebrew": "אִקְסְפַּייר",
-      "example": "My passport will expire next month."
+      "hebrew": "עוֹנָתִי",
+      "explanation_hebrew": "קשור לעונה מסוימת בשנה",
+      "pronunciation_hebrew": "סִיזֶנֶל",
+      "example": "Seasonal jobs appear mostly in summer."
     },
     {
-      "word": "retaliation",
-      "lemma": "retaliation",
-      "level": "C1",
-      "hebrew": "תגובת נגד / נקמה",
-      "explanation_hebrew": "פעולה כנגד מישהו שפגע בך",
-      "pronunciation_hebrew": "רִיטַלִיאֵיישֶן",
-      "example": "The attack was in retaliation for earlier strikes."
-    },
-    {
-      "word": "leverage",
-      "lemma": "leverage",
-      "level": "C1",
-      "hebrew": "מנוף לחץ / יתרון",
-      "explanation_hebrew": "כוח או יתרון שמאפשר להשיג מה שרוצים",
-      "pronunciation_hebrew": "לֶוֶורִידְג'",
-      "example": "They used the deal as leverage in talks."
-    },
-    {
-      "word": "weakened",
-      "lemma": "weaken",
+      "word": "affordable",
+      "lemma": "affordable",
       "level": "B2",
-      "hebrew": "נחלש",
-      "explanation_hebrew": "נעשה חלש יותר",
-      "pronunciation_hebrew": "וִויקֶנְד",
-      "example": "The storm weakened before reaching land."
+      "hebrew": "בַּר הַשָּׂגָה",
+      "explanation_hebrew": "במחיר שאפשר להרשות לעצמך",
+      "pronunciation_hebrew": "אֲפוֹרְדֶבֶּל",
+      "example": "The flat is affordable for students."
     },
     {
-      "word": "veto",
-      "lemma": "veto",
-      "level": "C1",
-      "hebrew": "וטו / זכות סירוב",
-      "explanation_hebrew": "הכוח לעצור או לפסול החלטה",
-      "pronunciation_hebrew": "וִיטוֹ",
-      "example": "The president used his veto to block the bill."
+      "word": "convenient",
+      "lemma": "convenient",
+      "level": "B1",
+      "hebrew": "נוֹחַ",
+      "explanation_hebrew": "קל ונוח לשימוש או בהישג יד",
+      "pronunciation_hebrew": "קֶנְבִינְיֶנְט",
+      "example": "The shop is in a convenient location."
     },
     {
-      "word": "interim",
-      "lemma": "interim",
-      "level": "C1",
-      "hebrew": "ביניים / זמני",
-      "explanation_hebrew": "זמני, עד שיגיע פתרון קבוע",
-      "pronunciation_hebrew": "אִינְטֶרִים",
-      "example": "They signed an interim agreement."
+      "word": "discount",
+      "lemma": "discount",
+      "level": "B1",
+      "hebrew": "הֲנָחָה",
+      "explanation_hebrew": "הפחתה במחיר",
+      "pronunciation_hebrew": "דִיסְקַאוּנְט",
+      "example": "They offered a big discount on shoes."
     },
     {
-      "word": "resilient",
-      "lemma": "resilient",
+      "word": "competition",
+      "lemma": "competition",
+      "level": "B1",
+      "hebrew": "תַּחֲרוּת",
+      "explanation_hebrew": "מאבק בין עסקים או אנשים",
+      "pronunciation_hebrew": "קוֹמְפֶּטִישֶׁן",
+      "example": "There is strong competition in retail."
+    },
+    {
+      "word": "nominal",
+      "lemma": "nominal",
       "level": "C1",
-      "hebrew": "עמיד / חסון",
-      "explanation_hebrew": "מסוגל להתמודד ולהתאושש מקשיים",
-      "pronunciation_hebrew": "רִיזִילְיֶנְט",
-      "example": "The economy proved surprisingly resilient."
+      "hebrew": "סִמְלִי",
+      "explanation_hebrew": "סכום קטן מאוד, כמעט ללא ערך",
+      "pronunciation_hebrew": "נוֹמִינֶל",
+      "example": "He bought the firm for a nominal fee."
+    },
+    {
+      "word": "recovery",
+      "lemma": "recovery",
+      "level": "B2",
+      "hebrew": "הִתְאוֹשְׁשׁוּת",
+      "explanation_hebrew": "חזרה למצב טוב לאחר קושי",
+      "pronunciation_hebrew": "רִיקַבֶרִי",
+      "example": "The economy showed signs of recovery."
+    },
+    {
+      "word": "forecasts",
+      "lemma": "forecast",
+      "level": "B2",
+      "hebrew": "תַּחֲזִיּוֹת",
+      "explanation_hebrew": "הערכות לגבי מה שיקרה בעתיד",
+      "pronunciation_hebrew": "פוֹרְקַאסְטְס",
+      "example": "The sales forecasts were too optimistic."
+    },
+    {
+      "word": "struggle",
+      "lemma": "struggle",
+      "level": "B1",
+      "hebrew": "לְהֵאָבֵק",
+      "explanation_hebrew": "להתמודד בקושי רב",
+      "pronunciation_hebrew": "סְטְרַגֶל",
+      "example": "Small shops struggle to survive."
+    },
+    {
+      "word": "dismantled",
+      "lemma": "dismantle",
+      "level": "C1",
+      "hebrew": "פֵּרֵק",
+      "explanation_hebrew": "פירק לחלקים או הרס דבר שנבנה",
+      "pronunciation_hebrew": "דִיסְמַנְטֶלְד",
+      "example": "They dismantled the old machine piece by piece."
+    },
+    {
+      "word": "circumstances",
+      "lemma": "circumstance",
+      "level": "B2",
+      "hebrew": "נְסִבּוֹת",
+      "explanation_hebrew": "התנאים הסובבים מצב מסוים",
+      "pronunciation_hebrew": "סֶרְקֶמְסְטַנְסֶס",
+      "example": "Under these circumstances, we must wait."
+    },
+    {
+      "word": "inflation",
+      "lemma": "inflation",
+      "level": "B2",
+      "hebrew": "אִינְפְלַצְיָה",
+      "explanation_hebrew": "עלייה כללית במחירים",
+      "pronunciation_hebrew": "אִינְפְלֵייְשֶׁן",
+      "example": "Inflation pushed up food prices."
+    },
+    {
+      "word": "sustain",
+      "lemma": "sustain",
+      "level": "C1",
+      "hebrew": "לְקַיֵּם",
+      "explanation_hebrew": "להמשיך ולתחזק משהו לאורך זמן",
+      "pronunciation_hebrew": "סַסְטֵיְן",
+      "example": "It is hard to sustain such low prices."
+    },
+    {
+      "word": "shabby",
+      "lemma": "shabby",
+      "level": "C1",
+      "hebrew": "מֻזְנָח",
+      "explanation_hebrew": "נראה ישן, בלוי ולא מטופח",
+      "pronunciation_hebrew": "שַׁאבִּי",
+      "example": "The old shop looked rather shabby."
+    },
+    {
+      "word": "evolved",
+      "lemma": "evolve",
+      "level": "B2",
+      "hebrew": "הִתְפַּתַּח",
+      "explanation_hebrew": "השתנה והתפתח בהדרגה",
+      "pronunciation_hebrew": "אִיבוֹלְבְד",
+      "example": "The market evolved over many years."
+    },
+    {
+      "word": "devastating",
+      "lemma": "devastating",
+      "level": "C1",
+      "hebrew": "הַרְסָנִי",
+      "explanation_hebrew": "גורם נזק או צער כבד מאוד",
+      "pronunciation_hebrew": "דֶבֶסְטֵייְטִינְג",
+      "example": "The news was devastating for the staff."
+    },
+    {
+      "word": "tragic",
+      "lemma": "tragic",
+      "level": "B2",
+      "hebrew": "טְרָגִי",
+      "explanation_hebrew": "עצוב מאוד, קשור באסון",
+      "pronunciation_hebrew": "טְרַגִ'יק",
+      "example": "It was a tragic loss for the town."
     }
   ],
   "quiz": [
     {
       "id": "B-q1",
-      "word": "fanfare",
+      "word": "routine",
       "type": "english_to_hebrew",
-      "question": "What does “fanfare” mean?",
+      "question": "What does \"routine\" mean?",
       "options": [
-        "זהיר / לא סופי",
-        "משא ומתן",
-        "רטוריקה",
-        "תרועה / רעש גדול"
+        "מְצִיאוֹת",
+        "שִׁגְרָה",
+        "סְחוֹרָה",
+        "מַצִּיג לְרַאֲוָה"
       ],
-      "correct_answer": "תרועה / רעש גדול",
-      "explanation_hebrew": "“fanfare” פירושו תרועה / רעש גדול."
+      "correct_answer": "שִׁגְרָה",
+      "explanation_hebrew": "המילה \"routine\" פירושה שִׁגְרָה."
     },
     {
       "id": "B-q2",
-      "word": "rhetoric",
+      "word": "bargains",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “רטוריקה”?",
+      "question": "איזו מילה באנגלית פירושה \"מְצִיאוֹת\"?",
       "options": [
-        "resolve",
-        "rhetoric",
-        "tentative",
-        "negotiations"
+        "bargains",
+        "retailer",
+        "wares",
+        "showcasing"
       ],
-      "correct_answer": "rhetoric",
-      "explanation_hebrew": "“רטוריקה” באנגלית הוא “rhetoric”."
+      "correct_answer": "bargains",
+      "explanation_hebrew": "המילה באנגלית \"bargains\" פירושה מְצִיאוֹת."
     },
     {
       "id": "B-q3",
-      "word": "tentative",
+      "word": "showcasing",
       "type": "english_to_hebrew",
-      "question": "What does “tentative” mean?",
+      "question": "What does \"showcasing\" mean?",
       "options": [
-        "זהיר / לא סופי",
-        "משא ומתן",
-        "לפתור",
-        "מקומי / פנים-מדינתי"
+        "סְחוֹרָה",
+        "נִתַּן בְּמַתָּנָה",
+        "קִמְעוֹנַאי",
+        "מַצִּיג לְרַאֲוָה"
       ],
-      "correct_answer": "זהיר / לא סופי",
-      "explanation_hebrew": "“tentative” פירושו זהיר / לא סופי."
+      "correct_answer": "מַצִּיג לְרַאֲוָה",
+      "explanation_hebrew": "המילה \"showcasing\" פירושה מַצִּיג לְרַאֲוָה."
     },
     {
       "id": "B-q4",
-      "word": "negotiations",
+      "word": "wares",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “משא ומתן”?",
+      "question": "איזו מילה באנגלית פירושה \"סְחוֹרָה\"?",
       "options": [
-        "fundamental",
-        "resolve",
-        "negotiations",
-        "domestic"
+        "administration",
+        "wares",
+        "retailer",
+        "gifted"
       ],
-      "correct_answer": "negotiations",
-      "explanation_hebrew": "“משא ומתן” באנגלית הוא “negotiations”."
+      "correct_answer": "wares",
+      "explanation_hebrew": "המילה באנגלית \"wares\" פירושה סְחוֹרָה."
     },
     {
       "id": "B-q5",
-      "word": "resolve",
+      "word": "retailer",
       "type": "english_to_hebrew",
-      "question": "What does “resolve” mean?",
+      "question": "What does \"retailer\" mean?",
       "options": [
-        "יסודי",
-        "מקומי / פנים-מדינתי",
-        "לפתור",
-        "סדר יום / מדיניות"
+        "קִמְעוֹנַאי",
+        "נִתַּן בְּמַתָּנָה",
+        "לְהַצִּיל",
+        "כִּנּוּס נְכָסִים"
       ],
-      "correct_answer": "לפתור",
-      "explanation_hebrew": "“resolve” פירושו לפתור."
+      "correct_answer": "קִמְעוֹנַאי",
+      "explanation_hebrew": "המילה \"retailer\" פירושה קִמְעוֹנַאי."
     },
     {
       "id": "B-q6",
-      "word": "domestic",
+      "word": "gifted",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “מקומי / פנים-מדינתי”?",
+      "question": "איזו מילה באנגלית פירושה \"נִתַּן בְּמַתָּנָה\"?",
       "options": [
-        "fundamental",
-        "agenda",
-        "consultation",
-        "domestic"
+        "seasonal",
+        "rescue",
+        "gifted",
+        "administration"
       ],
-      "correct_answer": "domestic",
-      "explanation_hebrew": "“מקומי / פנים-מדינתי” באנגלית הוא “domestic”."
+      "correct_answer": "gifted",
+      "explanation_hebrew": "המילה באנגלית \"gifted\" פירושה נִתַּן בְּמַתָּנָה."
     },
     {
       "id": "B-q7",
-      "word": "fundamental",
+      "word": "administration",
       "type": "english_to_hebrew",
-      "question": "What does “fundamental” mean?",
+      "question": "What does \"administration\" mean?",
       "options": [
-        "סדר יום / מדיניות",
-        "ניגוד",
-        "יסודי",
-        "היוועצות"
+        "לְהַצִּיל",
+        "בַּר הַשָּׂגָה",
+        "עוֹנָתִי",
+        "כִּנּוּס נְכָסִים"
       ],
-      "correct_answer": "יסודי",
-      "explanation_hebrew": "“fundamental” פירושו יסודי."
+      "correct_answer": "כִּנּוּס נְכָסִים",
+      "explanation_hebrew": "המילה \"administration\" פירושה כִּנּוּס נְכָסִים."
     },
     {
       "id": "B-q8",
-      "word": "agenda",
+      "word": "rescue",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “סדר יום / מדיניות”?",
+      "question": "איזו מילה באנגלית פירושה \"לְהַצִּיל\"?",
       "options": [
-        "agenda",
-        "contrast",
-        "allies",
-        "consultation"
+        "rescue",
+        "affordable",
+        "seasonal",
+        "convenient"
       ],
-      "correct_answer": "agenda",
-      "explanation_hebrew": "“סדר יום / מדיניות” באנגלית הוא “agenda”."
+      "correct_answer": "rescue",
+      "explanation_hebrew": "המילה באנגלית \"rescue\" פירושה לְהַצִּיל."
     },
     {
       "id": "B-q9",
-      "word": "consultation",
+      "word": "seasonal",
       "type": "english_to_hebrew",
-      "question": "What does “consultation” mean?",
+      "question": "What does \"seasonal\" mean?",
       "options": [
-        "הוראות / סעיפים",
-        "בעלי ברית",
-        "היוועצות",
-        "ניגוד"
+        "בַּר הַשָּׂגָה",
+        "עוֹנָתִי",
+        "הֲנָחָה",
+        "נוֹחַ"
       ],
-      "correct_answer": "היוועצות",
-      "explanation_hebrew": "“consultation” פירושו היוועצות."
+      "correct_answer": "עוֹנָתִי",
+      "explanation_hebrew": "המילה \"seasonal\" פירושה עוֹנָתִי."
     },
     {
       "id": "B-q10",
-      "word": "contrast",
+      "word": "affordable",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “ניגוד”?",
+      "question": "איזו מילה באנגלית פירושה \"בַּר הַשָּׂגָה\"?",
       "options": [
-        "allies",
-        "contrast",
-        "provisions",
-        "albeit"
+        "discount",
+        "competition",
+        "affordable",
+        "convenient"
       ],
-      "correct_answer": "contrast",
-      "explanation_hebrew": "“ניגוד” באנגלית הוא “contrast”."
+      "correct_answer": "affordable",
+      "explanation_hebrew": "המילה באנגלית \"affordable\" פירושה בַּר הַשָּׂגָה."
     },
     {
       "id": "B-q11",
-      "word": "allies",
+      "word": "convenient",
       "type": "english_to_hebrew",
-      "question": "What does “allies” mean?",
+      "question": "What does \"convenient\" mean?",
       "options": [
-        "אף על פי ש־ / אם כי",
-        "הוראות / סעיפים",
-        "חירום",
-        "בעלי ברית"
+        "נוֹחַ",
+        "תַּחֲרוּת",
+        "סִמְלִי",
+        "הֲנָחָה"
       ],
-      "correct_answer": "בעלי ברית",
-      "explanation_hebrew": "“allies” פירושו בעלי ברית."
+      "correct_answer": "נוֹחַ",
+      "explanation_hebrew": "המילה \"convenient\" פירושה נוֹחַ."
     },
     {
       "id": "B-q12",
-      "word": "provisions",
+      "word": "discount",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “הוראות / סעיפים”?",
+      "question": "איזו מילה באנגלית פירושה \"הֲנָחָה\"?",
       "options": [
-        "albeit",
-        "emergency",
-        "provisions",
-        "finalised"
+        "competition",
+        "recovery",
+        "discount",
+        "nominal"
       ],
-      "correct_answer": "provisions",
-      "explanation_hebrew": "“הוראות / סעיפים” באנגלית הוא “provisions”."
+      "correct_answer": "discount",
+      "explanation_hebrew": "המילה באנגלית \"discount\" פירושה הֲנָחָה."
     },
     {
       "id": "B-q13",
-      "word": "albeit",
+      "word": "competition",
       "type": "english_to_hebrew",
-      "question": "What does “albeit” mean?",
+      "question": "What does \"competition\" mean?",
       "options": [
-        "הושלם / נסגר סופית",
-        "השפעה",
-        "אף על פי ש־ / אם כי",
-        "חירום"
+        "תַּחֲזִיּוֹת",
+        "סִמְלִי",
+        "הִתְאוֹשְׁשׁוּת",
+        "תַּחֲרוּת"
       ],
-      "correct_answer": "אף על פי ש־ / אם כי",
-      "explanation_hebrew": "“albeit” פירושו אף על פי ש־ / אם כי."
+      "correct_answer": "תַּחֲרוּת",
+      "explanation_hebrew": "המילה \"competition\" פירושה תַּחֲרוּת."
     },
     {
       "id": "B-q14",
-      "word": "emergency",
+      "word": "nominal",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “חירום”?",
+      "question": "איזו מילה באנגלית פירושה \"סִמְלִי\"?",
       "options": [
-        "finalised",
-        "repeal",
-        "emergency",
-        "influence"
+        "forecasts",
+        "nominal",
+        "recovery",
+        "struggle"
       ],
-      "correct_answer": "emergency",
-      "explanation_hebrew": "“חירום” באנגלית הוא “emergency”."
+      "correct_answer": "nominal",
+      "explanation_hebrew": "המילה באנגלית \"nominal\" פירושה סִמְלִי."
     },
     {
       "id": "B-q15",
-      "word": "finalised",
+      "word": "recovery",
       "type": "english_to_hebrew",
-      "question": "What does “finalised” mean?",
+      "question": "What does \"recovery\" mean?",
       "options": [
-        "השפעה",
-        "הפסקת אש / שביתת נשק",
-        "לבטל (חוק)",
-        "הושלם / נסגר סופית"
+        "הִתְאוֹשְׁשׁוּת",
+        "פֵּרֵק",
+        "לְהֵאָבֵק",
+        "תַּחֲזִיּוֹת"
       ],
-      "correct_answer": "הושלם / נסגר סופית",
-      "explanation_hebrew": "“finalised” פירושו הושלם / נסגר סופית."
+      "correct_answer": "הִתְאוֹשְׁשׁוּת",
+      "explanation_hebrew": "המילה \"recovery\" פירושה הִתְאוֹשְׁשׁוּת."
     },
     {
       "id": "B-q16",
-      "word": "influence",
+      "word": "forecasts",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “השפעה”?",
+      "question": "איזו מילה באנגלית פירושה \"תַּחֲזִיּוֹת\"?",
       "options": [
-        "influence",
-        "truce",
-        "repeal",
-        "expire"
+        "dismantled",
+        "forecasts",
+        "circumstances",
+        "struggle"
       ],
-      "correct_answer": "influence",
-      "explanation_hebrew": "“השפעה” באנגלית הוא “influence”."
+      "correct_answer": "forecasts",
+      "explanation_hebrew": "המילה באנגלית \"forecasts\" פירושה תַּחֲזִיּוֹת."
     },
     {
       "id": "B-q17",
-      "word": "repeal",
+      "word": "struggle",
       "type": "english_to_hebrew",
-      "question": "What does “repeal” mean?",
+      "question": "What does \"struggle\" mean?",
       "options": [
-        "הפסקת אש / שביתת נשק",
-        "לבטל (חוק)",
-        "לפוג",
-        "תגובת נגד / נקמה"
+        "נְסִבּוֹת",
+        "אִינְפְלַצְיָה",
+        "פֵּרֵק",
+        "לְהֵאָבֵק"
       ],
-      "correct_answer": "לבטל (חוק)",
-      "explanation_hebrew": "“repeal” פירושו לבטל (חוק)."
+      "correct_answer": "לְהֵאָבֵק",
+      "explanation_hebrew": "המילה \"struggle\" פירושה לְהֵאָבֵק."
     },
     {
       "id": "B-q18",
-      "word": "truce",
+      "word": "dismantled",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “הפסקת אש / שביתת נשק”?",
+      "question": "איזו מילה באנגלית פירושה \"פֵּרֵק\"?",
       "options": [
-        "truce",
-        "expire",
-        "leverage",
-        "retaliation"
+        "inflation",
+        "dismantled",
+        "sustain",
+        "circumstances"
       ],
-      "correct_answer": "truce",
-      "explanation_hebrew": "“הפסקת אש / שביתת נשק” באנגלית הוא “truce”."
+      "correct_answer": "dismantled",
+      "explanation_hebrew": "המילה באנגלית \"dismantled\" פירושה פֵּרֵק."
     },
     {
       "id": "B-q19",
-      "word": "expire",
+      "word": "circumstances",
       "type": "english_to_hebrew",
-      "question": "What does “expire” mean?",
+      "question": "What does \"circumstances\" mean?",
       "options": [
-        "תגובת נגד / נקמה",
-        "לפוג",
-        "נחלש",
-        "מנוף לחץ / יתרון"
+        "מֻזְנָח",
+        "נְסִבּוֹת",
+        "לְקַיֵּם",
+        "אִינְפְלַצְיָה"
       ],
-      "correct_answer": "לפוג",
-      "explanation_hebrew": "“expire” פירושו לפוג."
+      "correct_answer": "נְסִבּוֹת",
+      "explanation_hebrew": "המילה \"circumstances\" פירושה נְסִבּוֹת."
     },
     {
       "id": "B-q20",
-      "word": "retaliation",
+      "word": "inflation",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “תגובת נגד / נקמה”?",
+      "question": "איזו מילה באנגלית פירושה \"אִינְפְלַצְיָה\"?",
       "options": [
-        "veto",
-        "weakened",
-        "retaliation",
-        "leverage"
+        "inflation",
+        "sustain",
+        "evolved",
+        "shabby"
       ],
-      "correct_answer": "retaliation",
-      "explanation_hebrew": "“תגובת נגד / נקמה” באנגלית הוא “retaliation”."
+      "correct_answer": "inflation",
+      "explanation_hebrew": "המילה באנגלית \"inflation\" פירושה אִינְפְלַצְיָה."
     },
     {
       "id": "B-q21",
-      "word": "leverage",
+      "word": "sustain",
       "type": "english_to_hebrew",
-      "question": "What does “leverage” mean?",
+      "question": "What does \"sustain\" mean?",
       "options": [
-        "מנוף לחץ / יתרון",
-        "ביניים / זמני",
-        "וטו / זכות סירוב",
-        "נחלש"
+        "הַרְסָנִי",
+        "מֻזְנָח",
+        "לְקַיֵּם",
+        "הִתְפַּתַּח"
       ],
-      "correct_answer": "מנוף לחץ / יתרון",
-      "explanation_hebrew": "“leverage” פירושו מנוף לחץ / יתרון."
+      "correct_answer": "לְקַיֵּם",
+      "explanation_hebrew": "המילה \"sustain\" פירושה לְקַיֵּם."
     },
     {
       "id": "B-q22",
-      "word": "weakened",
+      "word": "shabby",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “נחלש”?",
+      "question": "איזו מילה באנגלית פירושה \"מֻזְנָח\"?",
       "options": [
-        "weakened",
-        "resilient",
-        "interim",
-        "veto"
+        "tragic",
+        "shabby",
+        "evolved",
+        "devastating"
       ],
-      "correct_answer": "weakened",
-      "explanation_hebrew": "“נחלש” באנגלית הוא “weakened”."
+      "correct_answer": "shabby",
+      "explanation_hebrew": "המילה באנגלית \"shabby\" פירושה מֻזְנָח."
     },
     {
       "id": "B-q23",
-      "word": "veto",
+      "word": "evolved",
       "type": "english_to_hebrew",
-      "question": "What does “veto” mean?",
+      "question": "What does \"evolved\" mean?",
       "options": [
-        "ביניים / זמני",
-        "וטו / זכות סירוב",
-        "תרועה / רעש גדול",
-        "עמיד / חסון"
+        "טְרָגִי",
+        "הַרְסָנִי",
+        "שִׁגְרָה",
+        "הִתְפַּתַּח"
       ],
-      "correct_answer": "וטו / זכות סירוב",
-      "explanation_hebrew": "“veto” פירושו וטו / זכות סירוב."
+      "correct_answer": "הִתְפַּתַּח",
+      "explanation_hebrew": "המילה \"evolved\" פירושה הִתְפַּתַּח."
     },
     {
       "id": "B-q24",
-      "word": "interim",
+      "word": "devastating",
       "type": "hebrew_to_english",
-      "question": "מה הפירוש של “ביניים / זמני”?",
+      "question": "איזו מילה באנגלית פירושה \"הַרְסָנִי\"?",
       "options": [
-        "fanfare",
-        "rhetoric",
-        "interim",
-        "resilient"
+        "devastating",
+        "routine",
+        "tragic",
+        "bargains"
       ],
-      "correct_answer": "interim",
-      "explanation_hebrew": "“ביניים / זמני” באנגלית הוא “interim”."
+      "correct_answer": "devastating",
+      "explanation_hebrew": "המילה באנגלית \"devastating\" פירושה הַרְסָנִי."
     },
     {
       "id": "B-q25",
-      "word": "resilient",
+      "word": "tragic",
       "type": "english_to_hebrew",
-      "question": "What does “resilient” mean?",
+      "question": "What does \"tragic\" mean?",
       "options": [
-        "עמיד / חסון",
-        "זהיר / לא סופי",
-        "תרועה / רעש גדול",
-        "רטוריקה"
+        "טְרָגִי",
+        "מַצִּיג לְרַאֲוָה",
+        "שִׁגְרָה",
+        "מְצִיאוֹת"
       ],
-      "correct_answer": "עמיד / חסון",
-      "explanation_hebrew": "“resilient” פירושו עמיד / חסון."
+      "correct_answer": "טְרָגִי",
+      "explanation_hebrew": "המילה \"tragic\" פירושה טְרָגִי."
     }
   ]
 }
