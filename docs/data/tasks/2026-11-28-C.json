@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-28",
+  "article_id": "C",
+  "article_title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+  "article_url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
+  "article_level": "C",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level C; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "C-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article's main argument?",
+      "difficulty": "C",
+      "options": [
+        "China's tourism industry has stopped growing",
+        "China's economic and political power is making it harder for exiled critics and rights activists to be heard",
+        "Uyghur activists have ended all protests in Europe",
+        "Western governments have imposed new sanctions at every summit"
+      ],
+      "correct_answer": "China's economic and political power is making it harder for exiled critics and rights activists to be heard",
+      "explanation_hebrew": "הטענה המרכזית היא שעוצמתה הכלכלית והמדינית של סין דוחקת לשוליים את קולות המתנגדים ומחלישה את מאבקם."
+    },
+    {
+      "id": "C-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What comparison does Dolkun Isa make between protests in 2018 and today?",
+      "difficulty": "C",
+      "options": [
+        "Crowds grew from 500 to thousands",
+        "The location moved from Germany to Xinjiang",
+        "Protests changed from human rights to tourism",
+        "Thousands once attended, but now activists struggle to gather even 500"
+      ],
+      "correct_answer": "Thousands once attended, but now activists struggle to gather even 500",
+      "explanation_hebrew": "דולקון איסא משווה בין אלפים שהשתתפו בעבר לבין הקושי כיום להביא אפילו 500 מפגינים."
+    },
+    {
+      "id": "C-3",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does the metaphor “swapping the stick for the carrot” suggest about Beijing's tactics?",
+      "difficulty": "C",
+      "options": [
+        "Replacing punishment alone with incentives such as reunions, money and safety",
+        "Ending all contact with overseas communities",
+        "Using agricultural exports to gain influence",
+        "Allowing every exile to return without conditions"
+      ],
+      "correct_answer": "Replacing punishment alone with incentives such as reunions, money and safety",
+      "explanation_hebrew": "המטפורה מתארת מעבר מהפעלת איום בלבד לשימוש בתמריצים שמטרתם להשפיע על גולים ועל המסרים שלהם."
+    },
+    {
+      "id": "C-4",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "How did the Chinese embassy in the UK respond to activists' allegations?",
+      "difficulty": "C",
+      "options": [
+        "It confirmed that every visitor must report on exiles",
+        "It announced an end to family visits",
+        "It declined to discuss consular services",
+        "It rejected spying claims and described family reunions as normal consular work"
+      ],
+      "correct_answer": "It rejected spying claims and described family reunions as normal consular work",
+      "explanation_hebrew": "השגרירות דחתה את טענות הריגול והציגה את סיוע הביקורים המשפחתיים כחלק רגיל משירותים קונסולריים."
+    },
+    {
+      "id": "C-5",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why can selective family visits weaken trust within diaspora communities?",
+      "difficulty": "C",
+      "options": [
+        "They make travel cheaper for everyone",
+        "They may create suspicion that selected visitors are sharing information or promoting official narratives",
+        "They guarantee permanent residence in China",
+        "They prevent activists from using social media abroad"
+      ],
+      "correct_answer": "They may create suspicion that selected visitors are sharing information or promoting official narratives",
+      "explanation_hebrew": "כאשר רק מעטים נבחרים וכמה מהם מתרחקים מפעילים אחרים, נוצרת חשדנות לגבי העברת מידע וקידום נרטיבים רשמיים."
+    },
+    {
+      "id": "C-6",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did Mehmut say about his October 2024 family visit?",
+      "difficulty": "C",
+      "options": [
+        "He was openly arrested at the airport",
+        "He found conversations fearful, cautious and self-censored",
+        "He rebuilt his business immediately",
+        "He was unable to meet any family members"
+      ],
+      "correct_answer": "He found conversations fearful, cautious and self-censored",
+      "explanation_hebrew": "מהמוט תיאר מפגשים שטחיים ושיחות שבהן אנשים חששו ונזהרו בדבריהם, גם בלי פיקוח גלוי."
+    },
+    {
+      "id": "C-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Identify two ways China's global rise has changed the environment in which activists operate.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לזהות שתי השפעות מבוססות: משקל כלכלי ועוצמה רכה שמעצבים מדיניות חוץ, ועלות גבוהה יותר לביקורת, לצד ירידת זכויות האדם בסדר העדיפויות.",
+      "expected_points": [
+        "Chinese products, technology and cultural exports have expanded its economic and soft-power reach.",
+        "Governments weigh economic interests and geopolitical calculations when responding to rights concerns.",
+        "The cost of confronting or condemning Beijing has increased.",
+        "Some Western governments have become more inward-looking and give human rights lower priority."
+      ]
+    },
+    {
+      "id": "C-8",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Explain how family reunions can function both as genuine contact and as a source of pressure, according to the article.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש להציג את שתי הפרספקטיבות: עמדת השגרירות שמדובר בשירות רגיל ואפשרות למפגש, מול טענות הפעילים על תנאים, איסוף מידע, קידום מסרים ופחד למשפחות.",
+      "expected_points": [
+        "The embassy says reunions are normal consular services and that contact with relatives is protected.",
+        "Exiles may gain rare opportunities to see family after years of separation.",
+        "Activists allege that some invitations are tied to requests for information or pro-party messaging.",
+        "Selective eligibility and concern for relatives can encourage silence and self-censorship."
+      ]
+    },
+    {
+      "id": "C-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 4–5 sentences analysing how the article balances claims made by activists with Beijing's response.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לציין שהכתבה מביאה עדויות של פעילים ודוגמאות אישיות, מייחסת להן את הטענות, מציגה את הכחשת השגרירות ואת הסברה לשירותים הקונסולריים, ומותירה לקורא להבחין בין גרסאות.",
+      "expected_points": [
+        "The article attributes allegations about pressure and information-gathering to named activists and interviewees.",
+        "It gives concrete examples, including reported invitations and changes in behaviour after visits.",
+        "It includes the Chinese embassy's denial of spying claims.",
+        "It presents the embassy's description of reunions as normal consular services.",
+        "The contrast distinguishes reported experiences from the official position."
+      ]
+    },
+    {
+      "id": "C-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise in 5–6 sentences how economic power, family ties and changing tactics affect exiled critics of China.",
+      "difficulty": "C",
+      "rubric_hebrew": "יש לשלב את עוצמתה הכלכלית והרכה של סין, ירידת תשומת הלב הבינלאומית, שימוש בביקורי משפחות ותמריצים, החשדנות בתוך הקהילות, תגובת בייג׳ינג וההתמדה של הפעילים.",
+      "expected_points": [
+        "China's economic reach and soft power make foreign governments more cautious about criticism.",
+        "Activists report smaller protests and less international attention than in 2018.",
+        "Some exiles say offers of reunions, money or safety are linked to information or favourable messaging.",
+        "Selective visits and fear for relatives can produce silence, self-censorship and distrust.",
+        "Beijing rejects spying allegations and calls reunions normal consular work.",
+        "Despite pressure, activists such as Karma Rinchen say their communities must remain persistent."
+      ]
+    }
+  ]
+}

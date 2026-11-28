@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-28",
+  "article_id": "A",
+  "article_title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+  "article_url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo",
+  "article_level": "A",
+  "profile_version_used": "2026-07-29T06:55:43.337284+00:00",
+  "adaptation_summary": "Adapted for level A; emphasis on article-specific comprehension, vocabulary in context, and concise written responses.",
+  "tasks": [
+    {
+      "id": "A-1",
+      "category": "main_idea",
+      "type": "multiple_choice",
+      "prompt": "What is the article mainly about?",
+      "difficulty": "A",
+      "options": [
+        "A capsized diesel tanker being stabilised and towed to Cartagena",
+        "A new ferry service opening between Ibiza and Barcelona",
+        "A plan to expand oil drilling near Valencia",
+        "A cargo ship completing a routine journey to Algeciras"
+      ],
+      "correct_answer": "A capsized diesel tanker being stabilised and towed to Cartagena",
+      "explanation_hebrew": "הכתבה עוסקת במכלית דיזל שהתהפכה ליד איביזה ובמבצע לגרירתה לקרטחנה תוך בדיקת סכנת הזיהום."
+    },
+    {
+      "id": "A-2",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "Why was Cartagena chosen as the destination for the tanker?",
+      "difficulty": "A",
+      "options": [
+        "It is the nearest port to Ibiza",
+        "It is the tanker's registered home port",
+        "It is the only port meeting the technical needs for cargo extraction and repairs",
+        "It has no environmental protection rules"
+      ],
+      "correct_answer": "It is the only port meeting the technical needs for cargo extraction and repairs",
+      "explanation_hebrew": "משרד התחבורה הספרדי אמר שקרטחנה היא הנמל היחיד שעומד בדרישות הטכניות לריקון המטען ולתיקונים."
+    },
+    {
+      "id": "A-3",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What happened to the 17 crew members?",
+      "difficulty": "A",
+      "options": [
+        "All were rescued; the chief engineer later died in hospital",
+        "Six remained missing at sea",
+        "All returned to work on the tanker",
+        "The entire crew reached Cartagena without injuries"
+      ],
+      "correct_answer": "All were rescued; the chief engineer later died in hospital",
+      "explanation_hebrew": "כל 17 אנשי הצוות חולצו, אך המהנדס הראשי מת מאוחר יותר בבית החולים ושישה טופלו בפציעות קלות."
+    },
+    {
+      "id": "A-4",
+      "category": "vocabulary_context",
+      "type": "multiple_choice",
+      "prompt": "What does “partially submerged” mean in the article?",
+      "difficulty": "A",
+      "options": [
+        "Completely repaired in port",
+        "Travelling below normal speed",
+        "Floating with no part in the water",
+        "Under the water only in part"
+      ],
+      "correct_answer": "Under the water only in part",
+      "explanation_hebrew": "הביטוי partially submerged פירושו שרק חלק מן כלי השיט נמצא מתחת למים, ולא שהוא שקע לחלוטין."
+    },
+    {
+      "id": "A-5",
+      "category": "factual_details",
+      "type": "multiple_choice",
+      "prompt": "What did inspectors find about the ship's fuel tanks?",
+      "difficulty": "A",
+      "options": [
+        "They had released all 7,000 tonnes of diesel",
+        "They were intact",
+        "They had been removed before the accident",
+        "They contained heavy fuel oil from the Prestige"
+      ],
+      "correct_answer": "They were intact",
+      "explanation_hebrew": "הבדיקה הראתה שמכלי הדלק של האונייה שלמים, ולכן החשש מדליפה גדולה פחת."
+    },
+    {
+      "id": "A-6",
+      "category": "inference",
+      "type": "multiple_choice",
+      "prompt": "Why does the article mention Ibiza's Posidonia oceanica seagrass?",
+      "difficulty": "A",
+      "options": [
+        "To explain why local fuel is expensive",
+        "To show where the crew planned to sail",
+        "To show why a spill could threaten an important marine ecosystem",
+        "To describe the material used to repair the tanker"
+      ],
+      "correct_answer": "To show why a spill could threaten an important marine ecosystem",
+      "explanation_hebrew": "אזכור עשב הים מדגיש את הרגישות הסביבתית של האזור ואת הנזק האפשרי שדליפה הייתה עלולה לגרום."
+    },
+    {
+      "id": "A-7",
+      "category": "factual_details",
+      "type": "short_answer",
+      "prompt": "Describe the sequence from the distress call to the tanker capsizing.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לציין את קריאת המצוקה ביום רביעי בלילה, הדיווח על דליפה ועל נטייה של 90 מעלות, וההתהפכות בשעות המוקדמות של יום חמישי.",
+      "expected_points": [
+        "Rescuers in Valencia received a distress call late on Wednesday.",
+        "Minutes later the vessel reported a leak.",
+        "The crew said the tanker was leaning at a 90-degree angle.",
+        "It capsized early on Thursday."
+      ]
+    },
+    {
+      "id": "A-8",
+      "category": "summary",
+      "type": "short_answer",
+      "prompt": "Give two pieces of evidence that the immediate pollution risk appeared to be under control.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להביא שתי ראיות מן הכתבה, כגון שלמות מכלי הדלק, היעלמות הכתם הקטן והערכת הרשויות שהמצב התייצב.",
+      "expected_points": [
+        "Inspectors found the fuel tanks intact.",
+        "Prime Minister Sánchez said the available information suggested no leak was occurring.",
+        "A small slick around the vessel disappeared.",
+        "A maritime official said the situation was stabilised."
+      ]
+    },
+    {
+      "id": "A-9",
+      "category": "written_expression",
+      "type": "written_response",
+      "prompt": "Write 3–4 sentences explaining why towing the Med Emre is a challenging operation.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש להסביר שהמכלית הפוכה ושקועה חלקית, נושאת עד 7,000 טון דיזל, נמצאת הרחק מן החוף, ויש למנוע זיהום תוך גרירה וריקון בטוח של המטען.",
+      "expected_points": [
+        "The tanker is capsized and partially submerged.",
+        "It carries up to 7,000 tonnes of diesel.",
+        "It must be moved from offshore waters to Cartagena without causing a spill.",
+        "Cargo extraction and repairs require specialised port facilities."
+      ]
+    },
+    {
+      "id": "A-10",
+      "category": "main_idea",
+      "type": "summary",
+      "prompt": "Summarise the accident, response and environmental concern in 4–5 sentences.",
+      "difficulty": "A",
+      "rubric_hebrew": "יש לכלול את מקום ההתהפכות, מצב הצוות, ממצאי הבדיקה, יעד הגרירה והחשיבות הסביבתית של אזור איביזה.",
+      "expected_points": [
+        "The Med Emre capsized near Ibiza while travelling from Algeciras to Barcelona.",
+        "All 17 crew members were rescued, but the chief engineer later died.",
+        "The fuel tanks were found intact and no major spill was confirmed.",
+        "Authorities plan to tow the vessel to Cartagena for extraction and repairs.",
+        "Pollution monitoring matters because Ibiza has a protected and biodiverse marine environment."
+      ]
+    }
+  ]
+}
